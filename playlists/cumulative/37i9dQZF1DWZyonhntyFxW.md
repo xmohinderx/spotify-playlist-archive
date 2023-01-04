@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎<br/> ! غلاف: فليكس
 
-133 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
+134 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Feeha La Khfeeha](https://open.spotify.com/track/5IadhJSL2h9WKI6ChfTTgj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Feeha La Khfeeha](https://open.spotify.com/album/3bIEOYEgi9eKH6mXNosRsg) | 3:09 | 2022-05-10 | 2022-08-24 |
 | [Fish Wa2t](https://open.spotify.com/track/5CARpixYK1xzYkfTl1cvOJ) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Fish Wa2t](https://open.spotify.com/album/5dI5JMzymMU1ZAbXT12hOn) | 2:36 | 2022-08-23 | 2022-10-11 |
 | [Freedom Music: Scene Cypher 2](https://open.spotify.com/track/2WGsTI0dM1DsHsi3y1svgp) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [Lil Baba](https://open.spotify.com/artist/16m87d8FV11gipfSu03k0Y) | [Freedom Music: Scene Cypher 2](https://open.spotify.com/album/0IpOZAQTWlE2pn9sw2LiVb) | 5:08 | 2022-05-10 | 2022-05-18 |
+| [Freedom Music: Scene Cypher 3](https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Tommy](https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Freedom Music: Scene Cypher 3](https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7) | 4:04 | 2023-01-03 |  |
 | [Freestyle](https://open.spotify.com/track/28I6S4VxP42TMjgMYszHu7) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Freestyle](https://open.spotify.com/album/33Z8BT35ZwgYBRREcKiwCg) | 2:29 | 2022-12-22 |  |
 | [Freska](https://open.spotify.com/track/4FhQTFKjtl4wAxmN8Mw5Mr) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Freska](https://open.spotify.com/album/3VZtMMJcdfXYwMtonjM534) | 2:12 | 2022-12-22 |  |
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:38 | 2022-10-25 |  |
@@ -70,7 +71,7 @@
 | [Mareed](https://open.spotify.com/track/0y7wbWzryoiE8df3a0n25S) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Mareed](https://open.spotify.com/album/2tAimubevzvKSylQiwm6Om) | 3:36 | 2022-06-20 | 2022-07-29 |
 | [MAREED](https://open.spotify.com/track/2Mv3lhZmdcCFjSWpMKf70i) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:36 | 2022-07-30 | 2022-08-24 |
 | [MAREED](https://open.spotify.com/track/7oNfKLvHUu7tIe5AUIlhrL) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 3:36 | 2022-07-28 | 2022-07-31 |
-| [Matgreesh](https://open.spotify.com/track/3RKzFNbYS8iiBGJCrfbVbb) | [VLI WEEZY](https://open.spotify.com/artist/3Iw5H9JOZLZR2Hk8viWF4i), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [Matgreesh](https://open.spotify.com/album/0ChMqRWMDlD6RVyl1EOguu) | 3:24 | 2022-05-10 |  |
+| [Matgreesh](https://open.spotify.com/track/3RKzFNbYS8iiBGJCrfbVbb) | [VLI WEEZY](https://open.spotify.com/artist/3Iw5H9JOZLZR2Hk8viWF4i), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [Matgreesh](https://open.spotify.com/album/0ChMqRWMDlD6RVyl1EOguu) | 3:24 | 2022-05-10 | 2023-01-04 |
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-05-10 | 2022-09-28 |
 | [MAWAWEL](https://open.spotify.com/track/4pHTYFhKIdmDWHBi9oliWv) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAWAWEL](https://open.spotify.com/album/2UKKXEuzmNF6RW0ZfOq1rN) | 2:53 | 2022-12-29 |  |
 | [Men El Akher](https://open.spotify.com/track/2qzHA1TrDl6EhnaCZpM2yx) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Men El Akher](https://open.spotify.com/album/41jloKy8Li6pfkwSrLxZ0r) | 4:21 | 2022-12-30 |  |

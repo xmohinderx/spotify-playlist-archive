@@ -5075,6 +5075,24 @@
     {
       "album": {
         "name": "Di Antara Cinta",
+        "url": "https://open.spotify.com/album/7CDsPOdZIbEbPuwpUBczY5"
+      },
+      "artists": [
+        {
+          "name": "Aidil Saputra",
+          "url": "https://open.spotify.com/artist/3kaVaY8A7Qe48YCkJuZZXd"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Di Antara Cinta",
+      "url": "https://open.spotify.com/track/0xmTWJOjGRbtPa5gmgZcLp"
+    },
+    {
+      "album": {
+        "name": "Di Antara Cinta",
         "url": "https://open.spotify.com/album/3omp2LDIfA3JK9r67mnxy6"
       },
       "artists": [
@@ -5085,7 +5103,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 232000,
       "name": "Di Antara Cinta",
       "url": "https://open.spotify.com/track/3TWHzDiLfO4pU6tZklMhQ6"

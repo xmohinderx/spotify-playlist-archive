@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 138419,
+  "num_followers": 138632,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEyMDE0MywwMDAwMDAwMDI4NTEwN2UzMDMzMTFhY2I2MWQ3NDA4Y2RhMTMyMTY3",
+  "snapshot_id": "MTY3MTEyMDE0MywwMDAwMDAwMGUxOGRmZmVhNmQ2YTE4ZGZiN2MwMTYzZTAyYjZmZDc3",
   "tracks": [
     {
       "added_at": "2022-12-15 16:02:23",
@@ -399,22 +399,22 @@
     {
       "added_at": "2022-12-15 16:02:23",
       "album": {
-        "name": "everything sucks (feat. Eric Nam)",
-        "url": "https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI"
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
       "artists": [
         {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
         },
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 119744,
-      "name": "everything sucks (feat. Eric Nam)",
-      "url": "https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56"
+      "duration_ms": 167661,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
     },
     {
       "added_at": "2022-12-15 16:02:23",
@@ -435,22 +435,22 @@
     {
       "added_at": "2022-12-15 16:02:23",
       "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
+        "name": "everything sucks (feat. Eric Nam)",
+        "url": "https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI"
       },
       "artists": [
         {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
         },
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 167661,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
+      "duration_ms": 119744,
+      "name": "everything sucks (feat. Eric Nam)",
+      "url": "https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56"
     },
     {
       "added_at": "2022-12-15 16:02:23",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2022-12-15 16:02:23",
       "album": {
-        "name": "Give Me Your Forever",
-        "url": "https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        },
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Give Me Your Forever (ft. Billkin)",
-      "url": "https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1"
-    },
-    {
-      "added_at": "2022-12-15 16:02:23",
-      "album": {
         "name": "Two Bottles of Wine",
         "url": "https://open.spotify.com/album/4JlWr9FBZx00tINFKzxixh"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 206330,
       "name": "Two Bottles of Wine",
       "url": "https://open.spotify.com/track/3cqTlp6msJpd6iaGrp3UTs"
+    },
+    {
+      "added_at": "2022-12-15 16:02:23",
+      "album": {
+        "name": "Give Me Your Forever",
+        "url": "https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Give Me Your Forever (ft. Billkin)",
+      "url": "https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1"
     },
     {
       "added_at": "2022-12-15 16:02:23",

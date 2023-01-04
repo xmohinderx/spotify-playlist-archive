@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6W1YbI0Nbnc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6W1YbI0Nbnc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6W1YbI0Nbnc)
 
-### [Best of EQUAL: HK 2022](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
+### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 總結2021\-2022年度EQUAL入選歌手！\(cover: CHANKA\)
+> 結集香港EQUAL女聲力量！\(cover: Anna hisbbuR\)
 
-220 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/3fyf9kJjwMb77gM8igxXJz)
+222 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/3fyf9kJjwMb77gM8igxXJz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [My Dear, Best Friend \(電影《喜歡妳是妳》主題曲\)](https://open.spotify.com/track/4s8bxtk4eKTilYs0IbfztA) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [My Dear, Best Friend \(電影《喜歡妳是妳》主題曲\)](https://open.spotify.com/album/1PRYfE5EGQ5g8Gf21wZoT2) | 4:14 | 2021-12-07 | 2022-01-05 |
 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 | 2022-04-05 |  |
 | [Neverland](https://open.spotify.com/track/7pO9B12E4T2E77osXssCm5) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [Neverland](https://open.spotify.com/album/3Nnur1VDPCFr1sh6JoyTEa) | 3:36 | 2022-01-04 | 2022-03-08 |
+| [Now You See Me](https://open.spotify.com/track/3heiV6V4Hyb3KPlC30Zazj) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 2:54 | 2023-01-03 |  |
 | [OFF/ON](https://open.spotify.com/track/1k4epQqpbGkyIm3O6bRALu) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [OFF/ON](https://open.spotify.com/album/2rbid0M6p0FaDplPh5ey6P) | 3:28 | 2022-08-02 |  |
 | [on the right track](https://open.spotify.com/track/6usIo4k5JfrPvIhau9nN2p) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHY AM I HERE](https://open.spotify.com/album/6DknG0hh3OZf7QTQCA8Ms2) | 2:53 | 2022-03-07 | 2022-08-03 |
 | [Psycho](https://open.spotify.com/track/2eQAOUcjGKoLrCHQkFekAI) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 2:51 | 2021-12-07 | 2022-01-05 |
@@ -87,6 +88,7 @@
 | [你好嗎](https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [你好嗎](https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI) | 5:33 | 2022-01-04 | 2022-03-08 |
 | [你是你本身的傳奇](https://open.spotify.com/track/5uMkdWf1H6JEcpcdnPOSZM) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [404 Not Found](https://open.spotify.com/album/4xl2rRkillqFASqckMIjLy) | 3:48 | 2022-05-03 | 2022-12-01 |
 | [修養動物](https://open.spotify.com/track/3gEclAuA5BZASJXkqubeJP) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [修養動物](https://open.spotify.com/album/74P05iBehlh9oJaiL2kgh2) | 4:11 | 2022-01-04 | 2022-12-01 |
+| [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 | 2023-01-03 |  |
 | [傻瓜機](https://open.spotify.com/track/23LQXqdTK8DhJVhWttUiw7) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [傻瓜機](https://open.spotify.com/album/7bzVRrsAmXcBTR89pULxDL) | 3:57 | 2022-01-04 | 2022-03-08 |
 | [先哭為敬](https://open.spotify.com/track/7oVLiGq3yyLnGzlKvhgd3t) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 4:10 | 2022-02-02 |  |
 | [先哭為敬](https://open.spotify.com/track/4QgsL3BOO0VvMAFhh2nZVU) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [先哭為敬](https://open.spotify.com/album/0gFvFiJYdnFH8zACLXmImt) | 4:10 | 2021-12-07 | 2022-01-05 |

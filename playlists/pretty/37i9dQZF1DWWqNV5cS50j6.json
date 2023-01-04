@@ -1,12 +1,12 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 683481,
+  "num_followers": 683741,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1NzQ0NiwwMDAwMDAwMDE1OTg2OGZjOTNmOWRlZTE3ZDAwOWM1YmI0MDlkMWU3",
+  "snapshot_id": "MTY3Mjc1NzEwNCwwMDAwMDAwMGE0ZmQwOGNjNzU5MzFmMWJiZGFhZmRmNjlhYzU1NGUy",
   "tracks": [
     {
       "added_at": "2022-11-30 19:41:15",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "Don't give me problems, give me wine",
+        "url": "https://open.spotify.com/album/0zdCctCFiHeLyZ4mzV7aY8"
+      },
+      "artists": [
+        {
+          "name": "BabyJake",
+          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
+        }
+      ],
+      "duration_ms": 147893,
+      "name": "Head In The Clouds",
+      "url": "https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "VIVID",
         "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 193120,
       "name": "VIVID",
       "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Don't give me problems, give me wine",
-        "url": "https://open.spotify.com/album/0zdCctCFiHeLyZ4mzV7aY8"
-      },
-      "artists": [
-        {
-          "name": "BabyJake",
-          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
-        }
-      ],
-      "duration_ms": 147893,
-      "name": "Head In The Clouds",
-      "url": "https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "You Can\u2019t Kill Me",
-        "url": "https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 201004,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb"
-    },
-    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
@@ -579,6 +563,22 @@
       "duration_ms": 144484,
       "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
       "url": "https://open.spotify.com/track/2cVowt9WTucunkRTYzPosl"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "You Can\u2019t Kill Me",
+        "url": "https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 201004,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Eye Tell (!)",
         "url": "https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 130692,
       "name": "Eye Tell (!)",
       "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "fall at the same time",
-        "url": "https://open.spotify.com/album/7aNtdBuIYUy6vEg1KymPkp"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "fall at the same time",
-      "url": "https://open.spotify.com/track/15sMBXkb4XHIKPxFLHvDAn"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "IDC",
         "url": "https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 112666,
       "name": "IDC",
       "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "fall at the same time",
+        "url": "https://open.spotify.com/album/7aNtdBuIYUy6vEg1KymPkp"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "fall at the same time",
+      "url": "https://open.spotify.com/track/15sMBXkb4XHIKPxFLHvDAn"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU"
+      },
+      "artists": [
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        }
+      ],
+      "duration_ms": 226833,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "About A Boy",
         "url": "https://open.spotify.com/album/2Pz55SWZIQb3Y7uUbgPzVc"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 179060,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU"
-      },
-      "artists": [
-        {
-          "name": "SAIAH",
-          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
-        }
-      ],
-      "duration_ms": 226833,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "boythots",
-        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 137844,
-      "name": "boythots",
-      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
-    },
-    {
       "added_at": "2022-12-14 20:26:31",
       "album": {
         "name": "Extrovert",
@@ -1439,6 +1423,22 @@
       "duration_ms": 186856,
       "name": "Extrovert",
       "url": "https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "boythots",
+        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 137844,
+      "name": "boythots",
+      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Break!",
-        "url": "https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Thick of the Honey",
-      "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Griffith Park",
         "url": "https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel"
       },
@@ -1655,6 +1639,38 @@
       "duration_ms": 201733,
       "name": "Griffith Park",
       "url": "https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "rave",
+        "url": "https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 170310,
+      "name": "ihy",
+      "url": "https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Thick of the Honey",
+      "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1675,22 +1691,6 @@
       "duration_ms": 174193,
       "name": "overpaid (feat. Tom The Mail Man)",
       "url": "https://open.spotify.com/track/2LVeGtvlH8VwDJTP8EHeek"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "rave",
-        "url": "https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 170310,
-      "name": "ihy",
-      "url": "https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt"
     },
     {
       "added_at": "2022-11-30 19:41:15",

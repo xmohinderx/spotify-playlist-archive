@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 3254,
+  "num_followers": 3282,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMGZiOWZjODQwZGM3YjczOWMzZWVmZTc3ZmFlYjdmMTY4",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMGRkZDcxMjEyNmY2ODRhMDQzYWE2YjUyMmMyZTdjY2Ji",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "4 Your Eyez Only",
         "url": "https://open.spotify.com/album/3MNP6yEmCAFruLe7pAGKCu"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 170560,
       "name": "You Raised Me",
       "url": "https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 267384,
-      "name": "THE NEWS",
-      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
     }
   ],
   "unique_name": "Damson Idris' Taste",

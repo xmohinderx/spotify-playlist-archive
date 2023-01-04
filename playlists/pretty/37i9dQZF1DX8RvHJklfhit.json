@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics.",
-  "num_followers": 136626,
+  "num_followers": 136788,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk3NzgyMSwwMDAwMDAwMDc5OGFiMTU0NWZmYTVhODZmMWEwNmQyNDM4NjlkZjBl",
+  "snapshot_id": "MTY3MDk3NzgyMSwwMDAwMDAwMGNmNGNmYzNjYWMxNGZjYjU5YzRmZWQ5MGFmZjM0NDM4",
   "tracks": [
     {
       "added_at": "2022-12-14 00:30:21",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
-        "name": "Nefertiti",
-        "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
-      },
-      "artists": [
-        {
-          "name": "Protistas",
-          "url": "https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "En Mis Genes",
-      "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
         "name": "#ponteelcasco",
         "url": "https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 252889,
       "name": "Toca Madera",
       "url": "https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
+        "name": "Nefertiti",
+        "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
+      },
+      "artists": [
+        {
+          "name": "Protistas",
+          "url": "https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "En Mis Genes",
+      "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
     },
     {
       "added_at": "2022-12-14 00:30:21",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
-        "name": "Dama Fina",
-        "url": "https://open.spotify.com/album/3qchjVtMothiEHOultIDTb"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e1n",
-          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
-        }
-      ],
-      "duration_ms": 256668,
-      "name": "Dama Fina",
-      "url": "https://open.spotify.com/track/5UQ1ZR19u2moiUdAhsQqCz"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
         "name": "Fumar, beber y romper",
         "url": "https://open.spotify.com/album/3ekLLKNOGHzmykral1CHYO"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 170033,
       "name": "Fumar, beber y romper",
       "url": "https://open.spotify.com/track/3H01uYpXsFi3N1L4w5DP2Y"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
+        "name": "Dama Fina",
+        "url": "https://open.spotify.com/album/3qchjVtMothiEHOultIDTb"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e1n",
+          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
+        }
+      ],
+      "duration_ms": 256668,
+      "name": "Dama Fina",
+      "url": "https://open.spotify.com/track/5UQ1ZR19u2moiUdAhsQqCz"
     },
     {
       "added_at": "2022-12-14 00:30:21",

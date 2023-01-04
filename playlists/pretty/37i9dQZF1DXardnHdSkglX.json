@@ -1,15 +1,31 @@
 {
   "description": "Some of the world's biggest pop hits in bossa nova versions.",
-  "num_followers": 635157,
+  "num_followers": 635296,
   "original_name": "Bossa Nova Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYxMTczOCwwMDAwMDAwMGZkNDYyM2U2NTFjMzZkNTRmYzUyNjQ3ZjMwNWFjODc2",
+  "snapshot_id": "MTY3Mjc1ODMyNiwwMDAwMDAwMDk4OGJjYTQwYjE1YmU2MjEzNWI1OTQyNzBhNGRiNmQx",
   "tracks": [
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Get Lucky",
+        "url": "https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ"
+      },
+      "artists": [
+        {
+          "name": "Bossanova Tribute",
+          "url": "https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic"
+        }
+      ],
+      "duration_ms": 231983,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Standing Outside in the Rain",
         "url": "https://open.spotify.com/album/7nnDMT5mu5FjjKpKjzRKFF"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/6MmUiXsyqAehKtQrTOp9JH"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Drivers License (Bossa Nova)",
         "url": "https://open.spotify.com/album/4sG6ndx69BwxgqkKHaF1JQ"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/3CcGoFaDVUnbaZ4TeDEe4n"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "The Sunny Side EP",
         "url": "https://open.spotify.com/album/5noduZglxV0U46fHzxUlUY"
@@ -61,27 +77,7 @@
       "url": "https://open.spotify.com/track/4Vor8YELTcUw7lBtsnQX2s"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Rolling in the Deep",
-        "url": "https://open.spotify.com/album/0su4Qa3PP2oT9xaVp42XqZ"
-      },
-      "artists": [
-        {
-          "name": "Bossa Nova Covers",
-          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
-        },
-        {
-          "name": "Mats & My",
-          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
-        }
-      ],
-      "duration_ms": 223889,
-      "name": "Rolling in the Deep",
-      "url": "https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Gods Plan (Bossa Nova remix)",
         "url": "https://open.spotify.com/album/0TXhiGGE1UWrYuggDgGssh"
@@ -97,7 +93,7 @@
       "url": "https://open.spotify.com/track/0ZFBzRwxmeqnh3IdaZS6rn"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Thank You Next - Bossa Nova",
         "url": "https://open.spotify.com/album/4cpGMTeSx4MyAbDgfW51ih"
@@ -113,7 +109,7 @@
       "url": "https://open.spotify.com/track/0oDaCDJSz9K878vbIOmQsT"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/58jnBLSB88oRJDKMt2ijKc"
@@ -133,7 +129,7 @@
       "url": "https://open.spotify.com/track/0WYE5MQtaUkcmSlT1QiLAj"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Wicked Game (Bossa Nova Version)",
         "url": "https://open.spotify.com/album/6YbT952JxSplB2O1e7keyG"
@@ -153,23 +149,7 @@
       "url": "https://open.spotify.com/track/3kYKtUPRQd4ZO9A3UhmxAX"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Hazard",
-        "url": "https://open.spotify.com/album/0bFwIcFExIJ1JEMcMDA0wD"
-      },
-      "artists": [
-        {
-          "name": "Calore Amore",
-          "url": "https://open.spotify.com/artist/404FUFalLSmGrSm81VXc6W"
-        }
-      ],
-      "duration_ms": 276791,
-      "name": "Hazard",
-      "url": "https://open.spotify.com/track/0h62LobkzlOtaLekngojE9"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Last Friday Night (T.G.I.F.)",
         "url": "https://open.spotify.com/album/3Qo98M0DzmiLHY90dSHyvT"
@@ -193,39 +173,23 @@
       "url": "https://open.spotify.com/track/6auWMxgWWn4BYFyYwTq4ih"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1OjnaY1fTZP2MiXzTnlLxL"
+        "name": "Hazard",
+        "url": "https://open.spotify.com/album/0bFwIcFExIJ1JEMcMDA0wD"
       },
       "artists": [
         {
-          "name": "Bossa Players",
-          "url": "https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm"
+          "name": "Calore Amore",
+          "url": "https://open.spotify.com/artist/404FUFalLSmGrSm81VXc6W"
         }
       ],
-      "duration_ms": 216276,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/5q0SV5avxVZkET73G2Neq9"
+      "duration_ms": 276791,
+      "name": "Hazard",
+      "url": "https://open.spotify.com/track/0h62LobkzlOtaLekngojE9"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Relaxing Bossa Lounge 3",
-        "url": "https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o"
-      },
-      "artists": [
-        {
-          "name": "Marcela Mangabeira",
-          "url": "https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "You Give Me Something (Bossa Version)",
-      "url": "https://open.spotify.com/track/4H39zVSTrnXomaInIgfpDY"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Caminhos Cruzados",
         "url": "https://open.spotify.com/album/19pmYlgZ2tfT3PFrEAilsH"
@@ -245,27 +209,27 @@
       "url": "https://open.spotify.com/track/6hJ3NAOT0bcyVc71mxIwzH"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/1BACEpzKmOR7zTgBHnt4dS"
+        "name": "Rolling in the Deep",
+        "url": "https://open.spotify.com/album/0su4Qa3PP2oT9xaVp42XqZ"
       },
       "artists": [
         {
-          "name": "Luiz Mura",
-          "url": "https://open.spotify.com/artist/5RlK0YqgWYpYSkLLNR9O6g"
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
         },
         {
-          "name": "Gustav Lundgren",
-          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
         }
       ],
-      "duration_ms": 140478,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/0e0yu5W79DVahOtpju6PBk"
+      "duration_ms": 223889,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Bossa Nova Covers",
         "url": "https://open.spotify.com/album/4WWtF9vuBBzIcIITcynYNY"
@@ -285,7 +249,23 @@
       "url": "https://open.spotify.com/track/5PYR8kczV8VG6H3V6hlu5N"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1OjnaY1fTZP2MiXzTnlLxL"
+      },
+      "artists": [
+        {
+          "name": "Bossa Players",
+          "url": "https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm"
+        }
+      ],
+      "duration_ms": 216276,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5q0SV5avxVZkET73G2Neq9"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Somebody That I Used to Know",
         "url": "https://open.spotify.com/album/0AFEHFVPWyRLCgA7EXZRCM"
@@ -301,55 +281,7 @@
       "url": "https://open.spotify.com/track/56uNXSNJzOeP9cWGO2gWcx"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Save Your Tears",
-        "url": "https://open.spotify.com/album/2Afpovj7wzwnAErebVqmoq"
-      },
-      "artists": [
-        {
-          "name": "Ouvindo",
-          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
-        }
-      ],
-      "duration_ms": 224250,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/17g9sjydTmFOni0nIJlPZ8"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
-      },
-      "artists": [
-        {
-          "name": "Ouvindo",
-          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
-        }
-      ],
-      "duration_ms": 217935,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/1DFeMODZUwUquZmxICwWWJ"
-      },
-      "artists": [
-        {
-          "name": "Sweet Nicks",
-          "url": "https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq"
-        }
-      ],
-      "duration_ms": 293623,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/1rCiE8OQy3KbBBYjwVk5xN"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Soft Lounge Favorites",
         "url": "https://open.spotify.com/album/3FX1HqExDaUMaUfG2KsjLK"
@@ -369,7 +301,7 @@
       "url": "https://open.spotify.com/track/5Eg6sYvA3b3tv5RKG11pAi"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Angel, Won't You Call Me",
         "url": "https://open.spotify.com/album/2JIG5AP8msXqmGskJ6qHQD"
@@ -385,7 +317,75 @@
       "url": "https://open.spotify.com/track/1j8J1KmPM6qsFnyOBNomZw"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/2Afpovj7wzwnAErebVqmoq"
+      },
+      "artists": [
+        {
+          "name": "Ouvindo",
+          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
+        }
+      ],
+      "duration_ms": 224250,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/17g9sjydTmFOni0nIJlPZ8"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
+      },
+      "artists": [
+        {
+          "name": "Ouvindo",
+          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
+        }
+      ],
+      "duration_ms": 217935,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/1BACEpzKmOR7zTgBHnt4dS"
+      },
+      "artists": [
+        {
+          "name": "Luiz Mura",
+          "url": "https://open.spotify.com/artist/5RlK0YqgWYpYSkLLNR9O6g"
+        },
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        }
+      ],
+      "duration_ms": 140478,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/0e0yu5W79DVahOtpju6PBk"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/1DFeMODZUwUquZmxICwWWJ"
+      },
+      "artists": [
+        {
+          "name": "Sweet Nicks",
+          "url": "https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq"
+        }
+      ],
+      "duration_ms": 293623,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/1rCiE8OQy3KbBBYjwVk5xN"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Girls Like You",
         "url": "https://open.spotify.com/album/1LnVYXf8KSGZOKOtjnKMdl"
@@ -401,23 +401,7 @@
       "url": "https://open.spotify.com/track/269KxTQgkQuL9m5BQDESZn"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Get Lucky",
-        "url": "https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ"
-      },
-      "artists": [
-        {
-          "name": "Bossanova Tribute",
-          "url": "https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic"
-        }
-      ],
-      "duration_ms": 231983,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "O Samba \u00e9 Meu Dom",
         "url": "https://open.spotify.com/album/3uC7h8E2fgHMiksDQCerNv"
@@ -433,27 +417,23 @@
       "url": "https://open.spotify.com/track/1xvF5QCzObDTJi1jDqK9y0"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "...Baby One More Time",
-        "url": "https://open.spotify.com/album/7MVixOUcXMligJ3hzV54NX"
+        "name": "Relaxing Bossa Lounge 3",
+        "url": "https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o"
       },
       "artists": [
         {
-          "name": "Bossa Bros",
-          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
-        },
-        {
-          "name": "Nara",
-          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
+          "name": "Marcela Mangabeira",
+          "url": "https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg"
         }
       ],
-      "duration_ms": 240100,
-      "name": "...Baby One More Time",
-      "url": "https://open.spotify.com/track/2FRE98uVfGhdD2gePcTbEV"
+      "duration_ms": 202173,
+      "name": "You Give Me Something (Bossa Version)",
+      "url": "https://open.spotify.com/track/4H39zVSTrnXomaInIgfpDY"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Cool Kids",
         "url": "https://open.spotify.com/album/0sy65ji8nJDfZOAfBzluDE"
@@ -469,7 +449,7 @@
       "url": "https://open.spotify.com/track/2jyfbS6X9OmOHFXYdowj2V"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6bzKHErUwnKYXMooyayCEL"
@@ -485,7 +465,7 @@
       "url": "https://open.spotify.com/track/6BgA2Zhle5ad7H1umgVIEj"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Sunday Best",
         "url": "https://open.spotify.com/album/4K3x2c6Juuuq5nTHR56TYr"
@@ -505,7 +485,7 @@
       "url": "https://open.spotify.com/track/5RrY34g0sNf76ynA3SEarW"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Levitating",
         "url": "https://open.spotify.com/album/1tVDdnR7JmqOOa38mJwOAF"
@@ -521,7 +501,7 @@
       "url": "https://open.spotify.com/track/2c4WIQiQF3lWJH30MTm5EE"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "I Just Can't Stop Loving You",
         "url": "https://open.spotify.com/album/71z9O74KepJ8GRWc24F47F"
@@ -541,7 +521,23 @@
       "url": "https://open.spotify.com/track/5fNnGGaAQeaZghPOlCzRSQ"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Fix you",
+        "url": "https://open.spotify.com/album/0ZQziiIxQzG5uHnuYqO8n0"
+      },
+      "artists": [
+        {
+          "name": "Assun\u00e7\u00e3o Bossa",
+          "url": "https://open.spotify.com/artist/4ix6MOO9gLIwpXR7XbPgr8"
+        }
+      ],
+      "duration_ms": 285203,
+      "name": "Fix you",
+      "url": "https://open.spotify.com/track/5100NokEXg7OfxeW7WUv8K"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Chega de Saudade",
         "url": "https://open.spotify.com/album/26I6RGEYmOUGrIgBfFtv8b"
@@ -561,75 +557,7 @@
       "url": "https://open.spotify.com/track/1cVydAIXdvoppZ4DmplKBN"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Fix you",
-        "url": "https://open.spotify.com/album/0ZQziiIxQzG5uHnuYqO8n0"
-      },
-      "artists": [
-        {
-          "name": "Assun\u00e7\u00e3o Bossa",
-          "url": "https://open.spotify.com/artist/4ix6MOO9gLIwpXR7XbPgr8"
-        }
-      ],
-      "duration_ms": 285203,
-      "name": "Fix you",
-      "url": "https://open.spotify.com/track/5100NokEXg7OfxeW7WUv8K"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Here Comes the Sun",
-        "url": "https://open.spotify.com/album/3oXDBWtwUbumiEvre3Oq2O"
-      },
-      "artists": [
-        {
-          "name": "Bossa Nova Covers",
-          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
-        },
-        {
-          "name": "Mats & My",
-          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/4lGneSloc1ac2MjEx7nBgt"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "A New Beginning",
-        "url": "https://open.spotify.com/album/6z4Kn9cZZW3gqu8DKorKcT"
-      },
-      "artists": [
-        {
-          "name": "Luca Giacco",
-          "url": "https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC"
-        }
-      ],
-      "duration_ms": 120279,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/1FM8XDcxXM6RXwUlRu34jy"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "The Complete Sessions Vol. 1",
-        "url": "https://open.spotify.com/album/1JqZRwdO197VVjSxHOymjG"
-      },
-      "artists": [
-        {
-          "name": "Groove Da Praia",
-          "url": "https://open.spotify.com/artist/0wf8Rn6bjZgEkKp0eV9omw"
-        }
-      ],
-      "duration_ms": 197546,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/4h0Lc2sgVxRa9ICugb5IjA"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/0tzBJeeNocpK4aAJJ8PWu6"
@@ -645,23 +573,23 @@
       "url": "https://open.spotify.com/track/3GDVAt1e7YXnjpLQLO3Uj6"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Relaxing Bossa Lounge",
-        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
+        "name": "A New Beginning",
+        "url": "https://open.spotify.com/album/6z4Kn9cZZW3gqu8DKorKcT"
       },
       "artists": [
         {
-          "name": "Marcela Mangabeira",
-          "url": "https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg"
+          "name": "Luca Giacco",
+          "url": "https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC"
         }
       ],
-      "duration_ms": 246639,
-      "name": "September (Bossa Version)",
-      "url": "https://open.spotify.com/track/686fADYgnMdwtXvRAuxdna"
+      "duration_ms": 120279,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/1FM8XDcxXM6RXwUlRu34jy"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "I Want You Back",
         "url": "https://open.spotify.com/album/0P8ljqJM9BtPPPSfNlDGIp"
@@ -677,23 +605,7 @@
       "url": "https://open.spotify.com/track/4onk2EGodOKcwchRjA7ka4"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "I Gotta Feeling",
-        "url": "https://open.spotify.com/album/4uNbYNWDqQqL8IEn23QkNn"
-      },
-      "artists": [
-        {
-          "name": "Rio Branco",
-          "url": "https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/1yuwQM4hjfcpa45pkFzdDY"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4"
@@ -709,59 +621,39 @@
       "url": "https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Ain't No Sunshine",
-        "url": "https://open.spotify.com/album/1Ad7CT2VSQzEcifgglWrJP"
+        "name": "The Complete Sessions Vol. 1",
+        "url": "https://open.spotify.com/album/1JqZRwdO197VVjSxHOymjG"
       },
       "artists": [
         {
-          "name": "Nara",
-          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
-        },
-        {
-          "name": "Bossa Bros",
-          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+          "name": "Groove Da Praia",
+          "url": "https://open.spotify.com/artist/0wf8Rn6bjZgEkKp0eV9omw"
         }
       ],
-      "duration_ms": 137926,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/70im7N6meAYoKT60tHvpq4"
+      "duration_ms": 197546,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/4h0Lc2sgVxRa9ICugb5IjA"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "I Want to Know What Love Is",
-        "url": "https://open.spotify.com/album/42HYoh1b1JLiUDDvz2wphJ"
+        "name": "I Gotta Feeling",
+        "url": "https://open.spotify.com/album/4uNbYNWDqQqL8IEn23QkNn"
       },
       "artists": [
         {
-          "name": "Ted Leener Band",
-          "url": "https://open.spotify.com/artist/7yfg9roeTeDSdgRsxRneKw"
+          "name": "Rio Branco",
+          "url": "https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D"
         }
       ],
-      "duration_ms": 196234,
-      "name": "I Want to Know What Love Is",
-      "url": "https://open.spotify.com/track/0lnFSqN67wVN3upY1czWwu"
+      "duration_ms": 231500,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/1yuwQM4hjfcpa45pkFzdDY"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Vintage Caf\u00e9 - Lounge & Jazz Blends (Special Selection), Pt. 9",
-        "url": "https://open.spotify.com/album/3bRhpBXLNhVGSjY31jrraJ"
-      },
-      "artists": [
-        {
-          "name": "Scubba",
-          "url": "https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV"
-        }
-      ],
-      "duration_ms": 249692,
-      "name": "Viva La Vida - Bossa Version",
-      "url": "https://open.spotify.com/track/2RHTYieGCulnGxOmyl7tl3"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Speak Low",
         "url": "https://open.spotify.com/album/16Dul3Duiw1AVWeEbSCp6x"
@@ -781,7 +673,7 @@
       "url": "https://open.spotify.com/track/7gq6IBWgm5AMaI5ETrrQcH"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "La\u0301 Vem o Brasil Descendo a Ladeira",
         "url": "https://open.spotify.com/album/1GWeorh1seabsvYkqXE6lD"
@@ -801,7 +693,7 @@
       "url": "https://open.spotify.com/track/6s1ctvxbpVBvazIrdOCO7l"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Ain't No Mountain High Enough",
         "url": "https://open.spotify.com/album/2Z8t4UNYuRhbkMlHGPFJlE"
@@ -817,23 +709,7 @@
       "url": "https://open.spotify.com/track/63FXIXULZiV2y8bMm0iDie"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Don't Start Now (Bossa Nova)",
-        "url": "https://open.spotify.com/album/02jsWzEDvRFwPNy8fvRg9t"
-      },
-      "artists": [
-        {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
-        }
-      ],
-      "duration_ms": 198484,
-      "name": "Don't Start Now - Bossa Nova",
-      "url": "https://open.spotify.com/track/7fKDV269Dp1y3zBNGtnLTo"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Pure Shores (Bossa Nova)",
         "url": "https://open.spotify.com/album/6Ey8qALZTyx9unCo71yEXu"
@@ -849,7 +725,75 @@
       "url": "https://open.spotify.com/track/0ezFSlUTyj7SWQbZxUZXw9"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "I Want to Know What Love Is",
+        "url": "https://open.spotify.com/album/42HYoh1b1JLiUDDvz2wphJ"
+      },
+      "artists": [
+        {
+          "name": "Ted Leener Band",
+          "url": "https://open.spotify.com/artist/7yfg9roeTeDSdgRsxRneKw"
+        }
+      ],
+      "duration_ms": 196234,
+      "name": "I Want to Know What Love Is",
+      "url": "https://open.spotify.com/track/0lnFSqN67wVN3upY1czWwu"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Don't Start Now (Bossa Nova)",
+        "url": "https://open.spotify.com/album/02jsWzEDvRFwPNy8fvRg9t"
+      },
+      "artists": [
+        {
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+        }
+      ],
+      "duration_ms": 198484,
+      "name": "Don't Start Now - Bossa Nova",
+      "url": "https://open.spotify.com/track/7fKDV269Dp1y3zBNGtnLTo"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Vintage Caf\u00e9 - Lounge & Jazz Blends (Special Selection), Pt. 9",
+        "url": "https://open.spotify.com/album/3bRhpBXLNhVGSjY31jrraJ"
+      },
+      "artists": [
+        {
+          "name": "Scubba",
+          "url": "https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV"
+        }
+      ],
+      "duration_ms": 249692,
+      "name": "Viva La Vida - Bossa Version",
+      "url": "https://open.spotify.com/track/2RHTYieGCulnGxOmyl7tl3"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Ain't No Sunshine",
+        "url": "https://open.spotify.com/album/1Ad7CT2VSQzEcifgglWrJP"
+      },
+      "artists": [
+        {
+          "name": "Nara",
+          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
+        },
+        {
+          "name": "Bossa Bros",
+          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+        }
+      ],
+      "duration_ms": 137926,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/70im7N6meAYoKT60tHvpq4"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Sweet Child O' Mine",
         "url": "https://open.spotify.com/album/7k2tdsIiuaQY0fLXiO7V1a"
@@ -869,23 +813,7 @@
       "url": "https://open.spotify.com/track/2DHoF695nEPtbWMiqFeDTy"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Positions (Bossa Version)",
-        "url": "https://open.spotify.com/album/218e30ooDSv9hrL6127O7b"
-      },
-      "artists": [
-        {
-          "name": "Franco Sattamini",
-          "url": "https://open.spotify.com/artist/4QNUm4TIC6WTlHxQzQf9BT"
-        }
-      ],
-      "duration_ms": 230341,
-      "name": "Positions - Bossa Version",
-      "url": "https://open.spotify.com/track/5JOhyEe6iqEdu8zH8ZCxjl"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Boyfriend (Bossa Nova)",
         "url": "https://open.spotify.com/album/6kBAw2nCXHTeZxv6Pu1fgP"
@@ -901,59 +829,43 @@
       "url": "https://open.spotify.com/track/3LzIAzvutNe6RMl3q6ad5F"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Stand by Me",
-        "url": "https://open.spotify.com/album/6VWQ5Fx6Cra41j3zSDBvVE"
+        "name": "Here Comes the Sun",
+        "url": "https://open.spotify.com/album/3oXDBWtwUbumiEvre3Oq2O"
       },
       "artists": [
         {
-          "name": "Sarah Menescal",
-          "url": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
-        }
-      ],
-      "duration_ms": 186425,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/5JagoCyaJWBriQfGdhTAVs"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Best of Bossa Lounge (Millenium Edition)",
-        "url": "https://open.spotify.com/album/1jP8363d7EK6QHKYq8eZhX"
-      },
-      "artists": [
-        {
-          "name": "Nova Jazzers",
-          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
         },
         {
-          "name": "Daniela Maia",
-          "url": "https://open.spotify.com/artist/3ajvG2YMqaRBAO6qOMHnNT"
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/1Rj6CJd8ZFH5oz4SUm0LD5"
+      "duration_ms": 207946,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/4lGneSloc1ac2MjEx7nBgt"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Relaxing Bossa Lounge 5",
-        "url": "https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ"
+        "name": "Positions (Bossa Version)",
+        "url": "https://open.spotify.com/album/218e30ooDSv9hrL6127O7b"
       },
       "artists": [
         {
-          "name": "Marcelo Rezende",
-          "url": "https://open.spotify.com/artist/6m7M8rcbb3UGiXNLo65axU"
+          "name": "Franco Sattamini",
+          "url": "https://open.spotify.com/artist/4QNUm4TIC6WTlHxQzQf9BT"
         }
       ],
-      "duration_ms": 275638,
-      "name": "Mrs. Robinson (Bossa version)",
-      "url": "https://open.spotify.com/track/7l9PKjqqr8QaOUm3sO7wxr"
+      "duration_ms": 230341,
+      "name": "Positions - Bossa Version",
+      "url": "https://open.spotify.com/track/5JOhyEe6iqEdu8zH8ZCxjl"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "If You Leave Me Now",
         "url": "https://open.spotify.com/album/1ImEyP8L5Qc5UzUR5DEgUa"
@@ -969,39 +881,7 @@
       "url": "https://open.spotify.com/track/1uUIoD7HOAN6qh8FKQAvKo"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Relaxing Bossa Nova Cover Hits",
-        "url": "https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO"
-      },
-      "artists": [
-        {
-          "name": "The Bossa Nova All Stars",
-          "url": "https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box"
-        }
-      ],
-      "duration_ms": 227422,
-      "name": "We Found Love (Bossa Nova Style) [Originally Performed By Rihanna and Calvin Harris]",
-      "url": "https://open.spotify.com/track/0YJRmdHf7PJKqBq564BKLW"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Bossa n' Essentials",
-        "url": "https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD"
-      },
-      "artists": [
-        {
-          "name": "Sarah Menescal",
-          "url": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/7J29m3Vq5L3JuwGp8KjFMj"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Beautiful Girls (Bossa Nova)",
         "url": "https://open.spotify.com/album/3sTeLngydHmUMDr1mok0n0"
@@ -1017,55 +897,23 @@
       "url": "https://open.spotify.com/track/3AVxDlk6ZEkqYTFZ4lxGzr"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Relaxing Bossa Lounge 4",
-        "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
+        "name": "Stand by Me",
+        "url": "https://open.spotify.com/album/6VWQ5Fx6Cra41j3zSDBvVE"
       },
       "artists": [
         {
-          "name": "Lua Blanco",
-          "url": "https://open.spotify.com/artist/1shvlaBEDzIJGYhXbMxKJY"
+          "name": "Sarah Menescal",
+          "url": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
         }
       ],
-      "duration_ms": 218105,
-      "name": "Umbrella (Bossa Version)",
-      "url": "https://open.spotify.com/track/1RVjKn6pfJJGgVHx9I5sjw"
+      "duration_ms": 186425,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/5JagoCyaJWBriQfGdhTAVs"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "God Only Knows",
-        "url": "https://open.spotify.com/album/7GjKFcuEOZZaMGJXn7sK81"
-      },
-      "artists": [
-        {
-          "name": "Lilia Tracie",
-          "url": "https://open.spotify.com/artist/14JPzuBcED5VkwQQZTvgbX"
-        }
-      ],
-      "duration_ms": 158638,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/5Gns8npv1HmkQ5BzZzWS9d"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Capital Letters (Bossa Nova)",
-        "url": "https://open.spotify.com/album/6QiMiX7Rtxj0HmPXih3ski"
-      },
-      "artists": [
-        {
-          "name": "Halloran & Kate",
-          "url": "https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ"
-        }
-      ],
-      "duration_ms": 225205,
-      "name": "Capital Letters - Bossa Nova",
-      "url": "https://open.spotify.com/track/1eNJTz948RfGSC2gIPqhbo"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Intentions (Bossa Nova)",
         "url": "https://open.spotify.com/album/5EnZCndm8Jg2XXi1o9WR3P"
@@ -1081,7 +929,39 @@
       "url": "https://open.spotify.com/track/5A1otHjzRV8nNicKYeHD7h"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "God Only Knows",
+        "url": "https://open.spotify.com/album/7GjKFcuEOZZaMGJXn7sK81"
+      },
+      "artists": [
+        {
+          "name": "Lilia Tracie",
+          "url": "https://open.spotify.com/artist/14JPzuBcED5VkwQQZTvgbX"
+        }
+      ],
+      "duration_ms": 158638,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/5Gns8npv1HmkQ5BzZzWS9d"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Capital Letters (Bossa Nova)",
+        "url": "https://open.spotify.com/album/6QiMiX7Rtxj0HmPXih3ski"
+      },
+      "artists": [
+        {
+          "name": "Halloran & Kate",
+          "url": "https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ"
+        }
+      ],
+      "duration_ms": 225205,
+      "name": "Capital Letters - Bossa Nova",
+      "url": "https://open.spotify.com/track/1eNJTz948RfGSC2gIPqhbo"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "I Say a Little Prayer",
         "url": "https://open.spotify.com/album/6ehD10Ec33yCIyWcrO5zbg"
@@ -1097,7 +977,23 @@
       "url": "https://open.spotify.com/track/2egCR3hVFAG6emyUkThwnq"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Bossa Nova Lounge",
+        "url": "https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv"
+      },
+      "artists": [
+        {
+          "name": "The Big Bossa",
+          "url": "https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq"
+        }
+      ],
+      "duration_ms": 227466,
+      "name": "It's a Shame",
+      "url": "https://open.spotify.com/track/5jczKDtwEGoHxmoQkwKeoc"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Cruel Summer",
         "url": "https://open.spotify.com/album/17yiKBHLT2LBbHGMaCxfsY"
@@ -1113,39 +1009,39 @@
       "url": "https://open.spotify.com/track/2lJVlO1UwZdTYRSHQoSpGj"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge",
-        "url": "https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD"
+        "name": "Relaxing Bossa Nova Cover Hits",
+        "url": "https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO"
       },
       "artists": [
         {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "The Bossa Nova All Stars",
+          "url": "https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box"
         }
       ],
-      "duration_ms": 165466,
-      "name": "Rebel Rebel",
-      "url": "https://open.spotify.com/track/5mZYRyOPWVlTtPGWHJCbAL"
+      "duration_ms": 227422,
+      "name": "We Found Love (Bossa Nova Style) [Originally Performed By Rihanna and Calvin Harris]",
+      "url": "https://open.spotify.com/track/0YJRmdHf7PJKqBq564BKLW"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/5a29JELNdty5VN1G0aPZ8t"
+        "name": "Bossa n' Essentials",
+        "url": "https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD"
       },
       "artists": [
         {
-          "name": "Brothers of Bossa",
-          "url": "https://open.spotify.com/artist/1E7h6pUwUffzj0299qgm5y"
+          "name": "Sarah Menescal",
+          "url": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
         }
       ],
-      "duration_ms": 205933,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/3ZjR1gKchO3742A8KRlVtQ"
+      "duration_ms": 152826,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/7J29m3Vq5L3JuwGp8KjFMj"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Mood - Bossa Nova",
         "url": "https://open.spotify.com/album/4Hq7ktIPIDKy9ynNWhqozY"
@@ -1161,7 +1057,39 @@
       "url": "https://open.spotify.com/track/13TDegmsMuGR3MvHQNJPyS"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/5a29JELNdty5VN1G0aPZ8t"
+      },
+      "artists": [
+        {
+          "name": "Brothers of Bossa",
+          "url": "https://open.spotify.com/artist/1E7h6pUwUffzj0299qgm5y"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/3ZjR1gKchO3742A8KRlVtQ"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Relaxing Bossa Lounge 4",
+        "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
+      },
+      "artists": [
+        {
+          "name": "Lua Blanco",
+          "url": "https://open.spotify.com/artist/1shvlaBEDzIJGYhXbMxKJY"
+        }
+      ],
+      "duration_ms": 218105,
+      "name": "Umbrella (Bossa Version)",
+      "url": "https://open.spotify.com/track/1RVjKn6pfJJGgVHx9I5sjw"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "O Nego\u0301cio E\u0301 Amar",
         "url": "https://open.spotify.com/album/5T0ngrl4wkJuMeTwNIH2zl"
@@ -1181,23 +1109,7 @@
       "url": "https://open.spotify.com/track/75GdH53EoZBW6ninKYW9yF"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk"
-      },
-      "artists": [
-        {
-          "name": "Tea Lundgren",
-          "url": "https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc"
-        }
-      ],
-      "duration_ms": 175081,
-      "name": "Toxic - Bossa Nova Version",
-      "url": "https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/0KrngwmfWFAvlwbaWI25Nb"
@@ -1213,7 +1125,7 @@
       "url": "https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2tBLls66FoItnyIBHlAJFE"
@@ -1229,43 +1141,59 @@
       "url": "https://open.spotify.com/track/1xU2zC6bxsIFM2UHyXYqsW"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Bossa Nova Covers",
-        "url": "https://open.spotify.com/album/1WPwzOJRhEbB2DA7ViQoid"
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk"
       },
       "artists": [
         {
-          "name": "Bossa Nova Covers",
-          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+          "name": "Tea Lundgren",
+          "url": "https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Toxic - Bossa Nova Version",
+      "url": "https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Neon Genesis Evangelion (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
         },
         {
-          "name": "Mats & My",
-          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
         }
       ],
-      "duration_ms": 205746,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/2AL63wrF0RLL6qDUMMNAUr"
+      "duration_ms": 230480,
+      "name": "Fly Me To the Moon - Yoko Takahashi Acid Bossa Version",
+      "url": "https://open.spotify.com/track/3ia8uKWZIDLp8hKm18zuNS"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "I'm a Believer",
-        "url": "https://open.spotify.com/album/3F26BIDMg3sjA0FIRyTBw5"
+        "name": "The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge",
+        "url": "https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD"
       },
       "artists": [
         {
-          "name": "Beatriz e Lucas",
-          "url": "https://open.spotify.com/artist/1LxQpviFYCwIWmtrF6ovDF"
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
         }
       ],
-      "duration_ms": 210149,
-      "name": "I'm a Believer",
-      "url": "https://open.spotify.com/track/0yTBvCPbMVxYvvWnpoy8ow"
+      "duration_ms": 165466,
+      "name": "Rebel Rebel",
+      "url": "https://open.spotify.com/track/5mZYRyOPWVlTtPGWHJCbAL"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Peaches",
         "url": "https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr"
@@ -1281,7 +1209,39 @@
       "url": "https://open.spotify.com/track/0nlXkB2jHLgy8q4h8T4Hiv"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Relaxing Bossa Lounge 5",
+        "url": "https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rezende",
+          "url": "https://open.spotify.com/artist/6m7M8rcbb3UGiXNLo65axU"
+        }
+      ],
+      "duration_ms": 275638,
+      "name": "Mrs. Robinson (Bossa version)",
+      "url": "https://open.spotify.com/track/7l9PKjqqr8QaOUm3sO7wxr"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "I'm a Believer",
+        "url": "https://open.spotify.com/album/3F26BIDMg3sjA0FIRyTBw5"
+      },
+      "artists": [
+        {
+          "name": "Beatriz e Lucas",
+          "url": "https://open.spotify.com/artist/1LxQpviFYCwIWmtrF6ovDF"
+        }
+      ],
+      "duration_ms": 210149,
+      "name": "I'm a Believer",
+      "url": "https://open.spotify.com/track/0yTBvCPbMVxYvvWnpoy8ow"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Best of Bossa Lounge (International Version)",
         "url": "https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px"
@@ -1297,7 +1257,27 @@
       "url": "https://open.spotify.com/track/6k0LUyHvtjq9iVYln8FZun"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Best of Bossa Lounge (Millenium Edition)",
+        "url": "https://open.spotify.com/album/1jP8363d7EK6QHKYq8eZhX"
+      },
+      "artists": [
+        {
+          "name": "Nova Jazzers",
+          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+        },
+        {
+          "name": "Daniela Maia",
+          "url": "https://open.spotify.com/artist/3ajvG2YMqaRBAO6qOMHnNT"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/1Rj6CJd8ZFH5oz4SUm0LD5"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Sa\u0301 Marina",
         "url": "https://open.spotify.com/album/6NmDSsaTQLYSxv4E0Ewt77"
@@ -1313,7 +1293,7 @@
       "url": "https://open.spotify.com/track/4as7MF2MShkdnjOqukNB2y"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Acoustic Coffee House",
         "url": "https://open.spotify.com/album/4jrVgcZN7Q3voamIhYi3gb"
@@ -1329,23 +1309,7 @@
       "url": "https://open.spotify.com/track/4zbdRytE8NuhnVQLkSJhOE"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "The Rhythm of the Night (Bossa Nova)",
-        "url": "https://open.spotify.com/album/0w6iLHWXpRE3nDOUZOVzpF"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 192098,
-      "name": "The Rhythm of the Night - Bossa Nova",
-      "url": "https://open.spotify.com/track/7DozSLsVUbTWHupPiyYb3T"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "deja vu - Bossa Nova",
         "url": "https://open.spotify.com/album/7aBYanh7J5fh3ZoKmZoid0"
@@ -1361,7 +1325,7 @@
       "url": "https://open.spotify.com/track/1xKrcdhhlNQXImSFEpi8Vo"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "A New Beginning",
         "url": "https://open.spotify.com/album/6z4Kn9cZZW3gqu8DKorKcT"
@@ -1377,7 +1341,23 @@
       "url": "https://open.spotify.com/track/5CnJxBqumusw9dIbCqZ28B"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Relaxing Bossa Lounge 5",
+        "url": "https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ"
+      },
+      "artists": [
+        {
+          "name": "Rachelle Vanleeuwen",
+          "url": "https://open.spotify.com/artist/376UH2QKNnQcVieekEBFFT"
+        }
+      ],
+      "duration_ms": 170318,
+      "name": "Venus (Bossa version)",
+      "url": "https://open.spotify.com/track/3yu4duizccIy2oiRMVdRUC"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Killing Me Softly With His Song",
         "url": "https://open.spotify.com/album/31WwS1pEqFxCAv0m3clOiM"
@@ -1393,7 +1373,7 @@
       "url": "https://open.spotify.com/track/1gmfA9UeAKWEgS9qQx8OSZ"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Bossanova Dinner",
         "url": "https://open.spotify.com/album/4rLGydRYO4CVBDIEPaGwFf"
@@ -1409,7 +1389,7 @@
       "url": "https://open.spotify.com/track/2g3YrAu9dB8fRkSN61wdon"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Naked Bossa",
         "url": "https://open.spotify.com/album/6G8mBCMLC17Id0xLSNYWcP"
@@ -1429,7 +1409,27 @@
       "url": "https://open.spotify.com/track/10oVGvuMkDEwm21sQ6gt19"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Bossa Nova Covers",
+        "url": "https://open.spotify.com/album/1WPwzOJRhEbB2DA7ViQoid"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/2AL63wrF0RLL6qDUMMNAUr"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Soluc\u0327a\u0303o De Vida",
         "url": "https://open.spotify.com/album/0CoCFA1jv9w7RmEkg5XVFV"
@@ -1445,7 +1445,7 @@
       "url": "https://open.spotify.com/track/5cnwazioBaYWEjzHykF2Om"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Big Girls Don't Cry (Bossanova)",
         "url": "https://open.spotify.com/album/5aEbSlv30UgTywehDuQ2vL"
@@ -1461,7 +1461,39 @@
       "url": "https://open.spotify.com/track/3vetyGs0vfHn5BE8LpsElU"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "The Rhythm of the Night (Bossa Nova)",
+        "url": "https://open.spotify.com/album/0w6iLHWXpRE3nDOUZOVzpF"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 192098,
+      "name": "The Rhythm of the Night - Bossa Nova",
+      "url": "https://open.spotify.com/track/7DozSLsVUbTWHupPiyYb3T"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Relaxing Bossa Lounge",
+        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
+      },
+      "artists": [
+        {
+          "name": "Marcela Mangabeira",
+          "url": "https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg"
+        }
+      ],
+      "duration_ms": 246639,
+      "name": "September (Bossa Version)",
+      "url": "https://open.spotify.com/track/686fADYgnMdwtXvRAuxdna"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Colors of Bossa 5",
         "url": "https://open.spotify.com/album/0BRXwjsOpBpjsHpOfGorPz"
@@ -1477,7 +1509,39 @@
       "url": "https://open.spotify.com/track/76D2rppXQ0UDtKfk9eXLgc"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Dance Monkey (Bossa Nova Remix)",
+        "url": "https://open.spotify.com/album/3qGEwfgSvUD1lV7qWmoy81"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 198803,
+      "name": "Dance Monkey - Bossa Nova Remix",
+      "url": "https://open.spotify.com/track/3xuSelqcHuvS1NWquuSKnh"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Bossa Nova Lounge",
+        "url": "https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv"
+      },
+      "artists": [
+        {
+          "name": "Ensolarada",
+          "url": "https://open.spotify.com/artist/6XMzyCi31KFN2dlSsd25D7"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Slide - Bossanova",
+      "url": "https://open.spotify.com/track/08BnZm0xqnkkEEmKrmYwWk"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Hola (Bossa Nova)",
         "url": "https://open.spotify.com/album/6oCWMRIuZgCEOJbLQNJ9OE"
@@ -1493,7 +1557,23 @@
       "url": "https://open.spotify.com/track/7bdcu6copaVLJamzZmMFQJ"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Burn Rubber on Me (Why You Wanna Hurt Me)",
+        "url": "https://open.spotify.com/album/4Sw1zXyim0qRy7R19FaO1Y"
+      },
+      "artists": [
+        {
+          "name": "Luca Giacco",
+          "url": "https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Burn Rubber on Me (Why You Wanna Hurt Me)",
+      "url": "https://open.spotify.com/track/0TyDl7iD1aj2D78xv4UZ1K"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Voce",
         "url": "https://open.spotify.com/album/2yUfEDdWxAs3oylZnQSdAm"
@@ -1513,23 +1593,7 @@
       "url": "https://open.spotify.com/track/1Dd1vP76i14CB4an8wwWW8"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "How Deep Is Your Love",
-        "url": "https://open.spotify.com/album/1JbaEJKeT7zMKAapMIQAO3"
-      },
-      "artists": [
-        {
-          "name": "Jony Magui",
-          "url": "https://open.spotify.com/artist/4SflbmW0fcONCRo3wc0Kte"
-        }
-      ],
-      "duration_ms": 139162,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/7loCV1ZchsjMzjKqCM5rv2"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Bossa Nova Covers",
         "url": "https://open.spotify.com/album/4WWtF9vuBBzIcIITcynYNY"
@@ -1549,55 +1613,39 @@
       "url": "https://open.spotify.com/track/3cEOZA4s90JCEiShSDHKhG"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Bossa Nova Lounge",
-        "url": "https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv"
+        "name": "Crazy in Love",
+        "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
       },
       "artists": [
         {
-          "name": "Ensolarada",
-          "url": "https://open.spotify.com/artist/6XMzyCi31KFN2dlSsd25D7"
+          "name": "Rio Bossa Trio",
+          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Slide - Bossanova",
-      "url": "https://open.spotify.com/track/08BnZm0xqnkkEEmKrmYwWk"
+      "duration_ms": 218528,
+      "name": "Crazy in Love",
+      "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Dance Monkey (Bossa Nova Remix)",
-        "url": "https://open.spotify.com/album/3qGEwfgSvUD1lV7qWmoy81"
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/1JbaEJKeT7zMKAapMIQAO3"
       },
       "artists": [
         {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+          "name": "Jony Magui",
+          "url": "https://open.spotify.com/artist/4SflbmW0fcONCRo3wc0Kte"
         }
       ],
-      "duration_ms": 198803,
-      "name": "Dance Monkey - Bossa Nova Remix",
-      "url": "https://open.spotify.com/track/3xuSelqcHuvS1NWquuSKnh"
+      "duration_ms": 139162,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/7loCV1ZchsjMzjKqCM5rv2"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Burn Rubber on Me (Why You Wanna Hurt Me)",
-        "url": "https://open.spotify.com/album/4Sw1zXyim0qRy7R19FaO1Y"
-      },
-      "artists": [
-        {
-          "name": "Luca Giacco",
-          "url": "https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Burn Rubber on Me (Why You Wanna Hurt Me)",
-      "url": "https://open.spotify.com/track/0TyDl7iD1aj2D78xv4UZ1K"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Bossa Covers",
         "url": "https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye"
@@ -1617,7 +1665,7 @@
       "url": "https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "I Want It That Way (Bossa Nova)",
         "url": "https://open.spotify.com/album/45NPNH2t9ZnkS5gyIz1NWT"
@@ -1633,23 +1681,7 @@
       "url": "https://open.spotify.com/track/6Yra3zacq7fcy0TD1qtdht"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Karen Souza Essentials",
-        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Do You Really Want To Hurt Me",
-      "url": "https://open.spotify.com/track/0LPoUT1JqblTamBXpKXHtt"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Relaxing Bossa Nova Cover Hits",
         "url": "https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO"
@@ -1665,39 +1697,7 @@
       "url": "https://open.spotify.com/track/7fu2faNjkEZWrHxpBdHJw6"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Crazy in Love",
-        "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
-      },
-      "artists": [
-        {
-          "name": "Rio Bossa Trio",
-          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
-        }
-      ],
-      "duration_ms": 218528,
-      "name": "Crazy in Love",
-      "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Aventura",
-        "url": "https://open.spotify.com/album/7B3thDDVEjdT2VhIyLt03b"
-      },
-      "artists": [
-        {
-          "name": "Rita Passos",
-          "url": "https://open.spotify.com/artist/1o1ogH8YykBhZPGMmXzoeO"
-        }
-      ],
-      "duration_ms": 230385,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/0nz7WW70BXQo99EDZbHKws"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "I Cannot Believe It's True",
         "url": "https://open.spotify.com/album/6Jvh0eEYUMd50V3uI79Oe3"
@@ -1717,23 +1717,7 @@
       "url": "https://open.spotify.com/track/7odoFGdUnYxXhcQSO2dLaN"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 207871,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Chill in Saint Tropez",
         "url": "https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT"
@@ -1749,43 +1733,23 @@
       "url": "https://open.spotify.com/track/0xYbaQtR9Nj1VbkPPIAUII"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Relaxing Bossa Lounge",
-        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
+        "name": "Aventura",
+        "url": "https://open.spotify.com/album/7B3thDDVEjdT2VhIyLt03b"
       },
       "artists": [
         {
-          "name": "Dudu Braga",
-          "url": "https://open.spotify.com/artist/3ZwqQ2XrPNiYRomLoN94n7"
+          "name": "Rita Passos",
+          "url": "https://open.spotify.com/artist/1o1ogH8YykBhZPGMmXzoeO"
         }
       ],
-      "duration_ms": 216145,
-      "name": "You\u00b4re The Sunshine Of My Life (Bossa Version)",
-      "url": "https://open.spotify.com/track/7srEWzdPORw4bj3ymCvm4h"
+      "duration_ms": 230385,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/0nz7WW70BXQo99EDZbHKws"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Cake By The Ocean",
-        "url": "https://open.spotify.com/album/0nbjySxfBgmAR0o8wUNnoI"
-      },
-      "artists": [
-        {
-          "name": "Bossa Nova Covers",
-          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
-        },
-        {
-          "name": "Mats & My",
-          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
-        }
-      ],
-      "duration_ms": 223106,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/5Rr1dkY556PBAKf1c83clx"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Bossa Nova Lounge",
         "url": "https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv"
@@ -1801,23 +1765,39 @@
       "url": "https://open.spotify.com/track/39qMLKmf0lR6RtpWvW4FFS"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Bossa n' Essentials",
-        "url": "https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD"
+        "name": "Karen Souza Essentials",
+        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
       },
       "artists": [
         {
-          "name": "Jamie Lancaster",
-          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 193253,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/6HsPGQVhKRgWlLXt9Z3kkJ"
+      "duration_ms": 222320,
+      "name": "Do You Really Want To Hurt Me",
+      "url": "https://open.spotify.com/track/0LPoUT1JqblTamBXpKXHtt"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 207871,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Bad Guy",
         "url": "https://open.spotify.com/album/75KEw2J5VlubFMIrKNwhec"
@@ -1837,23 +1817,59 @@
       "url": "https://open.spotify.com/track/1TNPHIgn83UN8r0qg8VMwS"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/23lChXT2YeaN8i2WpYhIgo"
+        "name": "Bossa n' Essentials",
+        "url": "https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD"
       },
       "artists": [
         {
-          "name": "NOA NOA",
-          "url": "https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0"
+          "name": "Jamie Lancaster",
+          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
         }
       ],
-      "duration_ms": 352000,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/0S4zmSgNqpRepyCstQBH4F"
+      "duration_ms": 193253,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/6HsPGQVhKRgWlLXt9Z3kkJ"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "...Baby One More Time",
+        "url": "https://open.spotify.com/album/7MVixOUcXMligJ3hzV54NX"
+      },
+      "artists": [
+        {
+          "name": "Bossa Bros",
+          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+        },
+        {
+          "name": "Nara",
+          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
+        }
+      ],
+      "duration_ms": 240100,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/2FRE98uVfGhdD2gePcTbEV"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Relaxing Bossa Lounge",
+        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
+      },
+      "artists": [
+        {
+          "name": "Dudu Braga",
+          "url": "https://open.spotify.com/artist/3ZwqQ2XrPNiYRomLoN94n7"
+        }
+      ],
+      "duration_ms": 216145,
+      "name": "You\u00b4re The Sunshine Of My Life (Bossa Version)",
+      "url": "https://open.spotify.com/track/7srEWzdPORw4bj3ymCvm4h"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "It Ain't Me Babe",
         "url": "https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU"
@@ -1873,23 +1889,7 @@
       "url": "https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Red Red Wine",
-        "url": "https://open.spotify.com/album/1VHn2AQNKkpcdJVFW7CmeZ"
-      },
-      "artists": [
-        {
-          "name": "Summer Cocktail Crew",
-          "url": "https://open.spotify.com/artist/6DwfA6OIgxW3MerQ7rDbES"
-        }
-      ],
-      "duration_ms": 240691,
-      "name": "Red Red Wine",
-      "url": "https://open.spotify.com/track/0kiN9VSYCjUyvKoWA1eq8x"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Whole Again",
         "url": "https://open.spotify.com/album/3Lifjzuc8bU1yBhnAJPVCC"
@@ -1909,23 +1909,7 @@
       "url": "https://open.spotify.com/track/5vQPUsti44KFsm1xOrhKHj"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Bossa Nova Lounge",
-        "url": "https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv"
-      },
-      "artists": [
-        {
-          "name": "Olga Chung",
-          "url": "https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S"
-        }
-      ],
-      "duration_ms": 204418,
-      "name": "Somewhere Over The Rainbow - Bossa Version",
-      "url": "https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Relaxing Bossa Lounge 4",
         "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
@@ -1941,7 +1925,7 @@
       "url": "https://open.spotify.com/track/22YXs3a3c8c6mOqUvi4Z98"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Go Your Own Way",
         "url": "https://open.spotify.com/album/0J44SaeuvNREQ6LDBFuFOa"
@@ -1965,7 +1949,59 @@
       "url": "https://open.spotify.com/track/5UwOc7LbaoGEeemqLwSSTu"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Bossa Nova Lounge",
+        "url": "https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv"
+      },
+      "artists": [
+        {
+          "name": "Olga Chung",
+          "url": "https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S"
+        }
+      ],
+      "duration_ms": 204418,
+      "name": "Somewhere Over The Rainbow - Bossa Version",
+      "url": "https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Red Red Wine",
+        "url": "https://open.spotify.com/album/1VHn2AQNKkpcdJVFW7CmeZ"
+      },
+      "artists": [
+        {
+          "name": "Summer Cocktail Crew",
+          "url": "https://open.spotify.com/artist/6DwfA6OIgxW3MerQ7rDbES"
+        }
+      ],
+      "duration_ms": 240691,
+      "name": "Red Red Wine",
+      "url": "https://open.spotify.com/track/0kiN9VSYCjUyvKoWA1eq8x"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Cake By The Ocean",
+        "url": "https://open.spotify.com/album/0nbjySxfBgmAR0o8wUNnoI"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/5Rr1dkY556PBAKf1c83clx"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Velvet Vault",
         "url": "https://open.spotify.com/album/6UNWzTuMXf32wIZWtKiCvg"
@@ -1981,7 +2017,7 @@
       "url": "https://open.spotify.com/track/3FYkUS445ZbxKwe4wIWFkp"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Relaxing Bossa Lounge 3",
         "url": "https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o"
@@ -1997,23 +2033,7 @@
       "url": "https://open.spotify.com/track/6USGOSD8d9KCbpVsAMDpK6"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Dancing With Tears In My Eyes (Bossa Nova Remix)",
-        "url": "https://open.spotify.com/album/10XzBSx1xOySdki0IKQk1a"
-      },
-      "artists": [
-        {
-          "name": "Blended Colors",
-          "url": "https://open.spotify.com/artist/3Z8VvhRYsd2jzm1KTHeMyM"
-        }
-      ],
-      "duration_ms": 216003,
-      "name": "Dancing With Tears In My Eyes - Bossa Nova Remix",
-      "url": "https://open.spotify.com/track/62dfYSQBwa7XOXkLzpBmf0"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Naked Bossa",
         "url": "https://open.spotify.com/album/6G8mBCMLC17Id0xLSNYWcP"
@@ -2033,7 +2053,7 @@
       "url": "https://open.spotify.com/track/2jz3QOQ5vZ37EeiGwFCiy6"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Dancing In the Moonlight",
         "url": "https://open.spotify.com/album/17rpmPzW0sUNMgMfwMpoXL"
@@ -2053,23 +2073,23 @@
       "url": "https://open.spotify.com/track/42jBmDWtXI0dEhAcGubGvi"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "The Look of Love",
-        "url": "https://open.spotify.com/album/30vVCXct2rsJHLGVVUW9pT"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/23lChXT2YeaN8i2WpYhIgo"
       },
       "artists": [
         {
-          "name": "Lisa \u00d6stergren",
-          "url": "https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q"
+          "name": "NOA NOA",
+          "url": "https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0"
         }
       ],
-      "duration_ms": 141374,
-      "name": "The Look of Love",
-      "url": "https://open.spotify.com/track/4QFWdoVXNASnP4bVOA3K5j"
+      "duration_ms": 352000,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0S4zmSgNqpRepyCstQBH4F"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Desaparecido",
         "url": "https://open.spotify.com/album/06eINx79WI2dm9D78cyn04"
@@ -2085,7 +2105,23 @@
       "url": "https://open.spotify.com/track/4vy4VpbZA0nPd6seQfADhI"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "The Look of Love",
+        "url": "https://open.spotify.com/album/30vVCXct2rsJHLGVVUW9pT"
+      },
+      "artists": [
+        {
+          "name": "Lisa \u00d6stergren",
+          "url": "https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q"
+        }
+      ],
+      "duration_ms": 141374,
+      "name": "The Look of Love",
+      "url": "https://open.spotify.com/track/4QFWdoVXNASnP4bVOA3K5j"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Bossa N' Disco",
         "url": "https://open.spotify.com/album/33wAEyfeK20Z28mDCxxRpK"
@@ -2105,7 +2141,23 @@
       "url": "https://open.spotify.com/track/4VrvrQe8C9QxUVxQoWKHFv"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Relaxing Bossa Lounge 4",
+        "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
+      },
+      "artists": [
+        {
+          "name": "Tahta Menezes",
+          "url": "https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Disturbia (Bossa Version)",
+      "url": "https://open.spotify.com/track/2rc7wIxBvb3dx7CiUTdB2F"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Bossa n' Essentials",
         "url": "https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD"
@@ -2125,23 +2177,23 @@
       "url": "https://open.spotify.com/track/6UWQ9q6gNZC8AQh3otkUFa"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Relaxing Bossa Lounge 4",
-        "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
+        "name": "Dancing With Tears In My Eyes (Bossa Nova Remix)",
+        "url": "https://open.spotify.com/album/10XzBSx1xOySdki0IKQk1a"
       },
       "artists": [
         {
-          "name": "Tahta Menezes",
-          "url": "https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM"
+          "name": "Blended Colors",
+          "url": "https://open.spotify.com/artist/3Z8VvhRYsd2jzm1KTHeMyM"
         }
       ],
-      "duration_ms": 245760,
-      "name": "Disturbia (Bossa Version)",
-      "url": "https://open.spotify.com/track/2rc7wIxBvb3dx7CiUTdB2F"
+      "duration_ms": 216003,
+      "name": "Dancing With Tears In My Eyes - Bossa Nova Remix",
+      "url": "https://open.spotify.com/track/62dfYSQBwa7XOXkLzpBmf0"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Relaxing Bossa Lounge 3",
         "url": "https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o"
@@ -2157,7 +2209,7 @@
       "url": "https://open.spotify.com/track/3KZN0tA4b4BdhiJYQYlprg"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Something Just Like this (Bossa Mix)",
         "url": "https://open.spotify.com/album/0STA8ez0uqV9V3hOrUi0uf"
@@ -2173,7 +2225,39 @@
       "url": "https://open.spotify.com/track/5wqJ934lye7Apsg5LjjbLx"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Relaxing Bossa Lounge 5",
+        "url": "https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ"
+      },
+      "artists": [
+        {
+          "name": "Bruno Camurati",
+          "url": "https://open.spotify.com/artist/5EfKwJn5Hq1F8hoZ8zXl0F"
+        }
+      ],
+      "duration_ms": 222159,
+      "name": "Stand By Me (Bossa version)",
+      "url": "https://open.spotify.com/track/7C7qWqnoMSzm1Dqphcua78"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Relaxing Bossa Lounge 4",
+        "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
+      },
+      "artists": [
+        {
+          "name": "Marcela Mangabeira",
+          "url": "https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "With Or Without You (Bossa Version)",
+      "url": "https://open.spotify.com/track/7yly7CFogmyVG0Q0PBu5cP"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Bossa Nova Covers",
         "url": "https://open.spotify.com/album/1WPwzOJRhEbB2DA7ViQoid"
@@ -2193,55 +2277,7 @@
       "url": "https://open.spotify.com/track/6KjeFfePSDrlvsOb1aXqwy"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Relaxing Bossa Lounge 5",
-        "url": "https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ"
-      },
-      "artists": [
-        {
-          "name": "Bruno Camurati",
-          "url": "https://open.spotify.com/artist/5EfKwJn5Hq1F8hoZ8zXl0F"
-        }
-      ],
-      "duration_ms": 222159,
-      "name": "Stand By Me (Bossa version)",
-      "url": "https://open.spotify.com/track/7C7qWqnoMSzm1Dqphcua78"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Relaxing Bossa Lounge 4",
-        "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
-      },
-      "artists": [
-        {
-          "name": "Marcela Mangabeira",
-          "url": "https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "With Or Without You (Bossa Version)",
-      "url": "https://open.spotify.com/track/7yly7CFogmyVG0Q0PBu5cP"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Relaxing Bossa Nova Cover Hits",
-        "url": "https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO"
-      },
-      "artists": [
-        {
-          "name": "The Bossa Nova All Stars",
-          "url": "https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box"
-        }
-      ],
-      "duration_ms": 228963,
-      "name": "Call Me Maybe (Bossa Nova Version) [Originally Performed By Carly Rae Jepsen]",
-      "url": "https://open.spotify.com/track/52gkD0XbLxHRaIvXGOVkPu"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "More Than a Woman",
         "url": "https://open.spotify.com/album/3kdEJ01bQu7Y3vfsJ4vaEY"
@@ -2257,27 +2293,23 @@
       "url": "https://open.spotify.com/track/1hBqtK4qAms8tUHz0bNzSY"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Bossa N' Disco",
-        "url": "https://open.spotify.com/album/33wAEyfeK20Z28mDCxxRpK"
+        "name": "Relaxing Bossa Nova Cover Hits",
+        "url": "https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO"
       },
       "artists": [
         {
-          "name": "Banda Do Sul",
-          "url": "https://open.spotify.com/artist/1HfyFtXcke6aZDFJlQA2p6"
-        },
-        {
-          "name": "Nastascha",
-          "url": "https://open.spotify.com/artist/1WvoeuMkcQTsrTRu7yk84f"
+          "name": "The Bossa Nova All Stars",
+          "url": "https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box"
         }
       ],
-      "duration_ms": 207320,
-      "name": "Night Fever",
-      "url": "https://open.spotify.com/track/3d5jcWXViAq15tAFYq4jHG"
+      "duration_ms": 228963,
+      "name": "Call Me Maybe (Bossa Nova Version) [Originally Performed By Carly Rae Jepsen]",
+      "url": "https://open.spotify.com/track/52gkD0XbLxHRaIvXGOVkPu"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Bossa Nova Covers",
         "url": "https://open.spotify.com/album/1WPwzOJRhEbB2DA7ViQoid"
@@ -2297,7 +2329,7 @@
       "url": "https://open.spotify.com/track/3GM0jj5lOJzQmN34GcK9Gp"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Relaxing Bossa Lounge 4",
         "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
@@ -2313,7 +2345,7 @@
       "url": "https://open.spotify.com/track/72d2qNpo39PRtwMWS9m2nq"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Relaxing Bossa Lounge 5",
         "url": "https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ"
@@ -2329,79 +2361,27 @@
       "url": "https://open.spotify.com/track/7bQmMuWGlgc6XhsLL0LJ9L"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
-        "name": "Sen\u0303orita",
-        "url": "https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi"
+        "name": "Bossa N' Disco",
+        "url": "https://open.spotify.com/album/33wAEyfeK20Z28mDCxxRpK"
       },
       "artists": [
         {
-          "name": "Leah Sanders",
-          "url": "https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl"
-        }
-      ],
-      "duration_ms": 190444,
-      "name": "Sen\u0303orita",
-      "url": "https://open.spotify.com/track/7oJXhK3Dq8VpiOoRxWxpD0"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Bossa n' Essentials",
-        "url": "https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD"
-      },
-      "artists": [
-        {
-          "name": "Sarah Menescal",
-          "url": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/16FVLMp4wNmVe471RB36He"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Best of Bossa Lounge (International Version)",
-        "url": "https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px"
-      },
-      "artists": [
-        {
-          "name": "Bossanatics",
-          "url": "https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq"
+          "name": "Banda Do Sul",
+          "url": "https://open.spotify.com/artist/1HfyFtXcke6aZDFJlQA2p6"
         },
         {
-          "name": "Ana Costa",
-          "url": "https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3"
+          "name": "Nastascha",
+          "url": "https://open.spotify.com/artist/1WvoeuMkcQTsrTRu7yk84f"
         }
       ],
-      "duration_ms": 260355,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/5prVNiMkpcCPPNXNcWPEeb"
+      "duration_ms": 207320,
+      "name": "Night Fever",
+      "url": "https://open.spotify.com/track/3d5jcWXViAq15tAFYq4jHG"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Best of Bossa Lounge (International Version)",
-        "url": "https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px"
-      },
-      "artists": [
-        {
-          "name": "Costa Azul Quartet",
-          "url": "https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK"
-        },
-        {
-          "name": "Stephenie Coker",
-          "url": "https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi"
-        }
-      ],
-      "duration_ms": 353756,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/4uTeVyCIvptw95iGjb6Jfz"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Relaxing Bossa Lounge 3",
         "url": "https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o"
@@ -2417,47 +2397,7 @@
       "url": "https://open.spotify.com/track/4B5SsTcDjP1Jfa9CFbsOOb"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Bossa Covers",
-        "url": "https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye"
-      },
-      "artists": [
-        {
-          "name": "Nara",
-          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
-        },
-        {
-          "name": "Bossa Bros",
-          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
-        }
-      ],
-      "duration_ms": 214403,
-      "name": "Shape of You",
-      "url": "https://open.spotify.com/track/3FGjZhoaqR83UViLXk4boR"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
-      "album": {
-        "name": "Bossa N' Disco",
-        "url": "https://open.spotify.com/album/33wAEyfeK20Z28mDCxxRpK"
-      },
-      "artists": [
-        {
-          "name": "Amazonics",
-          "url": "https://open.spotify.com/artist/6GB5ciGInIXxCbTrqdgz1W"
-        },
-        {
-          "name": "Mayla Da Viola",
-          "url": "https://open.spotify.com/artist/3GIjlMHdT0MFbIjMb8aUdN"
-        }
-      ],
-      "duration_ms": 205496,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/7roBdSNPAnwycHCv66dwXM"
-    },
-    {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Bossa n' Marley",
         "url": "https://open.spotify.com/album/7IEYnDhRLDixYADs3fSEC0"
@@ -2481,7 +2421,87 @@
       "url": "https://open.spotify.com/track/501YlAetaUihOReeVjAJq1"
     },
     {
-      "added_at": "2022-12-21 08:35:38",
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Best of Bossa Lounge (International Version)",
+        "url": "https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px"
+      },
+      "artists": [
+        {
+          "name": "Costa Azul Quartet",
+          "url": "https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK"
+        },
+        {
+          "name": "Stephenie Coker",
+          "url": "https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi"
+        }
+      ],
+      "duration_ms": 353756,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4uTeVyCIvptw95iGjb6Jfz"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Best of Bossa Lounge (International Version)",
+        "url": "https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px"
+      },
+      "artists": [
+        {
+          "name": "Bossanatics",
+          "url": "https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq"
+        },
+        {
+          "name": "Ana Costa",
+          "url": "https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3"
+        }
+      ],
+      "duration_ms": 260355,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/5prVNiMkpcCPPNXNcWPEeb"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Bossa N' Disco",
+        "url": "https://open.spotify.com/album/33wAEyfeK20Z28mDCxxRpK"
+      },
+      "artists": [
+        {
+          "name": "Amazonics",
+          "url": "https://open.spotify.com/artist/6GB5ciGInIXxCbTrqdgz1W"
+        },
+        {
+          "name": "Mayla Da Viola",
+          "url": "https://open.spotify.com/artist/3GIjlMHdT0MFbIjMb8aUdN"
+        }
+      ],
+      "duration_ms": 205496,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/7roBdSNPAnwycHCv66dwXM"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Bossa Covers",
+        "url": "https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye"
+      },
+      "artists": [
+        {
+          "name": "Nara",
+          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
+        },
+        {
+          "name": "Bossa Bros",
+          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+        }
+      ],
+      "duration_ms": 214403,
+      "name": "Shape of You",
+      "url": "https://open.spotify.com/track/3FGjZhoaqR83UViLXk4boR"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
       "album": {
         "name": "Roxanne",
         "url": "https://open.spotify.com/album/67Sf0jcDkShbIukRh1xCG6"
@@ -2495,6 +2515,38 @@
       "duration_ms": 182785,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/73FGoCU9GtnqpdKmnIcci2"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Bossa n' Essentials",
+        "url": "https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD"
+      },
+      "artists": [
+        {
+          "name": "Sarah Menescal",
+          "url": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/16FVLMp4wNmVe471RB36He"
+    },
+    {
+      "added_at": "2023-01-03 15:05:26",
+      "album": {
+        "name": "Sen\u0303orita",
+        "url": "https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi"
+      },
+      "artists": [
+        {
+          "name": "Leah Sanders",
+          "url": "https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl"
+        }
+      ],
+      "duration_ms": 190444,
+      "name": "Sen\u0303orita",
+      "url": "https://open.spotify.com/track/7oJXhK3Dq8VpiOoRxWxpD0"
     }
   ],
   "unique_name": "Bossa Nova Covers",

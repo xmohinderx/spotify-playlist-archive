@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 26307,
+  "num_followers": 26329,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMDBlMGZhNzMxNzMyMWM4YjcwZDAyMDAxZWYyOGI2NGVk",
+  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMGZkMDViM2FkMWM2OWI0ZWVkNzQ5MzFlYjNlY2Y4MDYz",
   "tracks": [
     {
       "added_at": "2022-10-04 14:45:00",
@@ -831,6 +831,38 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
+        "name": "Welfare / Practice",
+        "url": "https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Liyou",
+          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
+        }
+      ],
+      "duration_ms": 231731,
+      "name": "How to build an automaton",
+      "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "The North Wind",
+        "url": "https://open.spotify.com/album/6JYkxZJniFgYfH7KHmP45r"
+      },
+      "artists": [
+        {
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+        }
+      ],
+      "duration_ms": 251887,
+      "name": "The North Wind",
+      "url": "https://open.spotify.com/track/4uL4uMUVsxPhleIsq0ijx0"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
         "name": "LAYERS",
         "url": "https://open.spotify.com/album/52V08L7diSUAIP9Mt4eXjV"
       },
@@ -851,22 +883,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Welfare / Practice",
-        "url": "https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Liyou",
-          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
-        }
-      ],
-      "duration_ms": 231731,
-      "name": "How to build an automaton",
-      "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "Bassin Bleu",
         "url": "https://open.spotify.com/album/0TFW0oehN6zQKODIhOxpJB"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 359398,
       "name": "Bassin Bleu",
       "url": "https://open.spotify.com/track/42cBpZJdTAZkn1WvflhuEY"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
-        "name": "The North Wind",
-        "url": "https://open.spotify.com/album/6JYkxZJniFgYfH7KHmP45r"
-      },
-      "artists": [
-        {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
-        }
-      ],
-      "duration_ms": 251887,
-      "name": "The North Wind",
-      "url": "https://open.spotify.com/track/4uL4uMUVsxPhleIsq0ijx0"
     },
     {
       "added_at": "2022-10-04 14:45:00",

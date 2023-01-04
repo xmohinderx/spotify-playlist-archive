@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 138008,
+  "num_followers": 138113,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTUzMTkzMCwwMDAwMDAwMDY5NjA0NjI5YjIwNGIzODkwNWIwMzMzNDRkN2YyYzcy",
+  "snapshot_id": "MTY3MTUzMTkzMCwwMDAwMDAwMDEyMzkzZmNjNGUwMGE2OGQyYWVhYzNmNzdkOGYxNWNk",
   "tracks": [
     {
       "added_at": "2022-11-09 11:28:03",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "\u0635\u062d \u0627\u0644\u0646\u0648\u0645",
-        "url": "https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j"
-      },
-      "artists": [
-        {
-          "name": "\u0647\u064a\u0628\u0629",
-          "url": "https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB"
-        },
-        {
-          "name": "Zeid Hamdan",
-          "url": "https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks"
-        }
-      ],
-      "duration_ms": 199636,
-      "name": "Ahwak Hiba",
-      "url": "https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "Wein Rayheen",
         "url": "https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 185164,
       "name": "Wein Rayheen",
       "url": "https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "\u0635\u062d \u0627\u0644\u0646\u0648\u0645",
+        "url": "https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j"
+      },
+      "artists": [
+        {
+          "name": "\u0647\u064a\u0628\u0629",
+          "url": "https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB"
+        },
+        {
+          "name": "Zeid Hamdan",
+          "url": "https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Ahwak Hiba",
+      "url": "https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Ya Zaman",
-        "url": "https://open.spotify.com/album/5xSrFopsZNVGYXaucue8cW"
-      },
-      "artists": [
-        {
-          "name": "Mike Massy",
-          "url": "https://open.spotify.com/artist/4g5NYCLpdbph9wm6QUaFmd"
-        }
-      ],
-      "duration_ms": 257106,
-      "name": "Ya Zaman",
-      "url": "https://open.spotify.com/track/5V9UYttxpcWXeHNyZRaZPV"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "A Sea Between Us",
         "url": "https://open.spotify.com/album/6noo6zD7yYBk2tF9fzWrce"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Law Fina",
-        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
+        "name": "Ya Zaman",
+        "url": "https://open.spotify.com/album/5xSrFopsZNVGYXaucue8cW"
       },
       "artists": [
         {
-          "name": "Mais Harb",
-          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+          "name": "Mike Massy",
+          "url": "https://open.spotify.com/artist/4g5NYCLpdbph9wm6QUaFmd"
         }
       ],
-      "duration_ms": 371890,
-      "name": "Law Fina",
-      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
+      "duration_ms": 257106,
+      "name": "Ya Zaman",
+      "url": "https://open.spotify.com/track/5V9UYttxpcWXeHNyZRaZPV"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -875,6 +859,22 @@
       "duration_ms": 250723,
       "name": "Kefak Anta & Hello (feat. Fairouz)",
       "url": "https://open.spotify.com/track/0Gv0LK9wf1E4YNaO7R8fNw"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Law Fina",
+        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
+      },
+      "artists": [
+        {
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+        }
+      ],
+      "duration_ms": 371890,
+      "name": "Law Fina",
+      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6Ka5WwtprznAbsBEbmmBSs"
-      },
-      "artists": [
-        {
-          "name": "Hamza El Din",
-          "url": "https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Mwashah",
-      "url": "https://open.spotify.com/track/5qmccL1z7kKuKj3S4L9NNr"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 232489,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6Ka5WwtprznAbsBEbmmBSs"
+      },
+      "artists": [
+        {
+          "name": "Hamza El Din",
+          "url": "https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Mwashah",
+      "url": "https://open.spotify.com/track/5qmccL1z7kKuKj3S4L9NNr"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Talfantelak",
-        "url": "https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 232396,
-      "name": "Talfantelak",
-      "url": "https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 199333,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Talfantelak",
+        "url": "https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "duration_ms": 232396,
+      "name": "Talfantelak",
+      "url": "https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "W3od",
-        "url": "https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq"
-      },
-      "artists": [
-        {
-          "name": "MoJaNaD",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "W3od",
-      "url": "https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "Hikayi",
         "url": "https://open.spotify.com/album/2DPOCdXwCUpJSSrJZDfkFD"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 190712,
       "name": "Kil Ma T'illi",
       "url": "https://open.spotify.com/track/08wMCxGLgcE3VXwSSgMzJK"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "W3od",
+        "url": "https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq"
+      },
+      "artists": [
+        {
+          "name": "MoJaNaD",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "W3od",
+      "url": "https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg"
     },
     {
       "added_at": "2022-11-09 11:28:03",

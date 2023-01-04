@@ -740,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Braquages",
+        "url": "https://open.spotify.com/album/0W0T9Tpqc5h82PiBZY27CJ"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "Braquages",
+      "url": "https://open.spotify.com/track/5X4mISo6fLNbc2cn6W38A7"
+    },
+    {
+      "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
       },
@@ -1316,6 +1334,32 @@
     },
     {
       "album": {
+        "name": "Da Solo",
+        "url": "https://open.spotify.com/album/3TNK4YfObvW4VpTdJRCpkV"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        },
+        {
+          "name": "Nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Da Solo",
+      "url": "https://open.spotify.com/track/7FvU0v2HZGnW4Mf4YNCgI3"
+    },
+    {
+      "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
       },
@@ -1391,7 +1435,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 210000,
       "name": "DRILLMOON (feat. thasup)",
       "url": "https://open.spotify.com/track/6Y2Z4GgQaDD31T9HLBtpD2"
@@ -3099,7 +3143,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 213144,
       "name": "OCCHI COLTELLO (feat. Gemitaiz, Giorgio Poi, Lil Kvneki & Massimo Pericolo)",
       "url": "https://open.spotify.com/track/5Y5e87SEZbHZbXyGeCPZV5"
@@ -3241,7 +3285,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 166069,
       "name": "Paura e Soldi",
       "url": "https://open.spotify.com/track/1Gjw5Gy6FIRp1B4tixbt99"
@@ -3445,6 +3489,28 @@
       "duration_ms": 158836,
       "name": "Plaquette",
       "url": "https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny"
+    },
+    {
+      "album": {
+        "name": "TRENCHES BABY",
+        "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "MILES",
+          "url": "https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137910,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/7A4L0gD91GuKOf9rUOeH3U"
     },
     {
       "album": {

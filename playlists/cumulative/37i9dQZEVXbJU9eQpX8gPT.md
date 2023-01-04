@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-913 songs - 2 day 2 hr 49 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+914 songs - 2 day 2 hr 53 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Bladi](https://open.spotify.com/track/464BDESBPIQz152WslUktP) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Again](https://open.spotify.com/album/61SjT7sGzNDKtUEUeucKDF) | 2:33 | 2021-11-06 | 2021-11-09 |
 | [Bled](https://open.spotify.com/track/5Hctn4Zj1xUmAwdY0W5ED6) | [DJ Kayz](https://open.spotify.com/artist/1GQ4ihUi4W36nt5ZKmtMgh), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [En équipe](https://open.spotify.com/album/04uNqT9ip5E5Ib464ZMWFM) | 3:44 | 2021-07-24 | 2021-08-17 |
 | [Bled \(feat\. Moha K\)](https://open.spotify.com/track/6AkipT8R573MOlOowv1l7L) | [DJ Kayz](https://open.spotify.com/artist/1GQ4ihUi4W36nt5ZKmtMgh), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bled \(feat\. Moha K\)](https://open.spotify.com/album/3KVIKj0MbSs8aqj2CCFWWm) | 3:40 | 2021-06-27 | 2021-07-24 |
+| [Blood](https://open.spotify.com/track/5H7Q8TFW1rWURc99JysBiW) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Blood](https://open.spotify.com/album/46Z5x4VAEiqhZyXekglUya) | 4:10 | 2023-01-03 |  |
 | [Blood Sweat & Tears](https://open.spotify.com/track/4lsn7TSeTBVqeBtlZQnQRw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:37 | 2022-03-29 | 2022-03-31 |
 | [Blue & Grey](https://open.spotify.com/track/0n2moJpAEWHwaPYYjkzMDl) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 4:14 | 2021-11-22 | 2021-11-23 |
 | [Blue & Grey](https://open.spotify.com/track/7Ki0hse0IfXEcXUlpyECbJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 4:14 | 2022-06-06 | 2022-06-08 |
@@ -229,7 +230,7 @@
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-27 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-28 | 2021-07-20 |
 | [Dionysus](https://open.spotify.com/track/2Wkm4JBcIV2uSuu4qlbqFN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 4:09 | 2022-02-24 | 2022-02-26 |
-| [Dirou Niyya \(Official Moroccan Fan Chant\)](https://open.spotify.com/track/4wvYOkXe6SHlCkzVPwxQhd) | [torwada](https://open.spotify.com/artist/0jNcgSHVa94YUnrEDleh93) | [Dirou Niyya \(Official Moroccan Fan Chant\)](https://open.spotify.com/album/2aZf9O3wNjARQkmA2lakq3) | 2:57 | 2022-12-29 |  |
+| [Dirou Niyya \(Official Moroccan Fan Chant\)](https://open.spotify.com/track/4wvYOkXe6SHlCkzVPwxQhd) | [torwada](https://open.spotify.com/artist/0jNcgSHVa94YUnrEDleh93) | [Dirou Niyya \(Official Moroccan Fan Chant\)](https://open.spotify.com/album/2aZf9O3wNjARQkmA2lakq3) | 2:57 | 2022-12-29 | 2023-01-04 |
 | [Dis\-ease](https://open.spotify.com/track/0hxeouHqP3qzpTHerA7ha2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:59 | 2022-02-17 | 2022-02-19 |
 | [Dis\-ease](https://open.spotify.com/track/54DmTIv86D3sYdiawjULQ0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:59 | 2021-11-22 | 2021-11-23 |
 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 | 2022-06-03 | 2022-08-27 |

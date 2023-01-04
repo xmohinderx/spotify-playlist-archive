@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-557 songs - 1 day 4 hr 53 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+558 songs - 1 day 4 hr 55 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Adventurous](https://open.spotify.com/track/1Fqwyw77YAzrBVSaJp9kFm) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Adventurous](https://open.spotify.com/album/4HEaT0EG4q2UpZvkyVPm6W) | 2:59 | 2022-04-01 |  |
 | [Again And Again](https://open.spotify.com/track/6FMoSgKLELUD20nhYbLrYm) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Lauterborn](https://open.spotify.com/artist/57Y7Fk9bQvmn0uyVyKAYxA) | [Again And Again](https://open.spotify.com/album/6yRhQ6NNxn8p0eo7WyCBVN) | 2:56 | 2022-05-06 | 2022-07-29 |
 | [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/track/3vbqb78xzvD3CJl7ZeW83c) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/album/3NC0WEl19sJosOSW0812Iw) | 3:06 | 2022-04-01 | 2022-04-21 |
-| [Alive](https://open.spotify.com/track/4eZiBjSsbi4ObiL8s5rzP7) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Will Rumens](https://open.spotify.com/artist/5TfjEnaDv8EQY3ZHdFhi10), [James Goodwin](https://open.spotify.com/artist/7mwW4BNynO3Apo4zOaX6NE) | [Alive](https://open.spotify.com/album/50iBssHKHKsQNrvQ5t434t) | 2:37 | 2022-01-14 |  |
+| [Alive](https://open.spotify.com/track/4eZiBjSsbi4ObiL8s5rzP7) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Will Rumens](https://open.spotify.com/artist/5TfjEnaDv8EQY3ZHdFhi10), [James Goodwin](https://open.spotify.com/artist/7mwW4BNynO3Apo4zOaX6NE) | [Alive](https://open.spotify.com/album/50iBssHKHKsQNrvQ5t434t) | 2:37 | 2022-01-14 | 2023-01-04 |
 | [All I Wanna Do](https://open.spotify.com/track/0BiGd2FNDQ0eh79ZHfp6tS) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [All I Wanna Do](https://open.spotify.com/album/5iTIgNz59Z4j1wtX0I29z8) | 3:14 | 2022-04-01 | 2022-04-21 |
 | [All or Nothing \(feat\. Axel Ehnström\) \- Sultan + Shepard Remix](https://open.spotify.com/track/52DNTZvyZREUZC6dEjq3J6) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [All Or Nothing \(feat\. Axel Ehnström\) \[Remixes Part 2\]](https://open.spotify.com/album/5hYQG9MTBpC3SRpTpJoC36) | 3:35 | 2022-01-14 | 2022-07-29 |
 | [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 | 2022-04-01 |  |
@@ -170,6 +170,7 @@
 | [Give Me Your Summer](https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP) | [Color Codes](https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L) | [Give Me Your Summer](https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS) | 2:50 | 2022-04-01 | 2022-07-28 |
 | [Glowing State](https://open.spotify.com/track/3mHAqQWWO4BWRME0sSFzEj) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Always Me](https://open.spotify.com/album/5PENGIvIfC8JOAgxmdtS6p) | 4:49 | 2022-04-01 | 2022-07-29 |
 | [Go There With You](https://open.spotify.com/track/3wiW6zoK6kMxwr0FgdGDHw) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [Mecdoux](https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q) | [Go There With You](https://open.spotify.com/album/4dCjZpw7sKRFT99qhQd563) | 3:16 | 2022-06-03 |  |
+| [Gold](https://open.spotify.com/track/52xRalpJsWgk2AprDKvR6g) | [Leviro](https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl) | [Gold](https://open.spotify.com/album/1ZDWXDisS7Qnl6YbNKzdGz) | 2:24 | 2023-01-04 |  |
 | [Gonna Love Ya](https://open.spotify.com/track/4MCU3lOwRiapFjE9kxiW0f) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Gonna Love Ya](https://open.spotify.com/album/5GMy8VTyvntUIsi5Fp5jXE) | 3:35 | 2022-02-18 | 2022-04-02 |
 | [Gonna Need Ya](https://open.spotify.com/track/1icgSRga7q37rC4eftEQG3) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Tyron Dixon](https://open.spotify.com/artist/37QVcCngKZe0gZxD8b7zgJ), [Rachelle Jenkens](https://open.spotify.com/artist/33hQWzFmVnYt5eAbSf61Kw) | [Gonna Need Ya](https://open.spotify.com/album/2BwqUHvTGXvDaQK9awOt9B) | 2:58 | 2022-06-10 |  |
 | [Good Enough](https://open.spotify.com/track/6tPYz05avJHydJ4gv8JAmn) | [Marcus James](https://open.spotify.com/artist/3VEzgR55OpqT9SyPeOwrQ4), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Good Enough](https://open.spotify.com/album/0WIwvSVJ7kcFOsrjuzd2Lr) | 2:39 | 2022-07-08 | 2022-07-22 |

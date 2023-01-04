@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Mula en portada.
 
-200 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+201 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Corazon en Asteroides](https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt), [Victoria Reed](https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG) | [Corazon en Asteroides](https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw) | 3:58 | 2021-10-05 |  |
 | [Corazón Usado](https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Isabel Aladro](https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607) | [Corazón Usado](https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz) | 3:52 | 2022-09-30 |  |
 | [Couldn't Seal The Deal](https://open.spotify.com/track/4GZ61USOfH8M2EsWBdKzg1) | [Rudy De Anda](https://open.spotify.com/artist/4zAauwbGLs7vAEzfJEklGF), [BARDO](https://open.spotify.com/artist/2uHVCKIwvudS4Y9q6noXV7) | [Couldn't Seal The Deal](https://open.spotify.com/album/1Psb2TklWrfVmnfbqTnHj5) | 3:34 | 2021-10-05 | 2022-08-14 |
+| [Cucu](https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Cucu](https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc) | 1:52 | 2023-01-03 |  |
 | [Cumbia Peninsula](https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [El Mirador](https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV) | 3:57 | 2022-04-09 |  |
 | [De los Límites](https://open.spotify.com/track/0v3lS1moJvRrPHrULPTWNf) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [De los Límites](https://open.spotify.com/album/6BUxm0c0dlEDnY6yQ5uW3W) | 4:13 | 2022-02-18 | 2022-10-01 |
 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 | 2021-10-05 |  |

@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-590 songs - 1 day 8 hr 53 min - [published](https://open.spotify.com/playlist/0nUjsH768x0umnQTjqeac9)
+591 songs - 1 day 8 hr 56 min - [published](https://open.spotify.com/playlist/0nUjsH768x0umnQTjqeac9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-12-07 |  |
 | [Last Hope](https://open.spotify.com/track/0vrbIBeWT2knGYgkKyJJ9D) | [LAYBRICKS](https://open.spotify.com/artist/39BxPIVyvmpwNFfyMQS41u) | [Paradise](https://open.spotify.com/album/655I4UTlYsOOr0StbIU36j) | 3:54 | 2022-03-24 | 2022-04-20 |
 | [LAST PIECE](https://open.spotify.com/track/6xrjIHbm6ga5J8HhOS2Rmn) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H) | 3:42 | 2022-01-03 | 2022-04-01 |
-| [Last Sequence](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Sequence](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) | 3:07 | 2022-08-12 |  |
+| [Last Sequence](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Sequence](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) | 3:07 | 2022-08-12 | 2023-01-04 |
 | [Leave Me Alone \(Feat\. Kingo Hamada\) \(Monthly Project 2020 July Yoon Jong Shin\)](https://open.spotify.com/track/6hhyOAMZc32ZZH4KKS5ZIT) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [Leave Me Alone \(Feat\. Kingo Hamada\) \(Monthly Project 2020 July Yoon Jong Shin\)](https://open.spotify.com/album/3Ufmq1QAEYPZXbnkGTFXHa) | 5:11 | 2022-03-24 | 2022-04-03 |
 | [Lemon \(feat\. Colde\)](https://open.spotify.com/track/0YxrpGXvAX6RsvdwRky6qN) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:22 | 2022-03-24 | 2022-04-21 |
 | [Let iT Go](https://open.spotify.com/track/4iXdQQtTXb6yUMbDv7950e) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:54 | 2021-12-07 | 2022-05-18 |
@@ -395,6 +395,7 @@
 | [OBVIOUS \(Feat\. Simon Dominic\)](https://open.spotify.com/track/53cftCivN9iRTfXOEbRmvI) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:26 | 2022-03-24 | 2022-04-13 |
 | [Oh my god](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 | 2022-08-12 |  |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-07-09 |
+| [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-01-03 |  |
 | [ON](https://open.spotify.com/track/2QyuXBcV1LJ2rq01KhreMF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) | 4:06 | 2021-12-07 | 2022-07-11 |
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-12-07 |  |
 | [One \(Monster & Infinity\)](https://open.spotify.com/track/5b841RC6QkaHVh4tS3lQ3n) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [One \(Monster & Infinity\)](https://open.spotify.com/album/5wU4xXNezMOiVhBZDx5cSM) | 3:41 | 2022-03-24 | 2022-04-09 |

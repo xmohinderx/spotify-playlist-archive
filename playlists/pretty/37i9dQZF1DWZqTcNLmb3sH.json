@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vedha",
-  "num_followers": 44884,
+  "num_followers": 44931,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI5NDYwNiwwMDAwMDAwMGY1Nzk0Y2M2Yzk2ZTA2ODQxNDUwYzhiZTBlNjUzODY4",
+  "snapshot_id": "MTY3MjI5NDYwNiwwMDAwMDAwMDBiYzY1NTljMzY2NTFhNmQwZGNmN2RkNmRiYzE5YmIy",
   "tracks": [
     {
       "added_at": "2022-12-11 14:28:49",
@@ -227,14 +227,10 @@
     {
       "added_at": "2022-12-27 05:37:22",
       "album": {
-        "name": "Rangaada Ragale (From \"Once Upon A Time In Jamaaligudda\")",
-        "url": "https://open.spotify.com/album/4eM4jnU46TcRdzyfONVPOE"
+        "name": "Rangaada Ragale (From \"Once Upon a Time in Jamaaligudda\") - Single",
+        "url": "https://open.spotify.com/album/2SAqVcWOGQ76VD2JcEz4s7"
       },
       "artists": [
-        {
-          "name": "J. Anoop Seelin",
-          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
-        },
         {
           "name": "Vijay Prakash",
           "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
@@ -242,11 +238,19 @@
         {
           "name": "Harshika Devanathan",
           "url": "https://open.spotify.com/artist/7BE4DofqukmR1I2CH7sTl3"
+        },
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
         }
       ],
       "duration_ms": 261305,
-      "name": "Rangaada Ragale",
-      "url": "https://open.spotify.com/track/225t3bc1FUxlIib8GlI7P1"
+      "name": "Rangaada Ragale (From \"Once Upon A Time In Jamaaligudda\")",
+      "url": "https://open.spotify.com/track/7CBnHKCOQlMRIBn3LlF9VO"
     },
     {
       "added_at": "2022-12-18 13:34:15",

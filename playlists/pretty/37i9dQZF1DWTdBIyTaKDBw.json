@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 39221,
+  "num_followers": 39286,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjA0Njg1OCwwMDAwMDAwMDhmYWFlZTcyOGY0YTJkMDljZjRmMWEzNjk5Mzc4NmMy",
+  "snapshot_id": "MTY3MjA0Njg1OCwwMDAwMDAwMDNkYzc1YzBjMzY4ODI1M2JhY2QyMGZhZmQzYTUyMGQw",
   "tracks": [
     {
       "added_at": "2022-12-26 09:27:38",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-12-26 09:27:38",
       "album": {
-        "name": "gr8",
-        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 158468,
-      "name": "gr8",
-      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
-    },
-    {
-      "added_at": "2022-12-26 09:27:38",
-      "album": {
         "name": "Lyricist",
         "url": "https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT"
       },
@@ -271,18 +255,18 @@
     {
       "added_at": "2022-12-26 09:27:38",
       "album": {
-        "name": "Thought Of You",
-        "url": "https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13"
+        "name": "gr8",
+        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
       },
       "artists": [
         {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
         }
       ],
-      "duration_ms": 230333,
-      "name": "Thought Of You",
-      "url": "https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0"
+      "duration_ms": 158468,
+      "name": "gr8",
+      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
     },
     {
       "added_at": "2022-12-26 09:27:38",
@@ -299,6 +283,22 @@
       "duration_ms": 215353,
       "name": "vacation",
       "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
+    },
+    {
+      "added_at": "2022-12-26 09:27:38",
+      "album": {
+        "name": "Thought Of You",
+        "url": "https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Thought Of You",
+      "url": "https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0"
     },
     {
       "added_at": "2022-12-26 09:27:38",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-12-26 09:27:38",
       "album": {
-        "name": "INNER CHILD",
-        "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Sipping My life (Bonus Track)",
-      "url": "https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk"
-    },
-    {
-      "added_at": "2022-12-26 09:27:38",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 219813,
       "name": "Autumn Breeze",
       "url": "https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC"
+    },
+    {
+      "added_at": "2022-12-26 09:27:38",
+      "album": {
+        "name": "INNER CHILD",
+        "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Sipping My life (Bonus Track)",
+      "url": "https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk"
     },
     {
       "added_at": "2022-12-26 09:27:38",
@@ -559,26 +559,6 @@
     {
       "added_at": "2022-12-26 09:27:38",
       "album": {
-        "name": "cozy christmas",
-        "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
-      },
-      "artists": [
-        {
-          "name": "lofi",
-          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
-        },
-        {
-          "name": "Eily",
-          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
-        }
-      ],
-      "duration_ms": 123666,
-      "name": "Today and other days (Feat. Eily)",
-      "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
-    },
-    {
-      "added_at": "2022-12-26 09:27:38",
-      "album": {
         "name": "Tailor",
         "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
       },
@@ -599,18 +579,22 @@
     {
       "added_at": "2022-12-26 09:27:38",
       "album": {
-        "name": "Seoul Check-in OST Part 6",
-        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
+        "name": "cozy christmas",
+        "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
+        },
+        {
+          "name": "Eily",
+          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
         }
       ],
-      "duration_ms": 191208,
-      "name": "Check-In",
-      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
+      "duration_ms": 123666,
+      "name": "Today and other days (Feat. Eily)",
+      "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
     },
     {
       "added_at": "2022-12-26 09:27:38",
@@ -627,6 +611,22 @@
       "duration_ms": 297706,
       "name": "Fairy Of Shampoo",
       "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
+    },
+    {
+      "added_at": "2022-12-26 09:27:38",
+      "album": {
+        "name": "Seoul Check-in OST Part 6",
+        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 191208,
+      "name": "Check-In",
+      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
     },
     {
       "added_at": "2022-12-26 09:27:38",
@@ -735,6 +735,26 @@
     {
       "added_at": "2022-12-26 09:27:38",
       "album": {
+        "name": "Salt Rain (Prod. By Alfie Hole)",
+        "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
+      },
+      "artists": [
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        },
+        {
+          "name": "Keumbee",
+          "url": "https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm"
+        }
+      ],
+      "duration_ms": 217774,
+      "name": "Waters of March",
+      "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
+    },
+    {
+      "added_at": "2022-12-26 09:27:38",
+      "album": {
         "name": "\uc774\ub978 \uaca8\uc6b8",
         "url": "https://open.spotify.com/album/5rR1JjdxLhu5AagkC7u1Tu"
       },
@@ -759,26 +779,6 @@
     {
       "added_at": "2022-12-26 09:27:38",
       "album": {
-        "name": "Salt Rain (Prod. By Alfie Hole)",
-        "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
-      },
-      "artists": [
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        },
-        {
-          "name": "Keumbee",
-          "url": "https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm"
-        }
-      ],
-      "duration_ms": 217774,
-      "name": "Waters of March",
-      "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
-    },
-    {
-      "added_at": "2022-12-26 09:27:38",
-      "album": {
         "name": "SMILE",
         "url": "https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-12-26 09:27:38",
       "album": {
-        "name": "Twenties = Love",
-        "url": "https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN"
-      },
-      "artists": [
-        {
-          "name": "\uc544\uc6cc\uba5c\uce20 Hourmelts",
-          "url": "https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "Snow Sun",
-      "url": "https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp"
-    },
-    {
-      "added_at": "2022-12-26 09:27:38",
-      "album": {
         "name": "Sweeet",
         "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 177999,
       "name": "Sugardance",
       "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
+    },
+    {
+      "added_at": "2022-12-26 09:27:38",
+      "album": {
+        "name": "Twenties = Love",
+        "url": "https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN"
+      },
+      "artists": [
+        {
+          "name": "\uc544\uc6cc\uba5c\uce20 Hourmelts",
+          "url": "https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "Snow Sun",
+      "url": "https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp"
     },
     {
       "added_at": "2022-12-26 09:27:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-12-26 09:27:38",
       "album": {
-        "name": "Our Cinema #2 - Dancing",
-        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
-      },
-      "artists": [
-        {
-          "name": "Narae Lee",
-          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
-        }
-      ],
-      "duration_ms": 210079,
-      "name": "Our Cinema #2 - Dancing",
-      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
-    },
-    {
-      "added_at": "2022-12-26 09:27:38",
-      "album": {
         "name": "Free Giveaway",
         "url": "https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 211456,
       "name": "Free Giveaway",
       "url": "https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi"
+    },
+    {
+      "added_at": "2022-12-26 09:27:38",
+      "album": {
+        "name": "Our Cinema #2 - Dancing",
+        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
+      },
+      "artists": [
+        {
+          "name": "Narae Lee",
+          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
+        }
+      ],
+      "duration_ms": 210079,
+      "name": "Our Cinema #2 - Dancing",
+      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
     },
     {
       "added_at": "2022-12-26 09:27:38",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-12-26 09:27:38",
       "album": {
+        "name": "[Vol.134] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'",
+        "url": "https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 212898,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB"
+    },
+    {
+      "added_at": "2022-12-26 09:27:38",
+      "album": {
         "name": "LISH",
         "url": "https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 224778,
       "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
       "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
-    },
-    {
-      "added_at": "2022-12-26 09:27:38",
-      "album": {
-        "name": "[Vol.134] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'",
-        "url": "https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 212898,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB"
     },
     {
       "added_at": "2022-12-26 09:27:38",

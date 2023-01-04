@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 
 > A playlist for your Arab hipster starter kit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,789 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,839 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 40 | [Akeed](https://open.spotify.com/track/0M8B2Ywia7UYhZLNpUmhQS) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT), [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Akeed](https://open.spotify.com/album/7v8rqFkCY39CQFG9Qg4DNd) | 4:01 |
 | 41 | [Sidi Rabi](https://open.spotify.com/track/1U8ZZkkNM9dwdq01hNZXy6) | [Cheb Tarik](https://open.spotify.com/artist/5P3WRbEbFnkjJ3U4CE1NSE) | [Metisstyles](https://open.spotify.com/album/6nmxAKzwHZbZV7n7Gr7rhZ) | 6:07 |
 | 42 | [Gonon El Desco](https://open.spotify.com/track/5bM2Vfvjj5FHEXhw58lqyI) | [Ezzat Abou Ouf](https://open.spotify.com/artist/0lvabIrkWBP2bzYkdIARWN) | [Gonon El Desco](https://open.spotify.com/album/2ixryfyvJEEKyS9Pw3ZLF3) | 4:01 |
-| 43 | [Ken Yama Disco](https://open.spotify.com/track/6qHVXskJiJbUIB5BvbwmSK) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Nuri Andaburi](https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr) | 4:02 |
-| 44 | [Shat Iskenderia](https://open.spotify.com/track/4Nyx1QBYGVK7H4G4J8x0Ho) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG), [Alia](https://open.spotify.com/artist/32nKVL3eCi3Fjsj3ldUwPb) | [Ferqet Americana Show Pt.2](https://open.spotify.com/album/4OQZnoz6VHLTzonFNZUkZS) | 4:25 |
+| 43 | [Shat Iskenderia](https://open.spotify.com/track/4Nyx1QBYGVK7H4G4J8x0Ho) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG), [Alia](https://open.spotify.com/artist/32nKVL3eCi3Fjsj3ldUwPb) | [Ferqet Americana Show Pt.2](https://open.spotify.com/album/4OQZnoz6VHLTzonFNZUkZS) | 4:25 |
+| 44 | [Ken Yama Disco](https://open.spotify.com/track/6qHVXskJiJbUIB5BvbwmSK) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Nuri Andaburi](https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr) | 4:02 |
 | 45 | [Mashena](https://open.spotify.com/track/5Fzmt3N3XnD3VhRE3XuQ6U) | [The Scorpios](https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe) | [Mashena](https://open.spotify.com/album/4X7Qt6Q6GudCAPGwycE6nt) | 3:09 |
 | 46 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/1PfU9f0u6GJs7aADG0voSk) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ) | 5:01 |
 | 47 | [Ya Galbi Laih](https://open.spotify.com/track/4MHkmCgmLXAisJKuvbXwE4) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Ya Dunya](https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 49 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh) | 8:15 |
 | 50 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 |
 
-Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMDNlYzRkMDk3ODUwOGNkZTg3MWU3NzA4OWIwNjA1OTJk`
+Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMDYwZjBlY2I5NDI0MDZhN2QyYmRmMjM4NWFlYTQ1YzI4`

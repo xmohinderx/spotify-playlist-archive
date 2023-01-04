@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 65018,
+  "num_followers": 65052,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY1OTEyMiwwMDAwMDAwMDA1YjM5YzdlNjUzMWRlNDQwMzE5ZmY4MmYxNzU3Mjcw",
+  "snapshot_id": "MTY3MjY1OTEyMiwwMDAwMDAwMDNlZTY4NjhkNTFiYWU5YWQxNTdhZjc5ZjJiMjNmM2E1",
   "tracks": [
     {
       "added_at": "2023-01-02 11:32:01",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-01-02 11:32:01",
       "album": {
-        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
-      },
-      "artists": [
-        {
-          "name": "Henning Kvitnes",
-          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
-        }
-      ],
-      "duration_ms": 253100,
-      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
-    },
-    {
-      "added_at": "2023-01-02 11:32:01",
-      "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
@@ -387,6 +371,42 @@
       "duration_ms": 299333,
       "name": "Bru over m\u00f8rke b\u00f8lger",
       "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
+    },
+    {
+      "added_at": "2023-01-02 11:32:01",
+      "album": {
+        "name": "Evig kvile",
+        "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 189239,
+      "name": "Evig kvile",
+      "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
+    },
+    {
+      "added_at": "2023-01-02 11:32:01",
+      "album": {
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
+      },
+      "artists": [
+        {
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+        }
+      ],
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
     },
     {
       "added_at": "2023-01-02 11:32:01",
@@ -463,22 +483,6 @@
     {
       "added_at": "2023-01-02 11:32:01",
       "album": {
-        "name": "Svarte Skyer",
-        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
-      },
-      "artists": [
-        {
-          "name": "Hanne S\u00f8rvaag",
-          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
-        }
-      ],
-      "duration_ms": 180328,
-      "name": "Svarte Skyer",
-      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
-    },
-    {
-      "added_at": "2023-01-02 11:32:01",
-      "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
@@ -495,6 +499,22 @@
     {
       "added_at": "2023-01-02 11:32:01",
       "album": {
+        "name": "Svarte Skyer",
+        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
+      },
+      "artists": [
+        {
+          "name": "Hanne S\u00f8rvaag",
+          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
+        }
+      ],
+      "duration_ms": 180328,
+      "name": "Svarte Skyer",
+      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
+    },
+    {
+      "added_at": "2023-01-02 11:32:01",
+      "album": {
         "name": "Henda i v\u00e6ret",
         "url": "https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn"
       },
@@ -507,22 +527,6 @@
       "duration_ms": 191053,
       "name": "Lite og stort",
       "url": "https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH"
-    },
-    {
-      "added_at": "2023-01-02 11:32:01",
-      "album": {
-        "name": "Alt det som skinner",
-        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
-      },
-      "artists": [
-        {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
-        }
-      ],
-      "duration_ms": 250403,
-      "name": "Alt det som skinner",
-      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
     },
     {
       "added_at": "2023-01-02 11:32:01",
@@ -563,6 +567,22 @@
     {
       "added_at": "2023-01-02 11:32:01",
       "album": {
+        "name": "Alt det som skinner",
+        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
+      },
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+        }
+      ],
+      "duration_ms": 250403,
+      "name": "Alt det som skinner",
+      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
+    },
+    {
+      "added_at": "2023-01-02 11:32:01",
+      "album": {
         "name": "Ta Meg Med",
         "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
       },
@@ -595,22 +615,6 @@
     {
       "added_at": "2023-01-02 11:32:01",
       "album": {
-        "name": "Gutta P\u00e5 By`n",
-        "url": "https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF"
-      },
-      "artists": [
-        {
-          "name": "Terje Tysland",
-          "url": "https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7"
-        }
-      ],
-      "duration_ms": 350586,
-      "name": "Heile Livet",
-      "url": "https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr"
-    },
-    {
-      "added_at": "2023-01-02 11:32:01",
-      "album": {
         "name": "Har det no \u00e5 si",
         "url": "https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT"
       },
@@ -623,6 +627,22 @@
       "duration_ms": 225626,
       "name": "Himmelbl\u00e5",
       "url": "https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS"
+    },
+    {
+      "added_at": "2023-01-02 11:32:01",
+      "album": {
+        "name": "Gutta P\u00e5 By`n",
+        "url": "https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF"
+      },
+      "artists": [
+        {
+          "name": "Terje Tysland",
+          "url": "https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7"
+        }
+      ],
+      "duration_ms": 350586,
+      "name": "Heile Livet",
+      "url": "https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr"
     },
     {
       "added_at": "2023-01-02 11:32:01",
@@ -655,6 +675,26 @@
       "duration_ms": 168373,
       "name": "Alle Snakker Sant",
       "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
+    },
+    {
+      "added_at": "2023-01-02 11:32:01",
+      "album": {
+        "name": "Skyfri Himmel",
+        "url": "https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "Skyfri Himmel",
+      "url": "https://open.spotify.com/track/6j6cVfhfaLYJMN25lpBqqS"
     },
     {
       "added_at": "2023-01-02 11:32:01",
@@ -723,22 +763,6 @@
     {
       "added_at": "2023-01-02 11:32:01",
       "album": {
-        "name": "K\u00e6m va du?",
-        "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Togsang",
-      "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
-    },
-    {
-      "added_at": "2023-01-02 11:32:01",
-      "album": {
         "name": "Fra 4 Til 70",
         "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
       },
@@ -771,6 +795,22 @@
     {
       "added_at": "2023-01-02 11:32:01",
       "album": {
+        "name": "K\u00e6m va du?",
+        "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Togsang",
+      "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
+    },
+    {
+      "added_at": "2023-01-02 11:32:01",
+      "album": {
         "name": "Under deg",
         "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
       },
@@ -799,42 +839,6 @@
       "duration_ms": 181200,
       "name": "V\u00e5r Beste Dag",
       "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
-    },
-    {
-      "added_at": "2023-01-02 11:32:01",
-      "album": {
-        "name": "V\u00e5r beste dag",
-        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 202588,
-      "name": "V\u00e5r beste dag",
-      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
-    },
-    {
-      "added_at": "2023-01-02 11:32:01",
-      "album": {
-        "name": "den tyngste turen (med Aslag Haugen)",
-        "url": "https://open.spotify.com/album/6ZHUyK14poEdYpMmLxxXkS"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kvammen",
-          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
-        },
-        {
-          "name": "Aslag Haugen",
-          "url": "https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc"
-        }
-      ],
-      "duration_ms": 205062,
-      "name": "den tyngste turen",
-      "url": "https://open.spotify.com/track/4MqsWPW2UtBiAIGK8xoXu0"
     }
   ],
   "unique_name": "Norske viser",

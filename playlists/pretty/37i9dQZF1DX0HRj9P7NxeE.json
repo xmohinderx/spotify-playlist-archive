@@ -1,12 +1,12 @@
 {
   "description": "Get your body right with this workout twerkout",
-  "num_followers": 1747908,
+  "num_followers": 1748026,
   "original_name": "Workout Twerkout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGIxYTE0MzE5MTZjOTYyZDZmMTIyNzI3NmNkMDM3Mjg1",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDM1NGQ5NjkwNmU4ODlkMWYxY2RhOWJkNjBhNTNjM2Vm",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "M.A.B",
+        "url": "https://open.spotify.com/album/5snNIfBKB1GssrKQg8zW2c"
+      },
+      "artists": [
+        {
+          "name": "Ocean x KungFu",
+          "url": "https://open.spotify.com/artist/1WEXyd2RFcNvcHbCydwP78"
+        }
+      ],
+      "duration_ms": 171669,
+      "name": "M.A.B",
+      "url": "https://open.spotify.com/track/7mU3sIIQtsJ3PlHfMX3rtJ"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Hands Up (with Monaleo)",
         "url": "https://open.spotify.com/album/3Ai7fsWfL2WTv2iYo4bFJR"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 184204,
       "name": "Hands Up (with Monaleo)",
       "url": "https://open.spotify.com/track/51Zw9bJ0i2KlGbbtlkbieR"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "M.A.B",
-        "url": "https://open.spotify.com/album/5snNIfBKB1GssrKQg8zW2c"
-      },
-      "artists": [
-        {
-          "name": "Ocean x KungFu",
-          "url": "https://open.spotify.com/artist/1WEXyd2RFcNvcHbCydwP78"
-        }
-      ],
-      "duration_ms": 171669,
-      "name": "M.A.B",
-      "url": "https://open.spotify.com/track/7mU3sIIQtsJ3PlHfMX3rtJ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -979,26 +979,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "PTDOM",
-        "url": "https://open.spotify.com/album/4JdgeVZeAPBeU4niC1ueKh"
+        "name": "Lower",
+        "url": "https://open.spotify.com/album/5ivFW60jaUHbkhdovHXKGr"
       },
       "artists": [
         {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
-        },
-        {
-          "name": "Kayla Nicole",
-          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
-        },
-        {
-          "name": "ShantiiP",
-          "url": "https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5"
+          "name": "Big Jade",
+          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
         }
       ],
-      "duration_ms": 108000,
-      "name": "PTDOM",
-      "url": "https://open.spotify.com/track/5BfbwG8kBqNoHFrBJ6Ygt6"
+      "duration_ms": 112659,
+      "name": "Lower",
+      "url": "https://open.spotify.com/track/4CQAcnsINylLDrhmB1HNJt"
     }
   ],
   "unique_name": "Workout Twerkout",

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,912 songs - 4 day 14 hr 12 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,913 songs - 4 day 14 hr 15 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [DFWM](https://open.spotify.com/track/4KGyGiy8erAcgptecsQRZA) | [MimiO](https://open.spotify.com/artist/1OaNUUvZPARlzXBRdnZAoT) | [DFWM](https://open.spotify.com/album/70Kt9AJfCXlYpDTUXGP0SS) | 3:15 | 2021-09-04 | 2021-09-20 |
 | [Diablo](https://open.spotify.com/track/7jxBqkuplnJRttsUtku6i2) | [St\. Christopher Medal](https://open.spotify.com/artist/1MbnpqKvMJlx0URYWfWrp1) | [Hoof!](https://open.spotify.com/album/2Fh3gWmc8Udgo7bJi691y1) | 5:27 | 2022-12-08 | 2023-01-03 |
 | [Diamonds](https://open.spotify.com/track/1PMCaOsItHt7Wc02FCdpdv) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Diamonds](https://open.spotify.com/album/0IzUNWsQuZPVncXMMx25AN) | 3:00 | 2022-10-07 | 2022-10-30 |
+| [diamonds](https://open.spotify.com/track/4QOdx9SyiOUBgn6J9fI9uR) | [MIXIE](https://open.spotify.com/artist/3Q5XrGym2w1DZa2J1aQBij) | [diamonds](https://open.spotify.com/album/3OTFQ2KPvfh6QvBRW5WyYi) | 2:50 | 2023-01-03 |  |
 | [Dickmatized](https://open.spotify.com/track/07ueUAFO3Lx986NgCES12i) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Dickmatized](https://open.spotify.com/album/6unvaNLlF9nTykepdlU6rJ) | 2:47 | 2022-08-05 | 2022-08-24 |
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2021-07-11 |  |
 | [Die for You](https://open.spotify.com/track/12cxlpAkE58olr05BrYBtp) | [SEMM](https://open.spotify.com/artist/6vVy716NqX11fVSRs2koLB), [Fyon](https://open.spotify.com/artist/1OZo3RxWq8E0maQHpp9H6D) | [Die for You](https://open.spotify.com/album/4otHT1biOmDo13MWqalrTd) | 2:47 | 2022-10-07 | 2022-10-29 |
@@ -1576,7 +1577,7 @@
 | [SUN CAME OUT](https://open.spotify.com/track/4vCxUFx6YwGoqICQK8DmiM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:16 | 2021-07-12 | 2021-11-19 |
 | [Sun State](https://open.spotify.com/track/1m96n50cVl5zAzL8eaoo79) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [Sun State](https://open.spotify.com/album/483QZX4MNyFIEYRxs6ftTc) | 3:55 | 2022-03-18 | 2022-04-05 |
 | [Sun Up \(feat\. Prodéje\)](https://open.spotify.com/track/2CQHUqEPIsTBSkIr7FOmNe) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodeje](https://open.spotify.com/artist/66tEYHooGXFu7LqoGFWJ54) | [Sun Up \(feat\. Prodéje\)](https://open.spotify.com/album/7Kj3WeF3T7rccSZNFKZJ0R) | 3:44 | 2020-07-22 | 2020-08-20 |
-| [SUNDAY](https://open.spotify.com/track/6ykXrNuUZA7i42Sr3iRMRL) | [Dave Coresh](https://open.spotify.com/artist/1CnieijpOmLxRZdR9x5Em6), [Mother Wata](https://open.spotify.com/artist/5tMlM0bT8SnkY5n8wkLTdC) | [SUNDAY](https://open.spotify.com/album/33XKGhJKWJcvBr5ePqLiow) | 1:07 | 2022-12-14 |  |
+| [SUNDAY](https://open.spotify.com/track/6ykXrNuUZA7i42Sr3iRMRL) | [Dave Coresh](https://open.spotify.com/artist/1CnieijpOmLxRZdR9x5Em6), [Mother Wata](https://open.spotify.com/artist/5tMlM0bT8SnkY5n8wkLTdC) | [SUNDAY](https://open.spotify.com/album/33XKGhJKWJcvBr5ePqLiow) | 1:07 | 2022-12-14 | 2023-01-04 |
 | [Sundress](https://open.spotify.com/track/0dVI1vWncyCQQ5K0X6FKnU) | [Bensen](https://open.spotify.com/artist/2NFOVKOxmNjqHuzEKKIDEY) | [The West](https://open.spotify.com/album/3m5RnBXqE3LXjKag3c36ue) | 4:36 | 2021-09-24 | 2021-10-10 |
 | [Sundress](https://open.spotify.com/track/5nSmkSelscJ012AJIO7YJQ) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Sundress](https://open.spotify.com/album/4DzOBTCX4jZT1vyqIft11k) | 2:43 | 2021-02-19 | 2021-03-06 |
 | [Sunflower \- Acoustic](https://open.spotify.com/track/3Vr2FgdIxFYsNUFEkCBXfo) | [Bethany Sorenson](https://open.spotify.com/artist/4OZUZ4yeIl8vnkVoHpE28v) | [Sunflower](https://open.spotify.com/album/0hfGbrno3wc7UCukHFRqO4) | 3:26 | 2022-11-11 | 2022-12-03 |

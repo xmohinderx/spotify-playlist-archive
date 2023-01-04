@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 4718,
+  "num_followers": 4752,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDY2MjBjZDhmODQ4YWZmOTQ1Y2Y0NzYxNDljZWZjMThh",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDE2MDcwMTNiNWUyOTlkZDYyMjY0ZjVjMjcxOGVkNDNl",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -229,6 +229,22 @@
       "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
     },
     {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "False Facade",
+        "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
+      },
+      "artists": [
+        {
+          "name": "DRMZ",
+          "url": "https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ"
+        }
+      ],
+      "duration_ms": 416688,
+      "name": "False Facade",
+      "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
+    },
+    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "This Must Be Deep",
@@ -247,22 +263,6 @@
       "duration_ms": 393647,
       "name": "This Must Be Deep - Original Mix",
       "url": "https://open.spotify.com/track/3olGCkuKopIHUxulYAVPJN"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "False Facade",
-        "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
-      },
-      "artists": [
-        {
-          "name": "DRMZ",
-          "url": "https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ"
-        }
-      ],
-      "duration_ms": 416688,
-      "name": "False Facade",
-      "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "We Beg Your Pardon",
-        "url": "https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu"
-      },
-      "artists": [
-        {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        },
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        }
-      ],
-      "duration_ms": 431984,
-      "name": "We Beg Your Pardon",
-      "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Another Mile EP",
         "url": "https://open.spotify.com/album/0nRYOHYnD7wzC8Ppp9ERJh"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 456430,
       "name": "I Don't Wanna Feel This",
       "url": "https://open.spotify.com/track/6BlBVZ4OfkGogpvknlLXNE"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "We Beg Your Pardon",
+        "url": "https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        },
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "duration_ms": 431984,
+      "name": "We Beg Your Pardon",
+      "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "Abiogenesis EP",
+        "url": "https://open.spotify.com/album/2qg3O0ZMHlbzaAAtv5q36v"
+      },
+      "artists": [
+        {
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
+        }
+      ],
+      "duration_ms": 438830,
+      "name": "The God Flex",
+      "url": "https://open.spotify.com/track/3IlH84mTg9aqoeHtLfrvjM"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "To The World",
         "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
       },
@@ -609,44 +625,24 @@
       "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
-        "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
-      },
-      "artists": [
-        {
-          "name": "Sitha",
-          "url": "https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM"
-        },
-        {
-          "name": "BlaQ Afro-Kay",
-          "url": "https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E"
-        },
-        {
-          "name": "Laps Rsa",
-          "url": "https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ"
-        }
-      ],
-      "duration_ms": 400103,
-      "name": "Winter Nights - BlaQ Afro-Kay Remix",
-      "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
-    },
-    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Abiogenesis EP",
-        "url": "https://open.spotify.com/album/2qg3O0ZMHlbzaAAtv5q36v"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
       "artists": [
         {
-          "name": "Jazzuelle",
-          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
+          "name": "The Groove Experience",
+          "url": "https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2"
+        },
+        {
+          "name": "Aiyon",
+          "url": "https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr"
         }
       ],
-      "duration_ms": 438830,
-      "name": "The God Flex",
-      "url": "https://open.spotify.com/track/3IlH84mTg9aqoeHtLfrvjM"
+      "duration_ms": 417600,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -673,24 +669,28 @@
       "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
+      "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
+        "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
+        "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
       },
       "artists": [
         {
-          "name": "The Groove Experience",
-          "url": "https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2"
+          "name": "Sitha",
+          "url": "https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM"
         },
         {
-          "name": "Aiyon",
-          "url": "https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr"
+          "name": "BlaQ Afro-Kay",
+          "url": "https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E"
+        },
+        {
+          "name": "Laps Rsa",
+          "url": "https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ"
         }
       ],
-      "duration_ms": 417600,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
+      "duration_ms": 400103,
+      "name": "Winter Nights - BlaQ Afro-Kay Remix",
+      "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Multiverse Theory",
-        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
-      },
-      "artists": [
-        {
-          "name": "Devine Maestro",
-          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
-        },
-        {
-          "name": "Ottis Blake",
-          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
-        }
-      ],
-      "duration_ms": 374257,
-      "name": "Multiverse Theory",
-      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "My Heartbeat For You",
         "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
       },
@@ -875,6 +855,26 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "Multiverse Theory",
+        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
+      },
+      "artists": [
+        {
+          "name": "Devine Maestro",
+          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+        },
+        {
+          "name": "Ottis Blake",
+          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
+        }
+      ],
+      "duration_ms": 374257,
+      "name": "Multiverse Theory",
+      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "Artform",
         "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 419010,
       "name": "Life",
       "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law"
+      },
+      "artists": [
+        {
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+        }
+      ],
+      "duration_ms": 392431,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -937,40 +953,20 @@
       "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
+      "added_at": "2022-11-10 21:59:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law"
+        "name": "A (Ray)",
+        "url": "https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM"
       },
       "artists": [
         {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+          "name": "Slotta",
+          "url": "https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ"
         }
       ],
-      "duration_ms": 392431,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Seeking",
-        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
-      },
-      "artists": [
-        {
-          "name": "Buder Prince",
-          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
-        },
-        {
-          "name": "Ruthes Ma",
-          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
-        }
-      ],
-      "duration_ms": 397355,
-      "name": "Seeking",
-      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
+      "duration_ms": 424810,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
     },
     {
       "added_at": "2022-09-14 09:57:38",

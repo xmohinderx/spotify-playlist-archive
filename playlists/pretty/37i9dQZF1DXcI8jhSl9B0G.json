@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 69492,
+  "num_followers": 69517,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDBlZTQwMWU4ZjI0ZWZlNDM0MWRiMmQzMzI5ZTk0MzE2",
+  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDg4NmY3ODA1ZDE5OThjOWVhM2I1ZTEwOTQ2ZjBjMDk3",
   "tracks": [
     {
       "added_at": "2022-12-15 08:41:30",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "The Water & The Rough",
-        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
-      },
-      "artists": [
-        {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "8 Hour Drive",
-      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 223445,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "The Water & The Rough",
+        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+      },
+      "artists": [
+        {
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "8 Hour Drive",
+      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "Carry You With Me",
-        "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
-      },
-      "artists": [
-        {
-          "name": "Voyageur",
-          "url": "https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Carry You With Me",
-      "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
         "name": "The Future of an End",
         "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "this is how you fall in love",
-        "url": "https://open.spotify.com/album/1whjydDxsqNT56EuVTNxxp"
+        "name": "Carry You With Me",
+        "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
       },
       "artists": [
         {
-          "name": "Parker Rose",
-          "url": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
+          "name": "Voyageur",
+          "url": "https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8"
         }
       ],
-      "duration_ms": 161632,
-      "name": "this is how you fall in love",
-      "url": "https://open.spotify.com/track/0r9M8ibaXQcsRoODyUpZmi"
+      "duration_ms": 258053,
+      "name": "Carry You With Me",
+      "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -899,6 +883,22 @@
       "duration_ms": 222520,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/2s0jL6JXs2zAGtMnQcXfLb"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "this is how you fall in love",
+        "url": "https://open.spotify.com/album/1whjydDxsqNT56EuVTNxxp"
+      },
+      "artists": [
+        {
+          "name": "Parker Rose",
+          "url": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "this is how you fall in love",
+      "url": "https://open.spotify.com/track/0r9M8ibaXQcsRoODyUpZmi"
     },
     {
       "added_at": "2022-12-15 08:41:30",

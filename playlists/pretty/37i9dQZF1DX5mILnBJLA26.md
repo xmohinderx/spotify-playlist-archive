@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > Celebrating the new year with an expensive music mix by the legend <a href="https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=\-67vqDUYSwCGJk\_73lApbw">Kelvin Momo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,540 likes - 50 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,918 likes - 50 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

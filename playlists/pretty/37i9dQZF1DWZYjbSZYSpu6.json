@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: CHUNG HA, Christopher)",
-  "num_followers": 375455,
+  "num_followers": 375597,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjA0NjE4NywwMDAwMDAwMDI4MzlhMjBiYWI4ZTk0NWJlMWUwNmM1MmJmM2EyZjFm",
+  "snapshot_id": "MTY3MjA0NjE4NywwMDAwMDAwMGFkYmUxZmE5ZWMwYjM5ZWM5ZDA2MzNjOTY4MzExZTE2",
   "tracks": [
     {
       "added_at": "2022-12-21 09:38:14",
@@ -971,26 +971,6 @@
     {
       "added_at": "2022-12-21 09:38:14",
       "album": {
-        "name": "Whats wrong with secretary kim OST Part.1",
-        "url": "https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR"
-      },
-      "artists": [
-        {
-          "name": "KIHYUN",
-          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
-        },
-        {
-          "name": "SEOLA",
-          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
-        }
-      ],
-      "duration_ms": 207056,
-      "name": "Love Virus",
-      "url": "https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG"
-    },
-    {
-      "added_at": "2022-12-21 09:38:14",
-      "album": {
         "name": "Flower Language",
         "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 232720,
       "name": "Anemone",
       "url": "https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg"
+    },
+    {
+      "added_at": "2022-12-21 09:38:14",
+      "album": {
+        "name": "Whats wrong with secretary kim OST Part.1",
+        "url": "https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR"
+      },
+      "artists": [
+        {
+          "name": "KIHYUN",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
+        },
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "duration_ms": 207056,
+      "name": "Love Virus",
+      "url": "https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

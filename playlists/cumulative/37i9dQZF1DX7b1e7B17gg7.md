@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-56 songs - 4 hr 13 min - not published yet
+60 songs - 4 hr 33 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,10 @@
 | [Georgia On My Mind](https://open.spotify.com/track/3IXfelfYGAlNhpj2PAOIb7) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:10 | 2022-11-30 |  |
 | [Gospel Groove](https://open.spotify.com/track/5QHdraJnSVp0vnXGMefg3d) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 4:13 | 2022-11-30 |  |
 | [How Long Blues](https://open.spotify.com/track/17DzqYtuUdSSg1HbQ9i5Wd) | [Tor Einar Bekken](https://open.spotify.com/artist/3J30JgVNLzuCA6uaRasNoq), [Richard Gjems](https://open.spotify.com/artist/3NgCfexdR7Or1rhp9GJ5XU) | [Songs from a Forest](https://open.spotify.com/album/5iQVzqrwsj45S7jf6PfqwS) | 4:36 | 2022-11-30 |  |
+| [In Heaven](https://open.spotify.com/track/4gww3Jsmig4mgKgMKhZtgi) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Love Hurts](https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve) | 4:34 | 2023-01-03 |  |
 | [Inland Empire](https://open.spotify.com/track/0bFDDU8ETywjcjKAHRsWDH) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Winter Is For Lovers](https://open.spotify.com/album/2jRFS663e7VPtA64depQBV) | 3:26 | 2022-11-30 |  |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 | 2022-11-30 |  |
+| [Lenny](https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:57 | 2023-01-03 |  |
 | [Linda](https://open.spotify.com/track/12psIyrsp6DXHqzkkweac1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-11-30 |  |
 | [Little Brother \- Instrumental](https://open.spotify.com/track/5M5Koy1MEDGQ081SivilWW) | [Mr\. B](https://open.spotify.com/artist/0P5frht0A8pd2wsVtc2kMK), [J.C\. Heard](https://open.spotify.com/artist/7kCD8Z9gH6ifP16a5H7H4N) | [Shining The Pearls](https://open.spotify.com/album/3CmrFsbuOW5c8CG1olr1Kc) | 4:23 | 2022-11-30 |  |
 | [Love, Lost and Found](https://open.spotify.com/track/47TygRahZHyLO99AjznZfb) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Love, Lost and Found](https://open.spotify.com/album/07hE2feivwgHnjpfGkdWlY) | 5:42 | 2022-11-30 |  |
@@ -61,8 +63,10 @@
 | [The Band Ladies Have the Blues](https://open.spotify.com/track/52iD7EXUYlAF5mx8QUDYE3) | [Billy Branch & The Sons of Blues](https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y), [Carl Weathersby](https://open.spotify.com/artist/2Qs4vDt8kbXB2sZUDisXPw) | [As the Years Go Passing By \(Blues Reference\)](https://open.spotify.com/album/5574yQ0jXasT5PZCRs4C9o) | 6:35 | 2022-11-30 |  |
 | [The Junkyard Blues](https://open.spotify.com/track/32p1tBD1d2PuMujJU7hQgA) | [Terry Johnson](https://open.spotify.com/artist/7DWOTQc5g2G2zbd6SaXej7) | [Terry Mojo Johnson, Vol\. 2](https://open.spotify.com/album/0dx2z2A8kweCRK3etpg5GK) | 3:49 | 2022-11-30 |  |
 | [The Prowler](https://open.spotify.com/track/3kigvjr2fMr4E1pQXJ15zG) | [Bruce Katz Band](https://open.spotify.com/artist/7cvmkkkAA2mTfwhhMSfrEi) | [Mississippi Moan](https://open.spotify.com/album/1wVpbsQQCr3RG3GdIqucwo) | 6:23 | 2022-11-30 |  |
+| [The Return Of Duke's Mood \(Unreleased Demo\)](https://open.spotify.com/track/6xlsvtBeqIXXqsYeDmmz0n) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Outtakes and Oddities: The Unheard Duke Robillard](https://open.spotify.com/album/1xflBLXWAJDuE4s2qNMAwD) | 7:21 | 2023-01-03 |  |
 | [The Sway \(feat\. David Rotundo\)](https://open.spotify.com/track/6xqkuiYiTKhKQ8xxsAAcB0) | [David Rotundo](https://open.spotify.com/artist/1wB0MLsDX5MQHlZUbI7j70) | [Blues Ignited](https://open.spotify.com/album/2AO6l6RDuj8YUePV2GlXZz) | 5:52 | 2022-11-30 |  |
 | [Under The Sun](https://open.spotify.com/track/0iu6IMgTL20s10ihxUaent) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 3:51 | 2022-11-30 |  |
+| [Washed Out Blues](https://open.spotify.com/track/01eK5ChwfAoE4fgNroBZuG) | [Manuel Galvin](https://open.spotify.com/artist/5OiXz8xSD4YGtm7vYDZ0Gs) | [American Heritage](https://open.spotify.com/album/28mwkzzBRA3v9SwWzzqKIL) | 2:56 | 2023-01-03 |  |
 | [Wayfaring Pilgrim](https://open.spotify.com/track/6yJ6VtC0IQ4BC47Aj6MkZ3) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [In The Beginning](https://open.spotify.com/album/4s8yNqAy1MyFXtLp8HlWUM) | 5:08 | 2022-11-30 |  |
 
 \*This playlist was first scraped on 2022-12-01. Prior content cannot be recovered.

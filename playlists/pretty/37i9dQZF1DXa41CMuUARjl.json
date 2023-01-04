@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from John Summit.",
-  "num_followers": 416144,
+  "num_followers": 416242,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMDBiOThjZDIyOWU4MmI5MmYyZTVlY2U4MTYwYmFkOTli",
+  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMDhjZmIxODk0MmQyNTIyNDI3ODQ1OTZiYmI2Mjg1NWZj",
   "tracks": [
     {
       "added_at": "2022-12-30 05:00:00",
@@ -429,6 +429,26 @@
       "url": "https://open.spotify.com/track/4WtWbsUpHCIvSUxFbCfM5m"
     },
     {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Fade to Black",
+        "url": "https://open.spotify.com/album/2Yu80Mqn0x1Y5F6X1rTqwv"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Fade to Black",
+      "url": "https://open.spotify.com/track/3DS6zUDAm3X8F6kiGaFfWL"
+    },
+    {
       "added_at": "2022-12-23 05:00:00",
       "album": {
         "name": "Like This & That",
@@ -465,26 +485,6 @@
       "url": "https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt"
     },
     {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Fade to Black",
-        "url": "https://open.spotify.com/album/2Yu80Mqn0x1Y5F6X1rTqwv"
-      },
-      "artists": [
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Fade to Black",
-      "url": "https://open.spotify.com/track/3DS6zUDAm3X8F6kiGaFfWL"
-    },
-    {
       "added_at": "2022-12-23 05:00:00",
       "album": {
         "name": "dashstar* (Yellow Claw Trap Edit)",
@@ -519,6 +519,30 @@
       "duration_ms": 169846,
       "name": "Concerning Hobbits",
       "url": "https://open.spotify.com/track/79QMTFuSnO1xbrPU2TK71Y"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/7qzo2BOdgUqZcFKFnFoVMp"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        {
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Once Again - FOVOS Remix",
+      "url": "https://open.spotify.com/track/4utyVIaPPovaCm7ZG1ZQA4"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -567,6 +591,22 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "slept on the floor still dreamt about you",
+        "url": "https://open.spotify.com/album/40BEVH86n8EDOKZIy7Jg8S"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 93065,
+      "name": "shut down entirely",
+      "url": "https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "An Odd Little Place (Remixed)",
         "url": "https://open.spotify.com/album/5L7ddlDPvjNCDhKXFrhBSc"
       },
@@ -587,46 +627,6 @@
       "duration_ms": 330049,
       "name": "An Odd Little Place - LP Giobbi & DJ Tennis Remix",
       "url": "https://open.spotify.com/track/52lsGicAnyiQBGiLgfig5M"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "slept on the floor still dreamt about you",
-        "url": "https://open.spotify.com/album/40BEVH86n8EDOKZIy7Jg8S"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 93065,
-      "name": "shut down entirely",
-      "url": "https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/7qzo2BOdgUqZcFKFnFoVMp"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "VINNE",
-          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
-        },
-        {
-          "name": "FOVOS",
-          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Once Again - FOVOS Remix",
-      "url": "https://open.spotify.com/track/4utyVIaPPovaCm7ZG1ZQA4"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -885,6 +885,42 @@
       "url": "https://open.spotify.com/track/3wkFAa5oAbvmpnvOy4ERQn"
     },
     {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "stuck",
+        "url": "https://open.spotify.com/album/5ZZOUE2HBqn51Izn1r1SUW"
+      },
+      "artists": [
+        {
+          "name": "Senses",
+          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
+        },
+        {
+          "name": "Mixed Matches",
+          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
+        }
+      ],
+      "duration_ms": 120910,
+      "name": "stuck",
+      "url": "https://open.spotify.com/track/2AG7l1RlO4BQlzRoHFxaBP"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Meet Me",
+        "url": "https://open.spotify.com/album/1zFBM0GwgiWY2wvCp0m648"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "duration_ms": 140640,
+      "name": "Meet Me",
+      "url": "https://open.spotify.com/track/51KOBaEzcAqKKfjo2pJTBq"
+    },
+    {
       "added_at": "2022-12-23 05:00:00",
       "album": {
         "name": "WHITE and BLACK",
@@ -923,22 +959,18 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "stuck",
-        "url": "https://open.spotify.com/album/5ZZOUE2HBqn51Izn1r1SUW"
+        "name": "Shake & Shimmer",
+        "url": "https://open.spotify.com/album/2gXOwpDTJPZwhm5R62Laat"
       },
       "artists": [
         {
-          "name": "Senses",
-          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
-        },
-        {
-          "name": "Mixed Matches",
-          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
         }
       ],
-      "duration_ms": 120910,
-      "name": "stuck",
-      "url": "https://open.spotify.com/track/2AG7l1RlO4BQlzRoHFxaBP"
+      "duration_ms": 444590,
+      "name": "Shake & Shimmer",
+      "url": "https://open.spotify.com/track/700ZVUySDYXQmx43Y0xZPg"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -957,6 +989,26 @@
       "url": "https://open.spotify.com/track/1g3RmkihlvSvSbiB1JduDz"
     },
     {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Benjam\u00edn Carri\u00f3n (La Noche)",
+        "url": "https://open.spotify.com/album/7zZNNHcVqWzhCeEkvBlLfF"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "BadWolf",
+          "url": "https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd"
+        }
+      ],
+      "duration_ms": 354113,
+      "name": "Benjam\u00edn Carri\u00f3n (La Noche)",
+      "url": "https://open.spotify.com/track/31ivSVMkEnSxviiHE7kKu8"
+    },
+    {
       "added_at": "2022-12-23 05:00:00",
       "album": {
         "name": "Cuando Vengas",
@@ -973,38 +1025,6 @@
       "url": "https://open.spotify.com/track/1l0aHFk8ABCVRTshocDReQ"
     },
     {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Meet Me",
-        "url": "https://open.spotify.com/album/1zFBM0GwgiWY2wvCp0m648"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        }
-      ],
-      "duration_ms": 140640,
-      "name": "Meet Me",
-      "url": "https://open.spotify.com/track/51KOBaEzcAqKKfjo2pJTBq"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Shake & Shimmer",
-        "url": "https://open.spotify.com/album/2gXOwpDTJPZwhm5R62Laat"
-      },
-      "artists": [
-        {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        }
-      ],
-      "duration_ms": 444590,
-      "name": "Shake & Shimmer",
-      "url": "https://open.spotify.com/track/700ZVUySDYXQmx43Y0xZPg"
-    },
-    {
       "added_at": "2022-12-23 05:00:00",
       "album": {
         "name": "She Don't Wanna Talk",
@@ -1019,6 +1039,30 @@
       "duration_ms": 158618,
       "name": "She Don't Wanna Talk",
       "url": "https://open.spotify.com/track/2Of1FPGtBIZ7XFDOxTzDdS"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Sweet Lies (Jess Bays Remix)",
+        "url": "https://open.spotify.com/album/0exc5lHi4us5X6yyoYpyQK"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+        },
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        }
+      ],
+      "duration_ms": 156406,
+      "name": "Sweet Lies - Jess Bays Remix",
+      "url": "https://open.spotify.com/track/43X4GSnpdoMKS2q23vEgE1"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1057,26 +1101,6 @@
       "url": "https://open.spotify.com/track/5f7QgWB2GfqD5tANYNw5Vf"
     },
     {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Benjam\u00edn Carri\u00f3n (La Noche)",
-        "url": "https://open.spotify.com/album/7zZNNHcVqWzhCeEkvBlLfF"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "BadWolf",
-          "url": "https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd"
-        }
-      ],
-      "duration_ms": 354113,
-      "name": "Benjam\u00edn Carri\u00f3n (La Noche)",
-      "url": "https://open.spotify.com/track/31ivSVMkEnSxviiHE7kKu8"
-    },
-    {
       "added_at": "2022-12-23 05:00:00",
       "album": {
         "name": "Rent Request",
@@ -1097,28 +1121,24 @@
       "url": "https://open.spotify.com/track/4Od7jtoYfrMHteQ8CDH59j"
     },
     {
-      "added_at": "2022-12-30 05:00:00",
+      "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Sweet Lies (Jess Bays Remix)",
-        "url": "https://open.spotify.com/album/0exc5lHi4us5X6yyoYpyQK"
+        "name": "Own it (Merk & Kremont Remix)",
+        "url": "https://open.spotify.com/album/1FKIJ0Ip0yT8KNVSKN3V3H"
       },
       "artists": [
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "RYOYA",
+          "url": "https://open.spotify.com/artist/6v4ImAkv5yrPwGjNAvQ1Dd"
         },
         {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        },
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
         }
       ],
-      "duration_ms": 156406,
-      "name": "Sweet Lies - Jess Bays Remix",
-      "url": "https://open.spotify.com/track/43X4GSnpdoMKS2q23vEgE1"
+      "duration_ms": 170238,
+      "name": "Own it - Merk & Kremont Remix",
+      "url": "https://open.spotify.com/track/2HyNDiFsnZELQmaW3kmiIs"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1139,26 +1159,6 @@
       "duration_ms": 470833,
       "name": "A Priori",
       "url": "https://open.spotify.com/track/149mJQCvL4HsIMtfaHqXcb"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Own it (Merk & Kremont Remix)",
-        "url": "https://open.spotify.com/album/1FKIJ0Ip0yT8KNVSKN3V3H"
-      },
-      "artists": [
-        {
-          "name": "RYOYA",
-          "url": "https://open.spotify.com/artist/6v4ImAkv5yrPwGjNAvQ1Dd"
-        },
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        }
-      ],
-      "duration_ms": 170238,
-      "name": "Own it - Merk & Kremont Remix",
-      "url": "https://open.spotify.com/track/2HyNDiFsnZELQmaW3kmiIs"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/6wkrGYU8DN8D96nemCn9uw"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Hyperion II (Original Mix)",
-        "url": "https://open.spotify.com/album/4Zto5iuNylrC4RaG4dOkPc"
-      },
-      "artists": [
-        {
-          "name": "Tony Romanello",
-          "url": "https://open.spotify.com/artist/6bQjjM7IF0eLgxjiJHwhOt"
-        }
-      ],
-      "duration_ms": 376119,
-      "name": "Hyperion II - Original Mix",
-      "url": "https://open.spotify.com/track/2eSXLK7gYqsgZs6boWleU1"
-    },
-    {
       "added_at": "2022-12-30 05:00:00",
       "album": {
         "name": "Controlled Demolition EP",
@@ -1263,6 +1247,22 @@
       "duration_ms": 332601,
       "name": "Controlled Demolition",
       "url": "https://open.spotify.com/track/4ByxUoZBhd2OoPI2UeWVCf"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Hyperion II (Original Mix)",
+        "url": "https://open.spotify.com/album/4Zto5iuNylrC4RaG4dOkPc"
+      },
+      "artists": [
+        {
+          "name": "Tony Romanello",
+          "url": "https://open.spotify.com/artist/6bQjjM7IF0eLgxjiJHwhOt"
+        }
+      ],
+      "duration_ms": 376119,
+      "name": "Hyperion II - Original Mix",
+      "url": "https://open.spotify.com/track/2eSXLK7gYqsgZs6boWleU1"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/0f32CRn5lGMD5i9MhCqOL3"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "A Dream Sequence",
-        "url": "https://open.spotify.com/album/64pfheGODRtVRT8cnNfEfm"
-      },
-      "artists": [
-        {
-          "name": "Uto Karem",
-          "url": "https://open.spotify.com/artist/6KBbbE4QVlVQwFNIXrD8hF"
-        }
-      ],
-      "duration_ms": 375338,
-      "name": "A Dream Sequence",
-      "url": "https://open.spotify.com/track/2locdWsh6ZpDVxgso4U8ff"
-    },
-    {
       "added_at": "2022-12-30 05:00:00",
       "album": {
         "name": "Gotta Get Home (Cinthie Remix)",
@@ -1363,6 +1347,22 @@
       "duration_ms": 350733,
       "name": "Gotta Get Home - Cinthie Remix",
       "url": "https://open.spotify.com/track/4YQXmL4nJjTX9jLzrQOFZ0"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "A Dream Sequence",
+        "url": "https://open.spotify.com/album/64pfheGODRtVRT8cnNfEfm"
+      },
+      "artists": [
+        {
+          "name": "Uto Karem",
+          "url": "https://open.spotify.com/artist/6KBbbE4QVlVQwFNIXrD8hF"
+        }
+      ],
+      "duration_ms": 375338,
+      "name": "A Dream Sequence",
+      "url": "https://open.spotify.com/track/2locdWsh6ZpDVxgso4U8ff"
     },
     {
       "added_at": "2022-12-30 05:00:00",

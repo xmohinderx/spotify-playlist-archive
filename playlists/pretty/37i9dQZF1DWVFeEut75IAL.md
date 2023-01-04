@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,185 likes - 65 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,941 likes - 65 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 53 | [3 Pieces in Old Style: No\. 1\. Aria](https://open.spotify.com/track/2cnCYr5QgPJG0OJqYY4DGF) | [Krzysztof Penderecki](https://open.spotify.com/artist/0qEO82Hj3SvjoNyEfKpRku), [Warsaw Philharmonic Chamber Orchestra](https://open.spotify.com/artist/3HoZrSziC8MiELPaOJNDqh), [Antoni Wit](https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh) | [Penderecki: Sinfoniettas \- Oboe Capriccio](https://open.spotify.com/album/5vxlxBQQkkzP0Voa3gFFOu) | 2:13 |
 | 54 | [Concerto en ré mineur, BWV 974: II\. Adagio](https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Alexandre Tharaud: Baroque](https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn) | 4:13 |
 | 55 | [Avril 14th \(Aphex Twin\) \- Vanessa Wagner Version](https://open.spotify.com/track/5KIOfWtUEKrxDNi4OnIpg2) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Avril 14th \(Aphex Twin\) \[Vanessa Wagner Version\]](https://open.spotify.com/album/19YciIvd4UjiNvViXU9KVv) | 2:45 |
-| 56 | [6 Encores for Piano: No\. 3, Wasserklavier](https://open.spotify.com/track/07tKTXpTwZhseOKcmzCv6D) | [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [LISZT INSPECTIONS](https://open.spotify.com/album/26tmVV1dFkaftPXyMrRABC) | 2:19 |
+| 56 | [6 Encores for Piano \(1965\): No\. 3, Wasserklavier](https://open.spotify.com/track/0RnF44RV45by9HTtZuttgl) | [Luciano Berio](https://open.spotify.com/artist/5M1ZBrPeHjV8y3qFKnq7hO), [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [Liszt Inspections](https://open.spotify.com/album/0HOOCAPfWkh6e24UQLkok5) | 2:19 |
 | 57 | [6 Impromptus, Op\. 5: Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:09 |
 | 58 | [Ascent \- Day 1](https://open.spotify.com/track/4NqknSuLbtn77F73YzNVBf) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking](https://open.spotify.com/album/5Otajf16kZ0zkVZWhu7LtO) | 5:37 |
 | 59 | [Sunset Bird](https://open.spotify.com/track/1jcQ040aWKeiUGJ2IcnFtV) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Sunset Bird](https://open.spotify.com/album/2c9fSY8vvHKDCBKgNUJ70H) | 3:11 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 64 | [Sarabande](https://open.spotify.com/track/2iHfxxA58scvsi5P0L1B4i) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Toby Carr](https://open.spotify.com/artist/5zNhfoSYfBlwIffqIExoB3) | [Sarabande](https://open.spotify.com/album/7pTnWPUbgVoojmLt3mwZRR) | 2:12 |
 | 65 | [De Visée / Transcr\. Garcia: Pièces de théorbe et de luth, Suite en la mineur: IV\. Sarabande](https://open.spotify.com/track/5SFdpYdc4uDqkQqW7UzSqB) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Thibaut García](https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t) | [Aranjuez](https://open.spotify.com/album/2K6XjvDKO2HTCDqGZkph9e) | 2:14 |
 
-Snapshot ID: `MTY2ODc0NDAwMCwwMDAwMDAwMDg5NmZlODc3ZTgwYzYyZWZjOTc4NjY2NTNhYzE0ZmVm`
+Snapshot ID: `MTY2ODc0NDAwMCwwMDAwMDAwMDQ4NjNmN2I0OTc4NTYyNTRiZGViM2QwNTgwZTNjNmNi`

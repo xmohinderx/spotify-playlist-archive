@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMDQyMGFhMGJkNzliZDcxMjNhZGRjMmJiZDRiZmE5NTg1",
+  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMDEwYzEyNDU3ZWZiNDE0OGMwNGI1Y2NhMDI0NDFlNDYy",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -591,6 +591,22 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
+        "name": "Somebody Loan Me A Dime",
+        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/6NTCurUHy71S0XKVtyQtqT"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 271200,
       "name": "Ball N' Chain",
       "url": "https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
-        "name": "Somebody Loan Me A Dime",
-        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/6NTCurUHy71S0XKVtyQtqT"
     },
     {
       "added_at": "2020-05-03 08:57:28",

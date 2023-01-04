@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 78713,
+  "num_followers": 78834,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MzYwMCwwMDAwMDAwMGMzODMzZmJlZGEyY2NmZjhiYzY0MjZlNzlmOTgxMzll",
+  "snapshot_id": "MTY2OTk1MzYwMCwwMDAwMDAwMGRiNDI5MWEwMDc0MGM5ZGUxMzVmZTcyZjhkMjUyYWNj",
   "tracks": [
     {
       "added_at": "2022-11-25 04:00:00",
@@ -497,7 +497,63 @@
       "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
     },
     {
-      "added_at": "2023-01-03 03:00:33",
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "N\u00e9fos",
+        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "N\u00e9fos",
+      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Satori by the Sea",
+        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
+      },
+      "artists": [
+        {
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Satori by the Sea",
+      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Circle 23 (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 323855,
+      "name": "Circle 23 - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/6Rk40KBJsfnmmQbg3R35VY"
+    },
+    {
+      "added_at": "2023-01-04 01:24:09",
       "album": {
         "name": "Gabriel (Tom Player Strings Version)",
         "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
@@ -523,42 +579,18 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "N\u00e9fos",
-        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
+        "name": "Mists Inhabit This Place",
+        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
       },
       "artists": [
         {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
         }
       ],
-      "duration_ms": 192000,
-      "name": "N\u00e9fos",
-      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Circle 23 (Slow Meadow Rework)",
-        "url": "https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J"
-      },
-      "artists": [
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 323855,
-      "name": "Circle 23 - Slow Meadow Rework",
-      "url": "https://open.spotify.com/track/6Rk40KBJsfnmmQbg3R35VY"
+      "duration_ms": 230213,
+      "name": "Mists Inhabit This Place",
+      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -587,38 +619,6 @@
       "duration_ms": 288391,
       "name": "IV",
       "url": "https://open.spotify.com/track/3GzrpaEfMKs562jfnjKm0g"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Satori by the Sea",
-        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
-      },
-      "artists": [
-        {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Satori by the Sea",
-      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Mists Inhabit This Place",
-        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Mists Inhabit This Place",
-      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/4Pvt5sRCWGXDFa1Zyv7X7Q"
     },
     {
-      "added_at": "2023-01-03 03:00:33",
+      "added_at": "2023-01-04 01:24:09",
       "album": {
         "name": "Glass Gateway",
         "url": "https://open.spotify.com/album/2rw7rY5ebuktELGAJhZMnl"
@@ -763,42 +763,6 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 335149,
-      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
-        "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
-      },
-      "artists": [
-        {
-          "name": "Laura Masotto",
-          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
-        },
-        {
-          "name": "Matteo Zanferrari",
-          "url": "https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj"
-        }
-      ],
-      "duration_ms": 243431,
-      "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
-      "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
         "name": "Patina",
         "url": "https://open.spotify.com/album/7ooOWujwGib7z5Lf0tU3FW"
       },
@@ -867,34 +831,38 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Klass (MISSUXO Film Edit)",
-        "url": "https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa"
+        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Klass - MISSUXO Film Edit",
-      "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
+      "duration_ms": 335149,
+      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
     },
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Falling Colour",
-        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
+        "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
+        "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
       },
       "artists": [
         {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+          "name": "Laura Masotto",
+          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
+        },
+        {
+          "name": "Matteo Zanferrari",
+          "url": "https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj"
         }
       ],
-      "duration_ms": 215293,
-      "name": "Falling Colour",
-      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
+      "duration_ms": 243431,
+      "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
+      "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -915,18 +883,18 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
-        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
+        "name": "Falling Colour",
+        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
       },
       "artists": [
         {
-          "name": "Paulette Verl\u00e9e",
-          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
         }
       ],
-      "duration_ms": 278613,
-      "name": "February",
-      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
+      "duration_ms": 215293,
+      "name": "Falling Colour",
+      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -955,6 +923,38 @@
       "duration_ms": 174855,
       "name": "Integration",
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Klass (MISSUXO Film Edit)",
+        "url": "https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Klass - MISSUXO Film Edit",
+      "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
+        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
+      },
+      "artists": [
+        {
+          "name": "Paulette Verl\u00e9e",
+          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 277021,
-      "name": "We Begin",
-      "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
         "name": "Unfold (XXIM:EXPO #2)",
         "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 218743,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 277021,
+      "name": "We Begin",
+      "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1039,6 +1039,22 @@
       "duration_ms": 277653,
       "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Building Blocks, Pt. 5",
+        "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 280818,
+      "name": "The Cheek of Daniel",
+      "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Building Blocks, Pt. 5",
-        "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/7LRGLAQd2fdDOU7ygP0DrF"
       },
       "artists": [
         {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+          "name": "S\u00f8ndag S\u00f8ndag",
+          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
         }
       ],
-      "duration_ms": 280818,
-      "name": "The Cheek of Daniel",
-      "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
+      "duration_ms": 238764,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/7LRGLAQd2fdDOU7ygP0DrF"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ndag S\u00f8ndag",
-          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
-        }
-      ],
-      "duration_ms": 238764,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
     },
     {
-      "added_at": "2023-01-03 03:00:33",
-      "album": {
-        "name": "Prayers",
-        "url": "https://open.spotify.com/album/44M51OEL60fhGnyht1CtVb"
-      },
-      "artists": [
-        {
-          "name": "Dobrawa Czocher",
-          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
-        }
-      ],
-      "duration_ms": 307228,
-      "name": "Prayers",
-      "url": "https://open.spotify.com/track/2vmjrsYw0g3fpoJkuIzh05"
-    },
-    {
       "added_at": "2022-11-25 04:00:00",
       "album": {
         "name": "False Sunset (Todd & Klein Rework)",
@@ -1581,24 +1565,36 @@
       "url": "https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u"
     },
     {
-      "added_at": "2022-11-25 04:00:00",
+      "added_at": "2023-01-04 01:24:09",
       "album": {
-        "name": "Du Nord",
-        "url": "https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp"
+        "name": "Prayers",
+        "url": "https://open.spotify.com/album/44M51OEL60fhGnyht1CtVb"
       },
       "artists": [
         {
-          "name": "Elskavon",
-          "url": "https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq"
-        },
-        {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
         }
       ],
-      "duration_ms": 197041,
-      "name": "Vermilion",
-      "url": "https://open.spotify.com/track/4V2Hz5O0EOui1S3coZhdTd"
+      "duration_ms": 307228,
+      "name": "Prayers",
+      "url": "https://open.spotify.com/track/2vmjrsYw0g3fpoJkuIzh05"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Enfantillages pittoresques: II. Berceuse [Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/1oVLQpp20OpriUDJLDZBsS"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 334653,
+      "name": "Enfantillages pittoresques: II. Berceuse - Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/5vXc6FRNDW6VkZNKJtTtb1"
     }
   ],
   "unique_name": "Classical X",

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-216 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+217 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Gratefulness](https://open.spotify.com/track/40qeYynobNzqF9HfPkSFR3) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Gratefulness](https://open.spotify.com/album/7nHwZnjFrplsBHfzyJ1BKh) | 2:33 | 2022-09-30 |  |
 | [Greenland](https://open.spotify.com/track/2SPTGg9SC5MT1FwNX4IYfx) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:11 | 2020-12-08\* | 2021-03-06 |
 | [Healing Stones](https://open.spotify.com/track/3W2j6BipXBlTPfErJTyJWo) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Healing Stones](https://open.spotify.com/album/0N4dk5ISyVfLM7Es4zEsCr) | 2:37 | 2022-04-21 |  |
+| [Hidden Track](https://open.spotify.com/track/3KFihk1WmYESnt6ZRvvMKl) | [DEVOTED](https://open.spotify.com/artist/3G0UGz2ulKDrTkl3g3qGJN) | [Hidden Track](https://open.spotify.com/album/6jggn9swAQ7FfSpsJf65RI) | 2:52 | 2022-12-20 |  |
 | [Hidden Track](https://open.spotify.com/track/4abHSCaJj851TyH79IvBJ2) | [DEVOTED](https://open.spotify.com/artist/3G0UGz2ulKDrTkl3g3qGJN) | [Hidden Track](https://open.spotify.com/album/0zfTCeq90Hqy38fhijlPtz) | 2:52 | 2021-01-15 | 2022-12-10 |
 | [High Flyer](https://open.spotify.com/track/4ofswta82cpa2mJv6jrpyb) | [Sola Slavic](https://open.spotify.com/artist/24qzfEYRSQzJQL4ASv8rvq) | [High Flyer](https://open.spotify.com/album/5PYv6xEDp6z2VsfuNlTXGT) | 3:07 | 2022-05-19 |  |
 | [Homeopat](https://open.spotify.com/track/1GvvgUzaFTeRGn7tCEs6R7) | [Tian Taylor](https://open.spotify.com/artist/0N6kUvm8XIRQd9G36AIuV1) | [Homeopat](https://open.spotify.com/album/3KWiD2DPrTHR5XnJ5fDqp2) | 3:54 | 2021-06-16 | 2022-05-20 |
@@ -133,7 +134,7 @@
 | [Motion](https://open.spotify.com/track/0JExELrTTlXBvwYXJGIMtT) | [Balam Acab](https://open.spotify.com/artist/49jnSQa0nLfgkSREjJ03Az) | [Wander/Wonder](https://open.spotify.com/album/79iR8QvVwZ2abKTWrE2BLV) | 4:03 | 2020-12-08\* | 2021-09-22 |
 | [Moving](https://open.spotify.com/track/2nmmHSgj6mWaw2FasOy87z) | [Markus Floats](https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z) | [Third Album](https://open.spotify.com/album/5FJBPsg4NlggVYENdgw8OW) | 2:19 | 2020-12-08\* | 2020-12-25 |
 | [Mystery of Time](https://open.spotify.com/track/2EecYffFBqS2sTprJXabvW) | [Dopplar](https://open.spotify.com/artist/7mTlijRgUDWcMA0tQegd0D) | [Cosmic Strings](https://open.spotify.com/album/7wSfnWizxLlBLYu2HJPWkS) | 2:33 | 2020-12-08\* | 2022-12-18 |
-| [Mythos](https://open.spotify.com/track/5wjfTGgoy0ZPtKF96GaUEb) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Mythos](https://open.spotify.com/album/1SPAZKktXHa1QoUUNm0MON) | 2:37 | 2022-12-20 |  |
+| [Mythos](https://open.spotify.com/track/5wjfTGgoy0ZPtKF96GaUEb) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Mythos](https://open.spotify.com/album/1SPAZKktXHa1QoUUNm0MON) | 2:37 | 2022-12-20 | 2023-01-04 |
 | [Naslednjič](https://open.spotify.com/track/5k5b3ig0xlbvN2jVMKDsF5) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Naslednjič](https://open.spotify.com/album/7aVQfJW3wiyVUOtr22fQiv) | 3:15 | 2022-05-19 | 2023-01-01 |
 | [Natural Cause](https://open.spotify.com/track/30u5328ERA8OFk3qrla5m2) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 5:15 | 2020-12-08\* | 2021-05-27 |
 | [Navi](https://open.spotify.com/track/37XRBuSza57EcexazvYqQy) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Summer](https://open.spotify.com/album/3iEJDeVcMLzAFJToGcih34) | 1:22 | 2020-12-08\* | 2021-01-07 |

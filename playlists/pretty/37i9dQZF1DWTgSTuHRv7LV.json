@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Trueno & JID",
-  "num_followers": 457445,
+  "num_followers": 457503,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQzMTU1NywwMDAwMDAwMGNiYzJlN2FkYjc3MTkyOTRjYTk4ZGRhNTg3ODg4OTcw",
+  "snapshot_id": "MTY3MjQzMTU1NywwMDAwMDAwMDQxYzQxYzNiNjIzMmIxYjViYjU1M2FlZGJkY2VmODM3",
   "tracks": [
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "DIOS Y LA MUERTE",
-        "url": "https://open.spotify.com/album/1R8MDUqb1IWHf8ilwNQRGe"
-      },
-      "artists": [
-        {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 172126,
-      "name": "DIOS Y LA MUERTE",
-      "url": "https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
         "name": "Siempre Es Lo Mismo",
         "url": "https://open.spotify.com/album/7mbmPQhpfV0QojDzqf9fTQ"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 246605,
       "name": "Siempre Es Lo Mismo",
       "url": "https://open.spotify.com/track/2Sg6GmnyCyoYkvNezFp98e"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
+        "name": "DIOS Y LA MUERTE",
+        "url": "https://open.spotify.com/album/1R8MDUqb1IWHf8ilwNQRGe"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 172126,
+      "name": "DIOS Y LA MUERTE",
+      "url": "https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -2095,18 +2095,18 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "Manjit 1",
-        "url": "https://open.spotify.com/album/3jwk8uhUhfJj56MuBZYBlm"
+        "name": "La Nueva Pandemia",
+        "url": "https://open.spotify.com/album/5l3tjSHsjgNudTV5a5Gx07"
       },
       "artists": [
         {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
         }
       ],
-      "duration_ms": 170501,
-      "name": "Buen Viaje",
-      "url": "https://open.spotify.com/track/3Rmu4NKTTjJvScgZaKkMJG"
+      "duration_ms": 157440,
+      "name": "La Nueva Pandemia",
+      "url": "https://open.spotify.com/track/6BCzIewMNsznhUB78Z6gLL"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -2155,18 +2155,18 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "La Nueva Pandemia",
-        "url": "https://open.spotify.com/album/5l3tjSHsjgNudTV5a5Gx07"
+        "name": "Manjit 1",
+        "url": "https://open.spotify.com/album/3jwk8uhUhfJj56MuBZYBlm"
       },
       "artists": [
         {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 157440,
-      "name": "La Nueva Pandemia",
-      "url": "https://open.spotify.com/track/6BCzIewMNsznhUB78Z6gLL"
+      "duration_ms": 170501,
+      "name": "Buen Viaje",
+      "url": "https://open.spotify.com/track/3Rmu4NKTTjJvScgZaKkMJG"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
+        "name": "Cotidiano",
+        "url": "https://open.spotify.com/album/0vIS13618HUMjfeFcbXIoM"
+      },
+      "artists": [
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        }
+      ],
+      "duration_ms": 132680,
+      "name": "Cotidiano",
+      "url": "https://open.spotify.com/track/7G2pomkPBvmMIzT5H7Pt2v"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
         "name": "So\u00f1ando en PR",
         "url": "https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 158896,
       "name": "Stripper X",
       "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
-        "name": "Cotidiano",
-        "url": "https://open.spotify.com/album/0vIS13618HUMjfeFcbXIoM"
-      },
-      "artists": [
-        {
-          "name": "KEVVO",
-          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
-        }
-      ],
-      "duration_ms": 132680,
-      "name": "Cotidiano",
-      "url": "https://open.spotify.com/track/7G2pomkPBvmMIzT5H7Pt2v"
     },
     {
       "added_at": "2022-12-14 23:52:50",

@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 24484,
+  "num_followers": 24491,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMGEzZjc5MDFiOWFhMDUzMzVmNjYzMWNmYjM4NjViNDFk",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDVkMTFjYmMzOTI5YjE3YTUzNmI2M2ZmZjkxYzhmOGRm",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -479,22 +479,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "R\u00f6k 'n Roll",
-        "url": "https://open.spotify.com/album/0aO5uIWhe2UVcnI7ZrjdSc"
-      },
-      "artists": [
-        {
-          "name": "Brandsta City Sl\u00e4ckers",
-          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Kom och ta mig",
-      "url": "https://open.spotify.com/track/3NVIuvSnsjBMWR8RCXQbHi"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "En Samling 1981 - 2001",
         "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 198706,
       "name": "En dag",
       "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "R\u00f6k 'n Roll",
+        "url": "https://open.spotify.com/album/0aO5uIWhe2UVcnI7ZrjdSc"
+      },
+      "artists": [
+        {
+          "name": "Brandsta City Sl\u00e4ckers",
+          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Kom och ta mig",
+      "url": "https://open.spotify.com/track/3NVIuvSnsjBMWR8RCXQbHi"
     },
     {
       "added_at": "2019-02-28 12:57:58",

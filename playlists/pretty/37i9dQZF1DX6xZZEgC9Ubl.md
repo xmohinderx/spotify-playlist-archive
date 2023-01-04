@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo rap feels for the misunderstood\. Cover: Pardyalone
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,099 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,561 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 28 | [ALWAYS DO](https://open.spotify.com/track/3QCU8BT0zDS9LPVfEhRFEE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:31 |
 | 29 | [Falling](https://open.spotify.com/track/26XaOsDMbl0e1cVKYfkz6w) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Falling](https://open.spotify.com/album/4G213yPh3BOt160iYP4ZsV) | 2:39 |
 | 30 | [Cigarettes](https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:47 |
-| 31 | [Mine](https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Mine](https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE) | 2:34 |
-| 32 | [ALL GIRLS ARE THE SAME](https://open.spotify.com/track/0YGRqKKDhomTOp246LT11G) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [ALL GIRLS ARE THE SAME](https://open.spotify.com/album/5xfQcHCFloFP5Z2ljqmwxn) | 2:01 |
+| 31 | [ALL GIRLS ARE THE SAME](https://open.spotify.com/track/0YGRqKKDhomTOp246LT11G) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [ALL GIRLS ARE THE SAME](https://open.spotify.com/album/5xfQcHCFloFP5Z2ljqmwxn) | 2:01 |
+| 32 | [Mine](https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Mine](https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE) | 2:34 |
 | 33 | [Betrayed](https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug) | [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [TOTAL XANARCHY](https://open.spotify.com/album/2wmmYoAC48iNSTdU5Iwg6H) | 3:07 |
 | 34 | [You Broke My Heart Again](https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [You Broke My Heart Again](https://open.spotify.com/album/6YYYy7rXFNjORVy1V9nzTn) | 1:43 |
 | 35 | [Sick and Tired \(ft\. Machine Gun Kelly and Travis Barker\)](https://open.spotify.com/track/0DILU9jjSTnCv1dcbUH3ib) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [I'm Gone](https://open.spotify.com/album/4Wb5bU9FkmZ84WkkL37rKA) | 2:24 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 38 | [Love Is a Drug](https://open.spotify.com/track/0Q06s7TNQH8irO2sfvuFnn) | [Papithbk](https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw) | [Thbk.](https://open.spotify.com/album/0CXFZPOf5NILkxS9fpL3Jo) | 1:40 |
 | 39 | [NOT SOBER \(feat\. Polo G & Stunna Gambino\)](https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 3:36 |
 | 40 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 |
-| 41 | [Letter to Jarad](https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc) | [LRN Slime](https://open.spotify.com/artist/5J66vFlveTqn4j79SueFCA), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [why am i crying](https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0) | 3:24 |
-| 42 | [I Miss The Days](https://open.spotify.com/track/3ebfDw8WEbf0DxGh47R2lo) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:29 |
+| 41 | [I Miss The Days](https://open.spotify.com/track/3ebfDw8WEbf0DxGh47R2lo) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:29 |
+| 42 | [Letter to Jarad](https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc) | [LRN Slime](https://open.spotify.com/artist/5J66vFlveTqn4j79SueFCA), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [why am i crying](https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0) | 3:24 |
 | 43 | [dream girl](https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c) | [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [dream girl](https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9) | 1:27 |
 | 44 | [gone girl](https://open.spotify.com/track/3iH29NcCxYgI5shlkZrUoB) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Industry Plant](https://open.spotify.com/album/5UuzudgFxwLkxC1LFajC5e) | 2:16 |
 | 45 | [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [Proud of Myself](https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Proud of Myself](https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq) | 1:49 |
 | 100 | [Cold \(feat\. CADE\)](https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Long Days Away EP](https://open.spotify.com/album/613TIKn6gw8IGd1CBQUTa9) | 2:38 |
 
-Snapshot ID: `MTY3MTIxMDAwMCwwMDAwMDAwMDM1YmYzODNhNzY3MGNhZjM4YzA3N2I5NmJkODdiNTBm`
+Snapshot ID: `MTY3MTIxMDAwMCwwMDAwMDAwMDczN2VlMjdiZDBiNWM0NjdhMzc3ZGE2YjY4ZWRiOTli`

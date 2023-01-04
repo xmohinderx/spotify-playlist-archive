@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "N\u1ed5i b\u1eadt trong n\u0103m 2022, c\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Ho\u00e0ng Y\u1ebfn Chibi",
-  "name": "Best Of EQUAL Vietnam 2022",
+  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Luna \u0110\u00e0o",
+  "name": "EQUAL Vietnam",
   "published_playlist_ids": [
     "04IRwdQz860iINipt3YtIB"
   ],
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 156500,
       "name": "l\u1eeda g\u1ea7n r\u01a1m l\u00e2u ng\u00e0y c\u0169ng b\u00e9n",
       "url": "https://open.spotify.com/track/1Xmoej3kUKCFl9tvLsVe6U"
@@ -1397,6 +1397,24 @@
       "duration_ms": 282857,
       "name": "Nh\u1eafm M\u1eaft Th\u1ea5y M\u00f9a H\u00e8",
       "url": "https://open.spotify.com/track/7KiVghFxUSJjrSQXlb9tdh"
+    },
+    {
+      "album": {
+        "name": "Nh\u1eefng Ch\u00e0ng Trai Em T\u1eebng Y\u00eau",
+        "url": "https://open.spotify.com/album/4dn9Aw2j0TZT81L51B1zha"
+      },
+      "artists": [
+        {
+          "name": "Luna \u0110\u00e0o",
+          "url": "https://open.spotify.com/artist/77P1juitmNJV2mOz0oMmkB"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350611,
+      "name": "Nh\u1eefng Ch\u00e0ng Trai Em T\u1eebng Y\u00eau",
+      "url": "https://open.spotify.com/track/4w2iqC203m2IPEBAlNjHQJ"
     },
     {
       "album": {
@@ -2221,7 +2239,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 252500,
       "name": "Y\u00eau Th\u1ea7m",
       "url": "https://open.spotify.com/track/2x4MvuyWB5uYhqlKuu7w7T"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 191086,
       "name": "\u0110\u00e0o \u0110\u00e2u Ra Ng\u01b0\u1eddi Nh\u01b0 Anh",
       "url": "https://open.spotify.com/track/5pNE3mSRGTVHg73f8cRAXO"

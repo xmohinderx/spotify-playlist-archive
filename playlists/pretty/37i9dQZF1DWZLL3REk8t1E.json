@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1101603,
+  "num_followers": 1101721,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDNjNGU0ODFmZTMxMzAxNmIxNzViM2I0YjQ1YmU3Yjk5",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDBlNzdjNmJjMTRkNTE5OWEwNWNkY2Y1MGFlZTkxM2Ez",
   "tracks": [
     {
       "added_at": "2022-08-03 18:59:26",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Secuestro De Amor",
+      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
         "name": "M\u00e1s Muerto Que Vivo",
         "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 213221,
       "name": "M\u00e1s Muerto Que Vivo",
       "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Secuestro De Amor",
-      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
     },
     {
       "added_at": "2022-08-03 18:59:26",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "Contigo Por Siempre",
-        "url": "https://open.spotify.com/album/10bfwCIfySATCoekmUjeab"
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
       "artists": [
         {
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 196893,
-      "name": "Y Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/3DqQhY5S4RIWIoFuowD7kX"
+      "duration_ms": 176453,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
     },
     {
       "added_at": "2022-08-03 18:59:26",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "Otro Perdedor",
-        "url": "https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 250368,
-      "name": "Otro Perdedor",
-      "url": "https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
         "name": "Te Llor\u00e9 Un R\u00edo",
         "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
@@ -1339,8 +1319,28 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+        "name": "Otro Perdedor",
+        "url": "https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 250368,
+      "name": "Otro Perdedor",
+      "url": "https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
+        "name": "Contigo Por Siempre",
+        "url": "https://open.spotify.com/album/10bfwCIfySATCoekmUjeab"
       },
       "artists": [
         {
@@ -1348,9 +1348,9 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 176453,
-      "name": "Seis Pies Abajo",
-      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
+      "duration_ms": 196893,
+      "name": "Y Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/3DqQhY5S4RIWIoFuowD7kX"
     },
     {
       "added_at": "2022-08-03 18:59:26",
@@ -1561,20 +1561,20 @@
       "url": "https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
+      "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "Amigos No",
-        "url": "https://open.spotify.com/album/2OuH0MlDqmQt0vzlUAOoaJ"
+        "name": "Lo Mejor De Intocable - 12 Super Exitos",
+        "url": "https://open.spotify.com/album/5oY5W4w4IC0vOD4jo7gahE"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 217802,
-      "name": "Amigos No",
-      "url": "https://open.spotify.com/track/0zuXHJrWM3tE6Ia7BtGSRU"
+      "duration_ms": 190933,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/7EdSK9nLBY2RgbJ7g22s4z"
     },
     {
       "added_at": "2022-08-03 18:59:26",
@@ -1609,20 +1609,20 @@
       "url": "https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT"
     },
     {
-      "added_at": "2022-08-03 18:59:26",
+      "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Lo Mejor De Intocable - 12 Super Exitos",
-        "url": "https://open.spotify.com/album/5oY5W4w4IC0vOD4jo7gahE"
+        "name": "Amigos No",
+        "url": "https://open.spotify.com/album/2OuH0MlDqmQt0vzlUAOoaJ"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 190933,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/7EdSK9nLBY2RgbJ7g22s4z"
+      "duration_ms": 217802,
+      "name": "Amigos No",
+      "url": "https://open.spotify.com/track/0zuXHJrWM3tE6Ia7BtGSRU"
     },
     {
       "added_at": "2022-08-03 18:59:26",

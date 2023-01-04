@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "26",
+        "url": "https://open.spotify.com/album/4QVLkRRZRE9INUwPtfcJE6"
+      },
+      "artists": [
+        {
+          "name": "Kaneyorimasaru",
+          "url": "https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265866,
+      "name": "26",
+      "url": "https://open.spotify.com/track/1hSJr6D5gY6DEJAGBkGAYl"
+    },
+    {
+      "album": {
         "name": "a little question (Sh\u014dtaro Aoyama Remix)",
         "url": "https://open.spotify.com/album/2VEX1IbbXHa3iz1NG5hvZq"
       },
@@ -1627,10 +1645,28 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 243610,
       "name": "Eien No Shonen",
       "url": "https://open.spotify.com/track/7kqwsjBG0cdUsCjIzo28jP"
+    },
+    {
+      "album": {
+        "name": "Nisenhyakunen",
+        "url": "https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248806,
+      "name": "Eien No Shonen",
+      "url": "https://open.spotify.com/track/5uvPrkePnmZytwqYMnbLWo"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 126921,
+  "num_followers": 126970,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDYzZTMxMmI0MWU1YmIxM2FmOWJhMDBjMjY3YzExOGRh",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGY2NTViNzAyNmZlZTZiMDYwOWY3NGM5ODEwMWZiNmEz",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -991,18 +991,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Vanishing Shores",
-        "url": "https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU"
+        "name": "Window Flowers",
+        "url": "https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8"
       },
       "artists": [
         {
-          "name": "Tom West",
-          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        },
+        {
+          "name": "The Stampede",
+          "url": "https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7"
         }
       ],
-      "duration_ms": 212725,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
+      "duration_ms": 236973,
+      "name": "Hey Man",
+      "url": "https://open.spotify.com/track/65wWFPx0DUi1QvRDAXxPsD"
     }
   ],
   "unique_name": "Psych & Groove",

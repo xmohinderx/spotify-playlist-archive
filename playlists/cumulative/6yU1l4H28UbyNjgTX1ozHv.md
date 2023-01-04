@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-133 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
+134 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [I Still Haven't Found What I'm Looking For \- Acoustic](https://open.spotify.com/track/3KPKbWGJqITz5JFBl4JBQY) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [I Still Haven't Found What I'm Looking For \(Acoustic\)](https://open.spotify.com/album/7aa9VyWjwogK3jCEe4eTuB) | 2:54 | 2021-04-23 |  |
 | [I Want You Back \- Acoustic](https://open.spotify.com/track/1k26xiw242De5t5AgWjC5o) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [I Want You Back \(Acoustic\)](https://open.spotify.com/album/5c7gMpATd9TRWI9SRzslXD) | 2:25 | 2021-05-21 | 2022-07-16 |
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2019-10-13 |  |
+| [I'm Like a Bird \- Acoustic](https://open.spotify.com/track/3c8tm69G8hZTs8gJI99Pbe) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [I'm Like a Bird \(Acoustic\)](https://open.spotify.com/album/6k4uP5KtblJ7MNJKkQY54c) | 2:41 | 2023-01-03 |  |
 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 | 2020-11-04 |  |
 | [Issues \- Acoustic](https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1) | 2:55 | 2019-10-13 |  |
 | [I’m Still Standing \- Acoustic](https://open.spotify.com/track/2hnhNNo5Rk65UX8GIlhsAM) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [I’m Still Standing \(Acoustic\)](https://open.spotify.com/album/2GwQircFAs910nPqQUT7jP) | 3:01 | 2022-02-11 |  |
@@ -70,7 +71,7 @@
 | [Just the Two of Us \- Acoustic](https://open.spotify.com/track/4k77p0LNt3affQXC48hQuL) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Just the Two of Us \(Acoustic\)](https://open.spotify.com/album/5ZnOMhHHkpweib0MIYENDw) | 2:28 | 2022-01-28 |  |
 | [Just the Way You Are \- Acoustic](https://open.spotify.com/track/6gTiRT3y1IM6hViup2a2zv) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Just the Way You Are \(Acoustic\)](https://open.spotify.com/album/2eKuycoVymgIY5ZOnYS0nW) | 3:26 | 2022-07-15 | 2022-09-10 |
 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 | 2020-04-27 |  |
-| [Kid](https://open.spotify.com/track/5OxjeimztVQLHaykllrWsF) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Kid](https://open.spotify.com/album/5I30hAPHeyTJHhdtLiY5dK) | 3:31 | 2022-09-23 |  |
+| [Kid](https://open.spotify.com/track/5OxjeimztVQLHaykllrWsF) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Kid](https://open.spotify.com/album/5I30hAPHeyTJHhdtLiY5dK) | 3:31 | 2022-09-23 | 2023-01-04 |
 | [L\-O\-V\-E \- Acoustic](https://open.spotify.com/track/7y3BUNpjfXA2QHu2Ze7Ua4) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [L\-O\-V\-E \(Acoustic\)](https://open.spotify.com/album/6d70Le6UzZLbSxN51AXxET) | 2:45 | 2022-04-10 |  |
 | [Last Request \(Recorded at Bush Studios\) \- Live; Acoustic](https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Live Sessions](https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa) | 3:13 | 2019-10-13 |  |
 | [Let Her Go \- Acoustic](https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:26 | 2019-10-13 |  |

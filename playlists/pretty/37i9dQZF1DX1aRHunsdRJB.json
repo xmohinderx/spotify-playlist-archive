@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 8502,
+  "num_followers": 8507,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDEyYzIxMmY1MTk4NjIwOTc3MDY0OWViZTJkMGVlYzlj",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGFjOGIxZmFkYjZiYjc4M2FiZGQ2ZDRmNTFkYjUxZTZi",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -183,30 +183,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Conch Shell",
-        "url": "https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ"
-      },
-      "artists": [
-        {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
-        }
-      ],
-      "duration_ms": 192198,
-      "name": "Conch Shell",
-      "url": "https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Mind My Business",
         "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
       },
@@ -227,6 +203,30 @@
       "duration_ms": 119040,
       "name": "Mind My Business",
       "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Conch Shell",
+        "url": "https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+        }
+      ],
+      "duration_ms": 192198,
+      "name": "Conch Shell",
+      "url": "https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -339,38 +339,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Split in De Middle",
-        "url": "https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4"
-      },
-      "artists": [
-        {
-          "name": "Freezy",
-          "url": "https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Split in De Middle",
-      "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
       },
@@ -391,6 +359,38 @@
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Split in De Middle",
+        "url": "https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4"
+      },
+      "artists": [
+        {
+          "name": "Freezy",
+          "url": "https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Split in De Middle",
+      "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Lifestyle Riddim",
-        "url": "https://open.spotify.com/album/0osc1Nc5V2f1rhGYP35Tgg"
-      },
-      "artists": [
-        {
-          "name": "Intence",
-          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/6lMmcsTaGXqBJqKv1yKdbx"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Demon Girl",
         "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 202422,
       "name": "Demon Girl",
       "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Lifestyle Riddim",
+        "url": "https://open.spotify.com/album/0osc1Nc5V2f1rhGYP35Tgg"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/6lMmcsTaGXqBJqKv1yKdbx"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
-        "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
-      },
-      "artists": [
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        }
-      ],
-      "duration_ms": 194222,
-      "name": "Yuh Bad (No Stressing)",
-      "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Dear Promoter",
         "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 244578,
       "name": "Dear Promoter",
       "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
+        "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
+      },
+      "artists": [
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        }
+      ],
+      "duration_ms": 194222,
+      "name": "Yuh Bad (No Stressing)",
+      "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Arch & Bend Riddim Reloaded",
-        "url": "https://open.spotify.com/album/1UHFn0wek8vYkeargs63b1"
-      },
-      "artists": [
-        {
-          "name": "DJ Spider",
-          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
-        },
-        {
-          "name": "Klassik Frescobar",
-          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
-        }
-      ],
-      "duration_ms": 136663,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/5gIP7kfd73zpGwLaEPDJoQ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "The Art of Flex",
         "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 183875,
       "name": "Issa Snack",
       "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Arch & Bend Riddim Reloaded",
+        "url": "https://open.spotify.com/album/1UHFn0wek8vYkeargs63b1"
+      },
+      "artists": [
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        },
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "duration_ms": 136663,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/5gIP7kfd73zpGwLaEPDJoQ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Physique Riddim (Soca 2018 Trinidad and Tobago Carnival)",
-        "url": "https://open.spotify.com/album/3CIwIu98V54pWArwDuLvAG"
-      },
-      "artists": [
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 203499,
-      "name": "Rough Wine",
-      "url": "https://open.spotify.com/track/7lpwFH6GQr6q6A3nZKPwBH"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Stink Behavior",
         "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 211022,
       "name": "Stink Behavior",
       "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Physique Riddim (Soca 2018 Trinidad and Tobago Carnival)",
+        "url": "https://open.spotify.com/album/3CIwIu98V54pWArwDuLvAG"
+      },
+      "artists": [
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 203499,
+      "name": "Rough Wine",
+      "url": "https://open.spotify.com/track/7lpwFH6GQr6q6A3nZKPwBH"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Stage Gone Bad",
+        "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Stage Gone Bad",
+      "url": "https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Local Drum Riddim",
         "url": "https://open.spotify.com/album/6nrr7yxkhFC1GDCNeKoAkD"
       },
@@ -1027,22 +1047,6 @@
       "duration_ms": 151431,
       "name": "Bad in Bumbum",
       "url": "https://open.spotify.com/track/4NIhpYk93J8Xou2vZt3iIe"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Soca Virgin",
-        "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 185025,
-      "name": "Sexin",
-      "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Stage Gone Bad",
-        "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
+        "name": "Soca Virgin",
+        "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
       },
       "artists": [
         {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Stage Gone Bad",
-      "url": "https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy"
+      "duration_ms": 185025,
+      "name": "Sexin",
+      "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Mandrakes Riddim",
-        "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
-      },
-      "artists": [
-        {
-          "name": "Mandella Linkz",
-          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Tombstone",
-      "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Soca Gold 2012",
         "url": "https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 182773,
       "name": "Work",
       "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Mandrakes Riddim",
+        "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
+      },
+      "artists": [
+        {
+          "name": "Mandella Linkz",
+          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
     },
     {
       "added_at": "2022-02-24 18:00:00",

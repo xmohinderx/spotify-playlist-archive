@@ -4,7 +4,7 @@
 
 > Se acabó el amor\. La música continúa.
 
-180 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/5ip3Hsabx9kyB1i1dzdp3Y)
+181 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/5ip3Hsabx9kyB1i1dzdp3Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu) | 3:52 | 2021-12-06 |  |
 | [Lo Siento Mucho](https://open.spotify.com/track/6IXrEQi71AjuBV8AItJP2L) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Lo Siento Mucho](https://open.spotify.com/album/5AG046KuFMxYuCBl8sLqJd) | 3:18 | 2021-12-06 | 2022-07-29 |
 | [Lo Siento Mucho](https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:18 | 2022-07-21 |  |
-| [LUNA](https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [LUNA](https://open.spotify.com/album/5S6eyoaaK2EixfG9QqPf4J) | 2:38 | 2021-12-06 |  |
+| [LUNA](https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [LUNA](https://open.spotify.com/album/5S6eyoaaK2EixfG9QqPf4J) | 2:38 | 2021-12-06 | 2023-01-04 |
 | [Lunes](https://open.spotify.com/track/7z9Jw5U43JSvsJhqMcDyQh) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [Lunes](https://open.spotify.com/album/5aUdorMtJ3ZQlDUJW1iS6B) | 3:14 | 2021-12-06 | 2022-07-11 |
 | [Manos de Tijera](https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 4:27 | 2021-12-06 |  |
 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/0stIFBwUeaH8qpFe9aPl6w) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, Jose, Nacho \(TF1 Co\-Production\)](https://open.spotify.com/album/5IL38XjAFliyeLvngPqB83) | 2:54 | 2021-12-06 | 2022-07-29 |
@@ -117,7 +117,8 @@
 | [No Vuelvas](https://open.spotify.com/track/4KJJ3ZTK5SpAtQfBLUKgaS) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [No Vuelvas](https://open.spotify.com/album/0MaFgahYDdAgq85xXmA6Sz) | 3:45 | 2021-12-06 | 2022-07-26 |
 | [Nunca Voy a Olvidarte \- Primera Fila \- Live Version](https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:57 | 2021-12-06 |  |
 | [Otra Mañana Más](https://open.spotify.com/track/5j9td3zUP5z2OUauQKh40y) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Otra Mañana Más](https://open.spotify.com/album/65dPQq9OQzPjpNTXGwg5la) | 3:00 | 2021-12-06 | 2022-07-26 |
-| [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 | 2021-12-06 |  |
+| [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 | 2021-12-06 | 2023-01-04 |
+| [Oye](https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:53 | 2022-12-30 |  |
 | [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 | 2021-12-06 |  |
 | [Perdóname](https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:28 | 2022-07-21 |  |
 | [Perdóname](https://open.spotify.com/track/7xC6lsS3oaZNm2TzMRaoOu) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Perdóname](https://open.spotify.com/album/6aP0bqgpdbuYNN4kp9e5Lo) | 3:29 | 2021-12-06 | 2022-07-29 |
@@ -145,7 +146,7 @@
 | [Si tú no vuelves](https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Colección Definitiva](https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf) | 4:38 | 2021-12-06 |  |
 | [Siempre](https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Siempre](https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN) | 1:32 | 2022-07-21 |  |
 | [Sin Aire](https://open.spotify.com/track/00ftaJIOXTvlp6jAuxvAYs) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Sin Aire](https://open.spotify.com/album/1LsFNlupcPgPZ1vzJq14bn) | 2:53 | 2021-12-06 | 2022-01-06 |
-| [Son Tantas Cosas](https://open.spotify.com/track/54nYowFYNMP2buVxg73w6w) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Son Tantas Cosas](https://open.spotify.com/album/2QshaPSs5R2x3da2jCHrFj) | 2:24 | 2021-12-06 | 2022-12-31 |
+| [Son Tantas Cosas](https://open.spotify.com/track/54nYowFYNMP2buVxg73w6w) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Son Tantas Cosas](https://open.spotify.com/album/2QshaPSs5R2x3da2jCHrFj) | 2:24 | 2021-12-06 |  |
 | [Souvenir \- Acústico](https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Souvenir \(Acústico\)](https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY) | 3:18 | 2021-12-06 | 2022-07-28 |
 | [Tantas Ganas de Volver](https://open.spotify.com/track/0tonqHqn8V2CNgP90gUgNN) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk) | [Tantas Ganas de Volver](https://open.spotify.com/album/2yi4y8uEuyGMqjSY1UGpLS) | 3:04 | 2021-12-06 | 2022-07-17 |
 | [Tanto Amor \(feat\. Matisse\) \- El Viaje de Matisse](https://open.spotify.com/track/2zTxwFHPKf27XGpOhMr27N) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tanto Amor \(feat\. Matisse\) \[El Viaje de Matisse\]](https://open.spotify.com/album/71E9VK0oe7JYo7h226EgIH) | 3:48 | 2021-12-06 |  |

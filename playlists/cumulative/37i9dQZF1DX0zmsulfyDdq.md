@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-179 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
+181 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All Of You](https://open.spotify.com/track/34DdtKtJn9YaahjFCof7Dy) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Peace](https://open.spotify.com/album/7EKmT5c5WdYPLfwm8x8CRb) | 4:51 | 2022-04-15 |  |
 | [All the Pretty Little Horses](https://open.spotify.com/track/3Hh0gTu2vEWpX6Fzshi8Gl) | [Jackie Cusic](https://open.spotify.com/artist/6uANe2zVTu4iieBxdMpq6t) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 1:59 | 2022-05-23 |  |
 | [Baby Mine](https://open.spotify.com/track/4BU9s6QLGFCaxlgaPWWuFY) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 2:46 | 2022-04-15 |  |
+| [Baby Mine](https://open.spotify.com/track/1ToMbKFFrzMqVIfa6g1Es1) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Classics](https://open.spotify.com/album/5lUEkLzLPl4CBvZeZWSxb2) | 2:05 | 2023-01-03 |  |
 | [Baby Mine](https://open.spotify.com/track/0h5G987d8sIqIpMlNckOj4) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Lullaby Album](https://open.spotify.com/album/3UvlJDMb3sEH8lUk83598i) | 3:43 | 2022-04-15 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/4BDSVeSR26kux7TWzT96yI) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [Disney String Quartet](https://open.spotify.com/artist/2b602YRyv5MeW9DJPXulEu) | [Classically Disney](https://open.spotify.com/album/0rkBDkzhmUA3CV3DDZuiyN) | 2:48 | 2022-04-15 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/1h9sbBtqXjji9nnBsxaxNR) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 2:47 | 2022-05-23 |  |
@@ -120,6 +121,7 @@
 | [Puff The Magic Dragon \- Instrumental](https://open.spotify.com/track/1bFx9DWBFy1U7o7Dd6IQcU) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney's Lullaby Album Vol\. 2](https://open.spotify.com/album/3EV5xeChXvPoPh1lriE8sd) | 3:04 | 2022-04-15 |  |
 | [Puppy Dog Pals Main Title Theme](https://open.spotify.com/track/6MYrDeDsucEUvKAN2slOl7) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 | 2022-04-15 |  |
 | [Rainbow Connection](https://open.spotify.com/track/4PLVaLz8Fjbsr56w2xzEYH) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Soothing](https://open.spotify.com/album/1GOlhEiRHg9Y6eL2CKCa5Y) | 4:06 | 2022-04-15 |  |
+| [Rainbow Connection](https://open.spotify.com/track/610p0uyxEu4qzVVJ853otP) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Classics](https://open.spotify.com/album/5lUEkLzLPl4CBvZeZWSxb2) | 3:11 | 2023-01-03 |  |
 | [Rainbow Connection \- Instrumental](https://open.spotify.com/track/70n33U8GKmuyzbCvehaNmz) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney's Lullaby Album Vol\. 2](https://open.spotify.com/album/3EV5xeChXvPoPh1lriE8sd) | 3:30 | 2022-04-15 |  |
 | [Rainbow Connection \- Molly Miller Version](https://open.spotify.com/track/6fl2XHJc9FZg8JkCN9URXJ) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: The Molly Miller Sessions](https://open.spotify.com/album/0szinoL5gURrI9pxiL0KiN) | 3:47 | 2022-04-15 |  |
 | [Ratatouille Main Theme](https://open.spotify.com/track/3TKBtgtJSnH7XZN2Z628vT) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Serenity](https://open.spotify.com/album/5y3dlSPOy0X6TG6iGQDs3e) | 2:24 | 2022-04-15 |  |

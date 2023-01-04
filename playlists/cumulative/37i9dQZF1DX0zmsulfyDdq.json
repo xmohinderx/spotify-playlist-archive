@@ -344,6 +344,24 @@
     },
     {
       "album": {
+        "name": "Disney Peaceful Strings: Classics",
+        "url": "https://open.spotify.com/album/5lUEkLzLPl4CBvZeZWSxb2"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125781,
+      "name": "Baby Mine",
+      "url": "https://open.spotify.com/track/1ToMbKFFrzMqVIfa6g1Es1"
+    },
+    {
+      "album": {
         "name": "Disney Lullaby Album",
         "url": "https://open.spotify.com/album/3UvlJDMb3sEH8lUk83598i"
       },
@@ -2313,6 +2331,24 @@
       "duration_ms": 246548,
       "name": "Rainbow Connection",
       "url": "https://open.spotify.com/track/4PLVaLz8Fjbsr56w2xzEYH"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Strings: Classics",
+        "url": "https://open.spotify.com/album/5lUEkLzLPl4CBvZeZWSxb2"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191499,
+      "name": "Rainbow Connection",
+      "url": "https://open.spotify.com/track/610p0uyxEu4qzVVJ853otP"
     },
     {
       "album": {

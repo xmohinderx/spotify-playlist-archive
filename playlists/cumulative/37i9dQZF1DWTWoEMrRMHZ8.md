@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Majur
 
-362 songs - 21 hr 53 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
+363 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,8 @@
 | [Solar](https://open.spotify.com/track/227o8XANiHlNdAQC4UTpJK) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Solar](https://open.spotify.com/album/05ZhiHl1TZIpishuIxN8HK) | 2:50 | 2022-06-03 | 2022-06-18 |
 | [Som de Alceu](https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Som de Alceu](https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA) | 3:02 | 2022-12-16 |  |
 | [Soprou](https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Cinco](https://open.spotify.com/album/6DqXBagxY611pulprabgLw) | 5:02 | 2021-12-24 |  |
-| [Sozinho \- Ao Vivo](https://open.spotify.com/track/7j6o7nPDkvQMtNQWyChADe) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Bloco do Silva \#2 \(Ao Vivo\)](https://open.spotify.com/album/1I9x0dmslyXBNhj3pfDj4h) | 3:55 | 2022-12-09 |  |
+| [Sozinho \- Ao Vivo](https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Bloco Do Silva \#2 \(Ao Vivo\)](https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK) | 3:55 | 2022-12-16 |  |
+| [Sozinho \- Ao Vivo](https://open.spotify.com/track/7j6o7nPDkvQMtNQWyChADe) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Bloco do Silva \#2 \(Ao Vivo\)](https://open.spotify.com/album/1I9x0dmslyXBNhj3pfDj4h) | 3:55 | 2022-12-09 | 2023-01-04 |
 | [Sunsets For Somebody Else \(feat\. Rogê\) \- Brasil Version](https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Sunsets For Somebody Else & Big Sur \(Brasil Versions\)](https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf) | 3:53 | 2022-10-28 |  |
 | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy) | 3:29 | 2021-12-24 | 2022-02-19 |
 | [Só Sei Dançar Com Você \- Remix](https://open.spotify.com/track/5w6lysYJvK9IVBwzs8xm8G) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Junix 11](https://open.spotify.com/artist/5i8dUFpnBa8scW6cFv31lE), [João Milet Meirelles](https://open.spotify.com/artist/7aAQOBQqV4EPE7pmyCMjKo) | [Efêmera \(Remix\)](https://open.spotify.com/album/60kjU0d3OHVUBrHjr6Bi9G) | 4:04 | 2022-08-26 |  |

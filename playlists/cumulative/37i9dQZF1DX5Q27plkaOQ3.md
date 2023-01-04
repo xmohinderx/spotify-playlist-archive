@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Jessica Audiffred
 
-284 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+285 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [collusion](https://open.spotify.com/track/1fuD0mWleShbrcRQmFYifG) | [phonon](https://open.spotify.com/artist/4CySw3P8BeBPMBr9Rymc8Y), [benjamin francis](https://open.spotify.com/artist/77orLdlSeYbDKQwXPbXQMB) | [collusion](https://open.spotify.com/album/2G3OTX6tRPNNOjl7d5oeOY) | 2:56 | 2022-04-01 | 2022-07-27 |
 | [Control \(feat\. Add1ction\)](https://open.spotify.com/track/5oWyUpdAW3PqOg8lSiRxli) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Add1ction](https://open.spotify.com/artist/4RDLjBccKYkC5mJqxDEbt6) | [Control \(feat\. Add1ction\)](https://open.spotify.com/album/58yeuRwPRp7KFoIn0uhtzw) | 3:15 | 2021-12-17 | 2022-03-12 |
 | [Crash Landing](https://open.spotify.com/track/3nwiXEeuhYGWszEWPOzvK4) | [Barely Alive](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [Drew Seeley](https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs) | [Feel The Panic EP](https://open.spotify.com/album/0cqklN2AwGsjJpKwBAvfmZ) | 3:12 | 2022-11-11 |  |
+| [Creep Killa](https://open.spotify.com/track/2gahSUGM2ddz48vXK58fHt) | [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG) | [Creep Killa](https://open.spotify.com/album/3yGwMpuWBMl6kEXmIUVy0s) | 3:46 | 2022-12-16 |  |
 | [Crush \- VIP](https://open.spotify.com/track/4BiF66d4NFyRBCSFAwTucJ) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Crush \(VIP\)](https://open.spotify.com/album/2IdrcmtQZbqPqdNDS4uwpi) | 4:30 | 2021-12-17 | 2022-03-12 |
 | [Cut Throat](https://open.spotify.com/track/4x1SZsoKaJGOCEgg9EF4Uz) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut) | [Cut Throat](https://open.spotify.com/album/3UkvAjIq7eO6ic2CvAOWnI) | 2:38 | 2021-12-17 | 2022-03-12 |
 | [Dawn Of The Dead \- Radio Edit](https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Dawn Of The Dead](https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV) | 3:42 | 2022-04-01 |  |
@@ -220,7 +221,7 @@
 | [Run It Up](https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Sam King](https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL) | [Run It Up EP](https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8) | 3:02 | 2022-08-19 | 2022-12-17 |
 | [Run The Track](https://open.spotify.com/track/05yBkD9lV6UFGWaDzsUuGG) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm) | [Run The Track](https://open.spotify.com/album/43IRE7J84IxX9vLBJUfINF) | 2:35 | 2022-11-18 | 2022-12-08 |
 | [Sapphire Channel](https://open.spotify.com/track/1X287ADgxHe8FIEZnmfQct) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs) | [Sapphire Channel](https://open.spotify.com/album/4BbfnEztMS9SeTffYj4baj) | 4:25 | 2022-05-06 | 2022-07-29 |
-| [Satellite](https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Satellite](https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq) | 3:46 | 2022-07-22 |  |
+| [Satellite](https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Satellite](https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq) | 3:46 | 2022-07-22 | 2023-01-04 |
 | [Say It](https://open.spotify.com/track/2N8bcxtfN6hMxPVnTCnJxQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Say It](https://open.spotify.com/album/1EfgitaTG6dtXI5vR8fuhP) | 3:04 | 2022-11-11 | 2022-12-20 |
 | [Scouts Honor](https://open.spotify.com/track/1LD0tIZELqjVcgoIvltR5V) | [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Scouts Honor](https://open.spotify.com/album/0Hpndb5MNHqbS09ATOLpHI) | 3:34 | 2022-03-11 | 2022-08-20 |
 | [Secrecy](https://open.spotify.com/track/0BWUe6CyAcJBZMlM0I18gF) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [SECRECY EP](https://open.spotify.com/album/6nDX5W0XTS1KBbpVLtOpA8) | 3:07 | 2022-07-29 |  |

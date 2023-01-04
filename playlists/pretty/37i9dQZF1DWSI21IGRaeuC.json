@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 13066,
+  "num_followers": 13120,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGMxMDdkYWMzNjM1YWUzNDc1ZWZiNTAwMjgyYzRiNzli",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDAzYWNiNGU3MzM5ZmJiYTk5NmE1N2RlM2QyMjk2Mjhl",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -549,6 +549,22 @@
       "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "YAP EP",
+        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
+      },
+      "artists": [
+        {
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+        }
+      ],
+      "duration_ms": 246474,
+      "name": "YAP",
+      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Trip",
@@ -567,22 +583,6 @@
       "duration_ms": 223880,
       "name": "Trip",
       "url": "https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "YAP EP",
-        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
-      },
-      "artists": [
-        {
-          "name": "Kollektiv Turmstrasse",
-          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
-        }
-      ],
-      "duration_ms": 246474,
-      "name": "YAP",
-      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
     },
     {
       "added_at": "2022-07-01 04:01:00",

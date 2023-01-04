@@ -1636,6 +1636,24 @@
     },
     {
       "album": {
+        "name": "Light Me Up",
+        "url": "https://open.spotify.com/album/5fypWkFEoxzC5pxCQroWWa"
+      },
+      "artists": [
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Light Me Up",
+      "url": "https://open.spotify.com/track/2qPizVN4OGkFLptaGLanyO"
+    },
+    {
+      "album": {
         "name": "Like A Stone",
         "url": "https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6"
       },

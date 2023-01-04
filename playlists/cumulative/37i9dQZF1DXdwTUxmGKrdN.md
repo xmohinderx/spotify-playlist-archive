@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-205 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+206 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Chill or Be Chilled](https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [The Limit's the Sky](https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S) | 3:43 | 2022-01-17 | 2022-07-29 |
 | [Close Your Eyes](https://open.spotify.com/track/4d12NDxv7ol5lMJemDsWXJ) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' the Faith](https://open.spotify.com/album/0JBQoZCxqbAAjIBMq0Qz1T) | 5:05 | 2021-12-27 | 2022-07-03 |
 | [Co\-Motion](https://open.spotify.com/track/7aCzaOsXIRC28tE7bjJ7JK) | [Lemek](https://open.spotify.com/artist/52LGkbSlh5X2HM5hRnL83v) | [Co\-Motion](https://open.spotify.com/album/5nQi9bFWOclcf9zFzJi1qs) | 4:07 | 2022-11-14 |  |
+| [Consequences](https://open.spotify.com/track/2Iw7eGTRmSALk6toRy9tw6) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D) | 3:56 | 2023-01-02 |  |
 | [Consequences](https://open.spotify.com/track/6yLOYaqyHjHBiAIGwEj1Xt) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/4wjBRmKPL5VVnLwEBZ0GtR) | 3:56 | 2021-12-27 | 2022-07-27 |
 | [Cruising](https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 5:38 | 2022-08-01 |  |
 | [Cruising](https://open.spotify.com/track/7C90grbsFHtsmGac0clKhm) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/5m0YhT07QfRVhcnjGmrBZS) | 5:38 | 2021-12-27 | 2022-07-12 |
@@ -80,7 +81,7 @@
 | [Get Up, Stand Up](https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq), [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi) | 4:57 | 2022-07-18 |  |
 | [Golden](https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Rite of Passage](https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A) | 3:46 | 2022-04-11 | 2022-10-01 |
 | [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 | 2021-12-27 | 2022-10-23 |
-| [Gypsy Soul](https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Gypsy Soul](https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld) | 3:42 | 2022-04-11 |  |
+| [Gypsy Soul](https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Gypsy Soul](https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld) | 3:42 | 2022-04-11 | 2023-01-04 |
 | [Happy Go Lucky](https://open.spotify.com/track/1qgmJ4zIuP3PX0M5Exdv98) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Paul Hardcastle 8](https://open.spotify.com/album/2s9Zd05UpwRAoTQnwAmCIU) | 4:14 | 2021-12-27 | 2022-07-24 |
 | [Heading Wes](https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Heart To Heart](https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ) | 3:21 | 2022-08-15 |  |
 | [High Five](https://open.spotify.com/track/7ma00O08o0Lt5GZNwvJndk) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [\#1 Smooth Jazz Radio Hits!](https://open.spotify.com/album/6xHtFEfao5zXEbu1BJXFyY) | 4:57 | 2022-04-11 | 2022-04-21 |

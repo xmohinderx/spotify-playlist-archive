@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 38560,
+  "num_followers": 38633,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDg5NTEwNiwwMDAwMDAwMGM4OWZlNDI5MGJhYmE5YzcyMjQwMjI4NjZiNGY4OWI5",
+  "snapshot_id": "MTYzNDg5NTEwNiwwMDAwMDAwMDNkNDNiZDIxOGEzNTk5Mzk3MzFiN2IxZmEzZGNhZWM4",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -423,22 +423,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "The Craic Is Mighty",
-        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
-      },
-      "artists": [
-        {
-          "name": "The Dicey Rileys",
-          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "The Black Velvet Band",
-      "url": "https://open.spotify.com/track/3p9Bw4IitBaQYSoVbv9tED"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Irish Folk: Adieu to Old Ireland",
         "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 234600,
       "name": "Andy's - Lafferty's - Marian's Favourite",
       "url": "https://open.spotify.com/track/4G0r7DBN8im4K5mg5fh6Jg"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "The Craic Is Mighty",
+        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
+      },
+      "artists": [
+        {
+          "name": "The Dicey Rileys",
+          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "The Black Velvet Band",
+      "url": "https://open.spotify.com/track/3p9Bw4IitBaQYSoVbv9tED"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -575,18 +575,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Irish Folk: Adieu to Old Ireland",
-        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
+        "name": "The Craic Is Mighty",
+        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
       },
       "artists": [
         {
-          "name": "House Devils, The",
-          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+          "name": "The Dicey Rileys",
+          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
         }
       ],
-      "duration_ms": 189840,
-      "name": "Handsome Molly",
-      "url": "https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF"
+      "duration_ms": 137146,
+      "name": "Dicey Reilly",
+      "url": "https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -607,18 +607,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "The Craic Is Mighty",
-        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
+        "name": "Irish Folk: Adieu to Old Ireland",
+        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
       },
       "artists": [
         {
-          "name": "The Dicey Rileys",
-          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
         }
       ],
-      "duration_ms": 137146,
-      "name": "Dicey Reilly",
-      "url": "https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH"
+      "duration_ms": 189840,
+      "name": "Handsome Molly",
+      "url": "https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF"
     },
     {
       "added_at": "2021-04-26 15:38:07",

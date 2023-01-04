@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1155,
+  "num_followers": 1153,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE4OTc1NCwwMDAwMDAwMGQ3MGViYzFiZjE3ZjAyZjYxY2M4MTIzYTY1ZTM5MTU1",
+  "snapshot_id": "MTY3MTE4OTc1NCwwMDAwMDAwMDcxNzNjMGQ5ZDQ2NDI4OGIyZDhkMDc0MzhlNjNlZDQ1",
   "tracks": [
     {
       "added_at": "2022-12-16 11:22:34",
@@ -333,6 +333,22 @@
       "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+    },
+    {
       "added_at": "2022-11-10 20:59:00",
       "album": {
         "name": "BESTIE",
@@ -363,22 +379,6 @@
       "duration_ms": 156055,
       "name": "Wangi",
       "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Your Number (Acoustic)",
-        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
-      },
-      "artists": [
-        {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        }
-      ],
-      "duration_ms": 136818,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
       },
@@ -493,26 +509,6 @@
       "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
-      "added_at": "2022-11-25 11:45:40",
-      "album": {
-        "name": "RainFall",
-        "url": "https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK"
-      },
-      "artists": [
-        {
-          "name": "HerbertSkillz",
-          "url": "https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba"
-        },
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        }
-      ],
-      "duration_ms": 209411,
-      "name": "RainFall",
-      "url": "https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP"
-    },
-    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Omu",
@@ -537,36 +533,24 @@
       "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
+      "added_at": "2022-11-25 11:45:40",
       "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
+        "name": "RainFall",
+        "url": "https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK"
       },
       "artists": [
         {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Riri",
-        "url": "https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn"
-      },
-      "artists": [
+          "name": "HerbertSkillz",
+          "url": "https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba"
+        },
         {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         }
       ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
+      "duration_ms": 209411,
+      "name": "RainFall",
+      "url": "https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -585,6 +569,22 @@
       "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
     },
     {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Riri",
+        "url": "https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
+    },
+    {
       "added_at": "2022-11-17 20:59:00",
       "album": {
         "name": "Kwetega",
@@ -599,22 +599,6 @@
       "duration_ms": 216960,
       "name": "Kwetega",
       "url": "https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
     },
     {
       "added_at": "2022-11-17 20:59:00",
@@ -635,6 +619,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
       },
@@ -647,6 +647,38 @@
       "duration_ms": 259071,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
+    },
+    {
+      "added_at": "2022-12-09 12:00:13",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/1lHtZjjRSOLUKtmCSgJtwl"
+      },
+      "artists": [
+        {
+          "name": "Chuksie",
+          "url": "https://open.spotify.com/artist/323SE5PFfnWu57IFUofLi9"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4tzCs4k7soTCL1HWZvGBhN"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 193859,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -679,22 +711,6 @@
       "duration_ms": 260075,
       "name": "Akahama",
       "url": "https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Doctor",
-        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Doctor",
-      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -745,22 +761,6 @@
       "url": "https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu"
     },
     {
-      "added_at": "2022-12-09 12:00:13",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/1lHtZjjRSOLUKtmCSgJtwl"
-      },
-      "artists": [
-        {
-          "name": "Chuksie",
-          "url": "https://open.spotify.com/artist/323SE5PFfnWu57IFUofLi9"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4tzCs4k7soTCL1HWZvGBhN"
-    },
-    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Where I Go",
@@ -779,6 +779,26 @@
       "duration_ms": 175200,
       "name": "Where I Go",
       "url": "https://open.spotify.com/track/2FU8JRZMQ6il2cj4iqbH4Z"
+    },
+    {
+      "added_at": "2022-11-10 20:59:00",
+      "album": {
+        "name": "Zinge",
+        "url": "https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo"
+      },
+      "artists": [
+        {
+          "name": "Play01",
+          "url": "https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG"
+        },
+        {
+          "name": "Adrenalyn Muzik",
+          "url": "https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Zinge",
+      "url": "https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk"
     },
     {
       "added_at": "2022-10-06 21:00:00",
@@ -883,22 +903,6 @@
       "duration_ms": 184400,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Thc ( Too High to Concentrate )",
-        "url": "https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q"
-      },
-      "artists": [
-        {
-          "name": "Blaqface",
-          "url": "https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Thc ( Too High to Concentrate )",
-      "url": "https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9"
     }
   ],
   "unique_name": "Made In Uganda",

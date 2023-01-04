@@ -4,7 +4,7 @@
 
 > Fresh Finds Indonesia mempersembahkan: angkatan 2022 yang bersinar\. \#SpotifyWrapped Cover: Bernadya
 
-1,310 songs - 3 day 8 hr 5 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+1,311 songs - 3 day 8 hr 9 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,8 @@
 | [Desolate Disposition](https://open.spotify.com/track/6z6LcWeSesxIUPypOdK6Zh) | [The High Temples](https://open.spotify.com/artist/36ku8N2i3yWGUZlp1Zm3Wh) | [Desolate Disposition](https://open.spotify.com/album/2dJuFFX5HN5vaISd6AoNf6) | 4:26 | 2022-02-17 | 2022-03-05 |
 | [Destiny](https://open.spotify.com/track/7yQILsI0Spo3GJjMcgO4Zk) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF) | [Destiny](https://open.spotify.com/album/2HjCEHPpi6PGxEqbh0w4Mx) | 3:50 | 2022-02-24 | 2022-03-11 |
 | [Di Antara](https://open.spotify.com/track/76eseGcCmP8LOfRbR02Wql) | [Alter](https://open.spotify.com/artist/0jQOxBEOftshtmzEzLywT8) | [DUA DOA](https://open.spotify.com/album/4i9XYGAhryquDvv91cMXRV) | 4:02 | 2022-05-26 | 2022-06-10 |
-| [Di Antara Cinta](https://open.spotify.com/track/3TWHzDiLfO4pU6tZklMhQ6) | [Aidil Saputra](https://open.spotify.com/artist/3kaVaY8A7Qe48YCkJuZZXd) | [Di Antara Cinta](https://open.spotify.com/album/3omp2LDIfA3JK9r67mnxy6) | 3:52 | 2022-06-30 |  |
+| [Di Antara Cinta](https://open.spotify.com/track/0xmTWJOjGRbtPa5gmgZcLp) | [Aidil Saputra](https://open.spotify.com/artist/3kaVaY8A7Qe48YCkJuZZXd) | [Di Antara Cinta](https://open.spotify.com/album/7CDsPOdZIbEbPuwpUBczY5) | 3:52 | 2022-11-30 |  |
+| [Di Antara Cinta](https://open.spotify.com/track/3TWHzDiLfO4pU6tZklMhQ6) | [Aidil Saputra](https://open.spotify.com/artist/3kaVaY8A7Qe48YCkJuZZXd) | [Di Antara Cinta](https://open.spotify.com/album/3omp2LDIfA3JK9r67mnxy6) | 3:52 | 2022-06-30 | 2023-01-04 |
 | [Dia](https://open.spotify.com/track/0fZfGuXeSL9O9algr4Yjmn) | [Sanctuary Moon](https://open.spotify.com/artist/6dK7kZMMPNAkkPmt9Ndjfu) | [Dia](https://open.spotify.com/album/5H0zzM5egYxwgD7GoQpjGg) | 3:34 | 2022-02-03 | 2022-02-18 |
 | [Dieng & Rindu](https://open.spotify.com/track/7DfD5uEQErUVfS9vhS6Y6a) | [Saptu](https://open.spotify.com/artist/49oINsb4jSzxF3zz0tcmJ1) | [Dieng & Rindu](https://open.spotify.com/album/5H7jkSbDtQcucykvyF4uKh) | 2:57 | 2022-09-15 | 2022-09-30 |
 | [Dikota Yang Sama](https://open.spotify.com/track/3noalAM3VwwhSvMwgRtOdb) | [Malik Ros](https://open.spotify.com/artist/1iMm7HKmKXs1MNVQ6genf3), [Galuhky](https://open.spotify.com/artist/5NVrgt74uUFoGxHr2Q3Yhz), [Luseta](https://open.spotify.com/artist/4YRkCA6u7aoyzyVowhUFnV) | [Dikota Yang Sama](https://open.spotify.com/album/63kHly6Wb8EGDgqCG8iCw3) | 3:16 | 2022-07-28 | 2022-08-12 |

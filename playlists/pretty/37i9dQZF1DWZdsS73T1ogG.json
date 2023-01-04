@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: YOVNGCHIMI & Lunay",
-  "num_followers": 510464,
+  "num_followers": 510492,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyOTAyMiwwMDAwMDAwMGExYTliOTM1MzAzODJiY2EzNDllNjQ3ZTRkOGQxZDQ0",
+  "snapshot_id": "MTY3MjQyOTAyMiwwMDAwMDAwMGVmNTE3N2Y3NjdlNjhjODJjZTNhNmUwNGVkMzM5ZTli",
   "tracks": [
     {
       "added_at": "2022-12-29 07:16:19",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "SIXDO",
+        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 168133,
+      "name": "CHORRITO PA LAS ANIMAS",
+      "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "En La De Ella",
         "url": "https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 230653,
       "name": "En La De Ella",
       "url": "https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "SIXDO",
-        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 168133,
-      "name": "CHORRITO PA LAS ANIMAS",
-      "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "Ya Casi Vienen",
-        "url": "https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Foto En Panty",
-      "url": "https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
         "name": "Los Piratas",
         "url": "https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 182593,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/5mPuQwzVR3E7N43FxBBljc"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
+        "name": "Ya Casi Vienen",
+        "url": "https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "Foto En Panty",
+      "url": "https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -871,6 +871,26 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208894,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/7it0u6IGJQLRX9Q9q7vgOj"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "S\u00edntomas de Soltera",
         "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 241908,
       "name": "S\u00edntomas de Soltera",
       "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "La \u00daltima Misi\u00f3n",
-        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208894,
-      "name": "Vapor",
-      "url": "https://open.spotify.com/track/7it0u6IGJQLRX9Q9q7vgOj"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1027,18 +1027,30 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "Fundota",
-        "url": "https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo"
+        "name": "Hot Sauce (feat. Ovi)",
+        "url": "https://open.spotify.com/album/5pNdT65jzSdRC9OBVNyCbC"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
         }
       ],
-      "duration_ms": 140666,
-      "name": "Fundota",
-      "url": "https://open.spotify.com/track/5MZIwnOllAg7HCrWpjSIXu"
+      "duration_ms": 277714,
+      "name": "Hot Sauce (feat. Ovi)",
+      "url": "https://open.spotify.com/track/53AR3UfALKm0L8FRsz2FCf"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1083,30 +1095,18 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "Hot Sauce (feat. Ovi)",
-        "url": "https://open.spotify.com/album/5pNdT65jzSdRC9OBVNyCbC"
+        "name": "Fundota",
+        "url": "https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo"
       },
       "artists": [
         {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         }
       ],
-      "duration_ms": 277714,
-      "name": "Hot Sauce (feat. Ovi)",
-      "url": "https://open.spotify.com/track/53AR3UfALKm0L8FRsz2FCf"
+      "duration_ms": 140666,
+      "name": "Fundota",
+      "url": "https://open.spotify.com/track/5MZIwnOllAg7HCrWpjSIXu"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/5InIWV3przLuEIDwlbtxyU"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "duration_ms": 132080,
+      "name": "Adentro",
+      "url": "https://open.spotify.com/track/4kG3m7rHjUJUJjhphH2m99"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "Nadie Nos Vio - Spotify Singles",
         "url": "https://open.spotify.com/album/5TCDz405Ejfs2yEK9Mgu8c"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 160311,
       "name": "Nadie Nos Vio - Spotify Singles",
       "url": "https://open.spotify.com/track/0BibHMUWAVk5R4R0EpUOfX"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "Adentro",
-        "url": "https://open.spotify.com/album/5InIWV3przLuEIDwlbtxyU"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        }
-      ],
-      "duration_ms": 132080,
-      "name": "Adentro",
-      "url": "https://open.spotify.com/track/4kG3m7rHjUJUJjhphH2m99"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1351,6 +1351,34 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "SUSANA (Remix)",
+        "url": "https://open.spotify.com/album/6j7F1URZEkmzMLrhid2yQB"
+      },
+      "artists": [
+        {
+          "name": "Leo Bash",
+          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "SUSANA (Remix)",
+      "url": "https://open.spotify.com/track/15aQ8FSDgo0SCmhIXvdyWP"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
       },
@@ -1407,6 +1435,22 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "La Torta",
+        "url": "https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA"
+      },
+      "artists": [
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 170589,
+      "name": "La Torta",
+      "url": "https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "Desacat\u00e1",
         "url": "https://open.spotify.com/album/2riif8Lab8JyhLAPZiVKMs"
       },
@@ -1423,22 +1467,6 @@
       "duration_ms": 172340,
       "name": "Desacat\u00e1",
       "url": "https://open.spotify.com/track/4csBBYayvELqvO34oeO7xz"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "La Torta",
-        "url": "https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA"
-      },
-      "artists": [
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 170589,
-      "name": "La Torta",
-      "url": "https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1503,34 +1531,6 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "SUSANA (Remix)",
-        "url": "https://open.spotify.com/album/6j7F1URZEkmzMLrhid2yQB"
-      },
-      "artists": [
-        {
-          "name": "Leo Bash",
-          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
-        },
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        },
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "SUSANA (Remix)",
-      "url": "https://open.spotify.com/track/15aQ8FSDgo0SCmhIXvdyWP"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
         "name": "Puntos D\u00e9biles",
         "url": "https://open.spotify.com/album/3CnLeyns2pf6kbMCuFq6zJ"
       },
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "Mala Mala",
+        "url": "https://open.spotify.com/album/1frlcT5Y4gcNgIW2v1ZXyL"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Mala Mala",
+      "url": "https://open.spotify.com/track/3L7xk3OegOjSmBSJ6P0W7g"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "Cinco",
         "url": "https://open.spotify.com/album/6xU2rOCRu56Dc9ccFHunbJ"
       },
@@ -1603,18 +1619,22 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "Mala Mala",
-        "url": "https://open.spotify.com/album/1frlcT5Y4gcNgIW2v1ZXyL"
+        "name": "La Mini",
+        "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
       },
       "artists": [
         {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Mala Mala",
-      "url": "https://open.spotify.com/track/3L7xk3OegOjSmBSJ6P0W7g"
+      "duration_ms": 213831,
+      "name": "La Mini",
+      "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1635,26 +1655,6 @@
       "duration_ms": 194386,
       "name": "Bellaco",
       "url": "https://open.spotify.com/track/3ovRB3QpcqLPOFgY5F8iYa"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "La Mini",
-        "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 213831,
-      "name": "La Mini",
-      "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "Peligrosa",
-        "url": "https://open.spotify.com/album/1TEaCjr1kDMwRBhAgXi73f"
-      },
-      "artists": [
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "Peligrosa",
-      "url": "https://open.spotify.com/track/2upMjtpyomQO398aVCOW0R"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
         "name": "PITUQUITA",
         "url": "https://open.spotify.com/album/0sVsSDFI6CBJIKaK5cF0yE"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 183813,
       "name": "PITUQUITA",
       "url": "https://open.spotify.com/track/1oksgOdMDrzC1qSnBB4ErK"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
+        "name": "Peligrosa",
+        "url": "https://open.spotify.com/album/1TEaCjr1kDMwRBhAgXi73f"
+      },
+      "artists": [
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/2upMjtpyomQO398aVCOW0R"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -2003,18 +2003,22 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "Inalcanzable",
-        "url": "https://open.spotify.com/album/4ONgWtVITzY9HjFGWk8OyK"
+        "name": "Panas",
+        "url": "https://open.spotify.com/album/2ErDXZjybH2hnAwNe6PWzf"
       },
       "artists": [
         {
-          "name": "Gotay \"El Autentiko\"",
-          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
+          "name": "Kapla y Miky",
+          "url": "https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
         }
       ],
-      "duration_ms": 149932,
-      "name": "Inalcanzable",
-      "url": "https://open.spotify.com/track/1YscXjm7Is99GXDkxVDCkn"
+      "duration_ms": 217674,
+      "name": "Panas",
+      "url": "https://open.spotify.com/track/0pw3Dd2IECWlyljlK94yYc"
     }
   ],
   "unique_name": "el nuevo urbano",

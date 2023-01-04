@@ -4,7 +4,7 @@
 
 > Zola au top de la première playlist de rap français !
 
-125 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
+127 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [MOLLY \- A COLORS SHOW](https://open.spotify.com/track/6KNw3UKRp3QRsO7Cf4ASVE) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [MOLLY \- A COLORS SHOW](https://open.spotify.com/album/6ZIJvsgdRVinkp5FaVbgRz) | 2:22 | 2022-06-09 | 2022-08-26 |
 | [Mon poto \- Extrait de la BO de « En Passant Pécho »](https://open.spotify.com/track/1SelxYHPb04GjUy0oYV1Jw) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En Passant Pécho \(Bande originale inspirée du film\)](https://open.spotify.com/album/5Z31afWU0NIldn8hRK5CZq) | 3:03 | 2022-01-06 | 2022-02-04 |
 | [Mozart Capitaine Jackson \(Episode 2\)](https://open.spotify.com/track/6C5GEPPhz7XyXPE2rYhu98) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mozart Capitaine Jackson \(Episode 2\)](https://open.spotify.com/album/25CWaYpI4ZIrJV3YbRaxfi) | 3:20 | 2022-03-03 | 2022-11-18 |
-| [Mr\. Ocho](https://open.spotify.com/track/1X5U5wtor2IFwM1RaeDGgx) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:46 | 2022-12-22 |  |
+| [Mr\. Ocho](https://open.spotify.com/track/1X5U5wtor2IFwM1RaeDGgx) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:46 | 2022-12-22 | 2023-01-04 |
+| [Mr\. Ocho](https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:46 | 2022-12-29 |  |
 | [N.I](https://open.spotify.com/track/4H1CfsnXQonWnJeHzHuVUz) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [N.I](https://open.spotify.com/album/0LsSz4wemYvMIr5l0AUUR9) | 2:59 | 2022-01-06 | 2022-10-21 |
 | [NEYMAR JR](https://open.spotify.com/track/3ejRaW9IZCWkr15JN2OpQO) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [NOSTALGIA+](https://open.spotify.com/album/6ZINcIMQXxeGL6hvC7nG75) | 2:45 | 2022-05-05 | 2022-11-11 |
 | [Nintch](https://open.spotify.com/track/57ogeKenA6Q9sFnWTuloKy) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Agis ou Rêve](https://open.spotify.com/artist/2orsIwfNhcubub42sK74uP) | [Nintch](https://open.spotify.com/album/1h2DffxQt1NMDczFScHo3p) | 2:56 | 2022-01-06 | 2022-06-10 |
@@ -110,7 +111,8 @@
 | [RAPPEL](https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [RAPPEL](https://open.spotify.com/album/3z01IFOidqCtkFb7mbgffD) | 3:37 | 2022-07-07 |  |
 | [Redescends](https://open.spotify.com/track/1kXFslzdPEkOs5QC5GkdN4) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends](https://open.spotify.com/album/5lmmRtv80XbKm3EqS1AReB) | 2:39 | 2022-07-21 | 2022-08-07 |
 | [Redescends](https://open.spotify.com/track/28zg9v5FxWP2H6l7FPKVRX) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Hits France 2022 Vol.3](https://open.spotify.com/album/4YeDJ4JoEvnMzMYMpHpQh7) | 2:39 | 2022-11-10 | 2022-11-13 |
-| [Redescends](https://open.spotify.com/track/36Tq4bva4dIMWcsq7gHDRH) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 2:41 | 2022-12-01 |  |
+| [Redescends](https://open.spotify.com/track/17iXucMQMB1Ph3sXU3ZOMi) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:41 | 2022-12-29 |  |
+| [Redescends](https://open.spotify.com/track/36Tq4bva4dIMWcsq7gHDRH) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 2:41 | 2022-12-01 | 2023-01-04 |
 | [Redescends \(feat Tiakola\)](https://open.spotify.com/track/0hveTnaqO8nXDMwwsJGJI3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends \(feat Tiakola\)](https://open.spotify.com/album/4KaUWIjzjEyF5KZTKcHQCh) | 2:39 | 2022-08-04 | 2022-12-05 |
 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2022-03-31 | 2022-09-16 |
 | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U) | 2:44 | 2022-04-28 | 2022-12-02 |

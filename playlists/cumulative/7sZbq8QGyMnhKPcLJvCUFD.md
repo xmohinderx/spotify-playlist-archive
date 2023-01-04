@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-166 songs - 8 hr 34 min - not published yet
+167 songs - 8 hr 37 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Insanity](https://open.spotify.com/track/0WeJnIFRnS47MlUGdbEgur) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Insanity](https://open.spotify.com/album/5tfyZzAih0ofeTATvxvd1i) | 2:59 | 2022-11-23 |  |
 | [Invisible](https://open.spotify.com/track/1QQ1Dx8dcLgWvUaY5fk84y) | [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq), [Julius Dreisig](https://open.spotify.com/artist/72fdBvuHxCR7PLvj0osbhR) | [Invisible](https://open.spotify.com/album/1QK215qFVGRk5ReFGXdxzT) | 3:21 | 2022-06-23 |  |
 | [Island](https://open.spotify.com/track/0HLIREe3r8bkSm2YeYDssV) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Island](https://open.spotify.com/album/3Pm66oCioMJ8QZl51zzvBj) | 2:09 | 2022-06-21 |  |
+| [Light Me Up](https://open.spotify.com/track/2qPizVN4OGkFLptaGLanyO) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [Light Me Up](https://open.spotify.com/album/5fypWkFEoxzC5pxCQroWWa) | 3:01 | 2023-01-03 |  |
 | [Like A Stone](https://open.spotify.com/track/6lQO0zv1x5jmEVvXIPdrbm) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Like A Stone](https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6) | 3:25 | 2022-09-08 |  |
 | [Like You](https://open.spotify.com/track/46Ovm5iZ1gL10LpmA5p5xt) | [MILANE](https://open.spotify.com/artist/0z2OtfZd64An27e6rvWPpm), [Greg Aven](https://open.spotify.com/artist/5Zi4sxxjUo0cgzcMrpUIhc) | [Like You](https://open.spotify.com/album/1ZcPQjNXSrV8DBF47vABNg) | 2:30 | 2022-04-19 |  |
 | [Losing](https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Losing](https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad) | 2:41 | 2022-12-08 |  |

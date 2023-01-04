@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 15024,
+  "num_followers": 15030,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGMyMmU0OWNjZjBlNjNmNGUyY2MyNjczMTdhMmI2ZGNi",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGI3Y2FkZGRiMDBmZGQ2MWEyN2I3NDYzY2Q2NTVlNzRh",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Neon Jungle Remixes",
+        "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 249919,
+      "name": "Neon Jungle - Lane 8 Remix",
+      "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Follow (with Jeremih) [Dillon Francis Remix]",
         "url": "https://open.spotify.com/album/6ORDApaeeYyezXhpGXc2HV"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 186240,
       "name": "Follow (with Jeremih) [Dillon Francis Remix]",
       "url": "https://open.spotify.com/track/2eomAcNgNQTogi2Y4apBKh"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Neon Jungle Remixes",
-        "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 249919,
-      "name": "Neon Jungle - Lane 8 Remix",
-      "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1687,30 +1687,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Anywhere (Tujamo Remix)",
-        "url": "https://open.spotify.com/album/4b0VH42ioq2Dwkdq9P57MT"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        },
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 157138,
-      "name": "Anywhere - Tujamo Remix",
-      "url": "https://open.spotify.com/track/5F4M2SV3RSBRExodlp8aEt"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Underwater (Dombresky Remix)",
         "url": "https://open.spotify.com/album/1nc7oYlY0Dvy5bCOdEzb25"
       },
@@ -1731,6 +1707,30 @@
       "duration_ms": 161500,
       "name": "Underwater - Dombresky Remix",
       "url": "https://open.spotify.com/track/2Dg1l36X48GhvtBAZKna9z"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Anywhere (Tujamo Remix)",
+        "url": "https://open.spotify.com/album/4b0VH42ioq2Dwkdq9P57MT"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        },
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 157138,
+      "name": "Anywhere - Tujamo Remix",
+      "url": "https://open.spotify.com/track/5F4M2SV3RSBRExodlp8aEt"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2083,6 +2083,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Views of a Room",
+        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "duration_ms": 373890,
+      "name": "Babel - Maceo Plex Remix",
+      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Nobody (Devault Remix)",
         "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
       },
@@ -2103,26 +2123,6 @@
       "duration_ms": 259286,
       "name": "Nobody - Devault Remix",
       "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Views of a Room",
-        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
-      },
-      "artists": [
-        {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        }
-      ],
-      "duration_ms": 373890,
-      "name": "Babel - Maceo Plex Remix",
-      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2211,6 +2211,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Thing Called Love (Oliver Heldens Remix)",
+        "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 338442,
+      "name": "Thing Called Love - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Keleketla! Remixes",
         "url": "https://open.spotify.com/album/4ZRyrLDXFUoVopvJ5ZKnMh"
       },
@@ -2255,30 +2279,6 @@
       "duration_ms": 336954,
       "name": "Papua Merdeka - Machinedrum Remix",
       "url": "https://open.spotify.com/track/1yfVygcEjrdjTp5LEi71at"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Thing Called Love (Oliver Heldens Remix)",
-        "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 338442,
-      "name": "Thing Called Love - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
     },
     {
       "added_at": "2021-07-30 04:00:00",

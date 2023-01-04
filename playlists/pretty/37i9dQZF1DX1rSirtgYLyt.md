@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,634 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,742 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 16 | [Give Me One Reason](https://open.spotify.com/track/2NlzTQKA7U1nc9U6tWb7Xv) | [Lee Ritenour's 6 String Theory](https://open.spotify.com/artist/4kMQjLEnWTWmseztv5uOOo), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [6 String Theory](https://open.spotify.com/album/12KBkAV3rS7H2h8QIcbCy5) | 5:14 |
 | 17 | [You Shook Me \- Remaster](https://open.spotify.com/track/2Y1HhOfvtzms7urVKFY67n) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin \(Deluxe Edition\)](https://open.spotify.com/album/22BzOOZKYZ2jYYKLpOlnET) | 6:28 |
 | 18 | [I'd Rather Go Blind](https://open.spotify.com/track/5i1T44coT8wyZpCMd4F4O8) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:17 |
-| 19 | [Stop Breaking Down](https://open.spotify.com/track/09eg3FGzsZQbZk8qEXhJIA) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:34 |
-| 20 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:19 |
+| 19 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:19 |
+| 20 | [Stop Breaking Down](https://open.spotify.com/track/09eg3FGzsZQbZk8qEXhJIA) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:34 |
 | 21 | [Ain't No Way](https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 6:47 |
 | 22 | [The Sky Is Crying](https://open.spotify.com/track/5F1PDuoQ9ajtBnKAPVOqT4) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Stax Profiles: Albert King](https://open.spotify.com/album/5QeVc1L4mudB1lsTNeeiGL) | 4:11 |
 | 23 | [I Loved Another Woman](https://open.spotify.com/track/6Xw030pHwq8vsXWj4WisF6) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Blues For Greeny](https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU) | 3:07 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 44 | [I'll Play the Blues for You](https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao) | [Frank Marino](https://open.spotify.com/artist/4N7EfXrDs4KJFXuN2BIuCT) | [L.A\. Blues Authority Vol\. Iv: Fit for a King](https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w) | 5:30 |
 | 45 | [Honky Tonk Woman](https://open.spotify.com/track/0AZFM3GlyErGyoyoK5zxQP) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 4:43 |
 | 46 | [Sweet Home Chicago \- Mono Rough Mix](https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues \(Expanded\)](https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ) | 4:00 |
-| 47 | [Don't Give a Damn](https://open.spotify.com/track/2jFIiF5GpgS5PL8y7rFurn) | [Pete Alderton](https://open.spotify.com/artist/6ZcrtRB04NsWQp5bTnMSem) | [Cover My Blues](https://open.spotify.com/album/417wJrH380kNJ1SBJwAgtm) | 2:27 |
-| 48 | [Crawling King Snake](https://open.spotify.com/track/35RfqVHfnWeGYXC9RH9q6Y) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 4:10 |
+| 47 | [Crawling King Snake](https://open.spotify.com/track/35RfqVHfnWeGYXC9RH9q6Y) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 4:10 |
+| 48 | [Don't Give a Damn](https://open.spotify.com/track/2jFIiF5GpgS5PL8y7rFurn) | [Pete Alderton](https://open.spotify.com/artist/6ZcrtRB04NsWQp5bTnMSem) | [Cover My Blues](https://open.spotify.com/album/417wJrH380kNJ1SBJwAgtm) | 2:27 |
 | 49 | [Te Ni Nee Ni Nu](https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [All Time Favorites: Lou Ann Barton](https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ) | 2:54 |
 | 50 | [Stones In My Passway](https://open.spotify.com/track/3igI8O766elxoGpdpzbiSs) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Other People's Stuff](https://open.spotify.com/album/3magaLME88Nwqz6ODcKJG9) | 3:12 |
 | 51 | [Hound Dog](https://open.spotify.com/track/4zWSge8GdwbqY2aTFX98rR) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 5:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 74 | [Judgement Day](https://open.spotify.com/track/6ZdCKxcNoLgJfQBCncD2SU) | [Wentus Blues Band](https://open.spotify.com/artist/6RS2f6BOaKgqByAkXgpRJ9), [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Too Much Mustard](https://open.spotify.com/album/3qBcJfdrKT98tvXZqcIqsO) | 3:43 |
 | 75 | [Green Manalishi \(With the Two Prong Crown\)](https://open.spotify.com/track/1ugH9JwMb8Kv77IeNrkvWw) | [LORE](https://open.spotify.com/artist/18w4oJknIoBRU0ZB3ECGA2) | [Green Manalishi \(With the Two Prong Crown\)](https://open.spotify.com/album/3r9rCDEGcz1CdtHzepxcf8) | 5:48 |
 
-Snapshot ID: `MTY3MTYzOTkxOCwwMDAwMDAwMGRhYjAwOGJhYzE0NjRjZThlNjg4YzUzNjkxNDYyMDRh`
+Snapshot ID: `MTY3MTYzOTkxOCwwMDAwMDAwMDNmZjU1NzU0YjA4OTM3OWE5Y2I4NzFhMjAyZTBkNjk5`

@@ -3235,6 +3235,24 @@
     {
       "album": {
         "name": "Berceuse",
+        "url": "https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg"
+      },
+      "artists": [
+        {
+          "name": "Sounds from a Box",
+          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151750,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn"
+    },
+    {
+      "album": {
+        "name": "Berceuse",
         "url": "https://open.spotify.com/album/7nryP3Rq1gM9iPnPjvmJT2"
       },
       "artists": [
@@ -17723,7 +17741,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 234500,
       "name": "Old Letter",
       "url": "https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY"
@@ -19177,7 +19195,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 144406,
       "name": "Pour dessiner des fleur",
       "url": "https://open.spotify.com/track/45tnZArwDyo4hM7Zjguqb9"
@@ -21723,6 +21741,24 @@
       "duration_ms": 123602,
       "name": "Sichm",
       "url": "https://open.spotify.com/track/6pMJj2gSGimd2tWbBEs28V"
+    },
+    {
+      "album": {
+        "name": "Sicilienne",
+        "url": "https://open.spotify.com/album/3zOBVDSipEOvDzHVfhSwG0"
+      },
+      "artists": [
+        {
+          "name": "Sounds from a Box",
+          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180224,
+      "name": "Sicilienne",
+      "url": "https://open.spotify.com/track/0ATCSA5YcOdy8jRY3FRJSe"
     },
     {
       "album": {

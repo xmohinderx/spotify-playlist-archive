@@ -4,7 +4,7 @@
 
 > Celebrate Women's History Month with these powerful voices\. Cover: Greeicy
 
-163 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/3pQFKhnY33a9QIrCBLbj5H)
+164 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/3pQFKhnY33a9QIrCBLbj5H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Quién Podrá Saberlo](https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Quién Podrá Saberlo](https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ) | 2:43 | 2022-03-14 |  |
 | [Qué Será](https://open.spotify.com/track/0EixXz4ZIBS5sq7LjyN1VV) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Qué Será](https://open.spotify.com/album/3YsT4UC2mHKo7ax2cmoGGd) | 3:13 | 2022-03-14 |  |
 | [R.I.P\. \(feat\. Rita Ora & Anitta\)](https://open.spotify.com/track/6JqpFboOH2bq9pzaYbkKBn) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [R.I.P\. \(feat\. Rita Ora & Anitta\)](https://open.spotify.com/album/2yN1kxrx1Z1CHO5VMdO2Yk) | 3:07 | 2022-03-14 |  |
-| [Recuerdo](https://open.spotify.com/track/3DjInVTE03icrWsq2UZV9n) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Recuerdo](https://open.spotify.com/album/28RBKKab2bzmcaKzW8h3Ji) | 3:20 | 2022-03-14 |  |
+| [Recuerdo](https://open.spotify.com/track/3DjInVTE03icrWsq2UZV9n) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Recuerdo](https://open.spotify.com/album/28RBKKab2bzmcaKzW8h3Ji) | 3:20 | 2022-03-14 | 2023-01-04 |
+| [Recuerdo](https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 3:20 | 2022-03-28 |  |
 | [Reina Sin Corona](https://open.spotify.com/track/5K1IWlUbwtGnygNVtir4Tt) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [2:00 AM](https://open.spotify.com/album/6fi3lhTQuBdlZ2MoyiB9yi) | 3:22 | 2022-03-14 |  |
 | [Restart](https://open.spotify.com/track/6lPzHeMLBsSF7CeeEC9eVp) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Ninow y Candy](https://open.spotify.com/artist/7FnSVlg4iU093lEkSeptx5) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:00 | 2022-03-14 |  |
 | [Santo](https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Santo](https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC) | 3:03 | 2022-03-14 |  |

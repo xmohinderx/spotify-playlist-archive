@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2085,
+  "num_followers": 2082,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGZlZThlNzA0MzczZTc1MmM5YmMyZWM1Y2VjM2JhOTYx",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDBkZTZkYThlYzczYmIyMWJlYThjZGZmODAwM2Q2ZWQ1",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "40 Degr\u00e9s",
-        "url": "https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq"
-      },
-      "artists": [
-        {
-          "name": "Admiral T",
-          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
-        }
-      ],
-      "duration_ms": 160182,
-      "name": "#DMTS",
-      "url": "https://open.spotify.com/track/5g1OQq1LdPiPaRUgFKFvW3"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Excalibur",
         "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 188369,
       "name": "Les Rois",
       "url": "https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "40 Degr\u00e9s",
+        "url": "https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq"
+      },
+      "artists": [
+        {
+          "name": "Admiral T",
+          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
+        }
+      ],
+      "duration_ms": 160182,
+      "name": "#DMTS",
+      "url": "https://open.spotify.com/track/5g1OQq1LdPiPaRUgFKFvW3"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Sans tomber",
-        "url": "https://open.spotify.com/album/5FG0BYcqY6AVU2FyRH7xkH"
-      },
-      "artists": [
-        {
-          "name": "Melissa Ouimet",
-          "url": "https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth"
-        }
-      ],
-      "duration_ms": 129119,
-      "name": "Sans tomber",
-      "url": "https://open.spotify.com/track/1x5FMvzOMCa01427pWXwdK"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Citoyen d'Am\u00e9rique",
         "url": "https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 146106,
       "name": "Am\u00e8ne-toi chez nous",
       "url": "https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Sans tomber",
+        "url": "https://open.spotify.com/album/5FG0BYcqY6AVU2FyRH7xkH"
+      },
+      "artists": [
+        {
+          "name": "Melissa Ouimet",
+          "url": "https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth"
+        }
+      ],
+      "duration_ms": 129119,
+      "name": "Sans tomber",
+      "url": "https://open.spotify.com/track/1x5FMvzOMCa01427pWXwdK"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Concorde",
-        "url": "https://open.spotify.com/album/3BzcxXzgfZD3FAIx5c3s3U"
-      },
-      "artists": [
-        {
-          "name": "Le Couleur",
-          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
-        }
-      ],
-      "duration_ms": 241771,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/3orSSi6T6c7Uxitep6TdVw"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "SITKA",
         "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 218653,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Concorde",
+        "url": "https://open.spotify.com/album/3BzcxXzgfZD3FAIx5c3s3U"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        }
+      ],
+      "duration_ms": 241771,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/3orSSi6T6c7Uxitep6TdVw"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Avec les yeux",
-        "url": "https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH"
-      },
-      "artists": [
-        {
-          "name": "Fishbach",
-          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Masque d'or",
-      "url": "https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Sans oublier",
         "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 170737,
       "name": "La Roseraie",
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Avec les yeux",
+        "url": "https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH"
+      },
+      "artists": [
+        {
+          "name": "Fishbach",
+          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Masque d'or",
+      "url": "https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Sablier",
-        "url": "https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ"
-      },
-      "artists": [
-        {
-          "name": "Miro",
-          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
-        }
-      ],
-      "duration_ms": 146866,
-      "name": "Perdu",
-      "url": "https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Mon coeur pour te garder (version bonus)",
         "url": "https://open.spotify.com/album/34H51ANAsWXe9SrANF6BTY"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 206373,
       "name": "Mon coeur pour te garder",
       "url": "https://open.spotify.com/track/3lCtEAvtIuCOtb4wi9k4Jn"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Sablier",
+        "url": "https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ"
+      },
+      "artists": [
+        {
+          "name": "Miro",
+          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
+        }
+      ],
+      "duration_ms": 146866,
+      "name": "Perdu",
+      "url": "https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Qui a mis le feu",
-        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
-      },
-      "artists": [
-        {
-          "name": "Mat Vezio",
-          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "Qui a mis le feu",
-      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Airs pa\u00efens",
         "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Bienvenue \u00e0 Baveuse City",
-        "url": "https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC"
+        "name": "Qui a mis le feu",
+        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
       },
       "artists": [
         {
-          "name": "Marie-Gold",
-          "url": "https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G"
+          "name": "Mat Vezio",
+          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
         }
       ],
-      "duration_ms": 175600,
-      "name": "La Presse (Baby Girl)",
-      "url": "https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA"
+      "duration_ms": 171546,
+      "name": "Qui a mis le feu",
+      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1527,6 +1511,22 @@
       "duration_ms": 169080,
       "name": "Arr\u00eate de danser",
       "url": "https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Bienvenue \u00e0 Baveuse City",
+        "url": "https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC"
+      },
+      "artists": [
+        {
+          "name": "Marie-Gold",
+          "url": "https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "La Presse (Baby Girl)",
+      "url": "https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1643,22 +1643,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Poup\u00e9e Russe",
-        "url": "https://open.spotify.com/album/5tY1P4kKvOPwipS8q0jbCD"
+        "name": "O\u00f9 nos corps s'en vont mourir",
+        "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
       },
       "artists": [
         {
-          "name": "Sarahm\u00e9e",
-          "url": "https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX"
-        },
-        {
-          "name": "Chilla",
-          "url": "https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO"
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
         }
       ],
-      "duration_ms": 192324,
-      "name": "Vilipende\u0301s",
-      "url": "https://open.spotify.com/track/5ftHDkocMB6m7yPLiZy4c7"
+      "duration_ms": 177413,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2022",

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 199494,
+  "num_followers": 200130,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDM3NSwwMDAwMDAwMDEzODVjNWQ3NDhkOWNlYzEzZDc1ODdjMDAwMmEyODBh",
+  "snapshot_id": "MTY2ODcwMDM3NSwwMDAwMDAwMDg1YWNhM2QwMTE2YjI0OTZkNTliMjE4N2Q4MjVmZGI2",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
@@ -899,6 +899,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Knee Deep In The Hoopla",
         "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 313706,
       "name": "Wrapped Around Your Finger",
       "url": "https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2020-12-08 17:52:17",

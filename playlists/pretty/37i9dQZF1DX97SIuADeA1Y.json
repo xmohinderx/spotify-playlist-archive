@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 281622,
+  "num_followers": 281787,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQwNTIwMCwwMDAwMDAwMDE0MjliMmE0M2M5OWE0YmVmOTlkMzQ5ZDIwY2QwMzcy",
+  "snapshot_id": "MTY3MjQwNTIwMCwwMDAwMDAwMDgwZGE2YTkxZTE4ZmZlNzI0NjJlNjhkZGVhNjEwYTli",
   "tracks": [
     {
       "added_at": "2022-12-16 13:31:20",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
-      "added_at": "2023-01-03 03:02:34",
+      "added_at": "2023-01-04 01:27:16",
       "album": {
         "name": "Shake That",
         "url": "https://open.spotify.com/album/2SYED5j8wPKjVW5cviH4qN"
@@ -195,26 +195,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 153303,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
@@ -233,7 +213,27 @@
       "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
     },
     {
-      "added_at": "2023-01-03 03:02:34",
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 153303,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe"
+    },
+    {
+      "added_at": "2023-01-04 01:27:16",
       "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
     },
     {
-      "added_at": "2023-01-03 03:02:34",
+      "added_at": "2023-01-04 01:27:16",
       "album": {
         "name": "Lust",
         "url": "https://open.spotify.com/album/1a0tiOO2ge9jZYYCCFEHrg"
@@ -479,6 +479,26 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "duration_ms": 151723,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "Say It Right (ILURO Remix)",
         "url": "https://open.spotify.com/album/6ZEaJiDo55GwRWxtkbG00a"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 133724,
       "name": "Say It Right - ILURO Remix",
       "url": "https://open.spotify.com/track/5ofHoV0ywhsZUOArK1Oa1h"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "I'm Okay",
-        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "OBS",
-          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
-        }
-      ],
-      "duration_ms": 151723,
-      "name": "I'm Okay",
-      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
-      },
-      "artists": [
-        {
-          "name": "Drive With Beats",
-          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
-        },
-        {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2P2GJ1cTTO7tWABUUMwrIE"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 148657,
       "name": "Talk Talk Talk",
       "url": "https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
+      },
+      "artists": [
+        {
+          "name": "Drive With Beats",
+          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
+        },
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "I Don't Wanna Go",
+        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I Don't Wanna Go",
+      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "Little Do You Know",
         "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 194091,
       "name": "Little Do You Know",
       "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "I Don't Wanna Go",
-        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I Don't Wanna Go",
-      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "T\u00f3xica",
-        "url": "https://open.spotify.com/album/0yBwP7KmTOqkzhLDzUfQRe"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mart\u00edn",
-          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
-        },
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "T\u00f3xica",
-      "url": "https://open.spotify.com/track/2xXgN2GQLSQcZ4Bzad0NaM"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "Princess",
         "url": "https://open.spotify.com/album/0uL1LBlgAw2bbOOzkSGyFK"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 143266,
       "name": "Princess",
       "url": "https://open.spotify.com/track/74CKJFSNNqnRFtPDzANljK"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "T\u00f3xica",
+        "url": "https://open.spotify.com/album/0yBwP7KmTOqkzhLDzUfQRe"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mart\u00edn",
+          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "T\u00f3xica",
+      "url": "https://open.spotify.com/track/2xXgN2GQLSQcZ4Bzad0NaM"
     },
     {
       "added_at": "2022-12-16 13:31:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The leading wave of Latin Electronic music\. Cover: Gordo & Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,737,921 likes - 84 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,737,881 likes - 84 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

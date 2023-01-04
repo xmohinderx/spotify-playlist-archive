@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house, featuring hand\-curated tracks from Honey Dijon for New Years' Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,748,416 likes - 46 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,748,229 likes - 46 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

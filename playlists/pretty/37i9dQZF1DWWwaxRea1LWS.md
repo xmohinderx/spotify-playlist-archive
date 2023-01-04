@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Rewind 20 years to the essential songs in any NYE 2002 DJ's burnt CD wallet \#SpotifyTBT Cover: Christina Aguilera
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,128,708 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,150,819 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Baby Boy \(feat\. Beyoncé \)](https://open.spotify.com/track/29LHe8kG3PraghUZOZYsw4) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dutty Rock](https://open.spotify.com/album/3UdSdz4TjW3tjmTZE03Ehv) | 4:06 |
 | 50 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
 
-Snapshot ID: `MTY3MjI5MDAwMCwwMDAwMDAwMGRlYTJkYWViZWU3MTkzMDlkNmI4N2Y4ZWNhMWQ2NmEw`
+Snapshot ID: `MTY3Mjc3NDIxNiwwMDAwMDAwMGMyYmRkZDc3MTFjYTM2ZDk5ZTQxMGRkNzRhMjU0MTA3`

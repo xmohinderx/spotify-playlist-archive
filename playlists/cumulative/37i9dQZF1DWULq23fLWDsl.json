@@ -1571,7 +1571,7 @@
     {
       "album": {
         "name": "Treats",
-        "url": "https://open.spotify.com/album/1IWkF6zpOq73txmrYpljIT"
+        "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
       },
       "artists": [
         {
@@ -1582,6 +1582,24 @@
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229893,
+      "name": "Rill Rill",
+      "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
+    },
+    {
+      "album": {
+        "name": "Treats",
+        "url": "https://open.spotify.com/album/1IWkF6zpOq73txmrYpljIT"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
       "duration_ms": 229893,
       "name": "Rill Rill",
       "url": "https://open.spotify.com/track/3GbjOImkNo5nFT2GQxVr11"

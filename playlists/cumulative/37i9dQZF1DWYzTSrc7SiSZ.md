@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing\. Las vibras tranqui que ocupas en tu vida.
 
-199 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
+200 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2022-05-20 | 2022-10-28 |
 | [Tú y Yo](https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Memento](https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb) | 2:54 | 2022-05-20 |  |
 | [UH](https://open.spotify.com/track/7uLfFqojP6ysCuyWCOhZhJ) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [UH](https://open.spotify.com/album/0LjCQQ74typX73FWjVt2vK) | 3:30 | 2022-05-20 |  |
-| [Un Beso en Madrid](https://open.spotify.com/track/0KTwYI4vwidX9qip7ViAEQ) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Un Beso en Madrid](https://open.spotify.com/album/2meU91rmdHZgJDjjUzkRRA) | 2:23 | 2022-05-20 |  |
+| [Un Beso en Madrid](https://open.spotify.com/track/0KTwYI4vwidX9qip7ViAEQ) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Un Beso en Madrid](https://open.spotify.com/album/2meU91rmdHZgJDjjUzkRRA) | 2:23 | 2022-05-20 | 2023-01-04 |
+| [Un Beso en Madrid](https://open.spotify.com/track/351dqwRVsCDniedG9soXSf) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:24 | 2022-10-27 |  |
 | [UNA LUZ](https://open.spotify.com/track/1c3qAaZrwvcTHHOL8XrHLJ) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [UNA LUZ](https://open.spotify.com/album/6JXgkVDyf9IFhyfn1TGNSY) | 2:07 | 2022-05-20 |  |
 | [Una Noche \- Unplugged](https://open.spotify.com/track/5PzwXQyY8B64TH5G71da4R) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Una Noche \(Unplugged\)](https://open.spotify.com/album/4mXPyq4Rgu2gTv2oIsliLu) | 3:58 | 2022-05-20 |  |
 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 | 2022-05-20 | 2022-10-28 |

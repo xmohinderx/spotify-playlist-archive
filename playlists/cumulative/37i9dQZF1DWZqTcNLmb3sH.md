@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vedha
 
-481 songs - 1 day 5 hr 47 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+482 songs - 1 day 5 hr 51 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,8 @@
 | [Rama Rama Rama](https://open.spotify.com/track/0aLovS5m8YwIdgNfruWPjO) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Dil Pasand](https://open.spotify.com/album/0iICq3mg6ddYWF6ZYoVAES) | 3:02 | 2022-10-17 |  |
 | [Ramachari 2.0 \(Theme Song\) \(From "Ramachari 2.0"\)](https://open.spotify.com/track/2C6gxHkzbGTjslzk8r1t5I) | [Sunder Murthy](https://open.spotify.com/artist/4S0V3g0wtpNCUA1WUGSttx), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Ramachari 2.0 \(Theme Song\) \(From "Ramachari 2.0"\)](https://open.spotify.com/album/4N4UcZh9xiWlawXBaohM1b) | 2:35 | 2022-02-28 | 2022-04-28 |
 | [Rana Rana Ravana](https://open.spotify.com/track/7ovRjHJ211ToBMaXmS6A2g) | [S.Pradeep Varma](https://open.spotify.com/artist/1iBfvyB311CCFgOT9ctXPo) | [IRavan](https://open.spotify.com/album/1l9DxHt3bLRwzlU7QAo73d) | 2:55 | 2021-12-06 | 2022-02-03 |
-| [Rangaada Ragale](https://open.spotify.com/track/225t3bc1FUxlIib8GlI7P1) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Harshika Devanathan](https://open.spotify.com/artist/7BE4DofqukmR1I2CH7sTl3) | [Rangaada Ragale \(From "Once Upon A Time In Jamaaligudda"\)](https://open.spotify.com/album/4eM4jnU46TcRdzyfONVPOE) | 4:21 | 2022-12-27 |  |
+| [Rangaada Ragale](https://open.spotify.com/track/225t3bc1FUxlIib8GlI7P1) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Harshika Devanathan](https://open.spotify.com/artist/7BE4DofqukmR1I2CH7sTl3) | [Rangaada Ragale \(From "Once Upon A Time In Jamaaligudda"\)](https://open.spotify.com/album/4eM4jnU46TcRdzyfONVPOE) | 4:21 | 2022-12-27 | 2023-01-04 |
+| [Rangaada Ragale \(From "Once Upon A Time In Jamaaligudda"\)](https://open.spotify.com/track/7CBnHKCOQlMRIBn3LlF9VO) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Harshika Devanathan](https://open.spotify.com/artist/7BE4DofqukmR1I2CH7sTl3), [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Rangaada Ragale \(From "Once Upon a Time in Jamaaligudda"\) \- Single](https://open.spotify.com/album/2SAqVcWOGQ76VD2JcEz4s7) | 4:21 | 2022-12-27 |  |
 | [Raymo Faymo](https://open.spotify.com/track/0p6qHeb2DDsOwE6cmW6wHH) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Raymo](https://open.spotify.com/album/6oSbXane1jXMmsQWONC2Bh) | 2:54 | 2022-11-21 |  |
 | [Rere Rere Bhajarangi](https://open.spotify.com/track/3XpK2yXQiYJQkP40geHtI1) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Bhajarangi 2](https://open.spotify.com/album/0CCu8Qgsv6UkD8ia93lfd0) | 3:49 | 2021-12-06 | 2022-06-15 |
 | [Rhythm of Shivappa \(From "Bairagee"\)](https://open.spotify.com/track/1zlR3FDl1x7xNO1Tp5QNos) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Sharan](https://open.spotify.com/artist/3gwJl06k82NzSnDZrE89Nq), [Shiva Rajkumar](https://open.spotify.com/artist/4mJqbFcBShO44DldsN2ZcY) | [Rhythm of Shivappa \(From "Bairagee"\)](https://open.spotify.com/album/1VyZDsodZmrngjHW9lJKfo) | 3:55 | 2022-06-06 | 2022-07-25 |

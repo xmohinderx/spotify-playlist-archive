@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🚂  Aqui é só o trem caro do trap! Foto: MC Cabelinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,257 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,427 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 33 | [Ciumenta](https://open.spotify.com/track/42wWf8vyEYFqXoe4msRScV) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 3:20 |
 | 34 | [Vestido da Fendi](https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Vestido da Fendi](https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y) | 2:44 |
 | 35 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 |
-| 36 | [Visão do Morro](https://open.spotify.com/track/0WIvVill7Gql99kJ8C4JmW) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [2002](https://open.spotify.com/album/0cvbu8Y9cgDtAwSHvMUtHA) | 3:01 |
+| 36 | [Visão do Morro](https://open.spotify.com/track/7JtifUMl8bQDoaOgm4CuPd) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [2002](https://open.spotify.com/album/75M15Y5eC6chnS22jQxUPu) | 3:01 |
 | 37 | [Puto de Luxo](https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Puto de Luxo](https://open.spotify.com/album/6znvdqy8BOk5pPExvi18f5) | 2:24 |
 | 38 | [PIX \(feat\. 4Genesis & Cax Camp\)](https://open.spotify.com/track/5aw9n45WzW5VQ7XHyBFHkl) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [4Genesis](https://open.spotify.com/artist/67D2Ml4TLOBf7nolQgDev8), [Cax Camp](https://open.spotify.com/artist/11419mV19Pj8zf96vPU0Q2) | [PIX \(feat\. 4Genesis & Cax Camp\)](https://open.spotify.com/album/34qA1ODM4HJ2pXMMUXDFUx) | 4:10 |
 | 39 | [Posturadão](https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Posturadão](https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
 | 50 | [Assault \(Carro Forte\)](https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP) | [Assault \(Carro Forte\)](https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO) | 5:04 |
 
-Snapshot ID: `MTY3MjY3MDc4NSwwMDAwMDAwMDVhYTE4NjZjYWIyNzY0NmM2ZDhiY2I3ZDkyYWUyY2Yw`
+Snapshot ID: `MTY3MjY3MDc4NSwwMDAwMDAwMDRmNmZkZTRiNGVmYjg1ZWMxNDYxMDU2MjI4ZjU1MDc4`

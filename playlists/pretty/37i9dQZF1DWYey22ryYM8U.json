@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: LA INDIA, Goyo.",
-  "num_followers": 532743,
+  "num_followers": 532804,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1MTIxOCwwMDAwMDAwMDJlOTkxZWQyZTY5MWYyYTYyYzk0YjY3ZDdiYzI0NTU3",
+  "snapshot_id": "MTY2Njg1MTIxOCwwMDAwMDAwMDNmMzIyNWVjMTZkYzZlNTY1Zjc2OGYxMTJmYjQ2ODhm",
   "tracks": [
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "V\u00edctimas las Dos",
-        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 257614,
-      "name": "V\u00edctimas las Dos",
-      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Friends & Legends",
         "url": "https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 217000,
       "name": "Una Mentirita",
       "url": "https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "V\u00edctimas las Dos",
+        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 257614,
+      "name": "V\u00edctimas las Dos",
+      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Soltero",
-        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
         }
       ],
-      "duration_ms": 260431,
-      "name": "Soltero",
-      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
       },
       "artists": [
         {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
+      "duration_ms": 260431,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Rupelto Mena",
+        "url": "https://open.spotify.com/album/0kLLu0272oNXFZ1rYb9AN4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 289573,
+      "name": "Rupelto Mena",
+      "url": "https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "T\u00fa No Bailas Mas Que Yo",
         "url": "https://open.spotify.com/album/4G7Ap84rNIhYgF5NXHmP8q"
       },
@@ -2127,22 +2143,6 @@
       "duration_ms": 183367,
       "name": "T\u00fa No Bailas Mas Que Yo",
       "url": "https://open.spotify.com/track/2U2xfA3zCdjsLVhAX2rQ3y"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Rupelto Mena",
-        "url": "https://open.spotify.com/album/0kLLu0272oNXFZ1rYb9AN4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 289573,
-      "name": "Rupelto Mena",
-      "url": "https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2183,22 +2183,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Nuestra Esquina",
-        "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
+        "name": "Si Fuera M\u00eda",
+        "url": "https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7"
       },
       "artists": [
         {
-          "name": "N'Klabe",
-          "url": "https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
         }
       ],
-      "duration_ms": 248173,
-      "name": "Tranquila Bebe",
-      "url": "https://open.spotify.com/track/2NisBr13bzzrleg25GDcKv"
+      "duration_ms": 203135,
+      "name": "Si Fuera M\u00eda",
+      "url": "https://open.spotify.com/track/5IdGYOdbqCALcfeNz06Y7k"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2227,18 +2223,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Si Fuera M\u00eda",
-        "url": "https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7"
+        "name": "Nuestra Esquina",
+        "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
       },
       "artists": [
         {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+          "name": "N'Klabe",
+          "url": "https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 203135,
-      "name": "Si Fuera M\u00eda",
-      "url": "https://open.spotify.com/track/5IdGYOdbqCALcfeNz06Y7k"
+      "duration_ms": 248173,
+      "name": "Tranquila Bebe",
+      "url": "https://open.spotify.com/track/2NisBr13bzzrleg25GDcKv"
     }
   ],
   "unique_name": "Tropical Hits",

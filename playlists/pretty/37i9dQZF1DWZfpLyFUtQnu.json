@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 39400,
+  "num_followers": 39479,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMzODY5NCwwMDAwMDAwMDk1NDRkZTVkZjAwNjkyNzRhMGIzMThhOWM2ODU1NmQ1",
+  "snapshot_id": "MTY3MDMzODY5NCwwMDAwMDAwMDQ2NWJjMjhiNTM4MjMxMzQ5Nzk3MzMzODMwMjcxNjQx",
   "tracks": [
     {
       "added_at": "2022-12-06 14:58:14",
@@ -123,22 +123,18 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "MESDAMES deluxe",
-        "url": "https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh"
+        "name": "Vianney",
+        "url": "https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O"
       },
       "artists": [
         {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        },
-        {
-          "name": "Camille Lellouche",
-          "url": "https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q"
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Mais je t'aime",
-      "url": "https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX"
+      "duration_ms": 198773,
+      "name": "Je m'en vais",
+      "url": "https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -159,18 +155,22 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Vianney",
-        "url": "https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O"
+        "name": "MESDAMES deluxe",
+        "url": "https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh"
       },
       "artists": [
         {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        },
+        {
+          "name": "Camille Lellouche",
+          "url": "https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q"
         }
       ],
-      "duration_ms": 198773,
-      "name": "Je m'en vais",
-      "url": "https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp"
+      "duration_ms": 270000,
+      "name": "Mais je t'aime",
+      "url": "https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
-        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 137160,
-      "name": "Mon amie la rose",
-      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 248373,
       "name": "L'ombre et la lumi\u00e8re",
       "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
+        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 137160,
+      "name": "Mon amie la rose",
+      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Un autre monde (Remastered)",
-        "url": "https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Balavoine",
-          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
-        }
-      ],
-      "duration_ms": 258189,
-      "name": "La vie ne m'apprend rien",
-      "url": "https://open.spotify.com/track/6qdFHfgUPmngzK7oTeflgs"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Ch\u00e2telet les Halles",
         "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 319493,
       "name": "Et un jour une femme",
       "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Un autre monde (Remastered)",
+        "url": "https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2"
+      },
+      "artists": [
+        {
+          "name": "Daniel Balavoine",
+          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
+        }
+      ],
+      "duration_ms": 258189,
+      "name": "La vie ne m'apprend rien",
+      "url": "https://open.spotify.com/track/6qdFHfgUPmngzK7oTeflgs"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Sanson comme ils l'imaginent",
-        "url": "https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Quelques mots d'amour",
-      "url": "https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "On ne change pas",
         "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 207040,
       "name": "Les p'tites jolies choses",
       "url": "https://open.spotify.com/track/79X8l247aT8r4cKON18nMX"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Sanson comme ils l'imaginent",
+        "url": "https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Quelques mots d'amour",
+      "url": "https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg"
     },
     {
       "added_at": "2022-12-06 14:58:14",

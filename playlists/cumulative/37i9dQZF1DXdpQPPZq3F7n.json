@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Best Bollywood love songs from last 10 years. Cover- Arijit Singh",
+  "description": "Best Bollywood love songs from last 10 years. Cover - Bhediya",
   "name": "Bollywood Mush",
   "published_playlist_ids": [
     "12gsYyhSmdkqjPDElYuEed"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 187088,
       "name": "Baliye Re (From \"Jersey\")",
       "url": "https://open.spotify.com/track/5akb3M2p00EhXATJpHbUFD"
@@ -742,7 +742,7 @@
     },
     {
       "album": {
-        "name": "Dream Girl",
+        "name": "Dream Girl (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1nt0jwyt9HiBG3r0WQScql"
       },
       "artists": [
@@ -1211,6 +1211,24 @@
       "duration_ms": 264915,
       "name": "La Ilaaj",
       "url": "https://open.spotify.com/track/5uYHDSKVHfHxBLgYf4H6SH"
+    },
+    {
+      "album": {
+        "name": "Aiyaary (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0fvbSSTodKL0wMcoWRPfDz"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229877,
+      "name": "Lae Dooba",
+      "url": "https://open.spotify.com/track/4cNbz1UdBCrnGOg0NNP1iF"
     },
     {
       "album": {
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 216328,
       "name": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
       "url": "https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3"
@@ -2422,6 +2440,32 @@
     },
     {
       "album": {
+        "name": "Simmba",
+        "url": "https://open.spotify.com/album/3dynRTuVOrAr5O7srr2txN"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230948,
+      "name": "Tere Bin",
+      "url": "https://open.spotify.com/track/4Y1Sd0fSSxHEMrWkd2x3EW"
+    },
+    {
+      "album": {
         "name": "Tere Hawaale (From \"Laal Singh Chaddha\")",
         "url": "https://open.spotify.com/album/1lZk7TnMgvS3mSlfeWW1b3"
       },
@@ -2576,7 +2620,7 @@
     },
     {
       "album": {
-        "name": "Kesari",
+        "name": "Kesari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2koMSm4dddvhxLzZyN2aEE"
       },
       "artists": [

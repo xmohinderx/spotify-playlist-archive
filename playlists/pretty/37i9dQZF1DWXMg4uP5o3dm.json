@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: AViVA",
-  "num_followers": 437530,
+  "num_followers": 437722,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA0OTc4MSwwMDAwMDAwMDI0NzM5NzM3ZTMwNTAxMGI5MTY0NWNiMmE3MDgzNTA3",
+  "snapshot_id": "MTY3MTA0OTc4MSwwMDAwMDAwMDkxNDU2MGYzMDAyZmM5YWQ1ZDRlYjg3MTQ2MWU5MTBi",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -127,18 +127,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+        "name": "Overwhelmed",
+        "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"
+      "duration_ms": 159293,
+      "name": "overwhelmed",
+      "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Overwhelmed",
-        "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
+        "name": "engravings",
+        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
         }
       ],
-      "duration_ms": 159293,
-      "name": "overwhelmed",
-      "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"
+      "duration_ms": 180186,
+      "name": "engravings",
+      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "engravings",
-        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
       "artists": [
         {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 180186,
-      "name": "engravings",
-      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Shape & Form",
-        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 160600,
-      "name": "Devil",
-      "url": "https://open.spotify.com/track/1xKqbhFvRsZsSJa68zwN8a"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "WICKED",
         "url": "https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 210027,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Shape & Form",
+        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "Devil",
+      "url": "https://open.spotify.com/track/1xKqbhFvRsZsSJa68zwN8a"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Shape & Form",
-        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 176459,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/6eQARsls2o0rLd6ee12Z5c"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Music to listen to~dance to~blaze to~pray to~feed to~sleep to~talk to~grind to~trip to~breathe to~help to~hurt to~scroll to~roll to~love to~hate to~learn Too~plot to~play to~be to~feel to~breed to~sweat to~dream to~hide to~live to~die to~GO TO",
         "url": "https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 313344,
       "name": "\u00bf (feat. Halsey)",
       "url": "https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Shape & Form",
+        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 176459,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/6eQARsls2o0rLd6ee12Z5c"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Max Maco Is Dead Right?",
-        "url": "https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Flatline",
-      "url": "https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "The Atlas Underground Fire",
         "url": "https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 192150,
       "name": "Hold The Line (feat. grandson)",
       "url": "https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Max Maco Is Dead Right?",
+        "url": "https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Form",
-        "url": "https://open.spotify.com/album/5kvczjPMKDVYG5TFhU5gBl"
-      },
-      "artists": [
-        {
-          "name": "Battle Tapes",
-          "url": "https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67"
-        }
-      ],
-      "duration_ms": 254269,
-      "name": "Last Resort & Spa",
-      "url": "https://open.spotify.com/track/3I3wT9xnFlNWM9SlQyH9i1"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Feel Real Pretty",
         "url": "https://open.spotify.com/album/6zLwTLoaEO41zOMSY64MSD"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 183127,
       "name": "Feel Real Pretty",
       "url": "https://open.spotify.com/track/3RcoIYZ9HOJ8nhKLRV9c4e"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Form",
+        "url": "https://open.spotify.com/album/5kvczjPMKDVYG5TFhU5gBl"
+      },
+      "artists": [
+        {
+          "name": "Battle Tapes",
+          "url": "https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67"
+        }
+      ],
+      "duration_ms": 254269,
+      "name": "Last Resort & Spa",
+      "url": "https://open.spotify.com/track/3I3wT9xnFlNWM9SlQyH9i1"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1423,30 +1423,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
-        "url": "https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 171587,
-      "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
-      "url": "https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
       },
@@ -1467,6 +1443,30 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
+        "url": "https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 171587,
+      "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
+      "url": "https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Bad Juice (BROODS Remix)",
-        "url": "https://open.spotify.com/album/6z2TcWBWAPk7SUjAMxKOOa"
-      },
-      "artists": [
-        {
-          "name": "Lila Drew",
-          "url": "https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F"
-        },
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 180211,
-      "name": "Bad Juice - BROODS Remix",
-      "url": "https://open.spotify.com/track/0KKlrAWyFoFW4GLh5nAwfN"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "A Change of Perspective (Deluxe)",
         "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 209454,
       "name": "Regret - Remix",
       "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Bad Juice (BROODS Remix)",
+        "url": "https://open.spotify.com/album/6z2TcWBWAPk7SUjAMxKOOa"
+      },
+      "artists": [
+        {
+          "name": "Lila Drew",
+          "url": "https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F"
+        },
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "duration_ms": 180211,
+      "name": "Bad Juice - BROODS Remix",
+      "url": "https://open.spotify.com/track/0KKlrAWyFoFW4GLh5nAwfN"
     },
     {
       "added_at": "2022-11-25 05:00:00",

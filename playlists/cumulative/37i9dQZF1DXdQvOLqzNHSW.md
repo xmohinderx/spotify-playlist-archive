@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-425 songs - 1 day 2 hr 33 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+427 songs - 1 day 2 hr 40 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 | 2022-01-12 |  |
 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 | 2022-09-30 |  |
 | [Did I Get It Wrong](https://open.spotify.com/track/2hEFAHjkgjUJSbSWrB6uad) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Did I Get It Wrong](https://open.spotify.com/album/49IL3XMqHP7DSW39GffMgY) | 3:05 | 2021-05-01 | 2022-07-29 |
-| [Did I Get It Wrong](https://open.spotify.com/track/3uL7D152nfGyHMbJn5reCy) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Three Songs](https://open.spotify.com/album/61H9p7WayFFuWjIfb1dI3T) | 3:05 | 2022-10-28 |  |
+| [Did I Get It Wrong](https://open.spotify.com/track/3uL7D152nfGyHMbJn5reCy) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Three Songs](https://open.spotify.com/album/61H9p7WayFFuWjIfb1dI3T) | 3:05 | 2022-10-28 | 2023-01-04 |
 | [Didn't Know What I Was in For](https://open.spotify.com/track/0PYdiBzO9IvWc6Y3wO1j7m) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Better Oblivion Community Center](https://open.spotify.com/album/5622zSt4RLqNSPShdqmWpj) | 4:03 | 2020-12-21 | 2022-04-20 |
 | [dimeback](https://open.spotify.com/track/3WIjTtXpbu1dViSMQYfID5) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [A Museum Of Contradiction](https://open.spotify.com/album/3m0PIFv2mh0ytlTroWklbd) | 3:18 | 2020-12-21 |  |
 | [dio](https://open.spotify.com/track/0xrXdCzlbKto4zPSb5lDXd) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb), [Bearface](https://open.spotify.com/artist/7yjWDiLDpsHxobHP1fWYh8) | [gelato](https://open.spotify.com/album/4jA8mE55fT8Ae4wt51WB0y) | 3:51 | 2021-10-08 | 2022-07-29 |
@@ -230,6 +230,7 @@
 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 | 2020-12-21 |  |
 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 | 2022-07-22 |  |
 | [Love Again](https://open.spotify.com/track/43oLxXiNcylpsTwcyhGkpN) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Love Again](https://open.spotify.com/album/4FfsMdl6O73pgkxSqasps2) | 4:03 | 2020-12-21 | 2022-07-29 |
+| [Love Again](https://open.spotify.com/track/56hp2ikFv3vZJgZXtViF2N) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Swim Slowly](https://open.spotify.com/album/72CYjnuOowNfegnlP9UMRF) | 4:03 | 2022-10-28 |  |
 | [Lovefool](https://open.spotify.com/track/3dmsgudsfeGdQ9NsZFOm0C) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/04Yi3MVgftQcAqIqVdy9Wu) | 2:10 | 2020-12-21 |  |
 | [Lover's Spit](https://open.spotify.com/track/3Cl35xMXJUEhpPaYBeNUQR) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 6:22 | 2020-12-21 | 2022-04-19 |
 | [Loving You Is Lonely](https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [Loving You Is Lonely](https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ) | 4:29 | 2020-12-21 | 2022-04-20 |
@@ -253,6 +254,7 @@
 | [Mixer](https://open.spotify.com/track/5Gda2dF6ew4ORmTL4xaxZT) | [Nap Eyes](https://open.spotify.com/artist/1ysOXSDpupZ5RBQ9PNFZU7) | [Thought Rock Fish Scale](https://open.spotify.com/album/1FDHzgZsF2Pn7CL9d87eRY) | 4:36 | 2020-12-21 | 2022-04-20 |
 | [Monday](https://open.spotify.com/track/6F5SQwp6UjEA99hnevuF6w) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Monday](https://open.spotify.com/album/7lKgwQvRpotyn5gu6B6NQu) | 4:07 | 2020-12-21 | 2022-04-18 |
 | [Money Can't Buy \(single\)](https://open.spotify.com/track/3aWe6p3qrsVjO4HFNih7Vc) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Money Can't Buy \(single\)](https://open.spotify.com/album/30KrxdirxapHi8TbixqxwK) | 3:21 | 2020-12-21 | 2022-04-21 |
+| [MUTUAL](https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [Beige](https://open.spotify.com/album/1rqc8pT4NhDpx1ikfeadCW) | 2:49 | 2023-01-03 |  |
 | [My Friend](https://open.spotify.com/track/3EA40Yw2x2iyCvoLi3C2mN) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [My Friend](https://open.spotify.com/album/75z4yrptTNziP4iKQzzBQ9) | 5:27 | 2022-07-12 | 2022-07-29 |
 | [My Kind of Woman](https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 3:10 | 2020-12-21 | 2022-07-09 |
 | [My Man](https://open.spotify.com/track/2hbbXDj2SqcQqyypApcueW) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [My Man](https://open.spotify.com/album/7eWXOrDVzpREwg86qWj0zZ) | 3:23 | 2020-12-21 | 2022-04-20 |
@@ -295,7 +297,7 @@
 | [Paul](https://open.spotify.com/track/4AA4xt0NvJCUaJYh9SoZ1y) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 3:03 | 2022-07-22 |  |
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2022-07-22 |  |
 | [People, I've been sad](https://open.spotify.com/track/0KywIrJ4Xir4tS6q61aY1W) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [People, I've been sad](https://open.spotify.com/album/4RV4rhoQAX4KH7HME6AMnA) | 4:20 | 2020-12-21 | 2022-04-16 |
-| [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 | 2022-07-12 |  |
+| [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 | 2022-07-12 | 2023-01-04 |
 | [Pirouette](https://open.spotify.com/track/5BfvUt5ztFuAyhWjgWzjr1) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl) | 2:57 | 2020-12-21 | 2022-07-21 |
 | [Plastic](https://open.spotify.com/track/18gcopzbu2DjQjR2DI5pE8) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/30WjNaR79shSTGB52IJTw0) | 3:08 | 2020-12-21 | 2022-04-20 |
 | [please don't](https://open.spotify.com/track/3LNbpIKvhT35GWNvO8zkcc) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [please don't](https://open.spotify.com/album/0lyYYIIkvvhLZiq7isYj6v) | 4:16 | 2020-12-21 | 2022-04-08 |

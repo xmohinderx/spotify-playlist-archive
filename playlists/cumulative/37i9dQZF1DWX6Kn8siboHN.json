@@ -560,6 +560,24 @@
     },
     {
       "album": {
+        "name": "LA MIGRA Y SUS MAS GRANDES EXITOS",
+        "url": "https://open.spotify.com/album/0xm2NmhWa2tpxx8LBN60aT"
+      },
+      "artists": [
+        {
+          "name": "EL INTERNACIONAL GRUPO LA MIGRA",
+          "url": "https://open.spotify.com/artist/65JVLaAkyGalURJCfuedWh"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254906,
+      "name": "Celos de Ti",
+      "url": "https://open.spotify.com/track/4zZrn8xdILDHN2uKAmy2bJ"
+    },
+    {
+      "album": {
         "name": "10 Canonazos Musicales",
         "url": "https://open.spotify.com/album/5RC75yFyzSR9IANeh8TcXP"
       },
@@ -589,7 +607,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 255111,
       "name": "Celos De Ti",
       "url": "https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv"

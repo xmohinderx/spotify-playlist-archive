@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: PL Quest, L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,149 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,372 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 16 | [Dores](https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Dores](https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n) | 3:15 |
 | 17 | [Proibidão 2022](https://open.spotify.com/track/3cpxqDqE4DKCF9WtmZJhue) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Mc Max](https://open.spotify.com/artist/3eCFjjDBb2VCcFADfzFKD3) | [Proibidão 2022](https://open.spotify.com/album/6CI2HXPA2jgVWpfvssp2W7) | 3:34 |
 | 18 | [Amaterasu](https://open.spotify.com/track/3w5BWuFgCD2sryAYgs58GE) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [Amaterasu](https://open.spotify.com/album/0rZzVQH3hadiHblK6nQvp9) | 2:04 |
-| 19 | [Visão do Morro](https://open.spotify.com/track/0WIvVill7Gql99kJ8C4JmW) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [2002](https://open.spotify.com/album/0cvbu8Y9cgDtAwSHvMUtHA) | 3:01 |
+| 19 | [Visão do Morro](https://open.spotify.com/track/7JtifUMl8bQDoaOgm4CuPd) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [2002](https://open.spotify.com/album/75M15Y5eC6chnS22jQxUPu) | 3:01 |
 | 20 | [TANTO FAZ](https://open.spotify.com/track/31cQX1WeqiCHQSysz9KaVb) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Palma](https://open.spotify.com/artist/5M5Fa00P9Ur9hh3MnqHUQC), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:44 |
 | 21 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 |
 | 22 | [Tormentos](https://open.spotify.com/track/1EfLZnZuJ4SADFcprkEGEB) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Tormentos](https://open.spotify.com/album/0246qMwTjAiBp5zo6eBG1Q) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [ESSÊNCIA DE CRIA](https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:12 |
 | 75 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 
-Snapshot ID: `MTY3MjM2OTI2MCwwMDAwMDAwMDllYWY2MDYxMzg1MWQ0M2ZiMGUzOWJkZTgyZDM5NjQx`
+Snapshot ID: `MTY3MjM2OTI2MCwwMDAwMDAwMDJhOGJkYzE3NzIwODNmYjcwNTQyN2E5NmY2ZmRmMjhj`

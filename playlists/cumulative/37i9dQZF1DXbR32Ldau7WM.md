@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: ELLEGARDEN
 
-441 songs - 1 day 5 hr 7 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+443 songs - 1 day 5 hr 13 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bayside Lover](https://open.spotify.com/track/0hQfPQFUIkORbgj6rZtswa) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [Ken Yokoyama](https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs) | [Bayside Lover](https://open.spotify.com/album/6d2qlAU7swT2j5rkSwrGFd) | 3:26 | 2022-11-29 | 2022-12-01 |
 | [Bayside Lover](https://open.spotify.com/track/28hG6uREADxqxdfg7mQUzC) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [Ken Yokoyama](https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs) | [Bayside Lover](https://open.spotify.com/album/0dM5w3G09YZRE7SN3eMsbe) | 3:26 | 2022-11-29 | 2022-12-14 |
 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 | 2022-05-10 |  |
-| [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 | 2022-06-07 |  |
+| [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 | 2022-06-07 | 2023-01-04 |
 | [Black hole eyed lady](https://open.spotify.com/track/0dwQF24jwHEFvAdBIW5Obx) | [brainchild's](https://open.spotify.com/artist/1uQnzELUyiex7pt1EpCDtE) | [Black hole eyed lady](https://open.spotify.com/album/3pUUh38i9Ip5L01yJLNhbZ) | 2:51 | 2022-05-10 | 2022-07-23 |
 | [BLACK TOWN \- Acoustic Version](https://open.spotify.com/track/0R4IVPXo99eHM52nvT23tn) | [Bomb Factory](https://open.spotify.com/artist/2PPPdxtIsns02nAw3rQ03g) | [BLACK TOWN \(Acoustic Version\)](https://open.spotify.com/album/4Uko8iIzKup2aamDdaCUyx) | 4:09 | 2022-05-12 | 2022-05-24 |
 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-17 |  |
@@ -170,7 +170,7 @@
 | [oiの中の蛙](https://open.spotify.com/track/0mjoRduEfRPNAfDtsuSjC0) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [THEガガガSP](https://open.spotify.com/album/2fftHCw5wj2J0qp7gr41nM) | 2:42 | 2022-05-10 | 2022-06-24 |
 | [One Day](https://open.spotify.com/track/7yyAxWHScMLgWAP5SwhR0T) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Like A Fable](https://open.spotify.com/album/2kSV9jRU3B346I5qUYr82i) | 3:29 | 2022-06-02 | 2022-06-08 |
 | [One More Time](https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [One More Time](https://open.spotify.com/album/3XKXbGqYOWElmctD6tfrIJ) | 3:27 | 2022-05-10 | 2022-11-16 |
-| [Only One,Only You](https://open.spotify.com/track/0ff65hi4fvwWPQWPcaIojp) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [Only One,Only You](https://open.spotify.com/album/2aNNePD0oTIU347BYE8b2x) | 4:28 | 2022-09-25 |  |
+| [Only One,Only You](https://open.spotify.com/track/0ff65hi4fvwWPQWPcaIojp) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [Only One,Only You](https://open.spotify.com/album/2aNNePD0oTIU347BYE8b2x) | 4:28 | 2022-09-25 | 2023-01-04 |
 | [Onozomidori](https://open.spotify.com/track/5zylPPIua3ORvZxLudnjzc) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Onozomidori](https://open.spotify.com/album/4gSVJvKLVGJP7cHuQue9qQ) | 3:33 | 2022-11-29 | 2022-12-07 |
 | [Opening Ceremony](https://open.spotify.com/track/1MqPv9ROTNpcrLVqgHJcYj) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Opening Ceremony](https://open.spotify.com/album/11d3rQ6GBFxUuiOIir59dj) | 3:39 | 2022-07-26 | 2022-07-29 |
 | [Opening Ceremony](https://open.spotify.com/track/6QYOM6759mUjFhoY6UIcj6) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Opening Ceremony](https://open.spotify.com/album/6jVguby1S0bUwSB5I5AAPJ) | 3:39 | 2022-07-28 | 2022-08-03 |
@@ -224,6 +224,7 @@
 | [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 | 2022-11-22 | 2023-01-01 |
 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 | 2022-05-10 | 2022-07-28 |
 | [Steer This Band](https://open.spotify.com/track/1Vmh9Q12P6tyB19oi2a8nx) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:53 | 2022-05-12 | 2022-07-29 |
+| [Still \(feat.KIHIRO\)](https://open.spotify.com/track/13jzKEiX06c1PPrnBaUmYa) | [K](https://open.spotify.com/artist/0dojDHJmkEgWlNa7iyOMFK), [Kihiro](https://open.spotify.com/artist/5PRhTlrNZtoeCOSee6sZcr) | [Orange Ave.](https://open.spotify.com/album/2yzobjzYcxxhXOi0HnwnsD) | 3:03 | 2023-01-03 |  |
 | [Still Dreamin’](https://open.spotify.com/track/3kS5u2QrXPiX15KNBwc1zk) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Still Dreamin'](https://open.spotify.com/album/4FnSdO9Au9DBEYoVTKcQrY) | 4:02 | 2022-05-10 | 2022-07-21 |
 | [still in me](https://open.spotify.com/track/0J76SgwTH0c1asB63nUFCJ) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/24NqXrbilncITglWtThf9l) | 3:45 | 2022-06-28 | 2022-07-27 |
 | [Strawberry Margarita](https://open.spotify.com/track/6TsRIgK1wGPQDy5dsv36AF) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Strawberry Margarita](https://open.spotify.com/album/5BLIyjQJxYW09jh0qh4QUQ) | 3:08 | 2022-11-01 | 2022-12-21 |
@@ -365,6 +366,7 @@
 | [俺様バカ一代・改 \(2021 Mix\)](https://open.spotify.com/track/5QsUPtSbursmJkZTWttlqm) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [リズム&ビートニク ’21 & ヤングデイズソング](https://open.spotify.com/album/5gi2XlxABHsg6ztt6sHn2H) | 4:39 | 2022-05-19 | 2022-06-10 |
 | [倍で返せ!](https://open.spotify.com/track/7DkNvI8C53akPoTvlS57Pg) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [Crank Up](https://open.spotify.com/album/01EQVPGQUMByR3n7Iw1Wbw) | 3:14 | 2022-05-22 | 2022-07-14 |
 | [僕的地](https://open.spotify.com/track/4R254nmfaMgvgZH0cwSZf9) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [僕的地](https://open.spotify.com/album/7GegHcxnmBQT0yFxrVbPqp) | 4:41 | 2022-05-17 | 2022-07-11 |
+| [先輩](https://open.spotify.com/track/0XugWVvzcLN7nHFEk8bgyH) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [THE YⒶNK ROCK HERØES](https://open.spotify.com/album/60pDYcWPB5rLvI1tB8Y7RS) | 3:45 | 2023-01-03 |  |
 | [八月は僕の名前](https://open.spotify.com/track/5S57CHTpUpaceN58EP3Mn7) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [八月は僕の名前](https://open.spotify.com/album/7i4Z0kxoGUN4Ol3sLVOZeU) | 3:52 | 2022-09-15 | 2022-09-17 |
 | [出町柳パラレルユニバース](https://open.spotify.com/track/7wRI6losvhjrbPlpsx1tXZ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/7esEraxgPxV0BlLBjaP8Gs) | 4:04 | 2022-09-20 | 2022-11-02 |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-11-01 |  |

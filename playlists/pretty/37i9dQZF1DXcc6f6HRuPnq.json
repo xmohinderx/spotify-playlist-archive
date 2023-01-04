@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 64279,
+  "num_followers": 64420,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1MTU4MCwwMDAwMDAwMDA1OTAxMzg2OTU5YWZjMTU1Y2UyYmUwZmU0MzJkMjFm",
+  "snapshot_id": "MTY3MTU1MTU4MCwwMDAwMDAwMDAxMzE2YzgxZDkxYWU4YWU3OTVjZjYxMzA0MzYyNjMw",
   "tracks": [
     {
       "added_at": "2022-12-20 15:53:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-12-20 15:53:00",
       "album": {
-        "name": "Born Under A Bad Sign",
-        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Personal Manager",
-      "url": "https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN"
-    },
-    {
-      "added_at": "2022-12-20 15:53:00",
-      "album": {
         "name": "Mama Roux",
         "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 280400,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
+    },
+    {
+      "added_at": "2022-12-20 15:53:00",
+      "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Personal Manager",
+      "url": "https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN"
     },
     {
       "added_at": "2022-12-20 15:53:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-12-20 15:53:00",
       "album": {
-        "name": "The Delta Meets Detroit: Aretha's Blues",
-        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 290106,
-      "name": "Night Time Is the Right Time",
-      "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
-    },
-    {
-      "added_at": "2022-12-20 15:53:00",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/4vgVcdlhX5r5jvNamnV5rX"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 292445,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/229PfulMeZPFcv2mzXfsCX"
+    },
+    {
+      "added_at": "2022-12-20 15:53:00",
+      "album": {
+        "name": "The Delta Meets Detroit: Aretha's Blues",
+        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 290106,
+      "name": "Night Time Is the Right Time",
+      "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
     },
     {
       "added_at": "2022-12-20 15:53:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-12-20 15:53:00",
       "album": {
+        "name": "Wish Her Well",
+        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
+      },
+      "artists": [
+        {
+          "name": "Emma Wilson",
+          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
+        }
+      ],
+      "duration_ms": 263037,
+      "name": "Wish Her Well",
+      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
+    },
+    {
+      "added_at": "2022-12-20 15:53:00",
+      "album": {
         "name": "Mama's Still Got The Blues",
         "url": "https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2022-12-20 15:53:00",
       "album": {
-        "name": "Wish Her Well",
-        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
+        "name": "For Blind Willie",
+        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
       },
       "artists": [
         {
-          "name": "Emma Wilson",
-          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
+          "name": "Bror Gunnar Jansson",
+          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
         }
       ],
-      "duration_ms": 263037,
-      "name": "Wish Her Well",
-      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
+      "duration_ms": 361970,
+      "name": "Lord I Just Can't Keep from Crying",
+      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
     },
     {
       "added_at": "2022-12-20 15:53:00",
@@ -1087,22 +1103,6 @@
       "duration_ms": 186000,
       "name": "That Evening Train - Remastered 2022",
       "url": "https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl"
-    },
-    {
-      "added_at": "2022-12-20 15:53:00",
-      "album": {
-        "name": "For Blind Willie",
-        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
-      },
-      "artists": [
-        {
-          "name": "Bror Gunnar Jansson",
-          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
-        }
-      ],
-      "duration_ms": 361970,
-      "name": "Lord I Just Can't Keep from Crying",
-      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
     },
     {
       "added_at": "2022-12-20 15:53:00",

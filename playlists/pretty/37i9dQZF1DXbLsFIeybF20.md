@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,481 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,493 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 35 | [Hotter Than That](https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 3](https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn) | 3:02 |
 | 36 | [Bill Bailey](https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa) | [Albert Burbank](https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans](https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ) | 2:31 |
 | 37 | [Mardi Gras In New Orleans](https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [Ultimate Mardi Gras](https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb) | 3:21 |
-| 38 | [Lord, Lord, Lord](https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [New Orleans Brass Band Music \- Memories Of The Fairview & Hurricane Band](https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu) | 2:25 |
+| 38 | [I Found a New Baby](https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234) | [Jack Teagarden](https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf), [Bobby Hackett](https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq) | [Jazz In Hi\-Fi](https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn) | 2:44 |
 | 39 | [His Eye Is On The Sparrow](https://open.spotify.com/track/1CaDni89B5qBXIwdHwqaed) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Shake That Thing](https://open.spotify.com/album/7FZO1OPxRXhxkz72LD5x2k) | 6:12 |
-| 40 | [I Found a New Baby](https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234) | [Jack Teagarden](https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf), [Bobby Hackett](https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq) | [Jazz In Hi\-Fi](https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn) | 2:44 |
-| 41 | [Shreveport Stomp](https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Atlantic Jazz: New Orleans](https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV) | 3:00 |
+| 40 | [Shreveport Stomp](https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Atlantic Jazz: New Orleans](https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV) | 3:00 |
+| 41 | [Lord, Lord, Lord](https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [New Orleans Brass Band Music \- Memories Of The Fairview & Hurricane Band](https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu) | 2:25 |
 | 42 | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV) | [New Breed Brass Band](https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5), [5th Ward Weebie](https://open.spotify.com/artist/1Gd5PupkpVsM1OvgVDUvmH) | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK) | 4:36 |
 | 43 | [Do You Know What It Means to Miss New Orleans \- Live](https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great Chicago Concert 1956 \- Complete](https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q) | 5:06 |
 | 44 | [Foot Of Canal Street](https://open.spotify.com/track/1S2yETvOEBPi7oGECTzbnd) | [John Boutté](https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo) | [Good Neighbor](https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 | 50 | [Rosetta](https://open.spotify.com/track/1F6G1ewad31utaep702loo) | [Willie Humphrey](https://open.spotify.com/artist/1f2eTArDk6ozYuU1WiThYT), [Brian O'Connell](https://open.spotify.com/artist/5wt1TGwGYlTiTMs7MiIZ9u), [Les Muscutt](https://open.spotify.com/artist/4Tc3iSDuGy7MYV0ztG9mE7), [Frank Fields](https://open.spotify.com/artist/1SJJ0uLObOdsO8AKkWqBrW), [Ernie Elly](https://open.spotify.com/artist/55C95qwaJr1WvCRkFriDQ7) | [Two Clarinets on the Porch](https://open.spotify.com/album/5JCa8sHMS5xgVNrXaMRVTE) | 3:50 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMGY2NGUwMWI2MzY0ZmU2NGY3NDg5MTY0MTFjZjViNzUy`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDYxMWU0YzFkNTA3ZDNiY2NhYzk5Y2FkMTZjMTk5MmI4`

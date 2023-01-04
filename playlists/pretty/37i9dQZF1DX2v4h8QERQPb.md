@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Muerejoven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,194 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,224 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 62 | [Hit o Nada](https://open.spotify.com/track/0cdZtTvXfrKyesvhbh8ipu) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Golden Boyz](https://open.spotify.com/artist/4aTlzwTjIzgWcMMdbBVuzj) | [Hit o Nada](https://open.spotify.com/album/3XQgN3REnMiKgQddK9bKQv) | 4:53 |
 | 63 | [A Mi Lado](https://open.spotify.com/track/6cvMmviJTZTBOFh2ohwZg6) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [A Mi Lado](https://open.spotify.com/album/2EKFnG7NaqYgZOkCAi7MBP) | 2:58 |
 | 64 | [Cuando Entramos en Accion](https://open.spotify.com/track/0vpD5g0XkGr2sVtEdiWv7S) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Cuando Entramos en Acción](https://open.spotify.com/album/75ook1RNQe3jC7Xq03GjdX) | 3:02 |
-| 65 | [Perdón Mamá](https://open.spotify.com/track/6Bo4B8mxqcy9MWwnbpCqTr) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Dellalowla](https://open.spotify.com/artist/2Sg5Om9W4VXXIBC0wzObrH) | [Perdón Mamá](https://open.spotify.com/album/7qJ0BTRFXF9Sjh2XCqhA02) | 2:32 |
+| 65 | [Perdón Mamá](https://open.spotify.com/track/3V46IccwqEAOPKdZQTDVZM) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Dellalowla](https://open.spotify.com/artist/2Sg5Om9W4VXXIBC0wzObrH) | [Perdón Mamá](https://open.spotify.com/album/4e7jDqn0YTMNc4gQdVwUgM) | 2:32 |
 | 66 | [El Mundo Es Tuyo](https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:02 |
 | 67 | [Vueltas en el barrio](https://open.spotify.com/track/1mVSPOifn1tlbmRpjcTpzs) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Vueltas en el barrio](https://open.spotify.com/album/1BrVfD9HJ9HFyHCccK4BmP) | 2:34 |
 | 68 | [REQUIEM](https://open.spotify.com/track/1SKytz4jM5DELEFWSo7yoi) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [REQUIEM](https://open.spotify.com/album/3rzin0QPEuq4EZXmSQd4nK) | 3:35 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 77 | [Asuntos del Barrio](https://open.spotify.com/track/6MefVjzc01x9egWrzRqCGM) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Me Sueltan los Ángeles](https://open.spotify.com/album/1n9DVp6idZvlp6qGlat1Rp) | 2:16 |
 | 78 | [Mi Verdad](https://open.spotify.com/track/1aSkg4ktmneEIpb7Km5JoO) | [Dtoke](https://open.spotify.com/artist/2KeSIMXQoTUxvWOIecCOun) | [Mi Verdad](https://open.spotify.com/album/1dSYCNvuuGMzTWaZKVPWWz) | 2:05 |
 | 79 | [THROW UP SESSION \#1](https://open.spotify.com/track/4AmkflbQtBjOjNwSt92P1u) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [THROW UP SESSION \#1](https://open.spotify.com/album/0fpnN5zwByW6DeHbQ2hnY7) | 2:31 |
-| 80 | [Siempre Sale el Sol](https://open.spotify.com/track/44ckh9BBRSpZG038yOYx2S) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Siempre Sale el Sol](https://open.spotify.com/album/01LAhITVeMdtPdVTGmXHmx) | 3:19 |
+| 80 | [SIEMPRE SALE EL SOL](https://open.spotify.com/track/1JvR9VeEE8c4Dd9bLXqpla) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [SIEMPRE SALE EL SOL](https://open.spotify.com/album/0u2D0dZgFlaarRdY7FRbLG) | 3:19 |
 | 81 | [Beatbox Session Vol\. 2 \(feat\. Ecko\)](https://open.spotify.com/track/1ho8px5ANrV8vuCBuOe6w7) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Beatbox Session Vol\. 2 \(feat\. Ecko\)](https://open.spotify.com/album/1KxW7gO8JNjr1Uox1VFfIQ) | 3:14 |
 | 82 | [Low La](https://open.spotify.com/track/7tWS3WOhV4OErtDDB7YE65) | [Rapstinencia](https://open.spotify.com/artist/7dAfBnC7ILLBR3eIWocI9c), [T&K](https://open.spotify.com/artist/2SMK4TrK8djKN6CuunZpcr), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [Low La](https://open.spotify.com/album/2YNDW8yGbk1ITM68xgLatS) | 4:02 |
 | 83 | [Al Carajo](https://open.spotify.com/track/0aknicrrnbPQdPVZu5Gqcl) | [Z\-K](https://open.spotify.com/artist/3jiJNFG8hFkUJIdT7lmZkt), [Sank](https://open.spotify.com/artist/32LjNiBb4gbeytSXy4hBGB) | [Al Carajo](https://open.spotify.com/album/2j71a8nlO5czcb23AYaP9d) | 3:31 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 100 | [Caos](https://open.spotify.com/track/1rNHgKTcZ82mJPuoJ0ANsY) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Caos](https://open.spotify.com/album/4hAizxabFq0T6Li3YG7bTX) | 2:02 |
 | 101 | [Disciplina](https://open.spotify.com/track/7kL7d77orEOY6oZZMSjk0J) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Ambición y Disciplina](https://open.spotify.com/album/6byABFFo15jmymFmdBR8zb) | 3:32 |
 
-Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMDkxMmFhNzg5MWY1YzljOWRjMjQzYmI4MzllOTY3ZjU4`
+Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMGYwNWRiNTVlMTdmMWI4YTUyYzEzOTY1MjE3MzJiMzM1`

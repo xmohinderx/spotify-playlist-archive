@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156618,
+  "num_followers": 156609,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGM2NzJmMzQzYzcwZjJiYjk4NThhZDUxM2MzZWYwMWRm",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDE1NDUyYmY2ZTVlOWM1Yzk2YmRjYjZmZDBlMGYwZTMz",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -391,22 +391,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "If I Ruled The World",
-        "url": "https://open.spotify.com/album/40jPQGyol5aNMd3eaMIPWB"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
       "artists": [
         {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Mila Josef",
-          "url": "https://open.spotify.com/artist/249X7nXjC7z2dC9y6jFOli"
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
         }
       ],
-      "duration_ms": 171925,
-      "name": "If I Ruled The World",
-      "url": "https://open.spotify.com/track/4OcwgcBMJmL8hHJ7wUGk09"
+      "duration_ms": 145174,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -431,22 +431,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
+        "name": "If I Ruled The World",
+        "url": "https://open.spotify.com/album/40jPQGyol5aNMd3eaMIPWB"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
         },
         {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+          "name": "Mila Josef",
+          "url": "https://open.spotify.com/artist/249X7nXjC7z2dC9y6jFOli"
         }
       ],
-      "duration_ms": 145174,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
+      "duration_ms": 171925,
+      "name": "If I Ruled The World",
+      "url": "https://open.spotify.com/track/4OcwgcBMJmL8hHJ7wUGk09"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -671,6 +671,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 162983,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Never Let Me Down",
-        "url": "https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Tom Gregory",
-          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
-        }
-      ],
-      "duration_ms": 153148,
-      "name": "Never Let Me Down",
-      "url": "https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -739,22 +739,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+        "name": "Never Let Me Down",
+        "url": "https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
         }
       ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
+      "duration_ms": 153148,
+      "name": "Never Let Me Down",
+      "url": "https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -819,6 +819,26 @@
       "duration_ms": 165000,
       "name": "Tomorrow (feat. 433)",
       "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Stars Align (with Jolin Tsai)",
+        "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Stars Align (with Jolin Tsai)",
+      "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -899,26 +919,6 @@
       "duration_ms": 213333,
       "name": "Make You Mine (feat. Moa Lisa)",
       "url": "https://open.spotify.com/track/1ICPREUY4yMNeFEgbNh7D5"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Stars Align (with Jolin Tsai)",
-        "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Stars Align (with Jolin Tsai)",
-      "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Release Me (feat. Kalhaader)",
+        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
+      },
+      "artists": [
+        {
+          "name": "Twelve",
+          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
+        },
+        {
+          "name": "Kalhaader",
+          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Release Me (feat. Kalhaader)",
+      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "We Can Come Together",
         "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 216984,
       "name": "We Can Come Together",
       "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Release Me (feat. Kalhaader)",
-        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
-      },
-      "artists": [
-        {
-          "name": "Twelve",
-          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
-        },
-        {
-          "name": "Kalhaader",
-          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Release Me (feat. Kalhaader)",
-      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/62juGlcwPNJfv4XTQU6CTI"
+        "name": "All Comes Back To You",
+        "url": "https://open.spotify.com/album/6PUjpfG3cjuo7D9nK2oqCb"
       },
       "artists": [
         {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 125878,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/6smjJBiF02qPiSlGdJGmlG"
+      "duration_ms": 160312,
+      "name": "All Comes Back To You",
+      "url": "https://open.spotify.com/track/1jYe6W2ctH2SuAjKGa4Fxi"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1283,18 +1279,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "All Comes Back To You",
-        "url": "https://open.spotify.com/album/6PUjpfG3cjuo7D9nK2oqCb"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/62juGlcwPNJfv4XTQU6CTI"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         }
       ],
-      "duration_ms": 160312,
-      "name": "All Comes Back To You",
-      "url": "https://open.spotify.com/track/1jYe6W2ctH2SuAjKGa4Fxi"
+      "duration_ms": 125878,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/6smjJBiF02qPiSlGdJGmlG"
     },
     {
       "added_at": "2022-11-10 23:00:00",

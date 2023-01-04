@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-484 songs - 1 day 11 hr 46 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+485 songs - 1 day 11 hr 48 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Coup de foudre à Thessalonique](https://open.spotify.com/track/54ajuaWk3qWWM2IRfDKnul) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Coup de foudre à Thessalonique](https://open.spotify.com/album/2DUeBPypI4SmJ4Nr6HQQ4m) | 4:22 | 2021-10-06 | 2022-07-23 |
 | [Coup de foudre à Thessalonique](https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Bijou voyou caillou](https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14) | 4:22 | 2021-10-06 | 2022-09-15 |
 | [Criminal](https://open.spotify.com/track/58QTb74vjao3Wg99nb0Akr) | [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS), [Mambe Rodriguez](https://open.spotify.com/artist/7sAgoWclcaiAZyBQVIWd77) | [Criminal](https://open.spotify.com/album/4qibOzAneFCtZRApyluWq4) | 3:32 | 2022-02-15 | 2022-04-18 |
+| [Cucu](https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Cucu](https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc) | 1:52 | 2023-01-03 |  |
 | [Cumbia Fantasía](https://open.spotify.com/track/1uAbXVyaMqHBHIo8gp3GMK) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Cumbia Fantasía](https://open.spotify.com/album/1SrjHppHv9QG1qF0gFy3BN) | 4:49 | 2021-10-06 | 2022-02-05 |
 | [Cumbietiope](https://open.spotify.com/track/4LIdFQO5kSKc8eD8MCLsH6) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:04 | 2021-10-06 | 2022-04-18 |
 | [Dantokpa](https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ) | [Meister Lampe](https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i) | [Orb II](https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f) | 3:21 | 2021-10-06 | 2022-04-17 |
@@ -264,7 +265,7 @@
 | [Law Laffeina El Ard \- Habibi Funk 020](https://open.spotify.com/track/7aYyF8mi6LYqms6JdcREDS) | [Maha](https://open.spotify.com/artist/18LWSRqUjdqlSaAD79HS4H) | [Law Laffeina El Ard \(Habibi Funk 020\)](https://open.spotify.com/album/7vtL88JlUZ72Q5ekJ4MLsx) | 6:16 | 2022-09-03 | 2022-11-20 |
 | [Layla, Pt\. 1](https://open.spotify.com/track/1fJWdk2kxrtkdlPFyVRqIc) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [Layla](https://open.spotify.com/album/33jRRJHoKl6Fes91vgdXAz) | 3:14 | 2021-10-06 | 2022-05-29 |
 | [Lazalypso](https://open.spotify.com/track/4mtYQUCB0AuUriy4Sv1nri) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/0y7GV4jRQOaWiN4sH0SPW5) | 3:33 | 2021-10-06 | 2022-04-14 |
-| [Lazalypso](https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 3:33 | 2021-10-06 |  |
+| [Lazalypso](https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 3:33 | 2021-10-06 | 2023-01-04 |
 | [Levante la Mano \(Tonga Conga Remix\)](https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Levante la Mano \(Remixes\)](https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS) | 4:03 | 2022-04-17 | 2022-05-25 |
 | [Liquid Love](https://open.spotify.com/track/0gPlSsAiRoaX2Wu2mrsmQH) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Liquid Love](https://open.spotify.com/album/3eCRbDscbTBwDRc70kPbtW) | 5:28 | 2022-12-07 | 2023-01-03 |
 | [Little Mouse](https://open.spotify.com/track/6PLmTnJIHb22SXrQRr29fg) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP), [Mr\. Morski](https://open.spotify.com/artist/0RJTUTPE6jdu7i23X79GEi) | [Music Sun Love](https://open.spotify.com/album/4k9DC9Gc7OhaBBEfuPM1fV) | 4:52 | 2021-10-06 | 2022-06-18 |

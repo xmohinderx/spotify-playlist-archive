@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > Top Arabic hits are right here\. Cover: Mohammed Saeed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,843 likes - 78 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,071 likes - 78 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

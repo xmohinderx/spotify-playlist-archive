@@ -4,7 +4,7 @@
 
 > Les dernières nouveautés francophones avec Damso, DawaMafia, Rymz et Farfadet.
 
-1,421 songs - 3 day 4 hr 33 min - [published](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
+1,422 songs - 3 day 4 hr 36 min - [published](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [Celle\-là](https://open.spotify.com/track/1zm0GXo74RpE4oZfvq2gEV) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Celle\-là](https://open.spotify.com/album/416sctnWh0f51OgNPvAhnP) | 3:18 | 2022-09-02 | 2022-09-17 |
 | [Cercle Vicieux](https://open.spotify.com/track/2Wsp91MjyvE6fypPKmW3U4) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Cercle Vicieux](https://open.spotify.com/album/4uKG6vs1F0Y84CZOyP2CZm) | 3:42 | 2022-09-09 | 2022-09-24 |
 | [Cerf\-volant](https://open.spotify.com/track/50ek80p3iu1DkArxrxitmn) | [VIVACE](https://open.spotify.com/artist/65pD5eCYUYBXQ8HtFFonYj) | [Cerf\-volant](https://open.spotify.com/album/208mJEpcsUJvhqMMDAeSck) | 4:07 | 2022-07-22 | 2022-08-20 |
-| [Cette année\-là](https://open.spotify.com/track/41NJluEub1MMcwkUo411an) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:08 | 2022-12-02 |  |
+| [Cette année\-là](https://open.spotify.com/track/10JrUDqAjSR8JlcFj6GK8i) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:08 | 2022-12-23 |  |
+| [Cette année\-là](https://open.spotify.com/track/41NJluEub1MMcwkUo411an) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:08 | 2022-12-02 | 2023-01-04 |
 | [Champ Gauche](https://open.spotify.com/track/3VFnAkdqw4rTGNGDaFg2Jn) | [Dom Gouin](https://open.spotify.com/artist/7m2g8XzFxx2lvsiiPL5rBW) | [Champ Gauche](https://open.spotify.com/album/54ELUeCU5j4YtID1tMfrFt) | 3:09 | 2022-04-01 | 2022-04-09 |
 | [Changer le mal de place](https://open.spotify.com/track/7By5L98jfq0Dr1iSCADqIS) | [Julie Aubé](https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM) | [Changer le mal de place](https://open.spotify.com/album/1vmLrDeEJY45p86yNc51D7) | 2:57 | 2022-08-12 | 2022-08-27 |
 | [Changer le monde](https://open.spotify.com/track/5zzsZ24wZrEHgM8CVaAyZo) | [Star Académie](https://open.spotify.com/artist/4JNaMxBxA6eqY6QYRj5jDK) | [Changer le monde](https://open.spotify.com/album/7wK93zpO3qBJLuOnKkARDa) | 2:54 | 2022-02-11 | 2022-02-26 |

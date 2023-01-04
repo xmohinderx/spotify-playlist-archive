@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Zola au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,315,517 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,316,086 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 13 | [FLEURS \(feat\. Tiakola\)](https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:30 |
 | 14 | [Guapman](https://open.spotify.com/track/3UizQJoEShTLDSUUByJLDr) | [menace Santana](https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR) | [Guapman](https://open.spotify.com/album/3DXG5GrBLszaSduaQ5y3De) | 2:09 |
 | 15 | [PETETE](https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [PETETE](https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk) | 2:03 |
-| 16 | [Mr\. Ocho](https://open.spotify.com/track/1X5U5wtor2IFwM1RaeDGgx) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:46 |
+| 16 | [Mr\. Ocho](https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:46 |
 | 17 | [Tennessee](https://open.spotify.com/track/0iR0ZbEw46KtSDSGph0HHE) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tombolo \(Réédition\)](https://open.spotify.com/album/597zMwmxvoBtRDUsOjk54P) | 3:55 |
 | 18 | [Quand j'y repense](https://open.spotify.com/track/3BsYL1gVsiFpo0bM8oTbi0) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 3:14 |
 | 19 | [Intro](https://open.spotify.com/track/6qvyN6NTUpdfOJRYjtSSd7) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 2:27 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 21 | [Mode AV \(feat\. Niska & Gazo\)](https://open.spotify.com/track/5b8HD1dJDuPawgS5FjSC2q) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:12 |
 | 22 | [LIF](https://open.spotify.com/track/1bQzTUxeGELwCbWIan83V3) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 3:14 |
 | 23 | [Selfie](https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Selfie](https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI) | 2:36 |
-| 24 | [Redescends](https://open.spotify.com/track/36Tq4bva4dIMWcsq7gHDRH) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 2:41 |
+| 24 | [Redescends](https://open.spotify.com/track/17iXucMQMB1Ph3sXU3ZOMi) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:41 |
 | 25 | [Allez dehors](https://open.spotify.com/track/2YGtFjsTpSrsGb2rQy4ARj) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Allez dehors](https://open.spotify.com/album/6Us6AtFqQORq9wUpHdvbnf) | 2:46 |
 | 26 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 |
 | 27 | [Talent](https://open.spotify.com/track/3H3TloF0bCS7SHy3ovObeo) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Talent](https://open.spotify.com/album/0gcdxiAStFBexluiXVfsgI) | 3:01 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Papel](https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [Papel](https://open.spotify.com/album/53aYXX2K3eHCN0016iGcF5) | 3:10 |
 | 40 | [KOA](https://open.spotify.com/track/0eo5HWCC0jd7z9YBKNmAy0) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [KOA](https://open.spotify.com/album/7FBlDnQcJkmdxQ7MKO8zc1) | 3:07 |
 
-Snapshot ID: `MTY3MjM1NDgwMCwwMDAwMDAwMDc1OWVlOTQwMGQ4MWY4ZmIwZGZlYjVmZTM3YWI3OTEy`
+Snapshot ID: `MTY3MjM1NDgwMCwwMDAwMDAwMDczYmIxZTQ4ZjdiNjZmYmMwNmQ4MGIwNzAxYzQ3NDcz`

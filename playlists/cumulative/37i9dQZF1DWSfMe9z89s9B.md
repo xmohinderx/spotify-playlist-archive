@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Q
 
-702 songs - 1 day 13 hr 54 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+703 songs - 1 day 13 hr 57 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-24 |  |
 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 | 2021-11-05 | 2022-08-09 |
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-04-01 | 2022-07-22 |
-| [Bang](https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 | 2022-08-26 |  |
+| [Bang](https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 | 2022-08-26 | 2023-01-04 |
 | [BE U](https://open.spotify.com/track/0Dda3qDMBqfXyh5r4euLL0) | [Modlee](https://open.spotify.com/artist/1vJ2skBECCSXeUdgbQadBW) | [SOUL URGE](https://open.spotify.com/album/1DfBrXghMA9GswZIyrlKJU) | 2:38 | 2022-05-20 | 2022-05-28 |
 | [Beautiful](https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beautiful](https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU) | 2:46 | 2022-09-09 | 2022-10-29 |
 | [Been Through That](https://open.spotify.com/track/2cZbLHnTKtdSYUsVYlrnSi) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Been Through That](https://open.spotify.com/album/3ygNPDPtpbk2QSsLCKoClM) | 3:14 | 2021-06-18 | 2022-07-17 |
@@ -399,6 +399,7 @@
 | [Medallion](https://open.spotify.com/track/7G1z481K0xAULT3eVaaNQD) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Medallion](https://open.spotify.com/album/27EqAknfF83SRTkgPLRgfZ) | 2:29 | 2021-03-19 | 2022-07-16 |
 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 | 2021-12-10 | 2022-07-14 |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-07-15 | 2022-09-24 |
+| [Mercy](https://open.spotify.com/track/4VZbrCVlI5piIPDqPqCmwD) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs), [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [Mercy](https://open.spotify.com/album/4D0K6xwqS0a7TdTYY5Ls54) | 3:13 | 2022-12-09 |  |
 | [Merry Go Round](https://open.spotify.com/track/1sySMZ2LJzvBqZBmauhge7) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [Merry Go Round](https://open.spotify.com/album/3gWV141PUDjaZigwAFF1jQ) | 3:31 | 2022-04-01 | 2022-06-08 |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-11-05 | 2022-09-10 |
 | [mi pce](https://open.spotify.com/track/5x8NG7geEXz3yVDsfCSDRw) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [no u don't / intres\-ting / mi pce](https://open.spotify.com/album/5tfO8WwTGATVF4wmMSulqF) | 4:06 | 2021-03-19 | 2022-01-28 |

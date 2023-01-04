@@ -1,12 +1,12 @@
 {
   "description": "Listen to the most streamed tracks from EQUAL Global in 2022, at full volume.",
-  "num_followers": 860872,
+  "num_followers": 860831,
   "original_name": "Top Artists of EQUAL Global 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDY0ZTFmOGI4OTNkMjk3ZDI0NGJjOTc3NTY4NmI4NWY2",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDIyYmM2NDlmNTQ0ZWFkNjIxOGVkM2Q2MWIyZWU1ZDYy",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "L\u00fac Th\u1ea5y L\u00fac Kh\u00f4ng",
+      "url": "https://open.spotify.com/track/0glPN37HvVqCUh1qCWBKo7"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Houwa",
         "url": "https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 155214,
       "name": "Oh Sorry Ya",
       "url": "https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "LINK",
-        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
-      },
-      "artists": [
-        {
-          "name": "Hoang Thuy Linh",
-          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "L\u00fac Th\u1ea5y L\u00fac Kh\u00f4ng",
-      "url": "https://open.spotify.com/track/0glPN37HvVqCUh1qCWBKo7"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Wannabe - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 152109,
-      "name": "Wannabe - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/11MTxbr0apAkujej0nJ5WJ"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 213707,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6GkKzcWODUEyiRXTNluvbL"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Wannabe - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 152109,
+      "name": "Wannabe - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "so far it just sucked",
+        "url": "https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT"
+      },
+      "artists": [
+        {
+          "name": "LEEPA",
+          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+        }
+      ],
+      "duration_ms": 120253,
+      "name": "so far it just sucked",
+      "url": "https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "SHUT UP",
         "url": "https://open.spotify.com/album/7llnim2vHi8vZJAsshGC34"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 168107,
       "name": "SHUT UP",
       "url": "https://open.spotify.com/track/3uuohe7EVxzW8UqnSIAAuc"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "so far it just sucked",
-        "url": "https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT"
-      },
-      "artists": [
-        {
-          "name": "LEEPA",
-          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
-        }
-      ],
-      "duration_ms": 120253,
-      "name": "so far it just sucked",
-      "url": "https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1283,30 +1283,18 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Faixa Rosa (feat. Mc Carol)",
-        "url": "https://open.spotify.com/album/5RzMHKloQw9dB6S8OWEzsz"
+        "name": "Star (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13"
       },
       "artists": [
         {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Jojo Maronttinni",
-          "url": "https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+          "name": "Nazia Hassan",
+          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
         }
       ],
-      "duration_ms": 153230,
-      "name": "Faixa Rosa (feat. Mc Carol)",
-      "url": "https://open.spotify.com/track/6ADQaiTWb63joaiYYXPUAf"
+      "duration_ms": 318053,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/4vBpEoRBnyjcLTqgKCppwo"
     }
   ],
   "unique_name": "Top Artists of EQUAL Global 2022",

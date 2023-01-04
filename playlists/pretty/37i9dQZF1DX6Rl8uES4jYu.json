@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 237413,
+  "num_followers": 237632,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE5NjAxMCwwMDAwMDAwMDFjMDYyMTRkNmExM2YyNWM4MmZlYzQwYTE3NzNiOTNh",
+  "snapshot_id": "MTY3MTE5NjAxMCwwMDAwMDAwMGVmODQzYmY3NzM3OTU3NzRmOGU5N2U1Nzk3YzdjNzFm",
   "tracks": [
     {
       "added_at": "2022-04-15 04:02:00",
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
     },
     {
-      "added_at": "2023-01-03 02:20:36",
+      "added_at": "2023-01-04 01:22:50",
       "album": {
         "name": "Kind Reminder",
         "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Be Alright // U Sometimes",
-        "url": "https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 156013,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Tango",
@@ -467,6 +451,22 @@
       "duration_ms": 304838,
       "name": "Tango",
       "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Be Alright // U Sometimes",
+        "url": "https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "GUCCI BAG",
-        "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 134193,
-      "name": "GUCCI BAG",
-      "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
-    },
-    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "My Wave",
@@ -519,6 +503,22 @@
       "duration_ms": 151636,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/12spArvPaLxK6deo7ikvnZ"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "GUCCI BAG",
+        "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 134193,
+      "name": "GUCCI BAG",
+      "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -769,6 +769,46 @@
       "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
     },
     {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "Schvitz",
+        "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        }
+      ],
+      "duration_ms": 144588,
+      "name": "Earworm",
+      "url": "https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/7rqgcPmIqrwJFbtKy165yo"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        }
+      ],
+      "duration_ms": 217767,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7m9YbOeFNU0mpvGaPV53L3"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Every Night",
@@ -793,38 +833,6 @@
       "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/7rqgcPmIqrwJFbtKy165yo"
-      },
-      "artists": [
-        {
-          "name": "Jessica Mauboy",
-          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
-        }
-      ],
-      "duration_ms": 217767,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/7m9YbOeFNU0mpvGaPV53L3"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Get it Got it",
-        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Get it Got it",
-      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
-    },
-    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Chicken Wings (Remix)",
@@ -847,6 +855,22 @@
       "duration_ms": 165565,
       "name": "Chicken Wings - Remix",
       "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Get it Got it",
+        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Get it Got it",
+      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -959,30 +983,6 @@
       "duration_ms": 243373,
       "name": "Mama Please Don't Worry",
       "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "Schvitz",
-        "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
-        },
-        {
-          "name": "Vulfmon",
-          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
-        }
-      ],
-      "duration_ms": 144588,
-      "name": "Earworm",
-      "url": "https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
-    },
-    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Dreamboat",
@@ -1375,6 +1359,22 @@
       "duration_ms": 187412,
       "name": "Monica",
       "url": "https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
       "added_at": "2022-03-18 04:01:00",
@@ -1397,20 +1397,20 @@
       "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
+      "added_at": "2021-09-21 15:07:50",
       "album": {
-        "name": "Bluffin",
-        "url": "https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5"
+        "name": "No Two Blue Ticks",
+        "url": "https://open.spotify.com/album/60jbQjMoA7bZwUDazWZTR1"
       },
       "artists": [
         {
-          "name": "Hojean",
-          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+          "name": "Royce Wood Junior",
+          "url": "https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT"
         }
       ],
-      "duration_ms": 159126,
-      "name": "Bluffin",
-      "url": "https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf"
+      "duration_ms": 237748,
+      "name": "Slush",
+      "url": "https://open.spotify.com/track/0el3QrOTm2o2W17WfaDEy7"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1437,20 +1437,20 @@
       "url": "https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug"
     },
     {
-      "added_at": "2021-09-21 15:07:50",
+      "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "No Two Blue Ticks",
-        "url": "https://open.spotify.com/album/60jbQjMoA7bZwUDazWZTR1"
+        "name": "Bluffin",
+        "url": "https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5"
       },
       "artists": [
         {
-          "name": "Royce Wood Junior",
-          "url": "https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT"
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
         }
       ],
-      "duration_ms": 237748,
-      "name": "Slush",
-      "url": "https://open.spotify.com/track/0el3QrOTm2o2W17WfaDEy7"
+      "duration_ms": 159126,
+      "name": "Bluffin",
+      "url": "https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf"
     },
     {
       "added_at": "2022-10-14 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Saint Levant
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,652 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,723 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 44 | [FUNNY HOW](https://open.spotify.com/track/5ydV3NMWuOV1s4BRg1U9ei) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [FUNNY HOW](https://open.spotify.com/album/6vjuhnkjXZXkxTXBs2pCey) | 2:32 |
 | 45 | [Haifa in a Tesla](https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Haifa in a Tesla](https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4) | 2:45 |
 | 46 | [Flip It](https://open.spotify.com/track/0J2rCP89iP2AZYfJNGp26E) | [Zach Matari](https://open.spotify.com/artist/4HpDofv5tUMQrHzYX452rK) | [Flip It](https://open.spotify.com/album/0qRIZfXNGpKJJMxWiFzJVl) | 1:56 |
-| 47 | [Stars Align](https://open.spotify.com/track/6isRn13M76FHcFFefJwSUj) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Attention \- R&B Favourites](https://open.spotify.com/album/4HendAoi1Gnkm8O4Q0rQ8P) | 4:20 |
+| 47 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 |
 | 48 | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/track/2OvkCZfT67niZHpnZ28215) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO), [Amal Maghrabi](https://open.spotify.com/artist/5QzA0opnA9ZIGWF5ZFFnNI) | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/album/7rUWs9A2Owofq7T1IfVnkQ) | 3:28 |
 | 49 | [Taking me there](https://open.spotify.com/track/1Wfcg2yCd4zIzoStBzRdO2) | [Kenza Blanka](https://open.spotify.com/artist/4xps0WT8z5HjLqO33bbIec) | [Taking me there](https://open.spotify.com/album/5yIllyI3UH5vHi9SzdazIT) | 2:52 |
 | 50 | [ISMAK](https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL) | 3:10 |
 
-Snapshot ID: `MTY3MTExOTc2MiwwMDAwMDAwMDgzOGU1YmU1ZTljODI0ZDExOWE5MzZjY2Q0MzliNWVh`
+Snapshot ID: `MTY3MTExOTc2MiwwMDAwMDAwMGViNzBjNTVhNjhjMDNjNDc5ZmZiYTY5YzBmMGU3MDhh`

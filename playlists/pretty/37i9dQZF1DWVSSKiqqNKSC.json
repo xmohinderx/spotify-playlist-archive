@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 199099,
+  "num_followers": 199196,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNDQ0NSwwMDAwMDAwMDgxMjg1MzlmNGNhMmE5ODE0YTFkYzc2NTJkMmJhNzk1",
+  "snapshot_id": "MTY3MjQyNDQ0NSwwMDAwMDAwMGRiOTEzNTE2MTczMDI4ODEyNDAxMTgzMzk2NTZiY2Rj",
   "tracks": [
     {
       "added_at": "2020-08-25 16:57:45",
@@ -243,6 +243,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "Me Quedo Contigo",
+        "url": "https://open.spotify.com/album/0wOpfPbmZOoG7Zzfy3k5e6"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/2xyxQrfc7ep4n01aYjiOQN"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "Suma y Resta",
         "url": "https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 188364,
       "name": "Suma y Resta",
       "url": "https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Me Quedo Contigo",
-        "url": "https://open.spotify.com/album/0wOpfPbmZOoG7Zzfy3k5e6"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Me Quedo Contigo",
-      "url": "https://open.spotify.com/track/2xyxQrfc7ep4n01aYjiOQN"
     },
     {
       "added_at": "2020-08-25 16:57:45",

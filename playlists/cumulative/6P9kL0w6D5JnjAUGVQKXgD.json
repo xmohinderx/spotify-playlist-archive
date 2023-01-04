@@ -1923,7 +1923,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-22",
+      "date_removed": null,
       "duration_ms": 169910,
       "name": "Bad",
       "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
@@ -2547,7 +2547,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
@@ -4569,7 +4569,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 254871,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
@@ -7443,7 +7443,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 411633,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP"
@@ -9659,7 +9659,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 155644,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/76fkeDx8Uztga6l7RId8Fq"
@@ -10055,6 +10055,24 @@
       "duration_ms": 172413,
       "name": "Good Luck - D.O.D Remix",
       "url": "https://open.spotify.com/track/2iDejv4THvGsopBwdmWbXd"
+    },
+    {
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/30IkUlyQDDF1kuobmVCSBo"
+      },
+      "artists": [
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113149,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/07QCSa14E5bfOOkTXR7oLD"
     },
     {
       "album": {
@@ -12217,7 +12235,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 206852,
       "name": "I Got You - CINTHIE Remix",
       "url": "https://open.spotify.com/track/6zQ7hO4j8xwJeNszzykebE"
@@ -16367,7 +16385,7 @@
       ],
       "date_added": "2020-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 193333,
       "name": "Lush",
       "url": "https://open.spotify.com/track/18jl9P6m8QfmcX6xtewl50"
@@ -19229,7 +19247,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 135013,
       "name": "on & on",
       "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
@@ -19513,7 +19531,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 199357,
       "name": "One More Time (feat. Alida)",
       "url": "https://open.spotify.com/track/2REu6wX4KKrG6uGlTKVqu6"
@@ -19906,6 +19924,28 @@
     },
     {
       "album": {
+        "name": "Oxas",
+        "url": "https://open.spotify.com/album/0u8v6tjFwtiVkbt0MwqfrN"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "De Hofnar",
+          "url": "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301174,
+      "name": "Oxas",
+      "url": "https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl"
+    },
+    {
+      "album": {
         "name": "Oye Mami",
         "url": "https://open.spotify.com/album/2YpeWtXSXhMLCNWH2UpGhr"
       },
@@ -20031,7 +20071,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 174677,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY"
@@ -20565,7 +20605,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 202380,
       "name": "Pondicherry",
       "url": "https://open.spotify.com/track/0IoJNiqfeORsU6nMY9zC85"
@@ -23385,7 +23425,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
@@ -23609,7 +23649,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 141156,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/4AMd79KdqOKC7kcwSNTcN6"
@@ -23865,7 +23905,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3ACnarSkTKiOTj4rsnFkgf"
@@ -24219,7 +24259,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 202670,
       "name": "Starlight (Keep Me Afloat)",
       "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
@@ -24837,7 +24877,7 @@
       ],
       "date_added": "2020-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 160008,
       "name": "Summer on You",
       "url": "https://open.spotify.com/track/7Ct0Q46k5PkXzYiNE5D2dn"
@@ -26889,7 +26929,7 @@
       ],
       "date_added": "2020-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 173203,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3A2waEDfZQfl6RNOn8Y1xW"
@@ -29761,7 +29801,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 144393,
       "name": "You (\u00e0 la)",
       "url": "https://open.spotify.com/track/5kSh4hhyGRjLitIuNq0Agk"

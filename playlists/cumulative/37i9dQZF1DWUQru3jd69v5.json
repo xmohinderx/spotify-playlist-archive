@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 181666,
       "name": "Business Lady",
       "url": "https://open.spotify.com/track/3iCW2Fuf3UCEZ9NRPu0JXj"
@@ -2107,7 +2107,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 170103,
       "name": "DIO DELLE TRUFFE",
       "url": "https://open.spotify.com/track/7EAV1C6iG1UIUudEbUnVTB"
@@ -3657,7 +3657,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 107400,
       "name": "Intro",
       "url": "https://open.spotify.com/track/53wcKqRkZ0p4iDJEXdlVWb"
@@ -4143,7 +4143,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 131298,
       "name": "Lambo Viola",
       "url": "https://open.spotify.com/track/24KVdLCrxPFV6maULy0D6f"
@@ -5135,7 +5135,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 132363,
       "name": "Nuovo Borsello",
       "url": "https://open.spotify.com/track/6aLuaH2UqPRDcG7KsQatlj"
@@ -5501,7 +5501,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 129457,
       "name": "PKS #1",
       "url": "https://open.spotify.com/track/5Zwra4gIbI6kX7RBLKN4ip"
@@ -5739,7 +5739,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 181298,
       "name": "Pula Ciao",
       "url": "https://open.spotify.com/track/0j6b6C1RjXJwqcgtQiaYv1"
@@ -6297,7 +6297,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 175774,
       "name": "SCAMS",
       "url": "https://open.spotify.com/track/2aRErC8KAGrww1qhPnaTHZ"
@@ -6417,7 +6417,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 140291,
       "name": "Sesso Slitherich 2",
       "url": "https://open.spotify.com/track/4SSgWnlnttnm5U3qeZ3bqU"
@@ -6501,7 +6501,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 160768,
       "name": "SHAKE IT",
       "url": "https://open.spotify.com/track/0uwLyfh8ig8RXchJDtNJqY"
@@ -6811,7 +6811,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 168000,
       "name": "STELLE",
       "url": "https://open.spotify.com/track/3pAng4b9P3quRYanWSyJ8P"
@@ -7627,6 +7627,24 @@
       "duration_ms": 153986,
       "name": "Wawa",
       "url": "https://open.spotify.com/track/3OwMlRnyiwe69rAdBSNEOe"
+    },
+    {
+      "album": {
+        "name": "IL VERO ALBUM",
+        "url": "https://open.spotify.com/album/7BifH0ahNZVQzDM46QXS6q"
+      },
+      "artists": [
+        {
+          "name": "Tony 2Milli",
+          "url": "https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181472,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/7K508JqcqeUNqrDgZKpjkX"
     },
     {
       "album": {

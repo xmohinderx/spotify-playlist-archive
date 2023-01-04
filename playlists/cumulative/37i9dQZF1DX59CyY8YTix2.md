@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: クレナズム\(Culenasm\)
 
-720 songs - 1 day 22 hr 15 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+722 songs - 1 day 22 hr 23 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [13](https://open.spotify.com/track/4KmY60ZsxNTEoOSkPeRG8a) | [Gordon](https://open.spotify.com/artist/4DyaNSFEW5SrLJZLjx738N) | [13](https://open.spotify.com/album/4wlYD5Gtln9OL227a6QtW0) | 4:51 | 2022-05-31 | 2022-07-28 |
 | [134](https://open.spotify.com/track/2erQKQ9fLAq1YGVsuXUMKI) | [マッシュとアネモネ](https://open.spotify.com/artist/1hCMb6ZZq7wlwLouYSgsKj) | [134](https://open.spotify.com/album/2QIk2Fk5jRBTUdCirL3pyt) | 4:53 | 2022-12-29 |  |
 | [14時に待ち合わせ](https://open.spotify.com/track/5hOTUQMs6JEsyNn7Styacf) | [AOI MOMENT](https://open.spotify.com/artist/5A0UkhFr7fmMOKex4nXvfL) | [14時に待ち合わせ](https://open.spotify.com/album/5ez2mlsuhHtJn443pXMT80) | 3:49 | 2022-06-30 | 2022-07-05 |
+| [26](https://open.spotify.com/track/1hSJr6D5gY6DEJAGBkGAYl) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [26](https://open.spotify.com/album/4QVLkRRZRE9INUwPtfcJE6) | 4:25 | 2023-01-03 |  |
 | [4x4](https://open.spotify.com/track/07GsJC4CbReS0QjoyZnVL4) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [4x4](https://open.spotify.com/album/0kvc1uSSfXPDOSvmahakb8) | 3:49 | 2022-06-07 | 2022-07-29 |
 | [7.26](https://open.spotify.com/track/4aZaTKNOS8hzT0qhMUJFlb) | [Leica](https://open.spotify.com/artist/1VkUmyetwZ4BRkl1VuMKFG) | [7.26](https://open.spotify.com/album/0j8d37uiEbFp3fzQAFl3d0) | 4:00 | 2022-06-14 | 2022-07-21 |
 | [8.8](https://open.spotify.com/track/78igtKiXSTIGqLVr2dHb5k) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [8.8](https://open.spotify.com/album/68T9fiYFvjHMLCUPbei61t) | 5:53 | 2022-05-26 | 2022-07-08 |
@@ -191,7 +192,7 @@
 | [No, Thank U](https://open.spotify.com/track/5gOkgP1Bdg6AdZFYagNdZS) | [Heavenstamp](https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI) | [No, Thank U](https://open.spotify.com/album/5sEKAAsvOt4LRS60O3JvgS) | 3:33 | 2022-05-26 | 2022-07-01 |
 | [Nocturne](https://open.spotify.com/track/236ak0krOCdUlhMFuP2Ujl) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [Nocturne](https://open.spotify.com/album/1ht11fyfCbL9Do56Icrc3S) | 4:15 | 2022-09-27 | 2022-10-05 |
 | [Now Back](https://open.spotify.com/track/08PdBo2T8kdaZ2ZIK28SMd) | [アマイワナ](https://open.spotify.com/artist/78khO3LkYjAc4VSpHOJjrH) | [ベイビィ・ベッドルーム・パンク](https://open.spotify.com/album/3W23YvRkjCaoJycK3mD71W) | 3:01 | 2022-10-18 | 2022-11-02 |
-| [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 | 2022-09-06 |  |
+| [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 | 2022-09-06 | 2023-01-04 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-06-07 | 2022-10-12 |
 | [olive drive](https://open.spotify.com/track/0AlkosW5LjGmQulFMj0UyC) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Awesome.Ep](https://open.spotify.com/album/4yjXv4xDjCZQ1gZcK5kjd1) | 5:02 | 2022-11-15 | 2022-11-25 |
 | [olive drive\|橄欖思巡](https://open.spotify.com/track/5OnF0rU4WAzl13h5E15cNy) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Awesome.ep](https://open.spotify.com/album/2MuVRYEHJpo5keWpkhRATp) | 5:02 | 2022-11-15 | 2022-11-17 |
@@ -295,7 +296,7 @@
 | [UCHU ICHI NO ME](https://open.spotify.com/track/6Sf69vMZDSyRZZRfbc9Ams) | [THE DOKUROS](https://open.spotify.com/artist/1e9JQv27KSnk5NpBR9CryM), [TANAKA OF THE HAMADA](https://open.spotify.com/artist/7dbDyleqCJgP2JqHOhPGYi) | [UCHU ICHI NO ME](https://open.spotify.com/album/3H6rWFHdMdNaeFt9JRLDru) | 4:08 | 2022-09-15 | 2022-09-21 |
 | [undress me](https://open.spotify.com/track/0VSUIavf10ai27JTPuHecP) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [undress me](https://open.spotify.com/album/2DC9LOdCkd4t84349r4R0w) | 3:13 | 2022-05-26 | 2022-07-05 |
 | [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 | 2022-08-09 | 2022-09-24 |
-| [UP to ME](https://open.spotify.com/track/0vZMd0yHehTnVJmnuYuDR6) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [UP to ME](https://open.spotify.com/album/2HI3Q5cLdrcHyuL8fGrGhU) | 4:17 | 2022-09-20 |  |
+| [UP to ME](https://open.spotify.com/track/0vZMd0yHehTnVJmnuYuDR6) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [UP to ME](https://open.spotify.com/album/2HI3Q5cLdrcHyuL8fGrGhU) | 4:17 | 2022-09-20 | 2023-01-04 |
 | [UTOPIA](https://open.spotify.com/track/6155KcjQlwKcrbUAW6tAOF) | [Living Rita](https://open.spotify.com/artist/0ekt0GY3EGCsVugNHfBkHJ) | [Reality / UTOPIA](https://open.spotify.com/album/1rS3zYiUpv89HAuiedJf8X) | 4:02 | 2022-08-09 | 2022-08-17 |
 | [utouto](https://open.spotify.com/track/49RH7RyhJnF83In6yelKJO) | [sitaq](https://open.spotify.com/artist/6lajY9kGucnlFVlixs7Ne7) | [night](https://open.spotify.com/album/13DkAPBzkRZ1MxYdZO1Ywi) | 3:22 | 2022-11-01 | 2022-11-09 |
 | [Wake Up](https://open.spotify.com/track/60N0UcJn2N0xpi0r6CcsJT) | [寂しがり屋なピアニシモ](https://open.spotify.com/artist/7LJfNsnE1ZBOBvhrTUhpHk) | [Wake Up](https://open.spotify.com/album/2B59DIKRjOJBN2myNeVZjv) | 4:06 | 2022-07-14 | 2022-07-19 |
@@ -722,6 +723,7 @@
 | [青信号](https://open.spotify.com/track/4ZjvWensztp3x1vWqjyL8E) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [青信号](https://open.spotify.com/album/17AIgLlXnLfSSHmTnLrFH1) | 2:25 | 2022-05-26 | 2022-06-01 |
 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 | 2022-10-13 |  |
 | [面影](https://open.spotify.com/track/6g9ebGi6BuIJpU1F8n5pqO) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [SAKURAドロップス / 面影](https://open.spotify.com/album/6WpFtYm4xhwalELWPeAmNx) | 3:54 | 2022-06-02 | 2022-07-23 |
+| [風になれ](https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [風になれ](https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py) | 3:06 | 2023-01-03 |  |
 | [風の歌を聴け](https://open.spotify.com/track/1k1VjmzGoaxMko27jWEdq1) | [yuyuhackshow](https://open.spotify.com/artist/02ILgnFVp5SRTBJTtK2yTN) | [風の歌を聴け](https://open.spotify.com/album/1GskGNKnbvOyZ0jQigrT5w) | 3:55 | 2022-07-14 | 2022-07-20 |
 | [風は呼んでいる](https://open.spotify.com/track/6vQv0MQzF6oUOdoezs9EiT) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [風は呼んでいる / 未完成なドラマ](https://open.spotify.com/album/02pRSkN5xkGlFsp4yjIUvS) | 4:34 | 2022-05-31 | 2022-07-28 |
 | [餌にもなれない](https://open.spotify.com/track/5a2dhJIsvfkDVVj5MWZGPN) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [餌にもなれない](https://open.spotify.com/album/1RyuMiog3bTxVeX2rqeDGI) | 4:07 | 2022-06-02 | 2022-06-08 |

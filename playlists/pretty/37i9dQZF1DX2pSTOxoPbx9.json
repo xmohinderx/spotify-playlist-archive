@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 693743,
+  "num_followers": 694049,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU3NDY3MCwwMDAwMDAwMGE3YTI0YTk1ZjY0YjNhNjIzNTVjNTBlMDM1NzM5ODZl",
+  "snapshot_id": "MTY3Mjc2MzI1NywwMDAwMDAwMDMxNWY0YjE1MGM0NDQyMTgyYjk2NDk0OTg4ZTBjODgx",
   "tracks": [
     {
       "added_at": "2022-07-11 21:24:30",
@@ -137,6 +137,30 @@
       "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
     },
     {
+      "added_at": "2023-01-04 01:15:38",
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 251469,
+      "name": "Salt In The Wound",
+      "url": "https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI"
+    },
+    {
       "added_at": "2022-07-11 21:24:30",
       "album": {
         "name": "A/B",
@@ -235,22 +259,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Jenny of Oldstones (Game of Thrones)",
         "url": "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB"
       },
@@ -283,6 +291,22 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
         "name": "Goddess (Deluxe)",
         "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
@@ -311,22 +335,6 @@
       "duration_ms": 219226,
       "name": "9 Crimes",
       "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -387,6 +395,22 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
         "name": "Killer + The Sound",
         "url": "https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs"
       },
@@ -407,6 +431,22 @@
       "duration_ms": 475186,
       "name": "Killer + The Sound",
       "url": "https://open.spotify.com/track/00fRUfon3pr861IKiG03kA"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -455,22 +495,6 @@
       "duration_ms": 343786,
       "name": "Small Things",
       "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 207718,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -619,22 +643,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "How Big, How Blue, How Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 216176,
-      "name": "What Kind Of Man",
-      "url": "https://open.spotify.com/track/1w9ta1CvXlJPRXh6Py2Mto"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Sausalito",
         "url": "https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj"
       },
@@ -647,6 +655,22 @@
       "duration_ms": 222859,
       "name": "Sausalito",
       "url": "https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "How Big, How Blue, How Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 216176,
+      "name": "What Kind Of Man",
+      "url": "https://open.spotify.com/track/1w9ta1CvXlJPRXh6Py2Mto"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -731,22 +755,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Wasting My Young Years",
-      "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -771,6 +779,22 @@
       "duration_ms": 192666,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Wasting My Young Years",
+      "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -951,22 +975,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "In Darkened Rooms",
         "url": "https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7"
       },
@@ -979,6 +987,22 @@
       "duration_ms": 322680,
       "name": "Stars",
       "url": "https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1031,22 +1055,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "I Speak Because I Can",
-        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 218188,
-      "name": "Devil's Spoke",
-      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Bones EP",
         "url": "https://open.spotify.com/album/6px8K9UGkJZ3gDzxsPGUyl"
       },
@@ -1059,6 +1067,22 @@
       "duration_ms": 265098,
       "name": "Bones",
       "url": "https://open.spotify.com/track/2iddHfAqBKMJkXerLA9F9I"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "I Speak Because I Can",
+        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 218188,
+      "name": "Devil's Spoke",
+      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1387,22 +1411,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Metals",
-        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "How Come You Never Go There",
-      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO"
       },
@@ -1415,6 +1423,22 @@
       "duration_ms": 276488,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Metals",
+        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "How Come You Never Go There",
+      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1435,22 +1459,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
-      },
-      "artists": [
-        {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
-        }
-      ],
-      "duration_ms": 300960,
-      "name": "My Love Took Me Down To the River To Silence Me",
-      "url": "https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Gamble for a Rose",
         "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
       },
@@ -1463,6 +1471,22 @@
       "duration_ms": 242253,
       "name": "Loose Change for the Boatman",
       "url": "https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "duration_ms": 300960,
+      "name": "My Love Took Me Down To the River To Silence Me",
+      "url": "https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1639,22 +1663,6 @@
       "duration_ms": 362280,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
-        "name": "Blue Film",
-        "url": "https://open.spotify.com/album/7D8AeZSOdO2eO2Htuyubd8"
-      },
-      "artists": [
-        {
-          "name": "Lo-Fang",
-          "url": "https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Boris",
-      "url": "https://open.spotify.com/track/1rfSdNJodNnBxLlPok0YFB"
     }
   ],
   "unique_name": "Dark & Stormy",

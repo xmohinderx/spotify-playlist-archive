@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-311 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
+313 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Avalanche](https://open.spotify.com/track/0Kyxsaxjph9rfEru2uXIGu) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Miles and Miles](https://open.spotify.com/album/16ZBD2rfhcmite2xZ4prJT) | 4:25 | 2022-12-16 |  |
 | [Avalanche](https://open.spotify.com/track/6jBGH36Ue2beiIFrjakDkX) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Miles and Miles](https://open.spotify.com/album/2aGQYE2YiaM44GKTBTOFLc) | 4:25 | 2021-11-05 | 2022-07-28 |
 | [Back to Tennessee](https://open.spotify.com/track/6yVZtPADFaHeYpeAS45Gz2) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Back to Tennessee](https://open.spotify.com/album/6wXcYqIiXETdVMD0GwnI4G) | 3:36 | 2022-02-21 | 2022-07-28 |
+| [Be So Cruel \- Stripped](https://open.spotify.com/track/4VN1iJu8OWnh2yY6QNoKOj) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Be So Cruel \(Stripped\)](https://open.spotify.com/album/0uypCQZERlewPD7jjHhZVU) | 2:42 | 2023-01-03 |  |
 | [Bed Song 1](https://open.spotify.com/track/5XnQnpRRXZQbJ2PcvvuWp2) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Bed Song 1](https://open.spotify.com/album/1vpdtDIoL0jW47H7gYfp9n) | 3:59 | 2021-11-08 | 2022-07-29 |
 | [Before You](https://open.spotify.com/track/60GSDg8mVq5lIwBdQ8Fdgv) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Before You](https://open.spotify.com/album/3Cm5kXIKNv7VmgvYcotCQC) | 2:47 | 2021-11-05 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/68XQwuLFhzaV0ThuDv2I54) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Berlin](https://open.spotify.com/album/4yQ3lsX2CZRbukZ6QHs1eX) | 4:29 | 2021-11-05 | 2022-07-29 |
@@ -69,7 +70,7 @@
 | [Circles](https://open.spotify.com/track/5PlgebgDZ7vyCOqGxMhElC) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Calla Lily](https://open.spotify.com/album/44QrG8cDITqHHGZcGfeZWr) | 3:28 | 2021-11-05 | 2022-07-29 |
 | [Cold Feet](https://open.spotify.com/track/2wVd7pvX8gbYTVOOL4eKjJ) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Cold Feet](https://open.spotify.com/album/0l1Hm8MBege3nX4dAMypB8) | 3:20 | 2022-02-21 | 2022-07-29 |
 | [Colder Heavens \- Acoustic Version](https://open.spotify.com/track/07GpOUnhF3EwVjv3pMMchp) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens \(Acoustic Version\)](https://open.spotify.com/album/3uSG12cDlRr9yUuDkEIXbS) | 3:56 | 2021-11-05 | 2022-04-30 |
-| [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 | 2021-11-05 |  |
+| [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 | 2021-11-05 | 2023-01-04 |
 | [Courage](https://open.spotify.com/track/0E9vvI2kGtr8TUW2kJmGX4) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Darling Arithmetic](https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG) | 4:47 | 2022-07-22 |  |
 | [Day by Day \- Acoustic](https://open.spotify.com/track/3rpKU2rWPJEZK7lUOLaRxL) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Day by Day \(Acoustic\)](https://open.spotify.com/album/7vxcJ1BRA7yp804mS2TzQm) | 3:29 | 2021-11-05 | 2022-07-29 |
 | [Day by Day \- Acoustic](https://open.spotify.com/track/7zkXBmkaHsRzzSAc60bKNH) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Day by Day \(Acoustic\)](https://open.spotify.com/album/6b4ZNIphC9pI2JD2Ip2b42) | 3:29 | 2022-07-22 |  |
@@ -158,7 +159,7 @@
 | [Love Flew Away](https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k) | 2:27 | 2022-08-02 |  |
 | [Love Flew Away](https://open.spotify.com/track/5uAtnvrLOUDcTp9sfpxaQt) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/7yNnjSXqGCF3H1hEwJMwa5) | 2:27 | 2021-11-05 | 2022-07-28 |
 | [Love Flew Away](https://open.spotify.com/track/6FwkV9baY3ERqmxPsBLzYf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/3WvXQcV3BhJqued0PYn23U) | 2:27 | 2022-07-22 | 2022-10-13 |
-| [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 | 2022-12-16 |  |
+| [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 | 2022-12-16 | 2023-01-04 |
 | [May](https://open.spotify.com/track/3kfXRPnEqfAEOeKKX4UszE) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/69bmzUtPRFNdCMjsiD11kJ) | 3:58 | 2021-11-05 | 2022-07-29 |
 | [Me, Myself and Lunacy](https://open.spotify.com/track/1JzJbtG6UOv4sICVA8IX4H) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | ["WHAT THEN?"](https://open.spotify.com/album/1Yx2bNjkNd8bWZ9uM5Aexu) | 3:42 | 2022-07-22 | 2022-07-29 |
 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 | 2022-05-13 |  |
@@ -315,6 +316,7 @@
 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 | 2021-11-05 | 2022-08-03 |
 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 | 2021-11-05 | 2022-11-21 |
 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 | 2021-11-05 | 2022-07-29 |
+| [Worst Day \- Stripped Version](https://open.spotify.com/track/7dWVYMBp1sAECRjWKh3ySp) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Worst Day \(Stripped Version\)](https://open.spotify.com/album/1DYJdrMj7pXgVzj8HD5b51) | 2:48 | 2023-01-03 |  |
 | [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 | 2022-08-02 |  |
 | [Your Body](https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:24 | 2022-07-22 | 2022-11-13 |
 | [Your Body](https://open.spotify.com/track/4LSi50PwwZFOpkusSFu9Pd) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Your Body](https://open.spotify.com/album/5evixJw5r4l7PDqEJNBzhN) | 3:24 | 2021-11-05 | 2022-07-29 |

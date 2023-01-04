@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 35831,
+  "num_followers": 35895,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMGZiMjJmNGQ3YmRmYWUwYjc5NzJiMDlhNjJlNmM5NjA4",
+  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMDFjNWE4MmM0YWQ5Yzg5ZTAxMGNhNDE2YzRlOTExMWNh",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 241655,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Strangers to Ourselves",
         "url": "https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 187720,
       "name": "Lampshades on Fire",
       "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 241655,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Teens of Style",
-        "url": "https://open.spotify.com/album/7s2vwXfI8Ki49zYIfTTkRT"
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
       },
       "artists": [
         {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 260426,
-      "name": "Something Soon",
-      "url": "https://open.spotify.com/track/1L2U62lhBK991jQJ1uecD5"
+      "duration_ms": 224720,
+      "name": "Bros",
+      "url": "https://open.spotify.com/track/6NunWZuZ6g9KipJ9Q5Vck7"
     }
   ],
   "unique_name": "Best of Indie 2015",

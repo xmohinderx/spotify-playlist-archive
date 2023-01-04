@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Thunivu
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,773 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,261 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 7 | [Pacha Elai \(From "Love Today"\)](https://open.spotify.com/track/4JO0JV8cZ4JnB777tmNKh9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Pacha Elai \(From "Love Today"\)](https://open.spotify.com/album/5b57LEW0l5UPYSzgIyAnTT) | 3:30 |
 | 8 | [Vaa Thalaivaa](https://open.spotify.com/track/4H2ILdDNn6jkE7REM5skJC) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Arvindh Srinivasan](https://open.spotify.com/artist/5M40zpsiYOjtzb3UmDVmpu) | [Varisu](https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy) | 4:30 |
 | 9 | [Paniththuli](https://open.spotify.com/track/4kAPPLHQaAzKBjhgURUYKL) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Raangi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20nZf9JmukKgEA5dlqiYED) | 4:06 |
-| 10 | [Kammangkoozhu Karuvadu](https://open.spotify.com/track/4ncSbz7duANgKsgP1LttVW) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi) | [Kammangkoozhu Karuvadu \(From "Sembi"\)](https://open.spotify.com/album/01UiOHDEnLQoLueoyAzcOv) | 3:02 |
+| 10 | [Kammangkoozhu Karuvadu \(From "Sembi"\)](https://open.spotify.com/track/4u3vaDzwylP71epIzYzAw4) | [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi), [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Ilayakamban](https://open.spotify.com/artist/76fKTL3a0lFkfV9I75X49V) | [Kammangkoozhu Karuvadu \(From "Sembi"\) \- Single](https://open.spotify.com/album/4FwBzzN9rHm5nOxHw5zpfz) | 3:02 |
 | 11 | [Boologame \(From "Complex"\)](https://open.spotify.com/track/5vzzTXcVVyyi5gqC4DzzQa) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Karthik Raja](https://open.spotify.com/artist/0jXtd5NqfXiq9aT87f0GeX), [Bala Seetharaman](https://open.spotify.com/artist/4TbsHU0q3ipkNKqIDUclEQ) | [Boologame \(From "Complex"\) \- Single](https://open.spotify.com/album/2E42XaWcn6d3SA8A7sEMxn) | 3:25 |
 | 12 | [Vaa Vaathi](https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p) | 3:45 |
 | 13 | [Soul Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/5xqK2eth6i7xgH2Ov817H5) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Soul Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/4vlynRz37CoL7nCGHHCNU9) | 2:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 74 | [Kaaka Kadha \- From "Think Indie"](https://open.spotify.com/track/4ZU57HzgK8hWfeXcqBhWDd) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Kaaka Kadha \(From "Think Indie"\)](https://open.spotify.com/album/2Rf7Tu3ZqCmUdwqPosFaH4) | 3:30 |
 | 75 | [Bae](https://open.spotify.com/track/4n7h0fD56BijrFnxNJ2ifV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kNAeOCtoLHlxTsokhiR1u) | 4:02 |
 
-Snapshot ID: `MTY3MjQ5ODM1NCwwMDAwMDAwMDA1MGQ2Y2M0MzczOTI3Yzg4ZTJhOGVjOTJmMzlmZmU3`
+Snapshot ID: `MTY3MjQ5ODM1NCwwMDAwMDAwMDFhMWQ3ZjNhODEzNDMyMDA2ZGUzYTdkZGM4ZWRlYTQ2`

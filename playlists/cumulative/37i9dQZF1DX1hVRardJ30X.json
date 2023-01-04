@@ -754,6 +754,32 @@
     },
     {
       "album": {
+        "name": "3 Estrellas en el Conjunto",
+        "url": "https://open.spotify.com/album/3uuAk3GX0WfixFm5WkVl9J"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276774,
+      "name": "3 Estrellas en el Conjunto",
+      "url": "https://open.spotify.com/track/0aOt8nmb5ddTNGE0t7XfvE"
+    },
+    {
+      "album": {
         "name": "Frijo",
         "url": "https://open.spotify.com/album/2K93k2IqAnN7F0jAlOxdO0"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 322706,
+  "num_followers": 322789,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMGUxNTQxZTU2NGZhZjI4Yzk3ZWUxMjRhYjlkZjRiMjM1",
+  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDhiMmRjYTExMzIxNWIzNjRiOTcwMWIyMmY2OGRmNTY5",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "The New Life",
-        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
-      },
-      "artists": [
-        {
-          "name": "Lemos",
-          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
-        }
-      ],
-      "duration_ms": 138598,
-      "name": "The New Life",
-      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Quietly Quietly",
         "url": "https://open.spotify.com/album/2x2prQ4nWkiX5kg3qDagz4"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 202500,
       "name": "Quietly Quietly",
       "url": "https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "The New Life",
+        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
+      },
+      "artists": [
+        {
+          "name": "Lemos",
+          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
+        }
+      ],
+      "duration_ms": 138598,
+      "name": "The New Life",
+      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Gdansk",
-        "url": "https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 147314,
-      "name": "Gdansk",
-      "url": "https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Scent Of New Days",
         "url": "https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 142625,
       "name": "The Scent Of New Days",
       "url": "https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Gdansk",
+        "url": "https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 147314,
+      "name": "Gdansk",
+      "url": "https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Num\u00e9ro 1",
-        "url": "https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8sefine",
-          "url": "https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO"
-        }
-      ],
-      "duration_ms": 154625,
-      "name": "Num\u00e9ro 1",
-      "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Beyond Dreams",
         "url": "https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 153500,
       "name": "Beneath the Crystal Veil",
       "url": "https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Num\u00e9ro 1",
+        "url": "https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8sefine",
+          "url": "https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO"
+        }
+      ],
+      "duration_ms": 154625,
+      "name": "Num\u00e9ro 1",
+      "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 130459,
       "name": "poetry in touch",
       "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -983,34 +983,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Quintessence",
-        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
       },
       "artists": [
         {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
         }
       ],
-      "duration_ms": 144840,
-      "name": "Quintessence",
-      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Untouched Rainforest, Pt.3",
-        "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 193529,
-      "name": "Untouched Rainforest, Pt.3",
-      "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
+      "duration_ms": 182805,
+      "name": "how we sleep",
+      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1031,18 +1015,34 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
+        "name": "Untouched Rainforest, Pt.3",
+        "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
       },
       "artists": [
         {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 182805,
-      "name": "how we sleep",
-      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
+      "duration_ms": 193529,
+      "name": "Untouched Rainforest, Pt.3",
+      "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Quintessence",
+        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Quintessence",
+      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "A Cloud Passed",
-        "url": "https://open.spotify.com/album/7gYv4XTS4bIBw6c9z91v07"
-      },
-      "artists": [
-        {
-          "name": "Polly Carter",
-          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
-        }
-      ],
-      "duration_ms": 136078,
-      "name": "A Cloud Passed",
-      "url": "https://open.spotify.com/track/6l6cLvP0ACfjEzu343bWfa"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "An Evening Scene",
         "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "9-Feb-2022 \"All For E\"",
-        "url": "https://open.spotify.com/album/6bVLgvKVMlouhbBNMSOjFj"
+        "name": "A Cloud Passed",
+        "url": "https://open.spotify.com/album/7gYv4XTS4bIBw6c9z91v07"
       },
       "artists": [
         {
-          "name": "Sebastian Morawietz",
-          "url": "https://open.spotify.com/artist/2jaLRoXNNJXcNiUMROSRIT"
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
         }
       ],
-      "duration_ms": 244937,
-      "name": "9-Feb-2022 \"All For E\"",
-      "url": "https://open.spotify.com/track/5eojzOHGSzUuOK4jbKo59e"
+      "duration_ms": 136078,
+      "name": "A Cloud Passed",
+      "url": "https://open.spotify.com/track/6l6cLvP0ACfjEzu343bWfa"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1259,6 +1243,22 @@
       "duration_ms": 194517,
       "name": "night walk",
       "url": "https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "9-Feb-2022 \"All For E\"",
+        "url": "https://open.spotify.com/album/6bVLgvKVMlouhbBNMSOjFj"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Morawietz",
+          "url": "https://open.spotify.com/artist/2jaLRoXNNJXcNiUMROSRIT"
+        }
+      ],
+      "duration_ms": 244937,
+      "name": "9-Feb-2022 \"All For E\"",
+      "url": "https://open.spotify.com/track/5eojzOHGSzUuOK4jbKo59e"
     },
     {
       "added_at": "2022-09-20 13:39:53",

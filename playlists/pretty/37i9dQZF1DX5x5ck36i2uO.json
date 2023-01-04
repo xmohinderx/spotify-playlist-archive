@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 6773,
+  "num_followers": 6783,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjA0NjYxOSwwMDAwMDAwMDhlZTNjYjhhZjgwODJkYzM4NmU5ZWE4N2FmNjFlOGU3",
+  "snapshot_id": "MTY3MjA0NjYxOSwwMDAwMDAwMGEzYmI0NzYyZjRmOTQ0ZjI1YTc4ZDY1M2UxNGY5ZWE4",
   "tracks": [
     {
       "added_at": "2022-12-26 09:23:39",
@@ -131,8 +131,8 @@
     {
       "added_at": "2022-12-26 09:23:39",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
+        "name": "Tourist",
+        "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
         }
       ],
-      "duration_ms": 193494,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
+      "duration_ms": 189520,
+      "name": "Tourist",
+      "url": "https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn"
     },
     {
       "added_at": "2022-12-26 09:23:39",
@@ -259,8 +259,8 @@
     {
       "added_at": "2022-12-26 09:23:39",
       "album": {
-        "name": "Tourist",
-        "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
         }
       ],
-      "duration_ms": 189520,
-      "name": "Tourist",
-      "url": "https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn"
+      "duration_ms": 193494,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
     },
     {
       "added_at": "2022-12-26 09:23:39",
@@ -419,30 +419,6 @@
     {
       "added_at": "2022-12-26 09:23:39",
       "album": {
-        "name": "ROOM SERVICE",
-        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "Color (Feat. youra)",
-      "url": "https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB"
-    },
-    {
-      "added_at": "2022-12-26 09:23:39",
-      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 240520,
       "name": "Daydreamin (Feat. sogumm & Woo) (Prod. Yosi & CODE KUNST)",
       "url": "https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn"
+    },
+    {
+      "added_at": "2022-12-26 09:23:39",
+      "album": {
+        "name": "ROOM SERVICE",
+        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "Color (Feat. youra)",
+      "url": "https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB"
     },
     {
       "added_at": "2022-12-26 09:23:39",
@@ -675,6 +675,26 @@
     {
       "added_at": "2022-12-26 09:23:39",
       "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny"
+      },
+      "artists": [
+        {
+          "name": "BEAT SOMEONE",
+          "url": "https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY"
+        },
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        }
+      ],
+      "duration_ms": 196214,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc"
+    },
+    {
+      "added_at": "2022-12-26 09:23:39",
+      "album": {
         "name": "In The Morning",
         "url": "https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 306520,
       "name": "Bloo Story",
       "url": "https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr"
-    },
-    {
-      "added_at": "2022-12-26 09:23:39",
-      "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny"
-      },
-      "artists": [
-        {
-          "name": "BEAT SOMEONE",
-          "url": "https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY"
-        },
-        {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
-        }
-      ],
-      "duration_ms": 196214,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc"
     },
     {
       "added_at": "2022-12-26 09:23:39",

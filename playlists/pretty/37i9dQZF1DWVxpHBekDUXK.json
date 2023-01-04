@@ -1,12 +1,12 @@
 {
   "description": "We're here to provide some sonic solace for your grief. ",
-  "num_followers": 139143,
+  "num_followers": 139183,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODY5MCwwMDAwMDAwMGM3NGI3YjZkNzQ3ZTc4OWYzNzdhMjgyMmM2OWNhOGZi",
+  "snapshot_id": "MTY2MDIzODY5MCwwMDAwMDAwMDU5M2FkZGNmOWY0ZDE2ZWQyYzU1MTI1N2ZhZjRjOTk1",
   "tracks": [
     {
       "added_at": "2022-02-16 19:49:49",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-02-16 19:49:49",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+    },
+    {
+      "added_at": "2022-02-16 19:49:49",
+      "album": {
         "name": "These are Special Times",
         "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 268933,
       "name": "The Prayer",
       "url": "https://open.spotify.com/track/6zlY4xmlgqvn4LxjzoS2mz"
-    },
-    {
-      "added_at": "2022-02-16 19:49:49",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
     },
     {
       "added_at": "2022-02-16 19:49:49",

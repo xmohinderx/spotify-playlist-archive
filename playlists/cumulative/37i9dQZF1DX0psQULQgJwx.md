@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA.
 
-102 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
+103 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Neela](https://open.spotify.com/track/6DgWjbrZFA4uTWJgTH3Q3p) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Neela](https://open.spotify.com/album/0rgB5Ap7skxzetcGFpaPZC) | 4:02 | 2022-09-02 |  |
 | [Night Flowers](https://open.spotify.com/track/6yozO90dl8v9Itmf2LLDbN) | [Senjidema](https://open.spotify.com/artist/400zjNMBMV1D33VF5R2S1l) | [Hammam Spirit](https://open.spotify.com/album/0UI1FidROVrq8SVzYAzjXt) | 4:41 | 2022-09-02 |  |
 | [No Longer Without You](https://open.spotify.com/track/58ODMaEmUCpk5bU7qoHLDD) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [No Longer Without You](https://open.spotify.com/album/4oG2TJs9l9xlBW9CTFZ44U) | 2:49 | 2022-09-02 |  |
+| [Olive Grove](https://open.spotify.com/track/7G6SLZYw7lEBgvzVWEM4H7) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 8:28 | 2023-01-03 |  |
 | [Organic Peace](https://open.spotify.com/track/5WS9MN7qSwRF07eJLswCHu) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 3:36 | 2022-09-02 |  |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2022-09-13 |  |
 | [Özgürlük](https://open.spotify.com/track/4qQPBDDn5KAPjxvpYDGNsR) | [Erim Yerlikaya](https://open.spotify.com/artist/2eYEu9NiGEPnCI1aaFuACY) | [Özgürlük](https://open.spotify.com/album/0ZsQ8ZSShriz3lUzh19dpA) | 3:56 | 2022-09-02 |  |

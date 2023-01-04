@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,625 songs - 3 day 1 hr 15 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,627 songs - 3 day 1 hr 20 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Beneath Your Smile](https://open.spotify.com/track/4XnsaU3RkUS7o0nqLIUqW7) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Beneath Your Smile](https://open.spotify.com/album/6pMxigWt9M25pZsLTaGam8) | 4:46 | 2021-03-23 | 2022-07-26 |
 | [Benediction](https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Benediction](https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE) | 2:23 | 2022-10-25 |  |
 | [Berceuse](https://open.spotify.com/track/2FcTnvvmvyCfWhSK8BH8HS) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Pianoscope](https://open.spotify.com/album/4N5fQSex17f3VQZPkLZKyQ) | 2:34 | 2021-03-08 | 2021-05-10 |
+| [Berceuse](https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Berceuse](https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg) | 2:31 | 2023-01-04 |  |
 | [Berceuse](https://open.spotify.com/track/1RlKqfplkNXkV5ZkFZlo7d) | [Tyra Lindqvist](https://open.spotify.com/artist/0i0eyDR8HC7sY4eUNKIAtI) | [Berceuse](https://open.spotify.com/album/7nryP3Rq1gM9iPnPjvmJT2) | 2:39 | 2021-05-10 | 2022-04-01 |
 | [Berceuse \(Scaled Down Version\)](https://open.spotify.com/track/73xaHditQrP92Sia1pVvom) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Berceuse](https://open.spotify.com/album/3CapLnomeQByNOs4WBPOAZ) | 2:30 | 2021-03-18 | 2021-05-13 |
 | [Bergamo](https://open.spotify.com/track/1bHXbuM7CqRCSn5Zg1knnZ) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Bergamo](https://open.spotify.com/album/6jSSjJeFpsaMNP2uVrsgBC) | 2:06 | 2021-05-07 | 2021-05-08 |
@@ -986,7 +987,7 @@
 | [Oh Tannenbaum](https://open.spotify.com/track/66mfPFzGKc6Y62YQx9QdZl) | [Sasha Cohn](https://open.spotify.com/artist/7zB6bpjg6Cl3ngSwB3nNvm) | [Weinachten](https://open.spotify.com/album/0vC2jwHlYlIBt0omi48bmm) | 1:53 | 2021-04-29 | 2022-04-16 |
 | [Old Friends](https://open.spotify.com/track/77q2I17hdHukGdJJpxYOke) | [Juliana](https://open.spotify.com/artist/6RBHDN4rT8QrKtozLpU8Vp) | [Old Friends EP](https://open.spotify.com/album/2arcSC9YzTWGM1c9pHBWsR) | 4:55 | 2021-05-12 | 2021-05-19 |
 | [Old Habit](https://open.spotify.com/track/4FoGnUdmnEsTxrsvRofMZr) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Old Habit](https://open.spotify.com/album/1jOnTWP253diSiCFev3UKJ) | 2:03 | 2021-05-03 | 2022-04-19 |
-| [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 | 2022-12-24 |  |
+| [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 | 2022-12-24 | 2023-01-04 |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2021-10-31 | 2022-06-21 |
 | [Olyan szép vagy](https://open.spotify.com/track/7ejRYgcT2XCiYVCvjvCzmj) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Olyan szép vagy](https://open.spotify.com/album/6Wv0Ot23GCHzLmU8H58iFw) | 2:05 | 2021-04-23 | 2022-04-13 |
 | [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 | 2022-08-17 | 2022-12-24 |
@@ -1065,7 +1066,7 @@
 | [Portmeirion](https://open.spotify.com/track/2rNL1zppqgwWIzozc1UEq2) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Zéphyrine](https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58) | 2:11 | 2021-04-21 | 2021-04-22 |
 | [Portrait with Shadow](https://open.spotify.com/track/6Ic1I4RcYvkH5cuDc6Fozf) | [Robert Haigh](https://open.spotify.com/artist/7KuwV2EmdnmeUtSd7TRsPN) | [Creatures of the Deep](https://open.spotify.com/album/1C3XG4aTtxeU09UglFsYxG) | 2:04 | 2021-05-10 | 2021-12-18 |
 | [Portrait Y](https://open.spotify.com/track/2OcdSgwyO9RMJ7LurFSdvx) | [Omotesando](https://open.spotify.com/artist/4Oihxkshz07xUKMgUpsiSk) | [Portrait Y](https://open.spotify.com/album/1VOICJ5mvZAf5NorxttwQS) | 3:32 | 2021-06-11 | 2022-07-20 |
-| [Pour dessiner des fleur](https://open.spotify.com/track/45tnZArwDyo4hM7Zjguqb9) | [Maël Alexandrienne](https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu) | [Pour dessiner des fleur](https://open.spotify.com/album/4jMqEaGWYUeMEAAus1t62g) | 2:24 | 2022-12-24 |  |
+| [Pour dessiner des fleur](https://open.spotify.com/track/45tnZArwDyo4hM7Zjguqb9) | [Maël Alexandrienne](https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu) | [Pour dessiner des fleur](https://open.spotify.com/album/4jMqEaGWYUeMEAAus1t62g) | 2:24 | 2022-12-24 | 2023-01-04 |
 | [Pour l'amour de toi](https://open.spotify.com/track/4IaQbK6vmi0mqXrv17eoav) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [Pour l'amour de toi](https://open.spotify.com/album/2jpXFSkcuFmKf1BvfjKSGZ) | 1:48 | 2021-04-29 | 2022-04-01 |
 | [Pour que tu m’aimes encore](https://open.spotify.com/track/4C9ysvTrYnfCjZ8x8HJWp8) | [Joséphine Auclair](https://open.spotify.com/artist/0apUwW6GnlGwDJLyV35jUy) | [Pour que tu m’aimes encore](https://open.spotify.com/album/5Xbze3vkFASbO4tX2rHNuU) | 2:35 | 2021-03-06\* | 2021-04-23 |
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2021-03-09 | 2022-07-28 |
@@ -1207,6 +1208,7 @@
 | [Shut Eye](https://open.spotify.com/track/5VPLIA3nSekHVD7DdzvewF) | [Jesper Dahl](https://open.spotify.com/artist/1qhFjZ2E02LpM8FRvffZHS) | [Shut Eye](https://open.spotify.com/album/6Dq6kDkx8k6eh48jTazQ5j) | 2:29 | 2021-03-23 | 2022-07-25 |
 | [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 | 2022-01-06 | 2022-09-30 |
 | [Sichm](https://open.spotify.com/track/6pMJj2gSGimd2tWbBEs28V) | [Aenor](https://open.spotify.com/artist/23P5JvLFlmlLNsi9ntziQD) | [Sichm](https://open.spotify.com/album/6RswTsIjkwCAJogdZRRJrK) | 2:03 | 2021-03-07 | 2022-07-24 |
+| [Sicilienne](https://open.spotify.com/track/0ATCSA5YcOdy8jRY3FRJSe) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Sicilienne](https://open.spotify.com/album/3zOBVDSipEOvDzHVfhSwG0) | 3:00 | 2023-01-04 |  |
 | [Sides](https://open.spotify.com/track/4ydIU8ZiYsyTkRuqYIMJUG) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/4hwIH1YgDbVfPSGjelmO08) | 2:29 | 2021-05-08 | 2022-04-14 |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2021-03-14 | 2022-06-24 |
 | [Silence](https://open.spotify.com/track/4JU1uJZmDZCAJYEZ8MpIjp) | [Musicboxes](https://open.spotify.com/artist/51WLH938s8ZPIHSnoLjj2d) | [Focus Your Brain \- Deep Ambient Soundscapes Vol 1](https://open.spotify.com/album/6EK5AiyrCaxi8Hlp7UfMgr) | 3:08 | 2021-04-22 | 2022-04-20 |

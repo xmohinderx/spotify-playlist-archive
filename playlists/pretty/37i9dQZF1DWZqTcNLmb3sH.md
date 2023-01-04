@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vedha
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,884 likes - 134 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,931 likes - 134 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 8 | [For Registration \- Lovegal Sumadhura \(From "For Regn"\)](https://open.spotify.com/track/21lT90q7bC9GPJasbKGSv1) | [Airaa Udupi](https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR), [Deepak Doddera](https://open.spotify.com/artist/0SGmikcgmj4djshtt85Nh0), [Harish R](https://open.spotify.com/artist/4H2Z3q8vNpQHrkRVZdRl6T), [Nagarjun Sharma](https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk) | [For Registration \- Lovegal Sumadhura \(From "For Regn"\)](https://open.spotify.com/album/0cYgr3YqOynHEukyfbNTtI) | 4:27 |
 | 9 | [Chinnumari \(From "Vedha"\)](https://open.spotify.com/track/7MBiHHCBLA40Ix05D97bpM) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Chinnumari \(From "Vedha"\)](https://open.spotify.com/album/7MR5VGVzYoQZtI7spc3uWw) | 3:06 |
 | 10 | [Baanagi Bayalaago Antharanga](https://open.spotify.com/track/0F3Jqd9O76PNwt9K9AStLU) | [Chetan Sosca](https://open.spotify.com/artist/7f7Dqiejk8fbLj3LyTKwpW) | [Antharanga](https://open.spotify.com/album/1UOQdeQWYS16aJkcMyEEpu) | 4:33 |
-| 11 | [Rangaada Ragale](https://open.spotify.com/track/225t3bc1FUxlIib8GlI7P1) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Harshika Devanathan](https://open.spotify.com/artist/7BE4DofqukmR1I2CH7sTl3) | [Rangaada Ragale \(From "Once Upon A Time In Jamaaligudda"\)](https://open.spotify.com/album/4eM4jnU46TcRdzyfONVPOE) | 4:21 |
+| 11 | [Rangaada Ragale \(From "Once Upon A Time In Jamaaligudda"\)](https://open.spotify.com/track/7CBnHKCOQlMRIBn3LlF9VO) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Harshika Devanathan](https://open.spotify.com/artist/7BE4DofqukmR1I2CH7sTl3), [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Rangaada Ragale \(From "Once Upon a Time in Jamaaligudda"\) \- Single](https://open.spotify.com/album/2SAqVcWOGQ76VD2JcEz4s7) | 4:21 |
 | 12 | [Bombe Bombe \(From "Kranti"\)](https://open.spotify.com/track/5R4ZLze526WkAvN6WXiFWY) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1), [V\. Hari Krishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX) | [Bombe Bombe \(From "Kranti"\)](https://open.spotify.com/album/6hiv8sfiz4NeaBsWPokxd1) | 3:27 |
 | 13 | [Sampige Maradalli Gubbi](https://open.spotify.com/track/61yDMGZDD3BueMJGTCgiY8) | [Bhojaraj Vamanjoor](https://open.spotify.com/artist/66n8R79mIEJSXaK7Osf2FM) | [Naanu Adu Matthu Saroja](https://open.spotify.com/album/5xJjmrxoUAnkf0GzfZ20jX) | 3:03 |
 | 14 | [Jai Election Dhan Dhana Dhan](https://open.spotify.com/track/2KMbDxBUmNclFEnBbSHodQ) | [Upendra](https://open.spotify.com/artist/2gmPDpR4396fHMXsV1jWbH) | [Praja Rajya](https://open.spotify.com/album/0qTCxXdhmhFTpHYxQPhPNg) | 3:49 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 133 | [Nenne Tanaka \- From "Trivikrama"](https://open.spotify.com/track/7evkVwg65A0bAuRf7DVFHx) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Nenne Tanaka \(From "Trivikrama"\)](https://open.spotify.com/album/7G2DtZGuybwxA5YScHSHFm) | 4:17 |
 | 134 | [Thale Kettaga Onde Formula](https://open.spotify.com/track/416xO4d117dG2tB5vaVC2K) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Abbara](https://open.spotify.com/album/0F2I0bqjDIysW79xkUSex3) | 3:32 |
 
-Snapshot ID: `MTY3MjI5NDYwNiwwMDAwMDAwMGY1Nzk0Y2M2Yzk2ZTA2ODQxNDUwYzhiZTBlNjUzODY4`
+Snapshot ID: `MTY3MjI5NDYwNiwwMDAwMDAwMDBiYzY1NTljMzY2NTFhNmQwZGNmN2RkNmRiYzE5YmIy`

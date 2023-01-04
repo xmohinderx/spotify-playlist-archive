@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 85582,
+  "num_followers": 85658,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTI2MCwwMDAwMDAwMGU2Y2JmYjc4MTkzNDY5NzlkMzc5NjI5YTc4OTM2ZjRk",
+  "snapshot_id": "MTY3MjM2OTI2MCwwMDAwMDAwMGIzN2FiMmQwYTY4MDdlMDE3ZWIxMDM3MDM2MmQ3ODYx",
   "tracks": [
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
+        "name": "What's Up (feat. Jagged Edge)",
+        "url": "https://open.spotify.com/album/78lpvl9BAUf8x5yre7b4vF"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 219729,
+      "name": "What's Up (feat. Jagged Edge)",
+      "url": "https://open.spotify.com/track/3gPUFEEuGfZ4jTckTJrgUE"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
         "name": "Sex, Love & Pain",
         "url": "https://open.spotify.com/album/2ysbGZxi30xemn0KCIDWU1"
       },
@@ -1223,26 +1243,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Nu Beginning",
-        "url": "https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO"
-      },
-      "artists": [
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        },
-        {
-          "name": "Amber Navran",
-          "url": "https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt"
-        }
-      ],
-      "duration_ms": 234943,
-      "name": "Nu Beginning",
-      "url": "https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "Challenge",
         "url": "https://open.spotify.com/album/2wDwoSW9Hbjwv9gwtFJpT9"
       },
@@ -1271,6 +1271,26 @@
       "duration_ms": 224543,
       "name": "Exposure",
       "url": "https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Nu Beginning",
+        "url": "https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO"
+      },
+      "artists": [
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt"
+        }
+      ],
+      "duration_ms": 234943,
+      "name": "Nu Beginning",
+      "url": "https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1331,26 +1351,6 @@
       "duration_ms": 183373,
       "name": "Comeback.",
       "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "What's Up (feat. Jagged Edge)",
-        "url": "https://open.spotify.com/album/78lpvl9BAUf8x5yre7b4vF"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        },
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
-        }
-      ],
-      "duration_ms": 219729,
-      "name": "What's Up (feat. Jagged Edge)",
-      "url": "https://open.spotify.com/track/3gPUFEEuGfZ4jTckTJrgUE"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1431,6 +1431,22 @@
       "duration_ms": 250241,
       "name": "Chocolate Covered Strawberries",
       "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0vwcoBJSy5vfb9MAt4hibx"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "All That Matters - Spotify Singles",
+      "url": "https://open.spotify.com/track/7s0pdQmbXq6GtMHpkCTLLw"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1663,8 +1679,8 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0vwcoBJSy5vfb9MAt4hibx"
+        "name": "A Muse In Her Feelings",
+        "url": "https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa"
       },
       "artists": [
         {
@@ -1672,9 +1688,9 @@
           "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
         }
       ],
-      "duration_ms": 224262,
-      "name": "All That Matters - Spotify Singles",
-      "url": "https://open.spotify.com/track/7s0pdQmbXq6GtMHpkCTLLw"
+      "duration_ms": 222089,
+      "name": "A Muse",
+      "url": "https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1779,22 +1795,6 @@
       "duration_ms": 205720,
       "name": "You Got One",
       "url": "https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "A Muse In Her Feelings",
-        "url": "https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "A Muse",
-      "url": "https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl"
     }
   ],
   "unique_name": "dengo",

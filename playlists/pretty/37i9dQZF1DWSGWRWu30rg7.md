@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Fresh Finds Indonesia mempersembahkan: angkatan 2022 yang bersinar\. \#SpotifyWrapped Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,671 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,683 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 47 | [Dimensio](https://open.spotify.com/track/44aFC9Q6JUO8txxJeunsz3) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Dimensio](https://open.spotify.com/album/4xgJN8UO0lrJkUjfgoShBg) | 3:22 |
 | 48 | [in my blood](https://open.spotify.com/track/46gkzWWae0mst81XQqH7e0) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn) | [in my blood](https://open.spotify.com/album/4MAScVUiwugSnsts1x4Gtv) | 3:27 |
 | 49 | [Infeksi](https://open.spotify.com/track/0s43yjMEn0QqebqvypBQ3K) | [Caessaria](https://open.spotify.com/artist/4Lqjj5kam5AMYcZvdkKTvd) | [Infeksi](https://open.spotify.com/album/6u6VazvWTsc7uVzB7Iij3g) | 4:31 |
-| 50 | [Di Antara Cinta](https://open.spotify.com/track/3TWHzDiLfO4pU6tZklMhQ6) | [Aidil Saputra](https://open.spotify.com/artist/3kaVaY8A7Qe48YCkJuZZXd) | [Di Antara Cinta](https://open.spotify.com/album/3omp2LDIfA3JK9r67mnxy6) | 3:52 |
+| 50 | [Di Antara Cinta](https://open.spotify.com/track/0xmTWJOjGRbtPa5gmgZcLp) | [Aidil Saputra](https://open.spotify.com/artist/3kaVaY8A7Qe48YCkJuZZXd) | [Di Antara Cinta](https://open.spotify.com/album/7CDsPOdZIbEbPuwpUBczY5) | 3:52 |
 
-Snapshot ID: `MTY2OTgyNDYxNCwwMDAwMDAwMDM5YTFkNTUzYzA4ZWY1MGUzNzA5NDdkNGQ3NTkxOThm`
+Snapshot ID: `MTY2OTgyNDYxNCwwMDAwMDAwMDZiYjg2NTI2MzU4N2NjZmFlNjExMmNjM2FjMmMzYzJl`

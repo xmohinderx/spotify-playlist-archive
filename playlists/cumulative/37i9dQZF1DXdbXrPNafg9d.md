@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Cuco
 
-4,607 songs - 11 day 6 hr 14 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,608 songs - 11 day 6 hr 30 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1741,6 +1741,7 @@
 | [hey i'm in texas, do u wanna hang/talk?](https://open.spotify.com/track/7yRkcEBdg4vhpK8ddBDh5w) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [hey i'm in texas, do u wanna hang/talk?](https://open.spotify.com/album/2D9rWo88jntywhPBuGjPJZ) | 2:34 | 2022-02-11 | 2022-04-16 |
 | [Hey Jo](https://open.spotify.com/track/0QS28YSUyJjIygfy1NuMXi) | [The Districts](https://open.spotify.com/artist/3HZgaiR960RFqx9d4LPraD) | [Hey Jo](https://open.spotify.com/album/479E4GfkCbGORde6XTyTJN) | 3:55 | 2019-11-09 | 2019-12-13 |
 | [Hey Michael](https://open.spotify.com/track/7sUTbNjYpJkUhICiLEoYdf) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4), [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Hey Michael](https://open.spotify.com/album/28hQxdmFZYjRLEqeM5hZK0) | 2:59 | 2021-04-10 | 2021-05-29 |
+| [Hey World!](https://open.spotify.com/track/14JMeamQwgU0HSYgj77JgF) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Hey World!](https://open.spotify.com/album/419VGvkL9H3w9qHog2FyQC) | 15:59 | 2023-01-03 |  |
 | [Hey You](https://open.spotify.com/track/0soAgAXmRgBe1tpPZoq1lS) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Hey You](https://open.spotify.com/album/33XQkPN5SpydMaIPgc6DqQ) | 4:38 | 2019-05-26\* | 2019-06-15 |
 | [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2019-06-07 | 2019-08-13 |
 | [Heybb!](https://open.spotify.com/track/2nJzgUdGCZRrIcvuzvl9yp) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Heybb!](https://open.spotify.com/album/7i9lbYqZsP4tFauGhR19Xu) | 2:28 | 2019-10-18 | 2019-11-15 |
@@ -2188,7 +2189,7 @@
 | [Just When I Thought](https://open.spotify.com/track/3GqPiO86B7tUuDzzl7SePU) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Just When I Thought](https://open.spotify.com/album/0C2Dp8I1w4PKbICibbFYX1) | 4:42 | 2022-03-04 | 2022-04-23 |
 | [Justine Go Genesis](https://open.spotify.com/track/6HOAtOmFCAPkD9noGMdNz4) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Justine Go Genesis](https://open.spotify.com/album/031OpfE5JvOgPATcYUe5AG) | 3:16 | 2021-08-28 | 2021-09-25 |
 | [K.L.F.G.](https://open.spotify.com/track/5wH6o90uoZMmTBBVfw68aw) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [K.L.F.G.](https://open.spotify.com/album/7Cz9YIlq2kXpDnLQNCoTWW) | 1:54 | 2020-09-18 | 2020-10-24 |
-| [Kamikaze](https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 2:17 | 2022-11-04 |  |
+| [Kamikaze](https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 2:17 | 2022-11-04 | 2023-01-04 |
 | [Kamikaze](https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Kamikaze](https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn) | 3:30 | 2020-09-11 | 2020-10-16 |
 | [Kantori Ongaku](https://open.spotify.com/track/5tTJDhTBzGPHSd7sOPvnjd) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Kantori Ongaku](https://open.spotify.com/album/13jWePIGGrhQro924lTbXW) | 3:41 | 2019-06-21 | 2019-08-13 |
 | [Kara Toprak](https://open.spotify.com/track/2OATsNVC8XLRCXQwq4XVs2) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Kara Toprak](https://open.spotify.com/album/4kQo5FSAlcOcUAeZfuz6WP) | 4:12 | 2021-02-12 | 2021-02-26 |

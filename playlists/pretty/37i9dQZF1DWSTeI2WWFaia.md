@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Ab\-Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,276 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,295 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 39 | [Monsieur Dior](https://open.spotify.com/track/47993TulzIDIq2Bgs5JqOz) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Monsieur Dior](https://open.spotify.com/album/2NZnmicnIq9lnVtMhyc1bP) | 2:26 |
 | 40 | [Decoded \(feat\. Scarface\)](https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:14 |
 | 41 | [JADAKISS INTERLUDE \(feat\. Jadakiss\)](https://open.spotify.com/track/39zh5ufK1qVSOh6fJk4hNl) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:52 |
-| 42 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 |
-| 43 | [Help Me God](https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH) | [EGOT the EP](https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ) | 5:12 |
+| 42 | [Help Me God](https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH) | [EGOT the EP](https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ) | 5:12 |
+| 43 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 |
 | 44 | [Fast Life](https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z) | [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Fast Life](https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on) | 1:57 |
 | 45 | [Lobster Omelette \(feat\. Rick Ross\)](https://open.spotify.com/track/47lSZVLBTQz5rilIsZR7M2) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:40 |
 | 46 | [Mannequin](https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Mannequin](https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Plain Sight](https://open.spotify.com/track/3Ah4pozwJaRxSCpBpe5feb) | [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [Plain Sight](https://open.spotify.com/album/6CzfmHmWBWTbtmjHvbNrjB) | 3:25 |
 | 50 | [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 |
 
-Snapshot ID: `MTY3MTI0MDQ2MywwMDAwMDAwMGUzZjk0ZDY1ODcxMGM0ZWZjZjBlNTIxYjlmNjJmMjgz`
+Snapshot ID: `MTY3MTI0MDQ2MywwMDAwMDAwMDJlZDQxNTM2MTMwMTg4NzRjNTk1N2Q5NzY4Nzk3ZjUw`

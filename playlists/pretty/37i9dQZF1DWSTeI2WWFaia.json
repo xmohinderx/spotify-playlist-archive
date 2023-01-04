@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 1592276,
+  "num_followers": 1592295,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTI0MDQ2MywwMDAwMDAwMGUzZjk0ZDY1ODcxMGM0ZWZjZjBlNTIxYjlmNjJmMjgz",
+  "snapshot_id": "MTY3MTI0MDQ2MywwMDAwMDAwMDJlZDQxNTM2MTMwMTg4NzRjNTk1N2Q5NzY4Nzk3ZjUw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "EGOT the EP",
+        "url": "https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ"
+      },
+      "artists": [
+        {
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
+        }
+      ],
+      "duration_ms": 312653,
+      "name": "Help Me God",
+      "url": "https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
         "url": "https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 248000,
       "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
       "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "EGOT the EP",
-        "url": "https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ"
-      },
-      "artists": [
-        {
-          "name": "CyHi",
-          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
-        }
-      ],
-      "duration_ms": 312653,
-      "name": "Help Me God",
-      "url": "https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV"
     },
     {
       "added_at": "2022-12-16 05:00:00",

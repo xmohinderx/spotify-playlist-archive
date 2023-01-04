@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 245328,
+  "num_followers": 245413,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGQ4NTZkZWE0NGMyOGEyMTBkMjhkNWJjNmIyYmI3M2Fm",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGFjNjFjNDY1ZTFlOGU0Y2JjM2MxYWI1ODRjZjdjNmVj",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -499,22 +499,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 255214,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Woodstock (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Someone\u2019s EP I",
         "url": "https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d"
       },
@@ -549,20 +549,20 @@
       "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+        "name": "Aisle of Palm",
+        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
       },
       "artists": [
         {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
         }
       ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
+      "duration_ms": 218311,
+      "name": "White Gemini",
+      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -583,22 +583,6 @@
     {
       "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Aisle of Palm",
-        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
-      },
-      "artists": [
-        {
-          "name": "Beshken",
-          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "White Gemini",
-      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
         "name": "Your Own Truth",
         "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 293613,
       "name": "Your Own Truth",
       "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+      },
+      "artists": [
+        {
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -927,30 +927,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "I've Always Been",
-        "url": "https://open.spotify.com/album/1p0q7Jmjsqwkt8xXmE9OcV"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
-        },
-        {
-          "name": "Zach Berro",
-          "url": "https://open.spotify.com/artist/6t13QrSLbiVtlvksmoBgfH"
-        }
-      ],
-      "duration_ms": 114929,
-      "name": "I've Always Been",
-      "url": "https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Small Clan",
         "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 339921,
       "name": "Fragment II",
       "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "I've Always Been",
+        "url": "https://open.spotify.com/album/1p0q7Jmjsqwkt8xXmE9OcV"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        },
+        {
+          "name": "Zach Berro",
+          "url": "https://open.spotify.com/artist/6t13QrSLbiVtlvksmoBgfH"
+        }
+      ],
+      "duration_ms": 114929,
+      "name": "I've Always Been",
+      "url": "https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4"
     },
     {
       "added_at": "2018-12-11 21:12:31",

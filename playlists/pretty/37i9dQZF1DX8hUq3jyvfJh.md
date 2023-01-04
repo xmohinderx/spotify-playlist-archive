@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Gal Costa e destaques de 2022, por mais mulheres sendo ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,517 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,507 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 26 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 |
 | 27 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
 | 28 | [Duas Caras](https://open.spotify.com/track/4OXWpVtae6WxWUPKApp66r) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Duas Caras](https://open.spotify.com/album/0kNvywWv6Hf5y0l2p4OBUq) | 2:42 |
-| 29 | [Segue Invicto](https://open.spotify.com/track/7JGsf3jzhsMWDu75sQdPCF) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Segue Invicto](https://open.spotify.com/album/6cSpSEmFKxpVasXThfY5Er) | 2:28 |
-| 30 | [Dar Uma Deitchada](https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Dar Uma Deitchada](https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3) | 3:12 |
+| 29 | [Dar Uma Deitchada](https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Dar Uma Deitchada](https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3) | 3:12 |
+| 30 | [Segue Invicto](https://open.spotify.com/track/7JGsf3jzhsMWDu75sQdPCF) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Segue Invicto](https://open.spotify.com/album/6cSpSEmFKxpVasXThfY5Er) | 2:28 |
 | 31 | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/track/67MzL6NnggPqvBfJVzoYwX) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/album/2ERJxD3rl7r66fHJURjCon) | 2:25 |
 | 32 | [GAROTA INFERNAL](https://open.spotify.com/track/1v7claHAuCV40i4Z6BkVdq) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [GAROTA INFERNAL](https://open.spotify.com/album/4Q7onjpfABjrDQMbuGeTTg) | 2:29 |
 | 33 | [Motinha](https://open.spotify.com/track/6DWa4TwWpkby73mls0w6XR) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 3:14 |
 | 34 | [Como Eu Quero](https://open.spotify.com/track/20Mxqxf2u0Q6gNteDiViGm) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Como Eu Quero](https://open.spotify.com/album/1GomGMvKxYmMKapaPa1UKO) | 3:21 |
-| 35 | [Não Quero Ser Mais Eu \- Ao Vivo](https://open.spotify.com/track/4tRErerEoiCOIV2pLfL7hv) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos ao vivo em Goiânia vol 1](https://open.spotify.com/album/5TnxDHDxcAiyLx4IOkNRTQ) | 3:01 |
-| 36 | [Eclipse do Meu Coração](https://open.spotify.com/track/1L8z8xVcwsz50N0FOMS3wb) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Eclipse do Meu Coração](https://open.spotify.com/album/5MuqShBqOfBFxvfyUlZx2D) | 3:28 |
+| 35 | [Eclipse do Meu Coração](https://open.spotify.com/track/1L8z8xVcwsz50N0FOMS3wb) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Eclipse do Meu Coração](https://open.spotify.com/album/5MuqShBqOfBFxvfyUlZx2D) | 3:28 |
+| 36 | [O Choro é Livre](https://open.spotify.com/track/7mdclgEREBeEcIbGxIchcF) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [O Choro é Livre](https://open.spotify.com/album/1EyIA4KLuQVUuhzuYDwc8n) | 3:39 |
 | 37 | [Bruta](https://open.spotify.com/track/3mQSEDjzQnlvL4wPZbIGxY) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Bruta](https://open.spotify.com/album/5R9BgwbDW54Y7ijTpolkep) | 2:16 |
-| 38 | [Festa do Pijama](https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:19 |
-| 39 | [O Choro é Livre](https://open.spotify.com/track/7mdclgEREBeEcIbGxIchcF) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [O Choro é Livre](https://open.spotify.com/album/1EyIA4KLuQVUuhzuYDwc8n) | 3:39 |
+| 38 | [Não Quero Ser Mais Eu \- Ao Vivo](https://open.spotify.com/track/4tRErerEoiCOIV2pLfL7hv) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos ao vivo em Goiânia vol 1](https://open.spotify.com/album/5TnxDHDxcAiyLx4IOkNRTQ) | 3:01 |
+| 39 | [Festa do Pijama](https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:19 |
 | 40 | [Perigosinha "Louquinha"](https://open.spotify.com/track/0L3b6sD84Py9h9r6RnoJt4) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Perigosinha "Louquinha"](https://open.spotify.com/album/7w4dcc9ArowJKqX7BmBIw3) | 2:37 |
 | 41 | [Triscou Já Foi \- Ao Vivo](https://open.spotify.com/track/7cxum22Z75BDS2DTkTz2Ll) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Baseado em Fatos Reais, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/2F1IlArMVL10Uc8BQ4Po3E) | 2:41 |
 | 42 | [QUANDO EU TE OLHEI \- A COLORS SHOW](https://open.spotify.com/track/0enyOQLhOZz4DjK3TZ7UX3) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUANDO EU TE OLHEI \- A COLORS SHOW](https://open.spotify.com/album/1TSgZiq063sQKhMft5tpeF) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Eu Vou](https://open.spotify.com/track/7HcrBJtYTifl7zQqSLc2n7) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [Eu Vou](https://open.spotify.com/album/65plWnQdnyp41mpaLsdtHt) | 3:10 |
 | 50 | [TROPA DAS SOLTINHAS](https://open.spotify.com/track/7k82WCRSzfByzGXVYRgAvb) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [TROPA DAS SOLTINHAS](https://open.spotify.com/album/0gLKqtVCVOcI7eGz6rJuIZ) | 2:26 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDYxMDk2MzEwNTE3ODA0NjE2NzZhY2UxNjJlMTg1NmVj`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDhlNDdiMzY5Yjk1OGU0ZmJkZjhjMmQyMTExNWY5YzI3`

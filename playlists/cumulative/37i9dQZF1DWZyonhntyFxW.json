@@ -704,6 +704,40 @@
     },
     {
       "album": {
+        "name": "Freedom Music: Scene Cypher 3",
+        "url": "https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7"
+      },
+      "artists": [
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        },
+        {
+          "name": "Lil Noby",
+          "url": "https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa"
+        },
+        {
+          "name": "Tommy",
+          "url": "https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ"
+        },
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        },
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244864,
+      "name": "Freedom Music: Scene Cypher 3",
+      "url": "https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW"
+    },
+    {
+      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/33Z8BT35ZwgYBRREcKiwCg"
       },
@@ -1291,7 +1325,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 204348,
       "name": "Matgreesh",
       "url": "https://open.spotify.com/track/3RKzFNbYS8iiBGJCrfbVbb"

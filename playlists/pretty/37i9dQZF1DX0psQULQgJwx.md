@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Lounge sounds for SPA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,386 likes - 99 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,593 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,23 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 | 79 | [Harmonic Waves](https://open.spotify.com/track/3tNHecaOXpZHJZ2bPMtOsq) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Harmonic Waves](https://open.spotify.com/album/3oCRkrg7AL8r5rMfGVPU2t) | 3:26 |
 | 80 | [Andaz](https://open.spotify.com/track/4isjKciq9yrInyKELj2iGn) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 3:22 |
 | 81 | [Melting Snow](https://open.spotify.com/track/3P7VUd2zZQiAGoHVv5kx6P) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Buddha's Dream](https://open.spotify.com/album/4I6REoU5dcDWZts0uMiFbH) | 7:11 |
-| 82 | [High Fly](https://open.spotify.com/track/4lpIocJWZ7ubpEi2WmXs6Z) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:46 |
-| 83 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 |
-| 84 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 |
-| 85 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 |
-| 86 | [Dream about me](https://open.spotify.com/track/6L1sKb2kv74gPGUpjkybTO) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Dream about me](https://open.spotify.com/album/3XHxAXn40Nwlbjrg6rbRlK) | 2:58 |
-| 87 | [Fields of Passion](https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Fields of Passion](https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj) | 3:07 |
-| 88 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
-| 89 | [Soon my dear](https://open.spotify.com/track/5g7NMH1xXhjZsjqz268Vny) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [Soon my dear](https://open.spotify.com/album/5iZNSYBVqRXKoa5oAhhZlD) | 3:13 |
-| 90 | [My Quiet Place](https://open.spotify.com/track/1OntsKRQKkQaQNfOyRl0Ne) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [My Quiet Place](https://open.spotify.com/album/6hhNZktOa9U68TnlzXdMH8) | 3:30 |
-| 91 | [Pacificae](https://open.spotify.com/track/4ZnpF2DTkz3F0RcvI11KFQ) | [Zena Andes](https://open.spotify.com/artist/3QxEMMVln4ehYRy753oUjl) | [Pacificae](https://open.spotify.com/album/7L6L62G7AVzn24bjfNVlUQ) | 3:36 |
-| 92 | [Duymak](https://open.spotify.com/track/35rthgtOnBYjnrwG7lsVnd) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Duymak](https://open.spotify.com/album/1F8inMXEvRBHxVcbQWxEPx) | 2:58 |
-| 93 | [Akasha](https://open.spotify.com/track/5q4J2KGLDooMaYvsc2WxAu) | [Ewa Drishti](https://open.spotify.com/artist/36bqrOQ7m5YgPYvqSWuw7q) | [Akasha](https://open.spotify.com/album/3PmQ3GHAVKAmZkwP1NyQpA) | 2:51 |
-| 94 | [We Are](https://open.spotify.com/track/3hwmB5wcWwszc2OfHaiqG1) | [Erik Walmoe](https://open.spotify.com/artist/6A5AsqsnvVDdHsup7edHPy) | [We Are](https://open.spotify.com/album/0BTv8frPTRHscn9qp3ligr) | 2:42 |
-| 95 | [The Poetry of Self](https://open.spotify.com/track/5Jlpmn29w2hROmGNrcyxJc) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Kiku Rain](https://open.spotify.com/album/1v3HnbsPH3zkKyU0Kow2Y8) | 4:02 |
-| 96 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 |
-| 97 | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 |
-| 98 | [Stories Untold](https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Stories Untold](https://open.spotify.com/album/3wsnwDdtD8Vx3Dmw53qe9f) | 3:32 |
-| 99 | [Neela](https://open.spotify.com/track/6DgWjbrZFA4uTWJgTH3Q3p) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Neela](https://open.spotify.com/album/0rgB5Ap7skxzetcGFpaPZC) | 4:02 |
+| 82 | [Olive Grove](https://open.spotify.com/track/7G6SLZYw7lEBgvzVWEM4H7) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 8:28 |
+| 83 | [High Fly](https://open.spotify.com/track/4lpIocJWZ7ubpEi2WmXs6Z) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:46 |
+| 84 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 |
+| 85 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 |
+| 86 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 |
+| 87 | [Dream about me](https://open.spotify.com/track/6L1sKb2kv74gPGUpjkybTO) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Dream about me](https://open.spotify.com/album/3XHxAXn40Nwlbjrg6rbRlK) | 2:58 |
+| 88 | [Fields of Passion](https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Fields of Passion](https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj) | 3:07 |
+| 89 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
+| 90 | [Soon my dear](https://open.spotify.com/track/5g7NMH1xXhjZsjqz268Vny) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [Soon my dear](https://open.spotify.com/album/5iZNSYBVqRXKoa5oAhhZlD) | 3:13 |
+| 91 | [My Quiet Place](https://open.spotify.com/track/1OntsKRQKkQaQNfOyRl0Ne) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [My Quiet Place](https://open.spotify.com/album/6hhNZktOa9U68TnlzXdMH8) | 3:30 |
+| 92 | [Pacificae](https://open.spotify.com/track/4ZnpF2DTkz3F0RcvI11KFQ) | [Zena Andes](https://open.spotify.com/artist/3QxEMMVln4ehYRy753oUjl) | [Pacificae](https://open.spotify.com/album/7L6L62G7AVzn24bjfNVlUQ) | 3:36 |
+| 93 | [Duymak](https://open.spotify.com/track/35rthgtOnBYjnrwG7lsVnd) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Duymak](https://open.spotify.com/album/1F8inMXEvRBHxVcbQWxEPx) | 2:58 |
+| 94 | [Akasha](https://open.spotify.com/track/5q4J2KGLDooMaYvsc2WxAu) | [Ewa Drishti](https://open.spotify.com/artist/36bqrOQ7m5YgPYvqSWuw7q) | [Akasha](https://open.spotify.com/album/3PmQ3GHAVKAmZkwP1NyQpA) | 2:51 |
+| 95 | [We Are](https://open.spotify.com/track/3hwmB5wcWwszc2OfHaiqG1) | [Erik Walmoe](https://open.spotify.com/artist/6A5AsqsnvVDdHsup7edHPy) | [We Are](https://open.spotify.com/album/0BTv8frPTRHscn9qp3ligr) | 2:42 |
+| 96 | [The Poetry of Self](https://open.spotify.com/track/5Jlpmn29w2hROmGNrcyxJc) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Kiku Rain](https://open.spotify.com/album/1v3HnbsPH3zkKyU0Kow2Y8) | 4:02 |
+| 97 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 |
+| 98 | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 |
+| 99 | [Stories Untold](https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Stories Untold](https://open.spotify.com/album/3wsnwDdtD8Vx3Dmw53qe9f) | 3:32 |
+| 100 | [Neela](https://open.spotify.com/track/6DgWjbrZFA4uTWJgTH3Q3p) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Neela](https://open.spotify.com/album/0rgB5Ap7skxzetcGFpaPZC) | 4:02 |
 
-Snapshot ID: `MTY3MTczMjIxMSwwMDAwMDAwMGQ3MDQ2NmM0ZWY4OGVkNjBjNjFjYWZlOGQxNDNiNzFj`
+Snapshot ID: `MTY3Mjc1MjA2MywwMDAwMDAwMDEyN2UyZDQ4M2FlMTAxMWQ4ZjJjOTk3MzhmMzczZGI2`

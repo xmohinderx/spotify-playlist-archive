@@ -10,8 +10,8 @@
 |---|---|---|---|---|---|
 | [444](https://open.spotify.com/track/1fcKoMHat5NFGAUcfTqZkO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 8:55 | 2022-06-02 | 2022-10-05 |
 | [6IE.CR](https://open.spotify.com/track/29L1h6D7MXSsno3pibZ4eE) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Draft 7.30](https://open.spotify.com/album/08kNtBJ5LHFgxOV8PodiQw) | 5:38 | 2022-05-29 | 2022-10-13 |
-| [777](https://open.spotify.com/track/5txiIpQhhGzdII7Bci8wuv) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 5:49 | 2022-05-29 |  |
-| [Acroyear2](https://open.spotify.com/track/0YxgETKHayjfYMws5jZ9dw) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 8:39 | 2022-05-29 | 2023-01-01 |
+| [777](https://open.spotify.com/track/5txiIpQhhGzdII7Bci8wuv) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 5:49 | 2022-05-29 | 2023-01-04 |
+| [Acroyear2](https://open.spotify.com/track/0YxgETKHayjfYMws5jZ9dw) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 8:39 | 2022-05-29 |  |
 | [AE\_LIVE\_NIJMEGEN\_221116](https://open.spotify.com/track/5m7GLQe8H4PFwyIpPmT9MB) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [AE\_LIVE\_NIJMEGEN\_221116](https://open.spotify.com/album/5tgzJZtWLqRbc4rq2HXOqA) | 59:04 | 2022-05-29 | 2022-07-07 |
 | [Altibzz](https://open.spotify.com/track/2dqLO6897sZKnAAXuOcdGW) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y) | 2:52 | 2022-05-29 |  |
 | [Arch Carrier](https://open.spotify.com/track/7hAmInNS31FgKrrxllY30I) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 6:49 | 2022-06-05 | 2022-08-12 |

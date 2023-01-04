@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-276 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+277 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Brockley](https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 4:48 | 2021-10-16 |  |
 | [Burnet Moth](https://open.spotify.com/track/6kSYWuonprvsCJjg5VjTBz) | [Jason Barty](https://open.spotify.com/artist/4SrMy4CFC4W9YE2rS6eIY9), [Mackie Smith](https://open.spotify.com/artist/3JH9TTy7NQCeIvgomUVC9q) | [Mothers Jaws](https://open.spotify.com/album/4fq2rztG7NRzGKdGBk8pxJ) | 3:25 | 2021-10-16 | 2022-10-13 |
 | [Candy's Crush](https://open.spotify.com/track/55WE5pNVNYwZ7k2eaJW43C) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Queens](https://open.spotify.com/album/5fDONHHypsFVeEr1Z4ptN4) | 1:28 | 2021-10-16 | 2022-07-28 |
+| [Cape Cira](https://open.spotify.com/track/0nFjW7EVhopM2mfMDJjcOq) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Cape Cira](https://open.spotify.com/album/3u3jFYNTOIEyc5mqB6txFv) | 6:17 | 2021-10-16 |  |
 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 | 2021-10-16 |  |
 | [Castlefields](https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov) | [Tara Clerkin](https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6), [Sunny Joe Paradisos](https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI) | [Castlefields](https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh) | 8:14 | 2022-09-15 | 2022-11-20 |
 | [Cherish](https://open.spotify.com/track/0gopaBSZjH3RrnN35lhwzu) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Cherish](https://open.spotify.com/album/7IhbGGJCLTdwkMO7q3OBmZ) | 3:13 | 2021-10-16 | 2022-07-29 |
@@ -188,7 +189,7 @@
 | [Playing Coy](https://open.spotify.com/track/6kvcGtcRk87tvBwQew6pkl) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [Playing Coy](https://open.spotify.com/album/2Vq0MbrCZSbcfZQmsIKZil) | 1:31 | 2021-10-16 | 2022-08-12 |
 | [Powers Out](https://open.spotify.com/track/3Ln2gSxZ0WUDUEUprF5RJa) | [Andrew CS](https://open.spotify.com/artist/7Fv7NaEJyV1PKy9PURdZFx) | [\*](https://open.spotify.com/album/3zGGjNdPQplOCQUyHgIQcq) | 1:57 | 2021-10-16 | 2022-07-29 |
 | [Prelude To A Desaster](https://open.spotify.com/track/0A7BjCCEg9dqTzFMiTZH4A) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Prelude To A Desaster](https://open.spotify.com/album/4IkGXYQjErxs4C4XN5Yxdq) | 2:50 | 2022-04-23 | 2022-10-14 |
-| [Privacy](https://open.spotify.com/track/6rimsvUM83uEm0S7QEsS9J) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Dead City / Privacy](https://open.spotify.com/album/4v5AMoWTVmvelK8jz5MQoo) | 3:13 | 2022-11-18 |  |
+| [Privacy](https://open.spotify.com/track/6rimsvUM83uEm0S7QEsS9J) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Dead City / Privacy](https://open.spotify.com/album/4v5AMoWTVmvelK8jz5MQoo) | 3:13 | 2022-11-18 | 2023-01-04 |
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN) | 2:12 | 2021-10-16 |  |
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/6f4acBjqPs80P0Ttnp1rN1) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/64eSZojU3zsDIdJGPbaR8M) | 2:12 | 2021-10-16 | 2022-07-25 |
 | [Rainy Forest](https://open.spotify.com/track/0drWXcxlj3FlaxkFLFkASV) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [The Essentials : ihaveaface](https://open.spotify.com/album/00PBc4QeFLiSjV9jT52YQj) | 2:00 | 2021-10-16 | 2022-11-13 |

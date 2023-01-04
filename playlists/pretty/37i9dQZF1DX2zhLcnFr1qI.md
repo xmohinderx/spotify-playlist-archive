@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,681 likes - 37 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,571 likes - 37 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 3 | [Santa Claus is Coming to Town](https://open.spotify.com/track/1fsRifOL2vyZHPSrqFruo8) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:05 |
 | 4 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/21LeppXMaq97x4IBvoIhzA) | [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:33 |
 | 5 | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/album/6TyBrpxi8Bq36ahEpytZ7C) | 3:23 |
-| 6 | [Wonderful Dream \(Holidays Are Coming\)](https://open.spotify.com/track/6NcTdDmYsOPE8opSKJF5en) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Emmie Lee](https://open.spotify.com/artist/4fFlpk8hS56rPSExrMiiLW) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:53 |
-| 7 | [Carol Of The Bells \- Spotify Singles Holiday](https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Carol Of The Bells \(Spotify Singles Holiday\)](https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY) | 1:42 |
+| 6 | [Carol Of The Bells \- Spotify Singles Holiday](https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Carol Of The Bells \(Spotify Singles Holiday\)](https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY) | 1:42 |
+| 7 | [Wonderful Dream \(Holidays Are Coming\)](https://open.spotify.com/track/6NcTdDmYsOPE8opSKJF5en) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Emmie Lee](https://open.spotify.com/artist/4fFlpk8hS56rPSExrMiiLW) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:53 |
 | 8 | [I'm the Santa Claoz](https://open.spotify.com/track/48PfM9HJ5CKQHP89DahiHn) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [I'm the Santa Claoz](https://open.spotify.com/album/5ur5bMTCXPReTT3YhpBUZP) | 2:42 |
 | 9 | [Rocking Around the Christmas Tree \- Gabry Ponte Edit](https://open.spotify.com/track/1HVB3hiWGjoU9k8VBzCSGz) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:38 |
 | 10 | [Jingle Bells \(feat\. Soran\)](https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Kaskade Christmas Deluxe](https://open.spotify.com/album/1xGImGcWsxl2BiB3Ky7g6I) | 3:21 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 36 | [Have Yourself A Merry Little Christmas \- Auxjack Remix](https://open.spotify.com/track/7kHfwWZGNpO6BlunidRzd0) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0OwaoKbTLogu3Q3TW47ruD) | 3:27 |
 | 37 | [First Christmas](https://open.spotify.com/track/0IulDUwh9VKcy7ENUD5f2c) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [First Christmas](https://open.spotify.com/album/4TWTg7AZ1MLOHSCVVuDGLY) | 2:35 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDI1Mzc2NDk5NTVmYTdhNmM0OGFhNjY0Yjc2NmFlYzQz`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDc2ZjU1YTg4NGIxOTQ5ODc1OWQ2ZTQ4MmQwZjcwNjVj`

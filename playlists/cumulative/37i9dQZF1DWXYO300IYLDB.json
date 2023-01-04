@@ -360,6 +360,24 @@
     },
     {
       "album": {
+        "name": "Corner Of My Eye",
+        "url": "https://open.spotify.com/album/35dYg8knLqL6z2KqA3n5Gs"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199360,
+      "name": "Corner Of My Eye",
+      "url": "https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL"
+    },
+    {
+      "album": {
         "name": "Without Fear (The Complete Edition)",
         "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
       },
@@ -1734,6 +1752,28 @@
     },
     {
       "album": {
+        "name": "Orange Ave.",
+        "url": "https://open.spotify.com/album/2yzobjzYcxxhXOi0HnwnsD"
+      },
+      "artists": [
+        {
+          "name": "K",
+          "url": "https://open.spotify.com/artist/0dojDHJmkEgWlNa7iyOMFK"
+        },
+        {
+          "name": "Kihiro",
+          "url": "https://open.spotify.com/artist/5PRhTlrNZtoeCOSee6sZcr"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183925,
+      "name": "Still (feat.KIHIRO)",
+      "url": "https://open.spotify.com/track/13jzKEiX06c1PPrnBaUmYa"
+    },
+    {
+      "album": {
         "name": "Still Falling For You (From \"Bridget Jones's Baby\" Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu"
       },
@@ -1919,7 +1959,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 155050,
       "name": "Tidal Wave - Acoustic",
       "url": "https://open.spotify.com/track/4I7nXv6iqKh60sWMJdpUbN"
@@ -2269,7 +2309,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 317573,
       "name": "\u30ec\u30e2\u30f3\u306e\u6728",
       "url": "https://open.spotify.com/track/22cZMx1wzOboK8vVJXi3z7"

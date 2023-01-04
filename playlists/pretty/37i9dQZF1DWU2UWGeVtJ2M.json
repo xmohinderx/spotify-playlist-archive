@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 140229,
+  "num_followers": 140289,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY0MjM2MiwwMDAwMDAwMGM2MjA2OTY1MTNmMjk3OWZhNzkxZDI2ODJkOWQ4N2Iy",
+  "snapshot_id": "MTY3MjY0MjM2MiwwMDAwMDAwMDc5ZmQxZjAxYjI1NzUzOTNkYWMyMjljYWZlMmQ5NGZh",
   "tracks": [
     {
       "added_at": "2022-12-26 02:42:34",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 172354,
-      "name": "always",
-      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
         "name": "The Mannequin Song",
         "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 164197,
       "name": "The Mannequin Song",
       "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 172354,
+      "name": "always",
+      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
         "name": "Queen Space (with Summer Walker)",
         "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Summer 2020",
-      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
         "name": "Everything I Didn\u2019t Say",
         "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 213133,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Sorry - Original Demo",
+      "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1127,22 +1143,6 @@
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "Sorry - Original Demo",
-      "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd"
-      },
-      "artists": [
-        {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        }
-      ],
-      "duration_ms": 265185,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
         "name": "Wave002",
         "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "duration_ms": 265185,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
         "name": "Y1",
         "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 186818,
       "name": "Pantone 17 13 30",
       "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH"
       },
       "artists": [
         {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+          "name": "Oscar Welsh",
+          "url": "https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST"
         }
       ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+      "duration_ms": 199020,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1583,38 +1599,6 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH"
-      },
-      "artists": [
-        {
-          "name": "Oscar Welsh",
-          "url": "https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST"
-        }
-      ],
-      "duration_ms": 199020,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK"
-      },
-      "artists": [
-        {
-          "name": "Bronze Whale",
-          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
         "name": "walk but in a garden",
         "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 112500,
       "name": "walk but in a garden (with mxmtoon)",
       "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK"
+      },
+      "artists": [
+        {
+          "name": "Bronze Whale",
+          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg"
     },
     {
       "added_at": "2022-12-26 02:42:34",

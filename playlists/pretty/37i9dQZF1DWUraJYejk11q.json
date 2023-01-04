@@ -1,28 +1,32 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 448344,
+  "num_followers": 448362,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjMzODg0MSwwMDAwMDAwMGQwZjdlYmFjNWE5YmM0ODY4NzYzOWNlMjlkZjQ2Mjk1",
+  "snapshot_id": "MTY3Mjc5MTgwOCwwMDAwMDAwMGExYjM5OWM2NGE5ZGQ3NDc1ZjJmZGMyZTkyZDA5ODUz",
   "tracks": [
     {
-      "added_at": "2022-09-07 00:29:17",
+      "added_at": "2023-01-04 00:23:28",
       "album": {
-        "name": "Now Is",
-        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+        "name": "Capricorn Sun",
+        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
       },
       "artists": [
         {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Mafro",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         }
       ],
-      "duration_ms": 323919,
-      "name": "World Turns",
-      "url": "https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw"
+      "duration_ms": 203751,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/07mOlP1DQv1ZsQTyCMNzaW"
     },
     {
       "added_at": "2022-12-29 18:34:01",
@@ -55,6 +59,54 @@
       "duration_ms": 242142,
       "name": "17\u00b0C",
       "url": "https://open.spotify.com/track/4FYpGNDeh57Dmop6EgNEAI"
+    },
+    {
+      "added_at": "2023-01-04 00:23:28",
+      "album": {
+        "name": "In Another Lifetime",
+        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 213437,
+      "name": "Just To Hear You Say",
+      "url": "https://open.spotify.com/track/66F2eP3BZWCmQiycL0trAs"
+    },
+    {
+      "added_at": "2023-01-04 00:21:35",
+      "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 399240,
+      "name": "Pigeon Barron",
+      "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
+    },
+    {
+      "added_at": "2022-09-07 00:29:17",
+      "album": {
+        "name": "Now Is",
+        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 323919,
+      "name": "World Turns",
+      "url": "https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw"
     },
     {
       "added_at": "2022-04-22 18:49:16",
@@ -103,58 +155,6 @@
       "duration_ms": 300392,
       "name": "Right to Riot",
       "url": "https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt"
-    },
-    {
-      "added_at": "2022-04-22 18:53:10",
-      "album": {
-        "name": "Tahara",
-        "url": "https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS"
-      },
-      "artists": [
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        }
-      ],
-      "duration_ms": 213850,
-      "name": "Tahara",
-      "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Transactional Relationship",
-        "url": "https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 193535,
-      "name": "Transactional Relationship",
-      "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
-    },
-    {
-      "added_at": "2022-08-03 03:12:05",
-      "album": {
-        "name": "Sons Of",
-        "url": "https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        },
-        {
-          "name": "John McEntire",
-          "url": "https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg"
-        }
-      ],
-      "duration_ms": 471786,
-      "name": "A Ghost At Noon",
-      "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
       "added_at": "2022-12-07 01:09:17",
@@ -213,20 +213,20 @@
       "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
     },
     {
-      "added_at": "2022-01-21 20:14:08",
+      "added_at": "2022-04-22 18:53:10",
       "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
+        "name": "Tahara",
+        "url": "https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS"
       },
       "artists": [
         {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
         }
       ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
+      "duration_ms": 213850,
+      "name": "Tahara",
+      "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
       "added_at": "2022-12-20 19:12:56",
@@ -251,6 +251,58 @@
       "duration_ms": 287582,
       "name": "In Your Head - Subxet Remix",
       "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Transactional Relationship",
+        "url": "https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 193535,
+      "name": "Transactional Relationship",
+      "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
+    },
+    {
+      "added_at": "2022-08-03 03:12:05",
+      "album": {
+        "name": "Sons Of",
+        "url": "https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        },
+        {
+          "name": "John McEntire",
+          "url": "https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg"
+        }
+      ],
+      "duration_ms": 471786,
+      "name": "A Ghost At Noon",
+      "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
+    },
+    {
+      "added_at": "2022-01-21 20:14:08",
+      "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
     },
     {
       "added_at": "2022-08-24 01:29:10",
@@ -337,6 +389,38 @@
       "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
     },
     {
+      "added_at": "2022-08-19 02:33:31",
+      "album": {
+        "name": "Order",
+        "url": "https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA"
+      },
+      "artists": [
+        {
+          "name": "Bon-Psy",
+          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Warm Fuzzies: The Glory",
+      "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
+    },
+    {
+      "added_at": "2022-03-30 04:42:42",
+      "album": {
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+    },
+    {
       "added_at": "2022-01-12 02:36:16",
       "album": {
         "name": "This Is An Advertisement",
@@ -357,54 +441,6 @@
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
-      "added_at": "2022-03-30 04:42:42",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
-    },
-    {
-      "added_at": "2022-08-19 02:33:31",
-      "album": {
-        "name": "Order",
-        "url": "https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA"
-      },
-      "artists": [
-        {
-          "name": "Bon-Psy",
-          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Warm Fuzzies: The Glory",
-      "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
-    },
-    {
-      "added_at": "2022-10-06 00:12:04",
-      "album": {
-        "name": "Puppy (Feel The Beat Mix)",
-        "url": "https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Puppy - Feel The Beat Mix",
-      "url": "https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To"
-    },
-    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -423,6 +459,22 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2022-10-06 00:12:04",
+      "album": {
+        "name": "Puppy (Feel The Beat Mix)",
+        "url": "https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Puppy - Feel The Beat Mix",
+      "url": "https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To"
     },
     {
       "added_at": "2022-02-25 03:39:39",
@@ -471,26 +523,6 @@
       "duration_ms": 186000,
       "name": "Planta Dance",
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
-    },
-    {
-      "added_at": "2022-06-20 21:26:25",
-      "album": {
-        "name": "compciter ep",
-        "url": "https://open.spotify.com/album/2qTXiZXOqTEwwfcAVo76bR"
-      },
-      "artists": [
-        {
-          "name": "altrice",
-          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
-        },
-        {
-          "name": "Blue Dust Archive",
-          "url": "https://open.spotify.com/artist/0cZmamL9NzyInr7N3c0lDK"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "bda creature",
-      "url": "https://open.spotify.com/track/6dnZv0EmSwCoBq91rFK0IH"
     },
     {
       "added_at": "2022-08-13 02:30:00",
@@ -629,22 +661,6 @@
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
     },
     {
-      "added_at": "2022-01-13 02:05:11",
-      "album": {
-        "name": "Sweat Sonic",
-        "url": "https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY"
-      },
-      "artists": [
-        {
-          "name": "Closet Yi",
-          "url": "https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp"
-        }
-      ],
-      "duration_ms": 382487,
-      "name": "Sweat Sonic",
-      "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
-    },
-    {
       "added_at": "2022-03-30 05:37:06",
       "album": {
         "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
@@ -707,22 +723,6 @@
       "duration_ms": 279501,
       "name": "So",
       "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
-    },
-    {
-      "added_at": "2022-02-09 04:02:41",
-      "album": {
-        "name": "Patient Zero",
-        "url": "https://open.spotify.com/album/39ih18n5FRp601HKnLJLCU"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Vitelli",
-          "url": "https://open.spotify.com/artist/0mFsbKrHaJDM5DgL8g3Ke3"
-        }
-      ],
-      "duration_ms": 506839,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/0TPY4iasJqaFv74wa1FOZG"
     },
     {
       "added_at": "2022-03-30 05:10:26",

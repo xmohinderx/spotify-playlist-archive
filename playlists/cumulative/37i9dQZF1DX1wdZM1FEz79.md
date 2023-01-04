@@ -2,9 +2,9 @@
 
 ### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean acoustic tunes\. \(Cover: Stella Jang\(스텔라 장\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean acoustic tunes\. \(Cover: Mingginyu\(밍기뉴\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-428 songs - 1 day 1 hr 32 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
+429 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Dawn](https://open.spotify.com/track/5zbTSY9o6rRNbcoN2yPosM) | [Chance](https://open.spotify.com/artist/4qtH69NwjHUulLj4verBCJ) | [Dawn](https://open.spotify.com/album/0fL3Kkh9t8rv1BkpckEqHD) | 3:29 | 2021-12-10 | 2022-04-16 |
 | [Deadline](https://open.spotify.com/track/1jIeeKf8N3UXLct7FI0VQy) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:19 | 2022-03-31 | 2022-04-17 |
 | [Dear DRan](https://open.spotify.com/track/5HiBQsMNcVehiKNUFiRsyu) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha), [무성](https://open.spotify.com/artist/4kYzRUks4PPzWaPQU8wMY9) | [Dear DRan](https://open.spotify.com/album/1ftozu6DmZ4J3OlPrjJFTn) | 3:11 | 2022-03-31 | 2022-06-07 |
+| [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2023-01-03 |  |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-07-08 |  |
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-18 | 2022-04-19 |
 | [Don't Hurt the Island Please](https://open.spotify.com/track/1FBEwUknugg7TJC70uVJ7s) | [Hanbona](https://open.spotify.com/artist/5Ks1S1FGw6Yym0Km9XCrsH) | [Don't Hurt the Island Please](https://open.spotify.com/album/3kNufrGn0Vxd0KCUoWWBlt) | 3:24 | 2021-12-10 | 2022-04-08 |
@@ -389,7 +390,7 @@
 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 | 2021-12-10 | 2022-12-20 |
 | [Where Are We Now \- Acoustic Version](https://open.spotify.com/track/3NZn88t5LgPZBwbyJ4giZz) | [Vanilla Mousse](https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3) | [Where Are We Now \(Acoustic Version\)](https://open.spotify.com/album/5t9eXUyQ0SSFMqf7Bfcqk9) | 3:35 | 2022-03-31 | 2022-04-09 |
 | [Where are you?](https://open.spotify.com/track/7eDhlnVZiPzlNHjJEVCXJv) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [My first love OST Part.2](https://open.spotify.com/album/6T7PZRVu0p5keqNzbqtPSC) | 3:04 | 2022-04-12 | 2022-04-19 |
-| [Where sorrow has passed​](https://open.spotify.com/track/5h7Ld6izDn1kWQ1I6fd6ts) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Where sorrow has passed​](https://open.spotify.com/album/5BhXBiqABWj3rqtVD0qqs5) | 4:07 | 2022-12-20 |  |
+| [Where sorrow has passed​](https://open.spotify.com/track/5h7Ld6izDn1kWQ1I6fd6ts) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Where sorrow has passed​](https://open.spotify.com/album/5BhXBiqABWj3rqtVD0qqs5) | 4:07 | 2022-12-20 | 2023-01-04 |
 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 | 2022-06-09 | 2022-06-14 |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/4AGgXEtNPFPAMUoDEgjvwX) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/4pPg8mMEDja315sNthkACE) | 3:13 | 2022-03-31 | 2022-04-14 |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 | 2022-07-08 |  |

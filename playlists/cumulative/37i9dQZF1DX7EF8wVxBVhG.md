@@ -4,11 +4,12 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-262 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
+263 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100\-150 Hz Pads](https://open.spotify.com/track/4uTDjinJd0UitcEocsJwjh) | [Masters of Binaurality](https://open.spotify.com/artist/6em3rrtKhjff80iJWE6m6K) | [Total Sleep And Relaxation](https://open.spotify.com/album/11mWqnd5PEdfYuQYEHa2to) | 3:48 | 2019-05-26\* | 2022-11-24 |
+| [12 Hz Alpha Waves \- Study Brain Waves](https://open.spotify.com/track/234uGGkGtekF90Wt7YHqd3) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Binaural Beats \- Alpha Waves for Relaxation and Happiness \(8\-13 Hz\)](https://open.spotify.com/album/2PwP9YJjLBQemeGSKkvEnq) | 1:34 | 2023-01-03 |  |
 | [190 Hz Beta Sinus](https://open.spotify.com/track/0bwAJrLpsXo7aHBxG2fnNO) | [Tiefe Gedanken](https://open.spotify.com/artist/0E19BksYk8uPcmtPKlggrQ) | [70 Hz Gamma Sinus](https://open.spotify.com/album/1vlPJnudPeJubmgZq7b7Vn) | 2:02 | 2021-02-03 | 2021-03-10 |
 | [200 Hz \- 250 Hz Gamma Drone](https://open.spotify.com/track/6ZpnVExLgleeWslKjvGVhx) | [Alfachronic](https://open.spotify.com/artist/1YsMt21BxoyDQp7q893f4Z) | [Brainwave State Gamma](https://open.spotify.com/album/2Fk46GyPBKRr1A06lng7sT) | 3:26 | 2019-05-26\* | 2022-03-19 |
 | [30 Hz Gamma](https://open.spotify.com/track/0giLh5A1qhQHLP68sH96Ub) | [Alfachronic](https://open.spotify.com/artist/1YsMt21BxoyDQp7q893f4Z) | [Brainwave State Gamma](https://open.spotify.com/album/2Fk46GyPBKRr1A06lng7sT) | 3:22 | 2019-05-26\* | 2020-12-15 |
@@ -143,7 +144,7 @@
 | [Binaural Gamma Sinus 80 Hz \- L 120 Hz \- R](https://open.spotify.com/track/0xNB7V7YuTuhspC4VxzScY) | [Phascoi﻿](https://open.spotify.com/artist/4rP4SiSzg5lzgHn9qw4g7A) | [Gamma Brainwaves](https://open.spotify.com/album/2VjUMYURryhVfw79wYpTHI) | 3:28 | 2020-12-03 | 2020-12-10 |
 | [Binaural Gamma Sinus 90 Hz \- 190 Hz](https://open.spotify.com/track/1PPEy5m3ubtow8tdkuTaci) | [Mia Edgewater](https://open.spotify.com/artist/3HJ62s2BPJhSMpLg7HMXzT) | [Binaural Gamma Sinus 90 Hz \- 190 Hz](https://open.spotify.com/album/0VQjlrTWznfGDy1Ao31IYb) | 2:13 | 2021-06-18 |  |
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/4LT51chp62pm3MNGp7mhFD) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:14 | 2019-05-26\* |  |
-| [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0UKq41XlbwiSpEqt1dQ2aS) | [Melvin Miller Jones](https://open.spotify.com/artist/0sgnTaXjVPQ8n5PXBxPC38) | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/album/5o9NyGHoyaDkHOTXHWTh99) | 2:26 | 2021-06-04 |  |
+| [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0UKq41XlbwiSpEqt1dQ2aS) | [Melvin Miller Jones](https://open.spotify.com/artist/0sgnTaXjVPQ8n5PXBxPC38) | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/album/5o9NyGHoyaDkHOTXHWTh99) | 2:26 | 2021-06-04 | 2023-01-04 |
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0crhvasDtSsXpLX2dlnb7Z) | [Phascoi﻿](https://open.spotify.com/artist/4rP4SiSzg5lzgHn9qw4g7A) | [Gamma Brainwaves](https://open.spotify.com/album/2VjUMYURryhVfw79wYpTHI) | 3:16 | 2020-12-03 | 2020-12-10 |
 | [Binaural Gamma Sinus Smooth](https://open.spotify.com/track/1Mb9AEykvFRq17KcIgtJ3v) | [Relax Sound Hub](https://open.spotify.com/artist/4g69iUFVXXHTCtzFC9V7pQ) | [Binaural Gamma Sinus Smooth](https://open.spotify.com/album/5akLn1Xm10Ei7cm2f5uBVB) | 1:48 | 2021-02-03 | 2022-09-07 |
 | [Binaural Gamma Voyage \(132 Hz\-144 Hz\)](https://open.spotify.com/track/6KV5CVoCjuHX9FOJilDrcw) | [Guglielmo Markoni](https://open.spotify.com/artist/1Jfj6AuDorlEytpeJrB419) | [Binaural Gamma Voyage \(132 Hz\-144 Hz\)](https://open.spotify.com/album/0xjzdHpgKNy5jusRVHV4oz) | 2:44 | 2022-09-13 |  |

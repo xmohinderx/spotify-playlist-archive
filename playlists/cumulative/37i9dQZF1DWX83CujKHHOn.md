@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-329 songs - 20 hr 33 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
+330 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [like that](https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [chapter two: red](https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru) | 3:05 | 2021-12-06 | 2022-12-17 |
 | [Little Waltz](https://open.spotify.com/track/55hcquIzoHMMS7e9qKYxLy) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Oh, My Darling \(US Standard Edition\)](https://open.spotify.com/album/3QF8mwjOebSxBKTdg9zPDL) | 2:54 | 2022-01-05 | 2022-04-21 |
 | [Loneliness](https://open.spotify.com/track/38YUiPZdeg1DDX8d6eV5Gi) | [Kevin Paris](https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd) | [Loneliness](https://open.spotify.com/album/0UJpeok7iX154IgLHvezYa) | 4:46 | 2021-12-06 | 2022-07-28 |
-| [Lonely](https://open.spotify.com/track/1UGMu0Tf5nmKoYIPPztbQQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble](https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya) | 3:55 | 2022-09-16 |  |
+| [Lonely](https://open.spotify.com/track/1UGMu0Tf5nmKoYIPPztbQQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble](https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya) | 3:55 | 2022-09-16 | 2023-01-04 |
 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 | 2021-12-06 | 2022-07-26 |
 | [Lonely \- Mahogany Sessions](https://open.spotify.com/track/1WVpCn4WGCrgGXhhtyUzyM) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Lonely \(Mahogany Sessions\)](https://open.spotify.com/album/3RGECSD1Nw11dNnTMmdI2V) | 3:37 | 2021-12-06 | 2022-07-28 |
 | [Lonely Together](https://open.spotify.com/track/1ophi6jCPs6FkGgUFYmhfQ) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Lonely Together](https://open.spotify.com/album/4bhWav4766XFsvqHVOSLMw) | 3:07 | 2021-12-06 | 2022-07-29 |
@@ -307,6 +307,7 @@
 | [Us Against the World](https://open.spotify.com/track/5zyfzNnBzN7f7PVkJFnW2g) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 3:59 | 2022-01-05 |  |
 | [Wasn't Expecting That](https://open.spotify.com/track/2a5VluIESm1JP4Qwvo02H8) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/3ILPSyU8RawO2YHZENdrmB) | 3:21 | 2022-01-05 | 2022-04-20 |
 | [Wasted](https://open.spotify.com/track/5tajmvqHF6YW1iiUFzKpCB) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 3:04 | 2021-12-06 |  |
+| [watch](https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:57 | 2023-01-04 |  |
 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:37 | 2021-12-06 | 2022-07-29 |
 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:37 | 2022-07-08 |  |
 | [What Are Words](https://open.spotify.com/track/2cDDOxigaHr1I2eevlvxV6) | [Chris Medina](https://open.spotify.com/artist/2uCmngYSlTEELzZXl1z1dV) | [What Are Words](https://open.spotify.com/album/1RCtbhT7GVZtXEaBX9lKix) | 3:07 | 2022-01-05 | 2022-04-20 |

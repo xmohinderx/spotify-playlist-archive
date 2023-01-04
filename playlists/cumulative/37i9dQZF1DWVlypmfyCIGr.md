@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 菅原圭
 
-2,658 songs - 6 day 19 hr 6 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+2,659 songs - 6 day 19 hr 10 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,8 @@
 | [Eat Your Heart](https://open.spotify.com/track/4p8AojfjNpQ1GzJIknTxmR) | [MAINAMIND](https://open.spotify.com/artist/0Wb9L1Td4VaESjo37vN9z4) | [Eat Your Heart](https://open.spotify.com/album/4zU5G3UzUOngy3WQlsqYtH) | 4:50 | 2022-12-27 |  |
 | [effect!](https://open.spotify.com/track/5TjFzlHoStmg48UEbhH3JC) | [POOLS](https://open.spotify.com/artist/12vqf5QMISRc8umYNvqFw8) | [effect!](https://open.spotify.com/album/2VdXZ191Xmhsv9gFL0zQoX) | 2:56 | 2022-07-18 | 2022-07-26 |
 | [effect!](https://open.spotify.com/track/7wethEkgRytDPKhoDZhdnJ) | [POOLS](https://open.spotify.com/artist/12vqf5QMISRc8umYNvqFw8) | [FROND](https://open.spotify.com/album/30gtMFWg7WnjTzt1RYmw60) | 2:56 | 2022-12-20 |  |
-| [Eien No Shonen](https://open.spotify.com/track/7kqwsjBG0cdUsCjIzo28jP) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Eien No Shonen](https://open.spotify.com/album/6xUc4STKf3dg4GY4h14vYu) | 4:03 | 2022-12-20 |  |
+| [Eien No Shonen](https://open.spotify.com/track/7kqwsjBG0cdUsCjIzo28jP) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Eien No Shonen](https://open.spotify.com/album/6xUc4STKf3dg4GY4h14vYu) | 4:03 | 2022-12-20 | 2023-01-04 |
+| [Eien No Shonen](https://open.spotify.com/track/5uvPrkePnmZytwqYMnbLWo) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 4:08 | 2022-12-27 |  |
 | [ELECTRIC PROPHET \(電気じかけの予言者\)](https://open.spotify.com/track/6BWRDHk0PuzsbWan5E2vE6) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TWINKLE NIGHT](https://open.spotify.com/album/0qDUrdbt4PbGCnvWuj05o4) | 8:45 | 2021-10-27 | 2021-11-03 |
 | [Emergence No.1](https://open.spotify.com/track/18RsGEb4NcRC6T0dqTq235) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [Emergence No.1](https://open.spotify.com/album/5fkgRBj5V38v5dF62PBJnS) | 3:21 | 2022-10-31 | 2022-11-09 |
 | [Emoな革命](https://open.spotify.com/track/2G9bpA5HWjecFv28d3fJdY) | [Nirgilis](https://open.spotify.com/artist/6kkPATxNypgTOflsy6D3LT) | [Emoな革命](https://open.spotify.com/album/0UfPoOmPpGHBHZDg1QIsaV) | 4:10 | 2022-03-28 | 2022-05-25 |

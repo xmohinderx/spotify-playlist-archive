@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 
 > Let these songs soundtrack your busy wedding season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,555 likes - 44 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,596 likes - 44 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 | 28 | [Zingaat](https://open.spotify.com/track/5raWEZXYAapq6Qw1GIEIkU) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Dhadak](https://open.spotify.com/album/5Pn4u5kYgcx8cjSmeY6aFu) | 3:46 |
 | 29 | [Ghani Bawri \(From "Tanu Weds Manu Returns"\)](https://open.spotify.com/track/1XVKNlNE2quleT1ZY5yFmN) | [Jyoti Noora](https://open.spotify.com/artist/7ho6U1pgk5AfbhhoS3qggE) | [Tanu Weds Manu Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66GxOwfWVlbVRPwoi5dbhd) | 4:14 |
 | 30 | [Naah Goriye](https://open.spotify.com/track/2q12vH6qEvg8y1XBCgTbHZ) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Swasti Mehul](https://open.spotify.com/artist/7r7WoKowe8dCfQCl9GACDM) | [Bala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eqqSmPlC78OQpQoAnkt7z) | 3:04 |
-| 31 | [Pallo Latke](https://open.spotify.com/track/6JNluWWlzWmrW1LKR5X2SN) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL) | [Shaadi Mein Zaroor Aana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Mpodk3gBVn1eSAVlfbci4) | 4:56 |
+| 31 | [Pallo Latke](https://open.spotify.com/track/6JNluWWlzWmrW1LKR5X2SN) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Shaadi Mein Zaroor Aana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Mpodk3gBVn1eSAVlfbci4) | 4:56 |
 | 32 | [Mehndi Hai Rachnewali](https://open.spotify.com/track/0lCdndc8chDOcAQqfLvCyE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Zubeidaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5t0wkaiJ86D3MtdBhUevkd) | 4:26 |
 | 33 | [Nagada Sang Dhol](https://open.spotify.com/track/4ila6GeGBPGmJTGRoHOV5E) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Ram\-Leela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4He2rBGaA8eNUvB3B9QRYK) | 4:33 |
 | 34 | [Ye Ishq Hai](https://open.spotify.com/track/4BiPsAV070dg3eLSVf727A) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:40 |

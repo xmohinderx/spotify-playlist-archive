@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-182 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/3aH3sMKMrDaZCgEOtCiFCf)
+183 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/3aH3sMKMrDaZCgEOtCiFCf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Outra Vez](https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [The Music of Brazil / Elizeth Cardoso, Vol\. 1 / Recordings 1955 \- 1957](https://open.spotify.com/album/2jtHEWxRT5QVF2p872riFt) | 1:55 | 2022-11-10 | 2022-11-12 |
 | [Oye Como Va](https://open.spotify.com/track/74oxKgbwsAbRjNN9oOsypN) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:15 | 2022-05-13 | 2022-09-15 |
 | [Palpite Infeliz](https://open.spotify.com/track/2a9YiSkmV0bxbNgy18xnsE) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: Hits & Rarities](https://open.spotify.com/album/2oOfYdGzP20W6CslQLIo69) | 3:53 | 2022-10-25 | 2022-11-15 |
+| [Palpite Infeliz](https://open.spotify.com/track/486J4oQ3rAPbvzlZ5ceSZQ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: A Night of Music](https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6) | 3:53 | 2022-12-22 |  |
 | [Para Machuchar Meu Coracao](https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:04 | 2022-05-13 |  |
 | [Photograph \(Fotografia\)](https://open.spotify.com/track/5z7vgEKhrjXE9L7BMAC4C6) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 3:45 | 2022-05-13 | 2022-07-29 |
 | [Pra Machucar Meu Coração](https://open.spotify.com/track/5uhAtnaJcQcPuR8bHU6TKe) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Letra & Música Ary Barroso – Rosa Passos e Lula Galvão](https://open.spotify.com/album/24mfpDgch1Xr8qzJuqUi1Q) | 6:16 | 2022-05-13 |  |
@@ -177,7 +178,7 @@
 | [Voce Vai Ver](https://open.spotify.com/track/6TYGxl1FiKz2R9BosMN4WM) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 4:52 | 2022-05-13 | 2022-08-19 |
 | [Você E Eu](https://open.spotify.com/track/1HelEYnBkNyyd6PDSkx7sQ) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS) | [Pure Bossa Nova](https://open.spotify.com/album/3XTOfPQyZpHtHRYkNWGfxn) | 1:00 | 2022-06-10 | 2022-07-28 |
 | [Você e Eu \(You and Me\)](https://open.spotify.com/track/4v5PKC5rvQwb33NWX82UH8) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS) | [Bossa Nova Carlos Lyra](https://open.spotify.com/album/6SkCc0AyioogFxwJwYZUZl) | 1:03 | 2022-06-28 | 2022-12-04 |
-| [Waters of March](https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 3:40 | 2022-05-13 |  |
+| [Waters of March](https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 3:40 | 2022-05-13 | 2023-01-04 |
 | [Wave](https://open.spotify.com/track/7i325B6qZFdkne07FRsWlk) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/6QvzomkvvLBVo8Mmsy4bEh) | 2:54 | 2022-05-13 | 2022-07-29 |
 | [Wave](https://open.spotify.com/track/2hXBS8q9rGMovfG1S8FB4F) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:56 | 2022-06-28 |  |
 | [Wave](https://open.spotify.com/track/74WrcYUQjTFhOecnV2ZwVo) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Nova \- This Is Jazz \# 29](https://open.spotify.com/album/0ZjoVVcivTAErI32AUtwOW) | 6:16 | 2022-08-16 | 2022-11-13 |

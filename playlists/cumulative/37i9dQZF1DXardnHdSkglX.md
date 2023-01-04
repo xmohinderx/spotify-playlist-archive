@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-167 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
+170 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Easy](https://open.spotify.com/track/1xU2zC6bxsIFM2UHyXYqsW) | [Bossa de Carnaval](https://open.spotify.com/artist/3ydiYqDYKAvrnp1qfUjLQ3) | [Easy](https://open.spotify.com/album/2tBLls66FoItnyIBHlAJFE) | 3:45 | 2021-12-09 |  |
 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 | 2021-12-09 |  |
 | [Fix you](https://open.spotify.com/track/5100NokEXg7OfxeW7WUv8K) | [Assunção Bossa](https://open.spotify.com/artist/4ix6MOO9gLIwpXR7XbPgr8) | [Fix you](https://open.spotify.com/album/0ZQziiIxQzG5uHnuYqO8n0) | 4:45 | 2021-12-09 |  |
+| [Fly Me To the Moon \- Yoko Takahashi Acid Bossa Version](https://open.spotify.com/track/3ia8uKWZIDLp8hKm18zuNS) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo), [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Neon Genesis Evangelion \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 3:50 | 2023-01-03 |  |
 | [For Once In My Life](https://open.spotify.com/track/3ZjR1gKchO3742A8KRlVtQ) | [Brothers of Bossa](https://open.spotify.com/artist/1E7h6pUwUffzj0299qgm5y) | [For Once In My Life](https://open.spotify.com/album/5a29JELNdty5VN1G0aPZ8t) | 3:25 | 2021-12-09 |  |
 | [Garota de Ipanema \(The Girl From Ipanema\)](https://open.spotify.com/track/0xYbaQtR9Nj1VbkPPIAUII) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Chill in Saint Tropez](https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT) | 3:23 | 2021-12-09 |  |
 | [Get Lucky](https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Get Lucky](https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ) | 3:51 | 2022-08-26 |  |
@@ -89,6 +90,7 @@
 | [It Ain't Me Babe](https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8) | [Lucas Francisco da Silva](https://open.spotify.com/artist/0q5JowzvhV2iVatlPv1oL5), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [It Ain't Me Babe](https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU) | 3:44 | 2021-12-09 |  |
 | [It Ain't over Til It's Over \- Bossa Version](https://open.spotify.com/track/76D2rppXQ0UDtKfk9eXLgc) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Colors of Bossa 5](https://open.spotify.com/album/0BRXwjsOpBpjsHpOfGorPz) | 3:48 | 2021-12-09 |  |
 | [It's a Shame](https://open.spotify.com/track/2g3YrAu9dB8fRkSN61wdon) | [The Big Bossa](https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq) | [Bossanova Dinner](https://open.spotify.com/album/4rLGydRYO4CVBDIEPaGwFf) | 3:47 | 2021-12-09 |  |
+| [It's a Shame](https://open.spotify.com/track/5jczKDtwEGoHxmoQkwKeoc) | [The Big Bossa](https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:47 | 2023-01-03 |  |
 | [It's My Life](https://open.spotify.com/track/4Vor8YELTcUw7lBtsnQX2s) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [The Sunny Side EP](https://open.spotify.com/album/5noduZglxV0U46fHzxUlUY) | 3:24 | 2022-03-04 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/1gmfA9UeAKWEgS9qQx8OSZ) | [Bossa Nova Project](https://open.spotify.com/artist/7GQVeFa14DLGmqM3KsABNq) | [Killing Me Softly With His Song](https://open.spotify.com/album/31WwS1pEqFxCAv0m3clOiM) | 4:14 | 2021-12-09 |  |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/6auWMxgWWn4BYFyYwTq4ih) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9), [Stereo Dub](https://open.spotify.com/artist/0qaq7Wbz8frkQzqBCops0p), [Nova Bossa Ltd.](https://open.spotify.com/artist/2jDHvU3y5xMaBc8u3O85nu) | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/album/3Qo98M0DzmiLHY90dSHyvT) | 3:30 | 2022-05-18 |  |
@@ -160,6 +162,7 @@
 | [Toxic \- Bossa Nova Version](https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc) | [Toxic](https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk) | 2:55 | 2021-12-09 |  |
 | [Umbrella \(Bossa Version\)](https://open.spotify.com/track/1RVjKn6pfJJGgVHx9I5sjw) | [Lua Blanco](https://open.spotify.com/artist/1shvlaBEDzIJGYhXbMxKJY) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 3:38 | 2021-12-09 |  |
 | [Valerie](https://open.spotify.com/track/3FYkUS445ZbxKwe4wIWFkp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Velvet Vault](https://open.spotify.com/album/6UNWzTuMXf32wIZWtKiCvg) | 4:13 | 2021-12-09 |  |
+| [Venus \(Bossa version\)](https://open.spotify.com/track/3yu4duizccIy2oiRMVdRUC) | [Rachelle Vanleeuwen](https://open.spotify.com/artist/376UH2QKNnQcVieekEBFFT) | [Relaxing Bossa Lounge 5](https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ) | 2:50 | 2023-01-03 |  |
 | [Viva La Vida](https://open.spotify.com/track/7uHTIGEgTr7QfSAnH8OGZL) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D) | [Viva La Vida](https://open.spotify.com/album/5BWVKUG7LCkIiHGpa9zakC) | 3:33 | 2022-02-16 | 2022-05-05 |
 | [Viva La Vida \(Bossa Version\)](https://open.spotify.com/track/6b6v8xyc1HV7UANEBT5Ck1) | [Daniela Procopio](https://open.spotify.com/artist/14fpSXO3OA34v0tgLLTlPx) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 3:26 | 2021-12-09 | 2022-02-17 |
 | [Viva La Vida \- Bossa Version](https://open.spotify.com/track/2RHTYieGCulnGxOmyl7tl3) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV) | [Vintage Café \- Lounge & Jazz Blends \(Special Selection\), Pt\. 9](https://open.spotify.com/album/3bRhpBXLNhVGSjY31jrraJ) | 4:09 | 2022-05-04 |  |

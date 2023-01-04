@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,825 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,278 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 49 | [SUMO \| ZUMO](https://open.spotify.com/track/7EHAXZenBzmGCpccWCyg8z) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TA13OO](https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc) | 3:47 |
 | 50 | [HEAVY METAL](https://open.spotify.com/track/1j6zEnDOTIRJhBhknrd86m) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 2:39 |
 
-Snapshot ID: `MTY3MTY0NDM2MSwwMDAwMDAwMDI4MDZiMjBkOGJjNTczY2M4MmU5ZDcyNDdkZGM5ZjE4`
+Snapshot ID: `MTY3Mjc1Nzk3NSwwMDAwMDAwMDg3MTdlNjcxN2U1ODM1NmFiOTQ1ZDg5M2MzYjlmZTA4`

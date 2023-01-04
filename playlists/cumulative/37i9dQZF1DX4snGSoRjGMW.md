@@ -4,7 +4,7 @@
 
 > Soul meets blues\. Cover: Bettye LaVette
 
-82 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/4x3y9tbJcqa6IgGXE6xIIK)
+83 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/4x3y9tbJcqa6IgGXE6xIIK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Say What You Mean](https://open.spotify.com/track/7moJNXUN9kWKhUYgE55pKG) | [Robert Ward](https://open.spotify.com/artist/2EhEsO2w9hIRm84aiy6sla) | [Rhythm Of The People](https://open.spotify.com/album/63srEUyuzfcMeuSBQn5fvB) | 4:21 | 2020-12-01 | 2022-07-29 |
 | [Someday Baby](https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg) | [Chick Willis](https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A) | [From the Heart and Soul](https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn) | 4:42 | 2020-12-01 |  |
 | [Soul Deep](https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Into the Mystic](https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y) | 3:04 | 2020-12-01 |  |
+| [Standing In The Wings](https://open.spotify.com/track/0GPkIcpZbx8c79jUA72UfG) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Sweet Dreams](https://open.spotify.com/album/3W8UBKrVDYpY9sXhDB7cDi) | 4:50 | 2020-12-01 |  |
 | [Standing In The Wings](https://open.spotify.com/track/3K1LUsCrsHv7mzILeYODOW) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Sweet Dreams](https://open.spotify.com/album/7gL0VR971C64e3yFb2YC5C) | 4:50 | 2020-12-01 | 2022-07-28 |
 | [Starting All Over](https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:06 | 2020-12-01 |  |
 | [Starting To See](https://open.spotify.com/track/4ZCmcMZxQJYcRhTaklYqVU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 2:54 | 2021-05-21 |  |
@@ -78,7 +79,7 @@
 | [The High Road](https://open.spotify.com/track/36vAHOr65vVohDeyDOKbfN) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [I've Got My Own Hell To Raise](https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC) | 4:29 | 2020-12-01 |  |
 | [The Real Deal](https://open.spotify.com/track/71r6AKMlWO7PdAmywO5zoQ) | [Jackie Payne Steve Edmonson Band](https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3) | [Master of the Game](https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX) | 3:28 | 2020-12-01 | 2022-07-29 |
 | [The Same Love That Made Me Laugh](https://open.spotify.com/track/4pNHUObYXKqIL8dt176TLK) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [Hi Rhythm](https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6) | [Robert Cray & Hi Rhythm](https://open.spotify.com/album/1V2hyT0B0LtWmFtdhIbVdI) | 3:51 | 2020-12-01 |  |
-| [The Streets Will Love You To Death](https://open.spotify.com/track/5H1aZtAOqmliM5naRN3YfX) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 3:55 | 2020-12-01 |  |
+| [The Streets Will Love You To Death](https://open.spotify.com/track/5H1aZtAOqmliM5naRN3YfX) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 3:55 | 2020-12-01 | 2023-01-04 |
 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 | 2020-12-01 |  |
 | [Thru Chasin' You](https://open.spotify.com/track/0UdgsIuqTM5WNL1SZADszx) | [Trudy Lynn](https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz) | [I'll Sing the Blues for You](https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4) | 4:55 | 2020-12-01 |  |
 | [What Can A Man Do?](https://open.spotify.com/track/03mq9rVxvMrzu7qBQQZ588) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Make It Rain](https://open.spotify.com/album/7mSgK9b9TLn1KA6xOoe2FF) | 5:16 | 2020-12-01 |  |

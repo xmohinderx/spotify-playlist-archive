@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49602,
+  "num_followers": 49606,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDgwNmJkMzE5M2VkY2UzM2YzOWU4MGE1MzA1NGIzOWZk",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMGYwOTE2YTI4MzQ1NGQyOWViZjQ1ZWM3MmJhM2RlNmIw",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The State",
-        "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Leader of Men",
-      "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "How Far Shallow Takes You",
         "url": "https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 196106,
       "name": "Paint It Black",
       "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "The State",
+        "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Leader of Men",
+      "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Dreams, Dreams, Dreams",
-        "url": "https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI"
-      },
-      "artists": [
-        {
-          "name": "Chilliwack",
-          "url": "https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG"
-        }
-      ],
-      "duration_ms": 293970,
-      "name": "Fly At Night (In The Morning We Land)",
-      "url": "https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Furiosity",
         "url": "https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 229945,
       "name": "Sweet Mountain River",
       "url": "https://open.spotify.com/track/2g2st70xvu7DYGlfVircnf"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Dreams, Dreams, Dreams",
+        "url": "https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI"
+      },
+      "artists": [
+        {
+          "name": "Chilliwack",
+          "url": "https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG"
+        }
+      ],
+      "duration_ms": 293970,
+      "name": "Fly At Night (In The Morning We Land)",
+      "url": "https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K"
     },
     {
       "added_at": "2022-09-13 21:55:44",

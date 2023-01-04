@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-439 songs - 1 day 2 hr 22 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
+440 songs - 1 day 2 hr 25 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Cereza \(feat\. Uku Trío Bs\)](https://open.spotify.com/track/0YkiJubevyQZHkv5ujoIqm) | [Sara Valenzuela](https://open.spotify.com/artist/2f0Ur2QXNCjpeGEqXZxOYc), [Uku Trío Bs](https://open.spotify.com/artist/1v0JdoB8SdjzVUS76pZ0Bj) | [En La Cocina](https://open.spotify.com/album/3wVGKwyKkhkkWhqbvfMll0) | 3:53 | 2021-10-20 | 2022-04-07 |
 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 | 2021-10-20 |  |
 | [Chan Chan](https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Chan Chan](https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp) | 4:20 | 2022-02-11 |  |
-| [Chica HEB](https://open.spotify.com/track/276nXdau1Z4AQpk9UMfStE) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Chica HEB](https://open.spotify.com/album/5C8snsThJ0WkO3fWYbOkx1) | 3:03 | 2023-01-03 |  |
+| [Chica HEB](https://open.spotify.com/track/276nXdau1Z4AQpk9UMfStE) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Chica HEB](https://open.spotify.com/album/5C8snsThJ0WkO3fWYbOkx1) | 3:03 | 2023-01-02 |  |
 | [Chinita](https://open.spotify.com/track/2x68bUb5ZYwKUsNBmwmrHb) | [Famasloop](https://open.spotify.com/artist/0XHiwpimzCx4fWUdtniRC7), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Casa 4](https://open.spotify.com/album/21gkQnlkeQEuup6O1dMOTD) | 2:19 | 2021-10-20 | 2022-04-17 |
 | [Chiquillo](https://open.spotify.com/track/0wYzaN0CvLp6VOJU3eD3Ed) | [OjosPielCanela](https://open.spotify.com/artist/4r01YvuZwXl9MnMwdZWLQg) | [Chiquillo](https://open.spotify.com/album/4yOqj8XCeG28CABUBbUzLU) | 3:53 | 2021-10-20 | 2022-07-29 |
 | [chiquita suelta](https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [chiquita suelta](https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL) | 2:40 | 2021-10-20 |  |
@@ -239,6 +239,7 @@
 | [Llamameya](https://open.spotify.com/track/5GXDGIDBKExQB53nfWcBaz) | [Jimena Angel](https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E) | [Llamameya](https://open.spotify.com/album/1ncKgLfrSc8vKymA38JEvq) | 4:25 | 2021-10-20 | 2022-04-11 |
 | [Llévame](https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe), [Gabo Lugo](https://open.spotify.com/artist/7N1J7Ba9vb440S6pSs2qEo) | [Llévame](https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM) | 4:18 | 2021-10-20 | 2022-07-26 |
 | [Lo Que Tuvimos](https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 3:06 | 2021-10-20 | 2022-07-30 |
+| [Love a Morir](https://open.spotify.com/track/4k73TrsfxLhw4Wdjl8x6ya) | [José Hoek](https://open.spotify.com/artist/0bq9MHfPforgiUxuuffVzs) | [Love a Morir](https://open.spotify.com/album/08AODWYrk5l7GHcyR6fTGC) | 2:48 | 2023-01-03 |  |
 | [Lovin' You \- Re\-Mix](https://open.spotify.com/track/5fbdjJkJbiKhmbhp8Z7uOt) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Lilliana De Los Reyes](https://open.spotify.com/artist/1DX1GXLfSp6njcWzDZSTRk), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Jimmy De Martini](https://open.spotify.com/artist/4TXZLWV8slZFv0SVURBssW) | [Lovin' You](https://open.spotify.com/album/7N2pF82NJYPJGHQEOqv3a1) | 7:00 | 2021-10-20 | 2022-05-26 |
 | [Luna Completa](https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Luna Completa](https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ) | 4:48 | 2021-10-20 |  |
 | [Luna de Plata \- Versión Latina](https://open.spotify.com/track/2kQHVqfTIO5SyWswMK57LW) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Luna de Plata \(Versión Latina\)](https://open.spotify.com/album/12JSUaQHliJdddn5XcsLSN) | 4:41 | 2021-10-20 | 2022-08-12 |
@@ -380,7 +381,7 @@
 | [Sirena](https://open.spotify.com/track/5BkfQ5o9XfCqvdkWqG6Dya) | [Mercuriana](https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf) | [Mercuriana Armonía Cósmica](https://open.spotify.com/album/28aucAGf2eQFNfSYGd3PlD) | 3:51 | 2022-04-17 | 2022-07-29 |
 | [Sobre La Mesa](https://open.spotify.com/track/6QcTLtjZUX9Ft2tWly8mYq) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [Sobre La Mesa](https://open.spotify.com/album/3h89aQXyLnnYPBPGnxcWmM) | 3:22 | 2021-10-20 | 2022-07-16 |
 | [Solo Le Dije](https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Algo Ritmos](https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc) | 3:56 | 2021-10-20 | 2022-04-18 |
-| [Somos Dos](https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Somos Dos](https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7) | 3:37 | 2021-10-20 |  |
+| [Somos Dos](https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Somos Dos](https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7) | 3:37 | 2021-10-20 | 2023-01-04 |
 | [Sonora](https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Satingarona, Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 5:27 | 2021-10-20 |  |
 | [Sonreír](https://open.spotify.com/track/748Vnqa1Rpwteiarxartiz) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Sonreír](https://open.spotify.com/album/3LHWZe8qOBLft1AQNdiuIk) | 3:31 | 2021-10-20 | 2022-08-09 |
 | [Sopla Mi Vela](https://open.spotify.com/track/5Ri0lGNUv8YBSm4DenE53g) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Sopla Mi Vela](https://open.spotify.com/album/3dhVsobHuBOE7c3LeHmFeZ) | 3:18 | 2022-08-13 | 2022-09-28 |

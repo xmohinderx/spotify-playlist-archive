@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-171 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/1yyhOjEH9QwfpQn9ZYLpRJ)
+172 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/1yyhOjEH9QwfpQn9ZYLpRJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,12 +68,13 @@
 | [Hi, Merry Christmas](https://open.spotify.com/track/0oUYIuuFDzbyDcQpsRV6bd) | [byebyesea](https://open.spotify.com/artist/6riFTYc983NGqLzQBW3UZK) | [Hi, Merry Christmas](https://open.spotify.com/album/1e7jYM0nN5iWKI83wKizSj) | 3:24 | 2021-12-21 | 2022-07-29 |
 | [Hi, Merry Christmas](https://open.spotify.com/track/1qagMwFdymsQ3JS2tSTz9w) | [byebyesea](https://open.spotify.com/artist/6riFTYc983NGqLzQBW3UZK) | [Hi, Merry Christmas](https://open.spotify.com/album/1Wmt7jNUbKjkLAyWItTLUl) | 3:24 | 2021-12-21 | 2022-11-14 |
 | [Home Alone](https://open.spotify.com/track/4QfmlkwbaWuZrsN8FZ0If3) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi), [Na Yul](https://open.spotify.com/artist/7uZVlC67kBdmkptwKGPcLl) | [KIM TAE WOO with Friends](https://open.spotify.com/album/0fj62kxyGEzyB1xYVNvaef) | 3:13 | 2021-12-21 | 2022-11-23 |
+| [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 | 2023-01-04 |  |
 | [I Need You](https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [I Need You](https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL) | 3:26 | 2021-12-21 |  |
 | [It's Christmas](https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz) | [FNC ARTIST](https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0) | [FNC LAB \#2 'It's Christmas'](https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S) | 3:50 | 2021-12-21 |  |
 | [It's Christmas time](https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It's Christmas time](https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p) | 3:50 | 2021-12-21 |  |
 | [It's Christmas time](https://open.spotify.com/track/4Rsr5I1LQaBWk4tvjkVGcr) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It's Christmas time](https://open.spotify.com/album/62wnKeijuMQ5rVbHzWsaEx) | 3:50 | 2021-12-21 | 2022-07-29 |
 | [It's Okay, You Can Cry \(Santa Claus is Coming to Town\)](https://open.spotify.com/track/25pl2jxhN9gbkE5y7dXomp) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Seasons](https://open.spotify.com/album/5Dpd69pvi5PJfn5RXVcgpn) | 3:02 | 2021-12-21 | 2022-07-28 |
-| [Jingle All Night](https://open.spotify.com/track/2dFKs3VdqnQijyWjw02YbJ) | [Soovi](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA) | [Jingle All Night](https://open.spotify.com/album/2rFML9EpjokJoy5FK5ewVi) | 3:17 | 2021-12-21 |  |
+| [Jingle All Night](https://open.spotify.com/track/2dFKs3VdqnQijyWjw02YbJ) | [Soovi](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA) | [Jingle All Night](https://open.spotify.com/album/2rFML9EpjokJoy5FK5ewVi) | 3:17 | 2021-12-21 | 2023-01-04 |
 | [Jingle Bells](https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [MIDNIGHT CHRISTMAS](https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13) | 2:22 | 2021-12-21 |  |
 | [JOY](https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [JOY \- SM STATION](https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa) | 2:58 | 2021-12-21 |  |
 | [Just Christmas \(2018 Remastered Ver.\)](https://open.spotify.com/track/7LZRgPg55Kl9pCDiAkCuNj) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Be Your Christmas](https://open.spotify.com/album/0PrF2IuvcBPb0ZKdL64stz) | 3:16 | 2021-12-21 | 2022-07-29 |

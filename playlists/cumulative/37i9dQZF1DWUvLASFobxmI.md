@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Maquinaría Norteña en portada.
 
-213 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+214 songs - 11 hr 39 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amandote](https://open.spotify.com/track/1YloxcHYgx9UHpJGSY5dPx) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Amandote](https://open.spotify.com/album/1WPvIsp1abq1FA6uMZR0M1) | 2:47 | 2022-08-05 | 2022-12-10 |
 | [Amores Van Y Vienen](https://open.spotify.com/track/2W4RJv2eybzhaWbLSuRUun) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Amores Van Y Vienen](https://open.spotify.com/album/3weBqrWdVBAhh1BS0plpXK) | 3:36 | 2022-07-01 | 2022-07-29 |
 | [Armando Acertijos](https://open.spotify.com/track/76WKYewcP9Q3Hs72dTyDnR) | [Grupo Alfa](https://open.spotify.com/artist/078DGCbkOWtHamc21qE0Sy) | [Armando Acertijos](https://open.spotify.com/album/58Md7UQKF4XzA1HCqxJN3J) | 2:39 | 2022-07-01 | 2022-07-28 |
+| [Así Nací](https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:47 | 2022-12-22 |  |
 | [Así Ya No](https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [El Fenómeno](https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs) | 2:42 | 2022-07-01 |  |
 | [Aunque Sea En Silencio \(Cuatro Paredes\)](https://open.spotify.com/track/6tO7GuXst1F2L5Hppk8UgB) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Juego Prohibido](https://open.spotify.com/album/3oZR4fLxdIaOOyW4OKrKu1) | 3:10 | 2022-07-01 | 2022-08-06 |
 | [Backpack](https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:29 | 2022-07-01 | 2022-11-05 |
@@ -91,7 +92,7 @@
 | [Enamorado](https://open.spotify.com/track/2lQ907kdNk2IL7WRQZHlZy) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Enamorado](https://open.spotify.com/album/1JNPLcUJAcPHnkB6cgxU39) | 3:09 | 2022-07-15 | 2022-11-11 |
 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 | 2022-09-02 |  |
 | [Eres Ese Algo](https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 | 2022-12-22 |  |
-| [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 | 2021-12-17 |  |
+| [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 | 2021-12-17 | 2023-01-04 |
 | [Eres un encanto \- En vivo](https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [En vivo desde El Potrero](https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf) | 3:23 | 2022-12-09 | 2022-12-24 |
 | [Especial](https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Más Especial](https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug) | 3:06 | 2022-04-15 | 2022-07-12 |
 | [Especial](https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Especial](https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J) | 3:07 | 2022-07-01 | 2022-11-12 |

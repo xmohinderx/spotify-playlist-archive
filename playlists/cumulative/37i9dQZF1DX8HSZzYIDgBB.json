@@ -752,6 +752,28 @@
     },
     {
       "album": {
+        "name": "Cucu",
+        "url": "https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc"
+      },
+      "artists": [
+        {
+          "name": "Gotopo",
+          "url": "https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF"
+        },
+        {
+          "name": "Don Elektron",
+          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112602,
+      "name": "Cucu",
+      "url": "https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ"
+    },
+    {
+      "album": {
         "name": "El Mirador",
         "url": "https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV"
       },

@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-150 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+151 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [4ÆM](https://open.spotify.com/track/6IdjgneeIkqxA9gWcMEx3L) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene](https://open.spotify.com/album/2tKMfEo15Y4OMEm5sljPsJ) | 4:30 | 2020-10-20 | 2022-11-13 |
 | [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:42 | 2021-01-22 |  |
 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 | 2022-08-24 |  |
+| [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 | 2023-01-04 |  |
 | [An Interior of Strange Beauty](https://open.spotify.com/track/12Ao5gXC6kg8MkL8j7Jn78) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x) | 6:34 | 2022-08-16 | 2022-10-15 |
 | [An Interior of Strange Beauty](https://open.spotify.com/track/1YHeSEpxM24Nq1sZdvuPKG) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [An Interior of Strange Beauty / Incoming Call](https://open.spotify.com/album/38dsx6d80G3byvU4NoUUSN) | 6:34 | 2022-08-16 | 2022-10-14 |
 | [An Interior of Strange Beauty](https://open.spotify.com/track/2v1LYDE5i8ZgCdo8PriXka) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [An Interior of Strange Beauty / Incoming Call](https://open.spotify.com/album/6cJQb2wjDLzbaCcoSgSYk7) | 6:34 | 2022-08-16 | 2022-11-13 |
@@ -84,7 +85,7 @@
 | [Music Is The Drug](https://open.spotify.com/track/1BWGyrR8iDDXwhXmE5xmQQ) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Music Is The Drug](https://open.spotify.com/album/0tsuOcwGUKiitJ5ZbtwDiN) | 3:39 | 2022-08-31 |  |
 | [My Agenda \(feat\. Village People & Pussy Riot\)](https://open.spotify.com/track/2aKrS1piFqGk1ZLs3DXTTw) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [My Agenda \(feat\. Village People & Pussy Riot\)](https://open.spotify.com/album/0qGRzjp27bq0ZaOlSPr3JU) | 2:51 | 2020-10-20 |  |
 | [Nasty](https://open.spotify.com/track/0SfmpgvdH8nm4cfxc5vj1O) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nasty](https://open.spotify.com/album/59P8nU2rZUFJaavj4FHDg0) | 2:07 | 2020-10-20 |  |
-| [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 | 2020-10-20 |  |
+| [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 | 2020-10-20 | 2023-01-04 |
 | [NOBODY](https://open.spotify.com/track/7H06sYnrGsMbWzAR377J8s) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/4Ukx5wyPQ367NvdLtQSkCp) | 1:56 | 2020-10-20 | 2022-07-29 |
 | [Normal Is Boring](https://open.spotify.com/track/5Fj3HgpY69IsdQOyzwbLdY) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe), [So Beast](https://open.spotify.com/artist/2Ja0h5Uy4xQTNSAaxgrVv9) | [Everything Burns](https://open.spotify.com/album/4hafVynEHNLuadYVKA3A0f) | 4:42 | 2021-07-09 |  |
 | [Normal Is Boring](https://open.spotify.com/track/5V1YHTOjbVAoH4ppT2sI21) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe), [So Beast](https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE) | [Normal Is Boring](https://open.spotify.com/album/3ZXO9QaHedT9Nrat9er7Mo) | 4:42 | 2021-07-09 | 2022-10-21 |

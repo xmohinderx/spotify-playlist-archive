@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 119930,
+  "num_followers": 119985,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDYzNzg2NmIwM2EwZmZmZjJmNDJkZThiNTBhOTBiNjI1",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGI4OTFjZWE5NzIwYTBiMzViY2Q5Y2UxNWE2M2I1ZjUz",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -441,6 +441,22 @@
       "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
     },
     {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Luther \"Guitar Junior\" Johnson",
+          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Somebody Have Mercy",
+      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
+    },
+    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "I Am The Blues",
@@ -471,22 +487,6 @@
       "duration_ms": 437573,
       "name": "Kold Actions",
       "url": "https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Luther \"Guitar Junior\" Johnson",
-          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Somebody Have Mercy",
-      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
     },
     {
       "added_at": "2018-02-27 18:08:29",

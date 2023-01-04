@@ -473,7 +473,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 309800,
       "name": "Ceddo End Title",
       "url": "https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 186200,
       "name": "Cosita Linda",
       "url": "https://open.spotify.com/track/2bBirdcBLswvtKiQojNFHR"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 344760,
       "name": "El Manicero",
       "url": "https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 228666,
       "name": "Lagos Go Slow",
       "url": "https://open.spotify.com/track/73f0f9KKZsBfmtogRcnBLp"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 274626,
       "name": "Musica",
       "url": "https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa"
@@ -1737,7 +1737,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 397573,
       "name": "Reggae Makossa",
       "url": "https://open.spotify.com/track/6XR29umHoZKLmQRoJgUC2o"
@@ -2079,7 +2079,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 423653,
       "name": "Tek Time",
       "url": "https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x"
@@ -2097,7 +2097,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 149346,
       "name": "The Panther",
       "url": "https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv"
@@ -2137,6 +2137,36 @@
       "duration_ms": 502693,
       "name": "Tropical Garden",
       "url": "https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc"
+    },
+    {
+      "album": {
+        "name": "Tu sais (Hymne officiel de la Francophonie)",
+        "url": "https://open.spotify.com/album/6GB9E89wUtFSU9HzpJacyi"
+      },
+      "artists": [
+        {
+          "name": "Black M",
+          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
+        },
+        {
+          "name": "Christophe Willem",
+          "url": "https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD"
+        },
+        {
+          "name": "Inna MODJA",
+          "url": "https://open.spotify.com/artist/2Wcolafj7tcFeVOIr0V4Ju"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180619,
+      "name": "Tu sais - Hymne officiel de la Francophonie",
+      "url": "https://open.spotify.com/track/2DL1IgEEJxRT88OScgQv0G"
     },
     {
       "album": {
@@ -2205,7 +2235,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 164640,
       "name": "What a wonderful world",
       "url": "https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49"

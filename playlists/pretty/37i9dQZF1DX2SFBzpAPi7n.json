@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Nell(\ub12c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 194424,
+  "num_followers": 194516,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjYzODMwMSwwMDAwMDAwMGY1OWQ0N2I0NGViZTk3MmFhYmZlMzNmNjRjNmNhZGJj",
+  "snapshot_id": "MTY3MjYzODMwMSwwMDAwMDAwMDQwMmU0NTE5NWM4MmI2MzlkOGEwYmE5N2Q0NTcxM2Ey",
   "tracks": [
     {
       "added_at": "2023-01-02 05:45:01",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-01-02 05:45:01",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE"
-    },
-    {
-      "added_at": "2023-01-02 05:45:01",
-      "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 221133,
       "name": "WINTER FLOWER(Feat.RM)",
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
+    },
+    {
+      "added_at": "2023-01-02 05:45:01",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC"
     },
     {
       "added_at": "2023-01-02 05:45:01",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-01-02 05:45:01",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt"
+        "name": "Twenty-Five Twenty-One OST Part 5",
+        "url": "https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "DOKYEOM",
+          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
         }
       ],
-      "duration_ms": 215476,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp"
+      "duration_ms": 209711,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr"
     },
     {
       "added_at": "2023-01-02 05:45:01",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-01-02 05:45:01",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 5",
-        "url": "https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR"
-      },
-      "artists": [
-        {
-          "name": "DOKYEOM",
-          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
-        }
-      ],
-      "duration_ms": 209711,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr"
-    },
-    {
-      "added_at": "2023-01-02 05:45:01",
-      "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
@@ -439,22 +423,6 @@
       "duration_ms": 238494,
       "name": "FAKE LOVE - Rocking Vibe Mix",
       "url": "https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu"
-    },
-    {
-      "added_at": "2023-01-02 05:45:01",
-      "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC"
     },
     {
       "added_at": "2023-01-02 05:45:01",
@@ -475,22 +443,6 @@
     {
       "added_at": "2023-01-02 05:45:01",
       "album": {
-        "name": "1st Album [Dystopia : The Tree of Language]",
-        "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
-    },
-    {
-      "added_at": "2023-01-02 05:45:01",
-      "album": {
         "name": "NAN CHUN \ub09c\ucd98",
         "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
       },
@@ -503,22 +455,6 @@
       "duration_ms": 229493,
       "name": "NAN CHUN \ub09c\ucd98",
       "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
-    },
-    {
-      "added_at": "2023-01-02 05:45:01",
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 218737,
-      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
-      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
     },
     {
       "added_at": "2023-01-02 05:45:01",
@@ -539,18 +475,18 @@
     {
       "added_at": "2023-01-02 05:45:01",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc"
+        "name": "1st Album [Dystopia : The Tree of Language]",
+        "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 213217,
-      "name": "I.L.Y.",
-      "url": "https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr"
+      "duration_ms": 204293,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
     },
     {
       "added_at": "2023-01-02 05:45:01",
@@ -571,6 +507,22 @@
     {
       "added_at": "2023-01-02 05:45:01",
       "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 218737,
+      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
+      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
+    },
+    {
+      "added_at": "2023-01-02 05:45:01",
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws"
       },
@@ -587,22 +539,6 @@
     {
       "added_at": "2023-01-02 05:45:01",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
-    },
-    {
-      "added_at": "2023-01-02 05:45:01",
-      "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
@@ -615,22 +551,6 @@
       "duration_ms": 201280,
       "name": "Gradation",
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
-    },
-    {
-      "added_at": "2023-01-02 05:45:01",
-      "album": {
-        "name": "Raid of Dream",
-        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
     },
     {
       "added_at": "2023-01-02 05:45:01",
@@ -667,6 +587,22 @@
     {
       "added_at": "2023-01-02 05:45:01",
       "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 234534,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
+    },
+    {
+      "added_at": "2023-01-02 05:45:01",
+      "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D"
       },
@@ -679,6 +615,22 @@
       "duration_ms": 217972,
       "name": "Right Through Me",
       "url": "https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd"
+    },
+    {
+      "added_at": "2023-01-02 05:45:01",
+      "album": {
+        "name": "Raid of Dream",
+        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
     },
     {
       "added_at": "2023-01-02 05:45:01",
@@ -699,6 +651,22 @@
     {
       "added_at": "2023-01-02 05:45:01",
       "album": {
+        "name": "Rawww",
+        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "Rawww",
+      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+    },
+    {
+      "added_at": "2023-01-02 05:45:01",
+      "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
@@ -711,6 +679,38 @@
       "duration_ms": 232558,
       "name": "\ub098\ubb34",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
+    },
+    {
+      "added_at": "2023-01-02 05:45:01",
+      "album": {
+        "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
+        "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
+    },
+    {
+      "added_at": "2023-01-02 05:45:01",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 241692,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
     },
     {
       "added_at": "2023-01-02 05:45:01",
@@ -747,54 +747,6 @@
     {
       "added_at": "2023-01-02 05:45:01",
       "album": {
-        "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
-        "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 257752,
-      "name": "Where the sea sleeps",
-      "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
-    },
-    {
-      "added_at": "2023-01-02 05:45:01",
-      "album": {
-        "name": "Rawww",
-        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "Rawww",
-      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
-    },
-    {
-      "added_at": "2023-01-02 05:45:01",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 241692,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
-    },
-    {
-      "added_at": "2023-01-02 05:45:01",
-      "album": {
         "name": "DIVE",
         "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
       },
@@ -823,6 +775,54 @@
       "duration_ms": 197605,
       "name": "Guard You",
       "url": "https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp"
+    },
+    {
+      "added_at": "2023-01-02 05:45:01",
+      "album": {
+        "name": "VINCENZO (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8"
+    },
+    {
+      "added_at": "2023-01-02 05:45:01",
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
+        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
+      },
+      "artists": [
+        {
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
+        }
+      ],
+      "duration_ms": 268453,
+      "name": "So Tender",
+      "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
+    },
+    {
+      "added_at": "2023-01-02 05:45:01",
+      "album": {
+        "name": "Dearest",
+        "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

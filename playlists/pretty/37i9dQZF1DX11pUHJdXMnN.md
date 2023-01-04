@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,968 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,003 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 2 | [Divine Reality](https://open.spotify.com/track/45ITwtPzk2n7XBWGD32NZb) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Divine Reality](https://open.spotify.com/album/15eAEjJ4qWNLbtTACrb0oK) | 7:39 |
 | 3 | [Deleters \- Palms Trax Remix](https://open.spotify.com/track/0oqga82uitzPVW5TR8SKVx) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11), [Angus Andrew](https://open.spotify.com/artist/4sKeiukDMta5llXZ8v4Vdu), [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [Deleter Remixed](https://open.spotify.com/album/6zys7HVqBqIlAHqQM1eruT) | 4:15 |
 | 4 | [My Computer](https://open.spotify.com/track/43dypLxBZqo8KlPdsJOmwy) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Glowal](https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ) | [Picture: Adana Twins](https://open.spotify.com/album/6EmW2P6OZMqtGyuYXs53X0) | 8:35 |
-| 5 | [Groove Society](https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Groove Society](https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP) | 3:03 |
-| 6 | [Lille Vals](https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ) | [Storken](https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi) | [Lille Vals](https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x) | 3:55 |
+| 5 | [Lille Vals](https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ) | [Storken](https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi) | [Lille Vals](https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x) | 3:55 |
+| 6 | [Groove Society](https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Groove Society](https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP) | 3:03 |
 | 7 | [Place And Time](https://open.spotify.com/track/6CBJ7na2t7S6dx1MCDpS73) | [Walk Then Dance](https://open.spotify.com/artist/7DpsCj5MSS01dxB3aG4Wx6) | [Place And Time](https://open.spotify.com/album/6FbKm2ygSB2fq7Hl51RsaW) | 4:04 |
 | 8 | [Modern Romance](https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Modern Romance](https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz) | 3:34 |
 | 9 | [The Thrill](https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [The Thrill](https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V) | 2:50 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Up & Down](https://open.spotify.com/track/11DRarpv190YnCAXt85uFA) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 6:49 |
 | 45 | [A Rose Between Two Thorns \(VERONICA\)](https://open.spotify.com/track/2qo8npLusT0JtbIHvkd1zO) | [BluePrint](https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT) | [A Rose Between Two Thorns \(VERONICA\)](https://open.spotify.com/album/6ZYlLI0F0LJJbrgM8hEML1) | 3:41 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMGQ0MTRlYWY5ZDlhOWNhYjNhYTA2MzFiMTJkMWNmYTI5`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDZhZTIwNWVkZGMwYzIzOTU0OGNkNWIwMTVlMGYzNmJh`

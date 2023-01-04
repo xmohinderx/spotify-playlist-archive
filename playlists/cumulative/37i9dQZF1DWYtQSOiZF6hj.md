@@ -4,7 +4,7 @@
 
 > Great songs for your birthday! Let's celebrate!
 
-81 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/5FNcj9ShVqtyKHQLOUG04T)
+83 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5FNcj9ShVqtyKHQLOUG04T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,12 +22,14 @@
 | [Birthday](https://open.spotify.com/track/398LX1682LnnkiVGavlGZm) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Geburtstagsfeier](https://open.spotify.com/album/5vSqjD92eT03oGInNEMHUT) | 3:20 | 2022-03-10 | 2022-11-13 |
 | [Birthday](https://open.spotify.com/track/2IzI6MHhvH1Gs1vcLlYY4a) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance](https://open.spotify.com/album/4MGDyHLc9ctHHiX4wCn1tV) | 3:20 | 2021-11-22 | 2022-07-29 |
 | [Birthday](https://open.spotify.com/track/345HZXxfL8S8HkVzytD1Pw) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 3:20 | 2022-03-10 |  |
+| [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 | 2023-01-03 |  |
 | [Celebration](https://open.spotify.com/track/5HktkLHDbjA6LTyRTBEzHy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:35 | 2021-11-22 |  |
 | [Celebration \- Single Version](https://open.spotify.com/track/6pc8xULSlsMdFB3OrqbvZ4) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebration / Morning Star](https://open.spotify.com/album/5RyMdc2cQbURYCUDbzjR6w) | 3:35 | 2021-11-22 | 2022-07-29 |
 | [Celebration \- Single Version](https://open.spotify.com/track/6HIVJXpdvp1C1ubfnkFnz8) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:38 | 2022-03-10 |  |
 | [Celebration \- Single Version](https://open.spotify.com/track/0CUEc6T65lrU6rVW3HVYsl) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang \(Reissue\)](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:41 | 2022-03-10 | 2022-11-13 |
 | [Dance Monkey](https://open.spotify.com/track/03OHZnpZoELFxS7Jn5mT6L) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Only Positive Energy](https://open.spotify.com/album/37eQtckqMN0s9eSNO7LyS9) | 3:29 | 2022-03-10 | 2022-11-13 |
 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 | 2022-03-10 |  |
+| [Dance Monkey](https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming](https://open.spotify.com/album/2pJXQvY0YeDvVJ9gMU9G7j) | 3:29 | 2023-01-03 |  |
 | [Dance Monkey](https://open.spotify.com/track/421leiR6jKlH5KDdwLYrOs) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey](https://open.spotify.com/album/5i6CS5XcLZGLgaNCKlJvc2) | 3:29 | 2022-03-10 | 2022-07-29 |
 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 | 2022-12-01 |  |
 | [Diamonds](https://open.spotify.com/track/65YsalQBmQCzIPaay72CzQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Diamonds](https://open.spotify.com/album/2lRsZapxZxX43cmoDygp45) | 3:45 | 2021-11-22 |  |

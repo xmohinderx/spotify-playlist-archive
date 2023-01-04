@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 5729,
+  "num_followers": 5746,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjA0NjgyNywwMDAwMDAwMDFkYTIxNDhmZjlhOTVkN2VmZGE3ZDIzNzZkYTk4MGQ2",
+  "snapshot_id": "MTY3MjA0NjgyNywwMDAwMDAwMGM4YzgwZmM1MmUxMmU1M2E2MTljYTU5MGUwM2Q4MjRk",
   "tracks": [
     {
       "added_at": "2022-12-26 09:27:07",
@@ -95,6 +95,22 @@
     {
       "added_at": "2022-12-26 09:27:07",
       "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2022-12-26 09:27:07",
+      "album": {
         "name": "Some",
         "url": "https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 211374,
       "name": "Some (feat. Lil Boi)",
       "url": "https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx"
-    },
-    {
-      "added_at": "2022-12-26 09:27:07",
-      "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2022-12-26 09:27:07",

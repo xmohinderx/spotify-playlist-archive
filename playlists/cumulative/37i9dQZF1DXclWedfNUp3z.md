@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-336 songs - 23 hr 21 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
+337 songs - 23 hr 24 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Intorno allo schermo](https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Fermarsi](https://open.spotify.com/album/0NH403g4GLkOnVeLf3yorf) | 20:54 | 2022-03-11 | 2022-07-17 |
 | [Invocation](https://open.spotify.com/track/2Si9pK8JePFeRaFVVPQTMo) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Iterations Felidae](https://open.spotify.com/album/7K3mrgVogFrTHHPSM7vOG8) | 2:18 | 2022-04-22 | 2022-07-29 |
 | [Japanese Maple in the Afternoon \(Raag Bhoopali\)](https://open.spotify.com/track/4qFElgC2kyt1KmSvPB43Hy) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi) | 3:08 | 2021-11-12 | 2022-07-28 |
-| [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 | 2021-10-20 |  |
+| [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 | 2021-10-20 | 2023-01-04 |
 | [Kalimba Heart](https://open.spotify.com/track/6zHLUchfVKSSvDOYqrQu4U) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/2cJUkDSiyikvlTBtM3Dekx) | 3:11 | 2021-10-20 | 2022-07-29 |
 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 | 2022-07-15 |  |
 | [Klass \- MISSUXO Film Edit](https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa) | 3:58 | 2022-02-18 |  |
@@ -166,6 +166,7 @@
 | [Making Gardens Out of Silence](https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 8:21 | 2022-11-12 |  |
 | [Management Of Sorrows](https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6) | [Before Flags](https://open.spotify.com/artist/6qZr5jzAGYYWSWVvC4IBBN), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Chrys Jones](https://open.spotify.com/artist/4CHYSMGosrDC0PvydWgTO2), [Dylan Ellicott](https://open.spotify.com/artist/6D27nHBCZzRy7AOydwkonK), [Patrick Spatz](https://open.spotify.com/artist/7pwGeErkrXg5N40Cw8ytid) | [Mountains, Go](https://open.spotify.com/album/3ynwXohmbMQN0bhDPWw5U9) | 8:39 | 2022-01-07 | 2022-07-16 |
 | [Mandragora](https://open.spotify.com/track/2HNdhyCuwK8co2WJh5VvHT) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Vegetalia](https://open.spotify.com/album/4pbymaEC9lqpbnLoLvNspG) | 3:53 | 2021-10-20 | 2022-07-27 |
+| [Maracuyá](https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3) | [Hermanito](https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j) | [Maracuyá](https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi) | 3:02 | 2023-01-04 |  |
 | [Maranta](https://open.spotify.com/track/2wTpKE7LiT9Zd9PTps0AtT) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [The Plant Whisperer](https://open.spotify.com/album/6Y0GISNmyOkKYfUNQBcQfi) | 2:17 | 2022-03-19 | 2022-10-08 |
 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 | 2022-02-18 |  |
 | [Marginalia \#119](https://open.spotify.com/track/3gOEYrmxejidBqgxgeTpJ0) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/31TDrtEsbcHHJNnZ9IWOB9) | 6:09 | 2022-12-29 |  |

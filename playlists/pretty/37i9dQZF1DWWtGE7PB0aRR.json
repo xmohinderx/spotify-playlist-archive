@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 106878,
+  "num_followers": 106919,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGJjMjg3NWNiOGIzMjgyN2I2NjRmNmYzYzFjMDYwNDdi",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGI0NTIzOWIwODI0OWZiMWFiMmRmMTk4OGE5ZjE2ZGMw",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Thunder in the Sky",
-        "url": "https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb"
-      },
-      "artists": [
-        {
-          "name": "Laurence Jones",
-          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
-        }
-      ],
-      "duration_ms": 396106,
-      "name": "Thunder in the Sky",
-      "url": "https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm"
-    },
-    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "Twice Removed from Yesterday",
@@ -727,6 +711,22 @@
       "duration_ms": 321160,
       "name": "I Can't Wait Much Longer",
       "url": "https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Thunder in the Sky",
+        "url": "https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+        }
+      ],
+      "duration_ms": 396106,
+      "name": "Thunder in the Sky",
+      "url": "https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -811,6 +811,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Twice Removed from Yesterday",
+        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 162426,
+      "name": "Man of the World",
+      "url": "https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Pigthology",
         "url": "https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 202760,
       "name": "It's Only Love",
       "url": "https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "What's It Gonna Be",
-        "url": "https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv"
-      },
-      "artists": [
-        {
-          "name": "Laurence Jones",
-          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "What's It Gonna Be",
-      "url": "https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -873,20 +873,20 @@
       "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Twice Removed from Yesterday",
-        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
+        "name": "What's It Gonna Be",
+        "url": "https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv"
       },
       "artists": [
         {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
         }
       ],
-      "duration_ms": 162426,
-      "name": "Man of the World",
-      "url": "https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s"
+      "duration_ms": 256733,
+      "name": "What's It Gonna Be",
+      "url": "https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/0au1f8q2WN1gsvdrD0D1LN"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Deuce (50th Anniversary)",
-        "url": "https://open.spotify.com/album/4aCigoJ1Vh797W4FaPWIkU"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "In Your Town - Alternate Take 3",
-      "url": "https://open.spotify.com/track/29x3HEIlwM6qn6dEQgRKRa"
-    },
-    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "As Safe As Yesterday Is",
@@ -1015,6 +999,22 @@
       "duration_ms": 387640,
       "name": "Desperation (Stereo Version)",
       "url": "https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Deuce (50th Anniversary)",
+        "url": "https://open.spotify.com/album/4aCigoJ1Vh797W4FaPWIkU"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "In Your Town - Alternate Take 3",
+      "url": "https://open.spotify.com/track/29x3HEIlwM6qn6dEQgRKRa"
     },
     {
       "added_at": "2021-04-22 22:35:02",

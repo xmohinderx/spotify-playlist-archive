@@ -4,7 +4,7 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-114 songs - 7 hr 0 min - not published yet
+115 songs - 7 hr 4 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Autumn wind](https://open.spotify.com/track/4B1Itm9mELNj30wCEY22oI) | [Gemstone](https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V) | [Autumn wind](https://open.spotify.com/album/2vGKL7G6LWW6cSCF2ftmJe) | 4:11 | 2022-11-03 |  |
 | [Autumn wind](https://open.spotify.com/track/4XDvWyY9xZRxrfmklKKmwV) | [Gemstone](https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V) | [Autumn wind](https://open.spotify.com/album/6MHMfBxopuGMujoeR1uEoR) | 4:11 | 2022-11-03 | 2022-12-10 |
 | [Autumnal love](https://open.spotify.com/track/091YZwi5O1IiFt4D7ulOCj) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [On you](https://open.spotify.com/album/4ydstcEKtkCe9KpYA0JvCW) | 3:42 | 2022-07-04 | 2022-12-04 |
+| [Autumnal Love](https://open.spotify.com/track/1v9Rtklz92QJJEgiEQSsUG) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [On You](https://open.spotify.com/album/6rjyBT9ZSUj6QkYn1eeIRC) | 3:42 | 2022-11-03 |  |
 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 | 2022-07-04 |  |
 | [Beyond \(Feat\. Soochang\)](https://open.spotify.com/track/0nm1UnN6o64RG2CJywcJFa) | [Bond](https://open.spotify.com/artist/3Ahs5NpPTeYfeTNNf0wGR6), [Soochang](https://open.spotify.com/artist/0Qxw5zRVeIs8Yuo1FrZ9v9) | [Beyond](https://open.spotify.com/album/6v3MIBlJ4iDUNvTqG2O8wT) | 3:19 | 2022-07-04 |  |
 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 | 2022-07-04 |  |
@@ -113,7 +114,7 @@
 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2022-11-01 |  |
 | [그대는 어디로](https://open.spotify.com/track/6pqL0Px6WVM9zZz7sFbRsa) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [그대는 어디로](https://open.spotify.com/album/1GbYUhx7Qq1X4yQUNByr7u) | 3:26 | 2022-07-04 |  |
 | [난 혼자가 편해](https://open.spotify.com/track/7GygDFiaSTSo3dmcpfn4S6) | [이단미](https://open.spotify.com/artist/2XfNRc16ttr0NXwtSy9Qq3), [Ganaa](https://open.spotify.com/artist/2tKlFO8EyHBZaHwdjflNbL) | [난 혼자가 편해](https://open.spotify.com/album/1Amy0LfByq9gxvd9DUrs96) | 3:16 | 2022-07-04 |  |
-| [목소리 듣고 싶다 Autumnal love](https://open.spotify.com/track/3peIyC4z6HstADkfpX4VJh) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [곁 1/2 On you 1/2](https://open.spotify.com/album/7IMNiZLrpONVt9cxPv328J) | 3:42 | 2022-11-03 |  |
+| [목소리 듣고 싶다 Autumnal love](https://open.spotify.com/track/3peIyC4z6HstADkfpX4VJh) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [곁 1/2 On you 1/2](https://open.spotify.com/album/7IMNiZLrpONVt9cxPv328J) | 3:42 | 2022-11-03 | 2023-01-04 |
 | [사계절이 지나 다시 가을이 와도](https://open.spotify.com/track/0LNFfjxX0BXK4aRJBOqvND) | [Sangmin Chu](https://open.spotify.com/artist/1h1MFg2X9xB9Gx32edDF2f) | [RAINBOW STATION Episode.4](https://open.spotify.com/album/2ebrszefspT0qZJkhQlgsm) | 3:33 | 2022-11-03 |  |
 | [쑥스러운 고백](https://open.spotify.com/track/3NupIPCFlmMnsgeByDIEBk) | [어반폴리](https://open.spotify.com/artist/2tCMP0VTIeW8iL7StLs5BH), [Honey Apple](https://open.spotify.com/artist/7h7sOqNmc6mzSQuDRHmyev) | [쑥스러운 고백](https://open.spotify.com/album/7vRr36ux7lcJzCwz045Jwh) | 3:12 | 2022-07-04 |  |
 | [우리의 밤을 외워요](https://open.spotify.com/track/4LYlWqZSPaLMk9FthWF0To) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [우리의 밤을 외워요](https://open.spotify.com/album/5f8PEOUNnkB5cj2W5fVgXy) | 4:02 | 2022-11-01 |  |

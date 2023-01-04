@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 140760,
+  "num_followers": 140943,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI2MzM0NSwwMDAwMDAwMGY4YTE3MTRiZWZmZjAyNmYzZmQyZGUwZmMwMzRiZDlh",
+  "snapshot_id": "MTY3MjI2MzM0NSwwMDAwMDAwMDRlNWQxZGQzY2NhZDQ4MTM0ZGE0MDA2MTljYWQ0YzU2",
   "tracks": [
     {
       "added_at": "2022-12-28 21:35:45",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-12-28 21:35:45",
       "album": {
-        "name": "'N Sync",
-        "url": "https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Tearin' up My Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
-    },
-    {
-      "added_at": "2022-12-28 21:35:45",
-      "album": {
         "name": "The Greatest Hits: Why Try Harder",
         "url": "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 227973,
       "name": "Praise You - Radio Edit",
       "url": "https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ"
+    },
+    {
+      "added_at": "2022-12-28 21:35:45",
+      "album": {
+        "name": "'N Sync",
+        "url": "https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Tearin' up My Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
     },
     {
       "added_at": "2022-12-28 21:35:45",

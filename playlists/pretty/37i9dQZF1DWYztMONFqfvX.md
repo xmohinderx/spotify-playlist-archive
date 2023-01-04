@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > The Bollywood crooner's best songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,608 likes - 83 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,310 likes - 83 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 20 | [Jeetega Jeetega Film Version](https://open.spotify.com/track/17fhQI9tsFAdd5fPSBBCWu) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [83 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54MWK3HGLOxBWnQRYWEfEA) | 3:57 |
 | 21 | [Aabaad Barbaad](https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 5:09 |
 | 22 | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/track/018eOid2aGaPdxon7T6GsC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/album/3Q6oDVihOpQVi2FC0Mfjlm) | 4:07 |
-| 23 | [Ve Maahi](https://open.spotify.com/track/4t1DkxexoMbIHfSHS4Uiyr) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kesari](https://open.spotify.com/album/2koMSm4dddvhxLzZyN2aEE) | 3:43 |
+| 23 | [Ve Maahi](https://open.spotify.com/track/4t1DkxexoMbIHfSHS4Uiyr) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kesari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2koMSm4dddvhxLzZyN2aEE) | 3:43 |
 | 24 | [Tujhe Kitna Chahne Lage \(From "Kabir Singh"\)](https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6) | [Tujhe Kitna Chahne Lage \(From "Kabir Singh"\)](https://open.spotify.com/album/3I8PdIhk6pNm8Kv0HiF14V) | 4:44 |
 | 25 | [Pal Pal Dil Ke Paas\- Title Track](https://open.spotify.com/track/7lGhrfren1Zpwh0ds0zuUg) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Pal Pal Dil Ke Paas\- Title Track \(From "Pal Pal Dil Ke Paas"\)](https://open.spotify.com/album/0C9FXcECAeepJhmuvETNe1) | 4:14 |
 | 26 | [Tera Yaar Hoon Main](https://open.spotify.com/track/4ZTx87kAgEwlPMzoojFZWg) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 4:24 |

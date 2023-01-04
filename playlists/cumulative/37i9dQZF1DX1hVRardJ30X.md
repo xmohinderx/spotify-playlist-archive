@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Yandel & Feid
 
-3,112 songs - 6 day 20 hr 49 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+3,113 songs - 6 day 20 hr 54 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [2A](https://open.spotify.com/track/1edM1dwb4vTMefLpgLX3mj) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Niño De Oro \(Deluxe Version\)](https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz) | 3:17 | 2022-11-12 | 2022-11-19 |
 | [2NITE](https://open.spotify.com/track/3qaQmoaYrfXHNINLZvECds) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [2NITE](https://open.spotify.com/album/7BVBCxHTGOHRKEQoQqurO3) | 2:40 | 2022-11-18 | 2022-11-26 |
 | [3 Deseos Remix \(with Dalex & Eix, feat\. Alejo\)](https://open.spotify.com/track/7ygbhCP2yANDe8Z4xXpvKk) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [3 Deseos Remix \(with Dalex & Eix, feat\. Alejo\)](https://open.spotify.com/album/0TYwoAMqtjVpAsCFXQBgFK) | 4:49 | 2022-04-29 | 2022-05-07 |
+| [3 Estrellas en el Conjunto](https://open.spotify.com/track/0aOt8nmb5ddTNGE0t7XfvE) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [3 Estrellas en el Conjunto](https://open.spotify.com/album/3uuAk3GX0WfixFm5WkVl9J) | 4:36 | 2023-01-03 |  |
 | [3 Likes](https://open.spotify.com/track/2xZfy3hwWCigMcQ6GYOZJI) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [teoh](https://open.spotify.com/artist/61wE1ArCFvqhi7aMMsawAw) | [Frijo](https://open.spotify.com/album/2K93k2IqAnN7F0jAlOxdO0) | 4:03 | 2022-06-24 | 2022-07-02 |
 | [3 y Pico](https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [3 y Pico](https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp) | 3:10 | 2022-12-09 | 2022-12-17 |
 | [3 y Pico](https://open.spotify.com/track/3UfTvNeJgxE6WZi1tdFmPL) | [Malucci](https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO) | [3 y Pico](https://open.spotify.com/album/75KIX1VKUmvxutti73lFuR) | 3:39 | 2022-04-15 | 2022-04-23 |

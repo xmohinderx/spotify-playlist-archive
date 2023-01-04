@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "7ALA",
+        "url": "https://open.spotify.com/album/70r1uOvZK1dM37OeCqtEsn"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181311,
+      "name": "7ALA",
+      "url": "https://open.spotify.com/track/00TO3hVgOAgfKrRjrKEZxx"
+    },
+    {
+      "album": {
         "name": "7een Maysara (Molowave)",
         "url": "https://open.spotify.com/album/3Gy9HYNnuX51dSjLYHH6xN"
       },
@@ -1683,7 +1701,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -7465,7 +7483,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 219000,
       "name": "Sindbad",
       "url": "https://open.spotify.com/track/5xDaIms5HB1DTj5keH6sJc"
@@ -9483,7 +9501,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 191673,
       "name": "\u0628\u0639\u0648\u062f\u0629 \u064a\u0627 \u0628\u0644\u0627\u062f\u0649 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \" \u0643\u0628\u0627\u062a\u0646 \u0627\u0644\u0632\u0639\u062a\u0631\u064a \")",
       "url": "https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod"

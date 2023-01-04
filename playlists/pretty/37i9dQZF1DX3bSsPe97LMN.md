@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Michelle BI en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,334 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,360 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amorfoda](https://open.spotify.com/track/5elClHK2wxnC4qZqHWxC4L) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Amorfoda](https://open.spotify.com/album/6EV5tWxW11k6c107nDSA04) | 2:42 |
 | 2 | [Los Collares](https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Collares](https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf) | 2:28 |
 | 3 | [Cabron Yo Puedo](https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx) | [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [Cabron Yo Puedo](https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x) | 3:15 |
-| 4 | [365](https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e) | 3:08 |
+| 4 | [Eres Ese Algo](https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 |
 | 5 | [MIA](https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [MIA](https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw) | 3:17 |
-| 6 | [Eres Ese Algo](https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 |
+| 6 | [365](https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e) | 3:08 |
 | 7 | [Refuego por Culiacan](https://open.spotify.com/track/5KvVBN8WLI8RRy4iryZnMg) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Refuego por Culiacan](https://open.spotify.com/album/3E0kYtbOyjAPPaSK5G2pY5) | 3:30 |
 | 8 | [Ando Enfocado](https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ando Enfocado](https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq) | 3:04 |
 | 9 | [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 31 | [Fuimos Un Fracaso](https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Fuimos Un Fracaso](https://open.spotify.com/album/3cqvXVdDagVXznbwa4eY3D) | 3:18 |
 | 32 | [No Me Enseñaste](https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [No Me Enseñaste](https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE) | 3:03 |
 | 33 | [Solo En Navidad](https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Solo En Navidad](https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs) | 3:11 |
-| 34 | [Dices Que Me Quieres](https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente \(Vol 2\)](https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN) | 3:36 |
-| 35 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 |
+| 34 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 |
+| 35 | [Dices Que Me Quieres](https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente \(Vol 2\)](https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN) | 3:36 |
 | 36 | [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 |
 | 37 | [Pa Que Ordene y Manden](https://open.spotify.com/track/2kOmfljLl2uz74gGpeZKBM) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Pa Que Ordene y Mande](https://open.spotify.com/album/7aRQCuOu5zMNi2Y1AphjPY) | 3:09 |
 | 38 | [Kenwood En Los Radios \(En Vivo\)](https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C) | [Desde Culiacán Con Servando Zl \(En Vivo\)](https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg) | 3:07 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 51 | [Me Encantas](https://open.spotify.com/track/4nzy7rc0JlsoMVfYBgmybw) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Me Encantas](https://open.spotify.com/album/5nhMOcUkwPf4kajn0UQIht) | 3:20 |
 | 52 | [Soy Nayarita](https://open.spotify.com/track/0YkJpBbsTm7oY7jfqrFZ6A) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Soy Nayarita](https://open.spotify.com/album/3DTxuAjvu0P7tZlEmdA6Pv) | 3:09 |
 | 53 | [El Flaco](https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [El Flaco](https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd) | 2:27 |
-| 54 | [El Gallo Fino](https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [El Gallo Fino](https://open.spotify.com/album/3bRPnVJJsQhT6pLsOQoX6V) | 3:06 |
+| 54 | [Casa en Llamas](https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Casa en Llamas](https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU) | 3:14 |
 | 55 | [El Wizard Es Mi Apodo](https://open.spotify.com/track/6P6GsfUCmIjOv6Q2zBI36s) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Wizard Es Mi Apodo](https://open.spotify.com/album/2OGIAIOIwoHrqgD8M0vqOZ) | 3:14 |
-| 56 | [Casa en Llamas](https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Casa en Llamas](https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU) | 3:14 |
+| 56 | [El Gallo Fino](https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [El Gallo Fino](https://open.spotify.com/album/3bRPnVJJsQhT6pLsOQoX6V) | 3:06 |
 | 57 | [Somos de la Mayiza \(El Checo\)](https://open.spotify.com/track/2oQ8EAsQ7IjD1wDq9O8r68) | [Herencia Del Cartel](https://open.spotify.com/artist/5oM5epBqQmd0FZlhJcpCdH), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Somos de la Mayiza \(El Checo\)](https://open.spotify.com/album/1aGbaVQ2bC4F1egBPyqN04) | 2:23 |
 | 58 | [Los Mitotes \(En Vivo\)](https://open.spotify.com/track/4ZOPCvIXPrGu6kVTOq2kQg) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Los Mitotes \(En Vivo\)](https://open.spotify.com/album/6WS9pFo1tWDb3jnzkyoK6w) | 3:17 |
 | 59 | [Se Alborotaron Los Guachos \- En Vivo](https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Se Alborotaron Los Guachos](https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [Bloqueado](https://open.spotify.com/track/31u0xddM70KxFebPyLawpR) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Bloqueado](https://open.spotify.com/album/6CClgwR7m644jsRJoF69Xb) | 3:01 |
 | 75 | [El Compa Foo \- En Vivo](https://open.spotify.com/track/3lOST2vPOoSEetbVkcyxtN) | [Josue Diaz Y Su Operativo](https://open.spotify.com/artist/7mTDXaBAOct0G1yBUTHNOE) | [El Compa Foo \(En Vivo\)](https://open.spotify.com/album/3aiRueTFa7pebbIv0pEtfd) | 3:22 |
 
-Snapshot ID: `MTY3MTc3NTIwMCwwMDAwMDAwMDk0ZmM2ZjhhZGE0ZWQxMjUzYjQxZmJiYzBlMjJkNTMy`
+Snapshot ID: `MTY3MTc3NTIwMCwwMDAwMDAwMDU0YWUzMDAxZWUxODRmOGZkODY5MDZlOWJkNTFmY2Y1`

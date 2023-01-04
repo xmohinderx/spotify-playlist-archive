@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 609659,
+  "num_followers": 609756,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMGY5M2Y3NzU3NWE1YWUzNjc3ZGUwZGU1ZDc5MjQ5MGYx",
+  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDFjYjY5ZTZjOTY2NzliZDUyODgzMDNmYTc4NjZiNjdk",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Jesus Is Born",
-        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
-      },
-      "artists": [
-        {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
-        }
-      ],
-      "duration_ms": 327742,
-      "name": "Count Your Blessings",
-      "url": "https://open.spotify.com/track/5y8apzJP1xF42QHMjSauvN"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/5YhYF97P4OAVJCWr3Id5fz"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 282816,
       "name": "I Am (Radio Edit)",
       "url": "https://open.spotify.com/track/5gvwQLe4Z86vBVtTESworf"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Jesus Is Born",
+        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "duration_ms": 327742,
+      "name": "Count Your Blessings",
+      "url": "https://open.spotify.com/track/5y8apzJP1xF42QHMjSauvN"
     },
     {
       "added_at": "2021-06-25 06:54:59",

@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 75294,
       "name": "I'll make it better",
       "url": "https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn"
@@ -843,6 +843,28 @@
       "duration_ms": 221678,
       "name": "Level 4 Abandoned Office",
       "url": "https://open.spotify.com/track/4XdvQE2cXhbGxCtEDVamXj"
+    },
+    {
+      "album": {
+        "name": "The Shining (Selections from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI"
+      },
+      "artists": [
+        {
+          "name": "Wendy Carlos",
+          "url": "https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB"
+        },
+        {
+          "name": "Rachel Elkind",
+          "url": "https://open.spotify.com/artist/26WQwAYoinO6Cda6Gwy7yR"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204146,
+      "name": "Main Title (The Shining)",
+      "url": "https://open.spotify.com/track/4WnuHIJTLrFkAQdpryLDe7"
     },
     {
       "album": {

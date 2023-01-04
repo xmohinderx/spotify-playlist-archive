@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-599 songs - 1 day 15 hr 35 min - [published](https://open.spotify.com/playlist/0uPuwYwBrzeG3t3iOTEjtU)
+600 songs - 1 day 15 hr 39 min - [published](https://open.spotify.com/playlist/0uPuwYwBrzeG3t3iOTEjtU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [CRY](https://open.spotify.com/track/6MYk0grHaGj5c8Qargw2Dg) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [Chaos Drifters / CRY](https://open.spotify.com/album/41JUXjJKB1dcPdxReup9ld) | 4:25 | 2022-06-03 | 2022-07-28 |
 | [Cry Baby](https://open.spotify.com/track/3IDF7N86lrcWaJEt9C1gbS) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Cry Baby](https://open.spotify.com/album/5gvtuOuBl0BECmw76yifnW) | 4:00 | 2022-11-11 | 2022-11-13 |
 | [Cry Baby](https://open.spotify.com/track/7vBX6cVsCPFSx2C58hpZ4f) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Cry Baby](https://open.spotify.com/album/0OWATchDPifiDyvGEf2ddO) | 4:00 | 2022-06-03 | 2022-07-29 |
-| [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 | 2022-07-28 | 2022-12-24 |
+| [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 | 2022-07-28 |  |
 | [D\-tecnoLife](https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 3:53 | 2022-07-28 | 2022-09-16 |
 | [DADDY ! DADDY ! DO !](https://open.spotify.com/track/08tx8piZZjTkzMq4Z7tJeB) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3DlogDuzggwgbKorzYctKe) | 4:14 | 2022-06-03 | 2022-07-29 |
 | [DADDY ! DADDY ! DO !](https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:14 | 2022-07-28 |  |
@@ -505,6 +505,7 @@
 | [扉を開けたら \- 成瀬直子 ver.](https://open.spotify.com/track/5EorqErJrWgLz0lNDWvIyW) | [成瀬直子 \(CV: 若井友希\)](https://open.spotify.com/artist/0MPFS4TrT8Klf3JbpPp4BQ) | [扉を開けたら \(成瀬直子 ver.\)](https://open.spotify.com/album/7INU7XMc3bXgXUfHFGCooB) | 3:57 | 2022-06-24 | 2022-06-28 |
 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 | 2022-07-28 | 2022-10-19 |
 | [散文的LIFE](https://open.spotify.com/track/19rdufaGTylO7VvHxR6gnH) | [ニノミヤユイ](https://open.spotify.com/artist/4rOv8M7dd60wAgtFI981VE) | [Dark seeks light / 散文的LIFE](https://open.spotify.com/album/48TgFZlQdOitz7lUTJQ6Q2) | 3:51 | 2022-06-03 | 2022-07-17 |
+| [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2023-01-03 |  |
 | [新月のダ・カーポ](https://open.spotify.com/track/6ZaqrGOelYVrPCjCC03tit) | [相沢梨紗 \(でんぱ組.inc\)](https://open.spotify.com/artist/2IkoQ3ubR0PfATrbN8Y59G) | [新月のダ・カーポ](https://open.spotify.com/album/35dlpfOCfoWFPyOcOmq8ZK) | 5:00 | 2022-06-03 | 2022-07-25 |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-06-14 | 2022-09-16 |
 | [明け星](https://open.spotify.com/track/60iYkEAcSpAFcsjRrgTlrc) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:29 | 2022-06-03 | 2022-10-19 |
@@ -539,7 +540,7 @@
 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2022-06-03 |  |
 | [無心拍数 \- アオアシ ver.](https://open.spotify.com/track/5PfEiDJQNLsk0XCZ0GH1FJ) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [無心拍数 \(アオアシver.\)](https://open.spotify.com/album/59Cuih5G9jnGF2Qs5WrmvH) | 3:30 | 2022-07-28 | 2022-09-16 |
 | [無敵☆moment](https://open.spotify.com/track/2goljoDnqomoNJJ2p3riqj) | [Peaky P\-key](https://open.spotify.com/artist/2y2OpuI8DOIoELH8NEqd6D) | [無敵☆moment](https://open.spotify.com/album/19PpDv8I45mvefli1Nuwdx) | 4:53 | 2022-07-14 | 2022-07-25 |
-| [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 | 2022-07-28 |  |
+| [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 | 2022-07-28 | 2023-01-04 |
 | [燦々デイズ](https://open.spotify.com/track/4CebKGVZUJw18tnDzsjv2d) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [燦々デイズ](https://open.spotify.com/album/0NnGObV44jyw4aJwz4nfAF) | 3:52 | 2022-06-03 | 2022-08-02 |
 | [狂乱 Hey Kids!!](https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9) | 4:10 | 2022-06-14 | 2022-07-29 |
 | [独白](https://open.spotify.com/track/73S6qXMFVhXb4MchX0KmwU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [独白→躍動 <FGO盤>](https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ) | 4:42 | 2022-06-21 | 2022-06-24 |

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Central Cee
 
-562 songs - 1 day 3 hr 11 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+563 songs - 1 day 3 hr 15 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2022-07-19 | 2022-08-26 |
 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 | 2022-06-09 | 2022-07-14 |
 | [Spannung](https://open.spotify.com/track/7G4wi7IAadEj3pzQeR923K) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [Dorian](https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb) | [Spannung](https://open.spotify.com/album/6KOvdB1RpDc3wqdEr1pXmE) | 2:37 | 2022-10-27 | 2022-11-11 |
+| [Spiegelbild](https://open.spotify.com/track/0rt8k3nUqVpM4lc5KRdkOf) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Spiegelbild](https://open.spotify.com/album/70TzQMM2AWBS1amTd4h57G) | 3:14 | 2023-01-03 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-22 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-10 | 2022-12-10 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-08 | 2022-12-25 |
@@ -544,7 +545,7 @@
 | [Weeds](https://open.spotify.com/track/0V8goaHiomq5tSniH4GWQt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Weeds](https://open.spotify.com/album/6r83JgayrMdKgfGDmmvt2y) | 3:22 | 2022-07-25 | 2022-07-29 |
 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 | 2022-07-28 | 2022-08-02 |
 | [Wegen dir](https://open.spotify.com/track/4rOnBJJtINrWBM9dsTpUOA) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Wegen dir](https://open.spotify.com/album/5oVwMSiD5Bldu9Mv0YAgha) | 2:07 | 2022-11-24 | 2022-12-24 |
-| [Weihnachtslied 2022](https://open.spotify.com/track/6DBkV77Ti1Vrq2oemw79ZJ) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2022](https://open.spotify.com/album/4GiyJLCszEkMQgZ68HnjD1) | 2:37 | 2022-11-28 |  |
+| [Weihnachtslied 2022](https://open.spotify.com/track/6DBkV77Ti1Vrq2oemw79ZJ) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2022](https://open.spotify.com/album/4GiyJLCszEkMQgZ68HnjD1) | 2:37 | 2022-11-28 | 2023-01-04 |
 | [Weil ich muss](https://open.spotify.com/track/1UH7AgTjLwgwPlhWTHaNBs) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Weil ich muss](https://open.spotify.com/album/4TFhExkzyu2d6TsRGSRiZW) | 3:24 | 2022-11-17 | 2022-11-25 |
 | [Weit entfernt](https://open.spotify.com/track/6JEYiorcGKJDN9OnktowB2) | [Cloud](https://open.spotify.com/artist/1IdMDk8ZqsDw6V5g6HCLbT) | [Weit entfernt](https://open.spotify.com/album/5Ey4EEkoT5OYCPokhxtaME) | 1:55 | 2022-06-30 | 2022-08-19 |
 | [WENN DU MICH VERMISST](https://open.spotify.com/track/7EtfwHVS8FcciOBU1VnT8G) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [WENN DU MICH VERMISST](https://open.spotify.com/album/6d4QrOkN7QZd4Aay3koF7a) | 2:32 | 2022-06-09 | 2022-06-14 |

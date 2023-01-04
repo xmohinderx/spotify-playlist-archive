@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: MD Chefe, DomLaike, Rare G, 4Genesis, Cax Camp
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,937 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,191 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 32 | [Outro Patamar](https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Outro Patamar](https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj) | 3:44 |
 | 33 | [Bahia](https://open.spotify.com/track/5owa9sHRDBAS2cLuV206xy) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Bahia](https://open.spotify.com/album/5Rt4zzyB0s5OK99uAt4mRU) | 2:42 |
 | 34 | [Vim de Lá](https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Vim de Lá](https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb) | 2:48 |
-| 35 | [Hugo Boss](https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Hugo Boss](https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho) | 3:34 |
-| 36 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
+| 35 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
+| 36 | [Hugo Boss](https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Hugo Boss](https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho) | 3:34 |
 | 37 | [Progresso](https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Progresso](https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN) | 2:41 |
 | 38 | [Abusadão](https://open.spotify.com/track/63jalJVpyyGPYvDuTEaFi9) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Abusadão](https://open.spotify.com/album/0vlgBzPeKCjpXXVEN2D6a6) | 2:56 |
 | 39 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 | 50 | [Da Cor do Pecado](https://open.spotify.com/track/5j3E6bblO7ImykVbDa2FfU) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0), [NaldimNaVoz](https://open.spotify.com/artist/3GTZrcrvwcZUVFxDUt3KU0) | [Da Cor do Pecado](https://open.spotify.com/album/5hD4TEdWvWfOFPgPVIf6CT) | 2:36 |
 
-Snapshot ID: `MTY3MjM2OTI2MCwwMDAwMDAwMGMzMWQ2YTFjYmFiZjViNzAxNGJkOGUyOWE5YjFmNWQ2`
+Snapshot ID: `MTY3MjM2OTI2MCwwMDAwMDAwMGNlNTE5YzU1NzRkNzBhODY5NWFmNDg4YjkyMDZkMmY0`

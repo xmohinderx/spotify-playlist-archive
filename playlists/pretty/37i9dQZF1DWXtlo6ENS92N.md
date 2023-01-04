@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 > The finest quality of Bollywood music handpicked for you\. Cover\- Alia and Ranbir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,778 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,630 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 23 | [Illegal Weapon 2.0](https://open.spotify.com/track/7CY0CmCpSglfUKCBOOiRfw) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Street Dancer 3D](https://open.spotify.com/album/50FHINh9xisewZgfucGbVL) | 3:08 |
 | 24 | [Makhna](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Makhna \(From "Drive"\)](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 3:03 |
 | 25 | [Agar Tum Saath Ho](https://open.spotify.com/track/3hkC9EHFZNQPXrtl8WPHnX) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tamasha](https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA) | 5:41 |
-| 26 | [Ve Maahi](https://open.spotify.com/track/4t1DkxexoMbIHfSHS4Uiyr) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kesari](https://open.spotify.com/album/2koMSm4dddvhxLzZyN2aEE) | 3:43 |
+| 26 | [Ve Maahi](https://open.spotify.com/track/4t1DkxexoMbIHfSHS4Uiyr) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kesari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2koMSm4dddvhxLzZyN2aEE) | 3:43 |
 | 27 | [Shayad](https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr) | 4:07 |
 | 28 | [Fitoor](https://open.spotify.com/track/7eNSk0grNnO7MqjLZzs6MM) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Karan Malhotra](https://open.spotify.com/artist/77tAOnDaIyO7H70yxk3bMF) | [Shamshera](https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx) | 5:08 |
 | 29 | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/7Lcp4QlpR3RDngYejm4fmS) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/5R62UdMrx8tGmDVJragQtq) | 3:28 |

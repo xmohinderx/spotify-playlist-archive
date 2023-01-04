@@ -4,7 +4,7 @@
 
 > Focus with deep techno and tech house.
 
-331 songs - 1 day 12 hr 53 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
+332 songs - 1 day 13 hr 2 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Aufstand der Massen](https://open.spotify.com/track/2cOT1mJRmjpd353tKCwHnl) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Roar Remix / Aufstand der Massen](https://open.spotify.com/album/3kM5i2DAMq7DKo4xAO20eN) | 7:15 | 2019-05-26\* | 2020-05-13 |
 | [Azamutha](https://open.spotify.com/track/5sKH7kVaLM58UjdGXMZjco) | [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Azamutha](https://open.spotify.com/album/1EbVJzHrV2U39bpTglI7Xr) | 8:35 | 2021-12-17 | 2022-07-29 |
 | [Balear](https://open.spotify.com/track/3GcrqpoKGLh5c266BOYSkk) | [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088), [Los Suruba](https://open.spotify.com/artist/5ChHWvFPh4raexx461QFhS) | [Balear](https://open.spotify.com/album/1ty960bxAcPknsZqT7FBx2) | 7:40 | 2019-09-01 | 2021-01-15 |
-| [Barturator](https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3) | [Andre Lanine](https://open.spotify.com/artist/4m7JYimIummqKokshaDvFh) | [Barturator](https://open.spotify.com/album/6lhMnxfO8Hs0pJJRPSnY7e) | 6:34 | 2022-04-04 |  |
+| [Barturator](https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3) | [Andre Lanine](https://open.spotify.com/artist/4m7JYimIummqKokshaDvFh) | [Barturator](https://open.spotify.com/album/6lhMnxfO8Hs0pJJRPSnY7e) | 6:34 | 2022-04-04 | 2023-01-04 |
 | [Belize](https://open.spotify.com/track/0WCa7ZEnWVRFSCIHcVXNa1) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Beyond The Valley](https://open.spotify.com/album/6UrUdX9I9zEDx5FphbzlTd) | 7:49 | 2019-06-24 | 2019-11-09 |
 | [Beyond](https://open.spotify.com/track/7mBP9fo0krV2spidfoWI8V) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Speicher 114](https://open.spotify.com/album/4A4ZhRVnKN29mfXWMxMrdE) | 9:08 | 2020-02-29 | 2022-06-07 |
 | [Beyond the Time](https://open.spotify.com/track/7a7ta44fxccCcEvg5NImIi) | [Antonio D'Africa](https://open.spotify.com/artist/03J1IG0hYPv7B2vAERhcFc), [Sall](https://open.spotify.com/artist/020KXX3WjBgzoA9VXmVnTb) | [Beyond the Time](https://open.spotify.com/album/1bgmmpl10Gn8TeMt9U3gW8) | 7:10 | 2019-05-26\* | 2020-06-10 |
@@ -52,6 +52,7 @@
 | [Boavista \- Innellea Remix](https://open.spotify.com/track/2H66zNHEqwFckqVfxeFxIa) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Boavista](https://open.spotify.com/album/2v2BidodVf5z07M6Pofhx3) | 6:48 | 2022-04-04 |  |
 | [Borealis](https://open.spotify.com/track/6W8T0RkhPgCNZXHvKDYB1V) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Borealis](https://open.spotify.com/album/4uC2fFEwq3cb0JdC0EgPwW) | 2:32 | 2021-07-04 |  |
 | [Breaking The Clouds](https://open.spotify.com/track/5dLkoocLN0wZPeV9NDMwlC) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [Breaking The Clouds](https://open.spotify.com/album/1nlhSNR420AabaXSCI2j5R) | 8:41 | 2020-04-26 | 2022-11-18 |
+| [Breaking the Clouds](https://open.spotify.com/track/7ixzPzW6eNFwY3NK4b3tFV) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [Breaking the Clouds](https://open.spotify.com/album/0mmx0qlErLtzpePjmV8hgD) | 8:41 | 2022-09-30 |  |
 | [Broken](https://open.spotify.com/track/3vZ1Ezeg7M9HtmggoDujMD) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Broken Ep](https://open.spotify.com/album/2ouzgPQYohSjyHsLkaVBaj) | 6:17 | 2021-12-17 | 2022-07-28 |
 | [Bulgaria](https://open.spotify.com/track/4ImAumIt8m1cVSTixIf4sA) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Bulgaria](https://open.spotify.com/album/2xvZ1ID0mtazV02pfoDSqh) | 8:37 | 2019-05-27 | 2022-04-21 |
 | [Cafe Del Mar \(Tale Of Us Renaissance Remix\)](https://open.spotify.com/track/0FO09rQ0ACkUlLRT7jWFQF) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7) | [Cafe Del Mar \(Tale Of Us Renaissance Remix\)](https://open.spotify.com/album/5q9d2CUDRIF8jJBxzQWipC) | 8:35 | 2019-05-29 | 2019-12-23 |

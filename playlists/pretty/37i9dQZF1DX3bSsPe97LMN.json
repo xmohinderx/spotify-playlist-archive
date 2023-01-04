@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Michelle BI en portada.",
-  "num_followers": 47334,
+  "num_followers": 47360,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMDk0ZmM2ZjhhZGE0ZWQxMjUzYjQxZmJiYzBlMjJkNTMy",
+  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMDU0YWUzMDAxZWUxODRmOGZkODY5MDZlOWJkNTFmY2Y1",
   "tracks": [
     {
       "added_at": "2022-12-23 06:00:00",
@@ -61,20 +61,20 @@
       "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
     },
     {
-      "added_at": "2022-10-07 15:36:37",
+      "added_at": "2022-12-23 06:00:00",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e"
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
       },
       "artists": [
         {
-          "name": "Los Reales Del Rio",
-          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         }
       ],
-      "duration_ms": 188471,
-      "name": "365",
-      "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -93,20 +93,20 @@
       "url": "https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
+      "added_at": "2022-10-07 15:36:37",
       "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+        "name": "365",
+        "url": "https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e"
       },
       "artists": [
         {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
         }
       ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+      "duration_ms": 188471,
+      "name": "365",
+      "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Con Un Porte Diferente (Vol 2)",
-        "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 216851,
-      "name": "Dices Que Me Quieres",
-      "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
-    },
-    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "INERCIA",
@@ -611,6 +595,22 @@
       "duration_ms": 203866,
       "name": "Se Rumora",
       "url": "https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Con Un Porte Diferente (Vol 2)",
+        "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 216851,
+      "name": "Dices Que Me Quieres",
+      "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
     },
     {
       "added_at": "2022-11-18 06:00:00",
@@ -921,20 +921,20 @@
       "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
+      "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "El Gallo Fino",
-        "url": "https://open.spotify.com/album/3bRPnVJJsQhT6pLsOQoX6V"
+        "name": "Casa en Llamas",
+        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
       },
       "artists": [
         {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
         }
       ],
-      "duration_ms": 186069,
-      "name": "El Gallo Fino",
-      "url": "https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w"
+      "duration_ms": 194403,
+      "name": "Casa en Llamas",
+      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -953,20 +953,20 @@
       "url": "https://open.spotify.com/track/6P6GsfUCmIjOv6Q2zBI36s"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
+      "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Casa en Llamas",
-        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
+        "name": "El Gallo Fino",
+        "url": "https://open.spotify.com/album/3bRPnVJJsQhT6pLsOQoX6V"
       },
       "artists": [
         {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
         }
       ],
-      "duration_ms": 194403,
-      "name": "Casa en Llamas",
-      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
+      "duration_ms": 186069,
+      "name": "El Gallo Fino",
+      "url": "https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w"
     },
     {
       "added_at": "2022-12-05 23:10:14",

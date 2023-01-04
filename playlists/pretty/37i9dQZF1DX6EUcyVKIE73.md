@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,718 likes - 58 songs - 17 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,756 likes - 58 songs - 17 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 38 | [Romantic Dhun](https://open.spotify.com/track/6HFwTGXheOsphUyrzlfJ8S) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl), [Sukhvinder Singh Namdhari](https://open.spotify.com/artist/64kV6d1FsEgESOui5dms5h) | [Saradamani](https://open.spotify.com/album/52oDl4LALSJlv1jsrqexII) | 10:43 |
 | 39 | [Raga Mishra Mel Ki Malhar](https://open.spotify.com/track/6ZCh9SU89sivV8AAcnu07R) | [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ) | [Bharat Ratna](https://open.spotify.com/album/3krH4l3Zt87BKLdx9NYKge) | 15:00 |
 | 40 | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R) | 7:31 |
-| 41 | [Dhun Pahari](https://open.spotify.com/track/6MrK3tQ2yLbRtQYfPQ22uS) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Ragas Vol\. 5](https://open.spotify.com/album/7w63VXXvPjQ0KGPRWoAODc) | 17:50 |
+| 41 | [Dhun Pahari \(Live\)](https://open.spotify.com/track/5TR882TjcZakJe7Hegd1Hy) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Live in India – Performances by Indian Classical Legends](https://open.spotify.com/album/5DogXVWPwLHJPE07M61ZeB) | 17:50 |
 | 42 | [Raga Megh \- Tala Jhaptala and Teentala](https://open.spotify.com/track/1Q0uVQIGVRmsqlTJqC7qVJ) | [Ghulam Mustafa Khan](https://open.spotify.com/artist/1V7f6RsGUdBFGODotFuirg), [Sultan Niyaz](https://open.spotify.com/artist/0h4dsnJqrhwxiHbhMU0wLx) | [Celebrating the Legend \- Ghulam Mustafa Khan](https://open.spotify.com/album/691DZT9asfZ8GFcdBBY3uK) | 21:27 |
 | 43 | [Raga Shuddh Kalyan](https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT) | [Kaushiki Chakrabarty, Yogesh Samsi, Brajeshwar Mukherjee, Yogesh Dutt](https://open.spotify.com/artist/0MmJO9ML6eMRRUUWsJf5oQ) | [Swar Sadhna](https://open.spotify.com/album/303Pkb83Anu8cMovTksOen) | 35:12 |
 | 44 | [Rag Ramkali](https://open.spotify.com/track/6ReCvtUGG9S1mVohS9kVXk) | [Budhaditya Mukherjee](https://open.spotify.com/artist/5M9yKSeW6TbTmuNZ1bz80y), [Anindo Chatterjee](https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Rag Ramkali & Rag Jhinjoti](https://open.spotify.com/album/13jFkhhVmkQuvGYoXdxW1i) | 30:23 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 57 | [Dev Dev Sat Sang \- Khayal Vilambit \- Jhap Taal / Maanat Nahin \- Raag Sawani \- Khayal Drut \- Teentaal](https://open.spotify.com/track/3SpPbiI3GoyIDBYxvnByPz) | [Suresh Talwalkar](https://open.spotify.com/artist/61TBwoNacct3xrgHpQrP1r), [Anant Kunte](https://open.spotify.com/artist/2hCXIITSyyqPwgkaVNHN7D), [Pt\. Babanrao Manjrekar](https://open.spotify.com/artist/4zLwSdQIRKPFLWZ4H65agg), [Padma Talwalkar](https://open.spotify.com/artist/064zRRPqgyHoIO6KKSKC4e) | [Padma Talwalkar](https://open.spotify.com/album/1kVSQdnFN0LhpguKaUGJ6T) | 27:13 |
 | 58 | [Raga Shree](https://open.spotify.com/track/7hrScFzMLbCqqMjRVhVGui) | [Kumar Gandharva](https://open.spotify.com/artist/4nZmnoNMkDwdutbWCJhL22) | [Sangeet Sataj Vol\. 1 & 2](https://open.spotify.com/album/3w15CmWb0Wj4HneKR4YAFP) | 31:48 |
 
-Snapshot ID: `MTY3MDQ4MzQ3NCwwMDAwMDAwMGI4MTFhYWU1M2YwNTcyMWU5Y2ExZTFlNzc1NjI5ZmVi`
+Snapshot ID: `MTY3MDQ4MzQ3NCwwMDAwMDAwMDAxZjE2ZGJiY2M4MWI1MjI2ODkwZmZmNDM1MGE0ZTlk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The final This is Frequency of 2022\. Cover: Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,232 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,326 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 11 | [Black Kings \(feat\. Babyface Ray\)](https://open.spotify.com/track/7BDXoP9xT99ZCapXbLcshO) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Sauce Ghetto Gospel 3](https://open.spotify.com/album/1aikrYpfT4vU9VKpGXspQV) | 2:58 |
 | 12 | [Uncle Elroy](https://open.spotify.com/track/3zdVqrm2m3lo73s5BOSNvd) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [LeakOut](https://open.spotify.com/album/78ZIwVQBzYdrUN9dpvr3cn) | 3:12 |
 | 13 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 |
-| 14 | [IT''S OVA](https://open.spotify.com/track/1uAvFUP7Hb2FSnYvQp7t2v) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [IT''S OVA](https://open.spotify.com/album/28czJjV94yMENQyNIWSDS3) | 3:24 |
+| 14 | [IT''S OVA](https://open.spotify.com/track/1uAvFUP7Hb2FSnYvQp7t2v) | [WildChild](https://open.spotify.com/artist/4UnIHoaqlFMIpXlqmQ5DmY) | [IT''S OVA](https://open.spotify.com/album/28czJjV94yMENQyNIWSDS3) | 3:24 |
 | 15 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 |
 | 16 | [Solo](https://open.spotify.com/track/6kEM5db5pw2M3FxT6DLbJ9) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Road Trip To Venus](https://open.spotify.com/album/7uTzR5iK2Z99343yEgvrBn) | 3:26 |
 | 17 | [Kilowade](https://open.spotify.com/track/5vq552tT4rTr69emMUfDUt) | [Suono Sai](https://open.spotify.com/artist/14sJMBcF035eGzDwdxEcSX), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Kilowade](https://open.spotify.com/album/6bJkqgxZg76IiicFC2fqjh) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 菅原圭
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,532 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,615 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 4 | [ちょうどいい](https://open.spotify.com/track/2RQtBIL9AwbRPg3fRsD2Gh) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [ちょうどいい](https://open.spotify.com/album/2qeEeymaJkft95IGi3p0ii) | 4:01 |
 | 5 | [ンーィテンブセ](https://open.spotify.com/track/3Cx68Lw80aJnejfOYEKSH5) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ンーィテンブセ](https://open.spotify.com/album/219nvPX8lPlSOWG1CTbj0M) | 2:47 |
 | 6 | [ソワレ](https://open.spotify.com/track/7dbAKZNlWhIdmmINkHeKL7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ソワレ](https://open.spotify.com/album/7mLp1yLUJdrWyHWmvCTUCz) | 3:48 |
-| 7 | [Eien No Shonen](https://open.spotify.com/track/7kqwsjBG0cdUsCjIzo28jP) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Eien No Shonen](https://open.spotify.com/album/6xUc4STKf3dg4GY4h14vYu) | 4:03 |
+| 7 | [Eien No Shonen](https://open.spotify.com/track/5uvPrkePnmZytwqYMnbLWo) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 4:08 |
 | 8 | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 |
 | 9 | [Dancing Queen](https://open.spotify.com/track/0syCxOpzJnePlpFVPJDuhW) | [Sarah L\-ee](https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX) | [Sapphire](https://open.spotify.com/album/67mtnteyEJ4wxiPhEYkPAB) | 3:41 |
 | 10 | [トロイメライ](https://open.spotify.com/track/3ilHK59gf2Rmw1QHr6bdnI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Dear DECADE,](https://open.spotify.com/album/2Q7v2wgfYIuZ2JoPa3Puhr) | 3:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Fish as like me is…](https://open.spotify.com/track/4psCqj4hKxuY12kZwmZBGC) | [湯木慧](https://open.spotify.com/artist/6CLuhpHEjf2V9eTf0yAYUr) | [Fish as like me is…](https://open.spotify.com/album/51s7qOmng4KEPZCjkRgNXn) | 4:46 |
 | 80 | [外は白い雪の夜 \- Live](https://open.spotify.com/track/71JYiSIwQg3mciZq9dV76b) | [Takuro Yoshida](https://open.spotify.com/artist/7uv8wNS8ConwlmWKpP8Lz7) | [COMPLETE TAKURO TOUR 1979 完全復刻盤 \(Live\)](https://open.spotify.com/album/6cpKc4yYLEMrHDMAYg7hXJ) | 7:01 |
 
-Snapshot ID: `MTY3MjEwNjA0NywwMDAwMDAwMGUwNTgwMmM5YmE2NWRlY2FhMzBhMTllYWMzZDZiNmZl`
+Snapshot ID: `MTY3MjEwNjA0NywwMDAwMDAwMDY0MzA1OWQ1YjVmYmNlY2I0NmI4YjE4YmVmZTkzNWM5`

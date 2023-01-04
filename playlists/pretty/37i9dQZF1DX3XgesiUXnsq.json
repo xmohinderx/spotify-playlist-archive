@@ -1,12 +1,12 @@
 {
   "description": "Damn son, where'd ya find this? Cover: The Alchemist ",
-  "num_followers": 193386,
+  "num_followers": 193865,
   "original_name": "Raw & Uncut",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI4ODI2NSwwMDAwMDAwMGRjNmQzNDY4ZjE4YWE2MjM5OGY5ZTAwMzlhZWQwYTE1",
+  "snapshot_id": "MTY3Mjc1OTMxNywwMDAwMDAwMGZmYjEyZGQ3ZWZkOGUxODQwOWFiMmEzODE4ODVmZDA5",
   "tracks": [
     {
       "added_at": "2022-12-29 04:31:05",
@@ -95,54 +95,6 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
-        "name": "SNOOP CUBE 40 $HORT",
-        "url": "https://open.spotify.com/album/5G9QOLi5KSYTuZoMpJMa2e"
-      },
-      "artists": [
-        {
-          "name": "MOUNT WESTMORE",
-          "url": "https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 303385,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/1H3iFlT3jKjcD92ut8LnHT"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
-        "name": "Section.80",
-        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 215509,
-      "name": "A.D.H.D",
-      "url": "https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
@@ -175,6 +127,70 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
+        "name": "SNOOP CUBE 40 $HORT",
+        "url": "https://open.spotify.com/album/5G9QOLi5KSYTuZoMpJMa2e"
+      },
+      "artists": [
+        {
+          "name": "MOUNT WESTMORE",
+          "url": "https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 303385,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/1H3iFlT3jKjcD92ut8LnHT"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
+        "name": "The Melodic Blue (Deluxe)",
+        "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 91782,
+      "name": "highway 95",
+      "url": "https://open.spotify.com/track/2E4INiVkDRBXXkFL4kB1Vk"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 215509,
+      "name": "A.D.H.D",
+      "url": "https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
       },
@@ -191,6 +207,22 @@
       "duration_ms": 274440,
       "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
       "url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
+        "name": "I Love Life, Thank You",
+        "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 163033,
+      "name": "The Scoop On Heaven",
+      "url": "https://open.spotify.com/track/213LtzTmFAm3LsyVnNyLGQ"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -215,34 +247,18 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
-        "name": "I Love Life, Thank You",
-        "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
+        "name": "Never Freestyle",
+        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
         }
       ],
-      "duration_ms": 163033,
-      "name": "The Scoop On Heaven",
-      "url": "https://open.spotify.com/track/213LtzTmFAm3LsyVnNyLGQ"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 167724,
-      "name": "Michael & Quincy",
-      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+      "duration_ms": 266996,
+      "name": "Never Freestyle",
+      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -259,6 +275,22 @@
       "duration_ms": 161400,
       "name": "Shimmy Shimmy Ya",
       "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -299,18 +331,18 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
-        "name": "Tiny Desk Concerts (Live Version)",
-        "url": "https://open.spotify.com/album/6rcpkkt2U1gpXZVJYirOpF"
+        "name": "Nikes on My Feet",
+        "url": "https://open.spotify.com/album/251tFbDekSN0fthVyqG7sL"
       },
       "artists": [
         {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 323906,
-      "name": "Born To Roll / Jeep Ass Niguh - Live",
-      "url": "https://open.spotify.com/track/3j1BJxjb6WBDMc9RYYEyJy"
+      "duration_ms": 164411,
+      "name": "Nikes on My Feet",
+      "url": "https://open.spotify.com/track/4Hq1q82uvzNxUYmgBOxPco"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -347,18 +379,50 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
-        "name": "Never Freestyle",
-        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
       },
       "artists": [
         {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
         }
       ],
-      "duration_ms": 266996,
-      "name": "Never Freestyle",
-      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
+      "duration_ms": 226133,
+      "name": "Electric Relaxation",
+      "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
+        "name": "Tiny Desk Concerts (Live Version)",
+        "url": "https://open.spotify.com/album/6rcpkkt2U1gpXZVJYirOpF"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "duration_ms": 323906,
+      "name": "Born To Roll / Jeep Ass Niguh - Live",
+      "url": "https://open.spotify.com/track/3j1BJxjb6WBDMc9RYYEyJy"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
+      },
+      "artists": [
+        {
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "I Wish - Radio Edit",
+      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -415,22 +479,6 @@
       "duration_ms": 209864,
       "name": "Shootouts In Soho (feat. A$AP Rocky & Stove God Cooks)",
       "url": "https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
-        "name": "The Melodic Blue (Deluxe)",
-        "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 91782,
-      "name": "highway 95",
-      "url": "https://open.spotify.com/track/2E4INiVkDRBXXkFL4kB1Vk"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -499,66 +547,18 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
-        "name": "Nikes on My Feet",
-        "url": "https://open.spotify.com/album/251tFbDekSN0fthVyqG7sL"
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 164411,
-      "name": "Nikes on My Feet",
-      "url": "https://open.spotify.com/track/4Hq1q82uvzNxUYmgBOxPco"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
-      },
-      "artists": [
-        {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "I Wish - Radio Edit",
-      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "Electric Relaxation",
-      "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
-        "name": "What Once Was Will Never Be",
-        "url": "https://open.spotify.com/album/0wM8y1WFSTHI3yYCXpJfl0"
-      },
-      "artists": [
-        {
-          "name": "DL Incognito",
-          "url": "https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI"
-        }
-      ],
-      "duration_ms": 202488,
-      "name": "Cassette",
-      "url": "https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld"
+      "duration_ms": 319320,
+      "name": "Everyday Struggle - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3bOvAqhaZNSWpGVIvHEx8B"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 319320,
-      "name": "Everyday Struggle - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3bOvAqhaZNSWpGVIvHEx8B"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
         "name": "WR-4R (Will Rap 4 Rent)",
         "url": "https://open.spotify.com/album/6i6vtOOyGNZylwbyIdOTtb"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 189470,
       "name": "WR-4R (Will Rap 4 Rent)",
       "url": "https://open.spotify.com/track/0wOityxxfmk1QTDJgbD4mX"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
+        "name": "What Once Was Will Never Be",
+        "url": "https://open.spotify.com/album/0wM8y1WFSTHI3yYCXpJfl0"
+      },
+      "artists": [
+        {
+          "name": "DL Incognito",
+          "url": "https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI"
+        }
+      ],
+      "duration_ms": 202488,
+      "name": "Cassette",
+      "url": "https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
-        "name": "RISEXFALL",
-        "url": "https://open.spotify.com/album/67SZ2lE6WboUYhx682xI5w"
-      },
-      "artists": [
-        {
-          "name": "RUNXGUN",
-          "url": "https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI"
-        },
-        {
-          "name": "Kid Kold",
-          "url": "https://open.spotify.com/artist/6igqpK05GtVQi9w4MSTWnt"
-        }
-      ],
-      "duration_ms": 175326,
-      "name": "RISEXFALL",
-      "url": "https://open.spotify.com/track/6BJExJ768O2fJOimiRidl6"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
         "name": "Bokleen World",
         "url": "https://open.spotify.com/album/2NMBP88dc00HG0xHl748ah"
       },
@@ -1107,46 +1087,6 @@
       "duration_ms": 174285,
       "name": "Run My Shit Remix",
       "url": "https://open.spotify.com/track/0Eg2hkbMCRb5DGK0FNeL1q"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
-        "name": "SummerTime",
-        "url": "https://open.spotify.com/album/3U4DWNFTAN0fsZD1wYiTr4"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "SummerTime",
-      "url": "https://open.spotify.com/track/3cOOvxceUJO9Z1mfCSBwv9"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
-        "name": "Triple Crown",
-        "url": "https://open.spotify.com/album/5CYauBH9oczcr5Lxu2Nebz"
-      },
-      "artists": [
-        {
-          "name": "Tona",
-          "url": "https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN"
-        },
-        {
-          "name": "Drezus",
-          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
-        },
-        {
-          "name": "Shad",
-          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
-        }
-      ],
-      "duration_ms": 237007,
-      "name": "Triple Crown",
-      "url": "https://open.spotify.com/track/1etnduu3HfkW8mXe3aPdA3"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -1475,6 +1415,30 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
+        "name": "Triple Crown",
+        "url": "https://open.spotify.com/album/5CYauBH9oczcr5Lxu2Nebz"
+      },
+      "artists": [
+        {
+          "name": "Tona",
+          "url": "https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN"
+        },
+        {
+          "name": "Drezus",
+          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+        },
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        }
+      ],
+      "duration_ms": 237007,
+      "name": "Triple Crown",
+      "url": "https://open.spotify.com/track/1etnduu3HfkW8mXe3aPdA3"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
         "name": "Minimum Wage",
         "url": "https://open.spotify.com/album/3bcCsYv2H9REKisIx3nJhR"
       },
@@ -1543,38 +1507,42 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
-        "name": "SSII.",
-        "url": "https://open.spotify.com/album/24odUgXWSYdsGrC2ogiBm1"
+        "name": "RISEXFALL",
+        "url": "https://open.spotify.com/album/67SZ2lE6WboUYhx682xI5w"
       },
       "artists": [
         {
-          "name": "Thelonious",
-          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+          "name": "RUNXGUN",
+          "url": "https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI"
+        },
+        {
+          "name": "Kid Kold",
+          "url": "https://open.spotify.com/artist/6igqpK05GtVQi9w4MSTWnt"
         }
       ],
-      "duration_ms": 276062,
-      "name": "SSII.",
-      "url": "https://open.spotify.com/track/5Y4pk9pNGNrOWsgEp5AUV5"
+      "duration_ms": 175326,
+      "name": "RISEXFALL",
+      "url": "https://open.spotify.com/track/6BJExJ768O2fJOimiRidl6"
     },
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+        "name": "The Grind Date",
+        "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
       },
       "artists": [
         {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         },
         {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
         }
       ],
-      "duration_ms": 203419,
-      "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
-      "url": "https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn"
+      "duration_ms": 185266,
+      "name": "Rock Co.Kane Flow (feat. MF Doom)",
+      "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -1619,6 +1587,22 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
+        "name": "SSII.",
+        "url": "https://open.spotify.com/album/24odUgXWSYdsGrC2ogiBm1"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        }
+      ],
+      "duration_ms": 276062,
+      "name": "SSII.",
+      "url": "https://open.spotify.com/track/5Y4pk9pNGNrOWsgEp5AUV5"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
         "name": "Song 32",
         "url": "https://open.spotify.com/album/2ZZWU7AAqHV9tXzNjPZrYJ"
       },
@@ -1631,30 +1615,6 @@
       "duration_ms": 162496,
       "name": "Song 32",
       "url": "https://open.spotify.com/track/7Duz1lXRfECWROhjHQ5dWk"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
-        "name": "Mac & Cheese 3",
-        "url": "https://open.spotify.com/album/505pFOzDUrDR6ToQlPiXC2"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Triple Double",
-      "url": "https://open.spotify.com/track/3HSWza0Gz15Ungnd4m4lMo"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -1715,42 +1675,6 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 290426,
-      "name": "The Way I Am",
-      "url": "https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
-        "name": "The Grind Date",
-        "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Rock Co.Kane Flow (feat. MF Doom)",
-      "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
         "name": "Eazy",
         "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
       },
@@ -1767,6 +1691,30 @@
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
+        "name": "Mac & Cheese 3",
+        "url": "https://open.spotify.com/album/505pFOzDUrDR6ToQlPiXC2"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "Triple Double",
+      "url": "https://open.spotify.com/track/3HSWza0Gz15Ungnd4m4lMo"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -1791,38 +1739,22 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
-        "name": "When The Moving Stops",
-        "url": "https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8"
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
       "artists": [
         {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 208670,
-      "name": "When The Moving Stops",
-      "url": "https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
-        "name": "From a Birds Eye View",
-        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 146926,
-      "name": "Sinister (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/68B0wu3z0t7N8p9lpko4Ak"
+      "duration_ms": 203419,
+      "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
+      "url": "https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -1859,6 +1791,26 @@
       "duration_ms": 208608,
       "name": "Sriracha",
       "url": "https://open.spotify.com/track/1ytLhTM7p87C4eWPRWqAC9"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2022-12-29 04:31:05",
@@ -1911,6 +1863,22 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 290426,
+      "name": "The Way I Am",
+      "url": "https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
         "name": "Uptown Saturday Night",
         "url": "https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E"
       },
@@ -1947,6 +1915,42 @@
     {
       "added_at": "2022-12-29 04:31:05",
       "album": {
+        "name": "When The Moving Stops",
+        "url": "https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 208670,
+      "name": "When The Moving Stops",
+      "url": "https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
+        "name": "From a Birds Eye View",
+        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 146926,
+      "name": "Sinister (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/68B0wu3z0t7N8p9lpko4Ak"
+    },
+    {
+      "added_at": "2022-12-29 04:31:05",
+      "album": {
         "name": "Pilot Talk: Trilogy",
         "url": "https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V"
       },
@@ -1959,26 +1963,6 @@
       "duration_ms": 171266,
       "name": "Airborne Aquaruim",
       "url": "https://open.spotify.com/track/71vuS1nprefkBeCK344TEL"
-    },
-    {
-      "added_at": "2022-12-29 04:31:05",
-      "album": {
-        "name": "family ties (with Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 252069,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     }
   ],
   "unique_name": "Raw & Uncut",

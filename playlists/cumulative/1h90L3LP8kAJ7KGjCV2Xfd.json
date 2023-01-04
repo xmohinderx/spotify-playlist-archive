@@ -1894,6 +1894,28 @@
     },
     {
       "album": {
+        "name": "Liquid Fire",
+        "url": "https://open.spotify.com/album/5YzyUIDceQcWvCE6e9MVHS"
+      },
+      "artists": [
+        {
+          "name": "Ulf Nilsson",
+          "url": "https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV"
+        },
+        {
+          "name": "KID BILLIE VI",
+          "url": "https://open.spotify.com/artist/77KGwSCanZ80BnFyskZZZo"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143478,
+      "name": "Liquid Fire",
+      "url": "https://open.spotify.com/track/5v912Y5tyG5RANMlspXKsP"
+    },
+    {
+      "album": {
         "name": "Little Bit of Love",
         "url": "https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2"
       },

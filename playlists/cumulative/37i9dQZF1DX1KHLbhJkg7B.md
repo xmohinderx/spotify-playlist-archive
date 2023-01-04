@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-279 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+280 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Life is a Highway](https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:36 | 2022-01-07 |  |
 | [Lips Of An Angel](https://open.spotify.com/track/2tcHsNBkF0GYQKyFI2y3gE) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N) | [This Is It \(Standard Version\)](https://open.spotify.com/album/2En352QiA5q3MK0Ulso3Pq) | 3:47 | 2021-12-10 | 2022-07-28 |
 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 | 2022-08-19 |  |
-| [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:36 | 2021-12-10 |  |
+| [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:36 | 2021-12-10 | 2023-01-04 |
 | [Lord, I Hope This Day Is Good](https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Lord, I Hope This Day Is Good](https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK) | 2:49 | 2021-12-10 | 2022-11-17 |
 | [Loud and Heavy](https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0) | [Loud and Heavy](https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U) | 3:21 | 2022-07-08 |  |
 | [Louisiana Woman, Mississippi Man \(with Martina McBride\)](https://open.spotify.com/track/1us6oZFgV57a0aPSZt69ZL) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Essential Martina McBride](https://open.spotify.com/album/0HiQVsQdNpLarQJN3RgOhU) | 3:00 | 2021-12-10 | 2022-07-29 |
@@ -267,6 +267,7 @@
 | [Walking In Memphis](https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Simply The Hits](https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv) | 4:17 | 2021-12-10 |  |
 | [Wasting All These Tears](https://open.spotify.com/track/53F09zoZSMdnUex1VjnMPj) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Wasting All These Tears](https://open.spotify.com/album/5Z2ubQ6PRRFJ3smuU2YTLe) | 3:15 | 2022-11-18 |  |
 | [We Just Disagree](https://open.spotify.com/track/3xsYZOaajjyJouOEuKIeo7) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Certified Hits](https://open.spotify.com/album/61zrzuhdogtVgtLZPATw3L) | 3:26 | 2021-12-10 | 2022-07-29 |
+| [What's Up \(What's Going On\)](https://open.spotify.com/track/5FonXR4yh9PWNbQCHQn5I0) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:51 | 2023-01-03 |  |
 | [What's Your Country Song](https://open.spotify.com/track/5S6Fijz2xGd1YSykH6zHWg) | [Charlotte Ave](https://open.spotify.com/artist/2rcT3E2t3e3HYJUOMsG3UX) | [What's Your Country Song](https://open.spotify.com/album/5vpq2EODIUw9aCqlty61kF) | 2:40 | 2022-01-07 | 2022-07-17 |
 | [When I Was Your Man](https://open.spotify.com/track/2Fv1cWu2Hg2Z4UXsu3fbrx) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Big Machine Undercover](https://open.spotify.com/album/3rWSVlSY22f5XwgMUK2bwf) | 3:46 | 2021-12-10 |  |
 | [When You Say Nothing At All](https://open.spotify.com/track/0zu7EjQ4ij0uVpqp9eGR1J) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Now That I've Found You: A Collection](https://open.spotify.com/album/1yt29znD6KxC2ayfnT1Cqk) | 4:20 | 2021-12-10 | 2022-07-29 |

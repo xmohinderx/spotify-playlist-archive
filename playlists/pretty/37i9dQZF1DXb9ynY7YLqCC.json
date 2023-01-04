@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 133935,
+  "num_followers": 134007,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMGJmYjg5NzNlMTYwZjIwMDI3MmE4YmMxNGQ0ODk2YTJk",
+  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMDk5Y2I3NjQ2MDNiNzY0MWNkYTg0OGVhMTc2ODcyMTFk",
   "tracks": [
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Gladiadores del rock",
-        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 269331,
-      "name": "Sacrificio y Rock N' Roll",
-      "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 245024,
       "name": "El Favor",
       "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Gladiadores del rock",
+        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 269331,
+      "name": "Sacrificio y Rock N' Roll",
+      "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1207,6 +1207,22 @@
       "duration_ms": 201960,
       "name": "El Templo de Momo",
       "url": "https://open.spotify.com/track/0v1Y8sDNSPC7FAgdVlDGAQ"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1271,22 +1287,6 @@
       "duration_ms": 324053,
       "name": "Viejo",
       "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N"
     }
   ],
   "unique_name": "Rock Barrial",

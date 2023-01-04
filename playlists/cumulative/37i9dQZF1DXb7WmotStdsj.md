@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-127 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
+128 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Cheb Redouane Habibi Come To Dubai](https://open.spotify.com/track/7os0JnhRfMpRnq8nxmSUPN) | [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Cheb Redouane Habibi Come To Dubai](https://open.spotify.com/album/6lsOMMzoq17CjREiQrJ4CR) | 4:35 | 2022-09-20 | 2022-12-01 |
 | [Cheikh Mamidou La nta Khalat Ana Ktar](https://open.spotify.com/track/4o9jA37PQmofMORu7TIlbm) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou La nta Khalat Ana Ktar](https://open.spotify.com/album/0wrUX9IkbsTbyoCZOvA4Q7) | 4:14 | 2022-09-20 | 2022-12-27 |
 | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/track/2Z2orYLp8Ox5gnlVPP5oQY) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/album/58EVW8ZXLjD3ThafQaDCMy) | 4:45 | 2022-09-20 |  |
-| [Chira brune](https://open.spotify.com/track/5ykL3LdQ7Ls8T2Ii2YMmfG) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [Chira brune](https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl) | 8:52 | 2021-10-19 |  |
+| [Chira brune](https://open.spotify.com/track/5ykL3LdQ7Ls8T2Ii2YMmfG) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [Chira brune](https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl) | 8:52 | 2021-10-19 | 2023-01-04 |
 | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/track/4hQgTdJF1Z1PdDrhjYBiUC) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/album/2FN9F2iscX3gYpuqvsxAdD) | 5:25 | 2021-10-19 |  |
 | [Corona](https://open.spotify.com/track/3FBCyQCJMBPzAMdtY6c1bP) | [Cheb Bello](https://open.spotify.com/artist/5Io1qNaw4iKM3t7kHgCsBo), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Corona](https://open.spotify.com/album/3xrsu3KBqRQ15AlDIjGkyL) | 4:02 | 2021-10-19 | 2022-05-12 |
 | [Célibataire Taajabni](https://open.spotify.com/track/5b1Ha5pzXLE5t6VjwJnbJz) | [Hbib Himoune](https://open.spotify.com/artist/3SMU7cRz5Li03TpmGncVg6) | [Célibataire Taajabni](https://open.spotify.com/album/73YRT6VgEfaPcS4mRoF2Er) | 5:03 | 2022-09-20 | 2022-12-01 |
@@ -45,6 +45,7 @@
 | [Ga3 Li Srali](https://open.spotify.com/track/4VwGNd7gYBkudOycgXZWpF) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Ga3 Li Srali](https://open.spotify.com/album/2UIsgooFCMOW5g3cVIH6lX) | 3:34 | 2021-10-19 | 2022-09-21 |
 | [Galbek Hnin](https://open.spotify.com/track/4KDcEc96txreeEubzdDPbD) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Galbek Hnin](https://open.spotify.com/album/1MOev2y0PJadIp52sXjwW2) | 4:00 | 2022-11-14 | 2022-11-21 |
 | [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 | 2022-12-25 |  |
+| [Galbi Ndirleh 3asas](https://open.spotify.com/track/2o9EZRu4Mx5GMFnJi9WpIC) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Ndirleh 3asas](https://open.spotify.com/album/37pvma3AHWm2qQUjh9tA2g) | 2:53 | 2023-01-03 |  |
 | [Ghazali](https://open.spotify.com/track/3LhtZaCJX2Z5pGFQGK6nP0) | [Artisan Dz](https://open.spotify.com/artist/1v8wfWfx4RqBm2Mqy1v9o9) | [Ghazali](https://open.spotify.com/album/1BD51EjGSTPgMyfQoA6VwG) | 5:04 | 2022-10-03 | 2022-10-09 |
 | [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 | 2022-12-05 |  |
 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 | 2022-10-03 | 2022-10-27 |

@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 246612,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM"
@@ -3039,7 +3039,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 268053,
       "name": "Only One,Only You",
       "url": "https://open.spotify.com/track/0ff65hi4fvwWPQWPcaIojp"
@@ -4029,6 +4029,28 @@
       "duration_ms": 173206,
       "name": "Steer This Band",
       "url": "https://open.spotify.com/track/1Vmh9Q12P6tyB19oi2a8nx"
+    },
+    {
+      "album": {
+        "name": "Orange Ave.",
+        "url": "https://open.spotify.com/album/2yzobjzYcxxhXOi0HnwnsD"
+      },
+      "artists": [
+        {
+          "name": "K",
+          "url": "https://open.spotify.com/artist/0dojDHJmkEgWlNa7iyOMFK"
+        },
+        {
+          "name": "Kihiro",
+          "url": "https://open.spotify.com/artist/5PRhTlrNZtoeCOSee6sZcr"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183925,
+      "name": "Still (feat.KIHIRO)",
+      "url": "https://open.spotify.com/track/13jzKEiX06c1PPrnBaUmYa"
     },
     {
       "album": {
@@ -6607,6 +6629,24 @@
       "duration_ms": 281931,
       "name": "\u50d5\u7684\u5730",
       "url": "https://open.spotify.com/track/4R254nmfaMgvgZH0cwSZf9"
+    },
+    {
+      "album": {
+        "name": "THE Y\u24b6NK ROCK HER\u00d8ES",
+        "url": "https://open.spotify.com/album/60pDYcWPB5rLvI1tB8Y7RS"
+      },
+      "artists": [
+        {
+          "name": "Kishidan",
+          "url": "https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225960,
+      "name": "\u5148\u8f29",
+      "url": "https://open.spotify.com/track/0XugWVvzcLN7nHFEk8bgyH"
     },
     {
       "album": {

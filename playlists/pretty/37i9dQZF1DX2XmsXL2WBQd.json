@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 329947,
+  "num_followers": 329997,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYyNTYyMSwwMDAwMDAwMDIxOTY5N2IyODI5ZGFkYTMwYTQ5OGZkNTg4NTBjMjUw",
+  "snapshot_id": "MTY3MTYyNTYyMSwwMDAwMDAwMGU3OWVkMTY3OWVjODljNTUyNzMzNDQyYTg1Njc3NTY4",
   "tracks": [
     {
       "added_at": "2022-12-21 12:27:01",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-12-21 12:27:01",
       "album": {
-        "name": "Rhyme Pays",
-        "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
-      },
-      "artists": [
-        {
-          "name": "ICE-T",
-          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "6 'N the Mornin'",
-      "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
-    },
-    {
-      "added_at": "2022-12-21 12:27:01",
-      "album": {
         "name": "8th Wonder",
         "url": "https://open.spotify.com/album/530KKhZLtHwDtz3BeJqWSJ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 373293,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4UCkX8nrBlpxjrrEqtb46a"
+    },
+    {
+      "added_at": "2022-12-21 12:27:01",
+      "album": {
+        "name": "Rhyme Pays",
+        "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
+      },
+      "artists": [
+        {
+          "name": "ICE-T",
+          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "6 'N the Mornin'",
+      "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
     },
     {
       "added_at": "2022-12-21 12:27:01",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-12-21 12:27:01",
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8"
+      },
+      "artists": [
+        {
+          "name": "The Sugarhill Gang",
+          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Rapper's Delight",
+      "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
+    },
+    {
+      "added_at": "2022-12-21 12:27:01",
+      "album": {
         "name": "Youngest in Charge",
         "url": "https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 206081,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
-    },
-    {
-      "added_at": "2022-12-21 12:27:01",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8"
-      },
-      "artists": [
-        {
-          "name": "The Sugarhill Gang",
-          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Rapper's Delight",
-      "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
     },
     {
       "added_at": "2022-12-21 12:27:01",

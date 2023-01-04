@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 139999,
+  "num_followers": 140089,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMDcwZGNlZGNiZTllYTI5NzdiMDk4YTczMjg3ODVjZjEz",
+  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMDM4YjQ0MjhkZTgxYzg1ZDVmNmE0ZTMxMGZiOWQxZWE1",
   "tracks": [
     {
       "added_at": "2022-04-13 15:02:41",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "No Stress",
-        "url": "https://open.spotify.com/album/6mrKW9RtuK94zUHHzMW5ng"
-      },
-      "artists": [
-        {
-          "name": "Laurent Wolf",
-          "url": "https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/3LVxJTSgrUZyQpGadmoIrD"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 202533,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/6mrKW9RtuK94zUHHzMW5ng"
+      },
+      "artists": [
+        {
+          "name": "Laurent Wolf",
+          "url": "https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/3LVxJTSgrUZyQpGadmoIrD"
     },
     {
       "added_at": "2022-04-13 15:02:41",
