@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 24491,
+  "num_followers": 24496,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDVkMTFjYmMzOTI5YjE3YTUzNmI2M2ZmZjkxYzhmOGRm",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMGMxNmJiNDRmNDkxNzYzMTE2YmI4NDRhOTFmZjlkMGZi",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -235,22 +235,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Stand By For...",
-        "url": "https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5ns Zelmerl\u00f6w",
-          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Cara mia",
-      "url": "https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Sean den f\u00f6rste Banan",
         "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 183373,
       "name": "Sean den f\u00f6rste Banan",
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Stand By For...",
+        "url": "https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns Zelmerl\u00f6w",
+          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Cara mia",
+      "url": "https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -383,22 +383,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
-        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "La det swinge",
-      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Bra vibrationer",
         "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 186453,
       "name": "Bra vibrationer",
       "url": "https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
+        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
+      },
+      "artists": [
+        {
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "La det swinge",
+      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
     },
     {
       "added_at": "2019-02-28 12:57:58",

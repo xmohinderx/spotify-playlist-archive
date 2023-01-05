@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 746,312 likes - 166 songs - 8 hr 33 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 746,342 likes - 166 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Light Me Up](https://open.spotify.com/track/2qPizVN4OGkFLptaGLanyO) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [Light Me Up](https://open.spotify.com/album/5fypWkFEoxzC5pxCQroWWa) | 3:01 |
-| 2 | [PULL UP](https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PULL UP](https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1) | 2:02 |
-| 3 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 |
-| 4 | [Wish You The Best](https://open.spotify.com/track/4aRIkmQcFWLDYT2J4SdXdr) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [GNDHI](https://open.spotify.com/artist/0KTBRZ4b1Ah8HqBH9AtBix), [J Fitz](https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ) | [Wish You The Best](https://open.spotify.com/album/36VVorl4pqN1wGFxI1qIki) | 3:18 |
+| 1 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 |
+| 2 | [Alone](https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Alone](https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX) | 2:37 |
+| 3 | [Light Me Up](https://open.spotify.com/track/2qPizVN4OGkFLptaGLanyO) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [Light Me Up](https://open.spotify.com/album/5fypWkFEoxzC5pxCQroWWa) | 3:01 |
+| 4 | [The Other Side](https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [The Other Side](https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL) | 2:39 |
 | 5 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 |
-| 6 | [Alone](https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Alone](https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX) | 2:37 |
-| 7 | [Memory Nights](https://open.spotify.com/track/3ooflzDgtL0pqnikV7HUDW) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [Memory Nights](https://open.spotify.com/album/1TaHRPxZD4e0lzVB8EU2AG) | 3:16 |
-| 8 | [The Other Side](https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [The Other Side](https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL) | 2:39 |
+| 6 | [PULL UP](https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PULL UP](https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1) | 2:02 |
+| 7 | [Wish You The Best](https://open.spotify.com/track/4aRIkmQcFWLDYT2J4SdXdr) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [GNDHI](https://open.spotify.com/artist/0KTBRZ4b1Ah8HqBH9AtBix), [J Fitz](https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ) | [Wish You The Best](https://open.spotify.com/album/36VVorl4pqN1wGFxI1qIki) | 3:18 |
+| 8 | [Memory Nights](https://open.spotify.com/track/3ooflzDgtL0pqnikV7HUDW) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [Memory Nights](https://open.spotify.com/album/1TaHRPxZD4e0lzVB8EU2AG) | 3:16 |
 | 9 | [Rift](https://open.spotify.com/track/2GjmMAFA3EFMThAfDmtB7u) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [Miss Lina](https://open.spotify.com/artist/1YWIbcvuqzWzPyxyrVTMJv) | [Rift](https://open.spotify.com/album/6TkCdwfbCgi9m4YRbcvzbt) | 3:26 |
 | 10 | [Behind](https://open.spotify.com/track/6maXPePCZOGQQmwQurOOmG) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx) | [Behind](https://open.spotify.com/album/7w5XFHUG5e8dAjiwLyDfx9) | 3:05 |
 | 11 | [Shiver](https://open.spotify.com/track/5ocjGQzG6yaXnJiZ9wn7dD) | [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Shiver](https://open.spotify.com/album/2JBjdQlvzhWQ3sbx7hE8rR) | 3:52 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 165 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 |
 | 166 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 |
 
-Snapshot ID: `NDgyNiwyMTE5YjZiNjkyYjM1Y2Y5ZjcwNTc0MGJlYTAyYWZhMWE1ZDlmMzc3`
+Snapshot ID: `NDgzMSw1ZTE4NjczOGE1OTk4NjhiYWY3YzNlNGEzNzQ2Y2E1OTdiZWE3ZWMz`

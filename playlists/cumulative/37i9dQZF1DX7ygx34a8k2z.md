@@ -4,7 +4,7 @@
 
 > dig through the record bin.
 
-180 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/1mhOfY9jjNkvaWM7mCmBjC)
+181 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/1mhOfY9jjNkvaWM7mCmBjC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 | 2022-03-25 |  |
 | [Low](https://open.spotify.com/track/6ctbCIikHbC6tSOL1rewQX) | [Cracker](https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6) | [Kerosene Hat](https://open.spotify.com/album/1pM1BsMVd8CuEpgCwbqmFO) | 4:36 | 2022-02-25 |  |
 | [Lucky Man](https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL) | 4:53 | 2022-03-25 |  |
-| [Lump](https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604) | 2:14 | 2022-03-25 |  |
+| [Lump](https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604) | 2:14 | 2022-03-25 | 2023-01-05 |
 | [Mass Romantic](https://open.spotify.com/track/0UHVVmaj4PyRHL97RC8bKU) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Mass Romantic](https://open.spotify.com/album/5UxRtQ8LgMWhJb3Mz9WP4o) | 4:04 | 2022-02-25 | 2022-07-29 |
 | [Me and Mia](https://open.spotify.com/track/4vBO3iPTa7yH88pqdMyOhw) | [Ted Leo and the Pharmacists](https://open.spotify.com/artist/5hbH3dvtk49g07qpc1QwPe), [The Pharmacists](https://open.spotify.com/artist/2JrLdBWO6jnASggehtnkKL) | [Shake the Sheets](https://open.spotify.com/album/07ZJma4DINFMI3a8XhsJIA) | 3:31 | 2022-02-25 | 2022-07-27 |
 | [Memphis](https://open.spotify.com/track/13nJei7T8AWi9BnMevtLuv) | [Portastatic](https://open.spotify.com/artist/5YFFss1uTFY0gfMMR1f9FD) | [I Hope Your Heart Is Not Brittle](https://open.spotify.com/album/7ct59aXX1FO5v0LAgCQ6ql) | 2:27 | 2022-03-25 | 2022-04-16 |
@@ -148,6 +148,7 @@
 | [Sick Of Goodbyes](https://open.spotify.com/track/3P1KOdtOMANpNDkq29H5if) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [Good Morning Spider](https://open.spotify.com/album/4FWzJKnZMl51qBHzmKClqP) | 3:32 | 2022-02-25 | 2022-07-29 |
 | [Someday I Will Treat You Good](https://open.spotify.com/track/0NLmRimhANdc9HuqhG7JJm) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [Vivadixiesubmarinetransmissionplot](https://open.spotify.com/album/2negjodS7ksoI1xH61BWva) | 3:40 | 2022-02-25 | 2022-07-29 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-11 |  |
+| [Sometimes Always](https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned](https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb) | 2:31 | 2022-05-30 |  |
 | [Sometimes Always](https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned \(Expanded Version\)](https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H) | 2:31 | 2022-02-25 | 2022-07-29 |
 | [Son Of A Gun](https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8) | [The Vaselines](https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW) | [Enter The Vaselines \(Deluxe Edition\)](https://open.spotify.com/album/630p98oUEIBRflGJRRInCt) | 3:45 | 2022-02-25 |  |
 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 | 2022-02-25 |  |

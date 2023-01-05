@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ねぐせ。 / <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,872 likes - 67 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,894 likes - 67 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 4 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 |
 | 5 | [lien](https://open.spotify.com/track/2v98sRbseSHCUYbH0bJkZR) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/0FtqmB9RvzPiBApNH4MPrt) | 3:29 |
 | 6 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
-| 7 | [26](https://open.spotify.com/track/1hSJr6D5gY6DEJAGBkGAYl) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [26](https://open.spotify.com/album/4QVLkRRZRE9INUwPtfcJE6) | 4:25 |
+| 7 | [26](https://open.spotify.com/track/3leoAvlLLsApKXzlIp79tu) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [26](https://open.spotify.com/album/18wcI7XahZTGCDNxXPzdj3) | 4:25 |
 | 8 | [よるおきてあさねむる](https://open.spotify.com/track/6DRaMkWwRgUzsFFPKR3uY3) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [よるおきてあさねむる](https://open.spotify.com/album/5h1PfgxKzIg1GJNcjiPS4w) | 4:00 |
 | 9 | [Mermaid](https://open.spotify.com/track/5KpPfyynOV0kCOaHXd5eeb) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw) | [Mermaid](https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F) | 2:54 |
 | 10 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 66 | [ハナノヨウ](https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [ハナノヨウ](https://open.spotify.com/album/1NORsBbP4WjmIBG2P8OsCt) | 3:52 |
 | 67 | [Tejina feat\. YUICHIRO \(DEEP\)](https://open.spotify.com/track/7oT1zOBzKp8CHGTOG27yLp) | [VILLSHANA](https://open.spotify.com/artist/57weAzpeaELcDcAuqngdDo), [YUICHIRO](https://open.spotify.com/artist/0hDCWh0HbNi2aUIKzUDWLR), [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31) | [Tejina feat\. YUICHIRO \(DEEP\)](https://open.spotify.com/album/3mQU873YcStCKu9llZYxEz) | 3:24 |
 
-Snapshot ID: `MTY3Mjc1ODAwMCwwMDAwMDAwMDJmNTcwODk3ZTQ3ZmY1ZDM3ZDI3YjYyNWQ1YjFmNDdk`
+Snapshot ID: `MTY3Mjc1ODAwMCwwMDAwMDAwMDA3ZWY4N2E3M2E3MjVkYzFkNjE2Y2JiYWRkMWM3MzZj`

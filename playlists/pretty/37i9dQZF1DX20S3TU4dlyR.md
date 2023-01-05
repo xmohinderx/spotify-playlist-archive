@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,773 likes - 89 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,790 likes - 89 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,6 +96,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 86 | [Nadie Sabe](https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Que Bonita Vecindad](https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh) | 3:43 |
 | 87 | [No Insistas](https://open.spotify.com/track/4PvvhS8ntwMJEzXMlzGqcA) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [No Insistas](https://open.spotify.com/album/5QElG8KePpyHtSvjzo2hpq) | 3:26 |
 | 88 | [Desinformation](https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Desinformation](https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J) | 4:03 |
-| 89 | [La Máscara \- En Vivo](https://open.spotify.com/track/7IAgDJqVjgaCKJSFcdQgaV) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [20 Años en Vivo & En Directo](https://open.spotify.com/album/2JbNqmYTp8Rb9QlYAZQmbT) | 5:31 |
+| 89 | [Ruptura](https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Fanbrown](https://open.spotify.com/artist/0pJiXyozCdysfr3YXdp1al) | [Ruptura](https://open.spotify.com/album/1LPSW2i48wQJqzPSjPnCRF) | 3:14 |
 
-Snapshot ID: `MTY3MTc2NDQwMCwwMDAwMDAwMGQzMWIwMzk4ZmI5OTdjNzE2NTMyNDI4MzFkMTQ2OWVm`
+Snapshot ID: `MTY3MTc2NDQwMCwwMDAwMDAwMDVkZDQwNjE2OGE5ZWRjMzI5NWFjMjAzOTg5YzM2NmU3`

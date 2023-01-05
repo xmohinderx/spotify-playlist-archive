@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 70194,
+  "num_followers": 70393,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDQ3YzhlYjkyY2Q1NGNjNjM4NGJiYWE2YWVjZjU5NzIw",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDYwNjZkNzI3MDMxMjMwMWEzMzE0OWU2ZDgzOWUwYWU1",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Defiant Order",
-        "url": "https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B"
-      },
-      "artists": [
-        {
-          "name": "Birdy Nam Nam",
-          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "DEFIANT ORDER",
-      "url": "https://open.spotify.com/track/1GFVCLOATBClL1I1zLGjvO"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "YosepH",
         "url": "https://open.spotify.com/album/26q3SgrURehSidTag2eV0B"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 259026,
       "name": "I Love Acid",
       "url": "https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Defiant Order",
+        "url": "https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B"
+      },
+      "artists": [
+        {
+          "name": "Birdy Nam Nam",
+          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "DEFIANT ORDER",
+      "url": "https://open.spotify.com/track/1GFVCLOATBClL1I1zLGjvO"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "DJ-Kicks (Motor City Drum Ensemble) [DJ Mix]",
-        "url": "https://open.spotify.com/album/2Z0yypS9AyYAbuxzeOAMhx"
-      },
-      "artists": [
-        {
-          "name": "Recloose",
-          "url": "https://open.spotify.com/artist/2klQbxaAVeQMof4GsPFH5S"
-        }
-      ],
-      "duration_ms": 345640,
-      "name": "Cardiology (Isol\u00e9e Mix) - Mixed",
-      "url": "https://open.spotify.com/track/4AC2gUCUq3n1Iaxz2aYskJ"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Probl\u00e8mes D'amour (All Versions)",
         "url": "https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 420653,
       "name": "Probl\u00e8mes d'Amour - Original",
       "url": "https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "DJ-Kicks (Motor City Drum Ensemble) [DJ Mix]",
+        "url": "https://open.spotify.com/album/2Z0yypS9AyYAbuxzeOAMhx"
+      },
+      "artists": [
+        {
+          "name": "Recloose",
+          "url": "https://open.spotify.com/artist/2klQbxaAVeQMof4GsPFH5S"
+        }
+      ],
+      "duration_ms": 345640,
+      "name": "Cardiology (Isol\u00e9e Mix) - Mixed",
+      "url": "https://open.spotify.com/track/4AC2gUCUq3n1Iaxz2aYskJ"
     },
     {
       "added_at": "2021-10-22 11:07:27",

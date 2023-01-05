@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Liily
 
-1,036 songs - 2 day 6 hr 58 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+1,037 songs - 2 day 7 hr 1 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,8 @@
 | [Left Handed](https://open.spotify.com/track/05VzVcYcNv254mkVPpT01i) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Left Handed](https://open.spotify.com/album/5g4eiLltqMt2v1NzSq505b) | 2:34 | 2022-11-14 | 2022-11-30 |
 | [Left Handed](https://open.spotify.com/track/6QgGrnkenUSXi5gkdkAsNc) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Left Handed](https://open.spotify.com/album/3adwq4kY3Ql6jiBwEtgu0M) | 2:34 | 2022-11-25 |  |
 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 | 2022-03-18 | 2022-05-14 |
-| [Let It Sink](https://open.spotify.com/track/3oRrq1fkzb2aCznN0269mL) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Everything Is Closer Than It Seems](https://open.spotify.com/album/6O3ixSA4lGzIMR0qELaEFf) | 3:02 | 2022-11-04 |  |
+| [Let It Sink](https://open.spotify.com/track/3oRrq1fkzb2aCznN0269mL) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Everything Is Closer Than It Seems](https://open.spotify.com/album/6O3ixSA4lGzIMR0qELaEFf) | 3:02 | 2022-11-04 | 2023-01-05 |
+| [Let It Sink](https://open.spotify.com/track/6JiZWNx3vkY1FXEbxJpudk) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Everything Is Closer Than It Seems](https://open.spotify.com/album/6AKctSjeMPlLSFjcDe7dF1) | 3:02 | 2022-12-16 |  |
 | [Let Me Be Normal](https://open.spotify.com/track/4aPd0Ce1cRiE2Yg1fty3HD) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Let Me Be Normal](https://open.spotify.com/album/6RjuNtTTG4MkTaAxxzjZIJ) | 2:22 | 2022-10-07 | 2022-11-12 |
 | [Let Me Out](https://open.spotify.com/track/4IUZViuv8cdwJPw1IdmpIG) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P) | 3:12 | 2022-11-04 |  |
 | [Let You Down \(feat\. Charlotte Sands\)](https://open.spotify.com/track/0JX13l9ixwzb9BBTG5vaNV) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Let You Down \(feat\. Charlotte Sands\)](https://open.spotify.com/album/6FDZMfAhiOT1vgZ21iupjV) | 3:25 | 2022-08-12 | 2022-10-15 |

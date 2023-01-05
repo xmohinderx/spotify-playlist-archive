@@ -1,12 +1,12 @@
 {
   "description": "Temazos inolvidables para darle un toque dulce a tus comidas.",
-  "num_followers": 109424,
+  "num_followers": 109561,
   "original_name": "Cocina con Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzODAwMCwwMDAwMDAwMDJhYjY2YTZlMWJiMjA5Yzg4YmZmMjNlYmZkMjcwMGEz",
+  "snapshot_id": "MTY2NzUzODAwMCwwMDAwMDAwMGY4ZGYwZWIzYjQ3NDZiZjA4Yjk2MDcxMjdhYzQ2NzU1",
   "tracks": [
     {
       "added_at": "2022-05-17 18:44:52",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-05-17 18:44:52",
       "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
-    },
-    {
-      "added_at": "2022-05-17 18:44:52",
-      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 187666,
       "name": "Te Quiero Tanto, Tanto",
       "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
+    },
+    {
+      "added_at": "2022-05-17 18:44:52",
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2022-05-17 18:44:52",

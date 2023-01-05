@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Cover: my bloody valentine",
-  "num_followers": 460712,
+  "num_followers": 461080,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQwNjE0MCwwMDAwMDAwMDc2NWQ4NTQ0MTEwNDFmNTEzZjYxNDcyNDNhNjkxNTRi",
+  "snapshot_id": "MTY2NDQwNjE0MCwwMDAwMDAwMDUxMGJlNDFhNDMxOGUxNjc1NjI0OTBkNWM4M2U0Mzk0",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -267,6 +267,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Odes to the Void",
+        "url": "https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS"
+      },
+      "artists": [
+        {
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+        }
+      ],
+      "duration_ms": 208450,
+      "name": "For the Kill",
+      "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Moving Away",
         "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 268800,
       "name": "Taker",
       "url": "https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Odes to the Void",
-        "url": "https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS"
-      },
-      "artists": [
-        {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
-        }
-      ],
-      "duration_ms": 208450,
-      "name": "For the Kill",
-      "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -575,18 +575,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+        "name": "Saturdays = Youth",
+        "url": "https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 265466,
-      "name": "Skin Game",
-      "url": "https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI"
+      "duration_ms": 322933,
+      "name": "Kim & Jessie",
+      "url": "https://open.spotify.com/track/1cTu1MiLR4rOyzIzZd6GYP"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -607,34 +607,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Ferment",
-        "url": "https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb"
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
       },
       "artists": [
         {
-          "name": "Catherine Wheel",
-          "url": "https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 438906,
-      "name": "Black Metallic",
-      "url": "https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Saturdays = Youth",
-        "url": "https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 322933,
-      "name": "Kim & Jessie",
-      "url": "https://open.spotify.com/track/1cTu1MiLR4rOyzIzZd6GYP"
+      "duration_ms": 265466,
+      "name": "Skin Game",
+      "url": "https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -651,6 +635,22 @@
       "duration_ms": 190573,
       "name": "Not Too Soon",
       "url": "https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Ferment",
+        "url": "https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb"
+      },
+      "artists": [
+        {
+          "name": "Catherine Wheel",
+          "url": "https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov"
+        }
+      ],
+      "duration_ms": 438906,
+      "name": "Black Metallic",
+      "url": "https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Psychocandy (Expanded Version)",
-        "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 102333,
-      "name": "Taste of Cindy",
-      "url": "https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Spooky",
         "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 354640,
       "name": "Nothing Natural",
       "url": "https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Psychocandy (Expanded Version)",
+        "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 102333,
+      "name": "Taste of Cindy",
+      "url": "https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521"
     },
     {
-      "added_at": "2022-09-28 23:01:40",
-      "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz"
-      },
-      "artists": [
-        {
-          "name": "Swallow",
-          "url": "https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "Tastes Like Honey",
-      "url": "https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "Brickbat",
@@ -943,6 +927,22 @@
       "duration_ms": 269747,
       "name": "Everlastingly Yours",
       "url": "https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J"
+    },
+    {
+      "added_at": "2022-09-28 23:01:40",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz"
+      },
+      "artists": [
+        {
+          "name": "Swallow",
+          "url": "https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "Tastes Like Honey",
+      "url": "https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -995,18 +995,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Encounters",
-        "url": "https://open.spotify.com/album/0xeUhrPDwkyFJzOAADD6Bf"
+        "name": "Turn Into",
+        "url": "https://open.spotify.com/album/1tW2xzjwARfKVOQp6e43Fj"
       },
       "artists": [
         {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
         }
       ],
-      "duration_ms": 220800,
-      "name": "May",
-      "url": "https://open.spotify.com/track/3hVlV66Z3PfvXwIYOTeZdi"
+      "duration_ms": 203536,
+      "name": "Turn Into",
+      "url": "https://open.spotify.com/track/0QCpDMWI8zQTB58WqVgu7C"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Turn Into",
-        "url": "https://open.spotify.com/album/1tW2xzjwARfKVOQp6e43Fj"
+        "name": "Encounters",
+        "url": "https://open.spotify.com/album/0xeUhrPDwkyFJzOAADD6Bf"
       },
       "artists": [
         {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
         }
       ],
-      "duration_ms": 203536,
-      "name": "Turn Into",
-      "url": "https://open.spotify.com/track/0QCpDMWI8zQTB58WqVgu7C"
+      "duration_ms": 220800,
+      "name": "May",
+      "url": "https://open.spotify.com/track/3hVlV66Z3PfvXwIYOTeZdi"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Expect the Best",
-        "url": "https://open.spotify.com/album/085CKONaBN60Vkfpg0cNRM"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 282557,
-      "name": "When I Tried",
-      "url": "https://open.spotify.com/track/7h6UX36ASyGiBGq3eUSmi8"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Anak Ko",
         "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 233583,
       "name": "Superbike",
       "url": "https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Expect the Best",
+        "url": "https://open.spotify.com/album/085CKONaBN60Vkfpg0cNRM"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 282557,
+      "name": "When I Tried",
+      "url": "https://open.spotify.com/track/7h6UX36ASyGiBGq3eUSmi8"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Chlorine Dream",
+        "url": "https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1"
+      },
+      "artists": [
+        {
+          "name": "Spirea X",
+          "url": "https://open.spotify.com/artist/05x3cffNhKts722Xv2WQWb"
+        }
+      ],
+      "duration_ms": 264533,
+      "name": "Chlorine Dream",
+      "url": "https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Sure (Robin Guthrie Remix)",
         "url": "https://open.spotify.com/album/4EgClzxWA0H5VKV64SXAxV"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 249545,
       "name": "Sure - Robin Guthrie Remix",
       "url": "https://open.spotify.com/track/3PFmUT9U0Gk6ysvavI1EIv"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Chlorine Dream",
-        "url": "https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1"
-      },
-      "artists": [
-        {
-          "name": "Spirea X",
-          "url": "https://open.spotify.com/artist/05x3cffNhKts722Xv2WQWb"
-        }
-      ],
-      "duration_ms": 264533,
-      "name": "Chlorine Dream",
-      "url": "https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Years Too Late",
-        "url": "https://open.spotify.com/album/3HEEpQxUXRB7GX9HUcwu6v"
+        "name": "Parallel Universe Blues",
+        "url": "https://open.spotify.com/album/4lQikOnK4lBEDZwL4SXNDX"
       },
       "artists": [
         {
-          "name": "Alcian Blue",
-          "url": "https://open.spotify.com/artist/3hIgKWB9U0IMNJsBLfixET"
+          "name": "Papercuts",
+          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
         }
       ],
-      "duration_ms": 260346,
-      "name": "A Fading Smile",
-      "url": "https://open.spotify.com/track/4zV1IR8ZGLMWgBbVNGnYgd"
+      "duration_ms": 344155,
+      "name": "Sing to Me Candy",
+      "url": "https://open.spotify.com/track/04IPKQyLuMn7vXx44OMOAm"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Parallel Universe Blues",
-        "url": "https://open.spotify.com/album/4lQikOnK4lBEDZwL4SXNDX"
+        "name": "Years Too Late",
+        "url": "https://open.spotify.com/album/3HEEpQxUXRB7GX9HUcwu6v"
       },
       "artists": [
         {
-          "name": "Papercuts",
-          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
+          "name": "Alcian Blue",
+          "url": "https://open.spotify.com/artist/3hIgKWB9U0IMNJsBLfixET"
         }
       ],
-      "duration_ms": 344155,
-      "name": "Sing to Me Candy",
-      "url": "https://open.spotify.com/track/04IPKQyLuMn7vXx44OMOAm"
+      "duration_ms": 260346,
+      "name": "A Fading Smile",
+      "url": "https://open.spotify.com/track/4zV1IR8ZGLMWgBbVNGnYgd"
     },
     {
       "added_at": "2021-06-03 02:39:04",

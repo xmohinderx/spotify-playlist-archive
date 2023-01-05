@@ -4,7 +4,7 @@
 
 > Viral hits in Africa
 
-140 songs - 8 hr 1 min - not published yet
+141 songs - 8 hr 5 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-11-01 |  |
 | [Saggies](https://open.spotify.com/track/4qwBmPUVUbyXjwlttBAp8J) | [Temple Boys Cpt](https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n), [Young King The Vocalist](https://open.spotify.com/artist/3r7XbZvsiEHw7dYQky22tl) | [The Goats Ep, Vol\. 2](https://open.spotify.com/album/4MXixbdCRGPB96aNjBmbHF) | 2:20 | 2022-11-01 | 2022-11-30 |
 | [Santé](https://open.spotify.com/track/3vXnuFnC5RhPGwsFi0ORcI) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Santé](https://open.spotify.com/album/5ZbmaYVO7Pg5TAGRQXleI5) | 3:10 | 2022-12-12 |  |
-| [Sasa Hivi \- Stripped Down](https://open.spotify.com/track/1Qk7oSqD7oE61MfyxzGRQR) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Ashley Music](https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd) | [Sasa Hivi](https://open.spotify.com/album/21QfGfMQr8s4EAmZqdcXVg) | 4:22 | 2022-11-22 |  |
+| [Sasa Hivi \- Stripped Down](https://open.spotify.com/track/1Qk7oSqD7oE61MfyxzGRQR) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Ashley Music](https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd) | [Sasa Hivi](https://open.spotify.com/album/21QfGfMQr8s4EAmZqdcXVg) | 4:22 | 2022-11-22 | 2023-01-05 |
+| [Sasa Hivi \[Stripped Down\]](https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Ashley Music](https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd) | [Sasa Hivi \[Stripped Down\]](https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig) | 4:22 | 2022-12-12 |  |
 | [See Finish](https://open.spotify.com/track/6HOwQiEPBGgNtlgmsjO1P5) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [See Finish](https://open.spotify.com/album/6aCWsnQ2CcnmvHHfcoTZsi) | 3:00 | 2022-11-15 | 2022-11-30 |
 | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG) | 4:09 | 2022-11-01 | 2022-12-13 |
 | [She's A 10 But...](https://open.spotify.com/track/2DfRgLfkNb8nU1wMcMK0fD) | [ARTAN](https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2), [Spencer Elmer](https://open.spotify.com/artist/79hHMv2Abnf54m7Nuc5v6c) | [She’s A 10 But…](https://open.spotify.com/album/3yHXNwosEPuYYi5ZD6MbxA) | 2:45 | 2022-12-12 |  |

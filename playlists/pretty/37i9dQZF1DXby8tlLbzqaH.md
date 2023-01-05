@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 
 > White noise to help babies fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,638 likes - 218 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,660 likes - 218 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,7 +215,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 | 205 | [Pink Noise Moon](https://open.spotify.com/track/2J4zxmGylnG7HLJ486emfj) | [Bien Dormi](https://open.spotify.com/artist/69ZcsvO12Q42NzCAfZ5F9T) | [Bien Dormi](https://open.spotify.com/album/6hNirAwbKSixzozwGZAeRz) | 2:16 |
 | 206 | [Soft Noise](https://open.spotify.com/track/7zFEaYPifMRKdllCixP61H) | [NoiseZ](https://open.spotify.com/artist/0sfBeyU3aHvVFEGrPBU3xq) | [Universal Sleep Noise](https://open.spotify.com/album/0K7WGFAOLM8IHYYk6wMaSv) | 2:46 |
 | 207 | [Under the Waves](https://open.spotify.com/track/5IWaJyQjI6v7M16iFiaNNR) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:06 |
-| 208 | [Brown Noise HF Dip](https://open.spotify.com/track/5n2umYeI1nxrPHS8Vc9qOL) | [Brown Noise Warriors](https://open.spotify.com/artist/4YVV9UBom3Ls7WvEW2Z6nQ) | [Brown Noise](https://open.spotify.com/album/2GSOdkjgGTiWhaCMoeA9No) | 2:49 |
+| 208 | [Brown Noise HF Dip](https://open.spotify.com/track/5n2umYeI1nxrPHS8Vc9qOL) | [Brown Noise Warriors](https://open.spotify.com/artist/0TrJjUsjGFctwtmE7DY05N) | [Brown Noise](https://open.spotify.com/album/2GSOdkjgGTiWhaCMoeA9No) | 2:49 |
 | 209 | [Pink Noise For Sleep 4](https://open.spotify.com/track/4oUQtxWrg9NWuI1AXNvtWT) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Pink Noise For Sleep](https://open.spotify.com/album/5c5LV9MwfDeYJ9JUsbzubL) | 1:47 |
 | 210 | [White Reverb 800 Hz](https://open.spotify.com/track/68s3njCBvLcevxxMSOjq8P) | [Worry Less](https://open.spotify.com/artist/49CQw3DOUXwNq8mV3EaFux) | [Worryless White Noise](https://open.spotify.com/album/0aEDSss6BeAgY6VIc3WkWV) | 3:22 |
 | 211 | [Flat White Noise](https://open.spotify.com/track/2sT8xEi35Qn6iceYxi1u2V) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [White Noise Hz](https://open.spotify.com/album/3A8cNq1g1XQKds0Ho4ltJG) | 2:30 |

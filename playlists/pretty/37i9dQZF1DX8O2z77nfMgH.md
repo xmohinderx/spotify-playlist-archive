@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Yandel y Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,323 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,359 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 13 | [DISCRETA](https://open.spotify.com/track/0OXtFvUypfYoJOBXh9h5Lx) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO), [Toledo](https://open.spotify.com/artist/0c7soAA3Nv5aaDBMtCy7v4), [GIMARIO](https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH) | [DISCRETA](https://open.spotify.com/album/4q4JxBCUJBJ5LMOcaK6Ewd) | 3:54 |
 | 14 | [Designer](https://open.spotify.com/track/2EW5P6EjzG8vrZEY1sqeac) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra 2](https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ) | 2:58 |
 | 15 | [Todos Nos Vamos a Morir Igual](https://open.spotify.com/track/38sa3wVJjWkDwH0EaCaL7C) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Todos Nos Vamos a Morir Igual](https://open.spotify.com/album/2XhEFbtfY9sVKZVsMq4FOe) | 3:35 |
-| 16 | [Nuestro Amor Regresa](https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Nuestro Amor Regresa](https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx) | 2:05 |
+| 16 | [Nuestro Amor Regresa](https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Nuestro Amor Regresa](https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx) | 2:05 |
 | 17 | [Volviste Tarde](https://open.spotify.com/track/1N0DeNbKI2PjESx1xUIvbM) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Volviste Tarde](https://open.spotify.com/album/5PmEyL1R6hETTJERszjbFe) | 4:19 |
 | 18 | [Aayy](https://open.spotify.com/track/1t9ACqzC2bq1Sdbsmz9mB4) | [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Aayy](https://open.spotify.com/album/5zNmydFt8hQTXAicpO8voH) | 2:56 |
 | 19 | [Estrella](https://open.spotify.com/track/6eMPfZzSereNHx93IwBMga) | [Unknown CL](https://open.spotify.com/artist/7Jmx248RkeS8Tovjz4x9I8), [Erreflexx](https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU) | [Estrella](https://open.spotify.com/album/50uhJFB5g6tXPfTBcYH5sw) | 2:47 |

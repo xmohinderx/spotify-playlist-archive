@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Alleen maar motion en good vibes\. Cover: Lani Manila
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,465 likes - 77 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,501 likes - 77 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 22 | [Designed By The Divine](https://open.spotify.com/track/2Uc6BX7wCobNV33MLhA0BB) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Designed By The Divine](https://open.spotify.com/album/01LTzLbVvIoPJVNwWVPMiD) | 5:45 |
 | 23 | [Chickie](https://open.spotify.com/track/7AiAxbSpcnZ5YRYnhwo1Eq) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Chickie](https://open.spotify.com/album/5O5FkfXq7uEgy32ZUjzonC) | 2:36 |
 | 24 | [Bad Amapiano](https://open.spotify.com/track/2bYyRHOUHCQ96uN4zhhvAK) | [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [Bad Amapiano](https://open.spotify.com/album/1dsbcc1rbFPtsPlbbE0Bb2) | 4:04 |
-| 25 | [Playa Del Inglés](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Playa Del Inglés](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 |
+| 25 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PLAYA DEL INGLÉS](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 |
 | 26 | [TULUM](https://open.spotify.com/track/4sn8BsbmAsrDvB3EGsMcNv) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [TULUM](https://open.spotify.com/album/0CuYFmRymmCpb3TU9OUf2F) | 2:49 |
 | 27 | [Stunten](https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Strandje Aan De Maas](https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA) | 3:26 |
 | 28 | [All I Want For Christmas Is A Klaksbeat](https://open.spotify.com/track/1ChjcmCGJst5DyiaPFjsXs) | [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i), [Kinoh](https://open.spotify.com/artist/2DL90GeChXppBBui74CXlp), [Trevv](https://open.spotify.com/artist/0imoHB5M7KW6B9PApK7rMb) | [All I Want For Christmas Is A Klaksbeat](https://open.spotify.com/album/4NPLgh9dLfGdayk623LJxT) | 1:45 |

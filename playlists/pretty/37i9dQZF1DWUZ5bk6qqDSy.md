@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 
 > Welcome to the soothing hum...
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,486 likes - 263 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,125 likes - 263 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

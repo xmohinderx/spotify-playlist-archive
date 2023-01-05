@@ -1250,6 +1250,24 @@
     },
     {
       "album": {
+        "name": "NR5",
+        "url": "https://open.spotify.com/album/1mJesBtaqgysGAlk9aFWuZ"
+      },
+      "artists": [
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226622,
+      "name": "NR5",
+      "url": "https://open.spotify.com/track/6IAVU9psKD2kJ2bGg4Vemp"
+    },
+    {
+      "album": {
         "name": "Num T\u00e1s a Ver",
         "url": "https://open.spotify.com/album/3EPH6O8BFddFW7YkqX3hYq"
       },
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 172560,
       "name": "S\u00f3 Se N\u00e3o Quiseres",
       "url": "https://open.spotify.com/track/0dTFrJx3UeD54dZhGXBeNb"

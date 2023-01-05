@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 7869,
+  "num_followers": 7886,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDAxNWVkMWZjNmU0YWFiYTE1MTZkMzNjMWI0NGMyYmFj",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGJjYTBiMDBiZTdhZTdiYzYzNmJhOWY2ZTczMGZmYmEy",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Benton County Relic",
-        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "3rd Degree (Remastered)",
         "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 293293,
       "name": "Mojo Boogie - Remastered",
       "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Benton County Relic",
+        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues in My Soul",
-        "url": "https://open.spotify.com/album/6DnRYbXM7x4vBFcaAS8NWU"
-      },
-      "artists": [
-        {
-          "name": "Lurrie Bell",
-          "url": "https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "I Feel so Good",
-      "url": "https://open.spotify.com/track/1P7QsV7OG46lyLy85Mmd2v"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Got Soul",
         "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 212293,
       "name": "Got Soul",
       "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues in My Soul",
+        "url": "https://open.spotify.com/album/6DnRYbXM7x4vBFcaAS8NWU"
+      },
+      "artists": [
+        {
+          "name": "Lurrie Bell",
+          "url": "https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "I Feel so Good",
+      "url": "https://open.spotify.com/track/1P7QsV7OG46lyLy85Mmd2v"
     },
     {
       "added_at": "2020-12-01 05:01:00",

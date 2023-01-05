@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 78324,
+  "num_followers": 78909,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDA2MCwwMDAwMDAwMDhiNGNlNTQ3ZGJkZjQzZjA5ZDY2M2RhOGMyMjJlYjJm",
+  "snapshot_id": "MTY3MTc1MDA2MCwwMDAwMDAwMDgzZjE3Njg2OWUyODgzMzRkMTBlMGQ2MThkZTcwYzQz",
   "tracks": [
     {
       "added_at": "2022-12-22 23:01:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-12-22 23:01:00",
       "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 231437,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
         "name": "Asura EP",
         "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 288671,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
-    },
-    {
-      "added_at": "2022-12-22 23:01:00",
-      "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 231437,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
     },
     {
       "added_at": "2022-12-22 23:01:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Let's Be Free",
-        "url": "https://open.spotify.com/album/2RQ7Tg8QJ46zF4jkiF1dAE"
+        "name": "You Look at Me",
+        "url": "https://open.spotify.com/album/5o5sPwEAVLG92IQVlTRTr0"
       },
       "artists": [
         {
-          "name": "Kaspar",
-          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
         }
       ],
-      "duration_ms": 362666,
-      "name": "Let's Be Free",
-      "url": "https://open.spotify.com/track/2zbHr6Xp7gc9LUKeDWB7pB"
+      "duration_ms": 367846,
+      "name": "You Look at Me",
+      "url": "https://open.spotify.com/track/05L5ExA33eJEEiuTwXB1up"
     }
   ],
   "unique_name": "Techno Workout",

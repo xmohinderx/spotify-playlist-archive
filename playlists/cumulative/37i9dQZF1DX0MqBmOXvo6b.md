@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-505 songs - 21 hr 44 min - [published](https://open.spotify.com/playlist/15RUXksGluTeXbT9B9rphD)
+506 songs - 21 hr 47 min - [published](https://open.spotify.com/playlist/15RUXksGluTeXbT9B9rphD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Amalfi](https://open.spotify.com/track/2SlARTbg8VmWVF4cG7imB8) | [Gente di Toscana](https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q) | [Amalfi](https://open.spotify.com/album/1hYAAyHzrnvecWC4w15N7p) | 2:08 | 2022-06-07 | 2022-12-24 |
 | [Amaprinces Bend](https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amaprinces Bend](https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR) | 3:12 | 2022-06-07 |  |
 | [Amaryllis](https://open.spotify.com/track/2WaBWRReKqvbWBi2ATw5QE) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Amaryllis](https://open.spotify.com/album/63RlPJTM1SC2knHQtbspf2) | 2:21 | 2022-06-07 | 2022-09-15 |
+| [Ambiguos](https://open.spotify.com/track/4ckUU6TR19hXSAc5C0DdIf) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Ambiguos](https://open.spotify.com/album/0GK3JsrJx1KfurBpPzjNau) | 3:11 | 2023-01-05 |  |
 | [Amžinai](https://open.spotify.com/track/2GhP0T49fLFO6FfGLl7TC2) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Amžinai](https://open.spotify.com/album/5iobYRYPuGTOSQMgzXaqpc) | 2:04 | 2022-06-07 |  |
 | [An Ocean Of Memories](https://open.spotify.com/track/1AlgXoj042cGzdQ2SybcSk) | [Maddison Howells](https://open.spotify.com/artist/2IC6rSlT5Gmdqf3yiMIzzl) | [An Ocean Of Memories](https://open.spotify.com/album/0d07WU02I7aOlBnviJkeFe) | 2:53 | 2022-06-07 | 2022-11-17 |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-06-07 |  |
@@ -440,7 +441,7 @@
 | [Thrones](https://open.spotify.com/track/1NHvSdiYTx5KMUgu4hTQoA) | [Arelius](https://open.spotify.com/artist/5EPSFsZ4hH2NhjBNsVwQfH) | [Sleepwalker](https://open.spotify.com/album/5WTzeQpQUQXwWQFDsgei3o) | 1:59 | 2022-06-07 | 2022-09-24 |
 | [Tinamou](https://open.spotify.com/track/5YlLdGZVzIJq2XLa4NbrZT) | [Hayden Cargile](https://open.spotify.com/artist/6QrTfzchTKSeDGSBqLbk1o) | [Tinamou](https://open.spotify.com/album/5OjbY0PN6lQmDdaXWMiPJM) | 2:35 | 2022-06-07 |  |
 | [Tiny Ballerina](https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Small and Alone](https://open.spotify.com/album/4vLhgEWo4HzZmAMnIwLaBk) | 2:25 | 2022-06-07 | 2022-09-24 |
-| [Toruń](https://open.spotify.com/track/1Qc0WMGqchtXtdWTAfDUGm) | [Juliusz Borkowska](https://open.spotify.com/artist/6jwKQMPX4P5iKJCjhMSD1z) | [Toruń](https://open.spotify.com/album/0To9frFAZTVtsAxx2smerL) | 2:35 | 2022-06-07 |  |
+| [Toruń](https://open.spotify.com/track/1Qc0WMGqchtXtdWTAfDUGm) | [Juliusz Borkowska](https://open.spotify.com/artist/6jwKQMPX4P5iKJCjhMSD1z) | [Toruń](https://open.spotify.com/album/0To9frFAZTVtsAxx2smerL) | 2:35 | 2022-06-07 | 2023-01-05 |
 | [Traces](https://open.spotify.com/track/5F9n6BJytzN6kqEQR2wv05) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:01 | 2022-06-07 |  |
 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2022-06-07 | 2022-09-24 |
 | [Tracing the Sky](https://open.spotify.com/track/7DuRtVOXIo2EKXUmcMMKgx) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 3:50 | 2022-09-14 |  |

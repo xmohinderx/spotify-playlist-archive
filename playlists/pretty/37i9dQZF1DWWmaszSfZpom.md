@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacaré
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,381 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,396 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 40 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 |
 | 41 | [Na Raba Toma Tapão](https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Na Raba Toma Tapão](https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP) | 2:45 |
 | 42 | [Baile de Favela](https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB) | [Mc João](https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP) | [Mc João](https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo) | 2:50 |
-| 43 | [Espirra o Lança](https://open.spotify.com/track/0IOLlXSZt9z2ydmH5FzIj7) | [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Espirra o Lança](https://open.spotify.com/album/0Q8Ua0fbWMDzsEdZDFMhu4) | 3:10 |
-| 44 | [Hold On](https://open.spotify.com/track/3RxGyHENpCxW6tzbmZcU9g) | [very man](https://open.spotify.com/artist/6VyCj6GWCeZLDFlfbtnSwR) | [Hold On](https://open.spotify.com/album/64cKZPUR55ReYOBlVsozyT) | 2:59 |
+| 43 | [Hold On](https://open.spotify.com/track/3RxGyHENpCxW6tzbmZcU9g) | [very man](https://open.spotify.com/artist/6VyCj6GWCeZLDFlfbtnSwR) | [Hold On](https://open.spotify.com/album/64cKZPUR55ReYOBlVsozyT) | 2:59 |
+| 44 | [Espirra o Lança](https://open.spotify.com/track/0IOLlXSZt9z2ydmH5FzIj7) | [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Espirra o Lança](https://open.spotify.com/album/0Q8Ua0fbWMDzsEdZDFMhu4) | 3:10 |
 | 45 | [Cheia de Marra](https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheia de Marra](https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4) | 4:27 |
 | 46 | [É sempre assim](https://open.spotify.com/track/2dwkCNgPmMqTjofwDCUZHu) | [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Gui Andrade](https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI) | [É sempre assim](https://open.spotify.com/album/0rhRbPFgLhjibgPhUHYQU3) | 2:38 |
 | 47 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 74 | [Para não](https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Para não](https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf) | 2:44 |
 | 75 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 
-Snapshot ID: `MTY2NTc2OTI0MCwwMDAwMDAwMDUyZjIwMzg4MTVjY2NmZmY1OTIwNWFlZDA1NzYxOTc5`
+Snapshot ID: `MTY2NTc2OTI0MCwwMDAwMDAwMDY0ZjY1YTVmNDQwNmUyMGU0YTc2MWEwYzczOGVhMzMy`

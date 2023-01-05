@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-940 songs - 2 day 0 hr 18 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
+941 songs - 2 day 0 hr 23 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [25 É Natal, 31 É Ano Novo \(feat\. MC GW\)](https://open.spotify.com/track/0qdmtPBXo9maD7z8YYWA1i) | [Barca Na Batida](https://open.spotify.com/artist/1Bg1sE2gUJKKP3m6betC2Z), [Luanzinho do Recife](https://open.spotify.com/artist/16U5nhRND5RH4wYyvhIPBe), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [25 É Natal, 31 É Ano Novo](https://open.spotify.com/album/5wryKJCOHnnnTBSrXG8oIB) | 2:40 | 2022-12-26 | 2023-01-02 |
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-11-06 | 2022-11-11 |
 | [29](https://open.spotify.com/track/0REv856zadB0e8IM1brlwr) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 2:43 | 2022-09-14 | 2022-09-28 |
+| [31.12](https://open.spotify.com/track/5OnLTl50NWpwZbY6OdAw2B) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Os Anjos Cantam](https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt) | 4:23 | 2023-01-04 |  |
 | [7 Ligações](https://open.spotify.com/track/5TafECxsAuQHec0pbCetnW) | [vaqueiro desmantelado](https://open.spotify.com/artist/60k7um8B3hK7IID8qIZfQs), [Edu Matuto](https://open.spotify.com/artist/0ETDS7UgEhnskP0MD5i7AL) | [7 Ligações](https://open.spotify.com/album/0evvuV0Q3BZKfLNwxJIRTL) | 2:49 | 2022-12-28 |  |
 | [A Caminho do Bega](https://open.spotify.com/track/1JIKO27MqvSpjrnUCT6fLC) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [MC DOM LP](https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W), [Mc L3](https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna) | [A Caminho do Bega](https://open.spotify.com/album/3MNPKL9eM0VsPsd1oc5FQ2) | 1:59 | 2022-09-16 | 2022-09-18 |
 | [A Coleção](https://open.spotify.com/track/5Ezk6ZDIQ5BguYF8kzZmdi) | [OUHBOY JUA](https://open.spotify.com/artist/7evJI9jaJ082JPpu7arMaZ) | [A Coleção](https://open.spotify.com/album/4jaJYOs7gzbsUoucGZJb0e) | 1:51 | 2022-05-09 | 2023-01-04 |
@@ -166,7 +167,7 @@
 | [Cade o Beck](https://open.spotify.com/track/2yoiVPbCx6utwAYVjlkZNQ) | [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5), [DJ R7](https://open.spotify.com/artist/6WuTZb8WWZ5xitAQrgAJY2) | [Cade o Beck](https://open.spotify.com/album/1NltpnCdLaUHR8XQFSyjrB) | 2:17 | 2022-03-21 | 2022-04-19 |
 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 | 2022-02-10 | 2022-03-30 |
 | [California Dreamin' \- 2007 Digital Remaster](https://open.spotify.com/track/4MHzXgBy7hexDe2Bto11hP) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Warmth Of The Sun](https://open.spotify.com/album/2dZC8JN4oGdw4BrRzmvS4m) | 3:24 | 2022-06-03 | 2022-06-10 |
-| [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-12-28 |  |
+| [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-12-28 | 2023-01-05 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-09-20 |  |
 | [Camisa Amarela](https://open.spotify.com/track/0e6MvlRjXRteoo0H3JOBOl) | [Movimento Verde Amarelo](https://open.spotify.com/artist/5lyUbycl59awTz9lHwrLeh) | [Movimento Verde Amarelo](https://open.spotify.com/album/44yqcxU1rUSPYMBVre9P7e) | 1:50 | 2022-11-26 | 2022-12-03 |
 | [Camisa de Time \(Desce Só de Label\)](https://open.spotify.com/track/5oF3fkS6ZVqmb3W5UJc0s8) | [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5) | [Camisa de Time \(Desce Só de Label\)](https://open.spotify.com/album/3jhqCIMpu2YIu6hq4dzhPw) | 2:39 | 2022-12-29 |  |

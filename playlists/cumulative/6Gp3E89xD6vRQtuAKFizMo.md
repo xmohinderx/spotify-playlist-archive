@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-121 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+122 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [No Brakes](https://open.spotify.com/track/2rNt0cXjLDLefeCItQrFwG) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Brakes](https://open.spotify.com/album/7o60ves6sdc3vr5LuUpK3Y) | 2:41 | 2022-05-06 | 2022-10-28 |
 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 | 2022-05-06 | 2022-10-08 |
 | [One More Time](https://open.spotify.com/track/16qzW0XywVLTpAhCwPH8y6) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [One More Time](https://open.spotify.com/album/32INDtZDynyEP0PqpLiOog) | 2:40 | 2022-05-06 |  |
+| [OPEN YOUR EYES](https://open.spotify.com/track/6NU79Y1bRxbHwqSYdWUL2h) | [THIEVES](https://open.spotify.com/artist/0l6M2vf0lC8N42B4spXUSn), [BADVOID](https://open.spotify.com/artist/1xLTclBBWlypMWDMV8Eb6O) | [OPEN YOUR EYES](https://open.spotify.com/album/6ZHkAA8tCE9803lwFAgwKU) | 3:12 | 2023-01-04 |  |
 | [Oro Negro](https://open.spotify.com/track/47CgO81InO20CWqKR7bfWC) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Oro Negro](https://open.spotify.com/album/0UufG3fDNZCkVc1mmR59yJ) | 2:13 | 2022-05-06 | 2022-09-10 |
 | [Osaka Psycho](https://open.spotify.com/track/4al48UReBtAEGNK48WLPCR) | [SWAGE](https://open.spotify.com/artist/4AX69F3L6j5N4wZFUaXYdc) | [Osaka Psycho](https://open.spotify.com/album/5gANRMe0nkkXIBhQ4d3ptr) | 3:44 | 2022-12-20 |  |
 | [Own The Night](https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Own The Night](https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3) | 3:00 | 2022-05-06 |  |
@@ -106,7 +107,7 @@
 | [Such A Fool](https://open.spotify.com/track/0X3byZemxzyGTIIA7A2WGS) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Such A Fool](https://open.spotify.com/album/6hx1sl6hIlnIpRizDhTId2) | 3:02 | 2022-05-06 |  |
 | [Summer Lasts Forever \(feat\. Love Jesse\)](https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Love Jesse](https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:40 | 2022-09-23 | 2022-12-07 |
 | [Summertime in New York](https://open.spotify.com/track/6kBvishfePtr8auksmpGUn) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Summertime in New York](https://open.spotify.com/album/4heCdWP7dkEcGtHWQUfXMF) | 3:19 | 2022-05-06 | 2022-07-28 |
-| [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-05-06 |  |
+| [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-05-06 | 2023-01-05 |
 | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe) | 4:00 | 2022-08-26 |  |
 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r) | 2:23 | 2022-05-06 | 2022-09-07 |
 | [Tempest](https://open.spotify.com/track/5gCKPDM4n94TD4c0D8fxJj) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Return To Form](https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX) | 3:15 | 2022-08-12 |  |

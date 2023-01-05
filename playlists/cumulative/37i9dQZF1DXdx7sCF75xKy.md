@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdx7sCF75xKy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdx7sCF75xKy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdx7sCF75xKy)
 
-### [EQUAL Singapore & Malaysia 2022](https://open.spotify.com/playlist/37i9dQZF1DXdx7sCF75xKy)
+### [EQUAL Singapore & Malaysia](https://open.spotify.com/playlist/37i9dQZF1DXdx7sCF75xKy)
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Bunga
 
@@ -251,7 +251,7 @@
 | [Lalai](https://open.spotify.com/track/5k7Fk0ndwJsQAjOMui8XpK) | [Baby Shima](https://open.spotify.com/artist/6b8ra1rFH1RtPCHWYEkaA5) | [Lalai](https://open.spotify.com/album/121e6ExFpnThDS7CdjVjSk) | 3:16 | 2022-01-04 | 2022-02-03 |
 | [Lara](https://open.spotify.com/track/6mkq1Bu5ZwOy0z3Q8TsJ7a) | [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Lara](https://open.spotify.com/album/30OwkyOZdoPojWEnZ7kwlK) | 4:23 | 2022-09-06 | 2022-10-05 |
 | [Lara Suri](https://open.spotify.com/track/7bxKfK4gnSziSasBQRgimD) | [Hannah Delisha](https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ) | [Lara Suri](https://open.spotify.com/album/343Xyz7u92gwPLyTA9hQvU) | 3:42 | 2022-04-05 | 2022-05-04 |
-| [LATE NITE SNACK](https://open.spotify.com/track/5lkzzjIHT9pCDVYM2Bc3YY) | [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [Vr\-Gf](https://open.spotify.com/album/5ZVwaC2rMaDo5HKcMzZJ0y) | 2:25 | 2023-01-03 |  |
+| [LATE NITE SNACK](https://open.spotify.com/track/5lkzzjIHT9pCDVYM2Bc3YY) | [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [VR\-GF](https://open.spotify.com/album/5ZVwaC2rMaDo5HKcMzZJ0y) | 2:25 | 2023-01-03 |  |
 | [Layu Sebelum Berkembang](https://open.spotify.com/track/3Jo6QlucEtDsgZ1XblzAbk) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Inilah Jac\. \- Edisi Terhad](https://open.spotify.com/album/2HXENRheufZGiKQlKQCAe9) | 3:47 | 2022-11-01 | 2022-12-01 |
 | [LDR \- Long\-Distance Relationship](https://open.spotify.com/track/67heGxkX8txhtkyfPXkj5M) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [LDR \(Long\-Distance Relationship\)](https://open.spotify.com/album/4arYXBTaHBY7YVGJtAPEey) | 2:23 | 2022-05-03 | 2022-06-01 |
 | [Learn](https://open.spotify.com/track/24GyYNOvfme07GgjlZA87O) | [Krysta Joy](https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS) | [Embrace the Progress](https://open.spotify.com/album/3P1e7FTHk3azetFYob0Pjz) | 2:17 | 2021-12-07 | 2022-01-05 |
@@ -260,7 +260,7 @@
 | [Lelaki Teragung](https://open.spotify.com/track/6g4ZuCOfJyY48vCaxA4yRu) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV) | [Dayang Nurfaizah](https://open.spotify.com/album/5I6b16jmnf5nIIelgi8L4f) | 3:55 | 2022-07-07 | 2022-08-03 |
 | [Lenggang](https://open.spotify.com/track/5CZQj5Xz2BJ82535OJaKhA) | [Khodi](https://open.spotify.com/artist/2e3lW79sSCTJmE9U5AcYFE) | [Lenggang](https://open.spotify.com/album/6Xffxg2TEsd7GAsoCx05Iy) | 2:39 | 2022-04-05 | 2022-05-04 |
 | [Let's Never Talk About It](https://open.spotify.com/track/6oxjlxrcfeUpoEM6jyOBPs) | [Chloe Ho](https://open.spotify.com/artist/7byfBlKrHxvaPLNi4BGkq3) | [Let's Never Talk About It](https://open.spotify.com/album/0j8Bibkb5sg2ISCJ1ZCXzq) | 2:03 | 2022-03-07 | 2022-04-06 |
-| [Lie 2 U](https://open.spotify.com/track/0PyyrUDvRzigzDphKKGSU4) | [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [Vr\-Gf](https://open.spotify.com/album/5ZVwaC2rMaDo5HKcMzZJ0y) | 3:06 | 2023-01-03 |  |
+| [Lie 2 U](https://open.spotify.com/track/0PyyrUDvRzigzDphKKGSU4) | [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [VR\-GF](https://open.spotify.com/album/5ZVwaC2rMaDo5HKcMzZJ0y) | 3:06 | 2023-01-03 |  |
 | [Lihatlah](https://open.spotify.com/track/18k5Gh37jIAemIksGbCj2y) | [Yazmin Aziz](https://open.spotify.com/artist/45zTHOPOnQwfIIKnnZ10NG) | [Lihatlah](https://open.spotify.com/album/7qQwQDIwoI7uUMF7jW33qe) | 3:21 | 2022-02-02 | 2022-03-08 |
 | [Lip Lap Raya](https://open.spotify.com/track/6HQEMPg896heLMLpcU4d9Z) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Lip Lap Raya](https://open.spotify.com/album/5Yc5oRuIzlUzcL9ZhG38mO) | 2:38 | 2022-05-03 | 2022-06-01 |
 | [Little Trouble Girl](https://open.spotify.com/track/5vUwfu0S0dioepoF1BvNob) | [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [Daiyan Trisha The Album](https://open.spotify.com/album/4OCWbpi7d7y6iRXisiZgz2) | 3:24 | 2023-01-03 |  |

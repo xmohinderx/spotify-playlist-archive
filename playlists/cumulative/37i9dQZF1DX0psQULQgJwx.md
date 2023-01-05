@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA.
 
-103 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
+104 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adrift](https://open.spotify.com/track/4omXz2PI3nVWBWo8QfUIrk) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Adrift](https://open.spotify.com/album/7rxtpynRElW9XYlujynm5c) | 4:31 | 2022-09-02 |  |
 | [Agoritsa](https://open.spotify.com/track/4lrHlM0lAZe1QlzNO23f2G) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 3:00 | 2022-09-02 |  |
 | [Akasha](https://open.spotify.com/track/5q4J2KGLDooMaYvsc2WxAu) | [Ewa Drishti](https://open.spotify.com/artist/36bqrOQ7m5YgPYvqSWuw7q) | [Akasha](https://open.spotify.com/album/3PmQ3GHAVKAmZkwP1NyQpA) | 2:51 | 2022-09-02 |  |
+| [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [Space Between Clouds](https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 | 2023-01-04 |  |
 | [Andaz](https://open.spotify.com/track/4isjKciq9yrInyKELj2iGn) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 3:22 | 2022-09-02 |  |
 | [Angel Dust](https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:10 | 2022-09-02 |  |
 | [Arabian Spa](https://open.spotify.com/track/2eINxDGMgnKBMZARjqtr4R) | [Spiritual Concepts](https://open.spotify.com/artist/6FhOqTnCaT3K3q05l7TfFA) | [Arabian Spa](https://open.spotify.com/album/438FxHslucydZ8YQxjQKqQ) | 1:28 | 2022-09-23 |  |
@@ -22,7 +23,7 @@
 | [At last](https://open.spotify.com/track/1lNdqczd0uKZcioivNQZBt) | [Alannah Hammer](https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn) | [At last](https://open.spotify.com/album/24NHRvgtq3lBESZ98LLDdd) | 3:30 | 2022-09-02 |  |
 | [At the Old Village](https://open.spotify.com/track/6ntmm1oBcl7JIjEIQJqSLQ) | [Zhu Lin](https://open.spotify.com/artist/5kVqstdlRUQK3cIHbOsyF0) | [Bamboo Forest](https://open.spotify.com/album/2gImx0N8Hm1OrfcUB2jTiw) | 3:52 | 2022-09-02 |  |
 | [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 | 2022-09-02 |  |
-| [Choshi or Shirabe](https://open.spotify.com/track/0dvWqDcjdP8SIXLRuaYuA6) | [Stan Richardson](https://open.spotify.com/artist/3hCNzCde5ddHVbysLGnImt) | [Shakuhachi Meditation Music](https://open.spotify.com/album/5WQCyENQ8DSX6Eqs952moH) | 4:52 | 2022-09-02 |  |
+| [Choshi or Shirabe](https://open.spotify.com/track/0dvWqDcjdP8SIXLRuaYuA6) | [Stan Richardson](https://open.spotify.com/artist/3hCNzCde5ddHVbysLGnImt) | [Shakuhachi Meditation Music](https://open.spotify.com/album/5WQCyENQ8DSX6Eqs952moH) | 4:52 | 2022-09-02 | 2023-01-05 |
 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 | 2022-09-02 |  |
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
 | [Cradle of Life](https://open.spotify.com/track/1eihRcf7w68iW9IPTs76fc) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Cradle of Life](https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc) | 2:25 | 2022-09-02 |  |

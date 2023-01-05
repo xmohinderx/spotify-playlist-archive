@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 48480,
+  "num_followers": 48514,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGI2YWZmYjlmNDgxYTBjNGViNzM3MzcwYzA4YjU1NjBl",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDE0MzI3YjEzMDhmMTkyNDBkOWM3ZjkyM2M4NmY5ZDEw",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Year After",
-        "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
-      },
-      "artists": [
-        {
-          "name": "French 79",
-          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
-        }
-      ],
-      "duration_ms": 428936,
-      "name": "The Year After",
-      "url": "https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Mellowdramatic",
         "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Patterns & Light",
-        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
+        "name": "The Year After",
+        "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
       },
       "artists": [
         {
-          "name": "Kodomo",
-          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
         }
       ],
-      "duration_ms": 295049,
-      "name": "Red Giant",
-      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
+      "duration_ms": 428936,
+      "name": "The Year After",
+      "url": "https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -631,6 +615,22 @@
       "duration_ms": 391680,
       "name": "Take Your Place",
       "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Patterns & Light",
+        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
+      },
+      "artists": [
+        {
+          "name": "Kodomo",
+          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
+        }
+      ],
+      "duration_ms": 295049,
+      "name": "Red Giant",
+      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -779,22 +779,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "What I Saw That Night",
-        "url": "https://open.spotify.com/album/2aivF6gzeacxE64m0jvfGU"
+        "name": "Ibb & Obb (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
       },
       "artists": [
         {
-          "name": "Ak\u0131n Paksoy",
-          "url": "https://open.spotify.com/artist/3CeeyVbfjyxwIWmH5us6vZ"
-        },
-        {
-          "name": "Velectric",
-          "url": "https://open.spotify.com/artist/7Io8HoUECnnnjZT9iPMhTm"
+          "name": "Kettel",
+          "url": "https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp"
         }
       ],
-      "duration_ms": 420465,
-      "name": "What I Saw That Night",
-      "url": "https://open.spotify.com/track/4ApOByOlG6mFtAtn7TjEs1"
+      "duration_ms": 154781,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -815,18 +811,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Ibb & Obb (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
+        "name": "What I Saw That Night",
+        "url": "https://open.spotify.com/album/2aivF6gzeacxE64m0jvfGU"
       },
       "artists": [
         {
-          "name": "Kettel",
-          "url": "https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp"
+          "name": "Ak\u0131n Paksoy",
+          "url": "https://open.spotify.com/artist/3CeeyVbfjyxwIWmH5us6vZ"
+        },
+        {
+          "name": "Velectric",
+          "url": "https://open.spotify.com/artist/7Io8HoUECnnnjZT9iPMhTm"
         }
       ],
-      "duration_ms": 154781,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
+      "duration_ms": 420465,
+      "name": "What I Saw That Night",
+      "url": "https://open.spotify.com/track/4ApOByOlG6mFtAtn7TjEs1"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Haunted House of House",
-        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 346640,
-      "name": "Cow Palace",
-      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "When the Rain",
         "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 400327,
       "name": "Deep Eyes Blue Skies",
       "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Haunted House of House",
+        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 346640,
+      "name": "Cow Palace",
+      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Excess EP",
-        "url": "https://open.spotify.com/album/7qi7DRAYNMj9K1lTDHjACE"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 432047,
-      "name": "Excess",
-      "url": "https://open.spotify.com/track/5XwKGsHvBI5c7cSJh3qTLY"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Occasional Magic Remixes EP",
         "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Excess EP",
+        "url": "https://open.spotify.com/album/7qi7DRAYNMj9K1lTDHjACE"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 432047,
+      "name": "Excess",
+      "url": "https://open.spotify.com/track/5XwKGsHvBI5c7cSJh3qTLY"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "The Two of Us",
         "url": "https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 344978,
       "name": "Trivia",
       "url": "https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Find Myself EP",
+        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
+      },
+      "artists": [
+        {
+          "name": "Danny B",
+          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
+        }
+      ],
+      "duration_ms": 364579,
+      "name": "Raw Charmer",
+      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Find Myself EP",
-        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
+        "name": "Reachy Prints",
+        "url": "https://open.spotify.com/album/4nwAU3LuHt6nL5KLqhzw1z"
       },
       "artists": [
         {
-          "name": "Danny B",
-          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
         }
       ],
-      "duration_ms": 364579,
-      "name": "Raw Charmer",
-      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
+      "duration_ms": 288554,
+      "name": "Hawkmoth",
+      "url": "https://open.spotify.com/track/44MqpNL8xdtG3hTT2QWbQ4"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Reachy Prints",
-        "url": "https://open.spotify.com/album/4nwAU3LuHt6nL5KLqhzw1z"
+        "name": "Mellowdramatic",
+        "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
       },
       "artists": [
         {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+          "name": "A Forest Mighty Black",
+          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
         }
       ],
-      "duration_ms": 288554,
-      "name": "Hawkmoth",
-      "url": "https://open.spotify.com/track/44MqpNL8xdtG3hTT2QWbQ4"
+      "duration_ms": 478373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1355,22 +1371,6 @@
       "duration_ms": 308576,
       "name": "VIEW FROM MY BALCONY AT NIGHT",
       "url": "https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Imperal",
-        "url": "https://open.spotify.com/album/1rligguDD9DJxh9UluyQ4p"
-      },
-      "artists": [
-        {
-          "name": "Technopeuten",
-          "url": "https://open.spotify.com/artist/6wbH1j8fd9d0OqJWyBfAiY"
-        }
-      ],
-      "duration_ms": 390444,
-      "name": "Imperal",
-      "url": "https://open.spotify.com/track/40xiWanqJVhIu4ZF3UMAdq"
     }
   ],
   "unique_name": "Deep Study",

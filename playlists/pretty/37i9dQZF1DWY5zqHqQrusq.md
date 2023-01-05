@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind
 
-[Spotify](https://open.spotify.com/user/spotify) - 830 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 843 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 33 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 |
 | 34 | [Like You](https://open.spotify.com/track/5H3ej9j2jqgGEN6qIXTnEq) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Kinoti](https://open.spotify.com/artist/5W3d0G7a0NxEBvDItmRenz) | [Wuodh Hera](https://open.spotify.com/album/4n8DWVD48VkPBhcbZ4mU1U) | 3:43 |
 | 35 | [Sugar Rush](https://open.spotify.com/track/5v8bHru9HBHysftNF2orLb) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:49 |
-| 36 | [Sasa Hivi \- Stripped Down](https://open.spotify.com/track/1Qk7oSqD7oE61MfyxzGRQR) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Ashley Music](https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd) | [Sasa Hivi](https://open.spotify.com/album/21QfGfMQr8s4EAmZqdcXVg) | 4:22 |
+| 36 | [Sasa Hivi \[Stripped Down\]](https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Ashley Music](https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd) | [Sasa Hivi \[Stripped Down\]](https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig) | 4:22 |
 | 37 | [Oceans](https://open.spotify.com/track/50eCGnJmjeJU1HfjmcdK2N) | [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Oceans](https://open.spotify.com/album/2xhSN6qB5HsKwWUFLUhMyI) | 3:15 |
 | 38 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 |
 | 39 | [Enough](https://open.spotify.com/track/2dDXkA6w6uq2PIlJwnSfjy) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [CHANGES](https://open.spotify.com/track/7zbnpZxFc5xlqHvDr7bZE0) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 3:24 |
 | 50 | [Jaded](https://open.spotify.com/track/2oUqHt6WhKih0nmfHhVj3J) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM) | 3:46 |
 
-Snapshot ID: `MTY2ODUwMzg1OSwwMDAwMDAwMGYzNzY3NmI4YTQyYzE4NTFhNzY1MGViNDA3NzNkNGVi`
+Snapshot ID: `MTY2ODUwMzg1OSwwMDAwMDAwMDdmYmNhMGI1ODVmYzE3NmIzZjk5N2RkNDU3ZTY1ZWIz`

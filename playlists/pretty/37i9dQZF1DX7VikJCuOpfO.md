@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez, Jessie Uribe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,095 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,098 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,13 +78,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 68 | [Muchachita](https://open.spotify.com/track/1L9O9z8CIG22aKrpPeHVeV) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Muchachita](https://open.spotify.com/album/1h7jNF4sKtT7NQtJn7v0j3) | 3:05 |
 | 69 | [Triste](https://open.spotify.com/track/5HJQxI2xwe0tCmNcv0v8Dm) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Renacer](https://open.spotify.com/album/6DlpxVdn2Pzyu0UISlJDDs) | 3:26 |
 | 70 | [Te Lo Dije](https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Te Lo Dije](https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt) | 2:33 |
-| 71 | [Ni Mil Borracheras](https://open.spotify.com/track/25NjLnKXEdIej9i6UPqcH0) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Ni Mil Borracheras](https://open.spotify.com/album/5RDA15u0ykWlGmvpsyvUCw) | 2:31 |
-| 72 | [Amantes Prohibidos](https://open.spotify.com/track/37IGn3GceVV7mugn1ohVwh) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Lo Más Romantico De](https://open.spotify.com/album/6eqm0Wkv9LvLXZEDzeMbzl) | 3:27 |
+| 71 | [Amantes Prohibidos](https://open.spotify.com/track/37IGn3GceVV7mugn1ohVwh) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Lo Más Romantico De](https://open.spotify.com/album/6eqm0Wkv9LvLXZEDzeMbzl) | 3:27 |
+| 72 | [Ni Mil Borracheras](https://open.spotify.com/track/25NjLnKXEdIej9i6UPqcH0) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Ni Mil Borracheras](https://open.spotify.com/album/5RDA15u0ykWlGmvpsyvUCw) | 2:31 |
 | 73 | [Quiero \- Mariachi](https://open.spotify.com/track/7hIwQgldC4w99nPtZyScgN) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 3:00 |
-| 74 | [Camino de Guanajuato](https://open.spotify.com/track/3EmuCJLsfucbTDGHGLKAob) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [12 Exitos De Oro](https://open.spotify.com/album/3Vw9kRLM5ahVvR1jj34INt) | 3:13 |
+| 74 | [Amarlas Es Un Placer](https://open.spotify.com/track/79TGd2i6kti3xxiVP5wDWU) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Quinto Elemento \(Deluxe\)](https://open.spotify.com/album/2202BXQpm7R0eKyyZk5BlX) | 3:17 |
 | 75 | [Olvídalo](https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Olvídalo](https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt) | 3:16 |
 | 76 | [El Mejor Regalo](https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Mejor Regalo](https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd) | 2:43 |
-| 77 | [Amarlas Es Un Placer](https://open.spotify.com/track/79TGd2i6kti3xxiVP5wDWU) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Quinto Elemento \(Deluxe\)](https://open.spotify.com/album/2202BXQpm7R0eKyyZk5BlX) | 3:17 |
+| 77 | [Camino de Guanajuato](https://open.spotify.com/track/3EmuCJLsfucbTDGHGLKAob) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [12 Exitos De Oro](https://open.spotify.com/album/3Vw9kRLM5ahVvR1jj34INt) | 3:13 |
 | 78 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
 | 79 | [Mala Racha](https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mala Racha](https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv) | 2:46 |
 | 80 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 85 | [Hoy Te Manifiesto \- En Vivo](https://open.spotify.com/track/2UQ5SfMKJHuSTc3lKu5PnD) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Hoy Te Manifiesto \(En Vivo\)](https://open.spotify.com/album/62XufSGztVePCTjjVcsHKZ) | 5:35 |
 | 86 | [Decidí Olvidarte](https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Decidí Olvidarte](https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P) | 2:20 |
 | 87 | [Antes](https://open.spotify.com/track/2C92uAy0ZoaqmyVEXRbsat) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Antes](https://open.spotify.com/album/4ngSFRnkWETqnzLbRWN0Tx) | 3:28 |
-| 88 | [Pero Me Acuerdo de Ti](https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Pero Me Acuerdo de Ti](https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9) | 4:15 |
-| 89 | [Por Siempre Serás Mía](https://open.spotify.com/track/5AYT35hh3WcMoZnL2esSFx) | [Rogelio Martinez](https://open.spotify.com/artist/7o6sbyEJZOSvb84L987hVH) | [La Historia](https://open.spotify.com/album/1S1vrxaJ7yYL5j34xya1i0) | 3:31 |
+| 88 | [Por Siempre Serás Mía](https://open.spotify.com/track/5AYT35hh3WcMoZnL2esSFx) | [Rogelio Martinez](https://open.spotify.com/artist/7o6sbyEJZOSvb84L987hVH) | [La Historia](https://open.spotify.com/album/1S1vrxaJ7yYL5j34xya1i0) | 3:31 |
+| 89 | [Pero Me Acuerdo de Ti](https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Pero Me Acuerdo de Ti](https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9) | 4:15 |
 | 90 | [La Derrota](https://open.spotify.com/track/3CbJo5BR6Sbr708oJ9uic6) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6) | [La Derrota](https://open.spotify.com/album/0OLfv4jBTgcTLw42kEHJ4I) | 3:06 |
 | 91 | [Con Todo y Mi Tristeza \- Live](https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Con Todo y Mi Tristeza \(Live\)](https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL) | 4:18 |
 | 92 | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/track/0LPpHtoUCbSLEXno1CF1kW) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/album/7jg0q5OAZYGDL808LxnpRb) | 2:53 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 126 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 |
 | 127 | [Probablemente](https://open.spotify.com/track/3WVloZ8Z5h6vgKQ7wFhi2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Festivo](https://open.spotify.com/album/5dpj0D8wTg7QFG5VMashbU) | 3:53 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGEwYzMwNWY1ZjEwNmZhY2I0MjkwYjYzZDUwMDAzYzg3`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDZlYWY0MmNlYWRlMTk0MjAwMjYzMjdjMjdjMzI5MmQ5`

@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 235351,
+  "num_followers": 235689,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDQ3OGU0ODJmMTE4MTBkYmFjYThhM2NlYWRjYTFkMzJh",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGRiMzE3ZGI5ZTI2ZTlmMTdjOTI5MzE2NTViNjgyMzg2",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -409,38 +409,6 @@
       "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Places And Spaces",
-        "url": "https://open.spotify.com/album/6btV6MDYhXZ2F6ZKKUfvdh"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 369533,
-      "name": "Wind Parade",
-      "url": "https://open.spotify.com/track/4okz1TH0GeLw3J51pNRDGd"
-    },
-    {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
-        "name": "Jimmy's Groove",
-        "url": "https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 377171,
-      "name": "Jimmy's Groove",
-      "url": "https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx"
-    },
-    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "Comedown",
@@ -459,18 +427,18 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Dark Side Riddim / Samuel L.Riddim",
-        "url": "https://open.spotify.com/album/3xx8mVv8jR6rzFMGcq0VWY"
+        "name": "Places And Spaces",
+        "url": "https://open.spotify.com/album/6btV6MDYhXZ2F6ZKKUfvdh"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
         }
       ],
-      "duration_ms": 314811,
-      "name": "Dark Side Riddim",
-      "url": "https://open.spotify.com/track/5pIjTEPxQx4JJc14CkVlgf"
+      "duration_ms": 369533,
+      "name": "Wind Parade",
+      "url": "https://open.spotify.com/track/4okz1TH0GeLw3J51pNRDGd"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -487,6 +455,38 @@
       "duration_ms": 470640,
       "name": "Harlem River Drive",
       "url": "https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "Jimmy's Groove",
+        "url": "https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 377171,
+      "name": "Jimmy's Groove",
+      "url": "https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Dark Side Riddim / Samuel L.Riddim",
+        "url": "https://open.spotify.com/album/3xx8mVv8jR6rzFMGcq0VWY"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 314811,
+      "name": "Dark Side Riddim",
+      "url": "https://open.spotify.com/track/5pIjTEPxQx4JJc14CkVlgf"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-04-01 04:02:00",
       "album": {
+        "name": "Tutto Passa",
+        "url": "https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y"
+      },
+      "artists": [
+        {
+          "name": "Gianni Brezzo",
+          "url": "https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Capture This",
+      "url": "https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
         "name": "The Resurrection",
         "url": "https://open.spotify.com/album/639JLfs3Nbas5UHqoEA7Te"
       },
@@ -539,38 +555,6 @@
       "duration_ms": 243227,
       "name": "The Resurrection",
       "url": "https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Tutto Passa",
-        "url": "https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y"
-      },
-      "artists": [
-        {
-          "name": "Gianni Brezzo",
-          "url": "https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Capture This",
-      "url": "https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Satin Doll",
-        "url": "https://open.spotify.com/album/7Fil4ZuDB04CjP4GDT1Lxs"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Humphrey",
-          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
-        }
-      ],
-      "duration_ms": 413893,
-      "name": "New York Times - Remastered 2002",
-      "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -607,6 +591,22 @@
       "duration_ms": 168208,
       "name": "Spare Tire",
       "url": "https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Satin Doll",
+        "url": "https://open.spotify.com/album/7Fil4ZuDB04CjP4GDT1Lxs"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Humphrey",
+          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
+        }
+      ],
+      "duration_ms": 413893,
+      "name": "New York Times - Remastered 2002",
+      "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln"
     },
     {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "Pizza Pie",
-        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
-      },
-      "artists": [
-        {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Pizza Pie",
-      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "Squid Exit Music (7\" radio edit)",
@@ -741,20 +725,20 @@
       "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2021-08-27 04:01:00",
       "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+        "name": "Pizza Pie",
+        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
       },
       "artists": [
         {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
         }
       ],
-      "duration_ms": 336546,
-      "name": "Funk in the Hole",
-      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
+      "duration_ms": 186324,
+      "name": "Pizza Pie",
+      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2022-01-07 05:02:00",
@@ -791,6 +775,22 @@
       "duration_ms": 266453,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/1Fs2kqyfm1wnFE83eIAqF7"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 336546,
+      "name": "Funk in the Hole",
+      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/4MqOTLIg1f6qomgOKkxkKp"
     },
     {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Music Ruined My Life",
+        "url": "https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO"
+      },
+      "artists": [
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        }
+      ],
+      "duration_ms": 205829,
+      "name": "The Necessary Change",
+      "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Center Stage",
@@ -923,22 +939,6 @@
       "duration_ms": 341960,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/4760YTvGff1alhNSX5qIlO"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Music Ruined My Life",
-        "url": "https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO"
-      },
-      "artists": [
-        {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        }
-      ],
-      "duration_ms": 205829,
-      "name": "The Necessary Change",
-      "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
     },
     {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "The Positive and the Negative",
-        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 287349,
-      "name": "The Positive and the Negative",
-      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Let's Go Everywhere",
@@ -1085,6 +1069,22 @@
       "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
     },
     {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "The Positive and the Negative",
+        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 287349,
+      "name": "The Positive and the Negative",
+      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
+    },
+    {
       "added_at": "2021-11-26 05:01:00",
       "album": {
         "name": "Refractions",
@@ -1099,22 +1099,6 @@
       "duration_ms": 217118,
       "name": "Refractions",
       "url": "https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Dig My Feeling",
-        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 235543,
-      "name": "Broasted or Fried",
-      "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
     },
     {
       "added_at": "2021-02-05 05:01:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 300000,
       "name": "Sunray Junonia",
       "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Dig My Feeling",
+        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 235543,
+      "name": "Broasted or Fried",
+      "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Pressure Sensitive",
-        "url": "https://open.spotify.com/album/5mBZFylK3027Vraz0Jnz7G"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Laws",
-          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
-        }
-      ],
-      "duration_ms": 252026,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "Spoon (Mike Casey Remix)",
@@ -1259,6 +1243,22 @@
       "duration_ms": 113785,
       "name": "Spoon (Mike Casey Remix) [No Sax]",
       "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Pressure Sensitive",
+        "url": "https://open.spotify.com/album/5mBZFylK3027Vraz0Jnz7G"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Laws",
+          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Step Down / La Fachada",
-        "url": "https://open.spotify.com/album/63xgskVnY0hG9fxtcj0gk1"
-      },
-      "artists": [
-        {
-          "name": "The Sure Fire Soul Ensemble",
-          "url": "https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ"
-        }
-      ],
-      "duration_ms": 199002,
-      "name": "La Fachada",
-      "url": "https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "New Ammo",
@@ -1471,6 +1455,22 @@
       "duration_ms": 241400,
       "name": "Sure Shot",
       "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Step Down / La Fachada",
+        "url": "https://open.spotify.com/album/63xgskVnY0hG9fxtcj0gk1"
+      },
+      "artists": [
+        {
+          "name": "The Sure Fire Soul Ensemble",
+          "url": "https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ"
+        }
+      ],
+      "duration_ms": 199002,
+      "name": "La Fachada",
+      "url": "https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc"
     }
   ],
   "unique_name": "Jazz-Funk",

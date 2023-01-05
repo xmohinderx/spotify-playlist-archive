@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Cult Shφtta
 
-340 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+341 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [ABGz](https://open.spotify.com/track/2UuCc79U1gMcK1koGAPH2N) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats](https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL) | 3:14 | 2022-05-01 | 2022-08-12 |
 | [Against All Odds](https://open.spotify.com/track/6Lv3we4ylEG00UbHPLfYBC) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [Against All Odds](https://open.spotify.com/album/5snGj1BTvW1WulJQbT31pi) | 2:38 | 2022-03-21 | 2022-08-12 |
 | [ANGEL EYES](https://open.spotify.com/track/3US0FSC1DGuYLuRGAK95z7) | [Jay Zayat](https://open.spotify.com/artist/3RNjL4SvUdzRwyJhqfuZrB) | [ANGEL EYES](https://open.spotify.com/album/7tf6sADlCZxD5z1AbrgrHu) | 2:30 | 2022-06-16 | 2022-07-29 |
+| [Arabian Nights](https://open.spotify.com/track/5Pg5qp7OcAxSeIDTp6smYZ) | [SheWantSev](https://open.spotify.com/artist/6ZtJ96ByRPhrhusA2SInLB) | [Arabian Nights](https://open.spotify.com/album/0JPS47gplkJvwHWL8yBYH2) | 3:08 | 2023-01-05 |  |
 | [Arbok](https://open.spotify.com/track/078n3HIwMmlhfx7aYQKrDQ) | [Rydah](https://open.spotify.com/artist/78arWeRSIBit1TYTcTOcAY) | [Arbok](https://open.spotify.com/album/31Vj9Ku1YcQMC0FNjaoY60) | 2:41 | 2022-09-08 | 2022-12-16 |
 | [Area Baby](https://open.spotify.com/track/5BFaSmEPZSu4A7hcTtoNlP) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:41 | 2022-03-21 | 2022-06-17 |
 | [Aussie Raver](https://open.spotify.com/track/2IxukbfXzRflTlE06OFI7l) | [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Aussie Raver](https://open.spotify.com/album/4TKmOab6AcYpZmYw44Qkxd) | 2:59 | 2022-03-21 | 2022-08-11 |

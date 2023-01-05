@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,193 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,261 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 6 | [Mitra Re \(Reprise\)](https://open.spotify.com/track/0VvSU2eXRF3E0b1hClv1uX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Mitra Re \(Reprise\)](https://open.spotify.com/album/1IeFurDxEca30wboHFE2I7) | 3:29 |
 | 7 | [Ananya](https://open.spotify.com/track/6ikAlFXHkc3OCZDCaHgfCP) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Toofaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4OyNs3aq7N8uwIRlZS7pdq) | 3:52 |
 | 8 | [Lamha](https://open.spotify.com/track/6NoZFaxMEH9VN1xNa7NYaE) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3k1WMGUrn1raJVWoGrNPww) | 3:38 |
-| 9 | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/track/1V9MzOZA1PRhK0VCFMf8II) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/album/3NlyYQJD6uH1SAGG2f8kpn) | 2:28 |
+| 9 | [Tujhse Naraz Nahin Zindagi Unplugged LoFi](https://open.spotify.com/track/1hSsvaAZHK1NdyhSvnBZwh) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2) | [Tujhse Naraz Nahin Zindagi Unplugged LoFi](https://open.spotify.com/album/5chFwFDNb5HL2R4KbUj4Eu) | 2:27 |
 | 10 | [Tum Se Hi \(Reprise\) \(From "Sadak 2"\) \(feat\. Alia Bhatt\)](https://open.spotify.com/track/4xhxNVJ21MayyOpKUnFd7W) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Tum Se Hi \(Reprise\) \(feat\. Alia Bhatt\) \[From "Sadak 2"\]](https://open.spotify.com/album/4qXletW47OQdSrNSmLYVNs) | 4:05 |
 | 11 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 |
 | 12 | [Matlabi Yariyan \- Neha Kakkar's Unplugged Version \(From "The Girl On The Train"\)](https://open.spotify.com/track/0u7ygSdNFcFvHfyGAv4tni) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Vipin Patwa](https://open.spotify.com/artist/6SzYh3jdZpJxGulYuWlFb5), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Matlabi Yariyan \- Neha Kakkar's Unplugged Version \(From "The Girl On The Train"\)](https://open.spotify.com/album/2VgJOiwvoioEIGAoKdQhHc) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Channa Mereya \- Unplugged](https://open.spotify.com/track/0xHvmWCpz9Pnn1sDvRehAs) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 2:45 |
 | 50 | [Roobaroo](https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 4:42 |
 
-Snapshot ID: `MTY3MTA5MDUwNywwMDAwMDAwMDFmNmQ4NGE1NzY1N2I2YWRiNDNkZDhhYmUzNjk3Zjlj`
+Snapshot ID: `MTY3MjgzNDY4NCwwMDAwMDAwMDhiZjdlYmEzNjUxYzliNzY3NzdkMWYzNzBlZjk5NTQw`

@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,232 songs - 2 day 11 hr 33 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,233 songs - 2 day 11 hr 36 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [Griffith Park](https://open.spotify.com/track/0fpL5QTlNpU5kAP8U04D33) | [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [Griffith Park](https://open.spotify.com/album/52bxFo2TfszBFVHNRoj1FV) | 3:21 | 2022-09-23 | 2022-10-16 |
 | [Griffith Park](https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z) | [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [Griffith Park](https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel) | 3:21 | 2022-10-25 |  |
 | [Ground Control \(feat\. Jon Z\)](https://open.spotify.com/track/1xhuI73GJoP2zbAIQwMm7i) | [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Ground Control \(feat\. Jon Z\)](https://open.spotify.com/album/0b2VEQw3A0JNKENN5La8mc) | 2:36 | 2020-10-13\* | 2021-02-13 |
-| [Groupie](https://open.spotify.com/track/79Ty2Ykvn2ZJhFd9Nn45b7) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Groupie](https://open.spotify.com/album/2CDCVRa5raNL9q7NfiGJcZ) | 2:00 | 2022-11-26 |  |
+| [Groupie](https://open.spotify.com/track/79Ty2Ykvn2ZJhFd9Nn45b7) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Groupie](https://open.spotify.com/album/2CDCVRa5raNL9q7NfiGJcZ) | 2:00 | 2022-11-26 | 2023-01-05 |
 | [Grow](https://open.spotify.com/track/7DBKISsaVfJ9OSZyM3D0eW) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Grow](https://open.spotify.com/album/6hlJXXydweWawIDg2Q6QX0) | 2:08 | 2022-11-11 | 2022-12-01 |
 | [Growing Up Is Strange](https://open.spotify.com/track/3nDtcvPySFqMbCjH3GerGb) | [GRANDMA](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Growing Up Is Strange](https://open.spotify.com/album/3YnRaCHbXxVBb0u67Z5ctq) | 2:35 | 2020-12-18 | 2021-05-03 |
 | [GTFO](https://open.spotify.com/track/01nSzyIB57M50XlmuGGqjE) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/5hAPhhrqcSGlLHW3uNgJof) | 3:20 | 2022-10-25 |  |
@@ -660,6 +660,7 @@
 | [make big money fast online now](https://open.spotify.com/track/1AV2UpYCGl3Dgo7f28vnRr) | [Redolent](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [make big money fast online now](https://open.spotify.com/album/0Fa4OaV0Imp5RFMwuvkl0q) | 3:01 | 2022-04-01 | 2022-04-15 |
 | [Make It Back](https://open.spotify.com/track/4nfuUtIgpr4MiSURyl51uv) | [USERx](https://open.spotify.com/artist/5D586pjJERMYhB6AhPEYYS), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn), [Rozwell](https://open.spotify.com/artist/2cpbwPiqgvzIDDrxVkjQsq) | [USERx](https://open.spotify.com/album/4UNgRAi66sdKKz9kNqNVWO) | 2:36 | 2022-10-25 | 2022-11-17 |
 | [Malibu](https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Malibu](https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc) | 1:32 | 2021-10-26 | 2022-03-01 |
+| [Mamacita \(feat\. A$AP Rocky\)](https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR) | [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mamacita \(feat\. A$AP Rocky\)](https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0) | 3:05 | 2023-01-04 |  |
 | [MANDELA EFFECT](https://open.spotify.com/track/2nnWeyvnHG5SBq7hg1u1Jh) | [HEARTBREAKHOTEL](https://open.spotify.com/artist/4uEVAZKe9bgB8Tb8skw7Tx) | [MANDELA EFFECT](https://open.spotify.com/album/0Q9E2nWt9kadthLSxMydpU) | 1:33 | 2022-07-15 | 2022-08-06 |
 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 | 2022-03-25 |  |
 | [MARINE](https://open.spotify.com/track/5O6890xm1qwbbmg2pTn5V6) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [ALL GIRLS GO TO HEAVEN](https://open.spotify.com/album/1QmZZE11VkUcOKEO9SJ8R4) | 3:22 | 2022-05-09 | 2022-06-01 |

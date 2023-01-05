@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 14785,
+  "num_followers": 14867,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYxNDg4OSwwMDAwMDAwMDcwOTk2N2ViNWI3Y2M1ZGY1NTA0ODk4NGZhYjliZWIy",
+  "snapshot_id": "MTY3MTYxNDg4OSwwMDAwMDAwMDk2YzUxYzdkYjc1ZWJjY2E1MWUzZWUyODI3OGNkZGQ5",
   "tracks": [
     {
       "added_at": "2022-12-21 09:28:09",
@@ -503,26 +503,6 @@
     {
       "added_at": "2022-12-21 09:28:09",
       "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "g1nger",
-          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
-        }
-      ],
-      "duration_ms": 218092,
-      "name": "In To You (feat. g1nger) - Prod. WOOGIE",
-      "url": "https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no"
-    },
-    {
-      "added_at": "2022-12-21 09:28:09",
-      "album": {
         "name": "mojo",
         "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 151880,
       "name": "LSD (Feat. JUNNY)",
       "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
+    },
+    {
+      "added_at": "2022-12-21 09:28:09",
+      "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "g1nger",
+          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
+        }
+      ],
+      "duration_ms": 218092,
+      "name": "In To You (feat. g1nger) - Prod. WOOGIE",
+      "url": "https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no"
     },
     {
       "added_at": "2022-12-21 09:28:09",
@@ -827,6 +827,26 @@
     {
       "added_at": "2022-12-21 09:28:09",
       "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "duration_ms": 253411,
+      "name": "Point (feat. Loopy)",
+      "url": "https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F"
+    },
+    {
+      "added_at": "2022-12-21 09:28:09",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 267330,
       "name": "ROSE (feat. Skinny Brown, Homeboy)",
       "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
-    },
-    {
-      "added_at": "2022-12-21 09:28:09",
-      "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        },
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        }
-      ],
-      "duration_ms": 253411,
-      "name": "Point (feat. Loopy)",
-      "url": "https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F"
     },
     {
       "added_at": "2022-12-21 09:28:09",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-12-21 09:28:09",
       "album": {
-        "name": "MaRz&B",
-        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 185169,
-      "name": "Chrome Hearts",
-      "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
-    },
-    {
-      "added_at": "2022-12-21 09:28:09",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 160443,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
+    },
+    {
+      "added_at": "2022-12-21 09:28:09",
+      "album": {
+        "name": "MaRz&B",
+        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 185169,
+      "name": "Chrome Hearts",
+      "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
     },
     {
       "added_at": "2022-12-21 09:28:09",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-21 09:28:09",
       "album": {
-        "name": "Sinking Islands",
-        "url": "https://open.spotify.com/album/27GBa1Y2Q2KjhBp6CGmQED"
-      },
-      "artists": [
-        {
-          "name": "Sinso",
-          "url": "https://open.spotify.com/artist/5LZPAkFkQB6zDRUlngWDNr"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Sinking Islands",
-      "url": "https://open.spotify.com/track/57tIf5v4224Kdzw913Hbk2"
-    },
-    {
-      "added_at": "2022-12-21 09:28:09",
-      "album": {
         "name": "I'M LOVIN' AMY",
         "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
       },
@@ -1055,22 +1039,18 @@
     {
       "added_at": "2022-12-21 09:28:09",
       "album": {
-        "name": "MaRz&B",
-        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
+        "name": "Sinking Islands",
+        "url": "https://open.spotify.com/album/27GBa1Y2Q2KjhBp6CGmQED"
       },
       "artists": [
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+          "name": "Sinso",
+          "url": "https://open.spotify.com/artist/5LZPAkFkQB6zDRUlngWDNr"
         }
       ],
-      "duration_ms": 213282,
-      "name": "Down (Feat. DUT2)",
-      "url": "https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K"
+      "duration_ms": 200440,
+      "name": "Sinking Islands",
+      "url": "https://open.spotify.com/track/57tIf5v4224Kdzw913Hbk2"
     },
     {
       "added_at": "2022-12-21 09:28:09",
@@ -1087,6 +1067,22 @@
       "duration_ms": 196250,
       "name": "CANTSAY",
       "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
+    },
+    {
+      "added_at": "2022-12-21 09:28:09",
+      "album": {
+        "name": "Remained scent",
+        "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
+      },
+      "artists": [
+        {
+          "name": "BB",
+          "url": "https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6"
+        }
+      ],
+      "duration_ms": 186755,
+      "name": "Remained scent",
+      "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",

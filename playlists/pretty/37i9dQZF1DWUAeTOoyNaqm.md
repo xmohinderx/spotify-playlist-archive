@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,737 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,718 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 59 | [ASMR Cork Blocks](https://open.spotify.com/track/5bhRvoADimK3qiOESO2ocU) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [Yogic Objects](https://open.spotify.com/album/6PwtrqJWmPEFfOGVxk0wsn) | 3:38 |
 | 60 | [Removing Nail Polish](https://open.spotify.com/track/6BUAMwW7lmtL8YQxC8Fmao) | [Belinda ASMR](https://open.spotify.com/artist/54SWHdIOdwWYOlgyF9gVJ6) | [Removing Nail Polish](https://open.spotify.com/album/1UowKiwaFXbz3NfJ7Rd5hz) | 3:28 |
 | 61 | [Smooth Fingers on Laptop](https://open.spotify.com/track/63HkmCycU7vWWNlYrmZit9) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Triggers, Eating, Tapping](https://open.spotify.com/album/5aBgaE302UMzgip0bz1Ts8) | 1:32 |
-| 62 | [Tapping Bamboo](https://open.spotify.com/track/3FO0f0CFFbiMwo9SByoWx6) | [Soothing ASMR](https://open.spotify.com/artist/5zjsvn0Tl3kKGDYehTUi4x) | [Gentle Triggers 2](https://open.spotify.com/album/5F1SdOGfkjDGjvhMCDwQ8i) | 4:22 |
+| 62 | [Tapping Bamboo](https://open.spotify.com/track/3FO0f0CFFbiMwo9SByoWx6) | [Soothing ASMR](https://open.spotify.com/artist/2oPDJNuOJSvgNOYZmD0C4D) | [Gentle Triggers 2](https://open.spotify.com/album/5F1SdOGfkjDGjvhMCDwQ8i) | 4:22 |
 | 63 | [Tapping Metal](https://open.spotify.com/track/2qhjNstlY6in76yV7rBhpJ) | [Olivia Summers ASMR](https://open.spotify.com/artist/6hZW1BKAuxGzz5oH33VlM8) | [Tapping ASMR](https://open.spotify.com/album/0E4C9wG3763Immr0CBTuz0) | 3:25 |
 | 64 | [Hairbrush on Mic ASMR](https://open.spotify.com/track/5GFuI27jIWDN8ZnB0GiHiU) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Sounds for Relaxation](https://open.spotify.com/album/1qRhE2Mt9t4UgBfJh05XmY) | 2:28 |
 | 65 | [Rubbing Laptop Smoothly](https://open.spotify.com/track/0m2Lx5EEYEF7ETPGgFaH7j) | [ASMR Anonymous](https://open.spotify.com/artist/1CBbKj7iORJ5c6Kzhx6fAC) | [ASMR Rubbing and Snapping](https://open.spotify.com/album/7u1voXDk29NGaVHxoDuoKY) | 2:00 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 69 | [Down Jacket Zipper](https://open.spotify.com/track/7MBJ3WEq5FzjVqKZnqTifR) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [Down Jacket Zipper](https://open.spotify.com/album/6LzpQ7Ymf33SLkGoXqSKRj) | 2:54 |
 | 70 | [Brushing Hair](https://open.spotify.com/track/6sYYyEh9z14wOYwsnrqOAK) | [Lucy Stella ASMR](https://open.spotify.com/artist/6HvjU87Hkljkcvgpm2inJS) | [ASMR Calm](https://open.spotify.com/album/3P8FCAFIMtxeYPv9Wk4INP) | 3:31 |
 | 71 | [Sleep in the Woods ASMR, Pt\. 1](https://open.spotify.com/track/4PEGrSOKelsInQ0gxasGkJ) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [Sleep in the Woods ASMR, Relaxing Head, Neck and Shoulders Massage and Tapping](https://open.spotify.com/album/4z13Tzzo5YF0lkAWlAgl7F) | 3:36 |
-| 72 | [Shaking Pills](https://open.spotify.com/track/5JsfzqTAteFYkEwAdzxnD2) | [Soothing ASMR](https://open.spotify.com/artist/5zjsvn0Tl3kKGDYehTUi4x) | [Gentle Triggers 3](https://open.spotify.com/album/59LSQBasIZKk8CZ41NtlE6) | 2:32 |
+| 72 | [Shaking Pills](https://open.spotify.com/track/5JsfzqTAteFYkEwAdzxnD2) | [Soothing ASMR](https://open.spotify.com/artist/2oPDJNuOJSvgNOYZmD0C4D) | [Gentle Triggers 3](https://open.spotify.com/album/59LSQBasIZKk8CZ41NtlE6) | 2:32 |
 | 73 | [We Taped Microphones on Her Face, Pt\. 2](https://open.spotify.com/track/2KlmTjyXISEq11QbfNYPZW) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [We Taped Microphones on Her Face](https://open.spotify.com/album/1KZrHGA1WQ8a3bweqDZe2t) | 2:50 |
 | 74 | [Putting the Coins Into Purses](https://open.spotify.com/track/49IoPmLj9SYslxqycNgKEl) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Sorting Fantasy & Medieval Coins \| ASMR Cozy Basics](https://open.spotify.com/album/53mRZ0RNRh0pMAkFMrhLV8) | 5:50 |
 | 75 | [Fabric Scratching Leather Pants, Pt\. 1](https://open.spotify.com/track/4ouG46TylHzeeaGhJzPg3C) | [Lisa ASMR](https://open.spotify.com/artist/1wCkck4gRunTrFmKZURDmZ) | [Fabric Scratching Leather Pants and Couch](https://open.spotify.com/album/1I9bxqWAPgGR2Xt9Z5h5KO) | 3:14 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 94 | [ASMR Different Brushes](https://open.spotify.com/track/6JenanJmN5YhAxgOA5Awyv) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [Brain Tingle](https://open.spotify.com/album/54aIaPVY4UR4I3D3fWuvfa) | 6:24 |
 | 95 | [Duct Tape](https://open.spotify.com/track/1oksoz8Zv50M42I76vAISY) | [ASMR Gemma](https://open.spotify.com/artist/6w9qZHndDCsJ8ctlPAVinf) | [Crunchy Tings ASMR](https://open.spotify.com/album/1NA0R6V2R0BS0oDMKl0L2d) | 3:59 |
 | 96 | [Playing with Rubber Cat Toy](https://open.spotify.com/track/1nf0NCBNF5OoxVMuhwsqxo) | [ASMR Universe](https://open.spotify.com/artist/2b6aLbBGomJ14xcyzSLz89) | [Little Triggers](https://open.spotify.com/album/0Kzk3egGX2gCDuVDnM021y) | 3:54 |
-| 97 | [Fidgeting with Ear Buds](https://open.spotify.com/track/0ivS60f6G2gTNuOjQ9TiR0) | [Soothing ASMR](https://open.spotify.com/artist/5zjsvn0Tl3kKGDYehTUi4x) | [Gentle Triggers 2](https://open.spotify.com/album/5F1SdOGfkjDGjvhMCDwQ8i) | 4:15 |
+| 97 | [Fidgeting with Ear Buds](https://open.spotify.com/track/0ivS60f6G2gTNuOjQ9TiR0) | [Soothing ASMR](https://open.spotify.com/artist/2oPDJNuOJSvgNOYZmD0C4D) | [Gentle Triggers 2](https://open.spotify.com/album/5F1SdOGfkjDGjvhMCDwQ8i) | 4:15 |
 | 98 | [Chopstick Scratching Foam](https://open.spotify.com/track/1ltcXCdSdchTHulpSRAM9K) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [ASMR Variety Pack \|\| Triggers That Will Cleanse Your Mind, Body and Soul \(w/ Delay\)](https://open.spotify.com/album/2bMwG3cpT4x3UO94CgKyqL) | 3:31 |
 | 99 | [Sleep in the Woods ASMR, Pt\. 4](https://open.spotify.com/track/4pF6tROv6t0OaRN6nJvMhw) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [Sleep in the Woods ASMR, Relaxing Head, Neck and Shoulders Massage and Tapping](https://open.spotify.com/album/4z13Tzzo5YF0lkAWlAgl7F) | 3:22 |
 | 100 | [Flipping Through an Old Book, Pt\. 2](https://open.spotify.com/track/0iGKKPHvk0lTaQDb9mQw12) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [ASMR Flipping Through Old Book by Candlelight](https://open.spotify.com/album/46zfBFpGDavTkh2dtOmFvC) | 4:22 |

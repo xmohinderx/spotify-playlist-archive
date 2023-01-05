@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 281787,
+  "num_followers": 281930,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQwNTIwMCwwMDAwMDAwMDgwZGE2YTkxZTE4ZmZlNzI0NjJlNjhkZGVhNjEwYTli",
+  "snapshot_id": "MTY3MjQwNTIwMCwwMDAwMDAwMDg3YWE1N2YxZWEzMDc4ZDA4Y2Q1N2UzNDIyYWQxOGJm",
   "tracks": [
     {
       "added_at": "2022-12-16 13:31:20",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
-      "added_at": "2023-01-04 01:27:16",
+      "added_at": "2023-01-05 01:26:13",
       "album": {
         "name": "Shake That",
         "url": "https://open.spotify.com/album/2SYED5j8wPKjVW5cviH4qN"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe"
     },
     {
-      "added_at": "2023-01-04 01:27:16",
+      "added_at": "2023-01-05 01:26:13",
       "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
     },
     {
-      "added_at": "2023-01-04 01:27:16",
+      "added_at": "2023-01-05 01:26:13",
       "album": {
         "name": "Lust",
         "url": "https://open.spotify.com/album/1a0tiOO2ge9jZYYCCFEHrg"
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd"
       },
@@ -643,18 +659,22 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+        "name": "Feel Good Inc.",
+        "url": "https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb"
       },
       "artists": [
         {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
         }
       ],
-      "duration_ms": 151384,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+      "duration_ms": 173313,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -675,26 +695,6 @@
       "duration_ms": 134544,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "Feel Good Inc.",
-        "url": "https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb"
-      },
-      "artists": [
-        {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
-        },
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 173313,
-      "name": "Feel Good Inc.",
-      "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -831,6 +831,26 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "Nobody To Love (with Loren Gray)",
+        "url": "https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp"
+      },
+      "artists": [
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Loren Gray",
+          "url": "https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1"
+        }
+      ],
+      "duration_ms": 146372,
+      "name": "Nobody To Love (with Loren Gray)",
+      "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "Raindrops (feat. Jessica Chertock)",
         "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 166887,
       "name": "Raindrops (feat. Jessica Chertock)",
       "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "Nobody To Love (with Loren Gray)",
-        "url": "https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp"
-      },
-      "artists": [
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Loren Gray",
-          "url": "https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1"
-        }
-      ],
-      "duration_ms": 146372,
-      "name": "Nobody To Love (with Loren Gray)",
-      "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -959,30 +959,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Little Do You Know",
-        "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
-      },
-      "artists": [
-        {
-          "name": "Mike Gudmann",
-          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
-        },
-        {
-          "name": "Crystal Rock",
-          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
-        },
-        {
-          "name": "Rotciv & Revilo",
-          "url": "https://open.spotify.com/artist/4aA5K4qnL9Z3hD2rWJrjJW"
-        }
-      ],
-      "duration_ms": 194091,
-      "name": "Little Do You Know",
-      "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "World in Your Eyes",
         "url": "https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E"
       },
@@ -1011,18 +987,26 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
+        "name": "Little Do You Know",
+        "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
       },
       "artists": [
         {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+          "name": "Mike Gudmann",
+          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Rotciv & Revilo",
+          "url": "https://open.spotify.com/artist/4aA5K4qnL9Z3hD2rWJrjJW"
         }
       ],
-      "duration_ms": 171904,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
+      "duration_ms": 194091,
+      "name": "Little Do You Know",
+      "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -1047,6 +1031,22 @@
       "duration_ms": 171000,
       "name": "Heaven (feat. Sofia Quinn)",
       "url": "https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O"
+      },
+      "artists": [
+        {
+          "name": "HIMATE",
+          "url": "https://open.spotify.com/artist/5ouyPYGVsZgtOIC8lH0kbc"
+        },
+        {
+          "name": "Dwin",
+          "url": "https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd"
+        }
+      ],
+      "duration_ms": 139322,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "123 (Dolly Song) (feat. Karma Child)",
         "url": "https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp"
       },
@@ -1171,22 +1191,22 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O"
+        "name": "Barking",
+        "url": "https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT"
       },
       "artists": [
         {
-          "name": "HIMATE",
-          "url": "https://open.spotify.com/artist/5ouyPYGVsZgtOIC8lH0kbc"
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
         },
         {
-          "name": "Dwin",
-          "url": "https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd"
+          "name": "WISEKIDS",
+          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
         }
       ],
-      "duration_ms": 139322,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF"
+      "duration_ms": 139500,
+      "name": "Barking",
+      "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -1207,26 +1227,6 @@
       "duration_ms": 156093,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "Barking",
-        "url": "https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT"
-      },
-      "artists": [
-        {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
-        },
-        {
-          "name": "WISEKIDS",
-          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Barking",
-      "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
     },
     {
       "added_at": "2022-12-16 13:31:20",

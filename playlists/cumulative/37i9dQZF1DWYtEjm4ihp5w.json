@@ -76,6 +76,24 @@
     },
     {
       "album": {
+        "name": "AUTOSTOP",
+        "url": "https://open.spotify.com/album/2nJt7tX1VHFk6mvkXd5RMD"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225130,
+      "name": "AUTOSTOP",
+      "url": "https://open.spotify.com/track/7t0ArR3d5ThgTvA9yuH2ZK"
+    },
+    {
+      "album": {
         "name": "B2",
         "url": "https://open.spotify.com/album/3DVy3TLaPqGLAZOehbbgXD"
       },
@@ -669,7 +687,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 207029,
       "name": "L'appel",
       "url": "https://open.spotify.com/track/7ckLKPOdCIcW0ZixYYw91a"

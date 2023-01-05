@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: Mingginyu(\ubc0d\uae30\ub274)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 230352,
+  "num_followers": 230463,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjcyODU4NCwwMDAwMDAwMDJkYmI0ZTNkOTNkNjgyY2E2NDJiZDlmZDljOGVlYzZm",
+  "snapshot_id": "MTY3MjcyODU4NCwwMDAwMDAwMGVlMTNhYjE1ZDlkYWVmY2IxYTdiZWU3YzUzMDI2YTMw",
   "tracks": [
     {
       "added_at": "2023-01-03 06:49:44",
@@ -623,38 +623,6 @@
     {
       "added_at": "2023-01-03 06:49:44",
       "album": {
-        "name": "Rocking Chair",
-        "url": "https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "Rocking Chair",
-      "url": "https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2"
-    },
-    {
-      "added_at": "2023-01-03 06:49:44",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
-    },
-    {
-      "added_at": "2023-01-03 06:49:44",
-      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb"
       },
@@ -679,6 +647,38 @@
       "duration_ms": 192293,
       "name": "Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)",
       "url": "https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq"
+    },
+    {
+      "added_at": "2023-01-03 06:49:44",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+    },
+    {
+      "added_at": "2023-01-03 06:49:44",
+      "album": {
+        "name": "Rocking Chair",
+        "url": "https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Rocking Chair",
+      "url": "https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2"
     },
     {
       "added_at": "2023-01-03 06:49:44",

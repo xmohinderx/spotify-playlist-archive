@@ -1923,7 +1923,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 169910,
       "name": "Bad",
       "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
@@ -2547,7 +2547,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
@@ -7443,7 +7443,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 411633,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP"
@@ -7487,7 +7487,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-06-02",
+      "date_removed": null,
       "duration_ms": 181875,
       "name": "End of Slaphouse",
       "url": "https://open.spotify.com/track/0U5Q2jPCuyQLCxb8LYYD90"
@@ -9659,7 +9659,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 155644,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/76fkeDx8Uztga6l7RId8Fq"
@@ -12235,7 +12235,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 206852,
       "name": "I Got You - CINTHIE Remix",
       "url": "https://open.spotify.com/track/6zQ7hO4j8xwJeNszzykebE"
@@ -16385,7 +16385,7 @@
       ],
       "date_added": "2020-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 193333,
       "name": "Lush",
       "url": "https://open.spotify.com/track/18jl9P6m8QfmcX6xtewl50"
@@ -17382,6 +17382,28 @@
     },
     {
       "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/4j7RLLIETE8YFIJWXgFhfG"
+      },
+      "artists": [
+        {
+          "name": "York",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        },
+        {
+          "name": "Steve Brian",
+          "url": "https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/7I4tDDBhhjGZ0sv9NoK3Eb"
+    },
+    {
+      "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
       },
@@ -17675,7 +17697,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-05",
+      "date_removed": null,
       "duration_ms": 155897,
       "name": "My Last Song",
       "url": "https://open.spotify.com/track/6Oejq17rVhmFC02g07B3Hz"
@@ -19939,7 +19961,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 301174,
       "name": "Oxas",
       "url": "https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl"
@@ -20071,7 +20093,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 174677,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY"
@@ -20605,7 +20627,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 202380,
       "name": "Pondicherry",
       "url": "https://open.spotify.com/track/0IoJNiqfeORsU6nMY9zC85"
@@ -23905,7 +23927,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3ACnarSkTKiOTj4rsnFkgf"
@@ -24259,7 +24281,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 202670,
       "name": "Starlight (Keep Me Afloat)",
       "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
@@ -24877,7 +24899,7 @@
       ],
       "date_added": "2020-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 160008,
       "name": "Summer on You",
       "url": "https://open.spotify.com/track/7Ct0Q46k5PkXzYiNE5D2dn"
@@ -25959,7 +25981,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 358115,
       "name": "The Great Consumer",
       "url": "https://open.spotify.com/track/1o4hJ85d5nT7GXkudUGvWS"
@@ -27693,6 +27715,24 @@
       "duration_ms": 432000,
       "name": "Up Down Jumper",
       "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
+    },
+    {
+      "album": {
+        "name": "Uprising (I Can't Wait)",
+        "url": "https://open.spotify.com/album/6X2bIYDzqmYbXyhZQIVcgG"
+      },
+      "artists": [
+        {
+          "name": "Adelphi Music Factory",
+          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Uprising (I Can't Wait)",
+      "url": "https://open.spotify.com/track/59ScrVfZ3VVB4oeL2MVXAR"
     },
     {
       "album": {
@@ -29801,7 +29841,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 144393,
       "name": "You (\u00e0 la)",
       "url": "https://open.spotify.com/track/5kSh4hhyGRjLitIuNq0Agk"

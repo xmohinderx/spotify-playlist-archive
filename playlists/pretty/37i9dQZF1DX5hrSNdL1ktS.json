@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Dani Torres en portada.",
-  "num_followers": 55215,
+  "num_followers": 55209,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MjUzNSwwMDAwMDAwMDAxZGIwNmM2YWY5ZmU4ZWFhNWM5Mzc3NzJlYzdjZTU1",
+  "snapshot_id": "MTY3MTY0MjUzNSwwMDAwMDAwMDZkMGE5NDM4ODcxYjEyYmEzNjBlNzRkZTVhNTA3YTJh",
   "tracks": [
     {
       "added_at": "2022-11-25 02:28:29",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "KRMA",
         "url": "https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 160386,
       "name": "KRMA",
       "url": "https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 150441,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
-      },
-      "artists": [
-        {
-          "name": "Siho Villalobos",
-          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
-        }
-      ],
-      "duration_ms": 196744,
-      "name": "14",
-      "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Loco Demente",
         "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 218000,
       "name": "Loco Demente",
       "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "14",
+        "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
+      },
+      "artists": [
+        {
+          "name": "Siho Villalobos",
+          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
+        }
+      ],
+      "duration_ms": 196744,
+      "name": "14",
+      "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
     },
     {
       "added_at": "2022-09-29 23:31:37",

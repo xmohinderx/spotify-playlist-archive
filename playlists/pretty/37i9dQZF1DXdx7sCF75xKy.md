@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain](/playlists/plain/37i9dQZF1DXdx7sCF75xKy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdx7sCF75xKy)
 
-### [EQUAL Singapore & Malaysia 2022](https://open.spotify.com/playlist/37i9dQZF1DXdx7sCF75xKy)
+### [EQUAL Singapore & Malaysia](https://open.spotify.com/playlist/37i9dQZF1DXdx7sCF75xKy)
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Bunga
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,913 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,927 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 24 | [Breathe Again](https://open.spotify.com/track/2ZLXUx4qK1XI7tnzjuftHg) | [Serene Koong](https://open.spotify.com/artist/3B9noenUAgnsXz5UIaFBj3) | [Breathe Again](https://open.spotify.com/album/3rs3bMgOLaqM2ICmhE9hEo) | 4:58 |
 | 25 | [Harum Sundal Malam](https://open.spotify.com/track/5Y5A2d8zVU62bONx0pck5o) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Harum Sundal Malam](https://open.spotify.com/album/2z7a3zoAL6BuzF7rypiCp5) | 3:33 |
 | 26 | [Starlela \- Radio Mix](https://open.spotify.com/track/4LiFwx8XwhxzV5O1PRDyvd) | [Ifa Raziah](https://open.spotify.com/artist/3S8g4CJDC8UduhutnQCSQU), [Zizi Kirana](https://open.spotify.com/artist/3HgrsNDURBPYS1KlN7LgnE), [Bella Astillah](https://open.spotify.com/artist/3MPMcG7cDVBwFnEEzAQcKk) | [Starlela \(Radio Mix\)](https://open.spotify.com/album/2NvSECuojBVycMEBJta6JR) | 3:14 |
-| 27 | [Lie 2 U](https://open.spotify.com/track/0PyyrUDvRzigzDphKKGSU4) | [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [Vr\-Gf](https://open.spotify.com/album/5ZVwaC2rMaDo5HKcMzZJ0y) | 3:06 |
+| 27 | [Lie 2 U](https://open.spotify.com/track/0PyyrUDvRzigzDphKKGSU4) | [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [VR\-GF](https://open.spotify.com/album/5ZVwaC2rMaDo5HKcMzZJ0y) | 3:06 |
 | 28 | [hello hello](https://open.spotify.com/track/3CQrCWc4SZoLTQsxd82R3D) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [潘嘉麗Kelly同名專輯](https://open.spotify.com/album/0QW25Iew4wU60kn06up4Bm) | 3:53 |
 | 29 | [All Alone \("The Dream Makers 2" Sub Theme Song\)](https://open.spotify.com/track/3Wh13VaSPAaQ6k6fJ2Rm7t) | [Serene Koong](https://open.spotify.com/artist/3B9noenUAgnsXz5UIaFBj3) | [All Alone\("The Dream Makers 2" Sub Theme Song\)](https://open.spotify.com/album/6AngOnpSgOMr7KlCJ41OQ5) | 4:57 |
 | 30 | [Girls](https://open.spotify.com/track/2NEYZXdrqLLZQU704tjgYW) | [Radigals](https://open.spotify.com/artist/7rgchAXVyl7W0RcqmZXdYs) | [S/T](https://open.spotify.com/album/2LvXnNIzXnsIr8abd3QXMa) | 1:19 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 40 | [Burn](https://open.spotify.com/track/4jOJBlF6hUeqBaO3ehEmMM) | [Lunarin](https://open.spotify.com/artist/7oiA2eLL5cbXf0To3V0lyD) | [Songs of Love Lost & Isolation](https://open.spotify.com/album/6WBqgtjkWlx1etIh6MTD1Y) | 4:58 |
 | 41 | [就夠了](https://open.spotify.com/track/1VCcwoTQiMMKJq4PAWdT5p) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [平行线](https://open.spotify.com/album/2iELtwWpnPTv0xmVUAu14b) | 4:39 |
 | 42 | [Trapped](https://open.spotify.com/track/6bHg4NpiFNDyZR3oBGJQrG) | [Radigals](https://open.spotify.com/artist/7rgchAXVyl7W0RcqmZXdYs) | [S/T](https://open.spotify.com/album/2LvXnNIzXnsIr8abd3QXMa) | 0:57 |
-| 43 | [LATE NITE SNACK](https://open.spotify.com/track/5lkzzjIHT9pCDVYM2Bc3YY) | [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [Vr\-Gf](https://open.spotify.com/album/5ZVwaC2rMaDo5HKcMzZJ0y) | 2:25 |
+| 43 | [LATE NITE SNACK](https://open.spotify.com/track/5lkzzjIHT9pCDVYM2Bc3YY) | [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [VR\-GF](https://open.spotify.com/album/5ZVwaC2rMaDo5HKcMzZJ0y) | 2:25 |
 | 44 | [you should have said so](https://open.spotify.com/track/5WodEIKkgtFPmfqSB7Ve8e) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj) | [you should have said so](https://open.spotify.com/album/5H8nls3xG7OgydbrNQ27Va) | 2:42 |
 | 45 | [Menyantun Kasih](https://open.spotify.com/track/0mMzZuVqRdKkDaHsDSWNbo) | [Siti Nordiana](https://open.spotify.com/artist/7tbUHCaiBX4cXHQkII3CVH) | [Menyantun Kasih](https://open.spotify.com/album/3UU9CAIdJIFwlYV7W2VAIr) | 4:28 |
 | 46 | [Korban](https://open.spotify.com/track/48FzbTzHTORNAdy6bRxqBG) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Koleksi Terbaik Ernie Zakri](https://open.spotify.com/album/0RJfa9ixS7mhDhhQLvlKXg) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [Call Me](https://open.spotify.com/track/1qOQBoMf6oJZ2Puvkg0Jaq) | [BECKA](https://open.spotify.com/artist/0zH5akhP1A41eUk6VCQUNz), [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [Call Me](https://open.spotify.com/album/0I09Amdm84B5XJAfQ2oZWp) | 4:00 |
 | 50 | [Ikatan Kita](https://open.spotify.com/track/3sN39vJ8MCnOG3LEHH70mD) | [Wafahish](https://open.spotify.com/artist/3WQ25uq7gf44zKBb0ymo7r) | [Ikatan Kita](https://open.spotify.com/album/7jNiysBC8TJyzJSepESskm) | 3:49 |
 
-Snapshot ID: `MTY3Mjc2MTYwMCwwMDAwMDAwMDQ5MjVhN2EzZmQ1ODI4YjZiZGI5NDYzODlhYmVjNDRi`
+Snapshot ID: `MTY3MjgwNTQ1NCwwMDAwMDAwMGExNzhlY2JjY2Q2ZmE2YWYzZGY3ZDM2ZTAzNzI1NDYw`

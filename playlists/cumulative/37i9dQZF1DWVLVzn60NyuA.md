@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-371 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
+372 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Mad over You](https://open.spotify.com/track/56FUvV0o4FVhiKQPc6crQ7) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Mad over You](https://open.spotify.com/album/17GzyxRcs0DUg2MnmQfzhX) | 3:35 | 2021-12-16 | 2021-12-26 |
 | [Mad over You Mashup](https://open.spotify.com/track/4rJZ1Ij2rNt8hyCZOhokqc) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Mad over You Mashup](https://open.spotify.com/album/113Tc4vU82MI5wHlPW98dk) | 3:21 | 2021-12-16 | 2022-05-17 |
 | [Madiba Riddim](https://open.spotify.com/track/76gUmNLXGQVOsGhfcshkFP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:25 | 2021-12-16 | 2022-01-09 |
-| [Magic](https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5) | [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Magic \(with Amartey\)](https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C) | 3:26 | 2022-01-10 |  |
+| [Magic](https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5) | [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Magic \(with Amartey\)](https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C) | 3:26 | 2022-01-10 | 2023-01-05 |
 | [Make Me Feel \(feat\. Ari Lennox\) \- IzyBeats Dub Mix](https://open.spotify.com/track/60H3vKDbEFREGqEmUdMWGu) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn) | [Higher Place \(Anniversary Edition\)](https://open.spotify.com/album/6Ls6U4y9I6We3tXuilyEHX) | 3:38 | 2021-12-16 | 2022-07-29 |
 | [Mama Told Me](https://open.spotify.com/track/31MPV2K3de9I9GR3Bs5V36) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91), [Moses Kriss](https://open.spotify.com/artist/5SBoFp61NnGwvCpMeNMLlw) | [Mama Told Me](https://open.spotify.com/album/1OdtUgXaQw1F687zIiE8zm) | 3:56 | 2021-12-16 | 2022-07-29 |
 | [Mami So Bad](https://open.spotify.com/track/7HL6wIxsT3aRJrUxfVowFn) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Mami So Bad](https://open.spotify.com/album/4QX6zxCyytdRQDmR1IcW0R) | 3:01 | 2021-12-16 | 2022-05-17 |
@@ -294,6 +294,7 @@
 | [Show Them](https://open.spotify.com/track/0F0gYhu89PlecJB3XUi5Jf) | [Sam Dutchy](https://open.spotify.com/artist/4ZDwxw2U2vf0kGbgBF8QMP) | [Show Them](https://open.spotify.com/album/626DRnpftmOKOEIzVZ4dEK) | 3:18 | 2021-12-16 | 2022-07-29 |
 | [Silly Games](https://open.spotify.com/track/6JiCJrN8tsjG1TLmIL2xRM) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Silly Games](https://open.spotify.com/album/2EbfLEv2xLxdfKI42K4Pdg) | 3:52 | 2021-12-16 | 2022-05-17 |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2021-12-16 |  |
+| [Skeleton Cartier](https://open.spotify.com/track/0ONJRBtjpdlfvyz1jJFHUp) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/1Ei9rdh0ZaUuNjPpFpXwS9) | 3:41 | 2022-12-20 |  |
 | [Skeleton Cartier](https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ) | 3:41 | 2022-03-03 | 2023-01-01 |
 | [Slim Daddy](https://open.spotify.com/track/3AYiqkfWxAPkyan6XDZ6jL) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Slim Daddy](https://open.spotify.com/album/2y2i63YeYWUNbDx1cn1Y4z) | 2:35 | 2021-12-16 | 2022-10-14 |
 | [SMS](https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SMS](https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ) | 2:33 | 2022-12-14 |  |

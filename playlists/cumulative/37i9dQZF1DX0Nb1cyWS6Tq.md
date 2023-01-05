@@ -4,7 +4,7 @@
 
 > Release The Bats! Siouxsie and the Banshees on the cover.
 
-262 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
+263 songs - 19 hr 54 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,9 +102,10 @@
 | [Haunted When the Minutes Drag](https://open.spotify.com/track/2aQPNm5EtLWBHsqzNuAdcq) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Seventh Dream of Teenage Heaven](https://open.spotify.com/album/4nGGzp3IFhkksr4DCOYLQ0) | 8:01 | 2021-10-15 | 2022-11-13 |
 | [Haunted When the Minutes Drag](https://open.spotify.com/track/0lPFVwTWdwXXNa6dMNqm1N) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Seventh Dream of Teenage Heaven](https://open.spotify.com/album/04gzQAamsdEEKerhfigHWU) | 8:03 | 2021-10-15 | 2022-06-06 |
 | [Heart and Soul](https://open.spotify.com/track/4fokGJSBrxFIvt01vz1Fbe) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 5:50 | 2021-10-15 | 2022-07-29 |
-| [Heart and Soul \- 2007 Remaster](https://open.spotify.com/track/4SDscXJTjdF2YgSkYADyU0) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 5:53 | 2021-10-15 |  |
+| [Heart and Soul \- 2007 Remaster](https://open.spotify.com/track/4SDscXJTjdF2YgSkYADyU0) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 5:53 | 2021-10-15 | 2023-01-05 |
 | [Heartland \- David 'Kid' Jensen Session, London, 1983, Live](https://open.spotify.com/track/6Nb2gfiGVt9YFNyB70bvOS) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Heartland \(David 'Kid' Jensen Session, London, 1983\)](https://open.spotify.com/album/5dBr2nR0rZuRt3naS1qaSF) | 4:23 | 2021-10-15 | 2022-06-10 |
 | [Helena](https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:19 | 2021-10-15 |  |
+| [Hex](https://open.spotify.com/track/0ly1XWGeXQLaZM8Cng8PJV) | [Crone Visions](https://open.spotify.com/artist/12MHSwdVzUugwDgfhf3p0J) | [Hex](https://open.spotify.com/album/36FcnufhmxEwHxSPPZIH9l) | 3:24 | 2023-01-04 |  |
 | [His Box](https://open.spotify.com/track/4auQElRGeVu94YhwonIdek) | [Dalis Car](https://open.spotify.com/artist/26K835MEHI621LFChKL16Z) | [The Waking Hour](https://open.spotify.com/album/7HmNnZyCLb2tkxwdwDtpqd) | 4:42 | 2021-10-15 | 2022-07-29 |
 | [Hit](https://open.spotify.com/track/1lYjZUzStLNGtawS2RbvMj) | [Section 25](https://open.spotify.com/artist/0WvBaBwebA8SOLSXUVh4ge) | [Always Now](https://open.spotify.com/album/2rt8lRE5VoWwI5GpfmMHqZ) | 2:58 | 2021-10-15 | 2022-04-21 |
 | [Holiday on the Moon](https://open.spotify.com/track/5ND2AEOcEZX4xD1w0Mgl5W) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sorted! The Best Of](https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg) | 6:05 | 2021-10-15 | 2022-07-29 |
@@ -218,7 +219,7 @@
 | [Stigmata Martyr](https://open.spotify.com/track/4dga7PnLJ870cfrXevpMDi) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:41 | 2021-10-15 | 2022-11-14 |
 | [Stigmata Martyr](https://open.spotify.com/track/1tucajXMeuAA0xKRTvij7c) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In The Flat Field](https://open.spotify.com/album/4aTnxFNp2RSddhkYf0VYeW) | 3:46 | 2021-10-15 | 2022-07-29 |
 | [Strangers](https://open.spotify.com/track/59JCFnXKnbVDihSdhDpNa9) | [Then Comes Silence](https://open.spotify.com/artist/7hM4i3NzOOZZ0IBAGY2hJy) | [III \- Nyctophilian](https://open.spotify.com/album/7AVvNgSuWnRAn8sRjUGRRM) | 3:58 | 2021-10-15 | 2022-07-28 |
-| [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 | 2022-12-17 |  |
+| [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 | 2022-12-16 |  |
 | [Swamp Thing](https://open.spotify.com/track/2pwdD26Y1GsIhrAOETKzQS) | [The Chameleons](https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm) | [Strange Times](https://open.spotify.com/album/0OyyvqyS0iVQZXNhcwd3F6) | 5:56 | 2021-10-15 | 2022-07-29 |
 | [Swamp Thing](https://open.spotify.com/track/6myTigUAh8oKT2iQUNUHIL) | [The Chameleons](https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm) | [Cuando Sale El Sol: Rock](https://open.spotify.com/album/7Ff5wvB7uhwLNYUutyHMrq) | 5:56 | 2021-10-15 |  |
 | [Sweet Lover Hangover](https://open.spotify.com/track/2UNKWKv1dLFPhNlQEbvC4r) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sorted! The Best Of](https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg) | 5:06 | 2021-10-15 | 2022-07-29 |

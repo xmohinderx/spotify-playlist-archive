@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 133760,
+  "num_followers": 133885,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDA4NSwwMDAwMDAwMDI0OWUyMWQ2ZTg1Y2NjMzRkNGQ5OGVhMmQ3ZjYzNDIw",
+  "snapshot_id": "MTY3MTczNDA4NSwwMDAwMDAwMDNmMzZmOTFiZjIzNWNkYjdkZjY2ZTFjNjg2NjQ2MDkx",
   "tracks": [
     {
       "added_at": "2022-11-18 10:48:39",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
+        "name": "Blacksnake Blues",
+        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 674000,
+      "name": "Blacksnake Blues",
+      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 277200,
       "name": "Whiskey And Wimmen'",
       "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
-        "name": "Blacksnake Blues",
-        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 674000,
-      "name": "Blacksnake Blues",
-      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "Delta Kream",
         "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 355434,
       "name": "Come on and Go with Me",
       "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "I Loved Another Woman",
-      "url": "https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "How Blue Can You Get",
         "url": "https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 309373,
       "name": "Don't Answer The Door",
       "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "I Loved Another Woman",
+      "url": "https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Then Play On (2013 Remaster; Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 275201,
-      "name": "Without You - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "Crackdown",
         "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 211819,
       "name": "Easy On The Eyes",
       "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Then Play On (2013 Remaster; Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 275201,
+      "name": "Without You - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "The Legendary Christine Perfect Album",
-        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
-      },
-      "artists": [
-        {
-          "name": "Christine McVie",
-          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
-        }
-      ],
-      "duration_ms": 191355,
-      "name": "I'm on My Way",
-      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "One Scotch, One Bourbon, One Beer",
         "url": "https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 192121,
       "name": "One Scotch, One Bourbon, One Beer",
       "url": "https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "The Legendary Christine Perfect Album",
+        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "duration_ms": 191355,
+      "name": "I'm on My Way",
+      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
         "name": "Willie's Blues",
         "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 354573,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "The Essential Taj Mahal",
-        "url": "https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 530640,
-      "name": "The Celebrated Walkin' Blues",
-      "url": "https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "From The Heart Of A Woman",
         "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 257093,
       "name": "Thanks, But No Thanks",
       "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "The Essential Taj Mahal",
+        "url": "https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 530640,
+      "name": "The Celebrated Walkin' Blues",
+      "url": "https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
+        "name": "Contemporary",
+        "url": "https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7"
+      },
+      "artists": [
+        {
+          "name": "Rick Estrin & The Nightcats",
+          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Nothing But Love",
+      "url": "https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
         "name": "Bob Corritore & Friends: You Shocked Me",
         "url": "https://open.spotify.com/album/18rXZSxt8oRqSMZChCNEPE"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 365909,
       "name": "The Game",
       "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
-        "name": "Contemporary",
-        "url": "https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7"
-      },
-      "artists": [
-        {
-          "name": "Rick Estrin & The Nightcats",
-          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Nothing But Love",
-      "url": "https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "In The Alley",
-        "url": "https://open.spotify.com/album/5Vyb8lsUIkycGVK5x4CrOC"
-      },
-      "artists": [
-        {
-          "name": "Dave Bartholomew",
-          "url": "https://open.spotify.com/artist/4J7xpEpjniTZGE73PxVfkw"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "Lawdy Lawdy Lord (Part 1)",
-      "url": "https://open.spotify.com/track/1r8b8yZwDumwd5ZY5p2QUc"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "Porch Sessions",
         "url": "https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 381813,
       "name": "They Call Me John Primer (feat. John Primer & Bob Corritore)",
       "url": "https://open.spotify.com/track/1UDBiAeAbODqiNzahvO6Dv"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "In The Alley",
+        "url": "https://open.spotify.com/album/5Vyb8lsUIkycGVK5x4CrOC"
+      },
+      "artists": [
+        {
+          "name": "Dave Bartholomew",
+          "url": "https://open.spotify.com/artist/4J7xpEpjniTZGE73PxVfkw"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Lawdy Lawdy Lord (Part 1)",
+      "url": "https://open.spotify.com/track/1r8b8yZwDumwd5ZY5p2QUc"
     }
   ],
   "unique_name": "Blues on the Rocks",

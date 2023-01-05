@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-181 songs - 16 hr 9 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
+182 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bye Bye Blackbird](https://open.spotify.com/track/11zGAB6yiVU0x27PvuiKjr) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Bye Bye Blackbird](https://open.spotify.com/album/0qQ6zxxZJt3Wby8US3FBMF) | 3:54 | 2022-02-23 | 2022-05-11 |
 | [Caravan](https://open.spotify.com/track/3VIXUEBg2YkGwBMpTPMBXa) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Plays Duke Ellington \(Keepnews Collection\)](https://open.spotify.com/album/2WpT885yJAIWvglqFcmN8u) | 5:56 | 2022-05-13 | 2022-10-07 |
 | [Charcoal Blues \- Remastered 2004](https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO), [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX), [Reginald Workman](https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ), [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 6:54 | 2022-04-08 |  |
-| [Charlie Brown Theme](https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 4:19 | 2022-04-13 |  |
+| [Charlie Brown Theme](https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 4:19 | 2022-04-13 | 2023-01-05 |
 | [Come, Gone](https://open.spotify.com/track/78oOWCGWb6TYLZu6BTsaN8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Way Out West \(Deluxe Edition\)](https://open.spotify.com/album/1GKRmu9YUhPejRExGANgyS) | 7:53 | 2022-02-23 | 2022-11-25 |
 | [Dancing In The Dark](https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:35 | 2022-02-23 |  |
 | [Dancing In The Dark](https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 4:07 | 2022-02-23 |  |
@@ -136,6 +136,7 @@
 | [Sandino](https://open.spotify.com/track/6RHr4ChhpvM4XKRy31xS5W) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Etudes](https://open.spotify.com/album/6Y7tgGIv5fI0EQZbOxL45s) | 4:47 | 2022-06-22 | 2022-12-20 |
 | [Sandino](https://open.spotify.com/track/1BYDZ6y1kfTEIj0OizAll6) | [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Etudes](https://open.spotify.com/album/3K5vMOi2CazUGFqKgBgy0R) | 4:47 | 2022-02-23 | 2022-07-29 |
 | [Satin Doll](https://open.spotify.com/track/08KRFHK8w57Js5GZZjamll) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 5:39 | 2022-02-23 | 2022-09-15 |
+| [Shiny Stockings](https://open.spotify.com/track/3lul9ssgcVYSo7ivts4vPb) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:20 | 2023-01-04 |  |
 | [Silver's Serenade \- 20\-Bit Remastering/1997](https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Finest](https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE) | 9:21 | 2022-09-15 |  |
 | [Smoke Rings](https://open.spotify.com/track/6dAM2fTUmBreL0biKXbBPY) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:41 | 2022-02-23 | 2022-10-07 |
 | [Social Call](https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Gigi Gryce](https://open.spotify.com/artist/60pVDktf5EH4d3IxkHozpa) | [When Farmer Met Gryce](https://open.spotify.com/album/2ztfNhKe4VD2diiLMkR19a) | 6:05 | 2022-09-15 |  |

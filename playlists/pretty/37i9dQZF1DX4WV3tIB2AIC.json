@@ -1,12 +1,12 @@
 {
   "description": "Our editorial picks for the best gaming tracks of the year. Cover: Lil Nas X #SpotifyWrapped ",
-  "num_followers": 4464,
+  "num_followers": 4567,
   "original_name": "Top Gaming Tracks of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMGM3M2YxZjk3ZDcxZWQzYzZmMDEwNzQyN2JjY2M1MzI1",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMGEzZTViNGFjMmQ0ZDA0Nzk1ZGM5ZjRjY2RjNmE5YjBi",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -311,26 +311,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Sickick",
-          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
-        }
-      ],
-      "duration_ms": 120157,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+        }
+      ],
+      "duration_ms": 120157,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX"
     },
     {
       "added_at": "2022-11-30 13:46:00",

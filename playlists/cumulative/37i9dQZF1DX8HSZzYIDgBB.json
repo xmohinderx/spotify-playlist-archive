@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "12:21",
+        "url": "https://open.spotify.com/album/2cIv8xNIPWnD5WMogm6HMs"
+      },
+      "artists": [
+        {
+          "name": "Cruz Del Monte",
+          "url": "https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213344,
+      "name": "12:21",
+      "url": "https://open.spotify.com/track/1mSqoJ7bLK8sj3yMMQg9Kr"
+    },
+    {
+      "album": {
         "name": "Los Tiempos Inciertos (feat. Raag)",
         "url": "https://open.spotify.com/album/2js6vsGGCBlLpdrkRVcfJK"
       },
@@ -295,7 +313,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 208097,
       "name": "Aura - Spanish Version",
       "url": "https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN"

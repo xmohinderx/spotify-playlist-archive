@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 137206,
+  "num_followers": 137325,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDI1ZTk0NWYyMTYyNDlhOTgwNTllZjY5ZDdjODljNWFh",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDkxZTU2ODMwYTNhNWE1ODc3OWMzNTdlOWNlNzliMWU3",
   "tracks": [
     {
       "added_at": "2022-12-23 03:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Garc\u00eda 87/93",
         "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 255266,
       "name": "Hablando a Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1111,30 +1111,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Ya No Sos Igual",
-        "url": "https://open.spotify.com/album/0yTm9bRv0Ui1Q0iZoLqAWH"
-      },
-      "artists": [
-        {
-          "name": "2 minutos",
-          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Die Toten Hosen",
-          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
-        }
-      ],
-      "duration_ms": 222541,
-      "name": "Ya No Sos Igual",
-      "url": "https://open.spotify.com/track/39fgFkCOgbTd4QfahwsPPT"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -1163,6 +1139,30 @@
       "duration_ms": 209240,
       "name": "Polaroid De Locura Ordinaria",
       "url": "https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Ya No Sos Igual",
+        "url": "https://open.spotify.com/album/0yTm9bRv0Ui1Q0iZoLqAWH"
+      },
+      "artists": [
+        {
+          "name": "2 minutos",
+          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Die Toten Hosen",
+          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
+        }
+      ],
+      "duration_ms": 222541,
+      "name": "Ya No Sos Igual",
+      "url": "https://open.spotify.com/track/39fgFkCOgbTd4QfahwsPPT"
     },
     {
       "added_at": "2022-12-23 03:00:00",

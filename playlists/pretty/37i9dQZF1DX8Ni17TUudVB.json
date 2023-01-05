@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 132475,
+  "num_followers": 132504,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY3MjA5NCwwMDAwMDAwMDc1NmEzYTJmOGUyMjg1YjJjMGI5YzIyZjNhNTU4MWZi",
+  "snapshot_id": "MTY3MTY3MjA5NCwwMDAwMDAwMGFmMWJiMWNlMjA5M2ZiZjkwMzI3OGRjNmUwMzc0NWE5",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -133,6 +133,26 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
+    },
+    {
       "added_at": "2022-12-13 22:14:31",
       "album": {
         "name": "Tukoh Taka (Official FIFA Fan Festival\u2122Anthem)",
@@ -159,26 +179,6 @@
       "duration_ms": 178529,
       "name": "Tukoh Taka - Official FIFA Fan Festival\u2122 Anthem",
       "url": "https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Hot In It",
-        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1123,6 +1123,30 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Butterflies (with Starrah & Four Tet)",
+        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Starrah",
+          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Butterflies (with Starrah & Four Tet)",
+      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Do It!",
         "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
       },
@@ -1147,30 +1171,6 @@
       "duration_ms": 157444,
       "name": "Do It! - Dimitri Vegas Radio Edit",
       "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Butterflies (with Starrah & Four Tet)",
-        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Starrah",
-          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Butterflies (with Starrah & Four Tet)",
-      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Bum Bum Tam Tam",
-        "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        }
-      ],
-      "duration_ms": 170564,
-      "name": "Bum Bum Tam Tam",
-      "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Creep (mint Singles)",
         "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Bum Bum Tam Tam",
+        "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "duration_ms": 170564,
+      "name": "Bum Bum Tam Tam",
+      "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "What's Up Suckaz",
-        "url": "https://open.spotify.com/album/26Ii0K4367aR8WKk6GXQi9"
-      },
-      "artists": [
-        {
-          "name": "TJR",
-          "url": "https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "What's Up Suckaz",
-      "url": "https://open.spotify.com/track/3D5Or5cnuSQ9IBnRTdjhGX"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 176000,
       "name": "Bang",
       "url": "https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "What's Up Suckaz",
+        "url": "https://open.spotify.com/album/26Ii0K4367aR8WKk6GXQi9"
+      },
+      "artists": [
+        {
+          "name": "TJR",
+          "url": "https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "What's Up Suckaz",
+      "url": "https://open.spotify.com/track/3D5Or5cnuSQ9IBnRTdjhGX"
     },
     {
       "added_at": "2022-10-12 15:43:07",

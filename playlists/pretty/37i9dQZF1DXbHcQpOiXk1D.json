@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 273389,
+  "num_followers": 273479,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MzYwMCwwMDAwMDAwMDFkYzkwOWQ5OWQyMmUwNzIzMzdhNTFiZTRhZjZkMzMy",
+  "snapshot_id": "MTY3MTc1MzYwMCwwMDAwMDAwMDI4NjQ5M2NkYzU5MDVkMjU3YjVhMmJjMDc3NjkyYzVh",
   "tracks": [
     {
       "added_at": "2022-12-23 00:00:00",
@@ -427,6 +427,26 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
+        "name": "la danse",
+        "url": "https://open.spotify.com/album/6HHA2Wth4o5ntz3GZ4O0XL"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        },
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "duration_ms": 177136,
+      "name": "la danse",
+      "url": "https://open.spotify.com/track/1UbfKuIjG38PR3MpjVsbyX"
+    },
+    {
+      "added_at": "2022-12-23 00:00:00",
+      "album": {
         "name": "Something I Said",
         "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 251428,
       "name": "Red and Green - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/50wdgAA4XTOMPD4DZFwv5Y"
-    },
-    {
-      "added_at": "2022-12-23 00:00:00",
-      "album": {
-        "name": "la danse",
-        "url": "https://open.spotify.com/album/6HHA2Wth4o5ntz3GZ4O0XL"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        },
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 177136,
-      "name": "la danse",
-      "url": "https://open.spotify.com/track/1UbfKuIjG38PR3MpjVsbyX"
     },
     {
       "added_at": "2022-12-23 00:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 289213,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
-    },
-    {
-      "added_at": "2022-12-23 00:00:00",
-      "album": {
         "name": "Dough",
         "url": "https://open.spotify.com/album/66x9bHZiWLtKOjSHy1vltw"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 289213,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
+    },
+    {
+      "added_at": "2022-12-23 00:00:00",
+      "album": {
         "name": "Honey For Wounds (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bEHvwq0E9SVwBuy4G0Cnk"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 197872,
       "name": "Give A Little - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/1iJwihRpjyrLH9BzqlT1qt"
+    },
+    {
+      "added_at": "2022-12-23 00:00:00",
+      "album": {
+        "name": "It's All Relative",
+        "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
+      },
+      "artists": [
+        {
+          "name": "J-Fills",
+          "url": "https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC"
+        }
+      ],
+      "duration_ms": 198843,
+      "name": "Begotten",
+      "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
     },
     {
       "added_at": "2022-12-23 00:00:00",
@@ -711,22 +727,6 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
-        "name": "It's All Relative",
-        "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
-      },
-      "artists": [
-        {
-          "name": "J-Fills",
-          "url": "https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC"
-        }
-      ],
-      "duration_ms": 198843,
-      "name": "Begotten",
-      "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
-    },
-    {
-      "added_at": "2022-12-23 00:00:00",
-      "album": {
         "name": "The Antidote Is in the Poison",
         "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
       },
@@ -743,18 +743,22 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
-        "name": "May The Funk Be With You",
-        "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
+        "name": "Collage 2",
+        "url": "https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        },
+        {
+          "name": "ELSAS",
+          "url": "https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo"
         }
       ],
-      "duration_ms": 267213,
-      "name": "May The Funk Be With You",
-      "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
+      "duration_ms": 192859,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
     },
     {
       "added_at": "2022-12-23 00:00:00",
@@ -779,22 +783,18 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
-        "name": "Collage 2",
-        "url": "https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4"
+        "name": "May The Funk Be With You",
+        "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
       },
       "artists": [
         {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        },
-        {
-          "name": "ELSAS",
-          "url": "https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         }
       ],
-      "duration_ms": 192859,
-      "name": "Stuck In The Middle",
-      "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
+      "duration_ms": 267213,
+      "name": "May The Funk Be With You",
+      "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
     },
     {
       "added_at": "2022-12-23 00:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w"
       },
       "artists": [
         {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+          "name": "Ugolino",
+          "url": "https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7"
         }
       ],
-      "duration_ms": 308600,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
+      "duration_ms": 221000,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
     },
     {
       "added_at": "2022-12-23 00:00:00",
@@ -879,6 +879,42 @@
       "duration_ms": 292306,
       "name": "(Why You So) Green With Envy",
       "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
+    },
+    {
+      "added_at": "2022-12-23 00:00:00",
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "No Confusion (feat. Kojey Radical)",
+      "url": "https://open.spotify.com/track/7qQM4p5Kb8i6xYSkaEDYyR"
+    },
+    {
+      "added_at": "2022-12-23 00:00:00",
+      "album": {
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 308600,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
     },
     {
       "added_at": "2022-12-23 00:00:00",
@@ -923,42 +959,6 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "No Confusion (feat. Kojey Radical)",
-      "url": "https://open.spotify.com/track/7qQM4p5Kb8i6xYSkaEDYyR"
-    },
-    {
-      "added_at": "2022-12-23 00:00:00",
-      "album": {
-        "name": "Yellow (Deluxe)",
-        "url": "https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "The Rings Of Saturn",
-      "url": "https://open.spotify.com/track/6TCxTdyXZPcB17kqpJQzFP"
-    },
-    {
-      "added_at": "2022-12-23 00:00:00",
-      "album": {
         "name": "Berlin 1",
         "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
       },
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w"
+        "name": "Yellow (Deluxe)",
+        "url": "https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz"
       },
       "artists": [
         {
-          "name": "Ugolino",
-          "url": "https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7"
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
+      "duration_ms": 203000,
+      "name": "The Rings Of Saturn",
+      "url": "https://open.spotify.com/track/6TCxTdyXZPcB17kqpJQzFP"
     },
     {
       "added_at": "2022-12-23 00:00:00",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
-        "name": "Next Spring",
-        "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
-      },
-      "artists": [
-        {
-          "name": "B-ahwe",
-          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
-        }
-      ],
-      "duration_ms": 224322,
-      "name": "Next Spring",
-      "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
-    },
-    {
-      "added_at": "2022-12-23 00:00:00",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 229499,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/3dAVMvD7oPW9HtaoQG680C"
-    },
-    {
-      "added_at": "2022-12-23 00:00:00",
-      "album": {
         "name": "Kyoto Rain",
         "url": "https://open.spotify.com/album/1J90rzB7mwUMMZHphgoS4z"
       },
@@ -1111,6 +1079,22 @@
       "duration_ms": 333712,
       "name": "Kyoto Rain",
       "url": "https://open.spotify.com/track/7z87TW9gdPZPjUNhWUoyCT"
+    },
+    {
+      "added_at": "2022-12-23 00:00:00",
+      "album": {
+        "name": "Next Spring",
+        "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
+      },
+      "artists": [
+        {
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+        }
+      ],
+      "duration_ms": 224322,
+      "name": "Next Spring",
+      "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
     },
     {
       "added_at": "2022-12-23 00:00:00",
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
-        "name": "Through The Noise (Chant No. 2)",
-        "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Through The Noise (Chant No. 2)",
-      "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
+      "duration_ms": 229499,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/3dAVMvD7oPW9HtaoQG680C"
     },
     {
       "added_at": "2022-12-23 00:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 185646,
       "name": "Take Flight",
       "url": "https://open.spotify.com/track/6G0N1IkBWHsO8WQHxqpz44"
+    },
+    {
+      "added_at": "2022-12-23 00:00:00",
+      "album": {
+        "name": "Through The Noise (Chant No. 2)",
+        "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Through The Noise (Chant No. 2)",
+      "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
     },
     {
       "added_at": "2022-12-23 00:00:00",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
-        "name": "Days Like This",
-        "url": "https://open.spotify.com/album/130gHXGawD0GHuL0VnfAVh"
-      },
-      "artists": [
-        {
-          "name": "Safiyyah",
-          "url": "https://open.spotify.com/artist/07UzVz5qBaR5ZQcaRCYeIu"
-        },
-        {
-          "name": "KeepVibesNear",
-          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
-        },
-        {
-          "name": "Nikhil Beats",
-          "url": "https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR"
-        }
-      ],
-      "duration_ms": 218969,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/5HHpKZFPMp2QzLMRiaT5sx"
-    },
-    {
-      "added_at": "2022-12-23 00:00:00",
-      "album": {
         "name": "Lemon Squeezy / Afrique",
         "url": "https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp"
       },
@@ -1363,6 +1339,30 @@
       "duration_ms": 212762,
       "name": "Lemon Squeezy",
       "url": "https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV"
+    },
+    {
+      "added_at": "2022-12-23 00:00:00",
+      "album": {
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/130gHXGawD0GHuL0VnfAVh"
+      },
+      "artists": [
+        {
+          "name": "Safiyyah",
+          "url": "https://open.spotify.com/artist/07UzVz5qBaR5ZQcaRCYeIu"
+        },
+        {
+          "name": "KeepVibesNear",
+          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
+        },
+        {
+          "name": "Nikhil Beats",
+          "url": "https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR"
+        }
+      ],
+      "duration_ms": 218969,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/5HHpKZFPMp2QzLMRiaT5sx"
     },
     {
       "added_at": "2022-12-23 00:00:00",

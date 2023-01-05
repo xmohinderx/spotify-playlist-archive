@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Ziza Fernandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,511 likes - 70 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,603 likes - 70 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 29 | [Se Eu Tocar](https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Espírito da Verdade](https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P) | 4:47 |
 | 30 | [Romaria \- Ao Vivo](https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Leo Cidade](https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit) | [Romaria \(Ao Vivo\)](https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U) | 5:19 |
 | 31 | [Canção de Madalena](https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Hosana, Pt\. 01](https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N) | 3:34 |
-| 32 | [Nudez de Madalena](https://open.spotify.com/track/2MtL7P6fEUJjg1Db1a6767) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Nudez de Madalena](https://open.spotify.com/album/6UayX7gYPQVNllvysXXQHK) | 5:13 |
-| 33 | [Longe de Deus, Tudo É Ilusão](https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO) | [Deus Anda Comigo](https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e) | 3:43 |
+| 32 | [Longe de Deus, Tudo É Ilusão](https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO) | [Deus Anda Comigo](https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e) | 3:43 |
+| 33 | [Nudez de Madalena](https://open.spotify.com/track/2MtL7P6fEUJjg1Db1a6767) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Nudez de Madalena](https://open.spotify.com/album/6UayX7gYPQVNllvysXXQHK) | 5:13 |
 | 34 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 |
 | 35 | [Alma de Cristo](https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Alma de Cristo](https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA) | 3:52 |
 | 36 | [Gratidão](https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Gratidão](https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G) | 3:57 |
-| 37 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 |
+| 37 | [Sobre o Tempo e o Coração](https://open.spotify.com/track/7jCgbgUhJrBM7D0XSihUKr) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Sobre o Tempo e o Coração](https://open.spotify.com/album/02vMlXdOK7JMnhPvsCuCtV) | 4:51 |
 | 38 | [Eis\-Me Aqui \- Ao Vivo](https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Resiliência \(Ao Vivo\)](https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q) | 9:29 |
-| 39 | [Sobre o Tempo e o Coração](https://open.spotify.com/track/7jCgbgUhJrBM7D0XSihUKr) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Sobre o Tempo e o Coração](https://open.spotify.com/album/02vMlXdOK7JMnhPvsCuCtV) | 4:51 |
+| 39 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 |
 | 40 | [Grande Rei](https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ) | [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd) | [Grande Rei](https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN) | 4:00 |
 | 41 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |
 | 42 | [Irresistivelmente](https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2022](https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv) | 5:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Confio em Ti](https://open.spotify.com/track/0S4O7XVa5ijA9jQXYcIZEA) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Confio em Ti](https://open.spotify.com/album/2U294zEFql410JNg2dVPf9) | 4:23 |
 | 70 | [Vale a Pena Viver \- Ao Vivo](https://open.spotify.com/track/0h268ATtcBdaQsJYN0WBJk) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Vale a Pena Viver](https://open.spotify.com/album/3MkWIEBXP5Xd0yt99tBruB) | 4:00 |
 
-Snapshot ID: `MTY3MDU2NjgwOCwwMDAwMDAwMDQyYTk3ZjY1OTAwYTZmMGYwMWRmNDMzMDUzMGE5YmMy`
+Snapshot ID: `MTY3MDU2NjgwOCwwMDAwMDAwMGRhY2NiMTA5ZDM2Zjg1ODJkMjJmYWNlMzBlNzU2NmZj`

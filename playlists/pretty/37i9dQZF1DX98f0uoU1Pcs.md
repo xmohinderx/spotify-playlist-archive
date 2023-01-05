@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Special Interest
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,140 likes - 126 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,320 likes - 126 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 68 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
 | 69 | [Shallow](https://open.spotify.com/track/7Ekno8c0KbiW2uFxAQeJU3) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [Bitter](https://open.spotify.com/album/0vKLo5Q6AVsc1u1W1l13RW) | 5:10 |
 | 70 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 |
-| 71 | [u dont kno me](https://open.spotify.com/track/1jbbnDJ54AGBRswmNm5PAw) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [u dont kno me](https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp) | 3:59 |
+| 71 | [u dont kno me](https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:59 |
 | 72 | [Dying Plant](https://open.spotify.com/track/5pl2bLHJA6CPDvVAWcVcG4) | [Early Eyes](https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4) | [Look Alive!](https://open.spotify.com/album/1w0j1VEeFATnYcF9Vvh9UQ) | 3:06 |
 | 73 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 |
 | 74 | [PLANT THE FANGS](https://open.spotify.com/track/6AKsTbsS7RJ3oBBlmrkss4) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5) | [PLANT THE FANGS](https://open.spotify.com/album/3xKtJyeWidxEkuZ1KC5AIl) | 2:05 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 125 | [Friends On Ice](https://open.spotify.com/track/0ZDKTKucM4P27wWEuXh7Bt) | [Yung](https://open.spotify.com/artist/5XXsYiiQV6g24ksM2iAdtM) | [Ongoing Dispute](https://open.spotify.com/album/1ygTSPHT2gdItEzuDAKJth) | 4:06 |
 | 126 | [Modern Dinosaur](https://open.spotify.com/track/5TPqgtVFvYK8rmcIUNKY0s) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Sub Atomic Party Cool](https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm) | 2:31 |
 
-Snapshot ID: `MTY3MDg2MDAzMCwwMDAwMDAwMGEyYzg1MDRlM2FhYWE4MTZiMmExNjNkMTZhZWFjZDZi`
+Snapshot ID: `MTY3MDg2MDAzMCwwMDAwMDAwMDRlZjY5ZmM5YTE1Nzg5OTIyMTdhOGFiYmQyMmZhMzQ4`

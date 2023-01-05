@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jonasu, Karen Harding, Armand Van Helden",
-  "num_followers": 48381,
+  "num_followers": 48382,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTYzMywyZThmMmE0MmY5M2QzNDVjZDljZTlhYTNhNGE5YWI3ZjZmMDg3YTMx",
+  "snapshot_id": "MTYzNCxjMjNmYWQwZWZiZDIxZGMwNzZmZTIwMTNkNDIwN2VkYjI1ODcwNTZm",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/6IXJVJ5W109zQcQw2U0pUG"
     },
     {
-      "added_at": "2022-05-15 15:41:03",
-      "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 185522,
-      "name": "I Love U",
-      "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
-    },
-    {
       "added_at": "2022-10-25 15:41:02",
       "album": {
         "name": "All That Really Matters",
@@ -787,6 +771,22 @@
       "duration_ms": 244235,
       "name": "All That Really Matters",
       "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
+    },
+    {
+      "added_at": "2022-05-15 15:41:03",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 185522,
+      "name": "I Love U",
+      "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
     },
     {
       "added_at": "2022-09-16 15:41:02",
@@ -889,26 +889,6 @@
       "url": "https://open.spotify.com/track/2cGVq1Ax5ZxmRMJo5T3hYH"
     },
     {
-      "added_at": "2022-07-19 15:41:02",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
       "added_at": "2022-10-25 15:41:02",
       "album": {
         "name": "Hearts on Fire",
@@ -931,6 +911,26 @@
       "duration_ms": 236317,
       "name": "Hearts on Fire",
       "url": "https://open.spotify.com/track/02oT3HvcsXD64VwOBtH8yM"
+    },
+    {
+      "added_at": "2022-07-19 15:41:02",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2022-10-25 15:41:02",
@@ -1113,6 +1113,34 @@
       "url": "https://open.spotify.com/track/0LsR4TZXku2sMoFTwAivOw"
     },
     {
+      "added_at": "2022-03-13 15:47:02",
+      "album": {
+        "name": "Escape (feat. Hayla)",
+        "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 240445,
+      "name": "Escape (feat. Hayla)",
+      "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+    },
+    {
       "added_at": "2022-12-06 15:41:02",
       "album": {
         "name": "Deja Reve",
@@ -1147,34 +1175,6 @@
       "duration_ms": 233925,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo"
-    },
-    {
-      "added_at": "2022-03-13 15:47:02",
-      "album": {
-        "name": "Escape (feat. Hayla)",
-        "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
-      },
-      "artists": [
-        {
-          "name": "Kx5",
-          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
-        },
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 240445,
-      "name": "Escape (feat. Hayla)",
-      "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
     },
     {
       "added_at": "2022-08-10 15:41:02",
@@ -1441,30 +1441,6 @@
       "url": "https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY"
     },
     {
-      "added_at": "2022-10-25 15:41:02",
-      "album": {
-        "name": "First Time (feat. iann dior) [Goodboys Remix]",
-        "url": "https://open.spotify.com/album/7lDyZGWrXZ2sRKKiPrwdfM"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 168681,
-      "name": "First Time (feat. iann dior) - Goodboys Remix",
-      "url": "https://open.spotify.com/track/7FIQXdn2HUa7F7AsqGWRit"
-    },
-    {
       "added_at": "2022-08-03 15:41:02",
       "album": {
         "name": "Colors (with Eyelar)",
@@ -1489,20 +1465,28 @@
       "url": "https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr"
     },
     {
-      "added_at": "2022-12-09 15:41:02",
+      "added_at": "2022-10-25 15:41:02",
       "album": {
-        "name": "TRIBAL SPACEMAN",
-        "url": "https://open.spotify.com/album/5XvNl4yk4g2rfN0dNYTM7x"
+        "name": "First Time (feat. iann dior) [Goodboys Remix]",
+        "url": "https://open.spotify.com/album/7lDyZGWrXZ2sRKKiPrwdfM"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
         }
       ],
-      "duration_ms": 236663,
-      "name": "TRIBAL SPACEMAN",
-      "url": "https://open.spotify.com/track/58e8LmPXhPlenHfYoaQnBu"
+      "duration_ms": 168681,
+      "name": "First Time (feat. iann dior) - Goodboys Remix",
+      "url": "https://open.spotify.com/track/7FIQXdn2HUa7F7AsqGWRit"
     },
     {
       "added_at": "2022-09-08 15:43:02",
@@ -1527,6 +1511,38 @@
       "duration_ms": 172913,
       "name": "Numb - Alok Remix",
       "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
+    },
+    {
+      "added_at": "2022-12-09 15:41:02",
+      "album": {
+        "name": "TRIBAL SPACEMAN",
+        "url": "https://open.spotify.com/album/5XvNl4yk4g2rfN0dNYTM7x"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 236663,
+      "name": "TRIBAL SPACEMAN",
+      "url": "https://open.spotify.com/track/58e8LmPXhPlenHfYoaQnBu"
+    },
+    {
+      "added_at": "2022-09-18 15:41:02",
+      "album": {
+        "name": "Baila Conmigo",
+        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
     },
     {
       "added_at": "2022-12-19 15:41:06",
@@ -1571,22 +1587,6 @@
       "duration_ms": 153387,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/4iyD0sQ92t79PBejgfCgaj"
-    },
-    {
-      "added_at": "2022-09-18 15:41:02",
-      "album": {
-        "name": "Baila Conmigo",
-        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Baila Conmigo",
-      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
     },
     {
       "added_at": "2022-10-25 15:41:02",
@@ -1821,80 +1821,80 @@
       "url": "https://open.spotify.com/track/64pEn9KcRSD1620xT3RwYB"
     },
     {
-      "added_at": "2023-01-03 10:08:03",
+      "added_at": "2023-01-04 10:08:03",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/2oUvLqCDC6lk87gvVhaL36"
+        "name": "Get Away (feat. Edgar Sandoval JR)",
+        "url": "https://open.spotify.com/album/2iTEhZ0N2RKBVAIffo2eHw"
       },
       "artists": [
         {
-          "name": "Excellia",
-          "url": "https://open.spotify.com/artist/2nJFzQCTUeipkSshEoVSLe"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/18jl9P6m8QfmcX6xtewl50"
-    },
-    {
-      "added_at": "2023-01-03 10:08:03",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/6TUnvAYhgmJs2G8MuoQ3eb"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+          "name": "Max Vermeulen",
+          "url": "https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w"
         },
         {
-          "name": "Hugo Cantarra",
-          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
-        },
-        {
-          "name": "OMEM",
-          "url": "https://open.spotify.com/artist/6PEbhxAoBVdvwWFGwDmfoN"
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
         }
       ],
-      "duration_ms": 174677,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY"
+      "duration_ms": 155644,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/76fkeDx8Uztga6l7RId8Fq"
     },
     {
-      "added_at": "2023-01-03 10:08:03",
+      "added_at": "2023-01-04 10:08:03",
       "album": {
-        "name": "I Got You (CINTHIE Remix)",
-        "url": "https://open.spotify.com/album/5Ly7w21RzDLeWOtJf92cJH"
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/4j7RLLIETE8YFIJWXgFhfG"
       },
       "artists": [
         {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+          "name": "York",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
         },
         {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+          "name": "Steve Brian",
+          "url": "https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf"
         }
       ],
-      "duration_ms": 206852,
-      "name": "I Got You - CINTHIE Remix",
-      "url": "https://open.spotify.com/track/6zQ7hO4j8xwJeNszzykebE"
+      "duration_ms": 170000,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/7I4tDDBhhjGZ0sv9NoK3Eb"
     },
     {
-      "added_at": "2023-01-03 10:08:03",
+      "added_at": "2023-01-04 10:08:03",
       "album": {
-        "name": "Ellipse",
-        "url": "https://open.spotify.com/album/41MYb0d8BxiQhby575mvbj"
+        "name": "The Great Consumer / Remind You",
+        "url": "https://open.spotify.com/album/6DNU67eyL0xzafUpwgB4qG"
       },
       "artists": [
         {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
         }
       ],
-      "duration_ms": 411633,
-      "name": "Ellipse",
-      "url": "https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP"
+      "duration_ms": 358115,
+      "name": "The Great Consumer",
+      "url": "https://open.spotify.com/track/1o4hJ85d5nT7GXkudUGvWS"
+    },
+    {
+      "added_at": "2023-01-04 10:08:03",
+      "album": {
+        "name": "My Last Song",
+        "url": "https://open.spotify.com/album/2HeCDWb54nUiL1dvMpD2vx"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        },
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "My Last Song",
+      "url": "https://open.spotify.com/track/6Oejq17rVhmFC02g07B3Hz"
     },
     {
       "added_at": "2021-10-01 15:41:05",
@@ -1917,112 +1917,92 @@
       "url": "https://open.spotify.com/track/26O4gphJQbnUkY8eRLEZiP"
     },
     {
-      "added_at": "2023-01-03 10:08:03",
+      "added_at": "2023-01-04 10:08:03",
       "album": {
-        "name": "Summer on You",
-        "url": "https://open.spotify.com/album/5IbJRX7Te1lvkMwPjssiV5"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6gCJFfgKjcxn6lh1zqjKLH"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Wulf",
-          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 160008,
-      "name": "Summer on You",
-      "url": "https://open.spotify.com/track/7Ct0Q46k5PkXzYiNE5D2dn"
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3ACnarSkTKiOTj4rsnFkgf"
     },
     {
-      "added_at": "2023-01-03 10:08:03",
+      "added_at": "2023-01-04 10:08:03",
       "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
+        "name": "You (\u00e0 la)",
+        "url": "https://open.spotify.com/album/2wpLvM1TFulyMceUhyeozM"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
         }
       ],
-      "duration_ms": 169910,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
+      "duration_ms": 144393,
+      "name": "You (\u00e0 la)",
+      "url": "https://open.spotify.com/track/5kSh4hhyGRjLitIuNq0Agk"
     },
     {
-      "added_at": "2023-01-03 10:08:03",
+      "added_at": "2023-01-04 10:08:03",
       "album": {
-        "name": "Pondicherry",
-        "url": "https://open.spotify.com/album/4mK8tKlBVJWq7ihVmhm1h5"
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         }
       ],
-      "duration_ms": 202380,
-      "name": "Pondicherry",
-      "url": "https://open.spotify.com/track/0IoJNiqfeORsU6nMY9zC85"
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
-      "added_at": "2023-01-03 10:08:03",
+      "added_at": "2023-01-04 10:08:03",
       "album": {
-        "name": "Starlight (Keep Me Afloat)",
-        "url": "https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY"
+        "name": "Uprising (I Can't Wait)",
+        "url": "https://open.spotify.com/album/6X2bIYDzqmYbXyhZQIVcgG"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Shaun Farrugia",
-          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+          "name": "Adelphi Music Factory",
+          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
         }
       ],
-      "duration_ms": 202670,
-      "name": "Starlight (Keep Me Afloat)",
-      "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
+      "duration_ms": 153750,
+      "name": "Uprising (I Can't Wait)",
+      "url": "https://open.spotify.com/track/59ScrVfZ3VVB4oeL2MVXAR"
     },
     {
-      "added_at": "2023-01-03 10:08:03",
+      "added_at": "2023-01-04 10:08:03",
       "album": {
-        "name": "Oxas",
-        "url": "https://open.spotify.com/album/0u8v6tjFwtiVkbt0MwqfrN"
+        "name": "End of Slaphouse",
+        "url": "https://open.spotify.com/album/4uyEug3K5JHviGzkgYubu6"
       },
       "artists": [
         {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "De Hofnar",
-          "url": "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
+          "name": "ALOTT",
+          "url": "https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3"
         }
       ],
-      "duration_ms": 301174,
-      "name": "Oxas",
-      "url": "https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl"
+      "duration_ms": 181875,
+      "name": "End of Slaphouse",
+      "url": "https://open.spotify.com/track/0U5Q2jPCuyQLCxb8LYYD90"
     }
   ],
   "unique_name": "EDM Top 100",

@@ -1,12 +1,12 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 683741,
+  "num_followers": 684036,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc1NzEwNCwwMDAwMDAwMGE0ZmQwOGNjNzU5MzFmMWJiZGFhZmRmNjlhYzU1NGUy",
+  "snapshot_id": "MTY3Mjg0MzgzNCwwMDAwMDAwMDA0NDU3MWQ0OGU3MmI5NDVmZWU0ZjU2ZDY5MTJmM2Y0",
   "tracks": [
     {
       "added_at": "2022-11-30 19:41:15",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "DARE",
-      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "The Difference",
         "url": "https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "DARE",
+      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -231,22 +231,6 @@
       "duration_ms": 156800,
       "name": "pg baby",
       "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Skinny Ape",
-        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 281258,
-      "name": "Skinny Ape",
-      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -333,6 +317,22 @@
       "url": "https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Skinny Ape",
+        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 281258,
+      "name": "Skinny Ape",
+      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
+    },
+    {
       "added_at": "2022-12-16 15:41:08",
       "album": {
         "name": "The Family",
@@ -399,22 +399,6 @@
       "duration_ms": 124872,
       "name": "Weight",
       "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Baby Queen",
-        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 220105,
-      "name": "Baby Queen",
-      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -487,6 +471,22 @@
       "duration_ms": 199669,
       "name": "spend the money (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Baby Queen",
+        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -579,6 +579,26 @@
       "duration_ms": 201004,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb"
+    },
+    {
+      "added_at": "2023-01-04 14:50:34",
+      "album": {
+        "name": "Mamacita (feat. A$AP Rocky)",
+        "url": "https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0"
+      },
+      "artists": [
+        {
+          "name": "Smooky MarGielaa",
+          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 185749,
+      "name": "Mamacita (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -779,22 +799,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "say what u mean (with Riovaz)",
         "url": "https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9"
       },
@@ -811,6 +815,22 @@
       "duration_ms": 151250,
       "name": "say what u mean (with Riovaz)",
       "url": "https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -847,22 +867,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 149840,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Get Inspired",
         "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
       },
@@ -875,6 +879,22 @@
       "duration_ms": 173152,
       "name": "Get Inspired",
       "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -963,6 +983,26 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "IDC",
+        "url": "https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 112666,
+      "name": "IDC",
+      "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU"
       },
@@ -995,26 +1035,6 @@
       "duration_ms": 280000,
       "name": "Psychedelic Views (feat. IDK)",
       "url": "https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "IDC",
-        "url": "https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 112666,
-      "name": "IDC",
-      "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1067,22 +1087,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Bad Radio",
-        "url": "https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Bad Radio",
-      "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "play pretend",
         "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
       },
@@ -1095,6 +1099,22 @@
       "duration_ms": 117774,
       "name": "play pretend",
       "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Bad Radio",
+        "url": "https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Bad Radio",
+      "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1263,6 +1283,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU"
+      },
+      "artists": [
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        }
+      ],
+      "duration_ms": 226833,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "High Beams (JPEGMAFIA Remix)",
         "url": "https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti"
       },
@@ -1283,18 +1319,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU"
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO"
       },
       "artists": [
         {
-          "name": "SAIAH",
-          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
         }
       ],
-      "duration_ms": 226833,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU"
+      "duration_ms": 179060,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1311,22 +1347,6 @@
       "duration_ms": 167500,
       "name": "Would It Kill You At All",
       "url": "https://open.spotify.com/track/0MFpii15OtF6euR17upS7S"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 179060,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1359,6 +1379,22 @@
       "duration_ms": 164610,
       "name": "Cold Blood",
       "url": "https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44"
+    },
+    {
+      "added_at": "2022-12-14 20:26:31",
+      "album": {
+        "name": "Extrovert",
+        "url": "https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic"
+      },
+      "artists": [
+        {
+          "name": "Monjola",
+          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
+        }
+      ],
+      "duration_ms": 186856,
+      "name": "Extrovert",
+      "url": "https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1409,22 +1445,6 @@
       "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
     },
     {
-      "added_at": "2022-12-14 20:26:31",
-      "album": {
-        "name": "Extrovert",
-        "url": "https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic"
-      },
-      "artists": [
-        {
-          "name": "Monjola",
-          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
-        }
-      ],
-      "duration_ms": 186856,
-      "name": "Extrovert",
-      "url": "https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739"
-    },
-    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "boythots",
@@ -1439,22 +1459,6 @@
       "duration_ms": 137844,
       "name": "boythots",
       "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "GTFO",
-        "url": "https://open.spotify.com/album/5hAPhhrqcSGlLHW3uNgJof"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 200920,
-      "name": "GTFO",
-      "url": "https://open.spotify.com/track/01nSzyIB57M50XlmuGGqjE"
     },
     {
       "added_at": "2022-12-08 15:20:00",
@@ -1475,18 +1479,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Universal Credit (Deluxe)",
-        "url": "https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl"
+        "name": "GTFO",
+        "url": "https://open.spotify.com/album/5hAPhhrqcSGlLHW3uNgJof"
       },
       "artists": [
         {
-          "name": "Jeshi",
-          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 170533,
-      "name": "This Thing Of Ours",
-      "url": "https://open.spotify.com/track/5fasR6LRfES4uLsS0xgKu5"
+      "duration_ms": 200920,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/01nSzyIB57M50XlmuGGqjE"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1503,6 +1507,22 @@
       "duration_ms": 204608,
       "name": "until my heart stops beating",
       "url": "https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Universal Credit (Deluxe)",
+        "url": "https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl"
+      },
+      "artists": [
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "This Thing Of Ours",
+      "url": "https://open.spotify.com/track/5fasR6LRfES4uLsS0xgKu5"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1595,22 +1615,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Doja Cat",
-        "url": "https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol"
-      },
-      "artists": [
-        {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        }
-      ],
-      "duration_ms": 160397,
-      "name": "Doja Cat",
-      "url": "https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "BBC",
         "url": "https://open.spotify.com/album/70gNu3PKq0dtMlfyytf44t"
       },
@@ -1627,18 +1631,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Griffith Park",
-        "url": "https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel"
+        "name": "Doja Cat",
+        "url": "https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol"
       },
       "artists": [
         {
-          "name": "Carter Ace",
-          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Griffith Park",
-      "url": "https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z"
+      "duration_ms": 160397,
+      "name": "Doja Cat",
+      "url": "https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1655,6 +1659,22 @@
       "duration_ms": 170310,
       "name": "ihy",
       "url": "https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Griffith Park",
+        "url": "https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel"
+      },
+      "artists": [
+        {
+          "name": "Carter Ace",
+          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Griffith Park",
+      "url": "https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1691,22 +1711,6 @@
       "duration_ms": 174193,
       "name": "overpaid (feat. Tom The Mail Man)",
       "url": "https://open.spotify.com/track/2LVeGtvlH8VwDJTP8EHeek"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Groupie",
-        "url": "https://open.spotify.com/album/2CDCVRa5raNL9q7NfiGJcZ"
-      },
-      "artists": [
-        {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
-        }
-      ],
-      "duration_ms": 120268,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/79Ty2Ykvn2ZJhFd9Nn45b7"
     }
   ],
   "unique_name": "anti pop",

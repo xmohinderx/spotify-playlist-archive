@@ -319,10 +319,28 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 271699,
       "name": "Eyokuza",
       "url": "https://open.spotify.com/track/6gJVTJap7XXAPY3qJKoAY4"
+    },
+    {
+      "album": {
+        "name": "Eyokuza",
+        "url": "https://open.spotify.com/album/0r4p4Z9eRFUsKYq5OQiuHJ"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/6opKhHzvL2v5u42eTzEmjN"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271713,
+      "name": "Eyokuza",
+      "url": "https://open.spotify.com/track/72gVqRVUJECbmu91Qu3fET"
     },
     {
       "album": {

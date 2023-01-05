@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arc\u00e1ngel ",
-  "num_followers": 1514502,
+  "num_followers": 1514568,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjYzODU1MSwwMDAwMDAwMGIxYWQ5YzYyZGNhY2FiZjNmM2RiN2JiZTQwMjY3ZjRh",
+  "snapshot_id": "MTY3MjYzODU1MSwwMDAwMDAwMDgyYTgzOWVhYWZkNTQ2YTUxMDg5Njc1MjA5YTFmNTYz",
   "tracks": [
     {
       "added_at": "2022-12-20 07:42:18",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 189226,
-      "name": "ENCHULETIAO",
-      "url": "https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
         "name": "Racks On Me",
         "url": "https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 183065,
       "name": "Racks On Me",
       "url": "https://open.spotify.com/track/5viIroXdYNhDJaSfF5YrLp"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "ENCHULETIAO",
+      "url": "https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
+        "name": "Suge Knight",
+        "url": "https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 498346,
+      "name": "Suge Knight",
+      "url": "https://open.spotify.com/track/6izcmLT9QWSov9DSp2H3eL"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
         "name": "Italiano",
         "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
       },
@@ -1131,38 +1147,6 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "ANTI JUDAS RELOADED",
-        "url": "https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "SACA Y PON",
-      "url": "https://open.spotify.com/track/3MPpKms5lIjULfNzZlcD32"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
-        "name": "Suge Knight",
-        "url": "https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 498346,
-      "name": "Suge Knight",
-      "url": "https://open.spotify.com/track/6izcmLT9QWSov9DSp2H3eL"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
         "name": "100 TRACKS",
         "url": "https://open.spotify.com/album/6bCWlTPqOKwHRJ20aMPvqI"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 164092,
       "name": "100 TRACKS",
       "url": "https://open.spotify.com/track/4Aljhc4Fbs5HnkvqMD50U0"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
+        "name": "ANTI JUDAS RELOADED",
+        "url": "https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "SACA Y PON",
+      "url": "https://open.spotify.com/track/3MPpKms5lIjULfNzZlcD32"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
+        "name": "7D",
+        "url": "https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "duration_ms": 236124,
+      "name": "7D",
+      "url": "https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
         "name": "Mu\u00e9velo Lento",
         "url": "https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 182903,
       "name": "Mu\u00e9velo Lento",
       "url": "https://open.spotify.com/track/7nxcnlwklosgjwpVSl5Bty"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
-        "name": "7D",
-        "url": "https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        }
-      ],
-      "duration_ms": 236124,
-      "name": "7D",
-      "url": "https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "Guarida",
-        "url": "https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Guarida",
-      "url": "https://open.spotify.com/track/19FjaZwowlzROovPliZty2"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
         "name": "C4 x 73",
         "url": "https://open.spotify.com/album/78Xx2eT7AsNkxq4qoOXhrW"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 183428,
       "name": "Mention",
       "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
+        "name": "Guarida",
+        "url": "https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Guarida",
+      "url": "https://open.spotify.com/track/19FjaZwowlzROovPliZty2"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1951,6 +1951,26 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
+        "name": "El Congreso",
+        "url": "https://open.spotify.com/album/4ll3ufkVHwVxWp4bS6jIOA"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 200997,
+      "name": "El Congreso",
+      "url": "https://open.spotify.com/track/2gG7dRgCYDU8HjbINLTGxI"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
         "name": "Pa To' Los Combos",
         "url": "https://open.spotify.com/album/7yinu5ZWVI3S3qYBETiHbb"
       },
@@ -1983,26 +2003,6 @@
       "duration_ms": 340480,
       "name": "Pa To Los Combo",
       "url": "https://open.spotify.com/track/1fui3e4HmhPSkxmblO5U0h"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
-        "name": "El Congreso",
-        "url": "https://open.spotify.com/album/4ll3ufkVHwVxWp4bS6jIOA"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 200997,
-      "name": "El Congreso",
-      "url": "https://open.spotify.com/track/2gG7dRgCYDU8HjbINLTGxI"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -2047,6 +2047,26 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
+        "name": "La Esquina",
+        "url": "https://open.spotify.com/album/59bdhdLx7R1cThpbZNtyeB"
+      },
+      "artists": [
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 245506,
+      "name": "La Esquina",
+      "url": "https://open.spotify.com/track/1FTFsE4Uv7SfmtxW5A3l5b"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
         "name": "Loyalty Over Royalty (Deluxe)",
         "url": "https://open.spotify.com/album/3GFdE9ysfem0LtpevBXD0B"
       },
@@ -2067,26 +2087,6 @@
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/7mP1G2qfxiqCoHaTvQ2WHf"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
-        "name": "La Esquina",
-        "url": "https://open.spotify.com/album/59bdhdLx7R1cThpbZNtyeB"
-      },
-      "artists": [
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 245506,
-      "name": "La Esquina",
-      "url": "https://open.spotify.com/track/1FTFsE4Uv7SfmtxW5A3l5b"
     }
   ],
   "unique_name": "Trap Land",

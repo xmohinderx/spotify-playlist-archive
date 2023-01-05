@@ -4828,6 +4828,24 @@
     },
     {
       "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/5oRyoHMAenPjVL2PqtaCJj"
+      },
+      "artists": [
+        {
+          "name": "La Piba Berreta",
+          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188570,
+      "name": "Navidad",
+      "url": "https://open.spotify.com/track/1Qx7QXzj65bVEj441otHze"
+    },
+    {
+      "album": {
         "name": "Nevada",
         "url": "https://open.spotify.com/album/6lxOY4q9aKzlvB9wLbySpA"
       },
@@ -5935,7 +5953,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 131150,
       "name": "Recuerdos de Ya",
       "url": "https://open.spotify.com/track/4slvAIKvQN5d8jCuzlFHZW"

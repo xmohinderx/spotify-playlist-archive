@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to Indian women, at full volume\. Cover: Shurshti Tawade
+> Listen to Indian women, at full volume\. Cover: Srushti Tawade
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,269 likes - 48 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,480 likes - 48 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 47 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 |
 | 48 | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/album/5zP4OuD73f42dogIjNid68) | 3:11 |
 
-Snapshot ID: `MTY3Mjc3MDYwMCwwMDAwMDAwMDQ5MzBlMzk5MWMyNjJlMGZlZDhiZTFmOWEwMWY5MmVm`
+Snapshot ID: `MTY3MjgwMjIwNSwwMDAwMDAwMGZkMjEwNWE1NzNlNWQyZDYxMTdkNGE3NmExN2Q5NmRk`

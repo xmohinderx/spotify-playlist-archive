@@ -1574,6 +1574,28 @@
     },
     {
       "album": {
+        "name": "OPEN YOUR EYES",
+        "url": "https://open.spotify.com/album/6ZHkAA8tCE9803lwFAgwKU"
+      },
+      "artists": [
+        {
+          "name": "THIEVES",
+          "url": "https://open.spotify.com/artist/0l6M2vf0lC8N42B4spXUSn"
+        },
+        {
+          "name": "BADVOID",
+          "url": "https://open.spotify.com/artist/1xLTclBBWlypMWDMV8Eb6O"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192951,
+      "name": "OPEN YOUR EYES",
+      "url": "https://open.spotify.com/track/6NU79Y1bRxbHwqSYdWUL2h"
+    },
+    {
+      "album": {
         "name": "Oro Negro",
         "url": "https://open.spotify.com/album/0UufG3fDNZCkVc1mmR59yJ"
       },
@@ -2083,7 +2105,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 171710,
       "name": "sunlight",
       "url": "https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE"

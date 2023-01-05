@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,249 likes - 454 songs - 23 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,294 likes - 454 songs - 23 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -316,7 +316,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 306 | [Brown Noise for a Better Sleep](https://open.spotify.com/track/1YQGoYjVe5MInsnmUnclFD) | [Audio Receptors](https://open.spotify.com/artist/1nG7LQZv00osMyTjUAMxRm) | [Waterfall Brown Noise](https://open.spotify.com/album/3cF28iQrmlV3a0CGk9neK3) | 2:24 |
 | 307 | [Brown Noise for Relaxing](https://open.spotify.com/track/0bohmotsrCFyZ4Wfouo7CV) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Sleeping Brown Noise](https://open.spotify.com/album/7umltGSpruiFHUJUxQJLlf) | 3:43 |
 | 308 | [Brown Mellow Noise 360 Hz Light Q \- Seamless](https://open.spotify.com/track/3igT2HOsfVZgYTsTObLbxZ) | [Colorix](https://open.spotify.com/artist/0WFH9vqXxzL2VxCzHmWkdI) | [Brown Mellow Noise](https://open.spotify.com/album/2fXEf1Cp6hgnf9KnPYbp3k) | 3:00 |
-| 309 | [Brown Noise HF Dip](https://open.spotify.com/track/5n2umYeI1nxrPHS8Vc9qOL) | [Brown Noise Warriors](https://open.spotify.com/artist/4YVV9UBom3Ls7WvEW2Z6nQ) | [Brown Noise](https://open.spotify.com/album/2GSOdkjgGTiWhaCMoeA9No) | 2:49 |
+| 309 | [Brown Noise HF Dip](https://open.spotify.com/track/5n2umYeI1nxrPHS8Vc9qOL) | [Brown Noise Warriors](https://open.spotify.com/artist/0TrJjUsjGFctwtmE7DY05N) | [Brown Noise](https://open.spotify.com/album/2GSOdkjgGTiWhaCMoeA9No) | 2:49 |
 | 310 | [Brown Noise Stream](https://open.spotify.com/track/0SMKOwGiMI3gLY6Oe8KB0L) | [Ziem](https://open.spotify.com/artist/6nIgqoE3AfrXQ9QxnoNWwb) | [Brown Noise Stream](https://open.spotify.com/album/3jMDqVidjRUk0CiCYCwsWq) | 1:52 |
 | 311 | [Deep Brown Noise](https://open.spotify.com/track/2jepatCWJf4cBsrOSM1oiw) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Deep Sleep Brown Noise](https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT) | 2:50 |
 | 312 | [Baby Sleep Brown Noise 9](https://open.spotify.com/track/2qQ4zVVuo3jtxrWnxKNapF) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Baby Sleep Brown Noise](https://open.spotify.com/album/1T3WPPZ67s9fVzdfpjruR9) | 2:17 |

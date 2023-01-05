@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Humbe",
-  "num_followers": 266928,
+  "num_followers": 266998,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyOTM5MCwwMDAwMDAwMDA4Y2YyNjRkYmM3ZGFlZmM1MjhjYmUzYTVlNjQ5NTc5",
+  "snapshot_id": "MTY3MjQyOTM5MCwwMDAwMDAwMDlmOTJiZTg0MzU1M2ZlNmVjZjFkY2JlYWM4MzM3M2Fi",
   "tracks": [
     {
       "added_at": "2022-12-30 05:00:00",
@@ -455,38 +455,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "La Copa",
-        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 154628,
-      "name": "La Copa",
-      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Dije Que No Me Iba a Enamorar",
-        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 201421,
-      "name": "Reca\u00edda",
-      "url": "https://open.spotify.com/track/2OgJGjukelwGZK6f5xxRhy"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "El Ego\u00edsmo",
         "url": "https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx"
       },
@@ -507,6 +475,38 @@
       "duration_ms": 170471,
       "name": "El Ego\u00edsmo",
       "url": "https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Dije Que No Me Iba a Enamorar",
+        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 201421,
+      "name": "Reca\u00edda",
+      "url": "https://open.spotify.com/track/2OgJGjukelwGZK6f5xxRhy"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "La Copa",
+        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 154628,
+      "name": "La Copa",
+      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -767,8 +767,8 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Mil Maneras de Morir",
-        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
+        "name": "A Poca Luz",
+        "url": "https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Mil Maneras de Morir",
-      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
+      "duration_ms": 147149,
+      "name": "A Poca Luz",
+      "url": "https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO"
     },
     {
       "added_at": "2022-12-30 19:24:14",
@@ -879,8 +879,8 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "A Poca Luz",
-        "url": "https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS"
+        "name": "Mil Maneras de Morir",
+        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 147149,
-      "name": "A Poca Luz",
-      "url": "https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO"
+      "duration_ms": 175000,
+      "name": "Mil Maneras de Morir",
+      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "mE RecHaZasTe :(",
-        "url": "https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf"
+        "name": "Centenas De Miles De A\u00f1os",
+        "url": "https://open.spotify.com/album/2VEb1mzailGntQVRoWqaq9"
       },
       "artists": [
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
         }
       ],
-      "duration_ms": 176590,
-      "name": "mE RecHaZasTe :(",
-      "url": "https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa"
+      "duration_ms": 192244,
+      "name": "Centenas De Miles De A\u00f1os",
+      "url": "https://open.spotify.com/track/6xa21lEbZdVtQa41HDkQcY"
     }
   ],
   "unique_name": "el nuevo pop",

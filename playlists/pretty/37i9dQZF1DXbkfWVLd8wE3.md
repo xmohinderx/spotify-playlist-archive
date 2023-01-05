@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 
 > In Da Club and more classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,281 likes - 90 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,544 likes - 90 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 64 | [Clap Back](https://open.spotify.com/track/1FK0sZfZzCAIDUn7htCemp) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Blood In My Eye](https://open.spotify.com/album/0O11EhdLUWCOErqA4Xm3b6) | 4:56 |
 | 65 | [You Can Do It](https://open.spotify.com/track/1xMPwgmLHVXkIFYL0rvGiZ) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ms\. Toi](https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl) | [At Tha Movies](https://open.spotify.com/album/285aRkpYqxXPxBEGnTWZvo) | 4:19 |
 | 66 | [Notorious B.I.G\. \(feat\. Lil' Kim & Puff Daddy\) \- 2005 Remaster](https://open.spotify.com/track/1YQ7BbJR8HqAolfprvxGKu) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Born Again](https://open.spotify.com/album/7zg9ZSOQtYLjWnvSawflg6) | 3:11 |
-| 67 | [Ruff Ryders' Anthem \- Re\-Recorded](https://open.spotify.com/track/32SFvZODywPBVDYSYtqxCj) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Greatest Hits with a Twist \- Deluxe Edition](https://open.spotify.com/album/0K2A6RaCTpcNKTZwvLMeqY) | 3:51 |
-| 68 | [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 |
+| 67 | [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 |
+| 68 | [Ruff Ryders' Anthem \- Re\-Recorded](https://open.spotify.com/track/32SFvZODywPBVDYSYtqxCj) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Greatest Hits with a Twist \- Deluxe Edition](https://open.spotify.com/album/0K2A6RaCTpcNKTZwvLMeqY) | 3:51 |
 | 69 | [Move Bitch](https://open.spotify.com/track/0LyZGZEZcFqpeF8bAfx3v0) | [Disturbing Tha Peace](https://open.spotify.com/artist/3FsQX7FsrZAzTU9ah45P7O), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [Golden Grain](https://open.spotify.com/album/1HjiZwq8HvkzLchkB2XcyV) | 4:32 |
-| 70 | [Flava in Ya Ear Remix \(feat\. Notorious B.I.G., L.L\. Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf) | [Flava In Ya Ear Remix](https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL) | 5:02 |
-| 71 | [Gossip Folks \(feat\. Ludacris\)](https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:54 |
+| 70 | [Gossip Folks \(feat\. Ludacris\)](https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:54 |
+| 71 | [Flava in Ya Ear Remix \(feat\. Notorious B.I.G., L.L\. Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf) | [Flava In Ya Ear Remix](https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL) | 5:02 |
 | 72 | [Nothin'](https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X) | [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p) | [God's Favorite](https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt) | 4:24 |
 | 73 | [Danger \(Been So Long\) featuring Nivea](https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5) | [Let's Get Ready](https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l) | 3:31 |
 | 74 | [Ooh Wee \(feat\. Ghostface Killah, Nate Dogg, Trife & Saigon\)](https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Trife](https://open.spotify.com/artist/3wPM3fbGYp56vzXMId27qs), [Saigon](https://open.spotify.com/artist/0mTfntDCCWRozUnyxpGf6E) | [Here Comes The Fuzz](https://open.spotify.com/album/62Qu5QoNx3De0p5qQT0u7o) | 3:29 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 89 | [Ugly](https://open.spotify.com/track/3ltqIDgVV4QSNDQPQ4y5kr) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Dark Days, Bright Nights](https://open.spotify.com/album/5k0DIwQUjfFWxxliiWVzxr) | 4:25 |
 | 90 | [Bow Wow \(That's My Name\) \(feat\. Snoop Dogg\)](https://open.spotify.com/track/5nwzfbcg8RPyZB72WwQBWA) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Beware Of Dog](https://open.spotify.com/album/5KATmrEcK3H89geDdPBzLO) | 3:43 |
 
-Snapshot ID: `MTY3MDIzNzY4OCwwMDAwMDAwMDNlN2NkN2FlYmY4YzE0YWZmN2ZkNTZlYTgyZDdkM2E2`
+Snapshot ID: `MTY3MDIzNzY4OCwwMDAwMDAwMGZmODRkZDc4ZDY1YmNhYTA5M2E3ZmExMzA0NTAyMDUx`

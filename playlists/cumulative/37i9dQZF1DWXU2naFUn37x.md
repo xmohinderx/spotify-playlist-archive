@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Shiva
 
-193 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+194 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [NELLA CASA DI DIO \(feat\. Tony Effe, Paky & J Lord\)](https://open.spotify.com/track/06x5M09XW6kUQAfk5RIsQY) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [X2 DELUXE](https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8) | 3:01 | 2022-12-01 | 2022-12-15 |
 | [NELLA CASA DI DIO \(feat\. Tony Effe, Paky & J Lord\)](https://open.spotify.com/track/0ZUbfpKnLJrbcySAfFPIcN) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [X2 DELUXE](https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6) | 3:01 | 2022-12-12 |  |
 | [NESSUNO \(feat\. Geolier\)](https://open.spotify.com/track/0HdrGJfHWYG5A0cNhiMDG4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:28 | 2022-05-11 |  |
-| [NFT rmx \(feat\. SPOOKYPBL\)](https://open.spotify.com/track/1GscYUCIknNlvfM7cCfgQa) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [ERROR 442](https://open.spotify.com/album/7dlvM8V1Mods5Ltdugz6hB) | 2:11 | 2022-12-08 |  |
+| [NFT rmx \(feat\. SPOOKYPBL\)](https://open.spotify.com/track/1GscYUCIknNlvfM7cCfgQa) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [ERROR 442](https://open.spotify.com/album/7dlvM8V1Mods5Ltdugz6hB) | 2:11 | 2022-12-08 | 2023-01-05 |
+| [NFT rmx \(feat\. SPOOKYPBL\)](https://open.spotify.com/track/7qaLq0r4JWX1JWS3wnxfCH) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [ERROR 442](https://open.spotify.com/album/3cvVjdslZvZ8Ti1BeDXxEU) | 2:11 | 2023-01-03 |  |
 | [No Joke \(feat\. MadMan\)](https://open.spotify.com/track/3PFDJgtrBif1ORn5As2hly) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [AMBIZIONE](https://open.spotify.com/album/7ojtnqVHOa5Z5GvUHWqfzL) | 2:24 | 2022-05-11 | 2022-05-20 |
 | [No wallet \(feat\. Marracash\)](https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:02 | 2022-05-11 | 2022-08-27 |
 | [Non è Easy](https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Non è Easy](https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP) | 2:44 | 2022-05-12 | 2022-11-25 |

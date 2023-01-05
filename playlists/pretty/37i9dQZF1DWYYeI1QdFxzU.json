@@ -1,12 +1,12 @@
 {
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
-  "num_followers": 216280,
+  "num_followers": 216328,
   "original_name": "The Wind Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDMwNTY0NywwMDAwMDAwMDgzNWQ3NDgwNGE2OGU1Y2E2YmIxODMyN2NhZDU0MWVj",
+  "snapshot_id": "MTYzNDMwNTY0NywwMDAwMDAwMGNjMGZmMDdmNmJhOTRiYmQ5ZTE2ZWQzNDhiMzQzN2Ni",
   "tracks": [
     {
       "added_at": "2021-10-15 13:47:27",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
-        "name": "Imagine Gold",
-        "url": "https://open.spotify.com/album/0S9o7MW7YSpKKRX7cmqSXm"
-      },
-      "artists": [
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Fires",
-      "url": "https://open.spotify.com/track/3J29rY1I9u0gNsvHq1cgUk"
-    },
-    {
-      "added_at": "2021-10-15 13:47:27",
-      "album": {
         "name": "Don't You Forget About Me",
         "url": "https://open.spotify.com/album/3PbktfrtKjsK7WMvqMIqyI"
       },
@@ -551,22 +535,6 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
-        "name": "Disrupt",
-        "url": "https://open.spotify.com/album/5imm72ZzslXs4ipR05vdmF"
-      },
-      "artists": [
-        {
-          "name": "Delac",
-          "url": "https://open.spotify.com/artist/2MkVSepMMfJrKDOivPEmKM"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Disrupt",
-      "url": "https://open.spotify.com/track/3cZ15fnmPlpNbpa47bRQ7T"
-    },
-    {
-      "added_at": "2021-10-15 13:47:27",
-      "album": {
         "name": "Autumn Star",
         "url": "https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38"
       },
@@ -583,22 +551,18 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
-        "name": "Weather",
-        "url": "https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis"
+        "name": "Disrupt",
+        "url": "https://open.spotify.com/album/5imm72ZzslXs4ipR05vdmF"
       },
       "artists": [
         {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        },
-        {
-          "name": "Saint Sinner",
-          "url": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
+          "name": "Delac",
+          "url": "https://open.spotify.com/artist/2MkVSepMMfJrKDOivPEmKM"
         }
       ],
-      "duration_ms": 259165,
-      "name": "Pink & Blue",
-      "url": "https://open.spotify.com/track/1TJqHWEHHQ7Z5mJ0P6rXqq"
+      "duration_ms": 254000,
+      "name": "Disrupt",
+      "url": "https://open.spotify.com/track/3cZ15fnmPlpNbpa47bRQ7T"
     },
     {
       "added_at": "2021-10-15 13:47:27",
@@ -619,6 +583,26 @@
       "duration_ms": 247501,
       "name": "Low - Babeheaven Remix",
       "url": "https://open.spotify.com/track/75jNxKPVjq08hKLkskLzXS"
+    },
+    {
+      "added_at": "2021-10-15 13:47:27",
+      "album": {
+        "name": "Weather",
+        "url": "https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "Saint Sinner",
+          "url": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
+        }
+      ],
+      "duration_ms": 259165,
+      "name": "Pink & Blue",
+      "url": "https://open.spotify.com/track/1TJqHWEHHQ7Z5mJ0P6rXqq"
     },
     {
       "added_at": "2021-10-15 13:47:27",
@@ -783,6 +767,26 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
+        "name": "Always Already Here",
+        "url": "https://open.spotify.com/album/6Cly90UXXW9Hz851yq7mtM"
+      },
+      "artists": [
+        {
+          "name": "Jonas Munk",
+          "url": "https://open.spotify.com/artist/6KPFlbSbh1zeN7x9QpgB4O"
+        },
+        {
+          "name": "Nicklas S\u00f8rensen",
+          "url": "https://open.spotify.com/artist/3OXCO3AZeHHNudXu8Mftd7"
+        }
+      ],
+      "duration_ms": 208547,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/4vk5hhssPKQQBYNIQfteta"
+    },
+    {
+      "added_at": "2021-10-15 13:47:27",
+      "album": {
         "name": "Dune",
         "url": "https://open.spotify.com/album/04NzBREuQBthxSpcoD6EbE"
       },
@@ -815,26 +819,6 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
-        "name": "Always Already Here",
-        "url": "https://open.spotify.com/album/6Cly90UXXW9Hz851yq7mtM"
-      },
-      "artists": [
-        {
-          "name": "Jonas Munk",
-          "url": "https://open.spotify.com/artist/6KPFlbSbh1zeN7x9QpgB4O"
-        },
-        {
-          "name": "Nicklas S\u00f8rensen",
-          "url": "https://open.spotify.com/artist/3OXCO3AZeHHNudXu8Mftd7"
-        }
-      ],
-      "duration_ms": 208547,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/4vk5hhssPKQQBYNIQfteta"
-    },
-    {
-      "added_at": "2021-10-15 13:47:27",
-      "album": {
         "name": "El Azul del Cielo (Remix)",
         "url": "https://open.spotify.com/album/7qYsWtbEwidXgIjiiZ0u1I"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 420000,
       "name": "El Azul del Cielo - Mente Org\u00e1nica Remix",
       "url": "https://open.spotify.com/track/0J6AcQFq8RnR4jWYYZNPbm"
+    },
+    {
+      "added_at": "2021-10-15 13:47:27",
+      "album": {
+        "name": "Daniel Aged",
+        "url": "https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aged",
+          "url": "https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH"
+        }
+      ],
+      "duration_ms": 275500,
+      "name": "Bh",
+      "url": "https://open.spotify.com/track/5TKEFmm00kb1pGhbbrcMAJ"
     }
   ],
   "unique_name": "The Wind Down",

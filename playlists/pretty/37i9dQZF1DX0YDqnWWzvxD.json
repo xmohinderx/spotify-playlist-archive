@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 53322,
+  "num_followers": 53428,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc4NzU4MywwMDAwMDAwMGFkZDczOTViYTNkZjFmMTk1ZWFkYmE1Mjc5ZDE0Nzlm",
+  "snapshot_id": "MTY2ODc4NzU4MywwMDAwMDAwMGE4ODRlNWU2ZjgxYTEwNmFiNDljY2QyMzJkOTkwMmIx",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -915,6 +915,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Wellness Meditation Relaxation: Musical Images, Vol. 100",
+        "url": "https://open.spotify.com/album/7B1hCc6C6Eyx9mEmBbpeEc"
+      },
+      "artists": [
+        {
+          "name": "Sambodhi Prem",
+          "url": "https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP"
+        }
+      ],
+      "duration_ms": 215472,
+      "name": "Hands of Love",
+      "url": "https://open.spotify.com/track/55451t84KLf0gqH8rXYyy6"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Echoes of Silence",
         "url": "https://open.spotify.com/album/4i5kqpHHr4fjDNzusQeDuH"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Wellness Meditation Relaxation: Musical Images, Vol. 100",
-        "url": "https://open.spotify.com/album/7B1hCc6C6Eyx9mEmBbpeEc"
-      },
-      "artists": [
-        {
-          "name": "Sambodhi Prem",
-          "url": "https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP"
-        }
-      ],
-      "duration_ms": 215472,
-      "name": "Hands of Love",
-      "url": "https://open.spotify.com/track/55451t84KLf0gqH8rXYyy6"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Minimalia",
         "url": "https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 188731,
       "name": "Two",
       "url": "https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/2u7vqLhu6Ql3rnAfI8QzWE"
-      },
-      "artists": [
-        {
-          "name": "Floating Lights",
-          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
-        }
-      ],
-      "duration_ms": 247022,
-      "name": "Barefoot",
-      "url": "https://open.spotify.com/track/0bxRyv43YauX4FxpQMNGwB"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -999,34 +983,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "All Is Forgiven",
-        "url": "https://open.spotify.com/album/6iAissytkJ7K7MBYLO25n3"
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/2u7vqLhu6Ql3rnAfI8QzWE"
       },
       "artists": [
         {
-          "name": "Ashana",
-          "url": "https://open.spotify.com/artist/31LMvrFFvlQQh51k6ZlMIW"
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
         }
       ],
-      "duration_ms": 561146,
-      "name": "Loving Kindness",
-      "url": "https://open.spotify.com/track/3BVhaPjedEZLZYVGpRQVSd"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Tokyo Drifting",
-        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
-      },
-      "artists": [
-        {
-          "name": "M. David",
-          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Tokyo Drifting",
-      "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
+      "duration_ms": 247022,
+      "name": "Barefoot",
+      "url": "https://open.spotify.com/track/0bxRyv43YauX4FxpQMNGwB"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1055,22 +1023,34 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Vira",
-        "url": "https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb"
+        "name": "Tokyo Drifting",
+        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
       },
       "artists": [
         {
-          "name": "Talvin Singh",
-          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
-        },
-        {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+          "name": "M. David",
+          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
         }
       ],
-      "duration_ms": 328542,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4"
+      "duration_ms": 203000,
+      "name": "Tokyo Drifting",
+      "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "All Is Forgiven",
+        "url": "https://open.spotify.com/album/6iAissytkJ7K7MBYLO25n3"
+      },
+      "artists": [
+        {
+          "name": "Ashana",
+          "url": "https://open.spotify.com/artist/31LMvrFFvlQQh51k6ZlMIW"
+        }
+      ],
+      "duration_ms": 561146,
+      "name": "Loving Kindness",
+      "url": "https://open.spotify.com/track/3BVhaPjedEZLZYVGpRQVSd"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1087,6 +1067,26 @@
       "duration_ms": 226363,
       "name": "...There You Are!",
       "url": "https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Vira",
+        "url": "https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb"
+      },
+      "artists": [
+        {
+          "name": "Talvin Singh",
+          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
+        },
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "duration_ms": 328542,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1471,8 +1471,8 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Sleep Meditation \u2013 Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing",
-        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
+        "name": "Indian Music for Relaxation \u2013 Oriental Music, Music for Deep Meditation, Indian Flute, Native American Music, Sounds of Nature, Reiki Massage & Chakra Healing",
+        "url": "https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW"
       },
       "artists": [
         {
@@ -1480,9 +1480,9 @@
           "url": "https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN"
         }
       ],
-      "duration_ms": 229927,
-      "name": "Breath Exercises for Deep Sleep",
-      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
+      "duration_ms": 221799,
+      "name": "Relaxing Native Flute",
+      "url": "https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml"
     },
     {
       "added_at": "2021-06-15 08:38:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,573 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,579 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 14 | [Here For You](https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Cognition](https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0) | 3:46 |
 | 15 | [Hometown Glory \- High Contrast Remix](https://open.spotify.com/track/1ESvthpg6hWmjlNJdpTrbH) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Hometown Glory](https://open.spotify.com/album/1uT2pOgyFOXic7AyGCRCwx) | 6:36 |
 | 16 | [Let Me Hold You](https://open.spotify.com/track/13rtgTDK9w1clbgXpGuW3y) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Second Nature](https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks) | 3:22 |
-| 17 | [Paradise](https://open.spotify.com/track/0yqU5tPByI1uLX5vIB7XO7) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Paradise](https://open.spotify.com/album/0ehWcJaGgr9BpaeoLuVF0z) | 3:18 |
-| 18 | [Headz Gone West](https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Headz Gone West](https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8) | 2:22 |
+| 17 | [Headz Gone West](https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Headz Gone West](https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8) | 2:22 |
+| 18 | [Paradise](https://open.spotify.com/track/0yqU5tPByI1uLX5vIB7XO7) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Paradise](https://open.spotify.com/album/0ehWcJaGgr9BpaeoLuVF0z) | 3:18 |
 | 19 | [Watercolour \- Full Version; Single](https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Immersion](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS) | 5:04 |
 | 20 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 |
 | 21 | [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 36 | [All 4 U](https://open.spotify.com/track/2mPeYGo1y7vwkz6vU5dVbI) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [All 4 U](https://open.spotify.com/album/3tggQDQhchhwaogW1gRzmR) | 2:48 |
 | 37 | [Thinkin About](https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC) | [Thinkin About](https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs) | 2:39 |
 | 38 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 |
-| 39 | [Blame You \(feat\. Dylan\)](https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Reflections](https://open.spotify.com/album/3w6tCisQHurw8IMhnTyXwM) | 3:51 |
-| 40 | [SUMMER](https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [SUMMER](https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9) | 3:40 |
+| 39 | [SUMMER](https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [SUMMER](https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9) | 3:40 |
+| 40 | [Blame You \(feat\. Dylan\)](https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Reflections](https://open.spotify.com/album/3w6tCisQHurw8IMhnTyXwM) | 3:51 |
 | 41 | [Control](https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Mystery Machine](https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj) | 3:48 |
 | 42 | [Nobody To Love](https://open.spotify.com/track/5dzHlLBWdxdQySpvZLHcu9) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Nobody To Love](https://open.spotify.com/album/0mRK0BA8DrCUfhFF9Oua5J) | 3:09 |
 | 43 | [Ghost Assassin \- VIP](https://open.spotify.com/track/5psoxZpBVWS27k9Fngaes9) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Memoirs](https://open.spotify.com/album/1JhdCDZb1iVqoq04Qf3Ou4) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 74 | [I Refuse](https://open.spotify.com/track/1OBi4IRkuVOCegnDHG3xhj) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [I Refuse / Midnight Express](https://open.spotify.com/album/6Bi0LU2EWGrSRybRuYsScL) | 5:55 |
 | 75 | [Journey Inwards](https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Journey Inwards](https://open.spotify.com/album/5wZngiW5puuoM0QGajqBoY) | 5:14 |
 
-Snapshot ID: `MTY2OTM2MzA5NiwwMDAwMDAwMDMxNzEyOGQ0N2UzZWViM2UxNGMzMzI0OWZlMTNjMzlm`
+Snapshot ID: `MTY2OTM2MzA5NiwwMDAwMDAwMGIxNWI2ODAxYjQzNmY2M2I0ZWUyYTFiNDYwY2U2ZmM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Marama & Migrantes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,951 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,995 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 7 | [No Se Va](https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Se Va](https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ) | 3:40 |
 | 8 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 |
 | 9 | [Latidos](https://open.spotify.com/track/2WFrChyI5KlmxunG45Sqws) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/307d2X9AdbxbyFd008xmn7) | 3:01 |
-| 10 | [Nuestro Amor Regresa](https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Nuestro Amor Regresa](https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx) | 2:05 |
+| 10 | [Nuestro Amor Regresa](https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Nuestro Amor Regresa](https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx) | 2:05 |
 | 11 | [Cinco minutos](https://open.spotify.com/track/4M7gtZi4Tai6gJMIkNzWcC) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Cinco minutos](https://open.spotify.com/album/2q2u75ecRs9D2IhKY2bo1R) | 3:31 |
 | 12 | [Éxitos x Siempre: Yo Tomo Licor / El Polvito del Amor / Yo Tomo / Yo Me Enamoré](https://open.spotify.com/track/66ykf0soCVZkZ06TNM9amH) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Éxitos x Siempre: Yo Tomo Licor / El Polvito del Amor / Yo Tomo / Yo Me Enamoré](https://open.spotify.com/album/0YaCH7Jn1POPciuotWpZcV) | 6:33 |
 | 13 | [Inocente \(En Vivo En El Luna Park\)](https://open.spotify.com/track/6qM2i722HNgqvpNBwYzKIk) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Inocente \(En Vivo En El Luna Park\)](https://open.spotify.com/album/2HsF8RzCLIH8Mz5dt1mSrf) | 5:37 |

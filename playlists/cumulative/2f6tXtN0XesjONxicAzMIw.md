@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2f6tXtN0XesjONxicAzMIw.md) - cumulative - [plain](/playlists/plain/2f6tXtN0XesjONxicAzMIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2f6tXtN0XesjONxicAzMIw)
 
-### [2000s Hits Throwbacks](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
+### [2000s Hits Throwbacks \| Love Songs](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 
 > The biggest 00s hits from &quot;Teenage Dirtbag&quot; Wheatus, to Avril Lavigne, Sean Kingston, Usher, Shakira, Pussycat Dolls, and more!
 

@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 15030,
+  "num_followers": 15044,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGI3Y2FkZGRiMDBmZGQ2MWEyN2I3NDYzY2Q2NTVlNzRh",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDBkZGViN2IzMjE5ZGVmODQ2Y2JkNTg2ODNkYzk2ZWQw",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Lifetime Remixes",
-        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "Lifetime - Jayda G Baleen Mix",
-      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Purple Hat (KC Lights Remix)",
         "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 209959,
       "name": "Purple Hat - KC Lights Remix",
       "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Lifetime Remixes",
+        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "Lifetime - Jayda G Baleen Mix",
+      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
     },
     {
       "added_at": "2021-07-30 04:00:00",

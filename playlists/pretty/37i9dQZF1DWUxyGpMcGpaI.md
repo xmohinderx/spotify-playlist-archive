@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 
 > Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! /  TVアニメ<a href="https://chainsawman.dog/">『チェンソーマン』</a>のオフィシャルプレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,807 likes - 43 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,695 likes - 43 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 | 42 | [ave xxxxxx](https://open.spotify.com/track/0LQmCVOwNEOpVFEGGZej2q) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.3 \(Episode 8\-12\)](https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4) | 1:19 |
 | 43 | [the end of childhood](https://open.spotify.com/track/6iQSL9OJkreNdlYeDyXaX6) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.3 \(Episode 8\-12\)](https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4) | 2:29 |
 
-Snapshot ID: `MTY3MjE1NTAwMCwwMDAwMDAwMDkyOGVkZmMxYmEzNGUzOTI2ODhhY2ZhZTA2ZTFhYTY4`
+Snapshot ID: `MTY3Mjc5ODIzMCwwMDAwMDAwMDE1OGU3YmQ2YWFiMjYzZTY1YjI1ZjNjZjliNThhOGI5`

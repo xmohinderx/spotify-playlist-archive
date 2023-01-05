@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 92379,
+  "num_followers": 92439,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMGE5OGZjYWJiMDlmYTdjN2ExMWFhZGEwZTg4MDAxZmFi",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDRkMGZlM2MwNjgwMDU1MzZhNWE1ZmM1MzE4ZGEwYTI4",
   "tracks": [
     {
       "added_at": "2022-12-23 03:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Te Alejas M\u00e1s De M\u00ed",
         "url": "https://open.spotify.com/album/6xQCTmwCep5eHgdOOOYmO9"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 219720,
       "name": "Te Alejas M\u00e1s De M\u00ed",
       "url": "https://open.spotify.com/track/5C2oCLLrtnYI8nNVOOruar"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "La Casa No Existe",
-        "url": "https://open.spotify.com/album/7FwDCtgp0Y4IPyGKpv2Ze7"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 197652,
-      "name": "La Pel\u00edcula",
-      "url": "https://open.spotify.com/track/25u3WkPBXmdjFhDr9qYAff"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Entra En Mi Vida",
         "url": "https://open.spotify.com/album/4MtfCKfYPxHrZlDBGFWlPa"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Armenia",
-        "url": "https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm"
+        "name": "La Casa No Existe",
+        "url": "https://open.spotify.com/album/7FwDCtgp0Y4IPyGKpv2Ze7"
       },
       "artists": [
         {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 249253,
-      "name": "Violeta",
-      "url": "https://open.spotify.com/track/4hSsj724kIt0OKkWbB7PLP"
+      "duration_ms": 197652,
+      "name": "La Pel\u00edcula",
+      "url": "https://open.spotify.com/track/25u3WkPBXmdjFhDr9qYAff"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7"
+        "name": "Armenia",
+        "url": "https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm"
       },
       "artists": [
         {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
         }
       ],
-      "duration_ms": 215967,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC"
+      "duration_ms": 249253,
+      "name": "Violeta",
+      "url": "https://open.spotify.com/track/4hSsj724kIt0OKkWbB7PLP"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1383,6 +1367,22 @@
       "duration_ms": 122456,
       "name": "Por Amor al Arte",
       "url": "https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 215967,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
-        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
-      },
-      "artists": [
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        }
-      ],
-      "duration_ms": 266240,
-      "name": "Desde Dentro",
-      "url": "https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Lo que necesitas es amor",
         "url": "https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
+        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
       },
       "artists": [
         {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
         }
       ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+      "duration_ms": 266240,
+      "name": "Desde Dentro",
+      "url": "https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1483,6 +1467,22 @@
       "duration_ms": 230296,
       "name": "Romeo y Violeta",
       "url": "https://open.spotify.com/track/4nVoM4pJT8CUTAJbenU2bx"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        },
-        {
-          "name": "Juanito El Cantor",
-          "url": "https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW"
-        }
-      ],
-      "duration_ms": 197506,
-      "name": "Cuando Estamos los Dos",
-      "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Primavera 2020 (feat. Zoe Gotusso)",
         "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 289842,
       "name": "Primavera 2020 (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        },
+        {
+          "name": "Juanito El Cantor",
+          "url": "https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW"
+        }
+      ],
+      "duration_ms": 197506,
+      "name": "Cuando Estamos los Dos",
+      "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1603,6 +1603,26 @@
       "duration_ms": 177368,
       "name": "Sue\u00f1o Tsunami",
       "url": "https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1651,26 +1671,6 @@
       "duration_ms": 194555,
       "name": "Abriendo Latidos",
       "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ"
     },
     {
       "added_at": "2022-12-23 03:00:00",

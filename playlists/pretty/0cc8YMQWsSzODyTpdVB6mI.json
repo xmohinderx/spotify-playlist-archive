@@ -1,13 +1,33 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 44898,
+  "num_followers": 44890,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MzAxNyw0YmU3M2I5YjI5MWEzOWRkN2JkM2Q2NzVhYTM4ODAyYTIyY2M1ODEx",
+  "snapshot_id": "MzAyMCxkNjY3ZDNkNTBiYTViY2Y5NTJkZTEwMzFmYzcyODU2MDE0MjNjMjgy",
   "tracks": [
+    {
+      "added_at": "2023-01-04 14:49:08",
+      "album": {
+        "name": "MY MIND (Duarte Remix)",
+        "url": "https://open.spotify.com/album/6dOb32eRDgw7APDZ6REMPj"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        },
+        {
+          "name": "Duarte",
+          "url": "https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk"
+        }
+      ],
+      "duration_ms": 266250,
+      "name": "MY MIND - Duarte Remix",
+      "url": "https://open.spotify.com/track/6BEAYuiyGLW1qEzwROV26G"
+    },
     {
       "added_at": "2022-12-08 09:02:50",
       "album": {
@@ -407,22 +427,6 @@
       "duration_ms": 176726,
       "name": "Kutamba",
       "url": "https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI"
-    },
-    {
-      "added_at": "2022-09-23 07:47:46",
-      "album": {
-        "name": "Lava In The Sky",
-        "url": "https://open.spotify.com/album/2sQox30QKJooM9auXi0z8v"
-      },
-      "artists": [
-        {
-          "name": "Selbor",
-          "url": "https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t"
-        }
-      ],
-      "duration_ms": 191831,
-      "name": "Lava In The Sky",
-      "url": "https://open.spotify.com/track/6DcENaDftcPkVz3fJlnCPD"
     },
     {
       "added_at": "2021-11-05 15:47:43",

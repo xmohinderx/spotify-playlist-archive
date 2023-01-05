@@ -857,10 +857,28 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 170872,
       "name": "Piece of cake",
       "url": "https://open.spotify.com/track/14vYoxigOkrEKcobVsKSvg"
+    },
+    {
+      "album": {
+        "name": "Piece of cake",
+        "url": "https://open.spotify.com/album/3CRmlpT10DW8lsQ10gZzAA"
+      },
+      "artists": [
+        {
+          "name": "YUSUKE NAKAMURA",
+          "url": "https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170872,
+      "name": "Piece of cake",
+      "url": "https://open.spotify.com/track/4kpdFbe0J0iYgRS245VDmd"
     },
     {
       "album": {

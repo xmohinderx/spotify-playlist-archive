@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1048090,
+  "num_followers": 1048723,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYyMzExOCwwMDAwMDAwMGZiMjY5ZjMwMzNiMGRlMjNkNjYyMTEyMGNiZGQyN2Vi",
+  "snapshot_id": "MTY3MTYyMzExOCwwMDAwMDAwMDZlODc1NzEzOWY3MzFmYWQyMmE0OGE4YmQ1YzE4N2Mw",
   "tracks": [
     {
       "added_at": "2022-12-15 23:00:00",
@@ -483,34 +483,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "After The Storm (Pete Rock Remix)",
-        "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        },
-        {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
-      "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Children Of The Internet (Remixes)",
         "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
@@ -535,6 +507,34 @@
       "duration_ms": 353346,
       "name": "Children Of The Internet - Ezra Collective Remix",
       "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "After The Storm (Pete Rock Remix)",
+        "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
+      "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Elusive",
-        "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
-      },
-      "artists": [
-        {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
-        },
-        {
-          "name": "David Ngyah",
-          "url": "https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Elusive",
-      "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Donny In Valdez (PJ's Flip)",
         "url": "https://open.spotify.com/album/6QcDKB0L4Hr2LcyPLLQFlP"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 113747,
       "name": "Donny In Valdez - PJ's Flip",
       "url": "https://open.spotify.com/track/1aZ2te6hhXVJOYumYrZkAt"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Elusive",
+        "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "David Ngyah",
+          "url": "https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Elusive",
+      "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Call You?",
-        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
-      },
-      "artists": [
-        {
-          "name": "ArmstrongWW",
-          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
-        }
-      ],
-      "duration_ms": 205865,
-      "name": "Call You?",
-      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Late Night Link",
         "url": "https://open.spotify.com/album/5ROL6IqcFzRv6lm68RzsSo"
       },
@@ -1279,22 +1263,38 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+        "name": "Call You?",
+        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
       },
       "artists": [
         {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+          "name": "ArmstrongWW",
+          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
         }
       ],
-      "duration_ms": 201011,
-      "name": "Nobody's Perfect",
-      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
+      "duration_ms": 205865,
+      "name": "Call You?",
+      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Green Street (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g"
+      },
+      "artists": [
+        {
+          "name": "Jazz Spastiks",
+          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
+        },
+        {
+          "name": "People Without Shoes",
+          "url": "https://open.spotify.com/artist/2Zef0Fnh4FEJ1OxrtnscxL"
+        }
+      ],
+      "duration_ms": 160508,
+      "name": "Super Fly Funk",
+      "url": "https://open.spotify.com/track/1gEdLgfWA7xkJ9TYaUJHmi"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1323,22 +1323,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Green Street (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g"
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
       "artists": [
         {
-          "name": "Jazz Spastiks",
-          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
         },
         {
-          "name": "People Without Shoes",
-          "url": "https://open.spotify.com/artist/2Zef0Fnh4FEJ1OxrtnscxL"
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
         }
       ],
-      "duration_ms": 160508,
-      "name": "Super Fly Funk",
-      "url": "https://open.spotify.com/track/1gEdLgfWA7xkJ9TYaUJHmi"
+      "duration_ms": 201011,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Chino",
+        "url": "https://open.spotify.com/album/35qNi6pahzBPwAQGeSDQv6"
+      },
+      "artists": [
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        }
+      ],
+      "duration_ms": 143903,
+      "name": "Chino",
+      "url": "https://open.spotify.com/track/3nguTHU4uZRChg1k1PCUtB"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Tulips",
         "url": "https://open.spotify.com/album/6Oa2B45zimQ8lfbknds32G"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 334374,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/43nvSCEaxW5t26KEbDfmvg"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Chino",
-        "url": "https://open.spotify.com/album/35qNi6pahzBPwAQGeSDQv6"
-      },
-      "artists": [
-        {
-          "name": "Donkeychote",
-          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
-        },
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        }
-      ],
-      "duration_ms": 143903,
-      "name": "Chino",
-      "url": "https://open.spotify.com/track/3nguTHU4uZRChg1k1PCUtB"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Why Don't You Come on Over",
-        "url": "https://open.spotify.com/album/4FiwzM6P4Ov32AqDjuluEp"
-      },
-      "artists": [
-        {
-          "name": "love-sadKID",
-          "url": "https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s"
-        },
-        {
-          "name": "Garrett.",
-          "url": "https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Why Don't You Come on Over",
-      "url": "https://open.spotify.com/track/0MA7jVFmvHbQGlRECTPx3v"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Rosy Lee",
         "url": "https://open.spotify.com/album/7LYbXIq3V4Sj9S9Rnsl1LK"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 218240,
       "name": "Sunlit Days",
       "url": "https://open.spotify.com/track/5dE76qLE8k9bK3e61dkZzA"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Why Don't You Come on Over",
+        "url": "https://open.spotify.com/album/4FiwzM6P4Ov32AqDjuluEp"
+      },
+      "artists": [
+        {
+          "name": "love-sadKID",
+          "url": "https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s"
+        },
+        {
+          "name": "Garrett.",
+          "url": "https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Why Don't You Come on Over",
+      "url": "https://open.spotify.com/track/0MA7jVFmvHbQGlRECTPx3v"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Oh Word",
-        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "Oh Word",
-      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Fonografie",
         "url": "https://open.spotify.com/album/2yKN9OrDfm7XgOTzQwE9Cu"
       },
@@ -1847,26 +1831,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "It's Nice Outside",
-      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/11WVMvo2CIfz3kkqLjNkoJ"
       },
@@ -1883,6 +1847,42 @@
       "duration_ms": 205080,
       "name": "Three Sixty",
       "url": "https://open.spotify.com/track/00Dl4SEgRut6XaLpOQH6Gk"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Oh Word",
+        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "Oh Word",
+      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "It's Nice Outside",
+      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1927,18 +1927,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
-        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
       "artists": [
         {
-          "name": "Buckshot LeFonque",
-          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        },
+        {
+          "name": "DJ Access",
+          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
         }
       ],
-      "duration_ms": 354640,
-      "name": "Breakfast At Denny's",
-      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
+      "duration_ms": 136785,
+      "name": "DOOM",
+      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1959,26 +1963,6 @@
       "duration_ms": 193362,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        },
-        {
-          "name": "DJ Access",
-          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
-        }
-      ],
-      "duration_ms": 136785,
-      "name": "DOOM",
-      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -2007,26 +1991,50 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Jazzmatazz Volume II: The New Reality",
-        "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
+        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
       },
       "artists": [
         {
-          "name": "Guru",
-          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
-        },
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        },
-        {
-          "name": "Ini Kamoze",
-          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
+          "name": "Buckshot LeFonque",
+          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
         }
       ],
-      "duration_ms": 259533,
-      "name": "Insert A (Mental Relaxation)/Medicine",
-      "url": "https://open.spotify.com/track/7iWgFxOgOWT6JKPSrEWVrP"
+      "duration_ms": 354640,
+      "name": "Breakfast At Denny's",
+      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Rosy Lee",
+        "url": "https://open.spotify.com/album/7LYbXIq3V4Sj9S9Rnsl1LK"
+      },
+      "artists": [
+        {
+          "name": "Syrup",
+          "url": "https://open.spotify.com/artist/3F4JEfklypM9dhsSZmXJGc"
+        },
+        {
+          "name": "Twit One",
+          "url": "https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+        },
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        },
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "Politickin",
+      "url": "https://open.spotify.com/track/180Ul0jLSJ1YmfxmIc1QaT"
     }
   ],
   "unique_name": "Jazz Rap",

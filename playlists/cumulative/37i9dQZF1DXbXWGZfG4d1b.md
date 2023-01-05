@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-404 songs - 23 hr 58 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+405 songs - 1 day 0 hr 1 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Más O Menos Bien](https://open.spotify.com/track/0W6BJElrcM7ZXXiq8VtvSg) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastia Scorpio](https://open.spotify.com/album/0kKonx1ECQcHDDGoAfYveS) | 4:13 | 2022-07-15 | 2022-08-13 |
 | [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 | 2022-09-30 |  |
 | [Nadie Quiere Hablar](https://open.spotify.com/track/3GHt0v7k5YhCPRbNOSwPzj) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Nadie Quiere Hablar](https://open.spotify.com/album/6bSTUMI6pYCAXnw3mXcAiy) | 2:20 | 2022-07-01 | 2022-07-22 |
+| [Navidad](https://open.spotify.com/track/1Qx7QXzj65bVEj441otHze) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Navidad](https://open.spotify.com/album/5oRyoHMAenPjVL2PqtaCJj) | 3:08 | 2022-12-23 |  |
 | [Nevada](https://open.spotify.com/track/28I7nwBGoXFmV5AxaHhBTM) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Nevada](https://open.spotify.com/album/6lxOY4q9aKzlvB9wLbySpA) | 3:24 | 2022-06-03 | 2022-07-27 |
 | [No](https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU), [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Amalgama](https://open.spotify.com/album/3Wm4UI67R1RrWGe8C8OrRr) | 3:24 | 2022-06-03 | 2022-07-25 |
 | [No Es Conveniente](https://open.spotify.com/track/7rZWAnx3FHYlJqicefewhM) | [Sué Mon Mont](https://open.spotify.com/artist/1D0ySGoUXYWdUNDZWs2vKl) | [Contratiempo](https://open.spotify.com/album/6ADCYLJRvLJPc1xxgaDNOv) | 3:17 | 2022-07-01 | 2022-07-28 |
@@ -322,7 +323,7 @@
 | [Qué Tarde Que Es](https://open.spotify.com/track/7pkAQv1OfeZutSFCCZgNpN) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Melodía y Drama](https://open.spotify.com/album/3yjeOGRuuuFhIBtd1E1cA2) | 4:01 | 2022-07-01 | 2022-07-26 |
 | [Ramona](https://open.spotify.com/track/6Ua8Ce78UqIR2CoGZG1GR9) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Chupalapija](https://open.spotify.com/album/7kOKGjiQQuqeDmaBIr86sA) | 1:57 | 2022-06-03 |  |
 | [Rayo Eléctrico](https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Rayo Eléctrico](https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs) | 4:18 | 2022-06-03 |  |
-| [Recuerdos de Ya](https://open.spotify.com/track/4slvAIKvQN5d8jCuzlFHZW) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [El Ataque Suave](https://open.spotify.com/album/1mB7emrGc7wKG4YtQJgLBI) | 2:11 | 2022-06-03 |  |
+| [Recuerdos de Ya](https://open.spotify.com/track/4slvAIKvQN5d8jCuzlFHZW) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [El Ataque Suave](https://open.spotify.com/album/1mB7emrGc7wKG4YtQJgLBI) | 2:11 | 2022-06-03 | 2023-01-05 |
 | [Refugio](https://open.spotify.com/track/4bQJ17TT3eASeV5C2GezAK) | [Tølva](https://open.spotify.com/artist/3lLKxv9sE05lDe7VnXgUAo) | [Refugio](https://open.spotify.com/album/18OetE9OcCk7uFBDRsTfKA) | 2:50 | 2022-07-01 | 2022-07-24 |
 | [Remanso](https://open.spotify.com/track/7jEFt1fSOHEtoHPOiJYH61) | [Las Luchas](https://open.spotify.com/artist/3su0QV5CGNkE3xwpgEXNVe) | [Remanso](https://open.spotify.com/album/43q2gluh9bHCHDutBMkw11) | 5:12 | 2022-07-01 | 2022-07-17 |
 | [Remolinos](https://open.spotify.com/track/0PK1R9RJ4vPE0zEkpe3vTw) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Remolinos](https://open.spotify.com/album/28vyd694kAghyQToA3q1L1) | 4:16 | 2022-06-03 | 2022-07-20 |

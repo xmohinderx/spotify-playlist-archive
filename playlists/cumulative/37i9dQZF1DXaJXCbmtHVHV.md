@@ -2,7 +2,7 @@
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> Top country hits you know and love! Cover: Bailey Zimmerman
+> Top country hits you know and love! Cover: Tyler Hubbard
 
 179 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
 

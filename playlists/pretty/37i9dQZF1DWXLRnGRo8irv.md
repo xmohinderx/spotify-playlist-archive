@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain](/playlists/plain/37i9dQZF1DWXLRnGRo8irv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXLRnGRo8irv)
 
-### [EQUAL Korea: Best of 2022](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
+### [EQUAL Korea](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
 
-> 한국 여성들의 목소리가 담긴 플레이리스트 EQUAL KOREA의 2022년 탑 트랙을 만나보세요\. \(커버: NewJeans\)
+> 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: NewJeans\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,893 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,927 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [That Night \(feat\. minZu & Motto\)](https://open.spotify.com/track/3FMkl0OXYmpgVRtAoF9qKF) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [minZu](https://open.spotify.com/artist/2jafs495tZhGtiHMzhHWtv), [motto](https://open.spotify.com/artist/1RVTgmpV0WdFGS1tF7MIfS) | [The temperature of that day](https://open.spotify.com/album/7HhgTCdGOMutouQxtaDABt) | 3:15 |
 | 50 | [Call me \(feat\. Subbit & Luhae\)](https://open.spotify.com/track/7CeNFCLirNI1Rm5rT2BCeR) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Subbit](https://open.spotify.com/artist/6efFSrfAtcVvlMIkrCEwR0), [Luhae](https://open.spotify.com/artist/4Fh5HG3tvMsqB3xtWGmWXp) | [Are we still friends?](https://open.spotify.com/album/0HGTY8Zn3ubz3fROe0ZsFA) | 3:35 |
 
-Snapshot ID: `MTY3Mjc1ODAwMCwwMDAwMDAwMDk3Yzk1ZDU4YTUyMzhiYmUyZTMyNTJjOWZjNGNkNWUx`
+Snapshot ID: `MTY3MjgwMzU5OSwwMDAwMDAwMDQxZTc2YmM3MTMwNDE2Zjg1NzllNDAwYTRmMTlmMDlj`

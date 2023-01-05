@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: The Cool Greenhouse",
-  "num_followers": 253952,
+  "num_followers": 254055,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk1ODU5MiwwMDAwMDAwMGM1Njg4NjFmZjc1NGMyMDE2NzQ2M2FjYmU4YTM3MTY3",
+  "snapshot_id": "MTY3MDk1ODU5MiwwMDAwMDAwMDUzZTY3ZmFkZjIwZTg1NTFmMGIyMmEzYjEyNjlhNzY3",
   "tracks": [
     {
       "added_at": "2022-11-18 13:38:26",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
+        "name": "Debonair",
+        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
+      },
+      "artists": [
+        {
+          "name": "Horsey",
+          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
+        }
+      ],
+      "duration_ms": 265879,
+      "name": "Wharf (ii)",
+      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+    },
+    {
+      "added_at": "2022-11-18 13:38:26",
+      "album": {
         "name": "Sun Coming Down",
         "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 177120,
       "name": "Nite Expo",
       "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
-    },
-    {
-      "added_at": "2022-11-18 13:38:26",
-      "album": {
-        "name": "Debonair",
-        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
-      },
-      "artists": [
-        {
-          "name": "Horsey",
-          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
-        }
-      ],
-      "duration_ms": 265879,
-      "name": "Wharf (ii)",
-      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -475,8 +475,8 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
-        "name": "A Hero's Death",
-        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 271106,
-      "name": "I Don't Belong",
-      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
+      "duration_ms": 105515,
+      "name": "Big",
+      "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -611,8 +611,8 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
-        "name": "Dogrel",
-        "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 105515,
-      "name": "Big",
-      "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
+      "duration_ms": 271106,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw"
-      },
-      "artists": [
-        {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
-        }
-      ],
-      "duration_ms": 239320,
-      "name": "New Beginning",
-      "url": "https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6"
-    },
-    {
-      "added_at": "2022-11-18 13:38:26",
-      "album": {
         "name": "Suntan / Damocles",
         "url": "https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 299068,
       "name": "Suntan",
       "url": "https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p"
+    },
+    {
+      "added_at": "2022-11-18 13:38:26",
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw"
+      },
+      "artists": [
+        {
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+        }
+      ],
+      "duration_ms": 239320,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
-        "name": "Holding Hands with Jamie",
-        "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
-      },
-      "artists": [
-        {
-          "name": "Gilla Band",
-          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
-        }
-      ],
-      "duration_ms": 413721,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
-    },
-    {
-      "added_at": "2022-11-18 13:38:26",
-      "album": {
         "name": "Concorde",
         "url": "https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 363773,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk"
+    },
+    {
+      "added_at": "2022-11-18 13:38:26",
+      "album": {
+        "name": "Holding Hands with Jamie",
+        "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "duration_ms": 413721,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
-        "name": "Who's My Eugene? - Edit",
-        "url": "https://open.spotify.com/album/6wApvXDrW8JIxCcq5hwHDQ"
+        "name": "Illusory Walls",
+        "url": "https://open.spotify.com/album/2LF6m9cVyej7vKLnjwGiLK"
       },
       "artists": [
         {
-          "name": "Tropical Fuck Storm",
-          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
+          "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+          "url": "https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip"
         }
       ],
-      "duration_ms": 248267,
-      "name": "Who's My Eugene? - Edit",
-      "url": "https://open.spotify.com/track/3VTH9rhnc8jceZAU90hzwt"
+      "duration_ms": 209000,
+      "name": "Queen Sophie for President",
+      "url": "https://open.spotify.com/track/6EEdvLIM8kecYVtpA6Ug86"
     }
   ],
   "unique_name": "Post Punk",

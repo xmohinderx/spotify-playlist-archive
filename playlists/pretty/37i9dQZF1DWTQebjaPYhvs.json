@@ -1,13 +1,77 @@
 {
   "description": "The official playlist for <a href=\"spotify:user:0ouhj3nctpqgo8bgamzte2o6o\">Paramount Network</a>'s Yellowstone.",
-  "num_followers": 163687,
+  "num_followers": 166393,
   "original_name": "Yellowstone Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQxMTYwMCwwMDAwMDAwMDQyMmFhZWEzMmUxMTJiYTBiNjI1YjhlODNhMDkwYzZk",
+  "snapshot_id": "MTY3Mjc5NDAwMCwwMDAwMDAwMDkwMjc0OTI0Mzk1ZTc5NzljNmRlZDI5ZmRiNWI1OWY1",
   "tracks": [
+    {
+      "added_at": "2023-01-04 01:00:00",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 285200,
+      "name": "Fast as You",
+      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
+    },
+    {
+      "added_at": "2023-01-04 01:00:00",
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 188882,
+      "name": "Tishomingo",
+      "url": "https://open.spotify.com/track/1TsiwVwHhLgVK8sxBchINM"
+    },
+    {
+      "added_at": "2023-01-04 01:00:00",
+      "album": {
+        "name": "No Horse To Ride",
+        "url": "https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 133873,
+      "name": "No Horse To Ride",
+      "url": "https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3"
+    },
+    {
+      "added_at": "2023-01-04 01:00:00",
+      "album": {
+        "name": "No Reservations",
+        "url": "https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq"
+      },
+      "artists": [
+        {
+          "name": "Alex Williams",
+          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "No Reservations",
+      "url": "https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy"
+    },
     {
       "added_at": "2022-12-19 01:00:00",
       "album": {

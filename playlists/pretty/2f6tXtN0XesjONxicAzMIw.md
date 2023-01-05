@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain](/playlists/plain/2f6tXtN0XesjONxicAzMIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2f6tXtN0XesjONxicAzMIw)
 
-### [2000s Hits Throwbacks](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
+### [2000s Hits Throwbacks \| Love Songs](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 
 > The biggest 00s hits from &quot;Teenage Dirtbag&quot; Wheatus, to Avril Lavigne, Sean Kingston, Usher, Shakira, Pussycat Dolls, and more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 1,614,474 likes - 107 songs - 6 hr 55 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 1,614,406 likes - 107 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 | 106 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 107 | [Chariot](https://open.spotify.com/track/4dygMGhvfENVhwRXmAscbl) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot](https://open.spotify.com/album/5YTn3PFD7mrjhucfeafJE7) | 3:59 |
 
-Snapshot ID: `MTU4OCwzNTg1ZTIxNTM2YzIxZjY5NTY4NDM3MzlkZWZlM2FlOWY0MGRlMmNh`
+Snapshot ID: `MTU4OSwyODg5Y2QxM2M4N2FkZDUzZTcwYmYwMTAyOTBkYmNjZDYyOWRlZWVl`

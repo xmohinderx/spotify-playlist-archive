@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo rap feels for the misunderstood\. Cover: Pardyalone
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403,561 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,113 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 3 | [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 |
 | 4 | [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:45 |
 | 5 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 |
-| 6 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |
-| 7 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 |
+| 6 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 |
+| 7 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |
 | 8 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
 | 9 | [Antarctica](https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Antarctica](https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL) | 2:06 |
 | 10 | [Face 2 Face](https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Face 2 Face](https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh) | 2:04 |
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 77 | [jaded](https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [jaded](https://open.spotify.com/album/6T23UR8liTx61aRkLl0E7p) | 2:40 |
 | 78 | [Sad Nibba Hours](https://open.spotify.com/track/2TfoabXa0CbEwcqpxOn9z3) | [Papithbk](https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw) | [EP](https://open.spotify.com/album/6dQAUhE6oE6YgxD0GPdEzF) | 2:30 |
 | 79 | [Fuck Around and Find Out \(feat\. $NOT\)](https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:31 |
-| 80 | [Outta Time](https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Outta Time](https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm) | 2:05 |
-| 81 | [Beautiful Nightmare](https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp) | [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Anarchy](https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw) | 3:05 |
-| 82 | [Suicidal](https://open.spotify.com/track/4RPSpwcOe5NgQloQS2CDGp) | [Wett Brain](https://open.spotify.com/artist/5rRR4a0u50S9JNZtL4OB5K), [Tommy Ice](https://open.spotify.com/artist/3AUIYVmhwrsw8UOPHEv91Z) | [Suicidal](https://open.spotify.com/album/7dHziBjY45s0iXOif1Z7xc) | 2:22 |
-| 83 | [On & On](https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [On & On](https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM) | 2:16 |
+| 80 | [Beautiful Nightmare](https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp) | [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Anarchy](https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw) | 3:05 |
+| 81 | [On & On](https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [On & On](https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM) | 2:16 |
+| 82 | [Outta Time](https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Outta Time](https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm) | 2:05 |
+| 83 | [Suicidal](https://open.spotify.com/track/4RPSpwcOe5NgQloQS2CDGp) | [Wett Brain](https://open.spotify.com/artist/5rRR4a0u50S9JNZtL4OB5K), [Tommy Ice](https://open.spotify.com/artist/3AUIYVmhwrsw8UOPHEv91Z) | [Suicidal](https://open.spotify.com/album/7dHziBjY45s0iXOif1Z7xc) | 2:22 |
 | 84 | [Moshpit](https://open.spotify.com/track/103xWcm9VB6V2tbfPvh8qq) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [DIE BOUT IT](https://open.spotify.com/album/5Cm5MGbhKTQQzXKmKuzWbN) | 2:04 |
 | 85 | [Dying](https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe) | [Cold Hart](https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4), [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [The OC Season 3](https://open.spotify.com/album/1zkV84STH54WfqwcUvE9F0) | 3:29 |
 | 86 | [MORBID MIND](https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MIXED EMOTIONS](https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [Proud of Myself](https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Proud of Myself](https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq) | 1:49 |
 | 100 | [Cold \(feat\. CADE\)](https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Long Days Away EP](https://open.spotify.com/album/613TIKn6gw8IGd1CBQUTa9) | 2:38 |
 
-Snapshot ID: `MTY3MTIxMDAwMCwwMDAwMDAwMDczN2VlMjdiZDBiNWM0NjdhMzc3ZGE2YjY4ZWRiOTli`
+Snapshot ID: `MTY3MTIxMDAwMCwwMDAwMDAwMDFiZDA1N2JhYTMwZTFhMjUyYWIyZTM5NzhjOTYzMmYz`

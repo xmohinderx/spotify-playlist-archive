@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Hip\-hop hits with Drake & 21 Savage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,362 likes - 72 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,745 likes - 72 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

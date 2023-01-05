@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ?si=rywj2DAARMi5opK1c-oHnQ\"> Naira Marley </a>  ",
-  "num_followers": 42361,
+  "num_followers": 42488,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczMzUzMSwwMDAwMDAwMDQxZWIzYTQ4NDA0NWQ3ZjNhODVmODBmZDNiOGRkYWVl",
+  "snapshot_id": "MTY3MTczMzUzMSwwMDAwMDAwMGYwODQ1NTk2ODlmZjMwYWUxNWUxNmJmZTEwNzhmMjFl",
   "tracks": [
     {
       "added_at": "2022-12-18 10:04:53",
@@ -305,10 +305,10 @@
       "url": "https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5"
     },
     {
-      "added_at": "2022-07-04 06:57:42",
+      "added_at": "2022-11-28 07:03:32",
       "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+        "name": "Asiwaju",
+        "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
     },
     {
       "added_at": "2022-11-15 09:03:46",
@@ -405,20 +405,20 @@
       "url": "https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz"
     },
     {
-      "added_at": "2022-11-28 07:03:32",
+      "added_at": "2022-09-09 09:10:16",
       "album": {
-        "name": "Asiwaju",
-        "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Asiwaju",
-      "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
+      "duration_ms": 123716,
+      "name": "Organise",
+      "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
-      "added_at": "2022-09-09 09:10:16",
-      "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 123716,
-      "name": "Organise",
-      "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Boy Alone",
@@ -471,6 +455,22 @@
       "duration_ms": 174545,
       "name": "understand",
       "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
+    },
+    {
+      "added_at": "2022-07-04 06:57:42",
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -893,24 +893,20 @@
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
     },
     {
-      "added_at": "2022-07-07 23:00:00",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 209968,
-      "name": "Different Size (feat. Victony)",
-      "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
+      "duration_ms": 197000,
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -929,20 +925,24 @@
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-07-07 23:00:00",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Kolomental",
-      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+      "duration_ms": 209968,
+      "name": "Different Size (feat. Victony)",
+      "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1081,26 +1081,6 @@
       "url": "https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0"
     },
     {
-      "added_at": "2022-12-02 04:54:21",
-      "album": {
-        "name": "African Baddie",
-        "url": "https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 204599,
-      "name": "Pounds & Dollars",
-      "url": "https://open.spotify.com/track/43o9i6vgfaTD5LDKlcIpav"
-    },
-    {
       "added_at": "2022-11-24 23:00:00",
       "album": {
         "name": "Astalavista",
@@ -1119,6 +1099,26 @@
       "duration_ms": 171921,
       "name": "Astalavista",
       "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
+    },
+    {
+      "added_at": "2022-12-02 04:54:21",
+      "album": {
+        "name": "African Baddie",
+        "url": "https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 204599,
+      "name": "Pounds & Dollars",
+      "url": "https://open.spotify.com/track/43o9i6vgfaTD5LDKlcIpav"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1184,7 +1184,7 @@
           "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 141958,
+      "duration_ms": 141711,
       "name": "LEADER!",
       "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
     },
@@ -1209,6 +1209,22 @@
       "url": "https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/3Nt7p3GrkB4QeT1AKONY8U"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "duration_ms": 150491,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/6g8Ztyoym7VNLEzl8alsJK"
+    },
+    {
       "added_at": "2022-08-12 05:02:14",
       "album": {
         "name": "Jaiye Foreign",
@@ -1227,22 +1243,6 @@
       "duration_ms": 190164,
       "name": "Jaiye Foreign",
       "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/3Nt7p3GrkB4QeT1AKONY8U"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        }
-      ],
-      "duration_ms": 150491,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/6g8Ztyoym7VNLEzl8alsJK"
     },
     {
       "added_at": "2022-12-07 13:16:06",
@@ -1333,26 +1333,6 @@
       "url": "https://open.spotify.com/track/4NG1th0egF9bbKOGUKvca7"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "The Love Song (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
-    },
-    {
       "added_at": "2022-07-21 23:00:00",
       "album": {
         "name": "Kenkele",
@@ -1371,6 +1351,26 @@
       "duration_ms": 213600,
       "name": "Kenkele",
       "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
+      },
+      "artists": [
+        {
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "The Love Song (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
     },
     {
       "added_at": "2022-08-12 05:02:14",

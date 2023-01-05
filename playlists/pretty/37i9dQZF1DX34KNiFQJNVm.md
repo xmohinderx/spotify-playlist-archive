@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luísa Sonza com Xamã, MC Cabelinho, Clayton & Romário e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,814,757 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,815,065 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 41 | [Passada de Jogador](https://open.spotify.com/track/7LAsMHEbQw92FaxKP5s9a2) | [MC Julio D.E.R.](https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Passada de Jogador](https://open.spotify.com/album/2Q3mGzJFUgUQVlqnPbyrXZ) | 2:55 |
 | 42 | [N.A.F](https://open.spotify.com/track/1NKjlInIokpk1HBiEZwaoD) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Fabiow011](https://open.spotify.com/artist/4I5Y9NX4RZ5KA78a5UKsVY) | [N.A.F](https://open.spotify.com/album/42Zi2AfWoF1gDDK5cTv4HW) | 2:57 |
 | 43 | [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 |
-| 44 | [Foda\-Se](https://open.spotify.com/track/6NLoLuQ8b7eL2fKmQDhLsr) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Foda\-Se](https://open.spotify.com/album/7G77Ar8JpUC8tx86N9ccJF) | 2:03 |
+| 44 | [Foda\-Se](https://open.spotify.com/track/6NLoLuQ8b7eL2fKmQDhLsr) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Foda\-Se](https://open.spotify.com/album/7G77Ar8JpUC8tx86N9ccJF) | 2:03 |
 | 45 | [Lembro de Você](https://open.spotify.com/track/2EN7WVaJgRV2tOYzIZM3s7) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6) | [Lembro de Você](https://open.spotify.com/album/35xIi09rhNWA4FQS8xY1ko) | 3:05 |
 | 46 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 |
 | 47 | [First Of The Year](https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [First Of The Year](https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86) | 2:50 |

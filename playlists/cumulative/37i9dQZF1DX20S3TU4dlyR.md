@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-205 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/5wJsWdiqLgGKoWe7fmymn2)
+206 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/5wJsWdiqLgGKoWe7fmymn2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [La Huida](https://open.spotify.com/track/52Php2aMXTxfMaMmJSMQSa) | [Suzanna](https://open.spotify.com/artist/2BKvzh6Aru6d7xq5HdwEgg), [Martín Longoni](https://open.spotify.com/artist/2jb0o40W69Jdbfq7TgyuYf) | [La Huida](https://open.spotify.com/album/6XbXfwrvflXsjxOfzucnqa) | 3:34 | 2022-05-06 | 2022-07-29 |
 | [La Movie](https://open.spotify.com/track/5u1rcgkyH4ewqTaVUI6Ekk) | [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik), [Subwoffer](https://open.spotify.com/artist/0Qsv4mPm5fOiJ6nOFxtZLm), [King Kong Click](https://open.spotify.com/artist/0lTSSQrxOMu4Keh48GrIkX), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [The King Is Back](https://open.spotify.com/album/5NfRSBalg4W9v2E01yHRzF) | 4:06 | 2022-12-23 |  |
 | [La Máscara](https://open.spotify.com/track/6d04unqLhJPDVuPiXxFm35) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [20 años En Vivo & En Directo](https://open.spotify.com/album/71X3JKCBkaLXz36GTbR27Q) | 5:31 | 2022-07-01 | 2022-07-27 |
-| [La Máscara \- En Vivo](https://open.spotify.com/track/7IAgDJqVjgaCKJSFcdQgaV) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [20 Años en Vivo & En Directo](https://open.spotify.com/album/2JbNqmYTp8Rb9QlYAZQmbT) | 5:31 | 2022-07-01 |  |
+| [La Máscara \- En Vivo](https://open.spotify.com/track/7IAgDJqVjgaCKJSFcdQgaV) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [20 Años en Vivo & En Directo](https://open.spotify.com/album/2JbNqmYTp8Rb9QlYAZQmbT) | 5:31 | 2022-07-01 | 2023-01-05 |
 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 | 2022-05-06 |  |
 | [La Pipa](https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Sergio Colombo Presenta el Natty Combo](https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s) | 5:49 | 2022-05-06 |  |
 | [La Planta de Ganja](https://open.spotify.com/track/5HU5cVeCgpmvFDoN4jcSFE) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:05 | 2022-05-06 | 2022-06-08 |
@@ -159,6 +159,7 @@
 | [Rumbos](https://open.spotify.com/track/5MnnfxY6P5il3uLuNXiqNa) | [Mamma Motta](https://open.spotify.com/artist/49C3kSJ3U0It8eGGwXWzrF) | [Rumbos](https://open.spotify.com/album/0I8OcfGllqQ6WApI1abJGw) | 2:49 | 2022-05-06 | 2022-06-19 |
 | [Runaway \(En Vivo\)](https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:07 | 2022-05-06 |  |
 | [Runnin' out of Fools](https://open.spotify.com/track/6kvm98YbESolyOzhUDSLRG) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Los Aggrotones](https://open.spotify.com/artist/6A2Us7Q6b6rVnUATaqjUv6) | [Runnin' out of Fools](https://open.spotify.com/album/4Ya39nwsZDpmDZFF4IyjUQ) | 3:39 | 2022-05-06 | 2022-07-29 |
+| [Ruptura](https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Fanbrown](https://open.spotify.com/artist/0pJiXyozCdysfr3YXdp1al) | [Ruptura](https://open.spotify.com/album/1LPSW2i48wQJqzPSjPnCRF) | 3:14 | 2022-12-23 |  |
 | [Sere Yo](https://open.spotify.com/track/1YfA9cHRYqZjmWNkhswpjD) | [Tempranos](https://open.spotify.com/artist/492Ggq79DwN14yeaPKnUhW) | [Tempranos](https://open.spotify.com/album/5TGGUs3yzjdN176ZFXTeXA) | 3:14 | 2022-05-06 | 2022-07-07 |
 | [Señorita](https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E) | [Lumumba Oficial](https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Amilcar Nadal](https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Raices y Cultura](https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx) | 4:41 | 2022-07-01 |  |
 | [Señorita \- Remastered](https://open.spotify.com/track/72YhqbNKWrfl5hZUWO6Ffe) | [Lumumba](https://open.spotify.com/artist/2Ki6IM84Dcq3LRFeJTtyyv) | [Raíces y Cultura \(Remastered\)](https://open.spotify.com/album/634OZiuFSYtcvqWih19BWf) | 4:40 | 2022-05-06 | 2022-07-29 |

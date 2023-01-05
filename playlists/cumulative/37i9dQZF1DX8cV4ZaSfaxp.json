@@ -4395,6 +4395,24 @@
     {
       "album": {
         "name": "Onstage Digging Club Seoul THEME 04",
+        "url": "https://open.spotify.com/album/3WREPmFd4M6Rfunvv5p1mF"
+      },
+      "artists": [
+        {
+          "name": "jeebanoff",
+          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198050,
+      "name": "The girl in my memories (Digging club Seoul Ver.)",
+      "url": "https://open.spotify.com/track/72znGmipHo5wclQX7RKhpB"
+    },
+    {
+      "album": {
+        "name": "Onstage Digging Club Seoul THEME 04",
         "url": "https://open.spotify.com/album/11YIHoOGPN6zvskNI9aa1g"
       },
       "artists": [
@@ -4423,7 +4441,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 198050,
       "name": "The girl in my memories(Digging Club Seoul Ver.)",
       "url": "https://open.spotify.com/track/2PvbRFttjYprNiT8IBJPD9"

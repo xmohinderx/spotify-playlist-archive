@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Maskandi favourites for every day of the week\. Cover: <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS\-wXav9tJWA">Phuzekhemisi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,124 likes - 55 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,147 likes - 55 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 30 | [Diona x5](https://open.spotify.com/track/2PQl2BRgemS4sFZTFS703p) | [Mtshengiseni](https://open.spotify.com/artist/0b7Ds3CZPJOmh8hqOq9md4) | [Maskandi Greats Vol.1](https://open.spotify.com/album/3GzuoeKRn8eQF0KAR0N4o6) | 6:52 |
 | 31 | [Wayimema](https://open.spotify.com/track/3o3kejg8G9xg5jTYuzNpCv) | [Mbuzeni](https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok) | [Ungishiyelani](https://open.spotify.com/album/3QGeKt0V7nXWSiaMweGVBp) | 5:55 |
 | 32 | [Shintsh' Umshovo](https://open.spotify.com/track/1Usa9hOXDsWKC7WTMlaQW9) | [Amageza Amahle](https://open.spotify.com/artist/3aQFd89lMBxu1RRBIrxPdv) | [Sishaya Kwasani](https://open.spotify.com/album/6obk82RMxEzugUBJJTRbhH) | 7:16 |
-| 33 | [Eyokuza](https://open.spotify.com/track/6gJVTJap7XXAPY3qJKoAY4) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [EYOKUZA](https://open.spotify.com/album/65vZAeZNfrcfztUfYuyoWS) | 4:31 |
+| 33 | [Eyokuza](https://open.spotify.com/track/72gVqRVUJECbmu91Qu3fET) | [Mzukulu](https://open.spotify.com/artist/6opKhHzvL2v5u42eTzEmjN) | [Eyokuza](https://open.spotify.com/album/0r4p4Z9eRFUsKYq5OQiuHJ) | 4:31 |
 | 34 | [Onke Lamadoda](https://open.spotify.com/track/49x1RPNz0y4dhKxRVwTlRT) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT) | 4:54 |
 | 35 | [Imali Yesoso](https://open.spotify.com/track/28ZztKoH4iovdVamlbNEPR) | [Ichwane Lebhaca](https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh) | [Imali Yesoso](https://open.spotify.com/album/1Vvgd9KgV5hQZKXLDLfGBc) | 5:07 |
 | 36 | [Izihlwele](https://open.spotify.com/track/6iFCyBOk9UTRNgb7Oz2oKg) | [Bahubhe](https://open.spotify.com/artist/2pisTvrJlAr0NTxvXOuLOv) | [Izihlwele](https://open.spotify.com/album/5LAxoXLEgCyptZpryTXcSs) | 5:00 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 54 | [Palamente e kgopela merapelo](https://open.spotify.com/track/3PzDhMFbGUSpVWWcBTRJWW) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Palamente e Kgopela Merapelo](https://open.spotify.com/album/6H2nsddvfVyGIagH72T4RF) | 5:08 |
 | 55 | [Inzondo](https://open.spotify.com/track/66grkST08OIuorHMGsGwR6) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Isidina Sikamahlalela](https://open.spotify.com/album/7M3Zi8eUaeFxhC5JzGMfRX) | 3:25 |
 
-Snapshot ID: `MTY2MjA2OTU0MCwwMDAwMDAwMDc3NTU5ZTI4MGU0ODNmN2U5MDBhZjgwOWI3Y2U1MjIx`
+Snapshot ID: `MTY2MjA2OTU0MCwwMDAwMDAwMDkxMjYyMDNmYTE0MTg5N2Y2YTEwYjk4NzhkNTVmYWY3`

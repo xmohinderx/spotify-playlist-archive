@@ -4,7 +4,7 @@
 
 > Ouça os hits do momento do pop BR! Foto: Giulia Be
 
-158 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
+159 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 | 2022-07-19 |  |
 | [Piripaque](https://open.spotify.com/track/34YiGxsF0ESM7TEGRYf38X) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Piripaque](https://open.spotify.com/album/2t02byB5tMIdKeAh3bdXlE) | 2:04 | 2022-12-16 |  |
 | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF) | 3:18 | 2022-02-09 | 2022-03-05 |
+| [PLAYGROUND](https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [PLAYGROUND](https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi) | 2:19 | 2023-01-04 |  |
 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 | 2022-01-14 |  |
 | [Potência](https://open.spotify.com/track/4hjUqN9S84dPLGdlUufp0c) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Potência](https://open.spotify.com/album/1CwQPBAAD3xos4HZemsZvf) | 2:59 | 2022-07-29 | 2022-11-12 |
 | [Pra Te Machucar \(feat\. Suku Ward\)](https://open.spotify.com/track/3iNjNUUuuF5Mjk7tYWAI9N) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Suku Ward](https://open.spotify.com/artist/11mHQVYCOp3dbhqezMJDGq) | [Pra Te Machucar \(feat\. Suku Ward\)](https://open.spotify.com/album/6aK9Rcd0QztU0jRIoqJaN5) | 2:37 | 2022-01-14 | 2022-02-05 |

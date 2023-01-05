@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXLRnGRo8irv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXLRnGRo8irv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXLRnGRo8irv)
 
-### [EQUAL Korea: Best of 2022](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
+### [EQUAL Korea](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
 
-> 한국 여성들의 목소리가 담긴 플레이리스트 EQUAL KOREA의 2022년 탑 트랙을 만나보세요\. \(커버: NewJeans\)
+> 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: NewJeans\)
 
 599 songs - 1 day 10 hr 40 min - [published](https://open.spotify.com/playlist/43k4c9vIwa5D757ihXdBwg)
 

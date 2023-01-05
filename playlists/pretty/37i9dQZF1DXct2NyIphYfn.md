@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful French love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,073 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,113 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 42 | [Il me dit que je suis belle \(Version album\)](https://open.spotify.com/track/5oHLDVSTy3M5mXWNAgnzvF) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Je te dis vous](https://open.spotify.com/album/6IRWC0tQS54aZeL6ptB2TG) | 5:21 |
 | 43 | [Aime\-moi encore](https://open.spotify.com/track/1Sft5kKO1SNO21kshqzIaz) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Acrophobie](https://open.spotify.com/album/6zBf71wZueuPdcCUq7FjzE) | 2:49 |
 | 44 | [Boum Boum Boum](https://open.spotify.com/track/0h1yRXb0VDMH64xCsXoxaj) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [No Place In Heaven \(Special Edition\)](https://open.spotify.com/album/4ILxyc4VA9ymZVC8o6MyiX) | 3:26 |
-| 45 | [Comme j'ai toujours envie d'aimer \(version 2001\)](https://open.spotify.com/track/5E3wkDtNAPeqMNJHwczB55) | [Marc Hamilton](https://open.spotify.com/artist/4tSPtm10lKqc2KYps8Hslm) | [Comme j'ai toujours envie d'aimer](https://open.spotify.com/album/4zRTAGVOXT4kpqfEFjNcNH) | 3:17 |
-| 46 | [S'il suffisait d'aimer](https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:34 |
+| 45 | [S'il suffisait d'aimer](https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:34 |
+| 46 | [Comme j'ai toujours envie d'aimer \(version 2001\)](https://open.spotify.com/track/5E3wkDtNAPeqMNJHwczB55) | [Marc Hamilton](https://open.spotify.com/artist/4tSPtm10lKqc2KYps8Hslm) | [Comme j'ai toujours envie d'aimer](https://open.spotify.com/album/4zRTAGVOXT4kpqfEFjNcNH) | 3:17 |
 | 47 | [Il n'y a que toi](https://open.spotify.com/track/1RqiVKbXmMpa5w70ebmCds) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/05i1g2VNkI7hBdIADta182) | 3:21 |
 | 48 | [Fous n'importe où](https://open.spotify.com/track/3Wav5Db2A0kdJDAK3mpajp) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Rêver Mieux](https://open.spotify.com/album/2KE8MT2BeZA1sQWlQam4ce) | 3:59 |
 | 49 | [J't'aime tout court](https://open.spotify.com/track/4wRNDhiYiB07K39uBI7AlW) | [Nicola Ciccone](https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM) | [J't'aime tout court](https://open.spotify.com/album/4KQ5ciZy9S3350gBi1MP29) | 3:31 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 51 | [Aime\-moi](https://open.spotify.com/track/3Nx0tpFFwD0xdw424rhhfN) | [Ariane Brunet](https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg) | [Le pied dans ma bulle](https://open.spotify.com/album/7jRtfbizqVXGQzUplJzJ0r) | 3:16 |
 | 52 | [Je t'aimais, je t'aime et je t'aimerai](https://open.spotify.com/track/7Kw8uSGbshybOzw4fmosUx) | [Amandine Bourgeois](https://open.spotify.com/artist/5f2vuPQdfpjzhuIA0W9bNm) | [Au masculin](https://open.spotify.com/album/1UsDlpZBxnuZBo1xSyYax6) | 4:58 |
 | 53 | [Pour que tu m'aimes encore](https://open.spotify.com/track/5iUdu5DddFwvqmnwL0nOBI) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Pour que tu m'aimes encore](https://open.spotify.com/album/7F0oYlWbXKjecsCJS9wUMW) | 4:48 |
-| 54 | [T'embellis ma vie](https://open.spotify.com/track/6Ej9I1OaT13pHqHqjSn84i) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Le fantastique des astres](https://open.spotify.com/album/4KqXulviLMNPbpvWbaKBOj) | 3:52 |
-| 55 | [Une chance qu'on s'a](https://open.spotify.com/track/3zgQHblUM4t8JkX7rRLAZI) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3) | [Écoute pas ça](https://open.spotify.com/album/1fx8uI3eEZ8qejgBMrKOhV) | 3:57 |
-| 56 | [J'attendais](https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:23 |
+| 54 | [J'attendais](https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:23 |
+| 55 | [T'embellis ma vie](https://open.spotify.com/track/6Ej9I1OaT13pHqHqjSn84i) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Le fantastique des astres](https://open.spotify.com/album/4KqXulviLMNPbpvWbaKBOj) | 3:52 |
+| 56 | [Une chance qu'on s'a](https://open.spotify.com/track/3zgQHblUM4t8JkX7rRLAZI) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3) | [Écoute pas ça](https://open.spotify.com/album/1fx8uI3eEZ8qejgBMrKOhV) | 3:57 |
 | 57 | [J'aurai cent ans](https://open.spotify.com/track/3dIpMGg4wm2OOSf8sHYHAs) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Landing](https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo) | 4:52 |
 | 58 | [Kraft Dinner](https://open.spotify.com/track/75tmUxexYj2WgMpCdBtdT0) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Lisa LeBlanc](https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V) | 3:11 |
 | 59 | [Je t'aime moi non plus](https://open.spotify.com/track/3YW3Tw3lLQfuPfklE76F3y) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Jane Birkin & Serge Gainsbourg](https://open.spotify.com/album/2JR65ppK6Z6h1lfV5fy7Fr) | 4:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 74 | [Chanson d'amour en sol standard](https://open.spotify.com/track/4jAgDuNmbaARi8zEQulw7v) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Mitan](https://open.spotify.com/album/4Zm0Sey2ULq1FS7YYaCQOB) | 5:36 |
 | 75 | [Ma préférence](https://open.spotify.com/track/28DzOSJv7d8NW96v0ZD804) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Limoilou \(Deluxe\)](https://open.spotify.com/album/32N6jwadyAwPmruhrGRB0J) | 2:49 |
 
-Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDU0MWVlMmEyODZjOWM2NTI5MTY1MzFiOGNhMDZlOTc4`
+Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMGRlMzUyMDViZGRiMDJlMDlhMDVlOTkyZTU0NjBjMjhk`

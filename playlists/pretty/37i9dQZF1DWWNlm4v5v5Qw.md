@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Shy Glizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,477 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,474 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wish I Knew](https://open.spotify.com/track/3qx7ig57062kyFMNqBHWPn) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Wish I Knew](https://open.spotify.com/album/2dgFS2T4BTuoewTy6MjpiD) | 2:25 |
 | 2 | [Underrated](https://open.spotify.com/track/3WT6yVyFwS38gGiftAG8qv) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Underrated](https://open.spotify.com/album/21SdIqju7srs1SNntOX9Jq) | 3:45 |
-| 3 | [Spinnin \(with B\-Lovee & Cordae\)](https://open.spotify.com/track/5yIdAHq12zWXdZnPBcNsK8) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Spinnin](https://open.spotify.com/album/5WAl0tUpwVkdfu9QLjmf6D) | 2:18 |
+| 3 | [Spinnin \(with B\-Lovee, Feat.Cordae\)](https://open.spotify.com/track/5yIdAHq12zWXdZnPBcNsK8) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Spinnin](https://open.spotify.com/album/5WAl0tUpwVkdfu9QLjmf6D) | 2:18 |
 | 4 | [New](https://open.spotify.com/track/2kEAm7xnxMy27gsb9pistf) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd) | [New](https://open.spotify.com/album/52bxvoNYy23DIidmjC1GxE) | 2:48 |
 | 5 | [PRETTY IN BLACK](https://open.spotify.com/track/0CKjwy3zelVZgS49WlVIaV) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black](https://open.spotify.com/album/5MfPSUlLg1wsGUyY2c10OG) | 1:53 |
 | 6 | [150](https://open.spotify.com/track/6mg0lJwQehUi2pRGKV8nXh) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh) | [150](https://open.spotify.com/album/3HZkYzD4vVdToVuW4AnBSr) | 1:49 |

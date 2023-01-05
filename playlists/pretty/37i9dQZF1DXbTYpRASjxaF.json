@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: WC no Beat, Mc Gabzin, Felp 22",
-  "num_followers": 87934,
+  "num_followers": 88006,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTI2MCwwMDAwMDAwMDA5Mzg2ODgwOTMxMDViZDI0OTVmNGY2OTMxMjI4Njlm",
+  "snapshot_id": "MTY3MjM2OTI2MCwwMDAwMDAwMDk3M2NkNmMzODc0ZDZmMDQ4ZGIyOGVlNjM5OWZlMzQw",
   "tracks": [
     {
       "added_at": "2022-12-30 03:01:00",
@@ -387,6 +387,50 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
+        "name": "Viz\u00e3o de Cria 2",
+        "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
+      },
+      "artists": [
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 306141,
+      "name": "Viz\u00e3o de Cria 2",
+      "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
         "name": "Set dos Casados",
         "url": "https://open.spotify.com/album/4CNrRgC3wHmIRIWABYaiZP"
       },
@@ -439,50 +483,6 @@
       "duration_ms": 643200,
       "name": "Set dos Casados",
       "url": "https://open.spotify.com/track/2xebCnKCjYWBhJ4Ai8hO5E"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "Viz\u00e3o de Cria 2",
-        "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
-      },
-      "artists": [
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 306141,
-      "name": "Viz\u00e3o de Cria 2",
-      "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -923,50 +923,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Lado Nerd",
-        "url": "https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Lado Nerd",
-      "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "Jogador",
-        "url": "https://open.spotify.com/album/31n2Ou1qjqqlAhrcWvIG3m"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Jogador",
-      "url": "https://open.spotify.com/track/1Seaw5DuwftrRiKDqkizPR"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "Avisa L\u00e1, Pt.3",
         "url": "https://open.spotify.com/album/3O8mbhZhxw1iSTuAB5ICof"
       },
@@ -1007,6 +963,26 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
+        "name": "Jogador",
+        "url": "https://open.spotify.com/album/31n2Ou1qjqqlAhrcWvIG3m"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Jogador",
+      "url": "https://open.spotify.com/track/1Seaw5DuwftrRiKDqkizPR"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
         "name": "Passado & Presente",
         "url": "https://open.spotify.com/album/5hwK2P6q7pjxahdDEobHIb"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 205714,
       "name": "Jun\u00e7\u00e3o Venenosa",
       "url": "https://open.spotify.com/track/2FSuhtOSQo1MUn8bNZmxYq"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Lado Nerd",
+        "url": "https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Lado Nerd",
+      "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
     },
     {
       "added_at": "2022-12-30 03:01:00",

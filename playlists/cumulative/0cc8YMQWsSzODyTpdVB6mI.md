@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-108 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+109 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [IPANEMA \- slow](https://open.spotify.com/track/44z0xS4YJxrsHt3oTvS2ei) | [TALES\_FOR\_NIGHTCLUBS](https://open.spotify.com/artist/1bQcDCkr8KkJBbHtjqAXps) | [IPANEMA \(slow\)](https://open.spotify.com/album/6yTtOrQDLrPodakOvqssbn) | 3:16 | 2022-08-24 | 2022-11-22 |
 | [It's About Time](https://open.spotify.com/track/0plbSDugi1FZzzX0A5CmSB) | [Sky Adler](https://open.spotify.com/artist/7tBYbT4opzICINZB2JNCYX) | [It's About Time](https://open.spotify.com/album/4cOi1XyWHJ28c7GbqQF9wQ) | 4:03 | 2022-11-21 |  |
 | [Kutamba](https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Kutamba](https://open.spotify.com/album/0LGKkarWcOJnv6d4Lnh6Om) | 2:56 | 2022-09-26 |  |
-| [Lava In The Sky](https://open.spotify.com/track/6DcENaDftcPkVz3fJlnCPD) | [Selbor](https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t) | [Lava In The Sky](https://open.spotify.com/album/2sQox30QKJooM9auXi0z8v) | 3:11 | 2022-09-23 |  |
+| [Lava In The Sky](https://open.spotify.com/track/6DcENaDftcPkVz3fJlnCPD) | [Selbor](https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t) | [Lava In The Sky](https://open.spotify.com/album/2sQox30QKJooM9auXi0z8v) | 3:11 | 2022-09-23 | 2023-01-05 |
 | [Lava In The Sky \- Club Edit](https://open.spotify.com/track/2LHBPXrnwl2A1uwWkR9eZF) | [Selbor](https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t) | [Lava In The Sky](https://open.spotify.com/album/5xhJnDqJLk1CJtdvuSOXBu) | 4:13 | 2022-11-18 |  |
 | [Leather Free Seats](https://open.spotify.com/track/3j0BVE17Uq6nW9XYJRfXAf) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [Leather Free Seats](https://open.spotify.com/album/3GZvFemzsIFVRjayknmOEl) | 3:33 | 2022-06-15 | 2022-09-03 |
 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 | 2021-11-05 |  |
@@ -70,6 +70,7 @@
 | [MOONKISS](https://open.spotify.com/track/3jjaWxIRbxUkgcO5R3cxaL) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [MOONKISS](https://open.spotify.com/album/0ENK4WbQuDunSFcCYBNakg) | 2:28 | 2022-12-05 |  |
 | [Moonlight](https://open.spotify.com/track/3xg2H9VTF8uW046sq1Grto) | [Karl Meyer](https://open.spotify.com/artist/2f9bz0POgpM78PM6Mbarjo) | [Moonlight](https://open.spotify.com/album/53QtBB62XZEkvGVoazcE4f) | 3:08 | 2022-11-25 |  |
 | [MY MIND](https://open.spotify.com/track/7Kgcz89XMfj4WHtm5nd3mJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES FOR NIGHTCLUBS III](https://open.spotify.com/album/1rapZi3fPJc3RLRQdxocM7) | 2:55 | 2022-11-16 |  |
+| [MY MIND \- Duarte Remix](https://open.spotify.com/track/6BEAYuiyGLW1qEzwROV26G) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [MY MIND \(Duarte Remix\)](https://open.spotify.com/album/6dOb32eRDgw7APDZ6REMPj) | 4:26 | 2023-01-04 |  |
 | [No One Knows You Better Than Me](https://open.spotify.com/track/5sRw42rZDyBqUi041yw5q8) | [Runrummer](https://open.spotify.com/artist/2VqvNXdQzKDywenScflYoX) | [No One Knows You Better Than Me](https://open.spotify.com/album/3u7wrsxCG6SfCsz14Kcts4) | 4:23 | 2022-04-04 | 2022-06-14 |
 | [Nympho](https://open.spotify.com/track/7BShG8FX4glHiyOrh7dbET) | [DJ Assault](https://open.spotify.com/artist/3yoyUFgb11DMp1KrsJoQZU) | [Nympho](https://open.spotify.com/album/1IisYeFNyLYwdJdg0eW1V5) | 4:01 | 2021-11-05 |  |
 | [On & On](https://open.spotify.com/track/4szdAoKiSXuatHbwwWRDDz) | [Rush Midnight](https://open.spotify.com/artist/7JhInRTK054LmqV3Ton1z4) | [On & On](https://open.spotify.com/album/2OmNDztyjPcH9yjZlBklbO) | 3:30 | 2022-05-13 | 2022-07-21 |

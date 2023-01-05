@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,133 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,147 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 29 | [Read Me My Rights](https://open.spotify.com/track/0CrhIYKizM7cLxJVh2AocH) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:54 |
 | 30 | [White Trash](https://open.spotify.com/track/2RYTHqaNac6IoCVmXBiR9A) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [American White Trash](https://open.spotify.com/album/7nCe0ikRQH305XDZ7MUwpN) | 2:47 |
 | 31 | [Jack In My Coke](https://open.spotify.com/track/6Kf1VcLce0JzSNvngjhi4q) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [American Rebelution](https://open.spotify.com/album/4dQZO3ENU8TkhieFWFlDoL) | 3:52 |
-| 32 | [Throwed](https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Throwed](https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3) | 3:14 |
+| 32 | [Back to Them Backroads](https://open.spotify.com/track/6lzl1UeETmlBNWzC7PHOcR) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [We The People, Vol\. 1](https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x) | 3:11 |
 | 33 | [Confetti](https://open.spotify.com/track/3YP3VB9FEdbAzoC9RZ5frW) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD) | [Confetti](https://open.spotify.com/album/57UcRsgqFNbrjUa1iDmAbv) | 2:03 |
 | 34 | [Country Made](https://open.spotify.com/track/2dzQTTYxfcKpH8PncC3SkE) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Still The King](https://open.spotify.com/album/58yc5Wx0ShmeAsJjParire) | 3:29 |
-| 35 | [Back to Them Backroads](https://open.spotify.com/track/6lzl1UeETmlBNWzC7PHOcR) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [We The People, Vol\. 1](https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x) | 3:11 |
+| 35 | [Throwed](https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Throwed](https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3) | 3:14 |
 | 36 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 |
 | 37 | [Dirt Road](https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dirt Road](https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo) | 2:45 |
 | 38 | [Willie Nelson \(feat\. Nate Kenyon\)](https://open.spotify.com/track/4vcHeAH1Zcg7bF74PfaFlO) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Dirt Rock](https://open.spotify.com/album/5fVHkVelQbRQs1QfFDCHk7) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 74 | [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 |
 | 75 | [Camouflage Mirage](https://open.spotify.com/track/5ryfPFLjn5uDHgagzf818M) | [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Camouflage Mirage](https://open.spotify.com/album/1WYwT6dIGsV25ZvyQRk27z) | 3:14 |
 
-Snapshot ID: `MTY3MjY5NDkwNywwMDAwMDAwMDZjYTU5NDYyMmFkOGMxNTVkNGZmNGQ5OTFmYjZkMTJk`
+Snapshot ID: `MTY3MjY5NDkwNywwMDAwMDAwMDYxZGExNmFiNDgxN2Q0MzBhYTJmOTBlZmIwYWE5MmI3`

@@ -1,12 +1,12 @@
 {
   "description": "Exercise together with uplifting soul music.",
-  "num_followers": 270503,
+  "num_followers": 270670,
   "original_name": "Body & Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxNTczNywwMDAwMDAwMDNjMWI5NmNlYjVkYTAyNWUxZWNmN2ZlZDNlMjM3OGYx",
+  "snapshot_id": "MTY3MTIxNTczNywwMDAwMDAwMGZiZTUwNGMyOTgxMjViNDdlYzIxN2FkZGNjNGI4YjQ1",
   "tracks": [
     {
       "added_at": "2022-09-30 14:42:46",
@@ -579,22 +579,18 @@
     {
       "added_at": "2022-09-30 14:42:46",
       "album": {
-        "name": "The Blues Brothers Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH"
+        "name": "Meet The Temptations",
+        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
       },
       "artists": [
         {
-          "name": "The Blues Brothers",
-          "url": "https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g"
-        },
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 195306,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/6kie23fo40j9gBNWGWg5Dc"
+      "duration_ms": 165744,
+      "name": "The Way You Do The Things You Do",
+      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
     },
     {
       "added_at": "2022-09-30 14:42:46",
@@ -615,18 +611,22 @@
     {
       "added_at": "2022-09-30 14:42:46",
       "album": {
-        "name": "Meet The Temptations",
-        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
+        "name": "The Blues Brothers Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "The Blues Brothers",
+          "url": "https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g"
+        },
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 165744,
-      "name": "The Way You Do The Things You Do",
-      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
+      "duration_ms": 195306,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/6kie23fo40j9gBNWGWg5Dc"
     },
     {
       "added_at": "2022-09-30 14:42:46",

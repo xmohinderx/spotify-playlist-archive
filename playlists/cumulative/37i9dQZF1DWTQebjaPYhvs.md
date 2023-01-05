@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-195 songs - 12 hr 11 min - not published yet
+199 songs - 12 hr 25 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Evening Blues](https://open.spotify.com/track/69MTcCogxksQ8WdtnejFaX) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [William Wild](https://open.spotify.com/album/1NT7YqPsTFkiaLQybuh4DE) | 3:59 | 2019-08-08 |  |
 | [Factories, Farms & Amphetamines](https://open.spotify.com/track/3tAiYwZoNxsIH4uswEEoZ6) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Factories, Farms & Amphetamines](https://open.spotify.com/album/0ActL0zLX4MYN4pOcOjm8b) | 4:24 | 2022-12-12 |  |
 | [Far From Home](https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Far from Home](https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch) | 3:07 | 2022-12-06 |  |
+| [Fast as You](https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [This Time](https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50) | 4:45 | 2023-01-04 |  |
 | [Fast Stack](https://open.spotify.com/track/5AVmuEaNjeIQvrnvd8ZWzl) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [William Wild](https://open.spotify.com/album/1NT7YqPsTFkiaLQybuh4DE) | 5:22 | 2019-08-23 |  |
 | [Fire](https://open.spotify.com/track/70VSFe3tTnCLpue9StG69U) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fire](https://open.spotify.com/album/2RisnGnqdl2KmkWlskYfdt) | 3:48 | 2019-07-11 |  |
 | [Fire in the Ocean](https://open.spotify.com/track/7EYcaTSpXviHo3VVOPxbT4) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Fire in the Ocean](https://open.spotify.com/album/7oxHI9icBzcPOsAYA0a7g4) | 3:58 | 2022-11-14 |  |
@@ -114,6 +115,8 @@
 | [My Diamond Is Too Rough](https://open.spotify.com/track/5wblL7xwegkfOsyJscWrU8) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Fear and Saturday Night](https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1) | 5:36 | 2019-06-27 |  |
 | [Never Be Ourselves](https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 3:40 | 2019-07-25 |  |
 | [New Friends](https://open.spotify.com/track/3UXO74viaatyxa6vIxsK3g) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 4:15 | 2022-11-28 |  |
+| [No Horse To Ride](https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride](https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8) | 2:13 | 2023-01-04 |  |
+| [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 | 2023-01-04 |  |
 | [Nobody Knows My Trouble](https://open.spotify.com/track/5qyIIrOLV5CCi4YzicRdwT) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Fear and Saturday Night](https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1) | 4:15 | 2022-12-12 |  |
 | [Nose On The Grindstone \(OurVinyl Sessions\)](https://open.spotify.com/track/4a2uqVlpRChHj32EjJLu7G) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/42nsomRaEURVkNt7IF1IFu) | 3:24 | 2019-07-25 |  |
 | [Off the Wagon](https://open.spotify.com/track/5DiJtgFAtFQIVZ5OIkXYID) | [Isaac Hoskins](https://open.spotify.com/artist/7FSF3vuIliCSshbpPAnA7E) | [Bender](https://open.spotify.com/album/6pDo5cqQYdCekqJthJFFBk) | 3:38 | 2022-11-21 |  |
@@ -172,6 +175,7 @@
 | [This Is My Family \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/track/7jhxSE7ZAzsMZqOfIyVM10) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [This Is My Family \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/album/7nhGoBsvZhw6xgaSecP5if) | 3:22 | 2019-08-01 |  |
 | [This Way of Life](https://open.spotify.com/track/3eO7vKn7E9tDmS6gnw02U2) | [Garrett Bradford](https://open.spotify.com/artist/2Ld4BO9aCvmYXbO9wvxQ0Q) | [This Way of Life](https://open.spotify.com/album/1wQZFCm006bf9KipuifNPN) | 3:28 | 2020-08-17 |  |
 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 | 2019-06-27 |  |
+| [Tishomingo](https://open.spotify.com/track/1TsiwVwHhLgVK8sxBchINM) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:08 | 2023-01-04 |  |
 | [To Keep From Being Found](https://open.spotify.com/track/3mVi1J3WmWahOC5IHjP267) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [You Get It All](https://open.spotify.com/album/6OjJdNN6yUYwFhYXWV6TMT) | 3:15 | 2022-01-03 |  |
 | [Train Rollin'](https://open.spotify.com/track/3pQLrlyggdGfV9jQPCU0Zb) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Bad Luck Ain't No Crime](https://open.spotify.com/album/47E4mWqRTqSTgxX49hkGbb) | 4:08 | 2019-07-11 |  |
 | [Trouble About My Soul](https://open.spotify.com/track/1fWovgVlN08wWILfV41dMC) | [The Trishas](https://open.spotify.com/artist/4QM4r0qNvLsHzP5VbDKjfp) | [They Call Us The Trishas](https://open.spotify.com/album/2rFhGGBoUxpPUpmZ3Xg4HJ) | 3:35 | 2019-06-27 |  |

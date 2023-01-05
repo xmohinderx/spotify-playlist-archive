@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 253520,
       "name": "Am I Wrong (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/1UjyF6okUHhnVxaLV8ojsA"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 194222,
       "name": "Back on My Feet",
       "url": "https://open.spotify.com/track/3qnd4BIjwJtIwjhrAQOppE"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
@@ -359,6 +359,42 @@
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
+    },
+    {
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
+      },
+      "artists": [
+        {
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261773,
+      "name": "California",
+      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
+    },
+    {
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226186,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/1zlclNkERGFrCxznXOgkD3"
     },
     {
       "album": {
@@ -428,6 +464,24 @@
     },
     {
       "album": {
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+      },
+      "artists": [
+        {
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+    },
+    {
+      "album": {
         "name": "10 Tracks to Echo in the Dark",
         "url": "https://open.spotify.com/album/4aHwEq65yWoM0KQkaE1Dsv"
       },
@@ -439,7 +493,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 225733,
       "name": "Connection",
       "url": "https://open.spotify.com/track/6Q6aBwbKLh3SBbFiQce1YK"
@@ -594,6 +648,46 @@
     },
     {
       "album": {
+        "name": "Fails",
+        "url": "https://open.spotify.com/album/1dzvGtuUVKP0iMFdiLQI5s"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        },
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219975,
+      "name": "Fails",
+      "url": "https://open.spotify.com/track/12QZiplfufDnVSRBRQkYMk"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/7bV4wxsjlnAq7hJ4y4MTQm"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238465,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/3NMFWhIDAdDGX3xmXOxHyo"
+    },
+    {
+      "album": {
         "name": "Feels Right",
         "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
       },
@@ -663,6 +757,28 @@
       "duration_ms": 209466,
       "name": "Follow the Sun, Part. 1",
       "url": "https://open.spotify.com/track/2UaDUnwXdpDf3iQ1HZ8Hq7"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279773,
+      "name": "Fragments of Time (feat. Todd Edwards)",
+      "url": "https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn"
     },
     {
       "album": {
@@ -829,7 +945,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
@@ -1035,7 +1151,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 194493,
       "name": "La grenade",
       "url": "https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD"
@@ -1057,6 +1173,28 @@
       "duration_ms": 191813,
       "name": "Le sud",
       "url": "https://open.spotify.com/track/2vMGqqKHCtb6bizCVXb1IR"
+    },
+    {
+      "album": {
+        "name": "Aller-retour",
+        "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
+      },
+      "artists": [
+        {
+          "name": "Bon Entendeur",
+          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+        },
+        {
+          "name": "Isabelle Pierre",
+          "url": "https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203160,
+      "name": "Le temps est bon",
+      "url": "https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp"
     },
     {
       "album": {
@@ -1097,6 +1235,24 @@
       "duration_ms": 178973,
       "name": "Le temps passe - Rework",
       "url": "https://open.spotify.com/track/1chqd0JiDJrr7vW94erwO6"
+    },
+    {
+      "album": {
+        "name": "Parcels",
+        "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237227,
+      "name": "Lightenup",
+      "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki"
     },
     {
       "album": {
@@ -1285,7 +1441,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 202520,
       "name": "Nouveau Genre",
       "url": "https://open.spotify.com/track/0hLa19JP4bItkpyTjopqOb"
@@ -1303,10 +1459,28 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 233706,
       "name": "Nouvelle-Orl\u00e9ans",
       "url": "https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM"
+    },
+    {
+      "album": {
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "album": {
@@ -1509,7 +1683,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 216831,
       "name": "Rue",
       "url": "https://open.spotify.com/track/1NNu18S8YNfUlnDDfAWOzo"
@@ -1701,7 +1875,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 326646,
       "name": "The Emperor's Groove",
       "url": "https://open.spotify.com/track/1IyvzFu4ZVgjdlkOMEOwA3"
@@ -1763,6 +1937,28 @@
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "album": {
+        "name": "The Wanderings Of The Avener",
+        "url": "https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        },
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254160,
+      "name": "To Let Myself Go",
+      "url": "https://open.spotify.com/track/5ngEoEew3XmBNQO1cD9x2O"
     },
     {
       "album": {

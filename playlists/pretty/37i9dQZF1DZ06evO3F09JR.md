@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 904 likes - 25 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 906 likes - 25 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 24 | [Immediate Horizon 1](https://open.spotify.com/track/3FaAMSO4RytHjUQ2CKUprQ) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 4:59 |
 | 25 | [Baresi](https://open.spotify.com/track/3X0GKQRNLjVjNs3E5z695C) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Baresi](https://open.spotify.com/album/0sBNgCtkmhq1eC7RR3UQ1y) | 4:54 |
 
-Snapshot ID: `Mjc4NzkyNzUsMDAwMDAwMDAwY2QwMGNmNmRmNDk5NDM0MDg1Y2IwM2I4NTBiNmFkMg==`
+Snapshot ID: `Mjc4ODA3MzQsMDAwMDAwMDBlYWMyYzg0YWZmNTZiMjc0MTAxZWZkY2VkNzgzYmZkZQ==`

@@ -4,7 +4,7 @@
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-175 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/7G6kgkeeKc0MSS1Yr6hAro)
+176 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/7G6kgkeeKc0MSS1Yr6hAro)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [The Ghost of Wind](https://open.spotify.com/track/1aUP0tGSkpricoZtV5Goj7) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [Illusion](https://open.spotify.com/album/6p2lS1PUNUMMLRoce5Cg4V) | 3:31 | 2021-09-09 | 2022-11-14 |
 | [The Ghost of Wind](https://open.spotify.com/track/2xNxuMhDDuZEBAB4Oy6Ovd) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [CONTINUE](https://open.spotify.com/album/4yEKFbp7OPPYnKR9ILoG2Z) | 3:31 | 2021-09-09 | 2022-08-31 |
 | [The Ghost of Wind](https://open.spotify.com/track/46BXtEtAA4ScdKxy026cIY) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [CONTINUE](https://open.spotify.com/album/7xtsbErVzHdz8iZFCmtow8) | 3:31 | 2021-09-09 |  |
-| [This Love](https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567) | 3:40 | 2021-09-09 |  |
+| [This Love](https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567) | 3:40 | 2021-09-09 | 2023-01-05 |
+| [This Love](https://open.spotify.com/track/1tYpbWzCSZjWz6tZxVbyzC) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/4pZaGrn3Z8xiX6KQYkRRkU) | 3:40 | 2021-09-09 |  |
 | [To Be Continued](https://open.spotify.com/track/7L4fxoCYiWzFWepXU3yv9m) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B](https://open.spotify.com/album/7Jt6i57qFtmBUeXFLZrMFF) | 4:02 | 2021-09-09 |  |
 | [To My Boyfriend](https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 3:58 | 2021-09-09 |  |
 | [Twilight Zone](https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [LOVE \- The 3rd Album](https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR) | 3:46 | 2021-09-09 |  |

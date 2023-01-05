@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,249 likes - 29 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,250 likes - 29 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,6 +36,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 26 | [A\-OK](https://open.spotify.com/track/7fRmDecaHguRLdKIlccebL) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 2:43 |
 | 27 | [Paper Plane](https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:01 |
 | 28 | [Love Is A Heavy Word](https://open.spotify.com/track/2iWQrd8LABqESP9gC4jfYW) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:05 |
-| 29 | [Outsider](https://open.spotify.com/track/2kwh1mJLQ2BBUEdx4NoIWb) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:00 |
+| 29 | [Son Of Sam](https://open.spotify.com/track/3JJm5nPQDNItljLtyIrtGv) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:00 |
 
-Snapshot ID: `Mjc4NzkyNzUsMDAwMDAwMDBhMzdkMGRkZGEwYjliMDY2ZDhkYTYyMzdhN2I4OWE5MQ==`
+Snapshot ID: `Mjc4ODA3MzQsMDAwMDAwMDBkZGZkNTk3ZTE5ZjM0MjFmNzUyZjUwMDAwNGViNjY3OA==`

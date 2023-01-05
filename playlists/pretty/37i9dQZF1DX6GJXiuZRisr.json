@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1421602,
+  "num_followers": 1422175,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMDc2MjcxNmNkYzg3NDBmODgwMDliYTgzMWQ4MzhhMjk1",
+  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMGVhMjA0N2IyN2ZmNTExODk4NjEyNDBmMzg5YjFjNjll",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -617,6 +617,26 @@
       "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
     },
     {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+    },
+    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Power",
@@ -655,26 +675,6 @@
       "duration_ms": 332146,
       "name": "Beyond Control",
       "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1193,6 +1193,46 @@
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     },
     {
+      "added_at": "2023-01-05 01:22:35",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Burko",
+          "url": "https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ"
+        }
+      ],
+      "duration_ms": 189102,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Fibonacci",
+        "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 188483,
+      "name": "Fibonacci",
+      "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Origin",
@@ -1215,46 +1255,6 @@
       "duration_ms": 460780,
       "name": "Origin",
       "url": "https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Fibonacci",
-        "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 188483,
-      "name": "Fibonacci",
-      "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
-    },
-    {
-      "added_at": "2023-01-04 01:22:14",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
-      },
-      "artists": [
-        {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        },
-        {
-          "name": "Burko",
-          "url": "https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ"
-        }
-      ],
-      "duration_ms": 189102,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Club Vibes Part 02",
-        "url": "https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 470400,
-      "name": "Bumblebee",
-      "url": "https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab"
-    },
-    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Kensh\u014d",
@@ -1347,6 +1331,22 @@
       "duration_ms": 220161,
       "name": "Kensh\u014d",
       "url": "https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Club Vibes Part 02",
+        "url": "https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 470400,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Elamy",
-        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Elamy",
-      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "LINE IN THE SAND",
         "url": "https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 305078,
       "name": "LINE IN THE SAND",
       "url": "https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Elamy",
+        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Elamy",
+      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Strangers (with Mansionair) [Tinlicker Remix]",
         "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 329349,
       "name": "Strangers (with Mansionair) - Tinlicker Remix",
       "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "This Time / Ray",
-        "url": "https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO"
-      },
-      "artists": [
-        {
-          "name": "Avoure",
-          "url": "https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E"
-        }
-      ],
-      "duration_ms": 414646,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Annihilation",
         "url": "https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 247384,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "This Time / Ray",
+        "url": "https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO"
+      },
+      "artists": [
+        {
+          "name": "Avoure",
+          "url": "https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E"
+        }
+      ],
+      "duration_ms": 414646,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Gee",
-          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Feel Again, Pt. 1",
         "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
       },
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
@@ -1755,42 +1755,6 @@
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Follow You Anywhere",
-        "url": "https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 244982,
-      "name": "Follow You Anywhere",
-      "url": "https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Gamma",
-        "url": "https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 381254,
-      "name": "Gamma",
-      "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1831,6 +1795,42 @@
       "duration_ms": 480000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Gamma",
+        "url": "https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 381254,
+      "name": "Gamma",
+      "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Follow You Anywhere",
+        "url": "https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 244982,
+      "name": "Follow You Anywhere",
+      "url": "https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1889,6 +1889,26 @@
       "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
     },
     {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "My Stripes",
+        "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 267488,
+      "name": "My Stripes",
+      "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Atlas (Shall Ocin & Artbat Remix)",
@@ -1915,26 +1935,6 @@
       "duration_ms": 380952,
       "name": "Atlas - Shall Ocin & Artbat Remix",
       "url": "https://open.spotify.com/track/1CgZ0pKxdBB9trUYULmKSs"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "My Stripes",
-        "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 267488,
-      "name": "My Stripes",
-      "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
     },
     {
       "added_at": "2022-07-01 11:37:35",

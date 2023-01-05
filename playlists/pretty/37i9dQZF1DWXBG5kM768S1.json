@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 65052,
+  "num_followers": 65084,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY1OTEyMiwwMDAwMDAwMDNlZTY4NjhkNTFiYWU5YWQxNTdhZjc5ZjJiMjNmM2E1",
+  "snapshot_id": "MTY3MjY1OTEyMiwwMDAwMDAwMGQ2MWMzOWJmYjY0ZWViZGQ1ZGZlMzMxN2QxNGQyY2Rm",
   "tracks": [
     {
       "added_at": "2023-01-02 11:32:01",
@@ -311,6 +311,26 @@
     {
       "added_at": "2023-01-02 11:32:01",
       "album": {
+        "name": "Evig kvile",
+        "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 189239,
+      "name": "Evig kvile",
+      "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
+    },
+    {
+      "added_at": "2023-01-02 11:32:01",
+      "album": {
         "name": "Til deg (Single Version)",
         "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
       },
@@ -343,22 +363,6 @@
     {
       "added_at": "2023-01-02 11:32:01",
       "album": {
-        "name": "De N\u00e6re Ting",
-        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Olava",
-          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
-        }
-      ],
-      "duration_ms": 138412,
-      "name": "De N\u00e6re Ting",
-      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
-    },
-    {
-      "added_at": "2023-01-02 11:32:01",
-      "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
@@ -375,22 +379,18 @@
     {
       "added_at": "2023-01-02 11:32:01",
       "album": {
-        "name": "Evig kvile",
-        "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
+        "name": "De N\u00e6re Ting",
+        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
       "artists": [
         {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Ingrid Olava",
+          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
         }
       ],
-      "duration_ms": 189239,
-      "name": "Evig kvile",
-      "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
+      "duration_ms": 138412,
+      "name": "De N\u00e6re Ting",
+      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
     },
     {
       "added_at": "2023-01-02 11:32:01",
@@ -407,6 +407,26 @@
       "duration_ms": 253100,
       "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
       "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
+    },
+    {
+      "added_at": "2023-01-02 11:32:01",
+      "album": {
+        "name": "Skyfri Himmel",
+        "url": "https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "Skyfri Himmel",
+      "url": "https://open.spotify.com/track/6j6cVfhfaLYJMN25lpBqqS"
     },
     {
       "added_at": "2023-01-02 11:32:01",
@@ -631,22 +651,6 @@
     {
       "added_at": "2023-01-02 11:32:01",
       "album": {
-        "name": "Gutta P\u00e5 By`n",
-        "url": "https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF"
-      },
-      "artists": [
-        {
-          "name": "Terje Tysland",
-          "url": "https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7"
-        }
-      ],
-      "duration_ms": 350586,
-      "name": "Heile Livet",
-      "url": "https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr"
-    },
-    {
-      "added_at": "2023-01-02 11:32:01",
-      "album": {
         "name": "Det jeg vil ha (fra deg)",
         "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
       },
@@ -659,6 +663,22 @@
       "duration_ms": 203263,
       "name": "Det jeg vil ha (fra deg)",
       "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
+    },
+    {
+      "added_at": "2023-01-02 11:32:01",
+      "album": {
+        "name": "Gutta P\u00e5 By`n",
+        "url": "https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF"
+      },
+      "artists": [
+        {
+          "name": "Terje Tysland",
+          "url": "https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7"
+        }
+      ],
+      "duration_ms": 350586,
+      "name": "Heile Livet",
+      "url": "https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr"
     },
     {
       "added_at": "2023-01-02 11:32:01",
@@ -679,26 +699,6 @@
     {
       "added_at": "2023-01-02 11:32:01",
       "album": {
-        "name": "Skyfri Himmel",
-        "url": "https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK"
-      },
-      "artists": [
-        {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 212914,
-      "name": "Skyfri Himmel",
-      "url": "https://open.spotify.com/track/6j6cVfhfaLYJMN25lpBqqS"
-    },
-    {
-      "added_at": "2023-01-02 11:32:01",
-      "album": {
         "name": "Kr\u00e5keviks Songbok",
         "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 178760,
       "name": "Den Fyrste Song",
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
-    },
-    {
-      "added_at": "2023-01-02 11:32:01",
-      "album": {
-        "name": "N\u00e6rmere",
-        "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 288678,
-      "name": "Stilla",
-      "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
     },
     {
       "added_at": "2023-01-02 11:32:01",
@@ -791,6 +775,22 @@
       "duration_ms": 288078,
       "name": "God Natt Oslo",
       "url": "https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu"
+    },
+    {
+      "added_at": "2023-01-02 11:32:01",
+      "album": {
+        "name": "N\u00e6rmere",
+        "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 288678,
+      "name": "Stilla",
+      "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
     },
     {
       "added_at": "2023-01-02 11:32:01",

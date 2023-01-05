@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: d4vd
 
-335 songs - 17 hr 57 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+336 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,8 @@
 | [Tomorrow](https://open.spotify.com/track/7BKwEybys8ZWeYCMykvUrL) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Tomorrow](https://open.spotify.com/album/77Xaj1yittcrI9g7PWbXxq) | 2:08 | 2021-09-08 | 2022-08-08 |
 | [Trapped](https://open.spotify.com/track/4M9W9hA3xsQ50u38FbxZQw) | [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Trapped](https://open.spotify.com/album/0UQyxptHOrJZxKoQCpX7jY) | 4:04 | 2021-02-26 | 2022-07-28 |
 | [Trash](https://open.spotify.com/track/7oYHTyfe6jzw2AW0YxzTSg) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [bops etc.](https://open.spotify.com/album/2R6cJKQJJh13mGJjcnUXKh) | 3:13 | 2020-10-27\* | 2020-12-11 |
-| [u dont kno me](https://open.spotify.com/track/1jbbnDJ54AGBRswmNm5PAw) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [u dont kno me](https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp) | 3:59 | 2022-03-17 |  |
+| [u dont kno me](https://open.spotify.com/track/1jbbnDJ54AGBRswmNm5PAw) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [u dont kno me](https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp) | 3:59 | 2022-03-17 | 2023-01-05 |
+| [u dont kno me](https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:59 | 2022-09-13 |  |
 | [Under The Sea](https://open.spotify.com/track/7nUGcGf4JiQ1e8Xbsx8DTn) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Under The Sea](https://open.spotify.com/album/7FM6V8sCl1tH7nKyPOo1TR) | 3:59 | 2021-09-17 | 2022-07-29 |
 | [underground pleasure](https://open.spotify.com/track/3qcth5GYMyx9DhMEGKN98f) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [underground pleasure](https://open.spotify.com/album/5IoGXR8bkNSvbYnLsT6iqp) | 4:04 | 2022-03-30 | 2022-07-29 |
 | [Up in the Air](https://open.spotify.com/track/2rZ1YtyTsdZ5gQbJeOEsa1) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Up in the Air](https://open.spotify.com/album/4Z57NxZ40kf21wK1rgradb) | 2:18 | 2020-10-27\* | 2022-07-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Listen to women at full volume\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,753 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,239 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,25 +26,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [PANIK](https://open.spotify.com/track/7JDZYzLx19WN1BHbxjLeEZ) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5), [KAAS](https://open.spotify.com/artist/6Rej5jPj4nu1O8hW04Iffk) | [PANIK](https://open.spotify.com/album/6QN8IJaxfKDuMW6Dg7N1uc) | 3:23 |
 | 17 | [Das Boot](https://open.spotify.com/track/2YP18lfXcEXfG5njrDPkCb) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Das Boot \(Edit\)](https://open.spotify.com/album/4pCoSZ7zRvJEtZc2FoHuir) | 6:04 |
 | 18 | [Instabil](https://open.spotify.com/track/287EfmsRlLBJWpdMc0gKVH) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Instabil](https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl) | 2:34 |
-| 19 | [Wenn du's eh nicht tust](https://open.spotify.com/track/4KwLkmnOQPpoVpD7dIyvUS) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [Wenn du's eh nicht tust](https://open.spotify.com/album/2JCd96fTDAgCtHF9F7GCLZ) | 2:46 |
+| 19 | [Wer bist du?](https://open.spotify.com/track/3gissJWkvQ4DvGy5eAB6Fu) | [Celo Minati](https://open.spotify.com/artist/21VV9fUe6whK3Zo2BPoHnd) | [Wer bist du?](https://open.spotify.com/album/5Kd64BNr7TYPBpyuoz4l0D) | 2:35 |
 | 20 | [Deep Gone Far](https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [So Us Vol\. 1](https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb) | 6:12 |
-| 21 | [Wer bist du?](https://open.spotify.com/track/3gissJWkvQ4DvGy5eAB6Fu) | [Celo Minati](https://open.spotify.com/artist/21VV9fUe6whK3Zo2BPoHnd) | [Wer bist du?](https://open.spotify.com/album/5Kd64BNr7TYPBpyuoz4l0D) | 2:35 |
-| 22 | [schön naiv :\)](https://open.spotify.com/track/2ykcuqXjl9bg3ouHsfeISI) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [schön naiv :\)](https://open.spotify.com/album/38apSHIt2ShQsodAhOAzP7) | 2:28 |
-| 23 | [Junge](https://open.spotify.com/track/6QmuVe9sMixiRdizHHHau3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Junge](https://open.spotify.com/album/423IoNr4MW1JOAoEIfcR5E) | 3:47 |
+| 21 | [Wenn du's eh nicht tust](https://open.spotify.com/track/4KwLkmnOQPpoVpD7dIyvUS) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [Wenn du's eh nicht tust](https://open.spotify.com/album/2JCd96fTDAgCtHF9F7GCLZ) | 2:46 |
+| 22 | [Junge](https://open.spotify.com/track/6QmuVe9sMixiRdizHHHau3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Junge](https://open.spotify.com/album/423IoNr4MW1JOAoEIfcR5E) | 3:47 |
+| 23 | [schön naiv :\)](https://open.spotify.com/track/2ykcuqXjl9bg3ouHsfeISI) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [schön naiv :\)](https://open.spotify.com/album/38apSHIt2ShQsodAhOAzP7) | 2:28 |
 | 24 | [Drifting](https://open.spotify.com/track/2U7qb2oA4zNbZzF38rIo1N) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Drifting](https://open.spotify.com/album/0jOcIRZgPTfDN5C7QKmGUJ) | 3:17 |
-| 25 | [ANAÏS](https://open.spotify.com/track/6LC6M6folYwLqgQdrlHD8m) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [44+2](https://open.spotify.com/album/3fHqiz6XNIYKHKLsl7KykP) | 2:54 |
+| 25 | [Let's Call It Love](https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR) | 2:20 |
 | 26 | [Orbit](https://open.spotify.com/track/4PxQHJIwiEdv4TcbbBVVA4) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Orbit](https://open.spotify.com/album/2BZEHGpfu87EtripSXOvul) | 5:45 |
-| 27 | [Let's Call It Love](https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR) | 2:20 |
+| 27 | [ANAÏS](https://open.spotify.com/track/6LC6M6folYwLqgQdrlHD8m) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [44+2](https://open.spotify.com/album/3fHqiz6XNIYKHKLsl7KykP) | 2:54 |
 | 28 | [Aber bei dir](https://open.spotify.com/track/4V2aSXReInkNhS1gmSezYa) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Aber bei dir](https://open.spotify.com/album/4WU5TVzfP7bP8ZtzPubJMa) | 2:26 |
 | 29 | [I'm The Wind](https://open.spotify.com/track/0y1kDv9jGWDQqO6aqdmuqC) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [I'm The Wind](https://open.spotify.com/album/53DVeAZQxMJY5j6r7jGuRJ) | 4:06 |
 | 30 | [Pornos im Bett](https://open.spotify.com/track/178BthjruJHLNQ5CxIrThx) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Pornos im Bett](https://open.spotify.com/album/2weTrhDqRtdQODZ6z4bDVd) | 3:47 |
 | 31 | [Utopia](https://open.spotify.com/track/4202xIEzuXea2CqyZMaz2F) | [Power Plush](https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn) | [Utopia](https://open.spotify.com/album/2IrRVfGOPj1pDEhwvu4hYV) | 3:32 |
 | 32 | [Bowie in Harmony](https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 6:22 |
 | 33 | [Analog Girl in a Digital World](https://open.spotify.com/track/6X8aDvIO7W9HAIguFwudes) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Analog Girl in a Digital World](https://open.spotify.com/album/1ZQa3tm2ZtyZ4Eu9O7T5R4) | 6:15 |
-| 34 | [Lima](https://open.spotify.com/track/7GtRGZmitPBbHFZVrDHqi7) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Watergate 20 Years \(Pt\. 1/8\)](https://open.spotify.com/album/0ChBYkZ5b2rZWVrlLolWg5) | 6:56 |
-| 35 | [gold junge](https://open.spotify.com/track/7hULHmycFmInX4qSucxMNd) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [gold junge](https://open.spotify.com/album/0C4SR1CjMjx4X3HWbi4A1D) | 3:12 |
-| 36 | [15 Years](https://open.spotify.com/track/5XfhFRT2iIXD9zhjiOoau7) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [15 Years](https://open.spotify.com/album/1r2fWcGwEVYuU9GOvv2BHJ) | 3:18 |
-| 37 | [Rummelplatz](https://open.spotify.com/track/5KfbjvEXuvJh5d5gXnbTUG) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Komet](https://open.spotify.com/album/1TZkquO0U0wdcUDGACsOHV) | 3:14 |
+| 34 | [gold junge](https://open.spotify.com/track/7hULHmycFmInX4qSucxMNd) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [gold junge](https://open.spotify.com/album/0C4SR1CjMjx4X3HWbi4A1D) | 3:12 |
+| 35 | [Lima](https://open.spotify.com/track/7GtRGZmitPBbHFZVrDHqi7) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Watergate 20 Years \(Pt\. 1/8\)](https://open.spotify.com/album/0ChBYkZ5b2rZWVrlLolWg5) | 6:56 |
+| 36 | [Rummelplatz](https://open.spotify.com/track/5KfbjvEXuvJh5d5gXnbTUG) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Komet](https://open.spotify.com/album/1TZkquO0U0wdcUDGACsOHV) | 3:14 |
+| 37 | [15 Years](https://open.spotify.com/track/5XfhFRT2iIXD9zhjiOoau7) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [15 Years](https://open.spotify.com/album/1r2fWcGwEVYuU9GOvv2BHJ) | 3:18 |
 | 38 | [Drip Drop](https://open.spotify.com/track/4VsimJYHOXf0jd9TGPgzJK) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Drip Drop](https://open.spotify.com/album/7vr2wN6tmohuaGTQ2mOBtX) | 3:11 |
 | 39 | [BIBÄ](https://open.spotify.com/track/0FA6uGF0V1GCBFsM7c6esF) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6) | [BIBÄ](https://open.spotify.com/album/2HYT3G8SfdGHqIsXOvpbM2) | 2:41 |
 | 40 | [Bye Lovely](https://open.spotify.com/track/2u1JxNgy2RhnOqpkZxoE8q) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [Bye Lovely](https://open.spotify.com/album/2ItSFP2Ga9I3u4u5s1heaa) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Gnxta Love](https://open.spotify.com/track/6ZiepO0OmSYOEI6WRhuw5K) | [Dimi Rompos](https://open.spotify.com/artist/6qPNkgCHtyhe6Q2mqqH4pL) | [Gnxta Love](https://open.spotify.com/album/2sx1blo3dHoC3itrX3yBxD) | 3:07 |
 | 50 | [Villain \- Live Version](https://open.spotify.com/track/6FXyKhbMs5lEnoBgGiq8bY) | [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Villain \(Live Version\)](https://open.spotify.com/album/229KTGQ0nvTlk2Apx2sGkB) | 5:14 |
 
-Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMGQxZTMyZGJmNTlhZjAwMDZiYTE3MWQwODRiMGIwODI3`
+Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMDUyN2IyNzBlYjJhMDg0YzA3ZDVkNTQxZmI1YTVlNjlm`

@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Oxlade, Camila Cabello\n",
-  "num_followers": 102115,
+  "num_followers": 102142,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDkzNDdjZTM5MzBmYWMxMGUyNzRlNjM3YmI2MDY2OTI3",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDY4MDk0MDc3M2ZiNTNhYWMxMjI0ZmUxOWM1M2ExNWIx",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-12-08 01:11:58",
       "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sabi na Sabura",
+      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
+    },
+    {
+      "added_at": "2022-12-08 01:11:58",
+      "album": {
         "name": "Vamos com tudo",
         "url": "https://open.spotify.com/album/7zKyAGw6YQERUqQ0VRWKa2"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 245414,
       "name": "Vamos com tudo",
       "url": "https://open.spotify.com/track/74PgANamgS7BiWb1DoV6nz"
-    },
-    {
-      "added_at": "2022-12-08 01:11:58",
-      "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sabi na Sabura",
-      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
     },
     {
       "added_at": "2022-12-08 01:11:58",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2022-12-08 01:11:58",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb"
-      },
-      "artists": [
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Ayo Jay",
-          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5"
-    },
-    {
-      "added_at": "2022-12-08 01:11:58",
-      "album": {
         "name": "Se Fue",
         "url": "https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj"
       },
@@ -1159,6 +1139,46 @@
     {
       "added_at": "2022-12-08 01:11:58",
       "album": {
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Ayo Jay",
+          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5"
+    },
+    {
+      "added_at": "2022-12-08 01:11:58",
+      "album": {
+        "name": "Toko Challenge",
+        "url": "https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        },
+        {
+          "name": "Kreatunez",
+          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
+        }
+      ],
+      "duration_ms": 98772,
+      "name": "Toko Challenge",
+      "url": "https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU"
+    },
+    {
+      "added_at": "2022-12-08 01:11:58",
+      "album": {
         "name": "Rover (feat. Piso 21)",
         "url": "https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 211250,
       "name": "Rover (feat. Piso 21)",
       "url": "https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij"
-    },
-    {
-      "added_at": "2022-12-08 01:11:58",
-      "album": {
-        "name": "Zimenice",
-        "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
-      },
-      "artists": [
-        {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
-        },
-        {
-          "name": "Tezzla",
-          "url": "https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Zimenice",
-      "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
     },
     {
       "added_at": "2022-12-08 01:11:58",
@@ -1223,22 +1223,22 @@
     {
       "added_at": "2022-12-08 01:11:58",
       "album": {
-        "name": "Toko Challenge",
-        "url": "https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0"
+        "name": "Zimenice",
+        "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
       },
       "artists": [
         {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
         },
         {
-          "name": "Kreatunez",
-          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
+          "name": "Tezzla",
+          "url": "https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3"
         }
       ],
-      "duration_ms": 98772,
-      "name": "Toko Challenge",
-      "url": "https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU"
+      "duration_ms": 212307,
+      "name": "Zimenice",
+      "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
     },
     {
       "added_at": "2022-12-08 01:11:58",

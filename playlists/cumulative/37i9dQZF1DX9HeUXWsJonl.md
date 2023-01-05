@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-118 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+119 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Tomorrow](https://open.spotify.com/track/4wzFYKgyMtU8KDl8d7N1Ry) | [Naqqa](https://open.spotify.com/artist/65D6dxtE0d7MoKoJfxOEyH), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [Tomorrow](https://open.spotify.com/album/1BNLeUBIAYE6dPAKjKV21M) | 4:03 | 2022-11-29 |  |
 | [Tunisie](https://open.spotify.com/track/1fj8TuCYneYtKsVmIJG4N6) | [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Tunisie](https://open.spotify.com/album/6Ru27IhNy926jX1r4dpa0G) | 3:36 | 2022-11-09 | 2022-11-25 |
 | [Vanille](https://open.spotify.com/track/4lrsCXwghvihHzjYKrB2uY) | [Lady Miro](https://open.spotify.com/artist/3xCulAs0FwT4sByJ8UVpjb), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Vanille](https://open.spotify.com/album/4JKKfV15KUKpoEGathW7np) | 2:27 | 2021-12-10 | 2022-02-26 |
+| [Wa7di](https://open.spotify.com/track/1Kcd7hb4w18W1VVDLkt5Kn) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Wa7di](https://open.spotify.com/album/2CiqwTgfyqPgK7bmSfCK0i) | 3:06 | 2023-01-04 |  |
 | [Wakti Yejri](https://open.spotify.com/track/2rdBSVBD6xMJOmCNrGniSr) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wakti Yejri](https://open.spotify.com/album/7smElBnJjgj4vptmJx5OXo) | 3:08 | 2021-12-10 |  |
 | [Watani](https://open.spotify.com/track/6CSz8qjGxCVq2Effqj70n0) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Watani](https://open.spotify.com/album/1AnLeUdRBSPUey9nVMsJYU) | 1:56 | 2022-12-21 |  |
 | [Wino El Hob](https://open.spotify.com/track/1a2bhHy2PRVTnD5UePaM4N) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Melly](https://open.spotify.com/artist/25AY4L2c6L9B9Eq9GY5d5b) | [Wino El Hob](https://open.spotify.com/album/11D9TxsVmFM1SAiFl1w2Ql) | 6:13 | 2022-02-28 | 2022-05-31 |

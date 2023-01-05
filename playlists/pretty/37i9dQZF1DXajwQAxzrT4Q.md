@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Hand\-curated by DJ Sliink for New Year's Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,916 likes - 47 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,076 likes - 47 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

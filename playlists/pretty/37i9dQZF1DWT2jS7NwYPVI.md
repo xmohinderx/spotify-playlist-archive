@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Liily
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,253 likes - 126 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,939 likes - 126 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 114 | [They Didn't Tell Me](https://open.spotify.com/track/7wRHH6WDyepwgp1V5eUQZ2) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [They Didn't Tell Me](https://open.spotify.com/album/1mzmRMtV2w8q3XethBi76O) | 3:04 |
 | 115 | [where it hurts](https://open.spotify.com/track/0Urndz2PFBk2hKeNE2AaFG) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [where it hurts](https://open.spotify.com/album/2CIDy2z0HdyriD2b6tCIl2) | 2:34 |
 | 116 | [Graves](https://open.spotify.com/track/23HI6qQo4xPqlv61Ewr08E) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG) | [Graves](https://open.spotify.com/album/2fB7BfvZNouIumHH8GAZcD) | 2:47 |
-| 117 | [Let It Sink](https://open.spotify.com/track/3oRrq1fkzb2aCznN0269mL) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Everything Is Closer Than It Seems](https://open.spotify.com/album/6O3ixSA4lGzIMR0qELaEFf) | 3:02 |
+| 117 | [Let It Sink](https://open.spotify.com/track/6JiZWNx3vkY1FXEbxJpudk) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Everything Is Closer Than It Seems](https://open.spotify.com/album/6AKctSjeMPlLSFjcDe7dF1) | 3:02 |
 | 118 | [I Don't Wanna Live Like This](https://open.spotify.com/track/1srAm9ubDjmaNkACrQKtdN) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [The Consequence Of Being Alive](https://open.spotify.com/album/18lesZi0aFfIUMClfCK1l7) | 2:57 |
 | 119 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 |
 | 120 | [They Only Love You When You're Dead](https://open.spotify.com/track/0dLITEw0amfRF87feCqrQS) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP) | [They Only Love You When You're Dead](https://open.spotify.com/album/5g364f47vu4CAoY5dRrNbx) | 2:42 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [BURN THE WITCH](https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:22 |
 | 126 | [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDlmMjc3ZGU1ZmJmYWQxZGE4ZGQ4ZTdhMzE1MjExMTVk`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDVhM2JkYWE0NDQwMDljNGVkOWI2NDgxZTY4MjBlMDZj`

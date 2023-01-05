@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Duquesa",
-  "num_followers": 156285,
+  "num_followers": 156331,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTI2MCwwMDAwMDAwMDg3MzI3ZTk1MDZkZGExZWJhYzkzYzRiNzNjY2Y1MzVk",
+  "snapshot_id": "MTY3MjM2OTI2MCwwMDAwMDAwMDhmNmFiYWUwZDdkOGU1ZDM1ZjQ4ZGRjODhhZTM4ZGMy",
   "tracks": [
     {
       "added_at": "2022-12-30 03:01:00",
@@ -555,6 +555,46 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
+        "name": "Liga\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
+      },
+      "artists": [
+        {
+          "name": "Meraki",
+          "url": "https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs"
+        },
+        {
+          "name": "BlakkLan\u00e7a",
+          "url": "https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo"
+        },
+        {
+          "name": "BlakkStar",
+          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
+        }
+      ],
+      "duration_ms": 209389,
+      "name": "Liga\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
+      },
+      "artists": [
+        {
+          "name": "Fanieh",
+          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+        }
+      ],
+      "duration_ms": 184489,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
       },
@@ -579,46 +619,6 @@
       "duration_ms": 204937,
       "name": "Volta",
       "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
-      },
-      "artists": [
-        {
-          "name": "Fanieh",
-          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
-        }
-      ],
-      "duration_ms": 184489,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "Liga\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
-      },
-      "artists": [
-        {
-          "name": "Meraki",
-          "url": "https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs"
-        },
-        {
-          "name": "BlakkLan\u00e7a",
-          "url": "https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo"
-        },
-        {
-          "name": "BlakkStar",
-          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
-        }
-      ],
-      "duration_ms": 209389,
-      "name": "Liga\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -739,30 +739,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "Correria",
         "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 167108,
       "name": "Contraponto",
       "url": "https://open.spotify.com/track/02Uf0sZHNFPxcOZ8pF3EJW"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
         "name": "Pontas Soltas",
         "url": "https://open.spotify.com/album/1WQgU6bnnSvV0KtkxHu2bQ"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 192000,
       "name": "Pontas Soltas",
       "url": "https://open.spotify.com/track/7ESVKGM7Vql3SGqejbJ3DQ"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "O Que Eu Soul (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
-      },
-      "artists": [
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        }
-      ],
-      "duration_ms": 199625,
-      "name": "O Que Eu Soul - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "Real (Citando Djonga)",
         "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 205480,
       "name": "Real (Citando Djonga)",
       "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "O Que Eu Soul (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
+      },
+      "artists": [
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        }
+      ],
+      "duration_ms": 199625,
+      "name": "O Que Eu Soul - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1127,6 +1127,30 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
+        "name": "Seu Bem",
+        "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
+      },
+      "artists": [
+        {
+          "name": "LEXY",
+          "url": "https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd"
+        },
+        {
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+        },
+        {
+          "name": "RZ",
+          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Seu Bem",
+      "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
         "name": "Tudo Que Restou",
         "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
       },
@@ -1151,30 +1175,6 @@
       "duration_ms": 198712,
       "name": "Tudo Que Restou",
       "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "Seu Bem",
-        "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
-      },
-      "artists": [
-        {
-          "name": "LEXY",
-          "url": "https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd"
-        },
-        {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
-        },
-        {
-          "name": "RZ",
-          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Seu Bem",
-      "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "Sobrenome",
         "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
       },
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
         "name": "Inten\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3GtRC63GLxKHEq2o7j95A8"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 199655,
       "name": "Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "1001 Motivos",
-        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Black",
-          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
-        }
-      ],
-      "duration_ms": 163201,
-      "name": "1001 Motivos",
-      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
+        "name": "1001 Motivos",
+        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Black",
+          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
+        }
+      ],
+      "duration_ms": 163201,
+      "name": "1001 Motivos",
+      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
         "name": "V\u00edcio",
         "url": "https://open.spotify.com/album/1Xc3wQDbAv60BjFIcUoy59"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 133565,
       "name": "inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0skj9KDlD6sFf7RB8SgWB4"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "10%",
+        "url": "https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O"
+      },
+      "artists": [
+        {
+          "name": "Camaleoa",
+          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1391,22 +1407,6 @@
       "duration_ms": 160932,
       "name": "Melhor Ficar Sozinho",
       "url": "https://open.spotify.com/track/4vtzVyzc2pdw5vdg5nA5bn"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "10%",
-        "url": "https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O"
-      },
-      "artists": [
-        {
-          "name": "Camaleoa",
-          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz"
     },
     {
       "added_at": "2022-12-30 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 165853,
+  "num_followers": 165910,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDVjZjhiYzVlMzc1NDA4YTNiNTMwZTk3MmNkNGQ0Nzc0",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGU3ZjMyODg2MDNkMDA0ZWM4MjRmMzI5YmY4ODUzN2M5",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -827,26 +827,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Make It",
-        "url": "https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST"
-      },
-      "artists": [
-        {
-          "name": "Josiah Russell",
-          "url": "https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL"
-        },
-        {
-          "name": "Mod G",
-          "url": "https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Make It",
-      "url": "https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Amidst",
         "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 240500,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Make It",
+        "url": "https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST"
+      },
+      "artists": [
+        {
+          "name": "Josiah Russell",
+          "url": "https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL"
+        },
+        {
+          "name": "Mod G",
+          "url": "https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1087,22 +1087,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "NO WORRIES",
-        "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
       },
       "artists": [
         {
-          "name": "RED Hands",
-          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
         },
         {
-          "name": "Jermaine Dolly",
-          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
         }
       ],
-      "duration_ms": 212615,
-      "name": "NO WORRIES",
-      "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
+      "duration_ms": 198095,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1131,22 +1131,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+        "name": "NO WORRIES",
+        "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
       },
       "artists": [
         {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+          "name": "RED Hands",
+          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
         },
         {
-          "name": "KDNS",
-          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+          "name": "Jermaine Dolly",
+          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+      "duration_ms": 212615,
+      "name": "NO WORRIES",
+      "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Lean on the Lord",
-        "url": "https://open.spotify.com/album/4Q2apaYoaJfqEz0aFep7xl"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 214903,
-      "name": "Lean on the Lord",
-      "url": "https://open.spotify.com/track/1YEShExhORN9sq3CmGMDJ3"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "What Would I Gain?",
         "url": "https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 234000,
       "name": "What Would I Gain?",
       "url": "https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Lean on the Lord",
+        "url": "https://open.spotify.com/album/4Q2apaYoaJfqEz0aFep7xl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 214903,
+      "name": "Lean on the Lord",
+      "url": "https://open.spotify.com/track/1YEShExhORN9sq3CmGMDJ3"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "New Wine Flow",
+        "url": "https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 209164,
+      "name": "New Wine Flow",
+      "url": "https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "The Vow",
         "url": "https://open.spotify.com/album/2OPCQY600rzqGexiKDBMdE"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 162500,
       "name": "Motive",
       "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "New Wine Flow",
-        "url": "https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 209164,
-      "name": "New Wine Flow",
-      "url": "https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Downswell",
+          "url": "https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4"
+        }
+      ],
+      "duration_ms": 255579,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Come and Be My Love",
         "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 162580,
       "name": "Come and Be My Love",
       "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS"
-      },
-      "artists": [
-        {
-          "name": "Kevin Downswell",
-          "url": "https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4"
-        }
-      ],
-      "duration_ms": 255579,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
     },
     {
       "added_at": "2022-07-17 05:38:31",

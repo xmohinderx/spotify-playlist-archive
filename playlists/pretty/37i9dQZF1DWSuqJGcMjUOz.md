@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La playlist officielle de l’édition 2022 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,082 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,084 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 40 | [JOSÉPHINE](https://open.spotify.com/track/7pO4njBJfhBX5ASbLQJMAg) | [Mathieu Bérubé](https://open.spotify.com/artist/6lfzvgfMymMyANi1Y2HF4S) | [COUCOU](https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe) | 3:58 |
 | 41 | [Tu trembleras encore](https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:21 |
 | 42 | [+ La vie](https://open.spotify.com/track/7cGLbzrQw1Rxo0ZX9hOXiO) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Encore + pour de vrai](https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy) | 3:49 |
-| 43 | [Solo](https://open.spotify.com/track/5cpDLg5bLr2vr0kOqGh0pY) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [SOLO](https://open.spotify.com/album/2RbXCIXpKTzIqZj4Sxfjsk) | 2:32 |
-| 44 | [La lumineuse](https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [La lumineuse](https://open.spotify.com/album/0mW7rqJgg8r3BfjOwwAavP) | 3:08 |
+| 43 | [La lumineuse](https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [La lumineuse](https://open.spotify.com/album/0mW7rqJgg8r3BfjOwwAavP) | 3:08 |
+| 44 | [Solo](https://open.spotify.com/track/5cpDLg5bLr2vr0kOqGh0pY) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [SOLO](https://open.spotify.com/album/2RbXCIXpKTzIqZj4Sxfjsk) | 2:32 |
 | 45 | [Les amants de Pompéi](https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:49 |
 | 46 | [Hédoniste](https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hédoniste](https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3) | 3:19 |
 | 47 | [Soirs de Scotch](https://open.spotify.com/track/38PausDDlmKd6jwriKyiyF) | [Luce Dufault](https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v) | [Luce Dufault](https://open.spotify.com/album/0CSO0Cq6hGT5KbqNKhZZP5) | 3:33 |
@@ -74,15 +74,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 64 | [Mwen Pare](https://open.spotify.com/track/17dbXxphEFaswso4XiWMNQ) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [Mwen Pare](https://open.spotify.com/album/6fr77G7A7FxNRCu7UoY56g) | 4:54 |
 | 65 | [Amène\-toi chez nous](https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG) | [Jacques Michel](https://open.spotify.com/artist/7MBV7HWVAY9naGIoBnJTAv) | [Citoyen d'Amérique](https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas) | 2:26 |
 | 66 | [Sans tomber](https://open.spotify.com/track/1x5FMvzOMCa01427pWXwdK) | [Melissa Ouimet](https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth) | [Sans tomber](https://open.spotify.com/album/5FG0BYcqY6AVU2FyRH7xkH) | 2:09 |
-| 67 | [Porcelaine](https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:22 |
-| 68 | [Les fleurs d’une autre dimension](https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [L'heure mauve](https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL) | 3:23 |
+| 67 | [Les fleurs d’une autre dimension](https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [L'heure mauve](https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL) | 3:23 |
+| 68 | [Porcelaine](https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:22 |
 | 69 | [Le souhait de Carmen](https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Haute Mère](https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt) | 4:44 |
 | 70 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 |
 | 71 | [Alaska](https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [SITKA](https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP) | 3:38 |
-| 72 | [Concorde](https://open.spotify.com/track/3orSSi6T6c7Uxitep6TdVw) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Concorde](https://open.spotify.com/album/3BzcxXzgfZD3FAIx5c3s3U) | 4:01 |
-| 73 | [La grande évasion](https://open.spotify.com/track/2aA0QjPKz8BDUHx2JTUVjp) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Grand voyage désorganisé](https://open.spotify.com/album/1rLmRNRjmGvzDk1rGGKUET) | 2:35 |
-| 74 | [Oublie pas](https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s) | 4:57 |
-| 75 | [Si je pleure](https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg) | 3:45 |
+| 72 | [Oublie pas](https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s) | 4:57 |
+| 73 | [Si je pleure](https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg) | 3:45 |
+| 74 | [Concorde](https://open.spotify.com/track/3orSSi6T6c7Uxitep6TdVw) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Concorde](https://open.spotify.com/album/3BzcxXzgfZD3FAIx5c3s3U) | 4:01 |
+| 75 | [La grande évasion](https://open.spotify.com/track/2aA0QjPKz8BDUHx2JTUVjp) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Grand voyage désorganisé](https://open.spotify.com/album/1rLmRNRjmGvzDk1rGGKUET) | 2:35 |
 | 76 | [Insensible](https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:27 |
 | 77 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 |
 | 78 | [Masque d'or](https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Avec les yeux](https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH) | 3:31 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 87 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [Comment Debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 |
 | 88 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 |
 | 89 | [J'espère](https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Airs païens](https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD) | 2:29 |
-| 90 | [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 |
-| 91 | [Arrête de danser](https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte un](https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC) | 2:49 |
+| 90 | [Arrête de danser](https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte un](https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC) | 2:49 |
+| 91 | [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 |
 | 92 | [La Presse \(Baby Girl\)](https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Bienvenue à Baveuse City](https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC) | 2:55 |
 | 93 | [Je me souviens](https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6) | [Je me souviens](https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso) | 3:09 |
 | 94 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 96 | [Nouveau monde](https://open.spotify.com/track/0OSJ5W0WTd6zfUn3fi2zFt) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Encre rose](https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2) | 3:24 |
 | 97 | [Je t’aime](https://open.spotify.com/track/4qywUTrv0kO4e5Gr8rvZbE) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Fauve](https://open.spotify.com/album/4Mvoq66t7irGEQ77MV6RM1) | 4:13 |
 | 98 | [Sexy](https://open.spotify.com/track/7F1EI4ZSFNOXm1jVl1clsE) | [Gab Paquet](https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp) | [La Force d'Éros](https://open.spotify.com/album/5a26SnsK7DduKfPoK3Xy3U) | 3:32 |
-| 99 | [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 |
-| 100 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
+| 99 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
+| 100 | [Vilipendés](https://open.spotify.com/track/5ftHDkocMB6m7yPLiZy4c7) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Poupée Russe](https://open.spotify.com/album/5tY1P4kKvOPwipS8q0jbCD) | 3:12 |
 
-Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMDBkZTZkYThlYzczYmIyMWJlYThjZGZmODAwM2Q2ZWQ1`
+Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMDk0NGJmODcyZjBlZjAxMjQ4ZTUyOTVhOTE5Y2Y5MThk`

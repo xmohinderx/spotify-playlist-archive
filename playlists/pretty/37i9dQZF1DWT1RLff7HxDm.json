@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 146571,
+  "num_followers": 146632,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDg4ZTExZGNmNjJhMDFhOGZlZGU0YjBlYWJlOGFkMTU0",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDJjM2QxYzg0NGYwMzg0NGIzN2E4MTJiODU4ZTEwZDc3",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -789,20 +789,20 @@
       "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
+      "added_at": "2022-02-04 17:00:00",
       "album": {
-        "name": "Live 2014 (Nighttrain To Budapest Farewell Tour)",
-        "url": "https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3"
+        "name": "Mississippi Nights (Live)",
+        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
       },
       "artists": [
         {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
         }
       ],
-      "duration_ms": 368213,
-      "name": "A Better Man",
-      "url": "https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow"
+      "duration_ms": 300929,
+      "name": "Mississippi Nights - Live",
+      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
     },
     {
       "added_at": "2020-11-20 05:01:00",
@@ -821,20 +821,20 @@
       "url": "https://open.spotify.com/track/3rBYc8dlONJSWY6gJ3fUwQ"
     },
     {
-      "added_at": "2022-02-04 17:00:00",
+      "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Mississippi Nights (Live)",
-        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
+        "name": "Live 2014 (Nighttrain To Budapest Farewell Tour)",
+        "url": "https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3"
       },
       "artists": [
         {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
         }
       ],
-      "duration_ms": 300929,
-      "name": "Mississippi Nights - Live",
-      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
+      "duration_ms": 368213,
+      "name": "A Better Man",
+      "url": "https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -925,6 +925,22 @@
       "url": "https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl"
     },
     {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Blues Caravan Live 2018",
+        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 275033,
+      "name": "Keep Coming Back - Live",
+      "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Dyin' To Know (Live)",
@@ -955,22 +971,6 @@
       "duration_ms": 298777,
       "name": "Night Train - Live",
       "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Blues Caravan Live 2018",
-        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 275033,
-      "name": "Keep Coming Back - Live",
-      "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
     },
     {
       "added_at": "2020-10-30 17:47:12",

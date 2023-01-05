@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3C64V048fGyQfCjmu9TIGA.md) - cumulative - [plain](/playlists/plain/3C64V048fGyQfCjmu9TIGA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3C64V048fGyQfCjmu9TIGA)
 
-### [90s Smash Hits](https://open.spotify.com/playlist/3C64V048fGyQfCjmu9TIGA)
+### [90s Smash Hits \| Love Songs](https://open.spotify.com/playlist/3C64V048fGyQfCjmu9TIGA)
 
 > As if! Your favorite 1990s throwbacks, including “Say My Name”, “Bye Bye Bye”, “…Baby One More Time” and more.
 

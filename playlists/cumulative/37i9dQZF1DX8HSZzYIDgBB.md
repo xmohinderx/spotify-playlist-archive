@@ -4,10 +4,11 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Mula en portada.
 
-201 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+202 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [12:21](https://open.spotify.com/track/1mSqoJ7bLK8sj3yMMQg9Kr) | [Cruz Del Monte](https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs) | [12:21](https://open.spotify.com/album/2cIv8xNIPWnD5WMogm6HMs) | 3:33 | 2023-01-04 |  |
 | [A Los Arboles \(feat\. Raag\)](https://open.spotify.com/track/22zFpd7tQthAeefRmxIxac) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [Los Tiempos Inciertos \(feat\. Raag\)](https://open.spotify.com/album/2js6vsGGCBlLpdrkRVcfJK) | 4:57 | 2021-10-05 |  |
 | [Agua](https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:20 | 2021-10-05 | 2022-03-31 |
 | [Aguacero](https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Aguacero](https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW) | 3:55 | 2021-10-05 |  |
@@ -22,7 +23,7 @@
 | [Arde](https://open.spotify.com/track/083pInG64kGBpky2B6Vlfy) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0), [Real Stylo](https://open.spotify.com/artist/0ZHdDT59jztrFM0P25fGES) | [Arde](https://open.spotify.com/album/3heydvhPVk5vZ5ZcX1q3u0) | 3:15 | 2022-09-30 |  |
 | [Arte](https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Arte](https://open.spotify.com/album/6cgGOkq1ctjIMsIuSyHOPj) | 3:36 | 2022-08-02 | 2022-11-04 |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-10-05 | 2022-04-10 |
-| [Aura \- Spanish Version](https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura \(Spanish Version\)](https://open.spotify.com/album/6LWAOYIqPzIdujffA7ah7W) | 3:28 | 2022-09-26 |  |
+| [Aura \- Spanish Version](https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura \(Spanish Version\)](https://open.spotify.com/album/6LWAOYIqPzIdujffA7ah7W) | 3:28 | 2022-09-26 | 2023-01-05 |
 | [Bailando Lento](https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Bailando Lento](https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq) | 3:17 | 2021-10-05 |  |
 | [Baile Infinito](https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Visceras](https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j) | 1:41 | 2022-09-15 |  |
 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 | 2022-02-25 | 2022-09-27 |

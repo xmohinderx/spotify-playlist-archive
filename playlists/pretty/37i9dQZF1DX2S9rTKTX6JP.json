@@ -1,12 +1,12 @@
 {
   "description": "Sometimes a cover can be even better than the original. You decide. Cover: M\u00e5neskin",
-  "num_followers": 623296,
+  "num_followers": 623452,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGNjYWU5ZWJhOGI0ZDgyZTY5Mjc2Nzc1NTBkYjJkZjM1",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGM4MTYzZDhmMDc1YjFhNGIyZDUyMzRlZjA0YjAyNTE2",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs"
+      },
+      "artists": [
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Garage, Inc.",
         "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 303906,
       "name": "Nothing Compares 2 U - Live At SiriusXM/2015",
       "url": "https://open.spotify.com/track/0tUELgOuOJ3KCsYMDDsNvD"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs"
-      },
-      "artists": [
-        {
-          "name": "All Good Things",
-          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Running Up That Hill",
-        "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
-      },
-      "artists": [
-        {
-          "name": "Meg Myers",
-          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
-        }
-      ],
-      "duration_ms": 263716,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Greatest Hits '93 - '03",
         "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 211693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3mtukCAgd0mE260QcBfXAX"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
+      },
+      "artists": [
+        {
+          "name": "Meg Myers",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        }
+      ],
+      "duration_ms": 263716,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "What Doesn't Kill Us",
+        "url": "https://open.spotify.com/album/0GcvmP7OqiGImCbGEXv7aI"
+      },
+      "artists": [
+        {
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
+        }
+      ],
+      "duration_ms": 206227,
+      "name": "(I Just) Died in Your Arms",
+      "url": "https://open.spotify.com/track/4G9ZGwsT2OMkQTfoly4oYe"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 143360,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/04cdEVbQPb8BJb7593e5fO"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "What Doesn't Kill Us",
-        "url": "https://open.spotify.com/album/0GcvmP7OqiGImCbGEXv7aI"
-      },
-      "artists": [
-        {
-          "name": "Throw The Fight",
-          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
-        }
-      ],
-      "duration_ms": 206227,
-      "name": "(I Just) Died in Your Arms",
-      "url": "https://open.spotify.com/track/4G9ZGwsT2OMkQTfoly4oYe"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Simple Man",
-        "url": "https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Burn the Ships",
         "url": "https://open.spotify.com/album/27TGyW8JaXeWo971FPfKUi"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 265476,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Simple Man",
+        "url": "https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 252355,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "If I Ever Lose My Faith in You",
         "url": "https://open.spotify.com/album/4W5TsaInsp1dAZUE5qvm5g"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 274055,
       "name": "If I Ever Lose My Faith in You",
       "url": "https://open.spotify.com/track/4wozhA7ftHx3QQPBKCCL9d"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 252355,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "By The People, For The People",
         "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 276306,
       "name": "King Of Pain",
       "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 194359,
-      "name": "Watching The Wheels",
-      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 194359,
+      "name": "Watching The Wheels",
+      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Ballroom Blitz",
-        "url": "https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 249853,
-      "name": "Ballroom Blitz",
-      "url": "https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/37TH3YIaKD0gapxH6YDk3l"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 210997,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/5LVUEkOEf54bCxaDGiDAoR"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Ballroom Blitz",
+        "url": "https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Ballroom Blitz",
+      "url": "https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s"
     }
   ],
   "unique_name": "Rock Covers",

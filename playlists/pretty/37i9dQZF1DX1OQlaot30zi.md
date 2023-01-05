@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sacky, Vegas, della Love Gang e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,088 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,100 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 45 | [Hammamet \(feat\. Security & Kira\)](https://open.spotify.com/track/7ic3NIBsDDRrlH9uAzUYOH) | [Manali](https://open.spotify.com/artist/0aH4uMOQMV806IsaRf4nLh), [Depha Beat](https://open.spotify.com/artist/6bwVTFdmpdNygRD0jMUQGm), [Security](https://open.spotify.com/artist/7MKJc8WAYeq779QzmWPzlw), [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC) | [Marchingegno](https://open.spotify.com/album/17FGUh4lQoa0Z4vx0aLXBX) | 2:09 |
 | 46 | [ANTIPROIETTILE](https://open.spotify.com/track/4SitMb6MMZVkyLQo8MxuTL) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [ANTIPROIETTILE](https://open.spotify.com/album/2pREM66sS1IvUswiqSSYBq) | 2:13 |
 | 47 | [BOXER](https://open.spotify.com/track/7ih5IPTXrf4iJKY8DPawxA) | [Titien](https://open.spotify.com/artist/4T3Uc7PdFGOqmKxVP8lWSN), [Tropic Thunder](https://open.spotify.com/artist/6uvs1fRGySw5xUeAOrdyWm) | [BOXER](https://open.spotify.com/album/51zgCbPawgy9kbM1WDo8CC) | 2:31 |
-| 48 | [NFT rmx \(feat\. SPOOKYPBL\)](https://open.spotify.com/track/1GscYUCIknNlvfM7cCfgQa) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [ERROR 442](https://open.spotify.com/album/7dlvM8V1Mods5Ltdugz6hB) | 2:11 |
+| 48 | [NFT rmx \(feat\. SPOOKYPBL\)](https://open.spotify.com/track/7qaLq0r4JWX1JWS3wnxfCH) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [ERROR 442](https://open.spotify.com/album/3cvVjdslZvZ8Ti1BeDXxEU) | 2:11 |
 | 49 | [Ben e mal](https://open.spotify.com/track/6BquIDbyDLEfuglY7BtHZr) | [Eris Gacha](https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2) | [Ben e mal](https://open.spotify.com/album/65C5jXLjm8zaFmNQnP3Ni1) | 2:39 |
 | 50 | [Senza di Te](https://open.spotify.com/track/1JZdsVl9g0jXZcZHhsEmDM) | [Bluebarry](https://open.spotify.com/artist/2VNZSddcy35cVmqYgtafLP), [Dbackinyahead](https://open.spotify.com/artist/2aAamzcgx2XyPGJevTZRzz) | [Senza di Te](https://open.spotify.com/album/4HO9QGRqyxKcSKpNeCyc5P) | 2:43 |
 | 51 | [GENOVA 1955 \- L'acqua \(feat\. Jleeno\)](https://open.spotify.com/track/6ELXFMvJVbJYGSyuH9O0bP) | [Zero Vicious](https://open.spotify.com/artist/23hTdxGu1uB9NLfW3KmABu), [Fra Bacci](https://open.spotify.com/artist/0MKjQHGhnW0QrlWMJthrKx), [Zazza](https://open.spotify.com/artist/7KOeygqDI7Fjo4DrgJtvLf), [Jleeno](https://open.spotify.com/artist/2gBIDq9nVf8nfsqMHW63vv) | [GENOVA 1955 \- L'acqua \(feat\. Jleeno\)](https://open.spotify.com/album/2b7LTsR8Hi3e2jTY87TvkE) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 74 | [SOTT 'A LUNA \(con O'Tsunami\) \- Quedate Remix](https://open.spotify.com/track/54YVK9O8TRnj9nYaXexkWA) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [SOTT 'A LUNA \(con O'Tsunami\) \[Quedate Remix\]](https://open.spotify.com/album/1DgDfGDwjWMoiPqpscUSpo) | 3:23 |
 | 75 | [setiva](https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [setiva](https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy) | 2:17 |
 
-Snapshot ID: `MTY3Mjc1NDI3MSwwMDAwMDAwMDgxNDEzMzRhMDI0NWIxNjdmMzc3MmYxN2NiMGYxYmRj`
+Snapshot ID: `MTY3Mjc1NDI3MSwwMDAwMDAwMGZmYWViMGQzZDJhNDcyYjA0NjNhMjgyYjlmNTViZDQ0`

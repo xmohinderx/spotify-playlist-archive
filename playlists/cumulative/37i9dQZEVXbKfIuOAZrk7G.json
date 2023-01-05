@@ -6830,6 +6830,24 @@
     },
     {
       "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/1s8GwqQlOG7X4e6mV4PQC5"
+      },
+      "artists": [
+        {
+          "name": "Mckyyy",
+          "url": "https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171808,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/40HqwKbcJ62zpsBW2pWBTq"
+    },
+    {
+      "album": {
         "name": "Give It To Me (TikTok) (Remix)",
         "url": "https://open.spotify.com/album/5TFGWVkpLUO22vriADgKLo"
       },
@@ -6841,7 +6859,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 172160,
       "name": "Give It To Me (TikTok) - Remix",
       "url": "https://open.spotify.com/track/2RQOyTK7GG9HQMruQXS7wP"
@@ -13577,7 +13595,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 404363,
       "name": "OTR Freestyle - 41 Cypher",
       "url": "https://open.spotify.com/track/1yyQWRrP6rUO4X74umGszy"
@@ -15763,7 +15781,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 179801,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/0VGAT55tq7LHLfxtePPfpp"

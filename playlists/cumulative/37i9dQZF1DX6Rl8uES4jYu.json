@@ -2114,7 +2114,7 @@
     },
     {
       "album": {
-        "name": "Blink Twice (Extended)",
+        "name": "Blink Twice",
         "url": "https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe"
       },
       "artists": [
@@ -5379,7 +5379,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 212414,
       "name": "Space and Time",
       "url": "https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4"
@@ -5605,7 +5605,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 193983,
       "name": "Sunset Drive - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"

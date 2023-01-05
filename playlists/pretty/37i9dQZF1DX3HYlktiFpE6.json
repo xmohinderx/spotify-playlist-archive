@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 96362,
+  "num_followers": 96390,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDJmNjI1YjgwZjU0MjE1ZTM0ZGE4OWYyYjlmM2EwYjYx",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDI5MGFjYTNhOWNkZjM4YmFmZDQ3MTUwNGQ4MTBmMTNk",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -79,26 +79,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Under the Influence: Holiday Edition",
-        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        },
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
-      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "DCappella",
         "url": "https://open.spotify.com/album/5cCVD8FsgUWJso4Do9A38K"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 216413,
       "name": "Bellas Finals: Price Tag/Don\u2019t You (Forget About Me)/Give Me Everything/Just The Way You Are/Party In The U.S.A./Turn The Beat Around",
       "url": "https://open.spotify.com/track/07o54snAilKYHsW8bGFe9x"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Under the Influence: Holiday Edition",
+        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        },
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        }
+      ],
+      "duration_ms": 160840,
+      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
+      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -199,6 +199,46 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "The Barden Bellas",
+          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
+        },
+        {
+          "name": "The Treblemakers",
+          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
+        },
+        {
+          "name": "The Bu Harmonics",
+          "url": "https://open.spotify.com/artist/3ZqvXNT2zEezA2VUT90CYy"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Riff Off: Mickey/Like A Virgin/Hit Me With Your Best Shot/S&M/Let\u2019s Talk About Sex/I\u2019ll Make Love To You/Feels Like The First Time/No Diggity",
+      "url": "https://open.spotify.com/track/0phwM5a6TdLBDl0F9bk5fl"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Glee: The Music, Volume 1",
+        "url": "https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Don't Stop Believin' (Glee Cast Version) - Cover of Journey",
+      "url": "https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
       },
@@ -227,22 +267,6 @@
       "duration_ms": 264480,
       "name": "Riff Off - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/5RGFGWglZ2zRDWXOK7HyNq"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Glee: The Music, Volume 1",
-        "url": "https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj"
-      },
-      "artists": [
-        {
-          "name": "Glee Cast",
-          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Don't Stop Believin' (Glee Cast Version) - Cover of Journey",
-      "url": "https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -279,46 +303,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "United We Sing",
-        "url": "https://open.spotify.com/album/7oJCzq2s36F8PByLgaaYX6"
-      },
-      "artists": [
-        {
-          "name": "University of Rochester YellowJackets",
-          "url": "https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO"
-        }
-      ],
-      "duration_ms": 199801,
-      "name": "Waka Waka (This Time For Africa)",
-      "url": "https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
-      },
-      "artists": [
-        {
-          "name": "The Barden Bellas",
-          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
-        },
-        {
-          "name": "The Treblemakers",
-          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
-        },
-        {
-          "name": "The Bu Harmonics",
-          "url": "https://open.spotify.com/artist/3ZqvXNT2zEezA2VUT90CYy"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Riff Off: Mickey/Like A Virgin/Hit Me With Your Best Shot/S&M/Let\u2019s Talk About Sex/I\u2019ll Make Love To You/Feels Like The First Time/No Diggity",
-      "url": "https://open.spotify.com/track/0phwM5a6TdLBDl0F9bk5fl"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 184560,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "United We Sing",
+        "url": "https://open.spotify.com/album/7oJCzq2s36F8PByLgaaYX6"
+      },
+      "artists": [
+        {
+          "name": "University of Rochester YellowJackets",
+          "url": "https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO"
+        }
+      ],
+      "duration_ms": 199801,
+      "name": "Waka Waka (This Time For Africa)",
+      "url": "https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "No Ego",
-        "url": "https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv"
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
       "artists": [
         {
-          "name": "Citizen Queen",
-          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
+          "name": "The Barden Bellas",
+          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
         }
       ],
-      "duration_ms": 174618,
-      "name": "No Ego",
-      "url": "https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7"
+      "duration_ms": 62613,
+      "name": "Party In The U.S.A.",
+      "url": "https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -399,22 +399,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+        "name": "No Ego",
+        "url": "https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv"
       },
       "artists": [
         {
-          "name": "The Treblemakers",
-          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
-        },
-        {
-          "name": "Kay",
-          "url": "https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB"
+          "name": "Citizen Queen",
+          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Right Round",
-      "url": "https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ"
+      "duration_ms": 174618,
+      "name": "No Ego",
+      "url": "https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -483,22 +479,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
-      },
-      "artists": [
-        {
-          "name": "The Barden Bellas",
-          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
-        }
-      ],
-      "duration_ms": 62613,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Glee: The Music, Volume 4",
         "url": "https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI"
       },
@@ -519,6 +499,42 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
+      },
+      "artists": [
+        {
+          "name": "The Barden Bellas",
+          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
+        }
+      ],
+      "duration_ms": 90653,
+      "name": "Back To Basics - From \"Pitch Perfect 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/44xQqtGgjixgB0gnomttKX"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "The Treblemakers",
+          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Right Round",
+      "url": "https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Right Round / Sweet Caroline - Single",
         "url": "https://open.spotify.com/album/4AH2qX9iAUGb0baGXSozaE"
       },
@@ -531,6 +547,22 @@
       "duration_ms": 112360,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -555,18 +587,34 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+        "name": "PTX, Vol. 1",
+        "url": "https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ"
       },
       "artists": [
         {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
         }
       ],
-      "duration_ms": 167933,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
+      "duration_ms": 199360,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
+      },
+      "artists": [
+        {
+          "name": "The Barden Bellas",
+          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
+        }
+      ],
+      "duration_ms": 146346,
+      "name": "Kennedy Center Performance - From \"Pitch Perfect 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/379pQhTWVBdSEe8cfUmlHy"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -587,22 +635,6 @@
       "duration_ms": 214746,
       "name": "We Belong - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "PTX, Vol. 1",
-        "url": "https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 199360,
-      "name": "Somebody That I Used to Know",
-      "url": "https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -669,20 +701,20 @@
       "url": "https://open.spotify.com/track/3YlqY0ICO5DZj2ay8vRjJ1"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
       },
       "artists": [
         {
-          "name": "The Barden Bellas",
-          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
         }
       ],
-      "duration_ms": 90653,
-      "name": "Back To Basics - From \"Pitch Perfect 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/44xQqtGgjixgB0gnomttKX"
+      "duration_ms": 174720,
+      "name": "All About That Bass (No Tenors)",
+      "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -703,22 +735,6 @@
       "duration_ms": 215626,
       "name": "I Knew You Were Trouble (feat. KRNFX)",
       "url": "https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "All About That Bass (No Tenors)",
-      "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -819,22 +835,6 @@
       "duration_ms": 259026,
       "name": "Misty Mountains",
       "url": "https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
-      },
-      "artists": [
-        {
-          "name": "The Barden Bellas",
-          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
-        }
-      ],
-      "duration_ms": 146346,
-      "name": "Kennedy Center Performance - From \"Pitch Perfect 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/379pQhTWVBdSEe8cfUmlHy"
     },
     {
       "added_at": "2022-12-09 05:00:00",

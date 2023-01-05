@@ -1051,7 +1051,7 @@
     {
       "album": {
         "name": "Sea To Sky",
-        "url": "https://open.spotify.com/album/6vfjmNMRImYGCdH0Umbven"
+        "url": "https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8"
       },
       "artists": [
         {
@@ -1066,6 +1066,28 @@
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 264003,
+      "name": "Sea To Sky",
+      "url": "https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E"
+    },
+    {
+      "album": {
+        "name": "Sea To Sky",
+        "url": "https://open.spotify.com/album/6vfjmNMRImYGCdH0Umbven"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        },
+        {
+          "name": "Murge",
+          "url": "https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
       "duration_ms": 264003,
       "name": "Sea To Sky",
       "url": "https://open.spotify.com/track/7CGhUAQcsn81EVNqCHfxGc"

@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: クレナズム\(Culenasm\)
 
-722 songs - 1 day 22 hr 23 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+723 songs - 1 day 22 hr 27 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [13](https://open.spotify.com/track/4KmY60ZsxNTEoOSkPeRG8a) | [Gordon](https://open.spotify.com/artist/4DyaNSFEW5SrLJZLjx738N) | [13](https://open.spotify.com/album/4wlYD5Gtln9OL227a6QtW0) | 4:51 | 2022-05-31 | 2022-07-28 |
 | [134](https://open.spotify.com/track/2erQKQ9fLAq1YGVsuXUMKI) | [マッシュとアネモネ](https://open.spotify.com/artist/1hCMb6ZZq7wlwLouYSgsKj) | [134](https://open.spotify.com/album/2QIk2Fk5jRBTUdCirL3pyt) | 4:53 | 2022-12-29 |  |
 | [14時に待ち合わせ](https://open.spotify.com/track/5hOTUQMs6JEsyNn7Styacf) | [AOI MOMENT](https://open.spotify.com/artist/5A0UkhFr7fmMOKex4nXvfL) | [14時に待ち合わせ](https://open.spotify.com/album/5ez2mlsuhHtJn443pXMT80) | 3:49 | 2022-06-30 | 2022-07-05 |
-| [26](https://open.spotify.com/track/1hSJr6D5gY6DEJAGBkGAYl) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [26](https://open.spotify.com/album/4QVLkRRZRE9INUwPtfcJE6) | 4:25 | 2023-01-03 |  |
+| [26](https://open.spotify.com/track/1hSJr6D5gY6DEJAGBkGAYl) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [26](https://open.spotify.com/album/4QVLkRRZRE9INUwPtfcJE6) | 4:25 | 2023-01-03 | 2023-01-05 |
+| [26](https://open.spotify.com/track/3leoAvlLLsApKXzlIp79tu) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [26](https://open.spotify.com/album/18wcI7XahZTGCDNxXPzdj3) | 4:25 | 2023-01-03 |  |
 | [4x4](https://open.spotify.com/track/07GsJC4CbReS0QjoyZnVL4) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [4x4](https://open.spotify.com/album/0kvc1uSSfXPDOSvmahakb8) | 3:49 | 2022-06-07 | 2022-07-29 |
 | [7.26](https://open.spotify.com/track/4aZaTKNOS8hzT0qhMUJFlb) | [Leica](https://open.spotify.com/artist/1VkUmyetwZ4BRkl1VuMKFG) | [7.26](https://open.spotify.com/album/0j8d37uiEbFp3fzQAFl3d0) | 4:00 | 2022-06-14 | 2022-07-21 |
 | [8.8](https://open.spotify.com/track/78igtKiXSTIGqLVr2dHb5k) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [8.8](https://open.spotify.com/album/68T9fiYFvjHMLCUPbei61t) | 5:53 | 2022-05-26 | 2022-07-08 |

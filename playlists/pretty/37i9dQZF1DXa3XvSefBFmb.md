@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 ### [EQUAL Portugal](https://open.spotify.com/playlist/37i9dQZF1DXa3XvSefBFmb)
 
-> Ouve estas extraordinárias artistas, como Carminho, com o volume no máximo.
+> Ouve estas extraordinárias artistas, como Nena, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,653 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,693 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Mulher Vento](https://open.spotify.com/track/3umV5jWUiYYzrcD2TzshHJ) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Maria](https://open.spotify.com/album/0IIrr6l1DIezFyEthY2svL) | 3:27 |
-| 2 | [Grog d'Pilha](https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Grog d'Pilha](https://open.spotify.com/album/1FUTIJ9OdcQ86eiSW4FUxo) | 3:08 |
-| 3 | [Trompete](https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Trompete](https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS) | 4:17 |
-| 4 | [voltarpramim](https://open.spotify.com/track/2yCPz8xE5n5hyaunPjZ5T8) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [voltarpramim](https://open.spotify.com/album/27NsbOnymNnUYQXA49dCkb) | 3:12 |
-| 5 | [Mázia](https://open.spotify.com/track/4W2eyKnZa4iDpOM0B7fBpY) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Casa Guilhermina](https://open.spotify.com/album/6mnkadX4JLnvPxDGWnQ0Bu) | 3:26 |
-| 6 | [Maré](https://open.spotify.com/track/4vweHv5gSlHkYYP5YVDHDq) | [Sónia André](https://open.spotify.com/artist/1mdbLkpqAkHSZIaqKXfEPt) | [Maré](https://open.spotify.com/album/651DiA01Gt8D6Je9JYn6nw) | 3:42 |
-| 7 | [Nyanyana](https://open.spotify.com/track/686Gapb3LQuK8LhfYcnYG9) | [Surma](https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz), [Selma Uamusse](https://open.spotify.com/artist/4nDOdxGCI3SVZsYt5E0ZWh) | [alla](https://open.spotify.com/album/2z3oCBULHZqfLu4WmVKno2) | 4:13 |
-| 8 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 |
-| 9 | [Imortal](https://open.spotify.com/track/7B8gzBawT0zn80MAbVBHrI) | [MEMA.](https://open.spotify.com/artist/37aohsljYHuwzOG27WiVVY) | [Imortal](https://open.spotify.com/album/40pWFpDBPIYfGguzgEwplD) | 3:47 |
-| 10 | [segui](https://open.spotify.com/track/5GzWXMwxAHTPL8mS0DbM0O) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [segui](https://open.spotify.com/album/5X04UZxJC40mbkZ2adB6Bb) | 4:22 |
+| 1 | [segui](https://open.spotify.com/track/5GzWXMwxAHTPL8mS0DbM0O) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [segui](https://open.spotify.com/album/5X04UZxJC40mbkZ2adB6Bb) | 4:22 |
+| 2 | [A Mulher Vento](https://open.spotify.com/track/3umV5jWUiYYzrcD2TzshHJ) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Maria](https://open.spotify.com/album/0IIrr6l1DIezFyEthY2svL) | 3:27 |
+| 3 | [Grog d'Pilha](https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Grog d'Pilha](https://open.spotify.com/album/1FUTIJ9OdcQ86eiSW4FUxo) | 3:08 |
+| 4 | [Trompete](https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Trompete](https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS) | 4:17 |
+| 5 | [voltarpramim](https://open.spotify.com/track/2yCPz8xE5n5hyaunPjZ5T8) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [voltarpramim](https://open.spotify.com/album/27NsbOnymNnUYQXA49dCkb) | 3:12 |
+| 6 | [Mázia](https://open.spotify.com/track/4W2eyKnZa4iDpOM0B7fBpY) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Casa Guilhermina](https://open.spotify.com/album/6mnkadX4JLnvPxDGWnQ0Bu) | 3:26 |
+| 7 | [Maré](https://open.spotify.com/track/4vweHv5gSlHkYYP5YVDHDq) | [Sónia André](https://open.spotify.com/artist/1mdbLkpqAkHSZIaqKXfEPt) | [Maré](https://open.spotify.com/album/651DiA01Gt8D6Je9JYn6nw) | 3:42 |
+| 8 | [Nyanyana](https://open.spotify.com/track/686Gapb3LQuK8LhfYcnYG9) | [Surma](https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz), [Selma Uamusse](https://open.spotify.com/artist/4nDOdxGCI3SVZsYt5E0ZWh) | [alla](https://open.spotify.com/album/2z3oCBULHZqfLu4WmVKno2) | 4:13 |
+| 9 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 |
+| 10 | [Imortal](https://open.spotify.com/track/7B8gzBawT0zn80MAbVBHrI) | [MEMA.](https://open.spotify.com/artist/37aohsljYHuwzOG27WiVVY) | [Imortal](https://open.spotify.com/album/40pWFpDBPIYfGguzgEwplD) | 3:47 |
 | 11 | [Água Doce](https://open.spotify.com/track/13APzWfTKJfVxiIxTsFKVD) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Água Doce](https://open.spotify.com/album/5qFPtIWKEleW7zmaH0bgVM) | 3:19 |
 | 12 | [e se eu te disser](https://open.spotify.com/track/7AHSUEtE9PJTayLg4ksP1j) | [Mariana Reis](https://open.spotify.com/artist/7H5gc6iAgqhJ4my9n3kdMV) | [e se eu te disser](https://open.spotify.com/album/3JLW7cdDnbNY6TTF57Szvz) | 3:18 |
 | 13 | [Pés No Chão](https://open.spotify.com/track/2FgdHjlJbxi1L9wdm0QUgd) | [Diana Lima](https://open.spotify.com/artist/32Smk7Ovdr0xb5MbQtU16t) | [Pés No Chão](https://open.spotify.com/album/5iwyLMojcRsb8E5jLTK4vc) | 3:33 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 48 | [coisas simples](https://open.spotify.com/track/1Xl2KjK8cbgg2GdoCHP1ku) | [Mariana Dalot](https://open.spotify.com/artist/58FpRmP3RvLQW4FuJ44Y6P) | [círculo](https://open.spotify.com/album/4fpWkJwVPLovSsAbV00fMl) | 2:41 |
 | 49 | [Lobisomem](https://open.spotify.com/track/6s2dfXDxAS9o1IculpMGFW) | [Maria Reis](https://open.spotify.com/artist/0DWQj8MLymKN8IpUcB2Yh9) | [Benefício da Dúvida](https://open.spotify.com/album/1yhNNdKPvfXDXrJvKoZBB3) | 4:30 |
 
-Snapshot ID: `MTY3Mjc5MDQwMCwwMDAwMDAwMDRkMGVlZThkODdhNmY5NzEyOTVlMjkyYzE3M2ZlZTVh`
+Snapshot ID: `MTY3MjgyMzYxOCwwMDAwMDAwMDk4ZjE2OWQ3NjdkZTY2MWVmOWFjZWFjMWMyMGFkYzg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: T.I Blaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,300 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,324 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 50 | [Tintok Cruise Beat](https://open.spotify.com/track/4KDnF7cF5UwTBEJYosVSnw) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u) | [TinTok Cruise Beat](https://open.spotify.com/album/3AdRRuXQ3Rs8B0APJsbaOu) | 2:13 |
 | 51 | [2000](https://open.spotify.com/track/6gWzjoe48XfqcE1JrsupMk) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP), [Toby Shang](https://open.spotify.com/artist/6uVF9SBPINTFs7orI9Twt9) | [2000](https://open.spotify.com/album/3v1wWhmfvktucjlKLADVtN) | 2:22 |
 | 52 | [Red](https://open.spotify.com/track/2eMgsptakx869WHZ64Y2No) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Fire](https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH) | 2:54 |
-| 53 | [Celetronic Riddim](https://open.spotify.com/track/3sO5W4kHBdjvcyE2ApiVcs) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy) | 3:56 |
+| 53 | [Onjo](https://open.spotify.com/track/0CgUCf3JgP7yDEMZKHDhGn) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Eeshoohdee](https://open.spotify.com/artist/5ILbKTA1CePpCrdhWMFpOf) | [Onjo](https://open.spotify.com/album/51GU7oRSKRyki7ZeMleGsT) | 2:28 |
 | 54 | [Ejon Jor](https://open.spotify.com/track/3zd7lnavnwSmk4YzBidFSL) | [Son of Ika](https://open.spotify.com/artist/5XEgoROh3Nat8vH8PSb0Xi), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Ejon Jor](https://open.spotify.com/album/2vi93kioAQWcTESp3bCIST) | 2:14 |
 | 55 | [Geng](https://open.spotify.com/track/1pUaknOVFqwYwExrK3K5zv) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Geng](https://open.spotify.com/album/5V40JgTzx7L2GYMAcj7Rdw) | 2:07 |
 | 56 | [Idi Oremi \(Opotoyi, Pt\. 2\)](https://open.spotify.com/track/1IU3Jr0B5keEYO7zNDk5OX) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Idi Oremi \(Opotoyi, Pt\. 2\)](https://open.spotify.com/album/532Y9sBAkcmuOQC3EsgW0K) | 3:14 |
-| 57 | [Onjo](https://open.spotify.com/track/0CgUCf3JgP7yDEMZKHDhGn) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Eeshoohdee](https://open.spotify.com/artist/5ILbKTA1CePpCrdhWMFpOf) | [Onjo](https://open.spotify.com/album/51GU7oRSKRyki7ZeMleGsT) | 2:28 |
+| 57 | [Celetronic Riddim](https://open.spotify.com/track/3sO5W4kHBdjvcyE2ApiVcs) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy) | 3:56 |
 | 58 | [God Abeg](https://open.spotify.com/track/7pRKdVbFEZU3LkzLY1hi3g) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [God Abeg](https://open.spotify.com/album/0ukv2lTBdUDNuiRHgTV3Rk) | 3:24 |
 | 59 | [Alajo Emilokan](https://open.spotify.com/track/10N00uyWmUaHFkNPbtNKvG) | [DJ CORA](https://open.spotify.com/artist/5vPNT5JKbOOJuwdQ8dKOAc) | [Alajo Emilokan](https://open.spotify.com/album/45XrXX2y77M6F5u4oLVHwo) | 1:14 |
 | 60 | [Of Lala](https://open.spotify.com/track/6VMwrNQPmy3lHbuoHBTAO0) | [Rahman Jago](https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS), [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Of Lala](https://open.spotify.com/album/1Fq2heYALs55JGlNPjHZLB) | 3:07 |
 
-Snapshot ID: `MTY3MTM1NzcwMSwwMDAwMDAwMDJhNGIzNGMyMWZhNzQwMjgxMjdjNjRjOWZlMzhiOTYz`
+Snapshot ID: `MTY3MTM1NzcwMSwwMDAwMDAwMDVhNTAzNjhjNTUyNmVlNjZjOGE3ZjFmN2FmYzdlZDE1`

@@ -4,7 +4,7 @@
 
 > It's been a great decade for K\-Pop\. Check it out! Cover: Super Junior
 
-173 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/6edEqnO5xOL4KxcMgXoKZO)
+174 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/6edEqnO5xOL4KxcMgXoKZO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [The Ghost of Wind](https://open.spotify.com/track/1aUP0tGSkpricoZtV5Goj7) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [Illusion](https://open.spotify.com/album/6p2lS1PUNUMMLRoce5Cg4V) | 3:31 | 2019-12-04 | 2022-11-14 |
 | [The Ghost of Wind](https://open.spotify.com/track/2xNxuMhDDuZEBAB4Oy6Ovd) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [CONTINUE](https://open.spotify.com/album/4yEKFbp7OPPYnKR9ILoG2Z) | 3:31 | 2019-12-04 | 2022-08-31 |
 | [The Ghost of Wind](https://open.spotify.com/track/46BXtEtAA4ScdKxy026cIY) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [CONTINUE](https://open.spotify.com/album/7xtsbErVzHdz8iZFCmtow8) | 3:31 | 2019-12-04 |  |
-| [This Love](https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567) | 3:40 | 2019-12-04 |  |
+| [This Love](https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567) | 3:40 | 2019-12-04 | 2023-01-05 |
+| [This Love](https://open.spotify.com/track/1tYpbWzCSZjWz6tZxVbyzC) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/4pZaGrn3Z8xiX6KQYkRRkU) | 3:40 | 2019-12-04 |  |
 | [Tried to walk](https://open.spotify.com/track/2EZN8NPWyihMDMZ6l3vKZI) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [IN THE WIND](https://open.spotify.com/album/0dlQsvRmBSidDCbyAHnhKN) | 3:36 | 2019-12-04 |  |
 | [Tried to walk](https://open.spotify.com/track/6UYc8n6PjvN6vrrNTSDM51) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [IN THE WIND](https://open.spotify.com/album/14uRVwwLjCIq9UZjfdccDF) | 3:36 | 2019-12-04 | 2022-07-29 |
 | [Trouble Maker](https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn) | [Trouble Maker](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9) | [Trouble Maker](https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm) | 3:39 | 2019-12-04 |  |

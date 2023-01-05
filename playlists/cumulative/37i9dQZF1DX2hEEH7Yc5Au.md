@@ -2,7 +2,7 @@
 
 ### [EQUAL Taiwan](https://open.spotify.com/playlist/37i9dQZF1DX2hEEH7Yc5Au)
 
-> 一起來支持女性音樂人的精采表現！2022 年度總集成！Cover: 陳忻玥 \(Vicky Chen\)
+> 一起來支持女性音樂人的精采表現！Cover: 陳忻玥 \(Vicky Chen\)
 
 294 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/4b3PKrhJsbF0Qy4vbKHxEh)
 

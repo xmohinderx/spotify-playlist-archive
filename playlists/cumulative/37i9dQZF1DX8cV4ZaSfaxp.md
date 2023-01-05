@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: SURAN\(수란\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-281 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/60gChNBvUMmws1lEdYPtTq)
+282 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/60gChNBvUMmws1lEdYPtTq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,8 +237,9 @@
 | [SWEET SUMMER DAY](https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:11 | 2022-05-11 |  |
 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 | 2022-05-11 |  |
 | [Thanks to](https://open.spotify.com/track/1KQrnUtKigVAtDZc6M7UsM) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 4:17 | 2022-05-11 |  |
+| [The girl in my memories \(Digging club Seoul Ver.\)](https://open.spotify.com/track/72znGmipHo5wclQX7RKhpB) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Onstage Digging Club Seoul THEME 04](https://open.spotify.com/album/3WREPmFd4M6Rfunvv5p1mF) | 3:18 | 2022-10-04 |  |
 | [The girl in my memories \- Digging Club Seoul Version](https://open.spotify.com/track/0wBFJ9fq0Cje02xR9wcdoq) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Onstage Digging Club Seoul THEME 04](https://open.spotify.com/album/11YIHoOGPN6zvskNI9aa1g) | 3:18 | 2022-05-11 | 2022-07-29 |
-| [The girl in my memories\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/2PvbRFttjYprNiT8IBJPD9) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Onstage Digging Club Seoul THEME 04](https://open.spotify.com/album/24Lpdp81wiqKeUTw0YT50y) | 3:18 | 2022-07-22 |  |
+| [The girl in my memories\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/2PvbRFttjYprNiT8IBJPD9) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Onstage Digging Club Seoul THEME 04](https://open.spotify.com/album/24Lpdp81wiqKeUTw0YT50y) | 3:18 | 2022-07-22 | 2023-01-05 |
 | [The Moment](https://open.spotify.com/track/0kzMsG0ZhzeIw1EUecsHFD) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [The Moment](https://open.spotify.com/album/0lSIwRgmIxsiq27UWZyhT3) | 3:28 | 2022-05-11 | 2022-07-27 |
 | [The Paradise](https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 3rd Mini Album \[HIDE and SEEK\]](https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3) | 2:56 | 2022-05-11 |  |
 | [The Reason Why](https://open.spotify.com/track/1RHbrUkbac7nUg5Zj86QgQ) | [Heju](https://open.spotify.com/artist/4wwWOTP0uQkwy905mukvXU) | [The Reason Why](https://open.spotify.com/album/04FO7xZADfgWN1hPb9DGMF) | 3:20 | 2022-05-11 | 2022-07-20 |

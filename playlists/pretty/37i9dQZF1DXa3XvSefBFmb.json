@@ -1,13 +1,29 @@
 {
-  "description": "Ouve estas extraordin\u00e1rias artistas, como Carminho, com o volume no m\u00e1ximo.",
-  "num_followers": 6653,
+  "description": "Ouve estas extraordin\u00e1rias artistas, como Nena, com o volume no m\u00e1ximo.",
+  "num_followers": 6693,
   "original_name": "EQUAL Portugal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc5MDQwMCwwMDAwMDAwMDRkMGVlZThkODdhNmY5NzEyOTVlMjkyYzE3M2ZlZTVh",
+  "snapshot_id": "MTY3MjgyMzYxOCwwMDAwMDAwMDk4ZjE2OWQ3NjdkZTY2MWVmOWFjZWFjMWMyMGFkYzg0",
   "tracks": [
+    {
+      "added_at": "2023-01-04 00:00:00",
+      "album": {
+        "name": "segui",
+        "url": "https://open.spotify.com/album/5X04UZxJC40mbkZ2adB6Bb"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "segui",
+      "url": "https://open.spotify.com/track/5GzWXMwxAHTPL8mS0DbM0O"
+    },
     {
       "added_at": "2023-01-04 00:00:00",
       "album": {
@@ -159,22 +175,6 @@
       "duration_ms": 227599,
       "name": "Imortal",
       "url": "https://open.spotify.com/track/7B8gzBawT0zn80MAbVBHrI"
-    },
-    {
-      "added_at": "2023-01-04 00:00:00",
-      "album": {
-        "name": "segui",
-        "url": "https://open.spotify.com/album/5X04UZxJC40mbkZ2adB6Bb"
-      },
-      "artists": [
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "segui",
-      "url": "https://open.spotify.com/track/5GzWXMwxAHTPL8mS0DbM0O"
     },
     {
       "added_at": "2023-01-04 00:00:00",

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: DKZ
+> Future K\-Pop hits! Cover: MOONBIN&SANHA\(ASTRO\)
 
-706 songs - 1 day 15 hr 17 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+708 songs - 1 day 15 hr 23 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,10 +247,11 @@
 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2020-12-09 | 2021-04-22 |
 | [GLASSY](https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [GLASSY](https://open.spotify.com/album/2WCMmZ8vXBnkVp97PzLeoA) | 3:09 | 2021-10-13 | 2021-11-24 |
 | [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-04 | 2022-07-30 |
-| [Go Back](https://open.spotify.com/track/4WRzvrqXTdzpEB6KaO1Oqh) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [Go Back](https://open.spotify.com/album/2hb3zy9V9edKEGESIaUXaH) | 3:06 | 2022-10-27 |  |
+| [Go Back](https://open.spotify.com/track/4WRzvrqXTdzpEB6KaO1Oqh) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [Go Back](https://open.spotify.com/album/2hb3zy9V9edKEGESIaUXaH) | 3:06 | 2022-10-27 | 2023-01-05 |
 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 | 2021-10-13 | 2021-11-19 |
 | [go UP](https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Be Yourself](https://open.spotify.com/album/2CegqorU8dIFlJD0UsxxkF) | 2:39 | 2022-09-24 | 2022-11-25 |
 | [Goblin \(Favorite Boys\)](https://open.spotify.com/track/0QTx81gggSfDhmmdjpCfrT) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [HJZM : The Butterfly Phantasy](https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo) | 3:35 | 2020-10-13\* | 2021-01-11 |
+| [Gonna Be Alright](https://open.spotify.com/track/6V5b8CHXRUSi0jbJfyOVdO) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Gonna Be Alright](https://open.spotify.com/album/6RPpa5Wj8EfSAkOLBE8Nbe) | 2:59 | 2023-01-04 |  |
 | [Good Night](https://open.spotify.com/track/1IfL8E8yZN2DvtLXiybkQu) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [Good Night](https://open.spotify.com/album/7dwTOsTBJwg9QdoJiPWHsT) | 3:27 | 2021-11-12 | 2021-12-14 |
 | [Good Night \(Feat\. BE'O\)](https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [RE:UP](https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h) | 3:10 | 2022-02-03 | 2022-04-29 |
 | [GOTCHA](https://open.spotify.com/track/4mgkQnzI5XlVYgXoJGySwc) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [MESSAGE](https://open.spotify.com/album/3DNboyISLbyI3f5s6RHxDT) | 3:24 | 2020-11-05 | 2021-04-22 |
@@ -290,7 +291,7 @@
 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 | 2020-10-13\* | 2020-11-12 |
 | [hug me tight](https://open.spotify.com/track/1Ev5WziK8PYoSpNYJKd5qg) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [hug me tight](https://open.spotify.com/album/5RhnakiAQ918ouBJxadpyY) | 2:07 | 2022-12-15 |  |
 | [HUSH](https://open.spotify.com/track/3ytqIDBXmnKD62m2ezyH5I) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [Won't Forget You](https://open.spotify.com/album/5YAKoVELgEDXMao7RHtft9) | 3:42 | 2021-03-31 | 2021-06-09 |
-| [HUSH RUSH](https://open.spotify.com/track/0P2LW3jbuJLpH2mwg0lLzn) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [HUSH RUSH](https://open.spotify.com/album/6ksAgHMbcJbfxwwO799483) | 3:27 | 2022-10-14 |  |
+| [HUSH RUSH](https://open.spotify.com/track/0P2LW3jbuJLpH2mwg0lLzn) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [HUSH RUSH](https://open.spotify.com/album/6ksAgHMbcJbfxwwO799483) | 3:27 | 2022-10-14 | 2023-01-05 |
 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2021-01-11 | 2021-05-05 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 |  |
 | [I Am Yours](https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [I Am Yours](https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L) | 3:31 | 2021-06-25 | 2021-08-05 |
@@ -374,6 +375,7 @@
 | [Lovesick Girls](https://open.spotify.com/track/4Vhvlhomv8fTp2e6I4XTpe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 3:12 | 2020-10-13\* | 2021-03-25 |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-01-24 | 2022-04-09 |
 | [MADE FOR TWO](https://open.spotify.com/track/7LcCJJqGAsjIRebidgbjJz) | [VAV](https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk) | [MADE FOR TWO](https://open.spotify.com/album/78MNrJUp3uHLX9DWS7YEjU) | 3:33 | 2020-10-13\* | 2020-11-16 |
+| [Madness](https://open.spotify.com/track/7n21DchMhEHga46iMecQHW) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [INCENSE](https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z) | 2:57 | 2023-01-04 |  |
 | [Madonna](https://open.spotify.com/track/4EhsQ3MCiCbdvHIcOZ4YKk) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Madonna](https://open.spotify.com/album/7vKfoQdDR2rj2S8jkVJf0s) | 2:51 | 2021-10-07 | 2021-11-19 |
 | [Magical Symphony](https://open.spotify.com/track/2BxWLZH5trnKhJruqWfCxy) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [Adorable REbirth](https://open.spotify.com/album/6ZbPQ1lNnDy2Xad9BGJcNa) | 3:31 | 2022-09-30 | 2022-11-19 |
 | [MAGO](https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:19 | 2020-11-09 | 2021-03-01 |
@@ -711,7 +713,7 @@
 | [ZERO](https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2021-11-05 | 2021-12-14 |
 | [ZERO:ATTITUDE \(Feat\. pH\-1\)](https://open.spotify.com/track/7oZ7KgLcFZGJ0EZXi6BR7M) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [ZERO:ATTITUDE](https://open.spotify.com/album/0QNFrDNohHvrMsm7lH1gat) | 3:00 | 2021-02-15 | 2021-03-01 |
 | [Zombie](https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [HIDE & SEEK](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) | 3:20 | 2021-09-29 | 2021-12-14 |
-| [ZOMBIES](https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:04 | 2022-09-22 |  |
+| [ZOMBIES](https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:04 | 2022-09-22 | 2023-01-05 |
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-01-12 | 2022-06-03 |
 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 | 2021-06-18 | 2021-09-18 |
 

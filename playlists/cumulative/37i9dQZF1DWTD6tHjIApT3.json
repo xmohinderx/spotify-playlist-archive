@@ -2204,6 +2204,32 @@
     },
     {
       "album": {
+        "name": "Daisuki Panda",
+        "url": "https://open.spotify.com/album/76wf7okTHEuRE0c08Bz4vZ"
+      },
+      "artists": [
+        {
+          "name": "\u3064\u3058\u3042\u3084\u306e \u3068 \u3080\u304e(\u732b)",
+          "url": "https://open.spotify.com/artist/7EnWlINZKVb2FloonUswV6"
+        },
+        {
+          "name": "Tsuji Ayano",
+          "url": "https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i"
+        },
+        {
+          "name": "\u3080\u304e(\u732b)",
+          "url": "https://open.spotify.com/artist/26vOmxsaFTgaxV92XXdpWH"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "Daisuki Panda",
+      "url": "https://open.spotify.com/track/2o5FaEIxXvQundUNSYKvIZ"
+    },
+    {
+      "album": {
         "name": "Dancing Womer",
         "url": "https://open.spotify.com/album/5ZPkVkgnqXl4XOYyKe1q3w"
       },
@@ -4570,6 +4596,24 @@
     },
     {
       "album": {
+        "name": "Kanashii Uta ga Aru Riyuu - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/24CQHbc6MxX248Mo92qqpO"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357500,
+      "name": "Kanashii Uta ga Aru Riyuu - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/4nXxL11es8aPtbM04QSzKg"
+    },
+    {
+      "album": {
         "name": "Karen no Life",
         "url": "https://open.spotify.com/album/7L3LEup3oO8Kf7LAJmfDhy"
       },
@@ -5927,6 +5971,24 @@
       "duration_ms": 268119,
       "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
       "url": "https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk"
+    },
+    {
+      "album": {
+        "name": "Mirai no Kodomo 2023",
+        "url": "https://open.spotify.com/album/0BzvWiMOQ284M45EZVsXW9"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Sebu",
+          "url": "https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350135,
+      "name": "Mirai no Kodomo 2023",
+      "url": "https://open.spotify.com/track/1BhkcOJWFNFRdKiXZBatKf"
     },
     {
       "album": {
@@ -11079,7 +11141,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 168333,
       "name": "\u3060\u3044\u3059\u304d \u30d1\u30f3\u30c0",
       "url": "https://open.spotify.com/track/7qelMffXBZOS0EBud7PFKN"
@@ -11523,7 +11585,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 350135,
       "name": "\u307f\u3089\u3044\u306e\u3053\u3069\u30822023",
       "url": "https://open.spotify.com/track/6s2ynFHDmldoJw7PuQsBTD"
@@ -15949,7 +16011,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 357500,
       "name": "\u60b2\u3057\u3044\u6b4c\u304c\u3042\u308b\u7406\u7531 - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/3eGkegHNB5lDuenaXHDdvz"

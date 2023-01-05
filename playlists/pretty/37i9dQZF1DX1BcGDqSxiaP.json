@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 16744,
+  "num_followers": 16756,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDAwMTcwMWQ3ZGVlYTRmZmM1Nzk3OTA3OWFhM2M1OTBj",
+  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDI2MDlmZTBjYmE3MWYxZjljYjA2ZGQ3MjRiMTI0MGYz",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -243,6 +243,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Phillips Goes Bananas",
+      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "West Side Strut",
         "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
       },
@@ -255,34 +271,6 @@
       "duration_ms": 280440,
       "name": "Gotta Move On",
       "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Harp Attack!",
-        "url": "https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Billy Branch",
-          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
-        },
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 383933,
-      "name": "Down Home Blues",
-      "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -319,22 +307,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Phillips Goes Bananas",
-      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Let's Buzz",
         "url": "https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz"
       },
@@ -347,6 +319,34 @@
       "duration_ms": 242933,
       "name": "Keep On Lovin' Me Baby",
       "url": "https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Harp Attack!",
+        "url": "https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Billy Branch",
+          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
+        },
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 383933,
+      "name": "Down Home Blues",
+      "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -383,42 +383,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Cotton Mouth Man",
-      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Frostbite",
-        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "If You Love Me Like You Say",
-      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -439,6 +403,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "If You Love Me Like You Say",
+      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Wander This World",
         "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
       },
@@ -451,22 +431,6 @@
       "duration_ms": 210973,
       "name": "Cherry Red Wine",
       "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 140866,
-      "name": "Evil On My Mind - Remastered",
-      "url": "https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -491,6 +455,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 140866,
+      "name": "Evil On My Mind - Remastered",
+      "url": "https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Roots And Branches - The Songs Of Little Walter",
         "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
       },
@@ -511,6 +491,26 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Cotton Mouth Man",
+      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Force Of Nature",
         "url": "https://open.spotify.com/album/2K1GPgXQm5WU0b623kN7ZN"
       },
@@ -523,26 +523,6 @@
       "duration_ms": 369733,
       "name": "Let The Juke Joint Jump",
       "url": "https://open.spotify.com/track/6wgAmLxLzLmRm8sQ0REnn4"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Gregg Allman",
-          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/628wnZp93g4bnDnOFUyzMl"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -591,6 +571,26 @@
       "duration_ms": 256946,
       "name": "Sitting At Home Alone - Remastered",
       "url": "https://open.spotify.com/track/4XYISKrDmNiPLCrMHbVQqi"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
+        }
+      ],
+      "duration_ms": 209013,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/628wnZp93g4bnDnOFUyzMl"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -659,18 +659,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
+        "name": "Live From Chicago - Mr. Superharp Himself!",
+        "url": "https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
         }
       ],
-      "duration_ms": 308093,
-      "name": "The Fool You're Looking For",
-      "url": "https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw"
+      "duration_ms": 186826,
+      "name": "Born In Chicago",
+      "url": "https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Live From Chicago - Mr. Superharp Himself!",
-        "url": "https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Born In Chicago",
-      "url": "https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Alligator Records 45th Anniversary Collection",
         "url": "https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 279600,
       "name": "Cotton Picking Blues",
       "url": "https://open.spotify.com/track/307jtIKjrlwtWiSQR6v6YF"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 308093,
+      "name": "The Fool You're Looking For",
+      "url": "https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw"
     },
     {
       "added_at": "2020-09-21 10:42:33",

@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 40556,
+  "num_followers": 40594,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMDQxZDc3NTNkZWExYmUzMjY3MTU1ZTg3M2U4ZGE0MTcw",
+  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMDI5MzcyMGE5Y2M2ZmUzM2ZhYzFkN2QyOWQ4MTNmMmUw",
   "tracks": [
     {
       "added_at": "2022-12-17 09:00:30",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Badi Ellak",
-        "url": "https://open.spotify.com/album/1T5lNQGgRYOlAgLj5ZihCf"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Badi Ellak",
-      "url": "https://open.spotify.com/track/7q4nRHpLoEUgSpRDxWo1x6"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Can I Live",
         "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 112000,
       "name": "Can I Live",
       "url": "https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Badi Ellak",
+        "url": "https://open.spotify.com/album/1T5lNQGgRYOlAgLj5ZihCf"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Badi Ellak",
+      "url": "https://open.spotify.com/track/7q4nRHpLoEUgSpRDxWo1x6"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
+      "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
         "name": "From Here",
         "url": "https://open.spotify.com/album/0qKoWbZXIpjgHiq0VrDuA8"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Laween",
-        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 208237,
-      "name": "Laween",
-      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Na'na' Ya Na'na'",
         "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 255066,
       "name": "Al Rozana",
       "url": "https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
-      },
-      "artists": [
-        {
-          "name": "DAM",
-          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
-      "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1139,6 +1123,22 @@
       "duration_ms": 185375,
       "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
       "url": "https://open.spotify.com/track/3OcsroxTDUzBDTo3xOQQqp"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Laween",
+        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 208237,
+      "name": "Laween",
+      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
     },
     {
       "added_at": "2022-12-17 09:00:30",

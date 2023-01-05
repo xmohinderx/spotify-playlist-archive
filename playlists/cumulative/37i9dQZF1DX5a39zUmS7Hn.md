@@ -2,7 +2,7 @@
 
 ### [Legends Only](https://open.spotify.com/playlist/37i9dQZF1DX5a39zUmS7Hn)
 
-> New music and timeless tracks from legends only\. Remembering Terry Hall\. Cover: The Specials
+> New music and timeless tracks from legends only\. Cover: The Specials
 
 235 songs - 16 hr 55 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
 

@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-301 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
+302 songs - 19 hr 40 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Holly Jolly Christmas](https://open.spotify.com/track/6V0o74Ptf4aygUPCT2Wdcu) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [More The Merrier](https://open.spotify.com/album/7o83BpMH6xfIhOfDGxLcpa) | 2:21 | 2021-12-11 |  |
 | [Holy](https://open.spotify.com/track/7ykbXoPWUNDj0txNJo0GJt) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Holy](https://open.spotify.com/album/5noo9mmDQjfL9nzXSJmJjG) | 3:40 | 2022-11-26 |  |
 | [Home](https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3), [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Home](https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP) | 3:32 | 2021-12-11 |  |
-| [Home This Christmas](https://open.spotify.com/track/4xhpkthtZ505fhk39Amx0K) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Home This Christmas](https://open.spotify.com/album/3DPjsXVOAFrgnuujEnJyJc) | 3:09 | 2022-12-11 |  |
+| [Home This Christmas](https://open.spotify.com/track/4xhpkthtZ505fhk39Amx0K) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Home This Christmas](https://open.spotify.com/album/3DPjsXVOAFrgnuujEnJyJc) | 3:09 | 2022-12-11 | 2023-01-05 |
 | [Hope Has A Name](https://open.spotify.com/track/5beWUJJQZUBgunstmXk6Ge) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Hope Has A Name](https://open.spotify.com/album/33GHItPpQKdgbwPn3oYEGY) | 4:04 | 2021-12-11 |  |
 | [Hope Has Come \(Behold Him\)](https://open.spotify.com/track/14js1KdzK6dBLb9iW9Kd7x) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Hope Has Come \(Behold Him\)](https://open.spotify.com/album/7KqhvzyLBG4gpJvcaOZuTx) | 4:41 | 2022-11-26 |  |
 | [Hope is Here](https://open.spotify.com/track/4dM1fAwYIDG5XtncJyUEgB) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d) | [With Us \(Emmanuel\)](https://open.spotify.com/album/2EFxlrFbmIJ05ZakXWZpOA) | 4:09 | 2021-12-24 | 2022-07-26 |
@@ -176,6 +176,7 @@
 | [Last Christmas With You](https://open.spotify.com/track/4EIsjsmCaoEK0MNSjfTCBq) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Last Christmas With You](https://open.spotify.com/album/0PWwUOsXl9ahnZabFIXtjL) | 3:29 | 2021-12-24 | 2022-07-19 |
 | [Let There Be Peace](https://open.spotify.com/track/0unhO1D9nwFlljFrhwB9Rs) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift](https://open.spotify.com/album/1wI9NGtQCnhyweuVACpXW4) | 3:59 | 2021-12-11 |  |
 | [Let There Be Peace on Earth](https://open.spotify.com/track/2oD7uX89PowHqD3CPFkULx) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Let There Be Peace on Earth](https://open.spotify.com/album/0hTxmgpCiExm895BIhQ6Vv) | 3:36 | 2021-12-24 | 2022-07-29 |
+| [Lift High \(Emmanuel\)](https://open.spotify.com/track/6Pzv40MLNnwE0N4xZpYJ2X) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Lift High \(Emmanuel\)](https://open.spotify.com/album/5DqiYPcDeTilZ0lcUWVHhi) | 5:11 | 2022-12-11 |  |
 | [Light Has Come](https://open.spotify.com/track/2rOXIm8nVKLIDhy32ASuoh) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Light Has Come](https://open.spotify.com/album/6MrfIO5CSBAnTXkUJ7jWGF) | 4:22 | 2021-12-11 | 2022-07-28 |
 | [Light of the World](https://open.spotify.com/track/4IR0seMxE1JhVfv90KE1NV) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [Thank God it's Christmas](https://open.spotify.com/album/1FBFqL715gCViWqbmVGgRD) | 3:32 | 2021-12-11 | 2022-07-29 |
 | [Little Drummer Boy](https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:48 | 2021-12-11 |  |

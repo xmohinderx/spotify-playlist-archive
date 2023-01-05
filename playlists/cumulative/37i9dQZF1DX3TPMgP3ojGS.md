@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,627 songs - 3 day 1 hr 20 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,628 songs - 3 day 1 hr 23 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [A Woman Alone](https://open.spotify.com/track/7uXvHGhRmxCBw2Y2vPCLcM) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Hostiles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4enMBkXDO3tSrqxFxPXxSZ) | 1:50 | 2021-05-20 | 2022-04-10 |
 | [A.M](https://open.spotify.com/track/5PTv6JQ9lroVhMPFrnu2KB) | [Aino Raninen](https://open.spotify.com/artist/1dRAvjE3w85oawZwxBlkt8) | [A.M](https://open.spotify.com/album/5vZCbaAG4kHYc9U405QPXX) | 2:33 | 2021-04-27 | 2022-07-25 |
 | [Ab Ovo](https://open.spotify.com/track/02mkkozonPEDCenOhuWwLc) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Ab Ovo](https://open.spotify.com/album/2YAjUjyEG3thu2IEkJigIV) | 4:48 | 2021-04-28 | 2022-04-07 |
-| [Abode](https://open.spotify.com/track/49a2PByrGqVmdCktGMZwgc) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Abode](https://open.spotify.com/album/5hB88sg8OswH5mzNJ3Pixr) | 2:29 | 2022-12-24 |  |
+| [Abode](https://open.spotify.com/track/49a2PByrGqVmdCktGMZwgc) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Abode](https://open.spotify.com/album/5hB88sg8OswH5mzNJ3Pixr) | 2:29 | 2022-12-24 | 2023-01-05 |
 | [Above And Beyond](https://open.spotify.com/track/4gN9BuAAlcMejSS2QO8DYB) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Above And Beyond](https://open.spotify.com/album/3h2s1vDqoCja0Tw3mdpRVv) | 1:53 | 2022-05-31 | 2022-06-20 |
 | [Abre los ojos](https://open.spotify.com/track/0xxo7AH7SJMuoTJKeX72Jj) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Abre los ojos](https://open.spotify.com/album/4EM7qAQ7pqE6qWYFFp7aVi) | 2:46 | 2021-08-27 | 2021-08-28 |
 | [Absence](https://open.spotify.com/track/4fi9QhEAzYGSwxwVgwfvMg) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/4b5zGRVJxWT6fA52AKXZVZ) | 2:39 | 2021-03-10 | 2021-05-05 |
@@ -654,6 +654,7 @@
 | [Improv \#10 \- One Last Thought](https://open.spotify.com/track/4ponbmD53QAmxjHyXCHDFo) | [The Daydream Club](https://open.spotify.com/artist/3U6eCXHFS6wQVuFuqeW09m) | [Piano Project](https://open.spotify.com/album/61CiWNwL8SP2xOOQ8xeqZ8) | 2:47 | 2021-03-08 | 2022-04-03 |
 | [Impuissance](https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL) | [Luisa Amogida](https://open.spotify.com/artist/6G62bUbzGc5W2y0yxeHEKj) | [Impuissance](https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay) | 2:03 | 2022-03-29 | 2022-12-24 |
 | [In a Bar in Buenos Aires](https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In a Bar in Buenos Aires](https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ) | 2:46 | 2021-04-23 | 2021-04-24 |
+| [in a room full of you](https://open.spotify.com/track/0BZLKyvqypWnn5kfysaNPt) | [like gentle rain](https://open.spotify.com/artist/1buksjoq8qDrWEYexFNnG4) | [in a room full of you](https://open.spotify.com/album/2YPuaSGp6LRpyD1GchSwkI) | 3:12 | 2023-01-05 |  |
 | [In Between](https://open.spotify.com/track/4sVJif1UHpa6ZiZPOS9ymv) | [Mia Strass](https://open.spotify.com/artist/2KhAW1n5DKiVmDcS2s0dIG) | [Mid\-Life](https://open.spotify.com/album/6aIv79Nb504XUjSjsuJm0w) | 3:11 | 2021-12-13 | 2021-12-21 |
 | [In her smile](https://open.spotify.com/track/2NISlO9Cxd2qWDT00p1Pmc) | [Rosemary Wilkinson](https://open.spotify.com/artist/6zFI7h2SJ1nqnLTlCGfdoS) | [In her smile](https://open.spotify.com/album/0rTKHudIX5RuTUm06HXx7D) | 2:31 | 2021-05-22 | 2022-04-14 |
 | [In Love](https://open.spotify.com/track/2bUMk8naDcabvgipR14U22) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 1:56 | 2021-05-20 | 2022-04-04 |

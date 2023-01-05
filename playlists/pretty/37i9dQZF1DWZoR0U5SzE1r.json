@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 237163,
+  "num_followers": 237267,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDgwNDI0ODVmMmNiODlhMjEyMThhZTA3NGM4NzgxYWQ5",
+  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDg4NGYwZGMxMWZkYzFjMDQwNTY0N2VjMmI0NGU1N2Mz",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Simple Gospel (Live)",
+      "url": "https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "You Cannot Be Stopped",
         "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 261360,
       "name": "You Cannot Be Stopped",
       "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Simple Gospel (Live)",
-      "url": "https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 510795,
-      "name": "Nothing Else - Live",
-      "url": "https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Canvas And Clay (Live)",
         "url": "https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv"
       },
@@ -831,6 +811,22 @@
       "duration_ms": 400000,
       "name": "Canvas And Clay - Live",
       "url": "https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Miracle or Not",
+        "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
+      },
+      "artists": [
+        {
+          "name": "Alisa Turner",
+          "url": "https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre"
+        }
+      ],
+      "duration_ms": 243269,
+      "name": "My Prayer For You",
+      "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -855,18 +851,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Miracle or Not",
-        "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
       "artists": [
         {
-          "name": "Alisa Turner",
-          "url": "https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 243269,
-      "name": "My Prayer For You",
-      "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
+      "duration_ms": 510795,
+      "name": "Nothing Else - Live",
+      "url": "https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "The Work, Vol. I",
-        "url": "https://open.spotify.com/album/0s2eJECLVrND9PFWeiAu6A"
-      },
-      "artists": [
-        {
-          "name": "Elias Dummer",
-          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
-        }
-      ],
-      "duration_ms": 311714,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/20GHzOIG9y0mn3yjwv9FT0"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Yes I Will",
         "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
       },
@@ -955,22 +939,6 @@
       "duration_ms": 234731,
       "name": "Yes I Will",
       "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "The Free World, Vol. 1",
-        "url": "https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 259653,
-      "name": "On My Side",
-      "url": "https://open.spotify.com/track/4NG3Xw4yu8O2j4UIDLUwCP"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -991,6 +959,38 @@
       "duration_ms": 389897,
       "name": "Hosanna - Live",
       "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "The Work, Vol. I",
+        "url": "https://open.spotify.com/album/0s2eJECLVrND9PFWeiAu6A"
+      },
+      "artists": [
+        {
+          "name": "Elias Dummer",
+          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
+        }
+      ],
+      "duration_ms": 311714,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/20GHzOIG9y0mn3yjwv9FT0"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "The Free World, Vol. 1",
+        "url": "https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 259653,
+      "name": "On My Side",
+      "url": "https://open.spotify.com/track/4NG3Xw4yu8O2j4UIDLUwCP"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Even The Impossible (Live)",
+        "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 290133,
+      "name": "Even The Impossible - Live",
+      "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "The Songs We Sing",
         "url": "https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Even The Impossible (Live)",
-        "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
+        "name": "Hallelujah For The Cross (Live)",
+        "url": "https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL"
       },
       "artists": [
         {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
         }
       ],
-      "duration_ms": 290133,
-      "name": "Even The Impossible - Live",
-      "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
+      "duration_ms": 331998,
+      "name": "Hallelujah For The Cross - Live",
+      "url": "https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Hallelujah For The Cross (Live)",
-        "url": "https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 331998,
-      "name": "Hallelujah For The Cross - Live",
-      "url": "https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "This Is Our Story",
         "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 341849,
       "name": "This Is Our Story",
       "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Insatiable",
-        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 266620,
-      "name": "Insatiable",
-      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 249013,
       "name": "King Of Glory - Live",
       "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Insatiable",
+        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 266620,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 357404,
+      "name": "Just The Cross",
+      "url": "https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "The War Is Over",
         "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
       },
@@ -1395,18 +1411,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI"
+        "name": "Roar (Live From Passion 2020)",
+        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
       "artists": [
         {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 357404,
-      "name": "Just The Cross",
-      "url": "https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9"
+      "duration_ms": 345637,
+      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live From Passion 2020",
+      "url": "https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1439,26 +1459,6 @@
       "duration_ms": 383293,
       "name": "Exalted Over All - Live",
       "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Roar (Live From Passion 2020)",
-        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 345637,
-      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live From Passion 2020",
-      "url": "https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Valley (Live)",
-        "url": "https://open.spotify.com/album/2RfOUTIdbZpA8YH2qlPi6n"
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
       },
       "artists": [
         {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
         }
       ],
-      "duration_ms": 291473,
-      "name": "Valley - Live",
-      "url": "https://open.spotify.com/track/04IRbKCLC8ktH1nhYdmEXe"
+      "duration_ms": 350386,
+      "name": "Come Holy Spirit - Live",
+      "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1595,34 +1595,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "A Thousand More",
-        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
+        "name": "Valley (Live)",
+        "url": "https://open.spotify.com/album/2RfOUTIdbZpA8YH2qlPi6n"
       },
       "artists": [
         {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
         }
       ],
-      "duration_ms": 359710,
-      "name": "A Thousand More - Live",
-      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 350386,
-      "name": "Come Holy Spirit - Live",
-      "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
+      "duration_ms": 291473,
+      "name": "Valley - Live",
+      "url": "https://open.spotify.com/track/04IRbKCLC8ktH1nhYdmEXe"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1639,6 +1623,22 @@
       "duration_ms": 297320,
       "name": "The Cause Of Christ",
       "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "A Thousand More",
+        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        }
+      ],
+      "duration_ms": 359710,
+      "name": "A Thousand More - Live",
+      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Come to Jesus (Reconciliation Hymn)",
-        "url": "https://open.spotify.com/album/0S8jHEfJD9U72PUj4VZTWR"
-      },
-      "artists": [
-        {
-          "name": "People of The Earth",
-          "url": "https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5"
-        }
-      ],
-      "duration_ms": 317549,
-      "name": "Come To Jesus (Reconciliation Hymn)",
-      "url": "https://open.spotify.com/track/4tFOi2oVttR898yfx1TYXs"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Better Word (Live)",
         "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 351213,
       "name": "Inhabit - Live",
       "url": "https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Come to Jesus (Reconciliation Hymn)",
+        "url": "https://open.spotify.com/album/0S8jHEfJD9U72PUj4VZTWR"
+      },
+      "artists": [
+        {
+          "name": "People of The Earth",
+          "url": "https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5"
+        }
+      ],
+      "duration_ms": 317549,
+      "name": "Come To Jesus (Reconciliation Hymn)",
+      "url": "https://open.spotify.com/track/4tFOi2oVttR898yfx1TYXs"
     },
     {
       "added_at": "2020-06-26 04:02:00",

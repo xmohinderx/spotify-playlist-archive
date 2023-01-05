@@ -4,7 +4,7 @@
 
 > noclip out of reality
 
-91 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
+92 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All I Need](https://open.spotify.com/track/0FLFE8mxBn1yWAX8s2L8ru) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 3:44 | 2022-08-22 | 2022-09-21 |
 | [backroom labyrinth](https://open.spotify.com/track/0HRk2U8OCDkS2asQEt22wf) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [backroom labyrinth](https://open.spotify.com/album/5gQk4x96WeNGcnwLMj8Wlk) | 2:48 | 2022-08-22 | 2022-08-24 |
 | [Best of Luck](https://open.spotify.com/track/4UwwTjYElB7ODGfPXQzURF) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Best of Luck \(From the Film "Velocity"\)](https://open.spotify.com/album/7JREhlt7IIkD2mCr3Gwr5E) | 1:51 | 2022-12-16 |  |
-| [Beware The Friendly Stranger](https://open.spotify.com/track/3KflFtXKKX61Ljf3TQqXln) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:37 | 2022-08-22 |  |
+| [Beware The Friendly Stranger](https://open.spotify.com/track/3KflFtXKKX61Ljf3TQqXln) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:37 | 2022-08-22 | 2023-01-05 |
 | [Bloom](https://open.spotify.com/track/26kPTDeIh5pTcyMuD6IonN) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Offering](https://open.spotify.com/album/5e8pMyCjkoreQfGFU58lRl) | 2:17 | 2022-08-22 |  |
 | [Brian is the Most Beautiful](https://open.spotify.com/track/1YkMJr3IwSLmMpcsBI5KWS) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:45 | 2022-08-22 |  |
 | [Brokendate](https://open.spotify.com/track/0XcY2bB4lectIINykHYYDa) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Galactic Melt](https://open.spotify.com/album/1PSr89gL5T8Ki87t4V5BGZ) | 5:08 | 2022-08-22 | 2022-08-24 |
@@ -48,7 +48,7 @@
 | [Infinite Cloud \(Interlude\)](https://open.spotify.com/track/6HiDjXA9BAlL5GeEDODUG0) | [Cian Sheehan](https://open.spotify.com/artist/4mgQWapgauZsgy2A3TkChi) | [Volumes](https://open.spotify.com/album/78Zu1m3LgUvvlwTMl3Mr9h) | 1:47 | 2022-08-22 |  |
 | [Introduction to the Snow](https://open.spotify.com/track/7qLs0IyUn6TrqgMzQ33SdH) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 1:41 | 2022-08-22 |  |
 | [Is it Some Devil That Crawls Inside of You?](https://open.spotify.com/track/2d5iML85eyaY9dP8zuSQGh) | [Ricky Eat Acid](https://open.spotify.com/artist/4BO8wK4OAaFsi6PSzs366S) | [You Get Sick; You Regret Things](https://open.spotify.com/album/5ahXdYbeGakgce25ZLVdDm) | 1:15 | 2022-08-22 |  |
-| [It's Playtime](https://open.spotify.com/track/36t2yFEbWl2afvMnAmMU3p) | [MOB Games](https://open.spotify.com/artist/4y9Xz75B3sXI2P8eOYwjpn) | [Poppy Playtime Ch\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/4SgR6aQmDkviqC0AyYfFEu) | 0:57 | 2022-08-22 |  |
+| [It's Playtime](https://open.spotify.com/track/36t2yFEbWl2afvMnAmMU3p) | [MOB Games](https://open.spotify.com/artist/4y9Xz75B3sXI2P8eOYwjpn) | [Poppy Playtime Ch\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/4SgR6aQmDkviqC0AyYfFEu) | 0:57 | 2022-08-22 | 2023-01-05 |
 | [Just Monika.](https://open.spotify.com/track/58D0rgpXlThmJDml7VltUt) | [Dan Salvato](https://open.spotify.com/artist/1i0Yz0IcoZXlZOk0kAnw5B) | [Doki Doki Literature Club! \(Original Soundtrack\)](https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k) | 3:22 | 2022-08-22 | 2022-08-31 |
 | [Key](https://open.spotify.com/track/7K7E7LKK51PezScgsvVg9Y) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 1:05 | 2022-09-20 |  |
 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2022-08-22 |  |
@@ -82,6 +82,7 @@
 | [Spaces Inbetween.](https://open.spotify.com/track/54shhL9vif2iwUXg0lNpQX) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt.1](https://open.spotify.com/album/3SDU0tsnoMO841qeOHlP8B) | 0:58 | 2022-08-22 |  |
 | [Still Life](https://open.spotify.com/track/3IRsovEHKu0ZgufFhbPLbu) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C) | [Be the One You Love](https://open.spotify.com/album/67i2fZfID3xg3seBcLrHXe) | 3:22 | 2022-08-22 | 2022-12-16 |
 | [Still Life](https://open.spotify.com/track/69PcaJEZMB3cCfCeRSibj2) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C) | [Be the One You Love](https://open.spotify.com/album/4vnVALee891bV599C0I6rI) | 3:22 | 2022-09-06 |  |
+| [Submersible](https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1) | 3:50 | 2023-01-04 |  |
 | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME) | 1:46 | 2022-08-22 |  |
 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 | 2022-08-22 |  |
 | [Transgender](https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:04 | 2022-08-22 | 2022-08-24 |
@@ -92,12 +93,12 @@
 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 | 2022-08-22 |  |
 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 | 2022-08-22 |  |
 | [you not the same](https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh) | [TileKid](https://open.spotify.com/artist/7HaSqpaqnOWSaqvezpdhX4) | [you not the same](https://open.spotify.com/album/2oWrvVt4fIMO5DEHXSUrhS) | 2:08 | 2022-08-22 |  |
-| [You'll Never Know](https://open.spotify.com/track/7kQkgdg6nDVEzeJptMVbGT) | [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su) | [Stardust](https://open.spotify.com/album/5jer5YmDswO7lNWHeWwD5x) | 2:45 | 2022-08-23 |  |
+| [You'll Never Know](https://open.spotify.com/track/7kQkgdg6nDVEzeJptMVbGT) | [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su) | [Stardust](https://open.spotify.com/album/5jer5YmDswO7lNWHeWwD5x) | 2:45 | 2022-08-23 | 2023-01-05 |
 | [\~](https://open.spotify.com/track/1y1K06GfEtjeK18Xb0JeCm) | [Happy Trendy](https://open.spotify.com/artist/00YWLzRZ0M94JxM8j3ptjZ) | [Die Young](https://open.spotify.com/album/3TRqSZyvWgGlxi08PolBk1) | 2:06 | 2022-09-20 |  |
 | [‎‎‎](https://open.spotify.com/track/2xGX9859UkwGWqLf9FqF69) | [Iwakura](https://open.spotify.com/artist/1D9SrXAj9dz5sbqB12W1uv) | [‎‎‎](https://open.spotify.com/album/1BjptJhBoyxXfqcbu99aU5) | 3:02 | 2022-11-09 | 2022-12-17 |
 | [☆メニュータイプチェンジ☆](https://open.spotify.com/track/7c3lk5GwSyJfaxG6wdW4Wv) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 2](https://open.spotify.com/album/6LaAI9SPVmQc8cLa6zp8dN) | 1:02 | 2022-09-20 |  |
 | [さむくてあったかい、ふゆ〜雪の世界〜](https://open.spotify.com/track/6DKY3Be7mWP65FodxRnNZ3) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 1](https://open.spotify.com/album/21vq7ID9n1HoJkuq0c4UAT) | 1:00 | 2022-08-22 |  |
-| [バラック集落](https://open.spotify.com/track/36cHqq0lwA1u1KWxPI8nol) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 2](https://open.spotify.com/album/6LaAI9SPVmQc8cLa6zp8dN) | 1:02 | 2022-08-22 |  |
+| [バラック集落](https://open.spotify.com/track/36cHqq0lwA1u1KWxPI8nol) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 2](https://open.spotify.com/album/6LaAI9SPVmQc8cLa6zp8dN) | 1:02 | 2022-08-22 | 2023-01-05 |
 | [恢复](https://open.spotify.com/track/2dFUtZtpWydAU4QMmUOK47) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [新しい日の誕生](https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N) | 5:51 | 2022-08-22 |  |
 
 \*This playlist was first scraped on 2022-08-23. Prior content cannot be recovered.

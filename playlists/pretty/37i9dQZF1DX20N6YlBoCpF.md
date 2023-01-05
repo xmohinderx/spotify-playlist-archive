@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma?si=9\_ztbYjLSueEdImNuk\_0pg">Irene\-Louise Van Wyk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,839 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,858 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

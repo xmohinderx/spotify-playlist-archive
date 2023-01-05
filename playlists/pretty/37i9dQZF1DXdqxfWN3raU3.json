@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Nicole Horts en portada.",
-  "num_followers": 91531,
+  "num_followers": 91608,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2NDg2NiwwMDAwMDAwMGJhMWZiOTdkNzdiMjllZGM2M2RkNzI5MmEwMDllNjU2",
+  "snapshot_id": "MTY3Mjg4MDU2NCwwMDAwMDAwMDM2Mzg5MWIxYjk0MDAxOTJmMjNkODhjZmZmNDIxZDU3",
   "tracks": [
     {
       "added_at": "2022-11-25 00:12:45",
@@ -171,6 +171,34 @@
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
+    },
+    {
+      "added_at": "2023-01-05 01:02:44",
+      "album": {
+        "name": "Borr\u00f3n Y Cuenta Nueva",
+        "url": "https://open.spotify.com/album/2UOJpxiTPuECDKFkJs1G3Z"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "Willie DeVille",
+          "url": "https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5"
+        },
+        {
+          "name": "Mangus",
+          "url": "https://open.spotify.com/artist/6oZDTNrtPqFN5L7S9RaRVT"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Borr\u00f3n Y Cuenta Nueva",
+      "url": "https://open.spotify.com/track/5jvuhVvJZkNzQ2i72nmTn3"
     },
     {
       "added_at": "2023-01-03 16:54:26",
@@ -563,26 +591,6 @@
       "duration_ms": 165562,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
-    },
-    {
-      "added_at": "2022-11-24 19:53:55",
-      "album": {
-        "name": "Luces De Tokyo",
-        "url": "https://open.spotify.com/album/2stpbyfmnwBCbxktTLBppi"
-      },
-      "artists": [
-        {
-          "name": "B.A.M",
-          "url": "https://open.spotify.com/artist/1eSpKHplhQCnjokd9wvAlV"
-        },
-        {
-          "name": "Fano",
-          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
-        }
-      ],
-      "duration_ms": 218297,
-      "name": "Luces De Tokyo",
-      "url": "https://open.spotify.com/track/5o9L3Gpg5TZx5pKfKztBLa"
     },
     {
       "added_at": "2022-11-25 02:16:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,459 likes - 48 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,506 likes - 48 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 25 | [No Way Back](https://open.spotify.com/track/7nQaBI1NTv5kpPyeMruTTK) | [Adonis](https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz) | [No Way Back](https://open.spotify.com/album/2VNvQnGB9tXRpLV2aOVrmX) | 4:55 |
 | 26 | [Lack Of Love](https://open.spotify.com/track/21gvRGGQ81d7zijU6QlLZX) | [Charles B.](https://open.spotify.com/artist/4X1STxfD2HlEZOCqkp3Wla) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 7:10 |
 | 27 | [Get Up, Get Down \(Rough Version\)](https://open.spotify.com/track/4rB2RqyF2JZ1R7wC4wB9FB) | [Curry Gang](https://open.spotify.com/artist/1Ouqd8jtl8sYJ8yOdiFLlk) | [Get Up, Get Down](https://open.spotify.com/album/160s39UNdPOh8u1Jg4pZoC) | 7:57 |
-| 28 | [Weekend \(Weekend Club\) \[the Wam Bam Mix\]](https://open.spotify.com/track/3xvkdpv7lQuJVs11NYrVil) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekend](https://open.spotify.com/album/2Mj7L02euCpY6T1IElCrBp) | 5:46 |
+| 28 | [Weekend \- Wam Bam Club Mix](https://open.spotify.com/track/3xvkdpv7lQuJVs11NYrVil) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekend](https://open.spotify.com/album/2Mj7L02euCpY6T1IElCrBp) | 5:46 |
 | 29 | [As Acid Turns \- Remastered](https://open.spotify.com/track/6ifUZhFHTdlbfMbnZHMr4R) | [Liddell Townsell](https://open.spotify.com/artist/0xOcbgGtO2dW15jRS1sTWo) | [Traxbox \(Trax Records Remastered\)](https://open.spotify.com/album/0W9YJK5QTGJdGLwybMJh3w) | 5:12 |
 | 30 | [Distant Planet](https://open.spotify.com/track/7tXx01zHIkh0MKb4EZcquy) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Four Most Cuts Presents \- Mr\. Fingers](https://open.spotify.com/album/0cWsPRLyYxRpm3m8Xlle4J) | 5:20 |
 | 31 | [Jiggerwatts](https://open.spotify.com/track/2BOlLDk3nkfUDwujfr5EQe) | [Phortune](https://open.spotify.com/artist/3SKiqrQqIsYjfR8KpY5WW3) | [Phuture and Other Classics from DJ Pierre](https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy) | 6:09 |

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain](/playlists/plain/19PgP2QSGPcm6Ve8VhbtpG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/19PgP2QSGPcm6Ve8VhbtpG)
 
-### [80s Smash Hits](https://open.spotify.com/playlist/19PgP2QSGPcm6Ve8VhbtpG)
+### [80s Smash Hits \| Love Songs](https://open.spotify.com/playlist/19PgP2QSGPcm6Ve8VhbtpG)
 
 > 1980s hits and retro favorites by Whitney Houston, Eurythmics, AC/DC &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,461,925 likes - 114 songs - 7 hr 50 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,461,808 likes - 114 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 | 113 | [Cult of Personality](https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(Expanded Edition\)](https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs) | 4:54 |
 | 114 | [Raspberry Beret](https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around the World in a Day](https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu) | 3:35 |
 
-Snapshot ID: `MjcyNyw2OWZjYmE0MmI3ZGQ1MzkxOWFmNDVhOTIzYjczZmNlNWRmMzhhZGQw`
+Snapshot ID: `MjcyOCxlMGE3NTM4YjZlYzg0ODMyMDBkNzJmMGU4YWYxZDVlNzMwODQ3ZGVl`

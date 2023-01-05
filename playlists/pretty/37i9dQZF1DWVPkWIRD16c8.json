@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 30377,
+  "num_followers": 30426,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMGIzNzQ2OTliZWM4OGVhYWY3ZTg4NDhhZDNiMTJjZTRj",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMGFkYjdlN2UyYTY2MDljYjdjZjM4OTZmNjg1NzkzZjVi",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -351,22 +351,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/1QcPl6AFNTiczxCuSpOoEM"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 230610,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/68Vm2W4oURsPV3121vUZgB"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 248733,
       "name": "Control (Somehow You Want Me)",
       "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1QcPl6AFNTiczxCuSpOoEM"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 230610,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/68Vm2W4oURsPV3121vUZgB"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -743,22 +743,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Eye On It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 214665,
-      "name": "Me Without You",
-      "url": "https://open.spotify.com/track/3LEBulRQI5hHe2TUKKswUf"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "New Today",
         "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 175213,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Eye On It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 214665,
+      "name": "Me Without You",
+      "url": "https://open.spotify.com/track/3LEBulRQI5hHe2TUKKswUf"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "The Hurt & The Healer",
-        "url": "https://open.spotify.com/album/3LDSK725XPaoV9Gg1f94gx"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "You Are I Am",
-      "url": "https://open.spotify.com/track/1E0iYqr9YYu3HBXtplKLli"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "God Knows (Must Be Love) - Radio Edit",
         "url": "https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 236453,
       "name": "God Knows (Must Be Love) - Radio Edit",
       "url": "https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "The Hurt & The Healer",
+        "url": "https://open.spotify.com/album/3LDSK725XPaoV9Gg1f94gx"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "You Are I Am",
+      "url": "https://open.spotify.com/track/1E0iYqr9YYu3HBXtplKLli"
     },
     {
       "added_at": "2019-11-20 07:28:20",

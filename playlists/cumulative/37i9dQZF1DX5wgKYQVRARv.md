@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Architects
 
-582 songs - 2 day 2 hr 27 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+583 songs - 2 day 2 hr 32 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Chauvinist](https://open.spotify.com/track/2znJImPhsEV8FhHI4Xzxoc) | [Levels](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [Chauvinist](https://open.spotify.com/album/6hRnrYQSZOKd8msauQCChA) | 3:13 | 2022-07-13 |  |
 | [Clairvoyant](https://open.spotify.com/track/0Ey64fhfqXKfdDohWzPZJm) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/4GbvTCSu1Kehnr9Xq334u7) | 7:37 | 2022-07-13 |  |
 | [Clairvoyant](https://open.spotify.com/track/39v9F4fMRSvpYPx9AOg9WW) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/5xBtUANwVKmjYKgPzdMPcP) | 7:37 | 2022-07-13 | 2022-07-28 |
-| [Cloaked](https://open.spotify.com/track/2GIEbKn7RURChEwZooy7TU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Cloaked](https://open.spotify.com/album/5y8d5e1d4Gs2fCD6ZBRIId) | 3:54 | 2021-12-17 |  |
+| [Cloaked](https://open.spotify.com/track/2GIEbKn7RURChEwZooy7TU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Cloaked](https://open.spotify.com/album/5y8d5e1d4Gs2fCD6ZBRIId) | 3:54 | 2021-12-17 | 2023-01-05 |
 | [Cloud 9](https://open.spotify.com/track/6grBntnvJiVqgqqbmeq9iU) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [Cloud 9](https://open.spotify.com/album/3XdE4xEWmjv7ZckfOoVqAX) | 3:16 | 2022-03-18 | 2022-12-30 |
 | [Cloud Cascade](https://open.spotify.com/track/6pgdUH7dRJlH5ITa1YeAem) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Cloud Cascade](https://open.spotify.com/album/2q9o2kY9qyIov8f3eCKzFy) | 4:09 | 2022-07-13 |  |
 | [Cold Arrival](https://open.spotify.com/track/6AjvfDGxXe2RcSOx3nxWTY) | [Once Human](https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ) | [Cold Arrival](https://open.spotify.com/album/0LLGVNzbjaRTyjIJsiOTmh) | 4:07 | 2021-12-17 | 2022-07-29 |
@@ -174,6 +174,7 @@
 | [Far Below](https://open.spotify.com/track/4LjXxVBZTL8CtjMpOnccwv) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Far Below](https://open.spotify.com/album/1mp4fdVKmraS9zRk0GogOn) | 4:35 | 2021-12-17 | 2022-01-23 |
 | [Fate of Man](https://open.spotify.com/track/2MGmRnEMvhnmXOwXZow44X) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Revel In Time](https://open.spotify.com/album/59eeYsYn4KBOtOtAPCESVW) | 5:29 | 2022-02-25 |  |
 | [Father Said](https://open.spotify.com/track/2nHssJ7JAbBVpaE9wsJwgK) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [Father Said](https://open.spotify.com/album/2Apexhj7pIQgPcNOGUnRhn) | 4:17 | 2022-01-28 | 2022-12-30 |
+| [Father Said](https://open.spotify.com/track/3PcllEKZjEZt3uanwrlZY5) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [I'd Rather Be Asleep](https://open.spotify.com/album/7l6W4a5eEiIsUHUojAimkp) | 4:17 | 2022-12-16 |  |
 | [Father's Eyes](https://open.spotify.com/track/6dC8uuD9X9t1ruTgvDWyQA) | [The Murder of My Sweet](https://open.spotify.com/artist/7B4zaOoCRV5xQg9ZUrl4B1) | [A Gentleman's Legacy](https://open.spotify.com/album/3Ca5vDKpbXtR598uRSaDkM) | 5:58 | 2022-03-01 | 2022-04-21 |
 | [Fault Lines](https://open.spotify.com/track/3GyrxwekNfUmdLOQct75AJ) | [Takatak](https://open.spotify.com/artist/1oXLlDl7pxC7GAHD153YOy), [Keshav Dhar](https://open.spotify.com/artist/2MPDNpuJAXDFvAkNLZOk7u), [Shamsher Rana](https://open.spotify.com/artist/77XstydhnCGfW4wfVm3RRk) | [Fault Lines](https://open.spotify.com/album/7wRdJ41MMR6AVCo6bSEE5r) | 5:52 | 2022-07-13 | 2022-07-27 |
 | [Fear](https://open.spotify.com/track/7e1aLJw21Adnr97vIAc0TE) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Fear](https://open.spotify.com/album/08nlmkzQCUll5KWafhAmNr) | 4:42 | 2021-12-17 | 2022-09-03 |

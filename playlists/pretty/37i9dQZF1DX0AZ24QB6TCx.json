@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 278868,
+  "num_followers": 279080,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMTQwNSwwMDAwMDAwMGMzYjVhZDY4N2U3NGRiMWIwNjgxMjVkZjJlZmRiNmI4",
+  "snapshot_id": "MTY3MTIxMTQwNSwwMDAwMDAwMDdmNTI0YmQ5MDhjMjAxNzJlNWUyYTc4ZDQ3NjRiYTVj",
   "tracks": [
     {
       "added_at": "2022-12-16 17:23:24",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
         "name": "Fj\u00e4ll",
         "url": "https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 315297,
       "name": "Fj\u00e4ll",
       "url": "https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2022-12-16 17:23:24",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "Vanished",
-        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
-      },
-      "artists": [
-        {
-          "name": "Ceas",
-          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
         "name": "Extended",
         "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 200389,
       "name": "Tacken",
       "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
+        "name": "Vanished",
+        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
+      },
+      "artists": [
+        {
+          "name": "Ceas",
+          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
     },
     {
       "added_at": "2022-12-16 17:23:24",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
+        "name": "LUZ",
+        "url": "https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98"
+      },
+      "artists": [
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        }
+      ],
+      "duration_ms": 217104,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
         "name": "Need To Feel Loved (Nils Hoffmann Remix)",
         "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
       },
@@ -1227,38 +1243,6 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "LUZ",
-        "url": "https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98"
-      },
-      "artists": [
-        {
-          "name": "Axel Boman",
-          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
-        }
-      ],
-      "duration_ms": 217104,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 352240,
-      "name": "Love We Found",
-      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
         "name": "Unconditional Love",
         "url": "https://open.spotify.com/album/3rPsutaizdztrYpGeKDd5H"
       },
@@ -1279,18 +1263,38 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "Made of Wood",
-        "url": "https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW"
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
       },
       "artists": [
         {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
         }
       ],
-      "duration_ms": 390371,
-      "name": "La Veleta",
-      "url": "https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY"
+      "duration_ms": 352240,
+      "name": "Love We Found",
+      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
+        "name": "False Gods EP (Short Edits)",
+        "url": "https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4"
+      },
+      "artists": [
+        {
+          "name": "Alegant",
+          "url": "https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO"
+        },
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        }
+      ],
+      "duration_ms": 214122,
+      "name": "Get Down - Short Edit",
+      "url": "https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw"
     }
   ],
   "unique_name": "Afterhours",

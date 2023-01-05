@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 237632,
+  "num_followers": 237685,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE5NjAxMCwwMDAwMDAwMGVmODQzYmY3NzM3OTU3NzRmOGU5N2U1Nzk3YzdjNzFm",
+  "snapshot_id": "MTY3MTE5NjAxMCwwMDAwMDAwMGExYjEzZjAzNzQ1MmM4NjEyMDNiODU5MjkyMzk5ZjI3",
   "tracks": [
     {
       "added_at": "2022-04-15 04:02:00",
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
     },
     {
-      "added_at": "2023-01-04 01:22:50",
+      "added_at": "2023-01-05 01:22:36",
       "album": {
         "name": "Kind Reminder",
         "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
@@ -209,22 +209,6 @@
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Weekend Lover",
-        "url": "https://open.spotify.com/album/7tRmWRv8UUj1yY7erZmhds"
-      },
-      "artists": [
-        {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
-        }
-      ],
-      "duration_ms": 186080,
-      "name": "Weekend Lover",
-      "url": "https://open.spotify.com/track/6rNV70K6yK3qd19aNYtf8E"
-    },
-    {
       "added_at": "2021-08-06 04:01:00",
       "album": {
         "name": "Groove Continental: Side A",
@@ -247,6 +231,22 @@
       "duration_ms": 176293,
       "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
       "url": "https://open.spotify.com/track/14NGdYOr9abOGH6euZcpu5"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Weekend Lover",
+        "url": "https://open.spotify.com/album/7tRmWRv8UUj1yY7erZmhds"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "duration_ms": 186080,
+      "name": "Weekend Lover",
+      "url": "https://open.spotify.com/track/6rNV70K6yK3qd19aNYtf8E"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
     },
     {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "All Day Long",
+        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 169433,
+      "name": "All Day Long",
+      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "OASIS",
@@ -645,36 +661,28 @@
       "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
+      "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "All Day Long",
-        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
+        "name": "Schvitz",
+        "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
       },
       "artists": [
         {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 169433,
-      "name": "All Day Long",
-      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
-      },
-      "artists": [
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
         }
       ],
-      "duration_ms": 204213,
-      "name": "Ashamed",
-      "url": "https://open.spotify.com/track/6V5dtTAY64G0bIzQAdxuEl"
+      "duration_ms": 144588,
+      "name": "Earworm",
+      "url": "https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -695,6 +703,22 @@
     {
       "added_at": "2021-09-21 15:07:50",
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Ashamed",
+      "url": "https://open.spotify.com/track/6V5dtTAY64G0bIzQAdxuEl"
+    },
+    {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
         "name": "Sweet Side",
         "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
       },
@@ -707,22 +731,6 @@
       "duration_ms": 205862,
       "name": "Undone",
       "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/7tofoNXgN2AgkEeQ0mbKK1"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 219590,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/2qDJNEzQvyuXPblfZcXPqM"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -769,28 +777,20 @@
       "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
     },
     {
-      "added_at": "2022-12-02 05:01:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Schvitz",
-        "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/7tofoNXgN2AgkEeQ0mbKK1"
       },
       "artists": [
         {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
-        },
-        {
-          "name": "Vulfmon",
-          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 144588,
-      "name": "Earworm",
-      "url": "https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa"
+      "duration_ms": 219590,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/2qDJNEzQvyuXPblfZcXPqM"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -935,7 +935,7 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Blink Twice (Extended)",
+        "name": "Blink Twice",
         "url": "https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe"
       },
       "artists": [
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        },
-        {
-          "name": "Reiley",
-          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Better Days (feat. Aloe Blacc)",
         "url": "https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 156681,
       "name": "Better Days (feat. Aloe Blacc)",
       "url": "https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        },
+        {
+          "name": "Reiley",
+          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
+        }
+      ],
+      "duration_ms": 188853,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1079,6 +1079,30 @@
       "duration_ms": 183870,
       "name": "According To You",
       "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "I Told You",
+        "url": "https://open.spotify.com/album/7D4zYU5Rp03kIE3HMG7fzp"
+      },
+      "artists": [
+        {
+          "name": "Haywood",
+          "url": "https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu"
+        },
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        },
+        {
+          "name": "Petey Martin",
+          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
+        }
+      ],
+      "duration_ms": 207023,
+      "name": "I Told You",
+      "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1145,30 +1169,6 @@
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
     },
     {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "I Told You",
-        "url": "https://open.spotify.com/album/7D4zYU5Rp03kIE3HMG7fzp"
-      },
-      "artists": [
-        {
-          "name": "Haywood",
-          "url": "https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu"
-        },
-        {
-          "name": "Loote",
-          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
-        },
-        {
-          "name": "Petey Martin",
-          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
-        }
-      ],
-      "duration_ms": 207023,
-      "name": "I Told You",
-      "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
-    },
-    {
       "added_at": "2022-07-12 18:25:04",
       "album": {
         "name": "ITS ALL GOOD",
@@ -1233,6 +1233,22 @@
       "url": "https://open.spotify.com/track/6FaTiIqd2hAKtEZfrsaVuz"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "My Tribe",
+      "url": "https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Power Station",
@@ -1269,20 +1285,20 @@
       "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-04-08 04:01:00",
       "album": {
-        "name": "My Tribe",
-        "url": "https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0"
+        "name": "Wash, Rinse, Repeat.",
+        "url": "https://open.spotify.com/album/3OBj0oXIByaBqpj393VX1h"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Andy Frasco & the U.N.",
+          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
         }
       ],
-      "duration_ms": 183500,
-      "name": "My Tribe",
-      "url": "https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU"
+      "duration_ms": 195391,
+      "name": "Puff Break (Believe That)",
+      "url": "https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1303,22 +1319,6 @@
       "duration_ms": 322320,
       "name": "Don\u2019t Care",
       "url": "https://open.spotify.com/track/327XHz25Jg8Ib5O3qcYdGU"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Wash, Rinse, Repeat.",
-        "url": "https://open.spotify.com/album/3OBj0oXIByaBqpj393VX1h"
-      },
-      "artists": [
-        {
-          "name": "Andy Frasco & the U.N.",
-          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
-        }
-      ],
-      "duration_ms": 195391,
-      "name": "Puff Break (Believe That)",
-      "url": "https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1397,22 +1397,6 @@
       "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
     },
     {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "No Two Blue Ticks",
-        "url": "https://open.spotify.com/album/60jbQjMoA7bZwUDazWZTR1"
-      },
-      "artists": [
-        {
-          "name": "Royce Wood Junior",
-          "url": "https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT"
-        }
-      ],
-      "duration_ms": 237748,
-      "name": "Slush",
-      "url": "https://open.spotify.com/track/0el3QrOTm2o2W17WfaDEy7"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "AM Gold (Tobtok Remix)",
@@ -1437,6 +1421,22 @@
       "url": "https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug"
     },
     {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "No Two Blue Ticks",
+        "url": "https://open.spotify.com/album/60jbQjMoA7bZwUDazWZTR1"
+      },
+      "artists": [
+        {
+          "name": "Royce Wood Junior",
+          "url": "https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT"
+        }
+      ],
+      "duration_ms": 237748,
+      "name": "Slush",
+      "url": "https://open.spotify.com/track/0el3QrOTm2o2W17WfaDEy7"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Bluffin",
@@ -1451,6 +1451,22 @@
       "duration_ms": 159126,
       "name": "Bluffin",
       "url": "https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Space and Time",
+        "url": "https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n"
+      },
+      "artists": [
+        {
+          "name": "Tasha Angela",
+          "url": "https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk"
+        }
+      ],
+      "duration_ms": 212414,
+      "name": "Space and Time",
+      "url": "https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1471,22 +1487,6 @@
       "duration_ms": 201111,
       "name": "Trust the Change",
       "url": "https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Sunset Drive - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 193983,
-      "name": "Sunset Drive - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
     }
   ],
   "unique_name": "Ready for the Day",

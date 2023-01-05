@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,760 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,768 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 | 40 | [Forever with You](https://open.spotify.com/track/4YQLkLUyEro4Xeh9EGSNoX) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:20 |
 | 41 | [This Feeling Must Be Love](https://open.spotify.com/track/6RGu9NzuNh4yotd7ThcZV3) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 3:43 |
 | 42 | [If You Want Me](https://open.spotify.com/track/1kU7W8P5aCIyK7Qk19VcfB) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:19 |
-| 43 | [Kiss You All Over](https://open.spotify.com/track/0Edm8k4zRcVhHQMHJYrKAy) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded Edition\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 5:09 |
+| 43 | [Let Somebody Love You](https://open.spotify.com/track/4FNDRMB2ql57XkWYv6OFzr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Essential Phyllis Hyman](https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC) | 4:44 |
 | 44 | [Come Right or Not at All](https://open.spotify.com/track/0Rf1w4aSyzSwZyRh5PTKmR) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:37 |
-| 45 | [But I Love You](https://open.spotify.com/track/0ZyE4cTb4IRlMI3iwMoT8E) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 3:04 |
-| 46 | [I Ain't Asking](https://open.spotify.com/track/4T5FdL1wOaydngJjPLHyBb) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 4:02 |
-| 47 | [Let Somebody Love You](https://open.spotify.com/track/4FNDRMB2ql57XkWYv6OFzr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Essential Phyllis Hyman](https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC) | 4:44 |
+| 45 | [Kiss You All Over](https://open.spotify.com/track/0Edm8k4zRcVhHQMHJYrKAy) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded Edition\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 5:09 |
+| 46 | [But I Love You](https://open.spotify.com/track/0ZyE4cTb4IRlMI3iwMoT8E) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 3:04 |
+| 47 | [I Ain't Asking](https://open.spotify.com/track/4T5FdL1wOaydngJjPLHyBb) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 4:02 |
 | 48 | [Souvenirs](https://open.spotify.com/track/3yNsxa2HKOrEwov5Ygk5Jt) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:26 |
-| 49 | [Heavenly](https://open.spotify.com/track/4FmIRmhnvySm1rL5NV4E10) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:29 |
-| 50 | [In A Sentimental Mood](https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 3:26 |
+| 49 | [Black And Blue \(with Phyllis Hyman feat\. Tom Scott\) \- Digitally Remastered: 1996](https://open.spotify.com/track/18HuoV25f636YINxzO5p53) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX), [Tom Scott](https://open.spotify.com/artist/72ktMty33X1LsIzHdRr0U5), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Swing Street](https://open.spotify.com/album/402g6pypGOQN7AniaMpY1v) | 4:03 |
+| 50 | [Heavenly](https://open.spotify.com/track/4FmIRmhnvySm1rL5NV4E10) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:29 |
 
-Snapshot ID: `Mjc4NzkyNzUsMDAwMDAwMDA3OThkNzZlNjg4MjcxZjkxMWM5ZGRlZTI2NDQyMjYwYw==`
+Snapshot ID: `Mjc4ODA3MzQsMDAwMDAwMDA2OThhNGIxNTc1NzQwYjlmZTVhNWJiOTIyNmI0YjFkMQ==`

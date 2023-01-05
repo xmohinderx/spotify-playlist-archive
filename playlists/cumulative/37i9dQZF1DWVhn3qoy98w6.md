@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVhn3qoy98w6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVhn3qoy98w6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVhn3qoy98w6)
 
-### [Fresh Finds España: Lo mejor de 2022](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
+### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Las mejores canciones de Fresh Finds España en 2022\. Foto: navxja.
+> Artistas independientes emergentes, cada miércoles\. Foto: becerra.
 
 1,443 songs - 3 day 4 hr 52 min - [published](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
 

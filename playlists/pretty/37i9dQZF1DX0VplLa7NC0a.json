@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 28189,
+  "num_followers": 28215,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMGU1NzBiM2ViMDg2YzM5YjYzNGZkYzQyMzViNjMwNTg5",
+  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMDg0NjYwZWNkOWVlNWY1NmU4ODdkMWViZjY5N2RhYmQ2",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -375,70 +375,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
-        "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Beverly Sills",
-          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
-        },
-        {
-          "name": "Nicolai Gedda",
-          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
-        },
-        {
-          "name": "Sherrill Milnes",
-          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
-        },
-        {
-          "name": "Renato Capecchi",
-          "url": "https://open.spotify.com/artist/16LkUonMXYtr6O6b1Cru9d"
-        },
-        {
-          "name": "Ruggero Raimondi",
-          "url": "https://open.spotify.com/artist/6anJ9yWyrJuZ21vZATPnXI"
-        },
-        {
-          "name": "Michael Rippon",
-          "url": "https://open.spotify.com/artist/3oOqqpEAo2WJ14e6007MW9"
-        },
-        {
-          "name": "John Alldis Choir",
-          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
-        },
-        {
-          "name": "Joseph Galiano",
-          "url": "https://open.spotify.com/artist/3nJpgZaNtp2sFLc4aOm6yl"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        },
-        {
-          "name": "Fedora Barbieri",
-          "url": "https://open.spotify.com/artist/6WtDtkBoFeI5F8k3efObLj"
-        },
-        {
-          "name": "John Constable",
-          "url": "https://open.spotify.com/artist/0n1rARWLJOmd74L6frzZ5Y"
-        }
-      ],
-      "duration_ms": 349706,
-      "name": "Rossini: Il Barbiere di Siviglia, Act 1: \"Una voce poco f\u00e0\" (Rosina)",
-      "url": "https://open.spotify.com/track/0UjKBsUrFqiKrMPddGh1vb"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: L'Italiana in Algeri",
         "url": "https://open.spotify.com/album/1eLVymZVT0Fc9H18MiX8V9"
       },
@@ -519,6 +455,70 @@
       "duration_ms": 499626,
       "name": "Variazzioni di clarinetto in C Major",
       "url": "https://open.spotify.com/track/1UERWmNIaSWiGKfElxFqgj"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Beverly Sills",
+          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
+        },
+        {
+          "name": "Nicolai Gedda",
+          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
+        },
+        {
+          "name": "Sherrill Milnes",
+          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
+        },
+        {
+          "name": "Renato Capecchi",
+          "url": "https://open.spotify.com/artist/16LkUonMXYtr6O6b1Cru9d"
+        },
+        {
+          "name": "Ruggero Raimondi",
+          "url": "https://open.spotify.com/artist/6anJ9yWyrJuZ21vZATPnXI"
+        },
+        {
+          "name": "Michael Rippon",
+          "url": "https://open.spotify.com/artist/3oOqqpEAo2WJ14e6007MW9"
+        },
+        {
+          "name": "John Alldis Choir",
+          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
+        },
+        {
+          "name": "Joseph Galiano",
+          "url": "https://open.spotify.com/artist/3nJpgZaNtp2sFLc4aOm6yl"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        },
+        {
+          "name": "Fedora Barbieri",
+          "url": "https://open.spotify.com/artist/6WtDtkBoFeI5F8k3efObLj"
+        },
+        {
+          "name": "John Constable",
+          "url": "https://open.spotify.com/artist/0n1rARWLJOmd74L6frzZ5Y"
+        }
+      ],
+      "duration_ms": 349706,
+      "name": "Rossini: Il Barbiere di Siviglia, Act 1: \"Una voce poco f\u00e0\" (Rosina)",
+      "url": "https://open.spotify.com/track/0UjKBsUrFqiKrMPddGh1vb"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1087,8 +1087,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Piano Music, Vol. 3",
-        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
+        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
       },
       "artists": [
         {
@@ -1096,13 +1096,17 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
         }
       ],
-      "duration_ms": 310200,
-      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
-      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
+      "duration_ms": 358600,
+      "name": "Stabat Mater: Amen. In sempiterna saecula",
+      "url": "https://open.spotify.com/track/7eoImsitpeAFw4Q9VZ9WS8"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1131,8 +1135,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
-        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+        "name": "Rossini: Piano Music, Vol. 3",
+        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
       },
       "artists": [
         {
@@ -1140,17 +1144,13 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
         }
       ],
-      "duration_ms": 358600,
-      "name": "Stabat Mater: Amen. In sempiterna saecula",
-      "url": "https://open.spotify.com/track/7eoImsitpeAFw4Q9VZ9WS8"
+      "duration_ms": 310200,
+      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
+      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
     },
     {
       "added_at": "2022-06-28 08:38:32",

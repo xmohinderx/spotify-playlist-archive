@@ -4,7 +4,7 @@
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
 
-69 songs - 3 hr 27 min - not published yet
+70 songs - 3 hr 31 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Christmas in Connecticut with You \- From The Netflix Film "The Noel Diary"](https://open.spotify.com/track/3yg3hcZ6ld0vU6NAJ6yyF3) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [Christmas in Connecticut with You \(From The Netflix Film "The Noel Diary"\)](https://open.spotify.com/album/6l6uzqEi7IYHXogIHyioEe) | 3:16 | 2022-11-22 |  |
 | [Christmas Without You](https://open.spotify.com/track/5dTaAzAttwilDZNwJuf6yN) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:54 | 2022-11-18 |  |
 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 | 2022-11-18 |  |
-| [Diamonds \(Shine Bright\)](https://open.spotify.com/track/7vLejPnkOAHDdLxcnuzDEw) | [Loni Lovato](https://open.spotify.com/artist/78zmh0WTNg87VyzbGxDoHu) | [The Princess Switch The Ultimate Fantasy Playlist](https://open.spotify.com/album/2ol7ZnOj2eeKwBdy3sAuCJ) | 3:45 | 2022-11-18 |  |
+| [Diamonds \(Shine Bright\)](https://open.spotify.com/track/04JchRaXdanKuxR1HRYzcm) | [Loni Lovato](https://open.spotify.com/artist/78zmh0WTNg87VyzbGxDoHu) | [The Mighty Thor: The Complete Fantasy Playlist \- Loni Lovato](https://open.spotify.com/album/49BZUDxAcjlCTRNcRF6QSo) | 3:45 | 2022-11-18 |  |
+| [Diamonds \(Shine Bright\)](https://open.spotify.com/track/7vLejPnkOAHDdLxcnuzDEw) | [Loni Lovato](https://open.spotify.com/artist/78zmh0WTNg87VyzbGxDoHu) | [The Princess Switch The Ultimate Fantasy Playlist](https://open.spotify.com/album/2ol7ZnOj2eeKwBdy3sAuCJ) | 3:45 | 2022-11-18 | 2023-01-05 |
 | [Don Juan Comes To Life](https://open.spotify.com/track/1xoUqYTmTqMF24a4uBEQ5U) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Jingle Jangle: A Christmas Journey \(Score from the Netflix Original Film\)](https://open.spotify.com/album/2PQq1kd1uEjrpDrErtYYEX) | 1:04 | 2022-11-18 |  |
 | [Elfhelm, the City of the Elves](https://open.spotify.com/track/7bFn7fhtNkDyGmjzcRti02) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 3:18 | 2022-11-18 | 2022-11-23 |
 | [Everybody Loves Christmas](https://open.spotify.com/track/2FpQtDVsANiElh8gZ9M5Al) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Falling For Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI) | 3:16 | 2022-11-18 |  |

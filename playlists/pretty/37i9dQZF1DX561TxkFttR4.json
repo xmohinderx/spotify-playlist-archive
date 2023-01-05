@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 322789,
+  "num_followers": 322857,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDhiMmRjYTExMzIxNWIzNjRiOTcwMWIyMmY2OGRmNTY5",
+  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMGFhNzY2MDkzODNhOTE5MjM2ZjkyOWQ3NTU4NmQyZWJi",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sonic Apothecary",
-        "url": "https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb"
-      },
-      "artists": [
-        {
-          "name": "Rosey Chan",
-          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "pt. 1 Owl Light",
         "url": "https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 189906,
       "name": "pt. 1 Owl Light",
       "url": "https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Sonic Apothecary",
+        "url": "https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb"
+      },
+      "artists": [
+        {
+          "name": "Rosey Chan",
+          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Fractal",
-        "url": "https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 191114,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/19b9C2sQ0WGntW7vFAGrwO"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 152176,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/40DJUBObiPR4yQGuMUqZNQ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 191114,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Bylur",
-        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dagdraumur",
-      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Pr\u00e9lude",
         "url": "https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 171608,
       "name": "Pr\u00e9lude",
       "url": "https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Bylur",
+        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dagdraumur",
+      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Quintessence",
-        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
-      },
-      "artists": [
-        {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Quintessence",
-      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Col",
         "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 159000,
       "name": "The Void - I Play Mine version",
       "url": "https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Quintessence",
+        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Quintessence",
+      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
-      },
-      "artists": [
-        {
-          "name": "Ben Laver",
-          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Song For Katie",
         "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 146960,
       "name": "Song For Katie",
       "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1311,18 +1311,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Leo Minor",
-        "url": "https://open.spotify.com/album/4hqu9hDEGMbXCQKC8Znlyh"
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/7FPTqt19aPN3Wly3go9342"
       },
       "artists": [
         {
-          "name": "Evening Tales from the Stars",
-          "url": "https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM"
+          "name": "Niklas Blumenthaler",
+          "url": "https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG"
+        },
+        {
+          "name": "Jonas Gewald",
+          "url": "https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Leo Minor",
-      "url": "https://open.spotify.com/track/4PTSguUQ2hpeglvpBNn1qd"
+      "duration_ms": 143140,
+      "name": "First Steps",
+      "url": "https://open.spotify.com/track/78VCEkQtYNDml6W5xXgw81"
     }
   ],
   "unique_name": "Soft Piano",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,015 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,996 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 42 | [Mr\. Santa's Boogie](https://open.spotify.com/track/7vKQknqsE3GGB3YER5HGKQ) | [The Marshall Brothers](https://open.spotify.com/artist/0Ard7WDdg0QuhlBHL9ueI8) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 2:36 |
 | 43 | [Santa Claus Wants Some Lovin'](https://open.spotify.com/track/4NIprN2UmZsfOazPKLsU0j) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 3:23 |
 | 44 | [Christmas Tears](https://open.spotify.com/track/28zBYYxpLUsXaSV0mxGJLo) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J) | 4:22 |
-| 45 | [Please Let Me Be Your Santa Claus](https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 4:32 |
-| 46 | [A Bluesman's Christmas](https://open.spotify.com/track/7tjI7zKXCOVHS7cfaMMnLY) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 4:28 |
+| 45 | [A Bluesman's Christmas](https://open.spotify.com/track/7tjI7zKXCOVHS7cfaMMnLY) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 4:28 |
+| 46 | [Please Let Me Be Your Santa Claus](https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 4:32 |
 | 47 | [Merry Christmas](https://open.spotify.com/track/3OoPWE8UFg4Vu8kMsKRApn) | [Jesse "Babyface" Thomas](https://open.spotify.com/artist/69Yao8jRVjzUue5Mkcoblc) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 3:24 |
 | 48 | [Merry Christmas Baby](https://open.spotify.com/track/4p4z8a8I9ORaoFqhlEwUSY) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 5:05 |
 | 49 | [Really Been Good This Year](https://open.spotify.com/track/0vEVoUboMf7x6j2SEplQ8O) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 79 | [Christmas Morning Blues \- Remastered](https://open.spotify.com/track/6pOb1aPQkuyd3UldXh7SkK) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [The Bluebird Recordings, 1938](https://open.spotify.com/album/4HhTU3By2batodWLzxpYqc) | 3:23 |
 | 80 | [Sonny Boy's Christmas Blues](https://open.spotify.com/track/5rbIjCVVXOyTAdX7u59HZ7) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [King Biscuit Time](https://open.spotify.com/album/1aPpiXa9PkLqformEOgyIe) | 2:37 |
 
-Snapshot ID: `MTY3MTYyOTc4MSwwMDAwMDAwMDI1N2RiNTJhYmUwYWY3ZDBjNzk0MTA5ZTE4MmJjZjhi`
+Snapshot ID: `MTY3MTYyOTc4MSwwMDAwMDAwMGQxMTcxMWFiMzU3MzI4MGUzMDM1OWE0ZGRkYmE1NGJh`

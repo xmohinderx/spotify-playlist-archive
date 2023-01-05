@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover Chin Bees
 
-[Spotify](https://open.spotify.com/user/spotify) - 615 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 617 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sweet One](https://open.spotify.com/track/4ykeDeK1VqRPrwhmhlSC4R) | [DJ Gibbzy](https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Sweet One](https://open.spotify.com/album/0P9D6NdUurORu6Gk3w0fOW) | 3:26 |
+| 1 | [Sweet One](https://open.spotify.com/track/4ykeDeK1VqRPrwhmhlSC4R) | [DJ Gibbzy](https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB), [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [Sweet One](https://open.spotify.com/album/0P9D6NdUurORu6Gk3w0fOW) | 3:26 |
 | 2 | [Vitu Vingi](https://open.spotify.com/track/30Mrl3Y5T64ZK1usuQhhZt) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Vitu Vingi](https://open.spotify.com/album/09o8Ri7Y1ThTozxbeUpn6b) | 4:06 |
 | 3 | [Makasia](https://open.spotify.com/track/5MFbesCGzh06gWihcMf1m3) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0) | [Makasia](https://open.spotify.com/album/0aqYnaWyJmbT2vBkUtO09c) | 2:49 |
 | 4 | [HUJA BALEHE](https://open.spotify.com/track/0bhy8dg5uvuN3UpBqLfgpA) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK) | [HUJA BALEHE](https://open.spotify.com/album/0viy408sbHRu92XTCfDquZ) | 3:26 |

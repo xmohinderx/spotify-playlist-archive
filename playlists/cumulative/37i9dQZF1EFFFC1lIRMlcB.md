@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2SvaUOnqS5LqjhwNsyWEJZ">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-44 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/7mfwOKoChUftm0dzhlMWOc)
+45 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/7mfwOKoChUftm0dzhlMWOc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Encontro Com Jah](https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP) | [Irmãos de Fé](https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu) | [Livremente](https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa) | 4:05 | 2022-06-04 |  |
 | [Etiópia Sagrada](https://open.spotify.com/track/58LQob3LvS84O03sloPqzY) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:47 | 2022-06-04 |  |
 | [Familia Ponto](https://open.spotify.com/track/47VbY3pygnNQ4Ed9vPTwAf) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Familia Ponto](https://open.spotify.com/album/6geLZHAnVnFUiYErgxf4Qv) | 3:34 | 2022-06-04 |  |
-| [Fio da Fé](https://open.spotify.com/track/0azZ6YyIM3cwmCMn0sgEmF) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:00 | 2022-06-04 |  |
+| [Fio da Fé](https://open.spotify.com/track/0azZ6YyIM3cwmCMn0sgEmF) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:00 | 2022-06-04 | 2023-01-05 |
+| [Fio da Fé \- Ao Vivo](https://open.spotify.com/track/3FDJcbATfIrRFYVfGncD1Y) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Ao Vivo No República do Reggae](https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ) | 3:15 | 2023-01-04 |  |
 | [Genesis](https://open.spotify.com/track/1MwEVNDORoVWJDg6kRqWF3) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 3:47 | 2022-06-04 |  |
 | [Hipócritas](https://open.spotify.com/track/0x12Va4JiO5Qjqcy3VCFn4) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 4:08 | 2022-06-04 |  |
 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 | 2022-06-04 |  |

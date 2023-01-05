@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 18198,
+  "num_followers": 18232,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMDg3NTc2NzljYzgwZDVmM2Q1NGYzNGRkYzlmZTY0YmJi",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMDYxYzE0NmJhMWRjYjM0MmVmODMyMjQ4OWY3YmZiNWI5",
   "tracks": [
     {
       "added_at": "2022-11-07 19:08:41",
@@ -575,6 +575,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 288360,
+      "name": "Come To Mama",
+      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "That's What I Heard",
         "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
       },
@@ -592,17 +608,17 @@
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+        "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
         }
       ],
-      "duration_ms": 288360,
-      "name": "Come To Mama",
-      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
+      "duration_ms": 193106,
+      "name": "Bad Axe",
+      "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -619,22 +635,6 @@
       "duration_ms": 244623,
       "name": "Same Ole Feeling",
       "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Bad Axe",
-      "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
     },
     {
       "added_at": "2022-02-04 05:02:00",

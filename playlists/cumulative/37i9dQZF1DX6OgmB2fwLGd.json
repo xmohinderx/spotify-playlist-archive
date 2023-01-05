@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 209706,
       "name": "5g",
       "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 103401,
       "name": "Bag",
       "url": "https://open.spotify.com/track/0CyqjmmaRh3TL3ebR7vLhc"
@@ -2131,7 +2131,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 112207,
       "name": "Creme Brulee",
       "url": "https://open.spotify.com/track/3jvrZ6mIhVEH4XMpmqSTRI"
@@ -3344,6 +3344,32 @@
     },
     {
       "album": {
+        "name": "Finger Food",
+        "url": "https://open.spotify.com/album/5PMB3dVQeDR63EftsRyVd1"
+      },
+      "artists": [
+        {
+          "name": "Rolling Loud",
+          "url": "https://open.spotify.com/artist/1KV1kUwVWFHdF8J4GGiMkg"
+        },
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218413,
+      "name": "Finger Food",
+      "url": "https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ"
+    },
+    {
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
       },
@@ -3757,6 +3783,24 @@
       "duration_ms": 153999,
       "name": "Ginseng Strip 2002",
       "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
+    },
+    {
+      "album": {
+        "name": "Glitz",
+        "url": "https://open.spotify.com/album/49gvaENr5cHU0630n5GihD"
+      },
+      "artists": [
+        {
+          "name": "Joeyy",
+          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91853,
+      "name": "Glitz",
+      "url": "https://open.spotify.com/track/4pDZMkTyq5YQNYLIXq0xA0"
     },
     {
       "album": {
@@ -4181,6 +4225,24 @@
       "duration_ms": 155350,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF"
+    },
+    {
+      "album": {
+        "name": "A Gift And A Curse",
+        "url": "https://open.spotify.com/album/1yp7eZUWAXTHMcdjJV33PJ"
+      },
+      "artists": [
+        {
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129444,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1vAN7qLSqTf1JdINjcKphB"
     },
     {
       "album": {
@@ -5263,7 +5325,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 180666,
       "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
@@ -7012,6 +7074,24 @@
     },
     {
       "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "album": {
         "name": "Poland",
         "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
       },
@@ -7223,7 +7303,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 131868,
       "name": "Q-Pid",
       "url": "https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L"
@@ -8794,6 +8874,28 @@
     },
     {
       "album": {
+        "name": "THROW",
+        "url": "https://open.spotify.com/album/0rCfNI2MmlJPUySxVOCmYs"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        },
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138308,
+      "name": "THROW",
+      "url": "https://open.spotify.com/track/1cz9jUbkmRSX6jZmQrrSA9"
+    },
+    {
+      "album": {
         "name": "Throw It Back (Abow)",
         "url": "https://open.spotify.com/album/5mnNOn8Xg5oEXL0frscPIU"
       },
@@ -8979,7 +9081,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 169323,
       "name": "triflin'",
       "url": "https://open.spotify.com/track/1RxMN0IcPf5yauGJRUjlAS"
@@ -9791,6 +9893,24 @@
       "duration_ms": 152450,
       "name": "you're a parasite",
       "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
+    },
+    {
+      "album": {
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/34oMGIC2S2PeMK7ioJJTMK"
+      },
+      "artists": [
+        {
+          "name": "Fulcrum",
+          "url": "https://open.spotify.com/artist/6nbidWb6qovzknhOdeExt7"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148636,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/3HAJVHA9EEP3DFdqCK8Wsz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd"

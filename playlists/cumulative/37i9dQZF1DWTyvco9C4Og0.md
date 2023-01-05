@@ -4,7 +4,7 @@
 
 > Las leyendas del mariachi están aquí\. Yuridia en portada.
 
-172 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/2V0PHZyuVaI8QUBHcbfV2Z)
+173 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/2V0PHZyuVaI8QUBHcbfV2Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:03 | 2022-01-25 | 2022-11-13 |
 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/15uu7J5uhauYJ9hGtJ077N) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 3:04 | 2022-01-25 | 2022-07-29 |
 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 | 2022-01-25 |  |
-| [Usted No Me Olvida](https://open.spotify.com/track/4gE4qvNzrjB1htVTCw8n4x) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/1pZ3vJWhIYpzOvXbl62giM) | 3:13 | 2022-01-25 |  |
+| [Usted No Me Olvida](https://open.spotify.com/track/3GUqkrdLefqJmxVvN5Vgpv) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/5QKHBEpO54bTRj2PC8A0h6) | 3:13 | 2022-01-25 |  |
+| [Usted No Me Olvida](https://open.spotify.com/track/4gE4qvNzrjB1htVTCw8n4x) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/1pZ3vJWhIYpzOvXbl62giM) | 3:13 | 2022-01-25 | 2023-01-05 |
 | [Usted No Me Olvida](https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/3hwujUBUE4JRL4E7SXoJPY) | 3:13 | 2022-01-25 | 2022-07-29 |
 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 | 2022-05-06 | 2022-09-26 |
 | [Volver Volver](https://open.spotify.com/track/2T843kQT0bYF8fa5J9vOB4) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Historia De Un Idolo Vol.II](https://open.spotify.com/album/10xkQkDuJeUoGotXr48raI) | 2:57 | 2022-01-25 | 2022-06-21 |

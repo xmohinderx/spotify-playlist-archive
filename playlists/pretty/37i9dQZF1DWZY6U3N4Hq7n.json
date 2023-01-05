@@ -1,12 +1,12 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 322037,
+  "num_followers": 322207,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE4OTgwMywwMDAwMDAwMGFkY2I1MDEyNTJlMWI4NjJiMjlmYTA2OTU4NmM5ZWMy",
+  "snapshot_id": "MTY0MDE4OTgwMywwMDAwMDAwMDdiOWNmYzUwZDI3MjNmYzM3MTFjNWQ5MTRiZWUyMDQ4",
   "tracks": [
     {
       "added_at": "2021-12-22 16:16:43",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Physical (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 225992,
-      "name": "Physical - Remastered 2021",
-      "url": "https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Stone Cold Rhymin'",
         "url": "https://open.spotify.com/album/5epYkQqWldhYysHIH9mrmE"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 263914,
       "name": "Bust A Move",
       "url": "https://open.spotify.com/track/3IeCYkdKI55mNMl2o4vX0k"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Physical (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 225992,
+      "name": "Physical - Remastered 2021",
+      "url": "https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF"
     }
   ],
   "unique_name": "80s Workout",

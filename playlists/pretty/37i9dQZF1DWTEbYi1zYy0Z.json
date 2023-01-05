@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 41861,
+  "num_followers": 41905,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDdjNDdhYzQyOGQzM2IyMjI4NjMyNzgwNDI2MWY0MmMy",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDkyNzVkNGFlNGFjYTFjYjI0NDZmZWYyYTNiYTgxMzYz",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -429,6 +429,22 @@
       "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
     },
     {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 224237,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Making Love To You",
@@ -447,22 +463,6 @@
       "duration_ms": 285069,
       "name": "Making Love To You",
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 224237,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
     },
     {
       "added_at": "2022-02-14 15:14:54",
@@ -529,20 +529,20 @@
       "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Summertime in Nyc (Instrumental Mix)",
-        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
+        "name": "Summer in Blue",
+        "url": "https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o"
       },
       "artists": [
         {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
         }
       ],
-      "duration_ms": 210179,
-      "name": "Summertime in Nyc (Instrumental Mix)",
-      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
+      "duration_ms": 269129,
+      "name": "Summer In Blue",
+      "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -565,40 +565,20 @@
       "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Summer in Blue",
-        "url": "https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o"
-      },
-      "artists": [
-        {
-          "name": "Michael Broening",
-          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
-        }
-      ],
-      "duration_ms": 269129,
-      "name": "Summer In Blue",
-      "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
-    },
-    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
-        "name": "A Sunny Day",
-        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
+        "name": "Summertime in Nyc (Instrumental Mix)",
+        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
       },
       "artists": [
         {
-          "name": "WaKaNa",
-          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
-        },
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 255466,
-      "name": "Fika Talk",
-      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
+      "duration_ms": 210179,
+      "name": "Summertime in Nyc (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -621,28 +601,24 @@
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2022-05-20 04:02:00",
       "album": {
-        "name": "Ticket to Pittsburgh",
-        "url": "https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7"
+        "name": "A Sunny Day",
+        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
       },
       "artists": [
         {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+          "name": "WaKaNa",
+          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
         },
         {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        },
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
         }
       ],
-      "duration_ms": 323500,
-      "name": "Ticket to Pittsburgh",
-      "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
+      "duration_ms": 255466,
+      "name": "Fika Talk",
+      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -675,6 +651,30 @@
       "duration_ms": 256708,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Ticket to Pittsburgh",
+        "url": "https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        },
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 323500,
+      "name": "Ticket to Pittsburgh",
+      "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -749,6 +749,74 @@
       "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
     },
     {
+      "added_at": "2022-01-28 05:02:00",
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/5iS8xmYmYmxqUgdOVICdxr"
+      },
+      "artists": [
+        {
+          "name": "Christophe Goze",
+          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
+        }
+      ],
+      "duration_ms": 229237,
+      "name": "Soul to Soul - 2022 Version",
+      "url": "https://open.spotify.com/track/46xA9y3Fy9Igs0EnFK5CsX"
+    },
+    {
+      "added_at": "2022-10-17 15:45:13",
+      "album": {
+        "name": "Unspeakable",
+        "url": "https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U"
+      },
+      "artists": [
+        {
+          "name": "Sam Rucker",
+          "url": "https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE"
+        }
+      ],
+      "duration_ms": 226438,
+      "name": "Unspeakable",
+      "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Radio Vibe",
+        "url": "https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        },
+        {
+          "name": "Jeanette Harris",
+          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
+        }
+      ],
+      "duration_ms": 249529,
+      "name": "Radio Vibe - radio single",
+      "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Chicago Morning",
+        "url": "https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N"
+      },
+      "artists": [
+        {
+          "name": "Spontaneous Groovin' Combustion",
+          "url": "https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5"
+        }
+      ],
+      "duration_ms": 260398,
+      "name": "Chicago Morning",
+      "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "III",
@@ -781,74 +849,6 @@
       "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Radio Vibe",
-        "url": "https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        },
-        {
-          "name": "Jeanette Harris",
-          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
-        }
-      ],
-      "duration_ms": 249529,
-      "name": "Radio Vibe - radio single",
-      "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
-    },
-    {
-      "added_at": "2022-10-17 15:45:13",
-      "album": {
-        "name": "Unspeakable",
-        "url": "https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U"
-      },
-      "artists": [
-        {
-          "name": "Sam Rucker",
-          "url": "https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE"
-        }
-      ],
-      "duration_ms": 226438,
-      "name": "Unspeakable",
-      "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
-    },
-    {
-      "added_at": "2022-01-28 05:02:00",
-      "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/5iS8xmYmYmxqUgdOVICdxr"
-      },
-      "artists": [
-        {
-          "name": "Christophe Goze",
-          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
-        }
-      ],
-      "duration_ms": 229237,
-      "name": "Soul to Soul - 2022 Version",
-      "url": "https://open.spotify.com/track/46xA9y3Fy9Igs0EnFK5CsX"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Chicago Morning",
-        "url": "https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N"
-      },
-      "artists": [
-        {
-          "name": "Spontaneous Groovin' Combustion",
-          "url": "https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5"
-        }
-      ],
-      "duration_ms": 260398,
-      "name": "Chicago Morning",
-      "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
-    },
-    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "One More Night",
@@ -865,20 +865,20 @@
       "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
+        "name": "I Wanna Be Down",
+        "url": "https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
         }
       ],
-      "duration_ms": 245426,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
+      "duration_ms": 294252,
+      "name": "I Wanna Be Down",
+      "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
     }
   ],
   "unique_name": "New Smooth Jazz",

@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Nicole Horts en portada.
 
-171 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+172 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bandida](https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH) | [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie) | [Bandida](https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN) | 3:53 | 2021-12-13 |  |
 | [Bendita Diabla \- Apaga La Luz](https://open.spotify.com/track/0OxR238zEmOy20sSBbHgyK) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Bendita Diabla \(Apaga La Luz\)](https://open.spotify.com/album/1CYinQX03mYSKxn6kataX5) | 3:30 | 2021-12-13 |  |
 | [Beso Picor](https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Beso Picor](https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR) | 3:46 | 2021-12-13 | 2022-07-23 |
+| [Borrón Y Cuenta Nueva](https://open.spotify.com/track/5jvuhVvJZkNzQ2i72nmTn3) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Mangus](https://open.spotify.com/artist/6oZDTNrtPqFN5L7S9RaRVT) | [Borrón Y Cuenta Nueva](https://open.spotify.com/album/2UOJpxiTPuECDKFkJs1G3Z) | 3:21 | 2023-01-05 |  |
 | [Brillo en Soledad](https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr) | 4:22 | 2021-12-13 |  |
 | [Bésame Lento](https://open.spotify.com/track/2b1z1Z44zzakWfqTycS1rL) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Bésame Lento](https://open.spotify.com/album/5AF3raSCoWij16qck0msSm) | 3:58 | 2022-08-17 | 2023-01-04 |
 | [Cabrón](https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Cabrón](https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf) | 2:59 | 2022-11-25 |  |
@@ -97,7 +98,7 @@
 | [Loop](https://open.spotify.com/track/3w3aUB2r1gcAeO8OsBTtjN) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Loop](https://open.spotify.com/album/3yNmliCH10IlyFsMRUk564) | 2:40 | 2021-12-13 | 2022-07-29 |
 | [Loop](https://open.spotify.com/track/5wIplDRMg13vvFOmkLOPwG) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Memorias](https://open.spotify.com/album/3Qp9rzY87PqpkcYh3ePpCa) | 2:40 | 2022-07-22 | 2022-10-10 |
 | [Loop](https://open.spotify.com/track/6miE2oYUpQgUSUOS2jhEWk) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Memorias](https://open.spotify.com/album/4VEfY61c512LPilKX2W8lw) | 2:40 | 2022-09-23 |  |
-| [Luces De Tokyo](https://open.spotify.com/track/5o9L3Gpg5TZx5pKfKztBLa) | [B.A.M](https://open.spotify.com/artist/1eSpKHplhQCnjokd9wvAlV), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Luces De Tokyo](https://open.spotify.com/album/2stpbyfmnwBCbxktTLBppi) | 3:38 | 2022-08-01 |  |
+| [Luces De Tokyo](https://open.spotify.com/track/5o9L3Gpg5TZx5pKfKztBLa) | [B.A.M](https://open.spotify.com/artist/1eSpKHplhQCnjokd9wvAlV), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Luces De Tokyo](https://open.spotify.com/album/2stpbyfmnwBCbxktTLBppi) | 3:38 | 2022-08-01 | 2023-01-05 |
 | [Luz de Luna](https://open.spotify.com/track/0iA0fZPjdfsc7cmlL164Qg) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO) | [Fuego](https://open.spotify.com/album/42myA7rDKd1QWWMATQldju) | 4:39 | 2021-12-13 | 2022-11-25 |
 | [Makin Money](https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Makin Money](https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm) | 3:08 | 2022-04-18 |  |
 | [Margaritas](https://open.spotify.com/track/3XfFsjkdXHFk1O4OMXIcfa) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Margaritas](https://open.spotify.com/album/2duhmxOLOE7WlplLn2PCi2) | 2:46 | 2021-12-13 | 2022-01-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 
 > Put yourself to sleep with delta frequencies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,931 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,080 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,12 +89,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 | 79 | [Delta Texture](https://open.spotify.com/track/6mOIw0WpfWuPck0t9fxNsn) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 3:27 |
 | 80 | [Delta Sinus 113Hz \- 115Hz](https://open.spotify.com/track/4e1uW4MSy8BOyK0jJbDmnH) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Natural Healing](https://open.spotify.com/album/6lzDsptMU5Wk7mfPLxKji0) | 2:31 |
 | 81 | [Two Worlds Delta](https://open.spotify.com/track/2Tz4E2VYaVHmasmoXOGIom) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Delta Atmosphere](https://open.spotify.com/album/72WSIvz2C29GFf6Wh3bhMT) | 3:21 |
-| 82 | [Waveclouds \- Delta 145Hz \- 148Hz](https://open.spotify.com/track/34gTLxd3p2Yzpnv1m0F1Dq) | [Lotus Frequencies](https://open.spotify.com/artist/2xQkwPZQjdJHOuD4BrNFjd) | [Waveclouds](https://open.spotify.com/album/4y0p9YzK8tbOGFBgtRGrEQ) | 3:27 |
+| 82 | [Waveclouds \- Delta 145Hz \- 148Hz](https://open.spotify.com/track/34gTLxd3p2Yzpnv1m0F1Dq) | [Lotus Frequencies](https://open.spotify.com/artist/6FbnkqvAfBc6iR5kOMfHA5) | [Waveclouds](https://open.spotify.com/album/4y0p9YzK8tbOGFBgtRGrEQ) | 3:27 |
 | 83 | [Delta Pattern 74.0 Hz \- 78.0 Hz & Endearing Waves](https://open.spotify.com/track/0zbpwzbOKy77QEWbYzRkjB) | [Binaural Healing](https://open.spotify.com/artist/39LOiQkqidIYHMRLetlCsN) | [Delta Pattern Series \- Waves](https://open.spotify.com/album/0bWSTIUBPqfxkS0s0rBVk7) | 3:33 |
 | 84 | [Amber \(Delta Brainwave Version\)](https://open.spotify.com/track/0daPbQQ1cZWtQ0NPL2zIp1) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Delta Brainwaves](https://open.spotify.com/album/2XxJf2dDWmmrUCAYnpu2Lq) | 2:56 |
 | 85 | [sleepless nights Delta Sinus 109Hz \- 112Hz](https://open.spotify.com/track/4InR2J0FZNvQYp51xoKYJ5) | [oOcean](https://open.spotify.com/artist/6pjctIaHCJFvelpfzEiATn) | [Delta Sleep](https://open.spotify.com/album/3sNAAlIhr6Jion8yR8vyAs) | 3:27 |
 | 86 | [subconcious Delta Sinus 81 Hz \- 83Hz](https://open.spotify.com/track/3Mstj0T1X4Ux7bcRIdmVOy) | [Pixeo](https://open.spotify.com/artist/2CdpLUBjbFoWgopv6lTTYf) | [Binaural Reflections](https://open.spotify.com/album/3dxCxziHGfiIaqaJM4eTGL) | 2:20 |
-| 87 | [Sunrays \- Delta 94Hz \- 96Hz](https://open.spotify.com/track/1CesGp7vyNjZ4ybuaBlveg) | [Lotus Frequencies](https://open.spotify.com/artist/2xQkwPZQjdJHOuD4BrNFjd) | [Waveclouds](https://open.spotify.com/album/4y0p9YzK8tbOGFBgtRGrEQ) | 3:45 |
+| 87 | [Sunrays \- Delta 94Hz \- 96Hz](https://open.spotify.com/track/1CesGp7vyNjZ4ybuaBlveg) | [Lotus Frequencies](https://open.spotify.com/artist/6FbnkqvAfBc6iR5kOMfHA5) | [Waveclouds](https://open.spotify.com/album/4y0p9YzK8tbOGFBgtRGrEQ) | 3:45 |
 | 88 | [Delta Sinus 125 Hz \- L 128 Hz \- R \- Drone](https://open.spotify.com/track/3w15SEPuv2VCTQpO2kQUM3) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Delta Brainwaves For Deep Sleep](https://open.spotify.com/album/2T3TcvujzYCxkqwxhJkAL6) | 3:50 |
 | 89 | [Delta Pattern 101.0 Hz \- 103.0 Hz](https://open.spotify.com/track/6ZG23W2shJNTChsot9DZlc) | [Binaural Healing](https://open.spotify.com/artist/39LOiQkqidIYHMRLetlCsN) | [Delta Pattern Series \- Pure Sinus](https://open.spotify.com/album/6wj0JA3zY8afKCosI3PACG) | 3:04 |
 | 90 | [Binaural Delta 2 Hz](https://open.spotify.com/track/4HbRNPuvixnD5XDlIK6AnO) | [Relaxation Sleep Meditation](https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE) | [Binaural Beats and Isochronic Programs](https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR) | 2:00 |

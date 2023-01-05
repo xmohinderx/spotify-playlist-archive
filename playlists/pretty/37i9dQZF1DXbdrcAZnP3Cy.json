@@ -1,15 +1,15 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
-  "num_followers": 114124,
+  "num_followers": 114251,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1ODg0NiwwMDAwMDAwMDA2NmUxY2VkYjE1ODVlMzg3OWEzY2NmMWVlMDZiZDYz",
+  "snapshot_id": "MTY3MDQ1ODg0NiwwMDAwMDAwMDk2MDc0YTE2YTk2ZWU4N2JiZjA3ZGQzNTMzMmU0MTM3",
   "tracks": [
     {
-      "added_at": "2023-01-04 01:31:12",
+      "added_at": "2023-01-05 01:31:12",
       "album": {
         "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
     },
     {
-      "added_at": "2023-01-04 01:31:12",
+      "added_at": "2023-01-05 01:31:12",
       "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
-        "name": "Payaso de rodeo",
-        "url": "https://open.spotify.com/album/1NMqmkX9KhLoy5fXxtiS5S"
-      },
-      "artists": [
-        {
-          "name": "Caballo Dorado",
-          "url": "https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Payaso de rodeo",
-      "url": "https://open.spotify.com/track/0EVcfyLGhkvm2RMXMWI456"
-    },
-    {
-      "added_at": "2022-08-19 17:17:15",
-      "album": {
         "name": "Zool\u00f3gico Tropical",
         "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 198613,
       "name": "Cumbia De La Cobra",
       "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
+    },
+    {
+      "added_at": "2022-08-19 17:17:15",
+      "album": {
+        "name": "Payaso de rodeo",
+        "url": "https://open.spotify.com/album/1NMqmkX9KhLoy5fXxtiS5S"
+      },
+      "artists": [
+        {
+          "name": "Caballo Dorado",
+          "url": "https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "Payaso de rodeo",
+      "url": "https://open.spotify.com/track/0EVcfyLGhkvm2RMXMWI456"
     },
     {
       "added_at": "2022-08-19 17:17:15",
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR"
     },
     {
-      "added_at": "2023-01-04 01:31:12",
+      "added_at": "2023-01-05 01:31:12",
       "album": {
         "name": "El Muchacho Alegre",
         "url": "https://open.spotify.com/album/7lgWY3Kx4zTv1fgv0qaRCx"
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 188310,
+      "name": "Vamonos de Fiesta",
+      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
+    },
+    {
+      "added_at": "2022-08-19 17:17:15",
+      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 252946,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
-    },
-    {
-      "added_at": "2022-08-19 17:17:15",
-      "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 188310,
-      "name": "Vamonos de Fiesta",
-      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
     },
     {
       "added_at": "2022-08-19 17:17:15",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
-        "name": "El Coco No",
-        "url": "https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG"
+        "name": "C\u00f3mo Te Voy A Olvidar \u00a1Edici\u00f3n De S\u00faper Lujo!",
+        "url": "https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd"
       },
       "artists": [
         {
-          "name": "Roberto Junior Y Su Bande\u00f1o",
-          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 176840,
-      "name": "El Coco No",
-      "url": "https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T"
+      "duration_ms": 216986,
+      "name": "Mis Sentimientos",
+      "url": "https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p"
     },
     {
       "added_at": "2022-08-19 17:17:15",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
-        "name": "C\u00f3mo Te Voy A Olvidar \u00a1Edici\u00f3n De S\u00faper Lujo!",
-        "url": "https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd"
+        "name": "El Coco No",
+        "url": "https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Roberto Junior Y Su Bande\u00f1o",
+          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
         }
       ],
-      "duration_ms": 216986,
-      "name": "Mis Sentimientos",
-      "url": "https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p"
+      "duration_ms": 176840,
+      "name": "El Coco No",
+      "url": "https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T"
     },
     {
       "added_at": "2022-08-19 17:17:15",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+        "name": "Pistear, Pistear",
+        "url": "https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0"
       },
       "artists": [
         {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 164205,
-      "name": "La Dieta",
-      "url": "https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN"
+      "duration_ms": 165946,
+      "name": "Pistear, Pistear, Pistear",
+      "url": "https://open.spotify.com/track/6lsukPXxhMdPfG6nVtLE2R"
     },
     {
       "added_at": "2022-08-19 17:17:15",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
-        "name": "Pistear, Pistear",
-        "url": "https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0"
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
         }
       ],
-      "duration_ms": 165946,
-      "name": "Pistear, Pistear, Pistear",
-      "url": "https://open.spotify.com/track/6lsukPXxhMdPfG6nVtLE2R"
+      "duration_ms": 164205,
+      "name": "La Dieta",
+      "url": "https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN"
     },
     {
       "added_at": "2022-08-19 17:17:15",

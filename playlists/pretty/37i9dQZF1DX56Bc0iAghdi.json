@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
-  "num_followers": 18513,
+  "num_followers": 18522,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDVjZmYwMGUwNDEwNGIxMjU3M2IyYWEzY2VjY2Q3ODFi",
+  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMGJmZjg3ZTE4YTlkMTBmYWM1NjMyYmM2YTE1Y2UwYzAz",
   "tracks": [
     {
       "added_at": "2019-09-20 18:34:06",
@@ -731,6 +731,22 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 224000,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/2s1fclqSpABaF3TpXWZyDC"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -891,6 +891,22 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/0abL7FZysjxpaxEPURpBsl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 308173,
+      "name": "Everything for Nothing",
+      "url": "https://open.spotify.com/track/0nrzVrjEz8G49T0lSQd2sy"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
         "name": "DAILY",
         "url": "https://open.spotify.com/album/3SidUros5s6r6X4zhvr2sk"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 235312,
       "name": "Gone Are the Days (Julie Odnoralov Remix)",
       "url": "https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/0abL7FZysjxpaxEPURpBsl"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 308173,
-      "name": "Everything for Nothing",
-      "url": "https://open.spotify.com/track/0nrzVrjEz8G49T0lSQd2sy"
     },
     {
       "added_at": "2019-09-20 18:34:06",

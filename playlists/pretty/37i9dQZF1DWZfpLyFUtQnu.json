@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 39479,
+  "num_followers": 39552,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMzODY5NCwwMDAwMDAwMDQ2NWJjMjhiNTM4MjMxMzQ5Nzk3MzMzODMwMjcxNjQx",
+  "snapshot_id": "MTY3MDMzODY5NCwwMDAwMDAwMGU2Yzc3ZjhjOWI0YzgyZDI4MjM4OTFjZTM5Y2I3YWNi",
   "tracks": [
     {
       "added_at": "2022-12-06 14:58:14",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Alors regarde",
-        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "J'te l'dis quand m\u00eame",
-      "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "15 Ans D'Amour",
         "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 153666,
       "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
       "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Alors regarde",
+        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 219226,
+      "name": "J'te l'dis quand m\u00eame",
+      "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 396493,
-      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 248373,
       "name": "L'ombre et la lumi\u00e8re",
       "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 396493,
+      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
     },
     {
       "added_at": "2022-12-06 14:58:14",

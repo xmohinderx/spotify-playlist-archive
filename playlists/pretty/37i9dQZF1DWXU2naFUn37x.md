@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Shiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,386 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,495 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 27 | [Mariè \(feat\. Kassimi\)](https://open.spotify.com/track/5MfWyat51dW4EnIAl3HL3j) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Mariè \(feat\. Kassimi\)](https://open.spotify.com/album/47yhTU5uScGBADR14wgyC3) | 2:54 |
 | 28 | [TE STESSO](https://open.spotify.com/track/6ldbvvvkwxZ1Y6TE0hZToS) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [TE STESSO](https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ) | 2:39 |
 | 29 | [KILLY DEMON \(feat\. Gazo, Russ Millions\)](https://open.spotify.com/track/2lezD2AMp8JxPCdG4SPxbX) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 2:45 |
-| 30 | [NFT rmx \(feat\. SPOOKYPBL\)](https://open.spotify.com/track/1GscYUCIknNlvfM7cCfgQa) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [ERROR 442](https://open.spotify.com/album/7dlvM8V1Mods5Ltdugz6hB) | 2:11 |
+| 30 | [NFT rmx \(feat\. SPOOKYPBL\)](https://open.spotify.com/track/7qaLq0r4JWX1JWS3wnxfCH) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [ERROR 442](https://open.spotify.com/album/3cvVjdslZvZ8Ti1BeDXxEU) | 2:11 |
 | 31 | [Cartier \#1](https://open.spotify.com/track/0IZKfHXiZSlB6uGURuo29K) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Cartier \#1](https://open.spotify.com/album/0j18KQ9kbszuYt5GxDlj8D) | 2:37 |
 | 32 | [C'EST PAS FACIL](https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:21 |
 | 33 | [Come Te](https://open.spotify.com/track/6GRm5bcmVArMsd0SaUSn1V) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Come Te](https://open.spotify.com/album/0ZyYjmUSP7WTi3Qw2uBjOX) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Sexy Jersey](https://open.spotify.com/track/2ITfoGfIJOZ6iyu4C5GFvh) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Blocka Beatz](https://open.spotify.com/artist/1AnTVUsrFRQ3HBhpUZHi5p) | [Sexy Jersey](https://open.spotify.com/album/1zY0TsrS9Eqn6g36f2wUoH) | 2:45 |
 | 50 | [PARA](https://open.spotify.com/track/6sirNLUKtMOZWOJuQUputH) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn) | [ERROR 442](https://open.spotify.com/album/3cvVjdslZvZ8Ti1BeDXxEU) | 2:48 |
 
-Snapshot ID: `MTY3Mjc1NDIzOSwwMDAwMDAwMGU0YzQzYjVkYzQzMTE3MWZlNmE0NWMzMTFjY2IxYWUz`
+Snapshot ID: `MTY3Mjc1NDIzOSwwMDAwMDAwMDcwZjNlYzUxMzEwOTJjMDk3ZmY3Yzg5NWYwYjljYjc1`

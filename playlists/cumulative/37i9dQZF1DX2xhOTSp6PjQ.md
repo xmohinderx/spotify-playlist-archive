@@ -4,7 +4,7 @@
 
 > Maskandi favourites for every day of the week\. Cover: <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS\-wXav9tJWA">Phuzekhemisi</a>
 
-91 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/7MknMC7DjPGcBYDazt2RIC)
+92 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/7MknMC7DjPGcBYDazt2RIC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Endumisweni](https://open.spotify.com/track/3IPrZBtgOikNvhiUGQ8K4x) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2ABlTWUAfKDPnUThVIM614) | 4:25 | 2018-09-25 |  |
 | [Endumisweni](https://open.spotify.com/track/4uFD0tUSdPcG4XsHic6tCY) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Igazi Lami](https://open.spotify.com/album/5x72PkBa1vuzcaOj03qE4y) | 4:25 | 2018-09-25 | 2022-11-13 |
 | [Eshu Wesokalami](https://open.spotify.com/track/6UFkLF40TBGfVFry7LXSxJ) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Intencane](https://open.spotify.com/album/7doGg6TOO86pTXiyploISV) | 3:51 | 2022-09-01 |  |
-| [Eyokuza](https://open.spotify.com/track/6gJVTJap7XXAPY3qJKoAY4) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [EYOKUZA](https://open.spotify.com/album/65vZAeZNfrcfztUfYuyoWS) | 4:31 | 2020-10-20 |  |
+| [Eyokuza](https://open.spotify.com/track/6gJVTJap7XXAPY3qJKoAY4) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [EYOKUZA](https://open.spotify.com/album/65vZAeZNfrcfztUfYuyoWS) | 4:31 | 2020-10-20 | 2023-01-05 |
+| [Eyokuza](https://open.spotify.com/track/72gVqRVUJECbmu91Qu3fET) | [Mzukulu](https://open.spotify.com/artist/6opKhHzvL2v5u42eTzEmjN) | [Eyokuza](https://open.spotify.com/album/0r4p4Z9eRFUsKYq5OQiuHJ) | 4:31 | 2020-10-20 |  |
 | [Ijele](https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc) | [Ispoki Esingafi](https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu) | 4:29 | 2021-01-14 |  |
 | [Ikhotha Eyikhothayo](https://open.spotify.com/track/3NMCy2Oi6rNDeddoxCTqnM) | [Abagqobhi](https://open.spotify.com/artist/7eigkjZtpAoOSfWfif1qxK) | [Inunu Engafi](https://open.spotify.com/album/1eWFVrvhJw2B87pKyGdl4k) | 4:47 | 2018-09-25 |  |
 | [Ikhotha Eyikhothayo](https://open.spotify.com/track/5lQrJySa8SnAVFzrppqOyo) | [Abagqobhi](https://open.spotify.com/artist/7eigkjZtpAoOSfWfif1qxK) | [Inunu Engafi](https://open.spotify.com/album/0nc4IHahVp9BvuMNpPMrTE) | 4:47 | 2018-09-25 | 2022-07-29 |

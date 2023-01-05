@@ -606,6 +606,24 @@
     },
     {
       "album": {
+        "name": "Kanashii Uta ga Aru Riyuu - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/24CQHbc6MxX248Mo92qqpO"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357500,
+      "name": "Kanashii Uta ga Aru Riyuu - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/4nXxL11es8aPtbM04QSzKg"
+    },
+    {
+      "album": {
         "name": "Karakai",
         "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
       },
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 316210,
       "name": "Skiffle Song",
       "url": "https://open.spotify.com/track/5NyhaNUwfFWrfu5TRGlgi1"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 238800,
       "name": "\u3064\u3050\u307f",
       "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
@@ -1881,7 +1899,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 357500,
       "name": "\u60b2\u3057\u3044\u6b4c\u304c\u3042\u308b\u7406\u7531 - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/3eGkegHNB5lDuenaXHDdvz"

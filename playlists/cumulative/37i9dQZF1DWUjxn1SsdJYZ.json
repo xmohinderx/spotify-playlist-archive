@@ -216,6 +216,24 @@
     },
     {
       "album": {
+        "name": "Arabian Nights",
+        "url": "https://open.spotify.com/album/0JPS47gplkJvwHWL8yBYH2"
+      },
+      "artists": [
+        {
+          "name": "SheWantSev",
+          "url": "https://open.spotify.com/artist/6ZtJ96ByRPhrhusA2SInLB"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188304,
+      "name": "Arabian Nights",
+      "url": "https://open.spotify.com/track/5Pg5qp7OcAxSeIDTp6smYZ"
+    },
+    {
+      "album": {
         "name": "Arbok",
         "url": "https://open.spotify.com/album/31Vj9Ku1YcQMC0FNjaoY60"
       },

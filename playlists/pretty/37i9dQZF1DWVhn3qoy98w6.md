@@ -1,18 +1,18 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain](/playlists/plain/37i9dQZF1DWVhn3qoy98w6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVhn3qoy98w6)
 
-### [Fresh Finds España: Lo mejor de 2022](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
+### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Las mejores canciones de Fresh Finds España en 2022\. Foto: navxja.
+> Artistas independientes emergentes, cada miércoles\. Foto: becerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,806 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,844 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No tengo tiempo y me da que tú tampoco](https://open.spotify.com/track/68N9BcDdvuWZufhLQUBZb2) | [Mauri](https://open.spotify.com/artist/02dvTJ10rq2GCCk7Y0UvAf) | [No tengo tiempo y me da que tú tampoco](https://open.spotify.com/album/654X1pQqVGvk4n2t2lKbBy) | 2:25 |
-| 2 | [En esta ruina](https://open.spotify.com/track/7rAdCWFKgogADC9j6yePe3) | [Vermú](https://open.spotify.com/artist/7cXnpdXUUN67Vr3niD2dAi) | [En esta ruina](https://open.spotify.com/album/1sZobESHt5lSRZwC1AJBAq) | 4:09 |
-| 3 | [Y Qué Te Importa](https://open.spotify.com/track/4KUlMDTHEWgEqFfuZM0HNS) | [becerra.](https://open.spotify.com/artist/7q1hbjnDuDOLh5OKMbTiBk), [Darkoo](https://open.spotify.com/artist/4MGXDjy9qnlvgNpOTaCvVV) | [Y Qué Te Importa](https://open.spotify.com/album/001V9ClKWLp6iXd9KETxdj) | 3:34 |
-| 4 | [Zauriari Gatza](https://open.spotify.com/track/6k8DoKTShAQxfRu8VUj3Ye) | [Ghau](https://open.spotify.com/artist/3YZEFLOKZJy5hR7jy64oDE) | [Zauriari Gatza](https://open.spotify.com/album/7IVYbkxbiy8NYfklLC0Yr6) | 2:57 |
-| 5 | [mon cher](https://open.spotify.com/track/5k5ZXvaZXbGhKldLf7K1g8) | [Maddie Moon](https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS) | [mon cher](https://open.spotify.com/album/5zrZGRITW8CiRnY9ZVWliH) | 3:08 |
+| 1 | [Y Qué Te Importa](https://open.spotify.com/track/4KUlMDTHEWgEqFfuZM0HNS) | [becerra.](https://open.spotify.com/artist/7q1hbjnDuDOLh5OKMbTiBk), [Darkoo](https://open.spotify.com/artist/4MGXDjy9qnlvgNpOTaCvVV) | [Y Qué Te Importa](https://open.spotify.com/album/001V9ClKWLp6iXd9KETxdj) | 3:34 |
+| 2 | [No tengo tiempo y me da que tú tampoco](https://open.spotify.com/track/68N9BcDdvuWZufhLQUBZb2) | [Mauri](https://open.spotify.com/artist/02dvTJ10rq2GCCk7Y0UvAf) | [No tengo tiempo y me da que tú tampoco](https://open.spotify.com/album/654X1pQqVGvk4n2t2lKbBy) | 2:25 |
+| 3 | [En esta ruina](https://open.spotify.com/track/7rAdCWFKgogADC9j6yePe3) | [Vermú](https://open.spotify.com/artist/7cXnpdXUUN67Vr3niD2dAi) | [En esta ruina](https://open.spotify.com/album/1sZobESHt5lSRZwC1AJBAq) | 4:09 |
+| 4 | [mon cher](https://open.spotify.com/track/5k5ZXvaZXbGhKldLf7K1g8) | [Maddie Moon](https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS) | [mon cher](https://open.spotify.com/album/5zrZGRITW8CiRnY9ZVWliH) | 3:08 |
+| 5 | [Zauriari Gatza](https://open.spotify.com/track/6k8DoKTShAQxfRu8VUj3Ye) | [Ghau](https://open.spotify.com/artist/3YZEFLOKZJy5hR7jy64oDE) | [Zauriari Gatza](https://open.spotify.com/album/7IVYbkxbiy8NYfklLC0Yr6) | 2:57 |
 | 6 | [él siempre está ahí](https://open.spotify.com/track/522a5AIVidr0n1ptX3I1P5) | [OROVEGA](https://open.spotify.com/artist/1pW5kxwuPn0E0abawoXNH0), [AL\-BLANCO](https://open.spotify.com/artist/48l6q9lka8lOrmHjXZBCEJ) | [él siempre está ahí](https://open.spotify.com/album/3GFUtjmhSrrPMhUYutCRAZ) | 3:31 |
 | 7 | [Rica](https://open.spotify.com/track/0NnoZmacKWM87HA7hU939g) | [Marina Casellas](https://open.spotify.com/artist/4w4aMwjbBdkSy2lTmsR8GT) | [Rica](https://open.spotify.com/album/1Dit3XnuKV1Fj7Q4HXWNCv) | 3:09 |
 | 8 | [no me quisiste ver](https://open.spotify.com/track/1NOVGD4wXUMRdqlPVr6d28) | [Raquel Míguez](https://open.spotify.com/artist/0tryIujLhTuAfm17kZ03c7) | [no me quisiste ver](https://open.spotify.com/album/4QRrlRTRvFkMHsGz2UadBQ) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 74 | [Tan Bonita](https://open.spotify.com/track/7FRpB1imkRx4XmKrwYjOSt) | [Burze](https://open.spotify.com/artist/2VXE0RpkI2oIvk0EOMFULm), [Fash Oxigeno](https://open.spotify.com/artist/7hK5DBiKcxiLwwayRmdMSc), [Dellachaouen](https://open.spotify.com/artist/42KvInQHbbKzmb8rsimvwv) | [Tan Bonita](https://open.spotify.com/album/0mzQBkkGdliNii4ruhIICS) | 3:41 |
 | 75 | [Infiel felicidad](https://open.spotify.com/track/5QsvG3yYZYNKhfP6lOxhtB) | [Kike M](https://open.spotify.com/artist/03V1FJKRO1ZPrdA8zLxFu9), [Inés de Lis](https://open.spotify.com/artist/30A3yBYfPdIW32J8VNHjHF) | [Infiel felicidad](https://open.spotify.com/album/75Y1RMetQD1FjW0eidUA57) | 3:58 |
 
-Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMGEzY2VmNDY0NDFkMDBlYWI3ZGNlMjZmMDJjZGFmYjky`
+Snapshot ID: `MTY3MjgyMzExMCwwMDAwMDAwMDk1ZDliYTM5NzMxNmU0ZGExNWFhNTA0MTg0ODllMTIy`

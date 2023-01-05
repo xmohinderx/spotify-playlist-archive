@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 880306,
+  "num_followers": 880637,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDFhZmNkMmE4Y2Q5N2U0MDM5MDgwZTA3NWZlZWRmOGZm",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGQzMDc2YWE3MTQzZWRkN2M5MjVhNzJiMDZkNjYxOTM4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Feel Again, Pt. 1",
         "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN"
+      },
+      "artists": [
+        {
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Green Light (feat. Kate Wild)",
         "url": "https://open.spotify.com/album/6blqmHrgEubFGOJOcIsCUj"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 128272,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN"
-      },
-      "artists": [
-        {
-          "name": "Seth Hills",
-          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Feeling Of Falling",
-        "url": "https://open.spotify.com/album/4mDvJkye9PBF7jiU5nu7e7"
-      },
-      "artists": [
-        {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
-        },
-        {
-          "name": "The Inner Kids",
-          "url": "https://open.spotify.com/artist/6IxHiZKJFcPANOGrK0JQJh"
-        }
-      ],
-      "duration_ms": 163928,
-      "name": "Feeling Of Falling",
-      "url": "https://open.spotify.com/track/5ZL1VcP71UgUXRq9THSC8J"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "I Don't Really Care",
         "url": "https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 174193,
       "name": "I Don't Really Care",
       "url": "https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Feeling Of Falling",
+        "url": "https://open.spotify.com/album/4mDvJkye9PBF7jiU5nu7e7"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        },
+        {
+          "name": "The Inner Kids",
+          "url": "https://open.spotify.com/artist/6IxHiZKJFcPANOGrK0JQJh"
+        }
+      ],
+      "duration_ms": 163928,
+      "name": "Feeling Of Falling",
+      "url": "https://open.spotify.com/track/5ZL1VcP71UgUXRq9THSC8J"
     },
     {
       "added_at": "2022-12-16 05:00:00",

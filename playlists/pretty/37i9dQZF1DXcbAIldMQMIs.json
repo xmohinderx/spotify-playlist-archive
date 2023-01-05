@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 463165,
+  "num_followers": 463576,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1MTQ5OSwwMDAwMDAwMDBmYTFkNGMxMzk0NWE3NDRlM2Q3ODIyOGQ3MjE2M2Vk",
+  "snapshot_id": "MTY3MTE1MTQ5OSwwMDAwMDAwMDZjNmJiYWQxZGE4MzZlNDI1ZWIyYTQzODhkNjk5YTVl",
   "tracks": [
     {
       "added_at": "2022-12-16 00:44:59",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-12-16 00:44:59",
       "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
-    },
-    {
-      "added_at": "2022-12-16 00:44:59",
-      "album": {
         "name": "Not Your Muse (Deluxe)",
         "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 255986,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
+    },
+    {
+      "added_at": "2022-12-16 00:44:59",
+      "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
     },
     {
       "added_at": "2022-12-16 00:44:59",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-12-16 00:44:59",
       "album": {
-        "name": "dumb dumb",
-        "url": "https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 125256,
-      "name": "dumb dumb",
-      "url": "https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT"
-    },
-    {
-      "added_at": "2022-12-16 00:44:59",
-      "album": {
         "name": "The 1975 (Deluxe Version)",
         "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 240670,
       "name": "Fallingforyou",
       "url": "https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd"
+    },
+    {
+      "added_at": "2022-12-16 00:44:59",
+      "album": {
+        "name": "dumb dumb",
+        "url": "https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 125256,
+      "name": "dumb dumb",
+      "url": "https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT"
     },
     {
       "added_at": "2022-12-16 00:44:59",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-16 00:44:59",
       "album": {
-        "name": "What Do You Think About the Car?",
-        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Make Me Your Queen",
-      "url": "https://open.spotify.com/track/5QJuMhGWTUB4t9BqR7ndL3"
-    },
-    {
-      "added_at": "2022-12-16 00:44:59",
-      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 196560,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
+    },
+    {
+      "added_at": "2022-12-16 00:44:59",
+      "album": {
+        "name": "What Do You Think About the Car?",
+        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "Make Me Your Queen",
+      "url": "https://open.spotify.com/track/5QJuMhGWTUB4t9BqR7ndL3"
     },
     {
       "added_at": "2022-12-16 00:44:59",

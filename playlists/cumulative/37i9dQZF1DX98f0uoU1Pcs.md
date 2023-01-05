@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Special Interest
 
-363 songs - 19 hr 22 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+364 songs - 19 hr 26 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [Tuning In](https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Tuning In](https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y) | 1:55 | 2022-12-09 |  |
 | [TV or Not TV](https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [TV or Not TV](https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6) | 3:40 | 2021-10-22 | 2022-09-24 |
 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 | 2022-08-05 | 2022-08-17 |
-| [u dont kno me](https://open.spotify.com/track/1jbbnDJ54AGBRswmNm5PAw) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [u dont kno me](https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp) | 3:59 | 2022-03-25 |  |
+| [u dont kno me](https://open.spotify.com/track/1jbbnDJ54AGBRswmNm5PAw) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [u dont kno me](https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp) | 3:59 | 2022-03-25 | 2023-01-05 |
+| [u dont kno me](https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:59 | 2022-12-09 |  |
 | [Unproductive Funk](https://open.spotify.com/track/1s7vOMl4IyJsqKZGNVlnzI) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Unproductive Funk / Who Wants to Go Hunting?](https://open.spotify.com/album/61dzj1qngfSTlt8L9z2tQT) | 3:28 | 2022-06-10 |  |
 | [Up In The Clouds](https://open.spotify.com/track/7IDoIZhfvwKq3S7Xi0pIEY) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Up In The Clouds](https://open.spotify.com/album/0rSKsrW7yUabBN1vY3vr76) | 2:29 | 2021-10-07 | 2022-01-08 |
 | [Vitch](https://open.spotify.com/track/4M9BFaMCQE2OWglBL2RSAj) | [The Oil Barons](https://open.spotify.com/artist/1X4k52x8IUJFfRD7F6Erbi) | [Vitch](https://open.spotify.com/album/4uqeBoeBfwrXMlZfTsSzxI) | 5:58 | 2021-10-07 | 2022-01-08 |

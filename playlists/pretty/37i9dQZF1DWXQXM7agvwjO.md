@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Numcha \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,471 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,530 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 38 | [Melody on Replay](https://open.spotify.com/track/1rXM4OirUNGGtkbYeqZ9je) | [jomm](https://open.spotify.com/artist/2izgD6xMmNboivbb1A6PHE), [readyaimfire27](https://open.spotify.com/artist/2Y65mGq91IEC2tfXNotVQ2) | [Melody on Replay](https://open.spotify.com/album/0nbF8G410gMpuDCv7TMIx6) | 2:48 |
 | 39 | [Hurt Your Head](https://open.spotify.com/track/4uOXlQgcKiARO9BGPDMtbf) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Melt the Wax](https://open.spotify.com/album/7wsO6M6jZBciVOgYnhq18O) | 2:24 |
 | 40 | [do//die](https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [do//die](https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv) | 2:24 |
-| 41 | [Αφροδίτη](https://open.spotify.com/track/58s2FsMYLHbm2gnIqDqsH8) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK), [林奕碩 Lin I\-Shuo\(百合花Lilium\)](https://open.spotify.com/artist/4zphMjkxloNOU6Id7cqBPR) | [Αφροδίτη](https://open.spotify.com/album/3sGumso7JlqiWbKQReAzmW) | 3:53 |
+| 41 | [Αφροδίτη](https://open.spotify.com/track/58s2FsMYLHbm2gnIqDqsH8) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK), [林奕碩 Lin I\-Shuo\(百合花Lilium\)](https://open.spotify.com/artist/7xywz1UywWdW98s6N05KE3) | [Αφροδίτη](https://open.spotify.com/album/3sGumso7JlqiWbKQReAzmW) | 3:53 |
 | 42 | [perfect crime](https://open.spotify.com/track/3MXxxR1szyDyGz4tFvjEqi) | [Skinnyfabs](https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H) | [The Black Canvas](https://open.spotify.com/album/2334h24eIxcIbUym2SaPkP) | 2:55 |
 | 43 | [New World \(feat\. Lang Lee\)](https://open.spotify.com/track/1WAKQaJR9MrYCRRrzxtAwO) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn), [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [New World \(feat\. Lang Lee\)](https://open.spotify.com/album/13pOeFKntLGo1iROzONsEr) | 5:28 |
 | 44 | [Icarus \(See You Well\)](https://open.spotify.com/track/6uwcuemnRVDb8drtoTNFm4) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Icarus \(See You Well\)](https://open.spotify.com/album/7sfECZh0WkGzkPNYmwxAHr) | 3:18 |

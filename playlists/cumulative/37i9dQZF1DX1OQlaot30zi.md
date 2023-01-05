@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Sacky, Vegas, della Love Gang e molti altri.
 
-1,129 songs - 2 day 3 hr 44 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+1,130 songs - 2 day 3 hr 46 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,7 +677,8 @@
 | [Nella città](https://open.spotify.com/track/7ssHWCiZdSAgHIfN1SpwE3) | [Fill Koi](https://open.spotify.com/artist/1pOVx7BFsobOc6H2mIoaCG), [Lume 253](https://open.spotify.com/artist/6rpnpEV0ba6VqZqWgdHeVC) | [Nella città](https://open.spotify.com/album/1RhWkehglAwoEoytKpAdij) | 3:02 | 2022-11-18 | 2022-12-09 |
 | [Nessuno è figlio di nessuno](https://open.spotify.com/track/7krJeMeLG9B2R3kR76kSpV) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Il treno dell'anima](https://open.spotify.com/album/5NJjG40nOZrYrNJSsQWeii) | 2:57 | 2022-09-15 | 2022-09-30 |
 | [New York](https://open.spotify.com/track/4YWvc70x0VzrmCBN6UWHqC) | [Jack Chan](https://open.spotify.com/artist/4gWN4OBM0FWyqZ6xapWp8R), [Matma](https://open.spotify.com/artist/2iMmuG7mBNlsVLPy9sLkuK) | [New York](https://open.spotify.com/album/0tG0TLE9xuhbIKVu0MmqEa) | 4:39 | 2022-07-28 | 2022-08-13 |
-| [NFT rmx \(feat\. SPOOKYPBL\)](https://open.spotify.com/track/1GscYUCIknNlvfM7cCfgQa) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [ERROR 442](https://open.spotify.com/album/7dlvM8V1Mods5Ltdugz6hB) | 2:11 | 2022-12-12 |  |
+| [NFT rmx \(feat\. SPOOKYPBL\)](https://open.spotify.com/track/1GscYUCIknNlvfM7cCfgQa) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [ERROR 442](https://open.spotify.com/album/7dlvM8V1Mods5Ltdugz6hB) | 2:11 | 2022-12-12 | 2023-01-05 |
+| [NFT rmx \(feat\. SPOOKYPBL\)](https://open.spotify.com/track/7qaLq0r4JWX1JWS3wnxfCH) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [ERROR 442](https://open.spotify.com/album/3cvVjdslZvZ8Ti1BeDXxEU) | 2:11 | 2023-01-03 |  |
 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 | 2022-06-02 | 2022-06-24 |
 | [NIENTE DI PERSONALE](https://open.spotify.com/track/47VTJuKkzUdjKw0ICWtCTW) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [NIENTE DI PERSONALE](https://open.spotify.com/album/3fK8ivB7OV3yk9zvaP7Zsv) | 2:59 | 2022-11-04 | 2022-11-18 |
 | [NIENTE HA SENSO](https://open.spotify.com/track/7DM6onEsHThpvcDMozMWwh) | [MIKE ONE](https://open.spotify.com/artist/6Gcelxx8sUFyCYeF7wKDtd) | [NIENTE HA SENSO](https://open.spotify.com/album/01TKRJIglXsf5tZLKwkQot) | 1:16 | 2022-08-25 | 2022-09-16 |

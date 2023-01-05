@@ -4,7 +4,7 @@
 
 > Hip hop heat from the Lone Star State for when you're feeling unstoppable.
 
-188 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/1j5aPaTR4FsrKtjz3zIXQR)
+189 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/1j5aPaTR4FsrKtjz3zIXQR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Smile](https://open.spotify.com/track/1ahN0hS1fPp3t5dIUrcfh8) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Sauce Beach Florida](https://open.spotify.com/album/3MKC3KePgYR2Et6PvtHNfo) | 3:45 | 2022-09-01 | 2022-10-14 |
 | [Smile](https://open.spotify.com/track/2JoWJ6MqFU1tH95OFpRBp3) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Smile](https://open.spotify.com/album/2lu3gHHtAPmiBpQe4wMM23) | 3:46 | 2022-10-13 | 2022-12-02 |
 | [Smokey the Bear](https://open.spotify.com/track/0b3GWZWhfJ4wKVn8Skawie) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN), [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [CME or Nothing 2](https://open.spotify.com/album/6vv91s4SK8huT5rUVw6ZDe) | 3:03 | 2022-09-01 | 2022-09-10 |
+| [Solid](https://open.spotify.com/track/3kPhMvP1A5M7cEJON3Q7YH) | [Deuce B](https://open.spotify.com/artist/1Ii4hkVp16i905iO1AbkLO), [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV) | [Solid](https://open.spotify.com/album/1Q4itWYIDP3HU1FCtGdD1t) | 3:46 | 2023-01-04 |  |
 | [SRT \(feat\. EST Gee\)](https://open.spotify.com/track/47Ft1TQcpgWcENKLhfymlE) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [GasGod 2](https://open.spotify.com/album/30ZkAc4eDuAOPnlZkpVQKq) | 2:37 | 2022-09-09 | 2022-11-02 |
 | [SRT \(feat\. OTB Fastlane\)](https://open.spotify.com/track/4goyaIOHI67Nod52RsPt90) | [Guapo](https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6), [OTB Fastlane](https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj) | [SRT \(feat\. OTB Fastlane\)](https://open.spotify.com/album/1or6SskWw7SII7QoladS34) | 2:30 | 2022-09-01 | 2022-11-02 |
 | [Still Da Type](https://open.spotify.com/track/7cBxMW3rLFsgGOUiajaHor) | [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI) | [Superhero Sos](https://open.spotify.com/album/6ndKtEAg2SLWAhGd1GOZYo) | 2:54 | 2022-10-13 |  |

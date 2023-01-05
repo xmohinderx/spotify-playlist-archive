@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,067 likes - 130 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,266 likes - 130 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 39 | [Binaural Alpha Sinus 300 Hz \- L 308 Hz \- R](https://open.spotify.com/track/2UhpilHNO7eleMYswgCNUP) | [Electonic Arts](https://open.spotify.com/artist/4eUGeFDwIOaHPNz6Sh2liB) | [Binaural Beta Sinus 200 Hz \- L 230 Hz \- R](https://open.spotify.com/album/65mXuLi5O8iLkLO9qkmTSX) | 1:52 |
 | 40 | [Sternschnuppen \- Alpha Sinus 112Hz \- 119Hz](https://open.spotify.com/track/2EkF4GWkfGmZpoQRI4qgi2) | [Jovian Tides](https://open.spotify.com/artist/4uLQlhaWlgG45om0nfCN5u) | [Mind States](https://open.spotify.com/album/2vHTWqcUcGUs9vxzlFXc7c) | 4:29 |
 | 41 | [In The Zone Alpha Sinus 73Hz \- 81Hz](https://open.spotify.com/track/3FZYjhe4gkudKW3IWmsCtm) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:11 |
-| 42 | [Fantasia \- Alpha Sinus 95Hz \- 103Hz](https://open.spotify.com/track/6yDMWJ9KFUtFkQndXVVJry) | [Binaural Movements](https://open.spotify.com/artist/5vnI5x0SucmBVIVGHq8fjn) | [Access to the Subconcious](https://open.spotify.com/album/5Z4FDimtghanNx9Yzuu64m) | 2:41 |
+| 42 | [Fantasia \- Alpha Sinus 95Hz \- 103Hz](https://open.spotify.com/track/6yDMWJ9KFUtFkQndXVVJry) | [Binaural Movements](https://open.spotify.com/artist/7qgmuFa8s0woxvn8Tnl84Q) | [Access to the Subconcious](https://open.spotify.com/album/5Z4FDimtghanNx9Yzuu64m) | 2:41 |
 | 43 | [Basic \- Alpha Sinus 85,2hz \- 89,4 hz](https://open.spotify.com/track/0OHNBGd4rLVAyBO3SufMzM) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:47 |
 | 44 | [Alpha Circles 90Hz \- 101Hz](https://open.spotify.com/track/1yJPgthQTuA2AnuzAykO8Z) | [Sound Particles](https://open.spotify.com/artist/0t19WH6KeglNXa5gLjsCwN) | [Sleep Sound](https://open.spotify.com/album/3e9PIFNGipQqAxGUkeOw29) | 3:33 |
 | 45 | [Strings Drone Alpha 257Hz \- 265Hz](https://open.spotify.com/track/00p7AIp2Y5iNg3QrMYpGDW) | [Floating States](https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN) | [Violin Drones](https://open.spotify.com/album/61U6duTreheP36EenAHyVx) | 2:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,050 likes - 102 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,059 likes - 102 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 50 | [7](https://open.spotify.com/track/6VyfmBp0tqEWBQAg2DkjyC) | [Dear Criminals](https://open.spotify.com/artist/0RRHsaFaNgJg9vHSWsQ4kg) | [Fatale](https://open.spotify.com/album/0RB7JoaGx5mcCcDbMDyRM9) | 1:56 |
 | 51 | [Rouge\-gorge](https://open.spotify.com/track/7MVdiX7zo5AnRDmaL0Loc4) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [La grande nuit vidéo](https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv) | 3:24 |
 | 52 | [Elles](https://open.spotify.com/track/2f1aeMuXIJDlI4YbaihQ4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Elles](https://open.spotify.com/album/0KNqhfKtNUKjQFiZFKR0Fp) | 4:13 |
-| 53 | [Blanche](https://open.spotify.com/track/7LN8oqenTTOT5JDFvLPcFn) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/0A2VRfeYH8NGbjX0lTY37B) | 2:36 |
-| 54 | [Voltige](https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy) | [Martin Lizotte](https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5) | [Ubiquité](https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8) | 3:20 |
+| 53 | [Voltige](https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy) | [Martin Lizotte](https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5) | [Ubiquité](https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8) | 3:20 |
+| 54 | [Blanche](https://open.spotify.com/track/7LN8oqenTTOT5JDFvLPcFn) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/0A2VRfeYH8NGbjX0lTY37B) | 2:36 |
 | 55 | [Elton d'août \- Remix](https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Étienne d'août](https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE) | 5:12 |
 | 56 | [Vers le sud](https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [27 fois l'aurore](https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT) | 3:11 |
 | 57 | [L’oiseau mécanique](https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB) | [Stéphanie Lapointe](https://open.spotify.com/artist/0bEvfTJsHHsTxqpqzWGXDw) | [Les amours parallèles](https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82) | 3:38 |
@@ -98,17 +98,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 88 | [Jamais seule](https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop) | [Joëlle Saint\-Pierre](https://open.spotify.com/artist/2zRlXq6hJhad1sQiqAZjl7) | [Et toi, tu fais quoi?](https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX) | 3:09 |
 | 89 | [L'hiver](https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Alexe](https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL) | 4:33 |
 | 90 | [Madame \(Version douce\)](https://open.spotify.com/track/70rWuK3787LF5UE2Xe6YJS) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [EP de malade](https://open.spotify.com/album/6cHm4D6a3fOhQ9veQVgXBH) | 3:26 |
-| 91 | [Oubliette](https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU) | [Flying Hórses](https://open.spotify.com/artist/1T7bvedeLNoiYBANGErlUq) | [Tölt](https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX) | 5:44 |
-| 92 | [Le courant](https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW) | [Claudelle](https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD) | [Le courant](https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr) | 3:14 |
-| 93 | [Habiter l'avenir](https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg) | [Steve Marin](https://open.spotify.com/artist/12DRXR9D3T4jBM9Y88FA7u) | [Mélodica](https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO) | 3:25 |
+| 91 | [Habiter l'avenir](https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg) | [Steve Marin](https://open.spotify.com/artist/12DRXR9D3T4jBM9Y88FA7u) | [Mélodica](https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO) | 3:25 |
+| 92 | [Oubliette](https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU) | [Flying Hórses](https://open.spotify.com/artist/1T7bvedeLNoiYBANGErlUq) | [Tölt](https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX) | 5:44 |
+| 93 | [Le courant](https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW) | [Claudelle](https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD) | [Le courant](https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr) | 3:14 |
 | 94 | [Trente ans](https://open.spotify.com/track/6r3cIFIGFvyPSfUr5Zo3TH) | [Laurence Hélie](https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE) | [À présent le passé](https://open.spotify.com/album/0bOhCZxJxzmagub38daJi4) | 4:29 |
 | 95 | [Rien ne se perd, rien ne se crée](https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Une Version Améliorée De La Tristesse](https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr) | 3:06 |
 | 96 | [Il m'en aura fallu du temps](https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq) | [Charles\-Antoine Gosselin](https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F) | [Bleu Soleil](https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK) | 4:07 |
-| 97 | [Samara](https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5) | [Sarah Bourdon](https://open.spotify.com/artist/4UaeNuHgR5vlCt35BhaKus) | [Vallée d'argent](https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr) | 4:44 |
-| 98 | [Poisson d'abysse](https://open.spotify.com/track/2FLmfUEeSIrgPmcougor2L) | [Gaële](https://open.spotify.com/artist/6MnPFVtcXiuBiAGles7uDj) | [Télescope](https://open.spotify.com/album/3nTN7u6XfMkPyqfurixUhW) | 4:44 |
-| 99 | [Kirchner](https://open.spotify.com/track/21eM5pe7tcdFC6tuMsWUcT) | [Pierre\-Luc Bégin](https://open.spotify.com/artist/1Rm7zYm9yskPYPDuaIwtj4), [Julia Daigle](https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x), [Eliane Préfontaine](https://open.spotify.com/artist/3HSPxXzUPTM2POFM5P7lxr), [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f) | [Kirchner](https://open.spotify.com/album/2OxNLJ1bSn8tIxlIdUuvRi) | 3:00 |
-| 100 | [Dactylo](https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m) | [Samuele](https://open.spotify.com/artist/0p0KSaRWc5tzxkzbujbScQ) | [Les filles sages vont au paradis les autres vont où elles veulent](https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn) | 4:16 |
+| 97 | [Poisson d'abysse](https://open.spotify.com/track/2FLmfUEeSIrgPmcougor2L) | [Gaële](https://open.spotify.com/artist/6MnPFVtcXiuBiAGles7uDj) | [Télescope](https://open.spotify.com/album/3nTN7u6XfMkPyqfurixUhW) | 4:44 |
+| 98 | [Samara](https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5) | [Sarah Bourdon](https://open.spotify.com/artist/4UaeNuHgR5vlCt35BhaKus) | [Vallée d'argent](https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr) | 4:44 |
+| 99 | [Dactylo](https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m) | [Samuele](https://open.spotify.com/artist/0p0KSaRWc5tzxkzbujbScQ) | [Les filles sages vont au paradis les autres vont où elles veulent](https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn) | 4:16 |
+| 100 | [Kirchner](https://open.spotify.com/track/21eM5pe7tcdFC6tuMsWUcT) | [Pierre\-Luc Bégin](https://open.spotify.com/artist/1Rm7zYm9yskPYPDuaIwtj4), [Julia Daigle](https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x), [Eliane Préfontaine](https://open.spotify.com/artist/3HSPxXzUPTM2POFM5P7lxr), [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f) | [Kirchner](https://open.spotify.com/album/2OxNLJ1bSn8tIxlIdUuvRi) | 3:00 |
 | 101 | [Grand mal](https://open.spotify.com/track/0LN18forBwwfYK9GU2vt92) | [ludovic alarie](https://open.spotify.com/artist/5YQJ21kmCLdhMccxqJoDWU) | [Ludovic Alarie](https://open.spotify.com/album/0FxH3Lu9Sxu501EFCauomP) | 4:50 |
 | 102 | [Ce monde](https://open.spotify.com/track/2mUWSp5aSbvSCNeW18SE5I) | [VAN Piunno](https://open.spotify.com/artist/7HQokVgxCA3pXAieQ9HuXI) | [Ce monde \- Single](https://open.spotify.com/album/0E6O5g66aIM69v7YjCw6ov) | 3:19 |
 
-Snapshot ID: `MTYxMjU4MTE2MCwwMDAwMDAwMDI5NDE5ZWZhNzZlOTAzMDg1NzVjYTU0ZTYzMmQzNjdk`
+Snapshot ID: `MTYxMjU4MTE2MCwwMDAwMDAwMGM0MDY5MzZhMTBjNTI1MThhMmYzMWMzNDRjZTYxYzVh`

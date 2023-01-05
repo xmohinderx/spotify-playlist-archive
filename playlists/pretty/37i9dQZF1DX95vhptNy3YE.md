@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Oruam e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,290 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,663 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 40 | [100 Mili](https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [100 Mili](https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi) | 2:22 |
 | 41 | [Deixa Alagar](https://open.spotify.com/track/33gI0PsuMH9dY5xlckLFMH) | [Intimistas](https://open.spotify.com/artist/1ZPgwb5xgD5YYEnv0kEJb2) | [Talismã da Sorte](https://open.spotify.com/album/1wrF7lErTdohIXuUBxkSc8) | 3:25 |
 | 42 | [Rotina](https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:16 |
-| 43 | [PagoFunk \#01](https://open.spotify.com/track/4v0FcvplTLHasjv0Pbicqb) | [Mc Vetão](https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5), [Mc Neguinho do Corte](https://open.spotify.com/artist/5pA8pFAscsP7ZMqzEkXlVr), [Riketa](https://open.spotify.com/artist/5UIGzgzyF7nG4TByzqq8Ki), [Mc Taygger SP](https://open.spotify.com/artist/1Mw9vN4FdzIDIXpaJJFOuV), [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [PagoFunk \#01](https://open.spotify.com/album/5LFhShnKFIiNxjjhJvZM0c) | 5:05 |
-| 44 | [3 Marias](https://open.spotify.com/track/4pQ2WvtAOJrdm8lN8BGnE4) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 7:25 |
+| 43 | [3 Marias](https://open.spotify.com/track/4pQ2WvtAOJrdm8lN8BGnE4) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 7:25 |
+| 44 | [PagoFunk \#01](https://open.spotify.com/track/4v0FcvplTLHasjv0Pbicqb) | [Mc Vetão](https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5), [Mc Neguinho do Corte](https://open.spotify.com/artist/5pA8pFAscsP7ZMqzEkXlVr), [Riketa](https://open.spotify.com/artist/5UIGzgzyF7nG4TByzqq8Ki), [Mc Taygger SP](https://open.spotify.com/artist/1Mw9vN4FdzIDIXpaJJFOuV), [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [PagoFunk \#01](https://open.spotify.com/album/5LFhShnKFIiNxjjhJvZM0c) | 5:05 |
 | 45 | [Acaju](https://open.spotify.com/track/4ClelpEpACByNDtO105jWC) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Acaju](https://open.spotify.com/album/0PmRFNK871H7c4LQi1lKPf) | 2:42 |
 | 46 | [Quest](https://open.spotify.com/track/2JyzrRWYel4FiB7NbJuH7E) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl) | [Quest](https://open.spotify.com/album/1lOjoZGWkaw4VTp7rvKmNd) | 2:43 |
 | 47 | [Maldita](https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Auto Filter](https://open.spotify.com/track/710nUmKdg0R0YGoHcxIhje) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Auto Filter](https://open.spotify.com/album/6jDENEt6mLAqNY8AKnzf19) | 3:48 |
 | 50 | [D'áfrica](https://open.spotify.com/track/5eN1WGpYcHelf8tMnn9Fn2) | [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [D'áfrica](https://open.spotify.com/album/1hSHeYLWqW5amNMqRMIYMj) | 3:27 |
 
-Snapshot ID: `MTY3MjY3MDM0MywwMDAwMDAwMGFlZmU2Y2QxNTlkNDYxYjk4NmMzMDJiYmU1ODM4ODVj`
+Snapshot ID: `MTY3MjY3MDM0MywwMDAwMDAwMGU5YzJmNGU0MzQwODIzMmE2NjAxMDJmODI0ZGU1NzAw`

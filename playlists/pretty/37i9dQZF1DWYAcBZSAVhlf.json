@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 185709,
+  "num_followers": 185972,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc1ODM3NywwMDAwMDAwMDAyMzQzNDAxYTY4NWE5OTM1MjVhMDM0NGYwMjYxYWQy",
+  "snapshot_id": "MTY3Mjc1ODM3NywwMDAwMDAwMDM5NWFhYTg5ZTMzYjgwZDRmOGIwNmY1MzMyZGFlNjlk",
   "tracks": [
     {
       "added_at": "2022-05-11 12:45:34",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Colour By Numbers",
-        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
-      },
-      "artists": [
-        {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Karma Chameleon - Remastered 2002",
-      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Colour By Numbers",
+        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Karma Chameleon - Remastered 2002",
+      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Simple Pleasures",
         "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 294400,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "Walk of Life",
-      "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Love Songs (A Compilation Old and New)",
         "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 204386,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "Walk of Life",
+      "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Popped In Souled Out",
-        "url": "https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1"
-      },
-      "artists": [
-        {
-          "name": "Wet Wet Wet",
-          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Sweet Little Mystery",
-      "url": "https://open.spotify.com/track/58qBa4R0T7u0ZiuRvMJRUN"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+        "name": "Popped In Souled Out",
+        "url": "https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+          "name": "Wet Wet Wet",
+          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
         }
       ],
-      "duration_ms": 244773,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
+      "duration_ms": 224933,
+      "name": "Sweet Little Mystery",
+      "url": "https://open.spotify.com/track/58qBa4R0T7u0ZiuRvMJRUN"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1443,6 +1427,22 @@
       "duration_ms": 208520,
       "name": "You Came - Single Version",
       "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Cocker",
-        "url": "https://open.spotify.com/album/0YnLeYOGgy0vtxQRbgW7s1"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 255293,
-      "name": "You Can Leave Your Hat On",
-      "url": "https://open.spotify.com/track/1x9iOd3K1JC6tdjGZJpFgZ"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "80s 100 Hits",
         "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 192666,
       "name": "The Lion Sleeps Tonight",
       "url": "https://open.spotify.com/track/1so85Or3C7J0sBnBOucVBA"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Cocker",
+        "url": "https://open.spotify.com/album/0YnLeYOGgy0vtxQRbgW7s1"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 255293,
+      "name": "You Can Leave Your Hat On",
+      "url": "https://open.spotify.com/track/1x9iOd3K1JC6tdjGZJpFgZ"
     },
     {
       "added_at": "2022-05-11 12:45:34",

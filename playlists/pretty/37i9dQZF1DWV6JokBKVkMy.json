@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 453,
+  "num_followers": 455,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMGJiYzZmMGQ0ZjczYmJhMWQwYjM3OGEyMmU5NGEyYmI5",
+  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDkyMWExYWNmZTdkZjk3OTk3Nzc2MTljODNlYmUxOTY0",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -167,6 +167,26 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Di pain griy\u00e9",
+        "url": "https://open.spotify.com/album/2jCW2gVLxfJ7Sj1KtNyWgr"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
+        },
+        {
+          "name": "Cassiya",
+          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "Di pain griy\u00e9",
+      "url": "https://open.spotify.com/track/7oHhCJYWfrQC6000ZhGrEk"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Trottinette",
         "url": "https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 184800,
       "name": "Trottinette",
       "url": "https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Di pain griy\u00e9",
-        "url": "https://open.spotify.com/album/2jCW2gVLxfJ7Sj1KtNyWgr"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
-        },
-        {
-          "name": "Cassiya",
-          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "Di pain griy\u00e9",
-      "url": "https://open.spotify.com/track/7oHhCJYWfrQC6000ZhGrEk"
     },
     {
       "added_at": "2022-08-11 10:05:16",

@@ -5516,6 +5516,24 @@
     },
     {
       "album": {
+        "name": "Nuestro Mundo",
+        "url": "https://open.spotify.com/album/5PdbzA2WYKvuy51gblXDOY"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198746,
+      "name": "NUESTRO MUNDO",
+      "url": "https://open.spotify.com/track/3VRmetOtPtNKLBrXBTJfc1"
+    },
+    {
+      "album": {
         "name": "Nueva York (Tot*)",
         "url": "https://open.spotify.com/album/1cuxNNdmQkoeqB9Kkj5nUE"
       },
@@ -8111,7 +8129,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 127951,
       "name": "Til\u00edn",
       "url": "https://open.spotify.com/track/5mJRwiQIXIlK1gHxocknNd"

@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 268164,
       "name": "Kesariya (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
@@ -1428,6 +1428,28 @@
     },
     {
       "album": {
+        "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351293,
+      "name": "Mera Yaar",
+      "url": "https://open.spotify.com/track/2NECp5Tvb5Lm6TbJf0Y8xI"
+    },
+    {
+      "album": {
         "name": "Crook (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/298NO23hfv1nhAE0gQ5vLN"
       },
@@ -1605,6 +1627,40 @@
       "duration_ms": 347160,
       "name": "O Meri Jaan - Unplugged",
       "url": "https://open.spotify.com/track/2itHhmP7mL5Sqe9Ic71sIB"
+    },
+    {
+      "album": {
+        "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        },
+        {
+          "name": "Yusuf Mohammed",
+          "url": "https://open.spotify.com/artist/5XWfOrZhMMjoBTKcAgtFxe"
+        },
+        {
+          "name": "Vajid Ali",
+          "url": "https://open.spotify.com/artist/3cXNzZYIOUpv22w4iJm42t"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385000,
+      "name": "O Rangrez",
+      "url": "https://open.spotify.com/track/5JCDVLwteSXuwVqjCa7SwH"
     },
     {
       "album": {

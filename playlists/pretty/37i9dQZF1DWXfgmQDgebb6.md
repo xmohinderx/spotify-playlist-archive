@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Miso\(미소\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,958 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,977 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 45 | [khalifa \(feat\. Young B\)](https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Jazzy Moon](https://open.spotify.com/artist/3S9b8WTUFIMJy2nFgU6a3x), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [fxxk u](https://open.spotify.com/album/7LV5SIBe5THK0xdfYOvLYh) | 4:49 |
 | 46 | [redify](https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [redify](https://open.spotify.com/album/3wPQLCMUHmLMWl7E7Jmlhi) | 2:28 |
 | 47 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 |
-| 48 | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/track/0VqsjJaNYLTYi1WOGvUNN6) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/album/4HBgkLANnwyEfDO19oY7SJ) | 3:33 |
-| 49 | [Fake LoVe \(feat\. Claire Hau\)](https://open.spotify.com/track/24BJ7cqVoBLXFfIe7R9X1W) | [ruask](https://open.spotify.com/artist/24VMMQuEZ0nt3KTTaM6CTQ), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Fake LoVe](https://open.spotify.com/album/1l1wS8OLuIasXzMZwDcKxk) | 2:45 |
+| 48 | [Fake LoVe \(feat\. Claire Hau\)](https://open.spotify.com/track/24BJ7cqVoBLXFfIe7R9X1W) | [ruask](https://open.spotify.com/artist/24VMMQuEZ0nt3KTTaM6CTQ), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Fake LoVe](https://open.spotify.com/album/1l1wS8OLuIasXzMZwDcKxk) | 2:45 |
+| 49 | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/track/0VqsjJaNYLTYi1WOGvUNN6) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/album/4HBgkLANnwyEfDO19oY7SJ) | 3:33 |
 | 50 | [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 |
 
-Snapshot ID: `MTY3MjcyODU5OSwwMDAwMDAwMGVmMmYzZWU0N2FmODdmMTlkNThmNzI4NDA3YjNlYWFl`
+Snapshot ID: `MTY3MjcyODU5OSwwMDAwMDAwMGEwMzg1ZjgwMTg3YmE2OGMxNTk3NTgzYTIwZmVkMTI0`

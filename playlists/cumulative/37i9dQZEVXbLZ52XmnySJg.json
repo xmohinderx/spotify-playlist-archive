@@ -2121,7 +2121,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 222222,
       "name": "Chilla Chilla (From \"Thunivu\")",
       "url": "https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB"
@@ -5760,6 +5760,24 @@
     },
     {
       "album": {
+        "name": "Kahani Suno 2.0",
+        "url": "https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173637,
+      "name": "Kahani Suno 2.0",
+      "url": "https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw"
+    },
+    {
+      "album": {
         "name": "3G - A Killer Connection",
         "url": "https://open.spotify.com/album/1hEMBRWMPmYrBtvgDqGfjx"
       },
@@ -6299,7 +6317,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 70434,
       "name": "Kyun Dhunde",
       "url": "https://open.spotify.com/track/7gFzBppKTiKAs38SWOjbO6"
@@ -11887,7 +11905,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 127850,
       "name": "Unakkul Naane",
       "url": "https://open.spotify.com/track/2nKwKOpdXnHuJgC5iItUxN"

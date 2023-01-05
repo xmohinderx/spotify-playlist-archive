@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all. Cover: Hundred Reasons",
-  "num_followers": 85344,
+  "num_followers": 85447,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM1NTU5NSwwMDAwMDAwMDE0ZDNmN2VhMzYwZGZkMjdmOTU1NzE5YWQwMzEzMjZi",
+  "snapshot_id": "MTY3MjM1NTU5NSwwMDAwMDAwMDY1ZGZhMzkwNGYwYzVlNjE0MGZhNTg3NmYwODYwZmIy",
   "tracks": [
     {
       "added_at": "2022-12-29 23:13:15",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Make Yourself",
-        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "Make Yourself",
-      "url": "https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Shed",
         "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 136826,
       "name": "Shed",
       "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "Make Yourself",
+      "url": "https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
+        "name": "All These Countless Nights",
+        "url": "https://open.spotify.com/album/4LYAbf8kMPXzghMcS9SiYm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "duration_ms": 180111,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/154P8pqseR6k7BaMKffzeM"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 249800,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/2CzfhFkxJZjdr6kNRUw8IM"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
-        "name": "All These Countless Nights",
-        "url": "https://open.spotify.com/album/4LYAbf8kMPXzghMcS9SiYm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
-        }
-      ],
-      "duration_ms": 180111,
-      "name": "Trigger",
-      "url": "https://open.spotify.com/track/154P8pqseR6k7BaMKffzeM"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Gb City",
-        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
-      },
-      "artists": [
-        {
-          "name": "Bass Drum of Death",
-          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Get Found",
-      "url": "https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 207620,
       "name": "Fuct",
       "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Gb City",
+        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
+      },
+      "artists": [
+        {
+          "name": "Bass Drum of Death",
+          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Get Found",
+      "url": "https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "I'm Not Well",
-        "url": "https://open.spotify.com/album/39GHKYD9zdoF78P1Ms0xgB"
-      },
-      "artists": [
-        {
-          "name": "Black Foxxes",
-          "url": "https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT"
-        }
-      ],
-      "duration_ms": 158435,
-      "name": "Husk",
-      "url": "https://open.spotify.com/track/4J7GZ0QWuLsbL94nNZyn7S"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Tune in, Drop Out",
         "url": "https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 170161,
       "name": "Tune in, Drop Out",
       "url": "https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "I'm Not Well",
+        "url": "https://open.spotify.com/album/39GHKYD9zdoF78P1Ms0xgB"
+      },
+      "artists": [
+        {
+          "name": "Black Foxxes",
+          "url": "https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT"
+        }
+      ],
+      "duration_ms": 158435,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/4J7GZ0QWuLsbL94nNZyn7S"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
+        "name": "2 Songs",
+        "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
+      },
+      "artists": [
+        {
+          "name": "Downward",
+          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
+        }
+      ],
+      "duration_ms": 200912,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
         "name": "Moving Away",
         "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 275308,
       "name": "I'm Not Part Of Me",
       "url": "https://open.spotify.com/track/10Sj9At8dFsEabJcQzOSqu"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
-        "name": "2 Songs",
-        "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
-      },
-      "artists": [
-        {
-          "name": "Downward",
-          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
-        }
-      ],
-      "duration_ms": 200912,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/4edJ05VuSNvslwhH5EKard"
+      },
+      "artists": [
+        {
+          "name": "...And You Will Know Us by the Trail of Dead",
+          "url": "https://open.spotify.com/artist/6wBUn8gMP85n8dPu6LoUcF"
+        }
+      ],
+      "duration_ms": 410933,
+      "name": "Will You Smile Again For Me",
+      "url": "https://open.spotify.com/track/5AM9nodUIrP4qKMtlGJFay"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
         "name": "Coma Happy",
         "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 246306,
       "name": "Backroads",
       "url": "https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
-        "name": "Worlds Apart",
-        "url": "https://open.spotify.com/album/4edJ05VuSNvslwhH5EKard"
-      },
-      "artists": [
-        {
-          "name": "...And You Will Know Us by the Trail of Dead",
-          "url": "https://open.spotify.com/artist/6wBUn8gMP85n8dPu6LoUcF"
-        }
-      ],
-      "duration_ms": 410933,
-      "name": "Will You Smile Again For Me",
-      "url": "https://open.spotify.com/track/5AM9nodUIrP4qKMtlGJFay"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Celebrity Mansions",
-        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "The Vertigo of Bliss",
         "url": "https://open.spotify.com/album/5gFvzz68wze0kCwbkIwWeW"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 228093,
       "name": "The Hey Man!",
       "url": "https://open.spotify.com/track/2L3nP5MydvAh79nFo38eLd"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Celebrity Mansions",
+        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Different Beings Being Different",
-        "url": "https://open.spotify.com/album/6c66rOTBmzqYLdmE1suvBd"
-      },
-      "artists": [
-        {
-          "name": "West Thebarton",
-          "url": "https://open.spotify.com/artist/6ZQNx5JnPy6CmVur8jRPrv"
-        }
-      ],
-      "duration_ms": 172386,
-      "name": "Moving Out",
-      "url": "https://open.spotify.com/track/6weN1MT4nIA3CYt2oO0mk4"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Pull a Little Closer",
         "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 242480,
       "name": "Pull a Little Closer",
       "url": "https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Different Beings Being Different",
+        "url": "https://open.spotify.com/album/6c66rOTBmzqYLdmE1suvBd"
+      },
+      "artists": [
+        {
+          "name": "West Thebarton",
+          "url": "https://open.spotify.com/artist/6ZQNx5JnPy6CmVur8jRPrv"
+        }
+      ],
+      "duration_ms": 172386,
+      "name": "Moving Out",
+      "url": "https://open.spotify.com/track/6weN1MT4nIA3CYt2oO0mk4"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "In / Casino / Out",
-        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
-      },
-      "artists": [
-        {
-          "name": "At the Drive-In",
-          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Transatlantic Foe",
-      "url": "https://open.spotify.com/track/6dryGcKWMxgy3cFtzsoZkC"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Drenge",
         "url": "https://open.spotify.com/album/0Wrn6T6l8C2zPtnuOUQtmB"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 152106,
       "name": "Bloodsports",
       "url": "https://open.spotify.com/track/2zn3hrsi0nrTe42JJxMgC8"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "In / Casino / Out",
+        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Transatlantic Foe",
+      "url": "https://open.spotify.com/track/6dryGcKWMxgy3cFtzsoZkC"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
-      },
-      "artists": [
-        {
-          "name": "Hobosexual",
-          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
-        }
-      ],
-      "duration_ms": 353582,
-      "name": "Trans Am Sunday",
-      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "You And Me",
         "url": "https://open.spotify.com/album/6xepPkXwLDvgP52GmsPaKu"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 174346,
       "name": "Tough Girl",
       "url": "https://open.spotify.com/track/2XBOugZ298NJ92hNwNOMES"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
+      },
+      "artists": [
+        {
+          "name": "Hobosexual",
+          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
+        }
+      ],
+      "duration_ms": 353582,
+      "name": "Trans Am Sunday",
+      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Philophobia",
-        "url": "https://open.spotify.com/album/7FBIJfH1Ks0YIvAOMbXy08"
-      },
-      "artists": [
-        {
-          "name": "Amber Run",
-          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Neon Circus",
-      "url": "https://open.spotify.com/track/0HygTZjzB9GQhohzMzoaeD"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Forever Whatever",
         "url": "https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 238345,
       "name": "Losing My Touch",
       "url": "https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Philophobia",
+        "url": "https://open.spotify.com/album/7FBIJfH1Ks0YIvAOMbXy08"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Neon Circus",
+      "url": "https://open.spotify.com/track/0HygTZjzB9GQhohzMzoaeD"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 261301,
-      "name": "Fixed It All",
-      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Catch Without Arms",
         "url": "https://open.spotify.com/album/1csjcf2pCTJiKFdYgVgmA9"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 296333,
       "name": "Not That Simple",
       "url": "https://open.spotify.com/track/5iIM6ZOdCF4P7Gsgiajz73"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 261301,
+      "name": "Fixed It All",
+      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -2339,18 +2339,18 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "4 AM",
-        "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
+        "name": "Airplane",
+        "url": "https://open.spotify.com/album/5K2RCdPtAfVdCI7gOssT0R"
       },
       "artists": [
         {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+          "name": "Liotta Seoul",
+          "url": "https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi"
         }
       ],
-      "duration_ms": 302811,
-      "name": "Ghetto Blaster",
-      "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
+      "duration_ms": 205000,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/6RwA2pDXj6jI3BGTSFwIfo"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -2367,22 +2367,6 @@
       "duration_ms": 153426,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/3yRoUJAAxrAjcRfjbni2bE"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
-        "name": "Airplane",
-        "url": "https://open.spotify.com/album/5K2RCdPtAfVdCI7gOssT0R"
-      },
-      "artists": [
-        {
-          "name": "Liotta Seoul",
-          "url": "https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/6RwA2pDXj6jI3BGTSFwIfo"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -2415,6 +2399,22 @@
       "duration_ms": 187266,
       "name": "Nothing Wrong",
       "url": "https://open.spotify.com/track/3PsdW0QuEbQsO58KsDD7m0"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "4 AM",
+        "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
+      },
+      "artists": [
+        {
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+        }
+      ],
+      "duration_ms": 302811,
+      "name": "Ghetto Blaster",
+      "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

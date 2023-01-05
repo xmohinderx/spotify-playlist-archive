@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 155319,
+  "num_followers": 155400,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMGZmMDdkMjYzOTEyMmExNGE1OWYzMjRmODI2NGFlN2E5",
+  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMGIxOWU3YTcxZjc5NDcyOGQzZTA2YWMzNzg0OTJiNTcx",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -983,6 +983,30 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Somos Uno",
+        "url": "https://open.spotify.com/album/7uBOVDAdKIUIw8KpsNAhvJ"
+      },
+      "artists": [
+        {
+          "name": "Ana Bolivar",
+          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
+        },
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Pescao Vivo",
+          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
+        }
+      ],
+      "duration_ms": 135850,
+      "name": "Somos Uno",
+      "url": "https://open.spotify.com/track/1uABVd0XV7yZLb3kAHEtUI"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Llename",
         "url": "https://open.spotify.com/album/4bYRZq6XgwYabQAbqVSm8M"
       },
@@ -1015,30 +1039,6 @@
       "duration_ms": 244506,
       "name": "Que Es La Que Hay",
       "url": "https://open.spotify.com/track/1LdAVtyVt2lbc6fpBpoP6I"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Somos Uno",
-        "url": "https://open.spotify.com/album/7uBOVDAdKIUIw8KpsNAhvJ"
-      },
-      "artists": [
-        {
-          "name": "Ana Bolivar",
-          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
-        },
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
-          "name": "Pescao Vivo",
-          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
-        }
-      ],
-      "duration_ms": 135850,
-      "name": "Somos Uno",
-      "url": "https://open.spotify.com/track/1uABVd0XV7yZLb3kAHEtUI"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1163,18 +1163,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Gu\u00edame",
-        "url": "https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT"
+        "name": "Apocalipsis (Remix)",
+        "url": "https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY"
       },
       "artists": [
         {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
-      "duration_ms": 203790,
-      "name": "Gu\u00edame",
-      "url": "https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs"
+      "duration_ms": 250480,
+      "name": "Apocalipsis - Remix",
+      "url": "https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1199,22 +1203,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Apocalipsis (Remix)",
-        "url": "https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY"
+        "name": "Gu\u00edame",
+        "url": "https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT"
       },
       "artists": [
         {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
         }
       ],
-      "duration_ms": 250480,
-      "name": "Apocalipsis - Remix",
-      "url": "https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd"
+      "duration_ms": 203790,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1299,22 +1299,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Sin Gravedad",
-        "url": "https://open.spotify.com/album/3wUhVULJ1PdkhaENsajf7b"
+        "name": "NO ME MOVER\u00c9",
+        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
       },
       "artists": [
         {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         },
         {
-          "name": "JAVI",
-          "url": "https://open.spotify.com/artist/50TBxDRKXkx8BffKq4NKlK"
+          "name": "Isaac Rojas",
+          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
         }
       ],
-      "duration_ms": 180779,
-      "name": "Sin Gravedad",
-      "url": "https://open.spotify.com/track/5jh1Vw7bhJJDGqpPxETFfO"
+      "duration_ms": 186660,
+      "name": "NO ME MOVER\u00c9",
+      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "NO ME MOVER\u00c9",
-        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Isaac Rojas",
-          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
-        }
-      ],
-      "duration_ms": 186660,
-      "name": "NO ME MOVER\u00c9",
-      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Sigo Aqui",
         "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 194986,
       "name": "Sigo Aqu\u00ed",
       "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Sin Gravedad",
+        "url": "https://open.spotify.com/album/3wUhVULJ1PdkhaENsajf7b"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        },
+        {
+          "name": "JAVI",
+          "url": "https://open.spotify.com/artist/50TBxDRKXkx8BffKq4NKlK"
+        }
+      ],
+      "duration_ms": 180779,
+      "name": "Sin Gravedad",
+      "url": "https://open.spotify.com/track/5jh1Vw7bhJJDGqpPxETFfO"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Blanco|Negro",
+        "url": "https://open.spotify.com/album/1EryW4CnFqsvPWVWOOS4cI"
+      },
+      "artists": [
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        },
+        {
+          "name": "Gerardito La Promesa",
+          "url": "https://open.spotify.com/artist/4EFZEWdVUPMkMGAp75LISF"
+        }
+      ],
+      "duration_ms": 266709,
+      "name": "Por Si Me Muero",
+      "url": "https://open.spotify.com/track/293nGU8oq5WSSawV3Mk4S5"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Gozo Yo Quer\u00eda",
         "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
       },
@@ -1723,22 +1743,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Blanco|Negro",
-        "url": "https://open.spotify.com/album/1EryW4CnFqsvPWVWOOS4cI"
+        "name": "Inmenso",
+        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
       },
       "artists": [
         {
-          "name": "Creyente.7",
-          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
-        },
-        {
-          "name": "Gerardito La Promesa",
-          "url": "https://open.spotify.com/artist/4EFZEWdVUPMkMGAp75LISF"
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
         }
       ],
-      "duration_ms": 266709,
-      "name": "Por Si Me Muero",
-      "url": "https://open.spotify.com/track/293nGU8oq5WSSawV3Mk4S5"
+      "duration_ms": 157000,
+      "name": "Inmenso",
+      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Ese Cari\u00f1ito",
-        "url": "https://open.spotify.com/album/08u7iUG2KRR9S2vMf2yMnE"
-      },
-      "artists": [
-        {
-          "name": "La Sociedad 111",
-          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Ese Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/2ymVoIZI6P2asjeZVrp6J9"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "TBT",
         "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
       },
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Inmenso",
-        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
+        "name": "Ese Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/08u7iUG2KRR9S2vMf2yMnE"
       },
       "artists": [
         {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+          "name": "La Sociedad 111",
+          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Inmenso",
-      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
+      "duration_ms": 197333,
+      "name": "Ese Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2ymVoIZI6P2asjeZVrp6J9"
     },
     {
       "added_at": "2022-08-27 05:04:45",

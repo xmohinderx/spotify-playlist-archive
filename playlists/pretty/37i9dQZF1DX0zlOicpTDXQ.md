@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,212 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,221 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 24 | [Bring The Snow](https://open.spotify.com/track/0b9rOqo0DaBgB807XzQ2sG) | [Sam Palladio](https://open.spotify.com/artist/6zO84xQ3YiDtFTfKb2Tg5M) | [Bring The Snow](https://open.spotify.com/album/1LbAJXJAJO5d4zsBduxTbe) | 3:06 |
 | 25 | [Don Juan Comes To Life](https://open.spotify.com/track/1xoUqYTmTqMF24a4uBEQ5U) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Jingle Jangle: A Christmas Journey \(Score from the Netflix Original Film\)](https://open.spotify.com/album/2PQq1kd1uEjrpDrErtYYEX) | 1:04 |
 | 26 | [Grandpa Me Nie' \(Asew Jingle Jangle Remix\) \[feat\. Mic Flammez\]](https://open.spotify.com/track/0u9w8hguVdkPHkzlnwV9eh) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Mic Flammez](https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 1:41 |
-| 27 | [Diamonds \(Shine Bright\)](https://open.spotify.com/track/7vLejPnkOAHDdLxcnuzDEw) | [Loni Lovato](https://open.spotify.com/artist/78zmh0WTNg87VyzbGxDoHu) | [The Princess Switch The Ultimate Fantasy Playlist](https://open.spotify.com/album/2ol7ZnOj2eeKwBdy3sAuCJ) | 3:45 |
+| 27 | [Diamonds \(Shine Bright\)](https://open.spotify.com/track/04JchRaXdanKuxR1HRYzcm) | [Loni Lovato](https://open.spotify.com/artist/78zmh0WTNg87VyzbGxDoHu) | [The Mighty Thor: The Complete Fantasy Playlist \- Loni Lovato](https://open.spotify.com/album/49BZUDxAcjlCTRNcRF6QSo) | 3:45 |
 | 28 | [Under the Tree](https://open.spotify.com/track/370svZM4vWhiPiCe5ccvMs) | [Sam Palladio](https://open.spotify.com/artist/6zO84xQ3YiDtFTfKb2Tg5M) | [Under the Tree](https://open.spotify.com/album/2K0O5kNmOh2HKRLf0UctyX) | 3:29 |
 | 29 | [The Legend of Klaus \- Suite](https://open.spotify.com/track/5yYyAoNRMbUA4DLmrI8nTZ) | [Alfonso G\. Aguilar](https://open.spotify.com/artist/0zPsPfHcjbQzlb6gVAa0QM) | [Klaus \(Music from the Netflix film\)](https://open.spotify.com/album/3pxQp1SCC1fUggunoo2Kb5) | 9:54 |
 | 30 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 47 | [A Christmas Thing \(aka Quince Ballad\)](https://open.spotify.com/track/7oiVBBQVuVeR8vNQT9ip1n) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 | 48 | [Feliz Navidad Mi Amor](https://open.spotify.com/track/2R9qvrvVCmjbDWJt20W7XR) | [Jasmine Lopez](https://open.spotify.com/artist/0UciHsr8qC3FQYNswRPLmd) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 
-Snapshot ID: `MTY3MDYyOTIxNywwMDAwMDAwMDA4MmE5OGIzYmEyNGI3ZDQwNTA5M2Y2ODIxMTZmNTgz`
+Snapshot ID: `MTY3MDYyOTIxNywwMDAwMDAwMDliZGI1ZDIwNTg0ODU3N2Y5YjFhZmExZGQyNTZjZDc2`

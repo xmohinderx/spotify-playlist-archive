@@ -2972,6 +2972,28 @@
     },
     {
       "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1Q4itWYIDP3HU1FCtGdD1t"
+      },
+      "artists": [
+        {
+          "name": "Deuce B",
+          "url": "https://open.spotify.com/artist/1Ii4hkVp16i905iO1AbkLO"
+        },
+        {
+          "name": "Dane Amar",
+          "url": "https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Solid",
+      "url": "https://open.spotify.com/track/3kPhMvP1A5M7cEJON3Q7YH"
+    },
+    {
+      "album": {
         "name": "GasGod 2",
         "url": "https://open.spotify.com/album/30ZkAc4eDuAOPnlZkpVQKq"
       },

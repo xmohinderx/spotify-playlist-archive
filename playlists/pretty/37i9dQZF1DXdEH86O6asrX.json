@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta de las mejores bandas sonoras del siglo XXI!",
-  "num_followers": 521836,
+  "num_followers": 521839,
   "original_name": "Soundtracks \u00c9picos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTcxODM1NSwwMDAwMDAwMGM4M2MzYTY5MWVhNzBjOGEwZjhiOTY3ZGNlZTU1OTcx",
+  "snapshot_id": "MTY0OTcxODM1NSwwMDAwMDAwMGZjYjdkNjIzNmY5OWU1MTE2OTMzMTI3MGU5YWQ1OGYz",
   "tracks": [
     {
       "added_at": "2022-01-27 04:35:36",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "New Slang - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
         "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
         "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 293533,
       "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\") - Voice",
       "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
-        "name": "Oh, Inverted World (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "New Slang - 2021 Remaster",
-      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
+        "name": "How Does That Grab You?",
+        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162446,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
         "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
         "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 254626,
       "name": "We Wish You a Merry Christmas / End Title - Voice",
       "url": "https://open.spotify.com/track/7FOJKfiyl1tegmYRqs7AuZ"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
-        "name": "How Does That Grab You?",
-        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162446,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "What's This?",
+      "url": "https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
         "name": "Elf (Music from the Major Motion Picture)",
         "url": "https://open.spotify.com/album/2FAdasepbd5GxXtoFofkDJ"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 212426,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/0rzY0whyLE68ENX7mvoHAN"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
-        "name": "Nightmare Before Christmas Special Edition",
-        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "What's This?",
-      "url": "https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Christmas - Plain & Simple II",
-        "url": "https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4"
-      },
-      "artists": [
-        {
-          "name": "Michele McLaughlin",
-          "url": "https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn"
-        }
-      ],
-      "duration_ms": 243746,
-      "name": "Little Drummer Boy",
-      "url": "https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Innerworld (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3xlj8UnItzJxDjn3kWezIK"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 267693,
       "name": "A Real Hero",
       "url": "https://open.spotify.com/track/6ei4QrpcciclGH593uHKo8"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "Christmas - Plain & Simple II",
+        "url": "https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4"
+      },
+      "artists": [
+        {
+          "name": "Michele McLaughlin",
+          "url": "https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn"
+        }
+      ],
+      "duration_ms": 243746,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Meet Me In St. Louis (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/29vvOZZDLLZavty2hkZySE"
-      },
-      "artists": [
-        {
-          "name": "Judy Garland",
-          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1BMmB1L5PbedWBAFl3xf27"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 171573,
       "name": "Unchained (The Payback / Untouchable)",
       "url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "Meet Me In St. Louis (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29vvOZZDLLZavty2hkZySE"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1BMmB1L5PbedWBAFl3xf27"
     },
     {
       "added_at": "2022-01-27 04:35:36",

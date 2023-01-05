@@ -1,12 +1,12 @@
 {
   "description": "Musica dance per le tue giornate di sole!",
-  "num_followers": 91525,
+  "num_followers": 91524,
   "original_name": "Voglia di Sole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMGQ5M2Q0Y2U0ZDE1MTE0NjBlNGI4MDAxOTlmNmVkMWEw",
+  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMDMzY2MxZGRkYTkwNzE2NTBmOWRjNWJhMjZjOTQ3YjEz",
   "tracks": [
     {
       "added_at": "2022-12-02 06:01:00",
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
     },
     {
-      "added_at": "2023-01-04 01:01:49",
+      "added_at": "2023-01-05 01:02:25",
       "album": {
         "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
         "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 193018,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Risk It All",
         "url": "https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 178064,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 193018,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Run Into Trouble",
-        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Run Into Trouble",
-      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Summer Feelings (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 160289,
       "name": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
       "url": "https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Run Into Trouble",
+        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Run Into Trouble",
+      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1073,7 +1073,7 @@
       "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
     },
     {
-      "added_at": "2023-01-04 01:01:49",
+      "added_at": "2023-01-05 01:02:25",
       "album": {
         "name": "Always Be There",
         "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
+        "name": "My Head & My Heart (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "My Head & My Heart - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 197573,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
-        "name": "Live For",
-        "url": "https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "Griff Clawson",
-          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
-        }
-      ],
-      "duration_ms": 171433,
-      "name": "Live For",
-      "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1243,22 +1243,22 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "My Head & My Heart (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
+        "name": "Live For",
+        "url": "https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
         },
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
         }
       ],
-      "duration_ms": 179512,
-      "name": "My Head & My Heart - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
+      "duration_ms": 171433,
+      "name": "Live For",
+      "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
+        "name": "Little Bit Of Love",
+        "url": "https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 195452,
+      "name": "Little Bit Of Love",
+      "url": "https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
         "name": "Feels Like Love (feat. MIYA MIYA)",
         "url": "https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 169672,
       "name": "Feels Like Love (feat. MIYA MIYA)",
       "url": "https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
-        "name": "Little Bit Of Love",
-        "url": "https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 195452,
-      "name": "Little Bit Of Love",
-      "url": "https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1657,7 +1657,7 @@
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
-      "added_at": "2023-01-04 01:01:49",
+      "added_at": "2023-01-05 01:02:25",
       "album": {
         "name": "Castles",
         "url": "https://open.spotify.com/album/3BSnLCAE4SOZkMFiy10Rik"
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Behind the Moon",
-        "url": "https://open.spotify.com/album/1qCOccM3lTlzp2G6ZpJto9"
-      },
-      "artists": [
-        {
-          "name": "K!llx",
-          "url": "https://open.spotify.com/artist/1gGoEoMd01jlEPtxTJo3jQ"
-        },
-        {
-          "name": "ConKi",
-          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
-        }
-      ],
-      "duration_ms": 164919,
-      "name": "Behind the Moon",
-      "url": "https://open.spotify.com/track/0kRU3miiIJCzGkviEwU90m"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/23D4p5YNgkQsWh0vuWoJyN"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 173038,
       "name": "With You",
       "url": "https://open.spotify.com/track/2nhbnB0QQIuMZVuXZa3Qr5"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Behind the Moon",
+        "url": "https://open.spotify.com/album/1qCOccM3lTlzp2G6ZpJto9"
+      },
+      "artists": [
+        {
+          "name": "K!llx",
+          "url": "https://open.spotify.com/artist/1gGoEoMd01jlEPtxTJo3jQ"
+        },
+        {
+          "name": "ConKi",
+          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
+        }
+      ],
+      "duration_ms": 164919,
+      "name": "Behind the Moon",
+      "url": "https://open.spotify.com/track/0kRU3miiIJCzGkviEwU90m"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
         "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+        }
+      ],
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
+        "name": "ASYLUM",
+        "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 171898,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
         "name": "No Diggity",
         "url": "https://open.spotify.com/album/1x66drtf4CW5onOaeS0oz3"
       },
@@ -1915,18 +1931,18 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "ASYLUM",
-        "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
+        "name": "Tangerine Skies",
+        "url": "https://open.spotify.com/album/6phvQbCky7tIuiv8c6QxW5"
       },
       "artists": [
         {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
         }
       ],
-      "duration_ms": 171898,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z"
+      "duration_ms": 192000,
+      "name": "Tangerine Skies",
+      "url": "https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1947,22 +1963,6 @@
       "duration_ms": 187372,
       "name": "Make You Feel Like",
       "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
-        "name": "Tangerine Skies",
-        "url": "https://open.spotify.com/album/6phvQbCky7tIuiv8c6QxW5"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Tangerine Skies",
-      "url": "https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA"
     },
     {
       "added_at": "2022-12-02 06:01:00",

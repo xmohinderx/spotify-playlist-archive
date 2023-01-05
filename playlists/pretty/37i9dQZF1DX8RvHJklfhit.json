@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics.",
-  "num_followers": 136788,
+  "num_followers": 136956,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk3NzgyMSwwMDAwMDAwMGNmNGNmYzNjYWMxNGZjYjU5YzRmZWQ5MGFmZjM0NDM4",
+  "snapshot_id": "MTY3MDk3NzgyMSwwMDAwMDAwMGQwYTlhODgwODM4NDM1MWE4NjE3MjhjYTUyYjIxNjIy",
   "tracks": [
     {
       "added_at": "2022-12-14 00:30:21",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
         "name": "HU HU HU",
         "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 267840,
       "name": "Cursis Melod\u00edas",
       "url": "https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": "2022-12-14 00:30:21",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
-        "name": "La Santa Cecilia",
-        "url": "https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 183346,
-      "name": "Play Your Game",
-      "url": "https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
         "name": "Si T\u00fa Est\u00e1s Bien",
         "url": "https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 263425,
       "name": "Si T\u00fa Est\u00e1s Bien",
       "url": "https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
+        "name": "La Santa Cecilia",
+        "url": "https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 183346,
+      "name": "Play Your Game",
+      "url": "https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0"
     },
     {
       "added_at": "2022-12-14 00:30:21",

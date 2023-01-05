@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 62220,
+  "num_followers": 62274,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDBiMWFlYjA1Y2U2OTczYWYzMDc3OGFhNGE2ZDljYTEz",
+  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDg2OGNmZGIxY2Y0NGVkNWQ4N2U0ZjdhZThhYzYzNGI3",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1203,50 +1203,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Otello",
-        "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Sebastian Catana",
-          "url": "https://open.spotify.com/artist/6Rdgyfa1283m9Pvm9pYtqD"
-        },
-        {
-          "name": "Raffaella Angeletti",
-          "url": "https://open.spotify.com/artist/0QuMmmMgv129CeGwF8RbtQ"
-        },
-        {
-          "name": "Robert Dean Smith",
-          "url": "https://open.spotify.com/artist/42t3cRJWuyo6HwTEXTH4r0"
-        },
-        {
-          "name": "Orfeon Donostiarra",
-          "url": "https://open.spotify.com/artist/4WQkQFoq0dSZYZP0pl8xnu"
-        },
-        {
-          "name": "Los Peques del Le\u00f3n de Oro",
-          "url": "https://open.spotify.com/artist/2Ey84GB4Yndh0XtTKdjzFo"
-        },
-        {
-          "name": "Oviedo Filarmon\u00eda",
-          "url": "https://open.spotify.com/artist/2QX0XaDDWYH8rFPDDlVyae"
-        },
-        {
-          "name": "Friedrich Haider",
-          "url": "https://open.spotify.com/artist/6DRrt1C5pbWHj7XQIZUGac"
-        }
-      ],
-      "duration_ms": 284253,
-      "name": "Otello, Act II: Act II: Dove guardi splendono\u2026 Non parlo ancor di prova (Chorus, Jago, Desdemona, Otello)",
-      "url": "https://open.spotify.com/track/3cwktPZ9dPAU51iT20JvUe"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi, G.: Macbeth (Sferisterio Opera Festival, 2007)",
         "url": "https://open.spotify.com/album/2U42HFlQf1tslbRJmweNQ7"
       },
@@ -1307,6 +1263,50 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Otello",
+        "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Sebastian Catana",
+          "url": "https://open.spotify.com/artist/6Rdgyfa1283m9Pvm9pYtqD"
+        },
+        {
+          "name": "Raffaella Angeletti",
+          "url": "https://open.spotify.com/artist/0QuMmmMgv129CeGwF8RbtQ"
+        },
+        {
+          "name": "Robert Dean Smith",
+          "url": "https://open.spotify.com/artist/42t3cRJWuyo6HwTEXTH4r0"
+        },
+        {
+          "name": "Orfeon Donostiarra",
+          "url": "https://open.spotify.com/artist/4WQkQFoq0dSZYZP0pl8xnu"
+        },
+        {
+          "name": "Los Peques del Le\u00f3n de Oro",
+          "url": "https://open.spotify.com/artist/2Ey84GB4Yndh0XtTKdjzFo"
+        },
+        {
+          "name": "Oviedo Filarmon\u00eda",
+          "url": "https://open.spotify.com/artist/2QX0XaDDWYH8rFPDDlVyae"
+        },
+        {
+          "name": "Friedrich Haider",
+          "url": "https://open.spotify.com/artist/6DRrt1C5pbWHj7XQIZUGac"
+        }
+      ],
+      "duration_ms": 284253,
+      "name": "Otello, Act II: Act II: Dove guardi splendono\u2026 Non parlo ancor di prova (Chorus, Jago, Desdemona, Otello)",
+      "url": "https://open.spotify.com/track/3cwktPZ9dPAU51iT20JvUe"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Overtures, Vol. 1",
         "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
       },
@@ -1327,6 +1327,34 @@
       "duration_ms": 264000,
       "name": "Un ballo in maschera*: Prelude",
       "url": "https://open.spotify.com/track/7jU0OCnpUjZHvCBpYsUPfA"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Falstaff",
+        "url": "https://open.spotify.com/album/5vydzpfnI6B6mEhUIYQ8Zc"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "Falstaff / Act I: L'Onore! Ladri!",
+      "url": "https://open.spotify.com/track/7qWfNxCBZwfu9DKzGWDMki"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1431,34 +1459,6 @@
       "duration_ms": 221960,
       "name": "Aida: Act II: Ma tu, Re, tu signore possente",
       "url": "https://open.spotify.com/track/2laB9zIrGuW2oVvBF6ACWg"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Falstaff",
-        "url": "https://open.spotify.com/album/5vydzpfnI6B6mEhUIYQ8Zc"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 241026,
-      "name": "Falstaff / Act I: L'Onore! Ladri!",
-      "url": "https://open.spotify.com/track/7qWfNxCBZwfu9DKzGWDMki"
     },
     {
       "added_at": "2022-06-27 14:42:44",

@@ -4,7 +4,7 @@
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-107 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/7INFH95A083YlsLkQccAbs)
+108 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/7INFH95A083YlsLkQccAbs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Moça](https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Moça](https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz) | 3:00 | 2022-07-05 |  |
 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 | 2022-07-05 |  |
 | [Noite De Loucura](https://open.spotify.com/track/2V8nMMUbjGSjwSTYfx6zjq) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [NOCAP](https://open.spotify.com/artist/3Btn1ywwqv6SaBQnkWesMb), [SJ](https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0) | [Noite De Loucura](https://open.spotify.com/album/4Y3A4edz8Uqya0a1eIk7qn) | 3:35 | 2022-09-30 | 2022-11-11 |
+| [NR5](https://open.spotify.com/track/6IAVU9psKD2kJ2bGg4Vemp) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [NR5](https://open.spotify.com/album/1mJesBtaqgysGAlk9aFWuZ) | 3:46 | 2023-01-05 |  |
 | [Num Tás a Ver](https://open.spotify.com/track/20D3MY0otrMTfTgfIbz7jP) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Num Tás a Ver](https://open.spotify.com/album/3EPH6O8BFddFW7YkqX3hYq) | 3:10 | 2022-07-05 | 2022-08-12 |
 | [Nunca Tive Bem](https://open.spotify.com/track/6HbOwNPeSGIWgUaKfVcDbf) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Nunca Tive Bem](https://open.spotify.com/album/6HRgRCbY56jXxVZJ1y3O2H) | 3:33 | 2022-07-05 | 2022-08-19 |
 | [Não há impossíveis](https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Não há impossíveis](https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI) | 2:34 | 2022-09-30 | 2022-10-28 |
@@ -96,7 +97,7 @@
 | [Sweet Spot](https://open.spotify.com/track/7yrH4ghvW4hivGBpLU7dDb) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Sweet Spot](https://open.spotify.com/album/2qK6Eff85oD0PcsmFbv4Dj) | 4:48 | 2022-07-05 |  |
 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 | 2022-07-05 |  |
 | [Só Queria Sorrir](https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 3:42 | 2022-07-05 |  |
-| [Só Se Não Quiseres](https://open.spotify.com/track/0dTFrJx3UeD54dZhGXBeNb) | [Breyth](https://open.spotify.com/artist/1ASRVb6tSo0Pdb6yEKZhmx), [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Só Se Não Quiseres](https://open.spotify.com/album/2A53Atg8lJ5gSe2oEMb4Gn) | 2:52 | 2022-12-16 |  |
+| [Só Se Não Quiseres](https://open.spotify.com/track/0dTFrJx3UeD54dZhGXBeNb) | [Breyth](https://open.spotify.com/artist/1ASRVb6tSo0Pdb6yEKZhmx), [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Só Se Não Quiseres](https://open.spotify.com/album/2A53Atg8lJ5gSe2oEMb4Gn) | 2:52 | 2022-12-16 | 2023-01-05 |
 | [Tempo](https://open.spotify.com/track/19gFXFDAFUdsuaiAorKEbr) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Tempo](https://open.spotify.com/album/2pKQrzkVd8J95Ehh0pgRU3) | 4:10 | 2022-07-05 |  |
 | [Teu Eternamente](https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 2:55 | 2022-07-05 |  |
 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 | 2022-10-13 | 2022-11-25 |

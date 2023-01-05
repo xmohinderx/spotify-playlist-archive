@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: brakence
 
-60 songs - 2 hr 37 min - not published yet
+61 songs - 2 hr 41 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,5 +68,6 @@
 | [with u](https://open.spotify.com/track/7uStrFhx6PYmfI2ZWFFnCH) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [with u](https://open.spotify.com/album/3Iu31xTzEKfBYx0WV8HPct) | 2:29 | 2022-12-09 |  |
 | [Would It Kill You At All](https://open.spotify.com/track/0MFpii15OtF6euR17upS7S) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [About A Boy](https://open.spotify.com/album/2Pz55SWZIQb3Y7uUbgPzVc) | 2:47 | 2022-12-04 |  |
 | [You and I](https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [You and I](https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1) | 2:31 | 2022-12-04 |  |
+| [‎vacation](https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎vacation](https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz) | 3:50 | 2023-01-04 |  |
 
 \*This playlist was first scraped on 2022-12-06. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "uh-oh?",
-  "num_followers": 53820,
+  "num_followers": 53931,
   "original_name": "pov: te enamoras de tu bestie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNzY1NCwwMDAwMDAwMGFmMDU2MDYyYjBlYzgyNjI5ZGI2MWM3MGM4NzhjOGU1",
+  "snapshot_id": "MTY3MjQyNzY1NCwwMDAwMDAwMDk2YzIxZmI4OGRhZjZmMGQwYTU0ODRhZjlkOWYxYTI2",
   "tracks": [
     {
       "added_at": "2022-12-30 18:30:31",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-12-30 18:30:31",
       "album": {
-        "name": "arcade",
-        "url": "https://open.spotify.com/album/3znNGjAnJQMoOAmWJWmzW8"
-      },
-      "artists": [
-        {
-          "name": "omgkirby",
-          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "arcade",
-      "url": "https://open.spotify.com/track/3YUrTgRbFtmaSHQRa8S4tj"
-    },
-    {
-      "added_at": "2022-12-30 18:30:31",
-      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 163200,
       "name": "Deep",
       "url": "https://open.spotify.com/track/1LzmZWMpiPqeEIvaYCzO3Z"
+    },
+    {
+      "added_at": "2022-12-30 18:30:31",
+      "album": {
+        "name": "arcade",
+        "url": "https://open.spotify.com/album/3znNGjAnJQMoOAmWJWmzW8"
+      },
+      "artists": [
+        {
+          "name": "omgkirby",
+          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "arcade",
+      "url": "https://open.spotify.com/track/3YUrTgRbFtmaSHQRa8S4tj"
     },
     {
       "added_at": "2022-12-30 18:30:31",

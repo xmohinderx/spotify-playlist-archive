@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 35410,
+  "num_followers": 35483,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMGQ5ZDllMmMxMTVmMzEyYzRhMTRmMGZkMGQyZDE2OGE0",
+  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMGUwMTA1ZTZjNDMwYTkxYmU5NDI1OTNlYTBkOTM0NDk4",
   "tracks": [
     {
       "added_at": "2022-10-04 14:14:28",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 309448,
-      "name": "September Remember",
-      "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 309448,
+      "name": "September Remember",
+      "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -495,42 +495,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 166001,
-      "name": "Glendora",
-      "url": "https://open.spotify.com/track/5jKHOuBAsM9jZnE9f0WEUv"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Cascade Symmetry",
         "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
       },
@@ -563,6 +527,42 @@
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 166001,
+      "name": "Glendora",
+      "url": "https://open.spotify.com/track/5jKHOuBAsM9jZnE9f0WEUv"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "My Birthday Suit",
-        "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
-      },
-      "artists": [
-        {
-          "name": "Hexsystem",
-          "url": "https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh"
-        }
-      ],
-      "duration_ms": 225054,
-      "name": "My Birthday Suit",
-      "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Together in Static",
         "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
       },
@@ -723,6 +707,38 @@
       "duration_ms": 155375,
       "name": "Together in Static",
       "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Vu Hijera",
+        "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
+      },
+      "artists": [
+        {
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Vu Hijera",
+      "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "My Birthday Suit",
+        "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
+      },
+      "artists": [
+        {
+          "name": "Hexsystem",
+          "url": "https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh"
+        }
+      ],
+      "duration_ms": 225054,
+      "name": "My Birthday Suit",
+      "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -747,38 +763,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Vu Hijera",
-        "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Vu Hijera",
-      "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
-      },
-      "artists": [
-        {
-          "name": "Land Systems",
-          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
-        }
-      ],
-      "duration_ms": 158729,
-      "name": "Sequoia Slumber",
-      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Tide Pools",
         "url": "https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH"
       },
@@ -795,26 +779,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Milan",
-        "url": "https://open.spotify.com/album/7oTgSbWQOVPZ15YUUybwSo"
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
       },
       "artists": [
         {
-          "name": "Alister Fawnwoda",
-          "url": "https://open.spotify.com/artist/16Vq22oDSB5NDYczsnJ89o"
-        },
-        {
-          "name": "Greg Leisz",
-          "url": "https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU"
-        },
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+          "name": "Land Systems",
+          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
         }
       ],
-      "duration_ms": 462088,
-      "name": "Snow Ritual (feat. Suzanne Ciani)",
-      "url": "https://open.spotify.com/track/5t3I5yqfEAJoDbZmPiT9vJ"
+      "duration_ms": 158729,
+      "name": "Sequoia Slumber",
+      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -855,22 +831,26 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
-        "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
+        "name": "Milan",
+        "url": "https://open.spotify.com/album/7oTgSbWQOVPZ15YUUybwSo"
       },
       "artists": [
         {
-          "name": "Theo Alexander",
-          "url": "https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK"
+          "name": "Alister Fawnwoda",
+          "url": "https://open.spotify.com/artist/16Vq22oDSB5NDYczsnJ89o"
         },
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+          "name": "Greg Leisz",
+          "url": "https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 192019,
-      "name": "Bright-eyed Hunger - Kaitlyn Aurelia Smith Remix",
-      "url": "https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr"
+      "duration_ms": 462088,
+      "name": "Snow Ritual (feat. Suzanne Ciani)",
+      "url": "https://open.spotify.com/track/5t3I5yqfEAJoDbZmPiT9vJ"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -891,18 +871,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+        "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
+        "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
       },
       "artists": [
         {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+          "name": "Theo Alexander",
+          "url": "https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK"
+        },
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
         }
       ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
+      "duration_ms": 192019,
+      "name": "Bright-eyed Hunger - Kaitlyn Aurelia Smith Remix",
+      "url": "https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -919,6 +903,22 @@
       "duration_ms": 216000,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+      },
+      "artists": [
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+        }
+      ],
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Aerious EP",
+        "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
+      },
+      "artists": [
+        {
+          "name": "Tryst (UK)",
+          "url": "https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4"
+        }
+      ],
+      "duration_ms": 277753,
+      "name": "Reflections On The Waterfront",
+      "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "The Sparrow",
         "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
       },
@@ -1039,18 +1055,34 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Aerious EP",
-        "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
+        "name": "Good Sound",
+        "url": "https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF"
       },
       "artists": [
         {
-          "name": "Tryst (UK)",
-          "url": "https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4"
+          "name": "Jstory",
+          "url": "https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji"
         }
       ],
-      "duration_ms": 277753,
-      "name": "Reflections On The Waterfront",
-      "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
+      "duration_ms": 251009,
+      "name": "Particulator",
+      "url": "https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Scene Memory 2",
+        "url": "https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn"
+      },
+      "artists": [
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+        }
+      ],
+      "duration_ms": 186774,
+      "name": "Alternations",
+      "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1087,18 +1119,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Good Sound",
-        "url": "https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF"
+        "name": "Moonbase Alpha",
+        "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
       },
       "artists": [
         {
-          "name": "Jstory",
-          "url": "https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji"
+          "name": "Hermbot",
+          "url": "https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt"
         }
       ],
-      "duration_ms": 251009,
-      "name": "Particulator",
-      "url": "https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1"
+      "duration_ms": 145000,
+      "name": "The Station Is Alive Again",
+      "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1115,38 +1147,6 @@
       "duration_ms": 120280,
       "name": "Sleepy Dragon",
       "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Scene Memory 2",
-        "url": "https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn"
-      },
-      "artists": [
-        {
-          "name": "Leo Abrahams",
-          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
-        }
-      ],
-      "duration_ms": 186774,
-      "name": "Alternations",
-      "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Moonbase Alpha",
-        "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
-      },
-      "artists": [
-        {
-          "name": "Hermbot",
-          "url": "https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "The Station Is Alive Again",
-      "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Interlude 03",
+        "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
+      },
+      "artists": [
+        {
+          "name": "Farsi",
+          "url": "https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Interlude 03",
+      "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Sleep to Dream",
         "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
       },
@@ -1211,6 +1227,22 @@
       "duration_ms": 263142,
       "name": "Sleep to Dream",
       "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "CHU / \u8655",
+        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1239,58 +1271,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Sonic Winds",
-        "url": "https://open.spotify.com/album/0vO5XNRwzAfUmGcgjgg75Z"
+        "name": "Home Stories",
+        "url": "https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y"
       },
       "artists": [
         {
-          "name": "Patrick Zelinski",
-          "url": "https://open.spotify.com/artist/3aO62ba1Nshyxrde8Xl34K"
-        },
-        {
-          "name": "Karl Edh",
-          "url": "https://open.spotify.com/artist/3u9sMHkflBCzImVRg3qz6K"
-        },
-        {
-          "name": "Ryan Dimmock",
-          "url": "https://open.spotify.com/artist/65WnZtOZVExOO0YRCPjEZY"
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
         }
       ],
-      "duration_ms": 166965,
-      "name": "Sonic Winds",
-      "url": "https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "CHU / \u8655",
-        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Interlude 03",
-        "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
-      },
-      "artists": [
-        {
-          "name": "Farsi",
-          "url": "https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Interlude 03",
-      "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
+      "duration_ms": 333604,
+      "name": "Home Stories",
+      "url": "https://open.spotify.com/track/3zKh4uoo7A7Mu6nuASKTDt"
     }
   ],
   "unique_name": "Modular Synths",

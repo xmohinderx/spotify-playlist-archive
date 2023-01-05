@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ねぐせ。 / <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-598 songs - 1 day 12 hr 10 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+599 songs - 1 day 12 hr 14 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [17](https://open.spotify.com/track/0ZfMlo2gcxF5NYmRQL8ajQ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [17](https://open.spotify.com/album/20tcwL8xq1cY2AjFfkA6v9) | 3:22 | 2022-10-25 | 2022-10-27 |
 | [17](https://open.spotify.com/track/4y5UUkODpbevMCHrWtLsXw) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [17](https://open.spotify.com/album/4l3yoe3ghzhvn56iH4lT2Q) | 3:22 | 2022-10-25 |  |
 | [24 hours](https://open.spotify.com/track/425WJPWgyYnwvi4VQTq3lQ) | [植城 微香](https://open.spotify.com/artist/0eI7jwIoQ82C2fZcwRpZUs) | [24 hours](https://open.spotify.com/album/24qNK5cc5lKH8e971Y4eyo) | 3:43 | 2022-06-14 | 2022-07-27 |
-| [26](https://open.spotify.com/track/1hSJr6D5gY6DEJAGBkGAYl) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [26](https://open.spotify.com/album/4QVLkRRZRE9INUwPtfcJE6) | 4:25 | 2023-01-03 |  |
+| [26](https://open.spotify.com/track/1hSJr6D5gY6DEJAGBkGAYl) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [26](https://open.spotify.com/album/4QVLkRRZRE9INUwPtfcJE6) | 4:25 | 2023-01-03 | 2023-01-05 |
+| [26](https://open.spotify.com/track/3leoAvlLLsApKXzlIp79tu) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [26](https://open.spotify.com/album/18wcI7XahZTGCDNxXPzdj3) | 4:25 | 2023-01-03 |  |
 | [a little question \- Shōtaro Aoyama Remix](https://open.spotify.com/track/32N789QPGczr0K0p5e9UvQ) | [NAGAN SERVER](https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Shōtaro Aoyama](https://open.spotify.com/artist/48nPAklNBehqatqsLAf2fR) | [a little question \(Shōtaro Aoyama Remix\)](https://open.spotify.com/album/2VEX1IbbXHa3iz1NG5hvZq) | 6:03 | 2022-07-12 | 2022-07-27 |
 | [A.O.U](https://open.spotify.com/track/6oyagq8m6zMSeIGmCXkceD) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [A.O.U](https://open.spotify.com/album/671xpFoPFWV4zfs8C5yuuv) | 4:18 | 2022-07-05 | 2022-07-27 |
 | [About me](https://open.spotify.com/track/3axLw3lcHemC6MMkEz4Sac) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [About me](https://open.spotify.com/album/14CLwdCKsrhYWjcxRDv4o0) | 4:44 | 2022-02-17 | 2022-03-23 |

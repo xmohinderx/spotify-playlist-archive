@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,774 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,428 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [J'ai Deux Amours](https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:01 |
 | 2 | [Reine de l'attitude](https://open.spotify.com/track/3spC3JjpCKo7SmmDM8q3hM) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [DOPAMOON](https://open.spotify.com/album/7HyaVaxpfofKNxXKRWWimT) | 4:06 |
 | 3 | [La nuit qui vient](https://open.spotify.com/track/4ZKSXSToPLPt7U4xUHntV2) | [Ali Danel](https://open.spotify.com/artist/6NxZVTVFzMmwotn9SOloSv) | [Ali Danel et ses ami.es](https://open.spotify.com/album/2P7JFcIznQGcuRFs2xdeB0) | 2:51 |
-| 4 | [Passion sonore](https://open.spotify.com/track/5uHoa6U6DbM99BLcwzsWlW) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Lucile](https://open.spotify.com/artist/1TI0ZTyss5aySKWZm2UZRg) | [Affection sauvage](https://open.spotify.com/album/3EybPWwdMnd47308xzhn9N) | 2:33 |
+| 4 | [Passion sonore](https://open.spotify.com/track/5uHoa6U6DbM99BLcwzsWlW) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Lucile](https://open.spotify.com/artist/6qAmINWmct8hujGGpNsnaJ) | [Affection sauvage](https://open.spotify.com/album/3EybPWwdMnd47308xzhn9N) | 2:33 |
 | 5 | [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 |
 | 6 | [Par hasard](https://open.spotify.com/track/1AfrNSf2oeDwQWWmrpbfSl) | [Romain Muller](https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu) | [Accroche cœur](https://open.spotify.com/album/0ih97JPr4BsXVFSRT4OdYd) | 3:50 |
 | 7 | [Claire](https://open.spotify.com/track/5dEwFefWaZJaoUA7nJtqOb) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Pensées](https://open.spotify.com/album/2uGK4G2Uz0EJi8PdrBsvPW) | 3:23 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 199196,
+  "num_followers": 199269,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNDQ0NSwwMDAwMDAwMGRiOTEzNTE2MTczMDI4ODEyNDAxMTgzMzk2NTZiY2Rj",
+  "snapshot_id": "MTY3MjQyNDQ0NSwwMDAwMDAwMDFjZWIwZGI1NmM1YzRiZjRjOTE1NmVjNWZhYzU5MGZl",
   "tracks": [
     {
       "added_at": "2020-08-25 16:57:45",
@@ -227,22 +227,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Creiste",
-        "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 257488,
-      "name": "Creiste",
-      "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Me Quedo Contigo",
         "url": "https://open.spotify.com/album/0wOpfPbmZOoG7Zzfy3k5e6"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 201231,
       "name": "Me Quedo Contigo",
       "url": "https://open.spotify.com/track/2xyxQrfc7ep4n01aYjiOQN"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Creiste",
+        "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 257488,
+      "name": "Creiste",
+      "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -543,6 +543,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "Yo Voy Pa Encima - Single",
+        "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 206992,
+      "name": "Yo Voy Pa Encima",
+      "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "Latino 56 - Salsa Bachata Merengue Reggaeton (Latin Hits)",
         "url": "https://open.spotify.com/album/7IziAogkGgcd7Xl5LCWIGl"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 302706,
       "name": "Dale Lo Que Lleva (with Maykel Fonts)",
       "url": "https://open.spotify.com/track/7HJlg4JTHFXsfFGXTkkeQq"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Yo Voy Pa Encima - Single",
-        "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 206992,
-      "name": "Yo Voy Pa Encima",
-      "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
     },
     {
       "added_at": "2020-08-25 16:57:45",

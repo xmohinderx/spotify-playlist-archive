@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 149197,
       "name": "Abode",
       "url": "https://open.spotify.com/track/49a2PByrGqVmdCktGMZwgc"
@@ -11705,6 +11705,24 @@
       "duration_ms": 166900,
       "name": "In a Bar in Buenos Aires",
       "url": "https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E"
+    },
+    {
+      "album": {
+        "name": "in a room full of you",
+        "url": "https://open.spotify.com/album/2YPuaSGp6LRpyD1GchSwkI"
+      },
+      "artists": [
+        {
+          "name": "like gentle rain",
+          "url": "https://open.spotify.com/artist/1buksjoq8qDrWEYexFNnG4"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192816,
+      "name": "in a room full of you",
+      "url": "https://open.spotify.com/track/0BZLKyvqypWnn5kfysaNPt"
     },
     {
       "album": {

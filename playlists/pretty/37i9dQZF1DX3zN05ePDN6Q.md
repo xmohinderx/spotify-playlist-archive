@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional e muito boom bap na área\. Foto: Uterço
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,808 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,821 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 11 | [Cortexiphan \#05](https://open.spotify.com/track/0kLlpRIX89EGeU7yRwqjzR) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [Cortexiphan\*](https://open.spotify.com/album/1UE0RyxtK6BvbYIFG1igbJ) | 3:07 |
 | 12 | [Nômade VII](https://open.spotify.com/track/4XTu1iHT5Q8dDfiIXgUXLD) | [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA) | [Nômade VII](https://open.spotify.com/album/3jhFJYo9qphO2WxHzIWudt) | 3:26 |
 | 13 | [Manifesto](https://open.spotify.com/track/5PBICNRqKfYvwGjohxTOoB) | [Matheus Coringa](https://open.spotify.com/artist/3dZNzNVuTLL2UlQCkyEQqF), [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3), [2d intocável](https://open.spotify.com/artist/2ga6XcQvryAea4RIYQu9FI) | [Rastros em Lapsos](https://open.spotify.com/album/0FiTKqWJrdzQnGmzMCvw1u) | 3:01 |
-| 14 | [Foda\-Se](https://open.spotify.com/track/6NLoLuQ8b7eL2fKmQDhLsr) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Foda\-Se](https://open.spotify.com/album/7G77Ar8JpUC8tx86N9ccJF) | 2:03 |
+| 14 | [Foda\-Se](https://open.spotify.com/track/6NLoLuQ8b7eL2fKmQDhLsr) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Foda\-Se](https://open.spotify.com/album/7G77Ar8JpUC8tx86N9ccJF) | 2:03 |
 | 15 | [Tem Dias Que](https://open.spotify.com/track/4puE88rxsk6E2jmc1p9toN) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 5:19 |
 | 16 | [Sigo Ligeiro](https://open.spotify.com/track/1jwQLspfvLF5YdMFwfJj6F) | [ZET](https://open.spotify.com/artist/7HfY5nt8LrS4Wo4s7LFPA3), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H), [DJ Abu](https://open.spotify.com/artist/19fNZK8ixDsGsn0z3ThEQb) | [Sigo Ligeiro](https://open.spotify.com/album/25j5RfWjKk0LmeIHKZMimu) | 3:40 |
 | 17 | [Vendaval](https://open.spotify.com/track/4RVtgNDHgQ3TIXOQLgOHZS) | [Dukes1Soldado](https://open.spotify.com/artist/2fOcfLmY2VQi6NEOMNKqdJ), [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW) | [Vendaval](https://open.spotify.com/album/1i1MQlF0Jm80D0tbNHWTzr) | 3:09 |

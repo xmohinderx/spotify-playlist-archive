@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,135 likes - 152 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,290 likes - 152 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 57 | [Jattan Wali Gall](https://open.spotify.com/track/3PXsNKDpM3iZaliXiAJVEq) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Jattan Wali Gall](https://open.spotify.com/album/6VjC7C2tBxGCUXrvszqbGe) | 3:04 |
 | 58 | [Dekhya Kite](https://open.spotify.com/track/07X7p4jFhHEECps5IBKQ3c) | [Davy](https://open.spotify.com/artist/53DGPAJOq7aJrvYGrumUOV), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Dekhya Kite](https://open.spotify.com/album/2zPnY5L7hwCjuYmpuCCAO5) | 3:02 |
 | 59 | [Gallaan Dilaan Diyaan \(feat\. Sanam Marvi\)](https://open.spotify.com/track/6bxNV7WkYRV6GsAgonueDO) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Gallaan Dilaan Diyaan \(feat\. Sanam Marvi\)](https://open.spotify.com/album/2CLR2U2nqFk8xbTu9Eu5k5) | 5:37 |
-| 60 | [Snowfall](https://open.spotify.com/track/33rfzVxhNEBh0tnt2KXbXI) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Snowfall](https://open.spotify.com/album/2YMwWwivQX7z4n3913TPZh) | 3:01 |
+| 60 | [Snowfall](https://open.spotify.com/track/33rfzVxhNEBh0tnt2KXbXI) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Snowfall](https://open.spotify.com/album/2YMwWwivQX7z4n3913TPZh) | 3:01 |
 | 61 | [Wanga](https://open.spotify.com/track/7jio2ibU8YYrlKzWzmdgXU) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jay Dee](https://open.spotify.com/artist/35sUjoeFA3eopTY3PXEjVA) | [Wanga](https://open.spotify.com/album/1tmjTkjz5XPlMCiSB0d95L) | 3:39 |
 | 62 | [Zara Faasley Te](https://open.spotify.com/track/4C88RSd7XYdOnqKUi1IZfc) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Zara Faasley Te \- Single](https://open.spotify.com/album/6x752sdmpSQagdtzUMv31Q) | 4:24 |
 | 63 | [Ki Likha](https://open.spotify.com/track/45FqDbFJkcg3jDqhqnvvmL) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ki Likha](https://open.spotify.com/album/51OFYw4DkH77r7GvldQjAq) | 4:26 |

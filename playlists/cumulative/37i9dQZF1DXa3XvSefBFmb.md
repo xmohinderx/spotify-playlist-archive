@@ -2,7 +2,7 @@
 
 ### [EQUAL Portugal](https://open.spotify.com/playlist/37i9dQZF1DXa3XvSefBFmb)
 
-> Ouve estas extraordinárias artistas, como Carminho, com o volume no máximo.
+> Ouve estas extraordinárias artistas, como Nena, com o volume no máximo.
 
 341 songs - 19 hr 23 min - [published](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
 

@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 168744,
+  "num_followers": 168796,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGVmYTNiODlmMjQ3MWFiZTJiNWE5MjkwNjcxMGUxMzMz",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDA5ZmZhYmEyN2JmNzUwNjk2NjA1NzZhNTJmNTE1ZTBh",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -841,6 +841,26 @@
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
     },
     {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "Funkdombe - edit",
+        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
+      },
+      "artists": [
+        {
+          "name": "Hector Bingert",
+          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 230374,
+      "name": "Funkdombe - edit",
+      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
+    },
+    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "The New Heritage",
@@ -869,26 +889,6 @@
       "url": "https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr"
     },
     {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Funkdombe - edit",
-        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
-      },
-      "artists": [
-        {
-          "name": "Hector Bingert",
-          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        }
-      ],
-      "duration_ms": 230374,
-      "name": "Funkdombe - edit",
-      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Visions of the Emerald Beyond",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
-      },
-      "artists": [
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Shapeless",
         "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 348733,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Lifetime: The Collection",
+        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
+      },
+      "artists": [
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 386066,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1133,6 +1133,22 @@
       "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "A Present For The Future",
+        "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
+      },
+      "artists": [
+        {
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+        }
+      ],
+      "duration_ms": 551733,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Maiden Voyage",
@@ -1155,22 +1171,6 @@
       "duration_ms": 401652,
       "name": "Maiden Voyage",
       "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "A Present For The Future",
-        "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
-      },
-      "artists": [
-        {
-          "name": "Frank Gambale",
-          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
-        }
-      ],
-      "duration_ms": 551733,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1317,6 +1317,22 @@
       "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/33FjWExlzwKy3f8nwV43M1"
+      },
+      "artists": [
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        }
+      ],
+      "duration_ms": 653190,
+      "name": "Guinnevere",
+      "url": "https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V"
+    },
+    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Cousin Vinnie",
@@ -1345,20 +1361,20 @@
       "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2021-07-16 04:01:00",
       "album": {
-        "name": "Axiom",
-        "url": "https://open.spotify.com/album/33FjWExlzwKy3f8nwV43M1"
+        "name": "Liberation Time",
+        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
       },
       "artists": [
         {
-          "name": "Christian Scott aTunde Adjuah",
-          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
         }
       ],
-      "duration_ms": 653190,
-      "name": "Guinnevere",
-      "url": "https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V"
+      "duration_ms": 321693,
+      "name": "As the Spirit Sings",
+      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
     },
     {
       "added_at": "2022-02-11 19:09:35",
@@ -1377,20 +1393,24 @@
       "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     },
     {
-      "added_at": "2021-07-16 04:01:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Liberation Time",
-        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
+        "name": "close tail",
+        "url": "https://open.spotify.com/album/2dAVyJIPNLM1MOS1XIuDSA"
       },
       "artists": [
         {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+        },
+        {
+          "name": "\u30ab\u30ef\u30a4\u30d2\u30c7\u30d2\u30ed",
+          "url": "https://open.spotify.com/artist/5Omh9eZovZzTmHfnzlmMJM"
         }
       ],
-      "duration_ms": 321693,
-      "name": "As the Spirit Sings",
-      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
+      "duration_ms": 289851,
+      "name": "close tail",
+      "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -1417,26 +1437,6 @@
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "close tail",
-        "url": "https://open.spotify.com/album/2dAVyJIPNLM1MOS1XIuDSA"
-      },
-      "artists": [
-        {
-          "name": "POLYPLUS",
-          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
-        },
-        {
-          "name": "\u30ab\u30ef\u30a4\u30d2\u30c7\u30d2\u30ed",
-          "url": "https://open.spotify.com/artist/5Omh9eZovZzTmHfnzlmMJM"
-        }
-      ],
-      "duration_ms": 289851,
-      "name": "close tail",
-      "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Sand",
@@ -1453,32 +1453,32 @@
       "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Catch me if you can!",
-        "url": "https://open.spotify.com/album/1RyHcCPpsYLiMvY87EibNF"
+        "name": "Aslan",
+        "url": "https://open.spotify.com/album/6Ipqac2umFqtk6tp8TSLsT"
       },
       "artists": [
         {
-          "name": "Umziky",
-          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
         },
         {
-          "name": "Markus Eermann",
-          "url": "https://open.spotify.com/artist/4s79kfWJq1CaZu9e7rvbwu"
+          "name": "Alp Ers\u00f6nmez",
+          "url": "https://open.spotify.com/artist/2vnmgf7oe9T4gO2FACMrLH"
         },
         {
-          "name": "Jesse Vilhomaa",
-          "url": "https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb"
+          "name": "Turgut Alp Beko\u011flu",
+          "url": "https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso"
         },
         {
-          "name": "Vid \u0160keta",
-          "url": "https://open.spotify.com/artist/3xvZ4lDs78x6krq04pfItd"
+          "name": "\u0130zzet K\u0131z\u0131l",
+          "url": "https://open.spotify.com/artist/1GZiLEPNYIJnGpx2gmrKEa"
         }
       ],
-      "duration_ms": 238178,
-      "name": "Catch me if you can!",
-      "url": "https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n"
+      "duration_ms": 378927,
+      "name": "Aslan",
+      "url": "https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x"
     }
   ],
   "unique_name": "Fusion Fest",

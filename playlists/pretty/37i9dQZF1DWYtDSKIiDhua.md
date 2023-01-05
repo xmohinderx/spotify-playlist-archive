@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,003 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,146 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 46 | [Hot Cocoa](https://open.spotify.com/track/0P860fWaQufIrjYPRbUKoc) | [RUMBU](https://open.spotify.com/artist/0KxIN3aA64bE2qIRJwLL3Z) | [Hot Cocoa](https://open.spotify.com/album/7GdOPwDjLRIX9OOXpxAp6t) | 3:02 |
 | 47 | [Stand Up \(From the Original Motion Picture "Till"\)](https://open.spotify.com/track/6RfyQbkKctEp5rwAhrJCEM) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Stand Up \(From the Original Motion Picture "Till"\)](https://open.spotify.com/album/5SjhlbPZIgLILg9k6BJsPs) | 3:44 |
 | 48 | [We'll Be Alright](https://open.spotify.com/track/1QfVxmp3h9ZSVOc0756RJE) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du), [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [We'll Be Alright](https://open.spotify.com/album/23dY24TcGLlLmqZIcnWWAr) | 3:13 |
-| 49 | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/3gPUFEEuGfZ4jTckTJrgUE) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/album/78lpvl9BAUf8x5yre7b4vF) | 3:39 |
+| 49 | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:39 |
 | 50 | [never get enough](https://open.spotify.com/track/6mBtFEQ9obH4FIKjQrO50Q) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [never get enough](https://open.spotify.com/album/2QOyi7CKCthT1I5MlYTbDl) | 2:29 |
 | 51 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 |
 | 52 | [Thinkin' Bout Me](https://open.spotify.com/track/1vYVy0C40JfBo8l6Rhv2QK) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn), [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Thinkin' Bout Me](https://open.spotify.com/album/1oJq5u10EdD29i5HJ4XXvY) | 3:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 79 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
 | 80 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
 
-Snapshot ID: `MTY3MjM5MjE3NCwwMDAwMDAwMDEzYjkxYzk3MmZmOGJiNTVmYmYzYWMzNDU3OWQzMWZl`
+Snapshot ID: `MTY3MjM5MjE3NCwwMDAwMDAwMDIzZDA0OGIzN2JiYjMyZTAwOGY2OTJmNmY3Y2VjNDc3`

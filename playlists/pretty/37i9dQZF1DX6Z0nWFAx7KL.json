@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 28088,
+  "num_followers": 28118,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM1NDgwMCwwMDAwMDAwMDkzNDViZGJlMjA1OTE0ZTMyNTNhMzM1Yjc5MDA3YzAw",
+  "snapshot_id": "MTY3MjM1NDgwMCwwMDAwMDAwMGY2MzBlOGJhZWI4ZGUyNmQ2NmU4M2UzMDg2ZmY3ZjU5",
   "tracks": [
     {
       "added_at": "2022-12-29 23:00:00",
@@ -135,26 +135,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "PLANT",
-          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
-        }
-      ],
-      "duration_ms": 158031,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Body on Fire",
         "url": "https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 159180,
       "name": "Body on Fire",
       "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+        }
+      ],
+      "duration_ms": 158031,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Sweet Harmony",
         "url": "https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 162310,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -423,30 +423,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
-      },
-      "artists": [
-        {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
-        },
-        {
-          "name": "CMC$",
-          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 152903,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Bloom (nowifi Remix)",
         "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
       },
@@ -471,6 +447,30 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
+      },
+      "artists": [
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        {
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 152903,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "Drift",
         "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 164516,
       "name": "Drift",
       "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "All Shook Up",
+        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -543,22 +559,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "All Shook Up",
-        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Who's Holding You",
         "url": "https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96"
       },
@@ -579,30 +579,6 @@
       "duration_ms": 161478,
       "name": "Who's Holding You",
       "url": "https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -639,6 +615,30 @@
       "duration_ms": 175169,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -719,26 +719,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -783,18 +763,22 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
       "artists": [
         {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn"
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -811,6 +795,22 @@
       "duration_ms": 164388,
       "name": "What You Do to Me",
       "url": "https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ"
+      },
+      "artists": [
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1487,74 +1487,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Down from this High",
-        "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
-      },
-      "artists": [
-        {
-          "name": "k\u00e1nji",
-          "url": "https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U"
-        },
-        {
-          "name": "N\u00d8TALUVA",
-          "url": "https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId"
-        }
-      ],
-      "duration_ms": 115297,
-      "name": "Down from this High",
-      "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
-      },
-      "artists": [
-        {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
-        }
-      ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Late Delivery",
-        "url": "https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        }
-      ],
-      "duration_ms": 202963,
-      "name": "Late Delivery",
-      "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Echo [Cha\u00ebl Remix]",
         "url": "https://open.spotify.com/album/1QjzaTNqb5lC73XzhfG1Lv"
       },
@@ -1579,6 +1511,74 @@
       "duration_ms": 153442,
       "name": "Echo [Cha\u00ebl Remix]",
       "url": "https://open.spotify.com/track/0tYWJ4GvHzNvcbh9hLRFAX"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
+      },
+      "artists": [
+        {
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
+        }
+      ],
+      "duration_ms": 171944,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Down from this High",
+        "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
+      },
+      "artists": [
+        {
+          "name": "k\u00e1nji",
+          "url": "https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U"
+        },
+        {
+          "name": "N\u00d8TALUVA",
+          "url": "https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId"
+        }
+      ],
+      "duration_ms": 115297,
+      "name": "Down from this High",
+      "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Late Delivery",
+        "url": "https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        }
+      ],
+      "duration_ms": 202963,
+      "name": "Late Delivery",
+      "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
     }
   ],
   "unique_name": "Dance Chill",

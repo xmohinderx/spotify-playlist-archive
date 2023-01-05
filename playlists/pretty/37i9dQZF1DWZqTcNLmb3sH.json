@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vedha",
-  "num_followers": 44931,
+  "num_followers": 44961,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI5NDYwNiwwMDAwMDAwMDBiYzY1NTljMzY2NTFhNmQwZGNmN2RkNmRiYzE5YmIy",
+  "snapshot_id": "MTY3MjgxMzcxNSwwMDAwMDAwMGIyOGNiZmRjZjI3MWIzZjc2YzYxNWI2M2Y1MzE5MDcw",
   "tracks": [
     {
       "added_at": "2022-12-11 14:28:49",
@@ -161,6 +161,26 @@
       "url": "https://open.spotify.com/track/1q7AWiwBPhWOyYihmf7zCH"
     },
     {
+      "added_at": "2023-01-04 06:28:35",
+      "album": {
+        "name": "Nee Nagutiralu (From \"Padavi Poorva\")",
+        "url": "https://open.spotify.com/album/66x75kdnNXKwbPfINKrsxA"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Srusti Shamanur",
+          "url": "https://open.spotify.com/artist/6Ca8wqqBIZeNmiAagEjNrf"
+        }
+      ],
+      "duration_ms": 402133,
+      "name": "Nee Nagutiralu (From \"Padavi Poorva\")",
+      "url": "https://open.spotify.com/track/4jNCCq1tpovrqczhwqeO45"
+    },
+    {
       "added_at": "2022-11-22 12:21:06",
       "album": {
         "name": "For Registration - Lovegal Sumadhura (From \"For Regn\")",
@@ -207,6 +227,26 @@
       "duration_ms": 186352,
       "name": "Chinnumari (From \"Vedha\")",
       "url": "https://open.spotify.com/track/7MBiHHCBLA40Ix05D97bpM"
+    },
+    {
+      "added_at": "2023-01-04 06:14:58",
+      "album": {
+        "name": "Nadiyondu (From \"Orchestra, Mysuru!\")",
+        "url": "https://open.spotify.com/album/6h5RCXnXQtIMKcbWOQxZgY"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "Siddhartha Belmannu",
+          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "Nadiyondu (From \"Orchestra, Mysuru!\")",
+      "url": "https://open.spotify.com/track/4tjXItWTqab5Ei0CcXQvqC"
     },
     {
       "added_at": "2022-12-28 11:51:03",

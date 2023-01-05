@@ -4,7 +4,7 @@
 
 > Taking it way back! Cover: Nas
 
-192 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/4E8QveJMku5inuSzu9H1Ch)
+193 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/4E8QveJMku5inuSzu9H1Ch)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Nuthin' But A "G" Thang](https://open.spotify.com/track/4YtoipFgf4k0AfD17ZfD5X) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Chronic](https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH) | 3:58 | 2022-02-11 | 2022-09-30 |
 | [On Fire](https://open.spotify.com/track/0B2ZuTLZnWQ6gz8RlNwBu1) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [The Hunger For More](https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v) | 3:07 | 2022-02-11 | 2022-03-14 |
 | [Overnight Celebrity](https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:53 | 2022-03-13 |  |
-| [P.I.M.P.](https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:09 | 2022-02-11 |  |
+| [P.I.M.P.](https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:09 | 2022-02-11 | 2023-01-05 |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2022-02-11 | 2022-03-14 |
 | [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 | 2022-08-05 | 2022-09-30 |
 | [Passin' Me By](https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:03 | 2022-09-29 |  |
@@ -192,6 +192,7 @@
 | [What's My Name](https://open.spotify.com/track/6OQrmEIK8KOOVcSoSaEo40) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 3:52 | 2021-04-09 | 2022-02-12 |
 | [What's Your Fantasy \(Featuring Shawna\)](https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Back For The First Time](https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV) | 4:35 | 2022-03-13 | 2022-05-27 |
 | [Whateva Man](https://open.spotify.com/track/0pSaDwrMLM7F82LWJg9v6s) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [Muddy Waters](https://open.spotify.com/album/5iluV9CqP7Wl9wjubwdw5h) | 3:08 | 2021-12-14 | 2022-02-12 |
+| [Where Dem Dollas At \(feat\. DJ Paul & Juicy J\)](https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Enquiring Minds](https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp) | 4:29 | 2023-01-04 |  |
 | [Where I'm From](https://open.spotify.com/track/0R0zZnqPg7yOWb4PRmW8nC) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [In My Lifetime, Vol.1](https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB) | 4:26 | 2022-11-04 |  |
 | [Who Am I \(What's My Name\)?](https://open.spotify.com/track/12CdB878c6n94tTlNfPcCv) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C) | 4:06 | 2022-02-11 | 2022-05-27 |
 | [Who Dat](https://open.spotify.com/track/2rbb3lOMI71NIMbJCS1wQQ) | [JT Money](https://open.spotify.com/artist/1pJhCUTEZhR4nYeemYlkVz) | [Pimpin' On Wax](https://open.spotify.com/album/47hDRYMv9yCkQV0svP9GFP) | 3:51 | 2021-03-05 | 2022-02-12 |

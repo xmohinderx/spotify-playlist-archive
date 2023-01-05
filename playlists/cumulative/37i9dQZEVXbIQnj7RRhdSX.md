@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,067 songs - 2 day 6 hr 59 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+1,068 songs - 2 day 7 hr 2 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [ANTIPATICO](https://open.spotify.com/track/5mJDKaEsF02C8BOZoJ14rl) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 1:57 | 2021-10-03 | 2021-10-23 |
 | [APRI](https://open.spotify.com/track/1S1hUgw8Vg69BS6b83H3tV) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [Verano](https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 1:49 | 2022-05-29 | 2022-05-31 |
 | [Apri tutte le porte](https://open.spotify.com/track/563Zhnk0v3WwVR0EsYlMNn) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Apri tutte le porte](https://open.spotify.com/album/1bmGTuZJUGa75v4BvsC0AO) | 3:43 | 2022-02-03 | 2022-03-02 |
-| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
+| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2023-01-05 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-30 |
 | [Aston Martin \(feat\. Headie One\)](https://open.spotify.com/track/5yIVCbjYf85Ixuc8ybba6s) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Aston Martin \(feat\. Headie One\)](https://open.spotify.com/album/5Caup6PGNwKut6KiyaZP5j) | 2:48 | 2021-12-18 | 2021-12-30 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-16 |
@@ -247,6 +247,7 @@
 | [CUORE DOLLARI \(64 Bars\)](https://open.spotify.com/track/2V7EiDaryzD6FP9q9mnJfb) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/3W0Np6mQAbBH3IpuZJj5po) | 2:22 | 2021-05-30 | 2021-06-04 |
 | [Cup](https://open.spotify.com/track/5tZLWsGOFHRBxZ96ZRe67z) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:47 | 2022-11-26 | 2022-12-31 |
 | [D10S \(feat\. Elisa\)](https://open.spotify.com/track/2szh2UCdEhLQjXLjDG8DQB) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 3:49 | 2022-04-02 | 2022-04-06 |
+| [Da Solo](https://open.spotify.com/track/7FvU0v2HZGnW4Mf4YNCgI3) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Da Solo](https://open.spotify.com/album/3TNK4YfObvW4VpTdJRCpkV) | 3:30 | 2023-01-04 |  |
 | [Damerino \(feat\. Taxi B\)](https://open.spotify.com/track/6cijWtR2c5UzbRqZ9X3mrw) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [OCEANO PARADISO](https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m) | 2:21 | 2021-10-17 | 2021-10-18 |
 | [Dancing On Dangerous \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Dancing On Dangerous \(feat\. Sofía Reyes\)](https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z) | 2:04 | 2021-06-16 | 2021-08-29 |
 | [David](https://open.spotify.com/track/5ywyHzNUe5Jc1qg44fio5x) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 3:13 | 2021-09-12 | 2021-10-03 |

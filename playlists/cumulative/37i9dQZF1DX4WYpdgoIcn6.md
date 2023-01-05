@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-871 songs - 1 day 23 hr 14 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
+872 songs - 1 day 23 hr 17 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Caught in the Middle](https://open.spotify.com/track/7aKCwhBjb8zuTEBGzf48Qm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet/Caught in the Middle](https://open.spotify.com/album/6hPjqER5erz9bS5C3fxq1L) | 2:42 | 2020-07-31 | 2020-11-05 |
 | [Caught Up](https://open.spotify.com/track/3TwhsL5KS1t0paBtD9BhI5) | [NOA](https://open.spotify.com/artist/5OaWY1HjWremIVRztYS1xG) | [Caught Up](https://open.spotify.com/album/5M1f7VxSW1gIlQCG63Z3Jr) | 2:58 | 2019-10-25 | 2019-12-14 |
 | [Caught Up \(feat\. Khalid\)](https://open.spotify.com/track/1opARDDYaOeE1QUdwXmBGu) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Caught Up \(feat\. Khalid\)](https://open.spotify.com/album/3LHVZayhkrZPdryYqJ5JZu) | 4:07 | 2019-07-30 | 2019-11-09 |
+| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-01-04 |  |
 | [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 | 2019-05-25\* | 2020-01-03 |
 | [Change](https://open.spotify.com/track/1ztB2LwqXxn0IH2jMrKvDw) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Change](https://open.spotify.com/album/6ffkQ1TU9uDe40ECeNj86T) | 2:34 | 2020-08-30 | 2021-01-08 |
 | [Changes](https://open.spotify.com/track/2v8GT5HHcqFaTXS2xijw4r) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Changes](https://open.spotify.com/album/4h8xh5PZ1CNVW9vTdqRYAL) | 3:34 | 2021-03-18 | 2021-05-22 |
@@ -641,7 +642,7 @@
 | [Renee's Song](https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Renee's Song](https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G) | 2:10 | 2020-04-07 | 2021-05-20 |
 | [Right](https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 4:47 | 2020-06-12 | 2020-08-30 |
 | [right here](https://open.spotify.com/track/2xnNgKhyMl9MxBmRNGnBJP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [right here](https://open.spotify.com/album/6f8zlDw5RgFhyuc9wPu4BG) | 3:14 | 2021-02-22 | 2022-04-21 |
-| [right here](https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:15 | 2022-07-07 |  |
+| [right here](https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:15 | 2022-07-07 | 2023-01-05 |
 | [Ripples](https://open.spotify.com/track/7LYGpt7ckc34CFWcsxwnJl) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Ripples](https://open.spotify.com/album/0X3gzjTt2s1j5z5hDfOFAE) | 3:15 | 2020-01-03 | 2022-07-29 |
 | [Rise \- Acoustic](https://open.spotify.com/track/64TfjW0Ebj9Uq0ik2OfmE7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Rise \(Acoustic\)](https://open.spotify.com/album/4M4lVwxi3BpaAmv9hMIzrm) | 3:52 | 2019-05-25\* | 2019-06-15 |
 | [Robin Hood](https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Robin Hood](https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l) | 3:41 | 2019-06-19 | 2019-08-10 |

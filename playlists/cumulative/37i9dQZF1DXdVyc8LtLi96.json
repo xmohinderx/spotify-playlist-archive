@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "A World Above",
+        "url": "https://open.spotify.com/album/6Tsuaro1rdAFo4QuNjzOX0"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Green",
+          "url": "https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126799,
+      "name": "A World Above",
+      "url": "https://open.spotify.com/track/7x9bH00ovSbLyTMvsyvWNd"
+    },
+    {
+      "album": {
         "name": "Aaraam Karo",
         "url": "https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 215972,
       "name": "Align",
       "url": "https://open.spotify.com/track/5Nawyr4KZXikRk0ULZyBOY"
@@ -473,6 +491,24 @@
       "duration_ms": 185651,
       "name": "Alternatives",
       "url": "https://open.spotify.com/track/4Ztau0Zq5wxFdqumGyIp9c"
+    },
+    {
+      "album": {
+        "name": "Altitude",
+        "url": "https://open.spotify.com/album/4Wv2qeeio7rqXy3jPZuHuf"
+      },
+      "artists": [
+        {
+          "name": "Yves Alija",
+          "url": "https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225011,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/5VpRhHsT7DhWRyzLq40dRw"
     },
     {
       "album": {
@@ -635,6 +671,24 @@
       "duration_ms": 176454,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/57LIE4xGtrUqicdDiikdMp"
+    },
+    {
+      "album": {
+        "name": "Arctic Sleep",
+        "url": "https://open.spotify.com/album/2EQaP49EfLST5k5UD1wFJX"
+      },
+      "artists": [
+        {
+          "name": "Nekane Silver",
+          "url": "https://open.spotify.com/artist/4U43EfgJP8ydde513Puqat"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148329,
+      "name": "Arctic Sleep",
+      "url": "https://open.spotify.com/track/6dyuOdbEfV5bjkjku0QmpQ"
     },
     {
       "album": {
@@ -959,6 +1013,24 @@
       "duration_ms": 184250,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/7z6h9sgnoZQxUYoIDGBn2h"
+    },
+    {
+      "album": {
+        "name": "Faedah",
+        "url": "https://open.spotify.com/album/1tR8nFFyDf0jgyxRlcVAYi"
+      },
+      "artists": [
+        {
+          "name": "Indah Bethari",
+          "url": "https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135454,
+      "name": "Ayunan",
+      "url": "https://open.spotify.com/track/7sKHxAlAL7yvXMqCQyOLLK"
     },
     {
       "album": {
@@ -2587,7 +2659,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 163800,
       "name": "Elysian Fields",
       "url": "https://open.spotify.com/track/12J6Qh3o3UBgQuQfO4hi5Z"
@@ -2929,7 +3001,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 135751,
       "name": "Etoile",
       "url": "https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS"
@@ -3073,7 +3145,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 174023,
       "name": "Fernweh",
       "url": "https://open.spotify.com/track/6r2wMDEXAdpiZWXvRVrlL9"
@@ -3127,7 +3199,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 160000,
       "name": "Finally At Ease",
       "url": "https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx"
@@ -3181,7 +3253,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 154237,
       "name": "Firestones",
       "url": "https://open.spotify.com/track/3Qe3YdkyZ4QNSFg4oAoF2Z"
@@ -4520,6 +4592,24 @@
     },
     {
       "album": {
+        "name": "Lagoom",
+        "url": "https://open.spotify.com/album/0qMrCPIHj6jnFJkhPodqiC"
+      },
+      "artists": [
+        {
+          "name": "Harvey Lanza",
+          "url": "https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Lagoom",
+      "url": "https://open.spotify.com/track/4WBSK6p3BjyUJQ0hmyKdQM"
+    },
+    {
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT"
       },
@@ -4603,7 +4693,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 157242,
       "name": "Lenient Motion",
       "url": "https://open.spotify.com/track/7hPX3L0FjSXXWdh9VeLgHF"
@@ -4765,7 +4855,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 182500,
       "name": "Lissajous",
       "url": "https://open.spotify.com/track/0HH5ug5dE5d7U1iz4gkHae"
@@ -5233,7 +5323,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 172705,
       "name": "Mezame",
       "url": "https://open.spotify.com/track/1F314dDh2Uis0hYkOa7vdz"
@@ -5323,7 +5413,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 180352,
       "name": "Miuys",
       "url": "https://open.spotify.com/track/6gM3YgCJV3tBzbnYG2ydge"
@@ -5395,7 +5485,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 152974,
       "name": "Mountain View",
       "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
@@ -5431,7 +5521,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 169200,
       "name": "Moving Through Clouds",
       "url": "https://open.spotify.com/track/0UQw1kJHE2gSO09fpFmuNu"
@@ -5557,7 +5647,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 151750,
       "name": "Nepenthe",
       "url": "https://open.spotify.com/track/0kKOC50fPTnqmrYvtJInsT"
@@ -6601,7 +6691,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 157545,
       "name": "Psalm Of Sleep",
       "url": "https://open.spotify.com/track/17Dp0IXJcJoj4s2zuN7x31"
@@ -7033,7 +7123,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 200000,
       "name": "Ros\u0113tum",
       "url": "https://open.spotify.com/track/0Q8YbkwiUQTvxTYvofeAJB"
@@ -7339,7 +7429,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 165229,
       "name": "Seda",
       "url": "https://open.spotify.com/track/1VEGUwRnImIqt1JsV8j7aE"
@@ -7627,7 +7717,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 201600,
       "name": "sierra star",
       "url": "https://open.spotify.com/track/2dGmw1z9W32GGeofbAdNY1"
@@ -8329,7 +8419,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 129103,
       "name": "S\u00f3lestur",
       "url": "https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH"
@@ -8401,7 +8491,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 152405,
       "name": "The Arrival",
       "url": "https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq"
@@ -8743,7 +8833,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 175582,
       "name": "Time-lapse",
       "url": "https://open.spotify.com/track/5ZaEcUZjrkYiHTyOUpDZow"
@@ -8869,7 +8959,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 189403,
       "name": "True Calm Trees",
       "url": "https://open.spotify.com/track/76HJiGoSk8VHXxfrAkyErG"

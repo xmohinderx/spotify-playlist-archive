@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,277 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,169 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 42 | [Christmas Cards](https://open.spotify.com/track/2vIxMkWXzJdaDJVKHK4icG) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Songs for Christmas](https://open.spotify.com/album/232HV9TPBGG4N9p9uu6tFX) | 3:26 |
 | 43 | [All We Need](https://open.spotify.com/track/2rtOMcw98nnUfs0DzGgZLn) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [All We Need](https://open.spotify.com/album/4SugSFhdGVz61zW0WGOUM5) | 3:02 |
 | 44 | [Christmas at Home](https://open.spotify.com/track/3ALSNnwqeIwMOk8DsgLZux) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb), [Nearly York](https://open.spotify.com/artist/26H6hdDHPoK633qeSs861p) | [Christmas at Home](https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1) | 3:26 |
-| 45 | [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 |
-| 46 | [When We Are Together](https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas Together](https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t) | 2:26 |
+| 45 | [When We Are Together](https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas Together](https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t) | 2:26 |
+| 46 | [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 |
 | 47 | [Winter Song](https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [Winter Song](https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE) | 3:00 |
 | 48 | [Last Christmas](https://open.spotify.com/track/4BZOnedVMFKnUQ8JEnYjuS) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Last Christmas](https://open.spotify.com/album/6cCptvS7E0y8J5QGq6WJQJ) | 2:56 |
 | 49 | [All Together For Christmas](https://open.spotify.com/track/3YMMOyhpzFsinzVW3y0O9r) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [All Together For Christmas](https://open.spotify.com/album/2LYEIFEikRasmPpiluVZjJ) | 2:57 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 68 | [One More Day of Christmas](https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [One More Day of Christmas / Do You Hear What I Hear](https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s) | 2:42 |
 | 69 | [Little Toy Trains](https://open.spotify.com/track/6s3WO7Fuk6Om2h0XnVz9p1) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Spirit Of Christmas](https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG) | 2:14 |
 | 70 | [My Christmas List](https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [My Christmas List](https://open.spotify.com/album/3VpSv9WqlJ2xwnsDcMgINy) | 3:27 |
-| 71 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 |
-| 72 | [Blue Christmas](https://open.spotify.com/track/3euLun3X5Gg4WQ3o0bmphM) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Blue Christmas](https://open.spotify.com/album/0gCud9oDVuzmBRpVLg5EUG) | 2:06 |
+| 71 | [Blue Christmas](https://open.spotify.com/track/3euLun3X5Gg4WQ3o0bmphM) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Blue Christmas](https://open.spotify.com/album/0gCud9oDVuzmBRpVLg5EUG) | 2:06 |
+| 72 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 |
 | 73 | [Christmas Is Hittin' Me Different](https://open.spotify.com/track/1MjT5Ye12aNXQDyJB4aBHX) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Christmas Is Hittin' Me Different](https://open.spotify.com/album/4dU3Oj6Z49rIyJzEpU5O80) | 3:20 |
 | 74 | [The First Noel](https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [River City Christmas](https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg) | 3:39 |
 | 75 | [Christmas In A Cage](https://open.spotify.com/track/1gf6ixq1F0sZkoc9Kvaray) | [Fur Trade](https://open.spotify.com/artist/3Wrg4k4AIvnUbg9103fxkW) | [Christmas In A Cage](https://open.spotify.com/album/37ULvZCm8qn0gEEGA3Wytp) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/track/0AFOsHOLzZvUY8IqnhfRvA) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/album/1U04rSEjf2f4tMvOpvKacK) | 3:51 |
 | 100 | [Tinseltown](https://open.spotify.com/track/1L6bTqfeKD3VRyJyoteUc9) | [Jimmy Rankin](https://open.spotify.com/artist/2OQPlCSsa0Hs0V0oMT5YdU) | [Tinsel Town](https://open.spotify.com/album/5geLUoFqgN4GpktaxO7zUf) | 3:44 |
 
-Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDgzNmZiNDEzNDhmZDk5N2YxNzc0YWI0ZjRkMzg4OGMy`
+Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDgzYjg4NmIyZThiZWQxZDRjZjMzYzM0NmMwNTJjMDZh`

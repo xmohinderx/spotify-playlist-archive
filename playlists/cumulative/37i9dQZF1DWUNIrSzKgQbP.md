@@ -4,7 +4,7 @@
 
 > Snowy days, cozy nights\. Soak up the spirit of the season with lush, intricate acoustics.
 
-418 songs - 1 day 2 hr 23 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
+419 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,8 @@
 | [The Back Of Her](https://open.spotify.com/track/2YQr4Zh2TsIABHW1TbuvEs) | [Junior Brother](https://open.spotify.com/artist/2CdmJGEGEkzPZ966NCmtKz) | [Pull The Right Rope](https://open.spotify.com/album/1zJWPGP8JFdpypvANgL1KQ) | 5:15 | 2021-12-20 | 2022-03-22 |
 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 | 2022-06-07 | 2022-09-07 |
 | [The Barrel \- Edit](https://open.spotify.com/track/5ptT7iorqwpxAtZzVuIei0) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/6GO0ZV4w1GHfksdyBiEAY0) | 3:39 | 2021-12-20 | 2022-07-29 |
-| [The Ghost on the Shore](https://open.spotify.com/track/1aW2tNqlixguxGc8M4hV1D) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:37 | 2022-12-21 |  |
+| [The Ghost on the Shore](https://open.spotify.com/track/1aW2tNqlixguxGc8M4hV1D) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:37 | 2022-12-21 | 2023-01-05 |
+| [The Ghost on the Shore](https://open.spotify.com/track/24FpbHVeR7jQp7LVr6vwgr) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/69kRqmPTFu7xBqsrM47Ko4) | 4:37 | 2022-12-21 |  |
 | [The Last Song On Earth](https://open.spotify.com/track/6n8QYU46m0dO6HIKG0GN8S) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Two Songs For Now](https://open.spotify.com/album/6iU4TOsjA7CmhOb7XgXp40) | 3:53 | 2021-12-20 | 2022-03-22 |
 | [The Lily](https://open.spotify.com/track/7v73hTuUIJ05PdCvBqXtbR) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [The Lily](https://open.spotify.com/album/5qLztE22iuL2MhP98PcBRI) | 4:14 | 2021-12-20 | 2022-03-22 |
 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 | 2022-03-21 | 2022-06-08 |

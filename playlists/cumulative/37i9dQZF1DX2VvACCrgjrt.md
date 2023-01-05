@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Nostalgix
 
-377 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+378 songs - 20 hr 13 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [High Like This](https://open.spotify.com/track/24rqaJuN7XX19NbmPHA6TT) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:01 | 2022-06-03 | 2022-09-15 |
 | [Hit Boys](https://open.spotify.com/track/79JqrjyOQeSKTQcrFW0K0Z) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [IMYOUNGWORLD](https://open.spotify.com/artist/08ngafsXwRT3J172UID0xq) | [Street Knowledge](https://open.spotify.com/album/3odYrusBGPbJ9OXMydGccU) | 2:43 | 2021-10-29 | 2022-05-28 |
 | [Hit the Breaks](https://open.spotify.com/track/7fFhhfuz6Qch7l2K8Mequ4) | [JAOVA](https://open.spotify.com/artist/2fI5dsTenHeFqazjkcnLiK) | [Hit the Breaks](https://open.spotify.com/album/3l6svBc2kZnXXelb4AyWtn) | 2:06 | 2022-03-18 | 2022-05-07 |
-| [Hold Up](https://open.spotify.com/track/0pK0gq7i09er2r5XLkfe7u) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Hold Up](https://open.spotify.com/album/57HyO0Nv1ZJKi9hDbs50to) | 2:29 | 2022-02-25 |  |
+| [Hold Up](https://open.spotify.com/track/0pK0gq7i09er2r5XLkfe7u) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Hold Up](https://open.spotify.com/album/57HyO0Nv1ZJKi9hDbs50to) | 2:29 | 2022-02-25 | 2023-01-05 |
 | [Hold Up \(feat\. J\. Plaza\)](https://open.spotify.com/track/6HkQZhtfy9VEl149aO3g6d) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Plaza](https://open.spotify.com/artist/5byn1BtQQdomxOZgqd2S0Y) | [BLKMRKT Vol\. 1](https://open.spotify.com/album/1EXSFhzEK4yrgUQXVvjT1t) | 2:22 | 2021-10-29 | 2022-03-26 |
 | [Hustle](https://open.spotify.com/track/6YMSywt3HpzVLoxDN6tzqo) | [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Hustle](https://open.spotify.com/album/4FHhnmZpT898mjTBrcujXv) | 2:50 | 2021-10-29 | 2022-04-02 |
 | [Hype Beast](https://open.spotify.com/track/0AAtVQhBnuqduOZp7GsepG) | [Rich DietZ](https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8) | [Hype Beast](https://open.spotify.com/album/5s8FxM1lTlGR4kmbbvmoEq) | 3:21 | 2022-01-21 | 2022-07-29 |
@@ -338,6 +338,7 @@
 | [The Afterhour Waltz](https://open.spotify.com/track/1bpt1M45P9CntixjQ0apti) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [The Afterhour Waltz](https://open.spotify.com/album/7AyEpqNZeUzzwIluqR3PKC) | 3:00 | 2022-03-25 | 2022-09-10 |
 | [The Answer](https://open.spotify.com/track/29AIZjKOLwFkP2bgy9RS2j) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [The Answer](https://open.spotify.com/album/34gfhO5DSUVvqAPlaPskOn) | 3:10 | 2021-10-29 | 2022-05-28 |
 | [The Grave](https://open.spotify.com/track/7tPbw62QKVG3N0fPlxrvtJ) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [The Grave](https://open.spotify.com/album/2qEXcLDcq68PRPSiXDUBic) | 3:32 | 2021-10-29 | 2022-01-21 |
+| [The One](https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R) | [DEVOWR.](https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [The One](https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO) | 3:35 | 2022-12-16 |  |
 | [The One](https://open.spotify.com/track/3Iy6cv2ptS8yAfEahSJsSH) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [The One \[UKF10\]](https://open.spotify.com/album/6iVi8d3zjkYJOM1M1RKTvD) | 3:11 | 2021-10-29 | 2021-12-25 |
 | [The Players Anthem](https://open.spotify.com/track/3i2r4pHerk6x5xZJZkZTUj) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [The Players Anthem](https://open.spotify.com/album/0xwquOj4FyO51teiVjtpkL) | 3:17 | 2022-04-01 | 2022-07-16 |
 | [The Sequel](https://open.spotify.com/track/3f0C4VBTbLlEsCyybHELPW) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [The Sequel](https://open.spotify.com/album/2tvps9wX8kLJebdFgvFVST) | 3:09 | 2021-10-29 | 2022-05-28 |

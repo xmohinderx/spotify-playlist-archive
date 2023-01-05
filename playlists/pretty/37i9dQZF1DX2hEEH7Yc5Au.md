@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 ### [EQUAL Taiwan](https://open.spotify.com/playlist/37i9dQZF1DX2hEEH7Yc5Au)
 
-> 一起來支持女性音樂人的精采表現！2022 年度總集成！Cover: 陳忻玥 \(Vicky Chen\)
+> 一起來支持女性音樂人的精采表現！Cover: 陳忻玥 \(Vicky Chen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,461 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,595 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [突然想起你](https://open.spotify.com/track/1HPhCmSgdHwB6GSizcomZI) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [蕭亞軒\-\-](https://open.spotify.com/album/2iFxrSfOHMw68At3k5JVE9) | 3:53 |
 | 50 | [為i篩檢](https://open.spotify.com/track/07iGY9KfBhKAPJPm8rQQKn) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [為i篩檢](https://open.spotify.com/album/74nFzcXwMxIwcWELYtQTqj) | 3:31 |
 
-Snapshot ID: `MTY3Mjc2MTYwMCwwMDAwMDAwMDJiM2RlMGY1NjYwM2U1NTE4Njk3NzBhMTAzYzAwNDJm`
+Snapshot ID: `MTY3MjgwNTU2MywwMDAwMDAwMDVhMDU0ZjZlNGMwNzZiYjgwNjVhYjJjMWViZTAwNGUx`

@@ -4,7 +4,7 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-109 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
+110 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Another Day](https://open.spotify.com/track/0fULKQl6s5xzZvxbRswkWG) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Another Day](https://open.spotify.com/album/5fenKxeOTwKoZEG6sZAAub) | 3:10 | 2021-10-15 | 2022-07-29 |
 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 | 2021-10-15 |  |
 | [BH](https://open.spotify.com/track/3PhFcC1MNjYnjrWKgtk4HX) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [BH](https://open.spotify.com/album/5ecobxjbZgTExfv3RkComi) | 4:35 | 2021-10-15 | 2022-07-29 |
+| [Bh](https://open.spotify.com/track/5TKEFmm00kb1pGhbbrcMAJ) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [Daniel Aged](https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD) | 4:35 | 2021-10-15 |  |
 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 | 2021-10-15 |  |
 | [Blind Eye](https://open.spotify.com/track/2w0zUD1DqNNznSirUyOFlB) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Blind Eye](https://open.spotify.com/album/0gKCtKyluB72fRXY3BSlJk) | 3:05 | 2021-10-15 | 2022-07-28 |
 | [Blind Eye](https://open.spotify.com/track/6RkRuJgT2iNBsqEJX93zwo) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7) | 3:05 | 2021-10-15 | 2022-10-15 |
@@ -49,7 +50,7 @@
 | [Feel](https://open.spotify.com/track/3kaoTFZqU2ZgycpjbSKrvy) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [Regrets & Resolutions](https://open.spotify.com/album/0jEYgUe5ByUDh3XdP29KBG) | 5:54 | 2021-10-15 |  |
 | [Feelings Of Unreality](https://open.spotify.com/track/0fLPSEi4IBDAnhuDIm1bzI) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Feelings Of Unreality](https://open.spotify.com/album/3N0eERc3grlFcQGwWF3J70) | 3:55 | 2021-10-15 | 2022-11-09 |
 | [Feelings Of Unreality](https://open.spotify.com/track/6DNUm6RHHd9LzPSNC0SaBD) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Feelings Of Unreality](https://open.spotify.com/album/2I32leZu15Vr0HQSyqXbtU) | 3:55 | 2021-10-15 | 2022-07-06 |
-| [Fires](https://open.spotify.com/track/3J29rY1I9u0gNsvHq1cgUk) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/0S9o7MW7YSpKKRX7cmqSXm) | 4:39 | 2021-10-15 |  |
+| [Fires](https://open.spotify.com/track/3J29rY1I9u0gNsvHq1cgUk) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/0S9o7MW7YSpKKRX7cmqSXm) | 4:39 | 2021-10-15 | 2023-01-05 |
 | [Fires](https://open.spotify.com/track/4UBvcf6BZhHTNyizI9R1jf) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Fires](https://open.spotify.com/album/6iM6VTixlzgFqRR0L2oqZI) | 4:39 | 2021-10-15 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz) | 4:09 | 2021-10-15 |  |
 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 | 2021-10-15 |  |

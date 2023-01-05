@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 168723,
+  "num_followers": 168793,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDU2OGJiMzVhMjdiNWNmZmRlYTg0YWUwZWM5MGQ1OGIy",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDM3NWU2MzFkODlmYzFjMmEzNDRjZDJiYTU0M2YxNjYw",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Riot!",
+      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "RTJ4",
         "url": "https://open.spotify.com/album/6cx4GVNs03Pu4ZczRnWiLd"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 205160,
       "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
       "url": "https://open.spotify.com/track/10vS4ZLi4XWlIsNXSQXgqh"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Riot!",
-      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Bodied",
-        "url": "https://open.spotify.com/album/5KG3In8LsszpAsPSh3OOH7"
+        "name": "Onyx (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb"
       },
       "artists": [
         {
-          "name": "Honors",
-          "url": "https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 178592,
-      "name": "Bodied",
-      "url": "https://open.spotify.com/track/5CoFI2sgWxWACu15DhE3fY"
+      "duration_ms": 257372,
+      "name": "Divide",
+      "url": "https://open.spotify.com/track/5nMKcCg8iL9syTYM3p63lS"
     }
   ],
   "unique_name": "Rise Up",

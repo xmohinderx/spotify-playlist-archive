@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 2010s! Cover: Daddy Yankee, Luis Fonsi",
-  "num_followers": 117415,
+  "num_followers": 117496,
   "original_name": "10s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDIxMSwwMDAwMDAwMDg3NzMyZjU5MzFjNzNlNzI1YzRiNWU2NTFmOTBhMGY5",
+  "snapshot_id": "MTY2MTkzMDIxMSwwMDAwMDAwMDFmODMzNTJkYmQ1M2QyMThhY2VjMWNiZDZlMTU5NTVl",
   "tracks": [
     {
       "added_at": "2022-08-31 07:16:51",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 150027,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 240093,
       "name": "Encantadora",
       "url": "https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150027,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
     },
     {
       "added_at": "2022-08-31 07:16:51",

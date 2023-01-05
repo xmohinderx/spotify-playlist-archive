@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 350505,
+  "num_followers": 350606,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc1ODAwMCwwMDAwMDAwMDdlZGY5ZmU2MWQxYmQ1ZDQ4ZmYyYjMzMzJmZjZmMTVh",
+  "snapshot_id": "MTY3Mjc1ODAwMCwwMDAwMDAwMDc5MjlkOTU4ZWY0NjZkMTJkNjcxNmVkN2ZhYzgzOThj",
   "tracks": [
     {
       "added_at": "2023-01-03 15:00:00",
@@ -691,22 +691,18 @@
     {
       "added_at": "2023-01-03 15:00:00",
       "album": {
-        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
+        "name": "A revolution",
+        "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "LOVE PSYCHEDELICO",
+          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
         }
       ],
-      "duration_ms": 207521,
-      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
+      "duration_ms": 240133,
+      "name": "Radio song",
+      "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
     },
     {
       "added_at": "2023-01-03 15:00:00",
@@ -727,18 +723,22 @@
     {
       "added_at": "2023-01-03 15:00:00",
       "album": {
-        "name": "A revolution",
-        "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
+        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
       },
       "artists": [
         {
-          "name": "LOVE PSYCHEDELICO",
-          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Radio song",
-      "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
+      "duration_ms": 207521,
+      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
     },
     {
       "added_at": "2023-01-03 15:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-01-03 15:00:00",
       "album": {
-        "name": "Christmas Is All Yours",
-        "url": "https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7"
-      },
-      "artists": [
-        {
-          "name": "Keishi Tanaka",
-          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
-        }
-      ],
-      "duration_ms": 208436,
-      "name": "Christmas Is All Yours",
-      "url": "https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ"
-    },
-    {
-      "added_at": "2023-01-03 15:00:00",
-      "album": {
         "name": "STARLIGHT",
         "url": "https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 187557,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD"
+    },
+    {
+      "added_at": "2023-01-03 15:00:00",
+      "album": {
+        "name": "Christmas Is All Yours",
+        "url": "https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7"
+      },
+      "artists": [
+        {
+          "name": "Keishi Tanaka",
+          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
+        }
+      ],
+      "duration_ms": 208436,
+      "name": "Christmas Is All Yours",
+      "url": "https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ"
     },
     {
       "added_at": "2023-01-03 15:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-01-03 15:00:00",
       "album": {
+        "name": "friends",
+        "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
+    },
+    {
+      "added_at": "2023-01-03 15:00:00",
+      "album": {
         "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 (\u306a\u3093\u306b\u3082)",
         "url": "https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9"
       },
@@ -975,26 +991,6 @@
     {
       "added_at": "2023-01-03 15:00:00",
       "album": {
-        "name": "CROWS",
-        "url": "https://open.spotify.com/album/2D8HpOl0a3Bs2A1iAG0Zyd"
-      },
-      "artists": [
-        {
-          "name": "MIYACHI",
-          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
-        },
-        {
-          "name": "Daichi Yamamoto",
-          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
-        }
-      ],
-      "duration_ms": 170549,
-      "name": "CHILLIN (feat. Daichi Yamamoto)",
-      "url": "https://open.spotify.com/track/41tQErMclr6VBRAIsjAuhj"
-    },
-    {
-      "added_at": "2023-01-03 15:00:00",
-      "album": {
         "name": "dead2me.",
         "url": "https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7"
       },
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2023-01-03 15:00:00",
       "album": {
-        "name": "friends",
-        "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
+        "name": "CROWS",
+        "url": "https://open.spotify.com/album/2D8HpOl0a3Bs2A1iAG0Zyd"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
         }
       ],
-      "duration_ms": 229653,
-      "name": "friends",
-      "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
+      "duration_ms": 170549,
+      "name": "CHILLIN (feat. Daichi Yamamoto)",
+      "url": "https://open.spotify.com/track/41tQErMclr6VBRAIsjAuhj"
     },
     {
       "added_at": "2023-01-03 15:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-01-03 15:00:00",
       "album": {
-        "name": "SEASONS",
-        "url": "https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
-    },
-    {
-      "added_at": "2023-01-03 15:00:00",
-      "album": {
         "name": "Time Won't Stop",
         "url": "https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 308162,
       "name": "Maze",
       "url": "https://open.spotify.com/track/7dO0DWNctendV8W3XbRBux"
+    },
+    {
+      "added_at": "2023-01-03 15:00:00",
+      "album": {
+        "name": "SEASONS",
+        "url": "https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
     },
     {
       "added_at": "2023-01-03 15:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-01-03 15:00:00",
       "album": {
-        "name": "HOWL",
-        "url": "https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT"
-      },
-      "artists": [
-        {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
-        }
-      ],
-      "duration_ms": 243531,
-      "name": "HOWL",
-      "url": "https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb"
-    },
-    {
-      "added_at": "2023-01-03 15:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 149002,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft"
+    },
+    {
+      "added_at": "2023-01-03 15:00:00",
+      "album": {
+        "name": "HOWL",
+        "url": "https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        }
+      ],
+      "duration_ms": 243531,
+      "name": "HOWL",
+      "url": "https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb"
     },
     {
       "added_at": "2023-01-03 15:00:00",

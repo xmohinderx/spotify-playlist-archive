@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 49773,
+  "num_followers": 49790,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMGQzMWIwMzk4ZmI5OTdjNzE2NTMyNDI4MzFkMTQ2OWVm",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDVkZDQwNjE2OGE5ZWRjMzI5NWFjMjAzOTg5YzM2NmU3",
   "tracks": [
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1559,18 +1559,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "20 A\u00f1os en Vivo & En Directo",
-        "url": "https://open.spotify.com/album/2JbNqmYTp8Rb9QlYAZQmbT"
+        "name": "Ruptura",
+        "url": "https://open.spotify.com/album/1LPSW2i48wQJqzPSjPnCRF"
       },
       "artists": [
         {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Fanbrown",
+          "url": "https://open.spotify.com/artist/0pJiXyozCdysfr3YXdp1al"
         }
       ],
-      "duration_ms": 331169,
-      "name": "La M\u00e1scara - En Vivo",
-      "url": "https://open.spotify.com/track/7IAgDJqVjgaCKJSFcdQgaV"
+      "duration_ms": 194526,
+      "name": "Ruptura",
+      "url": "https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k"
     }
   ],
   "unique_name": "Reggae Al Sur",

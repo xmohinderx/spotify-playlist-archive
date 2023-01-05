@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,997 likes - 66 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,075 likes - 66 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 34 | [My Foolish Heart](https://open.spotify.com/track/3zsM3SaQiMxd3IEUeQ1L5n) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [My Foolish Heart](https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ) | 3:51 |
 | 35 | [Candlelight](https://open.spotify.com/track/1C57YMNutdZLFayXh2ZXHG) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:23 |
 | 36 | [Mellow D](https://open.spotify.com/track/4cyKMZoxryulVelRY8Fj4G) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Mellow D](https://open.spotify.com/album/68X7GSqcU0rRDF737X94w5) | 3:56 |
-| 37 | [Days of Wine and Roses](https://open.spotify.com/track/0A7ZVOJgVkNzMyGGzuB2Sb) | [Jim Stolar](https://open.spotify.com/artist/5hWUYUBGBKYhVolIy0DC5O) | [Just Friends](https://open.spotify.com/album/7HTSR4JClDS0r16RrLpmKE) | 3:25 |
-| 38 | [My One and Only Love](https://open.spotify.com/track/2WoILWgDmo0bFmGF9zRiqz) | [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7) | [Day After Day](https://open.spotify.com/album/4CdfhCXT7I0uvRMssXrKd4) | 3:53 |
-| 39 | [Fading Dreams](https://open.spotify.com/track/7xCCrULuI3kbxF5bzYo80f) | [Carl Antaine](https://open.spotify.com/artist/5KXf7KzCn3CFeB3hRvHvqc) | [The Insider](https://open.spotify.com/album/791J5RIlG4Eptun25ffYtX) | 2:04 |
-| 40 | [Shenandoah](https://open.spotify.com/track/1jzpB4HeNMkAgb2SjJbE5B) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Best Jazz Guitarists](https://open.spotify.com/album/4ahmB62pU2kxrpiMvOUhjz) | 1:46 |
-| 41 | [I Can't Get Started](https://open.spotify.com/track/60leHFGR0dqQDVShBd0dhz) | [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Standards](https://open.spotify.com/album/7hMdnLLykOS0hLi1IaoYT9) | 6:01 |
-| 42 | [Alone Together](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Alone Together](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:09 |
-| 43 | [Lenny's Mood](https://open.spotify.com/track/7BPpIAd34qPhT5sHN8KwAB) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or) | [Cabin Fever](https://open.spotify.com/album/4OFna3RHjT4D2xgsrQBbXe) | 2:14 |
-| 44 | [The Way You Look Tonight](https://open.spotify.com/track/4QzkLSRHaqdAj9MYdyzf5Z) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Love Songs](https://open.spotify.com/album/1mP0H6sPc8lEHpaBlsUw0i) | 5:35 |
-| 45 | [Responsibilities](https://open.spotify.com/track/1Dx14n9PXzZ94BdZ8EUuHR) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 4:26 |
+| 37 | [My One and Only Love](https://open.spotify.com/track/2WoILWgDmo0bFmGF9zRiqz) | [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7) | [Day After Day](https://open.spotify.com/album/4CdfhCXT7I0uvRMssXrKd4) | 3:53 |
+| 38 | [Fading Dreams](https://open.spotify.com/track/7xCCrULuI3kbxF5bzYo80f) | [Carl Antaine](https://open.spotify.com/artist/5KXf7KzCn3CFeB3hRvHvqc) | [The Insider](https://open.spotify.com/album/791J5RIlG4Eptun25ffYtX) | 2:04 |
+| 39 | [I Can't Get Started](https://open.spotify.com/track/60leHFGR0dqQDVShBd0dhz) | [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Standards](https://open.spotify.com/album/7hMdnLLykOS0hLi1IaoYT9) | 6:01 |
+| 40 | [Days of Wine and Roses](https://open.spotify.com/track/0A7ZVOJgVkNzMyGGzuB2Sb) | [Jim Stolar](https://open.spotify.com/artist/5hWUYUBGBKYhVolIy0DC5O) | [Just Friends](https://open.spotify.com/album/7HTSR4JClDS0r16RrLpmKE) | 3:25 |
+| 41 | [Alone Together](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Alone Together](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:09 |
+| 42 | [Lenny's Mood](https://open.spotify.com/track/7BPpIAd34qPhT5sHN8KwAB) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or) | [Cabin Fever](https://open.spotify.com/album/4OFna3RHjT4D2xgsrQBbXe) | 2:14 |
+| 43 | [The Way You Look Tonight](https://open.spotify.com/track/4QzkLSRHaqdAj9MYdyzf5Z) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Love Songs](https://open.spotify.com/album/1mP0H6sPc8lEHpaBlsUw0i) | 5:35 |
+| 44 | [Responsibilities](https://open.spotify.com/track/1Dx14n9PXzZ94BdZ8EUuHR) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 4:26 |
+| 45 | [Shenandoah](https://open.spotify.com/track/1jzpB4HeNMkAgb2SjJbE5B) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Best Jazz Guitarists](https://open.spotify.com/album/4ahmB62pU2kxrpiMvOUhjz) | 1:46 |
 | 46 | [Somewhere Over The Rainbow](https://open.spotify.com/track/7tOzfZjgXHqiah32IIQplt) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [Somewhere Over The Rainbow](https://open.spotify.com/album/2wtxBVqcVFR6hG5yleEKOa) | 2:12 |
 | 47 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 |
 | 48 | [Don't Know Why](https://open.spotify.com/track/6KE4QXE06QDEn7zRFkpxdk) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [One Quiet Night](https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK) | 3:07 |
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 56 | [Tenderly](https://open.spotify.com/track/5wRKHllJVRtAaLmyN8tDHS) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 3:11 |
 | 57 | [How High The Moon](https://open.spotify.com/track/62feEPkgAS1dAVN6EB06PQ) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 3:02 |
 | 58 | [Golden Slumbers](https://open.spotify.com/track/553aXMKRk0Kh41QpvbuuFt) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6) | [Plays McCartney](https://open.spotify.com/album/7Fo8n4zfC54z0Yjgv8qVKY) | 2:43 |
-| 59 | [Bali](https://open.spotify.com/track/0gIQviarG5RlZbvCxfpHKL) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 5:48 |
-| 60 | [My Favorite Things](https://open.spotify.com/track/1lPh8cvsT4TaRZxtJ7Mcfb) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [My Favorite Things](https://open.spotify.com/album/7ezSR5lXvnK7H6na0exbbt) | 3:26 |
-| 61 | [Send In The Clowns](https://open.spotify.com/track/3kdtKIAtbPAxQvalOD7kO6) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 2:46 |
-| 62 | [Traveling Back](https://open.spotify.com/track/3MnJEpFl6B4PsyUcE1tstN) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 3:02 |
-| 63 | [The Very Thought Of You](https://open.spotify.com/track/1fpRIAQoMjwO9VPCc5LP8d) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 4:09 |
-| 64 | [When I Fall In Love](https://open.spotify.com/track/1hsPTRZmb8mf0wZQfMAdhG) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [When I Fall In Love](https://open.spotify.com/album/1Mw304xtAcLXdPpxkcuDXF) | 2:12 |
+| 59 | [My Favorite Things](https://open.spotify.com/track/1lPh8cvsT4TaRZxtJ7Mcfb) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [My Favorite Things](https://open.spotify.com/album/7ezSR5lXvnK7H6na0exbbt) | 3:26 |
+| 60 | [Send In The Clowns](https://open.spotify.com/track/3kdtKIAtbPAxQvalOD7kO6) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 2:46 |
+| 61 | [Traveling Back](https://open.spotify.com/track/3MnJEpFl6B4PsyUcE1tstN) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 3:02 |
+| 62 | [The Very Thought Of You](https://open.spotify.com/track/1fpRIAQoMjwO9VPCc5LP8d) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 4:09 |
+| 63 | [When I Fall In Love](https://open.spotify.com/track/1hsPTRZmb8mf0wZQfMAdhG) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [When I Fall In Love](https://open.spotify.com/album/1Mw304xtAcLXdPpxkcuDXF) | 2:12 |
+| 64 | [Bali](https://open.spotify.com/track/0gIQviarG5RlZbvCxfpHKL) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 5:48 |
 | 65 | [London Plane](https://open.spotify.com/track/38OyAHWRjAiges8oGXng5c) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:09 |
 | 66 | [Thankful](https://open.spotify.com/track/3S0H62Wg9uTe1QRZsUL4H7) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 5:09 |
 
-Snapshot ID: `MTY3MjM1NDgwMCwwMDAwMDAwMGMzYzU5YWY4MmQyZTBhYTI0ZmNkZjZiNjRiNzk3YTFi`
+Snapshot ID: `MTY3MjgzNjc0OSwwMDAwMDAwMDc1MjRiZDEzMDQxODhhMjBhNjFmMTgwNzdiMmM1OWJi`

@@ -1,12 +1,12 @@
 {
   "description": "The most beautiful love songs of the 2000s",
-  "num_followers": 414706,
+  "num_followers": 414882,
   "original_name": "00s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTgwNjQ3MCwwMDAwMDAwMGEwOWM3MDFmZWE5NTM3ZTE0NmIyMDhjOTM3OTliMmQz",
+  "snapshot_id": "MTY3MTgwNjQ3MCwwMDAwMDAwMGU0MjYwNWM4MDU3N2E3YWY1ZTliMDRkZThhMjc2NzBj",
   "tracks": [
     {
       "added_at": "2022-12-23 14:41:09",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-12-23 14:41:09",
       "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
-    },
-    {
-      "added_at": "2022-12-23 14:41:09",
-      "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
+    },
+    {
+      "added_at": "2022-12-23 14:41:09",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
     },
     {
       "added_at": "2022-12-23 14:41:09",

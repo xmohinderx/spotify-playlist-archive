@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Yandel & Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,909 likes - 67 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,008 likes - 67 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

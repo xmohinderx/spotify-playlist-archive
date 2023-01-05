@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 677803,
+  "num_followers": 677962,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMDQ3MSwwMDAwMDAwMDU2NjQ5ODNkZjRlODUxMWY5ZjI1MTRiZDg5NmY4ZGYw",
+  "snapshot_id": "MTY2ODcyMDQ3MSwwMDAwMDAwMDVjMjk4MTg4NWQ5MDU2M2RkN2RhMzg3YjhlZTdkMjRi",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Passive Me, Aggressive You",
         "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 246600,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
-      "added_at": "2023-01-04 01:14:53",
+      "added_at": "2023-01-05 01:16:16",
       "album": {
         "name": "Did I Make You Up?",
         "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
@@ -643,26 +643,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/6GG2d6j3ELpLafcUoaJw6T"
+        "name": "I've Got Some Living To Do",
+        "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
       },
       "artists": [
         {
-          "name": "THE DRIVER ERA",
-          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
-        },
-        {
-          "name": "Ross Lynch",
-          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
-        },
-        {
-          "name": "Rocky",
-          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
         }
       ],
-      "duration_ms": 167556,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/7fioUXJZrCUn91UZJV2mQD"
+      "duration_ms": 186324,
+      "name": "Stella Brown",
+      "url": "https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -683,18 +675,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "I've Got Some Living To Do",
-        "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/6GG2d6j3ELpLafcUoaJw6T"
       },
       "artists": [
         {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
         }
       ],
-      "duration_ms": 186324,
-      "name": "Stella Brown",
-      "url": "https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH"
+      "duration_ms": 167556,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/7fioUXJZrCUn91UZJV2mQD"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "The Walls Are Way Too Thin",
-        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 231408,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "The Walls Are Way Too Thin",
+        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "pretty kids",
-        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 159417,
-      "name": "pretty kids",
-      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 234386,
       "name": "Deleter",
       "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "pretty kids",
+        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 159417,
+      "name": "pretty kids",
+      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "The Mighty",
+        "url": "https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "California",
+      "url": "https://open.spotify.com/track/1SVbYemhVlCGnpxUF3gyLH"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Blutooth / enough 4 u",
         "url": "https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 178480,
       "name": "Blutooth",
       "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "The Mighty",
-        "url": "https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO"
-      },
-      "artists": [
-        {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "California",
-      "url": "https://open.spotify.com/track/1SVbYemhVlCGnpxUF3gyLH"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Hold On For Dear Life",
+        "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        },
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 227117,
+      "name": "Hold On For Dear Life",
+      "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 222760,
       "name": "Killer Whales",
       "url": "https://open.spotify.com/track/0qnOjNW04qpcgXqD9dwru2"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Hold On For Dear Life",
-        "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        },
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 227117,
-      "name": "Hold On For Dear Life",
-      "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 182167,
-      "name": "I Love This Part",
-      "url": "https://open.spotify.com/track/3iyrYy4JJepuUCuS3u1vEX"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/6XFQzh3r6YdjB6yK2hmEbG"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 271441,
       "name": "Thunder Clatter",
       "url": "https://open.spotify.com/track/39Cv9mq0PPrsJ5jtVb2Hiu"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 182167,
+      "name": "I Love This Part",
+      "url": "https://open.spotify.com/track/3iyrYy4JJepuUCuS3u1vEX"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1851,38 +1851,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "i h8 that i still feel bad for u",
-        "url": "https://open.spotify.com/album/0poCuOTE8PbLmxMeIickpd"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 175029,
-      "name": "i h8 that i still feel bad for u",
-      "url": "https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
         "url": "https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw"
       },
@@ -1903,18 +1871,34 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Look at the Sky",
-        "url": "https://open.spotify.com/album/1BEsCHUcX6slXc4N957W2y"
+        "name": "i h8 that i still feel bad for u",
+        "url": "https://open.spotify.com/album/0poCuOTE8PbLmxMeIickpd"
       },
       "artists": [
         {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 309985,
-      "name": "Look at the Sky",
-      "url": "https://open.spotify.com/track/4l5nn3zlcrKSB1eyfuWHhu"
+      "duration_ms": 175029,
+      "name": "i h8 that i still feel bad for u",
+      "url": "https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1931,6 +1915,22 @@
       "duration_ms": 193186,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Look at the Sky",
+        "url": "https://open.spotify.com/album/1BEsCHUcX6slXc4N957W2y"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 309985,
+      "name": "Look at the Sky",
+      "url": "https://open.spotify.com/track/4l5nn3zlcrKSB1eyfuWHhu"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+      },
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Gimme Twice",
+      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "True Colour",
         "url": "https://open.spotify.com/album/1cyOlB789kiQTJtkkv1Htn"
       },
@@ -2055,18 +2071,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+        "name": "Do You Really Wanna Know?",
+        "url": "https://open.spotify.com/album/1gSZbzpl3w3wp2Lc4sl3l8"
       },
       "artists": [
         {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
         }
       ],
-      "duration_ms": 204226,
-      "name": "Gimme Twice",
-      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
+      "duration_ms": 178333,
+      "name": "Do You Really Wanna Know?",
+      "url": "https://open.spotify.com/track/43oSsb5boERcpfiuDJR3Kq"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2083,22 +2099,6 @@
       "duration_ms": 189520,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Do You Really Wanna Know?",
-        "url": "https://open.spotify.com/album/1gSZbzpl3w3wp2Lc4sl3l8"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Do You Really Wanna Know?",
-      "url": "https://open.spotify.com/track/43oSsb5boERcpfiuDJR3Kq"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/4ozLbfB6lf2KeuWZLrrcMn"
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/5MoZD1SHXuO11cZRqfB3C1"
       },
       "artists": [
         {
-          "name": "Culture Wars",
-          "url": "https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf"
+          "name": "DD WALKER",
+          "url": "https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS"
         }
       ],
-      "duration_ms": 186805,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/3ExC1r91qMl0qIUGyvuaRo"
+      "duration_ms": 267508,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/10QrzyQVmkvx8BfnbiP41s"
     }
   ],
   "unique_name": "It's ALT Good!",

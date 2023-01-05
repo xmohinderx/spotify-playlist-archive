@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2481646,
+  "num_followers": 2482118,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU3NTA0MCwwMDAwMDAwMDRiOGJlYjMzMjRiZGMyODNiY2ZlZTUyNzY2MjYwMjUx",
+  "snapshot_id": "MTY3MDU3NTA0MCwwMDAwMDAwMGQ2Y2ZlYWU0YzZjMWViOWRmYmQyNzk3NThjOWUwZmRm",
   "tracks": [
     {
       "added_at": "2022-12-09 08:37:19",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-12-09 08:37:19",
       "album": {
+        "name": "Laserbeam",
+        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Laserbeam",
+      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
+    },
+    {
+      "added_at": "2022-12-09 08:37:19",
+      "album": {
         "name": "Reaper (feat. JID)",
         "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 164800,
       "name": "Reaper (feat. JID)",
       "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
-    },
-    {
-      "added_at": "2022-12-09 08:37:19",
-      "album": {
-        "name": "Laserbeam",
-        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Laserbeam",
-      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
     },
     {
       "added_at": "2022-12-09 08:37:19",
@@ -311,26 +311,6 @@
     {
       "added_at": "2022-12-09 08:37:19",
       "album": {
-        "name": "Birdz (with Smokepurpp)",
-        "url": "https://open.spotify.com/album/4bhd6PgiyB6Ba2scrbS7ai"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        }
-      ],
-      "duration_ms": 162375,
-      "name": "Birdz (with Smokepurpp)",
-      "url": "https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z"
-    },
-    {
-      "added_at": "2022-12-09 08:37:19",
-      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 121849,
       "name": "Spirits Pt. 2",
       "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
+    },
+    {
+      "added_at": "2022-12-09 08:37:19",
+      "album": {
+        "name": "Birdz (with Smokepurpp)",
+        "url": "https://open.spotify.com/album/4bhd6PgiyB6Ba2scrbS7ai"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        }
+      ],
+      "duration_ms": 162375,
+      "name": "Birdz (with Smokepurpp)",
+      "url": "https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z"
     },
     {
       "added_at": "2022-12-09 08:37:19",
@@ -527,6 +527,26 @@
     {
       "added_at": "2022-12-09 08:37:19",
       "album": {
+        "name": "Fight Back",
+        "url": "https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75"
+      },
+      "artists": [
+        {
+          "name": "EBEN",
+          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
+        },
+        {
+          "name": "Godmode",
+          "url": "https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8"
+        }
+      ],
+      "duration_ms": 182580,
+      "name": "Fight Back",
+      "url": "https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv"
+    },
+    {
+      "added_at": "2022-12-09 08:37:19",
+      "album": {
         "name": "NECROMANCER EP",
         "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 127900,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
-    },
-    {
-      "added_at": "2022-12-09 08:37:19",
-      "album": {
-        "name": "Fight Back",
-        "url": "https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75"
-      },
-      "artists": [
-        {
-          "name": "EBEN",
-          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
-        },
-        {
-          "name": "Godmode",
-          "url": "https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8"
-        }
-      ],
-      "duration_ms": 182580,
-      "name": "Fight Back",
-      "url": "https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv"
     },
     {
       "added_at": "2022-12-09 08:37:19",
@@ -1083,30 +1083,6 @@
     {
       "added_at": "2022-12-09 08:37:19",
       "album": {
-        "name": "TILL I DIE",
-        "url": "https://open.spotify.com/album/1mmaDZmiiszP0k2Q3u1hy1"
-      },
-      "artists": [
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        },
-        {
-          "name": "A$AP TyY",
-          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 171810,
-      "name": "TILL I DIE",
-      "url": "https://open.spotify.com/track/3EBqovY8cjouAYyrWRUcFN"
-    },
-    {
-      "added_at": "2022-12-09 08:37:19",
-      "album": {
         "name": "No Limit",
         "url": "https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0"
       },
@@ -1131,18 +1107,26 @@
     {
       "added_at": "2022-12-09 08:37:19",
       "album": {
-        "name": "Sin",
-        "url": "https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1"
+        "name": "TILL I DIE",
+        "url": "https://open.spotify.com/album/1mmaDZmiiszP0k2Q3u1hy1"
       },
       "artists": [
         {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        },
+        {
+          "name": "A$AP TyY",
+          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
         }
       ],
-      "duration_ms": 131254,
-      "name": "Sin",
-      "url": "https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY"
+      "duration_ms": 171810,
+      "name": "TILL I DIE",
+      "url": "https://open.spotify.com/track/3EBqovY8cjouAYyrWRUcFN"
     },
     {
       "added_at": "2022-12-09 08:37:19",
@@ -1167,6 +1151,22 @@
       "duration_ms": 178285,
       "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
       "url": "https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl"
+    },
+    {
+      "added_at": "2022-12-09 08:37:19",
+      "album": {
+        "name": "Sin",
+        "url": "https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "duration_ms": 131254,
+      "name": "Sin",
+      "url": "https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY"
     },
     {
       "added_at": "2022-12-09 08:37:19",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2022-12-09 08:37:19",
       "album": {
-        "name": "Ur Body",
-        "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "Hex Cougar",
-          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Ur Body",
-      "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
-    },
-    {
-      "added_at": "2022-12-09 08:37:19",
-      "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/2uBXFc1imj9UxZYp6fCMv0"
       },
@@ -1455,22 +1435,22 @@
     {
       "added_at": "2022-12-09 08:37:19",
       "album": {
-        "name": "All Killer No Filler EP",
-        "url": "https://open.spotify.com/album/7HjEb7HP68bpVclylWutsl"
+        "name": "Ur Body",
+        "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
       },
       "artists": [
         {
-          "name": "Dodge & Fuski",
-          "url": "https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
         },
         {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Flat Line",
-      "url": "https://open.spotify.com/track/2JmbEZudT2eA3kUp5nXGZf"
+      "duration_ms": 216338,
+      "name": "Ur Body",
+      "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
     },
     {
       "added_at": "2022-12-09 08:37:19",
@@ -1487,6 +1467,26 @@
       "duration_ms": 156000,
       "name": "CAKE SHAKE",
       "url": "https://open.spotify.com/track/317KO2y39CAzDjpP8djR0k"
+    },
+    {
+      "added_at": "2022-12-09 08:37:19",
+      "album": {
+        "name": "All Killer No Filler EP",
+        "url": "https://open.spotify.com/album/7HjEb7HP68bpVclylWutsl"
+      },
+      "artists": [
+        {
+          "name": "Dodge & Fuski",
+          "url": "https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m"
+        },
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Flat Line",
+      "url": "https://open.spotify.com/track/2JmbEZudT2eA3kUp5nXGZf"
     },
     {
       "added_at": "2022-12-09 08:37:19",

@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-470 songs - 1 day 20 hr 18 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+471 songs - 1 day 20 hr 27 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 | 2021-10-06 |  |
 | [Akal Ki](https://open.spotify.com/track/3sUtDNoHKdFV4WXShozY22) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Akal Ki](https://open.spotify.com/album/2nx8t6zpzR9stTOrBgKDsl) | 4:04 | 2021-10-06 | 2022-07-25 |
 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 | 2021-10-06 | 2022-07-28 |
+| [amb23 \- 2](https://open.spotify.com/track/3CTqW27qR4vdZXxykgfiWW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Ambient 23](https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ) | 9:06 | 2023-01-05 |  |
 | [Amour&Armor](https://open.spotify.com/track/0ZKOHpz4fpYyYE7pKxzVQr) | [Spivak](https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx) | [Rare Backwards](https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8) | 3:13 | 2022-03-30 | 2022-07-01 |
 | [Anda Þinn Guð](https://open.spotify.com/track/6AbdsXV8w696nVhgiWjLZk) | [Högni](https://open.spotify.com/artist/3HAGb8WLuYRre506Dr8oJm), [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Anda Þinn Guð](https://open.spotify.com/album/3OD6HhjwQLSP7LOYCqnGmY) | 1:59 | 2022-10-28 | 2022-11-25 |
 | [Angel's Flight](https://open.spotify.com/track/1tCPxwo9ll7rxCxaEBq06f) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/0qZ6LUWpJC4lrQrEDoUeHH) | 5:52 | 2021-10-06 | 2022-07-23 |
@@ -231,7 +232,7 @@
 | [Kindly Static](https://open.spotify.com/track/4i3BMFukoFFGSumz5Dx2zt) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Chronology](https://open.spotify.com/album/7BZVmbH7so3Hf1tciJPXkI) | 3:05 | 2022-10-14 | 2022-10-28 |
 | [Kiss U](https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Kiss U](https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd) | 5:35 | 2022-09-29 | 2022-10-15 |
 | [Knot of Spirit \- Synth Version](https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 10:19 | 2022-07-08 | 2022-09-06 |
-| [Kommissar Brenkstrupp \(Main Titles\)](https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 2:40 | 2022-09-03 |  |
+| [Kommissar Brenkstrupp \(Main Titles\)](https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 2:40 | 2022-09-03 | 2023-01-05 |
 | [Kura Kura](https://open.spotify.com/track/4VA1bDVM2IVHEHm6kiTnUb) | [Corrado Saija](https://open.spotify.com/artist/3H48cHoTaqJGqQrAcQm2Wq) | [Indigo](https://open.spotify.com/album/1Jk1dwZRaQZR2xN1ymRKuG) | 8:12 | 2022-03-30 | 2022-07-29 |
 | [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-01-14 | 2022-07-25 |
 | [Land III \- Vocal Mix](https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB) | [Land III](https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG) | 4:44 | 2021-10-06 | 2022-07-20 |

@@ -1,13 +1,33 @@
 {
-  "description": "Las mejores canciones de Fresh Finds Espa\u00f1a en 2022. Foto: navxja.",
-  "num_followers": 6806,
-  "original_name": "Fresh Finds Espa\u00f1a: Lo mejor de 2022",
+  "description": "Artistas independientes emergentes, cada mi\u00e9rcoles. Foto: becerra.",
+  "num_followers": 6844,
+  "original_name": "Fresh Finds Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMGEzY2VmNDY0NDFkMDBlYWI3ZGNlMjZmMDJjZGFmYjky",
+  "snapshot_id": "MTY3MjgyMzExMCwwMDAwMDAwMDk1ZDliYTM5NzMxNmU0ZGExNWFhNTA0MTg0ODllMTIy",
   "tracks": [
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "Y Qu\u00e9 Te Importa",
+        "url": "https://open.spotify.com/album/001V9ClKWLp6iXd9KETxdj"
+      },
+      "artists": [
+        {
+          "name": "becerra.",
+          "url": "https://open.spotify.com/artist/7q1hbjnDuDOLh5OKMbTiBk"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4MGXDjy9qnlvgNpOTaCvVV"
+        }
+      ],
+      "duration_ms": 214875,
+      "name": "Y Qu\u00e9 Te Importa",
+      "url": "https://open.spotify.com/track/4KUlMDTHEWgEqFfuZM0HNS"
+    },
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
@@ -43,22 +63,18 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Y Qu\u00e9 Te Importa",
-        "url": "https://open.spotify.com/album/001V9ClKWLp6iXd9KETxdj"
+        "name": "mon cher",
+        "url": "https://open.spotify.com/album/5zrZGRITW8CiRnY9ZVWliH"
       },
       "artists": [
         {
-          "name": "becerra.",
-          "url": "https://open.spotify.com/artist/7q1hbjnDuDOLh5OKMbTiBk"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4MGXDjy9qnlvgNpOTaCvVV"
+          "name": "Maddie Moon",
+          "url": "https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS"
         }
       ],
-      "duration_ms": 214875,
-      "name": "Y Qu\u00e9 Te Importa",
-      "url": "https://open.spotify.com/track/4KUlMDTHEWgEqFfuZM0HNS"
+      "duration_ms": 188571,
+      "name": "mon cher",
+      "url": "https://open.spotify.com/track/5k5ZXvaZXbGhKldLf7K1g8"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -75,22 +91,6 @@
       "duration_ms": 177804,
       "name": "Zauriari Gatza",
       "url": "https://open.spotify.com/track/6k8DoKTShAQxfRu8VUj3Ye"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
-        "name": "mon cher",
-        "url": "https://open.spotify.com/album/5zrZGRITW8CiRnY9ZVWliH"
-      },
-      "artists": [
-        {
-          "name": "Maddie Moon",
-          "url": "https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "mon cher",
-      "url": "https://open.spotify.com/track/5k5ZXvaZXbGhKldLf7K1g8"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -1309,6 +1309,6 @@
       "url": "https://open.spotify.com/track/5QsvG3yYZYNKhfP6lOxhtB"
     }
   ],
-  "unique_name": "Fresh Finds Espa\u00f1a: Lo mejor de 2022",
+  "unique_name": "Fresh Finds Espa\u00f1a",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6"
 }
