@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Mafro
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,944 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,942 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 7 | [Brush Strokes](https://open.spotify.com/track/3A7GzxUNDUtNPLpMoeRqvv) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Brush Strokes](https://open.spotify.com/album/3ltU22i5RjQWW4e1OYz4A3) | 4:35 |
 | 8 | [Al\-Duqqi](https://open.spotify.com/track/7rbVUjN7DrpP1i1fwzCTRR) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa) | [Immigrant](https://open.spotify.com/album/0ZDQ0XnPQHZ0FnZcs1pWnm) | 2:59 |
 | 9 | [Happy](https://open.spotify.com/track/7arEqLvEPdAQ3yjEGgMBZt) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Help! I'm Lost...](https://open.spotify.com/album/2Wphh77GlQ14bQqBjQn0Gw) | 2:55 |
-| 10 | [Hollow](https://open.spotify.com/track/6vOXXLWbCQGLrVdnHYHWce) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/5AT27ohVd42E695quyMiB1) | 4:36 |
+| 10 | [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 |
 | 11 | [Rent Request](https://open.spotify.com/track/4Od7jtoYfrMHteQ8CDH59j) | [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [Stain](https://open.spotify.com/artist/1OX7sfFYYwIbyEBhszHx8Y) | [Rent Request](https://open.spotify.com/album/4B7LUTkhOYmEwi25XXhdAf) | 3:44 |
 | 12 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
 | 13 | [The Rite Time \- Radio Edit](https://open.spotify.com/track/1JwmlXDTUO9bu6T8yjTtfw) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/6y1xp6VHSLb450XxNsGDXA) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 74 | [H.B.Y.](https://open.spotify.com/track/6B12vGcosQHeGcuXSNDjH6) | [Setwun](https://open.spotify.com/artist/2Qv1W2j1iK6SHjsDEsXST6) | [H.B.Y.](https://open.spotify.com/album/5M9C4VlFYEbRHI5qJhj57T) | 4:14 |
 | 75 | [Final Render](https://open.spotify.com/track/2kkSL3E7r2SfdgTBNaA3qz) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD), [CAPSUL](https://open.spotify.com/artist/6bKawCX7BxUXTBf05SsIpZ) | [CAPSUL](https://open.spotify.com/album/6ya1ggGwmnwegd0bjjyW0t) | 2:29 |
 
-Snapshot ID: `MTY3MTcxNDAwMCwwMDAwMDAwMDlkZTg2NTkxMDdmNTQ2ODhjMDJjOTVmMzNlNWU3NzRj`
+Snapshot ID: `MTY3MTcxNDAwMCwwMDAwMDAwMGJiYjczMjA2YjlmMDE0YmIxOGE2MjIzZTFlOWQwZDU2`

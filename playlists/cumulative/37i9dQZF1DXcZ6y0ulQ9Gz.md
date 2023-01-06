@@ -4,7 +4,7 @@
 
 > The best of Indie in one place\. Cover: Steve Lacy
 
-611 songs - 1 day 13 hr 4 min - [published](https://open.spotify.com/playlist/6qnKxviUrnCHtUvVMRpVlO)
+611 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

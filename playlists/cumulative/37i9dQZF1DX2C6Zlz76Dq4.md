@@ -4,7 +4,7 @@
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-169 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
+169 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

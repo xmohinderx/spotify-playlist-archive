@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-169 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
+169 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

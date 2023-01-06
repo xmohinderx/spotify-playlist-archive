@@ -4,7 +4,7 @@
 
 > Afro culture mixed with Arab vibes\. Cover: NORDO.
 
-70 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
+70 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

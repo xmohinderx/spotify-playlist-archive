@@ -4,7 +4,7 @@
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-75 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5SjLeW9rbn4LmmpPiQxmTZ)
+75 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Eclectic indie love songs from throughout the years\. Delicate lyrics that say it best.
 
-159 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/7obcJwGE7AMiEhpT8IqCdQ)
+159 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

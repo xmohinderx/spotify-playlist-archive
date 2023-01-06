@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-304 songs - 1 day 4 hr 42 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
+304 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Always Something](https://open.spotify.com/track/3f0OOLWLpdeDUp3vxv6GEj) | [Manqo](https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ) | [Always Something](https://open.spotify.com/album/5vP4jUDdZDqdlQDMroMVJi) | 3:36 | 2022-10-28 | 2022-11-15 |
 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 | 2022-04-04 |  |
 | [Amethyst](https://open.spotify.com/track/3te14QVhgWAkC3kNMIcy5m) | [Stefanie Raschke](https://open.spotify.com/artist/6IJSvFITTxANPakKiCYyl7) | [Triation, Vol\. II](https://open.spotify.com/album/3CBYYnnmwIIJmWdPlvzfSy) | 6:24 | 2021-11-26 | 2022-07-23 |
-| [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 | 2022-10-28 | 2022-11-15 |
+| [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 | 2022-10-28 |  |
 | [Anything Else Feat\. Alix Edwards](https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r) | [Carlo](https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo) | [Carlito Archives](https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg) | 6:03 | 2022-06-24 | 2022-10-21 |
 | [Arc De Triomphe \- Brandt Brauer Frick Remix](https://open.spotify.com/track/1uiwyqzS8UMVExmJus9wn2) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Brandt Brauer Frick](https://open.spotify.com/artist/29TG40TGDvrOFQZM4adBf7) | [Ludwig \(Club Versions\)](https://open.spotify.com/album/6mtPPsbdZXFaGSpdoDgQvJ) | 6:48 | 2022-01-14 | 2022-07-22 |
 | [Atlantis](https://open.spotify.com/track/3N0Bk8zkKxuGHQslbFMmEk) | [Den Maar](https://open.spotify.com/artist/1AXeLwBPyiLoOXRLCHa4ic), [Off Night](https://open.spotify.com/artist/5qDJioeKV9r17pP8MybZoe) | [Atlantis](https://open.spotify.com/album/6upiYrO59qPQGyHgHqMkdZ) | 7:27 | 2022-05-13 | 2022-07-24 |
@@ -77,7 +77,7 @@
 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 | 2021-11-26 |  |
 | [Deía \- AVEM Remix](https://open.spotify.com/track/4pgBB90REWf829lym8RE6N) | [Mira \(Berlin\)](https://open.spotify.com/artist/6p31dmLI4jnatyEQmrVPDc), [Christopher Schwarzwälder](https://open.spotify.com/artist/11i3tISGuOUmWFuXTRNrtD), [AVEM](https://open.spotify.com/artist/7xu4DQ5wfoGi4koqPFfXAe) | [Deía Remixes](https://open.spotify.com/album/4kCjJCTbwQiHDIjSIZpFtv) | 6:54 | 2021-11-26 | 2022-07-28 |
 | [Differences](https://open.spotify.com/track/7pAcSh8OXgAVAWT7VdqUDs) | [Kalyma](https://open.spotify.com/artist/08Qus19mV9XncqLz2bL6eo) | [Differences](https://open.spotify.com/album/6y08yLAEY6TKovLXFMJKIK) | 6:09 | 2022-01-14 | 2022-07-13 |
-| [Dig Deep](https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [WAIRUNGA](https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk) | 10:30 | 2021-11-26 |  |
+| [Dig Deep](https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [WAIRUNGA](https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk) | 10:30 | 2021-11-26 | 2023-01-06 |
 | [Dilemma](https://open.spotify.com/track/1BTExvMirjnjdYDND60zjV) | [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU) | [Phantom Nova / Dilemma](https://open.spotify.com/album/4vPQGnb9suKVKSG6gqsbVQ) | 4:58 | 2022-02-18 | 2022-04-15 |
 | [Disappear \- Short Edit](https://open.spotify.com/track/0dEjDFIY7aLwNj2DAcy98s) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Mery Kilic](https://open.spotify.com/artist/2Vlx9Gl4A2rI2fjEe97PR5) | [Disappear](https://open.spotify.com/album/3M8am3fJKzNubjgDktouA5) | 4:36 | 2021-11-26 | 2022-07-28 |
 | [Disco Voador \- Oliver Koletzki Remix](https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Disco Voador \(Oliver Koletzki Remix\)](https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL) | 6:21 | 2022-09-30 | 2022-12-08 |

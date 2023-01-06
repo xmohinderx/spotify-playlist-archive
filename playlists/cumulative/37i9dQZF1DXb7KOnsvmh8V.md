@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-138 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/12w8cCmx1q2Iov56A3YAS8)
+138 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

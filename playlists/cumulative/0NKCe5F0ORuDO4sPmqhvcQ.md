@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-365 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+365 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

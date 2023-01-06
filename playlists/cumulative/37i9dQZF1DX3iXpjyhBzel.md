@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Bruna Karla
 
-117 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/4jOyagKiotU0lUPqsmWnAd)
+117 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

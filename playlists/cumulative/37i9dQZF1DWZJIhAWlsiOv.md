@@ -4,7 +4,7 @@
 
 > Latin songs that changed the game\. Cover: Celia Cruz
 
-82 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/2m8gPESKVArVEzU2oTSeC4)
+82 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

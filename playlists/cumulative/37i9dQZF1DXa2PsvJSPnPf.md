@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-166 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/1J46WbZ3oHtv4aJLZ1hDCX)
+166 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

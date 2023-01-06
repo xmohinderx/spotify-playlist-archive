@@ -4,7 +4,7 @@
 
 > C.R.O & LIT killah en la casa del Trap de Argentino.
 
-167 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
+167 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

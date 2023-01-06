@@ -4,7 +4,7 @@
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-110 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/5ufXqYS0T25L5OxhQmfhoU)
+110 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

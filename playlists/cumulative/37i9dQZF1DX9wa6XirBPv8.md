@@ -4,7 +4,7 @@
 
 > feel it all\. Cover: My Chemical Romance
 
-146 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/3u6curULml7JidmJsufdg2)
+146 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hop in.
 
-301 songs - 19 hr 19 min - [published](https://open.spotify.com/playlist/6F0FKB0rzLUKWZk3Oa8sA0)
+301 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

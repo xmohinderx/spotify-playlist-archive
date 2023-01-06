@@ -4,7 +4,7 @@
 
 > Latin music bangers for your gaming session! Cover: Banda MS
 
-313 songs - 18 hr 16 min - [published](https://open.spotify.com/playlist/6UjAez27ivzv4M8nQyQUU6)
+313 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

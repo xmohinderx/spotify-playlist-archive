@@ -4,7 +4,7 @@
 
 > This is MILOŠ\. The essential tracks, all in one playlist.
 
-148 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/57Tzrtx4jHxJk32TpJwQHo)
+148 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ¡Y suena y suena..\. MS!
 
-155 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/4aLGMwMufY0fSYhU1Oevnh)
+155 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-142 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/0ZYfVRCO1TPKQs9yo56rwb)
+142 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

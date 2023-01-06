@@ -4,7 +4,7 @@
 
 > Timeless Pakistani hits, all in one place\. Cover \- Nusrat Fateh Ali Khan
 
-198 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/28KEDXVHJsaZKM0uXK0rXO)
+198 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

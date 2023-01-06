@@ -4,7 +4,7 @@
 
 > Songs for your villain era, curated by Jenn Robinson, Camila Mendes & Maya Hawke\. Watch Do Revenge on Netflix.
 
-78 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/0apMnsLqqy4OYzTgiQlxlm)
+78 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

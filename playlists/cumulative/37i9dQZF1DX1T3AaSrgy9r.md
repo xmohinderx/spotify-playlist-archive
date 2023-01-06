@@ -4,7 +4,7 @@
 
 > Underground dance and alternative that went on to define a new millennium.
 
-123 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/5A3UmZ9akJz7Fe3Cu6Ue68)
+123 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

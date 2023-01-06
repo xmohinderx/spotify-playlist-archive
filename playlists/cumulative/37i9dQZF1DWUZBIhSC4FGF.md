@@ -4,7 +4,7 @@
 
 > Relax to some gentle percussion from all corners of the globe.
 
-72 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/6xU7IIhg8fqq5qz8ymx5AK)
+72 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

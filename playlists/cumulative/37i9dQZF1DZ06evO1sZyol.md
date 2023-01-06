@@ -4,7 +4,7 @@
 
 > This is TOOL\. The essential tracks, all in one playlist.
 
-37 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/4EgBZ29T2uvYm79OR3nxp1)
+37 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

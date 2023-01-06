@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of R&B in Canada in 2022\. Cover: dvsn \#SpotifyWrapped
 
-202 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/1GcWFiDe4JYAu3RXzjkMur)
+202 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

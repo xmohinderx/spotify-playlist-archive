@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
 
-628 songs - 1 day 10 hr 7 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+629 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Something More](https://open.spotify.com/track/38nxI26aJyktPbgmiFYNK9) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY) | [Something More](https://open.spotify.com/album/0p009r4U2sfdTKEKqCCdWU) | 2:50 | 2022-03-18 | 2022-04-19 |
 | [Something Wrong](https://open.spotify.com/track/44jYwjxJNpJiwiLi2cDl3G) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab) | [Bassline](https://open.spotify.com/album/7Jaq1HSRWeweq0YQG2TShv) | 2:52 | 2022-01-14 | 2022-03-05 |
 | [Somewhere That I Belong](https://open.spotify.com/track/11bfexKRErd9w6ro4kqfDx) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [Somewhere That I Belong](https://open.spotify.com/album/0kIfksZoQVQxItqd2j92s2) | 4:08 | 2022-03-03 | 2022-09-15 |
+| [Spaces On The Wall](https://open.spotify.com/track/7bUCPDWMMsdhpwrNiGRu3w) | [KDrew](https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ), [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ) | [Spaces On The Wall](https://open.spotify.com/album/3gnZUrHMS43FfgU9Qjd5aF) | 3:39 | 2023-01-05 |  |
 | [SPAM](https://open.spotify.com/track/20I6rSlG7vXp1FQn5EuWQD) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 2:51 | 2022-08-18 |  |
 | [Spider](https://open.spotify.com/track/10kB96jZFNTFoQga11csC0) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:00 | 2022-02-18 | 2022-07-29 |
 | [Spooky Scary Skeletons](https://open.spotify.com/track/6O4JigLzateJbqb8G3VVTR) | [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB) | [Spooky Scary Skeletons](https://open.spotify.com/album/3b6QpfGiY6s31Y7jTmnJ8J) | 2:20 | 2022-10-28 |  |

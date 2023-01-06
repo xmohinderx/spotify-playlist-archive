@@ -4,7 +4,7 @@
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/1UlNZOsBRA68xckzhZFqmq)
+67 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

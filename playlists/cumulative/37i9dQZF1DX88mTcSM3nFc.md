@@ -4,7 +4,7 @@
 
 > christmas always makes me cry
 
-74 songs - 3 hr 48 min - not published yet
+74 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

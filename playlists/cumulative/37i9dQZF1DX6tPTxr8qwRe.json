@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-06",
   "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Cloudy June",
   "name": "SALT",
-  "published_playlist_ids": [
-    "6uOoVSA8DjAX2qeF3BOP8u"
-  ],
   "tracks": [
     {
       "album": {
@@ -1735,7 +1732,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 185040,
       "name": "F2F",
       "url": "https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6"
@@ -2987,7 +2984,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 178888,
       "name": "killer queen",
       "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
@@ -3175,6 +3172,24 @@
       "duration_ms": 184529,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/5Lh7DFcEwboYBefjnDVGz5"
+    },
+    {
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144090,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
     },
     {
       "album": {
@@ -4379,7 +4394,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 169000,
       "name": "Self Dysmorphia",
       "url": "https://open.spotify.com/track/4XxNQ8VlWCDT6kEwWDuW4u"
@@ -5356,6 +5371,24 @@
     },
     {
       "album": {
+        "name": "Ugly Crier",
+        "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152053,
+      "name": "Ugly Crier",
+      "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
+    },
+    {
+      "album": {
         "name": "UH OH! (feat. BENEE)",
         "url": "https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN"
       },
@@ -5653,6 +5686,24 @@
       "duration_ms": 166948,
       "name": "what would you do?",
       "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
+    },
+    {
+      "album": {
+        "name": "What You Need",
+        "url": "https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV"
+      },
+      "artists": [
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196470,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW"
     },
     {
       "album": {

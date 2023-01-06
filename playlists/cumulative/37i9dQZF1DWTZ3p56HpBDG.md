@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover: Riz Ahmed
 
-163 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
+163 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

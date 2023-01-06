@@ -4,7 +4,7 @@
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-186 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/6EideOA6wKb3APriXwASYn)
+186 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

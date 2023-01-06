@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Honduras.
 
-476 songs - 1 day 3 hr 34 min - [published](https://open.spotify.com/playlist/2pLC6dCjt5paDhDoYzXFW9)
+476 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

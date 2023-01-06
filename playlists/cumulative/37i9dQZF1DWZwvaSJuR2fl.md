@@ -4,7 +4,7 @@
 
 > Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.
 
-92 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/1Qguk1rodzJDRoul5FKu25)
+92 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

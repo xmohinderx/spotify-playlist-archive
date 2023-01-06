@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-198 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
+198 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

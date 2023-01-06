@@ -4,7 +4,7 @@
 
 > A look back at tracks from over the past four years\. A mixtape of music made for the Class of 2022.
 
-458 songs - 1 day 0 hr 32 min - [published](https://open.spotify.com/playlist/1HQcwe2QNuGGYbhg2gXo0A)
+458 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Listen to all the tracks you've been missing\. Cover: Katy Perry
 
-208 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/4Os3czTsKHIz757YsBmPgY)
+208 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

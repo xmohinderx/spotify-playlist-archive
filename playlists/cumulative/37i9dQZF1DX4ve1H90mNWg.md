@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\. Cover, Kaash Paige
 
-347 songs - 16 hr 51 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
+347 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

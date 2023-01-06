@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2000s.
 
-100 songs - 6 hr 23 min - not published yet
+100 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

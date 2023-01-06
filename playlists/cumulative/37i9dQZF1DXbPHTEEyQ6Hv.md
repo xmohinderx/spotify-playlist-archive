@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-124 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2x7sSOhmPXaV5o4uGuTeqA)
+124 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

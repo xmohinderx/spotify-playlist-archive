@@ -4,7 +4,7 @@
 
 > Keep on skating to the groovy boogie
 
-179 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/04amIGThswj9l5Ef18j76s)
+179 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

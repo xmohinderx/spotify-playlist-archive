@@ -4,7 +4,7 @@
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-80 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/7qhRYDL50AsB9exwnr99dR)
+80 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

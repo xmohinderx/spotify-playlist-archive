@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Angham
 
-367 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+367 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

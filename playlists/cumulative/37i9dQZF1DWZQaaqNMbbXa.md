@@ -4,7 +4,7 @@
 
 > Hit the dance floor with your favorite bops!
 
-286 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/1qshYoxyr9mriwE8obWHoK)
+286 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

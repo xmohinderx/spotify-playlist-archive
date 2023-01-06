@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-372 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/397jGpRsbRdsmrqQjQPUxi)
+372 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

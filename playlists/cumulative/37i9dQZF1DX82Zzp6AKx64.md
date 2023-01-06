@@ -4,7 +4,7 @@
 
 > Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Meat Loaf
 
-189 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/0Y6AXnQrxChNv1IvTCTZu8)
+189 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

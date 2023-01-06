@@ -4,7 +4,7 @@
 
 > The most essential R&B songs from the 90s\. Cover: Sade
 
-126 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/1VYI8Qigj4Sumv75JdWTOA)
+126 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

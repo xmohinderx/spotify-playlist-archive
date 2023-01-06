@@ -4,7 +4,7 @@
 
 > Walk the threshold into the netherworld...
 
-194 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/2xEYlodwFsYYobn5qckSqi)
+194 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

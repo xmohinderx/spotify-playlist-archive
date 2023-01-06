@@ -4,7 +4,7 @@
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-74 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/5yaeeXnzC1N5mP1v5SvONv)
+74 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

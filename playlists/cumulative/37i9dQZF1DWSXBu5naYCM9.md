@@ -4,7 +4,7 @@
 
 > Timeless melodies from your favourite artists, both old and new.
 
-159 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/5WRsL9vjIxcRWm9K2mzwBF)
+159 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The sweet sounds of Yemen.
 
-58 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/2YuvVacjtkd9ujDZyKYGL3)
+58 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

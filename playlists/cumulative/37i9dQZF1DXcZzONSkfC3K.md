@@ -4,7 +4,7 @@
 
 > Salsa que representa Puerto Rico\. Portada: El Gran Combo De Puerto Rico
 
-63 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/1Qs9eKzfXnpTyupKeWpm5U)
+63 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

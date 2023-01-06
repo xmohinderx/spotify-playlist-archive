@@ -4,7 +4,7 @@
 
 > Some bops to take the pain of homework away.
 
-439 songs - 1 day 0 hr 5 min - [published](https://open.spotify.com/playlist/4HV2LCpHaICqsKvOwLMwp0)
+439 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2022-12-02 |  |
 | [speechless](https://open.spotify.com/track/514sePPTsegFRJ0RwlXvPQ) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd), [Kyra](https://open.spotify.com/artist/1WWcgn14HJ6pZ3VTMubBC7) | [speechless](https://open.spotify.com/album/4KfwlbK7ybWUdElgOXBl6B) | 2:47 | 2022-04-14 | 2022-04-21 |
 | [stable life](https://open.spotify.com/track/5IISDoksKy4dnTauZzAOCc) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [stable life](https://open.spotify.com/album/3wYkXOIudwejTyYF5Bk0wh) | 3:16 | 2022-06-03 | 2022-07-19 |
-| [Stay](https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:24 | 2022-07-08 |  |
+| [Stay](https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:24 | 2022-07-08 | 2023-01-06 |
 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 | 2022-04-14 | 2022-04-21 |
 | [Stay with Me](https://open.spotify.com/track/1tl9Yzv1lypVXR5pyWrNrb) | [louw](https://open.spotify.com/artist/3LOWBENsEe0o5Ui5I0SIyW), [MVNA](https://open.spotify.com/artist/0XzmYRFJxC3OdOY27QkYkH) | [Stay with Me](https://open.spotify.com/album/3vOTjomNmXa1lg1l3WfY5j) | 3:25 | 2022-04-14 | 2022-04-21 |
 | [stay with me](https://open.spotify.com/track/32V4gYbCHeqFYZnED7sgyJ) | [Luca Skyline](https://open.spotify.com/artist/0lLJ8QF3moQMRXiwOaZZUY), [Paike](https://open.spotify.com/artist/0RpcZU7wPDfxktu4ly56vT) | [stay with me](https://open.spotify.com/album/6x2COb9iClB0wxQZJ2vYWc) | 2:15 | 2022-04-14 | 2022-04-21 |
@@ -372,7 +372,7 @@
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2022-09-09 | 2022-10-29 |
 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 | 2022-04-14 |  |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2022-08-12 | 2022-10-08 |
-| [Takeaway](https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:29 | 2022-07-08 | 2023-01-04 |
+| [Takeaway](https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:29 | 2022-07-08 |  |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2022-07-08 |  |
 | [Talking to the Moon](https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:37 | 2022-04-14 | 2022-07-29 |
 | [TBU](https://open.spotify.com/track/0fNqBczzVUvBy4MSjZXXZK) | [Q.](https://open.spotify.com/artist/2BYrcmYgB1rQVyH269VcY3) | [TBU](https://open.spotify.com/album/5InMrtkdMxpAQmc6Vv4GTq) | 3:42 | 2022-04-14 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-94 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/1rB5kOejoAbOILEpVBlbXb)
+94 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

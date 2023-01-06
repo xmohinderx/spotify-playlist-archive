@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 646051,
+  "num_followers": 647950,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE3MDA0MCwwMDAwMDAwMDBkMDU2NWMwNWViZDFiNjNjNjU5ZjUyZWJhZjFkNDM5",
+  "snapshot_id": "MTY3MTE3MDA0MCwwMDAwMDAwMDQ3YWRkZTdjOGUzMDkwM2M4YzA5MjFiMjJhYmJiOWVh",
   "tracks": [
     {
       "added_at": "2022-12-09 05:09:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2022-12-09 05:09:00",
       "album": {
-        "name": "No Idea (DJ Purpberry Chopped and Screwed)",
-        "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
+        "name": "The Arrival: Part I (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/7e9NQmhOTt71S59d5NC5Zi"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Aaryan Shah",
+          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
         }
       ],
-      "duration_ms": 195573,
-      "name": "No Idea - Dj Purpberry Chopped and Screwed",
-      "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
+      "duration_ms": 279250,
+      "name": "Renegade - (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/5S74BaKFC7ELNsuhxzoPn4"
     },
     {
       "added_at": "2022-12-09 05:09:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2022-12-09 05:09:00",
       "album": {
-        "name": "The Arrival: Part I (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/7e9NQmhOTt71S59d5NC5Zi"
+        "name": "No Idea (DJ Purpberry Chopped and Screwed)",
+        "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
       },
       "artists": [
         {
-          "name": "Aaryan Shah",
-          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 279250,
-      "name": "Renegade - (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/5S74BaKFC7ELNsuhxzoPn4"
+      "duration_ms": 195573,
+      "name": "No Idea - Dj Purpberry Chopped and Screwed",
+      "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
     },
     {
       "added_at": "2022-12-09 05:09:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2022-12-09 05:09:00",
       "album": {
-        "name": "Happier (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 240531,
-      "name": "Happier - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/072Hl1zCG3UMxc7JBeQk7r"
-    },
-    {
-      "added_at": "2022-12-09 05:09:00",
-      "album": {
         "name": "If By Chance (slowed + reverb)",
         "url": "https://open.spotify.com/album/35myBC3ak9OPMye976nuI4"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 384770,
       "name": "If By Chance - slowed + reverb",
       "url": "https://open.spotify.com/track/27fMPdnYNuuFuSQrUNJkqj"
+    },
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "Happier (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 240531,
+      "name": "Happier - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/072Hl1zCG3UMxc7JBeQk7r"
     },
     {
       "added_at": "2022-12-09 05:09:00",

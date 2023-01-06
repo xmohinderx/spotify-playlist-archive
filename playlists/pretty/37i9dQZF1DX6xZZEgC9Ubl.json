@@ -1,13 +1,29 @@
 {
   "description": "Emo rap feels for the misunderstood. Cover: Pardyalone",
-  "num_followers": 1405113,
+  "num_followers": 1406984,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMDAwMCwwMDAwMDAwMDFiZDA1N2JhYTMwZTFhMjUyYWIyZTM5NzhjOTYzMmYz",
+  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMGZkMDg5MTExMTkyMTU4ZDBiYjFiNzUwMDdjZGMzNDk2",
   "tracks": [
+    {
+      "added_at": "2022-12-16 17:00:00",
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 124558,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
+    },
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "added_at": "2022-12-09 05:05:00",
+      "album": {
+        "name": "Test 11",
+        "url": "https://open.spotify.com/album/0QviS2yGO4J9lzSdrdQD0W"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "duration_ms": 115340,
+      "name": "Test 11",
+      "url": "https://open.spotify.com/track/62YozTRFiYMmqXzk1VAeMh"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
     },
     {
+      "added_at": "2022-12-09 05:05:00",
+      "album": {
+        "name": "A Gift And A Curse",
+        "url": "https://open.spotify.com/album/1yp7eZUWAXTHMcdjJV33PJ"
+      },
+      "artists": [
+        {
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        }
+      ],
+      "duration_ms": 129444,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1vAN7qLSqTf1JdINjcKphB"
+    },
+    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "Star Shopping",
@@ -55,6 +103,54 @@
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
+    },
+    {
+      "added_at": "2022-12-16 17:00:00",
+      "album": {
+        "name": "whts rght",
+        "url": "https://open.spotify.com/album/32T7pErbR0Oj2lkOcgitah"
+      },
+      "artists": [
+        {
+          "name": "whiterosemoxie",
+          "url": "https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "whts rght",
+      "url": "https://open.spotify.com/track/4UT01rYr94WJcVL5FxaNDq"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "duration_ms": 122221,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
+    },
+    {
+      "added_at": "2022-12-16 17:00:00",
+      "album": {
+        "name": "Devil In The Flesh",
+        "url": "https://open.spotify.com/album/6iauzkIdWagMTjJjdbVBfk"
+      },
+      "artists": [
+        {
+          "name": "TheHxliday",
+          "url": "https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD"
+        }
+      ],
+      "duration_ms": 157674,
+      "name": "Devil In The Flesh",
+      "url": "https://open.spotify.com/track/21iXNHzNnjiKXrOm9b2cbk"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -89,22 +185,6 @@
       "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
-      },
-      "artists": [
-        {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
-        }
-      ],
-      "duration_ms": 122221,
-      "name": "Hex",
-      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
-    },
-    {
       "added_at": "2022-12-09 05:05:00",
       "album": {
         "name": "DIE FOR MY BITCH",
@@ -119,6 +199,26 @@
       "duration_ms": 172672,
       "name": "HONEST",
       "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 146520,
+      "name": "Fuck Love (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
     },
     {
       "added_at": "2022-11-09 14:44:22",
@@ -153,42 +253,6 @@
       "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
     },
     {
-      "added_at": "2023-01-05 01:22:18",
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 124558,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 146520,
-      "name": "Fuck Love (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
-    },
-    {
       "added_at": "2022-12-14 15:14:02",
       "album": {
         "name": "Thousand Miles",
@@ -203,6 +267,22 @@
       "duration_ms": 164781,
       "name": "Thousand Miles",
       "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+    },
+    {
+      "added_at": "2022-10-28 16:05:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -281,10 +361,26 @@
       "url": "https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy"
     },
     {
-      "added_at": "2022-10-28 16:05:00",
+      "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+        "name": "Sing Me a Lullaby, My Sweet Temptation",
+        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 238145,
+      "name": "Matte Black",
+      "url": "https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF"
+    },
+    {
+      "added_at": "2022-12-09 05:05:00",
+      "album": {
+        "name": "Let Me Know (I Wonder Why Freestyle)",
+        "url": "https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2"
       },
       "artists": [
         {
@@ -292,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 192000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+      "duration_ms": 215380,
+      "name": "Let Me Know (I Wonder Why Freestyle)",
+      "url": "https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -311,22 +407,6 @@
       "duration_ms": 188041,
       "name": "Pain",
       "url": "https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Sing Me a Lullaby, My Sweet Temptation",
-        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 238145,
-      "name": "Matte Black",
-      "url": "https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -377,22 +457,6 @@
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
-      "added_at": "2022-12-09 05:05:00",
-      "album": {
-        "name": "Let Me Know (I Wonder Why Freestyle)",
-        "url": "https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 215380,
-      "name": "Let Me Know (I Wonder Why Freestyle)",
-      "url": "https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "ONNAFRIDAY",
@@ -435,18 +499,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "NUMB",
-        "url": "https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0"
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
       "artists": [
         {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 112500,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B"
+      "duration_ms": 227527,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -471,6 +535,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "NUMB",
+        "url": "https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "F*CK LOVE (SAVAGE)",
         "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
       },
@@ -487,38 +567,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/4G213yPh3BOt160iYP4ZsV"
-      },
-      "artists": [
-        {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
-        }
-      ],
-      "duration_ms": 159381,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/26XaOsDMbl0e1cVKYfkz6w"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 227527,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "ALL GIRLS ARE THE SAME",
         "url": "https://open.spotify.com/album/5xfQcHCFloFP5Z2ljqmwxn"
       },
@@ -531,6 +579,22 @@
       "duration_ms": 121949,
       "name": "ALL GIRLS ARE THE SAME",
       "url": "https://open.spotify.com/track/0YGRqKKDhomTOp246LT11G"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/4G213yPh3BOt160iYP4ZsV"
+      },
+      "artists": [
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "duration_ms": 159381,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/26XaOsDMbl0e1cVKYfkz6w"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -839,22 +903,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "First Draft",
-        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 127934,
-      "name": "Save Me, Please",
-      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "fools (can't help falling in love) (feat. Sody)",
         "url": "https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc"
       },
@@ -895,6 +943,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "First Draft",
+        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 127934,
+      "name": "Save Me, Please",
+      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Never Be Alright",
         "url": "https://open.spotify.com/album/2xMBCCATKDeHl00YQvjyb0"
       },
@@ -927,22 +991,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "mainstream sellout (life in pink deluxe)",
-        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 181496,
-      "name": "9 lives",
-      "url": "https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "would you be my baby",
         "url": "https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki"
       },
@@ -963,6 +1011,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "mainstream sellout (life in pink deluxe)",
+        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 181496,
+      "name": "9 lives",
+      "url": "https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Demons and Monsters",
         "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
       },
@@ -975,6 +1039,22 @@
       "duration_ms": 197902,
       "name": "Demons and Monsters",
       "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
     },
     {
       "added_at": "2022-10-21 16:57:49",
@@ -999,22 +1079,6 @@
       "duration_ms": 199436,
       "name": "6 Kiss",
       "url": "https://open.spotify.com/track/7tgjDlQsMR8RvkdlNCJA58"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
-      },
-      "artists": [
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -1083,6 +1147,22 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
+    },
+    {
+      "added_at": "2023-01-06 06:05:00",
+      "album": {
+        "name": "THE WORLD IS ENDING",
+        "url": "https://open.spotify.com/album/762HY6C72kYqmGNvhbzKFv"
+      },
+      "artists": [
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "duration_ms": 218859,
+      "name": "THE WORLD IS ENDING",
+      "url": "https://open.spotify.com/track/4EzKIwes85sqrfmhto8b6x"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1211,22 +1291,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 155673,
-      "name": "BETTER OFF DEAD",
-      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "say goodbye",
         "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
       },
@@ -1259,6 +1323,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 155673,
+      "name": "BETTER OFF DEAD",
+      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "EAT YOUR HEART OUT",
         "url": "https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC"
       },
@@ -1275,22 +1355,6 @@
       "duration_ms": 249475,
       "name": "KILL CUPID",
       "url": "https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Digikid 2",
-        "url": "https://open.spotify.com/album/3RoNCb8HWjDW4u1DTaDQVL"
-      },
-      "artists": [
-        {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
-        }
-      ],
-      "duration_ms": 121457,
-      "name": "PIGEONS",
-      "url": "https://open.spotify.com/track/6a23CwL8bVeizmNRR9AACs"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1331,6 +1395,22 @@
       "duration_ms": 163260,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/7l4mdOTSYwOayDaHc3s0PV"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Digikid 2",
+        "url": "https://open.spotify.com/album/3RoNCb8HWjDW4u1DTaDQVL"
+      },
+      "artists": [
+        {
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+        }
+      ],
+      "duration_ms": 121457,
+      "name": "PIGEONS",
+      "url": "https://open.spotify.com/track/6a23CwL8bVeizmNRR9AACs"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1403,22 +1483,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Anarchy",
-        "url": "https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw"
-      },
-      "artists": [
-        {
-          "name": "Lil Tracy",
-          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
-        }
-      ],
-      "duration_ms": 185886,
-      "name": "Beautiful Nightmare",
-      "url": "https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM"
       },
@@ -1431,6 +1495,22 @@
       "duration_ms": 136776,
       "name": "On & On",
       "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Anarchy",
+        "url": "https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw"
+      },
+      "artists": [
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+        }
+      ],
+      "duration_ms": 185886,
+      "name": "Beautiful Nightmare",
+      "url": "https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1547,22 +1627,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "LONEWOLF",
-        "url": "https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz"
-      },
-      "artists": [
-        {
-          "name": "convolk",
-          "url": "https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ"
-        }
-      ],
-      "duration_ms": 159149,
-      "name": "I fucked up",
-      "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Pegasus: Neon Shark vs Pegasus Presented By Travis Barker (Deluxe)",
         "url": "https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl"
       },
@@ -1603,6 +1667,22 @@
       "duration_ms": 115263,
       "name": "Violets",
       "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "LONEWOLF",
+        "url": "https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz"
+      },
+      "artists": [
+        {
+          "name": "convolk",
+          "url": "https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ"
+        }
+      ],
+      "duration_ms": 159149,
+      "name": "I fucked up",
+      "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
     },
     {
       "added_at": "2022-12-09 05:05:00",
@@ -1679,22 +1759,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "WELCOME HOME",
-        "url": "https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc"
-      },
-      "artists": [
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
-        }
-      ],
-      "duration_ms": 164154,
-      "name": "BAD NEWS",
-      "url": "https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Tell Me Why I'm Waiting",
         "url": "https://open.spotify.com/album/3XqC5Id2B3Ak8fGawP8NQt"
       },
@@ -1707,74 +1771,6 @@
       "duration_ms": 139357,
       "name": "Tell Me Why I'm Waiting",
       "url": "https://open.spotify.com/track/7gu0zaym9C9Kp1va4ZeYXR"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "A SERIES OF UNFORTUNATE EVENTS",
-        "url": "https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM"
-      },
-      "artists": [
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 215647,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Belly of the Beast",
-        "url": "https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ"
-      },
-      "artists": [
-        {
-          "name": "Brennan Savage",
-          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "Belly of the Beast",
-      "url": "https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Proud of Myself",
-        "url": "https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq"
-      },
-      "artists": [
-        {
-          "name": "Lil Xxel",
-          "url": "https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "Proud of Myself",
-      "url": "https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Long Days Away EP",
-        "url": "https://open.spotify.com/album/613TIKn6gw8IGd1CBQUTa9"
-      },
-      "artists": [
-        {
-          "name": "Darci",
-          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
-        },
-        {
-          "name": "CADE",
-          "url": "https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Cold (feat. CADE)",
-      "url": "https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg"
     }
   ],
   "unique_name": "tear drop",

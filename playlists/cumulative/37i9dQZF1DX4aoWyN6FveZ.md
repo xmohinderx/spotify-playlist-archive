@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ravieb/">Ravie B</a>
 
-55 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/0PgosEKBvTjjY0HGi0EUCW)
+55 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

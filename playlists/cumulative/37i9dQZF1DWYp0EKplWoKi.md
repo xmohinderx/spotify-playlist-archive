@@ -4,7 +4,7 @@
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Peso Pluma & Alemán en portada.
 
-95 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/12peez7nV9NUKo6SrNqY8h)
+95 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

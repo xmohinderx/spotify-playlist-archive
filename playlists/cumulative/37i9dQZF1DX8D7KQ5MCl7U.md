@@ -4,7 +4,7 @@
 
 > All Coke Studio Pakistan tracks in one place.
 
-363 songs - 1 day 15 hr 52 min - [published](https://open.spotify.com/playlist/0C0nv6asf53A0jjwO8omOf)
+363 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-292 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
+292 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

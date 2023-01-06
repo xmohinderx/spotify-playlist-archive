@@ -4,7 +4,7 @@
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-173 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/1Y2DnKP1bwhjjw2yMKm1Bf)
+173 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

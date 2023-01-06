@@ -4,7 +4,7 @@
 
 > 2011 highlights from the home of indie music.
 
-127 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/0C5h2Q309nUesgczukff2T)
+127 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

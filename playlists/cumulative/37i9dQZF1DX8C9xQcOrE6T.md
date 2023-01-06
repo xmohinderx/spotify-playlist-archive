@@ -4,7 +4,7 @@
 
 > All of your favorite Disney hits, including songs from Encanto\. Stream Encanto on Disney+.
 
-154 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/636MTeCEICQctVDwXtEgUe)
+154 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

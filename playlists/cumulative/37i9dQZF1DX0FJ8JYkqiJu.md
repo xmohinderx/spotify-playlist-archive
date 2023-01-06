@@ -4,7 +4,7 @@
 
 > Tune in, bliss out
 
-75 songs - 4 hr 54 min - not published yet
+76 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Clarity \- Chris Malinchak Mix](https://open.spotify.com/track/0Mv64uPH8nm7yZPPAj8HYe) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Clarity \(Chris Malinchak Mix\)](https://open.spotify.com/album/5heZ44v5LJyE8xBe4BBir9) | 3:50 | 2022-12-01 |  |
 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 | 2022-12-01 |  |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-12-01 |  |
-| [Everytime You Need Me](https://open.spotify.com/track/6AgOb1ARDRUjZdPAUgkWPg) | [Santorelli](https://open.spotify.com/artist/2W3PRQeJoFaEFaLZYiVrkR), [15grams](https://open.spotify.com/artist/1O6ddbpGxRTse2V0YEkhNH), [JXDE](https://open.spotify.com/artist/4qt40q1K5ce0eVlUa66bGC) | [Everytime You Need Me](https://open.spotify.com/album/1PqX9ZHah4bKmgxMR4EIFv) | 2:27 | 2022-12-15 |  |
+| [Everytime You Need Me](https://open.spotify.com/track/6AgOb1ARDRUjZdPAUgkWPg) | [Santorelli](https://open.spotify.com/artist/2W3PRQeJoFaEFaLZYiVrkR), [15grams](https://open.spotify.com/artist/1O6ddbpGxRTse2V0YEkhNH), [JXDE](https://open.spotify.com/artist/4qt40q1K5ce0eVlUa66bGC) | [Everytime You Need Me](https://open.spotify.com/album/1PqX9ZHah4bKmgxMR4EIFv) | 2:27 | 2022-12-15 | 2023-01-06 |
 | [Fade Into Black](https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:04 | 2022-12-01 |  |
 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 | 2022-12-01 |  |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-12-01 |  |
@@ -76,6 +76,7 @@
 | [Tied to You](https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Tied to You](https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn) | 3:43 | 2022-12-01 | 2023-01-05 |
 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 | 2022-12-01 |  |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2022-12-01 | 2022-12-13 |
+| [Tulum](https://open.spotify.com/track/3pT9l5WdtJhCpEyxVgH2LT) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/4IxpGZORrGm6XfQW1TyMiG) | 3:45 | 2022-12-15 |  |
 | [Wake Up Call](https://open.spotify.com/track/2k85lEep46LiLCK95PFOts) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Wake Up Call](https://open.spotify.com/album/7xpPwin0MrpjMm1N2PeJKV) | 3:44 | 2022-12-01 |  |
 | [Walking on a Dream](https://open.spotify.com/track/1ifqHSKJZm62EUq00myuAM) | [Du0](https://open.spotify.com/artist/1nsfed7KDKnuVUMq0ug6NN) | [Walking on a Dream](https://open.spotify.com/album/5MBtjKrxEIhh2WROiZ6yru) | 3:24 | 2022-12-01 |  |
 | [Waves](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Waves](https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu) | 4:02 | 2022-12-01 |  |

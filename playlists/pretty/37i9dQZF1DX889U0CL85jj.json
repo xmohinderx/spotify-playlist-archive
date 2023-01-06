@@ -1,12 +1,12 @@
 {
   "description": "Just chill.",
-  "num_followers": 2392973,
+  "num_followers": 2393360,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTgyNDI2MiwwMDAwMDAwMGYxZTIzOGIxODE4NjRkMGQxYTEzZGVjNjZlZTY0ZTlj",
+  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMDRmMDM5OWEwYjI2YmNmMGQ0Y2RhYmM0ZTVmNmFiODIz",
   "tracks": [
     {
       "added_at": "2022-11-07 16:57:30",
@@ -45,20 +45,36 @@
       "url": "https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S"
     },
     {
-      "added_at": "2022-11-25 04:53:00",
+      "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "uni",
-        "url": "https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm"
+        "name": "recently",
+        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
       },
       "artists": [
         {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
         }
       ],
-      "duration_ms": 168000,
-      "name": "uni",
-      "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
+      "duration_ms": 161929,
+      "name": "rises the moon",
+      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
+    },
+    {
+      "added_at": "2023-01-05 17:14:50",
+      "album": {
+        "name": "Remember Your North Star",
+        "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 89616,
+      "name": "meet me in brooklyn",
+      "url": "https://open.spotify.com/track/6QkOMriITXf0oqpga33HnP"
     },
     {
       "added_at": "2022-12-22 19:24:46",
@@ -79,22 +95,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "recently",
-        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 161929,
-      "name": "rises the moon",
-      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
@@ -107,6 +107,46 @@
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "added_at": "2023-01-06 06:05:00",
+      "album": {
+        "name": "Oyster Bay",
+        "url": "https://open.spotify.com/album/2S5afSFaYIhRZtVwqphHO6"
+      },
+      "artists": [
+        {
+          "name": "Will Epstein",
+          "url": "https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I"
+        }
+      ],
+      "duration_ms": 343013,
+      "name": "Oyster Bay",
+      "url": "https://open.spotify.com/track/2gAUlTl69mEyEAANQc4gwO"
+    },
+    {
+      "added_at": "2022-10-08 00:29:29",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96"
     },
     {
       "added_at": "2022-12-22 19:24:46",
@@ -173,22 +213,6 @@
       "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
     },
     {
-      "added_at": "2022-11-07 16:57:30",
-      "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
-    },
-    {
       "added_at": "2022-12-21 22:28:08",
       "album": {
         "name": "letting you go (demo)",
@@ -203,6 +227,34 @@
       "duration_ms": 221469,
       "name": "letting you go - demo",
       "url": "https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP"
+    },
+    {
+      "added_at": "2023-01-06 06:05:00",
+      "album": {
+        "name": "Never Gonna Be Alone (HONNE Remix)",
+        "url": "https://open.spotify.com/album/6lfVjl4oZl6q9DTiJHOoax"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/7EXJJpgDl7y4szvrpUYj0s"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "Never Gonna Be Alone (HONNE Remix)",
+      "url": "https://open.spotify.com/track/3z9rfhgooezVTMBrRvNz0l"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -235,30 +287,6 @@
       "duration_ms": 226306,
       "name": "peas",
       "url": "https://open.spotify.com/track/7afu0r3cro65yBIL2YWp00"
-    },
-    {
-      "added_at": "2022-10-08 00:29:29",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -307,6 +335,26 @@
       "duration_ms": 192477,
       "name": "27",
       "url": "https://open.spotify.com/track/1GXKnG7uoUr4RacaxE3e8m"
+    },
+    {
+      "added_at": "2023-01-06 06:05:00",
+      "album": {
+        "name": "Bicycle (Rework)",
+        "url": "https://open.spotify.com/album/3p9Jejp6QR3IlOEHIxdyYK"
+      },
+      "artists": [
+        {
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        },
+        {
+          "name": "pijama land",
+          "url": "https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY"
+        }
+      ],
+      "duration_ms": 185510,
+      "name": "Bicycle (Rework)",
+      "url": "https://open.spotify.com/track/0IrnXvUh1uDvsNIWajE8Su"
     },
     {
       "added_at": "2022-11-25 04:53:00",
@@ -483,22 +531,6 @@
       "duration_ms": 385653,
       "name": "God Turn Me Into a Flower",
       "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Eyelid Movies (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2VmTLrSKQiMAW8lRzP9k4d"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 245026,
-      "name": "Voices - Live on WEXT",
-      "url": "https://open.spotify.com/track/59LJbjPh4wcHcuoqimqDb5"
     },
     {
       "added_at": "2022-11-25 04:53:00",
@@ -2571,22 +2603,6 @@
       "duration_ms": 167213,
       "name": "either side",
       "url": "https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Zombies",
-        "url": "https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 192114,
-      "name": "Zombies",
-      "url": "https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC"
     }
   ],
   "unique_name": "Chill Vibes",

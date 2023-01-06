@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1990s.
 
-365 songs - 1 day 3 hr 18 min - [published](https://open.spotify.com/playlist/3Y9Hoox8bVt84gpOCnK26g)
+365 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

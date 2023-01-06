@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 638895,
+  "num_followers": 639133,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYxMTYxMiwwMDAwMDAwMDE0YjI5YjE5ZDlhNTgwOTU4NTUyZTBiMmZmYzljMGRh",
+  "snapshot_id": "MTY3MDYxMTYxMiwwMDAwMDAwMDEzMDdmZTdmODZiMTk2YWMwZDY0ZWQ1YzBiNWEzMDBk",
   "tracks": [
     {
       "added_at": "2022-10-07 05:00:00",
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY"
     },
     {
-      "added_at": "2023-01-05 01:07:18",
+      "added_at": "2023-01-06 06:43:56",
       "album": {
         "name": "AfterLife",
         "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
@@ -511,22 +511,6 @@
       "duration_ms": 260560,
       "name": "My December",
       "url": "https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
-        "name": "ATTENTION: MILEY LIVE",
-        "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "You - Live",
-      "url": "https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -897,7 +881,7 @@
       "url": "https://open.spotify.com/track/7tDwiOA86rkQWR1E1TPpgD"
     },
     {
-      "added_at": "2023-01-05 01:07:18",
+      "added_at": "2023-01-06 06:43:56",
       "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D"
@@ -1027,22 +1011,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/4VqkhvOP0FkcVrDxgJXtxM"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz"
       },
@@ -1063,22 +1031,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "The Order Of Things",
-        "url": "https://open.spotify.com/album/1ewpZOue9FoiljDHq0UYli"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 256279,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3ktjSD56hFRXC3LjbHXAH1"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "How Did You Love",
         "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
       },
@@ -1091,6 +1043,38 @@
       "duration_ms": 185973,
       "name": "How Did You Love - Piano Version",
       "url": "https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/4VqkhvOP0FkcVrDxgJXtxM"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "The Order Of Things",
+        "url": "https://open.spotify.com/album/1ewpZOue9FoiljDHq0UYli"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 256279,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3ktjSD56hFRXC3LjbHXAH1"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1191,22 +1175,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Broken Heart of Gold",
-        "url": "https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 253487,
-      "name": "Broken Heart of Gold",
-      "url": "https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -1219,6 +1187,22 @@
       "duration_ms": 163333,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Broken Heart of Gold",
+        "url": "https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 253487,
+      "name": "Broken Heart of Gold",
+      "url": "https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
+        "name": "ATTENTION: MILEY LIVE",
+        "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "You - Live",
+      "url": "https://open.spotify.com/track/2E5avcbynGtL6rVHQihEdR"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
         "name": "Flyleaf",
         "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
       },
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
+        "name": "Hydrograd",
+        "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267400,
+      "name": "St. Marie",
+      "url": "https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
         "name": "Doomsday (Piano Reprise)",
         "url": "https://open.spotify.com/album/3qugOscI33flKHeUONCfLh"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 247000,
       "name": "Wasted Years",
       "url": "https://open.spotify.com/track/2JG2OmmwZ5x2RkX0uR5w4k"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
-        "name": "Hydrograd",
-        "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267400,
-      "name": "St. Marie",
-      "url": "https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "The Things We Can\u00b4t Stop",
-        "url": "https://open.spotify.com/album/6Y269q2NP4FXullO3NxBDE"
-      },
-      "artists": [
-        {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
-        }
-      ],
-      "duration_ms": 254642,
-      "name": "Quiet Now",
-      "url": "https://open.spotify.com/track/41ZjzkJRYKHo4seEv9MSBI"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "The Stage",
         "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 259797,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/2B49LNSMgjaQJOa5fTml4M"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "The Things We Can\u00b4t Stop",
+        "url": "https://open.spotify.com/album/6Y269q2NP4FXullO3NxBDE"
+      },
+      "artists": [
+        {
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+        }
+      ],
+      "duration_ms": 254642,
+      "name": "Quiet Now",
+      "url": "https://open.spotify.com/track/41ZjzkJRYKHo4seEv9MSBI"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1647,22 +1647,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Every Time You Leave [Feat. Delaney Jane] (Live Acoustic)",
-        "url": "https://open.spotify.com/album/33rt0rXX6q0XnDFijDfgL9"
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
       },
       "artists": [
         {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        },
-        {
-          "name": "Delaney Jane",
-          "url": "https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8"
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 187401,
-      "name": "Every Time You Leave (Feat. Delaney Jane) - Live Acoustic",
-      "url": "https://open.spotify.com/track/11MSSonvzz9Fu8RTdTXnqd"
+      "duration_ms": 276106,
+      "name": "The Blue, The Green",
+      "url": "https://open.spotify.com/track/0HHlrHaeTThPytkBv3ka3G"
     }
   ],
   "unique_name": "Rock Ballads",

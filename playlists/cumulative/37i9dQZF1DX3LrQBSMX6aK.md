@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-63 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/0OzLeNCd06oXDuQuswKVyQ)
+63 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

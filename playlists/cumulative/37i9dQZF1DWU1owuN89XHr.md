@@ -4,7 +4,7 @@
 
 > Historias y versos que tocan la piel.
 
-141 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/6l3dGa8zCDeH4FpHS3TJ2w)
+141 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

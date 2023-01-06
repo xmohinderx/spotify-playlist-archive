@@ -4,7 +4,7 @@
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/4Mq3CpZCus64vjZSGEhqL5)
+71 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

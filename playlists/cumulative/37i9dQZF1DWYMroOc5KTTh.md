@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-415 songs - 1 day 4 hr 39 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
+415 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8?si=2HgKz2LQRDmlX\_TiWvxZsg"> Kold AF</a>
 
-160 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/2KdrLZRa87xIWjORQ3USHT)
+160 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

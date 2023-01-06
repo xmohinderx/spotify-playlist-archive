@@ -4,7 +4,7 @@
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-276 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/62Z0vZErIH6g7RB9Wn42Q7)
+276 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

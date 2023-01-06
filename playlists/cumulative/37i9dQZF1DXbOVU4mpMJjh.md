@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-480 songs - 1 day 14 hr 15 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+480 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

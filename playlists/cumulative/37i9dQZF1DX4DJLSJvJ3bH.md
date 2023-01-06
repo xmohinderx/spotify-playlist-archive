@@ -4,7 +4,7 @@
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-162 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/1RCTc7oBE4t1Ge16K09W30)
+162 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

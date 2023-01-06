@@ -4,7 +4,7 @@
 
 > Fire up the grill and enjoy this playlist with the whole family.
 
-66 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/3oUCrpB9ntTb9UkqHlgytt)
+66 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

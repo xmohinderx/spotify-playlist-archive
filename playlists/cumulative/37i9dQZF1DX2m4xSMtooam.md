@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-183 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/3aH3sMKMrDaZCgEOtCiFCf)
+183 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

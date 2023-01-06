@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from Fresh Finds Dance this year\. Cover: DESIREE
 
-903 songs - 2 day 15 hr 23 min - [published](https://open.spotify.com/playlist/4dKpDBG1y7h8bfA4dbtQPc)
+903 songs - 2 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

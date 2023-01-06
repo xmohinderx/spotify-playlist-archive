@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-194 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
+194 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

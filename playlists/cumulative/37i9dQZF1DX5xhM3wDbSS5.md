@@ -4,7 +4,7 @@
 
 > Artists that have challenged norms and pushed culture forward.
 
-53 songs - 3 hr 43 min - not published yet
+53 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

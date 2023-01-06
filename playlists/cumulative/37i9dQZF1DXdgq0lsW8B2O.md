@@ -4,7 +4,7 @@
 
 > Music from the early days of Ambient.
 
-54 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/71Cz0OyglZmhU8EyYAjCR6)
+54 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

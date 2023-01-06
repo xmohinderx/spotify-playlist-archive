@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-68 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/5sz6J1Qj1bKu7DrXaMZeuY)
+68 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

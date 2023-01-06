@@ -4,7 +4,7 @@
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-82 songs - 6 hr 25 min - not published yet
+82 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

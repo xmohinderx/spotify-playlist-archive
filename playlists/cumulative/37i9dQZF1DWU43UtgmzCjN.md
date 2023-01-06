@@ -4,7 +4,7 @@
 
 > Los más pesados y polémicos del Regional Mexicano\. Los Tucanes de Tijuana en portada.
 
-73 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/1CrwH8POYCHyYSONehJDrB)
+73 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

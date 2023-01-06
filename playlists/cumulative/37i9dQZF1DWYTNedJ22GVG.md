@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-168 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
+168 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

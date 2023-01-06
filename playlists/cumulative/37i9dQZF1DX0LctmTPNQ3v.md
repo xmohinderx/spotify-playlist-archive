@@ -4,7 +4,7 @@
 
 > Time to headbang around the Christmas tree! Cover: Sabaton
 
-116 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/2p8oEdfFYrJdmMGXY2kQRe)
+116 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

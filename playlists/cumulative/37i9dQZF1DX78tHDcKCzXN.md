@@ -4,7 +4,7 @@
 
 > To the world, this is NCT! This is NCT 127! The 4th album ‘2 Baddies’ is out!
 
-102 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/4sV5zpts2Ks9RxeBvmHERq)
+102 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

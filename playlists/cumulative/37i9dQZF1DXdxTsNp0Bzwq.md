@@ -4,7 +4,7 @@
 
 > Turn up for the big game!
 
-229 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/6TtADyX1pjjqxAwbYMYjTP)
+229 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

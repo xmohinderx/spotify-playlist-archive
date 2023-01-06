@@ -4,7 +4,7 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-66 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/7HqF9ziewtXXk9SfOV5veg)
+66 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ¡Cristina Valentina y más mujeres, a todo volumen!
 
-152 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
+152 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

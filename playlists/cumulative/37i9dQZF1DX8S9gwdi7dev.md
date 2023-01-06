@@ -4,7 +4,7 @@
 
 > Fun tracks for your Halloween festivities!
 
-136 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/4eYbz1GI6qfDbenGzlw63t)
+136 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

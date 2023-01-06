@@ -4,7 +4,7 @@
 
 > Your favorite Latin Indie Classics.
 
-164 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/1oaWwVir8TpHT0IwDnStYn)
+164 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

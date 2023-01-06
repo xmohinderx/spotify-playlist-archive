@@ -4,7 +4,7 @@
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-162 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
+162 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

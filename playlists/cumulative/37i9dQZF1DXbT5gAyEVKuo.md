@@ -4,7 +4,7 @@
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-65 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/7vgl1VIbhC7Vg5HNGvg9Ts)
+65 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

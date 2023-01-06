@@ -4,7 +4,7 @@
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-82 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/0k0VtrZCFLgHJzINOLLZfg)
+82 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

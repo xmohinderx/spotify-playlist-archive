@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-543 songs - 1 day 9 hr 7 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+543 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

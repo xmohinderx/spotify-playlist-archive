@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-469 songs - 1 day 4 hr 23 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+469 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,8 +82,8 @@
 | [Charley's Girl](https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Coney Island Baby](https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx) | 2:39 | 2022-08-19 |  |
 | [Cherry Jerry Citrus](https://open.spotify.com/track/4NH4uwPks7iwmmylbgAE25) | [Hey Cowboy!](https://open.spotify.com/artist/1m2tY2Q32cp51czUo7SxyZ) | [Get in My Fanny Pack and Let's Go](https://open.spotify.com/album/6ZEYAnIq5z89j5TTczUPH7) | 3:09 | 2022-01-07 | 2022-06-09 |
 | [Chess \- Opium Factory Remix](https://open.spotify.com/track/3NZEdsk7NgbwTpIVmwNdvb) | [Joon Moon](https://open.spotify.com/artist/0SYUPmAqWcyik557LEq2Z0) | [Chess EP](https://open.spotify.com/album/3mHiKTsOCWP6lOmYF6fzQH) | 3:03 | 2021-12-16 | 2022-06-24 |
-| [Circles](https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:18 | 2022-09-26 |  |
 | [Circles](https://open.spotify.com/track/6ZoXt2on0ub2ORSTWnJCjs) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 3:18 | 2021-12-16 | 2022-06-28 |
+| [Circles](https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:18 | 2022-09-26 |  |
 | [Clear](https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [Clear](https://open.spotify.com/album/0H5PiJtK74cXzs4A1HDmeR) | 4:02 | 2021-12-16 | 2022-07-29 |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2021-12-16 |  |
 | [Come On In](https://open.spotify.com/track/6HwVmEL610Sd9QtZ96Ysmr) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:38 | 2022-07-26 |  |

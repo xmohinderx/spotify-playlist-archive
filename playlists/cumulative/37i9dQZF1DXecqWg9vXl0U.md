@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring Los Eclipses.
 
-198 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
+198 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

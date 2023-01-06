@@ -4,7 +4,7 @@
 
 > The hottest Latin hits in the US! Cover: ROSALÍA & Cardi B
 
-202 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/5twlBAlAWZLOSaOy4NqQKe)
+202 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Exceptionally vivid icebreaker in your love pursuit.
 
-62 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/7JISV0PYVntzUTc3mfFjMQ)
+62 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

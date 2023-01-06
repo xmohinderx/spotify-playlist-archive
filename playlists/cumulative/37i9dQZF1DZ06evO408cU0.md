@@ -4,7 +4,7 @@
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/35hDIY0DqmGq3d8jBCjAkq)
+74 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

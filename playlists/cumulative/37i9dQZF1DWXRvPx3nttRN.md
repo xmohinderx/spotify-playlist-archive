@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-375 songs - 21 hr 7 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
+375 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

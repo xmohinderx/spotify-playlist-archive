@@ -4,7 +4,7 @@
 
 > Instrumental beats from Hip\-Hop's hey day; to help you study, work and vibe.
 
-78 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
+78 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

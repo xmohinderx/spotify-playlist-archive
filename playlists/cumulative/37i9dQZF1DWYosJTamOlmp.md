@@ -4,12 +4,13 @@
 
 > A journey from dusk 'til dawn curated by Jungle artist Nia Archives!
 
-82 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/5AH7k1bIFGHs1b1OpAMK8V)
+83 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Brukshot \- Aries & Kelvin 373 Remix](https://open.spotify.com/track/0I7y1RprtTQejhtZS5lsHh) | [4K](https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP), [ALR](https://open.spotify.com/artist/2DKVguG69okXFd7OSINIs1), [Aries](https://open.spotify.com/artist/2DhDWuXRLdMpGJKZzTuxPo), [Kelvin 373](https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD) | [Brukshot \(Aries & Kelvin 373 Remix\)](https://open.spotify.com/album/6mk9rxIXzwbvcoRgFNwlrI) | 4:12 | 2021-10-19 |  |
-| [Catching Feelings \(Edit\)](https://open.spotify.com/track/0vxRPIBruQR3p61jvQa2wX) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:12 | 2021-10-19 |  |
+| [Catching Feelings \(Edit\)](https://open.spotify.com/track/0vxRPIBruQR3p61jvQa2wX) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:12 | 2021-10-19 | 2023-01-06 |
+| [Catching Feelings \- Edit](https://open.spotify.com/track/7ByNXZdoSFhgEQCZwyOP9X) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/5aqiSYD4CoXgKW7p7mUNex) | 6:12 | 2021-10-19 |  |
 | [Catching Feelings \- Edit](https://open.spotify.com/track/0RKx3ivZOpeAlr3jrw8m8O) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Pool Party Music](https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF) | 6:12 | 2021-10-19 | 2022-07-29 |
 | [Charmer](https://open.spotify.com/track/0jsHe6mgHZqimZcBqgALhY) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P) | [Charmer](https://open.spotify.com/album/4hgHLc9kJyPtNaLK2Q4hTH) | 3:12 | 2021-10-19 |  |
 | [Code Red](https://open.spotify.com/track/7DktOuS8pPO4P6xWcGgDeM) | [Congo Natty](https://open.spotify.com/artist/1NngQUSMHaauD7UjKuaH2W), [Conquering Lion](https://open.spotify.com/artist/5ihLdJPtkczDQGJitNiWcG), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM), [Reggie Stepper](https://open.spotify.com/artist/5jXyw1hN0YcQ7jHeQq1uEk) | [Code Red](https://open.spotify.com/album/3LkJ19UdnFV6PLvcNYPFRY) | 4:31 | 2021-10-19 |  |

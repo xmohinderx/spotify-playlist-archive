@@ -4,7 +4,7 @@
 
 > Work, study or relax to this classical playlist featuring Bach, Tchaikovsky and more!
 
-61 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/0NcRfAaLrXF2N6HncPdeFr)
+61 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

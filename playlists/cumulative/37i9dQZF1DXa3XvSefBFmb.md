@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Nena, com o volume no máximo.
 
-341 songs - 19 hr 23 min - [published](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
+342 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Senhora do Almurtão](https://open.spotify.com/track/6EwRYb57Px5Qaghwjvpi7I) | [Rossana](https://open.spotify.com/artist/372srPZ3LinDUNQlKetVFL) | [Ao Deus Dará](https://open.spotify.com/album/75kJT86YAkItf4AjC8Ac8P) | 2:55 | 2021-12-08 | 2022-03-08 |
 | [Sentido](https://open.spotify.com/track/6EFzJTt6mCX3bogw6mlfaa) | [Isabella Bretz](https://open.spotify.com/artist/0MNi6Dw2rsbVIsUiWUGK8s), [Rodrigo Lana](https://open.spotify.com/artist/69wkhPFqXSxmeBL8f6D0Fs), [Katerina L'dokova](https://open.spotify.com/artist/5r5JuV2FowaxIOFXNVjmAl), [Lucas Telles](https://open.spotify.com/artist/5GbIjlY1tT2LGFAvY6QQ8G) | [Sentido](https://open.spotify.com/album/2hH09q8R0X4uRNGilln7pr) | 4:22 | 2022-10-04 | 2022-11-02 |
 | [Ser Mulher](https://open.spotify.com/track/30oVq7DYscRKPts5ry5CFs) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [Ser Mulher](https://open.spotify.com/album/2KEcHj85NXJskjYgYaiBEc) | 3:26 | 2022-07-05 | 2022-10-05 |
+| [Serenata](https://open.spotify.com/track/0iH6ACCaYRPekMHUcHV2uX) | [Cremilda Medina](https://open.spotify.com/artist/7m1dm6eKgspx20jb8RrCEp) | [Serenata](https://open.spotify.com/album/404DplsamthydoxOpTssjZ) | 4:42 | 2023-01-04 |  |
 | [Severa](https://open.spotify.com/track/2liqn37NNUurEjZjQVEmQw) | [MARA](https://open.spotify.com/artist/5F9mvejx8ps76oWYpjbHtJ) | [Severa](https://open.spotify.com/album/6KIhCflHrLD46nXuUXooKM) | 2:45 | 2021-12-08 | 2022-04-06 |
 | [Sleepwalkers](https://open.spotify.com/track/2D7f3tKYLYnLKlIliHG8Mh) | [Libra](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm), [Soundskillz](https://open.spotify.com/artist/5K6sigN8oSYvG8kgqyloVb) | [Sleepwalker](https://open.spotify.com/album/2KiHDAn4I9NZUk4Du0lLMK) | 3:27 | 2021-12-08 | 2022-02-02 |
 | [Sol](https://open.spotify.com/track/0GCsH1TvIYGsPvE2yYQiAG) | [Sílvia Barros](https://open.spotify.com/artist/17ZThjc3szh3OqLLhICDxu), [Pry Antunes](https://open.spotify.com/artist/2WfKRHfNtowQ2TajTx8Rks) | [Sol](https://open.spotify.com/album/0V2fz8yyJa8AV3z7kyMpTq) | 2:50 | 2022-05-31 | 2022-08-03 |

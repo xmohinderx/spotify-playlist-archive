@@ -4,7 +4,7 @@
 
 > Will you be my anti\-valentine?
 
-148 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/2531pAWHhspIB4sjZf83LQ)
+148 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

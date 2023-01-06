@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Celia Cruz Y Tito Puente en un mismo lugar\. Listen to both icons here!
 
-75 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/42vZA0UNgFC5oXYwNCKqsh)
+75 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

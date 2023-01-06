@@ -4,7 +4,7 @@
 
 > Tristeza independiente para aquellos días de bajón.
 
-171 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/68BoYlWo5lHOskfBYhYm3g)
+171 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

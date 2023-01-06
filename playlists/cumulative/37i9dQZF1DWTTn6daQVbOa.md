@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1970s.
 
-286 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/55JECVuG1IkXGyKrIFKeiW)
+286 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

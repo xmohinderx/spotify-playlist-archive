@@ -4,7 +4,7 @@
 
 > Best Latin Indie tracks right now\. Cover: Ambar Lucid
 
-199 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/18mw8A3EJYED9nllSiRieV)
+199 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

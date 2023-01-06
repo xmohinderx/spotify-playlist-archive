@@ -4,7 +4,7 @@
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-86 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/2rBoCOPkSalXiItTwp0w7v)
+86 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

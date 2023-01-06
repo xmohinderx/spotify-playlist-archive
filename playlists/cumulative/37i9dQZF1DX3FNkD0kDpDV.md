@@ -4,7 +4,7 @@
 
 > Amsterdam Dance Event takes over Amsterdam with an incredible line\-up of dance & electronic artists this month!
 
-411 songs - 1 day 7 hr 15 min - [published](https://open.spotify.com/playlist/3ZZheCoq2krlIb03B150LK)
+411 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

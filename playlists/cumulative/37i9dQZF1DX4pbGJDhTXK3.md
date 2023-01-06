@@ -4,7 +4,7 @@
 
 > A celebration of Norway's dance scene!
 
-109 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
+109 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

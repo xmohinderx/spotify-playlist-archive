@@ -4,7 +4,7 @@
 
 > would you like to save before closing?
 
-98 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/36YqD8F3x0V42aodGC6n57)
+98 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

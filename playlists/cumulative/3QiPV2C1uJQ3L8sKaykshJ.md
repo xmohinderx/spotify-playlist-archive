@@ -4,7 +4,7 @@
 
 > Listen to A\-List tracks from RCA Records featuring music from SZA, Latto, Steve Lacy, Chris Brown, and more\. Cover: SZA
 
-76 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/2sh9qmAJ9rtmiXeIBtt7j0)
+76 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

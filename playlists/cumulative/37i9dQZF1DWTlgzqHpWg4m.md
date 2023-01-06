@@ -4,7 +4,7 @@
 
 > welcome to the Golden State.
 
-143 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/4SbwVdVItzfdu5SIZ5qyZY)
+143 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/6ZkpoSfbVoUoMm6rvrQEUm.md) - [plain]
 
 > Friday Haus \- Freshest house tunes every week\. Updated Every Friday !
 
-[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 5,070 likes - 20 songs - 1 hr 7 min
+[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 5,086 likes - 20 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sand Dunes](https://open.spotify.com/track/2Oh4jKif9YIlxbg8aX6Km0) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Sand Dunes](https://open.spotify.com/album/7z4cJm01ThOpkmGdf6MoqC) | 3:25 |
 | 2 | [The Reason](https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Reason](https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4) | 3:24 |
-| 3 | [Ballroom \- Edit](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 |
+| 3 | [Ballroom \(Edit\)](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 |
 | 4 | [Gimme Some Keys \- Tom & Collins Remix](https://open.spotify.com/track/5tduGasgVWxKsezC3xzAYg) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Gimme Some Keys \(Remixes\)](https://open.spotify.com/album/0DCYwEDewo2R9GbzwueiN6) | 3:12 |
 | 5 | [GOOD TIMES \- Braxe + Falcon Remix](https://open.spotify.com/track/4Gn1QTNQReiekDQe4G9Nwn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA) | [GOOD TIMES \(Braxe + Falcon Remix\)](https://open.spotify.com/album/3dPuxSpMmACVdpn9IRMhsz) | 4:44 |
 | 6 | [Tomorrows \- Kyle Watson Remix](https://open.spotify.com/track/5p9yBGSaYVnJnb6zI9kNEv) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Tomorrows \(Kyle Watson Remix\)](https://open.spotify.com/album/6JhA3zD1fN9PwskPcsOJBm) | 3:39 |

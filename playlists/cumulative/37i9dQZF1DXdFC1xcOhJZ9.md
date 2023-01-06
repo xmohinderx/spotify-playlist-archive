@@ -4,7 +4,7 @@
 
 > Ambient's most enduring tracks from the 90's chillout room scene\. Cover: 808 State
 
-61 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/5OS47xesWcizzSceuREH3m)
+61 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

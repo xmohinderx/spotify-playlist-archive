@@ -4,7 +4,7 @@
 
 > Release The Bats! Siouxsie and the Banshees on the cover.
 
-263 songs - 19 hr 54 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
+264 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 | 2021-10-15 |  |
 | [Faith](https://open.spotify.com/track/01Vrp6Y0VGOQALAshPxeGY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith](https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo) | 6:42 | 2021-10-15 | 2022-07-28 |
 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 | 2021-10-15 |  |
+| [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 | 2023-01-06 |  |
 | [Fell in Love with a Mermaid](https://open.spotify.com/track/5f7LcNx09lzvvRYQx4Dkt3) | [Rosk](https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN) | [Fell in Love with a Mermaid](https://open.spotify.com/album/1AFRlFvmQOVgbuL9V52xat) | 3:31 | 2022-06-03 | 2022-07-01 |
 | [Fimmine Fimmine](https://open.spotify.com/track/7abc6Xc7EVLFmSzPVli4u7) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Fimmine Fimmine](https://open.spotify.com/album/6deZe9K7HL6s5GqptuXQWM) | 4:39 | 2022-04-01 | 2022-05-07 |
 | [Flowers](https://open.spotify.com/track/64M5ClXAgxTxmujhWN75XY) | [Rozz Williams and Gitane D...](https://open.spotify.com/artist/2yZHZ21tq76N2oc3G4zScF) | [Dream Home Heartache](https://open.spotify.com/album/3gJiXAaXhHgInF3spF1d3m) | 6:07 | 2021-10-15 | 2022-07-08 |
@@ -94,7 +95,7 @@
 | [Ghost Rider \- 1998 Remastered Version](https://open.spotify.com/track/2XFqddsS1Hd7u3gUM0qd3c) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(1998 Remastered Version\)](https://open.spotify.com/album/7lHdDQ8qsbcNWkEYtcIiHF) | 2:34 | 2021-10-15 | 2022-05-27 |
 | [Ghost Rider \- 2019 \- Remaster](https://open.spotify.com/track/0SlVvyU9LWTzsnPc8lcoUs) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 2:33 | 2021-10-15 |  |
 | [Go! \(Club Mix\)](https://open.spotify.com/track/6jUtVy8AXICRmH85U3QjQU) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/2HLe3MOLEKEhuGIbrGSN3i) | 4:28 | 2021-10-15 | 2022-04-20 |
-| [Go! \- Club Mix](https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo) | 4:28 | 2021-10-15 |  |
+| [Go! \- Club Mix](https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo) | 4:28 | 2021-10-15 | 2023-01-06 |
 | [Golden Age / Labyrinth of Memories](https://open.spotify.com/track/5JwaphAXyuQwuQpQfpMFA8) | [Winter Severity Index](https://open.spotify.com/artist/5RxKFWH5QHNCQkEhjYHkUC) | [Disgelo](https://open.spotify.com/album/4YWrhGrjcelQnkXmiwG6DX) | 5:47 | 2022-03-03 | 2022-05-22 |
 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-11-28 |  |
 | [Gothic Girl](https://open.spotify.com/track/5FFvaskWpkLIgBdNhlSIOG) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Gothic Essential Tracks](https://open.spotify.com/album/540DrBi3W4doXmlMpmohj5) | 4:28 | 2022-01-11 | 2022-07-27 |
@@ -119,7 +120,7 @@
 | [Incubus Succubus II](https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv) | 4:45 | 2021-10-15 |  |
 | [Incubus Succubus II](https://open.spotify.com/track/7zcicu8dsRMCOxzdcMyIYK) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/06yXOBC2Nc5cWprY03iB1U) | 4:45 | 2021-10-15 | 2022-07-29 |
 | [Indigo Eyes](https://open.spotify.com/track/3CJTExdNrZfB0pbF2LQM4Y) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Love Hysteria](https://open.spotify.com/album/6I1vPQRqjeLiRoW01SmzaR) | 5:54 | 2021-10-15 | 2022-04-20 |
-| [Indigo Eyes](https://open.spotify.com/track/76gFDqnsl7dZvEABaH5qir) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Love Hysteria](https://open.spotify.com/album/3jdfA9PCU4a1uNzmiCtvRm) | 5:54 | 2021-10-15 |  |
+| [Indigo Eyes](https://open.spotify.com/track/76gFDqnsl7dZvEABaH5qir) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Love Hysteria](https://open.spotify.com/album/3jdfA9PCU4a1uNzmiCtvRm) | 5:54 | 2021-10-15 | 2023-01-06 |
 | [Is Vic There?](https://open.spotify.com/track/6qqg5rTgBcUsP5NcYmzi6X) | [Department S](https://open.spotify.com/artist/0tEV531O5iaWJiH7Yjzf8j) | [Demon \- The Singles Collection](https://open.spotify.com/album/4aBwfMZUkIQ2pJ7QNDuFpi) | 3:05 | 2021-10-15 | 2022-05-05 |
 | [Ivo](https://open.spotify.com/track/0N4JIfesak2J82auEiirwa) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 3:53 | 2021-10-15 | 2022-07-29 |
 | [Ivo](https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:53 | 2021-10-15 |  |
@@ -231,7 +232,7 @@
 | [The Interimlovers](https://open.spotify.com/track/6IfWLGF3IOFJN836q5ATlV) | [Einstürzende Neubauten](https://open.spotify.com/artist/7KomCxZv6D5qCVvefwMnwB) | [Tabula Rasa](https://open.spotify.com/album/0IOEITeE0fxoObsnTFI2Kr) | 4:13 | 2021-10-15 | 2022-07-27 |
 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 | 2021-10-15 |  |
 | [The Lovecats](https://open.spotify.com/track/5GHwCpwEos0FzYe55slXEp) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX) | 3:40 | 2021-10-15 | 2022-11-13 |
-| [The Lovecats](https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS) | 3:40 | 2021-10-15 | 2022-12-08 |
+| [The Lovecats](https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS) | 3:40 | 2021-10-15 |  |
 | [The Lovecats](https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:40 | 2021-10-15 | 2022-07-29 |
 | [The Passion of Lovers](https://open.spotify.com/track/0Ha6Oee9KzRwNxAbfznzYJ) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:51 | 2021-10-15 |  |
 | [The Passion of Lovers](https://open.spotify.com/track/3BnW7igjh4qezy645pckgX) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/378ahhobt690RQEsyD8DaK) | 3:52 | 2021-10-15 | 2022-07-29 |

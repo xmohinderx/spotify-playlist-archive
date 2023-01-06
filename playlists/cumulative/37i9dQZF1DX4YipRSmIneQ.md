@@ -4,7 +4,7 @@
 
 > Turn anywhere into a sweaty club with tracks selected by Charli XCX 😈 \#NYE2022
 
-246 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
+246 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

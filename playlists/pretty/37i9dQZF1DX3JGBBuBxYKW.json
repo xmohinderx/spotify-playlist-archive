@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 78242,
+  "num_followers": 78271,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDZlNWVkY2JlZWUxMzllN2FmY2M5NTVlZmI5ZjBlN2Jk",
+  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDg2YjMxMjhkNjk3ZTU4NmRlNWIyNTA5OGM3NzRkMGQ1",
   "tracks": [
     {
       "added_at": "2022-12-02 03:00:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Nunca Es Suficiente",
-        "url": "https://open.spotify.com/album/2MklkALAfaelRjcEzQ8jaq"
-      },
-      "artists": [
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        },
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 256052,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/4MT6VBDcFQzcrXwjDv7GYk"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "Ten\u00edas Que Ser T\u00fa",
         "url": "https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 141829,
       "name": "Ten\u00edas Que Ser T\u00fa",
       "url": "https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "Nunca Es Suficiente",
+        "url": "https://open.spotify.com/album/2MklkALAfaelRjcEzQ8jaq"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 256052,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/4MT6VBDcFQzcrXwjDv7GYk"
     },
     {
       "added_at": "2022-12-02 03:00:00",

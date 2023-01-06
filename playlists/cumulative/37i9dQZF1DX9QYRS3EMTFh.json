@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Jahyanai",
+  "description": "Les hits dancehall du moment. Photo : Popcaan",
   "name": "Dancehall Station",
-  "published_playlist_ids": [
-    "5EUHHXJOLrkgmRGE7o9Fvs"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,7 +38,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 160584,
       "name": "6ex In The Morning",
       "url": "https://open.spotify.com/track/1nwNvEXXoKKmJCpQDtXdkC"
@@ -249,7 +246,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 161129,
       "name": "BAD GYAL CELLOPHANE",
       "url": "https://open.spotify.com/track/4syPUuHXu13HWYZmBMK6tJ"
@@ -894,6 +891,28 @@
     },
     {
       "album": {
+        "name": "Dem Fear We",
+        "url": "https://open.spotify.com/album/0Rhqlf4jseRmQqT5neGs9g"
+      },
+      "artists": [
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        },
+        {
+          "name": "Twinkle Brain",
+          "url": "https://open.spotify.com/artist/4YUUAPnIuLhAFMuOvt7XfL"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172713,
+      "name": "Dem Fear WE",
+      "url": "https://open.spotify.com/track/7GW1ObEMhFzGIlEmNPjt74"
+    },
+    {
+      "album": {
         "name": "Don Dadda",
         "url": "https://open.spotify.com/album/3dDGAjup8cc6F4Kx6VxzjE"
       },
@@ -913,6 +932,24 @@
       "duration_ms": 129795,
       "name": "Don Dadda",
       "url": "https://open.spotify.com/track/211zeYpya3uYHNlFzTKc9v"
+    },
+    {
+      "album": {
+        "name": "Don't You Worry",
+        "url": "https://open.spotify.com/album/6A3mSmmxvWkuh22WQZ9Fzo"
+      },
+      "artists": [
+        {
+          "name": "Tiwony",
+          "url": "https://open.spotify.com/artist/6hHVAKBvEYH2fVGqxwvPXB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156203,
+      "name": "Don't You Worry",
+      "url": "https://open.spotify.com/track/6qpkuuZusQXYIEg8PYvhkR"
     },
     {
       "album": {
@@ -2051,7 +2088,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 185191,
       "name": "Live Some Life (feat. DING DONG)",
       "url": "https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj"
@@ -2221,6 +2258,32 @@
       "duration_ms": 157293,
       "name": "Medusa - West Indies Remix",
       "url": "https://open.spotify.com/track/4U3vSywHIpTC5G4g7FzPYb"
+    },
+    {
+      "album": {
+        "name": "Met enkor",
+        "url": "https://open.spotify.com/album/5IE2NOmpTEGMTQticPw3ZE"
+      },
+      "artists": [
+        {
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
+        },
+        {
+          "name": "MCBOX",
+          "url": "https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5"
+        },
+        {
+          "name": "St Unit",
+          "url": "https://open.spotify.com/artist/3ZgxAwvBnX0CSGmeFWCuQU"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131947,
+      "name": "Met enkor",
+      "url": "https://open.spotify.com/track/1hBaMtwb84WYuIzf1e7SNk"
     },
     {
       "album": {
@@ -3279,7 +3342,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 205333,
       "name": "So Me Stay",
       "url": "https://open.spotify.com/track/7uQMZflowxzc7S1XM7KXIF"
@@ -3771,6 +3834,28 @@
       "duration_ms": 160085,
       "name": "Wah Gwaan Mad Head",
       "url": "https://open.spotify.com/track/5bgkyfJDDw6QkoKLerBJIs"
+    },
+    {
+      "album": {
+        "name": "We Caa Done (feat. Drake)",
+        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "We Caa Done (feat. Drake)",
+      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 76544,
+  "num_followers": 76851,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDJkYzNiYzliY2JkNTcwNTI5MTE1ZGQ2MzM4YjY5ODk3",
+  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDY0NDY0OTFkMWJhMTc1N2ZjMDU1YTZmNjUzN2QwZjhl",
   "tracks": [
     {
       "added_at": "2022-10-07 08:10:31",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/4eDKBINPlkkrz4AkZhx42I"
-      },
-      "artists": [
-        {
-          "name": "Gazebo",
-          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
-        }
-      ],
-      "duration_ms": 291720,
-      "name": "I Like Chopin",
-      "url": "https://open.spotify.com/track/2FHnN5ELL83TGbtXMDzoiJ"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Better Than Heaven",
         "url": "https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 239693,
       "name": "Two of Hearts",
       "url": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/4eDKBINPlkkrz4AkZhx42I"
+      },
+      "artists": [
+        {
+          "name": "Gazebo",
+          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
+        }
+      ],
+      "duration_ms": 291720,
+      "name": "I Like Chopin",
+      "url": "https://open.spotify.com/track/2FHnN5ELL83TGbtXMDzoiJ"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+        "name": "I Need You Tonight / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
       "artists": [
         {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+          "name": "Punkin Machine",
+          "url": "https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK"
         }
       ],
-      "duration_ms": 585374,
-      "name": "Supernature",
-      "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"
+      "duration_ms": 338844,
+      "name": "I Need You Tonight",
+      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -227,22 +227,18 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
         }
       ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+      "duration_ms": 585374,
+      "name": "Supernature",
+      "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -271,50 +267,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "I Need You Tonight / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
       "artists": [
         {
-          "name": "Punkin Machine",
-          "url": "https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK"
-        }
-      ],
-      "duration_ms": 338844,
-      "name": "I Need You Tonight",
-      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
-      },
-      "artists": [
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
         {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
         }
       ],
-      "duration_ms": 462000,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
-      },
-      "artists": [
-        {
-          "name": "Plustwo",
-          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
-        }
-      ],
-      "duration_ms": 231691,
-      "name": "Melody (1983 Radio Version)",
-      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -331,6 +299,22 @@
       "duration_ms": 369084,
       "name": "Hypnotic Tango - Original 12\" Version",
       "url": "https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
+      },
+      "artists": [
+        {
+          "name": "Plustwo",
+          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
+        }
+      ],
+      "duration_ms": 231691,
+      "name": "Melody (1983 Radio Version)",
+      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -403,6 +387,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "Io Fuori",
+        "url": "https://open.spotify.com/album/2vxXavw8SrYsHR707Novja"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "duration_ms": 349462,
+      "name": "Ti voglio",
+      "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Barbara e altri Carella",
         "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
       },
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Nuova Napoli",
         "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 263508,
       "name": "Disco Sole",
       "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "Io Fuori",
-        "url": "https://open.spotify.com/album/2vxXavw8SrYsHR707Novja"
-      },
-      "artists": [
-        {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
-        }
-      ],
-      "duration_ms": 349462,
-      "name": "Ti voglio",
-      "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "Disco Fizz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk"
+      },
+      "artists": [
+        {
+          "name": "Azoto",
+          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "San Salvador - Single Version",
+      "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -811,38 +827,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Disco Fizz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk"
-      },
-      "artists": [
-        {
-          "name": "Azoto",
-          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "San Salvador - Single Version",
-      "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
-      },
-      "artists": [
-        {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Happy Song(Clap Your Hands) (Remix)",
-      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "\u00c7a Va? Je t'aime! (Feat. EMMANUELLE)",
         "url": "https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 208194,
       "name": "\u00c7a va? Je t\u2019aime! (feat. EMMANUELLE)",
       "url": "https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Happy Song(Clap Your Hands) (Remix)",
+      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Italo Disco Vol. 2",
-        "url": "https://open.spotify.com/album/1Akyh6zkWizFkp101VjwTK"
-      },
-      "artists": [
-        {
-          "name": "Gang",
-          "url": "https://open.spotify.com/artist/6w6I1RM8AvngUMogImmkxj"
-        }
-      ],
-      "duration_ms": 313813,
-      "name": "KKK",
-      "url": "https://open.spotify.com/track/0exbk0My19GkSkpsz2SHqv"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Baby I Love You (Original) - Single",
         "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 503920,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Italo Disco Vol. 2",
+        "url": "https://open.spotify.com/album/1Akyh6zkWizFkp101VjwTK"
+      },
+      "artists": [
+        {
+          "name": "Gang",
+          "url": "https://open.spotify.com/artist/6w6I1RM8AvngUMogImmkxj"
+        }
+      ],
+      "duration_ms": 313813,
+      "name": "KKK",
+      "url": "https://open.spotify.com/track/0exbk0My19GkSkpsz2SHqv"
     },
     {
       "added_at": "2022-10-07 08:10:31",

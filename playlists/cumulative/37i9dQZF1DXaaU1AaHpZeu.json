@@ -2,10 +2,29 @@
   "date_first_scraped": "2022-03-28",
   "description": "Nuevos hallazgos de m\u00fasica indie latina. En portada: Alice Wonder.",
   "name": "Novedades Indie",
-  "published_playlist_ids": [
-    "4uzGNQNgXu38vLEswPLS4u"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "#kiero",
+        "url": "https://open.spotify.com/album/6yleLldHHyxeqTlII0DCPK"
+      },
+      "artists": [
+        {
+          "name": "Carlo Frio",
+          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
+        },
+        {
+          "name": "naxito j\u00fceves",
+          "url": "https://open.spotify.com/artist/38y63ICG47Pee4vUkYlSET"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "#kiero",
+      "url": "https://open.spotify.com/track/1xKeZ81xueH3YDv6UYomhK"
+    },
     {
       "album": {
         "name": "(Ne) 3s\u00b23p\u2074",
@@ -1789,7 +1808,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 244285,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/15mhJMc37ieKLLlirEyojq"
@@ -5777,7 +5796,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 211376,
       "name": "CONTIGO.",
       "url": "https://open.spotify.com/track/39Y3GUoS7hUIz3saZSe5Jq"
@@ -7173,7 +7192,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 228146,
       "name": "Desconf\u00eda",
       "url": "https://open.spotify.com/track/4g5E2lrh7pqczz59XCeeyn"
@@ -8504,6 +8523,24 @@
     },
     {
       "album": {
+        "name": "El D\u00eda Antes del D\u00eda",
+        "url": "https://open.spotify.com/album/5UqN58jW4i5hndRBlmcXAg"
+      },
+      "artists": [
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212886,
+      "name": "El D\u00eda Antes del D\u00eda",
+      "url": "https://open.spotify.com/track/18axCHKPFXf34au5APxdIR"
+    },
+    {
+      "album": {
         "name": "El Filo",
         "url": "https://open.spotify.com/album/1tkwoKIguJgIHw1WD4v52O"
       },
@@ -9131,6 +9168,24 @@
       "duration_ms": 173851,
       "name": "En el T\u00fanel de Lavado",
       "url": "https://open.spotify.com/track/3BWzuRqg7c9pIP0YannCIm"
+    },
+    {
+      "album": {
+        "name": "En esta ruina",
+        "url": "https://open.spotify.com/album/1sZobESHt5lSRZwC1AJBAq"
+      },
+      "artists": [
+        {
+          "name": "Verm\u00fa",
+          "url": "https://open.spotify.com/artist/7cXnpdXUUN67Vr3niD2dAi"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249753,
+      "name": "En esta ruina",
+      "url": "https://open.spotify.com/track/7rAdCWFKgogADC9j6yePe3"
     },
     {
       "album": {
@@ -10627,7 +10682,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 253288,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/1OAvXFENwTeB57HdbkVCni"
@@ -12938,6 +12993,24 @@
     },
     {
       "album": {
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/6dJj5TF606M4PxjOo8tk1t"
+      },
+      "artists": [
+        {
+          "name": "PELIGRO!",
+          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256974,
+      "name": "La Ciudad",
+      "url": "https://open.spotify.com/track/571JV3OrWg5HZEuGDdxNq7"
+    },
+    {
+      "album": {
         "name": "La Ciudad Es un Monstruo Que Devora",
         "url": "https://open.spotify.com/album/6qqfdoFCv3Q7Sb5PZww0cs"
       },
@@ -13359,6 +13432,24 @@
       "duration_ms": 189626,
       "name": "La Gran Mentira",
       "url": "https://open.spotify.com/track/3DC7x0HaLFePvHnMFGzusQ"
+    },
+    {
+      "album": {
+        "name": "La gran novela rusa",
+        "url": "https://open.spotify.com/album/7rfy7xEcqjfZpH9xvZagQm"
+      },
+      "artists": [
+        {
+          "name": "Alessio Arena",
+          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "La gran novela rusa",
+      "url": "https://open.spotify.com/track/0C5i4fqpqPPK0a2ypcdQSY"
     },
     {
       "album": {
@@ -14351,7 +14442,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 134636,
       "name": "Las Zarzas",
       "url": "https://open.spotify.com/track/64Rnf31Ma32xvYFl0i6jwq"
@@ -21077,7 +21168,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 221381,
       "name": "Para cenar",
       "url": "https://open.spotify.com/track/7vJgPTBxooGDJ8U6b4JtUE"
@@ -24566,6 +24657,32 @@
     },
     {
       "album": {
+        "name": "Si no es contigo (feat. Rafa Val)",
+        "url": "https://open.spotify.com/album/0qE1KDzIhHwsTho0bZZ0SA"
+      },
+      "artists": [
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
+        },
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        },
+        {
+          "name": "Rafa Val",
+          "url": "https://open.spotify.com/artist/7bEns7IOYnUg5lRDk74F3F"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199526,
+      "name": "Si no es contigo (feat. Rafa Val)",
+      "url": "https://open.spotify.com/track/2daEY7bqARD03KqUxRNdRn"
+    },
+    {
+      "album": {
         "name": "Si no es muy tarde",
         "url": "https://open.spotify.com/album/65rezM8mnA0svYHgyRcBzb"
       },
@@ -25471,7 +25588,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 149508,
       "name": "SOLTERA",
       "url": "https://open.spotify.com/track/1CdmDgAWvZRdCQlnXqhzCj"
@@ -29983,6 +30100,28 @@
       "duration_ms": 205894,
       "name": "Ya no quiero estar sin ti",
       "url": "https://open.spotify.com/track/4MmveP1mjgOiH1nE4GNCSd"
+    },
+    {
+      "album": {
+        "name": "Ya No Te Quiero",
+        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
+      },
+      "artists": [
+        {
+          "name": "Hija de Rojo",
+          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
+        },
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197566,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
     },
     {
       "album": {

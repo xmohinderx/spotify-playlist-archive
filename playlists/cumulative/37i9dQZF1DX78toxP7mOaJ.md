@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from Fresh Finds Rock this year\. Cover: Gretyl Hänlyn \#SpotifyWrapped
 
-660 songs - 1 day 12 hr 21 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+660 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

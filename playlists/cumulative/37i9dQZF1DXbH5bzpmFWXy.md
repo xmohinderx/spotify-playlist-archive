@@ -4,7 +4,7 @@
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Eme MalaFe & Jorge Carmona en portada.
 
-197 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/2tqsxTYWGTldl03rJgOBmK)
+197 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

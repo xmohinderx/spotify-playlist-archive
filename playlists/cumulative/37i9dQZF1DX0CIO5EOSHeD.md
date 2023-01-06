@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: d4vd
 
-336 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+336 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Seaface](https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 3:39 | 2021-09-24 |  |
 | [Self Aware](https://open.spotify.com/track/4D7eFxcPYWqHQ7iyD2oiDp) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Self Aware](https://open.spotify.com/album/1sMcnA8gffc6mlU2Ez7ynd) | 4:46 | 2020-10-27\* | 2020-10-30 |
 | [Semolina](https://open.spotify.com/track/6vjz5weAmyNgRWdLE6TKln) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [Semolina](https://open.spotify.com/album/6nX8TqbKoYgrjWui1j6QEx) | 3:28 | 2020-10-27\* | 2022-07-29 |
-| [Shame](https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Shame](https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L) | 4:57 | 2022-03-30 |  |
+| [Shame](https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Shame](https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L) | 4:57 | 2022-03-30 | 2023-01-06 |
 | [She'll Play Heck](https://open.spotify.com/track/6LoWmFCmGYEyz5BRsEv9SF) | [VALA](https://open.spotify.com/artist/26tcWRMjTwUJks8fvo4JIs) | [She'll Play Heck](https://open.spotify.com/album/6xyJE3ChVeKIKSJBL8qCrR) | 3:35 | 2020-10-30 | 2022-07-09 |
 | [Sink In](https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Sink In](https://open.spotify.com/album/4B96zJ2Iam0bCgntIJEO6E) | 3:57 | 2021-05-21 | 2022-04-20 |
 | [Sinking](https://open.spotify.com/track/4Z4dOZKs9rQuhuSSlLGY99) | [Lazy Days](https://open.spotify.com/artist/5FGn2Rme0MBoLoWvh6zKp7) | [Sinking](https://open.spotify.com/album/3jHCMgLxcachy9KxKabFSC) | 1:48 | 2021-04-02 | 2022-04-21 |
@@ -289,7 +289,7 @@
 | [Spring Lovers](https://open.spotify.com/track/32HzGTnuDjLjyQuwrN530Y) | [Davide Perico](https://open.spotify.com/artist/2HieRZlSa2pQdRBWVN5CqT), [Yoshimitsu4432](https://open.spotify.com/artist/5PZuA5drLPCsRKsVldf7Th) | [Spring Lovers](https://open.spotify.com/album/7uoUO2tuWNyi0hWebcIltV) | 2:05 | 2021-07-30 | 2022-07-14 |
 | [stay](https://open.spotify.com/track/23uag9bcLig9W06gC4U8XD) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [dead2me](https://open.spotify.com/album/6N4nVJcTKMRIvYSLoL5Tx2) | 2:38 | 2021-11-26 | 2022-07-28 |
 | [Stray Fantasies](https://open.spotify.com/track/7oxl6743zINo2goOSRBnrM) | [Mint Julep](https://open.spotify.com/artist/60xrFrkTS0lvRRpbS1cpnr) | [Stray Fantasies](https://open.spotify.com/album/3Sa6zvka2JPNFU5B6DPdyI) | 3:13 | 2022-03-30 | 2022-04-20 |
-| [sugar ray](https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 4:03 | 2021-08-11 | 2022-12-22 |
+| [sugar ray](https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 4:03 | 2021-08-11 |  |
 | [Summer Something](https://open.spotify.com/track/6ysAK8JrtZE9TmgBZs3A60) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Fun Times](https://open.spotify.com/album/4L5kYzcAbu4AcXoUL4FRPg) | 3:14 | 2022-03-30 | 2022-10-13 |
 | [Summer Something](https://open.spotify.com/track/707q7i5koucX2YSs6vR5pk) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Summer Something](https://open.spotify.com/album/7HYvEPOj7atMKoEBQgVtbj) | 3:14 | 2020-10-30 | 2022-07-29 |
 | [Sun Outside My Window](https://open.spotify.com/track/2N1KZRaNtW6amPcBKb31MV) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3glwsPmD4tuQ1k5Qnh7O6i) | 3:21 | 2021-09-16 | 2022-07-28 |

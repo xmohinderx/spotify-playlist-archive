@@ -4,7 +4,7 @@
 
 > Get into the spirit of New Orleans
 
-68 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/6oGduaavUNSqsgwL1C4cOy)
+68 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

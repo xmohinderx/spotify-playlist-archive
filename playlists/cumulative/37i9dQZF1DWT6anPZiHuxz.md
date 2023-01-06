@@ -4,7 +4,7 @@
 
 > Pick up the pace to energetic remixes.
 
-64 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/5dIpw3uEqybXhnEO66YlIn)
+64 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

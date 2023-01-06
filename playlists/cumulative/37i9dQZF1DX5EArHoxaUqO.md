@@ -4,7 +4,7 @@
 
 > Make bedtime dreamlike with original lullabies from Timbuktu, Mapei and Pontus Winngren, as well as the artists' personal favorite lullabies.
 
-32 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/1WjMWUQOKKw29fz69hwFQh)
+32 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

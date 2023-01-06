@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring dj\_dave
 
-498 songs - 1 day 4 hr 53 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+498 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A stress\-free, calming introduction to Mozart, perfect for relaxation, study, and all sorts of mindful activities.
 
-121 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/1i6fQOdypWqye6h2IcZJdg)
+121 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

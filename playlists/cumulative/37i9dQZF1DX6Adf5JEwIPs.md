@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Estilo Sin Limite
 
-1,734 songs - 3 day 19 hr 12 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
+1,734 songs - 3 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

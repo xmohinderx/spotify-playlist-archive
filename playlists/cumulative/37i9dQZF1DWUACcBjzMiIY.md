@@ -4,7 +4,7 @@
 
 > Easy listening for a pleasant drive.
 
-366 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/1d47Qc11bpmTvpUoDV1dDf)
+366 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

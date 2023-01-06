@@ -4,7 +4,7 @@
 
 > Self\-love is the best love, and just in time for the fall, Coco Jones took over our Heard You playlist and curated a few eps about leveling up internally, trusting the process and staying present along the way.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/5EWxaXNDUaXRyN4Phb6UoT)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-128 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/467x8DmD9jX6toG0U5jCPJ)
+128 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 | 2021-10-15 |  |
 | [Retina](https://open.spotify.com/track/4Dlf0expNuCNzBEL7yytZN) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Retina / Stay](https://open.spotify.com/album/0fvdyiNRkHyE8OhCLvfB9s) | 3:54 | 2021-10-15 | 2022-07-27 |
 | [Rolling Back](https://open.spotify.com/track/1WoBED8U50OSvX8HpfQlsC) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Rolling Back](https://open.spotify.com/album/7MsO7Vr2xArwu8TP7lAv5p) | 3:58 | 2021-10-15 |  |
-| [Run](https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Run](https://open.spotify.com/album/2jtCQJ5O8eQZWFrdOOjFVk) | 3:48 | 2021-10-15 |  |
+| [Run](https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Run](https://open.spotify.com/album/2jtCQJ5O8eQZWFrdOOjFVk) | 3:48 | 2021-10-15 | 2023-01-06 |
 | [Sacred](https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 5:47 | 2021-10-15 | 2022-09-29 |
 | [Sam Sam](https://open.spotify.com/track/32mQnFkAUENgNFJoxTebcP) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT) | [Time is A Gift Which We Share All The Time](https://open.spotify.com/album/3BzsH4g4BX3UuWy0cMa1uy) | 5:18 | 2021-10-15 | 2022-07-27 |
 | [Satori](https://open.spotify.com/track/66nJxPYKMrje2xs7vHnvKK) | [Hannah Fernando](https://open.spotify.com/artist/1pemw59Uf20tXE3i5eTBiY) | [Satori](https://open.spotify.com/album/4Sc18Uhrs8qltlOo6Vh6NJ) | 5:05 | 2021-10-15 | 2022-12-19 |
@@ -116,7 +116,7 @@
 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 | 2022-07-20 |  |
 | [Take Me There](https://open.spotify.com/track/4AjynDSkuGn4EZXjy5YYL4) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Take Me There](https://open.spotify.com/album/5BBKnHnAIuhup9rSQE3bYW) | 3:15 | 2021-10-15 | 2022-07-29 |
 | [Talking with Myself '98 \(Canny Remix\)](https://open.spotify.com/track/1mqgumZf8MUmNsy9tIWWI3) | [Electribe 101](https://open.spotify.com/artist/03E0TlGIGYR5G3vzkjGrtv) | [Talking With Myself \- Remixes](https://open.spotify.com/album/16vvi1guYbBkEhfqhbiSdF) | 7:03 | 2021-10-15 | 2022-07-24 |
-| [The Child](https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [You My Baby And I](https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U) | 4:34 | 2022-07-20 | 2022-12-02 |
+| [The Child](https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [You My Baby And I](https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U) | 4:34 | 2022-07-20 |  |
 | [The Message](https://open.spotify.com/track/3HszkoBsOy2VLTcznQ64qR) | [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [The Message](https://open.spotify.com/album/6vlFjrvRtqxXnKpSiNwzc1) | 4:06 | 2021-10-15 | 2022-07-29 |
 | [The Path](https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [The Path](https://open.spotify.com/album/0ElCHdddUAPJfRmNe7eWyo) | 3:12 | 2021-10-15 |  |
 | [The Sea](https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2) | 5:48 | 2022-07-20 |  |

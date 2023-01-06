@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/3byfICXn1tEvIDpgTYzeXx.md) - [plain]
 
 > \(Deep House /Slap House /G\-House &amp; More\) \| 2022
 
-[Light Night Group](https://open.spotify.com/user/2756pqybh1xeeaiqeg3e10b1a) - 2,676 likes - 154 songs - 7 hr 20 min
+[Light Night Group](https://open.spotify.com/user/2756pqybh1xeeaiqeg3e10b1a) - 2,677 likes - 154 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Close To You](https://open.spotify.com/track/7Jrkl9kRt7I3uBBZn27cS4) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW), [CXSMPX](https://open.spotify.com/artist/5Oqwobm3opos4qxXF5jLhA), [EVILDXER](https://open.spotify.com/artist/6mEaCmk5qUN3U83PzhpjqH) | [Close To You](https://open.spotify.com/album/71LCaos10f7D45Py2RJXRE) | 2:54 |
 | 2 | [ZUBii](https://open.spotify.com/track/6U4cJRInCKtf7QIOoV1E5v) | [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf), [SXTXNX](https://open.spotify.com/artist/3Aefga18e23rZnWsd7uAj3) | [ZUBii](https://open.spotify.com/album/1kRtPEyrnfCOJ4o6shIQJg) | 3:01 |
-| 3 | [SXL1D](https://open.spotify.com/track/2gKsPi7ToEZuHJU3BVq7IR) | [Dark Soul](https://open.spotify.com/artist/0Gluq0NmayHYSSsFGhR3dT) | [DARK SOUL](https://open.spotify.com/album/6D1Wr9VBg9OToagg3b7UGH) | 3:32 |
+| 3 | [Dark Soul](https://open.spotify.com/track/2gKsPi7ToEZuHJU3BVq7IR) | [SXL1D](https://open.spotify.com/artist/6D282eBXQJhuKhgikbRhde) | [DARK SOUL](https://open.spotify.com/album/6D1Wr9VBg9OToagg3b7UGH) | 3:32 |
 | 4 | [LXST](https://open.spotify.com/track/5j1SpMnZwf8EraQoT6T4NJ) | [Panzer](https://open.spotify.com/artist/3CCPoNaYvH1LPFSBbRGdrl) | [LXST](https://open.spotify.com/album/1dEGuq8hvss5ex5VJKW1hc) | 3:15 |
 | 5 | [Phonky Night](https://open.spotify.com/track/4DR4zkdQB1RMJ0L2KReHng) | [Meedas](https://open.spotify.com/artist/1HoX8acPD64hFvKMq59uwb), [SVVIENTS](https://open.spotify.com/artist/4U4UZ3Yd0pd3rLW6WGYWl3) | [Phonky Night](https://open.spotify.com/album/57PoP5gveez1TanoLuTHt6) | 2:01 |
 | 6 | [On Your Mind](https://open.spotify.com/track/18hKMuVXpgDQtNBvOjva0v) | [OTASH](https://open.spotify.com/artist/3lWH59JER2slR937o2bnvK), [Cammy](https://open.spotify.com/artist/2xDRGwHlHoOz2ilHqRsPC3), [Bahti](https://open.spotify.com/artist/5b7xNFMAoi598oJclqoR7G) | [On Your Mind](https://open.spotify.com/album/2w90dJoZqoD6XwsbzoReQM) | 2:21 |

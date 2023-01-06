@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\.  Cover: <a href="https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=xCx4Iw6eRwWSDCBpAtKEbQ">Pheelz</a>
 
-327 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/50Q1v3oZfufg8td6P4MbdJ)
+327 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

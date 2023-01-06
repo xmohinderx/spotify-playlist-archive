@@ -4,7 +4,7 @@
 
 > Instant classics from over the years loaded into one sweet mix.
 
-104 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/2w5UUsH9Gpe9iugGfQgWid)
+104 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-107 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/0bW7mkVBaXZxShK9P4GVHW)
+107 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

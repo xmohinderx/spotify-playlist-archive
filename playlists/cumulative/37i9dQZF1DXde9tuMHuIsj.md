@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Arcángel
 
-198 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
+198 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

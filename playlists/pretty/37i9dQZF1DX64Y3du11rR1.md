@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,094 likes - 115 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,240 likes - 115 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 13 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 |
 | 14 | [Say something \- Acoustic](https://open.spotify.com/track/3joOiBGjO4ExbXUQNxafN3) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:26 |
 | 15 | [Nights Like This \(Acoustic\)](https://open.spotify.com/track/5qmBaa3MtKuyKy79WTUaBo) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Nights Like This \(Acoustic\)](https://open.spotify.com/album/18mm5k1571gbV8zGOZu9f3) | 3:43 |
-| 16 | [Running Up That Hill](https://open.spotify.com/track/5WIZSelxfTnvPWFRGPNB5j) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Running Up That Hill](https://open.spotify.com/album/4fQDDND6AFBuHUGMIhWMNk) | 4:29 |
+| 16 | [Running Up That Hill](https://open.spotify.com/track/5EDaeu3f5G4FihamaJuqPt) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Running Up That Hill](https://open.spotify.com/album/4xpf8l2iDVN8N9FbMlUMNf) | 4:29 |
 | 17 | [The Reason](https://open.spotify.com/track/2B4TIqs4j2ra9BFM29Cqtc) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [The Reason](https://open.spotify.com/album/2H7qrK1uVtHiFx1q4Yh8Yf) | 2:59 |
 | 18 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 |
 | 19 | [We Found Love \- Acoustic](https://open.spotify.com/track/4qdLbr82uc46ZDr7pPsbR0) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [We Found Love \- Acoustic](https://open.spotify.com/album/0YuVbTUWFSxAPPQCGAat0u) | 2:37 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 114 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 |
 | 115 | [Giant](https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Giant](https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak) | 2:59 |
 
-Snapshot ID: `MTY3Mjg0NjMyMiwwMDAwMDAwMDBmYjJlMDI2MTEyNzE4ZDQ5NjIwMzM0ZDI2ZjJjMzgy`
+Snapshot ID: `MTY3Mjg0NjMyMiwwMDAwMDAwMDc5NmQ4ZmVhMDZmZjU0OTlkM2JkNDQ3MjBjNTA4ZWZk`

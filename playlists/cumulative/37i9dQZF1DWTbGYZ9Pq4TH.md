@@ -4,7 +4,7 @@
 
 > Le tracce italiane più romantiche di sempre.
 
-184 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/4xbXrPn6qPTl8i2Ptaki7A)
+184 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Listen to the women of the world at full volume. Cover: NewJeans",
-  "num_followers": 860805,
+  "num_followers": 860816,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMGFhMDk3ZGRiMzUzNmRkZjdhMThjOWM4MTIyODI5NzNh",
+  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMDk3ZjljMzRkYTc2OTk1ODkwYmE3MzlkMmE1MDMyOWNk",
   "tracks": [
     {
       "added_at": "2023-01-04 05:00:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
         "name": "Beautiful Christmas",
         "url": "https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 209800,
       "name": "Beautiful Christmas",
       "url": "https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "\u6c92\u6709\u95dc\u4fc2",
-        "url": "https://open.spotify.com/album/56TgG6JFlQHeQFMbXDg4Wt"
-      },
-      "artists": [
-        {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
-        }
-      ],
-      "duration_ms": 160208,
-      "name": "\u6c92\u6709\u95dc\u4fc2",
-      "url": "https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "Just a Crush Thing",
         "url": "https://open.spotify.com/album/3l2H3rjDgNCX4dizR3izOY"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 188130,
       "name": "Just a Crush Thing",
       "url": "https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "\u6c92\u6709\u95dc\u4fc2",
+        "url": "https://open.spotify.com/album/56TgG6JFlQHeQFMbXDg4Wt"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "duration_ms": 160208,
+      "name": "\u6c92\u6709\u95dc\u4fc2",
+      "url": "https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "heart attack",
-        "url": "https://open.spotify.com/album/1HEpoOySrZ7XMUCvLOZ0by"
-      },
-      "artists": [
-        {
-          "name": "bella amor",
-          "url": "https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M"
-        }
-      ],
-      "duration_ms": 182731,
-      "name": "heart attack",
-      "url": "https://open.spotify.com/track/4K3A14MMct4xoScHJK8oux"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "me and my big mouth",
         "url": "https://open.spotify.com/album/3GSXrqL19GsJQciZUcuy41"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 168000,
       "name": "me and my big mouth",
       "url": "https://open.spotify.com/track/6bAMtverQa0Aryho6wGmkV"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "heart attack",
+        "url": "https://open.spotify.com/album/1HEpoOySrZ7XMUCvLOZ0by"
+      },
+      "artists": [
+        {
+          "name": "bella amor",
+          "url": "https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M"
+        }
+      ],
+      "duration_ms": 182731,
+      "name": "heart attack",
+      "url": "https://open.spotify.com/track/4K3A14MMct4xoScHJK8oux"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "duration_ms": 193737,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
         "name": "Cat 13",
         "url": "https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 252955,
       "name": "Limits",
       "url": "https://open.spotify.com/track/1B0iOpkr5IojCDJZt5GAp4"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u"
-      },
-      "artists": [
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        }
-      ],
-      "duration_ms": 193737,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -799,6 +799,42 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
+        "name": "W pe\u0142ni",
+        "url": "https://open.spotify.com/album/10JDesyKB1eLBIvYQQiTvr"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        },
+        {
+          "name": "Foux",
+          "url": "https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "W pe\u0142ni",
+      "url": "https://open.spotify.com/track/3GGXj9c5D5JlxFEls441Co"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "kocham i t\u0119skni\u0119",
+        "url": "https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "przestrze\u0144",
+      "url": "https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
         "name": "Nh\u1eefng Ch\u00e0ng Trai Em T\u1eebng Y\u00eau",
         "url": "https://open.spotify.com/album/4dn9Aw2j0TZT81L51B1zha"
       },
@@ -855,22 +891,18 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "W pe\u0142ni",
-        "url": "https://open.spotify.com/album/10JDesyKB1eLBIvYQQiTvr"
+        "name": "criminal",
+        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
       },
       "artists": [
         {
-          "name": "Hania",
-          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
-        },
-        {
-          "name": "Foux",
-          "url": "https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7"
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
         }
       ],
-      "duration_ms": 240000,
-      "name": "W pe\u0142ni",
-      "url": "https://open.spotify.com/track/3GGXj9c5D5JlxFEls441Co"
+      "duration_ms": 157186,
+      "name": "criminal",
+      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -887,38 +919,6 @@
       "duration_ms": 207876,
       "name": "Visi\u00f3n Nocturna",
       "url": "https://open.spotify.com/track/6qHDY0nxwj0E9oHX9i9XMS"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
-        "name": "kocham i t\u0119skni\u0119",
-        "url": "https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2"
-      },
-      "artists": [
-        {
-          "name": "Zalia",
-          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "przestrze\u0144",
-      "url": "https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
-        "name": "criminal",
-        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "criminal",
-      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
+        "name": "Gigi",
+        "url": "https://open.spotify.com/album/0WnVwquHKlCPWJbZO9upzd"
+      },
+      "artists": [
+        {
+          "name": "Gwenji",
+          "url": "https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC"
+        }
+      ],
+      "duration_ms": 250992,
+      "name": "Gigi",
+      "url": "https://open.spotify.com/track/2iIk4RyJRWVa4l0t0fiQWs"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
         "name": "Takin\u2019 Over",
         "url": "https://open.spotify.com/album/34AT0v7uNXQAFNubd6Brk5"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 247698,
       "name": "MEDUSA",
       "url": "https://open.spotify.com/track/6DNVpkxyipnNdZG3cssL4t"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
-        "name": "Gigi",
-        "url": "https://open.spotify.com/album/0WnVwquHKlCPWJbZO9upzd"
-      },
-      "artists": [
-        {
-          "name": "Gwenji",
-          "url": "https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC"
-        }
-      ],
-      "duration_ms": 250992,
-      "name": "Gigi",
-      "url": "https://open.spotify.com/track/2iIk4RyJRWVa4l0t0fiQWs"
     },
     {
       "added_at": "2023-01-04 05:00:00",

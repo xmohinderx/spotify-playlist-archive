@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-57 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/0dZLSUN5pX03OUhjWfgaSX)
+57 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

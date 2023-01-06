@@ -4,7 +4,7 @@
 
 > The Corridos of yesterday and today all in one place!
 
-113 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/2TYEWDoYUvKWe0GHIXYiPN)
+113 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

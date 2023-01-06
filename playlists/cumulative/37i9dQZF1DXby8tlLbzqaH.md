@@ -4,7 +4,7 @@
 
 > White noise to help babies fall asleep.
 
-324 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/7qoKbaidM3PBelMTiPtTCs)
+324 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

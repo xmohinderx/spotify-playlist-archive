@@ -4,7 +4,7 @@
 
 > it was never just a phase
 
-159 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/7zNUe9tpLIHIO7lX9G9AtD)
+159 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [monday](https://open.spotify.com/track/0sAHHpXdFBarjfTsntW1ZP) | [LAYNE](https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV) | [monday](https://open.spotify.com/album/21HVZDrPonqu8iCIN5ntHj) | 2:51 | 2021-11-19 | 2022-07-29 |
 | [My Chemical Romance](https://open.spotify.com/track/1FnKqa450Xr7HXkHV1ILem) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [My Chemical Romance](https://open.spotify.com/album/4yLrnVfCQMliyjkQpvQOMk) | 2:54 | 2021-11-19 | 2022-07-26 |
 | [No Regrets](https://open.spotify.com/track/5pNv80GU7mNe9P4AgzeSKf) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Party At The Cemetery](https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ) | 2:08 | 2022-03-04 | 2022-05-26 |
-| [NO VANITY](https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 3:25 | 2021-11-19 | 2022-12-16 |
+| [NO VANITY](https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 3:25 | 2021-11-19 |  |
 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2021-11-19 |  |
 | [ONE LAST TIME](https://open.spotify.com/track/4awR8pzDR0LhSmDyoy5lAJ) | [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [ONE LAST TIME](https://open.spotify.com/album/63F1wUrRm2pB8OWXCpQjgU) | 2:36 | 2021-11-19 | 2022-07-24 |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2021-11-19 |  |
@@ -165,7 +165,7 @@
 | [You Make Nightmares Worth My While](https://open.spotify.com/track/6XaD9vPHMsKwoZzpDqgdpH) | [dying in designer](https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT) | [You Make Nightmares Worth My While](https://open.spotify.com/album/25TcgiaPnYca3HqgqPFpik) | 3:09 | 2021-11-19 | 2022-07-29 |
 | [You're So Fucking Pretty](https://open.spotify.com/track/2CQy2zQj9Cs7mRvPnxtHN4) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [You're So Fucking Pretty](https://open.spotify.com/album/3AP7UCAzrXif4SQQhxNUti) | 3:49 | 2022-02-04 | 2022-07-29 |
 | [You're So Fucking Pretty](https://open.spotify.com/track/2UzNrlJnzS5N0PDz2n2kwu) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:49 | 2022-08-16 | 2022-12-09 |
-| [{ The Dreamer’s Hotel }](https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:53 | 2022-03-04 |  |
+| [{ The Dreamer’s Hotel }](https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:53 | 2022-03-04 | 2023-01-06 |
 | [\~Cya Later\~](https://open.spotify.com/track/6Ua3hwMCkhRYgesV5kC9Rl) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Breakfast For Pathetics](https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo) | 3:20 | 2021-11-19 | 2022-05-23 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

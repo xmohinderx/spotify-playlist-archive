@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-563 songs - 2 day 9 hr 3 min - [published](https://open.spotify.com/playlist/5L4JSSwDi8JK1xvphQcxXZ)
+563 songs - 2 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

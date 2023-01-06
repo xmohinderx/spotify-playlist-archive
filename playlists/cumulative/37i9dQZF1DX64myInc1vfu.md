@@ -4,7 +4,7 @@
 
 > The new bolero era just for you\. Los boleritos de hoy\. Cover: Yoss Bones
 
-83 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/5UZ4yz4Aj8Ad6VH6oZVjkF)
+83 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

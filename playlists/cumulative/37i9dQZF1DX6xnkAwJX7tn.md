@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1980s.
 
-305 songs - 20 hr 58 min - [published](https://open.spotify.com/playlist/3kB1Lk0bVGYiyyetIIpGyo)
+305 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

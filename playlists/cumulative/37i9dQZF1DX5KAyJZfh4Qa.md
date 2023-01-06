@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ <a href="https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb?si=6rDzYCSkSrSbnfwH1WhERA">One Step Closer</a>
 
-79 songs - 4 hr 15 min - not published yet
+80 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Hollow](https://open.spotify.com/track/2UUw0f57ZMg6cYYkVrPvzr) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Hollow](https://open.spotify.com/album/2UlJQbQVnrqFNGtcO6ZLbw) | 4:10 | 2022-11-25 |  |
 | [I found a date for the holidays \(maybe\)](https://open.spotify.com/track/43KBew1XbpDRXTgZweVAoH) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [I found a date for the holidays \(maybe\)](https://open.spotify.com/album/5BT2nAqcagyoRFooZnr46L) | 2:42 | 2022-11-25 |  |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2022-11-25 |  |
+| [I Only Do Pushups When I'm Drunk \(Drinking Lonely\)](https://open.spotify.com/track/1BbHS0dJwAbMnAr8v1vRBN) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [I Only Do Pushups When I'm Drunk \(Drinking Lonely\)](https://open.spotify.com/album/0NpXwbOkxsnzVkRFuegkBU) | 3:44 | 2023-01-05 |  |
 | [If This is Sadness, I Don't Like It One Bit](https://open.spotify.com/track/3ttOAHJLXSoWRpN5oYLlRd) | [Mt\. Oriander](https://open.spotify.com/artist/2Kq6yQuA3lw7tMfUvPQYXo), [Joie De Vivre](https://open.spotify.com/artist/1sUOIv1YrZ2WRmTg0GRi0V), [Warren Franklin](https://open.spotify.com/artist/5ub2IP1YottOMHKb6ECb8b) | [Then the Lightness Leaves and I Become Heavy Again](https://open.spotify.com/album/7s5pO2fLBtRuSqY1SSm6lK) | 3:24 | 2022-11-25 |  |
 | [In the Back](https://open.spotify.com/track/1Na4m4y8hMRzQo73a5ORX2) | [Graduating Life](https://open.spotify.com/artist/314yGMWtZrRjWP5GwTlE2E) | [II](https://open.spotify.com/album/23PqAUIWD6N7FeSr8Nj2vC) | 3:42 | 2022-11-25 |  |
 | [Indigo](https://open.spotify.com/track/6dpAJk9DXHaS52JOzs54VI) | [Right On, Kid!](https://open.spotify.com/artist/16kT00HyL9NUbHSsOwn97h) | [Life is a Movie](https://open.spotify.com/album/4gZNKTkN3TeK9lFAaOk3Fd) | 2:56 | 2022-11-25 |  |
@@ -62,7 +63,7 @@
 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 | 2022-11-25 |  |
 | [Pursuit](https://open.spotify.com/track/0fvw7sVHFeK4KJ2sVtnhkM) | [Camp Trash](https://open.spotify.com/artist/217Q1QeePZbm3dMpwPgXK9) | [Pursuit](https://open.spotify.com/album/0SpkDAB9r9amnfcWaY9RSd) | 2:48 | 2022-11-25 |  |
 | [Quick to Change](https://open.spotify.com/track/0giMELEPXXuYjt8zNEfeHS) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Retirement Party](https://open.spotify.com/album/2RkRj6eJxTf9DTUf2VdIBL) | 3:46 | 2022-11-25 |  |
-| [Quitter](https://open.spotify.com/track/2zGcxwWJNdCSb3fd9RLOLg) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Quitter](https://open.spotify.com/album/0yMlzaVdHvftptlZ3E8Mor) | 3:02 | 2022-11-25 |  |
+| [Quitter](https://open.spotify.com/track/2zGcxwWJNdCSb3fd9RLOLg) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Quitter](https://open.spotify.com/album/0yMlzaVdHvftptlZ3E8Mor) | 3:02 | 2022-11-25 | 2023-01-06 |
 | [Real Life](https://open.spotify.com/track/4wGPKwafLV9d9DNzQN6sMN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me To Pieces](https://open.spotify.com/album/1ohT6MAJ9gIZtH4WwNHWWR) | 2:44 | 2022-11-25 |  |
 | [Really Big Shrimp](https://open.spotify.com/track/7I8HTkZlxAebopq8TuQrj2) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [See You in Chemistry](https://open.spotify.com/album/6UOPV8qxODA82L1pZAiNd1) | 4:23 | 2022-11-25 |  |
 | [Roxies and Cigarettes](https://open.spotify.com/track/2G1P7fzblRleUALoFmtJyD) | [Oolong](https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM) | [About Your Imaginary Friend](https://open.spotify.com/album/5D2FeA8bJy0VM7zT2vNGxo) | 3:55 | 2022-11-25 |  |

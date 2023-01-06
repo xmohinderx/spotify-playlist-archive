@@ -4,7 +4,7 @@
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-113 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/65Hv4SNB2AgNDDopmquTMX)
+113 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

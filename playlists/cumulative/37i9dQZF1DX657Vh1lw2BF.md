@@ -4,7 +4,7 @@
 
 > أفضل الاغاني العراقية\. الغلاف: ياسر عبدالوهاب و زيد الحبيب
 
-85 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/6qCoMQiIkaLI2EbjrFZXmX)
+85 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

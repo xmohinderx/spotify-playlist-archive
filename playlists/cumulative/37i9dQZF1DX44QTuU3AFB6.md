@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX44QTuU3AFB6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX44QTuU3AFB6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX44QTuU3AFB6)
 
-### [Pisteando Pa' El Año Nuevo](https://open.spotify.com/playlist/37i9dQZF1DX44QTuU3AFB6)
+### [Puras Pa' Pistear](https://open.spotify.com/playlist/37i9dQZF1DX44QTuU3AFB6)
 
-> ¡Rolas pa' pistear pa' las fiestas de año nuevo!
+> ¡Rolas pa' sacar las chelas y el tequila!
 
-433 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/3mH96VBLZkkGMsFsfItN5l)
+433 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

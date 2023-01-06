@@ -4,7 +4,7 @@
 
 > Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs \| シンセウェイヴ \| ретровейв.
 
-166 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/6Ue29HB0gI4bMizHZxTapf)
+166 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

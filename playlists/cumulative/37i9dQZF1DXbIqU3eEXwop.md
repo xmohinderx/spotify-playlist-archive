@@ -4,7 +4,7 @@
 
 > Les indispensables de l'été.
 
-50 songs - 2 hr 38 min - not published yet
+50 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

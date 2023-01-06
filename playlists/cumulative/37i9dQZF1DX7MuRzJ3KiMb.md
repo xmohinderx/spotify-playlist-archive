@@ -4,7 +4,7 @@
 
 > el amor es <3
 
-108 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/7dPiJaC0XHnK85wBeMmGkl)
+108 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

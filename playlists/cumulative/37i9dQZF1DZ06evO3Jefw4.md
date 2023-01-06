@@ -4,7 +4,7 @@
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/7eOOrfYynF6nY6sQsDirNV)
+69 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

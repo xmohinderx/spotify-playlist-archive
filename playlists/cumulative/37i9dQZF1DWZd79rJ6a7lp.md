@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-745 songs - 1 day 13 hr 36 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
+745 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

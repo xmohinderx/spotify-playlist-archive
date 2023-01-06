@@ -4,7 +4,7 @@
 
 > <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-67 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4KFliLiyOHO98s1YWCgllz)
+67 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

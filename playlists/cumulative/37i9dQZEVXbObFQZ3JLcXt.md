@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-356 songs - 21 hr 30 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
+356 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

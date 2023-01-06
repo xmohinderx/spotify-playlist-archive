@@ -4,7 +4,7 @@
 
 > My favourite tracks to harness your focus and push you to the limit in your next workout.
 
-59 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/046CnMbW6heH6DEk9pW3XA)
+59 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

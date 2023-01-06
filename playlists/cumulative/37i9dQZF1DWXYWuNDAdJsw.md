@@ -4,7 +4,7 @@
 
 > el nombre lo dice todo.
 
-130 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/61DjCGIvgLvfIb5LlJiMje)
+130 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Dance to the tunes from your favorite Netflix family\-friendly series and movies!
 
-51 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/5mK2jjXIUFXeFFX5xZHznk)
+51 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

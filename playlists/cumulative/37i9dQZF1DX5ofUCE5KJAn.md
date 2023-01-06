@@ -4,7 +4,7 @@
 
 > Un surtido rico de canciones con sabor a México.
 
-207 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/3w9XPamenrzfL5AFpcFjp7)
+207 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-307 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+307 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

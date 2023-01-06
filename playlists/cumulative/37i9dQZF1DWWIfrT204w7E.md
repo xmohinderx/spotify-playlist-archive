@@ -4,7 +4,7 @@
 
 > Drill scenes connect\. Cover: Central Cee
 
-402 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/7CePQXk9T7nhNQbo5PKUkn)
+402 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

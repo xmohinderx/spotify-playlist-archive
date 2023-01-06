@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-109 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/1TNQk9AULP0cVDpyMKbqiM)
+109 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

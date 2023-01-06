@@ -4,7 +4,7 @@
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-146 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/20QsOlIO3FqzjwD9fgzt9p)
+146 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

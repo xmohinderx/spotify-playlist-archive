@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-202 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/0gghZCgUDQvda6LW20JSdc)
+202 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

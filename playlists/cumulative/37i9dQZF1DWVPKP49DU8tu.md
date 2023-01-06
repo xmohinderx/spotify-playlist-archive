@@ -4,7 +4,7 @@
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-288 songs - 16 hr 52 min - [published](https://open.spotify.com/playlist/7vwlozfPhrdqcQCIU8qvES)
+288 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

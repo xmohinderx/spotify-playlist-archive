@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-265 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
+265 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

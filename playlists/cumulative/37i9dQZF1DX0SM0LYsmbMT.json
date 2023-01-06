@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
-  "published_playlist_ids": [
-    "4FZOsh0k87PdUUgkQvLPTB"
-  ],
   "tracks": [
     {
       "album": {
@@ -15081,7 +15078,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 124864,
       "name": "Dreamwalking",
       "url": "https://open.spotify.com/track/3SG29mgnB2tvy5lR8Qgtdk"
@@ -30705,6 +30702,28 @@
       "duration_ms": 128371,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/6McMsH1ooa83pySdkj4Kbi"
+    },
+    {
+      "album": {
+        "name": "Lazy Afternoon",
+        "url": "https://open.spotify.com/album/0C8QfkqqdfQf8dIpaa4KLd"
+      },
+      "artists": [
+        {
+          "name": "Marcos Caixa",
+          "url": "https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5"
+        },
+        {
+          "name": "3pmbeatz",
+          "url": "https://open.spotify.com/artist/4a3EaoH3UoVXC5Kt68AeMe"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Lazy Afternoon",
+      "url": "https://open.spotify.com/track/32r2k2nglVzoetLtsuyLK7"
     },
     {
       "album": {
@@ -52262,6 +52281,28 @@
     },
     {
       "album": {
+        "name": "Interplanetary",
+        "url": "https://open.spotify.com/album/4sqt9my6FZqGFZ941bdyOy"
+      },
+      "artists": [
+        {
+          "name": "Myr\u00edad",
+          "url": "https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Space Loneliness",
+      "url": "https://open.spotify.com/track/5kci1qV7mn8VeQh5uJFbj9"
+    },
+    {
+      "album": {
         "name": "Space Man",
         "url": "https://open.spotify.com/album/6gbNLoWhQdgeVMXP5FPSab"
       },
@@ -53315,7 +53356,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 96187,
       "name": "Stay True",
       "url": "https://open.spotify.com/track/1vXy8zHVAY4EIE4BUxIMAV"

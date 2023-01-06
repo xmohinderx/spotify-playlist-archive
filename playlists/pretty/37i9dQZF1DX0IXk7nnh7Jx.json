@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 43482,
+  "num_followers": 43496,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGNhNDVkNjNlNGRlOWUzNTM1ODYyOWY4MGZhMDg0NjRm",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGI0MzdiNjRjZThlNTc1MTJlYzg2MmJlMTNmZGNhY2Nl",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -391,6 +391,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
+      },
+      "artists": [
+        {
+          "name": "Jared Marc",
+          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Avalanche - Piano Version",
+      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Fractioned Heart",
         "url": "https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 298093,
       "name": "Communion",
       "url": "https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "VILLAIN",
-        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
-      },
-      "artists": [
-        {
-          "name": "Jared Marc",
-          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Avalanche - Piano Version",
-      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Zeal",
-        "url": "https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 183772,
-      "name": "A Little Bit of Faith",
-      "url": "https://open.spotify.com/track/3EW6m7ejAsPQklHPqvkOCI"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Closer Than a Brother",
         "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 309354,
       "name": "Closer Than a Brother",
       "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Zeal",
+        "url": "https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 183772,
+      "name": "A Little Bit of Faith",
+      "url": "https://open.spotify.com/track/3EW6m7ejAsPQklHPqvkOCI"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -687,6 +687,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Worth It All",
+        "url": "https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD"
+      },
+      "artists": [
+        {
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+        }
+      ],
+      "duration_ms": 217675,
+      "name": "Worth It All",
+      "url": "https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "A New Heart",
         "url": "https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Worth It All",
-        "url": "https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD"
+        "name": "The Road, The Rocks, and The Weeds",
+        "url": "https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle"
       },
       "artists": [
         {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
         }
       ],
-      "duration_ms": 217675,
-      "name": "Worth It All",
-      "url": "https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI"
+      "duration_ms": 215014,
+      "name": "The Road, The Rocks, and The Weeds",
+      "url": "https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -751,22 +767,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "The Road, The Rocks, and The Weeds",
-        "url": "https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 215014,
-      "name": "The Road, The Rocks, and The Weeds",
-      "url": "https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Magic in the Moment",
-        "url": "https://open.spotify.com/album/7EIeW01jBbDJDgfMEVIhi2"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "Magic in the Moment",
-      "url": "https://open.spotify.com/track/7uQ2MT9hkwys1psdwVuFL3"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Keeper of Days",
         "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 244270,
       "name": "Hiding Lord",
       "url": "https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Magic in the Moment",
+        "url": "https://open.spotify.com/album/7EIeW01jBbDJDgfMEVIhi2"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Magic in the Moment",
+      "url": "https://open.spotify.com/track/7uQ2MT9hkwys1psdwVuFL3"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -863,22 +863,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Wendigo",
-        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 261191,
-      "name": "Salome & Saint Procula",
-      "url": "https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "I Am One",
         "url": "https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Wendigo",
+        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 261191,
+      "name": "Salome & Saint Procula",
+      "url": "https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Leaving Shadowland",
-        "url": "https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE"
-      },
-      "artists": [
-        {
-          "name": "Seeker & Servant",
-          "url": "https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Where Would I Be",
-      "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 299333,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Leaving Shadowland",
+        "url": "https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE"
+      },
+      "artists": [
+        {
+          "name": "Seeker & Servant",
+          "url": "https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Where Would I Be",
+      "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"
     },
     {
       "added_at": "2020-12-18 06:02:14",

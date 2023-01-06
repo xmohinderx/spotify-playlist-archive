@@ -4,7 +4,7 @@
 
 > The soundtrack of the Summer 2022.
 
-127 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/3XVXu4Zxe1HRKq3lLQGhGA)
+127 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

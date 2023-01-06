@@ -4,7 +4,7 @@
 
 > La banda de sonido de tu día.
 
-222 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/6uKtZmuH4Vyq05i2Hozphj)
+222 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > I'd come back if you'd just call
 
-56 songs - 3 hr 47 min - not published yet
+56 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

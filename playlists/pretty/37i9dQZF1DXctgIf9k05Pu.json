@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 214797,
+  "num_followers": 214966,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDgxOGY4MjE4ZGExYWRmYzk4NzVmOTY0MzI1NDRkZWY2",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDI0Yjc5YzAwZjI3MmY1OWU1NjRmYmZkYTViNmZmNTkz",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "waking up in the park",
+        "url": "https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod"
+      },
+      "artists": [
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        }
+      ],
+      "duration_ms": 68571,
+      "name": "waking up in the park",
+      "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Day in Paris",
         "url": "https://open.spotify.com/album/71Xu2aatGYldckWmQHeYSF"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 157507,
       "name": "Who? (feat. Shiloh Dynasty)",
       "url": "https://open.spotify.com/track/1F0a3Au8NIpoRP7PVdO1YR"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "waking up in the park",
-        "url": "https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod"
-      },
-      "artists": [
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        }
-      ],
-      "duration_ms": 68571,
-      "name": "waking up in the park",
-      "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
     },
     {
       "added_at": "2022-02-02 00:21:48",

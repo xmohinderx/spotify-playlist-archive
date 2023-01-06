@@ -4,7 +4,7 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-115 songs - 7 hr 4 min - not published yet
+115 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- Brahmastra \- Kesariya, Raataan Lambiyan, Ranjha , Param Sundari, Shayad and more ft\. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood favourites only on this playlist!
 
-197 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/3m6HEtseDvxtZu3t98ztrI)
+197 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your favorite songs from Netflix movie musicals all in one playlist\. Cover: Matilda the Musical
 
-47 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/1ZDaUf6YIkjsIdmZKcFPrx)
+47 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

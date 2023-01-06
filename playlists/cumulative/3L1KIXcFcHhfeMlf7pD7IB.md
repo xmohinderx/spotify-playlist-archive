@@ -4,7 +4,7 @@
 
 > An epic event in the making\. You can not enjoy a Foam party without the perfect songs to get everyone jumping\. Turn it up and let the foam start flowing!
 
-67 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/1gSCktCzvR0lAFauUqIeky)
+67 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

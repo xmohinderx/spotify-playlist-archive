@@ -4,7 +4,7 @@
 
 > despacito que no llevamos prisa
 
-186 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/01F4jrZZjsWlaAtllI2OQa)
+186 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

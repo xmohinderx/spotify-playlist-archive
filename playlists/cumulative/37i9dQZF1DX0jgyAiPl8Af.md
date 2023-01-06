@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-511 songs - 22 hr 33 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+511 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

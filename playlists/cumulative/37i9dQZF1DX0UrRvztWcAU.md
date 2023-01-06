@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-506 songs - 1 day 4 hr 26 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
+506 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ?si=rywj2DAARMi5opK1c\-oHnQ"> Naira Marley </a>
 
-92 songs - 4 hr 28 min - not published yet
+92 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

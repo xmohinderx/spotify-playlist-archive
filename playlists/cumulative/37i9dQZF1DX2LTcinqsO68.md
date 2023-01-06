@@ -4,7 +4,7 @@
 
 > Like the old school sound of metal? Then you'll love this playlist! Cover: Iron Maiden
 
-210 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/1VmlLP0qiZZBktFrdHU5cj)
+210 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

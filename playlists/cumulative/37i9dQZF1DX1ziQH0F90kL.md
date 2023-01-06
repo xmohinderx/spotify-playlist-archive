@@ -4,7 +4,7 @@
 
 > The Reggaeton hits of yesterday and today.
 
-166 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/0BvnZTuHPpK851DFF0BmXZ)
+166 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

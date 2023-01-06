@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Elle King
 
-308 songs - 15 hr 42 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+310 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Beer Up](https://open.spotify.com/track/6oWSA5EQdY20ZfZCyvjMki) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Beer Up](https://open.spotify.com/album/2g75lQNQV0y74O23nk4Jm0) | 3:04 | 2022-03-11 | 2023-01-04 |
 | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/track/19gnMIMxiNbAYMaIVx1MJo) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [The Rest Of Us](https://open.spotify.com/album/2oRCvl75NjPMUuXAjhFRGG) | 2:57 | 2021-12-10 | 2022-01-08 |
 | [Behind](https://open.spotify.com/track/3u0UQ8hnA9eWkHgeYLPGEe) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Behind](https://open.spotify.com/album/18eV6taRZHwWvZLNg4sfhz) | 3:00 | 2021-12-10 |  |
+| [Bets On Us](https://open.spotify.com/track/1AZEKyJQKVucfisCqKO1Nk) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bets On Us](https://open.spotify.com/album/3n6nbKCoNMsSDBpzvEg1Q5) | 3:00 | 2023-01-06 |  |
 | [Better On Me](https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Better On Me](https://open.spotify.com/album/5iCiDUEYtamxT2KOTT22Gf) | 2:29 | 2021-12-10 |  |
 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 | 2022-11-04 |  |
 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 | 2022-02-18 |  |
@@ -115,6 +116,7 @@
 | [Get Low, Get High \(Part 2\) \(feat\. Jon Batiste & Michael Todd\)](https://open.spotify.com/track/7vV9b8mBZhw6eiCc80VOSb) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Michael Todd](https://open.spotify.com/artist/0DjXhpFVGNYlevPm7EGjrp) | [Get Low, Get High \(Part 2\) \(feat\. Jon Batiste & Michael Todd\)](https://open.spotify.com/album/5egAPl3SGfXZIW2dIzqDpo) | 3:38 | 2022-09-02 |  |
 | [Get That All The Time](https://open.spotify.com/track/1H8cSGqTzH2gfqNlsz4woQ) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Baytown](https://open.spotify.com/album/3Ij6h1an3zzaFqY7PnW0JX) | 2:58 | 2022-11-18 |  |
 | [Get That All The Time \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/3hfEwSKgFMMhZJBaPpR41e) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Get That All The Time \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/album/3nD5gS9oxfsp4JjpmcO41B) | 2:58 | 2021-12-10 | 2022-12-01 |
+| [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-01-06 |  |
 | [Goin' Through](https://open.spotify.com/track/13RHVbTpnVB5Kkf9H1RUx0) | [Nicky James](https://open.spotify.com/artist/3mMKcvOOK7XZAOZGuLFNAk) | [Goin' Through](https://open.spotify.com/album/6qWY2iv9jHsCRQNiBNqbAj) | 2:54 | 2021-12-10 | 2022-07-09 |
 | [Good Goodbye \(feat\. Jimmie Allen\)](https://open.spotify.com/track/5KcDw23a38rfHHI6Gdnedz) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Good Goodbye \(feat\. Jimmie Allen\)](https://open.spotify.com/album/0KJMKtgo6MQq9ypijW1sKE) | 3:03 | 2021-12-10 |  |
 | [Good Love](https://open.spotify.com/track/7awWHJGz3y1Ttvf4ugslKb) | [Matt Freedman](https://open.spotify.com/artist/5umTrwJc1kCpROdrQUQkNK) | [Good Love](https://open.spotify.com/album/6PCSw31b7LaKVYEOydUIXC) | 2:35 | 2021-12-10 |  |

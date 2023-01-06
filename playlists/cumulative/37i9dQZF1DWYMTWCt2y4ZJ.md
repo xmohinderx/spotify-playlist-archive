@@ -4,7 +4,7 @@
 
 > Bring in the new day.
 
-135 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/1HHwhvfbuBfWujgfAr4FRh)
+135 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

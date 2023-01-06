@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Ziza Fernandes
 
-79 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/1J3fnV789dttTCU7WX2Grj)
+79 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

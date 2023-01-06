@@ -4,7 +4,7 @@
 
 > Summer memories from yesteryear!
 
-143 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/7bza4DZB9dW08P4zWu1Br4)
+143 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

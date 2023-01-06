@@ -4,7 +4,7 @@
 
 > Celebrate one year of Spotify and PlayStation with the biggest tracks.
 
-100 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/7li6SFgQvIdjHK3QoD4iGk)
+100 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

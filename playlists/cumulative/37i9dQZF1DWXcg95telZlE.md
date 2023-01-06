@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-125 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/1rXcx4WvqwbQUqwLDBHKJH)
+125 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

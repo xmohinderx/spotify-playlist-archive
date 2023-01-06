@@ -4,7 +4,7 @@
 
 > Dale duro con los éxitos perreadores virales del momento.
 
-107 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/6afTdhqYBqZmHKd0ffMNVu)
+107 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

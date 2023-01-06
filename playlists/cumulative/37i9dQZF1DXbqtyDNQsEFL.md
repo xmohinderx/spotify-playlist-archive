@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit.
 
-116 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/1toGnroDshW8oBUaPKzsqs)
+116 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

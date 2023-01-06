@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\. Cover Bree Runway
 
-130 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/3rNvhNKvTStRZWbyFQOYN9)
+130 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

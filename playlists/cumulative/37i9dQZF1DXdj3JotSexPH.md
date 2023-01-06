@@ -4,7 +4,7 @@
 
 > It’s Gaming Time!
 
-557 songs - 1 day 7 hr 25 min - [published](https://open.spotify.com/playlist/45HD6b68H0Z3s4y0wGgOFQ)
+557 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

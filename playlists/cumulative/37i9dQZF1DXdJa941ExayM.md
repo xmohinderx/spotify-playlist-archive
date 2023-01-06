@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: 100 gecs
 
-193 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
+193 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández
 
-125 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/1Hm9a0lVPB1DfYDmLo3qLD)
+125 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

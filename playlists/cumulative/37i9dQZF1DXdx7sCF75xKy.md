@@ -4,7 +4,7 @@
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Bunga
 
-583 songs - 1 day 9 hr 44 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
+583 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

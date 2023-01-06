@@ -4,7 +4,7 @@
 
 > Take a world tour on the club floor\. <br/>Cover: DJ Swisha
 
-172 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/5QQpMPs6GIuzG9aq7Y4uCu)
+172 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

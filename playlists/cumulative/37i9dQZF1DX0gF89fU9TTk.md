@@ -4,7 +4,7 @@
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-166 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/3TGj756pi2TgmaL4E5mf1J)
+166 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

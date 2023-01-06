@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMDg0ODM1OWNjMWE4MDdmNzE5NTJhMTZmYzE3ZDNhMGNk",
+  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMDZjOGNmYmExY2UzMGQ5OTAwZjM3YmI4NzU4Y2ZmMDQx",
   "tracks": [
     {
       "added_at": "2022-06-15 19:48:26",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Double Fantasy",
-        "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "Beautiful Boy (Darling Boy) - Remastered 2010",
-      "url": "https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 394266,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "Beautiful Boy (Darling Boy) - Remastered 2010",
+      "url": "https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk"
     },
     {
       "added_at": "2022-06-09 16:13:45",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "At The Speed Of Life",
-        "url": "https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG"
-      },
-      "artists": [
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        }
-      ],
-      "duration_ms": 235400,
-      "name": "The Foundation",
-      "url": "https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Milestones- Greatest Hits",
         "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 209466,
       "name": "Daddy's Hands",
       "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "At The Speed Of Life",
+        "url": "https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG"
+      },
+      "artists": [
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "duration_ms": 235400,
+      "name": "The Foundation",
+      "url": "https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1"
     },
     {
       "added_at": "2022-06-09 16:13:45",

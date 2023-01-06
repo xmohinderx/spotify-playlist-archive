@@ -4,7 +4,7 @@
 
 > Classical tunes to make you feel good.
 
-73 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/6G3IZBkRRq0i7YKsVltwJR)
+73 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

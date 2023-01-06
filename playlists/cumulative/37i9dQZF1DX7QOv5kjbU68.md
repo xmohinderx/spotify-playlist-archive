@@ -4,7 +4,7 @@
 
 > Hear all of Drake's biggest and best hits in one playlist\. Thank us later.
 
-158 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/5AnQ0z6STXfEkrwXRImh3q)
+158 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

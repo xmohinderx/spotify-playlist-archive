@@ -4,7 +4,7 @@
 
 > Ring in the New Year with some perreo! 🔥
 
-131 songs - 7 hr 43 min - not published yet
+131 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

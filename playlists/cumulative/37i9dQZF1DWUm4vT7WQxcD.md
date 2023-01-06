@@ -4,7 +4,7 @@
 
 > Relax and unwind to the soothing hum of the electric fan.
 
-128 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/4GEj3v6pmG0SDKzDAfp6Wj)
+128 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

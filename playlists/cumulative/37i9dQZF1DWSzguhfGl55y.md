@@ -4,7 +4,7 @@
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-113 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/1NRRCoL4dsZRszrXPBTXqP)
+113 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

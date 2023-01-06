@@ -4,7 +4,7 @@
 
 > Estas son las indomables del Regional Mexicano\. Marisol Terrazas en portada.
 
-246 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/0i8T7w20lOXAWefxMbsjZ0)
+246 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

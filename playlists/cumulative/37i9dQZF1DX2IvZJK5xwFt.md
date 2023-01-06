@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-247 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
+247 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

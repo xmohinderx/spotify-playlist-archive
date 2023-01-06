@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Maggie Rogers.
 
-265 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
+265 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

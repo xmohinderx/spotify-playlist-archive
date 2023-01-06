@@ -4,7 +4,7 @@
 
 > The essential pop rock songs from the 2000s\. Cover: Kelly Clarkson.
 
-146 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/5K5umzcf3NGv3wuRSs39y0)
+146 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

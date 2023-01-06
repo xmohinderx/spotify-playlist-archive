@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-277 songs - 18 hr 25 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
+278 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Prohibida / Sin Ti Me Muero](https://open.spotify.com/track/39f9L4ZVgOF299uRlRhyet) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Prohibida / Sin Ti Me Muero](https://open.spotify.com/album/6daPSOKBhd307h2Pzlh25W) | 3:48 | 2022-01-14 | 2022-04-02 |
 | [Q' Tal](https://open.spotify.com/track/6KaxyYZhOU04b8IlJk7qOl) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Una Pasión](https://open.spotify.com/album/6yws1EOBYGXGK2kxgdUopP) | 3:10 | 2021-12-24 |  |
 | [Que Bonito](https://open.spotify.com/track/3XmpHN0jwCV1unk8ygs1Ku) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Los Verdugos De La Mufa](https://open.spotify.com/album/3LPgoY2iN8kCmKhXp16NuN) | 3:58 | 2021-12-24 |  |
+| [Que Cachetada](https://open.spotify.com/track/13TKoueAGRnaFfTQLkH0Nk) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm) | [Que Cachetada](https://open.spotify.com/album/2pVRpxW6PwYV6swnFufOKS) | 3:10 | 2023-01-06 |  |
 | [Que Ironia](https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:11 | 2021-12-24 |  |
 | [Que No Le Hago Falta](https://open.spotify.com/track/0Loq4vKgTxRdQqT4fJIk8I) | [El Rejunte](https://open.spotify.com/artist/72tGvtaVlYb6MDEc486udG) | [Que No Le Hago Falta](https://open.spotify.com/album/2vHCWKaLfUxtlVU35XHo7H) | 4:16 | 2021-12-24 |  |
 | [Que Te Olvide](https://open.spotify.com/track/7gOtGWLuClM1P9L2tXq9BG) | [El Ramy](https://open.spotify.com/artist/71GI3crYM00yVUTgsyfcgt), [El Turco Julio](https://open.spotify.com/artist/4EMjageaWU23LtyVfVjVW1), [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Que Te Olvide](https://open.spotify.com/album/7v89rqv4mitRs99q08Fa4M) | 4:11 | 2022-01-07 | 2022-05-29 |
@@ -268,7 +269,7 @@
 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz) | [Banda Registrada](https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA) | [Ni Lo Pienses](https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y) | 4:14 | 2021-12-24 |  |
 | [Ven](https://open.spotify.com/track/3axliHUavA0Qj6AIywW7Da) | [La Zurda Cuartetera](https://open.spotify.com/artist/6EXCBQQwljseAZdJOoW54H) | [Ven](https://open.spotify.com/album/3gsz5gaSjXtEaKzmmLkMbO) | 3:27 | 2022-01-14 | 2022-04-19 |
 | [Vicio](https://open.spotify.com/track/4avWPQJolmD6y5FvgGvMfK) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Vicio](https://open.spotify.com/album/25XUWGcDwEpHZQWVclRWTK) | 3:07 | 2022-10-07 | 2022-10-29 |
-| [Violeta \- En Vivo](https://open.spotify.com/track/1P9e8yl4rjXHOXbKisiQnk) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Homenaje al Cuarteto \(En Vivo\)](https://open.spotify.com/album/1pUilOVG5oNszWZ0KiXgEC) | 1:08 | 2022-06-17 |  |
+| [Violeta \- En Vivo](https://open.spotify.com/track/1P9e8yl4rjXHOXbKisiQnk) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Homenaje al Cuarteto \(En Vivo\)](https://open.spotify.com/album/1pUilOVG5oNszWZ0KiXgEC) | 1:08 | 2022-06-17 | 2023-01-06 |
 | [Viuda a los 20](https://open.spotify.com/track/0dXehysNVTVWkBVxfVkUh9) | [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [Un Sueño Hecho Realidad](https://open.spotify.com/album/5QTCqQJpABAHRghnawZP7p) | 3:11 | 2021-12-24 |  |
 | [Volverte a Amar](https://open.spotify.com/track/7ja61puQjfwINZNVjKC1Iw) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Volverte a Amar](https://open.spotify.com/album/2rweJcXr6E2FiWDJKnsqIF) | 2:57 | 2022-11-11 | 2022-12-24 |
 | [Volverás a mi cama](https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm), [Fabián Show](https://open.spotify.com/artist/0RKPB7jsjhvfa18hkcOGjH) | [Volverás a mi cama](https://open.spotify.com/album/2iXgt6xMsk1NWyZxiAbBTV) | 3:12 | 2022-01-07 |  |

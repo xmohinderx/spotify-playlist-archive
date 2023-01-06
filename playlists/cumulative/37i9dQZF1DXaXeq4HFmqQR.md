@@ -4,7 +4,7 @@
 
 > Escucha a Nicole y a más mujeres a todo volumen\. Dales PLAY, dales POWER.
 
-492 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/5O6RaXdE1dTLivRrg9kWmW)
+492 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

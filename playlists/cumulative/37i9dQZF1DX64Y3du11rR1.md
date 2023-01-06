@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-151 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
+152 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 | 2022-05-04 |  |
 | [Purple Rain \- Acoustic](https://open.spotify.com/track/0Q8N95kdGOqE6cWTDRvbms) | [Ben Haenow](https://open.spotify.com/artist/2eHEzcBykQCBbtWvYLjHHE) | [Purple Rain \(Acoustic\)](https://open.spotify.com/album/2BFuY60RmwJyNYP9w3QR9t) | 4:03 | 2021-12-22 | 2022-11-19 |
 | [Rise](https://open.spotify.com/track/1nsn93tZ1aUhsEbNETgkvH) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Rise](https://open.spotify.com/album/1751wnl8603VRyhfuLVw35) | 3:50 | 2021-12-22 |  |
-| [Running Up That Hill](https://open.spotify.com/track/5WIZSelxfTnvPWFRGPNB5j) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Running Up That Hill](https://open.spotify.com/album/4fQDDND6AFBuHUGMIhWMNk) | 4:29 | 2022-08-12 |  |
+| [Running Up That Hill](https://open.spotify.com/track/5EDaeu3f5G4FihamaJuqPt) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Running Up That Hill](https://open.spotify.com/album/4xpf8l2iDVN8N9FbMlUMNf) | 4:29 | 2023-01-04 |  |
+| [Running Up That Hill](https://open.spotify.com/track/5WIZSelxfTnvPWFRGPNB5j) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Running Up That Hill](https://open.spotify.com/album/4fQDDND6AFBuHUGMIhWMNk) | 4:29 | 2022-08-12 | 2023-01-06 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/5s2A2CYNeRSp379JtKtfpJ) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/2OyfcBAVswYBcs4ewN8MMq) | 3:21 | 2022-08-12 | 2022-10-01 |
 | [Save Your Tears \- Acoustic](https://open.spotify.com/track/5LuSu8fS8PGCH88EDPLYcy) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Save Your Tears \(Acoustic\)](https://open.spotify.com/album/7Hl0Vq5KSaX8o0yNYZCGm9) | 2:57 | 2022-08-12 |  |
 | [Say something \- Acoustic](https://open.spotify.com/track/3joOiBGjO4ExbXUQNxafN3) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:26 | 2022-10-13 |  |

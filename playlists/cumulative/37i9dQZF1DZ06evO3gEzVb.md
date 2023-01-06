@@ -4,7 +4,7 @@
 
 > This is Daddy Lumba\. The essential tracks, all in one playlist.
 
-54 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/4ZgERGnq6QOKTxmLecboD4)
+54 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-611 songs - 1 day 8 hr 25 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+611 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Bluffin](https://open.spotify.com/track/2Cyow8nZDqP9tolduIf2KX) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Bluffin](https://open.spotify.com/album/5V90vPXC1pH7cbi3lsILVw) | 2:59 | 2022-03-10 | 2022-09-16 |
 | [Blå](https://open.spotify.com/track/0hel3UahHwK9SfUF85M1WK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Blå](https://open.spotify.com/album/4NQguSrcgRiDznaKoowh8u) | 4:19 | 2021-12-16 | 2022-02-06 |
 | [Bon Voyage](https://open.spotify.com/track/5tLiS8p0h4bvKzfXZQRuHR) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Bon Voyage](https://open.spotify.com/album/2uv4wl8CnCEb0ZIIKOaCj5) | 2:54 | 2022-02-05 | 2022-07-28 |
-| [Bounds \(Mhmm\)](https://open.spotify.com/track/0FluRpeiZg41lLclRtWQwc) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Bounds \(Mhmm\)](https://open.spotify.com/album/6V96CPuNmhLCWiqsVLjqbN) | 2:45 | 2022-11-17 |  |
+| [Bounds \(Mhmm\)](https://open.spotify.com/track/0FluRpeiZg41lLclRtWQwc) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Bounds \(Mhmm\)](https://open.spotify.com/album/6V96CPuNmhLCWiqsVLjqbN) | 2:45 | 2022-11-17 | 2023-01-06 |
 | [Boys We Chased](https://open.spotify.com/track/3pVSRJ6HUxdk9GFl4FTvmg) | [Boys and Ivy](https://open.spotify.com/artist/3GrJO6kJGc0koDm1C1dBBk) | [Boys We Chased](https://open.spotify.com/album/05kCs6VC9to0deUTGfioej) | 3:29 | 2022-03-10 | 2022-07-29 |
 | [Bra ihop](https://open.spotify.com/track/1V8ZCGO852CLJmj0qhNXwh) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Bra ihop](https://open.spotify.com/album/7r6cb6MK0xNBmqeGV9fKWC) | 3:43 | 2021-12-16 | 2022-03-11 |
 | [Bra Tillslut](https://open.spotify.com/track/4lif0zD0Xk6peesLpB2cCV) | [Herbert Munkhammar](https://open.spotify.com/artist/0FPUIdSdUKHXXOAqNMJ976) | [Bra Tillslut](https://open.spotify.com/album/79FkSdHsZtMvifeR5XNgvB) | 2:16 | 2021-12-16 | 2021-12-30 |
@@ -388,7 +388,7 @@
 | [Old Bad Habit](https://open.spotify.com/track/5T3vJQMbv9q3NTdhJGzjdL) | [Ella Sandberg](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [Old Bad Habit](https://open.spotify.com/album/6D0kdMFXdmHr6Du1WYK6vI) | 3:41 | 2022-05-26 | 2022-07-28 |
 | [Old Love](https://open.spotify.com/track/2LHfTmsBdzIWGE3Cafqpvm) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Overflow](https://open.spotify.com/album/3EJugt4J6YJ4ieReakz5TC) | 2:54 | 2021-12-16 | 2022-03-11 |
 | [Om det ändå räckte att ångra sig](https://open.spotify.com/track/6sDB6B9NkOy0LdLGhPKOu6) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Djur och människa](https://open.spotify.com/album/4Q6QpBgnx0XhGEgZHTC0hd) | 3:03 | 2022-06-09 |  |
-| [Once in a While \[smile\]](https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Once in a While \[smile\]](https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s) | 2:59 | 2022-09-08 | 2022-12-19 |
+| [Once in a While \[smile\]](https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Once in a While \[smile\]](https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s) | 2:59 | 2022-09-08 |  |
 | [One More Time](https://open.spotify.com/track/4rQSkio3a0iiLSEuoWMwOF) | [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [One More Time](https://open.spotify.com/album/6oG8wiEJIcBjXehs0lbiLN) | 2:57 | 2022-04-07 | 2022-07-27 |
 | [Ordning & Reda](https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Ordning & Reda](https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB) | 2:21 | 2022-06-30 | 2022-10-25 |
 | [Oron](https://open.spotify.com/track/50yVZ2s5nmodWAvKGDdnxT) | [O!](https://open.spotify.com/artist/7nza9FCmRyw0Kha7Sqv2K6) | [Oron](https://open.spotify.com/album/4NHcks6sxG0wXXFv7CBjhL) | 2:40 | 2022-04-01 | 2022-04-21 |
@@ -428,7 +428,7 @@
 | [Rude Girl](https://open.spotify.com/track/5BIKxh0EVJnEQdP7Cn7XH6) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Rude Girl](https://open.spotify.com/album/5nalPhFowgImnYG9rvHhQs) | 3:04 | 2022-05-05 | 2022-07-05 |
 | [Ruff Tuff](https://open.spotify.com/track/7i3MKC9GHUqpnbM4DLhRGp) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Babydolls](https://open.spotify.com/album/6HORbSOngRfgyMEqkBkqCi) | 3:07 | 2022-05-30 | 2022-07-29 |
 | [Rule the World](https://open.spotify.com/track/3wegijGUPhF7eHGCIST2Rz) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [A Letter from the Universe](https://open.spotify.com/album/1KVlwAn0aLqaqxzgU5zItL) | 2:59 | 2022-04-01 | 2022-04-21 |
-| [Rules](https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Bloom](https://open.spotify.com/album/3m7WDstzCDmAvvXFEfamyj) | 2:46 | 2022-12-22 | 2023-01-05 |
+| [Rules](https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Bloom](https://open.spotify.com/album/3m7WDstzCDmAvvXFEfamyj) | 2:46 | 2022-12-22 |  |
 | [Rulla eftertexten](https://open.spotify.com/track/32DulelwqqHmiNS3k9Wyxn) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut](https://open.spotify.com/album/4NqV0pKjmtudnuZ7SArHtG) | 3:26 | 2021-12-16 | 2022-03-11 |
 | [Run To The Hills](https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Run To The Hills](https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0) | 2:55 | 2022-03-03 | 2022-09-16 |
 | [Rymden och tillbaks](https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Så mycket bättre 2022 – Tolkningarna](https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon) | 2:53 | 2022-11-17 |  |
@@ -457,7 +457,7 @@
 | [Seriously, Let's Ride or Die](https://open.spotify.com/track/2MBs6ryr1ZxW4EpPUwYP9L) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Seriously, Let's Ride or Die](https://open.spotify.com/album/03FPGcycU0XI6DEgGMB8SM) | 3:18 | 2022-02-20 | 2022-05-13 |
 | [Shameless](https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Shameless](https://open.spotify.com/album/5QcquR8hsv60H86QASguCE) | 3:41 | 2021-12-16 | 2022-03-08 |
 | [Shouldn't I Just Let You Know?](https://open.spotify.com/track/2GZLf3DXx22bnYA5nwSgCW) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Shouldn't I Just Let You Know?](https://open.spotify.com/album/0o4Kq3xuG6KGkMyAyqiTxa) | 3:42 | 2022-05-26 | 2022-07-27 |
-| [Show Me Love](https://open.spotify.com/track/5GrEpYqEg0tTK9m0l2JJMf) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Show Me Love](https://open.spotify.com/album/3XREb27jlwQesTQUWSvV6d) | 3:15 | 2022-10-27 |  |
+| [Show Me Love](https://open.spotify.com/track/5GrEpYqEg0tTK9m0l2JJMf) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Show Me Love](https://open.spotify.com/album/3XREb27jlwQesTQUWSvV6d) | 3:15 | 2022-10-27 | 2023-01-06 |
 | [Show Me Love](https://open.spotify.com/track/0a7ECrkynDauNbc6wQ6ilz) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Show Me Love](https://open.spotify.com/album/48cv2VaUhc8RoLk0oaARrn) | 2:33 | 2022-02-05 | 2022-07-29 |
 | [Single At 40](https://open.spotify.com/track/1Hkfx9v6M0A2E7gbgYneQo) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Single At 40](https://open.spotify.com/album/0UBTtf7QW0FMLAZLavnFWY) | 2:40 | 2021-12-16 | 2021-12-22 |
 | [Sista gången](https://open.spotify.com/track/6VEHZjdc9WLeyJjTBN3Lzm) | [råsa](https://open.spotify.com/artist/7xt4XwzlemR8yD2e3M26Wj) | [Sista gången](https://open.spotify.com/album/7oGmIcZOWuH4BYfyh8F7Wz) | 3:00 | 2021-12-16 | 2022-03-11 |

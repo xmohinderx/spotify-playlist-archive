@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Ab\-Soul
 
-370 songs - 19 hr 46 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
+370 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

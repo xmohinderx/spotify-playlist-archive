@@ -4,7 +4,7 @@
 
 > Music that created modern indie as we know it\. Cover: MGMT
 
-162 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/1TmwbF2mvZkA61FjUDdoHe)
+162 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

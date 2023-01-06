@@ -4,7 +4,7 @@
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-110 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/3kaynFvn5ToDNicsQuxKNh)
+110 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

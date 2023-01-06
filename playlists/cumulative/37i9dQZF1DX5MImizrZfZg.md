@@ -4,7 +4,7 @@
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-62 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/5fFmqi20MwiZNMyRJH0Uph)
+62 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

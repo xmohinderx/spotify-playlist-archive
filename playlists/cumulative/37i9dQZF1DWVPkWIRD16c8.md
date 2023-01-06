@@ -4,7 +4,7 @@
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-133 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/6aSZoXGwLphcY7PG68tmt2)
+133 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

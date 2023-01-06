@@ -4,7 +4,7 @@
 
 > Tembang Jowo lawas pancen saget nrenyuhake ati
 
-33 songs - 2 hr 37 min - not published yet
+33 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

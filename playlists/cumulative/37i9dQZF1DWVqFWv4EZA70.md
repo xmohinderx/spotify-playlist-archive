@@ -4,7 +4,7 @@
 
 > Beats que le suben el ánimo a tu día.
 
-83 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/5VrVr3VNwavbhZLRyDryhs)
+83 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

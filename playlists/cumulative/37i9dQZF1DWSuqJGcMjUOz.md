@@ -4,7 +4,7 @@
 
 > La playlist officielle de l’édition 2022 des Francos de Montréal!
 
-180 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/157Wm8kF1v2FFbepAN4t2W)
+180 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-176 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/70IqB6MweM6qsbIR6Kn9aT)
+176 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

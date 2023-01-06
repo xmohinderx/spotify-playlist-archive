@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Night Skinny
 
-93 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/4r83GtsNbTEk66vNKaqlF4)
+93 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Kat & Alex
 
-106 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+106 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

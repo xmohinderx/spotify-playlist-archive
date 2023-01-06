@@ -4,7 +4,7 @@
 
 > Snowy days, cozy nights\. Soak up the spirit of the season with lush, intricate acoustics.
 
-419 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
+424 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Break Me Open](https://open.spotify.com/track/0WbtcjCNI2wmekd7d83ISi) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/5ETeNxIf3zlzUz09jJEsOY) | 3:03 | 2022-03-21 | 2022-06-08 |
 | [Bridges \- Acoustic](https://open.spotify.com/track/1bbgrByqDYkBcGx4rnucWG) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Bridges \(Acoustic\)](https://open.spotify.com/album/1HDT1Y5hq3UL51RR4Ap0a9) | 3:13 | 2022-03-21 | 2022-06-08 |
 | [Brother Sparrow](https://open.spotify.com/track/70EmroIbnTnbHG4qyTB0mf) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1) | 4:00 | 2022-03-21 | 2022-06-08 |
+| [Burnt Sage](https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz) | [Le Siren](https://open.spotify.com/artist/2S3JqbYUGXlM10ljtBH1wC) | [Take Care of Yourself](https://open.spotify.com/album/1ga17JiadIfEdU2atHyimo) | 2:37 | 2023-01-05 |  |
 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 | 2022-12-21 |  |
 | [By the Light of the Moon](https://open.spotify.com/track/7DNFJERSoZuK28rehCJ14B) | [Dave Simonett](https://open.spotify.com/artist/6CKy7Do4kT6GmeDoHTSvdr) | [Red Tail](https://open.spotify.com/album/0QxJmz40RMRJus508Ucwjf) | 2:25 | 2022-03-21 | 2022-06-08 |
 | [By the River \- Acoustic](https://open.spotify.com/track/38FQraRX0lVQtL7mHOHz8b) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [By the River \(Acoustic\)](https://open.spotify.com/album/6CMuIZmCvMK9rTdshxWanZ) | 4:28 | 2022-03-21 | 2022-06-08 |
@@ -270,6 +271,7 @@
 | [Permanent Way \- Live Session](https://open.spotify.com/track/3D6KvpRvDBkN3t682bJOBN) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Flesh & Bone Studio Session \(Live\)](https://open.spotify.com/album/5pq3hWKiMMRlyhtwyMWNIr) | 4:17 | 2021-12-20 | 2022-03-22 |
 | [Persephone](https://open.spotify.com/track/20rVzDO837h897G3pMr6re) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Pharmakon](https://open.spotify.com/album/2aLrFMwpy2iZzAUHqh49Th) | 4:33 | 2022-03-21 | 2022-06-08 |
 | [Pick and Choose](https://open.spotify.com/track/7yTeopUxZZrDc31m6AfwWo) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Pick and Choose](https://open.spotify.com/album/62pznCH0GxT1WTDheTB5uJ) | 2:43 | 2022-09-06 | 2022-12-21 |
+| [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 | 2023-01-05 |  |
 | [Places/Plans](https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu) | 3:03 | 2022-12-21 |  |
 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 | 2022-09-06 | 2022-12-21 |
 | [Portland, Maine](https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:23 | 2022-09-06 | 2022-12-21 |
@@ -323,6 +325,7 @@
 | [Something in the Orange \- Z&E's Version](https://open.spotify.com/track/3rU2QIyNDk2OWV6mAW2qQr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 4:14 | 2022-12-21 |  |
 | [Song for Nick Drake](https://open.spotify.com/track/7ziCau3pxkib4zGiCk2njz) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Storm in Summer](https://open.spotify.com/album/7icCUSzSQD22C82ldwMCOe) | 2:57 | 2022-03-21 | 2022-06-08 |
 | [Soundwaves of Gold](https://open.spotify.com/track/2YVGvtfEQall8Grv3CTfgq) | [The Daydream Club](https://open.spotify.com/artist/3U6eCXHFS6wQVuFuqeW09m) | [Found](https://open.spotify.com/album/62sVv3rDFAI0RSpIogB0tU) | 2:56 | 2022-06-07 | 2022-09-07 |
+| [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 | 2023-01-05 |  |
 | [Splendor In The Grass](https://open.spotify.com/track/5tsOCiiFa7kSGXRbDh9wpc) | [Simone Felice](https://open.spotify.com/artist/2tfqowGe1sXV4u2ZUZCW9Q) | [Simone Felice](https://open.spotify.com/album/4wnZ7HdqgIzBxtiKWXROKQ) | 4:01 | 2022-03-21 | 2022-06-08 |
 | [St\. Augustine At Night](https://open.spotify.com/track/2r8XIljNBbVefZbt38epXX) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Still Feel Like A Kid](https://open.spotify.com/album/2Vs8OMhqcBKCoUIBmgweTk) | 5:13 | 2021-12-20 | 2022-03-22 |
 | [Stanley Park \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/1cyhegb61PppegILkP2qch) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU) | 2:29 | 2022-06-07 | 2022-09-07 |
@@ -344,7 +347,8 @@
 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 | 2022-06-07 | 2022-09-07 |
 | [The Barrel \- Edit](https://open.spotify.com/track/5ptT7iorqwpxAtZzVuIei0) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/6GO0ZV4w1GHfksdyBiEAY0) | 3:39 | 2021-12-20 | 2022-07-29 |
 | [The Ghost on the Shore](https://open.spotify.com/track/1aW2tNqlixguxGc8M4hV1D) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:37 | 2022-12-21 | 2023-01-05 |
-| [The Ghost on the Shore](https://open.spotify.com/track/24FpbHVeR7jQp7LVr6vwgr) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/69kRqmPTFu7xBqsrM47Ko4) | 4:37 | 2022-12-21 |  |
+| [The Ghost on the Shore](https://open.spotify.com/track/24FpbHVeR7jQp7LVr6vwgr) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/69kRqmPTFu7xBqsrM47Ko4) | 4:37 | 2022-12-21 | 2023-01-06 |
+| [The Ghost on the Shore](https://open.spotify.com/track/2xFVqgK1zW5dKWRyFVRhAp) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:37 | 2022-12-21 |  |
 | [The Last Song On Earth](https://open.spotify.com/track/6n8QYU46m0dO6HIKG0GN8S) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Two Songs For Now](https://open.spotify.com/album/6iU4TOsjA7CmhOb7XgXp40) | 3:53 | 2021-12-20 | 2022-03-22 |
 | [The Lily](https://open.spotify.com/track/7v73hTuUIJ05PdCvBqXtbR) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [The Lily](https://open.spotify.com/album/5qLztE22iuL2MhP98PcBRI) | 4:14 | 2021-12-20 | 2022-03-22 |
 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 | 2022-03-21 | 2022-06-08 |
@@ -419,6 +423,7 @@
 | [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 | 2022-12-21 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:57 | 2022-06-07 | 2022-09-07 |
 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 | 2022-09-06 | 2022-12-21 |
+| [You're My Winter](https://open.spotify.com/track/5u6vKboXSgqGxh7dCWy6tQ) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Songs I Wish I Wrote](https://open.spotify.com/album/7nkoBpcjx1dmXS8yRCqMUS) | 3:36 | 2023-01-05 |  |
 | [Young Man](https://open.spotify.com/track/1KAs06qPczqVLKGBo7Tlrw) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Young Man](https://open.spotify.com/album/6ld4TV5oyaBUkxolyDE8UX) | 4:06 | 2022-06-07 | 2022-09-07 |
 | [Yours to Keep](https://open.spotify.com/track/0ljxKa4x3ahmDeQOrLCjJr) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Physics EP](https://open.spotify.com/album/6Z9hbxCbOQlOFdaAU2JvO8) | 3:22 | 2022-09-06 | 2022-10-13 |
 | [Yours to Keep](https://open.spotify.com/track/7EZKcbs2m8qjUnfwC3hpyT) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Physics EP](https://open.spotify.com/album/0bXMgEiBAo5mWBHfPYFisL) | 3:22 | 2022-09-06 | 2022-12-21 |

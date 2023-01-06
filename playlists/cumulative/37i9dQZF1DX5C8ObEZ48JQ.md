@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=TysBfO4ZQziFb0OwGfQb8g"> Dami Oniru </a>\. Artwork: Isu Kim.
 
-151 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/6NtJBvt8QreX95xer9OMcd)
+151 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

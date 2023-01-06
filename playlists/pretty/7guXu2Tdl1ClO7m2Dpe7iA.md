@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/7guXu2Tdl1ClO7m2Dpe7iA.md) - [plain]
 
 > Fresh house bangers with a sprinkle of dnb, bass and chill tunes in the end, all hand picked by San Pacho\. Updated regularly \(I hope lol\)!
 
-[San Pacho](https://open.spotify.com/user/tt8cs1rcaxzr3ge0jikfmurfk) - 2,680 likes - 20 songs - 1 hr 9 min
+[San Pacho](https://open.spotify.com/user/tt8cs1rcaxzr3ge0jikfmurfk) - 2,700 likes - 20 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Invisible Kid](https://open.spotify.com/track/2f2KurID7SV2q8wCmPncpZ) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Invisible Kid](https://open.spotify.com/album/6LnpdDTwsF7YDK0RDsvSov) | 3:09 |
-| 2 | [Ballroom \- Edit](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 |
+| 2 | [Ballroom \(Edit\)](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 |
 | 3 | [Brighter Days \- Marco Lys Remix](https://open.spotify.com/track/7IJP1vVnqU5mV2hYUbZrlX) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Brighter Days \(30 Year Anniversary Remixes\)](https://open.spotify.com/album/27khu5BAQkUgYxqlYFwRLB) | 6:22 |
 | 4 | [Dara Dum](https://open.spotify.com/track/5eFgVcOpAw08lvsM1GG8RK) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Dara Dum](https://open.spotify.com/album/6OhZImhLlsyq6H0TaMWHZd) | 3:03 |
 | 5 | [KILLA](https://open.spotify.com/track/7CTQfpMSFLJc41xFbu6JuX) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [KILLA](https://open.spotify.com/album/0ZhRExbHH4ECOjEbI5LlsZ) | 2:52 |

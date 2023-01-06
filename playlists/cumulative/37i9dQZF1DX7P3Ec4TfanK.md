@@ -4,7 +4,7 @@
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-154 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/7C2UJmFUbC0XzdnPAkeOBo)
+154 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

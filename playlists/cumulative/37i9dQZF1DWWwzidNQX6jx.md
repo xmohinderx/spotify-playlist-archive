@@ -4,7 +4,7 @@
 
 > These songs rocked the 70s.
 
-164 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/300rDEvhUkSxlICWNMARoz)
+164 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

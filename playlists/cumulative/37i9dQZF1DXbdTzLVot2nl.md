@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 80s
 
-160 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/5JK9ipBLB04C4aCuR13twU)
+160 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

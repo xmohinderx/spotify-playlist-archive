@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Lee Fields
 
-217 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/19AFs6pZ8WyCXnrxjl6M3m)
+217 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,9 +48,9 @@
 | [Do You Wanna Do Nothing with Me?](https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Breakfast](https://open.spotify.com/album/7zRCJCgUmYNYZvTJDTRItd) | 4:11 | 2021-07-09 |  |
 | [Don't Be Afraid](https://open.spotify.com/track/6BT17vBMR1gXKziGubn3Vy) | [Mike Gronsky](https://open.spotify.com/artist/2f5oy3dEmuvQzfZ85FD0TM) | [Don't Be Afraid](https://open.spotify.com/album/7sB0s1sUqsvo2vwMtx7TRW) | 4:13 | 2022-09-23 | 2022-10-08 |
 | [Don't Stop](https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Gold](https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r) | 2:42 | 2021-07-09 | 2022-10-13 |
+| [Don't You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 | 2021-07-09 |  |
 | [Don’t Want It to Be Over \(ft\. Coco O.\)](https://open.spotify.com/track/3vlu7Y9U9HXxqSmQecmKhZ) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Inside Voice](https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof) | 3:36 | 2021-07-09 | 2022-08-11 |
 | [Don’t Want It to Be Over \(ft\. Coco O.\)](https://open.spotify.com/track/7qZknx1i2TgMxOiPP1psEo) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Inside Voice](https://open.spotify.com/album/1dozAAM6CMyL2FAEUcHJKu) | 3:36 | 2021-07-09 | 2022-06-03 |
-| [Don’t You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 | 2021-07-09 |  |
 | [Don’t You Know](https://open.spotify.com/track/242UAWExQDujCkiQtLQvcu) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 3:20 | 2021-07-09 | 2022-07-29 |
 | [Dreams](https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Starchild](https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx) | 3:51 | 2021-10-29 | 2022-12-13 |
 | [Dry](https://open.spotify.com/track/4ug40UefedjvTEXuuIZaQA) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Nine Lives](https://open.spotify.com/album/34sLLcb1XwY8KD0fIcabjH) | 4:09 | 2022-02-18 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: FNF Chop
 
-175 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/4Gkq6IUZtcwABoUVZxpuEh)
+175 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

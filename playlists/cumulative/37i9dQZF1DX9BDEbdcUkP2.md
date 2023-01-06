@@ -4,7 +4,7 @@
 
 > The songs of the 1960s that will make you dance all summer long!
 
-88 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/4GhcyI9e0l5sIU72HEhwgi)
+88 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

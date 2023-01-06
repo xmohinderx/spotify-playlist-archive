@@ -4,7 +4,7 @@
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-133 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/5uUFbAhLiVNLmtCNfyWc4t)
+133 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-270 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+270 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

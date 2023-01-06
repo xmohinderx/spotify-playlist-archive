@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
   "name": "Country Covers",
-  "published_playlist_ids": [
-    "5FG6pwctW4uulQzMoAra0G"
-  ],
   "tracks": [
     {
       "album": {
@@ -319,7 +316,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 202921,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/6LwOHSi4IoJtivi221knNa"
@@ -681,6 +678,28 @@
     {
       "album": {
         "name": "Circles",
+        "url": "https://open.spotify.com/album/7ByBR4dghH8plBWsCl9hBy"
+      },
+      "artists": [
+        {
+          "name": "Abby Anderson",
+          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
+        },
+        {
+          "name": "The 615 House",
+          "url": "https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198595,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0xESLu1HGNj3xrvsmU0XMO"
+    },
+    {
+      "album": {
+        "name": "Circles",
         "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
       },
       "artists": [
@@ -955,7 +974,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 214495,
       "name": "Die a Happy Man",
       "url": "https://open.spotify.com/track/1mExCoXAGKI6abLGXoG7O3"
@@ -1107,7 +1126,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 202988,
       "name": "Drivers License",
       "url": "https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk"
@@ -1143,7 +1162,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 177098,
       "name": "East Bound And Down",
       "url": "https://open.spotify.com/track/5JelBZwTfs9LZAUbeeVbqd"
@@ -1705,7 +1724,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
@@ -1915,7 +1934,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 230453,
       "name": "Home",
       "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
@@ -1951,7 +1970,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 231818,
       "name": "How's It Going To Be",
       "url": "https://open.spotify.com/track/7na30RWB0zAMrXanGSaXCJ"
@@ -2225,7 +2244,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 153066,
       "name": "I'm in a Hurry (Live from Boca Grande)",
       "url": "https://open.spotify.com/track/6G5b1UmULnwGOIo7xKwcn3"
@@ -2359,7 +2378,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 253370,
       "name": "If We Were Vampires",
       "url": "https://open.spotify.com/track/64PHZr3ufu3RxD9pE0ajJM"
@@ -2685,7 +2704,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 203204,
       "name": "Just a Girl",
       "url": "https://open.spotify.com/track/7d5TsfUb4ZTIwso4mGfPpz"
@@ -2833,7 +2852,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 216786,
       "name": "Long Cool Woman (In a Black Dress)",
       "url": "https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu"
@@ -2855,7 +2874,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 169317,
       "name": "Lord, I Hope This Day Is Good",
       "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
@@ -3441,7 +3460,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 272720,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/0JuaYeq8BuDkXpFQ1RlgQc"
@@ -3503,7 +3522,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 249360,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/5nUonsVQLhAD6Qm5znhfSj"
@@ -3539,7 +3558,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 185426,
       "name": "Pop a Top",
       "url": "https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11"
@@ -3597,7 +3616,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 202835,
       "name": "rainbow",
       "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
@@ -3785,7 +3804,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 210013,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/5U2HfXfIm9li9FK6F38hTS"
@@ -3839,7 +3858,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 271771,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
@@ -3857,7 +3876,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 173426,
       "name": "Six Days On The Road",
       "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
@@ -4393,7 +4412,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 204282,
       "name": "The Cowboy Rides Away",
       "url": "https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH"
@@ -4465,7 +4484,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 176440,
       "name": "The Race Is On",
       "url": "https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn"
@@ -5071,7 +5090,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 371448,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
@@ -5107,7 +5126,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 240224,
       "name": "Wide Open Spaces - Spotify Singles",
       "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"

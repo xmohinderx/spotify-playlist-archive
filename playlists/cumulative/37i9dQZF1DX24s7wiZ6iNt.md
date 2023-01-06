@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of Indie in Canada in 2022.<br/> Cover: Men I Trust \#SpotifyWrapped
 
-226 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/0rSmcrhhqMQpl4IftmXXUs)
+226 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

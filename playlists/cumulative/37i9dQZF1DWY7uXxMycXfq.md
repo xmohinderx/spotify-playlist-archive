@@ -4,7 +4,7 @@
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-108 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/34ALKhfWb0HiyjEM3uR89z)
+108 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

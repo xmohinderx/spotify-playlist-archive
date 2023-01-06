@@ -4,7 +4,7 @@
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-133 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/3PGD42xzaSO4O5kpwimiJs)
+133 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

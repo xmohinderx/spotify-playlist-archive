@@ -4,7 +4,7 @@
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-220 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/54ZP2KjUy46mw39AV7wczE)
+220 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=tzNMePiLT2KYspD7sMAzeQ">K.O</a>
 
-432 songs - 23 hr 18 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
+432 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Because everyone else is already taken!
 
-111 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/0PyhI3XzWvfnHbV7n9lgra)
+111 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

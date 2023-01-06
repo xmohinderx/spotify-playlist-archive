@@ -4,7 +4,7 @@
 
 > Reminisce the dancefloor with your little one.
 
-59 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/0MAX92hdYNZ1mHsiBpAQfi)
+59 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

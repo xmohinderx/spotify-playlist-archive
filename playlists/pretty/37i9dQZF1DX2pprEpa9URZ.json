@@ -1,29 +1,13 @@
 {
   "description": "A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 672657,
+  "num_followers": 672994,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NzgzNCwwMDAwMDAwMGFmOGVhM2JhZWUyODFjZmI5OGNlMTI3Yzk5YzZlYmZl",
+  "snapshot_id": "MTY2OTM4NzgzNCwwMDAwMDAwMDkzODFlM2UwNTQ2Mzg5NjJkMzA2NmE3ZmU1YjQzYjli",
   "tracks": [
-    {
-      "added_at": "2022-09-30 18:15:40",
-      "album": {
-        "name": "Kaybola (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1zqTrfdQyPehpQFeowfgIm"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 297918,
-      "name": "Sumeru",
-      "url": "https://open.spotify.com/track/2gL3yeSrVcdgYUgebT6TKN"
-    },
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 287500,
       "name": "Writings",
       "url": "https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B"
+    },
+    {
+      "added_at": "2022-09-30 18:15:40",
+      "album": {
+        "name": "Kaybola (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1zqTrfdQyPehpQFeowfgIm"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 297918,
+      "name": "Sumeru",
+      "url": "https://open.spotify.com/track/2gL3yeSrVcdgYUgebT6TKN"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -255,26 +255,6 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
-        "name": "Maasai (Doctor Flake Remix)",
-        "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
-      },
-      "artists": [
-        {
-          "name": "Kutiman",
-          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
-        },
-        {
-          "name": "Doctor Flake",
-          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
-        }
-      ],
-      "duration_ms": 470837,
-      "name": "Maasai - Doctor Flake Remix",
-      "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
-    },
-    {
-      "added_at": "2022-09-30 18:15:40",
-      "album": {
         "name": "Bahar",
         "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 321760,
       "name": "Secreto",
       "url": "https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN"
+    },
+    {
+      "added_at": "2022-09-30 18:15:40",
+      "album": {
+        "name": "Maasai (Doctor Flake Remix)",
+        "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
+      },
+      "artists": [
+        {
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        },
+        {
+          "name": "Doctor Flake",
+          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
+        }
+      ],
+      "duration_ms": 470837,
+      "name": "Maasai - Doctor Flake Remix",
+      "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
-        "name": "Fire in the Jungle",
-        "url": "https://open.spotify.com/album/0yGRysFayBSC8MZOyFW7ZH"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 331114,
-      "name": "Lenny in the Sea with Dolphins",
-      "url": "https://open.spotify.com/track/3T1kFqevhSk1AvF72lf3VL"
-    },
-    {
-      "added_at": "2022-09-30 18:15:40",
-      "album": {
         "name": "Aguacero",
         "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 402545,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+    },
+    {
+      "added_at": "2022-09-30 18:15:40",
+      "album": {
+        "name": "Fire in the Jungle",
+        "url": "https://open.spotify.com/album/0yGRysFayBSC8MZOyFW7ZH"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 331114,
+      "name": "Lenny in the Sea with Dolphins",
+      "url": "https://open.spotify.com/track/3T1kFqevhSk1AvF72lf3VL"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
-      },
-      "artists": [
-        {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
-        }
-      ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
-    },
-    {
-      "added_at": "2022-09-30 18:15:40",
-      "album": {
         "name": "Sagas of Iziki | Chapter 2",
         "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 544250,
       "name": "Osuga",
       "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
+    },
+    {
+      "added_at": "2022-09-30 18:15:40",
+      "album": {
+        "name": "Astavakra",
+        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Sensi",
+          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
+        }
+      ],
+      "duration_ms": 420215,
+      "name": "Astavakra",
+      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
     },
     {
-      "added_at": "2023-01-05 01:16:25",
+      "added_at": "2023-01-06 07:10:39",
       "album": {
         "name": "6 Years of Underyourskin Records",
         "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h"
-      },
-      "artists": [
-        {
-          "name": "Planet Caravan",
-          "url": "https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5"
-        }
-      ],
-      "duration_ms": 385702,
-      "name": "Flou",
-      "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
-    },
-    {
-      "added_at": "2022-09-30 18:15:40",
-      "album": {
         "name": "Ritmo",
         "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 115090,
       "name": "Terra",
       "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
+    },
+    {
+      "added_at": "2022-09-30 18:15:40",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h"
+      },
+      "artists": [
+        {
+          "name": "Planet Caravan",
+          "url": "https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5"
+        }
+      ],
+      "duration_ms": 385702,
+      "name": "Flou",
+      "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
       },
       "artists": [
         {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+          "name": "Till Von Sein",
+          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
         }
       ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+      "duration_ms": 405213,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -1043,6 +1043,22 @@
       "duration_ms": 367636,
       "name": "Novicani",
       "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
+    },
+    {
+      "added_at": "2022-09-30 18:15:40",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -1075,22 +1091,6 @@
       "duration_ms": 457000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5lc74AXwQnoAvXpef0GnvD"
-    },
-    {
-      "added_at": "2022-09-30 18:15:40",
-      "album": {
-        "name": "Graceland",
-        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
-      },
-      "artists": [
-        {
-          "name": "Till Von Sein",
-          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
-        }
-      ],
-      "duration_ms": 405213,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
     }
   ],
   "unique_name": "Org\u00e1nica",

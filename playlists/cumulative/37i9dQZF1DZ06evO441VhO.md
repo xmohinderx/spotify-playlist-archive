@@ -4,7 +4,7 @@
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/41oB5KsqgY6Yx8AIjf7Kcl)
+60 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

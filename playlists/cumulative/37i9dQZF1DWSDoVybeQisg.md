@@ -4,7 +4,7 @@
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-119 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/3pi4HINlvE2D4FpaH97xE1)
+119 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

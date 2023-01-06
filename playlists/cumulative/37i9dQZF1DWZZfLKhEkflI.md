@@ -4,7 +4,7 @@
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-86 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/2b7j02vyfaUwUVvu3T1f24)
+86 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

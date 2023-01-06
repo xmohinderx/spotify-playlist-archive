@@ -4,7 +4,7 @@
 
 > it's a generation ⛓ cover: kid bookie
 
-437 songs - 22 hr 1 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+437 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

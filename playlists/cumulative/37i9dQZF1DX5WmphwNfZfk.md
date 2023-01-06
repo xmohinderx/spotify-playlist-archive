@@ -4,7 +4,7 @@
 
 > 60 Canadian artists to watch in 2023, handpicked by our curators\. \#SpotifyWrapped
 
-965 songs - 2 day 1 hr 25 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
+965 songs - 2 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

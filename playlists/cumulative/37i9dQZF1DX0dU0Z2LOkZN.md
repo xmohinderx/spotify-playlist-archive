@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-323 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+323 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

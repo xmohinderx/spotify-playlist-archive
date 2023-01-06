@@ -4,7 +4,7 @@
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-124 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
+124 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

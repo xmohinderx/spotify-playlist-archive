@@ -4,7 +4,7 @@
 
 > 24 songs dedicated to the Mamba & Mambacita\. R.I.P\. Kobe & Gianna Bryant.
 
-106 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/5nOsT3R5uqUlOVBHviTRqQ)
+106 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

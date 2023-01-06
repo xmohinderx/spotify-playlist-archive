@@ -4,7 +4,7 @@
 
 > Perché...It’s Only Rock ’n Roll \(But We Like It\)!
 
-241 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/47Fb9PguYtl6xx6qEq0a8v)
+241 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

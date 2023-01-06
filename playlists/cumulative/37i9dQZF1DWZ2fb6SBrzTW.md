@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-194 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
+194 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

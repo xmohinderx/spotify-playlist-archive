@@ -4,7 +4,7 @@
 
 > Dezemba is here! It's time to try and remember older relatives by name and greet the newest family for the first time\. Remember the time you and your cousins…
 
-151 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
+151 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

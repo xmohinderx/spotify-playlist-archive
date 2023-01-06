@@ -4,7 +4,7 @@
 
 > This is Ramones\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/5ZxP7JHkbgCsoZsdWaI04b)
+78 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

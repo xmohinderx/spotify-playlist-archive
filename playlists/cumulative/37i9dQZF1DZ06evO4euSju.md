@@ -4,7 +4,7 @@
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-26 songs - 1 hr 42 min - [published](https://open.spotify.com/playlist/1P1ztgSRWFpR2mn5Mnh3lp)
+26 songs - 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

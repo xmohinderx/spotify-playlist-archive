@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: Rich Homie Quan
 
-167 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
+167 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

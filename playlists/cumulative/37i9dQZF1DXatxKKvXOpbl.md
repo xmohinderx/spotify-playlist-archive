@@ -4,7 +4,7 @@
 
 > Uma seleção good vibes pra você trabalhar de boa!
 
-162 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/09fWrA6IYnwxJenU0brBIZ)
+162 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

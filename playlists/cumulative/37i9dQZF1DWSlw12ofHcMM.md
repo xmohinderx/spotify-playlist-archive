@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-180 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/1mwIOAyn3PtAgQdJFJ2Psa)
+180 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
-  "published_playlist_ids": [
-    "5YNobSqpJ71QdqLAH2udAx"
-  ],
   "tracks": [
     {
       "album": {
@@ -77,7 +74,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 279196,
       "name": "141 Schneeschieber",
       "url": "https://open.spotify.com/track/5drDr4Psx18mUzm78fhaoP"
@@ -1509,7 +1506,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 195363,
       "name": "Bloody Mary (Sped Up TikTok Remix) [from \"Wednesday Addams\"]",
       "url": "https://open.spotify.com/track/1GuhLLCyVhVSfbNZ0581LW"
@@ -1797,7 +1794,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 287600,
       "name": "Captain Save a Hoe (feat. The Click, D-Shot, B-Legit & Suga T)",
       "url": "https://open.spotify.com/track/3ZgQhe1Sv7mnQjpVTJnOFp"
@@ -4767,7 +4764,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 172547,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
@@ -10895,7 +10892,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 84817,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD"
@@ -11005,7 +11002,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 149076,
       "name": "Tubar\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
@@ -11795,10 +11792,32 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 208774,
       "name": "Who Is She x The Perfect Girl - Remix",
       "url": "https://open.spotify.com/track/6OWF84QUc1vlawLuSjgnCU"
+    },
+    {
+      "album": {
+        "name": "TikTok Hits 2022 (Remix)",
+        "url": "https://open.spotify.com/album/3lwuNFHQ23S6nm2uoDFI9v"
+      },
+      "artists": [
+        {
+          "name": "Xanemusic",
+          "url": "https://open.spotify.com/artist/6QSOpFwMSqDj21HVu34Wm1"
+        },
+        {
+          "name": "NVBR",
+          "url": "https://open.spotify.com/artist/2SK1xoft5PyuLAxTjK9RVe"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208704,
+      "name": "Who Is She x The Perfect Girl - Remix",
+      "url": "https://open.spotify.com/track/1amujcJWMmwyRoWPPtT02I"
     },
     {
       "album": {

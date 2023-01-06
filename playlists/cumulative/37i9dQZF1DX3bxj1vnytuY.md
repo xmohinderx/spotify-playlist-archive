@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-155 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+155 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

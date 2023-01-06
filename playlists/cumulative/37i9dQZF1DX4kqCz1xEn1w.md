@@ -4,7 +4,7 @@
 
 > Victory over death has been won today, forever!
 
-190 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/0tepX2bOxMzRByDHfGIE6m)
+190 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

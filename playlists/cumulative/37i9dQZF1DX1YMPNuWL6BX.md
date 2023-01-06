@@ -4,7 +4,7 @@
 
 > Ring in 2023 with your favorite party tracks!
 
-171 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/0FOSlqCnfdALNwKFgfiVNU)
+171 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Nuevos temas de g\u00e9neros tropicales. Marama & Migrantes en portada. ",
+  "description": "Nuevos temas de g\u00e9neros tropicales. Natalie Perez portada. ",
   "name": "Novedades Tropicales",
-  "published_playlist_ids": [
-    "1A3UHUVNXWpYmJZRAxzxtE"
-  ],
   "tracks": [
     {
       "album": {
@@ -1878,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Consuelo",
+        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164093,
+      "name": "Consuelo",
+      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
+    },
+    {
+      "album": {
         "name": "Corazon de Papel / Pero No Puedo",
         "url": "https://open.spotify.com/album/2CtcalT250xhvqeB5c4stE"
       },
@@ -3045,7 +3060,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 180906,
       "name": "Duele",
       "url": "https://open.spotify.com/track/0uphJWk7TaEOMVYirZnulQ"
@@ -3216,7 +3231,7 @@
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 168320,
+      "duration_ms": 170048,
       "name": "El Delicioso",
       "url": "https://open.spotify.com/track/4WezbJ9xkqP0mKm1rVBa7N"
     },
@@ -3473,7 +3488,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 294146,
       "name": "El Ni\u00f1o",
       "url": "https://open.spotify.com/track/5qBRYiH8i7xHQDMzAQvG8s"
@@ -3535,6 +3550,28 @@
       "duration_ms": 217011,
       "name": "El Regalo M\u00e1s Bonito - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/7KHMRKjkMT2ldd5sDTyfbm"
+    },
+    {
+      "album": {
+        "name": "El Show (Versi\u00f3n Cumbia)",
+        "url": "https://open.spotify.com/album/6ixStXWEa5EK8ZLJF5dOM2"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164671,
+      "name": "El Show - Versi\u00f3n Cumbia",
+      "url": "https://open.spotify.com/track/28Ec7cItD1pr4346e4kB5Y"
     },
     {
       "album": {
@@ -4165,7 +4202,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 365047,
       "name": "Fiesta Mix 3.0",
       "url": "https://open.spotify.com/track/3tyCpigZxA56s14Ahb7Bne"
@@ -5903,7 +5940,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 185079,
       "name": "Las Locuras Mias",
       "url": "https://open.spotify.com/track/7zvL6HVyaq4z1IjQ8M5pEB"
@@ -6675,7 +6712,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 201956,
       "name": "Me Est\u00e1 Doliendo Dejarte",
       "url": "https://open.spotify.com/track/1SzOswTvJknYu0esZ8z6xh"
@@ -9164,6 +9201,28 @@
     },
     {
       "album": {
+        "name": "PR Sessions #4",
+        "url": "https://open.spotify.com/album/4Ru3IxuOccecbtIEvDxMEF"
+      },
+      "artists": [
+        {
+          "name": "Panchito Records",
+          "url": "https://open.spotify.com/artist/6U1nvY2YuhmVZ96Af8K6qb"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148771,
+      "name": "PR Sessions #4",
+      "url": "https://open.spotify.com/track/6dYUROj5Z5EV6PNOPUprhF"
+    },
+    {
+      "album": {
         "name": "Prefiero Ser la Otra",
         "url": "https://open.spotify.com/album/7cLke7rHhbz47WA4CIe8mY"
       },
@@ -9237,6 +9296,24 @@
       "duration_ms": 201596,
       "name": "Psic\u00f3tico",
       "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
+    },
+    {
+      "album": {
+        "name": "Que Cachetada",
+        "url": "https://open.spotify.com/album/2pVRpxW6PwYV6swnFufOKS"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190208,
+      "name": "Que Cachetada",
+      "url": "https://open.spotify.com/track/13TKoueAGRnaFfTQLkH0Nk"
     },
     {
       "album": {
@@ -10274,6 +10351,24 @@
     },
     {
       "album": {
+        "name": "Si solo pienso en ti",
+        "url": "https://open.spotify.com/album/5AqIuGURrguEypTirJGWvm"
+      },
+      "artists": [
+        {
+          "name": "Los Lamas",
+          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185621,
+      "name": "Si solo pienso en ti",
+      "url": "https://open.spotify.com/track/7wK0owB1JeWOm7fUqmWGz6"
+    },
+    {
+      "album": {
         "name": "Si Te Preguntan...",
         "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
       },
@@ -10341,6 +10436,24 @@
       "duration_ms": 264237,
       "name": "Si Va A Ser...Ser\u00e1",
       "url": "https://open.spotify.com/track/3R3SF0dXWShukKIaGUli43"
+    },
+    {
+      "album": {
+        "name": "Siento",
+        "url": "https://open.spotify.com/album/26oBWM1k8dNJgcB89m5xnw"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/6P3P2GtNiCCIZrXEb9INcw"
     },
     {
       "album": {
@@ -11534,6 +11647,28 @@
     },
     {
       "album": {
+        "name": "Tu Marca",
+        "url": "https://open.spotify.com/album/7eAmdtMfLjpeRoam6fzHVc"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210236,
+      "name": "Tu Marca",
+      "url": "https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH"
+    },
+    {
+      "album": {
         "name": "Tu Me Estas Enamorando (Remix)",
         "url": "https://open.spotify.com/album/0vmwQkMedSD8CEZcMyWQib"
       },
@@ -12025,7 +12160,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 173568,
       "name": "Usted",
       "url": "https://open.spotify.com/track/1wvsM4yHoe3ok4jjnTcrFY"
@@ -12861,7 +12996,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 230866,
       "name": "\u00bfY Qui\u00e9n Es Ella? - Remix",
       "url": "https://open.spotify.com/track/1au64vRY2ApjoQKHWW1VtL"

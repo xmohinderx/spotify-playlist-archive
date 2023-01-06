@@ -4,7 +4,7 @@
 
 > Ponle actitud a tu comida.
 
-80 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/4V2yOSsSxqVivO6mUzi8DS)
+80 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

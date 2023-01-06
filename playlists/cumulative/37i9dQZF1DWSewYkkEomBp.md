@@ -4,7 +4,7 @@
 
 > The perfect tunes to accompany your lazy day in the garden.
 
-157 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/5xQHrzCAIy1Zh6EFNIANJ1)
+157 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

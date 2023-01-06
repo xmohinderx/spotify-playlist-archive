@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: WILLOW \#SpotifyWrapped
 
-232 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/1udUiCD9eyyN72NZN3L8o8)
+232 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

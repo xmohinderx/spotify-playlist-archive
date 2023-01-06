@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-31",
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
   "name": "This Is Lamb of God",
-  "published_playlist_ids": [
-    "41Kl1sEX0TkBb24xn0X36H"
-  ],
   "tracks": [
     {
       "album": {
@@ -1377,7 +1374,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 271306,
       "name": "The Duke",
       "url": "https://open.spotify.com/track/2JTikXpeRiapyDGR1p8ITD"

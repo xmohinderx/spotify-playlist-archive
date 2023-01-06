@@ -4,7 +4,7 @@
 
 > Editor's picks:  The best R&B songs of 2022\.  Cover: Beyoncé
 
-110 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/5CqIx5SYesMiyq5kUbOc6y)
+110 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

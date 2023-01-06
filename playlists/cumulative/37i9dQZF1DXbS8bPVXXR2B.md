@@ -4,7 +4,7 @@
 
 > We just wanna rock you all night long.
 
-180 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/2z5WQJnawaIEybSj0518t2)
+180 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

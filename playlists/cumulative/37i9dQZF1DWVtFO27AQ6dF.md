@@ -4,7 +4,7 @@
 
 > Música motivacional para quemar esa hamburguesa que comiste el finde.
 
-112 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/1GYt6A531w759QfJlAemMx)
+112 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

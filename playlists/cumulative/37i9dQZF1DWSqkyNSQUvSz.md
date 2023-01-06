@@ -4,7 +4,7 @@
 
 > A podcast playlist where women of all experiences share the stories that made them who they are.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/4X8P9LnGazfERCLYmPSIas)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

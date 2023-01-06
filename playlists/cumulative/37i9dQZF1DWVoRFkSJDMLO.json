@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-01",
   "description": "Inspired by African drums. Cover: Popcaan \ud83c\uddef\ud83c\uddf2 ",
   "name": "Crxss Current",
-  "published_playlist_ids": [
-    "3Nva1foeKA4kN9RYANT1NX"
-  ],
   "tracks": [
     {
       "album": {
@@ -81,7 +78,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 169800,
       "name": "5 Star (with Rick Ross)",
       "url": "https://open.spotify.com/track/5shjJZp662loniBOyjqr8h"
@@ -1624,6 +1621,28 @@
     },
     {
       "album": {
+        "name": "Dem Fear We",
+        "url": "https://open.spotify.com/album/0Rhqlf4jseRmQqT5neGs9g"
+      },
+      "artists": [
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        },
+        {
+          "name": "Twinkle Brain",
+          "url": "https://open.spotify.com/artist/4YUUAPnIuLhAFMuOvt7XfL"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172713,
+      "name": "Dem Fear WE",
+      "url": "https://open.spotify.com/track/7GW1ObEMhFzGIlEmNPjt74"
+    },
+    {
+      "album": {
         "name": "Insincerely AP",
         "url": "https://open.spotify.com/album/3kj8MeAuCML4nMgO4wNbEg"
       },
@@ -1835,7 +1854,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 170000,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5ihfDdiBnBN75bLfOCJ4U8"
@@ -2415,6 +2434,24 @@
       "duration_ms": 167735,
       "name": "Handle Me (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
+    },
+    {
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/7oxcbLUmVS8Pv75orcYEv3"
+      },
+      "artists": [
+        {
+          "name": "Jimmy October",
+          "url": "https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191219,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/19SfJlY1H4oqADUCVdhNZi"
     },
     {
       "album": {
@@ -3489,7 +3526,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 156000,
       "name": "Location",
       "url": "https://open.spotify.com/track/3DYcM56i1YQ410v8jv54pK"
@@ -4478,6 +4515,24 @@
     },
     {
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/1kP6tt24YPAb6MqTCzR2GG"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/7cbe94yjeFCvXZ0T7avjJS"
+    },
+    {
+      "album": {
         "name": "People Business",
         "url": "https://open.spotify.com/album/6RDhsuM9IPsYwrgaxAQshk"
       },
@@ -5043,7 +5098,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
@@ -6469,6 +6524,28 @@
       "duration_ms": 288849,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
+    },
+    {
+      "album": {
+        "name": "We Caa Done (feat. Drake)",
+        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "We Caa Done (feat. Drake)",
+      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
     },
     {
       "album": {

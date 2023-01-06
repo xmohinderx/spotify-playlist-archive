@@ -4,7 +4,7 @@
 
 > Celebra el amor igualitario con una fina selección hecha por Sobrino.
 
-89 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/2lenEe7u2WrzaIYeSm569B)
+89 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

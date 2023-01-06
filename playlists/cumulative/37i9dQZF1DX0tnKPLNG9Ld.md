@@ -4,7 +4,7 @@
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-152 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/17UmPpGpDE0CvSJx06ZMsA)
+152 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

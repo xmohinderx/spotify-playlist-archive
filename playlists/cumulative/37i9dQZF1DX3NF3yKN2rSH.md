@@ -4,7 +4,7 @@
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-117 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/1aoJCabT3rNzgQUBisO6Z2)
+117 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

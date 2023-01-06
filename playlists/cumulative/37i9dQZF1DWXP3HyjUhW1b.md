@@ -4,7 +4,7 @@
 
 > Aquí están las meras\-meras de nuestro cancionero\. Pedro Infante en portada.
 
-212 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/60XC9Gg1KRiP0TwNvVrnnp)
+212 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

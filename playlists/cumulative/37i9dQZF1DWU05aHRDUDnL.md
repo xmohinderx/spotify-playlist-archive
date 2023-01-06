@@ -4,7 +4,7 @@
 
 > Put your headphones on and enjoy your day.
 
-40 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/5HtQ5iF2YeYyvQtg5eHFJB)
+40 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

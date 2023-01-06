@@ -4,7 +4,7 @@
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/4fMUj7mAN5J355FNck9WHZ)
+74 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-178 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/6hONOx8JhMvxTKwVXd1ds8)
+178 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

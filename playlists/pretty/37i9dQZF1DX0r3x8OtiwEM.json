@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 804985,
+  "num_followers": 805673,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NjY0MSwwMDAwMDAwMGQwNTkyYTQyOTljMDA5Yjk1MTczYzNhMTRhZjM3Nzgw",
+  "snapshot_id": "MTY2OTM4NjY0MSwwMDAwMDAwMGYyYWI2YzI3YzgyYjUzMDM1NWEyZWEzNGQ4Y2I3ZGJj",
   "tracks": [
     {
       "added_at": "2022-11-14 23:00:00",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
-      "added_at": "2023-01-05 01:12:27",
+      "added_at": "2023-01-06 07:23:11",
       "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
     },
     {
-      "added_at": "2023-01-05 01:12:27",
+      "added_at": "2023-01-06 07:23:11",
       "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC"
     },
     {
-      "added_at": "2023-01-05 01:12:27",
+      "added_at": "2023-01-06 07:23:11",
       "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-14 23:00:00",
       "album": {
-        "name": "Backseat Tape",
-        "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184032,
-      "name": "I Don't Need You",
-      "url": "https://open.spotify.com/track/5uVU4VEQmzeNg0F11Jxu47"
-    },
-    {
-      "added_at": "2022-11-14 23:00:00",
-      "album": {
         "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
         "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2022-11-14 23:00:00",
       "album": {
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184032,
+      "name": "I Don't Need You",
+      "url": "https://open.spotify.com/track/5uVU4VEQmzeNg0F11Jxu47"
+    },
+    {
+      "added_at": "2022-11-14 23:00:00",
+      "album": {
         "name": "On My Knees (Adriatique Remix)",
         "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 452000,
       "name": "On My Knees - Adriatique Remix",
       "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
-    },
-    {
-      "added_at": "2023-01-05 01:12:27",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG"
-      },
-      "artists": [
-        {
-          "name": "Loco & Jam",
-          "url": "https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY"
     },
     {
       "added_at": "2022-11-14 23:00:00",
@@ -639,6 +623,22 @@
       "duration_ms": 287579,
       "name": "Claire",
       "url": "https://open.spotify.com/track/54CipIOeFb1lZYFhHi26lo"
+    },
+    {
+      "added_at": "2023-01-06 07:23:11",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG"
+      },
+      "artists": [
+        {
+          "name": "Loco & Jam",
+          "url": "https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY"
     },
     {
       "added_at": "2022-11-14 23:00:00",
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/6WqO9gLZu212VEJcVFAYdo"
     },
     {
-      "added_at": "2023-01-05 01:12:27",
+      "added_at": "2023-01-06 07:23:11",
       "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-11-14 23:00:00",
       "album": {
+        "name": "Unspoken Words",
+        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 285675,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
+    },
+    {
+      "added_at": "2022-11-14 23:00:00",
+      "album": {
         "name": "Blisss",
         "url": "https://open.spotify.com/album/67QO6UzoSlFcsPTuQR0FCJ"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2022-11-14 23:00:00",
       "album": {
-        "name": "Unspoken Words",
-        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
+        "name": "Stay There",
+        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
       },
       "artists": [
         {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
         }
       ],
-      "duration_ms": 285675,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
+      "duration_ms": 233562,
+      "name": "Stay There",
+      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
     },
     {
       "added_at": "2022-11-14 23:00:00",
@@ -903,22 +919,6 @@
       "duration_ms": 237500,
       "name": "When We Meet Again - Edit",
       "url": "https://open.spotify.com/track/2RP4PD9GgLI84f4YgYjP4X"
-    },
-    {
-      "added_at": "2022-11-14 23:00:00",
-      "album": {
-        "name": "Stay There",
-        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "Stay There",
-      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
     },
     {
       "added_at": "2022-11-14 23:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2022-11-14 23:00:00",
       "album": {
-        "name": "Prisma (Klanglos Remix)",
-        "url": "https://open.spotify.com/album/147QdcYieTKdMrzIvs2X8h"
-      },
-      "artists": [
-        {
-          "name": "Girlwoman",
-          "url": "https://open.spotify.com/artist/24rqTvJDFy2t2xgCxsN2f0"
-        },
-        {
-          "name": "Klanglos",
-          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
-        }
-      ],
-      "duration_ms": 208642,
-      "name": "Prisma - Klanglos Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/512m11L55vWoUbqrkObdCz"
-    },
-    {
-      "added_at": "2022-11-14 23:00:00",
-      "album": {
         "name": "Youth Is Wasted on the Young",
         "url": "https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 193623,
       "name": "Grouplove",
       "url": "https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq"
+    },
+    {
+      "added_at": "2022-11-14 23:00:00",
+      "album": {
+        "name": "Prisma (Klanglos Remix)",
+        "url": "https://open.spotify.com/album/147QdcYieTKdMrzIvs2X8h"
+      },
+      "artists": [
+        {
+          "name": "Girlwoman",
+          "url": "https://open.spotify.com/artist/24rqTvJDFy2t2xgCxsN2f0"
+        },
+        {
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+        }
+      ],
+      "duration_ms": 208642,
+      "name": "Prisma - Klanglos Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/512m11L55vWoUbqrkObdCz"
     },
     {
       "added_at": "2022-11-14 23:00:00",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2022-11-14 23:00:00",
       "album": {
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "Delhia De France",
+          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+        }
+      ],
+      "duration_ms": 329670,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1"
+    },
+    {
+      "added_at": "2022-11-14 23:00:00",
+      "album": {
         "name": "Home (Mind Against Remix)",
         "url": "https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 437647,
       "name": "Home - Mind Against Remix",
       "url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq"
-    },
-    {
-      "added_at": "2022-11-14 23:00:00",
-      "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "Delhia De France",
-          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
-        }
-      ],
-      "duration_ms": 329670,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1"
     }
   ],
   "unique_name": "Lowkey Tech",

@@ -4,7 +4,7 @@
 
 > Move your body with your favorite 90s songs.
 
-121 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/5plle7IsBjCKk2BE4UbBwc)
+121 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

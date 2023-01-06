@@ -4,7 +4,7 @@
 
 > The best soft rock from the 2000s\. Cover: Lifehouse.
 
-113 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/2IAx04uVUSLu0nI0az8rLp)
+113 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

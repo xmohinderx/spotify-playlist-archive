@@ -4,7 +4,7 @@
 
 > All new, all jazz\. Cover: The JuJu Exchange
 
-1,972 songs - 6 day 17 hr 40 min - [published](https://open.spotify.com/playlist/0siys22nGZQAi8UglzoSEO)
+1,972 songs - 6 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Concentration & Motivation! Focus\-enhancing piano music for your study session.
 
-332 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/0rxDTjtFKjHnIItJrCyyMO)
+332 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

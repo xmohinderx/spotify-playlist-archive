@@ -4,7 +4,7 @@
 
 > ¡Ya huele a sopita! Buen provecho.
 
-172 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/6nHfAhKgA3afhAPK6zAPhU)
+172 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

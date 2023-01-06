@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Tamara Pyller
 
-84 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/4QDjpH3HmVOxtM4Kgm7yQa)
+84 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.   Cover:  Natalie Grant & Cory Asbury",
+  "description": "The best mix of today's Christian music, all genres, worldwide.   Cover:  Casting Crowns",
   "name": "Top Christian & Gospel",
-  "published_playlist_ids": [
-    "3IGSOKftgGE885pvp0BADM"
-  ],
   "tracks": [
     {
       "album": {
@@ -1122,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "Desert Road",
+        "url": "https://open.spotify.com/album/4Vux1bTa1zV0RjGeCEAUd5"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218484,
+      "name": "Desert Road",
+      "url": "https://open.spotify.com/track/02a8RhJAiUYkYdd2zXK81t"
+    },
+    {
+      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -1761,6 +1780,24 @@
       "duration_ms": 220800,
       "name": "Glory I Couldn't See - Radio Version",
       "url": "https://open.spotify.com/track/6i2ERbUNohRhaLvD9AVdfo"
+    },
+    {
+      "album": {
+        "name": "GO BACK",
+        "url": "https://open.spotify.com/album/0IpCBFsEPn1CO9Fxkfauo1"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157531,
+      "name": "GO BACK",
+      "url": "https://open.spotify.com/track/3RuK88EzkleaL2bIpUmVEP"
     },
     {
       "album": {
@@ -2477,7 +2514,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 168000,
       "name": "Hidden",
       "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
@@ -2861,7 +2898,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 267773,
       "name": "Hymn Of Heaven",
       "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
@@ -3252,6 +3289,32 @@
     },
     {
       "album": {
+        "name": "If I Could Have Anything",
+        "url": "https://open.spotify.com/album/2WUzFHWLFCMCGNwqznfntm"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Blake Wiggins",
+          "url": "https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV"
+        },
+        {
+          "name": "Ahjah Walls",
+          "url": "https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430120,
+      "name": "If I Could Have Anything",
+      "url": "https://open.spotify.com/track/1Ujc3cNf2JxHHhoLjzHRbL"
+    },
+    {
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/02agWXzHUBYG9YBeyJV0Cl"
       },
@@ -3445,7 +3508,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 229213,
       "name": "Jesus at a Distance",
       "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
@@ -3529,7 +3592,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 213746,
       "name": "Jesus Is Coming Back (feat. Mandisa & Jonathan Traylor)",
       "url": "https://open.spotify.com/track/3nDaOQU9hOkwf1onF3rSuZ"
@@ -3925,7 +3988,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 346200,
       "name": "Lean on the Lord",
       "url": "https://open.spotify.com/track/1zbaqLQ3LEuteLOWobr61c"
@@ -4884,6 +4947,28 @@
     },
     {
       "album": {
+        "name": "no longer bound",
+        "url": "https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173195,
+      "name": "no longer bound",
+      "url": "https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh"
+    },
+    {
+      "album": {
         "name": "Now Here (The Collection)",
         "url": "https://open.spotify.com/album/6O3TlNhKm1rXwGGClEDMOc"
       },
@@ -5681,6 +5766,24 @@
     {
       "album": {
         "name": "Run",
+        "url": "https://open.spotify.com/album/1RKGwSiX9BMJq3mQS7RI3f"
+      },
+      "artists": [
+        {
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220962,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6AYDBBuLOp7DvRoPC3P9Uv"
+    },
+    {
+      "album": {
+        "name": "Run",
         "url": "https://open.spotify.com/album/1zvRvvWd3VHXROLpdUnIux"
       },
       "artists": [
@@ -5695,6 +5798,24 @@
       "duration_ms": 252093,
       "name": "Run",
       "url": "https://open.spotify.com/track/0YRMoVqvnAGzDlnYF2yIWq"
+    },
+    {
+      "album": {
+        "name": "Running Home",
+        "url": "https://open.spotify.com/album/3og2JHWIHx1tsTAGN8uRNJ"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Running Home",
+      "url": "https://open.spotify.com/track/4oKK5E5c11sU4eaOQ9hCBi"
     },
     {
       "album": {
@@ -6825,7 +6946,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 175412,
       "name": "The Lows",
       "url": "https://open.spotify.com/track/33bBjkRiZIkHdoAZlBb9KR"
@@ -7285,7 +7406,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 254099,
       "name": "Walls",
       "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
@@ -7553,6 +7674,24 @@
       "duration_ms": 179173,
       "name": "When You Speak",
       "url": "https://open.spotify.com/track/4K1pUPcKmm4hTfm23iJxhU"
+    },
+    {
+      "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/1LBY9Iz5emzXJArvaa9udn"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247608,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/1XW7nm01W98LLYtdQGt7Af"
     },
     {
       "album": {

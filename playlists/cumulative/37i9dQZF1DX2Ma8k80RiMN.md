@@ -4,7 +4,7 @@
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
 
-89 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/1hna57tdO5fufuV8wdlNPX)
+89 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

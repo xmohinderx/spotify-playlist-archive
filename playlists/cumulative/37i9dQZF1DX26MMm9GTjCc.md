@@ -4,7 +4,7 @@
 
 > The soundtrack to your festive get\-together!
 
-117 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/4aTtG0lLgznSH9xY438zpI)
+117 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

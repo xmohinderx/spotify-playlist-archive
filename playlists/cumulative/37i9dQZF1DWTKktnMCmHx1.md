@@ -4,7 +4,7 @@
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-178 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/6l5P3G82wIIpWN7HLTuLQk)
+178 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

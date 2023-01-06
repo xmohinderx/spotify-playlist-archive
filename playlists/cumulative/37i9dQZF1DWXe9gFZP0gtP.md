@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient music.
 
-325 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+325 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

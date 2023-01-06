@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-450 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
+451 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2021-10-23 |  |
 | [Better Than Feeling Lonely](https://open.spotify.com/track/0n1SCmuSFEqRQxXvlxCNBy) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Better Than Feeling Lonely](https://open.spotify.com/album/1QaMPJQkIa89q1DcrZHilW) | 3:14 | 2021-01-08 | 2022-07-29 |
 | [Bitch](https://open.spotify.com/track/2PjGWkumFMNIrdgJ8tA5BI) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Bitch](https://open.spotify.com/album/5FYMZSGSXsQDRUljl5nvnQ) | 3:14 | 2021-06-27 | 2021-09-26 |
-| [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2021-10-02 |  |
+| [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2021-10-02 | 2023-01-06 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-05-14 |  |
 | [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2021-02-26 |  |
 | [Break Up Song](https://open.spotify.com/track/3fEoJxnPpfIHwFHKiFtqbA) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Break Up Song](https://open.spotify.com/album/0JFTISfgRQyeH5kSAFPgtq) | 3:20 | 2020-03-29 | 2021-08-13 |
@@ -424,6 +424,7 @@
 | [Underwater](https://open.spotify.com/track/04QZdz4g1qoDlPscXVXS1I) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Underwater](https://open.spotify.com/album/0KDYWXyVzqgZWRS1oZu91c) | 5:49 | 2019-05-26\* | 2019-08-09 |
 | [Undrunk](https://open.spotify.com/track/5SHhPFh68OhUmuRPymKX9d) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Undrunk](https://open.spotify.com/album/5Skgz8BwS0Lfw2zlQSy1EB) | 3:03 | 2019-05-26\* | 2021-10-02 |
 | [Until We Bleed \(feat\. Lykke Li\)](https://open.spotify.com/track/4R9tl76Nf4xr8GMhcpaNDm) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Longing for Lullabies \(feat\. Titiyo\)](https://open.spotify.com/album/1mSVeWzQxYeVY2SQUqqGzx) | 4:24 | 2019-07-28 | 2019-08-08 |
+| [Used to Love You](https://open.spotify.com/track/6T4uabGkWUegfv3O2QiwyZ) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Used to Love You](https://open.spotify.com/album/3UJ3kelJ5onDDfiz8Mbu2j) | 3:00 | 2023-01-06 |  |
 | [Vertigo](https://open.spotify.com/track/2Aqg6jGRbrpyX3Pms61Q9o) | [Kisnou](https://open.spotify.com/artist/3Co4gT2U5SSLRcqcaArvBF), [Amethyst](https://open.spotify.com/artist/4rWVnoVdnBxs0C1o9RNIhg) | [Glow to Last](https://open.spotify.com/album/6uF3BZA5Hi002BbTERqshy) | 4:17 | 2019-05-26\* | 2021-05-27 |
 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 | 2022-07-01 | 2022-11-06 |
 | [Wait](https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:10 | 2019-05-26\* | 2021-05-28 |

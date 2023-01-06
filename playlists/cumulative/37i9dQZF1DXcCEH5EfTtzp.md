@@ -4,7 +4,7 @@
 
 > Energetic drum & bass to keep your rhythm pumping.
 
-80 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/5GsikiWgqsQsiiBpViWT2y)
+80 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

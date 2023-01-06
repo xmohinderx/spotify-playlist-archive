@@ -4,7 +4,7 @@
 
 > This is Sonny Okosun\. The essential tracks, all in one playlist.
 
-73 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/0a2chP1EajQG8cINpQWqPB)
+73 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

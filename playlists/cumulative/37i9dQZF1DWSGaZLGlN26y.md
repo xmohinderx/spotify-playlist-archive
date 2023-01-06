@@ -4,7 +4,7 @@
 
 > Songs for lovers like you've never heard before\. Cover: Leon Bridges
 
-179 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/1FdTss7Ut4Y6PdpZxi4qVY)
+179 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

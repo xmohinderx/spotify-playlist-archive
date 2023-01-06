@@ -4,7 +4,7 @@
 
 > Editor's pick: The best of Gengetone songs of 2022\. Cover: Exray Taniua
 
-171 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/3E6GHAfjqTrPwpK3Gzst6H)
+171 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

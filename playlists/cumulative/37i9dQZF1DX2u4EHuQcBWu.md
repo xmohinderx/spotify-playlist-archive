@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-276 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
+276 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

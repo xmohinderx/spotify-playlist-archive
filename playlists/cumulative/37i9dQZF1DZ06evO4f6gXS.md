@@ -4,7 +4,7 @@
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/2s5owikyjfrw5etYCfTIut)
+67 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

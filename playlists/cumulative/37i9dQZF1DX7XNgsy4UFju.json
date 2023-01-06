@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: July Talk",
+  "description": "Home to all the latest indie jams. Cover: Joesef",
   "name": "Indie All Stars",
-  "published_playlist_ids": [
-    "4hpfeoyJCUxj1W1YZOVAqm"
-  ],
   "tracks": [
     {
       "album": {
@@ -1681,6 +1678,24 @@
       "duration_ms": 220026,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/1PLTjpyaigxmu8M5D4sJmt"
+    },
+    {
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214768,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
     },
     {
       "album": {
@@ -5280,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "Going Home to a Party",
+        "url": "https://open.spotify.com/album/3ifYlOeyOKESM3eiI5VEj4"
+      },
+      "artists": [
+        {
+          "name": "JW Francis",
+          "url": "https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189159,
+      "name": "Going Home to a Party",
+      "url": "https://open.spotify.com/track/67HUaanzX0yFZeYvwcviWF"
+    },
+    {
+      "album": {
         "name": "Gold Rush",
         "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
       },
@@ -5291,7 +5324,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 284970,
       "name": "Gold Rush",
       "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
@@ -7747,7 +7780,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 247645,
       "name": "Just Come Home with Me Tonight",
       "url": "https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL"

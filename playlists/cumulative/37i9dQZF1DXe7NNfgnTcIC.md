@@ -4,7 +4,7 @@
 
 > Enjoy the world of <a href="http://caroleandtuesday.com/">CAROLE & TUESDAY</a> with great theme songs and soundtrack! ©ボンズ・渡辺信一郎／キャロル＆チューズデイ製作委員会
 
-71 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/0vPyHRqPqyMcumijaHE9hs)
+71 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

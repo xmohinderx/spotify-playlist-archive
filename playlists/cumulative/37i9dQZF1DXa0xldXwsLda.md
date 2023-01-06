@@ -4,7 +4,7 @@
 
 > ¡Buen provecho!
 
-138 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/5OZbOI9nZrBk2zCBjyRU30)
+138 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

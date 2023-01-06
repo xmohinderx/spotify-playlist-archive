@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Cult Sh\u03c6tta",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Mikey Dam",
   "name": "Local Hype",
-  "published_playlist_ids": [
-    "4Dkoxwgg3cIjwa7yuFFJFE"
-  ],
   "tracks": [
     {
       "album": {
@@ -103,7 +100,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 205077,
       "name": "6gs",
       "url": "https://open.spotify.com/track/6mA8PVPy78DHdky2ho8I6L"
@@ -433,7 +430,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 121483,
       "name": "BANK OF MEDELLIN",
       "url": "https://open.spotify.com/track/4beXowB0IOzdaZGFeejNCz"
@@ -1550,6 +1547,32 @@
     },
     {
       "album": {
+        "name": "Djabuganydji Bama (NERVE REMIX)",
+        "url": "https://open.spotify.com/album/66BHY62FENAPwNe38pfFBh"
+      },
+      "artists": [
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        },
+        {
+          "name": "KDA Crew",
+          "url": "https://open.spotify.com/artist/5W70OHqfaGNzpLkCCSShFY"
+        },
+        {
+          "name": "Desert Pea Media",
+          "url": "https://open.spotify.com/artist/4o0vFBJUhSlBthmrwnHMLN"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Djabuganydji Bama - NERVE REMIX",
+      "url": "https://open.spotify.com/track/6RGUXlSA1e2v0eep9UNpg9"
+    },
+    {
+      "album": {
         "name": "Don't Get Comfortable",
         "url": "https://open.spotify.com/album/0TM2tIXgE00r77Emcg7iWu"
       },
@@ -1949,6 +1972,28 @@
       "duration_ms": 147127,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/2T1HDMEh7BDKfCZlKxET3D"
+    },
+    {
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/7ILBIkY6fElee33cslAarz"
+      },
+      "artists": [
+        {
+          "name": "Yaar Kahlon",
+          "url": "https://open.spotify.com/artist/1r08QeUOiKLWK7vDaKOrnK"
+        },
+        {
+          "name": "Sznny",
+          "url": "https://open.spotify.com/artist/1a67IzqPCit3VxHjXE9dWQ"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137943,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/3Cijp6fEvRThV1D0Xj9ux7"
     },
     {
       "album": {
@@ -3047,7 +3092,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 195640,
       "name": "Karekau",
       "url": "https://open.spotify.com/track/38FiobYyot66suEjTRh1x3"
@@ -3859,7 +3904,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 152408,
       "name": "Move It",
       "url": "https://open.spotify.com/track/36p1mFTJbbLycveV65mPFO"
@@ -6797,6 +6842,24 @@
       "duration_ms": 141125,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/3nUnPMNtuyOzgIgrF067SZ"
+    },
+    {
+      "album": {
+        "name": "Where I'm At",
+        "url": "https://open.spotify.com/album/3uBRvGyCCCSh8gMi5PRFsO"
+      },
+      "artists": [
+        {
+          "name": "Exl",
+          "url": "https://open.spotify.com/artist/6j5lxsz5UsEHXTgkwVC4ie"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113631,
+      "name": "Where I'm At",
+      "url": "https://open.spotify.com/track/2g6AzEuWeAcYePtoGaq6SV"
     },
     {
       "album": {

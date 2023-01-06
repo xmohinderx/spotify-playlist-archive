@@ -4,7 +4,7 @@
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Don3ydon
 
-97 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/5TALYxdz8KvCUOjfUqx9cT)
+97 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-278 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/2JWTmRivPex0K0ScEJt2GJ)
+278 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

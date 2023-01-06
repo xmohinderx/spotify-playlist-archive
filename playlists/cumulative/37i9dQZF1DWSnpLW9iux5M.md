@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-119 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/0vVrKPue9z9QkuqZM5OJDu)
+119 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

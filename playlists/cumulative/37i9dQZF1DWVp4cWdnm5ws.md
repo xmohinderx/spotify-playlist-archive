@@ -4,7 +4,7 @@
 
 > The top tracks from RADAR Philippines in 2022\. Cover: Adie
 
-109 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+109 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

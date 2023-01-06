@@ -4,7 +4,7 @@
 
 > music to help you \~ focus \~
 
-148 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
+148 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

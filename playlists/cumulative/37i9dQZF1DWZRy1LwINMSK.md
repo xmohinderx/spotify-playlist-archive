@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: Marcianeke
 
-133 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
+133 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-11",
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. For Tracy Hyde on cover!",
   "name": "Shoegaze Now",
-  "published_playlist_ids": [
-    "7khBi2LhuBeMPgT1Gz4AOk"
-  ],
   "tracks": [
     {
       "album": {
@@ -1513,9 +1510,9 @@
           "url": "https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL"
         }
       ],
-      "date_added": "2022-12-16",
+      "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 359000,
       "name": "False Alarm",
       "url": "https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs"
@@ -1923,7 +1920,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 206023,
       "name": "Hare Tarot Lies",
       "url": "https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik"

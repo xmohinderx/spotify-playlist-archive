@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-261 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+261 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > All the indie disco platters that matter.
 
-251 songs - 16 hr 10 min - not published yet
+251 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

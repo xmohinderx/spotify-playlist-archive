@@ -4,7 +4,7 @@
 
 > Put a spring in your step with these mood boosting tracks.
 
-160 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/5WfbzNnYUEdavIs2y7YL9x)
+160 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

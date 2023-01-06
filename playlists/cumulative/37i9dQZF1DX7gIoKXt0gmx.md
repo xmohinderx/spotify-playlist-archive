@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠
 
-240 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
+240 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

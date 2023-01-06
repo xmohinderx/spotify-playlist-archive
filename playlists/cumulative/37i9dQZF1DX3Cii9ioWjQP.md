@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: youra, Mandong \(유라, 만동\)\)
+> All about Korean Jazz hits & new \(Cover: Jade\(쟈드\)\)
 
-100 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/26wTSHT9kapiRaMyX7792n)
+101 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Sorrowful Memory](https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9) | [Ha Dong Yeon](https://open.spotify.com/artist/37HjETdZEtntIoddJLvk0C) | [Jinxed at First \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6qfCrcFoQZSuKIoYvS0jn1) | 3:33 | 2022-07-08 |  |
 | [Bambi](https://open.spotify.com/track/75IjhFxQkIvCzP16IyR5Ob) | [정수연](https://open.spotify.com/artist/7az0Pd2sKjDBXMxPxhd6Qn) | [Bambi](https://open.spotify.com/album/0qKGgiSj0etZBTFrqMwPZ7) | 4:22 | 2022-05-03 |  |
 | [Behind](https://open.spotify.com/track/6HvtI4dnFqS2YHxQxSRN5R) | [Hyena Park](https://open.spotify.com/artist/1FPKbjt3JFJCUL0Tjo4V4E) | [JAZZ DIVA](https://open.spotify.com/album/46RpUdfLtkuprdnQh69cPb) | 5:21 | 2022-05-03 |  |
+| [Best Friend](https://open.spotify.com/track/32bStQb6gjhmWLoiAAYSno) | [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Retrospect](https://open.spotify.com/album/4Eb1dLsvOh15opaO5bVCru) | 2:47 | 2023-01-05 |  |
 | [Between Us \(Feat\. OVCOCO\)](https://open.spotify.com/track/7e6bMKP3CEeyg6jbjFDcrk) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE), [OVCOCO](https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght) | [Between Us \(Feat\. OVCOCO\)](https://open.spotify.com/album/3XGjYjce5dOqS0vWknvUzs) | 3:19 | 2022-05-03 |  |
 | [Bird+Disposable \- Live at Nodeul Live House, 2021](https://open.spotify.com/track/0HXDnoDxJh6uMv0lE3tikE) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202 \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/album/3bojTh831YuLITkk3ncNjh) | 4:51 | 2022-05-03 |  |
 | [Blue in LED](https://open.spotify.com/track/1RuirFlIK2j9dlHoIUATWo) | [윤청미](https://open.spotify.com/artist/2ZzUbppeRa137R18Cxgj4A) | [Blue in LED](https://open.spotify.com/album/140zLUWx5AHU4b9PbDjaTI) | 3:30 | 2022-05-03 | 2022-07-29 |

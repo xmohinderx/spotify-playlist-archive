@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-60 songs - 4 hr 33 min - not published yet
+60 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

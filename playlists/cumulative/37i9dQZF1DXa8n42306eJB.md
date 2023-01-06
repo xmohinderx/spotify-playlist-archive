@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-101 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
+101 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

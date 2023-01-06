@@ -4,7 +4,7 @@
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-210 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
+210 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

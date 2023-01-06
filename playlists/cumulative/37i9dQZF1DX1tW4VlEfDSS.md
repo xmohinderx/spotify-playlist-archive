@@ -4,7 +4,7 @@
 
 > A feel\-good soulful house  and disco selection.
 
-178 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/4JyXGtfxADyxCIBU0wnIqy)
+178 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Maquinaría Norteña en portada.
 
-214 songs - 11 hr 39 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+214 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

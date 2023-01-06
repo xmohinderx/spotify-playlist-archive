@@ -4,7 +4,7 @@
 
 > New music from popular Hindi artists\. Cover\- Rito Riba
 
-352 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
+352 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

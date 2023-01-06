@@ -4,7 +4,7 @@
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-148 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/79xUevvuTQnyCBirNlp86S)
+148 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

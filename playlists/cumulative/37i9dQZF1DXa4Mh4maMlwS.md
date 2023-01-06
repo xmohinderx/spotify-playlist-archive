@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Amanda Kloots.
 
-37 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/441cLWN4hcj3dwhYZAsloq)
+37 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

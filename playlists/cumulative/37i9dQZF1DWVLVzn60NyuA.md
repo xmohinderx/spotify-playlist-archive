@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-372 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
+372 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

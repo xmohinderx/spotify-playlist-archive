@@ -4,7 +4,7 @@
 
 > Get your bassface on with these classic Dubstep tracks.
 
-88 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/2qzn7ImjgDrhmEL5jaeO3u)
+88 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

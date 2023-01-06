@@ -4,7 +4,7 @@
 
 > Revive aquellas grandes canciones desenchufadas.
 
-91 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/5Xm3osiTbWWeVeEAkw3tSe)
+91 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

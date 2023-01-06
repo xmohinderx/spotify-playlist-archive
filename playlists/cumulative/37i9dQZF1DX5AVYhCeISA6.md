@@ -4,7 +4,7 @@
 
 > Latinas que inspiran\. Kickback and listen to these amazing women\. Cover: Villano Antillano
 
-129 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/0wabUxwXgd1HFD7zingsRM)
+129 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

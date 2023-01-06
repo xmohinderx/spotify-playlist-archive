@@ -4,7 +4,7 @@
 
 > Baltimore Club queen <a href="spotify:artist:1T6Em6UJ7pSdgXw5V72YHr">TT The Artist</a> unleashes banger after banger of club culture energy!
 
-28 songs - 58 min 39 sec - not published yet
+28 songs - 58 min 39 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

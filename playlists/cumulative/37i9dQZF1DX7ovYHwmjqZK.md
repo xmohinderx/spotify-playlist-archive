@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-126 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/6irLJVar0NJeoObqheLojG)
+126 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Querencia is here !
 
-109 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/5tPgRj1Mt1ZyOeaWvPHY0Z)
+109 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Scopa, paletta e musica!
 
-282 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/4qhwVOd0ce2lSNhjobvAFO)
+282 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

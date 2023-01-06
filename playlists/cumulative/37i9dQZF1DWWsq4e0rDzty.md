@@ -4,7 +4,7 @@
 
 > For an education in rock.
 
-144 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/5ccmMNrrlyJcTacvDmU4wz)
+144 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

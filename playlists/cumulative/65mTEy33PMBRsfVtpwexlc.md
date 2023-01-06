@@ -4,7 +4,7 @@
 
 > Best of 90s alternative rock music including iconic throwback alt rock songs from Blur, Depeche Mode, The Goo Goo Dolls, and more!
 
-83 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/24JwVIN24HR2XePMfwWc4Y)
+83 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

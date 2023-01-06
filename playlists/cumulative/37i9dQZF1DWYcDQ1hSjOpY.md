@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-371 songs - 18 hr 26 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+371 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

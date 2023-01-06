@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Hagle
 
-269 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
+269 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

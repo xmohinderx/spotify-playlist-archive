@@ -4,7 +4,7 @@
 
 > No procrastination allowed\. Only fun songs to help you get chores done.
 
-150 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/2WhGMoLUveJdFuaqRsyWXy)
+150 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

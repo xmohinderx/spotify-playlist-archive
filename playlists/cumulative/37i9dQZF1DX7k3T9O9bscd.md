@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-252 songs - 20 hr 30 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+252 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

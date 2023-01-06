@@ -4,7 +4,7 @@
 
 > Clásicos del rock en inglés y en español\. Foto: Radiohead
 
-255 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/4cXijYdu2gMfDG9vVRlwOd)
+255 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

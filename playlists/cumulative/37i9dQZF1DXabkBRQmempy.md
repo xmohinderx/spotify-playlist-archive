@@ -4,7 +4,7 @@
 
 > Lo mejor del rock en español en la década de los 90.
 
-99 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/6pJ4TMFmqgyGIU4xZTL8JT)
+99 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

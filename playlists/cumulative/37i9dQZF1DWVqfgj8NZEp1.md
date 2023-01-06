@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-260 songs - 1 day 0 hr 34 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+262 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/track/56OCZENfcrmeCpufvWZd0P) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/album/7BisVv834vN4y1h8CcWhjC) | 4:43 | 2021-11-26 |  |
 | [Romance / Hommage à Milhaud](https://open.spotify.com/track/3lw4OExcjj4kba4uU9gF4P) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Ménage à trois](https://open.spotify.com/album/55UQ7AQ6F88cmU7SEoVNaE) | 4:45 | 2020-10-09 | 2022-02-25 |
 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 | 2020-10-09 |  |
+| [Ruth](https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Ruth](https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly) | 4:11 | 2023-01-05 |  |
 | [Sad Tune](https://open.spotify.com/track/3LZ0GUgBO1XXW6jKK5A2lJ) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [West Village](https://open.spotify.com/album/7gzA8ExUAm5N63xmO3C0KH) | 6:15 | 2020-10-09 | 2022-02-18 |
 | [Seeds Of Change](https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marilyn Crispell](https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD), [Carmen Castaldi](https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO) | [Seeds Of Change](https://open.spotify.com/album/38N7apoWt2VDyjrSbnu6pi) | 5:13 | 2020-10-09 |  |
 | [Seneca Village](https://open.spotify.com/track/5DvysWYH5vykA6l2PxzhjH) | [Jakob Dreyer](https://open.spotify.com/artist/4YozGMNyLJYo3Iq53bDUSs), [Jimmy Macbride](https://open.spotify.com/artist/1W6vCfWWnL6VDvZJHpjh3i), [Jason Rigby](https://open.spotify.com/artist/16qoe2tnMAMcq98rnKvAoR), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE) | [Songs, Hymns and Ballads, Vol\. 1](https://open.spotify.com/album/4kEDYta5VLbR0Zed7lhYeM) | 6:10 | 2022-09-15 |  |
@@ -240,6 +241,7 @@
 | [Theme for Ernie](https://open.spotify.com/track/6FTyd72Hx3B9jRogHKCty1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Strings](https://open.spotify.com/album/6oaOeKa70xXJ1QIMBerp3N) | 7:14 | 2021-09-24 | 2022-05-03 |
 | [Theme For Leon](https://open.spotify.com/track/1PdnJncOIXLLHOjWq6zQBE) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Theme for Leon](https://open.spotify.com/album/587RQMxWOa3jkQKFQt9tKw) | 6:08 | 2022-02-24 |  |
 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 | 2022-10-20 |  |
+| [This Is Our Year](https://open.spotify.com/track/24USzMZvsczfg3WsjUruPc) | [Thomas Sejthen Trio](https://open.spotify.com/artist/66wuq7K0KsFPamcuZJI3LM), [Thomas Sejthen](https://open.spotify.com/artist/785HPw9fdKz7GmwfItsc2K), [Mads Ole Erhardsen](https://open.spotify.com/artist/6q6FdyAk4gR1slw690LP4o), [Jesper Bo Knudsen](https://open.spotify.com/artist/767zb5lIt0ZuBdDbiBbSUO), [Søren Bigum](https://open.spotify.com/artist/0XKjUjSwm1Am2d3M25U2rl) | [This Is Our Year](https://open.spotify.com/album/0vly6DrBxbf2tIUB33vOh0) | 6:11 | 2023-01-05 |  |
 | [Through the Rain](https://open.spotify.com/track/0nnEStdwniSSWdLHc6uaWn) | [Eyal Lovett](https://open.spotify.com/artist/2nWU6AHzibFay6s15UoWXl) | [Through the Rain](https://open.spotify.com/album/6FtYUX8NSsxzxleDwqnQB8) | 7:17 | 2022-06-30 | 2022-08-17 |
 | [Through the Rain](https://open.spotify.com/track/44xN13ObvgiPwloLBCiyAd) | [Eyal Lovett](https://open.spotify.com/artist/2nWU6AHzibFay6s15UoWXl) | [Through the Rain](https://open.spotify.com/album/6uBBuyS9vVdrCqor0m8Ft8) | 7:17 | 2022-02-24 | 2022-07-29 |
 | [Tis Our Prayer](https://open.spotify.com/track/1A6rWsVB4JNfsvVcAN2FdY) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Warna](https://open.spotify.com/album/1AxMJlX259UQmCRRsD5jl5) | 4:08 | 2020-10-09 | 2022-12-21 |

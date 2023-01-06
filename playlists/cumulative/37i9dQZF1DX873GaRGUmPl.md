@@ -4,7 +4,7 @@
 
 > The best alternative songs of the decade so far\. Cover: Grimes
 
-315 songs - 21 hr 5 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
+315 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

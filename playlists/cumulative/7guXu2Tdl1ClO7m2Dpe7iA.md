@@ -4,13 +4,13 @@
 
 > Fresh house bangers with a sprinkle of dnb, bass and chill tunes in the end, all hand picked by San Pacho\. Updated regularly \(I hope lol\)!
 
-39 songs - 2 hr 10 min - not published yet
+39 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Nighter](https://open.spotify.com/track/52NZAuRXeeho5ejZORimxy) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [All Nighter](https://open.spotify.com/album/1iS7kHJJE4x1AxNOfLyzPP) | 3:22 | 2022-11-11 | 2022-12-17 |
 | [As Long As We Got House](https://open.spotify.com/track/1haSCrD5ejKJHEYH1gP6OW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [As Long As We Got House](https://open.spotify.com/album/5i2am7GXU3ROJFU8nOPnUz) | 2:53 | 2022-11-11 |  |
-| [Ballroom \- Edit](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 | 2022-12-16 |  |
+| [Ballroom \(Edit\)](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 | 2022-12-16 |  |
 | [Body Move](https://open.spotify.com/track/1UyYIqE4bTokxEK0DUpzTM) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Jack The House 3](https://open.spotify.com/album/2JLEygazGNxcACvaFLNRmC) | 3:04 | 2022-11-11 | 2022-12-17 |
 | [Brighter Days \- Marco Lys Remix](https://open.spotify.com/track/7IJP1vVnqU5mV2hYUbZrlX) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Brighter Days \(30 Year Anniversary Remixes\)](https://open.spotify.com/album/27khu5BAQkUgYxqlYFwRLB) | 6:22 | 2022-12-16 |  |
 | [Daka \- Original Mix](https://open.spotify.com/track/0h8bhIOhbhzmr1qIqSGm8p) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Daka](https://open.spotify.com/album/40GiZj6Qkd45nMo4N1X10V) | 6:30 | 2022-12-16 |  |

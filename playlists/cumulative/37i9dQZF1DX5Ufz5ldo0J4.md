@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-276 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
+276 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

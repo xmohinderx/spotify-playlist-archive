@@ -4,7 +4,7 @@
 
 > Mellow out with this dub music.
 
-99 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/5rPWWmddDxoO2FirCSHDOY)
+99 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

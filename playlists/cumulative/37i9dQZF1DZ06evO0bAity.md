@@ -4,7 +4,7 @@
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/6t5R4Y2WSSNblWK3Xrazc4)
+58 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

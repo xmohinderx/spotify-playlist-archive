@@ -4,7 +4,7 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/1kVU1jZDJHhCSe6mul87xq)
+70 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

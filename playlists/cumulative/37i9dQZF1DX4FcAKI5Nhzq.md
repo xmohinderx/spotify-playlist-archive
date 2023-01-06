@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: MOONBIN&SANHA\(ASTRO\)
 
-708 songs - 1 day 15 hr 23 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+708 songs - 1 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Discover the class of 2022! Cover: Cat Burns
 
-181 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+181 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

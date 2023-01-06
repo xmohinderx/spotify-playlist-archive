@@ -4,7 +4,7 @@
 
 > Aquí le ponemos ritmo a las tareas del hogar.
 
-150 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/5k29oxOKnG3oi1X4Hhvzpq)
+150 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

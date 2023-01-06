@@ -4,7 +4,7 @@
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-79 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/47hjr70tGR1mvbCMqz6RSX)
+79 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

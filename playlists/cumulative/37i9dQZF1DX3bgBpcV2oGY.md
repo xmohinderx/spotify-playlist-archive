@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-160 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+160 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

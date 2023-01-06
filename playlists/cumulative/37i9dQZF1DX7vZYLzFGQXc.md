@@ -4,7 +4,7 @@
 
 > The top 50 tracks from Fresh Finds Korea in 2022\. \(Cover: Evelyn Hahn\(에이블린 한\)\) 2022년 Fresh Finds Korea를 빛낸 트랙들을 만나보세요!
 
-762 songs - 1 day 19 hr 6 min - [published](https://open.spotify.com/playlist/0m5kX9onodhBdIpPia1W5d)
+762 songs - 1 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-137 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/1ZF0pbGIatnjdQmWjkzz9Q)
+137 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

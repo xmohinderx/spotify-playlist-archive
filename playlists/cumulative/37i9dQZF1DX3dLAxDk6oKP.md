@@ -4,7 +4,7 @@
 
 > Al cien en la mamalona!
 
-207 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/4uNSdy9xu9zOvUZNzYyJAZ)
+207 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

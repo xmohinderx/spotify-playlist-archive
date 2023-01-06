@@ -4,7 +4,7 @@
 
 > The most unforgettable love songs from the 80s.
 
-69 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/3zbr3w8bDk6MGZYKrSdbkA)
+69 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

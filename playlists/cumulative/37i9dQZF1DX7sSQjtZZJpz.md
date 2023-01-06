@@ -4,7 +4,7 @@
 
 > Songs to help your kids learn in English and Spanish!
 
-97 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/74TRlE8vKqdsWIYbhhbM7z)
+97 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-78 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/2nvEskcwDhlhLmESqtGpy2)
+78 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

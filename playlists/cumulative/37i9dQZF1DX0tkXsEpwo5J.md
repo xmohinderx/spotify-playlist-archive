@@ -4,7 +4,7 @@
 
 > ¡Canciones para sonreír durante el día!
 
-121 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/5pAUo2hk22N0FPa4hd7kD7)
+121 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

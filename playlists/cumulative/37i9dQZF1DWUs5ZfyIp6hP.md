@@ -4,7 +4,7 @@
 
 > Light of your 4th with these family\-friendly tunes.
 
-73 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/11OpCHhH8MTANOGktvaIzu)
+73 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The cutting edge in Ambient, Atmospheric and Neo\-Classical\. Lucrecia Dalt on cover.
 
-841 songs - 2 day 21 hr 14 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
+841 songs - 2 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

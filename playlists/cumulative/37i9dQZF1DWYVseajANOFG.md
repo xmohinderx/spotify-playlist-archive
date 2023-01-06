@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: Jorkan
 
-122 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/79dWlZ80QnS0vL3EFzUJSz)
+122 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Songs that show your dad love and appreciation
 
-68 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/3B9KBYwsNJbaDjE2PiZgRZ)
+68 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

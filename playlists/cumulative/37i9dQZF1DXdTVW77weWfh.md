@@ -4,7 +4,7 @@
 
 > Explore the softer side of Beethoven with this selection of calming favourites.
 
-145 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/4dn4C47ms4qxyJHe5XNo7h)
+145 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

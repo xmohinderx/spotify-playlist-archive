@@ -4,7 +4,7 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-306 songs - 18 hr 27 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
+306 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

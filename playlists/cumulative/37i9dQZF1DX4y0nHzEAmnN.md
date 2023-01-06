@@ -4,7 +4,7 @@
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-63 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/3MN9RbNLxnegTx1j7fJ1zw)
+63 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

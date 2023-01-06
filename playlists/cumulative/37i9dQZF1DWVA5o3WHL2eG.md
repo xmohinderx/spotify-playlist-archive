@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Lilly Palmer
 
-674 songs - 1 day 11 hr 32 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
+674 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

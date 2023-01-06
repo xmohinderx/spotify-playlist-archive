@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: LAGOS
 
-126 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/4xACWEQcvbn1jztRRt6IeV)
+126 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

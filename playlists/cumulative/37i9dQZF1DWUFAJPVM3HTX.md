@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds R&B in 2022\. Cover: Dylan Sinclair, Destin Conrad, and Jvck James
 
-906 songs - 1 day 23 hr 12 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+906 songs - 1 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,7 +883,7 @@
 | [Whateva U Need](https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Body \(EP\)](https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p) | 3:57 | 2021-12-01 | 2022-01-13 |
 | [When You See My Number](https://open.spotify.com/track/2eKkq4KCtNqSmLzk1guD2v) | [Kris Hollis](https://open.spotify.com/artist/61nigcxb7ApOyrjDCDXSYA) | [Me and the Studio](https://open.spotify.com/album/5Qom6BOxFdITCdCVKh62S5) | 2:58 | 2022-11-12 | 2022-12-01 |
 | [When You're Lonely](https://open.spotify.com/track/4K7Oouk92Z7iPPp2VxIT3O) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [When You're Lonely](https://open.spotify.com/album/2CjpiHx1UMAopknZg9uzKz) | 2:40 | 2022-01-19 | 2022-03-24 |
-| [Where They At](https://open.spotify.com/track/2UVqSu3dddJBmQJhSw1KTT) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Where They At](https://open.spotify.com/album/2B3O15rAAYV2zLDrIm5ZpG) | 2:09 | 2022-10-05 |  |
+| [Where They At](https://open.spotify.com/track/2UVqSu3dddJBmQJhSw1KTT) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Where They At](https://open.spotify.com/album/2B3O15rAAYV2zLDrIm5ZpG) | 2:09 | 2022-10-05 |  |
 | [Where Ya From](https://open.spotify.com/track/74kvijB0vU5BK44QnNb4Gt) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Hyde Out](https://open.spotify.com/album/3ChAAathOrBgPaXDJJk5Wy) | 3:48 | 2022-07-27 | 2022-09-03 |
 | [Where You At](https://open.spotify.com/track/7BR0HcQah51twleQzGfVFL) | [Alexis Finley](https://open.spotify.com/artist/6m6yePXuEWZorIjEmJC95H) | [Where You At](https://open.spotify.com/album/3v63Aea27Ngz2QJj2hbzAb) | 2:51 | 2022-02-02 | 2022-03-12 |
 | [whose fault](https://open.spotify.com/track/24bEwSczFXVlFyqfAHQfls) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [whose fault](https://open.spotify.com/album/5XcLFnMT5SBsTVfAwm5Vl0) | 2:06 | 2022-05-26 | 2022-08-27 |

@@ -4,7 +4,7 @@
 
 > Songs for a broken heart
 
-159 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/6YJH6Sv9lXBPweUakPzcSg)
+159 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

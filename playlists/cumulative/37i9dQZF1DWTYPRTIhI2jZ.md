@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0XfQBWgzisaS9ltDV9bXAS">Honey Dijon</a>'s favorite tracks\. Updated regularly\. Curated by Honey Dijon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-135 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/26pgehX1ipT0qyKlAqJXDp)
+135 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

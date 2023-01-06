@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-304 songs - 1 day 4 hr 26 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
+304 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

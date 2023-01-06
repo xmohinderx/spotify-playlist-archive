@@ -4,7 +4,7 @@
 
 > ¡Celebrando a los mujerones con sangre mexicana! Cover: Majo Aguilar
 
-211 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/7jJsKj2LL4QpeGJ8HwvgK2)
+211 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

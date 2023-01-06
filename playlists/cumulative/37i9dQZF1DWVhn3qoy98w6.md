@@ -4,7 +4,7 @@
 
 > Artistas independientes emergentes, cada miércoles\. Foto: becerra.
 
-1,443 songs - 3 day 4 hr 52 min - [published](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
+1,443 songs - 3 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1980s.
 
-673 songs - 1 day 23 hr 43 min - [published](https://open.spotify.com/playlist/6kIRUOEADDcyDgRr5BVja2)
+673 songs - 1 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best feel\-good songs of the 1980s.
 
-190 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/3kEIbFvf5MNOkdlnY6hDok)
+190 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

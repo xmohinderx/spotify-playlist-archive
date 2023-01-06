@@ -4,7 +4,7 @@
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-343 songs - 23 hr 59 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
+343 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

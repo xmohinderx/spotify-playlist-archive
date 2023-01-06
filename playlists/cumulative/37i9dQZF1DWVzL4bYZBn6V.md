@@ -4,7 +4,7 @@
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-61 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/41QyXALy8jMYAlVYh7UXYG)
+61 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

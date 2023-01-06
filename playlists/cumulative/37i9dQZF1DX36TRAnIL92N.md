@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-130 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/0HPVZryw84KNhQatZ72i3g)
+130 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

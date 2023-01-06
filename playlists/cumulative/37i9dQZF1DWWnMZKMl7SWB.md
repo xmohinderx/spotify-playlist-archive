@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-304 songs - 19 hr 37 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
+304 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Una mezcla sabrosa, picosita y refrescante.
 
-227 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/2OyWUm7JT7S1430Zfh33kP)
+227 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

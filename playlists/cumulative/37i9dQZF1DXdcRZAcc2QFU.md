@@ -4,7 +4,7 @@
 
 > ‘90s melodies that hit the right spot! Cover: Udit Narayan
 
-64 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/1ULXHWPXGv5rFqwLpYY2CM)
+64 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

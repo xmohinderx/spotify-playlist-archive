@@ -2,9 +2,9 @@
 
 ### [Hot Hits Canada](https://open.spotify.com/playlist/37i9dQZF1DWXT8uSSn6PRy)
 
-> The hottest tracks in the North! Cover: Metro Boomin, The Weeknd
+> The hottest tracks in the North! Cover: SZA
 
-379 songs - 19 hr 39 min - [published](https://open.spotify.com/playlist/6h6yvKmgSMonH6murTjQzd)
+379 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

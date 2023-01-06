@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español en la década de los 90.
 
-153 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/5kcvwFe2uLfT9hwJKnS5Wu)
+153 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

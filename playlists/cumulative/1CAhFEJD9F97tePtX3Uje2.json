@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-15",
   "description": "",
   "name": "hardwave~phonk",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -1261,6 +1260,28 @@
       "duration_ms": 206679,
       "name": "For The People",
       "url": "https://open.spotify.com/track/7sspyJENSmKfAyQHGJtC1m"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/4Cd2EftimaltmI0irA1dCX"
+      },
+      "artists": [
+        {
+          "name": "DXXDLY",
+          "url": "https://open.spotify.com/artist/6GKLaeqLSNmXOedBQQY9R7"
+        },
+        {
+          "name": "J\u00d6ST",
+          "url": "https://open.spotify.com/artist/3ERTkqBGVuP0lA4r3pNvGu"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148568,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/2wRlRa04whOwI5cZ4QXsmj"
     },
     {
       "album": {
@@ -2941,6 +2962,24 @@
       "duration_ms": 258959,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3lcVFoUD8xC6G8X2ecfS0U"
+    },
+    {
+      "album": {
+        "name": "Ryza",
+        "url": "https://open.spotify.com/album/0cv1F06ZUvZKet0IZUfs4J"
+      },
+      "artists": [
+        {
+          "name": "KTrek",
+          "url": "https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192827,
+      "name": "Ryza",
+      "url": "https://open.spotify.com/track/6pOwVBLGJIHQhdxdOHENOh"
     },
     {
       "album": {

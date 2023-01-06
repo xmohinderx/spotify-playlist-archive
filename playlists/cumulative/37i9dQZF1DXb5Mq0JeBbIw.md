@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-195 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
+195 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

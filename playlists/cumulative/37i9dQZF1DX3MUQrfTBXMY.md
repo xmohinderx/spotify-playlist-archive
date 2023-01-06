@@ -4,7 +4,7 @@
 
 > Highlights of Bangladeshi rock this year\. Cover \- Level Five
 
-123 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
+123 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

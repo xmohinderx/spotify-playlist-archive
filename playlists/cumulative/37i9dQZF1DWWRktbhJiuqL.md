@@ -4,7 +4,7 @@
 
 > Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.
 
-290 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/7GR81fCC3XyMT25TeYTKkp)
+290 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

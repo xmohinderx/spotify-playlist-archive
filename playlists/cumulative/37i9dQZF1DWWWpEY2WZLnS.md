@@ -4,7 +4,7 @@
 
 > Lo mas pegao en Dembow\. <br/>Cover: Farina
 
-135 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/4L9HFTRvt3WNU7wBLTIuvk)
+135 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

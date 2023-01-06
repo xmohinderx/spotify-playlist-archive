@@ -4,7 +4,7 @@
 
 > ¿Tienes flow, tienes rimas? Dale play.
 
-92 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/63KPGAHXLEGEXvmFWPTRLW)
+92 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > lista na dm
 
-226 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/3Ypr768kQ6JEvMnBgeZwXv)
+226 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-161 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
+161 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

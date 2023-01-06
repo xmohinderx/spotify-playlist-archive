@@ -4,7 +4,7 @@
 
 > The great masterpieces of the genre.
 
-323 songs - 1 day 0 hr 10 min - [published](https://open.spotify.com/playlist/1qRV6OOjOHTyxZOcARbHhF)
+323 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

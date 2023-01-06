@@ -4,7 +4,7 @@
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-95 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
+95 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

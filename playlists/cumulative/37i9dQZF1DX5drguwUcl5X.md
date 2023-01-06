@@ -4,7 +4,7 @@
 
 > Estas canciones te pondrán en el mejor mood ever\. Foto: Lady Gaga
 
-171 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/76xYzwe3LjcbRjLOfIaNXp)
+171 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

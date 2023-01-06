@@ -4,7 +4,7 @@
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-205 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/7oLsX7IwgiSOJmGxuJ1YL5)
+205 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

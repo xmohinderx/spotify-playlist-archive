@@ -4,7 +4,7 @@
 
 > Throwback to the golden age of Indian pop.
 
-75 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/4ODPXyj8cy195cx7i4XcMg)
+75 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

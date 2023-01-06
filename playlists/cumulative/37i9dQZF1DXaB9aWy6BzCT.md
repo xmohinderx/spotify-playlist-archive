@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Daddy Yankee y Nicky Jam en un mismo lugar.
 
-90 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/2iNy939SfL8nLUv0oj5dNy)
+90 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

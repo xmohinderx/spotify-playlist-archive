@@ -4,7 +4,7 @@
 
 > The quintessential list of songs to celebrate commencement\. Congrats to the Class of 2022 and all other classes celebrating graduation this year.
 
-161 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/1XnOAvJW0OqVBMRviUToIj)
+161 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

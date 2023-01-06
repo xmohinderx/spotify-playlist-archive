@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-13",
   "description": "Discover your favorite new chill pop songs. Cover: Stephen Sanchez",
   "name": "Fresh & Chill",
-  "published_playlist_ids": [
-    "0bYTEzgb7cQ54Fa4kGbaPS"
-  ],
   "tracks": [
     {
       "album": {
@@ -2247,6 +2244,24 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
+    },
+    {
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214768,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
     },
     {
       "album": {
@@ -7221,7 +7236,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 255143,
       "name": "Growing Sideways",
       "url": "https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2"
@@ -7575,7 +7590,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 176540,
       "name": "Hate You",
       "url": "https://open.spotify.com/track/4TgyIbBZCW0UIwS8eua06z"
@@ -7821,7 +7836,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 231723,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
@@ -9229,7 +9244,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 173365,
       "name": "I'm So Happy (with BENEE)",
       "url": "https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO"
@@ -11242,6 +11257,24 @@
     },
     {
       "album": {
+        "name": "long way home",
+        "url": "https://open.spotify.com/album/0YjPmT6Y8BxWvvLorvnGRT"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "long way home",
+      "url": "https://open.spotify.com/track/6M7C0SPmqWEsy1sF23Yt4V"
+    },
+    {
+      "album": {
         "name": "Footprints I Found",
         "url": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
       },
@@ -13223,7 +13256,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 210498,
       "name": "Nineties",
       "url": "https://open.spotify.com/track/7AysA92Rmw6uwTBFPfQxJ3"
@@ -13822,6 +13855,24 @@
     },
     {
       "album": {
+        "name": "one night",
+        "url": "https://open.spotify.com/album/6nyLLsYqQPX68hNag7N6tY"
+      },
+      "artists": [
+        {
+          "name": "csurf",
+          "url": "https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166859,
+      "name": "one night",
+      "url": "https://open.spotify.com/track/1aWXdwrRg1LahBt4Wn7yWZ"
+    },
+    {
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA"
       },
@@ -14051,6 +14102,24 @@
       "duration_ms": 167213,
       "name": "Over You",
       "url": "https://open.spotify.com/track/6svqglRbc9M5cXsIXINJcJ"
+    },
+    {
+      "album": {
+        "name": "pain's my only home",
+        "url": "https://open.spotify.com/album/4hYiYwdqXXdrPE9tHlAmDI"
+      },
+      "artists": [
+        {
+          "name": "Zevia",
+          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "pain's my only home",
+      "url": "https://open.spotify.com/track/4YGh99Jth1t1pOmVQL5eiq"
     },
     {
       "album": {
@@ -14299,7 +14368,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 183870,
       "name": "perfect",
       "url": "https://open.spotify.com/track/1O2P4wYlTnQ44osWR5KABJ"
@@ -14793,7 +14862,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 194000,
       "name": "ready",
       "url": "https://open.spotify.com/track/2XrAj5PhEDhStVgyoUPCa1"
@@ -15231,7 +15300,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 183939,
       "name": "runaway",
       "url": "https://open.spotify.com/track/2U0JzwKXlSz0T1wpKh7SLD"
@@ -17799,7 +17868,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 198266,
       "name": "The Good Parts",
       "url": "https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5"
@@ -18357,7 +18426,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 191830,
       "name": "this is what sadness feels like",
       "url": "https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof"
@@ -19308,6 +19377,24 @@
     },
     {
       "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/5UgR4xPUCnuHS5F1wNNc3x"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185358,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/1NOTidLDDPTeau4BWJ0vwX"
+    },
+    {
+      "album": {
         "name": "Watching TV",
         "url": "https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD"
       },
@@ -19855,7 +19942,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 169418,
       "name": "When All The Love Is Gone",
       "url": "https://open.spotify.com/track/5dfPvmSrPuhS8j7SKwCOC3"
@@ -20105,7 +20192,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 147853,
       "name": "white lies",
       "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
@@ -20213,7 +20300,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 196734,
       "name": "why didn't you call???",
       "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"

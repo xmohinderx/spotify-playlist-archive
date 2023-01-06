@@ -4,7 +4,7 @@
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-144 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/1sZJOt0xueZM3V4be8zHMj)
+144 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

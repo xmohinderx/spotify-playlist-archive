@@ -4,7 +4,7 @@
 
 > Découvrez notre sélection des artistes à suivre\. Photo : Zaho de Sagazan
 
-84 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
+84 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

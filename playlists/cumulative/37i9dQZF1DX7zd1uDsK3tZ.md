@@ -4,7 +4,7 @@
 
 > Classic tunes served over easy for the perfect brunch soundtrack.
 
-138 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/6oBsdW7bJwBzmYuFyvjA6b)
+138 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

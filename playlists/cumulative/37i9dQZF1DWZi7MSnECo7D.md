@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Tuyo
 
-306 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+306 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

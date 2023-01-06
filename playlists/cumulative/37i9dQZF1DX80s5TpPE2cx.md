@@ -4,7 +4,7 @@
 
 > The songs that defined Nigeria's Alté era
 
-85 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/4AfobrCRq8eWikHPvogUQe)
+85 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

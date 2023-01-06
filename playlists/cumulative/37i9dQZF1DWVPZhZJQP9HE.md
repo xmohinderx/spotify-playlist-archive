@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-292 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+293 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Adiye Kaantha](https://open.spotify.com/track/1fF4euXpLnQDb0cJx04AVC) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Adiye Kaantha](https://open.spotify.com/album/4rQ2NDh6anTQNnaYOM72Mq) | 3:30 | 2022-05-13 | 2022-07-15 |
 | [Adiye Kovakaari](https://open.spotify.com/track/1cd6y5tZxAskdOsLHrLMHw) | [Ragu Branavan](https://open.spotify.com/artist/6m1vrQWvtpNlq3pJBvkAiF), [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK), [Aathis AK](https://open.spotify.com/artist/2m7FpQ4Kznt7cGjd9hIH01) | [Adiye Kovakaari](https://open.spotify.com/album/66hUlCpK7XHg15xiLhF8OI) | 3:15 | 2022-11-17 |  |
 | [Ailasa](https://open.spotify.com/track/3mJ2SqmXIDbn5XECaqN1jj) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Yanchan](https://open.spotify.com/artist/2oCMtxRHVtTsqHbnnRWRWQ) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 3:03 | 2022-05-06 |  |
+| [Alien](https://open.spotify.com/track/2SnHeg55mv1Oc0oit4BkpC) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Alien](https://open.spotify.com/album/6iBQPUhx4Ptzg8w0S2PoaG) | 3:41 | 2023-01-05 |  |
 | [Amma Ponnu Rambha \- 1 Min Music](https://open.spotify.com/track/6G7k6xe58N8JefYH5ORnj7) | [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Amma Ponnu Rambha \- 1 Min Music](https://open.spotify.com/album/2rkjcrUFSFPX4YX2ISUCoz) | 0:59 | 2022-06-30 | 2022-07-15 |
 | [Ammadi](https://open.spotify.com/track/7oktIeahxdxDxLiZE3qYkh) | [Pravin Mani](https://open.spotify.com/artist/2ccgDZHHVlcOssv1y8AkOc) | [Ammadi](https://open.spotify.com/album/0bf0E8d15xhl2aXPbCmItD) | 4:04 | 2022-12-23 |  |
 | [Amour](https://open.spotify.com/track/7kXPJDaooCMfvpkneNGisa) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Amour \- Single](https://open.spotify.com/album/4Bn40LxjQ00XGFhFCJhAmR) | 3:27 | 2022-03-09 | 2022-11-17 |

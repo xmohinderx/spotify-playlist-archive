@@ -4,7 +4,7 @@
 
 > Ovy on the Drums y Ozuna tienen el ritmo que mueve Latinoamérica.
 
-425 songs - 23 hr 24 min - [published](https://open.spotify.com/playlist/3K8lWo1A5PGXtJdAZf1WiQ)
+425 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,7 @@
 | [Sin Maquillaje](https://open.spotify.com/track/6PsucEjVsPVm7MkgCVYdFR) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Sin Maquillaje](https://open.spotify.com/album/2OGdAssIxtcMOSFFygJMeE) | 2:48 | 2022-05-13 | 2022-09-24 |
 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 | 2022-08-05 | 2022-11-05 |
 | [Sin Ropa \(with Ingratax\)](https://open.spotify.com/track/1p39fLrejm3vWAnGFGIYvC) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Sin Ropa \(with Ingratax\)](https://open.spotify.com/album/5mQ6bzqHYKHofu8Dj5Ftw7) | 2:48 | 2022-03-18 | 2022-06-17 |
-| [Sin Señal](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Sin Señal](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 | 2022-07-29 |  |
+| [SIN SEÑAL](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SIN SEÑAL](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 | 2022-07-29 |  |
 | [SINALOA](https://open.spotify.com/track/3DN5cqnNcrhZ8udxcywiG8) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SINALOA](https://open.spotify.com/album/2HfGfq6diPlFqvpkdDaZFi) | 3:18 | 2022-01-07 | 2022-03-19 |
 | [Sincero](https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd) | 3:38 | 2022-01-14 | 2022-07-01 |
 | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/track/4pj68dTcvGVXgzD7qWAGEd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/album/7eoNzwrC6Hs8kYNSgAQEkE) | 4:33 | 2022-04-01 | 2022-05-14 |
@@ -414,7 +414,7 @@
 | [Vibra](https://open.spotify.com/track/0DU150UuvrIsqOzAoeB2Zv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 2:33 | 2022-12-09 |  |
 | [Vida](https://open.spotify.com/track/7qUv2Tq895aJc6g4O1F6Zs) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 2:32 | 2022-10-07 |  |
 | [Viendo el Techo](https://open.spotify.com/track/0iWxrdjwEGOrTC9AszgAJk) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Viendo el Techo](https://open.spotify.com/album/4ikugcbfJKooYlQACL2MUN) | 3:08 | 2022-01-07 | 2022-04-02 |
-| [Vista Al Mar](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Vista Al Mar](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 | 2022-09-08 |  |
+| [VISTA AL MAR](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [VISTA AL MAR](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 | 2022-09-08 |  |
 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 | 2022-01-07 | 2022-04-09 |
 | [Volar \(feat\. Los Legendarios\)](https://open.spotify.com/track/6hrLV324vAy3frmFZZvnEX) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Chris Andrew](https://open.spotify.com/artist/7vnithGAUscrk9Imtyr6Sd), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Volar \(feat\. Los Legendarios\)](https://open.spotify.com/album/6ktIFKel3BO3Mv9VLvR6R1) | 3:33 | 2022-06-30 | 2022-11-12 |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-07-08 | 2022-11-12 |

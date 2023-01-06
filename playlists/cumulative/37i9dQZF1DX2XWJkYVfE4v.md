@@ -4,7 +4,7 @@
 
 > Soft, shimmering strings to help you relax.
 
-93 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/0b41CYN7TvxbbKquC8H1Qw)
+93 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: JUNNY\(주니\)\)
 
-485 songs - 1 day 2 hr 23 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
+485 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

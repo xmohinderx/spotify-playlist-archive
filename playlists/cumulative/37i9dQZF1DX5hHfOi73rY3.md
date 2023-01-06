@@ -4,7 +4,7 @@
 
 > Classic party anthems from the club to your ears!
 
-115 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/7uqJ66jF1VtnDKSvWC7k8R)
+115 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

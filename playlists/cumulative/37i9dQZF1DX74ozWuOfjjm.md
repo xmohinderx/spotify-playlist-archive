@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Memphis LK
 
-325 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+325 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

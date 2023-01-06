@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: CRUCiAL STAR크루셜스타\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-561 songs - 1 day 6 hr 44 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
+561 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Dream](https://open.spotify.com/track/6gVtv8uLQgzSEu5pRu3jNP) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Dream](https://open.spotify.com/album/1phlVVm4LeVx4K6HKJ6BLk) | 2:20 | 2022-08-15 | 2022-10-09 |
 | [Dressed Up \(Feat\. The Quiett\)](https://open.spotify.com/track/4kWZJSbNXqEwNAr8ZNJ2Qo) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [zillamode 4](https://open.spotify.com/album/6O7AASfdsj9oQMAV3do7yF) | 3:38 | 2022-07-04 | 2022-07-06 |
 | [DRESSING ROOM](https://open.spotify.com/track/15FzhopZc8cymsXc8B43qs) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [X](https://open.spotify.com/album/3DSuhTgKgeqFnGQRu05vIR) | 3:15 | 2022-04-01 | 2022-07-06 |
-| [Drivin’ \(Feat\. Layone, BIG Naughty\)](https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Drivin'](https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL) | 2:42 | 2022-08-02 |  |
+| [Drivin’ \(Feat\. Layone, BIG Naughty\)](https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Drivin'](https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL) | 2:42 | 2022-08-02 | 2023-01-06 |
 | [Drunk All Night](https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Drunk All Night](https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ) | 2:57 | 2022-07-04 | 2022-07-28 |
 | [Dry Flower \(Feat\. OLNL, GEMma\)](https://open.spotify.com/track/1izqekFgQhPvnYnMWV6Ciq) | [GRIO](https://open.spotify.com/artist/0MjC05t54hhvrqLBsIeTbu), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z), [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [Dry Flower](https://open.spotify.com/album/4pKLK15Rc5OBNUeJbuA65W) | 2:57 | 2022-08-18 | 2022-09-06 |
 | [Earphone](https://open.spotify.com/track/3Z32X2KetQtfp40lMU90CN) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 3:18 | 2022-04-21 | 2022-07-29 |
@@ -496,7 +496,7 @@
 | [The Extra \(One of a Kind Romance\)](https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [The Extra \(One of a Kind Romance\)](https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG) | 2:55 | 2022-04-21 | 2022-06-11 |
 | [The Theater](https://open.spotify.com/track/32DpcsdvyzseJWwjjOetkL) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [The Theater](https://open.spotify.com/album/3SuhEMydqNp4tk7q45yTDP) | 2:45 | 2022-06-18 | 2022-07-05 |
 | [The Truman Show](https://open.spotify.com/track/0cVZgBitnJJaOTviugscS3) | [YunB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [Show Me the Money 8 Episode 3](https://open.spotify.com/album/4xPKZgTlCRLRVzYFctyhZ7) | 3:23 | 2022-07-24 | 2022-07-28 |
-| [Think \(feat\. Jay Park\)](https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Think](https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA) | 3:51 | 2022-11-22 | 2022-12-13 |
+| [Think \(feat\. Jay Park\)](https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Think](https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA) | 3:51 | 2022-11-22 |  |
 | [Thinkin About You \(Feat\. INO\)](https://open.spotify.com/track/2tOHUm2VSBa5aMgo5pIYem) | [DJ Juice](https://open.spotify.com/artist/0bJKaJ5AdUz5nDFDRGfKPJ), [INO](https://open.spotify.com/artist/4xRr0YW5BltFbZGEwliT79) | [Thinkin About You](https://open.spotify.com/album/58L2gm73knHBL66btgBKGC) | 3:16 | 2022-05-28 | 2022-05-30 |
 | [thirst](https://open.spotify.com/track/7kyupZQftQDUUxlATGGmOe) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [DPR ARCHIVES](https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw) | 2:37 | 2022-04-01 | 2022-07-28 |
 | [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 | 2022-04-01 | 2022-07-09 |

@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-121 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
+121 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

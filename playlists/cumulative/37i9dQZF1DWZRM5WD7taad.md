@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. EMJAY en portada.
 
-127 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+127 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

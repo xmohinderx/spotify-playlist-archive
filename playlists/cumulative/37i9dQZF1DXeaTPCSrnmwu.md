@@ -4,7 +4,7 @@
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-74 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/44KumFN4NPh0rgJw0zSVev)
+74 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

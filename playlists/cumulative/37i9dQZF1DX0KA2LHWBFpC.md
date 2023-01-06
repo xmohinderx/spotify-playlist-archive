@@ -4,7 +4,7 @@
 
 > 映画<a href="https://suzume\-tojimari\-movie.jp/">『すずめの戸締まり』</a>の公開を記念して、新海誠監督作品を彩ってきた数多くの名曲をひとつのプレイリストにしました。 <a href="spotify:show:5nlDsmpul9enHhSHgkfPD5">音声版『聴く小説・すずめの戸締まり』はこちら</a> © 2022「すずめの戸締まり」製作委員会
 
-71 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/2IqiBMkw1MhLU3qAermgTC)
+71 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

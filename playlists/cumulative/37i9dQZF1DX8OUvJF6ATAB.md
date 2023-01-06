@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-286 songs - 1 day 0 hr 56 min - [published](https://open.spotify.com/playlist/4jkUs66aepxZIx8eyJu8qK)
+286 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

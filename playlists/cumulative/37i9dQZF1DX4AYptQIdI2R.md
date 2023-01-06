@@ -4,7 +4,7 @@
 
 > Ahgases! 7 or nothing.
 
-205 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/0st0ceeC45OmEBrj3S6PIY)
+205 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

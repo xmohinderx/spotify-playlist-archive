@@ -4,7 +4,7 @@
 
 > El cholo se hizo buchón 😎🤠 Codiciado, Jaziel Avilés & Peso Pluma en portada.
 
-128 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/1sfh6zrW4xImGR0arizLIx)
+128 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

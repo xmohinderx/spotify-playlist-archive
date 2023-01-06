@@ -4,7 +4,7 @@
 
 > Las canciones de pop latino más escuchadas del año.<br/>Foto: Manuel Turizo
 
-101 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/6ayZNdMR1YDS002Yqm7HJQ)
+101 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

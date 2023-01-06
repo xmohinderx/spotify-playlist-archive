@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-168 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+168 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

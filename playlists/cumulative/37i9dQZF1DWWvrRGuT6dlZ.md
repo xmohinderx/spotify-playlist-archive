@@ -4,7 +4,7 @@
 
 > The top 50 tracks from Fresh Finds Singapore & Malaysia in 2022\. Cover: shazza
 
-325 songs - 17 hr 53 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+325 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

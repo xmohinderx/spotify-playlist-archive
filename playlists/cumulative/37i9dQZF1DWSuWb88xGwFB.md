@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-121 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/7CpzziVbgEL0BZqAASnsUi)
+121 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

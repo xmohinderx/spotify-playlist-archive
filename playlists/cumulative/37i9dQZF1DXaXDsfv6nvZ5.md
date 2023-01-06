@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-170 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
+170 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

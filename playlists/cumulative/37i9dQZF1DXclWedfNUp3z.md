@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-337 songs - 23 hr 24 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
+337 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Intorno allo schermo](https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Fermarsi](https://open.spotify.com/album/0NH403g4GLkOnVeLf3yorf) | 20:54 | 2022-03-11 | 2022-07-17 |
 | [Invocation](https://open.spotify.com/track/2Si9pK8JePFeRaFVVPQTMo) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Iterations Felidae](https://open.spotify.com/album/7K3mrgVogFrTHHPSM7vOG8) | 2:18 | 2022-04-22 | 2022-07-29 |
 | [Japanese Maple in the Afternoon \(Raag Bhoopali\)](https://open.spotify.com/track/4qFElgC2kyt1KmSvPB43Hy) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi) | 3:08 | 2021-11-12 | 2022-07-28 |
-| [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 | 2021-10-20 | 2023-01-04 |
+| [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 | 2021-10-20 |  |
 | [Kalimba Heart](https://open.spotify.com/track/6zHLUchfVKSSvDOYqrQu4U) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/2cJUkDSiyikvlTBtM3Dekx) | 3:11 | 2021-10-20 | 2022-07-29 |
 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 | 2022-07-15 |  |
 | [Klass \- MISSUXO Film Edit](https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa) | 3:58 | 2022-02-18 |  |
@@ -175,7 +175,7 @@
 | [Marshmallow](https://open.spotify.com/track/6N2yBySX0VhCVlVHKngirs) | [The Sweet Enoughs](https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy) | [Marshmallow](https://open.spotify.com/album/79tfjRNKLemO4c2dNXqJFR) | 3:55 | 2021-12-07 |  |
 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 | 2021-11-12 |  |
 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 | 2021-10-20 | 2022-07-29 |
-| [Melodica](https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 3:39 | 2021-10-20 |  |
+| [Melodica](https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 3:39 | 2021-10-20 | 2023-01-06 |
 | [Melting Hazard](https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Melting Hazard](https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9) | 5:06 | 2022-03-30 | 2022-07-29 |
 | [Memories of Grass](https://open.spotify.com/track/3bbozj0fLmHcD8iXrqhcPL) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/3f5TwahHoUqJVnNrhp68Mm) | 4:16 | 2021-10-20 | 2022-06-05 |
 | [Mira Et Ten](https://open.spotify.com/track/3Hs7d8WFLxwZWVb7dzbDVC) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage](https://open.spotify.com/album/0hyEAwTWIDaseZAAi5t36x) | 0:44 | 2021-10-20 | 2022-07-20 |

@@ -4,7 +4,7 @@
 
 > 150%
 
-139 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+139 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

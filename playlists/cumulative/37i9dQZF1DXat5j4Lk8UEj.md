@@ -4,7 +4,7 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-215 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/3TIa5auBD6glGxwEhYFQcx)
+215 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

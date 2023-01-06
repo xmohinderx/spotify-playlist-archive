@@ -4,7 +4,7 @@
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-127 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/2ZFxmpAoH6VW0wtMd26TFZ)
+127 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

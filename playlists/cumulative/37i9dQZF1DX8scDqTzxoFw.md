@@ -4,7 +4,7 @@
 
 > Watch the kids go wild for these party tunes!
 
-168 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/0e2GAgSIxFVmpVZxEgmPmE)
+168 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Molotov en portada.
 
-104 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/2vu2JM6dXd3OuInlDXgZcJ)
+104 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

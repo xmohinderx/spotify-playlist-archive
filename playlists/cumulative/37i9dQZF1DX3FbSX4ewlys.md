@@ -4,7 +4,7 @@
 
 > Son los 90 y prendes la radio.
 
-113 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/67pKKi2yPJLBxmLlI21WX2)
+113 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

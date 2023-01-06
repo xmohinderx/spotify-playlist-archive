@@ -4,7 +4,7 @@
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-92 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/0R3aiZ5IuPHrMCNNbivzBm)
+92 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

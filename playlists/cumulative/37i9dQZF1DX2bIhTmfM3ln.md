@@ -4,7 +4,7 @@
 
 > West African love stories wrapped up in song
 
-160 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/6ktLbnDhV5PLxAEX8at8Ai)
+160 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

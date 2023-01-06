@@ -1,15 +1,31 @@
 {
-  "description": "Heavy new bands you need to have an eye on. Cover: Cassyette",
-  "num_followers": 19573,
+  "description": "Heavy new bands you need to have an eye on. Cover: Castle Rat",
+  "num_followers": 19747,
   "original_name": "New Blood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGM4MDJlZTE0ZmUzNDE4MTVkNDUzMGU3MDIzNmI1ZGNk",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGQxZmM2MTNkNDFjNzdhOTBlMjRlMjA4NjAxOGRhZmRk",
   "tracks": [
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Feed The Dream",
+        "url": "https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA"
+      },
+      "artists": [
+        {
+          "name": "Castle Rat",
+          "url": "https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Feed The Dream",
+      "url": "https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "September Rain",
         "url": "https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "No Cure",
         "url": "https://open.spotify.com/album/5vHJdRDbOXnlb2sGPe8c8t"
@@ -45,23 +61,23 @@
       "url": "https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Myriad",
-        "url": "https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC"
+        "name": "Remnants of the Vessel",
+        "url": "https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD"
       },
       "artists": [
         {
-          "name": "GAUPA",
-          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
+          "name": "Faetooth",
+          "url": "https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt"
         }
       ],
-      "duration_ms": 274718,
-      "name": "Exoskeleton",
-      "url": "https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD"
+      "duration_ms": 306782,
+      "name": "Echolalia",
+      "url": "https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Survive",
         "url": "https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9"
@@ -77,151 +93,55 @@
       "url": "https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Feed The Dream",
-        "url": "https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA"
+        "name": "Light up the Sky",
+        "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
       },
       "artists": [
         {
-          "name": "Castle Rat",
-          "url": "https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj"
+          "name": "REXORIA",
+          "url": "https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK"
         }
       ],
-      "duration_ms": 271426,
-      "name": "Feed The Dream",
-      "url": "https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX"
+      "duration_ms": 206720,
+      "name": "Light up the Sky",
+      "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Blacklight",
-        "url": "https://open.spotify.com/album/3BY2fUZSU6NEm9CsFeZOQp"
+        "name": "Myriad",
+        "url": "https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC"
       },
       "artists": [
         {
-          "name": "Half Me",
-          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+          "name": "GAUPA",
+          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
         }
       ],
-      "duration_ms": 219882,
-      "name": "Blacklight",
-      "url": "https://open.spotify.com/track/6H8vWOFe0k4QuCltQzMTXb"
+      "duration_ms": 274718,
+      "name": "Exoskeleton",
+      "url": "https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "WRAITH",
-        "url": "https://open.spotify.com/album/10JZyQw2rMA75MUEAxTTHy"
+        "name": "The Debt",
+        "url": "https://open.spotify.com/album/1tYh4lKvftUG55PLQPQ4WE"
       },
       "artists": [
         {
-          "name": "alt.",
-          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+          "name": "Lift The Curse",
+          "url": "https://open.spotify.com/artist/5mVUxlgnywxeahNtMpoCiv"
         }
       ],
-      "duration_ms": 199240,
-      "name": "WRAITH",
-      "url": "https://open.spotify.com/track/78hZlTj2u4UeefGLPJKhUG"
+      "duration_ms": 225333,
+      "name": "The Debt",
+      "url": "https://open.spotify.com/track/30y0r3xRBzngsUXJ2FeTgn"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Permanent Rebellion",
-        "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 193976,
-      "name": "Permanent Rebellion",
-      "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Fakin' Tha Funk (You Get Did)",
-        "url": "https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW"
-      },
-      "artists": [
-        {
-          "name": "Zulu",
-          "url": "https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a"
-        }
-      ],
-      "duration_ms": 78733,
-      "name": "Fakin' Tha Funk (You Get Did)",
-      "url": "https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "F.E.A.R",
-        "url": "https://open.spotify.com/album/5jX83sx5FCaNZXEcr4TPRz"
-      },
-      "artists": [
-        {
-          "name": "Dream Demon",
-          "url": "https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki"
-        }
-      ],
-      "duration_ms": 128800,
-      "name": "F.E.A.R",
-      "url": "https://open.spotify.com/track/7qZuKXe9aArtkaaugXBba1"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Tearing Your Life Away",
-        "url": "https://open.spotify.com/album/3xW6YyiZY9AQcveSehm0jT"
-      },
-      "artists": [
-        {
-          "name": "Guilt Trip",
-          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
-        }
-      ],
-      "duration_ms": 196257,
-      "name": "Tearing Your Life Away",
-      "url": "https://open.spotify.com/track/41d34pNUJPcMFRW6K1PcJi"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Flex Fiesta",
-        "url": "https://open.spotify.com/album/7JsB718EyNSdTNg6onGTLb"
-      },
-      "artists": [
-        {
-          "name": "No Face No Case",
-          "url": "https://open.spotify.com/artist/1jwcvlHFsttKb6JY8jPUXQ"
-        }
-      ],
-      "duration_ms": 188012,
-      "name": "Snake",
-      "url": "https://open.spotify.com/track/69396kL1HvsUm6PWiv7ftJ"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Until Falling",
-        "url": "https://open.spotify.com/album/4zGPzMSMUwxcYJRuN5twAc"
-      },
-      "artists": [
-        {
-          "name": "Stoned Statues",
-          "url": "https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Until Falling",
-      "url": "https://open.spotify.com/track/1oQc7ebfr4unGdUTlad9of"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "DEATHWESTERN",
         "url": "https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY"
@@ -237,7 +157,183 @@
       "url": "https://open.spotify.com/track/2qc0VskDDd30YhBibl8b5e"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Memory Theater",
+        "url": "https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr"
+      },
+      "artists": [
+        {
+          "name": "Escuela Grind",
+          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
+        }
+      ],
+      "duration_ms": 156401,
+      "name": "Cliffhanger",
+      "url": "https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Tearing Your Life Away",
+        "url": "https://open.spotify.com/album/3xW6YyiZY9AQcveSehm0jT"
+      },
+      "artists": [
+        {
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+        }
+      ],
+      "duration_ms": 196257,
+      "name": "Tearing Your Life Away",
+      "url": "https://open.spotify.com/track/41d34pNUJPcMFRW6K1PcJi"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Paint It In Blood",
+        "url": "https://open.spotify.com/album/5RlGa3MNRVfH1RyKX2exvt"
+      },
+      "artists": [
+        {
+          "name": "The Tryals",
+          "url": "https://open.spotify.com/artist/3BTVFfo4K9ilLQ3vhLBbbs"
+        }
+      ],
+      "duration_ms": 188544,
+      "name": "Paint It In Blood",
+      "url": "https://open.spotify.com/track/1njkMdwveFsnqghHpiBGvd"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Permanent Rebellion",
+        "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "duration_ms": 193976,
+      "name": "Permanent Rebellion",
+      "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Blacklight",
+        "url": "https://open.spotify.com/album/3BY2fUZSU6NEm9CsFeZOQp"
+      },
+      "artists": [
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        }
+      ],
+      "duration_ms": 219882,
+      "name": "Blacklight",
+      "url": "https://open.spotify.com/track/6H8vWOFe0k4QuCltQzMTXb"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Abandon Meant",
+        "url": "https://open.spotify.com/album/0HQT7vjsS71uiQ6tOMmtpo"
+      },
+      "artists": [
+        {
+          "name": "Graysea",
+          "url": "https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "Abandon Meant",
+      "url": "https://open.spotify.com/track/5iyHvyWgXcPTznrSCA1FX5"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "WRAITH",
+        "url": "https://open.spotify.com/album/10JZyQw2rMA75MUEAxTTHy"
+      },
+      "artists": [
+        {
+          "name": "alt.",
+          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "WRAITH",
+      "url": "https://open.spotify.com/track/78hZlTj2u4UeefGLPJKhUG"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Fakin' Tha Funk (You Get Did)",
+        "url": "https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW"
+      },
+      "artists": [
+        {
+          "name": "Zulu",
+          "url": "https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a"
+        }
+      ],
+      "duration_ms": 78733,
+      "name": "Fakin' Tha Funk (You Get Did)",
+      "url": "https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "F.E.A.R",
+        "url": "https://open.spotify.com/album/5jX83sx5FCaNZXEcr4TPRz"
+      },
+      "artists": [
+        {
+          "name": "Dream Demon",
+          "url": "https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki"
+        }
+      ],
+      "duration_ms": 128800,
+      "name": "F.E.A.R",
+      "url": "https://open.spotify.com/track/7qZuKXe9aArtkaaugXBba1"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Flex Fiesta",
+        "url": "https://open.spotify.com/album/7JsB718EyNSdTNg6onGTLb"
+      },
+      "artists": [
+        {
+          "name": "No Face No Case",
+          "url": "https://open.spotify.com/artist/1jwcvlHFsttKb6JY8jPUXQ"
+        }
+      ],
+      "duration_ms": 188012,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/69396kL1HvsUm6PWiv7ftJ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Until Falling",
+        "url": "https://open.spotify.com/album/4zGPzMSMUwxcYJRuN5twAc"
+      },
+      "artists": [
+        {
+          "name": "Stoned Statues",
+          "url": "https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Until Falling",
+      "url": "https://open.spotify.com/track/1oQc7ebfr4unGdUTlad9of"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Ded to Me",
         "url": "https://open.spotify.com/album/1XyQDiFCupKpn5E9yAtlRL"
@@ -253,7 +349,7 @@
       "url": "https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Soul Burn",
         "url": "https://open.spotify.com/album/7rtcZw6pUN8wv227KWwlNe"
@@ -269,7 +365,7 @@
       "url": "https://open.spotify.com/track/72STRbMtY5ypgxtEJ5v6OU"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/38hr6lK2Up3QabqUEUEhKx"
@@ -285,7 +381,7 @@
       "url": "https://open.spotify.com/track/4Dgro3nLadAhwTIgNsNt57"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Congregation",
         "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
@@ -301,7 +397,7 @@
       "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Find You Soon",
         "url": "https://open.spotify.com/album/3Fqxh98P2BAz1S5DzHDi1L"
@@ -317,7 +413,7 @@
       "url": "https://open.spotify.com/track/07SZ1RaS0OaCa5qs97zVOI"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Mirror Glue",
         "url": "https://open.spotify.com/album/5vuqiIimLosYL6Gql82oXV"
@@ -333,7 +429,7 @@
       "url": "https://open.spotify.com/track/0fEWlqJr3lJXEXmLk7KFOD"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "The Dearly Beloved",
         "url": "https://open.spotify.com/album/3985j1Z12r21NCWCbGHTY2"
@@ -349,7 +445,7 @@
       "url": "https://open.spotify.com/track/65ISG3z0biln1mB8wakFEi"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Fortified by Bloodshed",
         "url": "https://open.spotify.com/album/0l7KbR4AxPTAVs9R22MrIM"
@@ -365,7 +461,7 @@
       "url": "https://open.spotify.com/track/3A54tdbCgDX2vYzjjqGMlv"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/2nLucUgoU2DW05o2FUEULd"
@@ -381,7 +477,7 @@
       "url": "https://open.spotify.com/track/2jHCuaT5m1iXLnugNCERSh"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Rakshak",
         "url": "https://open.spotify.com/album/24gOuJnIeGxz0eBrmgid2Q"
@@ -397,7 +493,7 @@
       "url": "https://open.spotify.com/track/3Kj2M9gRU1Lwf5eiNjBtBp"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Can't Take This Away",
         "url": "https://open.spotify.com/album/02TZLTvmL28QjqPIEHUiWY"
@@ -413,7 +509,7 @@
       "url": "https://open.spotify.com/track/69xZZJ0lSlw6PgDOXdIP3R"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "The Enemy",
         "url": "https://open.spotify.com/album/4SQrKvM6xrxbvGRd33bGty"
@@ -433,7 +529,7 @@
       "url": "https://open.spotify.com/track/3mgF9Ku2ufETtnLpCRwyET"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "I Sing Alone",
         "url": "https://open.spotify.com/album/0qxrvbiTs5U7exUPdyBlYP"
@@ -449,7 +545,7 @@
       "url": "https://open.spotify.com/track/2H4jNC3nMl22tyVK1BeLGH"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "For The Recognition",
         "url": "https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b"
@@ -465,7 +561,7 @@
       "url": "https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Felt Like Home",
         "url": "https://open.spotify.com/album/7BCIRnGqWxt9w9JsbsjYIE"
@@ -481,7 +577,7 @@
       "url": "https://open.spotify.com/track/1Tvq5AWaYmN598So4r6p2h"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Yenta",
         "url": "https://open.spotify.com/album/4FLhtqLQqVAt5qtnrugfPs"
@@ -497,7 +593,7 @@
       "url": "https://open.spotify.com/track/4TPiNzixt2pRgAFWHPy2Wt"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Extending Obscurity",
         "url": "https://open.spotify.com/album/2fbegWCx4Evi0U8OWLDkb0"
@@ -513,7 +609,7 @@
       "url": "https://open.spotify.com/track/5DpmC9LG2152tAodIgFFRK"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Burying Brightness",
         "url": "https://open.spotify.com/album/4B4bNthhcQ9ph657TTYsbG"
@@ -529,7 +625,7 @@
       "url": "https://open.spotify.com/track/3nyfxtCg9RD30h3aTnbVFW"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "EXPLICIT: The MiXXXtape",
         "url": "https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2"
@@ -545,7 +641,7 @@
       "url": "https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Enveloping Absurdity",
         "url": "https://open.spotify.com/album/0ULfAaYkPeQfu3f64qNiuy"
@@ -561,63 +657,7 @@
       "url": "https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "BUST IT",
-        "url": "https://open.spotify.com/album/1JaVsCab59Ls8hIjSMg6Eg"
-      },
-      "artists": [
-        {
-          "name": "Sadzilla",
-          "url": "https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc"
-        },
-        {
-          "name": "Ras Bootin'",
-          "url": "https://open.spotify.com/artist/1waYSMSmhL2nSqLb3XBRSh"
-        },
-        {
-          "name": "EMMETH",
-          "url": "https://open.spotify.com/artist/1C4YaCx7UmWLQrycPwu7Dy"
-        }
-      ],
-      "duration_ms": 171100,
-      "name": "BUST IT",
-      "url": "https://open.spotify.com/track/2VR50MI5hLSYnYRC1mAQOx"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/3VFpo1ADsgO5W4qhQyjUKk"
-      },
-      "artists": [
-        {
-          "name": "Vilify",
-          "url": "https://open.spotify.com/artist/1vcCPOlMYtuwIS7W7fzZno"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/43198ZeRQtET0J7fkhO595"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Mr Medicine",
-        "url": "https://open.spotify.com/album/61YA2rZJLN30UgkVRlHwZM"
-      },
-      "artists": [
-        {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Mr Medicine",
-      "url": "https://open.spotify.com/track/48tHXTsLgLIU4fJNv13LIy"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/5WItXKjIqfNPLL6yZEgxEk"
@@ -633,23 +673,7 @@
       "url": "https://open.spotify.com/track/2HwEi11MYPuQY1rXBrUb7n"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "The Bones That Grew from Pain",
-        "url": "https://open.spotify.com/album/7GzN1P1QFtMNIp3p6ZQEFe"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Cage Fighter",
-          "url": "https://open.spotify.com/artist/4JkTiXry8oQXwcOmEdqAPl"
-        }
-      ],
-      "duration_ms": 227731,
-      "name": "Static Abyss",
-      "url": "https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "RATATATA",
         "url": "https://open.spotify.com/album/4lvR3TmGeAdG6CesUqaPBd"
@@ -665,7 +689,7 @@
       "url": "https://open.spotify.com/track/69MHdGzxzt4GMliiXqpWn4"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Punishing Myself Before God Does",
         "url": "https://open.spotify.com/album/222AtgmkJIArvoRoP5KC8S"
@@ -681,7 +705,7 @@
       "url": "https://open.spotify.com/track/5XMJ0iPqfYdVSAMZaZu6x3"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Still Waiting",
         "url": "https://open.spotify.com/album/7MnKb71wfwCK6QNVQdefI9"
@@ -697,23 +721,7 @@
       "url": "https://open.spotify.com/track/5L6GZ6mFm4q0ZM4hhE8JJt"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Diabolic",
-        "url": "https://open.spotify.com/album/5JXXDea10HLfGk9zMoK90j"
-      },
-      "artists": [
-        {
-          "name": "My Favourite Nemesis",
-          "url": "https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM"
-        }
-      ],
-      "duration_ms": 205590,
-      "name": "Diabolic",
-      "url": "https://open.spotify.com/track/35nX8jOmfuUEofO4r20zJN"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Barbie & Ken",
         "url": "https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq"
@@ -733,7 +741,7 @@
       "url": "https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Chlorine Tears",
         "url": "https://open.spotify.com/album/7uk1TiN9BcMF8iL9amIteu"
@@ -749,7 +757,7 @@
       "url": "https://open.spotify.com/track/554OCcyd1Q3O7bDXNdRZjS"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Smokes, Let's Go",
         "url": "https://open.spotify.com/album/6kv22qz0FjQJTRpbo0vADA"
@@ -765,7 +773,7 @@
       "url": "https://open.spotify.com/track/0nCjt3hXKjGFbsqUDtMPOR"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Worn Out",
         "url": "https://open.spotify.com/album/51RgDcqScUNM0tnJyYPU0D"
@@ -781,7 +789,7 @@
       "url": "https://open.spotify.com/track/1dErvWB1kTwYQuSvYn8zrs"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Day One",
         "url": "https://open.spotify.com/album/0R0odwfRh10a2dWPwVGUHI"
@@ -797,7 +805,7 @@
       "url": "https://open.spotify.com/track/0hG8zv8V3CAIx8Hud0c46z"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Burning Throne",
         "url": "https://open.spotify.com/album/6Yq21ajQ4U8heAmedI5Iho"
@@ -811,22 +819,6 @@
       "duration_ms": 207496,
       "name": "Burning Throne",
       "url": "https://open.spotify.com/track/7AL1DLcTLWyQ77xueiH8QJ"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "MALIZIA",
-        "url": "https://open.spotify.com/album/7rtrTAtDq8S4vlxL2FpQdv"
-      },
-      "artists": [
-        {
-          "name": "HourHouse",
-          "url": "https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "MALIZIA",
-      "url": "https://open.spotify.com/track/1jFosWcZ0SQbvdUhKOS14S"
     }
   ],
   "unique_name": "New Blood",

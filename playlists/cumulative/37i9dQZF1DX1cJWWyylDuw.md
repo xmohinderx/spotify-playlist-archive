@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-426 songs - 1 day 3 hr 55 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
+427 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Lilac](https://open.spotify.com/track/6qevKIIxFnwZuhk93LZ1BX) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [Lilac](https://open.spotify.com/album/2cpSxn3vfj4aRwbI7XaLdC) | 4:03 | 2022-07-01 | 2022-07-24 |
 | [Longclaw](https://open.spotify.com/track/3XuLpFMzHRM3VlAegGMEuF) | [Earth Eater](https://open.spotify.com/artist/36b8PsQoJcT9z27xg4v2GD) | [Longclaw](https://open.spotify.com/album/2ZwgzTFBGdgKTHclCs9uVs) | 5:20 | 2021-12-17 | 2022-07-12 |
 | [Look Behind You](https://open.spotify.com/track/68oQaYxXfUUlI7r89fHzRH) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Vile](https://open.spotify.com/album/7qUgaZk6AzrgVlbpjgQrVN) | 2:45 | 2022-12-02 |  |
-| [Lost Boy](https://open.spotify.com/track/5jFuZGmz1VmEmx31wP7lDy) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Lost Boy](https://open.spotify.com/album/3ZULFLjv3iyEZCgOzmmKHp) | 3:58 | 2021-12-17 |  |
+| [Lost Boy](https://open.spotify.com/track/5jFuZGmz1VmEmx31wP7lDy) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Lost Boy](https://open.spotify.com/album/3ZULFLjv3iyEZCgOzmmKHp) | 3:58 | 2021-12-17 | 2023-01-06 |
 | [Lost In The Static](https://open.spotify.com/track/5QLH7zAdcAJLgR25gtvtoK) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:33 | 2021-12-17 | 2022-04-09 |
 | [Love Me to Death](https://open.spotify.com/track/2AIOCjZ46W7adtRBaqT2XW) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Love Me to Death](https://open.spotify.com/album/1s7syJTvVBjlbZuthJfFJa) | 4:15 | 2021-12-17 | 2022-07-27 |
 | [Love Me to Death](https://open.spotify.com/track/30xWVpvct6LewWIHFEWHdn) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Become the Hunter](https://open.spotify.com/album/0TKibOiHotsM6d36cyepoC) | 4:15 | 2022-07-08 |  |
@@ -434,5 +434,6 @@
 | [You Can't Kill Us](https://open.spotify.com/track/1GIorOlAwn81ZF5gRpThU1) | [Stillbirth](https://open.spotify.com/artist/3zBRwsfsphAy6eNvh2bPiG) | [You Can't Kill Us](https://open.spotify.com/album/4pZhwCEP2dLJmFhy8TlB3c) | 3:37 | 2022-01-14 | 2022-07-26 |
 | [You Must Die](https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [You Must Die](https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj) | 2:42 | 2022-12-16 |  |
 | [Zerotonin 2](https://open.spotify.com/track/2ZsLiGgkF2Kedip9JMNigf) | [Darknet](https://open.spotify.com/artist/4q0wfu3kKAydX7PSA4H502) | [Self\-Titled](https://open.spotify.com/album/7qyhP5CSj4KpC87XnHO92f) | 3:17 | 2021-12-17 | 2022-02-09 |
+| [Zombieland!](https://open.spotify.com/track/4QvMku9TtjxpLS7Xa3x804) | [ROMA JONSON](https://open.spotify.com/artist/21v9qLqZzJBzxIKZZNgD1a), [OLD SOUL](https://open.spotify.com/artist/3asFJeOEKhiHfWckvTdbC7) | [Zombieland!](https://open.spotify.com/album/2xDsQsNrYHAVIkQS4gP1tk) | 2:01 | 2023-01-06 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

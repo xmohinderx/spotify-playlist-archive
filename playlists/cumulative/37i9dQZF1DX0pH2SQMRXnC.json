@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Only the biggest Hardstyle tracks!",
   "name": "Hardstyle Bangers",
-  "published_playlist_ids": [
-    "40ibOn4vxhSEyiHRK9rUTk"
-  ],
   "tracks": [
     {
       "album": {
@@ -3679,7 +3676,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 195066,
       "name": "FYAH",
       "url": "https://open.spotify.com/track/1t43yOydn1O4uOusALEUFl"
@@ -5321,7 +5318,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 218157,
       "name": "Kingdom Comes",
       "url": "https://open.spotify.com/track/3pr7N1tEtoQbJUlediJWJ3"
@@ -9435,6 +9432,10 @@
         {
           "name": "Hard Driver",
           "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        },
+        {
+          "name": "The Elite",
+          "url": "https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk"
         }
       ],
       "date_added": "2021-12-16",
@@ -10177,6 +10178,10 @@
         {
           "name": "Hard Driver",
           "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        },
+        {
+          "name": "The Elite",
+          "url": "https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk"
         },
         {
           "name": "Bram Boender",

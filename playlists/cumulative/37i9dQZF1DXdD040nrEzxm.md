@@ -4,7 +4,7 @@
 
 > Editor's picks: The best African songs of 2022 Cover: <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=8h59NSs\-SNSdV\-c3HMhIiw">Rema</a>
 
-173 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/6yGvt4AKJQKkos6TrQLQgc)
+173 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

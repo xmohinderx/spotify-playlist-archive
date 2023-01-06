@@ -4,7 +4,7 @@
 
 > Hip Hop nacional e gringo para acompanhar gamers e gaming.
 
-239 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/73qzmtM6uDZBs8ROQmiLzF)
+239 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

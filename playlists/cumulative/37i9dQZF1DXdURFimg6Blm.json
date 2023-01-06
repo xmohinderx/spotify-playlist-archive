@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-17",
   "description": "Dance tracks for a big workout.",
   "name": "Beast Mode Dance",
-  "published_playlist_ids": [
-    "6mUtN4cMwDhmgdGpsWc2qP"
-  ],
   "tracks": [
     {
       "album": {
@@ -2474,6 +2471,32 @@
     },
     {
       "album": {
+        "name": "Guddi Riddim",
+        "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        },
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Guddi Riddim",
+      "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
+    },
+    {
+      "album": {
         "name": "hate u cuz i don't (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/01EtwxoHPTutToBZWQSSpG"
       },
@@ -4149,7 +4172,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 203288,
       "name": "LOW",
       "url": "https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8"

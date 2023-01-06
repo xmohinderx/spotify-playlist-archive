@@ -4,7 +4,7 @@
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Local Sound
 
-71 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/4UMLq2QTX0ZuozuX4vsRMk)
+71 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

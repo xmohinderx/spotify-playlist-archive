@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-616 songs - 1 day 11 hr 17 min - [published](https://open.spotify.com/playlist/4xe8JQ3qRY56mBF02olXgZ)
+616 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ¡Hay tamales! ¡Tamales calientitos! De dulce, verde, rojo, mole y hasta oaxaqueños.
 
-129 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/5NziWN2xphvWoNxvRHJr3r)
+129 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

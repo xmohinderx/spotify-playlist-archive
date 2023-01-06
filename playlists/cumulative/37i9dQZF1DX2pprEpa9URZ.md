@@ -4,7 +4,7 @@
 
 > A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.
 
-339 songs - 1 day 13 hr 47 min - [published](https://open.spotify.com/playlist/72tvy5oFSSxWjO9lGxm3Vs)
+339 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

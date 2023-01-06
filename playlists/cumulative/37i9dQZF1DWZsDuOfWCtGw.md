@@ -4,7 +4,7 @@
 
 > The biggest house tracks we couldn't get enough of this year\. Cover: John Summit
 
-75 songs - 4 hr 13 min - not published yet
+75 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

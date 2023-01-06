@@ -4,7 +4,7 @@
 
 > Late night cool and the sound of smooth blues.
 
-88 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/1lH2OQ6D3sovihnuAm71bl)
+88 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

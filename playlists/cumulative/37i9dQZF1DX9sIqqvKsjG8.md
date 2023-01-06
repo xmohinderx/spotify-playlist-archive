@@ -4,7 +4,7 @@
 
 > Focus with soft study music in the background.
 
-627 songs - 1 day 3 hr 10 min - [published](https://open.spotify.com/playlist/4z9zMoxN01IrpIcoI15ekY)
+627 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

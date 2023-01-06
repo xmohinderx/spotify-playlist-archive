@@ -4,7 +4,7 @@
 
 > pongámonos de acuerdo: nos vamos a querer o ahí la vamos a dejar o de nuevo aparentar que aquí no ha pasado nada 💔
 
-100 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/2JYYQFaZkrXZ0QulPBCtwz)
+100 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

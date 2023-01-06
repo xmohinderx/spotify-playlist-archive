@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-10",
   "description": "El mejor pop de todos los tiempos. Foto: Shakira",
   "name": "Mega Pop Mix",
-  "published_playlist_ids": [
-    "0h83xrckyJfTJCvqgefBnc"
-  ],
   "tracks": [
     {
       "album": {
@@ -5939,7 +5936,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 182600,
       "name": "Mala Fama",
       "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
@@ -6691,7 +6688,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 201160,
       "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"

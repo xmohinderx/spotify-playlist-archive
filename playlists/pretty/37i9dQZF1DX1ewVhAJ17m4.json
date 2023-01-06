@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: blink-182",
-  "num_followers": 538969,
+  "num_followers": 539177,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMGIyYmQ5YzAzNWRkMDg5YTBjMDU3ZDg1NGYxZmU4OTZk",
+  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMGM0NzVjZGQzZjEwMTJmYjkyYzAxODU4YmVjZWI5ZmQx",
   "tracks": [
     {
       "added_at": "2022-11-10 17:53:01",
@@ -195,26 +195,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Kings of the New Age",
-        "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        },
-        {
-          "name": "Ben Barlow",
-          "url": "https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC"
-        }
-      ],
-      "duration_ms": 227393,
-      "name": "Everybody but You",
-      "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Hey Ben",
         "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 200165,
       "name": "Hey Ben",
       "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Kings of the New Age",
+        "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        },
+        {
+          "name": "Ben Barlow",
+          "url": "https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC"
+        }
+      ],
+      "duration_ms": 227393,
+      "name": "Everybody but You",
+      "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Get A Job",
-        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 186581,
-      "name": "Get A Job",
-      "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Call Me Never",
         "url": "https://open.spotify.com/album/0BfKHzKddDMfm0G3Ou3qUS"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 182349,
       "name": "Call Me Never",
       "url": "https://open.spotify.com/track/4No3g1xYAXAyxYU4LQLZEq"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Get A Job",
+        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 186581,
+      "name": "Get A Job",
+      "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -671,26 +671,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "TAKE THIS CROWN (feat. Good Charlotte)",
-        "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        },
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "TAKE THIS CROWN (feat. Good Charlotte)",
-      "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Addison Rae",
         "url": "https://open.spotify.com/album/10guCRD4IIfIvmAt5ny4Km"
       },
@@ -727,6 +707,26 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "TAKE THIS CROWN (feat. Good Charlotte)",
+        "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "TAKE THIS CROWN (feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/0BZ62pEv3lsqAAl8Cx1WsA"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Don't Fall In Love With Me",
-        "url": "https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u"
-      },
-      "artists": [
-        {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Don't Fall In Love With Me",
-      "url": "https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "The King and Queen of Gasoline",
         "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 179175,
       "name": "Teenage Runaways",
       "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Don't Fall In Love With Me",
+      "url": "https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -955,6 +955,26 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Happy Never After",
+        "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 175172,
+      "name": "Cursive",
+      "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "BURNOUT",
         "url": "https://open.spotify.com/album/01vivwdeCRkTwNwgVEFmza"
       },
@@ -967,22 +987,6 @@
       "duration_ms": 182622,
       "name": "THE AMERICAN DREAM",
       "url": "https://open.spotify.com/track/3FSxSPFLwvVUMjTjFo9Von"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "SiCK ABOuT U",
-        "url": "https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4"
-      },
-      "artists": [
-        {
-          "name": "TITUS",
-          "url": "https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd"
-        }
-      ],
-      "duration_ms": 188387,
-      "name": "SiCK ABOuT U",
-      "url": "https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Happy Never After",
-        "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
+        "name": "SiCK ABOuT U",
+        "url": "https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4"
       },
       "artists": [
         {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+          "name": "TITUS",
+          "url": "https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd"
         }
       ],
-      "duration_ms": 175172,
-      "name": "Cursive",
-      "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
+      "duration_ms": 188387,
+      "name": "SiCK ABOuT U",
+      "url": "https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1051,6 +1051,22 @@
       "duration_ms": 185070,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/5roYKXhHbcu9zFQrsAbQgp"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 165682,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/3sYPS9z6s8UkChnhztaV50"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/5roYKXhHbcu9zFQrsAbQgp"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 165682,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/3sYPS9z6s8UkChnhztaV50"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "SORRY 4 MYSELF",
         "url": "https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "DEAD ASTRONAUT",
-        "url": "https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A"
-      },
-      "artists": [
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "DEAD ASTRONAUT",
-      "url": "https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "SUP",
         "url": "https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 194751,
       "name": "together",
       "url": "https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "DEAD ASTRONAUT",
+        "url": "https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "DEAD ASTRONAUT",
+      "url": "https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "u look stupid",
-        "url": "https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 148897,
-      "name": "u look stupid",
-      "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Six Feet Under",
         "url": "https://open.spotify.com/album/4C8d8WgzPnrxZyJdlNgzHo"
       },
@@ -1343,34 +1327,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Sunsign",
-        "url": "https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf"
+        "name": "u look stupid",
+        "url": "https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI"
       },
       "artists": [
         {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
         }
       ],
-      "duration_ms": 227507,
-      "name": "Sunsign",
-      "url": "https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Best Kept Secret",
-        "url": "https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO"
-      },
-      "artists": [
-        {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        }
-      ],
-      "duration_ms": 148753,
-      "name": "Best Kept Secret",
-      "url": "https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV"
+      "duration_ms": 148897,
+      "name": "u look stupid",
+      "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1391,18 +1359,54 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "1-800-IDONTKNOWYOUANYMORE",
-        "url": "https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA"
+        "name": "Best Kept Secret",
+        "url": "https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO"
       },
       "artists": [
         {
-          "name": "Chad Tepper",
-          "url": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3"
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
         }
       ],
-      "duration_ms": 171112,
-      "name": "1-800-IDONTKNOWYOUANYMORE",
-      "url": "https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0"
+      "duration_ms": 148753,
+      "name": "Best Kept Secret",
+      "url": "https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/2GhbRogqOKDZ2LCUBZ0K05"
+      },
+      "artists": [
+        {
+          "name": "Crooked Teeth",
+          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
+        },
+        {
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4hyMz2XnHVcms6Tb6hKmOo"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Sunsign",
+        "url": "https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 227507,
+      "name": "Sunsign",
+      "url": "https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

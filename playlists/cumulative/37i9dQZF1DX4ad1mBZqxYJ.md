@@ -4,7 +4,7 @@
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-323 songs - 18 hr 57 min - [published](https://open.spotify.com/playlist/79XEgWSSlyCm8TlF1L3SRb)
+323 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-311 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/1CMYDtTchww5I0POME7JqP)
+311 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 la sad e villa in cover",
+  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 il collettivo in cover",
   "name": "sanguegiovane",
-  "published_playlist_ids": [
-    "2BZ03rNM0vrjFSXCBigadZ"
-  ],
   "tracks": [
     {
       "album": {
@@ -585,7 +582,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 163125,
       "name": "Andr\u00e0 Tutto Bene",
       "url": "https://open.spotify.com/track/1PawQdWbmeDiOcE3kDhQ5d"
@@ -1353,7 +1350,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 194666,
       "name": "crollo",
       "url": "https://open.spotify.com/track/3HN3PA9UKhV2eWvRiDmrrS"
@@ -1455,6 +1452,24 @@
       "duration_ms": 182792,
       "name": "dead inside",
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+    },
+    {
+      "album": {
+        "name": "young forever (extended)",
+        "url": "https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161917,
+      "name": "deathmatch",
+      "url": "https://open.spotify.com/track/6cDfk6xwxZ5GlXPjLlYcKy"
     },
     {
       "album": {
@@ -2407,7 +2422,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 187252,
       "name": "Giro Di Notte",
       "url": "https://open.spotify.com/track/0Ah4GcfhnjzbVwbz02DOz3"
@@ -4825,7 +4840,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 190702,
       "name": "Quando casco di sotto",
       "url": "https://open.spotify.com/track/5B2gVpi7f6Tm7SXGnnjM3d"
@@ -5368,6 +5383,24 @@
     },
     {
       "album": {
+        "name": "setiva",
+        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137137,
+      "name": "setiva",
+      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
+    },
+    {
+      "album": {
         "name": "Settembre",
         "url": "https://open.spotify.com/album/6m1TwgG6hMBLepy4GPR2rz"
       },
@@ -5520,6 +5553,24 @@
     },
     {
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152375,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2"
+    },
+    {
+      "album": {
         "name": "Solo come un cane",
         "url": "https://open.spotify.com/album/6CBCpUpGNwxz2pZpEDsnS9"
       },
@@ -5631,7 +5682,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 192940,
       "name": "SOTTONE DANNATO",
       "url": "https://open.spotify.com/track/2hFvWFjEe67dgSYsHr4TNv"
@@ -6465,7 +6516,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 128879,
       "name": "TRACCIA 0",
       "url": "https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA"
@@ -6552,6 +6603,24 @@
     },
     {
       "album": {
+        "name": "Ugly Crier",
+        "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152053,
+      "name": "Ugly Crier",
+      "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
+    },
+    {
+      "album": {
         "name": "UN CASSETTO DI LACRIME",
         "url": "https://open.spotify.com/album/72fjREfFH9cBp1mSlRmGAu"
       },
@@ -6633,7 +6702,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 125901,
       "name": "ur a <stranger>",
       "url": "https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE"
@@ -6864,6 +6933,24 @@
     },
     {
       "album": {
+        "name": "Waifu Material",
+        "url": "https://open.spotify.com/album/1NNnst3RiYbYBhissGHtkI"
+      },
+      "artists": [
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143874,
+      "name": "Waifu Material",
+      "url": "https://open.spotify.com/track/3eUqI6nmU2mAUdZFqdS831"
+    },
+    {
+      "album": {
         "name": "ARDIPITHECUS",
         "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
       },
@@ -7011,7 +7098,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 158555,
       "name": "WTF",
       "url": "https://open.spotify.com/track/46cP2WBFgoi05vLZNKKfUp"

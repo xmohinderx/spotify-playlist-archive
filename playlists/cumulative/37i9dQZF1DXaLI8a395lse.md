@@ -4,7 +4,7 @@
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: my bloody valentine
 
-242 songs - 16 hr 44 min - [published](https://open.spotify.com/playlist/3piEMU8FoPNQ3REnUsiVrc)
+242 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

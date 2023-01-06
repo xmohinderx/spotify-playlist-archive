@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-243 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/5moqmy6VQIRDUxQYNZv0lg)
+243 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-71 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/3fahOy3iri1dJ2MuPaHK5f)
+71 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

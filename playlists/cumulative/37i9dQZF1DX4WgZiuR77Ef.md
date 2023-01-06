@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-179 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+179 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

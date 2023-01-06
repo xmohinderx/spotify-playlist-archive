@@ -2,9 +2,9 @@
 
 ### [Acoustic Blues](https://open.spotify.com/playlist/37i9dQZF1DX2iUghHXGIjj)
 
-> Raw, emotional, and acoustic\. Cover: Taj Mahal
+> Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-156 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
+156 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

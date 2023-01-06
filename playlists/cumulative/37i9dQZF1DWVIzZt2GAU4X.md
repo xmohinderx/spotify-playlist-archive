@@ -4,7 +4,7 @@
 
 > Vocals and keys, front and center\. Cover: Adele
 
-211 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/1Q4zrbwq1b10L5GOd0I2Ek)
+211 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

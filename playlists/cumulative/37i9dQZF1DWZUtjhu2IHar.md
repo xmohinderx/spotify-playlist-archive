@@ -4,7 +4,7 @@
 
 > Highlights from the class of 2022\. Cover: YUNGBLUD
 
-110 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/0gRbgPGo5N1a8Os2Z8btid)
+110 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

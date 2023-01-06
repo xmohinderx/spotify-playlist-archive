@@ -4,7 +4,7 @@
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-156 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/0xpOFo0Nc6AxoX2F4xAxnp)
+156 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

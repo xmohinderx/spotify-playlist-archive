@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-185 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+185 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

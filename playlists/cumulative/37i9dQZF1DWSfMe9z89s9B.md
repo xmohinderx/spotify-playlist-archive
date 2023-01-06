@@ -2,9 +2,9 @@
 
 ### [Alternative R&B](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> R&B without boundaries\. Cover: Q
+> R&B without boundaries\. Cover: Yaya Bey
 
-703 songs - 1 day 13 hr 57 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+705 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Remember](https://open.spotify.com/track/2I8ShBtMUKGgjZjgoV8ell) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Remember](https://open.spotify.com/album/4k4s2vqYvuj1u2DWyCvvK3) | 3:32 | 2021-06-18 | 2022-01-22 |
 | [Rent](https://open.spotify.com/track/4NKQ6wT0A2mtZRLItjEqv6) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Rent](https://open.spotify.com/album/2vq1glJMFEG4V6ZT1mjJjU) | 3:18 | 2022-04-01 | 2022-07-26 |
 | [Reprise](https://open.spotify.com/track/3CCH5hi83YlSBs484oAwPg) | [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Reprise](https://open.spotify.com/album/3poyf0yUBg4It6UWIvl0cx) | 4:37 | 2021-11-19 | 2022-01-24 |
+| [reprise](https://open.spotify.com/track/2k53CUO1l6n9IdwYerskQ4) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 4:25 | 2022-07-15 |  |
 | [rewind](https://open.spotify.com/track/66orvVes79w0dZao9ZIw97) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY), [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [rewind](https://open.spotify.com/album/1bHhbJVvzqeKTKNEK2aU8T) | 2:20 | 2022-09-23 | 2022-11-12 |
 | [Rider](https://open.spotify.com/track/3E2GaYRo0NLKLX3R00e5t8) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Rider](https://open.spotify.com/album/6Or5zQjNuLi7VaUSfxSGpp) | 2:45 | 2021-04-30 | 2022-07-29 |
 | [Rider](https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [AZEB \- EP](https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi) | 2:45 | 2022-06-10 |  |
@@ -562,7 +563,7 @@
 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 | 2021-09-17 | 2022-09-10 |
 | [Slow Jam](https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Sweet Heat](https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd) | 3:28 | 2022-08-19 | 2022-11-12 |
 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 | 2022-10-21 |  |
-| [So Bad](https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq) | 3:33 | 2022-08-19 |  |
+| [So Bad](https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq) | 3:33 | 2022-08-19 | 2023-01-06 |
 | [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/track/3wQTTzuD1SkXaKqpZmC0tQ) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/album/2C9mU98Ty3lPbQPne7wcse) | 3:44 | 2022-08-26 | 2022-09-10 |
 | [Soakin \(feat\. Gwen Bunn\)](https://open.spotify.com/track/7epN5VB7jzztkow06wBzzP) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Birds & Bees](https://open.spotify.com/album/1HAbHnM7A3saeFtPaoAtAN) | 4:00 | 2021-11-05 | 2022-01-07 |
 | [Solid](https://open.spotify.com/track/7AhEDoVzlBZT3nFxzoGqwX) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Solid](https://open.spotify.com/album/2Cc42kwECFHrRY0LRFB63q) | 3:39 | 2021-03-19 | 2022-01-23 |
@@ -582,6 +583,7 @@
 | [Stereo Driver](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Stereo Driver](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 | 2022-09-23 |  |
 | [Still Blue \(feat\. JGrrey\)](https://open.spotify.com/track/7cjIiu3XZSz7tubqWkWojH) | [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Still Blue \(feat\. JGrrey\)](https://open.spotify.com/album/4tkmMUCsE8DE4ukjA8SBZC) | 4:29 | 2021-06-04 | 2022-01-26 |
 | [Strange Love \- Single Edit](https://open.spotify.com/track/0dgehlr08kKoyl2nG7Dhv4) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Strange Love \- Single Edit](https://open.spotify.com/album/2GU9e1FHv9tJan1R3TXxTZ) | 3:01 | 2021-06-04 | 2022-07-29 |
+| [street fighter blues](https://open.spotify.com/track/5rKtPQp55pJVHlTKbw1iUt) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:55 | 2023-01-06 |  |
 | [Stuck](https://open.spotify.com/track/0kzUzaT9BZzrXXloLk49ig) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Stuck](https://open.spotify.com/album/6U726nWLVts6WivbWjjdIq) | 2:38 | 2021-09-17 | 2022-07-25 |
 | [Stuck In The Middle](https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stuck In The Middle](https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg) | 2:46 | 2022-07-15 |  |
 | [Sublunary du Son](https://open.spotify.com/track/6AxpaKE562EKSJJ9efKIbK) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Tayo And The Dreamer](https://open.spotify.com/album/6WoMTOAyYVn0G068pxzbMH) | 3:44 | 2021-06-25 | 2022-01-13 |
@@ -674,7 +676,7 @@
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-20 | 2022-10-08 |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2021-07-23 | 2022-01-29 |
 | [West Like \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/72AK6S3YqO2UNdrhtoN8vu) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [West Like \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/5lkzzFYLVQ4PAjCM32Ef7m) | 3:01 | 2022-04-01 | 2022-04-07 |
-| [What About Me?](https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [What About Me?](https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ) | 3:25 | 2022-11-11 |  |
+| [What About Me?](https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [What About Me?](https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ) | 3:25 | 2022-11-11 | 2023-01-06 |
 | [What You Need](https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:03 | 2021-03-19 | 2022-07-01 |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-04-01 | 2022-08-09 |
 | [whelmed](https://open.spotify.com/track/4dj5RTVztRLROh8hJi8uHl) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [allthefeels](https://open.spotify.com/album/2DXytFWgK7lHidJLxTJzT2) | 4:08 | 2022-07-15 | 2022-12-30 |

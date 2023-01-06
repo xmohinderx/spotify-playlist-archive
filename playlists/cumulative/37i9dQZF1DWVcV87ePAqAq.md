@@ -4,7 +4,7 @@
 
 > Gott nytt år!
 
-357 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/0p8DpxU3K1bFOSWPIoQiEH)
+357 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

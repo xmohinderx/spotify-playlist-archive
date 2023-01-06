@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Global.
 
-1,159 songs - 2 day 17 hr 55 min - [published](https://open.spotify.com/playlist/2DihMhvvEvcteVkQxI4f0y)
+1,159 songs - 2 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Zach Bryan\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/6XOLregMdojNQruL0B54ez)
+44 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

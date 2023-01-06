@@ -4,7 +4,7 @@
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-168 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/55RU8oZjX8hltMj0iIsfn8)
+168 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

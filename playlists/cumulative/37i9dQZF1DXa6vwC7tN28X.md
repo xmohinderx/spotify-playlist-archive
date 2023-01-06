@@ -4,7 +4,7 @@
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-68 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/3WMriKUyo2CSgT5Sf3Ib9y)
+68 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-289 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
+290 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Follow Me](https://open.spotify.com/track/0hBg3ymrkGMAghPlk2L7ii) | [fox](https://open.spotify.com/artist/2SXuNJWv9RZcRjUc7zIsHy) | [Follow Me](https://open.spotify.com/album/5yaEujGFm7dEg8WnIongAO) | 1:42 | 2021-12-24 | 2022-04-16 |
 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 | 2022-08-19 |  |
 | [friends or not](https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [friends or not](https://open.spotify.com/album/6VRAu1SzoQyotA5FcuIiUT) | 3:12 | 2021-10-15 | 2022-07-29 |
+| [From the Subway Train](https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Angel Youth](https://open.spotify.com/album/7CESHttY9U97FElD5JAXSW) | 0:57 | 2023-01-05 |  |
 | [Game over!](https://open.spotify.com/track/1LnvvETuCo3vqt1xC9j7J4) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Game over!](https://open.spotify.com/album/5rGW41R5p83qj3cv1Akz47) | 3:26 | 2021-06-08 | 2022-04-21 |
 | [Getsomerest/sleepwell](https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Quickly Quickly, Vol\. 1](https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1) | 5:32 | 2021-06-08 | 2022-04-14 |
 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 | 2021-12-08 | 2022-07-29 |
@@ -250,7 +251,7 @@
 | [Sweetly](https://open.spotify.com/track/32TW5KGM1UqTzkTOkcNITt) | [Lord Kael](https://open.spotify.com/artist/0RLNRNxmEHZN7EStjBf0O4) | [Sweetly](https://open.spotify.com/album/103uB4hb8Yc0bEdl35lUDa) | 2:15 | 2021-08-03 | 2022-04-15 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-06-08 |  |
 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 | 2022-08-19 |  |
-| [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 | 2022-07-19 |  |
+| [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 | 2022-07-19 | 2023-01-06 |
 | [The Loser](https://open.spotify.com/track/3u0kNxqOOC8SdoODpkmoZO) | [Zach Farache](https://open.spotify.com/artist/3zXefhSXvdPat7oeahOXJI) | [Fatigue](https://open.spotify.com/album/3ecRdDscGaPIeYhj3l3IDV) | 2:11 | 2021-06-08 | 2022-05-11 |
 | [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 | 2021-06-08 | 2022-04-20 |
 | [the way that you see me \(feat\. Ayleen Valentine\)](https://open.spotify.com/track/5O6QAX1oI4iktfXP8HAmgi) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [the way that you see me \(feat\. Ayleen Valentine\)](https://open.spotify.com/album/4V0khjs7JiKzbJdYMukRhm) | 3:02 | 2021-06-08 | 2022-04-19 |

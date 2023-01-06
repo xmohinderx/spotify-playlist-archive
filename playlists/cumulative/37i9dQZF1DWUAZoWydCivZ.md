@@ -4,7 +4,7 @@
 
 > Turn that frown upside down with these pop classics.
 
-113 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/3W7Fah7GFgjpPiL4jMmi0W)
+113 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

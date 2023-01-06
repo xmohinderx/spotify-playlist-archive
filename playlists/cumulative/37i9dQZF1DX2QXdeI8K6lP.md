@@ -4,7 +4,7 @@
 
 > Música que te hará suspirar como en aquellos años dorados\. En portada: Los Panchos
 
-185 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/4VWZ2LGtzV2ErHEXEj9GJc)
+185 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-168 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
+168 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

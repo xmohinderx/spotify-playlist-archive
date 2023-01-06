@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Louis Cole",
-  "num_followers": 285411,
+  "num_followers": 285569,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDE2N2U4ZjBhMjg3ZmJmMGE3OGU5Y2JiMWRjZGU5OTY2",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGJjZjFmNTNkYzFiNDVkZmViZDg2ZWQ5Zjg2NzY4Zjc3",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -71,6 +71,34 @@
       "duration_ms": 216040,
       "name": "Park Your Car on My Face",
       "url": "https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Shake It Out",
+        "url": "https://open.spotify.com/album/2TfFms1xPm0PB8JoQu9Ciq"
+      },
+      "artists": [
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        },
+        {
+          "name": "DOMENICO",
+          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
+        },
+        {
+          "name": "Rion S",
+          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
+        },
+        {
+          "name": "Prince Street Bodega",
+          "url": "https://open.spotify.com/artist/59csLsBzBRbMMXSjKf4v1a"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Shake It Out",
+      "url": "https://open.spotify.com/track/740sWbfkm2whfeD2tuuIoV"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1839,22 +1867,6 @@
       "duration_ms": 113853,
       "name": "Skate with Me",
       "url": "https://open.spotify.com/track/1mVrIfEExkhtGUSkiHjDdl"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "JAMS",
-        "url": "https://open.spotify.com/album/5udDn4SejsAHOTc74x7oFY"
-      },
-      "artists": [
-        {
-          "name": "Jay Diggs",
-          "url": "https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1"
-        }
-      ],
-      "duration_ms": 164980,
-      "name": "Where's My Money?",
-      "url": "https://open.spotify.com/track/4nqSPBGUtCuJkhJU5coTyW"
     }
   ],
   "unique_name": "Nu-Funk",

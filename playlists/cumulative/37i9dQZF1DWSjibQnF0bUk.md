@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-290 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/5Ia0O2s18IQpAbkgQJ0E7m)
+290 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

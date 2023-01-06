@@ -4,7 +4,7 @@
 
 > Exciting podcasters on the RADAR: The Linya\-Linya Show, The Week Sauce, and Wisdom Bars with Real Talk Darbs! \#PinoyPride
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/1T7qZ5pj3R8jW35xjgTaaX)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

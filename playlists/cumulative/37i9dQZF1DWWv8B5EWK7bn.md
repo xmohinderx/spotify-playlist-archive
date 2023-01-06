@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-222 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+222 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Lo mejor del rock en español en la década de los 2000.
 
-71 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/2h8cZvdljIrO8TtDQ9p1rj)
+71 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

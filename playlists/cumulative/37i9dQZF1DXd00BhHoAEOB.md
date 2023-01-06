@@ -4,7 +4,7 @@
 
 > Planta de la bugambilia que me cubres y me matas.
 
-145 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/6ppIArSRpKQhSICAE75rYL)
+145 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

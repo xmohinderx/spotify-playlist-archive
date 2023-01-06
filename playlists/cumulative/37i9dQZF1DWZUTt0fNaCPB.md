@@ -4,7 +4,7 @@
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-190 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/21ccch0oSyRxb8T4kGUPOS)
+190 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

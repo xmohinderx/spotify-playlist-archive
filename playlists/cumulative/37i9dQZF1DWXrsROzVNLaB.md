@@ -4,7 +4,7 @@
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-50 songs - 4 hr 15 min - not published yet
+50 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

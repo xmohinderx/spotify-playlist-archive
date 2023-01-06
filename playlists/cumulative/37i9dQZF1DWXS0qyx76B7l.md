@@ -4,7 +4,7 @@
 
 > Songs about the iconic city\. Welcome to the Big Apple!
 
-105 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/304x1Ce1d77xP3lFWeIUYd)
+105 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

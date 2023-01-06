@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Noemi, Gemitaiz
 
-238 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+239 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Universo](https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x) | [Venere](https://open.spotify.com/artist/0oRYvj2dYUhN9rAcxUqu4f) | [Universo](https://open.spotify.com/album/76ekt5JP6roqnpBrp3pu9I) | 2:43 | 2022-05-05 | 2022-10-07 |
 | [Veleno](https://open.spotify.com/track/6Txmgb9n1p1XZtJ6dNUBlb) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Trusty](https://open.spotify.com/artist/5yC9LA5cSmbG5y20u2Qxf7) | [Veleno](https://open.spotify.com/album/5C53KJCrnzTarnkfgOwTyr) | 2:39 | 2022-09-15 |  |
 | [Verticale \(tempo\)](https://open.spotify.com/track/12jJb4Ga68kxx2jBDJW9qC) | [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt) | [Verticale \(tempo\)](https://open.spotify.com/album/5g8vlKQpbdrA7LzNASbhCX) | 3:01 | 2022-12-08 |  |
+| [Vertigine](https://open.spotify.com/track/414rYnSg7ihdTU9gD3mY3b) | [Sofia Nuccio](https://open.spotify.com/artist/2yTbgDLtrIA7MFMoDFViVi) | [Vertigine](https://open.spotify.com/album/44om6lwltnl4rDBJvaCx3P) | 3:07 | 2023-01-05 |  |
 | [Vicino](https://open.spotify.com/track/73teXUHwtke0LElEq9dpYN) | [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC), [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Vicino](https://open.spotify.com/album/4UakhMQpfKJaEk7CzZ9mLk) | 3:02 | 2022-05-05 | 2022-11-11 |
 | [Vieni con me](https://open.spotify.com/track/7yAJfH5ZGi6FYYNVFoRif8) | [MARA J](https://open.spotify.com/artist/4AHUyFStTFR9V7kVC09b5j) | [Vieni con me](https://open.spotify.com/album/6dRU6IthL0vQcaL6OUcAgi) | 3:12 | 2022-06-09 | 2022-07-29 |
 | [Vienna](https://open.spotify.com/track/53KrUxwMNVHjLILF1jyAfn) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Vienna](https://open.spotify.com/album/3FP4ojnhOoKc2GKj5L85yu) | 2:37 | 2022-06-02 | 2022-07-29 |

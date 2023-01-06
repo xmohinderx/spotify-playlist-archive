@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The most essential R&B songs from the 2010s. Cover: Summer Walker",
   "name": "I Love My '10s R&B",
-  "published_playlist_ids": [
-    "62gKARUgXf3sQQyKBotdBs"
-  ],
   "tracks": [
     {
       "album": {
@@ -349,6 +346,24 @@
       "duration_ms": 242013,
       "name": "Bottoms Up (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/4AYX69oFP3UOS1CFmV9UfO"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99213,
+      "name": "Break from Toronto",
+      "url": "https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh"
     },
     {
       "album": {
@@ -791,7 +806,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 211960,
       "name": "Ex Calling",
       "url": "https://open.spotify.com/track/1MQ8ydvrTnn2QJgXFATJvD"

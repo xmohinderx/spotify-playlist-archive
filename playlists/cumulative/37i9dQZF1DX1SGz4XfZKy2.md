@@ -4,7 +4,7 @@
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-87 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/1ISc2kghgLSBOppDcYOI8f)
+87 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

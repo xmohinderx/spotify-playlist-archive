@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-169 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/4R8F66wNxVjPIlXGl9Pnll)
+169 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

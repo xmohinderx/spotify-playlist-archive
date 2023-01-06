@@ -4,7 +4,7 @@
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music \#SpotifyWrapped
 
-168 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/0IzMblP0V9gLxyS2I1i6Zs)
+168 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

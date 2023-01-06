@@ -4,7 +4,7 @@
 
 > There's no such thing as "too much fun." Let these country songs keep the party going!
 
-137 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/1tMONXYD6Zd2IPC4azaPza)
+137 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Canciones te inspiran a ti y a todas las mamás.
 
-147 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/0w6qy4SJi5dmsrqM38MLcj)
+147 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/3o4Z9XwrdzrNGWVZanB7aT)
+80 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

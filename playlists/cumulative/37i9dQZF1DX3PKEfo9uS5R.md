@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-150 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+150 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-248 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/4DQfzKopxCv8ROmYvt7sGj)
+248 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

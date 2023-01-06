@@ -4,7 +4,7 @@
 
 > Up for a nostalgic running session?
 
-174 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/5RHjB2GGMhWHz9kybQyGAt)
+174 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

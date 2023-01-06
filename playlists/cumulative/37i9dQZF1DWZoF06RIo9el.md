@@ -4,7 +4,7 @@
 
 > Lo mejor de enero 2023.
 
-423 songs - 22 hr 49 min - [published](https://open.spotify.com/playlist/43291nJ92u7zOO0hZDqeVI)
+423 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

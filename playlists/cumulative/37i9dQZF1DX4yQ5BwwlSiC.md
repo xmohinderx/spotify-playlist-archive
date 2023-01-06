@@ -4,7 +4,7 @@
 
 > Check out all of these artists and more performing live in Nashville at the CMA Music Festival 2022! Cover: Carrie Underwood
 
-154 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/3icCyajNalVqsD6028NsI7)
+154 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

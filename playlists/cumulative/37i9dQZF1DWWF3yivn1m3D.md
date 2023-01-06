@@ -4,7 +4,7 @@
 
 > The best of the legendary composer.
 
-124 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/0h0rKNbh1QO8K3v7LZmRWf)
+124 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

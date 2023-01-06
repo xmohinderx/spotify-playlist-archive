@@ -4,7 +4,7 @@
 
 > Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
 
-1,010 songs - 2 day 13 hr 43 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
+1,010 songs - 2 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

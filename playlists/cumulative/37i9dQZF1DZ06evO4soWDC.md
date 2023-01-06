@@ -4,7 +4,7 @@
 
 > This is Luca Brasi\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/0OZe0uAP6M7UuJTxopMkud)
+48 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Unforgettable love songs from the 2010s.
 
-111 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/28eIkyLubiZ9AEEzK1z67M)
+111 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

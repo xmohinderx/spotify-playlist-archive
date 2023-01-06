@@ -4,7 +4,7 @@
 
 > La banda sonora para tus cenas en casa.
 
-191 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/6f3cqmqdYqRr7cbIDvLNPd)
+191 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

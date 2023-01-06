@@ -4,7 +4,7 @@
 
 > The best in new & current Dancehall\. Cover: WSTRN
 
-180 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
+180 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

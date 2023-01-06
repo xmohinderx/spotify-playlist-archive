@@ -4,7 +4,7 @@
 
 > ¡Esto es punta!
 
-74 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/3CugKSm2PhA83VrYcz2ukm)
+74 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

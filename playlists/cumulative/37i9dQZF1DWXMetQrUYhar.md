@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Japanese Breakfast.
 
-191 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
+191 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Angela Torres.
 
-151 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
+152 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Blokeao](https://open.spotify.com/track/5au1ohqMri0oI2JyCbkl9J) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Blokeao](https://open.spotify.com/album/08Eyi1GTWoDYfVzHOGikDW) | 3:17 | 2022-08-05 |  |
 | [Bombon](https://open.spotify.com/track/4Rq2Hu03jIex87RcHy3Kvt) | [Kifykify](https://open.spotify.com/artist/1ZM3GOPFXwiy6yVeY1FM3I), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Bombon](https://open.spotify.com/album/7j4mQ0tIdeTTT1fB2OUJNc) | 2:55 | 2022-05-24 | 2022-06-18 |
 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 | 2022-07-22 |  |
+| [Cartera Drxga y Maquillaje](https://open.spotify.com/track/1usHY94fx76ykpvlMD5dWk) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT) | [Cartera Drxga y Maquillaje](https://open.spotify.com/album/7idvjC1nomwslxVrZum7Rr) | 2:06 | 2023-01-05 |  |
 | [CHIN CHIN](https://open.spotify.com/track/20rMomDU9dk6QDRKCYKrzh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [CHIN CHIN](https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx) | 2:58 | 2022-11-18 |  |
 | [Como Antes](https://open.spotify.com/track/42we2zjPoYkN2S79iRaLG6) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Géminis](https://open.spotify.com/album/2pBiSMw2ttPMNgqG6m9FFP) | 3:02 | 2022-05-24 |  |
 | [Copacabana](https://open.spotify.com/track/6TdKDyEmYreudp1NcvorV8) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Copacabana](https://open.spotify.com/album/0wALAHwLS2U83B4fKSKwFR) | 1:57 | 2022-05-24 | 2022-07-29 |
@@ -92,7 +93,7 @@
 | [Me Enseñaste \- Remix](https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Me Enseñaste \(Remix\)](https://open.spotify.com/album/3TNDvI62UbwgzEK0RZ99Rt) | 4:00 | 2022-07-28 |  |
 | [Me Prefiere](https://open.spotify.com/track/1pWr82d4ODrCxNnpvJt2kO) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [Valentin Reigada](https://open.spotify.com/artist/4E1vcDCiROPP3muKybizHO) | [Me Prefiere](https://open.spotify.com/album/1giWkBz9s2Fc9Jb8K1Yfp1) | 2:32 | 2022-05-24 |  |
 | [Mi Debilidad](https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mi Debilidad](https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz) | 2:45 | 2022-05-24 | 2022-11-19 |
-| [Mi Nena](https://open.spotify.com/track/3qBKuh7RPdibZ5K9I5xQdb) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj) | [Mi Nena](https://open.spotify.com/album/1eVX7OilmIFL8ZL9x3Db5t) | 3:08 | 2022-05-24 |  |
+| [Mi Nena](https://open.spotify.com/track/3qBKuh7RPdibZ5K9I5xQdb) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj) | [Mi Nena](https://open.spotify.com/album/1eVX7OilmIFL8ZL9x3Db5t) | 3:08 | 2022-05-24 | 2023-01-06 |
 | [Modo Avión](https://open.spotify.com/track/4qMAWw30CdPVCS6adU1QLi) | [POLI](https://open.spotify.com/artist/58bKHK6LvPOSZJmHOozjfz), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Modo Avión](https://open.spotify.com/album/1W1IyRqoLR1WsZPIMVYDQw) | 3:11 | 2022-06-17 | 2022-08-06 |
 | [Mojate](https://open.spotify.com/track/5fmKs2C2IuvTWv24oxeVmU) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Santin Lotty](https://open.spotify.com/artist/0Yr1qhvpxZndglpOrbYkXw) | [Mojate](https://open.spotify.com/album/6F7Run8Ltsg0WQ0T7qtsP0) | 3:15 | 2022-08-05 |  |
 | [Móntate](https://open.spotify.com/track/19vWrX2vCODKV5cPK8DpAN) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [Hazze](https://open.spotify.com/artist/6I4wcPs18A8lyviDCZsVH6) | [Móntate](https://open.spotify.com/album/3kwz5RqbMhHNqgAnl5avUV) | 2:58 | 2022-05-24 |  |

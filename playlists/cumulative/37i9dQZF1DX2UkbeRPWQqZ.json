@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-17",
   "description": "Sweet lullabies on guitar for little dreamers.",
   "name": "Guitar Lullabies",
-  "published_playlist_ids": [
-    "0w5GCTe5oFicPO0HaemBhO"
-  ],
   "tracks": [
     {
       "album": {
@@ -1420,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Itsy Bitsy Spider",
+        "url": "https://open.spotify.com/album/4e171SgcolbaTGuahv9wHl"
+      },
+      "artists": [
+        {
+          "name": "Leon Arms",
+          "url": "https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98750,
+      "name": "Itsy Bitsy Spider",
+      "url": "https://open.spotify.com/track/3FIPEJ6eEft1rB2DrOghDc"
+    },
+    {
+      "album": {
         "name": "Jumpin Bumpin Bounce",
         "url": "https://open.spotify.com/album/5IrFRr42ArFhYggtmyQoYw"
       },
@@ -2008,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "See the Stars",
+        "url": "https://open.spotify.com/album/2az551c3qBHagaYEIVXpQw"
+      },
+      "artists": [
+        {
+          "name": "Izakaru",
+          "url": "https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117363,
+      "name": "See the Stars",
+      "url": "https://open.spotify.com/track/1J9HqwN1K2RuEEifceye5Z"
+    },
+    {
+      "album": {
         "name": "Guitar Lullabies: Music for Babies",
         "url": "https://open.spotify.com/album/1gW0NUlwmxK7YKNAF1TpDj"
       },
@@ -2055,7 +2088,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 140712,
       "name": "Skidamarink A Dink A Dink",
       "url": "https://open.spotify.com/track/3jWeocrrxb4mQmH0Po0UNA"
@@ -2203,6 +2236,24 @@
       "duration_ms": 154197,
       "name": "Sov Gott Lilla Du",
       "url": "https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH"
+    },
+    {
+      "album": {
+        "name": "Sov P\u00e5 Min Arm - Guitar Version",
+        "url": "https://open.spotify.com/album/5zfOuOoNi1n6n4XvadqK2T"
+      },
+      "artists": [
+        {
+          "name": "Roy S\u00f6derlund",
+          "url": "https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113124,
+      "name": "Sov P\u00e5 Min Arm - Guitar Version",
+      "url": "https://open.spotify.com/track/49INsxQEM7B4lAHbHXSuxD"
     },
     {
       "album": {
@@ -2455,6 +2506,24 @@
       "duration_ms": 101632,
       "name": "This Old Man",
       "url": "https://open.spotify.com/track/0W3lwmDR8B83b8puxO89HE"
+    },
+    {
+      "album": {
+        "name": "Toy Song",
+        "url": "https://open.spotify.com/album/4DnkzFjiU9jVnOmjHixzdf"
+      },
+      "artists": [
+        {
+          "name": "Roger Citrus",
+          "url": "https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87100,
+      "name": "Toy song",
+      "url": "https://open.spotify.com/track/1EffS9L96WFcVqyl2C3lsb"
     },
     {
       "album": {

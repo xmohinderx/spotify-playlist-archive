@@ -4,7 +4,7 @@
 
 > Start the day with a morning run together with these easy and joyful tracks.
 
-130 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/2WAtRSHZaBulDBBbec59eF)
+130 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

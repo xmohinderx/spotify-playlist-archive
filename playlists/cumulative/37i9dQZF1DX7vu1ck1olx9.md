@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-148 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
+148 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

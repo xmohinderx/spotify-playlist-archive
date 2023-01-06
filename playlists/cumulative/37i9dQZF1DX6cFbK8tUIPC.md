@@ -4,7 +4,7 @@
 
 > it's a cinnamon infused kind of mood
 
-221 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/0mBRoCtoHT76cBA1H5bvPI)
+221 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

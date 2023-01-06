@@ -4,7 +4,7 @@
 
 > The best of comedy, music, and culture from the Black and Brown Diaspora \-\- picked by Anik Khan.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/3elO3BG9dOqi6e4D0kJlFf)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

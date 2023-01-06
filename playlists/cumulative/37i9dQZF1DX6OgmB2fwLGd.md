@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Riovaz
 
-505 songs - 20 hr 56 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+507 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [HOME IMPROVEMENT](https://open.spotify.com/track/50CjMb1ApJHu9hbKXLbohR) | [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV), [Sir Michael Rocks](https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx) | [BABY OIL STAIRCASE / CHILLOUT](https://open.spotify.com/album/5JpFMxX1pLRc75dGao7RW1) | 2:23 | 2022-04-13 | 2022-06-03 |
 | [Homecoming](https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:33 | 2021-11-10 | 2022-05-10 |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-07-26 |  |
-| [Hop Out 2](https://open.spotify.com/track/3loKXoZ1bay2JDimjSDAVI) | [Kiid Spyro](https://open.spotify.com/artist/6PIHKMrawce8FswYQe4O2U) | [Hop Out 2](https://open.spotify.com/album/5iDSJbgkY9giCWV13pSnPp) | 2:58 | 2022-09-21 |  |
+| [Hop Out 2](https://open.spotify.com/track/3loKXoZ1bay2JDimjSDAVI) | [Kiid Spyro](https://open.spotify.com/artist/6PIHKMrawce8FswYQe4O2U) | [Hop Out 2](https://open.spotify.com/album/5iDSJbgkY9giCWV13pSnPp) | 2:58 | 2022-09-21 | 2023-01-06 |
 | [Horsepower](https://open.spotify.com/track/5PXEj81Ab4joNatcA6vQVq) | [Father](https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw) | [Horsepower](https://open.spotify.com/album/02Rbh9jBnUJQGKExrOelBv) | 2:35 | 2022-05-17 | 2022-06-21 |
 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 | 2021-10-28 | 2022-01-13 |
 | [Hotel](https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1) | 2:35 | 2022-07-12 |  |
@@ -321,6 +321,7 @@
 | [Money Galore](https://open.spotify.com/track/7hKf6BciAf9Qa1yWYtCxzQ) | [CHIBI LOL](https://open.spotify.com/artist/62PYvzCDoQOXCe2BT7oEuF) | [IF I STILL HAD A HEART](https://open.spotify.com/album/4sTVvtxBxaiWAbyWfJZ7Ka) | 2:30 | 2022-08-19 | 2022-09-01 |
 | [Montana Flow](https://open.spotify.com/track/08J3GDrAnq1uFCSVnjs9x9) | [Sosa](https://open.spotify.com/artist/00oWcaID7J6ns2KY5jsMG2) | [Montana Flow](https://open.spotify.com/album/2DlGXQCBbfQXu6TGbvzfvo) | 2:22 | 2022-07-18 | 2022-07-20 |
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2022-01-07 | 2022-04-02 |
+| [Mr\. Hanky](https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mr\. Hanky](https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu) | 2:22 | 2023-01-06 |  |
 | [Mr\. Put It On](https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Mr\. Put It On](https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg) | 2:47 | 2022-04-20 | 2022-09-17 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-08-28 |  |
 | [MURDAMAN!](https://open.spotify.com/track/4Nz9WVrMWeSubvPqLLEdTJ) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [MURDAMAN!](https://open.spotify.com/album/1VuLjemtxOlQmetIZIqd5u) | 2:36 | 2022-03-16 | 2022-08-27 |
@@ -328,6 +329,7 @@
 | [My World](https://open.spotify.com/track/3GsQiEOwY9i3q9HQZQWxmr) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [My World](https://open.spotify.com/album/55ko7ulwSD2Mvlhe0sy1ay) | 2:57 | 2022-07-01 | 2022-07-23 |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-19 | 2022-04-26 |
 | [NBAYOUNGBOAT](https://open.spotify.com/track/7mfeXGMR9pzX9fOXQlCOP3) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Hip Hop Essentials](https://open.spotify.com/album/2ka2rleIYCZ2EVF7gMvjV5) | 2:19 | 2022-04-26 | 2022-05-28 |
+| [New Opp](https://open.spotify.com/track/3Kk1uJa4bqAkewVpUAU19W) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2) | [New Opp](https://open.spotify.com/album/7okGnhb1jybiMuNXIkhEkl) | 1:33 | 2023-01-05 |  |
 | [No Big Deal](https://open.spotify.com/track/13onhP0FAk3dKOnjOhKXpq) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [No Big Deal](https://open.spotify.com/album/1In8f10K2NLMfNeEeSsFTb) | 1:33 | 2022-04-22 | 2022-05-25 |
 | [No Drama](https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [No Drama](https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z) | 3:16 | 2021-12-17 | 2022-05-14 |
 | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op) | 2:30 | 2022-05-06 | 2022-07-23 |
@@ -413,7 +415,7 @@
 | [shut the fuck up talking to me](https://open.spotify.com/track/7qGw7mD1l16vJt6MnELYSD) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/1tiD0UGetoA3qTkJN3Thdv) | 2:49 | 2021-10-15 | 2022-02-19 |
 | [SIMPLE](https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [SIMPLE](https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF) | 2:34 | 2022-10-14 |  |
 | [sipping my tea](https://open.spotify.com/track/5f4NTBzhDSX8d8eT0HsZEL) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [sipping my tea](https://open.spotify.com/album/1WxpvhzIDHLG5F9unXWM0C) | 1:42 | 2022-11-18 |  |
-| [SISTER](https://open.spotify.com/track/4P0tTboEco1lLH522iCvOh) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [SISTER](https://open.spotify.com/album/6KUJLBltg7mBCgrHxrrCIg) | 2:19 | 2022-12-16 |  |
+| [SISTER](https://open.spotify.com/track/4P0tTboEco1lLH522iCvOh) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [SISTER](https://open.spotify.com/album/6KUJLBltg7mBCgrHxrrCIg) | 2:19 | 2022-12-16 | 2023-01-06 |
 | [Six Flags](https://open.spotify.com/track/36FDMTfRqSROsSC6pOTqGw) | [Comethazine](https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf) | [Six Flags](https://open.spotify.com/album/6cxmOfnEOFk5v8nWLlazPk) | 2:03 | 2021-10-22 | 2022-02-05 |
 | [Skate!](https://open.spotify.com/track/5M90506wzeHSXnEwbIG98u) | [Headband Andy](https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm) | [Skate!](https://open.spotify.com/album/1cGoJpi10z3FXyHVnob1Xx) | 2:36 | 2022-06-17 |  |
 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2022-07-15 |  |

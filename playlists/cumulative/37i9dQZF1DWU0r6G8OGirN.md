@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-85 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/39K7VL0TnmsRREiqJDlq2n)
+85 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

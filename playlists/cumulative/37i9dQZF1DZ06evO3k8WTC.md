@@ -4,7 +4,7 @@
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 51 min - not published yet
+32 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-271 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/4Obyr7GsNC8q59bOekRAcO)
+271 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

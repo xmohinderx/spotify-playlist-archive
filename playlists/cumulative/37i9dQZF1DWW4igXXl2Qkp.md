@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from Fresh Finds Hip\-Hop this year\. Cover: GloRilla
 
-571 songs - 1 day 1 hr 17 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
+571 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

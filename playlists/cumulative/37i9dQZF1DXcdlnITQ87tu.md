@@ -4,7 +4,7 @@
 
 > \(Listen Genie TV's original drama 'Summer Strike's soundtrack in here!\) Genie TV 오리지널 시리즈 '아무것도 하고 싶지 않아'의 사운드 트랙들을 감상해보세요!
 
-36 songs - 1 hr 32 min - not published yet
+36 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

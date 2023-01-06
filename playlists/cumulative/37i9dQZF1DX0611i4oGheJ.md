@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-290 songs - 18 hr 35 min - [published](https://open.spotify.com/playlist/1IVOoA16apieUJxkNJzI8P)
+290 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

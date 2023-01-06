@@ -4,7 +4,7 @@
 
 > For body and mind, blues straight from the soul.
 
-82 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/6CKUzaQhH2pxAvizLCQank)
+82 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

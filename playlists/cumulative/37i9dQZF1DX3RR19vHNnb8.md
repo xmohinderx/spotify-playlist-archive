@@ -4,7 +4,7 @@
 
 > Hip hop tracks to kick your workout up a notch
 
-71 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/0NmCUpF97NtmMySiEDhh8m)
+71 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

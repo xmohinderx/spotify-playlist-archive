@@ -4,7 +4,7 @@
 
 > Host of "GoOD Mornings w/ CurlyNikki" and "Meditation w/ CurlyNikki’ shares the music that keeps her feeling GoOD\. Cover: Nikki Walton
 
-30 songs - 4 hr 44 min - not published yet
+30 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

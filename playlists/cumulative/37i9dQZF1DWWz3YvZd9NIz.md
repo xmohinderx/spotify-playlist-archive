@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-64 songs - 3 hr 21 min - not published yet
+64 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

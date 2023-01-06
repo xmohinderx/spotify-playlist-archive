@@ -4,7 +4,7 @@
 
 > This is Salt Creek\. The essential tracks, all in one playlist.
 
-23 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/2S6a5mtymTttoXmphlZzCW)
+23 songs - 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

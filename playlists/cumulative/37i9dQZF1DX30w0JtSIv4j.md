@@ -4,7 +4,7 @@
 
 > Eve gets your New Years party started with Hip\-Hop House Party \#NYE2022
 
-41 songs - 2 hr 48 min - not published yet
+41 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

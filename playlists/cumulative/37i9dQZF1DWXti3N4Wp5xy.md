@@ -4,7 +4,7 @@
 
 > A perfect little pop party.
 
-224 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/2PFawg3Vj8Nip4bhMiT9Uq)
+224 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

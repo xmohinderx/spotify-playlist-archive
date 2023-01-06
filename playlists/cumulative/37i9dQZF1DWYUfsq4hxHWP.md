@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds Country this year\. Cover: Megan Moroney \#SpotifyWrapped
 
-1,069 songs - 2 day 10 hr 28 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
+1,070 songs - 2 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,8 @@
 | [Had It to Lose](https://open.spotify.com/track/21kyxuquFeo2ZrrRlDzLZZ) | [Jake Hoot](https://open.spotify.com/artist/5YhWPIcZ5eNSKxrdwJItS7) | [Had It to Lose](https://open.spotify.com/album/69HGyCgjXRCq54V5P3Pm4G) | 4:04 | 2022-06-29 | 2022-07-28 |
 | [Had to Be There](https://open.spotify.com/track/2yfWllcdXQpkyJD8OFAxQ1) | [Faren Rachels](https://open.spotify.com/artist/2HweKwi0jfedpODDq7r2XN) | [Had to Be There](https://open.spotify.com/album/4rben0cmqaccnB3iEiD5ZE) | 3:23 | 2022-07-06 | 2022-08-04 |
 | [Had To Be There](https://open.spotify.com/track/6zXVzaFPSe2X5LMkRHeN5x) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Had To Be There](https://open.spotify.com/album/5vY6uG0RmX4F9wHeUDpTRt) | 2:22 | 2022-08-26 | 2022-10-06 |
-| [Hair Salon](https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hair Salon](https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E) | 3:44 | 2022-04-27 |  |
+| [Hair Salon](https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hair Salon](https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E) | 3:44 | 2022-04-27 | 2023-01-06 |
+| [Hair Salon](https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:44 | 2022-11-30 |  |
 | [Half Hearted](https://open.spotify.com/track/14ovB0W1qcKLTwM8YVmkW0) | [Tory Grace](https://open.spotify.com/artist/5N1DJ7QDrMDnHMOVVeKIjE) | [Half Hearted](https://open.spotify.com/album/5ZMlMbxLiokL1VpfIGjW7D) | 3:27 | 2022-02-16 | 2022-03-31 |
 | [half love](https://open.spotify.com/track/53SpM2S084fphxdKjFKzT4) | [Casey Cattie](https://open.spotify.com/artist/5TjQHpwFAlIEKv5piFHm2S) | [half love](https://open.spotify.com/album/57tApF6EY6eI6KTev2PSZV) | 2:45 | 2022-01-12 | 2022-02-24 |
 | [Halos and Horns](https://open.spotify.com/track/44Yx0jcGJtgez04gBTea8R) | [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Halos and Horns](https://open.spotify.com/album/2czEtw6zLzPGWppATFzdtQ) | 3:17 | 2022-05-11 | 2022-06-30 |

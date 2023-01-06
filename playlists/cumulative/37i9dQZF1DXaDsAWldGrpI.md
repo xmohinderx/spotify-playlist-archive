@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Cody Johnson
 
-110 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
+110 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

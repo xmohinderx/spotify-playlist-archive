@@ -4,7 +4,7 @@
 
 > Enjoy the romantic side of Ani
 
-55 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/5YNQ2e3G7ZrzH4pjNQpRcF)
+55 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

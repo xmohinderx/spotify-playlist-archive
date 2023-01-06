@@ -4,7 +4,7 @@
 
 > Los temas que nunca paras de escuchar\. En portada: Tego Calderon
 
-98 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/6kcu92csPuRickznkE1395)
+98 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

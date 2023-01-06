@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of Hip\-Hop in Canada in 2022\. Cover: Drake \#SpotifyWrapped
 
-181 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/6hF2COM1S5cfIIGdOnPtAv)
+181 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

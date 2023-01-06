@@ -4,7 +4,7 @@
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-101 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/65HxUQh37oq5Eems1crT9A)
+101 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

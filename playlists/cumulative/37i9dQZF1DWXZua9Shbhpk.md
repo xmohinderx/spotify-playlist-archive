@@ -4,7 +4,7 @@
 
 > The best mix of hip hop, pop, country, dance and classic anthems for the game day warm\-up.
 
-177 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/2c4mXWBS69QfC9FqBdmGou)
+177 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

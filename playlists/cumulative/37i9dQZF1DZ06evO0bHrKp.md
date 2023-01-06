@@ -4,7 +4,7 @@
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/5cv0G8vVTMMvOBsmmmni7A)
+59 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

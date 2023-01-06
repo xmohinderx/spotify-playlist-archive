@@ -4,7 +4,7 @@
 
 > The notes that will make you long for those days of yore.
 
-190 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/2mdoB8gHvTDYVCENDqa6NW)
+190 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > El título lo dice todo! Twerk out work out!
 
-203 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/4ugltXGOcMnKCgR7X2Jzyb)
+203 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Baila Morena \(with Luny Tunes, Noriega\) \- Remix](https://open.spotify.com/track/4qbi9JDziBh3cxi9SFUbeu) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL) | [Baila Morena \(Reggaeton Mix\)](https://open.spotify.com/album/106R30c82nUmpln49yR9zs) | 3:07 | 2021-12-09 |  |
 | [Baila Morena \- Live](https://open.spotify.com/track/258oTFw2Nve0Vj6ALl3GGN) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Infancia y Reggaeton](https://open.spotify.com/album/12BtBLUWcu90GDjvcU7tk9) | 2:34 | 2022-07-26 | 2022-11-14 |
 | [Baila Morena \- Live](https://open.spotify.com/track/6GXtIudxkU3OHFOmd0o613) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Season Finale](https://open.spotify.com/album/6XbbtZmVsxiw6PTpe19dQo) | 2:34 | 2022-07-26 |  |
-| [Bata Bata 2](https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi) | [Latin Fresh](https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M) | [Plan Calle](https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8) | 3:28 | 2021-12-09 |  |
+| [Bata Bata 2](https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi) | [Latin Fresh](https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M) | [Plan Calle](https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8) | 3:28 | 2021-12-09 | 2023-01-06 |
 | [Bellacon](https://open.spotify.com/track/4Zj3K3UaUMC6ndSwl05Zyd) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Bellacon](https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce) | 3:32 | 2022-12-08 | 2022-12-21 |
 | [Bellacoso](https://open.spotify.com/track/1kMUGCt7XLDc5Q64Vl0H8S) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Bellacoso](https://open.spotify.com/album/0un8ZRojNl6fYFRHYzQ9GG) | 4:17 | 2021-12-09 |  |
 | [Bonita](https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Bonita](https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb) | 4:25 | 2022-12-07 |  |
@@ -138,7 +138,7 @@
 | [Pa' Que La Pases Bien](https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [El Fenomeno](https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s) | 3:34 | 2021-12-09 | 2022-12-08 |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2021-12-09 |  |
 | [PAM](https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [PAM](https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U) | 3:21 | 2021-12-09 |  |
-| [Pam Pam](https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Historia De El Dúo \(Vol.1\)](https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j) | 3:47 | 2021-12-09 | 2023-01-05 |
+| [Pam Pam](https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Historia De El Dúo \(Vol.1\)](https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j) | 3:47 | 2021-12-09 |  |
 | [Party y Alcohol](https://open.spotify.com/track/19Z5rP5UdeIGKHjqlh1ZdP) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:13 | 2022-12-08 | 2022-12-20 |
 | [Pegaito a la Pared \(feat\. Plan B\) \- Remix](https://open.spotify.com/track/34hqsdmzodHbk50EnoSefY) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Pegaito a la Pared "The Remixes"](https://open.spotify.com/album/0RtUrX0UbjupH9CjRgASKR) | 4:42 | 2021-12-09 | 2022-12-08 |
 | [Pegao](https://open.spotify.com/track/5n9iuiNBT8jYPJOPfKWjWU) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Los Vaqueros Wild Wild Mixes](https://open.spotify.com/album/4Yufs8sW6tHUNvkDAVTaYn) | 3:53 | 2021-12-09 | 2022-07-29 |

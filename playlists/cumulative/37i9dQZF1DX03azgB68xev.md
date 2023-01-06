@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: The Young Escape
 
-238 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/4bsxWx6vxgvD3SfZNEt9WD)
+238 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

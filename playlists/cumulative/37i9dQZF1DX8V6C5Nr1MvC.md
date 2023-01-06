@@ -4,7 +4,7 @@
 
 > Rock that's served neat and goes down smooth.
 
-126 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/497y8NFRf0FN68176BW58p)
+126 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Best hip hop throwbacks from the 2000 – 2010's with hits from Missy Elliott, T.I., Wiz Khalifa, Dr\. Dre, and more!
 
-178 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/2TZdjNCzsZfyRq4YZq5QRl)
+178 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

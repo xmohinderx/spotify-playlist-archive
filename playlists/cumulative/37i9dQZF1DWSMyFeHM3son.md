@@ -4,7 +4,7 @@
 
 > pretending to be Lana Del Rey in pigtail buns, chokers, knee socks, and chunky platforms
 
-179 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/6YzgCy6zUZxMJC9ypV01At)
+179 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Plastilina Mosh en portada.",
-  "num_followers": 465577,
+  "num_followers": 465717,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIyODA3MCwwMDAwMDAwMDQ3N2Q1YzU4NTgzOTEwNDk5ZTgxNDQwOWUyODMyYmYx",
+  "snapshot_id": "MTY2NDIyODA3MCwwMDAwMDAwMGExYzJlZGU1NGUxOGY5Njc3ZTZjZTc4MWZkYjQ0ZTMw",
   "tracks": [
     {
       "added_at": "2022-01-28 17:39:37",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
       },
       "artists": [
         {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 228534,
-      "name": "No Es Que No Te Quiera",
-      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
+        "name": "Arunima",
+        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+      "duration_ms": 228534,
+      "name": "No Es Que No Te Quiera",
+      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27"
     },
     {
-      "added_at": "2022-08-25 00:53:36",
-      "album": {
-        "name": "Esquizofrenia",
-        "url": "https://open.spotify.com/album/2KAIEIj96L0yLif1Urh3Mr"
-      },
-      "artists": [
-        {
-          "name": "Kerigma",
-          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Tres Lunares",
-      "url": "https://open.spotify.com/track/0THa3Vl0Ad1ksflpK10AJw"
-    },
-    {
       "added_at": "2022-01-28 17:39:37",
       "album": {
         "name": "Bestia",
@@ -1103,6 +1087,22 @@
       "duration_ms": 248939,
       "name": "Bestia",
       "url": "https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz"
+    },
+    {
+      "added_at": "2022-08-25 00:53:36",
+      "album": {
+        "name": "Esquizofrenia",
+        "url": "https://open.spotify.com/album/2KAIEIj96L0yLif1Urh3Mr"
+      },
+      "artists": [
+        {
+          "name": "Kerigma",
+          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Tres Lunares",
+      "url": "https://open.spotify.com/track/0THa3Vl0Ad1ksflpK10AJw"
     },
     {
       "added_at": "2022-01-28 17:39:37",

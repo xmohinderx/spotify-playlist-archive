@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > The top tracks from Fresh Finds Country this year\. Cover: Megan Moroney \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,255 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,351 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 53 | [Persuaded](https://open.spotify.com/track/6fzxepyqFmXAisfP5nwt0X) | [Taryn Papa](https://open.spotify.com/artist/6Ej5v1jyKVKWQ9qdBkPMBW) | [Persuaded](https://open.spotify.com/album/6aThivvmUG5durIZPxhAmf) | 3:32 |
 | 54 | [Break Up Goin' Down](https://open.spotify.com/track/0gCMGDyxCJiwL2rTy0bsNF) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Break Up Goin' Down](https://open.spotify.com/album/0ikMfhuwXYuL4hAAWUb3Es) | 4:01 |
 | 55 | [Goodyears](https://open.spotify.com/track/2YNiWJIQTYlH7B7e6lf2Fu) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Goodyears](https://open.spotify.com/album/1YSehnmy9EqmuKzZrpiNRE) | 3:07 |
-| 56 | [Hair Salon](https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hair Salon](https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E) | 3:44 |
+| 56 | [Hair Salon](https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:44 |
 | 57 | [Too Fast For This Town](https://open.spotify.com/track/6w8qsZiIYE73nHBcAcQUm3) | [Bennett Coleman](https://open.spotify.com/artist/122tNpq2ux0ORmg5SBF04K) | [Too Fast For This Town](https://open.spotify.com/album/1dWdxtnvezbJlhGbyUGFo6) | 3:16 |
 | 58 | [Good At Gettin' Gone](https://open.spotify.com/track/2Gp3B5lFGMguxeoKNYbojG) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Good At Gettin' Gone](https://open.spotify.com/album/0JhuseIxdL8GQHwSVBXqCc) | 3:51 |
 | 59 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [Between You and Me](https://open.spotify.com/track/4x6k8f6GexZqifaWRtGixW) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Western & Roll](https://open.spotify.com/album/3yYi2yRTDctlJEsSddZ9yv) | 3:47 |
 | 75 | [Comin' from](https://open.spotify.com/track/2RbFPHlqlkHERW2oWdr6YG) | [Nick Boyd](https://open.spotify.com/artist/5MgzAw2RMY0fJSDTn63Cdj) | [Comin' from](https://open.spotify.com/album/2ZfSo68hUsfGiYxz0pYVf0) | 2:58 |
 
-Snapshot ID: `MTY2OTg0NTgyMSwwMDAwMDAwMGYxNzI1NGIzZTFmNzQ0YWE2MmIzYzc2MzllYTI0YWMy`
+Snapshot ID: `MTY2OTg0NTgyMSwwMDAwMDAwMGRmMDBiY2Q2ZDBjNzkyZTY1ZTExMDYzOTM5YWFkNjZm`

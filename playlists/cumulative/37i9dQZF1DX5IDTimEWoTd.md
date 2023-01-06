@@ -4,7 +4,7 @@
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-226 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/7nReIoiSVbXtMiixzq38Mf)
+226 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Charlotte Fever",
+  "description": "The best French indie tracks right now. Cover: blond",
   "name": "Made in France",
-  "published_playlist_ids": [
-    "4VHp6F7a0Cbt6kPL2n6clC"
-  ],
   "tracks": [
     {
       "album": {
@@ -543,7 +540,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 176408,
       "name": "call it a night",
       "url": "https://open.spotify.com/track/2vgfNCFLKRfCsOuLzA1AaD"
@@ -561,7 +558,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 220821,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/4fxgbRNGXQt2icHi18N3SK"
@@ -821,7 +818,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 303093,
       "name": "Corporate Sunset",
       "url": "https://open.spotify.com/track/6f4OnfztUsZhojQiCL27Pi"
@@ -1834,6 +1831,28 @@
     },
     {
       "album": {
+        "name": "Je continue \u00e0 danser",
+        "url": "https://open.spotify.com/album/4gfmldrRM32UOyG4FZ9Kbr"
+      },
+      "artists": [
+        {
+          "name": "Julia Jean-Baptiste",
+          "url": "https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81"
+        },
+        {
+          "name": "Jean Sylvain Le Gouic",
+          "url": "https://open.spotify.com/artist/2kq6Dq26PlF1Af2pbtTHnj"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191586,
+      "name": "Je continue \u00e0 danser",
+      "url": "https://open.spotify.com/track/6kotvODHgeUcffIZGRwkqe"
+    },
+    {
+      "album": {
         "name": "Je ne t'appartiens pas",
         "url": "https://open.spotify.com/album/4GN8F1jaywulz1Y88JkdEc"
       },
@@ -2474,6 +2493,28 @@
     },
     {
       "album": {
+        "name": "BLOWSOM & friends",
+        "url": "https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        },
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201836,
+      "name": "Love! love! love!",
+      "url": "https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD"
+    },
+    {
+      "album": {
         "name": "Ma plus belle aventure",
         "url": "https://open.spotify.com/album/3pHIOSWVoT7vaYswR0rLQO"
       },
@@ -2789,6 +2830,24 @@
       "duration_ms": 202985,
       "name": "M\u00e9dicament",
       "url": "https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa"
+    },
+    {
+      "album": {
+        "name": "Nobody's Wife",
+        "url": "https://open.spotify.com/album/0JGgXJR6ZJES8IQ1bYEg8W"
+      },
+      "artists": [
+        {
+          "name": "Pi Ja Ma",
+          "url": "https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219746,
+      "name": "Nobody's Wife",
+      "url": "https://open.spotify.com/track/3b0XPLMM0anvaKPumGyDoW"
     },
     {
       "album": {
@@ -3617,7 +3676,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 209746,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4b0fiEZg92FBFYze5uEx0l"
@@ -3755,6 +3814,24 @@
       "duration_ms": 228601,
       "name": "Superlove",
       "url": "https://open.spotify.com/track/2HAlxc5ytQPDAeSBfDYiTu"
+    },
+    {
+      "album": {
+        "name": "SUR LE COEUR",
+        "url": "https://open.spotify.com/album/55x88wSRtzOdANenONxpHI"
+      },
+      "artists": [
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155368,
+      "name": "SUR LE COEUR",
+      "url": "https://open.spotify.com/track/1dBsbSQlzdEAbSehMB6bD9"
     },
     {
       "album": {

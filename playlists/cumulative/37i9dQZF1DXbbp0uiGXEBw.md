@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Luna Đào
 
-125 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
+125 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-17",
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
   "name": "Seda",
-  "published_playlist_ids": [
-    "0ZcjSUxcyp6vwIHuLPj7q0"
-  ],
   "tracks": [
     {
       "album": {
@@ -495,7 +492,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 205000,
       "name": "Calcular (feat. MDO (Menino de Ouro)",
       "url": "https://open.spotify.com/track/1YrCvngT0xfPKxTb1ycb4j"
@@ -776,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Cora\u00e7\u00e3o de Prata",
+        "url": "https://open.spotify.com/album/2dSNU471jKPFqhF2cmvey7"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "Cora\u00e7\u00e3o de Prata",
+      "url": "https://open.spotify.com/track/3kX8pwkuFxnCmzZAxP5VeR"
+    },
+    {
+      "album": {
         "name": "Cupid",
         "url": "https://open.spotify.com/album/4MUjU07dZASo1tDM1MDGY6"
       },
@@ -787,7 +802,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 176326,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/23WXbyhKyMT8dowZx3Bu7I"
@@ -921,10 +936,32 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 105110,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/0alvMe4SV8FsVI4dVdPi6o"
+    },
+    {
+      "album": {
+        "name": "DISPARA",
+        "url": "https://open.spotify.com/album/5cvlEKE5tzK35WoF6DIqba"
+      },
+      "artists": [
+        {
+          "name": "Pta",
+          "url": "https://open.spotify.com/artist/3VIQzyoHE4thDQjYkR0AEA"
+        },
+        {
+          "name": "Bully Firmaloko",
+          "url": "https://open.spotify.com/artist/3h2hZep6OzgSSo5Km4iWH9"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171241,
+      "name": "DISPARA",
+      "url": "https://open.spotify.com/track/6CXtClKJQvhErH0tLkY1S3"
     },
     {
       "album": {
@@ -1109,7 +1146,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 194400,
       "name": "Espa\u00e7o",
       "url": "https://open.spotify.com/track/1dp9m5rBtZvh9J6ATfWYNr"
@@ -1291,7 +1328,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 216000,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3cIv1Ct9pCkygvsawr9hub"
@@ -1536,6 +1573,32 @@
     },
     {
       "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/3J5HLdkjp96rs8VewgMrND"
+      },
+      "artists": [
+        {
+          "name": "Luxy",
+          "url": "https://open.spotify.com/artist/6RiGCtMzCmL51X6svOnC4H"
+        },
+        {
+          "name": "sugar.mp3",
+          "url": "https://open.spotify.com/artist/4xivi2yulyDFk5kmcptIr2"
+        },
+        {
+          "name": "Z\u00e9Vi",
+          "url": "https://open.spotify.com/artist/4qEFSJ8V6S175lG0pWKMwI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185078,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/6tfaKwxYh25nFT5hbOA4cd"
+    },
+    {
+      "album": {
         "name": "Desde a Origem",
         "url": "https://open.spotify.com/album/7i5xYoXAZRC9HONBaVyZTn"
       },
@@ -1757,6 +1820,24 @@
       "duration_ms": 206315,
       "name": "Madruga",
       "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
+    },
+    {
+      "album": {
+        "name": "mal-me-quer",
+        "url": "https://open.spotify.com/album/3ByBw1099rBcfs0QPqE1M8"
+      },
+      "artists": [
+        {
+          "name": "Hachibae",
+          "url": "https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107473,
+      "name": "mal-me-quer",
+      "url": "https://open.spotify.com/track/6r1oBhMARlpEotia4lbhqo"
     },
     {
       "album": {
@@ -2073,7 +2154,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 175530,
       "name": "N1",
       "url": "https://open.spotify.com/track/4AxBTkq98PvdTd8eYsbsE0"
@@ -2494,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "Ponto Fraco",
+        "url": "https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00e9",
+          "url": "https://open.spotify.com/artist/22ETMn3YclHsYBIh4iKuQp"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184302,
+      "name": "Ponto Fraco",
+      "url": "https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx"
+    },
+    {
+      "album": {
         "name": "Por Enquanto",
         "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
       },
@@ -2527,6 +2626,24 @@
       "duration_ms": 153858,
       "name": "PRA MIM",
       "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
+    },
+    {
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/2ouErWVGuO47sxiOTbGl6p"
+      },
+      "artists": [
+        {
+          "name": "Carla Prata",
+          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160406,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/1TsJalUMdjzsuWK844ycbd"
     },
     {
       "album": {
@@ -2665,7 +2782,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 161163,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5"
@@ -2731,6 +2848,28 @@
       "duration_ms": 223634,
       "name": "Rubi",
       "url": "https://open.spotify.com/track/4aStXzYiJWQvdspHEn6GJN"
+    },
+    {
+      "album": {
+        "name": "Sai Tenta\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6Lf391zTzvrZ0XEKZb3Z0k"
+      },
+      "artists": [
+        {
+          "name": "Weyda Mumia",
+          "url": "https://open.spotify.com/artist/5q8HFT2ItgzYkBimz2gKpn"
+        },
+        {
+          "name": "Edsong",
+          "url": "https://open.spotify.com/artist/3sr1yJlIkFap6eDUfpvGp5"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201665,
+      "name": "Sai Tenta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0F8tCc9fcUXysAdTrr44b1"
     },
     {
       "album": {
@@ -2963,7 +3102,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 185693,
       "name": "Sou Melhor",
       "url": "https://open.spotify.com/track/4EfImrloio3uJYUYRYUr9E"
@@ -3387,7 +3526,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 171665,
       "name": "You",
       "url": "https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA"

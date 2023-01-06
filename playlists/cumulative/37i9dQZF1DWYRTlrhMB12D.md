@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey
 
-125 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/1UiXnI1qTnq267ePzvA7OR)
+125 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

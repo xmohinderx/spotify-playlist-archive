@@ -4,7 +4,7 @@
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-136 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/21ZJXOfGM4gKgydddrz1Vq)
+136 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

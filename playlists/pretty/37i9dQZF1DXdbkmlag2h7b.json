@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 631317,
+  "num_followers": 631384,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0OTQzNywwMDAwMDAwMDFmN2IzNTc1N2FkYzk3MzNlYTM4MTZlYWU5NjI3Njc1",
+  "snapshot_id": "MTY3MTU0OTQzNywwMDAwMDAwMGVkM2UxNjIyNmNkNzZmNzcyZmQ3YjMzYjBkNjBlZTAy",
   "tracks": [
     {
       "added_at": "2022-12-20 15:17:17",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "String Of Light",
-        "url": "https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR"
-      },
-      "artists": [
-        {
-          "name": "Blissful Dreams",
-          "url": "https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Immersion",
-      "url": "https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "Yalmi",
         "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 143529,
       "name": "Yalmi",
       "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
+        "name": "String Of Light",
+        "url": "https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR"
+      },
+      "artists": [
+        {
+          "name": "Blissful Dreams",
+          "url": "https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
+        "name": "Ich W\u00fcnsche",
+        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
+      },
+      "artists": [
+        {
+          "name": "Nils Schreiber",
+          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
+        }
+      ],
+      "duration_ms": 179727,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
         "name": "Sphere",
         "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Ich W\u00fcnsche",
-        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
-      },
-      "artists": [
-        {
-          "name": "Nils Schreiber",
-          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
-        }
-      ],
-      "duration_ms": 179727,
-      "name": "Unendlich",
-      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "Everything Shall Pass",
         "url": "https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Sweven",
-        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
-      },
-      "artists": [
-        {
-          "name": "Andy Kamman",
-          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Sweven",
-      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "The Unforgetting Heart",
         "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 271893,
       "name": "Eventide",
       "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
+        "name": "Sweven",
+        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
+      },
+      "artists": [
+        {
+          "name": "Andy Kamman",
+          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Sweven",
+      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Affinity",
-        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
-      },
-      "artists": [
-        {
-          "name": "FANAR",
-          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Affinity",
-      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "Elementaries",
         "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 182783,
       "name": "Raising Life",
       "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
+      },
+      "artists": [
+        {
+          "name": "FANAR",
+          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Tenebris",
-        "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
-      },
-      "artists": [
-        {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
-        }
-      ],
-      "duration_ms": 233174,
-      "name": "Aragorn",
-      "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "Liquid Air",
         "url": "https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 213878,
       "name": "Liquid Air",
       "url": "https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
+        "name": "Tenebris",
+        "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
+      },
+      "artists": [
+        {
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+        }
+      ],
+      "duration_ms": 233174,
+      "name": "Aragorn",
+      "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
+        "name": "Tao of Flow",
+        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 121538,
+      "name": "Bodh Gaya",
+      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
         "name": "Inch Of You",
         "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 137796,
       "name": "Sunny & Cloudy",
       "url": "https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
-        "name": "Tao of Flow",
-        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
-      },
-      "artists": [
-        {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
-        }
-      ],
-      "duration_ms": 121538,
-      "name": "Bodh Gaya",
-      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Meditations for Woods & Winds",
-        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
-      },
-      "artists": [
-        {
-          "name": "Northern Lights",
-          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
-        }
-      ],
-      "duration_ms": 205505,
-      "name": "Oriental Journey",
-      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "Ambientes",
         "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 120172,
       "name": "Lagrima",
       "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
+        "name": "Meditations for Woods & Winds",
+        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
+      },
+      "artists": [
+        {
+          "name": "Northern Lights",
+          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
+        }
+      ],
+      "duration_ms": 205505,
+      "name": "Oriental Journey",
+      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -1603,18 +1603,22 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Hope And Glory",
-        "url": "https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE"
+        "name": "Ascending Journey",
+        "url": "https://open.spotify.com/album/0MGjvTelcOSXHZ7RhIQzWW"
       },
       "artists": [
         {
-          "name": "Figgy Malone",
-          "url": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        },
+        {
+          "name": "Idrissi",
+          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
         }
       ],
-      "duration_ms": 204870,
-      "name": "Hope And Glory",
-      "url": "https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp"
+      "duration_ms": 202666,
+      "name": "Ascending Journy",
+      "url": "https://open.spotify.com/track/0Dudid2JOAtq9Nt0Dg0OfT"
     }
   ],
   "unique_name": "DayDreamer",

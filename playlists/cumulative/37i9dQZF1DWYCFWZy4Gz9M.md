@@ -4,7 +4,7 @@
 
 > Ancient North African rhythms.
 
-74 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/3OgiyHJUCNeYIkZafUQepx)
+74 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > sensual roots & indie folk.
 
-92 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/42P1NfnQlCFkvo30yvRhfH)
+92 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

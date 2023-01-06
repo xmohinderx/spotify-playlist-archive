@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-833 songs - 2 day 10 hr 13 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
+833 songs - 2 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

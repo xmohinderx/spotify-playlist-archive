@@ -4,7 +4,7 @@
 
 > This is Nana Mizuki\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/5e1wTIx40yM15wWg2ayaVN)
+80 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

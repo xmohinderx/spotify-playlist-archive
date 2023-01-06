@@ -4,7 +4,7 @@
 
 > Productores latinos underground para bailar con audífonos.
 
-129 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/17jqKs9HnwrpFMEyVzns1G)
+129 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Mucho Más \- Matias Aguayo x Camille Mandoki Remix](https://open.spotify.com/track/44Ag1ACv5SjNpQZK5gt4dN) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa), [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe), [Camille Mandoki](https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R) | [Mucho Más \(Matias Aguayo X Camille Mandoki Remix\)](https://open.spotify.com/album/7rKYpwbASScvCAD3Qh8LNy) | 3:22 | 2022-05-06 | 2022-07-28 |
 | [Muro](https://open.spotify.com/track/0PVL2C2Kt3dKLXcjbvby9w) | [Loris](https://open.spotify.com/artist/48gy9KyHZawJ3iTY1PHRW5) | [Rastros](https://open.spotify.com/album/72DJ5YoN75FS0LxdCPOW2G) | 3:54 | 2022-05-06 | 2022-07-29 |
 | [No Puedo Funcionar](https://open.spotify.com/track/5ovjlgDlwy3fDfAWDh1Pki) | [DJs Pareja](https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestra Forma](https://open.spotify.com/album/1Vr6Mf9IkYR5GEwjLyfxMq) | 5:47 | 2022-05-06 |  |
-| [Nsnc \(Fantasna Mix\)](https://open.spotify.com/track/1YsPrORRSH1Y7qOh7bZ33j) | [Fantasna](https://open.spotify.com/artist/7k3dCxuAZNzBYOdyXDEiGy) | [Nsnc](https://open.spotify.com/album/3m8YKgCQUMwinmLvcbB3vZ) | 7:29 | 2022-05-06 | 2022-07-29 |
+| [Nsnc \(Fantasna Mix\)](https://open.spotify.com/track/1YsPrORRSH1Y7qOh7bZ33j) | [Fantasna](https://open.spotify.com/artist/7k3dCxuAZNzBYOdyXDEiGy) | [Nsnc](https://open.spotify.com/album/3m8YKgCQUMwinmLvcbB3vZ) | 7:29 | 2022-05-06 |  |
 | [Obkel](https://open.spotify.com/track/4kqT8pqmsLTZ7POody20qs) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ) | [Obkel](https://open.spotify.com/album/4vjivy0CIBvTfMfyYlX3um) | 3:51 | 2022-05-06 | 2022-07-29 |
 | [Ola \- Original mix](https://open.spotify.com/track/4sXbpF6SALaxvdNuTSVTnt) | [Machino](https://open.spotify.com/artist/4N29lBeeo4qzLugGMwSr1m) | [Ola](https://open.spotify.com/album/7yejZdrPTvp8Z2dvRX07DK) | 5:50 | 2022-05-06 | 2022-07-24 |
 | [Online Movies](https://open.spotify.com/track/38tTzbAeaJQ5lxDI5vlONe) | [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [The Lost Files](https://open.spotify.com/album/2GjO3zZo30j89iBleYzIXT) | 8:58 | 2022-05-06 | 2022-07-29 |
@@ -120,7 +120,7 @@
 | [SRA](https://open.spotify.com/track/6J3FPGcMwdO1ik7sYRjKCF) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [SRA](https://open.spotify.com/album/13AzeHpoKFRk6T2R9hsaGb) | 3:29 | 2022-05-06 |  |
 | [Sub Complex](https://open.spotify.com/track/6rDIBiaw7JEibywjhRdoc1) | [Wasted Fates](https://open.spotify.com/artist/5qfISwWNd9LH2hrEh6oanq) | [NAAFI X](https://open.spotify.com/album/19ZSI7JeJfOfWbBj0h4mSH) | 3:47 | 2022-05-06 | 2022-07-29 |
 | [Síntesis de Fricción](https://open.spotify.com/track/2sK4URq12kZA963jX18Qog) | [Tomás Urquieta](https://open.spotify.com/artist/0FvPx0jMxVB5f1B9SECQXh) | [Síntesis de Fricción](https://open.spotify.com/album/2hkOO4hVfEy9uFn1F7nSU2) | 3:08 | 2022-05-06 | 2022-07-24 |
-| [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 | 2022-12-21 |  |
+| [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 | 2022-12-21 | 2023-01-06 |
 | [The Crystal](https://open.spotify.com/track/5IKkzeV9RPpdkI3NRFaaMQ) | [Nick Hook](https://open.spotify.com/artist/4ICbI408d4uYagVEL3xf7S), [Lao](https://open.spotify.com/artist/2zDEnKW6qy7E4M9A2c2YAZ), [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF) | [The Crystal](https://open.spotify.com/album/5ghC2r5OIjTiAnmU2a3XRG) | 4:14 | 2022-05-06 | 2022-07-23 |
 | [The Most Foreign Country](https://open.spotify.com/track/6X5nXXndEwb7sjT6wacM5x) | [AMAZONDOTCOM](https://open.spotify.com/artist/2wSYqnT1Cu1oQcFFspe0Ie) | [War Bride](https://open.spotify.com/album/4KudgFUONq9jrTsaClDhcW) | 4:44 | 2022-05-06 | 2022-07-28 |
 | [The Walker](https://open.spotify.com/track/6SfmXA5DzFr9oLSNHE6aGE) | [German Moss](https://open.spotify.com/artist/1Eofl8Lu4zc0NCkkSJzguS) | [The Walker](https://open.spotify.com/album/22OzYAVfp7qVHRCxRz3MHK) | 5:43 | 2022-05-06 | 2022-07-19 |

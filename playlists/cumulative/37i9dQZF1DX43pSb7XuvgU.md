@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-179 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/7gdGesjBiNeg3qh20SDm0L)
+179 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

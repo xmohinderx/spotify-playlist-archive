@@ -4,7 +4,7 @@
 
 > All 80s, all ballads\. Cover: Michael Bolton
 
-130 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/5MJ9psTUoa9dYMF8ULHTj9)
+130 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

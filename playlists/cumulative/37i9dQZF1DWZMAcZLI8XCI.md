@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-164 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/14NF73p0PX7l2Dwfl5bnjd)
+164 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

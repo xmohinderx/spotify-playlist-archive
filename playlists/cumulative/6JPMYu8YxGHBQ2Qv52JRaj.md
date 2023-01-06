@@ -4,7 +4,7 @@
 
 > Updated at least once a month..\. cover image \- https:&\#x2F;&\#x2F;bit.ly&\#x2F;3uiJD6B
 
-157 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/3yFsbqWfSsFk9WHf1Xsvee)
+157 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

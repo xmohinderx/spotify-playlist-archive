@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Vaathi
 
-104 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+104 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

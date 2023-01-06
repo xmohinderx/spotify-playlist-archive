@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-119 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/3IDYKnsQlFyTJMC7VBMRHz)
+119 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

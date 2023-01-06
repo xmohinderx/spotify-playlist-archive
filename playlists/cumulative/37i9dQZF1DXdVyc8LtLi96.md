@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to your morning yoga session.
 
-536 songs - 1 day 2 hr 7 min - [published](https://open.spotify.com/playlist/1rfhIUFdckYYeCWXG6g5Oq)
+536 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

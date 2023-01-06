@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-89 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/34pOQEeViNfqKIxC13NqiC)
+89 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

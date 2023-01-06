@@ -4,7 +4,7 @@
 
 > Revive la época de los pantalones acampanados en compañía de mamá.
 
-116 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/3ApcnrVoVhYnqieRzGKwfl)
+116 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

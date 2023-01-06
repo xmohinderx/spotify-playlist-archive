@@ -4,7 +4,7 @@
 
 > The best side! Cover: Mount Westmore
 
-110 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/46WKAAHiPrNpOK0uN1C8qu)
+110 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-150 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/033UsUOq5jX4rotaC52w8z)
+150 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

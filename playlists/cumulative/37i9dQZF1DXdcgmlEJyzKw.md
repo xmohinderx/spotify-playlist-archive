@@ -4,7 +4,7 @@
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-71 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/4vM64ZMVSwtnmECx082lsj)
+71 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

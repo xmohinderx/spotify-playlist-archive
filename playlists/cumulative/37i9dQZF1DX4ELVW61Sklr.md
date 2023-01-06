@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-129 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/0IHlpNTtsuqIq1gmndTBxa)
+129 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

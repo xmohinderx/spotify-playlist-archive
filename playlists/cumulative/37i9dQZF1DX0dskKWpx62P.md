@@ -4,7 +4,7 @@
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-110 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/6WULSQ3fhigV44qwMbRlO1)
+110 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

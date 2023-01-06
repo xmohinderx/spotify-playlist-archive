@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-222 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
+222 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Tallkrona](https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Tallkrona](https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz) | 4:19 | 2022-01-12 |  |
 | [The Age of the Earth](https://open.spotify.com/track/3vDKBXhismlvnpXbm9DAdc) | [Complex Reality](https://open.spotify.com/artist/54UfHu4bjwDkdRTAOqv8On) | [Shadow of a Dream](https://open.spotify.com/album/524MOGt13RV5XLpZp3dnMQ) | 3:19 | 2022-04-13 | 2022-04-21 |
 | [The Birth of Solitude](https://open.spotify.com/track/463ddcbIg2jpNkk8JoVmJQ) | [Lei Chini](https://open.spotify.com/artist/5EbnxTdPMZFVLDh810uYj5) | [The Birth of Solitude](https://open.spotify.com/album/6NJcJj1yGCs08pnlJgjwpk) | 1:54 | 2022-01-12 |  |
-| [Thought Braid](https://open.spotify.com/track/6OEWFhKeGxMpujRH4VBUZK) | [Mia Radcliffe](https://open.spotify.com/artist/34dREKRtx0bIdYuFrPQYMK) | [Thought Braid](https://open.spotify.com/album/1thP89pu4PbDQVHaLdCtqd) | 3:24 | 2022-02-01 |  |
+| [Thought Braid](https://open.spotify.com/track/6OEWFhKeGxMpujRH4VBUZK) | [Mia Radcliffe](https://open.spotify.com/artist/34dREKRtx0bIdYuFrPQYMK) | [Thought Braid](https://open.spotify.com/album/1thP89pu4PbDQVHaLdCtqd) | 3:24 | 2022-02-01 | 2023-01-06 |
 | [Through The Mist](https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Through The Mist](https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C) | 2:42 | 2022-10-26 |  |
 | [Timeless](https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Timeless](https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh) | 3:01 | 2022-01-12 |  |
 | [Unendlich](https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V) | [Nils Schreiber](https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl) | [Ich Wünsche](https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA) | 2:59 | 2022-12-30 |  |
@@ -225,7 +225,7 @@
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-04-21 |  |
 | [Yana](https://open.spotify.com/track/6pv7Z1c7FQcLSxUIGgQrg3) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Yana](https://open.spotify.com/album/2ieSB12RwegevPF1BAqjnx) | 3:14 | 2022-01-12 | 2022-03-05 |
 | [Yellow Mountain](https://open.spotify.com/track/1E9l4kywjB6SmYxAPtsuFh) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yellow Mountain](https://open.spotify.com/album/1TaCBGvLmqXphspxoZEg6m) | 3:56 | 2022-01-12 | 2022-04-22 |
-| [Yellow Mountain \- Studio Edit](https://open.spotify.com/track/0YavOnNQabNAZsJalEi648) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yellow Mountain](https://open.spotify.com/album/1TaCBGvLmqXphspxoZEg6m) | 3:56 | 2022-01-12 | 2023-01-04 |
+| [Yellow Mountain \- Studio Edit](https://open.spotify.com/track/0YavOnNQabNAZsJalEi648) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yellow Mountain](https://open.spotify.com/album/1TaCBGvLmqXphspxoZEg6m) | 3:56 | 2022-01-12 |  |
 | [Yoga do Sono Macio](https://open.spotify.com/track/0SUYpyczCC59xE8FBW32Ba) | [Tristão T](https://open.spotify.com/artist/6eLJZ8lP3vwQmeq4lgJbNZ) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:30 | 2022-04-13 | 2022-10-12 |
 | [You've Sent Me Peace](https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:14 | 2022-01-12 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-03-18 |  |

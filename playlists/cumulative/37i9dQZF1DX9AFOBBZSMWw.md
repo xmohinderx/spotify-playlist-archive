@@ -4,7 +4,7 @@
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-94 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/1eq441F6Kq07Kj48Nsa7vI)
+94 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-657 songs - 1 day 14 hr 13 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+657 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

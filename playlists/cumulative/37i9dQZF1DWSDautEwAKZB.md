@@ -4,7 +4,7 @@
 
 > Latin superstars like you've never heard before\. Cover: LUMILLA
 
-70 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/5TwbIYs6Yq7MRkumDdjTE9)
+70 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

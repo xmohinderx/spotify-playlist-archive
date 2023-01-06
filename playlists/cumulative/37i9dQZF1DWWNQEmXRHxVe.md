@@ -4,7 +4,7 @@
 
 > Music from the most memorable Super Bowl halftime shows\. Cover: Dr\. Dre
 
-102 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/5zpvS71N2xg1yMnwTPmsSA)
+102 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

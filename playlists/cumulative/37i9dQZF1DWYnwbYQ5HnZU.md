@@ -4,7 +4,7 @@
 
 > Spotify country fan favorites\. Artist: Miranda Lambert
 
-208 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/3vjMXQTn6bhqRtB1DcgbIL)
+208 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

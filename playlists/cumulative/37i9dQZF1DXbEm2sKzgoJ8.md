@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-283 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/4zTYKLjx7UDt8CxQque0o1)
+283 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

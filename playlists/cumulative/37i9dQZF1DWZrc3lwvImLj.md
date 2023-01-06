@@ -4,7 +4,7 @@
 
 > Beautifully sad and moody piano music.
 
-256 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/0bGmdUzxwndch2yv1y7eLw)
+256 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

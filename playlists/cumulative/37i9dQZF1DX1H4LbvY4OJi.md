@@ -4,7 +4,7 @@
 
 > Embrace those happy vibes with these feel\-good hits!
 
-940 songs - 2 day 5 hr 11 min - [published](https://open.spotify.com/playlist/12cpPVut3uQWRqFuOfuatL)
+940 songs - 2 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

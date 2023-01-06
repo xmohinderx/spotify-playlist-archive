@@ -4,7 +4,7 @@
 
 > This is the best of today's true alternative rock scene.
 
-235 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
+235 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

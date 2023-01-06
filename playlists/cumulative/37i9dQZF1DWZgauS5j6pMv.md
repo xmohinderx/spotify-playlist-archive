@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Louis Cole
 
-258 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+259 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Sankofa Song](https://open.spotify.com/track/1KJ15sDM1TVsTdLuV6pL4U) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Song](https://open.spotify.com/album/23tozi7NYHGQkjgH7URU8U) | 5:25 | 2020-11-20 | 2022-01-29 |
 | [Say Your Name](https://open.spotify.com/track/46H4hZk0WHNC4fmVJaLfr6) | [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr), [Akin Soul](https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266) | [Say Your Name](https://open.spotify.com/album/5SzR4ahdi6DTBn3vevmw0j) | 3:35 | 2022-06-17 |  |
 | [Serious](https://open.spotify.com/track/4KBre2WIZFFEc2vaxtRZh1) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Serious](https://open.spotify.com/album/3yf6c1lKyyIBPu79loR1tf) | 4:04 | 2022-07-01 |  |
+| [Shake It Out](https://open.spotify.com/track/740sWbfkm2whfeD2tuuIoV) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [Prince Street Bodega](https://open.spotify.com/artist/59csLsBzBRbMMXSjKf4v1a) | [Shake It Out](https://open.spotify.com/album/2TfFms1xPm0PB8JoQu9Ciq) | 3:45 | 2023-01-06 |  |
 | [Shoot My Shot](https://open.spotify.com/track/3GMh9TOiMjsojknjG9V2SJ) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Shoot My Shot](https://open.spotify.com/album/6XZimSaFBcnGbhKjBVm3vF) | 4:18 | 2021-07-02 | 2022-07-16 |
 | [Skate with Me](https://open.spotify.com/track/1mVrIfEExkhtGUSkiHjDdl) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/3fLnW74xbTAu3SnWlDHOsN) | 1:53 | 2021-08-06 |  |
 | [Skate with Me](https://open.spotify.com/track/2qy4Rc8zGRRc73hbkPNJ5U) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/7KPUDwWlavclOS3ttpCuUG) | 1:53 | 2021-08-06 | 2022-10-14 |
@@ -248,7 +249,7 @@
 | [What It Takes \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [What It Takes](https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ) | 3:46 | 2022-04-01 | 2022-07-02 |
 | [When You Call Me](https://open.spotify.com/track/32Ub8BdYSOCwiW0JitWEMA) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [When You Call Me](https://open.spotify.com/album/6to8WSGNLBK7zZYEUOfTqm) | 4:55 | 2022-04-08 | 2022-09-24 |
 | [When You Call Me](https://open.spotify.com/track/7bemHdceJfoCOeoF3lRGup) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [When You Call Me](https://open.spotify.com/album/24MRi6AuljdWhxVfPCyJGB) | 4:55 | 2022-04-08 | 2022-07-29 |
-| [Where's My Money?](https://open.spotify.com/track/4nqSPBGUtCuJkhJU5coTyW) | [Jay Diggs](https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1) | [JAMS](https://open.spotify.com/album/5udDn4SejsAHOTc74x7oFY) | 2:44 | 2021-11-05 |  |
+| [Where's My Money?](https://open.spotify.com/track/4nqSPBGUtCuJkhJU5coTyW) | [Jay Diggs](https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1) | [JAMS](https://open.spotify.com/album/5udDn4SejsAHOTc74x7oFY) | 2:44 | 2021-11-05 | 2023-01-06 |
 | [Witchoo](https://open.spotify.com/track/0AizRfHUi7y1cSl1HqwEij) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Witchoo](https://open.spotify.com/album/1WtWOewkBtB1IhbVzTeRmT) | 3:42 | 2021-05-14 | 2022-07-29 |
 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 | 2021-05-14 | 2022-10-22 |
 | [WKND](https://open.spotify.com/track/4P0HTrVdkcKjnqNrEarf7T) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 5:00 | 2020-11-20 | 2022-04-09 |

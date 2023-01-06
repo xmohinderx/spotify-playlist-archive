@@ -4,7 +4,7 @@
 
 > Awali tahunmu dengan lagu\-lagu yang memuatmu bersemangat!
 
-71 songs - 4 hr 28 min - not published yet
+71 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

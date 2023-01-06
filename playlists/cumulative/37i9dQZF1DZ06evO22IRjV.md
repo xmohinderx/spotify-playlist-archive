@@ -4,7 +4,7 @@
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-76 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/6sCvyWz4jarPf4I3ifPcXY)
+76 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

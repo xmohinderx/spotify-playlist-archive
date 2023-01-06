@@ -4,7 +4,7 @@
 
 > Latin tunes that both you and your little one can enjoy.
 
-74 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/1SqxzWFC8yJ3MTMxVntHHd)
+74 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

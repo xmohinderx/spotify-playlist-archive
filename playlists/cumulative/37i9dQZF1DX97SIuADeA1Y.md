@@ -4,7 +4,7 @@
 
 > When the bassline slaps.
 
-213 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/23LmxEelz4EGFpmadTKqNt)
+213 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

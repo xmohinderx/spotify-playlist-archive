@@ -2,9 +2,9 @@
 
 ### [Esto es Cumbia](https://open.spotify.com/playlist/37i9dQZF1DWT1viuVscXm2)
 
-> A bailar con la mejor cumbia sudamericana\. Foto: Santaferia.
+> A bailar con la mejor cumbia sudamericana\. Foto: Los Palmeras & Soledad.
 
-185 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
+187 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 | 2021-12-24 |  |
 | [Insaciable](https://open.spotify.com/track/1nvoQ3ZBMJZ38wsdDDHzGE) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Insaciable](https://open.spotify.com/album/24JQjRIlTGax38PWGJYhAA) | 3:26 | 2021-12-24 | 2022-03-19 |
 | [Jurabas Tú](https://open.spotify.com/track/4jmFwwo60CzJajnFESpFRj) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Jurabas Tú](https://open.spotify.com/album/0PT0Ev3o1ELK0nlJGopBXp) | 3:17 | 2022-01-28 |  |
-| [La Barca \(feat\. Kapanga\)](https://open.spotify.com/track/5sXwOkjF8KDJLSJU2SbPf9) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [La Barca \(feat\. Kapanga\)](https://open.spotify.com/album/3Ee97SV2mpFqD0RJgLYUZK) | 2:57 | 2022-06-10 |  |
+| [La Barca \(feat\. Kapanga\)](https://open.spotify.com/track/5sXwOkjF8KDJLSJU2SbPf9) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [La Barca \(feat\. Kapanga\)](https://open.spotify.com/album/3Ee97SV2mpFqD0RJgLYUZK) | 2:57 | 2022-06-10 | 2023-01-06 |
 | [La Cita](https://open.spotify.com/track/2IjUAcbiHBT6peOmILkLoV) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5TYsZVGeyCBWsiiEtUZV36) | 4:18 | 2021-12-24 | 2022-07-29 |
 | [La Cita](https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC) | 4:18 | 2022-07-22 |  |
 | [La Cola](https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tiempo De Bailar](https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM) | 2:49 | 2021-12-24 |  |
@@ -95,7 +95,7 @@
 | [Llorarás Más de 10 Veces](https://open.spotify.com/track/10VUJfqV8GGuJovH0x9Q4e) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Llorarás Más de 10 Veces](https://open.spotify.com/album/5NmYayaP0sr0anmXO9D8hz) | 3:30 | 2022-08-05 |  |
 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 | 2022-03-18 |  |
 | [Lo Que Siento](https://open.spotify.com/track/3Ko4pcwBvgl6r1HUr7I4Rr) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Lo Que Siento](https://open.spotify.com/album/77Yk8EJsBxnaQuFGGu3m4t) | 4:10 | 2022-10-28 |  |
-| [Luna de Miel en la Mano](https://open.spotify.com/track/2rN1lAxfRGk4ZPzo1yIXc4) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Luna de Miel en la Mano](https://open.spotify.com/album/3WKCdUg98FQTuf1eu3lTR8) | 3:58 | 2022-07-22 |  |
+| [Luna de Miel en la Mano](https://open.spotify.com/track/2rN1lAxfRGk4ZPzo1yIXc4) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Luna de Miel en la Mano](https://open.spotify.com/album/3WKCdUg98FQTuf1eu3lTR8) | 3:58 | 2022-07-22 | 2023-01-06 |
 | [Lágrimas](https://open.spotify.com/track/3KIMz0gFb6UlwjGaxGEtQk) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lágrimas](https://open.spotify.com/album/5yEunu5lGVvGdi2bGgZ7Ne) | 4:27 | 2022-03-04 | 2022-07-23 |
 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2022-02-25 | 2022-10-29 |
 | [Macumbia](https://open.spotify.com/track/3kJIV2hHl2PeJ4SXLYBy8p) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Macumbia](https://open.spotify.com/album/4MOmIWeENQ3P2bvM4WWffL) | 3:03 | 2022-04-15 | 2022-08-27 |
@@ -157,6 +157,7 @@
 | [Si Me Tomo Una Cerveza](https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF) | [Si Me Tomo una Cerveza](https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2) | 3:02 | 2021-12-24 |  |
 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 | 2021-12-24 |  |
 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 | 2021-12-24 |  |
+| [Siento](https://open.spotify.com/track/6P3P2GtNiCCIZrXEb9INcw) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Siento](https://open.spotify.com/album/26oBWM1k8dNJgcB89m5xnw) | 2:45 | 2023-01-06 |  |
 | [Sin Ayuda](https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Sin Ayuda](https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV) | 3:49 | 2022-08-26 | 2022-09-10 |
 | [Soy Favela](https://open.spotify.com/track/0XxzweqYFUrK0bEzrNaQwI) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Soy Favela](https://open.spotify.com/album/1bNDZciqZaZwZLxB7oi0xn) | 3:13 | 2021-12-24 | 2022-02-19 |
 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 | 2021-12-24 |  |
@@ -170,6 +171,7 @@
 | [Tonto Corazón](https://open.spotify.com/track/1X5pSYSCBjXVUzfspaQ4pm) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Tonto Corazón](https://open.spotify.com/album/50FZCvkteo50w2hvKIB5Zc) | 3:20 | 2021-12-24 | 2022-04-09 |
 | [Tragos En Mi Mesa](https://open.spotify.com/track/4642EXxwNH8Z3WamZeoD2X) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4YXv1lZBaFinDMRgfgktjN) | 3:17 | 2022-08-12 | 2022-09-10 |
 | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5) | 4:01 | 2021-12-24 | 2022-12-24 |
+| [Tu Marca](https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tu Marca](https://open.spotify.com/album/7eAmdtMfLjpeRoam6fzHVc) | 3:30 | 2023-01-06 |  |
 | [Turreto](https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Turreto](https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4) | 2:48 | 2021-12-24 | 2022-07-02 |
 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 | 2022-07-22 | 2022-10-31 |
 | [Una Calle Nos Separa](https://open.spotify.com/track/7Gq4ceSyXidlIF9T6ZjX8D) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Unico Amor](https://open.spotify.com/album/1PgEY4CHlURqdIO5lru0Fv) | 3:34 | 2021-12-24 | 2022-07-29 |

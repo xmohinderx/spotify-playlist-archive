@@ -4,7 +4,7 @@
 
 > The essential pop rock songs from the 1990s\. Cover: Third Eye Blind.
 
-153 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/4bJoP5jiq5y1WJ4iA49HhX)
+153 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

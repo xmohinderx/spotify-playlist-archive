@@ -4,7 +4,7 @@
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-35 songs - 1 hr 27 min - not published yet
+35 songs - 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

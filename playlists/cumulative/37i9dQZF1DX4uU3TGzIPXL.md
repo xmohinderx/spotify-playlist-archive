@@ -4,7 +4,7 @@
 
 > The songs of the 1990s that will make you dance all summer long!
 
-163 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/41ScF5UDsiCJupESfjOcX6)
+163 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

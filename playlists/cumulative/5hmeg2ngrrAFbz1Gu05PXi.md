@@ -4,7 +4,7 @@
 
 > Get into the flow and stay focused while writing code with music curated by the JetBrains team.
 
-109 songs - 10 hr 6 min - not published yet
+109 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

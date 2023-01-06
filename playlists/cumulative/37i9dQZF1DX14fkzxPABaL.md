@@ -4,7 +4,7 @@
 
 > La música que te acompaña en el amor\. Foto: Luciano Pereyra & Pedro Capó
 
-165 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
+165 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

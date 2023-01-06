@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-183 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
+183 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-214 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
+214 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

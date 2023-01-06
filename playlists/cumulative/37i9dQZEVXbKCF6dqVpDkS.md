@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-891 songs - 1 day 22 hr 34 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+891 songs - 1 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

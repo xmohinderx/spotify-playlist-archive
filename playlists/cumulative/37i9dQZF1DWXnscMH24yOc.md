@@ -4,7 +4,7 @@
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-267 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/406cJKXTiZWXbCtbjiF9b5)
+267 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

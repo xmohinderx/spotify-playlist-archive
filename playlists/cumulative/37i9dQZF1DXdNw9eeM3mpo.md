@@ -4,7 +4,7 @@
 
 > 100 % ska latinoamericano\. Los Auténticos Decadentes y Andrea Echeverri en portada.
 
-263 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/7sowbFUvoZr7b5eIa5Z44L)
+263 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

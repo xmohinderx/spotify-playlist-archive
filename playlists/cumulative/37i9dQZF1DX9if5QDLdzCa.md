@@ -4,7 +4,7 @@
 
 > The sound of crashing waves
 
-207 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/2yzXmzNOYoHr0m2WyDWf19)
+207 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

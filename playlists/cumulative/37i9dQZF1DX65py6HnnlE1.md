@@ -4,7 +4,7 @@
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-127 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/0rLVKA8ooTi641bnbi0uab)
+127 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

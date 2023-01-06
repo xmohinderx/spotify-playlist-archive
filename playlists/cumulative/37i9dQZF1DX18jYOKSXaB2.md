@@ -4,7 +4,7 @@
 
 > consider this an RSVP to littest wedding parties
 
-64 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/0bSPCUxLrbY58psnl7ryQ1)
+64 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

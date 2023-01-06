@@ -4,7 +4,7 @@
 
 > A collection of powerful voices and alluring siren songs.
 
-130 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/4TFPubUIaS3b8U0Aq9oe9J)
+130 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

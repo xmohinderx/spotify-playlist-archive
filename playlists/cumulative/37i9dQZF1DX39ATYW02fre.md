@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-198 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/0eIEI0ptmU2SZvI7Y0sdN5)
+198 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

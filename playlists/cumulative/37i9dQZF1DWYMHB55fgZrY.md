@@ -4,7 +4,7 @@
 
 > Los próceres de la historia del rock nacional\. Plastilina Mosh en portada.
 
-208 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/2UMRgZlvzwOWUgThpBtpYG)
+208 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

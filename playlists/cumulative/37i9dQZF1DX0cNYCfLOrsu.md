@@ -4,7 +4,7 @@
 
 > Jada Kingdom selects the baddest in Dancehall for the gyaldem.
 
-159 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/2HvSrSvEMicLEMbs1ellKF)
+159 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-454 songs - 1 day 19 hr 7 min - [published](https://open.spotify.com/playlist/61jkU0pyUDv8PvEXLJtt4L)
+454 songs - 1 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Bike](https://open.spotify.com/track/4v9rHzCDgQXbDdB7t4Nwcz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 8:00 | 2022-04-13 |  |
 | [Bike Pump Meets Bucket](https://open.spotify.com/track/0ZM1s0QFLfgTeA3mgFUQyD) | [Polygon Window](https://open.spotify.com/artist/1A6LF8jYHkaRro5x8JRT2w) | [Quoth](https://open.spotify.com/album/5Cc1mICkrUZCB7TdDUKoYw) | 5:59 | 2022-04-13 |  |
 | [Bilal](https://open.spotify.com/track/0yms3lg4ZY0X9LRw2KYR4Q) | [Our Souls Are In The Hands Of The Translator](https://open.spotify.com/artist/1Vd0oMVgE3MnpLNUGrUdE3) | [sɪŋkrɪtɪzəm](https://open.spotify.com/album/0yuIv5IjLABnN9A5AiiMzU) | 10:36 | 2022-04-13 | 2022-07-27 |
-| [Bio Dimension](https://open.spotify.com/track/4sClp5hEcHnVutrGwQt1Gi) | [B12](https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm) | [Electro\-Soma](https://open.spotify.com/album/4qDcCVpOsd8V4MsmqZrPr1) | 5:54 | 2022-04-13 | 2023-01-02 |
+| [Bio Dimension](https://open.spotify.com/track/4sClp5hEcHnVutrGwQt1Gi) | [B12](https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm) | [Electro\-Soma](https://open.spotify.com/album/4qDcCVpOsd8V4MsmqZrPr1) | 5:54 | 2022-04-13 |  |
 | [bladelores](https://open.spotify.com/track/0z5NOndJF0DHq6GizOZjUT) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/0vczEfoTXdjFAERCLMrc0Z) | 12:19 | 2022-04-13 | 2022-07-29 |
 | [Blex](https://open.spotify.com/track/6RSrAhscve7ZspKVGqqGf2) | [Funckarma](https://open.spotify.com/artist/0Q2lYLp53K9LwFyEHWtrIu) | [Solid State](https://open.spotify.com/album/4QjaLiGKavv1vJ4UXv2OMS) | 6:42 | 2022-04-13 | 2022-07-11 |
 | [Blindsight](https://open.spotify.com/track/2Z4TOqTEEJRNMgATDXKpms) | [Vert](https://open.spotify.com/artist/1DktaVImdwFPjN3gfAfULx) | [Nine Types Of Ambiguity](https://open.spotify.com/album/257On507VhP2QHC9Aj6Vdc) | 4:51 | 2022-04-13 | 2022-07-29 |
@@ -236,7 +236,7 @@
 | [Lushoto \(µ\-Ziq Remix\)](https://open.spotify.com/track/0fVksn9CdRfRMgngHNe3YK) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK) | [µ20: 20 Years of Planet Mu](https://open.spotify.com/album/6MFhamY5fCtvAo17hpnZ4F) | 4:06 | 2022-04-13 | 2022-07-27 |
 | [Mayflower](https://open.spotify.com/track/0OtAhCQ2qumiYP9NmIJyNA) | [Ross 154](https://open.spotify.com/artist/7GttAya0rbCKi3boUgQXjC) | [Hybrids EP](https://open.spotify.com/album/79OajCuB8Z62Z5Dv5cekDB) | 5:00 | 2022-04-13 | 2022-07-29 |
 | [Mdrmx](https://open.spotify.com/track/74wuB4ERudQLnuBOav3OtD) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Claro](https://open.spotify.com/album/0XxwFrdmdzzoRWvNuSMGE9) | 5:59 | 2022-04-13 |  |
-| [Megbiya \(do you believe in things you don't see\) / መግቢያ \(ማመን\)](https://open.spotify.com/track/2SRTPrru5BkYxukaUuPB8L) | [Ethiopian Records](https://open.spotify.com/artist/2IJiuDLghmLxCfXSChVkWk) | [Ye Feqer Edaye / የፍቅር እዳዬ](https://open.spotify.com/album/7k5YyZDkzLl7vRqYELDSHK) | 3:03 | 2022-04-13 | 2022-12-18 |
+| [Megbiya \(do you believe in things you don't see\) / መግቢያ \(ማመን\)](https://open.spotify.com/track/2SRTPrru5BkYxukaUuPB8L) | [Ethiopian Records](https://open.spotify.com/artist/2IJiuDLghmLxCfXSChVkWk) | [Ye Feqer Edaye / የፍቅር እዳዬ](https://open.spotify.com/album/7k5YyZDkzLl7vRqYELDSHK) | 3:03 | 2022-04-13 |  |
 | [Melodicore](https://open.spotify.com/track/4supwTnuCsUD5xz2UcLAc7) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Like Weather \(Remastered Edition\)](https://open.spotify.com/album/21t4lny66XPZPuVVPoo1hO) | 5:21 | 2022-04-13 | 2022-10-01 |
 | [Melt \- Remastered](https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 5:12 | 2022-04-13 |  |
 | [Memoria](https://open.spotify.com/track/7po1yZf9QAnoDl2AUt4LJM) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes](https://open.spotify.com/album/56w7QMVBxVWfNs9j5NHmxd) | 5:53 | 2022-04-13 | 2022-07-29 |
@@ -351,7 +351,7 @@
 | [Sing My Spring \- Isan´s Catena Mix](https://open.spotify.com/track/5XvhMvZPQgb5xvpbuXYShW) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU), [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Please Smile My Noise Bleed](https://open.spotify.com/album/5u0CxJH46YN9cBz9myapzt) | 4:17 | 2022-04-13 | 2022-07-19 |
 | [Sixth seven](https://open.spotify.com/track/55HGpM3dME81PxI57cpvN2) | [patten](https://open.spotify.com/artist/1ld2Kfp4s2LHg94Lby403n) | [EOLIAN INSTATE](https://open.spotify.com/album/55IiKVtxWJrpIqLVWRCTCU) | 4:12 | 2022-04-13 | 2022-07-23 |
 | [Skeeze](https://open.spotify.com/track/0wUAXDLgOsKXJuuviQLJ5p) | [Disjecta](https://open.spotify.com/artist/5hkjh4uNB1fItsgLDJOVG5) | [Looking For Snags](https://open.spotify.com/album/4uPbQA45QczTIjbgjdt5WF) | 6:46 | 2022-04-13 | 2022-07-29 |
-| [Skin With Me](https://open.spotify.com/track/5BU3ZzaIkfkUCpKwFWIavI) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [One On One](https://open.spotify.com/album/3ovF1MA8lcK40TCRzlBMG6) | 3:31 | 2022-04-13 |  |
+| [Skin With Me](https://open.spotify.com/track/5BU3ZzaIkfkUCpKwFWIavI) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [One On One](https://open.spotify.com/album/3ovF1MA8lcK40TCRzlBMG6) | 3:31 | 2022-04-13 | 2023-01-06 |
 | [Skylup](https://open.spotify.com/track/2h3A57ELwNwrXkfWugoZfo) | [Proem](https://open.spotify.com/artist/1hTlyo5QWVHUA3xUGgXqa5) | [Negativ](https://open.spotify.com/album/46ZyFkEdCw1o7Zc2fLrkvv) | 4:34 | 2022-04-13 | 2022-08-30 |
 | [Slac](https://open.spotify.com/track/4cwXjW3AiE75mWj6nL52eR) | [F.U.S.E.](https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Dimension Intrusion \(25th Anniversary Edition\)](https://open.spotify.com/album/3BSEkF5PStiNQYKZB2RQKE) | 3:20 | 2022-04-13 |  |
 | [Slo Bird Whistle \- Peel Session](https://open.spotify.com/track/3bQOgK2jol0IYuI01Aa7dO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Peel Session 2](https://open.spotify.com/album/2AmoY6ypezs0oIMMtlK80M) | 3:33 | 2022-04-13 | 2022-07-29 |
@@ -428,7 +428,7 @@
 | [Vic Acid](https://open.spotify.com/track/6TvXWDa7HYcZEnIyJ1hR6l) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Vic Acid](https://open.spotify.com/album/4u1Pu42ql7MkdlNvbEEhk2) | 3:06 | 2022-04-13 | 2022-07-29 |
 | [Viimo](https://open.spotify.com/track/1xv6E9bFh5bmkINR5e72Q5) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Claro](https://open.spotify.com/album/0XxwFrdmdzzoRWvNuSMGE9) | 8:12 | 2022-04-13 |  |
 | [Viral](https://open.spotify.com/track/5yVJghDg4UB789vqjWzqp5) | [Ad Vanz](https://open.spotify.com/artist/7Js3i7yNTyUx1E7pdQY7Tb), [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Split Series \#2](https://open.spotify.com/album/268l0v7Z48nJ8T3tQPfLTe) | 7:00 | 2022-04-13 | 2022-07-27 |
-| [Viral](https://open.spotify.com/track/6wnDHdEecId9KIDdcXr2W1) | [Ad Vanz](https://open.spotify.com/artist/7Js3i7yNTyUx1E7pdQY7Tb), [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Split Series \#2](https://open.spotify.com/album/6wkonozXeJjU2vFAI3GAxC) | 7:00 | 2022-04-13 |  |
+| [Viral](https://open.spotify.com/track/6wnDHdEecId9KIDdcXr2W1) | [Ad Vanz](https://open.spotify.com/artist/7Js3i7yNTyUx1E7pdQY7Tb), [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Split Series \#2](https://open.spotify.com/album/6wkonozXeJjU2vFAI3GAxC) | 7:00 | 2022-04-13 | 2023-01-06 |
 | [Volu Beit](https://open.spotify.com/track/32w0ZJctO0JnLJfJQYS2mU) | [Aelters](https://open.spotify.com/artist/5O2mG2SfsV7bs3yZ8zsD71) | [Volu Beit](https://open.spotify.com/album/43EgFiGv9qy8HMtVf7Sz8x) | 3:43 | 2022-04-13 | 2022-07-23 |
 | [Vortrack \- Fracture Remix](https://open.spotify.com/track/0NDBhXwLxahccS8iTeN8zX) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Vortrack](https://open.spotify.com/album/2KeosWKGT5LNiBVr3czsZV) | 8:02 | 2022-04-13 | 2022-07-28 |
 | [Waiting for the Host](https://open.spotify.com/track/31JO77GxxfYQBIlTRULv6u) | [Atom TM](https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL) | [Dos Tracks/ :\)](https://open.spotify.com/album/1Z1lX3AG8anlt5oYYkCb3s) | 4:56 | 2022-04-13 | 2022-07-29 |

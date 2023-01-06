@@ -4,7 +4,7 @@
 
 > The ocean, the sun, your friends, the music.
 
-429 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/1vwsHOAHQQxvAh97Q9OOyt)
+429 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

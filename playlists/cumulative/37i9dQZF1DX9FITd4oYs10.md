@@ -4,7 +4,7 @@
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-209 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/4GKtrCmKJEfvuCNCT4WUGE)
+209 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Smart, engaging podcasts that go beyond the headlines.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/3SyaXUu0snThioxWIpYnzw)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

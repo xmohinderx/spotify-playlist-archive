@@ -4,7 +4,7 @@
 
 > All your Disco favorites\. Cover: Donna Summer
 
-151 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/2lNcz8O64Bm1FCmlmRhUK3)
+151 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

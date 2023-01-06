@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Jessica Audiffred
 
-285 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+286 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alive \- 12th Planet Remix](https://open.spotify.com/track/70GVGpU0PCNX5op7l3qYTp) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Alive \(Remixes\)](https://open.spotify.com/album/25zskbiZC3moKS4TkqN9yo) | 2:40 | 2021-12-17 |  |
 | [All Your Lies](https://open.spotify.com/track/0TI191mYlDr4wOpuqDWcZS) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Lexi Norton](https://open.spotify.com/artist/4jjDncozkOf5MTdXPkBYdV) | [All Your Lies](https://open.spotify.com/album/2C6autjettV455fh9GbFGD) | 3:43 | 2022-04-15 |  |
 | [Angels & Blindfolds](https://open.spotify.com/track/5iy9QH67HXDjgThOthkDeV) | [Oddprophet](https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU) | [Angels & Blindfolds](https://open.spotify.com/album/5sI33yhZyJjD43lZDdzwHP) | 4:12 | 2022-01-28 |  |
-| [Arabian Knights](https://open.spotify.com/track/2kO0AAHz7hYN6taN6oUMwT) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy) | [Arabian Knights](https://open.spotify.com/album/1PicnlQtu8oliMzWJcQcZV) | 3:06 | 2022-06-17 |  |
+| [Arabian Knights](https://open.spotify.com/track/2kO0AAHz7hYN6taN6oUMwT) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy) | [Arabian Knights](https://open.spotify.com/album/1PicnlQtu8oliMzWJcQcZV) | 3:06 | 2022-06-17 | 2023-01-06 |
 | [Arcade Fire](https://open.spotify.com/track/6oXQKW4cXq2c1HaTycVIlF) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ), [FuntCase](https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D) | [Arcade Fire](https://open.spotify.com/album/3MxrpzVBvts8GL1xMrF3WH) | 3:54 | 2021-12-17 | 2022-10-08 |
 | [ASCENSION RITE](https://open.spotify.com/track/0ko8SLwJgaWkhXmFZzGYXI) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [ASCENSION RITE](https://open.spotify.com/album/6oKG31pUZ6XgLrvtspQUCf) | 2:58 | 2022-02-04 | 2022-03-12 |
 | [Astro](https://open.spotify.com/track/7LNjCa0bjeODcWYzFo6Bdx) | [Yyvng](https://open.spotify.com/artist/4b5QKPBruPFrb84daWolGE), [Bellorum](https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh) | [Astro](https://open.spotify.com/album/7fPegLkUOqVHIMGcFMMYWg) | 2:46 | 2022-05-06 | 2022-07-24 |
@@ -91,6 +91,7 @@
 | [Drifter](https://open.spotify.com/track/0ASJpt6xrhAYSGOrzk0b76) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Drifter](https://open.spotify.com/album/3fbDmqCGBsQK3Y2hRxpLft) | 3:21 | 2022-09-30 | 2022-10-18 |
 | [DUMP TRUCC](https://open.spotify.com/track/33rKsURXyPeltTOrErKYA3) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [DUMP TRUCC](https://open.spotify.com/album/2Fwu1JBMmy1PzUUORgvhyZ) | 2:30 | 2022-03-11 | 2022-11-17 |
 | [ELIMINATE](https://open.spotify.com/track/6RJmlflJpfMENnS4R7DR7N) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [ELIMINATE](https://open.spotify.com/album/4HFka5kVY811vfUJGlVmTo) | 2:12 | 2021-12-17 | 2022-07-25 |
+| [Elite](https://open.spotify.com/track/3At9iZJpHFkIsVFO4IKe4u) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Elite](https://open.spotify.com/album/3O6ivFNYkhrVLtEY82PRFM) | 3:53 | 2023-01-06 |  |
 | [Encrypted](https://open.spotify.com/track/0AP5MX9obbI3ExcNqK13t8) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Encrypted](https://open.spotify.com/album/5kRnZ2iYR9hMmDrhrXpx4j) | 3:58 | 2022-07-01 | 2022-09-02 |
 | [Enigma](https://open.spotify.com/track/5tFlcAfwqHlfsDX88ZWMqT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Enigma](https://open.spotify.com/album/5vVA18tA4NCfvCBDJd6YF5) | 3:01 | 2022-11-11 |  |
 | [Escape \(feat\. Hayla\) \- Subtronics Remix](https://open.spotify.com/track/6Ep94gYKvkI4OqCOGV66Wx) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\) \[Subtronics Remix\]](https://open.spotify.com/album/7ep1MESRYdgAghNhHDiLhc) | 3:45 | 2022-06-24 | 2022-11-17 |

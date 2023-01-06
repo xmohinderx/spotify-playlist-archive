@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Jeanette Jenkins.
 
-49 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/45TE9HqDov35LUf15heZki)
+49 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

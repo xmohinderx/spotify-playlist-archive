@@ -4,7 +4,7 @@
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 20 years.
 
-113 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
+113 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

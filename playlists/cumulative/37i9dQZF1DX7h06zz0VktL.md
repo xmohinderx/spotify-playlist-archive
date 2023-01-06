@@ -4,7 +4,7 @@
 
 > All E.L.F's go to playlist! "The Road : Celebration \- The 11th Album Vol.2"\. is here!
 
-190 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/2UMJmYC8TKLWWGuzrB0lu5)
+190 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-248 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+248 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

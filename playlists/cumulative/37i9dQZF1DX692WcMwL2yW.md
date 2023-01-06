@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-328 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+328 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

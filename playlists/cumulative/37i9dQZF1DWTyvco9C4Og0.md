@@ -4,7 +4,7 @@
 
 > Las leyendas del mariachi están aquí\. Yuridia en portada.
 
-173 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/2V0PHZyuVaI8QUBHcbfV2Z)
+173 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

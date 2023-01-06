@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-630 songs - 1 day 14 hr 50 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+630 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

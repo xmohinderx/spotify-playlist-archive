@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: Wade & Dj Snake
 
-148 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
+148 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Featuring that new vintage. Cover: WILSN",
   "name": "Retro Pop",
-  "published_playlist_ids": [
-    "3Icin3X1CyEouQNp33mzQK"
-  ],
   "tracks": [
     {
       "album": {
@@ -4965,6 +4962,10 @@
         {
           "name": "Durand Jones & The Indications",
           "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         },
         {
           "name": "Aaron Frazer",

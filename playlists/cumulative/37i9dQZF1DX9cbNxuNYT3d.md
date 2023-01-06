@@ -4,7 +4,7 @@
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-74 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/5DQkBIKvID2f1LdpT2HjaI)
+74 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

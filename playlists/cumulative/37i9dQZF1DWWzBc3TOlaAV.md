@@ -4,7 +4,7 @@
 
 > These songs rocked the '60s\. Cover: Jimi Hendrix
 
-141 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/1KKgS6q0sNGU7BWtq9lIZj)
+141 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

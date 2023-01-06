@@ -4,7 +4,7 @@
 
 > Let's make this a day and night to remember.
 
-182 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/3ySafU7R7vZbe62Il9Ba2v)
+182 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

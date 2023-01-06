@@ -4,7 +4,7 @@
 
 > Celebrating 15 years of Love/Hate\. Cover: The\-Dream
 
-142 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/7MJ3ipEjnPWxpL2L6nZbav)
+142 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

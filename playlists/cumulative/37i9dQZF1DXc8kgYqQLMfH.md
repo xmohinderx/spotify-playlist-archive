@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-820 songs - 1 day 6 hr 51 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
+820 songs - 1 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

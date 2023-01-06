@@ -4,7 +4,7 @@
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/3T4GDcQQHsN5wLXYdod9rv)
+67 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

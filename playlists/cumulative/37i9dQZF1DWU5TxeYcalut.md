@@ -4,7 +4,7 @@
 
 > Uma seleção especial do jazz nacional\. Foto: Letieres Leite, Orkestra Rumpilezz, Caetano Veloso
 
-105 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/2Ne5i2VWAUeP3KdZ5aLVyo)
+105 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

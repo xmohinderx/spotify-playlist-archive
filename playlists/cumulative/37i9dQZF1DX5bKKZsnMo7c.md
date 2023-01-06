@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-186 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+186 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

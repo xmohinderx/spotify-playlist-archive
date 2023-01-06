@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-157 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/0IH3xMG1wgIStcChEOMik2)
+157 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

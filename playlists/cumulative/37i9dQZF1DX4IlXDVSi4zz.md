@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-121 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/6xJvxiorVlvPVNAhaM6Xfd)
+121 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Uy8Skuxzxf38jMDTndKIU">Populous</a>'s favorite tracks\. Updated regularly\. Curated by Populous\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-199 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/4Z2xorn6yxWYhhwb9O1IZh)
+199 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

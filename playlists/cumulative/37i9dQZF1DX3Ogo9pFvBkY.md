@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-706 songs - 1 day 13 hr 16 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+706 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

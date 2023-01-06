@@ -4,7 +4,7 @@
 
 > It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.
 
-113 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/6nR9fObgGSerkhsDfjVzFd)
+113 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

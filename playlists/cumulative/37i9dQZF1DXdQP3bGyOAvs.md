@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-267 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
+267 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

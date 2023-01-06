@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Michelle BI en portada.
 
-221 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
+221 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

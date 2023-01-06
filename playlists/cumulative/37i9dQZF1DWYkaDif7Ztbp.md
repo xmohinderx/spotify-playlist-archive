@@ -4,7 +4,7 @@
 
 > Tony Elumelu shares the heated tracks for the New Years Eve
 
-235 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
+235 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

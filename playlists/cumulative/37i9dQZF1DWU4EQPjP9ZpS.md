@@ -4,7 +4,7 @@
 
 > get lost in the  a e s t h e t i c
 
-412 songs - 22 hr 58 min - [published](https://open.spotify.com/playlist/3K3vRAXhujlSaYFy6U6zNx)
+412 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

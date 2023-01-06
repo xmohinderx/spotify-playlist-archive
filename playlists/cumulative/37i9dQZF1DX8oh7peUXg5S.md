@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joan Manuel Serrat.
 
-218 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/1rcqnJTuxkgmJDpLbQBBLY)
+218 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

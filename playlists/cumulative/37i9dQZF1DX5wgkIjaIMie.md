@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 10s
 
-441 songs - 1 day 2 hr 38 min - [published](https://open.spotify.com/playlist/4gviwYyodXKk9b2KWJpfqt)
+441 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

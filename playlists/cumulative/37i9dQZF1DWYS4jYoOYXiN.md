@@ -4,7 +4,7 @@
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-100 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/6bR2ddpU2tR5Go5U5HI8SW)
+100 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

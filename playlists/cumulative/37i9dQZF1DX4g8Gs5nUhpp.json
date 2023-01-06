@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: GREY D",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
-  "published_playlist_ids": [
-    "0wzTwcfKaOgiicu3axKIAh"
-  ],
   "tracks": [
     {
       "album": {
@@ -1447,6 +1444,32 @@
       "duration_ms": 275583,
       "name": "Ng\u00f4i Sao C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/2mwVxrwLORLTNznZRZBjK5"
+    },
+    {
+      "album": {
+        "name": "ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh)",
+        "url": "https://open.spotify.com/album/24GVnl6IHS4453WEGwp65Y"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+        },
+        {
+          "name": "Kewtiie",
+          "url": "https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh)",
+      "url": "https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf"
     },
     {
       "album": {

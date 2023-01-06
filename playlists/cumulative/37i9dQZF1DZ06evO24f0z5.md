@@ -4,7 +4,7 @@
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/6LOCledbXe3ahQT3AL4ftS)
+63 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Japanese female rock icons. Cover: \u30af\u30ec\u30ca\u30ba\u30e0(Culenasm)",
   "name": "She Rocks",
-  "published_playlist_ids": [
-    "5oLzS8mnacSvAW2zqgcbrN"
-  ],
   "tracks": [
     {
       "album": {
@@ -3269,6 +3266,24 @@
       "duration_ms": 201526,
       "name": "Myself",
       "url": "https://open.spotify.com/track/6goPRfxzG4tcPXOf0xcp9w"
+    },
+    {
+      "album": {
+        "name": "Natural / Sabotage",
+        "url": "https://open.spotify.com/album/2qqTrHWRm4zSEWNQW39d2E"
+      },
+      "artists": [
+        {
+          "name": "AQMO",
+          "url": "https://open.spotify.com/artist/6fQQ8G7xptjlxYPLY7Lvuy"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126021,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/6jORyuT0NO71bNeQgwcdAi"
     },
     {
       "album": {
@@ -9515,7 +9530,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 242062,
       "name": "\u4e0d\u5e78\u30a2\u30ec",
       "url": "https://open.spotify.com/track/0dm0mktu535ZorIOqy1v61"

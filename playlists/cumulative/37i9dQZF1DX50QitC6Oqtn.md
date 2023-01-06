@@ -4,7 +4,7 @@
 
 > Because we all deserve great pop love songs in one playlist.
 
-421 songs - 1 day 0 hr 24 min - [published](https://open.spotify.com/playlist/5Gy0dP1pgPGbnWiiwYHssX)
+421 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

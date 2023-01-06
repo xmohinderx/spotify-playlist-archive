@@ -4,7 +4,7 @@
 
 > Hit the road and scream your heart out!
 
-179 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/1r9869jHnoCyAuLiaC1eZq)
+179 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

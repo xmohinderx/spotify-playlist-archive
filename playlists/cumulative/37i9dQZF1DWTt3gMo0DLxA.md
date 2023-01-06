@@ -4,7 +4,7 @@
 
 > Step Up for this Top Hit Telugu songs
 
-66 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/55N7eexil0MrFE02LmjUsZ)
+66 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

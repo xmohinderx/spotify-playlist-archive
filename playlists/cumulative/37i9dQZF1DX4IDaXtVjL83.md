@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: F.HERO, Tiger JK, Yoon Mirae, Billkin
 
-106 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
+106 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-141 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/49wk7xyVNm2XYatXm9KNKt)
+141 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

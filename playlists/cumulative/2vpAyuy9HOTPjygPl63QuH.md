@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-652 songs - 1 day 13 hr 42 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+652 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Bad Decisions](https://open.spotify.com/track/6Z5qHLhQDnQD23aLXaPsmG) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad Decisions EP](https://open.spotify.com/album/2ZaZRpXCPGt2vuyoJNiS3I) | 3:04 | 2021-06-03 | 2022-09-10 |
 | [Bailar](https://open.spotify.com/track/6WG7JANcbQbVVwGSIGLhpK) | [Get Bad](https://open.spotify.com/artist/0nLBrW1pQ3RlAJw5tB8PMN) | [Litterbox 12](https://open.spotify.com/album/6XSqMd6HwTAreAKbHMKan2) | 3:01 | 2022-06-03 | 2022-06-11 |
 | [Ballroom](https://open.spotify.com/track/3dok2BteRgxI2czCkDh0PQ) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom](https://open.spotify.com/album/3pKvEE95kPUM0ysZ5FC96R) | 5:03 | 2022-10-28 | 2022-11-06 |
-| [Ballroom \- Edit](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 | 2022-12-16 |  |
+| [Ballroom \(Edit\)](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 | 2022-12-16 |  |
 | [Bamboo Spice](https://open.spotify.com/track/0ACp1nQwmJwxQSxO7QxDEu) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bamboo Spice](https://open.spotify.com/album/1PjO9mqKKEP5O2yMjmOBvs) | 3:38 | 2022-10-28 | 2022-11-06 |
 | [Bardo](https://open.spotify.com/track/4UzRLcz7EtviJyoTBBof2X) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Bardo](https://open.spotify.com/album/49UGOt9jizVXfLEuQApZfn) | 3:48 | 2022-11-05 | 2022-11-12 |
 | [Be Together](https://open.spotify.com/track/4Jnu9TMfBEOpUUBe9aB643) | [Solh](https://open.spotify.com/artist/2Wyb3ehERUPJRsKC1beY7D) | [Be Together](https://open.spotify.com/album/08PY9Tcg4FRNJkMMhC67NH) | 3:30 | 2022-07-05 | 2022-07-10 |

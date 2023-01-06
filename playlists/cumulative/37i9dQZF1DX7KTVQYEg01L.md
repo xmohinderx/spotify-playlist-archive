@@ -4,7 +4,7 @@
 
 > celebre seu Natal no maior astral!
 
-284 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/6HOgxEfC8AsoGg8rgt63pw)
+284 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

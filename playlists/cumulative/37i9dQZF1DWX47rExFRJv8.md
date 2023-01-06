@@ -4,7 +4,7 @@
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-84 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/1ulEgPq2vuurRp0rrX50F2)
+84 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

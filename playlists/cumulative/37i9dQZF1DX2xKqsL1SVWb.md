@@ -4,7 +4,7 @@
 
 > Folk tan dulce como la miel.
 
-99 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/51PGtygMYuoHpiALaPK8vx)
+99 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

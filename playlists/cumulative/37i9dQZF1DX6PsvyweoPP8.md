@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-108 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/4rU0SGAH9zhIFDqKgDDJgY)
+108 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > what are they doing up there?
 
-71 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
+71 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

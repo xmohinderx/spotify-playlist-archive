@@ -4,7 +4,7 @@
 
 > It's a Saturday night in the country, all the time!
 
-65 songs - 3 hr 29 min - not published yet
+65 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

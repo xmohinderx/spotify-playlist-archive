@@ -4,7 +4,7 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-55 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/0suQIohnJkMbg3Mf0bU3LR)
+55 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

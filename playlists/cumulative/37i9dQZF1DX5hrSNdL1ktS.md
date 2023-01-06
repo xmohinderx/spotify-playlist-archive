@@ -4,7 +4,7 @@
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Dani Torres en portada.
 
-104 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
+104 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

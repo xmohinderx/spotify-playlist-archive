@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Dalton Dover
 
-119 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+119 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

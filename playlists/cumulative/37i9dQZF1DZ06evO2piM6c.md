@@ -4,7 +4,7 @@
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-57 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/4ckbNE8XGzGQsaCG11klOl)
+57 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

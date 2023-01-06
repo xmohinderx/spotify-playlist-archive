@@ -4,7 +4,7 @@
 
 > Let these songs soundtrack your busy wedding season.
 
-49 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/0kmAjHvJvbuKLD5ubLOeNo)
+50 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Mehndi Hai Rachnewali](https://open.spotify.com/track/0lCdndc8chDOcAQqfLvCyE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Zubeidaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5t0wkaiJ86D3MtdBhUevkd) | 4:26 | 2021-10-29 |  |
 | [Mehndi Laga Ke Rakhna](https://open.spotify.com/track/10VHC3DkFmpevIP3p7mvSf) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge: Songs and Dialogues \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34brcN9uQ58LoWCh3R17sF) | 4:51 | 2021-10-29 | 2022-07-29 |
 | [Mehndi Laga Ke Rakhna \(From "Dilwale Dulhania Le Jayenge"\)](https://open.spotify.com/track/6fAd7h8Jt3Hsf764rn7kEV) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:46 | 2022-06-24 |  |
+| [Mood Banaleya](https://open.spotify.com/track/2hLEiRXEa7ehdGQwINN0XQ) | [Amruta Fadnavis](https://open.spotify.com/artist/14HU1ikR555oozRRbVQeZg), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Mood Banaleya](https://open.spotify.com/album/5r0qdhwVJtTcZ3ejOP8M3n) | 3:54 | 2023-01-06 |  |
 | [Morni Banke](https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Badhaai Ho](https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA) | 3:18 | 2021-10-29 |  |
 | [Naah Goriye](https://open.spotify.com/track/2q12vH6qEvg8y1XBCgTbHZ) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Swasti Mehul](https://open.spotify.com/artist/7r7WoKowe8dCfQCl9GACDM) | [Bala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eqqSmPlC78OQpQoAnkt7z) | 3:04 | 2021-10-29 |  |
 | [Nachde Ne Saare](https://open.spotify.com/track/4c8erEn1DjLoDp0CRLkNnq) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ASFrellizlx98SmsItOEm) | 3:14 | 2021-10-29 |  |

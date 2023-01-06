@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-172 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/2huVTNU2fzUcSwfsB8l29J)
+172 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

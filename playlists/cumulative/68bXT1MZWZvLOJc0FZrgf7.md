@@ -4,7 +4,7 @@
 
 > Press play and dance away to your favorite electronic hits\. Cover: Gordo
 
-235 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
+235 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

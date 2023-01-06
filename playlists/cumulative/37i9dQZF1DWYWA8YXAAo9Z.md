@@ -4,7 +4,7 @@
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-138 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
+138 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

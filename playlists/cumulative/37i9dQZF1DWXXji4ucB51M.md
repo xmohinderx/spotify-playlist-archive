@@ -4,7 +4,7 @@
 
 > The official 2020 VMAs playlist from MTV + Spotify\. See more at <a href="http://www.mtv.com/vma">vma.mtv.com</a> 🚀
 
-90 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/6VwE3Legh0DA93EQ0bQLCX)
+90 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

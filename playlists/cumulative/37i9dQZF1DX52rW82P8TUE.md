@@ -4,7 +4,7 @@
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-55 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/6J4UiToUci4KVXg8qFi6GM)
+55 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

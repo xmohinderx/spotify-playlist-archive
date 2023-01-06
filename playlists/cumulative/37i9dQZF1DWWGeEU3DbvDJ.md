@@ -4,7 +4,7 @@
 
 > The BBMAs – celebrating music’s greatest achievements by honoring the hottest names on the Billboard Charts\. Airing live May 15 on NBC! Cover: The Weeknd
 
-149 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/7d6umcwHDALr218gyeRSRU)
+149 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

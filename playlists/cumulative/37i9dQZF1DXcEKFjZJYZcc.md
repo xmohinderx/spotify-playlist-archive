@@ -4,7 +4,7 @@
 
 > Happy vibes for an upbeat morning.
 
-191 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/1nnM2QjOXgGnhPNCevwIA6)
+191 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

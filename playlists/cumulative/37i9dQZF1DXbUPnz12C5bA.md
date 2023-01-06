@@ -4,7 +4,7 @@
 
 > Para cantar y recordar.
 
-61 songs - 4 hr 22 min - not published yet
+61 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

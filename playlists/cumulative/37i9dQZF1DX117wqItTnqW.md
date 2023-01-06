@@ -4,7 +4,7 @@
 
 > Le meilleur de la playlist Afro Hits en 2022\. Photo : Rema \#SpotifyWrapped
 
-54 songs - 2 hr 42 min - not published yet
+54 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

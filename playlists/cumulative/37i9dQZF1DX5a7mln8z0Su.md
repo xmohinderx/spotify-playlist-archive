@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-201 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
+201 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [She lives in Paris](https://open.spotify.com/track/5PvMK77XUHP4EwdttBNX3o) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [She lives in Paris](https://open.spotify.com/album/0tms1uJhwMYwt7e8Zy41j2) | 3:17 | 2022-05-11 |  |
 | [Shooting Star](https://open.spotify.com/track/4V64n9p1OqlZTwgNGuDRmo) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz) | [Shooting Star](https://open.spotify.com/album/5EAsZOx6DFvj7roiv8FVDb) | 3:07 | 2022-05-11 | 2022-12-20 |
 | [Sleep](https://open.spotify.com/track/4uhliO1T7YJNXDbvpTCzuJ) | [D.no](https://open.spotify.com/artist/65XxCQXyj2MZ99bQmxgavW) | [d'motive](https://open.spotify.com/album/7agoIZYuOrEpnhIobnqZfO) | 4:09 | 2022-05-11 | 2022-07-16 |
-| [Smile, Wait For The Flash](https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:46 | 2022-05-11 | 2022-12-20 |
+| [Smile, Wait For The Flash](https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:46 | 2022-05-11 |  |
 | [Snowdrop](https://open.spotify.com/track/5Eek7yaIklDl2tzciWI4gw) | [파니핑크](https://open.spotify.com/artist/5pgYYiTF595S5UpfGZq3UT) | [7 Moments \(세상의 어쩔 수 없는 일곱가지\)](https://open.spotify.com/album/1xKMtxHD24KhyTd7Y3Vd4J) | 3:57 | 2022-05-11 | 2022-06-03 |
 | [Someone Like You](https://open.spotify.com/track/1rLepxqnfZrw7qSTe9b311) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Someone Like You](https://open.spotify.com/album/0qvJ0nfIEdUnlJ6bJPwN0M) | 3:20 | 2022-05-11 | 2022-07-28 |
 | [Something strange](https://open.spotify.com/track/2r7ijruKeijp52uW8pAPU5) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 3:20 | 2022-06-13 | 2022-06-19 |
@@ -175,7 +175,7 @@
 | [Then](https://open.spotify.com/track/4SCDDkFIkiN9wOZgOPdEFK) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:11 | 2022-06-20 | 2022-07-22 |
 | [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 | 2022-07-08 |  |
 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 | 2022-07-04 |  |
-| [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 | 2022-05-11 |  |
+| [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 | 2022-05-11 | 2023-01-06 |
 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 | 2022-05-11 |  |
 | [Time \(Feat\. EunBii\) \(Prod\. Truman\)](https://open.spotify.com/track/1rnldoTHejIYzvMRtwbNJQ) | [Baeksik](https://open.spotify.com/artist/6ZBi6tKlLbqzIQJinKMKWz), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [Time Paradox](https://open.spotify.com/album/6bMNvyEefv9zRFQnfoG8Ba) | 3:27 | 2022-05-11 | 2022-07-26 |
 | [Time does not wait for us](https://open.spotify.com/track/4JflsE7yI1tJNJNKPIJQPI) | [roon](https://open.spotify.com/artist/1Wq5gAIzVM5HKXv2j94j2j) | [In Mood for Love](https://open.spotify.com/album/7woVM2fDLB3cXrUmwK2mxs) | 3:36 | 2022-05-11 | 2022-07-26 |

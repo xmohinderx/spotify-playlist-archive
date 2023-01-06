@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-192 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/532FWuTW1QFsPK6DTMO5T1)
+193 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Jeg ror alene](https://open.spotify.com/track/2FvoA1uCruAwjV49IXQgQz) | [Hanne Krogh](https://open.spotify.com/artist/3uVksNHrN6QwS2m0wzqkWY), [Jan Thomas](https://open.spotify.com/artist/3p1BYcJhXCb3WvHLriHIHS) | [Jeg ror alene](https://open.spotify.com/album/3lXlqG2xOV9fpREw4nfJsx) | 3:53 | 2021-12-16 | 2022-07-17 |
 | [Jeg Vet](https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:43 | 2021-12-16 |  |
 | [Jordsjuk](https://open.spotify.com/track/2NdDmQVO610U8ktnWlwhcQ) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Vonde Visu](https://open.spotify.com/album/6KSVr0iwmaUr37NTBNaU5h) | 3:33 | 2022-03-23 | 2022-04-21 |
+| [Jovial](https://open.spotify.com/track/79A8w2MEID8RIM6rzgtrtR) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Jovial](https://open.spotify.com/album/55G0O9SlnAKfWtbG6l2w8A) | 2:50 | 2023-01-05 |  |
 | [Julinetter](https://open.spotify.com/track/3i6Rpq73XBlzSwFtltygLm) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Julinetter](https://open.spotify.com/album/3TnJRJMmG55xg5iuTzS4sZ) | 5:39 | 2021-12-16 | 2022-07-29 |
 | [Jupiter](https://open.spotify.com/track/4o76TSM5Oks01fAwgBBSG4) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [Jupiter](https://open.spotify.com/album/3InLXFrUYYE9mAQEdUPXRe) | 4:39 | 2022-03-23 | 2022-04-21 |
 | [Ka Du Håpa På](https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Ka Du Håpa På](https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9) | 3:29 | 2022-01-06 | 2022-06-18 |
@@ -196,7 +197,7 @@
 | [Vise i mai](https://open.spotify.com/track/3U8IQozhvijdKg7JBFXqCm) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT) | [Morild](https://open.spotify.com/album/1h9JILdyYsamDDHVbehYfG) | 3:12 | 2022-01-27 | 2022-06-06 |
 | [Vit at det går øve](https://open.spotify.com/track/3eCQqf58kxhCSvTr3XCZFC) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [Vit at det går øve](https://open.spotify.com/album/4WvZPJICxM0vvhjvMvbZBf) | 3:14 | 2021-12-16 | 2022-07-29 |
 | [Vuggesang](https://open.spotify.com/track/44mUxIp2hjL0gQBVM5gx5a) | [Steinar Albrigtsen](https://open.spotify.com/artist/2qRjrCuBQJqlU8Nwb92kao) | [Vuggesang](https://open.spotify.com/album/6lOe5E94s5NIpzkgwF1Tnf) | 3:18 | 2021-12-16 | 2022-07-01 |
-| [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 | 2021-12-16 |  |
+| [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 | 2021-12-16 | 2023-01-06 |
 | [Vår beste dag](https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Vår beste dag](https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN) | 3:22 | 2021-12-16 | 2023-01-04 |
 | [Vårløysing](https://open.spotify.com/track/3NLVaTDstdmhc6rcE81flT) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Vårløysing](https://open.spotify.com/album/6hl5r09iun87zAk0fuvHxb) | 3:20 | 2022-04-28 | 2022-07-22 |
 | [Å Kunne Æ Skrive](https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd), [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E), [Lars Bremnes](https://open.spotify.com/artist/1L7U4qOZlB5M0GaAICnxc4) | [Soløye](https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW) | 3:23 | 2021-12-16 |  |

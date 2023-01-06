@@ -4,7 +4,7 @@
 
 > Meditate to the sound of soothing voices and flutes.
 
-105 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/5wzrCqfV41QHbMB8anhB8k)
+105 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

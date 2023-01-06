@@ -4,7 +4,7 @@
 
 > O melhor do rap em 2022\. Foto: Dillaz.
 
-95 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/6T3cBjgrUaOVDEiFj5TfBD)
+95 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

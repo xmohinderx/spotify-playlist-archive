@@ -4,7 +4,7 @@
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/3RYiM0Z1VUR8qi10gB3VQT)
+67 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

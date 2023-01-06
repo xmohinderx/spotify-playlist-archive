@@ -2,9 +2,9 @@
 
 ### [Cancionistas](https://open.spotify.com/playlist/37i9dQZF1DXcWcRIYY41Ix)
 
-> La nueva ola de trovadores del Siglo XXI\. En portada: Antía Muíño.
+> La nueva ola de trovadores del Siglo XXI\. En portada: Zoe Gotusso.
 
-332 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+333 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Al Margen de Ojalá](https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Al Margen de Ojalá](https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus) | 5:26 | 2021-12-24 |  |
 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:41 | 2021-12-24 |  |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/2LDFwmbyd2PsVEZFCsZFZZ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/529vSkrdGV4B5ZdpglN1CA) | 4:39 | 2022-07-22 | 2022-10-14 |
-| [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2022-12-23 | 2022-12-26 |
+| [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2022-12-23 |  |
 | [Alfonsina y el Mar](https://open.spotify.com/track/4QknKPpA2m8Yw8vQimkKHQ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina y el Mar](https://open.spotify.com/album/06MI02YQmQL6Vz2M4EckSg) | 4:39 | 2021-12-24 | 2022-07-23 |
 | [Alitas de mar \(feat\. Juanito Makandé\)](https://open.spotify.com/track/4YKIrD8XK51XIsqJEpB1Q0) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Juanito Makandé](https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z) | [Alitas de mar \(feat\. Juanito Makandé\)](https://open.spotify.com/album/1JH19MdY6rtR8AZziT1vcw) | 3:14 | 2021-12-24 |  |
 | [Alma Mantra](https://open.spotify.com/track/5LA6XlS8iZGbRlO4Z6lr4G) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Grupo Cluster](https://open.spotify.com/artist/6UaPnqedipLYiyEIj4edj6) | [El Viejo Comunista \(+ Adelantos\)](https://open.spotify.com/album/5SCD19jQdSs6g7RtJup5Po) | 3:09 | 2021-12-24 | 2022-07-29 |
@@ -49,7 +49,7 @@
 | [Caminar y Silbar](https://open.spotify.com/track/5iMjqRdsME17iDsAGTkHiL) | [Izqui y los Pequeños Planetas](https://open.spotify.com/artist/4rIMxwqlZeHtdFBGonACct) | [Caminar y Silbar](https://open.spotify.com/album/0cxtvqa04vMLpshMs5szhb) | 2:45 | 2022-05-13 | 2022-07-09 |
 | [Caminata](https://open.spotify.com/track/10q58ySzhr4lUvqFQHwoUD) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Caminata](https://open.spotify.com/album/04JEuJTa7Uf1KROL7gTnUt) | 2:58 | 2022-10-21 | 2022-12-03 |
 | [Camino Que Pasa](https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Camino Que Pasa](https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl) | 3:00 | 2022-07-22 |  |
-| [Camposanto](https://open.spotify.com/track/2yn6VHPMXU4RPnENTQSHLH) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Camposanto](https://open.spotify.com/album/6Bd3L7gZ9ZxKYSWtIjJHjP) | 3:27 | 2022-11-11 |  |
+| [Camposanto](https://open.spotify.com/track/2yn6VHPMXU4RPnENTQSHLH) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Camposanto](https://open.spotify.com/album/6Bd3L7gZ9ZxKYSWtIjJHjP) | 3:27 | 2022-11-11 | 2023-01-06 |
 | [Camí amunt](https://open.spotify.com/track/1e1EE2uHgjoLHTxkjBiGVZ) | [Júlia Colom](https://open.spotify.com/artist/2FGexWthFJnvymvErkOPaI) | [Camí amunt](https://open.spotify.com/album/0Br95cXHBcJDA5ckTZ1wsX) | 4:17 | 2021-12-24 | 2022-01-12 |
 | [Canción Con Vos](https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c) | [Alejandro Balbis](https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti) | [Sin Remitente](https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho) | 3:11 | 2021-12-24 |  |
 | [Canta, miña compañeira](https://open.spotify.com/track/7sEO7d6ToY5C2ObEkeJAVA) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Canta, miña compañeira](https://open.spotify.com/album/3oqLUn4jbB7olSampyHXfb) | 3:35 | 2022-10-15 | 2022-11-26 |
@@ -85,7 +85,7 @@
 | [De No Haberte Conocido](https://open.spotify.com/track/3AQkfvH36YJnp3hdBfhj7C) | [Cheo](https://open.spotify.com/artist/1P6xk2vcFnmOZRKqujdpCj), [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Dónde](https://open.spotify.com/album/5LSssy7XGPGIiWlK6y5UtY) | 3:16 | 2021-12-24 | 2022-04-23 |
 | [De todas las flores](https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De todas las flores](https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP) | 5:22 | 2022-10-10 |  |
 | [Decidí \- Directo Acústico](https://open.spotify.com/track/0kSYO9xl53ZWXxT8LR5DVh) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Acustísimos \(Directo Acústico\)](https://open.spotify.com/album/4JhcOpeDfNRd3s5VQVhXV3) | 5:01 | 2022-02-04 | 2022-03-01 |
-| [Decreto](https://open.spotify.com/track/3ISHt7hGxzM1pWnlXlIDjy) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Decreto](https://open.spotify.com/album/7tlbnFYU7AQR5nqBLy9SMm) | 3:25 | 2022-12-19 |  |
+| [Decreto](https://open.spotify.com/track/3ISHt7hGxzM1pWnlXlIDjy) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Decreto](https://open.spotify.com/album/7tlbnFYU7AQR5nqBLy9SMm) | 3:25 | 2022-12-19 | 2023-01-06 |
 | [Derecho de Nacimiento \(feat\. Los Macorinos\)](https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 5:48 | 2021-12-24 |  |
 | [Descalza Camino](https://open.spotify.com/track/7LK2PfcUYSbdQC0WxiJ96F) | [Marisa Valle Roso](https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL) | [Descalza Camino](https://open.spotify.com/album/54isI5NDdNqfce82qGHXJK) | 2:51 | 2022-01-14 | 2022-01-22 |
 | [Desesperado](https://open.spotify.com/track/4IaNtVTCcgQvD4fOpR41b5) | [Fermi](https://open.spotify.com/artist/3zKTjOf7vGQrcu3mJQMMA0) | [Desesperado](https://open.spotify.com/album/24UmqGrqCtuEXFCpebYT54) | 3:12 | 2022-01-27 | 2022-02-05 |
@@ -162,6 +162,7 @@
 | [La Profecía](https://open.spotify.com/track/4SalVML4kHX3Kjlbq24EgZ) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [La Profecía](https://open.spotify.com/album/0E6iE7Z2TREMlOcCdxsR2x) | 3:37 | 2021-12-24 | 2022-07-29 |
 | [La Quimerita](https://open.spotify.com/track/7Cvvi9V0dEnpGeY3axVNGP) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [La Quimerita](https://open.spotify.com/album/24iqwRhlBDcDlkUwDFZqL9) | 3:10 | 2021-12-24 | 2022-01-13 |
 | [la raíz](https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la raíz](https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh) | 3:44 | 2022-10-15 |  |
+| [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2023-01-06 |  |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-05-13 | 2022-10-20 |
 | [La Verbena y el Moriviví](https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Verbena y el Moriviví](https://open.spotify.com/album/06wwHze6wq4qk3lcuz6ttw) | 3:46 | 2022-02-04 | 2022-04-21 |
 | [Las Bestias Que Me Acompañan](https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Las Bestias Que Me Acompañan](https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa) | 3:42 | 2022-03-11 |  |

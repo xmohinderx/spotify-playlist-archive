@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-107 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
+107 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

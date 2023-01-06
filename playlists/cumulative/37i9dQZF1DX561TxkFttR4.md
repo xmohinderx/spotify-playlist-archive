@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-204 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/4eLccPUZOHW6eZhftpmYAZ)
+204 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

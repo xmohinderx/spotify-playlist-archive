@@ -4,7 +4,7 @@
 
 > Revisit some of Bill's latest conversations with celebrities, athletes, and media staples.
 
-0 song - 0 sec - not published yet
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

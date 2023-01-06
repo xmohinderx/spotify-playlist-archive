@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-12-15",
   "description": "Lebih dari sekedar kopi, ini kumpulan lagu akustik dalam negeri favoritmu.",
   "name": "Kopikustik",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -790,6 +789,24 @@
     },
     {
       "album": {
+        "name": "Nanti Kita Seperti Ini",
+        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209647,
+      "name": "Nanti Kita Seperti Ini",
+      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/4UktwuqbTJJFnsuDhkf7kb"
       },
@@ -981,7 +998,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 133952,
       "name": "Rubik",
       "url": "https://open.spotify.com/track/0zmmGejb5vgdfN5KFtYFfF"

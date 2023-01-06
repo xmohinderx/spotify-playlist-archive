@@ -4,7 +4,7 @@
 
 > These country songs know exactly how you feel.
 
-151 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/68FV8d2Esz4dF7OiEcvcDQ)
+151 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

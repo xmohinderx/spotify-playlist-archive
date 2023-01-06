@@ -4,7 +4,7 @@
 
 > Get your 2023 started with these party tracks everyone knows and loves!
 
-172 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/7w6mlIi4CNgTR9iJ8AGl4f)
+172 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

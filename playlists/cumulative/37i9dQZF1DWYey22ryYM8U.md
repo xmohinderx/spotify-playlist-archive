@@ -4,7 +4,7 @@
 
 > Hits con sabor\. Cover: LA INDIA, Goyo.
 
-263 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/1b5XdfWrnBRPibFIU7IXEm)
+263 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

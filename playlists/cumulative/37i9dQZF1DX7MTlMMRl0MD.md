@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce
 
-278 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/45MmNxif45mvjmVUvvusGU)
+278 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

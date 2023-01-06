@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1950s.
 
-296 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/0KP8tMIBjL4MwHe5MXMJNh)
+296 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

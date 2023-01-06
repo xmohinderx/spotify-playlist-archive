@@ -4,7 +4,7 @@
 
 > Lo que suena en la noche.
 
-169 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/21GnVzY5sfP4CmWY4cHSf6)
+169 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

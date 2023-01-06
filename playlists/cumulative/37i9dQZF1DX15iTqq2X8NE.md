@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-127 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
+127 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ¡Perreo del bueno!<br/>Cover: Bellakath
 
-300 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/1HQ1zGEsUWl8GwoGVDDmeh)
+300 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 | 2022-09-08 |  |
 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2022-03-21 | 2022-08-20 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2022-09-08 |  |
-| [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 | 2022-09-06 |  |
+| [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 | 2022-09-06 | 2023-01-06 |
 | [Anda Sola](https://open.spotify.com/track/2wyw4eQ2SfIYfm1vxCgYI0) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:20 | 2022-09-08 | 2022-12-03 |
 | [Antes](https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 3:26 | 2022-09-08 | 2022-09-24 |
 | [Asesina \- Original mix](https://open.spotify.com/track/6PniMs08lEakpuRp2nsMGv) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Barloe Team](https://open.spotify.com/artist/4okiIReqptfBJ5UULmWycZ) | [Asesina](https://open.spotify.com/album/0Xr2X0dAUZK8H0RXXRncm4) | 3:07 | 2022-03-21 | 2022-08-20 |
@@ -241,7 +241,7 @@
 | [Salio El Sol](https://open.spotify.com/track/5rR3EYcEqhnDO2SuBZvPin) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/2ah0xzOU2sqN46Lc665g0Z) | 5:15 | 2022-07-27 | 2022-07-29 |
 | [Salió El Sol](https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 5:15 | 2022-07-27 | 2022-08-20 |
 | [Santa Diabla](https://open.spotify.com/track/0WT4Lp0IFGoBgmpThJ4dM4) | [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [R3YMON](https://open.spotify.com/artist/45Jwf9oxDTS2ZE1wPdVyo5) | [Santa Diabla](https://open.spotify.com/album/4s1MrCCqC5XjU9uXhrPXUd) | 3:16 | 2022-08-19 | 2022-09-09 |
-| [Se Enamoró de un Reggaetonero](https://open.spotify.com/track/0dlEA0Yhxsd09QWncDvaXF) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Full Discoteka](https://open.spotify.com/album/2BocamJ6jCNKUzUJQ88PRj) | 2:15 | 2022-07-19 | 2022-09-09 |
+| [Se Enamoró de un Reggaetonero](https://open.spotify.com/track/0dlEA0Yhxsd09QWncDvaXF) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Full Discoteka](https://open.spotify.com/album/2BocamJ6jCNKUzUJQ88PRj) | 2:15 | 2022-07-19 |  |
 | [Se Le Ve](https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Se Le Ve](https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s) | 4:37 | 2022-03-21 | 2022-12-31 |
 | [Se Menea](https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Se Menea](https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5) | 3:10 | 2022-09-08 |  |
 | [Se Vive](https://open.spotify.com/track/7bO8DJ5j5yAB6UUP0j0t1c) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Ch12](https://open.spotify.com/artist/3gvFr8y3T5ctUErKSK5ivj), [Dayme y El High](https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96) | [Se Vive](https://open.spotify.com/album/7DjMB57zSueCKPMLb4uANC) | 2:56 | 2022-09-23 | 2022-10-26 |

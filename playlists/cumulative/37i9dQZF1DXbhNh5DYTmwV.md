@@ -4,7 +4,7 @@
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-85 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/2gT9p9h2AT84oVHAfgpUfs)
+85 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

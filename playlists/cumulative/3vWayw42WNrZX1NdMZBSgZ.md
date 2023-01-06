@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Joel DELEÓN
 
-382 songs - 20 hr 50 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+382 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

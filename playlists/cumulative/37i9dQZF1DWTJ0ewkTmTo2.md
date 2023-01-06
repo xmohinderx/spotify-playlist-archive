@@ -4,7 +4,7 @@
 
 > Get ready to sing your hearts out with these family friendly road trip classics.
 
-127 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/4fDWxJj9KLC6huuZSur4Fn)
+127 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

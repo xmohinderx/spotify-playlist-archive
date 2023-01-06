@@ -4,7 +4,7 @@
 
 > Turn the energy levels up and join the party wherever you are!
 
-313 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/1PuNlNfn3dc6Go7OukEidr)
+313 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

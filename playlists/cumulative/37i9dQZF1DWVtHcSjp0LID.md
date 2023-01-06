@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-144 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/4Ud7MY5W4nOplTDwiMvpxk)
+144 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

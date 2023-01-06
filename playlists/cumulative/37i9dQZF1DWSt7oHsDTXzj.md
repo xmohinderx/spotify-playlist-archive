@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-197 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
+198 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Christmas](https://open.spotify.com/track/58GbkmmdAijG6dAhnDYOaq) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/1twjpC9pXPmQBgXLqSeM8S) | 2:29 | 2021-11-12 | 2022-09-06 |
 | [Christmas](https://open.spotify.com/track/6k6uI1K7EWK0UsSpqtHpoX) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/2h5X4I201MIi7pv4lNCezO) | 2:29 | 2021-11-12 | 2022-07-25 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6Sm0Og9VDRjDWPQnERgPtd) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [A Christmas Gift For You From Moshi Moshi](https://open.spotify.com/album/1U4GkkVM8gk4WzBLxdNfR6) | 2:49 | 2021-11-12 | 2022-07-18 |
-| [Christmas \(Baby Please Come Home\) \- Recorded at Electric Lady Studios in NYC](https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp) | 3:23 | 2022-12-23 |  |
+| [Christmas \(Baby Please Come Home\) \- Recorded at Electric Lady Studios in NYC](https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp) | 3:23 | 2022-12-23 | 2023-01-06 |
 | [Christmas Caller](https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Christmas Caller](https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv) | 2:15 | 2021-12-03 |  |
 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 | 2022-12-23 |  |
 | [Christmas Eve \(Soul Purpose\)](https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 3:45 | 2021-11-12 | 2022-12-29 |
@@ -168,6 +168,7 @@
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5PLycideUdqJhZlNOn7DKh) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/2HvjWs3N4yuO6ie8tdGhMC) | 5:17 | 2021-11-12 | 2022-07-27 |
 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2022-11-11 |  |
 | [The Loneliest Christmas](https://open.spotify.com/track/0GJC2CqdaMPMPxrdATNl65) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ), [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [The Loneliest Christmas](https://open.spotify.com/album/1ehSsoiUERBfN9b2YO5tBv) | 2:08 | 2021-11-12 | 2022-07-28 |
+| [The New Year](https://open.spotify.com/track/4Y2cR1AEADE6FyNVnuaWhZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 4:06 | 2022-12-23 |  |
 | [The White Season](https://open.spotify.com/track/27KvxFbpLDLeKajJSxHBFE) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Creatures of an Hour](https://open.spotify.com/album/2KTTWvdCwPakrp3AVcsUQC) | 2:51 | 2021-11-12 | 2022-07-24 |
 | [The White Season](https://open.spotify.com/track/00nHwKHbwy33Q8Eo3OB86u) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Creatures of an Hour](https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU) | 2:53 | 2021-11-12 | 2022-09-30 |
 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 | 2021-12-09 |  |

@@ -4,7 +4,7 @@
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-33 songs - 2 hr 0 min - [published](https://open.spotify.com/playlist/6UIyQ5VyY3HdaXY64zHqcW)
+33 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

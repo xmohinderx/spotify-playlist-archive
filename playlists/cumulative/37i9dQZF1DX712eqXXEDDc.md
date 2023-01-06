@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MM3uKNdJbvefUael12dl3">Rochelle Jordan</a>'s track IDs\. Updated regularly\. Curated by Rochelle Jordan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-62 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/4yHQ5aR7u9UqPIjg8sOxOn)
+62 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

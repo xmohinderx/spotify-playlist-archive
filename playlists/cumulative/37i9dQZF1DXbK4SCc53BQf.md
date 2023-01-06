@@ -4,7 +4,7 @@
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-77 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/1P9HnMPWIfefmYhkHJJ7tn)
+77 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

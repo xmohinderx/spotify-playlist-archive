@@ -1,11 +1,26 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Serge Beynaud",
+  "description": "African dance party music from Paris to Abidjan. Photo : Magic Diezel",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
-  "published_playlist_ids": [
-    "05NUJhg2S8ET7TkDhLag5G"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "+225",
+        "url": "https://open.spotify.com/album/2HS0I5VJWUnsDOdEBeYr5K"
+      },
+      "artists": [
+        {
+          "name": "Magic Diezel",
+          "url": "https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231194,
+      "name": "225",
+      "url": "https://open.spotify.com/track/6f7yT22j7VT5KrYLFBdmbk"
+    },
     {
       "album": {
         "name": "Abacou",
@@ -539,7 +554,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 180532,
       "name": "Dora Dance",
       "url": "https://open.spotify.com/track/7JnUwdaJ0FZWfJOCwDglWg"
@@ -896,6 +911,28 @@
     },
     {
       "album": {
+        "name": "Kindotila (Remix)",
+        "url": "https://open.spotify.com/album/1TMpL7PorVe5YKhc2zlf3L"
+      },
+      "artists": [
+        {
+          "name": "Yvane Kouame",
+          "url": "https://open.spotify.com/artist/3C5aa2x3FFL4JdVjXKJYwP"
+        },
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161231,
+      "name": "Kindotila - Remix",
+      "url": "https://open.spotify.com/track/0ZxIKjaUl31uLgla5QJILZ"
+    },
+    {
+      "album": {
         "name": "Kong",
         "url": "https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6"
       },
@@ -1131,7 +1168,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 225230,
       "name": "Le nyama",
       "url": "https://open.spotify.com/track/621TMPiRb7R5dg9p2ECBW8"
@@ -1290,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Mon gar",
+        "url": "https://open.spotify.com/album/7KSSQ9nredhRwgVpwU6jBe"
+      },
+      "artists": [
+        {
+          "name": "Yilim",
+          "url": "https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Mon gar",
+      "url": "https://open.spotify.com/track/2OtsMf8cvkkogm5yJZyh44"
+    },
+    {
+      "album": {
         "name": "Mon nom",
         "url": "https://open.spotify.com/album/7cbpbkoPQ5NkKZ6rmDRjcd"
       },
@@ -1323,6 +1378,32 @@
       "duration_ms": 220235,
       "name": "MOTIVATION",
       "url": "https://open.spotify.com/track/5hS82eevCQ6KEToDTjJ9jz"
+    },
+    {
+      "album": {
+        "name": "Mozo Dance",
+        "url": "https://open.spotify.com/album/4CfE5TqPCpZTJ5YvKAZhVb"
+      },
+      "artists": [
+        {
+          "name": "Ramses Tikaya",
+          "url": "https://open.spotify.com/artist/0q00AIYSAbXj18rBqWCYT1"
+        },
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        },
+        {
+          "name": "Pikatchou Le Moine",
+          "url": "https://open.spotify.com/artist/2I1IZqjxZgLQmBSkk7LZl2"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Mozo Dance",
+      "url": "https://open.spotify.com/track/0dwgVvBmuaoiJJUOkNS8VX"
     },
     {
       "album": {
@@ -1587,7 +1668,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 215666,
       "name": "Statut vis\u00e9",
       "url": "https://open.spotify.com/track/6TDLNk7EqIR9QJXKl3zDQP"
@@ -1671,7 +1752,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 233999,
       "name": "Tala n'dil\u00e9",
       "url": "https://open.spotify.com/track/71OGTXMcbDSajFHTEv7RNC"

@@ -4,7 +4,7 @@
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-118 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/6IxMgm3Cmj6134xqBls034)
+118 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

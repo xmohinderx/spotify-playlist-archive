@@ -4,7 +4,7 @@
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/34gmDNfcLmugl6uIF1DSQm)
+66 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-56 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/4XTbJ3yoSja9uWVXymVuB5)
+56 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

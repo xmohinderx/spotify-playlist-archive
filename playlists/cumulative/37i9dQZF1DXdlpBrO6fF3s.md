@@ -4,7 +4,7 @@
 
 > I'm The One! A TEEnager Z is here.
 
-104 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/2ZfBUnJ6uWG5YMir0Zq40K)
+104 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 結集香港EQUAL女聲力量！\(cover: Anna hisbbuR\)
 
-222 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/3fyf9kJjwMb77gM8igxXJz)
+222 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

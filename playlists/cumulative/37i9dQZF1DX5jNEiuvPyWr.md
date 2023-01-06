@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : So La Lune
+> Le meilleur du rap français version cloud\. Photo : Moha MMZ
 
-127 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
+128 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1jour](https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb) | [Simili Gum](https://open.spotify.com/artist/20ZFMIA16SxwO2NGFmw7vS) | [prepa21](https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw) | 2:49 | 2022-10-13 | 2022-12-09 |
 | [A toute vitesse](https://open.spotify.com/track/4phmBSG3bn6OC5Cs6QunPl) | [Seizur](https://open.spotify.com/artist/0T78Z9fFMf6PfPYMybM0ZF) | [A toute vitesse](https://open.spotify.com/album/1tFG0ErIbNpLaT9OeufOI4) | 2:52 | 2022-12-01 |  |
 | [A7](https://open.spotify.com/track/2wYqPFq90ncbRAuQdqzaZM) | [La formule](https://open.spotify.com/artist/5YGnhKKWnnlfVGHzwO9Vly), [BlackTria](https://open.spotify.com/artist/56GVzeiYe2ZH3iiNMkmbQs) | [46.96.](https://open.spotify.com/album/7IxL0jXySiOuAfl95Zy0uz) | 2:41 | 2022-09-29 | 2022-10-28 |
+| [Aimons\-nous vivants](https://open.spotify.com/track/6tkYlbsNN6crQj12xjSHdH) | [Seizur](https://open.spotify.com/artist/0T78Z9fFMf6PfPYMybM0ZF) | [Aimons\-nous vivants](https://open.spotify.com/album/4BRpzc1UlPvVUwT5OSGBLL) | 3:01 | 2023-01-05 |  |
 | [Alita \(feat\. Rounhaa\)](https://open.spotify.com/track/2QpRNqd5FP0XQqRCYl2wno) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C), [Leith](https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT), [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe) | [Le soleil se lèvera à l'Ouest](https://open.spotify.com/album/59tsNmPW5twlP1slvr7Lz9) | 3:58 | 2022-11-24 |  |
 | [Alita \(feat\. Rounhaa\)](https://open.spotify.com/track/4RV2l9VHEPYrUXZXdiusEy) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C), [Leith](https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT), [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe) | [Le soleil se lèvera à l'Ouest](https://open.spotify.com/album/6Jtz2endgOr6QYkPhBulKt) | 3:58 | 2022-10-27 | 2022-11-30 |
 | [ALO](https://open.spotify.com/track/2gVEgY3FxEL8R4frXffu6E) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [ALO](https://open.spotify.com/album/3RVYGYZWzZsz2grcl5CWqw) | 3:32 | 2022-12-08 |  |
@@ -134,6 +135,6 @@
 | [Warzone](https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Warzone](https://open.spotify.com/album/3dcDVMzfWhzA8JwE2HIZD7) | 3:14 | 2022-10-20 |  |
 | [¥2S °6 : ZLM](https://open.spotify.com/track/2gVBlMRlzAPjt6e4oljra4) | [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [¥2S °6 : ZLM](https://open.spotify.com/album/0lJUtwW9eGdcbJYswcujWa) | 2:14 | 2022-07-14 | 2022-07-29 |
 | [Âmes perdues](https://open.spotify.com/track/7zUgId6sQBSyaaBXbbiIf3) | [joysad](https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z) | [Transparent](https://open.spotify.com/album/4C8YgxhvIVBVPN5RvUG3hm) | 3:12 | 2022-10-20 |  |
-| [Ça fait longtemps](https://open.spotify.com/track/41yHBw1H6W4Ny5lmiiAG7V) | [BOUB'Z](https://open.spotify.com/artist/1QMdau3cUloTZtR7JXpBLH), [Yanso](https://open.spotify.com/artist/1mAdVbvz1w6v9I5iGxRtnE) | [Ça fait longtemps](https://open.spotify.com/album/2LmWQYHjovtF1vneboqvAp) | 3:12 | 2022-12-01 |  |
+| [Ça fait longtemps](https://open.spotify.com/track/41yHBw1H6W4Ny5lmiiAG7V) | [BOUB'Z](https://open.spotify.com/artist/1QMdau3cUloTZtR7JXpBLH), [Yanso](https://open.spotify.com/artist/1mAdVbvz1w6v9I5iGxRtnE) | [Ça fait longtemps](https://open.spotify.com/album/2LmWQYHjovtF1vneboqvAp) | 3:12 | 2022-12-01 | 2023-01-06 |
 
 \*This playlist was first scraped on 2022-07-17. Prior content cannot be recovered.

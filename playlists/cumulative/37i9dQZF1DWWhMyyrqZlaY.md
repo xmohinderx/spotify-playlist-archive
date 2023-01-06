@@ -4,7 +4,7 @@
 
 > Los corridos más placosos que suenan en las calles\. Gabito Ballesteros en portada.
 
-89 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
+89 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

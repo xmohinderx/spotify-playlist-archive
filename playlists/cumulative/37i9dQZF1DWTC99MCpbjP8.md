@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-412 songs - 18 hr 3 min - [published](https://open.spotify.com/playlist/0sIE9FQkVbWlp9u6z9Quwo)
+412 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

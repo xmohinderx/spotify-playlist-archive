@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-276 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+276 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

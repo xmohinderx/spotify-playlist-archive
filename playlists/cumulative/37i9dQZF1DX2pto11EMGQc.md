@@ -4,7 +4,7 @@
 
 > Here's to the groom! Enjoy your day with the boys!
 
-185 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/2AALAexeFCpJZligRx3g09)
+185 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

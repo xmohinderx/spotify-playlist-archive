@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-136 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+136 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

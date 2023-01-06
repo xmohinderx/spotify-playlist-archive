@@ -4,7 +4,7 @@
 
 > Fresh Finds Indonesia mempersembahkan: angkatan 2022 yang bersinar\. \#SpotifyWrapped Cover: Bernadya
 
-1,311 songs - 3 day 8 hr 9 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+1,311 songs - 3 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

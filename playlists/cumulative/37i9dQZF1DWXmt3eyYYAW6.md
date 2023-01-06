@@ -4,7 +4,7 @@
 
 > Conversations on health and fitness, plus tips to jumpstart a new and improved lifestyle.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/5E2DpxnMj4wt4TAU8cpGaL)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

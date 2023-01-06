@@ -4,7 +4,7 @@
 
 > Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.
 
-85 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/2T8me0cRpLc4lIStz2qLuB)
+85 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

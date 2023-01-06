@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-99 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/2aC5BPUM0MsoTBT2ZjgARC)
+99 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

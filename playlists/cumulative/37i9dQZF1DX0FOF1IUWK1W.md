@@ -2,9 +2,9 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> WIU e os maiores hits do país\. O que tá bombando tá aqui.
+> Marília Mendonça e os maiores hits do país\. O que tá bombando tá aqui.
 
-176 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/6OWNwCnpZnna609PoaFgfo)
+177 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4), [DJ Bel da CDD](https://open.spotify.com/artist/6cBgK7jLKrcynjD5E6mKNu), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/album/4aLn9qslaoycfYA4NzXLp4) | 1:55 | 2022-04-14 | 2022-07-08 |
 | [Deus É o Meu Guia](https://open.spotify.com/track/4BfppnNi6ZQTI8Ezo97zX6) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Deus É o Meu Guia](https://open.spotify.com/album/5hBNe9L3XC3xU4pDZUtNm3) | 2:46 | 2022-03-10 | 2022-04-08 |
 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 | 2022-06-30 | 2022-07-29 |
+| [DONA DE MIM](https://open.spotify.com/track/7sopDXkuzXtHt8AQpdBxmT) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [DONA DE MIM](https://open.spotify.com/album/6gUUHKk5qcIHyffnbfApNO) | 2:25 | 2023-01-05 |  |
 | [Ela e Ela](https://open.spotify.com/track/5Yu1AOnIzC1tWRJ4U0uW7u) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:48 | 2022-01-17 | 2022-04-02 |
 | [Ela me Falou Que Quer Rave](https://open.spotify.com/track/0JdkDCdrhMOaeXjIZdeBXN) | [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [DJ Nikolas Alves Exclusive](https://open.spotify.com/artist/23buF7CmOZll8oQveAvsut), [DJ Kaioken](https://open.spotify.com/artist/1aQbanZ6xPrOtTYtsMdm3Q), [DJ Gege](https://open.spotify.com/artist/2BvV4u6AUwFCrAriUIo9Sm) | [Ela me Falou Que Quer Rave](https://open.spotify.com/album/7oquoqetiWHdL6JIp7LrEw) | 3:55 | 2022-01-17 | 2022-02-25 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-17 | 2022-06-10 |
@@ -97,7 +98,7 @@
 | [Hotel Caro](https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Hotel Caro](https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU) | 3:41 | 2022-06-16 | 2022-08-26 |
 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 | 2022-01-27 | 2022-04-22 |
 | [Imagina A Sentada \- Ao Vivo](https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada \(Ao Vivo\)](https://open.spotify.com/album/0SAMg0b9QbopaOj0ClEwiq) | 2:52 | 2022-01-17 | 2022-06-03 |
-| [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 | 2022-11-17 |  |
+| [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 | 2022-11-17 | 2023-01-06 |
 | [Incendeia](https://open.spotify.com/track/4m1mqQuy34Nzh0480VR364) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Incendeia](https://open.spotify.com/album/6ljtMl412BhgFRHmfxrXYm) | 3:59 | 2022-07-21 | 2022-12-31 |
 | [Insônia \- Ao vivo](https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:01 | 2022-09-01 | 2022-11-18 |
 | [Kikando e Me Olhando](https://open.spotify.com/track/4a0sqvCBo7aRIS4GzBQpnp) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [Kikando e Me Olhando](https://open.spotify.com/album/0f8qsGhJ3RZf4ol3YqIuMw) | 3:30 | 2022-04-28 | 2022-11-12 |

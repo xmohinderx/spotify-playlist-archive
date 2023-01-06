@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: <b>Margo Cilker</b>
 
-125 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
+125 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

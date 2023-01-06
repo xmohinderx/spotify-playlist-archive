@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Mike Bahía
 
-116 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/2tB1ux7wGPv1Xl4KlF6iA7)
+116 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > These early pioneers brought the underground to the foreground\. Cover: Lou Reed.
 
-172 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/1biJVwGgudNJMTh4YCWUBg)
+172 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

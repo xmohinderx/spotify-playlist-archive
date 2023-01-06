@@ -4,7 +4,7 @@
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/7G8o4dvFn1kxELCECehqiI)
+60 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

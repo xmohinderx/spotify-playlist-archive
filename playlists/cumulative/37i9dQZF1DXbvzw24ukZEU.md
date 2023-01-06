@@ -4,7 +4,7 @@
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2010s.
 
-122 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/3FGOdzBhTAyW8zf7DnlUoN)
+122 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The inspiration to be who you truly are—that’s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.
 
-36 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/2D6Av3yzPkip4DMqjTyV9j)
+36 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

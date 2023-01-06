@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-330 songs - 1 day 0 hr 59 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
+330 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

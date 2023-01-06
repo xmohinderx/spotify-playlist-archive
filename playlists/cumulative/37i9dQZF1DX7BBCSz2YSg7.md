@@ -4,7 +4,7 @@
 
 > The rising Turkish DJ and Producer <a href="spotify:artist:1GVbOnrND8b3eh2JZ4opw8">Carlita</a> explores different styles of electronic music in this dynamic mix for Spotify.
 
-14 songs - 59 min 21 sec - not published yet
+14 songs - 59 min 21 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

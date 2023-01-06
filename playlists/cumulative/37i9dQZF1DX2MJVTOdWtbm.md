@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior H
 
-218 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/6BABfI7FRig6PawzmBqz25)
+218 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

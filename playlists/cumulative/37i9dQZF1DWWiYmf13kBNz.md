@@ -4,7 +4,7 @@
 
 > Feels like falling in love in the 50s
 
-73 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/71EBeOlWC7ZeNvRW4kIx3E)
+73 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-70 songs - 4 hr 8 min - not published yet
+70 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

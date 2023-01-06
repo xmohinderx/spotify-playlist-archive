@@ -4,7 +4,7 @@
 
 > Tú me dejaste caer pero el perreo me levantó.
 
-106 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/4nbwOwZnCF2dm0Bx957Lwz)
+106 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

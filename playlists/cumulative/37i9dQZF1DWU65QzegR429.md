@@ -4,7 +4,7 @@
 
 > Latin music making waves\. Cover: Jenn Morel
 
-108 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/0zMa04VYLgYObHIDHZsMot)
+108 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

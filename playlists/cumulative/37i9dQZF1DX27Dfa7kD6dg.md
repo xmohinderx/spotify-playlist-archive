@@ -4,7 +4,7 @@
 
 > New York salsa...it's home.
 
-169 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/7Az1DHHabnSiAJM8PmKhAj)
+169 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

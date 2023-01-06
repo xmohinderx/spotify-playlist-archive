@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-293 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/54I04EmnPnUUEk8lPEzRH1)
+293 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

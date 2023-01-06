@@ -4,7 +4,7 @@
 
 > A playlist to get you through your whole workday.
 
-389 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/3C6WbDdRTToG5FIYL3Fv3Q)
+389 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The reputable supergroup, <a href="spotify:artist:2exkZbmNqMKnT8LRWuxWgy">Moderat</a>, build a special & eclectic experience with their downtempo electronic mix.
 
-18 songs - 51 min 11 sec - not published yet
+18 songs - 51 min 11 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

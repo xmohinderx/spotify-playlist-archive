@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-824 songs - 2 day 0 hr 57 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+826 songs - 2 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Afterglow](https://open.spotify.com/track/0AQDhFnLUd32C8y3cjje9g) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Afterglow](https://open.spotify.com/album/7aPvB6eRHfZCJvBcYHJEV5) | 3:33 | 2021-12-21 |  |
 | [Aika](https://open.spotify.com/track/6A3ObfWqITF7hnfnwJFasZ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Aika](https://open.spotify.com/album/62w4aNA0XYwzfCkekH7wJQ) | 2:53 | 2022-03-24 | 2022-04-21 |
 | [Alaska](https://open.spotify.com/track/3Ek7jLGOKPmLeILZDWJw09) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Alaska](https://open.spotify.com/album/2uEU5UuZZ57MRlKRMuxN45) | 2:21 | 2021-12-21 | 2022-12-26 |
+| [Alaska](https://open.spotify.com/track/0x1nOGuuxzd8lhJCw7hbHO) | [Kwassa](https://open.spotify.com/artist/29ZiI4pYFArKpFQvHtZg7I) | [Alaska](https://open.spotify.com/album/6Ank0OEOGBECg03QfyRbaN) | 2:21 | 2023-01-02 |  |
 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 | 2022-07-08 |  |
 | [All the Pretty Girls](https://open.spotify.com/track/2eiY8qXiV6yReXSeuoplns) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [All the Pretty Girls](https://open.spotify.com/album/4Q4O06TIoYrl7zzVIOq3OF) | 4:29 | 2022-03-24 | 2022-04-20 |
 | [All These Years \- Acoustic](https://open.spotify.com/track/2LnU1vGhTzfY07720ZUiEK) | [Eva + Manu](https://open.spotify.com/artist/2B5sOQQiIaNLa07zalNGpe) | [All These Years \(Acoustic\)](https://open.spotify.com/album/4X1bCoqcsWI030jsjVX8uI) | 4:12 | 2022-02-03 | 2022-07-26 |
@@ -641,6 +642,7 @@
 | [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2021-12-21 | 2022-12-25 |
 | [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 | 2022-08-12 | 2022-08-23 |
 | [Stay Alive](https://open.spotify.com/track/1STWuVv5dKJABRJROltWFr) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Stay Alive](https://open.spotify.com/album/6i7Blm3uQosKZSQo57ewqL) | 3:53 | 2022-02-24 | 2022-12-25 |
+| [Stay Alive \- Cover](https://open.spotify.com/track/0cm34ja39LyPxK2oddv90s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Stay Alive \(COVERS\)](https://open.spotify.com/album/3I1ZWDd8jAs6aztutLGVDm) | 3:53 | 2023-01-02 |  |
 | [Stay Low](https://open.spotify.com/track/2zMa3j2F2h4UJbhpXivD3S) | [In Memoirs](https://open.spotify.com/artist/1LZevuTucGb3IEb84enBNt) | [Hope, Fear & Fashion](https://open.spotify.com/album/6nTvklCSNP03q78ix8Dh58) | 4:07 | 2022-05-13 | 2022-11-13 |
 | [Stay The Way I Left You \(feat\. Dahl\)](https://open.spotify.com/track/1wT9hNHjSdpKAK8ysEdAg7) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [Late Teens / Early Twenties](https://open.spotify.com/album/0HTwVQTBJLcpgvgtf78j55) | 2:12 | 2022-07-08 |  |
 | [Stay The Way I Left You \(feat\. Dahl\)](https://open.spotify.com/track/4Eyid2OjeyXZ2fQ8eELXMi) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [Late Teens / Early Twenties… Stay The Way I Left You](https://open.spotify.com/album/0dhxCW84HD7542YTTuxSce) | 2:12 | 2022-01-05 | 2022-07-29 |
@@ -657,7 +659,7 @@
 | [Strangers](https://open.spotify.com/track/3q2T2qecCAnj7XlpUnLbBW) | [eliza elliott](https://open.spotify.com/artist/0HLxtYwwRy4qx1r8utJRAq), [Leuca](https://open.spotify.com/artist/3wCg2Idgypg6OjA0uDYctR) | [Strangers](https://open.spotify.com/album/3TKvUsHoRI6haq2QbHZsdK) | 3:29 | 2022-01-07 | 2022-11-14 |
 | [Such A Simple Thing \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Spotify Singles](https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu) | 5:07 | 2022-01-07 |  |
 | [Summer Guest](https://open.spotify.com/track/2x4DW2FItY2bHdOvEm30kM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence](https://open.spotify.com/album/69ca0kNrnT5F8jvzNpEjD8) | 3:44 | 2022-03-24 | 2022-04-20 |
-| [Summer's Gone](https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy) | [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Summer's Gone](https://open.spotify.com/album/0OsygaGp6HUB4fmdPPgQOh) | 3:24 | 2022-03-24 |  |
+| [Summer's Gone](https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy) | [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Summer's Gone](https://open.spotify.com/album/0OsygaGp6HUB4fmdPPgQOh) | 3:24 | 2022-03-24 | 2023-01-06 |
 | [Sunburn](https://open.spotify.com/track/0pgQVwI3EASJPbovhNC7Up) | [Badley](https://open.spotify.com/artist/2mnmAUiXWb5Xck3XvpU99C) | [Sunburn](https://open.spotify.com/album/0oXafULnvTaiFXCGs466Pm) | 3:39 | 2022-03-24 | 2022-03-27 |
 | [Sunlight](https://open.spotify.com/track/0RHeh77ZQtP5Q3IZIjwqPc) | [G Voz](https://open.spotify.com/artist/1J4opZ8obcxOkZ8w0z64BC) | [Rehad](https://open.spotify.com/album/4X7O8eRZUQdMFvUznYK3dr) | 3:45 | 2021-12-21 | 2022-07-27 |
 | [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2022-03-24 | 2022-04-01 |
@@ -690,7 +692,7 @@
 | [The Longer I Run](https://open.spotify.com/track/03czT1nVZDRv2JlpY2GxON) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [Leavetaking](https://open.spotify.com/album/0zRutLrFlSibd97Vgzk83K) | 4:11 | 2022-12-02 |  |
 | [the moment \- acoustic](https://open.spotify.com/track/4b9V2ARN8RJxGDrGAoXR8i) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [the moment \(acoustic\)](https://open.spotify.com/album/66D5NgsCMW3RJXGYqAIkRQ) | 3:10 | 2022-02-28 | 2022-04-02 |
 | [The Night We Met \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 3:28 | 2022-01-07 |  |
-| [The Original](https://open.spotify.com/track/0i2G4EegdQ7aO0NnjBJt3R) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Paperweights](https://open.spotify.com/album/0zD4E1M4PjCAH6qZkXS2Fv) | 2:56 | 2022-07-08 |  |
+| [The Original](https://open.spotify.com/track/0i2G4EegdQ7aO0NnjBJt3R) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Paperweights](https://open.spotify.com/album/0zD4E1M4PjCAH6qZkXS2Fv) | 2:56 | 2022-07-08 | 2023-01-06 |
 | [The Original](https://open.spotify.com/track/2amZYLlA7PTIaGBw6UTb8r) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Paperweights](https://open.spotify.com/album/4SmvnEtybgsOaMxdUekOXA) | 2:56 | 2022-03-24 | 2022-04-21 |
 | [The Other Side](https://open.spotify.com/track/4k66Uq8WI1MXVWnbxvYjtx) | [Lydia Kaseta](https://open.spotify.com/artist/0raB78RFxZwDhT8LQFtahl) | [The Other Side](https://open.spotify.com/album/1rsv2XAhxL37nHrsFbPEWC) | 4:20 | 2022-03-24 | 2022-04-01 |
 | [The Other Side \(As the Sun Comes Up\)](https://open.spotify.com/track/2Oni7JsrxjPxl7qDJwD8Kh) | [Lydia Kaseta](https://open.spotify.com/artist/0raB78RFxZwDhT8LQFtahl) | [The Other Side \(As the Sun Comes Up\)](https://open.spotify.com/album/2lIxAt8sf6wrmxoVeXbemm) | 4:01 | 2022-03-24 | 2022-04-06 |

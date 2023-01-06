@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,312 likes - 1,167 songs - 3 day 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,398 likes - 1,167 songs - 3 day 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -664,7 +664,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 654 | [Laylat Al Jadba](https://open.spotify.com/track/0UMsDh8LuS8DN4yWBzS5ZK) | [Fadoul](https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9) | [Al Zman Saib \(Habibi Funk 002\)](https://open.spotify.com/album/4GmHNGzQyJWr2sFZqvQTyZ) | 5:12 |
 | 655 | [El Mezcalero](https://open.spotify.com/track/5fbYXjM25wz87jziZ8P4Hz) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Selva Selects: Thunderclaps](https://open.spotify.com/album/4pGThTvO9MbuNeJqO4T7s6) | 2:35 |
 | 656 | [Iko Iko](https://open.spotify.com/track/0hc44Di7G79vgVhwEwgZbJ) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [The Very Best of The Dixie Cups: Chapel of Love](https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8) | 2:06 |
-| 657 | [I Love Music \- Umoja Edit](https://open.spotify.com/track/1WMJQKsYV5ZrBAW0ayHJSK) | [The Sumo Brothers](https://open.spotify.com/artist/3RcP5YGPY95XRxwmwvTzpv), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Ivory Coast Soul Edits](https://open.spotify.com/album/0H1jcfsOknvMhOBYCUInHy) | 5:44 |
+| 657 | [I Love Music \- Umoja Edit](https://open.spotify.com/track/4ARKWFPq1w1o6rDeNeEh7B) | [The Sumo Brothers](https://open.spotify.com/artist/3RcP5YGPY95XRxwmwvTzpv), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Hot Casa Records, Vol\. 1](https://open.spotify.com/album/3pdmm1aqnSNlG6ckV2vhIP) | 5:44 |
 | 658 | [Candela](https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 5:27 |
 | 659 | [Lady Rain](https://open.spotify.com/track/0CzoQCylIwa6OXUACZY935) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 2:10 |
 | 660 | [I Want You Back](https://open.spotify.com/track/4Pt5fmpEyGL70yXOxUYVNI) | [Esso Trinidad Steel Band](https://open.spotify.com/artist/0cMTpw95Av39PkJH3VAo39) | [Esso Trinidad Steel Band](https://open.spotify.com/album/49Jdj6U9Cfj3d8bhcdc1M8) | 2:17 |
@@ -1176,4 +1176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1166 | [Lluvia con Nieve](https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averiguá](https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY) | 2:57 |
 | 1167 | [Bakara](https://open.spotify.com/track/5Sl1RVQbD9PigheYMG7yAP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle \(Deluxe\)](https://open.spotify.com/album/50ZFAeGxaNWSMjHfQOkzJK) | 7:01 |
 
-Snapshot ID: `MTY3MTUzNzMzNywwMDAwMDAwMGM5NWNlY2U2ZjI3NDVkOTBmNjM5ODUxODkzMzNjNDg2`
+Snapshot ID: `MTY3MTUzNzMzNywwMDAwMDAwMDgzZjY4OTEzMDE0ODYxZTlhOTNmOWFkZjk4OGU3OTZj`

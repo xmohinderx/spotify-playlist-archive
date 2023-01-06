@@ -4,7 +4,7 @@
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-206 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/23zEVepwBB32oB0jy81C3a)
+206 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Cover: Shiva",
+  "description": "La casa dello street rap italiano. Cover: Nabi",
   "name": "Street Culto",
-  "published_playlist_ids": [
-    "2xFrA1gU60YSyblsw3BI3i"
-  ],
   "tracks": [
     {
       "album": {
@@ -2117,7 +2114,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 121180,
       "name": "IO SONO SOLO",
       "url": "https://open.spotify.com/track/3PLAzqGszMpBvewKKI66vA"
@@ -2473,6 +2470,24 @@
       "duration_ms": 212284,
       "name": "Lei (feat. Ben\u00e9)",
       "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
+    },
+    {
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162992,
+      "name": "MARADONA",
+      "url": "https://open.spotify.com/track/1Bf3WnU7Y6YGP0k4RbbErB"
     },
     {
       "album": {
@@ -2896,6 +2911,28 @@
     },
     {
       "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159036,
+      "name": "NON CI TORNI PI\u00d9 (feat. Paky)",
+      "url": "https://open.spotify.com/track/7z8jf3dtJPXUxlc9xJCKEh"
+    },
+    {
+      "album": {
         "name": "Non \u00e8 Easy",
         "url": "https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP"
       },
@@ -2911,6 +2948,28 @@
       "duration_ms": 164657,
       "name": "Non \u00e8 Easy",
       "url": "https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg"
+    },
+    {
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "NUN SE VER (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2Buy0H2VxXZ8bmTp1fH5UA"
     },
     {
       "album": {
@@ -2985,7 +3044,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 168527,
       "name": "PARA",
       "url": "https://open.spotify.com/track/6sirNLUKtMOZWOJuQUputH"
@@ -3487,7 +3546,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 165405,
       "name": "Sexy Jersey",
       "url": "https://open.spotify.com/track/2ITfoGfIJOZ6iyu4C5GFvh"

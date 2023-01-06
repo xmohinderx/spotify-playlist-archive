@@ -4,7 +4,7 @@
 
 > Sway your way through the evening.
 
-212 songs - 13 hr 0 min - [published](https://open.spotify.com/playlist/1yEsj7P9XfDpVu6i8GE8Qq)
+212 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Babasónicos.
 
-119 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/3Hz5XnPKhoCMvogn26Eynm)
+119 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

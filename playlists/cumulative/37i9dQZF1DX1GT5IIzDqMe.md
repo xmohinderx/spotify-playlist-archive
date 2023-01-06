@@ -4,7 +4,7 @@
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-67 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/5JHgeYLsYwT2eXjUytLgX7)
+67 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

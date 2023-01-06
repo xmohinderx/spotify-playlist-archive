@@ -1,12 +1,12 @@
 {
   "description": "ft. 100 gecs ",
-  "num_followers": 358984,
+  "num_followers": 359250,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2ODM2MCwwMDAwMDAwMGMzNjNlNTAwODU4ODZiMGZlNTUzNjllYmQzOGY2NDUy",
+  "snapshot_id": "MTY3MjkzMTgwNSwwMDAwMDAwMDA5ZjMzMmY3MjViMTdmOTlmMzAyODZlODE1OGUzMmJh",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -45,40 +45,24 @@
       "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
     },
     {
-      "added_at": "2022-12-16 05:26:00",
+      "added_at": "2022-09-23 07:48:00",
       "album": {
-        "name": "majorette",
-        "url": "https://open.spotify.com/album/5R2iszfO4zbVrbjkTqN7Ap"
+        "name": "ABC (feat. Sophia Black)",
+        "url": "https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ"
       },
       "artists": [
         {
-          "name": "angelus",
-          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
         },
         {
-          "name": "4cf",
-          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
+          "name": "Sophia Black",
+          "url": "https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh"
         }
       ],
-      "duration_ms": 188187,
-      "name": "for you",
-      "url": "https://open.spotify.com/track/3G1ng26EFxXcpdNoEneKMF"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Motorola",
-        "url": "https://open.spotify.com/album/39r2qwtznLXOFLYSh2aNOx"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 133280,
-      "name": "Motorola",
-      "url": "https://open.spotify.com/track/0wWbbWBINccmqmpjtfWpVO"
+      "duration_ms": 152361,
+      "name": "ABC (feat. Sophia Black)",
+      "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -101,24 +85,24 @@
       "url": "https://open.spotify.com/track/6eE2XyXIvINbBfu4zaILUX"
     },
     {
-      "added_at": "2022-09-23 07:48:00",
+      "added_at": "2023-01-05 15:16:45",
       "album": {
-        "name": "ABC (feat. Sophia Black)",
-        "url": "https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ"
+        "name": "4get",
+        "url": "https://open.spotify.com/album/6fDcYde0k1VUiSaK5hTCc6"
       },
       "artists": [
         {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+          "name": "Delto",
+          "url": "https://open.spotify.com/artist/1WlSGhncfBqk79KNYuTicp"
         },
         {
-          "name": "Sophia Black",
-          "url": "https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh"
+          "name": "Canna",
+          "url": "https://open.spotify.com/artist/3UQddXFBR9NoYWpcxwAYkh"
         }
       ],
-      "duration_ms": 152361,
-      "name": "ABC (feat. Sophia Black)",
-      "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
+      "duration_ms": 139908,
+      "name": "4get",
+      "url": "https://open.spotify.com/track/2mlgFhBe2shVc1ITY0ri9B"
     },
     {
       "added_at": "2022-12-09 05:25:00",
@@ -139,6 +123,42 @@
       "duration_ms": 138082,
       "name": "Just Another Day - Petal Supply Remix",
       "url": "https://open.spotify.com/track/40DhYNOtlg5vro3eXfp54V"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Motorola",
+        "url": "https://open.spotify.com/album/39r2qwtznLXOFLYSh2aNOx"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 133280,
+      "name": "Motorola",
+      "url": "https://open.spotify.com/track/0wWbbWBINccmqmpjtfWpVO"
+    },
+    {
+      "added_at": "2022-12-16 05:26:00",
+      "album": {
+        "name": "majorette",
+        "url": "https://open.spotify.com/album/5R2iszfO4zbVrbjkTqN7Ap"
+      },
+      "artists": [
+        {
+          "name": "angelus",
+          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
+        },
+        {
+          "name": "4cf",
+          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
+        }
+      ],
+      "duration_ms": 188187,
+      "name": "for you",
+      "url": "https://open.spotify.com/track/3G1ng26EFxXcpdNoEneKMF"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -219,6 +239,22 @@
       "duration_ms": 178615,
       "name": "sex symbol",
       "url": "https://open.spotify.com/track/04IWHcxPerT5PxCIboSPUj"
+    },
+    {
+      "added_at": "2022-11-25 05:02:00",
+      "album": {
+        "name": "short + sweet.\u3002oO",
+        "url": "https://open.spotify.com/album/30GP4icYN3yefbYo3Phl2e"
+      },
+      "artists": [
+        {
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+        }
+      ],
+      "duration_ms": 181031,
+      "name": "short + sweet.\u3002oO",
+      "url": "https://open.spotify.com/track/6Md0EvbTJd4EHBncTHWCDw"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -363,22 +399,6 @@
       "duration_ms": 304366,
       "name": "Sister Species",
       "url": "https://open.spotify.com/track/49aOLd5b1fQQGZ2ILd1k5a"
-    },
-    {
-      "added_at": "2022-11-25 05:02:00",
-      "album": {
-        "name": "short + sweet.\u3002oO",
-        "url": "https://open.spotify.com/album/30GP4icYN3yefbYo3Phl2e"
-      },
-      "artists": [
-        {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
-        }
-      ],
-      "duration_ms": 181031,
-      "name": "short + sweet.\u3002oO",
-      "url": "https://open.spotify.com/track/6Md0EvbTJd4EHBncTHWCDw"
     },
     {
       "added_at": "2022-12-16 05:26:00",

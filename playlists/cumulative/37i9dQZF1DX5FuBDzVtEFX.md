@@ -4,7 +4,7 @@
 
 > Kick back to the soothing sounds of the Ukulele...
 
-66 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/5kx3r9YtSZYk38uX4TbE3b)
+66 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

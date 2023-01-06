@@ -4,7 +4,7 @@
 
 > ¡Los reyes del jaripeo!
 
-149 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/3SaRVa8JMQfFO8EPZXZX8F)
+149 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

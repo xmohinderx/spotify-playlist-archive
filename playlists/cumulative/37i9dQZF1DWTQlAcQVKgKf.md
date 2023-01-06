@@ -4,7 +4,7 @@
 
 > The sexy queen! Check out HyunA's music.
 
-66 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/38arVNbmC65c7x2dHYLugn)
+66 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

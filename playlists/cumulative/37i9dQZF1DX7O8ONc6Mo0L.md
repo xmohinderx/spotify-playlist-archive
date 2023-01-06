@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Kleber Lucas, Caetano Veloso
 
-92 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/2qVFdBscejCMla6A7JhqfJ)
+92 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

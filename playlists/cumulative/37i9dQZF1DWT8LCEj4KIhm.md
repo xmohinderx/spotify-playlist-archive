@@ -4,7 +4,7 @@
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-111 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/0U6BItUewcPTCkrT4zM3lw)
+111 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

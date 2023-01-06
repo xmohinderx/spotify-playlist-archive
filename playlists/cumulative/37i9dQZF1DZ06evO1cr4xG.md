@@ -4,7 +4,7 @@
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-79 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/6uNfSUeWUwsUmVTiqREnOi)
+79 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > All the best classical releases of 2022.
 
-100 songs - 7 hr 32 min - not published yet
+100 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

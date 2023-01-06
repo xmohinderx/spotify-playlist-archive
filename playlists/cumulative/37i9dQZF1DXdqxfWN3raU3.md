@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Nicole Horts en portada.
 
-172 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+172 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

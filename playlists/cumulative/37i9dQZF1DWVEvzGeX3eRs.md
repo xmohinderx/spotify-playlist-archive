@@ -4,7 +4,7 @@
 
 > What we're gonna do right now is go back—back in time\. Here are all your favorite '90s R&B slow jams!
 
-59 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/5GiYoPdEGXgoW4OrhGKFS7)
+59 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Pa' las posadas y las fiestas, canciones navideñas con sazón mexa\. Chiquis en portada.
 
-97 songs - 5 hr 17 min - not published yet
+97 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

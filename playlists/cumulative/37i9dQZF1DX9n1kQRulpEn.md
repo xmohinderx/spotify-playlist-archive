@@ -4,7 +4,7 @@
 
 > A swinging Jazz soundtrack for your drive time.
 
-204 songs - 20 hr 40 min - [published](https://open.spotify.com/playlist/0C5uVtE1kP1r63LtVzXgsK)
+204 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

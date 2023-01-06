@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-178 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/5QvtyB5RVrIoS1lUVpkCdO)
+178 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

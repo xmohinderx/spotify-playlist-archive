@@ -4,7 +4,7 @@
 
 > Hang ten.
 
-212 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
+212 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

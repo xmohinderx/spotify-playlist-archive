@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists. Cover: <a href=\u201cspotify:artist:39i5B6umzWzkfMe12JrMwW\u201d>TiaCorine</a>  ",
-  "num_followers": 33008,
+  "num_followers": 33197,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMDlkYjM0Y2Q0OWYyZTI1M2EyYzkwYTk0ZmRmMjk2ODAx",
+  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMDIzYjM0ZmI5YWM1MTQyNTcwMzY4YzM4NGUzNWVkMDk1",
   "tracks": [
     {
       "added_at": "2023-01-04 05:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "Doesn't Really Matter",
-        "url": "https://open.spotify.com/album/0BFnuCjyfWk2EVc4hyP1Nb"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 132817,
-      "name": "Doesn't Really Matter",
-      "url": "https://open.spotify.com/track/2lu9ElghP2Z0IB0FB6vXAG"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "Today (can't help but cry)",
         "url": "https://open.spotify.com/album/71HtRi6nvIXWQgrgnfz0kb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 252631,
       "name": "Today (can't help but cry)",
       "url": "https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "Doesn't Really Matter",
+        "url": "https://open.spotify.com/album/0BFnuCjyfWk2EVc4hyP1Nb"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 132817,
+      "name": "Doesn't Really Matter",
+      "url": "https://open.spotify.com/track/2lu9ElghP2Z0IB0FB6vXAG"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "Triggers",
-        "url": "https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu"
-      },
-      "artists": [
-        {
-          "name": "Nelccia",
-          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
-        }
-      ],
-      "duration_ms": 155314,
-      "name": "Triggers",
-      "url": "https://open.spotify.com/track/2RefF7OuOYVMNNGfgLWVa3"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/7yfvAWefdUaKlHmVYLPjzR"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 161193,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/5B9HpTPTixssrDSFYE35l7"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "Triggers",
+        "url": "https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu"
+      },
+      "artists": [
+        {
+          "name": "Nelccia",
+          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+        }
+      ],
+      "duration_ms": 155314,
+      "name": "Triggers",
+      "url": "https://open.spotify.com/track/2RefF7OuOYVMNNGfgLWVa3"
     },
     {
       "added_at": "2023-01-04 05:00:00",

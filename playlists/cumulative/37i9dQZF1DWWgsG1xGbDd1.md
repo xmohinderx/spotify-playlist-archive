@@ -4,7 +4,7 @@
 
 > You feel the sun on your face.
 
-99 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/1c2X5gtsaUdjfhq6okPYv2)
+99 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

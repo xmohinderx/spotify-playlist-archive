@@ -4,7 +4,7 @@
 
 > ¡Y qué retumbe la bandona, pariente! Julión Álvarez y su Norteño Banda en portada.
 
-171 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/0LXtInQa0kC0s87IuTby3p)
+171 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

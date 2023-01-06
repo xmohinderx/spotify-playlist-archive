@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-276 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+277 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Stuck In A Loop](https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Stuck In A Loop](https://open.spotify.com/album/0E35wkZniQNbAxGTu8XqeI) | 2:53 | 2022-09-06 |  |
 | [Summer Set Fire to the Rain](https://open.spotify.com/track/4vnPiUc0uJRHnm7vRsrDls) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Horizons / East](https://open.spotify.com/album/6JLTZPPzQDKjv6zkenbZnc) | 4:22 | 2022-02-24 | 2022-05-20 |
 | [Sunday](https://open.spotify.com/track/5KaxxDE0h1Gq3OVCh9h5Ak) | [Sun Puddle](https://open.spotify.com/artist/0RhDTDJ61XsfQPnYqQcPxj) | [Sunday](https://open.spotify.com/album/44RbCgQAyTLFdzYuL1EQgt) | 3:43 | 2022-09-06 |  |
+| [Supernatural](https://open.spotify.com/track/04Ndcc1318s9s9gRGGlrQo) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Supernatural](https://open.spotify.com/album/61yrnIQNoSMirv6gadFV6W) | 3:52 | 2023-01-06 |  |
 | [Supernova](https://open.spotify.com/track/4qZSCfYTF2sJ2wiuQXYLHO) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Staircase Music](https://open.spotify.com/album/1kjJ7hY4eqtHNwvAcgEZxt) | 3:21 | 2022-02-17 | 2022-07-01 |
 | [Swan Song](https://open.spotify.com/track/4j8K6zdYmmWGOojP3QEoHO) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [With a Rotting Heart](https://open.spotify.com/album/1TENIZOVFTerspCdF6WSrB) | 4:14 | 2021-12-16 | 2022-02-11 |
 | [Sway](https://open.spotify.com/track/4pW0Z7cIfzKglcD5aBJMbC) | [SHEER](https://open.spotify.com/artist/1t1MZaxu6GhHdWTkZwx8W4) | [Sway](https://open.spotify.com/album/2qgWb4WmKxAe9xZp6l5DzV) | 3:58 | 2022-05-19 | 2022-09-07 |
@@ -279,7 +280,7 @@
 | [Wish](https://open.spotify.com/track/4UvH8e21lbc9WNxl9UR40G) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [Wish](https://open.spotify.com/album/4xJqQkFgmr5hXNFJmJecXS) | 4:13 | 2022-12-15 |  |
 | [Wish Away My Time](https://open.spotify.com/track/79qs1VoLBHKxR0ceCZbFDt) | [Kanadia](https://open.spotify.com/artist/65rcuCM57ICUgXn7bTO5Ts) | [Wish Away My Time](https://open.spotify.com/album/4Cy1tbQF4uqo9Ctzmma6RE) | 5:04 | 2022-06-16 | 2022-09-07 |
 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2022-12-15 |  |
-| [Won't You Love Me](https://open.spotify.com/track/0Vo70LQDhAEZoMJMU92Gwn) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Won't You Love Me](https://open.spotify.com/album/4T2hFfiyGNLNVJkOOVZaoc) | 3:12 | 2022-11-11 |  |
+| [Won't You Love Me](https://open.spotify.com/track/0Vo70LQDhAEZoMJMU92Gwn) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Won't You Love Me](https://open.spotify.com/album/4T2hFfiyGNLNVJkOOVZaoc) | 3:12 | 2022-11-11 | 2023-01-06 |
 | [Woohoo](https://open.spotify.com/track/10nd0tq8g3fFpCM4hkgHFR) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 3:44 | 2022-11-11 |  |
 | [Yeah Yeah Yeah](https://open.spotify.com/track/6Ggg9AKfFQpmIDHFv49y1r) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Yeah Yeah Yeah](https://open.spotify.com/album/17J3qSTLNBHWzwUFPwizZX) | 3:07 | 2021-12-16 | 2022-01-14 |
 | [Your Favourite Blade](https://open.spotify.com/track/5Ki3w952P2LC2m2HFbPQTv) | [The Escape Artist](https://open.spotify.com/artist/1wth8NJW8FHh2XtnAGKguk) | [Pursuing Love at Its Darkest](https://open.spotify.com/album/3U2McQehfcjpSKFTvFcUsk) | 4:34 | 2022-02-17 | 2022-09-07 |

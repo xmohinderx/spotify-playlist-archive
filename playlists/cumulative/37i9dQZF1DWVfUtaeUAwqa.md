@@ -4,7 +4,7 @@
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-64 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/7mDWtjnoYGtiNOTOKCesxv)
+64 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

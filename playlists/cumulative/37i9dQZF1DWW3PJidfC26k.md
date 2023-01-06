@@ -4,7 +4,7 @@
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-66 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/2MbvFGK8Q4PKjddwW7wsN9)
+66 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

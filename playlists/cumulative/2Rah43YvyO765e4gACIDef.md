@@ -4,7 +4,7 @@
 
 > Wake up in your makeup? Rock it.
 
-24 songs - 1 hr 25 min - [published](https://open.spotify.com/playlist/1z1wcZtDuHa4HAPI6tOGqE)
+24 songs - 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

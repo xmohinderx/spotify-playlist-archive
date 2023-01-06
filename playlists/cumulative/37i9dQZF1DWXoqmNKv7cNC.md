@@ -4,7 +4,7 @@
 
 > Mujeres mexicanas a todo volumen\. Bratty en portada.
 
-486 songs - 1 day 3 hr 31 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
+486 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

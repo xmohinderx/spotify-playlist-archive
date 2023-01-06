@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-400 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
+400 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

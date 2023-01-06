@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-219 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
+219 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-178 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
+178 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

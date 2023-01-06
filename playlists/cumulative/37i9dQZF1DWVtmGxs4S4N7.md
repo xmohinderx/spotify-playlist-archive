@@ -4,7 +4,7 @@
 
 > Shout ¡Viva México! with these classics.
 
-109 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/6qnCnZn96nGZ0DeWk7dFOu)
+109 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-94 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
+94 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

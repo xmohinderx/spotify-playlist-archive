@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=tPKTmHNTQa2S1MpSDge2Wg" > Jay Bahd </a>
 
-69 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/2DLSiQlBpHI8M4HICO2Y4A)
+69 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

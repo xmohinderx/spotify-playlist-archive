@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "ballon d'or 2023?",
+  "description": "2023",
   "name": "100",
-  "published_playlist_ids": [
-    "1YkCPMAEafAvzqDRhr0Ocd"
-  ],
   "tracks": [
     {
       "album": {
@@ -157,7 +154,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 163151,
       "name": "146 Reasons",
       "url": "https://open.spotify.com/track/6VIc5rIimLqQfBoKJOkFDX"
@@ -1883,7 +1880,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 134473,
       "name": "BECHO BEGRE",
       "url": "https://open.spotify.com/track/6l5LhH5mYorMq6Hl5Erqeg"
@@ -2193,7 +2190,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 131039,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/68QsNtxSwSrwn5kFa7SpQN"
@@ -2933,7 +2930,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 172840,
       "name": "Chocolata",
       "url": "https://open.spotify.com/track/27G9K6OFL17tQc14q5EUEA"
@@ -3207,7 +3204,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 186116,
       "name": "CROSS COUNTRY",
       "url": "https://open.spotify.com/track/4i440HyveNWpscGLrYJXsh"
@@ -3832,6 +3829,28 @@
     },
     {
       "album": {
+        "name": "M.O.B",
+        "url": "https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff"
+    },
+    {
+      "album": {
         "name": "GRB",
         "url": "https://open.spotify.com/album/0orGUBP7Q6gtmXyijYRB6g"
       },
@@ -3851,6 +3870,28 @@
       "duration_ms": 170287,
       "name": "Driftiga",
       "url": "https://open.spotify.com/track/09OCtDA2eE8bqeRs0fZZfw"
+    },
+    {
+      "album": {
+        "name": "M.O.B",
+        "url": "https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Drill",
+      "url": "https://open.spotify.com/track/4eZfXYRCM5ZK0jX3vCKPWj"
     },
     {
       "album": {
@@ -4007,7 +4048,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 109910,
       "name": "ED HARDY",
       "url": "https://open.spotify.com/track/6snsrXkJUzGLEqgpZDuVZ3"
@@ -4713,6 +4754,28 @@
       "duration_ms": 142651,
       "name": "Flappy Bird",
       "url": "https://open.spotify.com/track/4qw2H7dbNNYWhIYe9IaP1j"
+    },
+    {
+      "album": {
+        "name": "FLEX",
+        "url": "https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "FLEX",
+      "url": "https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz"
     },
     {
       "album": {
@@ -5983,7 +6046,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 181448,
       "name": "Hela V\u00e4gen Upp",
       "url": "https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou"
@@ -6569,7 +6632,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 157093,
       "name": "inatt",
       "url": "https://open.spotify.com/track/2YTZ3XiOHUUnwqJH9suznv"
@@ -7453,7 +7516,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 165106,
       "name": "Kombo",
       "url": "https://open.spotify.com/track/1d3rQzgOHhmf4z7tQ12odl"
@@ -9953,7 +10016,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 159493,
       "name": "Ofiltrerad",
       "url": "https://open.spotify.com/track/3u6Op3wLEhJDgnt7IwO4kP"
@@ -11811,7 +11874,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 193600,
       "name": "SKRR PAOW",
       "url": "https://open.spotify.com/track/2FyKSXI8M6CpIQwKBQYbXO"
@@ -14312,6 +14375,24 @@
     },
     {
       "album": {
+        "name": "V\u00c4LKOMMEN TILL S\u00d6DRA",
+        "url": "https://open.spotify.com/album/6Ov9IoG4DndKVgilC20UY3"
+      },
+      "artists": [
+        {
+          "name": "Sickan",
+          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "V\u00c4LKOMMEN TILL S\u00d6DRA",
+      "url": "https://open.spotify.com/track/4ygFhEjbNInflnSHfCOOxE"
+    },
+    {
+      "album": {
         "name": "V\u00e4nder Rygg",
         "url": "https://open.spotify.com/album/5lxrdUJXeqKHXchT0jbHp6"
       },
@@ -14381,7 +14462,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 126304,
       "name": "WAG1",
       "url": "https://open.spotify.com/track/2Oj9zD8GRB29fv1C4tKAWe"
@@ -14433,6 +14514,28 @@
       "duration_ms": 144000,
       "name": "WAR",
       "url": "https://open.spotify.com/track/1xFc5OLL1moZyHv2Zmp8wX"
+    },
+    {
+      "album": {
+        "name": "WAS GEHT",
+        "url": "https://open.spotify.com/album/0O4wm3URYwywcAPi9vhF90"
+      },
+      "artists": [
+        {
+          "name": "SINAN",
+          "url": "https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS"
+        },
+        {
+          "name": "Casar",
+          "url": "https://open.spotify.com/artist/7IENU7K9Qq8bd9U4pc5rbt"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "WAS GEHT",
+      "url": "https://open.spotify.com/track/3DchPWZrC5ZjjCEVkU392L"
     },
     {
       "album": {
@@ -14593,7 +14696,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 135990,
       "name": "WISH LIST",
       "url": "https://open.spotify.com/track/2iKcbCloHkzeSF66m0k7j2"

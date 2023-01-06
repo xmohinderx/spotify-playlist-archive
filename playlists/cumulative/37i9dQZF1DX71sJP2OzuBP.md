@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-518 songs - 1 day 9 hr 57 min - [published](https://open.spotify.com/playlist/4yEvFX7VUvJuAPsPMp0BtX)
+518 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-91 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/0cma9eATlERoy7bhmBZ0M3)
+91 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

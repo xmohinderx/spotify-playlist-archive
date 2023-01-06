@@ -4,7 +4,7 @@
 
 > Viral classics\. Yup, we're at that stage.
 
-236 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/1wC1JPTD64RPnj3MFCqCfc)
+236 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

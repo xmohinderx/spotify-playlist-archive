@@ -4,7 +4,7 @@
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-79 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/0UAu9TQlCaAu2isJwSbdX8)
+79 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

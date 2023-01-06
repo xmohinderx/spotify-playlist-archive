@@ -4,7 +4,7 @@
 
 > Acoustic pop songs for chill summer days or nights.
 
-126 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/0mrd15aLOKr95KM1j8m6jV)
+126 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

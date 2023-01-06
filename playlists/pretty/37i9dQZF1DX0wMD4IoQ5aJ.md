@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,083 likes - 187 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,274 likes - 187 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 186 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 |
 | 187 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 |
 
-Snapshot ID: `MTY3MTc1MzY2MCwwMDAwMDAwMDcwMGU0ZjRlZWI0MzFiNTFkNGIyZDE1MWU3ZDcwZGFj`
+Snapshot ID: `MTY3MjkzODc2OSwwMDAwMDAwMDg3ODc5ODliMjk4NDI5ZDhmOWRjNzU3YzFmOWI0NGU5`

@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-240 songs - 17 hr 56 min - [published](https://open.spotify.com/playlist/37IsdW9n0SlbPN5SfSK6qD)
+240 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

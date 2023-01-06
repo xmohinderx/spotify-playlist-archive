@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-200 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
+200 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > האזינו בפול ווליום לאמניות של ישראל\. קאבר: כרקוקלי
 
-260 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/2e4OmeRUwQvswEW0cNS2Ew)
+260 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

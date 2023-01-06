@@ -4,7 +4,7 @@
 
 > Here comes the Maestro with his best of 90s!
 
-142 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/6gUA4OjKEmfJ6nVoh2VZGh)
+142 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

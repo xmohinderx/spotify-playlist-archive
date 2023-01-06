@@ -4,7 +4,7 @@
 
 > New wave took the 70s punk blueprint and ran wild! Cover: Blondie
 
-87 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/2qBeUMhQx086WYIDXozY1G)
+87 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

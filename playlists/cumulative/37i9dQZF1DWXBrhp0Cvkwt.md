@@ -4,7 +4,7 @@
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-180 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/7xn0WLmo8CN5m9X5KXy76q)
+180 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

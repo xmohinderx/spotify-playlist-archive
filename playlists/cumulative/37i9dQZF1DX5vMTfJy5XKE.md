@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-365 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
+365 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

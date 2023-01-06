@@ -4,7 +4,7 @@
 
 > los tenis bien limpios y la bocina retumbando
 
-130 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/2U4Xvmq56X8XXDw4ib4Fua)
+130 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

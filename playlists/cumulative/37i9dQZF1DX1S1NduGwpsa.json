@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "The best jazz new releases. Photo : Samara Joy",
   "name": "Jazz Club",
-  "published_playlist_ids": [
-    "3rs0g3vcnj4aI2NKRtpM5z"
-  ],
   "tracks": [
     {
       "album": {
@@ -275,7 +272,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 316852,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/0PTdxZ0QwqFFP1Zr0wtlEz"
@@ -405,7 +402,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 222401,
       "name": "Can't Get Out of This Mood",
       "url": "https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye"
@@ -950,6 +947,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Wait Too Long",
+        "url": "https://open.spotify.com/album/34MuhV45usZj0gpyhXCMUL"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        },
+        {
+          "name": "The SWR Big Band",
+          "url": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231686,
+      "name": "Don't Wait Too Long",
+      "url": "https://open.spotify.com/track/04OP7yV8CcYOhPsqEsetha"
+    },
+    {
+      "album": {
         "name": "That's it (Oriundo)",
         "url": "https://open.spotify.com/album/7mZ22LtynPQGkYueUtyUxQ"
       },
@@ -1133,7 +1152,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 358720,
       "name": "Famous Blue Raincoat (feat. Nathaniel Rateliff)",
       "url": "https://open.spotify.com/track/6A30Bj33P8d4WWYfWeY6z8"
@@ -1287,6 +1306,24 @@
       "duration_ms": 307800,
       "name": "Frevo",
       "url": "https://open.spotify.com/track/17mGXmgPu7Igz7Rf0wU4ao"
+    },
+    {
+      "album": {
+        "name": "G\u00e9n\u00e9rique",
+        "url": "https://open.spotify.com/album/5irw04gNy9Kdl9BWXPrwsJ"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187804,
+      "name": "G\u00e9n\u00e9rique",
+      "url": "https://open.spotify.com/track/2XXVHJPBCLwZZ3maDxmXdi"
     },
     {
       "album": {
@@ -1495,7 +1532,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 252135,
       "name": "If You Only Knew",
       "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
@@ -1543,6 +1580,24 @@
       "duration_ms": 340290,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/4iEcGcD063MCmTuCOt1oXq"
+    },
+    {
+      "album": {
+        "name": "Isn't It a Lovely Day",
+        "url": "https://open.spotify.com/album/2WGMmL5VzrudIvI1JzLcva"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Pilc",
+          "url": "https://open.spotify.com/artist/4wvdJHmIvtoVKFgmeIScyM"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453350,
+      "name": "Isn't It a Lovely Day",
+      "url": "https://open.spotify.com/track/1DdeuDPgLSnp423y11xWVN"
     },
     {
       "album": {
@@ -1750,6 +1805,32 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/4hYJP6VSDvVktdcZRq2mtx"
+      },
+      "artists": [
+        {
+          "name": "Antoine Berjeaut",
+          "url": "https://open.spotify.com/artist/0xkHhnHO6QHTFUUrJpHM2G"
+        },
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        },
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269106,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/06PsxVo9cUtgP97EjxFUs7"
+    },
+    {
+      "album": {
         "name": "Solo Suites",
         "url": "https://open.spotify.com/album/6yZr9kTMjd7wF4SOy74683"
       },
@@ -1954,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Man At Heart",
+        "url": "https://open.spotify.com/album/7I95wqu9JjuOepQI5zqlQ0"
+      },
+      "artists": [
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134861,
+      "name": "Man At Heart",
+      "url": "https://open.spotify.com/track/36obvzkBpCzXGP0cohkZlZ"
+    },
+    {
+      "album": {
         "name": "Matter",
         "url": "https://open.spotify.com/album/7cUAxy0L0BTYnKtSLdgObX"
       },
@@ -2005,7 +2104,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 182451,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/6sKbk9yFs7U7uvUNfBrNrf"
@@ -2545,7 +2644,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 250128,
       "name": "Piment doux",
       "url": "https://open.spotify.com/track/4YYaJVza3fZCPgLYv2k6Mh"

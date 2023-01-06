@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-323 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+323 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Drift](https://open.spotify.com/track/0AZ0HqGUw0YzMQqniiQWNa) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [hyperforms](https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub) | [Drift](https://open.spotify.com/album/72IlA8Mm8nNFjVVeTxsUh8) | 3:35 | 2022-01-07 | 2022-07-29 |
 | [Drift Like A Cloud, Flow Like Water](https://open.spotify.com/track/4eH90XBDNITj5M8TradkSS) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Drift Like A Cloud, Flow Like Water](https://open.spotify.com/album/5Tfvcp2QbPL3caRaJQXeIE) | 3:20 | 2022-12-02 |  |
 | [Drift Like A Cloud, Flow Like Water](https://open.spotify.com/track/5rHaDTx6Srktjqza8mLxGz) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Drift Like A Cloud, Flow Like Water](https://open.spotify.com/album/1syy8JwtKmP9j8Yb1pVRa5) | 3:20 | 2022-12-02 | 2022-12-17 |
-| [Drowning](https://open.spotify.com/track/3Tz5z68t6Ii4rf6bTMJHyo) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Sally Oh](https://open.spotify.com/artist/1rofHXMRiMdndtO5D34Gwp) | [Drowning](https://open.spotify.com/album/7h4jWZsNcOey1AhDSms5g1) | 3:25 | 2022-01-07 |  |
+| [Drowning](https://open.spotify.com/track/3Tz5z68t6Ii4rf6bTMJHyo) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Sally Oh](https://open.spotify.com/artist/1rofHXMRiMdndtO5D34Gwp) | [Drowning](https://open.spotify.com/album/7h4jWZsNcOey1AhDSms5g1) | 3:25 | 2022-01-07 | 2023-01-06 |
 | [Dummo Loop](https://open.spotify.com/track/7fcLynQO9FrmYMOWuo1c1X) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [World Famous Tour](https://open.spotify.com/album/3WXeQznuGDKqbGn9VUbeVE) | 3:37 | 2022-07-14 | 2022-08-06 |
 | [ebb and flow](https://open.spotify.com/track/0pOiVq4xFmpeXwjEkzpD9U) | [Ray](https://open.spotify.com/artist/7cN69jaR3jtYeBaNsiVFoN) | [ebb and flow](https://open.spotify.com/album/25TyFNrtJLZbIciT9udRhp) | 4:17 | 2022-07-14 | 2022-08-06 |
 | [Electric Soul](https://open.spotify.com/track/4P2thFDOvuO497xWkyPUG0) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Electric Soul](https://open.spotify.com/album/1KkZWI3TFLJL6BfWis40JF) | 3:27 | 2022-01-07 | 2022-11-14 |
@@ -177,7 +177,7 @@
 | [Magic](https://open.spotify.com/track/0UU98KhDayXXXaP7y9ud7M) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Magic](https://open.spotify.com/album/08pD8uL8UL0LrBD6ceqZ5w) | 3:38 | 2022-01-07 | 2022-07-28 |
 | [Magic](https://open.spotify.com/track/1DKfUd92V7R4PdHmIK1MIs) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Magic](https://open.spotify.com/album/6GNwFP4f5HjSLlqyC7bwp2) | 3:38 | 2022-07-14 |  |
 | [Magic \- Iglooghost Remix](https://open.spotify.com/track/3FCkucY4YPO5npY5Li9ABp) | [Cuushe](https://open.spotify.com/artist/5mzIOU6Wu4mBabXE3OqhR5), [Iglooghost](https://open.spotify.com/artist/6TipIwg3DYn9wMQdT12rSn) | [Magic \(Iglooghost Remix\)](https://open.spotify.com/album/7ybMliMcZ5F7UiOpjHg5vM) | 2:13 | 2022-01-07 | 2022-07-27 |
-| [Magma](https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Magma](https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5) | 3:21 | 2022-01-07 | 2023-01-05 |
+| [Magma](https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Magma](https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5) | 3:21 | 2022-01-07 |  |
 | [Magnets](https://open.spotify.com/track/2VSPDYhB0070TTuL0ySE7b) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Dead Rose](https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM) | [Magnets](https://open.spotify.com/album/4NH32nwjRYSWACBV95Pm7j) | 3:39 | 2022-09-02 |  |
 | [Magnets](https://open.spotify.com/track/2qoVyX8fGrZezlqgmQxMxz) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Dead Rose](https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM) | [Magnets](https://open.spotify.com/album/0zW1I56aQjsrJsGpxneROQ) | 3:39 | 2022-06-24 | 2022-08-25 |
 | [Maybe](https://open.spotify.com/track/1gVIjLDPRFNJfv7TAKubnr) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [Annie Mehesh](https://open.spotify.com/artist/5at1zXx4u5KSVzNHcsVOxM) | [Maybe](https://open.spotify.com/album/6Kw1eFD6pwT1metqBiUoft) | 3:18 | 2022-01-28 | 2022-07-15 |

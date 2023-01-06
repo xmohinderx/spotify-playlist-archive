@@ -4,7 +4,7 @@
 
 > Trapperz Brasil apresenta..\. O Melhor do Hip Hop 2022
 
-119 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/7gdMCDylrYOpHK5il6ycy3)
+119 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

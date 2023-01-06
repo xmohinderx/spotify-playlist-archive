@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-104 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
+104 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

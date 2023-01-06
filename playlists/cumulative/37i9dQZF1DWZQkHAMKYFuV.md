@@ -4,7 +4,7 @@
 
 > The Latin soundtrack of the 2010s! Cover: Daddy Yankee, Luis Fonsi
 
-107 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/1UlthmmpWE0s2dmunRNOcw)
+107 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

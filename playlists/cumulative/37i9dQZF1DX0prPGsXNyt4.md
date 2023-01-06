@@ -4,7 +4,7 @@
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Mirella, Mc Gabzin
 
-69 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/4VavWr4LbyFMzey3WZnEMy)
+69 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

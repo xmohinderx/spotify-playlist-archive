@@ -4,7 +4,7 @@
 
 > To all the 7abieb out there\. Cover: Siilawy.
 
-106 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/29BsvI6DDDmylWpSjkawOL)
+106 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

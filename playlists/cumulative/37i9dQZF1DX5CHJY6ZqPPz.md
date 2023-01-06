@@ -4,7 +4,7 @@
 
 > All about aespa: meeting another self and experiencing the new world
 
-27 songs - 1 hr 32 min - [published](https://open.spotify.com/playlist/5qAhGSk1PC3ccp0C4jIsbV)
+27 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

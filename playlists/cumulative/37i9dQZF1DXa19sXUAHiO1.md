@@ -4,7 +4,7 @@
 
 > A classic mix of pop, rock and folk hits from decades past\. Cover: Loggins and Messina
 
-84 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/5XG7GgSJQ8AMdczVkZFoy7)
+84 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

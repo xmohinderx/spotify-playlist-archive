@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-244 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/5HuA8j4xJi2t3b5nsfoqYH)
+244 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

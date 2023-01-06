@@ -4,7 +4,7 @@
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-138 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/5Ymp5r0Wpvihvt8IezwUoh)
+138 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

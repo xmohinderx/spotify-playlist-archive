@@ -4,7 +4,7 @@
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-106 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/50Jdwr74HQGEkk8eIxYJWl)
+106 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

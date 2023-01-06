@@ -4,7 +4,7 @@
 
 > The sweet sounds of Palestine.
 
-86 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/7nmrrCTfmNLxc6qg3h2DGN)
+86 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The rock & alternative tracks that took off in 2022\. Cover: Eddie Munson \(Stranger Things\) \#SpotifyWrapped
 
-40 songs - 2 hr 25 min - not published yet
+40 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

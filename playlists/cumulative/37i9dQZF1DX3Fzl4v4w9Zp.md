@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Sunny Sweeney
 
-375 songs - 23 hr 14 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
+375 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

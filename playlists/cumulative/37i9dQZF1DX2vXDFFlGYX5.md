@@ -4,7 +4,7 @@
 
 > Music From "TIGER & BUNNY"! タイバニの世界を彩る楽曲を1つのプレイリストで！©BNP/T&B2 PARTNERS
 
-90 songs - 5 hr 9 min - not published yet
+90 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Enhance your focus with classical music.
 
-205 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/6BDzYfBiwlGx1TmWE2kQyn)
+205 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

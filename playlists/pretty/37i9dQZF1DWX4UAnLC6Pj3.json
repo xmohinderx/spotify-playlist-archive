@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Edicion Especial en portada.",
-  "num_followers": 1070113,
+  "num_followers": 1070337,
   "original_name": "Banda 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGViZDFjNTNlZmJmNjg4MTIzYTRiMTIzYmM5MDYyMTJi",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDMxY2EwMWEwODNjNDdjNzZjYzY1MjVlY2YyNTFkMGM0",
   "tracks": [
     {
       "added_at": "2022-12-23 05:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 215106,
       "name": "Una Noche Cualquiera",
       "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Historias de Mi Vida",
-        "url": "https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe"
+        "name": "El Precio De La Soledad",
+        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
       "artists": [
         {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 201857,
-      "name": "A Cu\u00e1nto Me Qued\u00e9",
-      "url": "https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV"
+      "duration_ms": 166143,
+      "name": "El Precio De La Soledad",
+      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "El Precio De La Soledad",
-        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
+        "name": "Historias de Mi Vida",
+        "url": "https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         }
       ],
-      "duration_ms": 166143,
-      "name": "El Precio De La Soledad",
-      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
+      "duration_ms": 201857,
+      "name": "A Cu\u00e1nto Me Qued\u00e9",
+      "url": "https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1119,8 +1119,8 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Calidad Y Cantidad",
-        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 191733,
-      "name": "T\u00fa Eres La Raz\u00f3n",
-      "url": "https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3"
+      "duration_ms": 197280,
+      "name": "El Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1239,8 +1239,8 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t"
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
       },
       "artists": [
         {
@@ -1248,9 +1248,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 197280,
-      "name": "El Final De Nuestra Historia",
-      "url": "https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3"
+      "duration_ms": 191733,
+      "name": "T\u00fa Eres La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3"
     },
     {
       "added_at": "2022-12-23 05:00:00",

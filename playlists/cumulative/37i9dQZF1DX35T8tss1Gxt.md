@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Naomi Raine
 
-335 songs - 20 hr 35 min - [published](https://open.spotify.com/playlist/3eK48lf8axZCOz8TG1pXO8)
+335 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

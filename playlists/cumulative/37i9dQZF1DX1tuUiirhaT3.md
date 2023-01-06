@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-244 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+244 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

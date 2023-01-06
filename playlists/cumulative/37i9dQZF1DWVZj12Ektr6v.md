@@ -4,7 +4,7 @@
 
 > To the world, this is NCT! We are NCT DREAM! Our Winter Special Mini Album ‘Candy’ is out!
 
-68 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/02TGDCuKun9YLzos676Haj)
+68 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2020-11-03",
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly!",
-  "name": "Best Of: Morning Workout 2022",
-  "published_playlist_ids": [
-    "5mJo5qxZregHKepSTPltCy"
-  ],
+  "name": "Morning Workout",
   "tracks": [
     {
       "album": {
@@ -5447,6 +5444,28 @@
       "duration_ms": 183415,
       "name": "Keep It Comin",
       "url": "https://open.spotify.com/track/3tyw03CsA7n00xC5hnvjuX"
+    },
+    {
+      "album": {
+        "name": "Ki-Ki (feat. ENNY)",
+        "url": "https://open.spotify.com/album/0t8GA7Bcs9mmlp3gqakWDX"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140852,
+      "name": "Ki-Ki (feat. ENNY)",
+      "url": "https://open.spotify.com/track/35REVjW2vGqWclKAtI1PqD"
     },
     {
       "album": {

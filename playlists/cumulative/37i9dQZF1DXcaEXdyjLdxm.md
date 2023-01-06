@@ -4,7 +4,7 @@
 
 > LGBTQQIA+ artists like you've never heard before\. Cover: Ethel Cain.
 
-76 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/5hCASO58LS3FyWd4FiMjbC)
+76 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

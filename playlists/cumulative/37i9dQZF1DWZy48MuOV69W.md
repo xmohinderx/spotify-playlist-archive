@@ -4,7 +4,7 @@
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-96 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/5cNXdJnskmm641e5o7i3nb)
+96 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

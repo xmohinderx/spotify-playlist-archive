@@ -4,7 +4,7 @@
 
 > The best indie songs from all decades for your Halloween party
 
-87 songs - 5 hr 21 min - not published yet
+87 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

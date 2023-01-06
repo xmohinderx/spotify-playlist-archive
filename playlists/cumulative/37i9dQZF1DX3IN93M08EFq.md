@@ -4,7 +4,7 @@
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-129 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/57DWmGvUhAKWKbar5DftNQ)
+129 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

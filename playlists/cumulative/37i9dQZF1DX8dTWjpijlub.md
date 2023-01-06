@@ -4,7 +4,7 @@
 
 > The champs are here.
 
-228 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/7c3mbv9wG0Fh52EVbq32G1)
+228 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

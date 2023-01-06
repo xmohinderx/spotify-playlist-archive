@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2\">MNEK</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By MNEK",
-  "published_playlist_ids": [
-    "5HXLTrGkLfaN5i0vPRiA78"
-  ],
   "tracks": [
     {
       "album": {
@@ -1075,6 +1072,24 @@
     {
       "album": {
         "name": "Level 1",
+        "url": "https://open.spotify.com/album/13lMczrO6jb52rGaaKsSFT"
+      },
+      "artists": [
+        {
+          "name": "Neila",
+          "url": "https://open.spotify.com/artist/3vRiuQKPUpfmh1ZFr6xsAp"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Digital",
+      "url": "https://open.spotify.com/track/0esaIMbZKquvCTpmPh7thM"
+    },
+    {
+      "album": {
+        "name": "Level 1",
         "url": "https://open.spotify.com/album/7cNyyVQ6FWYhftsZvYr3zP"
       },
       "artists": [
@@ -1085,7 +1100,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 208000,
       "name": "Digital",
       "url": "https://open.spotify.com/track/3db3uJVWCW9naIaZTDjUYC"

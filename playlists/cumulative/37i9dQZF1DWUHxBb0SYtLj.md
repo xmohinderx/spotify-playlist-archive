@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Giorgia
 
-440 songs - 22 hr 31 min - [published](https://open.spotify.com/playlist/0Bc0t88jmiMKkV4jRykwOc)
+440 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/0M3l3QL7fIK8hUWMTReSqT)
+63 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

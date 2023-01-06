@@ -4,7 +4,7 @@
 
 > Electronic + Dance making waves, every month\. Cover: Wajeed.
 
-201 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/2TNmeY42vrKnq2dfH2dCEO)
+201 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

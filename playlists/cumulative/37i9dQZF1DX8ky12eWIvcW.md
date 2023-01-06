@@ -4,7 +4,7 @@
 
 > Turn up with the biggest party tracks of the '90s and '00s.
 
-197 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/6l7zisn5J6TZh32hHzVzEo)
+197 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

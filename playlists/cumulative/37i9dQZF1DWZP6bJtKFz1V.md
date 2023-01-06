@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: spill tab
 
-468 songs - 1 day 0 hr 21 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+468 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

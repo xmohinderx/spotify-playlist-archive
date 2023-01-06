@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 19869,
+  "num_followers": 19891,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGIwNDBlNmZmMTBhOTVkMTQyZmIxODM4MWIwNWRjZjQz",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDAyNmM0MDBkNTA2NzM2MzUyOTY4NzA2ZTM1YTE1Y2Nm",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -267,6 +267,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Um Dia No Mar",
+        "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
+      },
+      "artists": [
+        {
+          "name": "Claudio Fonseca Quartet",
+          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
+        }
+      ],
+      "duration_ms": 161901,
+      "name": "Um Dia No Mar",
+      "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Juntos para Siempre",
         "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 224173,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Um Dia No Mar",
-        "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
-      },
-      "artists": [
-        {
-          "name": "Claudio Fonseca Quartet",
-          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
-        }
-      ],
-      "duration_ms": 161901,
-      "name": "Um Dia No Mar",
-      "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -367,26 +367,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "Tres Palabras",
-      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
         "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
       },
@@ -451,6 +431,42 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Z\u00e9phyrine",
+        "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
+      },
+      "artists": [
+        {
+          "name": "Elliot Ziegler",
+          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
+        }
+      ],
+      "duration_ms": 140374,
+      "name": "Z\u00e9phyrine",
+      "url": "https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Sones y Tradiciones (feat. Cachao)",
         "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
       },
@@ -471,54 +487,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Tropicana",
-        "url": "https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP"
-      },
-      "artists": [
-        {
-          "name": "Trio From Rio",
-          "url": "https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH"
-        }
-      ],
-      "duration_ms": 212614,
-      "name": "Tropicana",
-      "url": "https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Z\u00e9phyrine",
-        "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
-      },
-      "artists": [
-        {
-          "name": "Elliot Ziegler",
-          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
-        }
-      ],
-      "duration_ms": 140374,
-      "name": "Z\u00e9phyrine",
-      "url": "https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Manh\u00e3 de Carnaval",
-        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
-      },
-      "artists": [
-        {
-          "name": "Pedro Santos",
-          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
-        }
-      ],
-      "duration_ms": 296106,
-      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
-      "url": "https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
         "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
       },
@@ -535,22 +503,34 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+        "name": "Tropicana",
+        "url": "https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP"
       },
       "artists": [
         {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Trio From Rio",
+          "url": "https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH"
         }
       ],
-      "duration_ms": 209813,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
+      "duration_ms": 212614,
+      "name": "Tropicana",
+      "url": "https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Manh\u00e3 de Carnaval",
+        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
+      },
+      "artists": [
+        {
+          "name": "Pedro Santos",
+          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
+        }
+      ],
+      "duration_ms": 296106,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "url": "https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -583,6 +563,26 @@
       "duration_ms": 195366,
       "name": "Agua De Beber",
       "url": "https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Bossa Nova EP",
-        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
-      },
-      "artists": [
-        {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Starlight EP",
         "url": "https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 548600,
       "name": "Al Latin",
       "url": "https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Bossa Nova EP",
+        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk"
     },
     {
       "added_at": "2021-01-18 15:57:14",

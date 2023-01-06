@@ -4,7 +4,7 @@
 
 > 30 has landed, alongside all her biggest hits!
 
-71 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/25iPwofyuEhxNXtcvJMrYl)
+71 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

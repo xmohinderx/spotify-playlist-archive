@@ -4,7 +4,7 @@
 
 > This is Rkive of RM\. Indigo\. 💜
 
-48 songs - 2 hr 47 min - not published yet
+48 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Energetic tracks from the 1990s to boost your running session.
 
-95 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/7D5evLIzQvkxIsF51nBPOm)
+95 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-307 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
+307 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Pellízquenme](https://open.spotify.com/track/01GkH9n3MLf606vcWddYl9) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [1995](https://open.spotify.com/album/0PKs87i37uUK6kuDWnWCYg) | 3:23 | 2022-05-14 |  |
 | [Pelo Rojo](https://open.spotify.com/track/0qIMvQqkARENwEmau3CnRW) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Pelo Rojo](https://open.spotify.com/album/2V1QKcqfCa0jzkACA6PcLe) | 3:30 | 2021-12-09 | 2022-07-24 |
 | [Piensa en Mí](https://open.spotify.com/track/5tjWzp9GGEvAlLFRs1X9Gi) | [Cheo](https://open.spotify.com/artist/1WiBb0a97UEVV2Dz4RhJ74), [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Piensa en Mí](https://open.spotify.com/album/5JSMMDCaa0XQLPVNykJQnH) | 2:26 | 2022-04-07 | 2022-04-20 |
-| [Por Ti](https://open.spotify.com/track/1vJg0bCR0zESD3fgUcKnwb) | [Lucía Fernanda](https://open.spotify.com/artist/75xX5rWpgqwJmIPSsCVe9A), [Rocco S](https://open.spotify.com/artist/5SQjmqdfpyXNNsc9aCBrwx) | [Por Ti](https://open.spotify.com/album/6uFCl5fPaP6UmP1cW8nNtQ) | 2:42 | 2021-12-09 | 2023-01-01 |
+| [Por Ti](https://open.spotify.com/track/1vJg0bCR0zESD3fgUcKnwb) | [Lucía Fernanda](https://open.spotify.com/artist/75xX5rWpgqwJmIPSsCVe9A), [Rocco S](https://open.spotify.com/artist/5SQjmqdfpyXNNsc9aCBrwx) | [Por Ti](https://open.spotify.com/album/6uFCl5fPaP6UmP1cW8nNtQ) | 2:42 | 2021-12-09 |  |
 | [Por Verte Llegar](https://open.spotify.com/track/6p6kREqbuJLlZiv86td57b) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Todo Da Vueltas](https://open.spotify.com/album/3japeSKHpX7ialXmToKWhX) | 3:32 | 2021-12-09 | 2022-07-29 |
 | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt) | 2:55 | 2021-12-09 |  |
 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 | 2021-12-09 |  |
@@ -257,7 +257,7 @@
 | [Si por Mi Fuera](https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Si por Mi Fuera](https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv) | 3:32 | 2021-12-09 |  |
 | [Siempre Cerca \- Acústico](https://open.spotify.com/track/2cp3Ez21EpWKsp541ws5mK) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Siempre Cerca \(Acústico\)](https://open.spotify.com/album/3NEYdetK2Nhf6FIbCnIlca) | 3:09 | 2021-12-09 | 2022-11-13 |
 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 | 2021-12-09 | 2022-10-28 |
-| [Sin Ti](https://open.spotify.com/track/1AsDi1YPkSy9ZuVBN4XHje) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Sin Ti](https://open.spotify.com/album/0CCFzerylMGnuPxFaolglv) | 3:10 | 2021-12-09 |  |
+| [Sin Ti](https://open.spotify.com/track/1AsDi1YPkSy9ZuVBN4XHje) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Sin Ti](https://open.spotify.com/album/0CCFzerylMGnuPxFaolglv) | 3:10 | 2021-12-09 | 2023-01-06 |
 | [Sin Vergüenza](https://open.spotify.com/track/4bhJA7OPeieBHWfHMgNV0Q) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Sin Vergüenza](https://open.spotify.com/album/1es98oWk5HeScQbQo4nX3Z) | 4:01 | 2021-12-09 |  |
 | [Sofá de Cuero](https://open.spotify.com/track/6dNYrFxETEqQjnmF1HtBTj) | [Jah Chango](https://open.spotify.com/artist/0JL51D0tX8800NfzXLaNqM), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Sofá de Cuero](https://open.spotify.com/album/6InJpyc0Y7eyBv3Rhm49n7) | 3:04 | 2022-04-07 | 2022-04-21 |
 | [Solamente una Vez](https://open.spotify.com/track/6SUX8bUvKWeiJJoWad3bVH) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Non\-Stop: Mexico to Jamaica](https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3) | 2:28 | 2021-12-09 | 2022-07-23 |

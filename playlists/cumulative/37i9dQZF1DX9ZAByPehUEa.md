@@ -4,7 +4,7 @@
 
 > A happy place.
 
-229 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/2xSdTSz706asFMv9nAL1iO)
+229 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

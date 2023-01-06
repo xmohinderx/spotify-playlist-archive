@@ -4,7 +4,7 @@
 
 > Come on, man\. Just smile!
 
-82 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/7ARCrfEcAoPx57gahlhMW5)
+82 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

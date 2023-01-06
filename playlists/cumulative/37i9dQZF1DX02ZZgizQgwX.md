@@ -4,7 +4,7 @@
 
 > Painting a beautiful palette of Melodic House, <a href="spotify:artist:1ikID9RZZMvkuBGDWrqajq">Kasbo</a> delivers sultry tonalities in his latest mix.
 
-20 songs - 1 hr 0 min - not published yet
+20 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

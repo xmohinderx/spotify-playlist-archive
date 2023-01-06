@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-398 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+398 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

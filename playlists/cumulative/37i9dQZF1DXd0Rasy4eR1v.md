@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best discoveries from Fresh Finds PK this year\. Cover \- Abdul Hannan
 
-305 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/194Tgkv1OO1EGm3LAXJi6q)
+305 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

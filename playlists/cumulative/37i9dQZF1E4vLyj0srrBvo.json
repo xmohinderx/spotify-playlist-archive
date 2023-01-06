@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2020-10-16",
-  "description": "With Poppy, Eartheater, Kilo Kish and more",
+  "description": "With Poppy, Pearly Drops, Eartheater and more",
   "name": "Grimes Radio",
-  "published_playlist_ids": [
-    "18KhvyGVGWgFiASCWVYL67"
-  ],
   "tracks": [
     {
       "album": {
@@ -139,7 +136,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 244133,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/2XPxacir3WoMtJ2pbTd240"
@@ -905,7 +902,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 217855,
       "name": "Am I A Girl?",
       "url": "https://open.spotify.com/track/6v3b2lQADc1ugsXvrqYZIB"
@@ -2751,7 +2748,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 210066,
       "name": "Bit Of Rain",
       "url": "https://open.spotify.com/track/1YXIOzYdHojl0GRsIEhHsN"
@@ -2787,7 +2784,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 207301,
       "name": "Bitch",
       "url": "https://open.spotify.com/track/2RHACQ60QdCc5rPtM5NciW"
@@ -5401,7 +5398,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 176640,
       "name": "Crushcrushcrush",
       "url": "https://open.spotify.com/track/6ZCGKyXcGbYc6tdP6unPVY"
@@ -5915,7 +5912,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 129220,
       "name": "DEATH FANTASY",
       "url": "https://open.spotify.com/track/0AioBDN5uW9Ix0ES9uoC61"
@@ -6355,7 +6352,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 230640,
       "name": "Discotraxx",
       "url": "https://open.spotify.com/track/5nqwr7XXW7miMBvLtrWjHx"
@@ -8037,7 +8034,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 209760,
       "name": "fineshrine",
       "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
@@ -8131,7 +8128,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 155106,
       "name": "Fleece",
       "url": "https://open.spotify.com/track/505X13lc9zufVvKKeZ7Ow9"
@@ -8189,6 +8186,24 @@
       "duration_ms": 206473,
       "name": "Flicking Your Switch",
       "url": "https://open.spotify.com/track/6qKFjo37SoEn1UfYw0JEsw"
+    },
+    {
+      "album": {
+        "name": "Light & Magic",
+        "url": "https://open.spotify.com/album/3Ebj5hs8pdTolvQpzpdcoO"
+      },
+      "artists": [
+        {
+          "name": "Ladytron",
+          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206480,
+      "name": "Flicking Your Switch",
+      "url": "https://open.spotify.com/track/6W53RYTZg8zbJd0MJF7KjV"
     },
     {
       "album": {
@@ -10759,7 +10774,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 281577,
       "name": "Humble Bones",
       "url": "https://open.spotify.com/track/3bQ3g7uap3wJyU0Pp02C54"
@@ -11105,7 +11120,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 198106,
       "name": "I Will",
       "url": "https://open.spotify.com/track/5HEeBCUDho3uQVNu98CvsS"
@@ -11485,7 +11500,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 249208,
       "name": "Illest Alive",
       "url": "https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3"
@@ -13147,7 +13162,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 206266,
       "name": "Lips Apart",
       "url": "https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD"
@@ -13529,7 +13544,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 194586,
       "name": "Lost In My Bedroom",
       "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
@@ -14325,7 +14340,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 212201,
       "name": "Meat",
       "url": "https://open.spotify.com/track/6eTKiVyN9yvi2kuO8KKtVd"
@@ -14939,7 +14954,7 @@
       ],
       "date_added": "2020-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 353732,
       "name": "Movies",
       "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
@@ -17349,7 +17364,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 168375,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY"
@@ -24045,7 +24060,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 183641,
       "name": "Void",
       "url": "https://open.spotify.com/track/09hFzxySPHV6PMWUiW91Di"
@@ -24489,7 +24504,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 223640,
       "name": "White Elephant - Strange Fruit Remix",
       "url": "https://open.spotify.com/track/1gUNAceY99kXgFMpA4N2ah"
@@ -24637,7 +24652,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 236066,
       "name": "Wild Flowers",
       "url": "https://open.spotify.com/track/0XMrWmqFh1FqR1y0JI1R2Y"
@@ -24835,7 +24850,7 @@
       ],
       "date_added": "2020-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 305752,
       "name": "World Princess part II",
       "url": "https://open.spotify.com/track/7v9t1j6m5nYYGG1etmAD12"

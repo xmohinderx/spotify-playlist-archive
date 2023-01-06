@@ -4,7 +4,7 @@
 
 > Relaxing jazz music for meditation.
 
-63 songs - 3 hr 43 min - not published yet
+63 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

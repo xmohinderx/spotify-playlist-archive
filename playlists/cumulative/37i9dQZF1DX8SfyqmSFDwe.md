@@ -4,7 +4,7 @@
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-238 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/5IpFUHnh5qMyd0m1fdV3hG)
+238 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

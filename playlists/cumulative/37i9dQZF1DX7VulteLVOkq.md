@@ -4,7 +4,7 @@
 
 > Just some of the many highlights from the <a href="spotify:artist:3PhoLpVuITZKcymswpck5b">Rocket Man</a>'s career.
 
-104 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/2gLRn6w7L54vomQPqYMuBE)
+104 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

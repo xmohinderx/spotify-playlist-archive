@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-303 songs - 1 day 4 hr 22 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
+303 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

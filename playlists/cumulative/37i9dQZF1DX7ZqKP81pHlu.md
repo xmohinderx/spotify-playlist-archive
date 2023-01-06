@@ -4,7 +4,7 @@
 
 > The sweet sounds of Algeria.
 
-105 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
+105 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

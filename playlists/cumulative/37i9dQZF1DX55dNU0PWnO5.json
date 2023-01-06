@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
   "name": "Jazztronica",
-  "published_playlist_ids": [
-    "3EWDflGVJ6h7JcHAvsf1Hs"
-  ],
   "tracks": [
     {
       "album": {
@@ -165,6 +162,24 @@
       "duration_ms": 218546,
       "name": "A Vibe",
       "url": "https://open.spotify.com/track/0ajpCcbA9tTaY4WycQJhm8"
+    },
+    {
+      "album": {
+        "name": "Above Us",
+        "url": "https://open.spotify.com/album/5JDYGlqd6K6xmQJWtANYZa"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Above Us",
+      "url": "https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0"
     },
     {
       "album": {
@@ -511,7 +526,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 189344,
       "name": "Between the Bread",
       "url": "https://open.spotify.com/track/1qTGY0QXhVVTvMtX33vw7Y"
@@ -1619,7 +1634,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 210572,
       "name": "Dribble",
       "url": "https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp"
@@ -1941,6 +1956,24 @@
       "duration_ms": 162633,
       "name": "Flipside",
       "url": "https://open.spotify.com/track/0gK9406OcLfxwjnkQt8HDv"
+    },
+    {
+      "album": {
+        "name": "Flowers, a snail & insects",
+        "url": "https://open.spotify.com/album/5sb5ksvhXh2qGwvFQdAYs4"
+      },
+      "artists": [
+        {
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Flowers, a snail & insects",
+      "url": "https://open.spotify.com/track/7DULILmYwre0P5BvZRU9uy"
     },
     {
       "album": {
@@ -3701,7 +3734,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 175478,
       "name": "Only Human",
       "url": "https://open.spotify.com/track/7I8IUJLGoJMupsw4bn9YWe"
@@ -3771,6 +3804,24 @@
       "duration_ms": 188000,
       "name": "Panspermia",
       "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
+    },
+    {
+      "album": {
+        "name": "Photographs",
+        "url": "https://open.spotify.com/album/69YJTAqZvYkGlhkAvsisJM"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "Photographs",
+      "url": "https://open.spotify.com/track/12oArgqvzZ2la4EzrhyooN"
     },
     {
       "album": {

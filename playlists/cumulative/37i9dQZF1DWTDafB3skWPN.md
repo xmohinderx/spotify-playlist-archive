@@ -4,7 +4,7 @@
 
 > Celebrate yourself with a fun pop & hip hop mix
 
-139 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/7GO5PV58ty6EvqeQafdPpW)
+139 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

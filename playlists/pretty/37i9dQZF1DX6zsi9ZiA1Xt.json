@@ -1,12 +1,12 @@
 {
   "description": "Con un poco de buena salsa todo queda limpio y reluciente.",
-  "num_followers": 21719,
+  "num_followers": 21741,
   "original_name": "\u00a1A Limpiar con Salsa!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjgyMjU1OCwwMDAwMDAwMDcyZjA1NzExNWFhMTQyOGFhZTUzZGJkNTk5ZTliZjBi",
+  "snapshot_id": "MTU4NjgyMjU1OCwwMDAwMDAwMGViYzQyZmY1MWZkYzM2MjYxYWZlMzVhNDUwNjJkZmFm",
   "tracks": [
     {
       "added_at": "2020-04-14 00:02:38",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "\u00c9xitos, Vol. 1",
-        "url": "https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 282981,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu"
-    },
-    {
-      "added_at": "2020-04-14 00:02:38",
-      "album": {
         "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
         "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 246600,
       "name": "Bang! Bang!",
       "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
+    },
+    {
+      "added_at": "2020-04-14 00:02:38",
+      "album": {
+        "name": "\u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 282981,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu"
     },
     {
       "added_at": "2020-04-14 00:02:38",

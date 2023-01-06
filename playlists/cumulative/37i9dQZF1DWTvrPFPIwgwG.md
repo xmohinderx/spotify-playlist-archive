@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Eliane Fernandes
 
-101 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/2TO2MpzJje9bKw3Lpv5pLG)
+101 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

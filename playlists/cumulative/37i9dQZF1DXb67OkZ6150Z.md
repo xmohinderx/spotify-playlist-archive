@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-366 songs - 22 hr 37 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+366 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [It's You](https://open.spotify.com/track/6SkG8OCuHktTfEPBGB2uHL) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [It's You](https://open.spotify.com/album/0cZjs7bWRgLtzM9rih3Bsw) | 4:16 | 2022-02-25 | 2022-07-29 |
 | [Jesus, Etc.](https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Bridge School Concerts 25th Anniversary Edition](https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK) | 3:43 | 2021-03-12 | 2022-07-28 |
 | [Just Like Heaven](https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 3:26 | 2021-03-19 | 2022-10-15 |
-| [Just the Two of Us](https://open.spotify.com/track/0TTPheslWs6uygzQ43rCmW) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Just the Two of Us](https://open.spotify.com/album/0ohwfXiv30f7hoIoH08ZSC) | 2:44 | 2021-03-12 | 2022-12-30 |
+| [Just the Two of Us](https://open.spotify.com/track/0TTPheslWs6uygzQ43rCmW) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Just the Two of Us](https://open.spotify.com/album/0ohwfXiv30f7hoIoH08ZSC) | 2:44 | 2021-03-12 |  |
 | [Kids](https://open.spotify.com/track/41KEwBsz0vFOMaSiujdfci) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Kids](https://open.spotify.com/album/4jyTfc5rR5SdTgGnlAdaCa) | 4:03 | 2022-02-25 | 2022-07-29 |
 | [Kiss](https://open.spotify.com/track/1IZ2RLaTBzvSnMPtLpyUf1) | [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj) | [Kiss](https://open.spotify.com/album/0Gj3yIbkS5mFPtU4GwHwxf) | 5:08 | 2021-03-12 | 2022-04-17 |
 | [Knee Deep at ATP](https://open.spotify.com/track/7GdIvzFCC3ZGS4sGsCuR9W) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/4COjHeRyvJkn9C5a2QnLkr) | 3:07 | 2022-01-11 | 2022-08-10 |
@@ -270,7 +270,7 @@
 | [Shakedown Street](https://open.spotify.com/track/0wPUWUZ0jzqnGddU793xHO) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Omar Velasco](https://open.spotify.com/artist/7hyKm6cdFkaqtPCN3afkTJ) | [Shakedown Street](https://open.spotify.com/album/6kLk603Tgznn0DREoirhwc) | 4:16 | 2021-03-12 | 2022-04-16 |
 | [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 | 2022-04-01 |  |
 | [Slow Burn](https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9) | [Jack Grace](https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB) | [Slow Burn](https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg) | 3:36 | 2021-03-12 | 2022-07-27 |
-| [slow dancing in a burning room \- stripped](https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [slow dancing in a burning room \(stripped\)](https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx) | 3:15 | 2022-09-03 |  |
+| [slow dancing in a burning room \- stripped](https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [slow dancing in a burning room \(stripped\)](https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx) | 3:15 | 2022-09-03 | 2023-01-06 |
 | [Some Things Last A Long Time](https://open.spotify.com/track/45OkuBV8goyDppKZg3amkk) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go b/w Some Things Last A Long Time](https://open.spotify.com/album/1DZPuUHbDCJ3aeaNMXoNJX) | 6:09 | 2021-07-21 | 2022-07-16 |
 | [Someday](https://open.spotify.com/track/0zq8RD39kiIern93PYjokX) | [Yung Heazy](https://open.spotify.com/artist/15fMBLwvm3qGTWXgdxOUCV) | [Someday](https://open.spotify.com/album/3jLLKEZNhE5TQzpG87sCn3) | 3:50 | 2021-04-02 | 2022-04-15 |
 | [Someday \- triple j Like A Version](https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/0GdoJHiw5DpePwcIfPOPHz) | 4:24 | 2021-03-12 | 2022-08-10 |

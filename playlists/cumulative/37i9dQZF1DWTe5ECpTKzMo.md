@@ -4,7 +4,7 @@
 
 > Solo éxitos locales pasados, chapados en oro\. Aleman en portada.
 
-87 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/6rR9impfdl0qRPEpFRtBnL)
+87 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

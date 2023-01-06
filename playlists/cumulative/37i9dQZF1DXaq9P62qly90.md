@@ -4,7 +4,7 @@
 
 > Conscious songs for everyday reflection.
 
-106 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/6PGA40jJvnwvOGylzYEmlj)
+106 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

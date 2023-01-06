@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,689 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,690 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 67 | [Feels Like A River \(feat\. Michael McCrae\)](https://open.spotify.com/track/1eYY6nY4KiKXAT7QIQKyl5) | [Kenn Colt](https://open.spotify.com/artist/0vSNFAo2h20zd3HOBcM8BX), [Michael McCrae](https://open.spotify.com/artist/7LuydnF4MvKtvUMLfkH9Gd) | [Feels Like A River \(feat\. Michael McCrae\)](https://open.spotify.com/album/3eRZODNU6hyL9oGoF61T0S) | 3:27 |
 | 68 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 69 | [SOS \(Overboard\)](https://open.spotify.com/track/4OeXeFN1dxx3LTrjcKGSV9) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:05 |
-| 70 | [Rather Be with You](https://open.spotify.com/track/3AVE9qpiII7fyKjENTN8YI) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x) | 3:19 |
+| 70 | [Rather Be with You](https://open.spotify.com/track/2lPH8YSWdxo8SbJnYnZxUG) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/4gfAeJv9CKKraAUEqEQOqs) | 3:19 |
 | 71 | [Selfish Love](https://open.spotify.com/track/5hmLPzFW7oH8QQ9LRu1HUl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:57 |
 | 72 | [Find The River](https://open.spotify.com/track/1e3Q7gE5TRUklXOlZFKIrv) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 3:49 |
 | 73 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation Stadium Tour Surprise Song Playlist](https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 99 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/3KuZx7FPNcqXG8YFN5Y0OG) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Faith \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vcfCbzB0B72zI8fF5zBEv) | 2:40 |
 | 100 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 |
 
-Snapshot ID: `MTY3MTAxMzU1MywwMDAwMDAwMDhlNjAwYzNmMjUzNmVlYjZiNmIxMDcwNDYwMjkwMzI5`
+Snapshot ID: `MTY3MTAxMzU1MywwMDAwMDAwMDExOGUwMWY0MThmMmEwMGVhMjdiYWVmODAzOWFjM2Y0`

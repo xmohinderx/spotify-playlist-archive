@@ -4,7 +4,7 @@
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-228 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/1zMXtcZg2CxRNKT4ViRg0A)
+228 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

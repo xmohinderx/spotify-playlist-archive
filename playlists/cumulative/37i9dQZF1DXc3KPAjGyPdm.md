@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-248 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/46rHkOw5I8WIIcWUUhwmZN)
+248 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

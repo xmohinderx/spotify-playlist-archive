@@ -4,7 +4,7 @@
 
 > Aesthetic vibes that just make sense.
 
-54 songs - 2 hr 12 min - not published yet
+54 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

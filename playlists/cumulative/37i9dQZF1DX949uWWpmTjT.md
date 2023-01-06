@@ -4,7 +4,7 @@
 
 > A soft and slow Jazz soundtrack to play in the background to all your activities.
 
-292 songs - 21 hr 44 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
+292 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

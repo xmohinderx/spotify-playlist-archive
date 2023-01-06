@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks by independent artists around the world this year\. Cover: Katherine Li \#SpotifyWrapped
 
-2,715 songs - 6 day 5 hr 29 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
+2,715 songs - 6 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

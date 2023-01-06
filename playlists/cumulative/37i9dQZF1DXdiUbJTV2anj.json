@@ -1,11 +1,26 @@
 {
   "date_first_scraped": "2022-08-08",
-  "description": "Heavy new bands you need to have an eye on. Cover: Cassyette",
+  "description": "Heavy new bands you need to have an eye on. Cover: Castle Rat",
   "name": "New Blood",
-  "published_playlist_ids": [
-    "0gTCJ5PNCODVC0yVCIKhB7"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Abandon Meant",
+        "url": "https://open.spotify.com/album/0HQT7vjsS71uiQ6tOMmtpo"
+      },
+      "artists": [
+        {
+          "name": "Graysea",
+          "url": "https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292040,
+      "name": "Abandon Meant",
+      "url": "https://open.spotify.com/track/5iyHvyWgXcPTznrSCA1FX5"
+    },
     {
       "album": {
         "name": "All Talk",
@@ -301,7 +316,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 171100,
       "name": "BUST IT",
       "url": "https://open.spotify.com/track/2VR50MI5hLSYnYRC1mAQOx"
@@ -377,6 +392,24 @@
       "duration_ms": 237640,
       "name": "Chlorine Tears",
       "url": "https://open.spotify.com/track/554OCcyd1Q3O7bDXNdRZjS"
+    },
+    {
+      "album": {
+        "name": "Memory Theater",
+        "url": "https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr"
+      },
+      "artists": [
+        {
+          "name": "Escuela Grind",
+          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156401,
+      "name": "Cliffhanger",
+      "url": "https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772"
     },
     {
       "album": {
@@ -481,7 +514,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 205590,
       "name": "Diabolic",
       "url": "https://open.spotify.com/track/35nX8jOmfuUEofO4r20zJN"
@@ -521,6 +554,24 @@
       "duration_ms": 116494,
       "name": "Do Your Job",
       "url": "https://open.spotify.com/track/3Qsf4DkfX8efJvJgGQ9Fhn"
+    },
+    {
+      "album": {
+        "name": "Remnants of the Vessel",
+        "url": "https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD"
+      },
+      "artists": [
+        {
+          "name": "Faetooth",
+          "url": "https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306782,
+      "name": "Echolalia",
+      "url": "https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo"
     },
     {
       "album": {
@@ -1010,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Light up the Sky",
+        "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
+      },
+      "artists": [
+        {
+          "name": "REXORIA",
+          "url": "https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206720,
+      "name": "Light up the Sky",
+      "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
+    },
+    {
+      "album": {
         "name": "Punishing Myself Before God Does",
         "url": "https://open.spotify.com/album/4gzx8nvpuFGHpilzCVoAJ8"
       },
@@ -1129,7 +1198,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 166000,
       "name": "MALIZIA",
       "url": "https://open.spotify.com/track/1jFosWcZ0SQbvdUhKOS14S"
@@ -1219,7 +1288,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 146666,
       "name": "Mr Medicine",
       "url": "https://open.spotify.com/track/48tHXTsLgLIU4fJNv13LIy"
@@ -1325,7 +1394,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 222000,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/43198ZeRQtET0J7fkhO595"
@@ -1347,6 +1416,24 @@
       "duration_ms": 180000,
       "name": "Only",
       "url": "https://open.spotify.com/track/5N6h0dmnyZrrTf4sn6khPQ"
+    },
+    {
+      "album": {
+        "name": "Paint It In Blood",
+        "url": "https://open.spotify.com/album/5RlGa3MNRVfH1RyKX2exvt"
+      },
+      "artists": [
+        {
+          "name": "The Tryals",
+          "url": "https://open.spotify.com/artist/3BTVFfo4K9ilLQ3vhLBbbs"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188544,
+      "name": "Paint It In Blood",
+      "url": "https://open.spotify.com/track/1njkMdwveFsnqghHpiBGvd"
     },
     {
       "album": {
@@ -1711,7 +1798,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 227731,
       "name": "Static Abyss",
       "url": "https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ"
@@ -1859,6 +1946,24 @@
       "duration_ms": 236850,
       "name": "The Dearly Beloved",
       "url": "https://open.spotify.com/track/65ISG3z0biln1mB8wakFEi"
+    },
+    {
+      "album": {
+        "name": "The Debt",
+        "url": "https://open.spotify.com/album/1tYh4lKvftUG55PLQPQ4WE"
+      },
+      "artists": [
+        {
+          "name": "Lift The Curse",
+          "url": "https://open.spotify.com/artist/5mVUxlgnywxeahNtMpoCiv"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "The Debt",
+      "url": "https://open.spotify.com/track/30y0r3xRBzngsUXJ2FeTgn"
     },
     {
       "album": {

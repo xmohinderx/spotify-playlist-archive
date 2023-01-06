@@ -4,7 +4,7 @@
 
 > Focus with deep techno and tech house.
 
-332 songs - 1 day 13 hr 2 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
+332 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Aufstand der Massen](https://open.spotify.com/track/2cOT1mJRmjpd353tKCwHnl) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Roar Remix / Aufstand der Massen](https://open.spotify.com/album/3kM5i2DAMq7DKo4xAO20eN) | 7:15 | 2019-05-26\* | 2020-05-13 |
 | [Azamutha](https://open.spotify.com/track/5sKH7kVaLM58UjdGXMZjco) | [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Azamutha](https://open.spotify.com/album/1EbVJzHrV2U39bpTglI7Xr) | 8:35 | 2021-12-17 | 2022-07-29 |
 | [Balear](https://open.spotify.com/track/3GcrqpoKGLh5c266BOYSkk) | [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088), [Los Suruba](https://open.spotify.com/artist/5ChHWvFPh4raexx461QFhS) | [Balear](https://open.spotify.com/album/1ty960bxAcPknsZqT7FBx2) | 7:40 | 2019-09-01 | 2021-01-15 |
-| [Barturator](https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3) | [Andre Lanine](https://open.spotify.com/artist/4m7JYimIummqKokshaDvFh) | [Barturator](https://open.spotify.com/album/6lhMnxfO8Hs0pJJRPSnY7e) | 6:34 | 2022-04-04 | 2023-01-04 |
+| [Barturator](https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3) | [Andre Lanine](https://open.spotify.com/artist/4m7JYimIummqKokshaDvFh) | [Barturator](https://open.spotify.com/album/6lhMnxfO8Hs0pJJRPSnY7e) | 6:34 | 2022-04-04 |  |
 | [Belize](https://open.spotify.com/track/0WCa7ZEnWVRFSCIHcVXNa1) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Beyond The Valley](https://open.spotify.com/album/6UrUdX9I9zEDx5FphbzlTd) | 7:49 | 2019-06-24 | 2019-11-09 |
 | [Beyond](https://open.spotify.com/track/7mBP9fo0krV2spidfoWI8V) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Speicher 114](https://open.spotify.com/album/4A4ZhRVnKN29mfXWMxMrdE) | 9:08 | 2020-02-29 | 2022-06-07 |
 | [Beyond the Time](https://open.spotify.com/track/7a7ta44fxccCcEvg5NImIi) | [Antonio D'Africa](https://open.spotify.com/artist/03J1IG0hYPv7B2vAERhcFc), [Sall](https://open.spotify.com/artist/020KXX3WjBgzoA9VXmVnTb) | [Beyond the Time](https://open.spotify.com/album/1bgmmpl10Gn8TeMt9U3gW8) | 7:10 | 2019-05-26\* | 2020-06-10 |
@@ -307,7 +307,7 @@
 | [Tesseract](https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM) | [Nors Kode](https://open.spotify.com/artist/4YBFnWJNrVZoUU6U30LaLY) | [Lu \| Sal Amander \| Tesseract](https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm) | 6:37 | 2021-10-09 | 2022-07-29 |
 | [Tesseract \- Original Mix](https://open.spotify.com/track/37s2WyJ33fi2EIsSrSETV6) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj) | [Tesseract](https://open.spotify.com/album/5qX92Y0v7VF5W8ZwhS8tdW) | 6:26 | 2019-05-26\* | 2022-05-06 |
 | [Test Tubes \- Mind Against Celestial Dub](https://open.spotify.com/track/57AJBbhiC6du02a9wCPwws) | [SCB](https://open.spotify.com/artist/7wXzAJOG2A0jtJXh5VucxT), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Test Cut](https://open.spotify.com/album/2GOSlnO2PsiUVJ3gzlC1o8) | 7:18 | 2019-06-01 | 2019-10-26 |
-| [The Elder](https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb) | [Light Below](https://open.spotify.com/artist/5TsDGbWsz9OsNW1o020TbF) | [The Elder](https://open.spotify.com/album/7jZ3BxxElBum1tFM8n5dBD) | 3:52 | 2022-09-09 |  |
+| [The Elder](https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb) | [Light Below](https://open.spotify.com/artist/5TsDGbWsz9OsNW1o020TbF) | [The Elder](https://open.spotify.com/album/7jZ3BxxElBum1tFM8n5dBD) | 3:52 | 2022-09-09 | 2023-01-06 |
 | [The Future Is Now](https://open.spotify.com/track/6PuaKgQtoi8McyiMtWIT4Z) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [The Future Is Now](https://open.spotify.com/album/7CVgbyq40OzHHJqikM4wgu) | 7:21 | 2020-04-27 | 2021-12-08 |
 | [The Granulator](https://open.spotify.com/track/4kPses4iniq8DoqKHWHtFG) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu), [Duss](https://open.spotify.com/artist/4259mUnQ63GVXaFm4VQ7n8) | [The Granulator](https://open.spotify.com/album/0mX1AlRZd6g3FOL7kBqaQF) | 7:13 | 2019-05-26\* | 2020-02-29 |
 | [The Last Day](https://open.spotify.com/track/0THqhqqCk4fEzpSmw9M1Tf) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9) | [The Last Day](https://open.spotify.com/album/7zQfHubXuvidKqo6FFbJfi) | 6:53 | 2019-05-26\* | 2019-07-05 |

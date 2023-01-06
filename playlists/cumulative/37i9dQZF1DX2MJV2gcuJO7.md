@@ -4,7 +4,7 @@
 
 > Enjoy music from "BORUTO"! / 音楽で辿る「BORUTO\-ボルト\- NARUTO NEXT GENERATIONS」の世界。 ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-91 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/1fKVvKbKG8fN7rLtOqoRGk)
+91 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

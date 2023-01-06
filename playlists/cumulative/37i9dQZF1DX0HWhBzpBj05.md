@@ -4,7 +4,7 @@
 
 > Spread some cheer with this list of new and old seasonal favorites.
 
-147 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/1am0nT5NWPDwpwR2gOJMLS)
+147 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

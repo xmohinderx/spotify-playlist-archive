@@ -4,7 +4,7 @@
 
 > Release your inner jock with these badass jams.
 
-166 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/5Zwr8vXJnNJ6byRautt0H4)
+166 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

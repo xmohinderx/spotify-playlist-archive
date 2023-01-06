@@ -4,7 +4,7 @@
 
 > The 100 greatest FIFA tracks of all time
 
-116 songs - 7 hr 12 min - not published yet
+116 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

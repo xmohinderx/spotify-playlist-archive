@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-61 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/6huaxOIVGcotGlqbksbqmW)
+61 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

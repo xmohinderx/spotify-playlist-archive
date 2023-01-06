@@ -4,7 +4,7 @@
 
 > Hand\-curated cuts from the vault, no record player required.
 
-243 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/5AAqvpIoHyvDthNcBVV4BF)
+243 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

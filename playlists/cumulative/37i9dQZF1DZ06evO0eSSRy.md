@@ -4,7 +4,7 @@
 
 > This is PÆRISH\. The essential tracks, all in one playlist.
 
-19 songs - 1 hr 8 min - [published](https://open.spotify.com/playlist/3yS9Dx8qi74fyft7TO8D3F)
+19 songs - 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

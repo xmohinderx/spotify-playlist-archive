@@ -4,7 +4,7 @@
 
 > This is the essential Justin Bieber.
 
-95 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/6l4lBg2UWguODj4gDE9AzT)
+95 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Find your flow with these trap and lofi beats.
 
-268 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+268 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

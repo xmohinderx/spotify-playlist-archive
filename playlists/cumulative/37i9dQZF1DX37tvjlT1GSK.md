@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Los Gemelos de Sinaloa en portada.
 
-164 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/2ALAGcMDhkZpzbgbQ32l2h)
+164 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

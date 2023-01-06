@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-132 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+132 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

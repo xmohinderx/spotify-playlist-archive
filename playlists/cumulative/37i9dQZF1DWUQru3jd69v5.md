@@ -2,9 +2,9 @@
 
 ### [Raptopia](https://open.spotify.com/playlist/37i9dQZF1DWUQru3jd69v5)
 
-> La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: SPOOKYPBL
+> La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Diss Gacha
 
-362 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+363 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,11 +37,12 @@
 | [Baby Mama](https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Baby Mama](https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO) | 2:31 | 2022-10-27 |  |
 | [BAG VUITTON](https://open.spotify.com/track/4CspoRF1oqHeZ9z1SzwKGv) | [Grelmos](https://open.spotify.com/artist/1u50IuLSHEITB0XFdcMUyY), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [BAG VUITTON](https://open.spotify.com/album/2eoMLNSTUfQpOS9mthYgd6) | 1:49 | 2022-12-15 |  |
 | [Bagage](https://open.spotify.com/track/7634keaijcnpeX1jzPrNQV) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Bagage](https://open.spotify.com/album/4eLAygvtyrT2Etom1JPVGq) | 2:22 | 2022-05-10 | 2022-07-16 |
-| [Bah oui](https://open.spotify.com/track/6KqwiIcFUYCV1kJTfVxchX) | [WadeLeVrai](https://open.spotify.com/artist/2sSF1FKT1eBuSwHZbzMycW), [Parker Wave](https://open.spotify.com/artist/5nCRzdYzQAE059xUATEuXF) | [Bah oui](https://open.spotify.com/album/3yAjxhNOHtNVaVjb5xfaHp) | 2:14 | 2022-12-08 |  |
+| [Bah oui](https://open.spotify.com/track/6KqwiIcFUYCV1kJTfVxchX) | [WadeLeVrai](https://open.spotify.com/artist/2sSF1FKT1eBuSwHZbzMycW), [Parker Wave](https://open.spotify.com/artist/5nCRzdYzQAE059xUATEuXF) | [Bah oui](https://open.spotify.com/album/3yAjxhNOHtNVaVjb5xfaHp) | 2:14 | 2022-12-08 | 2023-01-06 |
 | [BAMBA](https://open.spotify.com/track/0QJHIiPs1UTgJ3ZURHIBMw) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [COSA NOSTRA](https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH) | 2:15 | 2022-05-10 | 2022-06-03 |
 | [Bambine dinamite](https://open.spotify.com/track/4ucrkxUUozcD3olbm3K3D9) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [Tana Libera Tutti](https://open.spotify.com/album/5ZE6ZgRZl1mnKtzhxJClbs) | 2:08 | 2022-05-27 | 2022-06-17 |
 | [BANDOLERO \(feat\. Kerim Levrai, Madprince, Marsiglia, Orfedi\)](https://open.spotify.com/track/5qlWyJHbr7X31fhnfwaley) | [GROUP5](https://open.spotify.com/artist/2hx4C3GnYXZh96qs9jgZFu), [Asset](https://open.spotify.com/artist/4u2havXAV9R9KFjQ81LTLU), [Kerim Levrai](https://open.spotify.com/artist/2snabMyKqMDWa5rbHSP1ta), [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [Marsiglia](https://open.spotify.com/artist/360DKtml0W70xlAGX7bEwD), [Orfedi](https://open.spotify.com/artist/6tWqhYyCcRdweFdayEdUue) | [BANDOLERO \(feat\. Kerim Levrai, Madprince, Marsiglia, Orfedi\)](https://open.spotify.com/album/2xU8gbWf3TmX1cWQ1jwmen) | 2:17 | 2022-08-04 | 2022-11-25 |
 | [Banlieue](https://open.spotify.com/track/1QKBcUYppvjlYrcQuGS73H) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Banlieue](https://open.spotify.com/album/1X7LRBkdizwwX3TtU2zrDO) | 3:16 | 2022-05-10 | 2022-05-27 |
+| [Barbecue & Bacon](https://open.spotify.com/track/6uSsyN88JF9ZoN2AgRdwZw) | [Fady](https://open.spotify.com/artist/1EeBagJ2amUXOSo5GQsfZN), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Barbecue & Bacon](https://open.spotify.com/album/5pAYBbAjYCIDrAg1662aSs) | 3:46 | 2023-01-05 |  |
 | [Barrio](https://open.spotify.com/track/5JwPW4CHmbvjm7gTm3NlvH) | [Ramzes](https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR) | [Barrio](https://open.spotify.com/album/0oo7r2R5x6NmPffFsR2eEh) | 2:47 | 2022-07-07 | 2022-08-12 |
 | [Battere Cassa](https://open.spotify.com/track/75Ou9MlOFgsJMYaynRLPhm) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV) | [CODICE DA INCIS](https://open.spotify.com/album/3q4VZk659YiCdOoel7cdWY) | 2:01 | 2022-12-01 |  |
 | [BE NE REVIENS PAS](https://open.spotify.com/track/3L6iVIRS7htFAJ6uIh4FEo) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [BE NE REVIENS PAS](https://open.spotify.com/album/2W3WtB9HDRC5L5ZuMV2GUF) | 2:34 | 2022-12-08 | 2022-12-24 |

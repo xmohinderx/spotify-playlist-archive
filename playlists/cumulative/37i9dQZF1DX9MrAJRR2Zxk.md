@@ -4,7 +4,7 @@
 
 > Koffee takes us on a trip to the Caribbean with Xport
 
-137 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/1TJXBk9CCJF8TpecLcEXcm)
+137 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

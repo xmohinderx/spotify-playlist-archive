@@ -4,7 +4,7 @@
 
 > ¡A almorzar con sabrosura pop y tropical!
 
-86 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/01maJOrccQkLIBTAA7idZs)
+86 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

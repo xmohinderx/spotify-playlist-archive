@@ -4,7 +4,7 @@
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Malcolm VL, Jotapê
 
-116 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/6DYnkcmoPdSe2U2BMKpXAN)
+116 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

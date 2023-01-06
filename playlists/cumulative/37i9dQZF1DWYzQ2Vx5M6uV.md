@@ -4,7 +4,7 @@
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Oxlade, Camila Cabello
 
-104 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/6kK6tTD8lFWXvgmb9EWxhw)
+104 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

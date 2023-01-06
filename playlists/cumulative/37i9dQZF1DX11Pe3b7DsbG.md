@@ -4,7 +4,7 @@
 
 > Um bom sambinha para acompanhar cada gole de caipirinha.
 
-87 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/6OG3wwBWDB8FQ3P5Kl8QcH)
+87 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

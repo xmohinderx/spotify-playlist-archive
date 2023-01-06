@@ -4,7 +4,7 @@
 
 > Mixing the decades: 1990s, 2000s, 2010s and 2020s.
 
-845 songs - 2 day 4 hr 5 min - [published](https://open.spotify.com/playlist/0cMkRSoeWRIiSvfgE4l5Mo)
+845 songs - 2 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

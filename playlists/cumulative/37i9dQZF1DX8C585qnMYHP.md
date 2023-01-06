@@ -4,7 +4,7 @@
 
 > The best experimental music by independent artists and labels in 2022: Hatis Noit on cover \#SpotifyWrapped
 
-1,121 songs - 3 day 20 hr 15 min - [published](https://open.spotify.com/playlist/7vHfjk9LwMkQlbKUYS7lDl)
+1,121 songs - 3 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

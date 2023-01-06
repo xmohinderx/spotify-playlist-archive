@@ -4,7 +4,7 @@
 
 > Disfruta con mamá la era dorada de los 80's.
 
-116 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/2bFb9aU7QO0KHEjsEO6R11)
+116 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

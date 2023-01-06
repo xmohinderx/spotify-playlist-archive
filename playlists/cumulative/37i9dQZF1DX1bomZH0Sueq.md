@@ -4,7 +4,7 @@
 
 > Upbeat piano for stepping out
 
-261 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/6T0dcge1HCXsvT3rcEc3mW)
+261 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

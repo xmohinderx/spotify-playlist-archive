@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-417 songs - 1 day 3 hr 43 min - [published](https://open.spotify.com/playlist/3vJ4qB7BMV10tBofkiawS6)
+417 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ¡Que viva el amor!
 
-192 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/0CsdPWf0AIL3im79kQLnWU)
+192 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

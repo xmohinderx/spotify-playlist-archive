@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-405 songs - 1 day 0 hr 1 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+405 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

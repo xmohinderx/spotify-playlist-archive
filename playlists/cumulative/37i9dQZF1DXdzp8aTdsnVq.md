@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Diomedes Díaz
 
-85 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/5DUAgqOUAUpm54q7WTV3qb)
+85 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

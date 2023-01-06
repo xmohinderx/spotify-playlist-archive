@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année!
 
-319 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
+319 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

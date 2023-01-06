@@ -4,7 +4,7 @@
 
 > Dale play, y que la cumbia no pare.
 
-125 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/2y545i6tNIFno1inE4nhPc)
+125 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

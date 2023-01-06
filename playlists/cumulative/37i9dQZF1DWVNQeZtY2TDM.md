@@ -4,7 +4,7 @@
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: Dwagie \(大支\)
 
-435 songs - 22 hr 43 min - [published](https://open.spotify.com/playlist/291lRyJLRS6L2qu4DuC54F)
+435 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-125 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
+125 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

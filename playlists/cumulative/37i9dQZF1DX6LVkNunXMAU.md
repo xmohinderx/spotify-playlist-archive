@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Valdes.
 
-143 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/4BUp4yjqSNj5hKWR44pt15)
+143 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

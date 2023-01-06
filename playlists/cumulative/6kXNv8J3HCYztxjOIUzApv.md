@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-189 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/4aA1F6VQ4ECBvdhFded4Yt)
+189 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > your guide for a peaceful night.
 
-137 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/0yF840QYUl7VX4uOhnIVSI)
+137 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

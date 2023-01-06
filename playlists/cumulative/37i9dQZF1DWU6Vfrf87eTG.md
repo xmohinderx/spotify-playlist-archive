@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-170 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
+170 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

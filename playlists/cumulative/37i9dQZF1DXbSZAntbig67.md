@@ -4,7 +4,7 @@
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-107 songs - 5 hr 19 min - not published yet
+107 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

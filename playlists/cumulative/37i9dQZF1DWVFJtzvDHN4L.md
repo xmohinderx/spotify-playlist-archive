@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-74 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/5XoyP0YYwv6kZa4UxwFOYH)
+74 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

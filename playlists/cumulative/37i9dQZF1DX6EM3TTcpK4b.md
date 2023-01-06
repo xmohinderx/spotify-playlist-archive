@@ -4,7 +4,7 @@
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Javier Solís
 
-134 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/5wGit89Dc1HWZ3GYt8uMaV)
+134 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

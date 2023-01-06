@@ -4,7 +4,7 @@
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones.
 
-147 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/5TI9dqdb0u6anc2c8h8wVF)
+147 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

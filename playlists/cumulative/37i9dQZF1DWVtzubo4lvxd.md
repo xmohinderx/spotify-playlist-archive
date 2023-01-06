@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-221 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+221 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

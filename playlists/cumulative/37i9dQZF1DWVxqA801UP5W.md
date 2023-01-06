@@ -4,7 +4,7 @@
 
 > All your favourite pop songs, remixed to perfection\. Cover: Sam Ryder
 
-50 songs - 2 hr 45 min - not published yet
+50 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

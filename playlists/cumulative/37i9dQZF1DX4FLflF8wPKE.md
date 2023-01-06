@@ -4,7 +4,7 @@
 
 > Relax and escape with these tranquil tracks.
 
-89 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/7vNXNRq5W3aaOfi5RFe203)
+89 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Only the best in South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw">Spoegwolf</a>
 
-169 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
+169 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

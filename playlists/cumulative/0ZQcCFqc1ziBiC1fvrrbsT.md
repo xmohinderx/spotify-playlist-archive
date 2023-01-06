@@ -4,7 +4,7 @@
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-635 songs - 1 day 17 hr 3 min - [published](https://open.spotify.com/playlist/2PFwrusnZaqXNrk7F1X46x)
+635 songs - 1 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Chique e confortável como a realeza do Trap\. Foto: MD Chefe, DomLaike, Rare G, 4Genesis, Cax Camp
 
-171 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/5jkslhwBFHauhbdOEgkwD4)
+171 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

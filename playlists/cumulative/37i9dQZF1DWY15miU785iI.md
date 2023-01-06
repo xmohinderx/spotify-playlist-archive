@@ -4,7 +4,7 @@
 
 > Podcasts you need to have on your RADAR!
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/2rzMp2eeYIE3nnwvil2vF7)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

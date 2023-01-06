@@ -4,7 +4,7 @@
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-212 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/5xo43YFgTgjm6e7jZuAu4U)
+212 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

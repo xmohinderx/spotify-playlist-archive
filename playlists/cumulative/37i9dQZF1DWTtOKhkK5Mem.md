@@ -4,7 +4,7 @@
 
 > Male artists singing about love.
 
-288 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/5B8h6ibIDuEQNqnYk4TJRp)
+288 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

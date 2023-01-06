@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music Across East Africa
 
-67 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/450gAMxXNrHrJlyvpSxLfT)
+67 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

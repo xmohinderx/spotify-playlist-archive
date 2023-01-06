@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-223 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/3DsOFDYX7Pe6GJzMeJ9QUl)
+223 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

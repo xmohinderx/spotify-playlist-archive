@@ -4,7 +4,7 @@
 
 > 'Mali' is on the cover of IndiEnglish\. Stream now!
 
-141 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
+141 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

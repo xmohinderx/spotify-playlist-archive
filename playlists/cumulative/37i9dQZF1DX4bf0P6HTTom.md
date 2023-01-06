@@ -4,7 +4,7 @@
 
 > Eagles, The Byrds and all your favorite country rock
 
-66 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/5FqY2By8EsJ5wHYuLunZDA)
+66 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

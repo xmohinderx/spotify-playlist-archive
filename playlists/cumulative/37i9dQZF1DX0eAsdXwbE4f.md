@@ -4,7 +4,7 @@
 
 > Relax to the sound of birds singing in the rain.
 
-111 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/0bPXBk5PNX5kyNMRXtU8ae)
+111 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

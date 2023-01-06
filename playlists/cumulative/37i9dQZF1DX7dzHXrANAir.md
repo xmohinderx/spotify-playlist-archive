@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-227 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
+227 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

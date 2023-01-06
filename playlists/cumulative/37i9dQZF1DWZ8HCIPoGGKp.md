@@ -4,7 +4,7 @@
 
 > Calming green frequencies and nature sounds to help you relax, focus and sleep.
 
-85 songs - 3 hr 8 min - not published yet
+85 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

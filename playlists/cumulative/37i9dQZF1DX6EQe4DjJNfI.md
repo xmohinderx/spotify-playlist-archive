@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Duquesa
 
-82 songs - 4 hr 14 min - not published yet
+82 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Licor](https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Hip Hop Machine \#13](https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP) | 5:30 | 2022-11-18 |  |
 | [Ligação](https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA) | [Meraki](https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs), [BlakkLança](https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Ligação](https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG) | 3:29 | 2022-11-18 |  |
 | [Localização](https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [Localização](https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl) | 2:52 | 2022-11-18 |  |
-| [Ma Bae](https://open.spotify.com/track/12kikkqpvksw8aJPz3NNrJ) | [Kain Oficial](https://open.spotify.com/artist/4GSuB5hBQEpeX3UJk2CbYb), [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [REAL PS](https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I) | [Ma Bae](https://open.spotify.com/album/1mkE3MYFQuzUBr09cCNlh2) | 3:31 | 2022-11-18 |  |
+| [Ma Bae](https://open.spotify.com/track/12kikkqpvksw8aJPz3NNrJ) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN), [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [REAL PS](https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I) | [Ma Bae](https://open.spotify.com/album/1mkE3MYFQuzUBr09cCNlh2) | 3:31 | 2022-11-18 |  |
 | [Madrugada](https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Madrugada](https://open.spotify.com/album/4zntUGntUiylFop68gZFiw) | 2:38 | 2022-12-02 |  |
 | [mais que isso](https://open.spotify.com/track/0d5NlGvOFGrr66MDGX3W00) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [jovemCARLOS](https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC) | 3:34 | 2022-11-18 |  |
 | [Mais Um Pouco](https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Mais Um Pouco](https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs) | 3:05 | 2022-11-18 |  |

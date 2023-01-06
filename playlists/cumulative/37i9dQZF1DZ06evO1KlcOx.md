@@ -4,7 +4,7 @@
 
 > This is Grouper\. The essential tracks, all in one playlist.
 
-71 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/6cS0Ja7qFbMdxrl26pZLPg)
+71 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

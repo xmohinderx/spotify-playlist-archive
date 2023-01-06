@@ -4,7 +4,7 @@
 
 > Floor fillers to soundtrack the happiest day of your life.
 
-145 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/7K5qYlRhSS6XIRHvgeuyU9)
+145 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Crowdpleasing classics for an easy, carefree day.
 
-204 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/5KfAy6T6IqX0wAh1kF69QC)
+204 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Pitty, Nando Reis
 
-263 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+263 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

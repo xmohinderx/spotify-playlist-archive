@@ -4,7 +4,7 @@
 
 > Your favorite arias, performed by legendary opera divas.
 
-66 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/0JSjyO6pGv5itGZXaI5kGa)
+66 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Musica che, come la primavera, rende tutto più bello.
 
-186 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/5nIh8bGzt7jwZTza0Wud1L)
+186 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

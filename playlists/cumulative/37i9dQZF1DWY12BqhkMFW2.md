@@ -4,7 +4,7 @@
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-66 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/0eLui4qtyf4eA1MgRpDFE4)
+66 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

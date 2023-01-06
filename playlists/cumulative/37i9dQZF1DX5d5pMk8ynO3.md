@@ -4,7 +4,7 @@
 
 > Canciones que marcaron época en nuestro rock\. ¡Para cantar a los gritos! Foto: Soda Stereo
 
-73 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/2htb8U6lCVsmqI546CANC4)
+73 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

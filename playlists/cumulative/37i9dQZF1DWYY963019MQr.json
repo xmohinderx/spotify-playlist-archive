@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-15",
   "description": "Relaxing Jazz guitar for focus, study or unwinding.",
   "name": "Soft Jazz Guitar",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -1247,6 +1246,24 @@
       "duration_ms": 135240,
       "name": "While We're Young",
       "url": "https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel"
+    },
+    {
+      "album": {
+        "name": "A Guitar, a Man & a Song, Vol. I",
+        "url": "https://open.spotify.com/album/44EMmTgbEmnr89sTqbnGLM"
+      },
+      "artists": [
+        {
+          "name": "Maarten van der Grinten",
+          "url": "https://open.spotify.com/artist/37e1k0TyFygkdwIn5paeFN"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162810,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/1VB3aOUzV1vkjPYCUTmdMg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYY963019MQr"

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Chief Keef\n",
+  "description": "The Midwest is always on time. Cover: Icewear Vezzo\n",
   "name": "CST",
-  "published_playlist_ids": [
-    "41V1Pq5RMClkd6MJCSDWfC"
-  ],
   "tracks": [
     {
       "album": {
@@ -3881,7 +3878,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 201600,
       "name": "Maneuver (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi"
@@ -4159,6 +4156,24 @@
       "duration_ms": 159155,
       "name": "Mount Olympus",
       "url": "https://open.spotify.com/track/51iOn6LKdI9QWW04Db4H5E"
+    },
+    {
+      "album": {
+        "name": "Mr. Hanky",
+        "url": "https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142915,
+      "name": "Mr. Hanky",
+      "url": "https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: NewJeans\)
 
-599 songs - 1 day 10 hr 40 min - [published](https://open.spotify.com/playlist/43k4c9vIwa5D757ihXdBwg)
+599 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

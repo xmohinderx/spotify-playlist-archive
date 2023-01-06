@@ -4,7 +4,7 @@
 
 > Discover the unforgettable melodies of Chopin, including moving ballades, relaxing nocturnes and vibrant concertos.
 
-119 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/1ABuD7n9d0p3BfyYPmnPkg)
+119 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

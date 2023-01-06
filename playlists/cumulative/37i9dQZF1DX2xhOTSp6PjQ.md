@@ -4,7 +4,7 @@
 
 > Maskandi favourites for every day of the week\. Cover: <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS\-wXav9tJWA">Phuzekhemisi</a>
 
-92 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/7MknMC7DjPGcBYDazt2RIC)
+92 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

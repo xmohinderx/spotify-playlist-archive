@@ -4,7 +4,7 @@
 
 > Formas musicales de decir "Te quiero".
 
-130 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/2qSWw5wyRKPb7U8mTPwrYA)
+130 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

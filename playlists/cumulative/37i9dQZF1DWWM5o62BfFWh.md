@@ -4,7 +4,7 @@
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
 
-110 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/10FYMQLgw0cDsX64VDlIyb)
+110 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

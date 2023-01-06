@@ -4,7 +4,7 @@
 
 > No dust was found after cleaning to this playlist.
 
-408 songs - 1 day 0 hr 34 min - [published](https://open.spotify.com/playlist/6oRvGpvzDj3pSeGrYB27Hn)
+408 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

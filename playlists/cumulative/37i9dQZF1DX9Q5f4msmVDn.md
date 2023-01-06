@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-52 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/3lpvl2cSwTxUhUoh85zrYT)
+52 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

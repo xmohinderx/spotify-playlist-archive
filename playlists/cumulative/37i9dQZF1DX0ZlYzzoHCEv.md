@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-266 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
+266 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

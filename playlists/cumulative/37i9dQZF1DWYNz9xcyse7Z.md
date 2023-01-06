@@ -4,7 +4,7 @@
 
 > Recordando el legado campirano y rancherón con las clásicas del sierreño\. Ariel Camacho en portada.
 
-155 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/053xQr5gbucf3knzQjJ0pJ)
+155 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

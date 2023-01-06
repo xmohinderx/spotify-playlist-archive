@@ -4,11 +4,11 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-318 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
+318 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2022-07-14 | 2022-12-28 |
+| [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2022-07-14 |  |
 | [abc \(The Wild Remix\)](https://open.spotify.com/track/69P8aWFbgM3eD7UFSLPWsq) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd) | [abc \(The Wild Remix\)](https://open.spotify.com/album/0Zq00ywbUyDLVD8jN7XsOC) | 3:02 | 2022-07-14 |  |
 | [Above The Tide](https://open.spotify.com/track/6LKpiaIF8jCAGj8W96WNQr) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Above The Tide](https://open.spotify.com/album/2jqSPc5YxqUIDzxIxkBeYl) | 3:07 | 2022-06-24 | 2022-07-19 |
 | [Alive](https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Alive](https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh) | 3:17 | 2022-07-14 |  |
@@ -296,7 +296,7 @@
 | [u.](https://open.spotify.com/track/3bwIVaOlLSX4rInoLgB3uX) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/3R8Yfbc9k1aNH6kTqaYLyj) | 2:54 | 2022-08-26 |  |
 | [Under Pressure](https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Under Pressure](https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q) | 3:15 | 2022-09-23 |  |
 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 | 2022-10-14 |  |
-| [Unholy \- Dxrk ダークRemix](https://open.spotify.com/track/7ipO6ItNDXUiY9wjo4HvJr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Unholy \(Dxrk ダークRemix\)](https://open.spotify.com/album/7lK6WEgAKqQ4bzSwfpZ7UF) | 2:09 | 2022-12-02 |  |
+| [Unholy \- Dxrk ダークRemix](https://open.spotify.com/track/7ipO6ItNDXUiY9wjo4HvJr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Unholy \(Dxrk ダークRemix\)](https://open.spotify.com/album/7lK6WEgAKqQ4bzSwfpZ7UF) | 2:09 | 2022-12-02 | 2023-01-06 |
 | [Unify](https://open.spotify.com/track/5CmO3jOPVD7RaPERcA4xA1) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Unify / Lift Me Up](https://open.spotify.com/album/5IYZPdgIRq01r0noaioYf9) | 4:49 | 2022-05-06 | 2022-07-28 |
 | [Unity](https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL) | 3:24 | 2022-06-03 |  |
 | [Unleashed](https://open.spotify.com/track/3EQFXygBuRViHpx64ZPsjy) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab) | [Unleashed](https://open.spotify.com/album/3AeIE3pK62Qiu4sO9g8Vzy) | 2:31 | 2022-06-24 | 2022-07-29 |

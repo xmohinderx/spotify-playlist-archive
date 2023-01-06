@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-145 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/1au5JWSCrn3UaaowOXJ7pG)
+145 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

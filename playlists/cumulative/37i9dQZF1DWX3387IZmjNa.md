@@ -2,9 +2,9 @@
 
 ### [B.A.E.](https://open.spotify.com/playlist/37i9dQZF1DWX3387IZmjNa)
 
-> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Drake
+> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Lambo4oe
 
-244 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
+244 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-171 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/5XrR4yd4Dusry8J0LVbkFW)
+171 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

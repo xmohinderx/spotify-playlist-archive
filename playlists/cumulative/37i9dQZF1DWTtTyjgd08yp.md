@@ -4,7 +4,7 @@
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-168 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/3KkA6yjllLvBiw1k7e9VOi)
+168 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-156 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/0XeCN4Uhw9nq9gASs8Z6iC)
+156 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hit songs from the top 22 most streamed artists on the UnitedMasters platform in 2022.
 
-43 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/4eAUX1tchR5fKaViYSli0a)
+43 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

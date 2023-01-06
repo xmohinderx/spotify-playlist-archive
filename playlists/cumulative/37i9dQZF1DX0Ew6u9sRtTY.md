@@ -4,7 +4,7 @@
 
 > Remember these?
 
-114 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/71lFW5Q5BIWbFIEkdaWFgm)
+114 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

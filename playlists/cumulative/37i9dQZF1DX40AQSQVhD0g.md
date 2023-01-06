@@ -4,7 +4,7 @@
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-207 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/0KuPiQD1QCKngSaltgSNqK)
+207 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Explore Beethoven's great works in this essential playlist, featuring iconic recordings and special new releases.
 
-152 songs - 20 hr 41 min - [published](https://open.spotify.com/playlist/7npQPe6LEo683b5Sn0aaAj)
+152 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

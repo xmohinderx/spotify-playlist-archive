@@ -4,7 +4,7 @@
 
 > The biggest 00s hits from &quot;Teenage Dirtbag&quot; Wheatus, to Avril Lavigne, Sean Kingston, Usher, Shakira, Pussycat Dolls, and more!
 
-107 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/1ynosKRh1qAFE5dJbCyAPG)
+107 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

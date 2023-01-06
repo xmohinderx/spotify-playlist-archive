@@ -4,7 +4,7 @@
 
 > Oruam e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-230 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/1jX5Ne4edsz9wqa3MMSini)
+230 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-362 songs - 1 day 2 hr 37 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
+362 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

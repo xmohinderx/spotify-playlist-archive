@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-113 songs - 6 hr 34 min - not published yet
+113 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

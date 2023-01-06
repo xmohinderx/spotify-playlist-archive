@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: DawaMafia
 
-325 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
+326 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Rouge Cardinal](https://open.spotify.com/track/0xX5ijuhkRhqDV7l6uafgL) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Rouge Cardinal](https://open.spotify.com/album/0FimdtrBFjUUZRNpwR2qV8) | 2:13 | 2022-06-17 | 2022-07-02 |
 | [Rowzin](https://open.spotify.com/track/0YhTHQ37vdhsNbienW9YTB) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [Jwles](https://open.spotify.com/artist/4vbxtxqdkeHt1dICi63qs8) | [Rowzin](https://open.spotify.com/album/15oSQFCbYUQ2Jgo9slqOOf) | 2:32 | 2022-07-01 | 2022-08-06 |
 | [Run Off](https://open.spotify.com/track/4hacOsbThfn68iXRzWxFet) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Izuku 2.0](https://open.spotify.com/album/0ebFweEBDJCo4LySV87ARC) | 2:40 | 2022-06-17 | 2022-09-03 |
+| [Régiment](https://open.spotify.com/track/0DjL9yXsgFRyuTVHvnvNs4) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA) | [Régiment](https://open.spotify.com/album/1qkXGEbx5bpWXf0NhKlDHU) | 2:20 | 2023-01-06 |  |
 | [Sachet d'amour](https://open.spotify.com/track/1Nz8mPtB3J58dFa0M5EYj7) | [Baggies](https://open.spotify.com/artist/3MaLB9t8oVeKHmnmYi0VJS), [JeanCoeur](https://open.spotify.com/artist/3EnquMDJk2xQ9uaROEv8mT), [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt) | [Invincible](https://open.spotify.com/album/44GOSWH28z2v1AX67oLdBO) | 3:07 | 2022-05-13 | 2022-05-28 |
 | [Salaud](https://open.spotify.com/track/6tjy1Hee6UYCBiBYxNiLJ3) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Salaud](https://open.spotify.com/album/3fPTu8fL4vArZUEmc3nliD) | 4:05 | 2022-04-08 | 2022-05-20 |
 | [Salt Bae](https://open.spotify.com/track/2ZpVCAC54nKySnWuC0mJ0t) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Salt Bae](https://open.spotify.com/album/0n8ZU0vLoWOiRQWwQyrIVw) | 3:33 | 2022-01-14 | 2022-09-24 |
@@ -296,7 +297,7 @@
 | [Somebody](https://open.spotify.com/track/0m0zy4bOdjIHBv4AeZaQut) | [Bawza](https://open.spotify.com/artist/6qnJ0A1QJ8eMdR5AaZ26YU) | [Somebody](https://open.spotify.com/album/6ByO7HcUu9087121xRfMbm) | 3:40 | 2022-01-07 | 2022-02-05 |
 | [Soroche \- Remix](https://open.spotify.com/track/3lOPIBDXdNgWWtfVgUFjtc) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Akhenaton](https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu) | [Soroche](https://open.spotify.com/album/6lgpGcx0Y3AbGz26de8Rre) | 3:01 | 2022-01-14 | 2022-02-05 |
 | [Sous les étoiles](https://open.spotify.com/track/2kkkIDj5jtz0Owk7FbLH7d) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sous les étoiles](https://open.spotify.com/album/2ww313PwiVn6jHoWG4Z8yb) | 3:24 | 2022-01-07 | 2022-01-15 |
-| [Sur ma tête](https://open.spotify.com/track/44Oh92jkTz1Wwjvn3ljR69) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA) | [Sur ma tête](https://open.spotify.com/album/24oeB4y5KtvehmuKPFLGQh) | 2:18 | 2022-07-25 |  |
+| [Sur ma tête](https://open.spotify.com/track/44Oh92jkTz1Wwjvn3ljR69) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA) | [Sur ma tête](https://open.spotify.com/album/24oeB4y5KtvehmuKPFLGQh) | 2:18 | 2022-07-25 | 2023-01-06 |
 | [SUR MA VIE](https://open.spotify.com/track/2dy5GvWNBz0wFVmrckMRMD) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shah Frank](https://open.spotify.com/artist/02CC6FGDalkdCUBJXAgjc8) | [SUR MA VIE](https://open.spotify.com/album/5gYnlOWSyq1vj0lxMDnFB9) | 2:48 | 2022-03-18 | 2022-04-09 |
 | [Top](https://open.spotify.com/track/7L25Tg4Jxxk1Q5tS59QfUB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Top](https://open.spotify.com/album/5CyS1dpJOA6CAts78IybcG) | 4:01 | 2022-07-29 | 2022-10-08 |
 | [TOUJOU LAKAY](https://open.spotify.com/track/53hOZGibisDj5z7Fq9ePFW) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Tows](https://open.spotify.com/artist/0PT0yTrzxUDE7WLZr96qej) | [TOUJOU LAKAY](https://open.spotify.com/album/5hWB7wmExm1ko9U914T8eL) | 3:07 | 2022-01-28 | 2022-02-12 |

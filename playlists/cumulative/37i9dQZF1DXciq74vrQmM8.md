@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. jazmin bean
 
-406 songs - 19 hr 4 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+406 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

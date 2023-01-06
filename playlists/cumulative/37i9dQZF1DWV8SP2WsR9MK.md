@@ -4,7 +4,7 @@
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-122 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/7w8GJPrdmj1YWELU4DdBN4)
+122 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

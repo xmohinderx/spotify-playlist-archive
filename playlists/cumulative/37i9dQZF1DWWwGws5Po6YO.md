@@ -4,7 +4,7 @@
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-130 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/3Cfws2NIwPEctch5DfP3Jy)
+130 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

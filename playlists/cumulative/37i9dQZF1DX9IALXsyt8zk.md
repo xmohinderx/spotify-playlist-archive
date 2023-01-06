@@ -4,7 +4,7 @@
 
 > Top of the top tracks in RADAR KOREA playlist this year! \(Cover: NMIXX\(엔믹스\)\) 2022년 RADAR KOREA를 빛낸 트랙들을 만나보세요!
 
-168 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
+168 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-82 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/0zvb0POlvbyMbG9Tppieti)
+82 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

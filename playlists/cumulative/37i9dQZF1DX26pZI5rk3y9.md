@@ -4,7 +4,7 @@
 
 > Classic music for cooking and eating with friends.
 
-92 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/3uJsjEzjcEqBc4z4TXxjVT)
+92 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

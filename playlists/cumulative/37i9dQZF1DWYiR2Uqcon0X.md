@@ -4,7 +4,7 @@
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-115 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/1g8j7JOt4fueiGiEb02ZhY)
+115 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

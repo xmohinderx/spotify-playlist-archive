@@ -4,7 +4,7 @@
 
 > Meet the vocalists representing Korea! \(Cover: Yerin Baek\(백예린\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-368 songs - 1 day 0 hr 7 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
+368 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Anymore \(Feat\. Whee In of MAMAMOO\)](https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 4:18 | 2021-12-20 | 2022-10-25 |
 | [Around You](https://open.spotify.com/track/1FDmOfHoU1hXFxHjWMPObq) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [Around You](https://open.spotify.com/album/28DDo4pRZosbVFpZxGnJbn) | 3:59 | 2022-07-04 | 2022-07-23 |
 | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/track/1o1VpJ8DKeVzbWT0WnSLFK) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/album/4cBY8PVf0xqqnWsAiSrIGG) | 3:28 | 2021-12-27 | 2022-07-24 |
-| [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2021-12-20 |  |
+| [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2021-12-20 | 2023-01-06 |
 | [Autumn Night](https://open.spotify.com/track/05f49QdY08agCPBn5ihwt2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [50 X HALF](https://open.spotify.com/album/6Gb67WVk3hjMcQ6WhQmuRK) | 3:04 | 2022-03-24 | 2022-04-20 |
 | [AWay](https://open.spotify.com/track/6kDjvnLPUyDn0GVc6BLG6A) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 3:20 | 2022-02-10 | 2022-05-02 |
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2021-12-20 |  |
@@ -176,7 +176,7 @@
 | [Lim Jae Beum \- v o K a l \(EN\)](https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:02 | 2022-10-26 |  |
 | [Lim Jae Beum \- v o K a l \(KR\)](https://open.spotify.com/track/1wjeOAasitMZuBLt2PE1YM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:03 | 2022-10-26 |  |
 | [Link](https://open.spotify.com/track/6O3EdGPasHMi44JWmyi0nW) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0ruypxhtFg28qk7uJDSozs) | 3:39 | 2022-08-01 | 2022-12-28 |
-| [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 | 2022-08-18 | 2023-01-05 |
+| [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 | 2022-08-18 |  |
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-07-24 |
 | [Looking For Love \(Man Ver.\)](https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Oh My Venus \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo) | 4:01 | 2022-04-01 | 2022-04-21 |
 | [Lost](https://open.spotify.com/track/2pRmhfwgixiYF91SywOUFh) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Stranger 2 \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6ndtD6TsJ5d9gju1CIDf6Z) | 3:16 | 2021-12-20 | 2022-07-11 |

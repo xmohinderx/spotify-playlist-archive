@@ -4,7 +4,7 @@
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Kaya
 
-193 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
+193 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

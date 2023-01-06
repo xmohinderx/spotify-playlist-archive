@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,067 songs - 1 day 16 hr 22 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+1,067 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

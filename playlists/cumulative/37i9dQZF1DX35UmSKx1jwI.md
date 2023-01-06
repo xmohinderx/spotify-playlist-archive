@@ -4,7 +4,7 @@
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-71 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/52tmP6AlCqUQeP3yBN8sra)
+71 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

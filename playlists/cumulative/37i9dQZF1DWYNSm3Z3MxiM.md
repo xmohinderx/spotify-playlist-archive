@@ -4,7 +4,7 @@
 
 > Anthems only\. For an extra rep, an extra set or an extra mile.
 
-117 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/6DYzN0cP7OPnZuZS99dem5)
+117 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

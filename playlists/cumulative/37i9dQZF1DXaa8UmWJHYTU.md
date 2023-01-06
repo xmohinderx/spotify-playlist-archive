@@ -4,7 +4,7 @@
 
 > Crackling and popping sounds of fireplaces.
 
-154 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/47DEaRkYfcjce8EeKKgSnt)
+154 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Music to get your heart started.
 
-146 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/4lEzpfP5kkGqno5HylekJa)
+146 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

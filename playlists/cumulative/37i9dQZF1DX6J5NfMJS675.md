@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-421 songs - 1 day 18 hr 52 min - [published](https://open.spotify.com/playlist/2CLl9bdbXGoEG2KzSgeejA)
+421 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

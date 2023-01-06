@@ -4,7 +4,7 @@
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-75 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/73tk3HQ1A5zVZL7BTE95Dd)
+75 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

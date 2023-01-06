@@ -4,7 +4,7 @@
 
 > Relax to acoustic versions of your favorite rock songs.
 
-145 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/1rSuFGseWWum14bljXjPqj)
+145 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

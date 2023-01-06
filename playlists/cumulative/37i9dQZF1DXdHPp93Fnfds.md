@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Javiera Mena
 
-461 songs - 1 day 2 hr 35 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+461 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

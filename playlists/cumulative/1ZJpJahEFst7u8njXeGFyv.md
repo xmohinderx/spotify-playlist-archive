@@ -4,7 +4,7 @@
 
 > Relax, unwind and chill to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Alexandra Streliski, Yo\-Yo Ma, Esther Abrami and Alexis Ffrench\. The perfect background music for sleep and study.
 
-195 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/6J7UDS3vYVbd7TRfyS5nfF)
+195 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

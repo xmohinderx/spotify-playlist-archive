@@ -4,7 +4,7 @@
 
 > Meditative tones for clarity and healing.
 
-81 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/1wcoY7hOzprWoSsRPIyjVD)
+81 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Lil Wayne",
-  "num_followers": 57966,
+  "num_followers": 58274,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMGUxNmFjMGY2NzdiNTkzODRhZDkyMjY1Zjg0MmE0NTAx",
+  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMGU5NWQ4MTYyNGExYTZhNDAwMjJmODE5ZjkyMzQyNDU5",
   "tracks": [
     {
       "added_at": "2022-05-20 23:33:16",
@@ -407,26 +407,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Let Me Blow Ya Mind",
-      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "Paper Trail",
         "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 338853,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Let Me Blow Ya Mind",
+      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
+        "name": "The Black Album",
+        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Dirt Off Your Shoulder",
+      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
         "name": "Juve The Great",
         "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 248200,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "The Black Album",
-        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Dirt Off Your Shoulder",
-      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
+        "name": "The State vs. Radric Davis (Deluxe)",
+        "url": "https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 246013,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
         "name": "Light Poles And Pine Trees",
         "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 216000,
       "name": "So What",
       "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "The State vs. Radric Davis (Deluxe)",
-        "url": "https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 246013,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J"
     },
     {
       "added_at": "2022-05-20 23:33:16",

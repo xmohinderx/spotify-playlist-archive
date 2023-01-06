@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/0ulNF6RkSGdPCKS5FTmAzk)
+97 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

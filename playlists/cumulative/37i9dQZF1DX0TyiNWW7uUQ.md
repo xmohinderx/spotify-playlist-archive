@@ -4,7 +4,7 @@
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Varisu
 
-117 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/69GF5UsinX4QRifDXRVvJk)
+117 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

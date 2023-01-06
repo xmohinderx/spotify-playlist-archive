@@ -4,7 +4,7 @@
 
 > good vibes only.
 
-207 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
+207 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

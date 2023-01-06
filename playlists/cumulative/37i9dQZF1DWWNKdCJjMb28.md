@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/karencivil/?hl=en">Karen Civil</a>
 
-50 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/3tO2vNLNfXt7eLeo6EtxcD)
+50 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

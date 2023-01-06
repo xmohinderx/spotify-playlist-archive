@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-555 songs - 1 day 9 hr 9 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
+555 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

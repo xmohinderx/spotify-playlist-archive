@@ -4,7 +4,7 @@
 
 > Tunes for sun drenched days and balmy nights.
 
-110 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
+110 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-133 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/5j359EkdLizzDFpJebBsga)
+133 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,591 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,614 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Can't Get Out of This Mood](https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Can't Get Out of This Mood](https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy) | 3:42 |
+| 1 | [Can't Get Out Of This Mood](https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Can't Get Out Of This Mood](https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy) | 3:42 |
 | 2 | [Thunderclouds](https://open.spotify.com/track/4uskCkze8NPSFfYP8rsZ4T) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 3:36 |
 | 3 | [It Might as Well Be Spring](https://open.spotify.com/track/6xzQ9phLCPuT5vpi6zMVrk) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Pogline](https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH) | [Featuring](https://open.spotify.com/album/3kXZdr9VwvxkjKqpuut6Lg) | 4:52 |
 | 4 | ['Round Midnight](https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | ['Round Midnight](https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM) | 4:12 |

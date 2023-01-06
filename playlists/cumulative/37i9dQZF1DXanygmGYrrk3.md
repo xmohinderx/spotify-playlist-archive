@@ -4,7 +4,7 @@
 
 > Tus canciones favoritas de Música Mexicana, all in one place! Cover: Carin Leon y Grupo Frontera.
 
-267 songs - 14 hr 36 min - [published](https://open.spotify.com/playlist/2wigFKrLmiEwF5seFjIof2)
+267 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

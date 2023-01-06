@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 199269,
+  "num_followers": 199422,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNDQ0NSwwMDAwMDAwMDFjZWIwZGI1NmM1YzRiZjRjOTE1NmVjNWZhYzU5MGZl",
+  "snapshot_id": "MTY3MjQyNDQ0NSwwMDAwMDAwMDMwNmVkZjBlNjA3NWM2YTQwNzJjNzMzNTY3MjMxOWEz",
   "tracks": [
     {
       "added_at": "2020-08-25 16:57:45",
@@ -799,6 +799,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "A Lo Cubano",
+        "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
+      },
+      "artists": [
+        {
+          "name": "Orishas",
+          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
+        }
+      ],
+      "duration_ms": 226873,
+      "name": "Represent",
+      "url": "https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "Pero Me Acuerdo De Ti",
         "url": "https://open.spotify.com/album/23DlBVK1TYSvJ6JYHIV53T"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 233947,
       "name": "Pero Me Acuerdo De Ti",
       "url": "https://open.spotify.com/track/7HumocNn7PasLHHfodVUU4"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "A Lo Cubano",
-        "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
-      },
-      "artists": [
-        {
-          "name": "Orishas",
-          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
-        }
-      ],
-      "duration_ms": 226873,
-      "name": "Represent",
-      "url": "https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ"
     },
     {
       "added_at": "2020-08-25 16:57:45",

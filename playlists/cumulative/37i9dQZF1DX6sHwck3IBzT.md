@@ -4,7 +4,7 @@
 
 > Top 50 of the best Amapiano songs in 2022! Cover: <a href="https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj?si=Uk\_hEIv1Srqx4tP648aJlw">Q\-Mark</a>, <a href="https://open.spotify.com/artist/2nvb7E4RLPQVXoUPRaHLuJ?si=4tdpQThsQDW06fmJwCH4Nw">TpZee</a> and <a href="https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO?si=fuYAFYXcScGQGzC0cjn2nw">Afriikan Papi</a>
 
-95 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/6yMdXHBKHjFzleSb1wMhBz)
+95 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

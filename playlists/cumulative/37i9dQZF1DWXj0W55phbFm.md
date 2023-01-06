@@ -4,7 +4,7 @@
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-131 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/51VUBPDUeBVmMBu3JyYpOE)
+131 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

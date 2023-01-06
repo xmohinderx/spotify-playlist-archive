@@ -4,7 +4,7 @@
 
 > Revisit memories and make new ones with the best Kwaito songs ever released\. Cover: Spikiri
 
-60 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/0kYLFJir1iXtasvLvOvM18)
+60 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Indie folk that defined the 2000s.
 
-201 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/7oAJosHP5U7Gjb4MjQ0A6m)
+201 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

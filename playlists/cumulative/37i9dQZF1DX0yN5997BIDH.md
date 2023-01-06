@@ -4,7 +4,7 @@
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-234 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/6RF1E793gGxvwvWp2MLyJS)
+234 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

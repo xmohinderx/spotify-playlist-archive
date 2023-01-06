@@ -4,7 +4,7 @@
 
 > Even rockers need a break.
 
-129 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5NZJisOXUDORKjlyimSlVx)
+129 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

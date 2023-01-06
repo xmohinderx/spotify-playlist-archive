@@ -4,7 +4,7 @@
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0WK1R7cOtc6ojpQbtQbUnD)
+74 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

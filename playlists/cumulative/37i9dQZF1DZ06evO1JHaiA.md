@@ -4,7 +4,7 @@
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/4RcOBBWDX6MKLzCgOsZWnl)
+65 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

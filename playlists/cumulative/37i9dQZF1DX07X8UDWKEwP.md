@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Christian Alicea
 
-190 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/2Ht3c63z2gjsw6cH26GdKD)
+190 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

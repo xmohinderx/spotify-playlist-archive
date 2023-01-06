@@ -1,13 +1,37 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78650,
+  "num_followers": 78646,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzYwOSxjY2FmZWY2MTNkMjIxNWY5ZThkY2E0YjgxMmZjNzUzYzZhNDUwZDUz",
+  "snapshot_id": "MzYxMCwzM2MwMGVhNzk3NTM0OWY0MWQ1N2Q3ZjQ2MGRkODhmMGY0YmVlYjBl",
   "tracks": [
+    {
+      "added_at": "2023-01-05 10:21:33",
+      "album": {
+        "name": "The Harmony",
+        "url": "https://open.spotify.com/album/4kpZBm6XlD1TZRU220lj9i"
+      },
+      "artists": [
+        {
+          "name": "James Yorkston",
+          "url": "https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw"
+        },
+        {
+          "name": "Nina Persson",
+          "url": "https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c"
+        },
+        {
+          "name": "The Second Hand Orchestra",
+          "url": "https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "The Harmony",
+      "url": "https://open.spotify.com/track/4bWoizeurWxioIenJkguM6"
+    },
     {
       "added_at": "2023-01-04 11:57:52",
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-73 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/0RiCMVj1fDLgP3TQwhgent)
+73 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Timeless heart\-warming classics from 1950\- 1980 for the holiday season.
 
-107 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/2LrKZFCCLyYeh3IWx3jt2W)
+107 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

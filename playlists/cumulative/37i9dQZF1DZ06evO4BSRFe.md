@@ -4,7 +4,7 @@
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/7wKymSLTXiTtr2AI2MpiU9)
+66 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Celebramos a las figuras legendarias del rock en nuestro idioma\. Foto: Soda Stereo.
 
-386 songs - 1 day 2 hr 32 min - [published](https://open.spotify.com/playlist/3h4mSICDb0QUk3bKE3SOeP)
+386 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

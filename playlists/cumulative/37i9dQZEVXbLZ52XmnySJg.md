@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- India.
 
-586 songs - 1 day 11 hr 48 min - [published](https://open.spotify.com/playlist/2hJO5OpOxq1ldai8M2Twzr)
+586 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

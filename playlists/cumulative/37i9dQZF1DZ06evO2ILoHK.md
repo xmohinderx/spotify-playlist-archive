@@ -4,7 +4,7 @@
 
 > This is Basement\. The essential tracks, all in one playlist.
 
-37 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/6twtSEdGSHezujiZc3X7Fa)
+37 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

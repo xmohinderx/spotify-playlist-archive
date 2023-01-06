@@ -4,7 +4,7 @@
 
 > Friday Haus \- Freshest house tunes every week\. Updated Every Friday !
 
-67 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/0SgfroNhrIZcpXbLF3O8o0)
+67 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [As Long As We Got House](https://open.spotify.com/track/1haSCrD5ejKJHEYH1gP6OW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [As Long As We Got House](https://open.spotify.com/album/5i2am7GXU3ROJFU8nOPnUz) | 2:53 | 2022-12-09 | 2022-12-17 |
 | [Aura](https://open.spotify.com/track/2Bj5ZUeHEke7ovkkpPbG7d) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jargen](https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl) | [Aura](https://open.spotify.com/album/0itIElpJrQZ30aPUilSDgn) | 3:04 | 2022-09-30 | 2022-12-10 |
 | [Ballroom](https://open.spotify.com/track/3dok2BteRgxI2czCkDh0PQ) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom](https://open.spotify.com/album/3pKvEE95kPUM0ysZ5FC96R) | 5:03 | 2022-11-11 | 2022-12-10 |
-| [Ballroom \- Edit](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 | 2022-12-16 |  |
+| [Ballroom \(Edit\)](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 | 2022-12-16 |  |
 | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4) | 3:25 | 2022-09-30 | 2022-11-12 |
 | [Big Bad Ego](https://open.spotify.com/track/2Mv7NjMm4ogOcrHh6EgyV1) | [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Big Bad Ego](https://open.spotify.com/album/0lbPrK6VJmA1fbp6wSGD0d) | 3:15 | 2022-12-09 | 2022-12-17 |
 | [Body Move](https://open.spotify.com/track/1UyYIqE4bTokxEK0DUpzTM) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Jack The House 3](https://open.spotify.com/album/2JLEygazGNxcACvaFLNRmC) | 3:04 | 2022-11-11 | 2022-12-10 |

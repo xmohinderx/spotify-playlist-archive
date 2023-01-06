@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: brakence
 
-61 songs - 2 hr 41 min - not published yet
+64 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,11 @@
 | [Do U Wanna Stay?](https://open.spotify.com/track/1uyNFMBOQXx6laYMtiZG61) | [Mana Garden](https://open.spotify.com/artist/66Gv97uu4XTInfcVvHhbcC) | [Do U Wanna Stay?](https://open.spotify.com/album/1p1l2zqAcZXdW4sKyktF2N) | 2:30 | 2022-12-04 |  |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-12-04 |  |
 | [Doubt Me \(with aldn\)](https://open.spotify.com/track/4ittbqP6lNt3n8mCsLRhBm) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Doubt Me \(with aldn\)](https://open.spotify.com/album/1x0XyLVKG1IekcXSY0yCrt) | 1:51 | 2022-12-09 |  |
+| [Fingers](https://open.spotify.com/track/4XrxK7r8Jbkpzc4KCRIC9P) | [Patrick O'neill](https://open.spotify.com/artist/66VmY2NGXnd4vjm3d6hGuX) | [Fingers](https://open.spotify.com/album/4IzDYLN43m5Y25OfAq2nrO) | 2:56 | 2023-01-05 |  |
 | [Fitness](https://open.spotify.com/track/6QcUUlAgee7GsQCWMl8dIs) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Snooper](https://open.spotify.com/album/55n75LXuj6zDIZoBM3fBUs) | 1:31 | 2022-12-04 |  |
 | [fuckboy](https://open.spotify.com/track/7cELheBXF3jIShGuewCy44) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:37 | 2022-12-04 |  |
 | [Go!](https://open.spotify.com/track/6UcEK9qZjNnHLnkZRiKWLk) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [SID THE KID](https://open.spotify.com/album/6lQoWpcquJkjgW1yZhNqlV) | 2:43 | 2022-12-04 |  |
+| [harder than it looks softer than youd think](https://open.spotify.com/track/1FVnwCTrxcmukBmTk5XdkZ) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [harder than it looks softer than youd think](https://open.spotify.com/album/13sdluulDSOsUuL1DgXOR6) | 2:40 | 2023-01-06 |  |
 | [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 | 2022-12-16 |  |
 | [I Thought I Saw An Astronaut](https://open.spotify.com/track/2oun4Gfgac2SEbdpDTAQgF) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [songs](https://open.spotify.com/album/0y7QaN0r8zsiD9R7ikFdo3) | 2:18 | 2022-12-04 |  |
 | [I Watched Them Go](https://open.spotify.com/track/7caD4SRq2jQfbFy2ZfT3iz) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [I Watched Them Go](https://open.spotify.com/album/5CS8JBzPL6gw4r95U3Ia1d) | 3:19 | 2022-12-04 |  |
@@ -61,6 +63,7 @@
 | [Sweet One](https://open.spotify.com/track/07yN3cbIaYw9LOli6iFEuL) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/6oRFl2fJkYPBAMyRw6Q3GY) | 2:13 | 2022-12-04 | 2022-12-07 |
 | [sydney](https://open.spotify.com/track/6c7BepOWSpr5gL44cLKXRW) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [sydney](https://open.spotify.com/album/4gL0GCWQjkf2kaiMais7At) | 2:23 | 2022-12-04 | 2022-12-10 |
 | [teeth \(you\)](https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [teeth \(you\)](https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY) | 2:01 | 2022-12-04 |  |
+| [The Industry \(don't care\)](https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE) | [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [The Industry \(don't care\)](https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR) | 1:54 | 2023-01-06 |  |
 | [the summer i grew up](https://open.spotify.com/track/341SgFKGC3j1lJNNX5w7zW) | [ryen](https://open.spotify.com/artist/5L7zIiH18e2nY37pQ9ZjGp) | [the summer i grew up](https://open.spotify.com/album/4SoRO6ybGRA8sOye3hCLeV) | 2:55 | 2022-12-04 |  |
 | [the world is ending and i can't stop crying over these frog boots](https://open.spotify.com/track/4MQ48t5e8dXrmOWKpJtnIT) | [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV) | [the world is ending and i can't stop crying over these frog boots](https://open.spotify.com/album/5codoSDdPKtxmIXHMLEjN7) | 2:37 | 2022-12-09 |  |
 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2022-12-04 | 2022-12-07 |

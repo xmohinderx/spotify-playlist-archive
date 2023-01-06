@@ -4,7 +4,7 @@
 
 > Cerchi energie e buona musica? Prova con la nostra playlist!
 
-187 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/1MD1xnD0LanKfsaqIIX4F0)
+187 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

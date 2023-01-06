@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Stryper
 
-127 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
+127 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

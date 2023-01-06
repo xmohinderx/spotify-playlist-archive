@@ -4,7 +4,7 @@
 
 > 70s rock to fuel your ride\. Cover: Aerosmith
 
-76 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/3PfkV0A2msjUMG31iPGrco)
+76 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

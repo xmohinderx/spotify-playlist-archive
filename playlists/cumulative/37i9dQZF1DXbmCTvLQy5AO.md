@@ -4,7 +4,7 @@
 
 > Empowered rhymes and vibes\. Cover: Lil Nas X
 
-95 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/7wi1BWlfT5Ro0JXOEqc0TU)
+95 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

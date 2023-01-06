@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Escuchá a Mora Navarro y a más mujeres a todo volumen\. <br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,550 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,560 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 27 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 |
 | 28 | [VINO Y BLUNT](https://open.spotify.com/track/3rwrEmUIZNhJUEGtawa9U0) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MIMO](https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21) | 2:40 |
 | 29 | [La excepción](https://open.spotify.com/track/2uqNwEFOsojGkpLwqXyqw3) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [La excepción](https://open.spotify.com/album/2djQY2QytyBhuuifn6z3QL) | 3:45 |
-| 30 | [El Astronauta](https://open.spotify.com/track/6OLPDgbtcZe84Aqc5fbik5) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 2:44 |
-| 31 | [Madre](https://open.spotify.com/track/4J3ZS9WDjMkOqD9RLubWAz) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 4:06 |
+| 30 | [Madre](https://open.spotify.com/track/4J3ZS9WDjMkOqD9RLubWAz) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 4:06 |
+| 31 | [El Astronauta](https://open.spotify.com/track/6OLPDgbtcZe84Aqc5fbik5) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 2:44 |
 | 32 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
 | 33 | [Un minuto](https://open.spotify.com/track/4pHrwNUVTi8uRmRzMqgx2p) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Un minuto](https://open.spotify.com/album/0DAahj2hayoE3vXq5LawsQ) | 3:22 |
 | 34 | [Con Mi Amiga](https://open.spotify.com/track/40cety5BmUPCXAzaUbQkFp) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Con Mi Amiga](https://open.spotify.com/album/4oUpXNlect39k7OquCGJD2) | 3:04 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 44 | [duele](https://open.spotify.com/track/2AbO6Q9JMnCvEtXVKauXUN) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [EL RUIDO DEL SILENCIO](https://open.spotify.com/album/3qGBBO5yibQFzZMqOmWuZ5) | 2:12 |
 | 45 | [Te Veo](https://open.spotify.com/track/7bCKA92OWo7QSJ0SUe0CRz) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [MAJA](https://open.spotify.com/artist/1vt66Aetdj6e4TpfaXpmhx) | [Hex](https://open.spotify.com/album/0VhDbHjdwQkAJFBe8FwLKY) | 3:14 |
 | 46 | [Miedos](https://open.spotify.com/track/1OMxMlloAua2ILotDdh6Bp) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Pendeja](https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe) | 3:02 |
-| 47 | [envoltorio](https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 3:18 |
-| 48 | [Bruma](https://open.spotify.com/track/37A1t6zLsxWtqZfb5nE9hf) | [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Santa Basura \[1\]](https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9) | 1:19 |
+| 47 | [Bruma](https://open.spotify.com/track/37A1t6zLsxWtqZfb5nE9hf) | [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Santa Basura \[1\]](https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9) | 1:19 |
+| 48 | [envoltorio](https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 3:18 |
 | 49 | [A Medio Paso de Tu Amor](https://open.spotify.com/track/5L2hNfn0j0siDROBUSwI7P) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Spm \(Se Pronuncia Maguaier\)](https://open.spotify.com/album/6yDOQhDAnwt9Bh2KN5Volt) | 3:45 |
 | 50 | [Ir al Cielo](https://open.spotify.com/track/3M32rJC44XivZBYqrA6QLe) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Ir al Cielo](https://open.spotify.com/album/1CeEByiGtu4Vk3JmZPOnHB) | 3:23 |
 
-Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMGExYzk2MDBhM2M2MzY0ZmMxYWQzZmI3MzlkOWYxNDVk`
+Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMDdmMjU3NmZlODQzNGRiNjNhOTk5Y2U4MDc2MTlhM2Qw`

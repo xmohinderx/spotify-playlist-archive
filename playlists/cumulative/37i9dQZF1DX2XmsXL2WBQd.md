@@ -4,7 +4,7 @@
 
 > Anthems from the early days of recorded rap music.
 
-139 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/0wZfFAve2bpWARsdwq2jEw)
+139 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best soft rock from the 1990s\. Cover: Bryan Adams.
 
-111 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/2wT0QCVq5k4YafWBEpNfZN)
+111 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

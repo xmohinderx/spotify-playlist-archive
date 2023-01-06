@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-400 songs - 20 hr 27 min - [published](https://open.spotify.com/playlist/6s7Ce3R6enjvEkk6nbt6Wh)
+400 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

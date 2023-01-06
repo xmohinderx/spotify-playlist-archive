@@ -4,7 +4,7 @@
 
 > pov: you're in the edit
 
-80 songs - 5 hr 9 min - not published yet
+80 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

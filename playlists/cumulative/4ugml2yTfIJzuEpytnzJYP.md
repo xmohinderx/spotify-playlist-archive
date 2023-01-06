@@ -4,7 +4,7 @@
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-188 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
+188 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ¡Muévete al ritmo de esta cumbia! Cover: Los Ángeles Azules.
 
-163 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/4hXhb06SfkzPU69NYrwfU0)
+163 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

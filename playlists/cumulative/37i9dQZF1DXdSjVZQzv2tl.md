@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto, Matheus & Kauan
 
-112 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
+112 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

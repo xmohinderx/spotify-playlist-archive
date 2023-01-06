@@ -4,7 +4,7 @@
 
 > Escucha a estos creadores, seleccionados por nuestro equipo editorial de podcasts.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/1jltw56BPNubuGebSDut3A)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-119 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
+119 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

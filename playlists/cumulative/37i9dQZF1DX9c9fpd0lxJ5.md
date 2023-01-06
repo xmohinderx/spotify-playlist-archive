@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine bby:\)
 
-154 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/5ph78wovnBw6RiEm4pplkV)
+154 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

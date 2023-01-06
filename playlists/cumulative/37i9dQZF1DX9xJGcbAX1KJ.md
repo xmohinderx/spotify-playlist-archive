@@ -4,7 +4,7 @@
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-303 songs - 18 hr 55 min - [published](https://open.spotify.com/playlist/6NFp5rX7dD5Tc5TdlOGjMm)
+303 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

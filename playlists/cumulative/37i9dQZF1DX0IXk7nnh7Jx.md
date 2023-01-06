@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-102 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/7vzhDddiv6oXbXOyLANGbq)
+102 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

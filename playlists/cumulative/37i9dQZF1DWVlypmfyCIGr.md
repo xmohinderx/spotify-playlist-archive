@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 菅原圭
 
-2,659 songs - 6 day 19 hr 10 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+2,659 songs - 6 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

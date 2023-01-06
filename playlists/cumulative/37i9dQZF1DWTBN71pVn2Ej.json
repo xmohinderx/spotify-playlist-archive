@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The best new alternative rock tracks.",
   "name": "Alternative Noise",
-  "published_playlist_ids": [
-    "5quM8neQlox9eNtsEIONeH"
-  ],
   "tracks": [
     {
       "album": {
@@ -4036,6 +4033,24 @@
     },
     {
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/61yrnIQNoSMirv6gadFV6W"
+      },
+      "artists": [
+        {
+          "name": "NVM",
+          "url": "https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232928,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/04Ndcc1318s9s9gRGGlrQo"
+    },
+    {
+      "album": {
         "name": "Staircase Music",
         "url": "https://open.spotify.com/album/1kjJ7hY4eqtHNwvAcgEZxt"
       },
@@ -4941,7 +4956,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 192483,
       "name": "Won't You Love Me",
       "url": "https://open.spotify.com/track/0Vo70LQDhAEZoMJMU92Gwn"

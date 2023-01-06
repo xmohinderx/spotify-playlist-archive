@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-514 songs - 1 day 9 hr 4 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
+514 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

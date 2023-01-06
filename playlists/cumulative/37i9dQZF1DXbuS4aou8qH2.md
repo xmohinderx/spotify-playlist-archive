@@ -4,7 +4,7 @@
 
 > The perfect jams on a perfect summer day\. Cover: Lil Baby
 
-206 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/0EHpt5urvpzmfUwWQjTZdI)
+206 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

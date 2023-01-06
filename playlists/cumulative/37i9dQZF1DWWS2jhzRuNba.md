@@ -4,7 +4,7 @@
 
 > you know the vibe 🥥🌴👙🐚🦋🌸
 
-131 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/3czw7wtauWs6hidH4XblX8)
+131 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Mickey Guyton
 
-169 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+171 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Blessed Beyond Believin'](https://open.spotify.com/track/7Jl0CPkdNrarmkBt6QJwUI) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Blessed Beyond Believin'](https://open.spotify.com/album/68GS4wGbEr9qpkNjidH1eS) | 3:49 | 2021-12-10 | 2022-08-04 |
 | [Blessings](https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:18 | 2021-12-10 |  |
 | [Bloodlines](https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Bloodlines](https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz) | 3:53 | 2022-01-21 |  |
+| [Can I See My Dog?](https://open.spotify.com/track/0ZZBTSD2RGt4O86ZQpPW4x) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Can I See My Dog?](https://open.spotify.com/album/4j47u9VWxM9MhAKZG2FqeM) | 3:15 | 2023-01-06 |  |
 | [Canyon](https://open.spotify.com/track/2koPlTDIbGWjcMQFUKx7g2) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:40 | 2021-12-10 |  |
 | [Carry Me \(feat\. Jon Foreman of Switchfoot\)](https://open.spotify.com/track/2hDgOchSSSELBtW9IPQ4GW) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Carry Me \(feat\. Jon Foreman of Switchfoot\)](https://open.spotify.com/album/3amWVVXhWGGVIprSg6CkEY) | 3:40 | 2021-12-10 |  |
 | [Chain Breaker](https://open.spotify.com/track/7IkdKPflK8lzgRs6cXChz4) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker](https://open.spotify.com/album/5otw1Dx92TaJdItLOQ2TTj) | 3:15 | 2021-12-10 | 2022-07-29 |
@@ -110,6 +111,7 @@
 | [Outskirts of Heaven](https://open.spotify.com/track/2B8a2NDUrIGYzrb1JbhBdk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Outskirts of Heaven](https://open.spotify.com/album/01h48bHLP7QXPSUcpUdj1z) | 4:04 | 2021-12-10 | 2022-07-29 |
 | [Outskirts of Heaven](https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP) | 4:04 | 2022-07-15 |  |
 | [Phone Call to God](https://open.spotify.com/track/3oSyemHgjMoHqW85EuclSb) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:57 | 2021-12-10 |  |
+| [Place for Me](https://open.spotify.com/track/6lhnuGmvxgRiozlK4J2cer) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Place for Me](https://open.spotify.com/album/23KSpAVjELjsop1LUXsldT) | 3:12 | 2023-01-06 |  |
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-11 |  |
 | [Pray](https://open.spotify.com/track/66oQl7gyMXeES39CtQ1GD9) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 3:33 | 2021-12-10 |  |
 | [Pray About Everything](https://open.spotify.com/track/7eOizXz9BZ7Vc6Scgwh1hC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 3:16 | 2021-12-10 |  |

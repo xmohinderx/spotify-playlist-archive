@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-238 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/3EUeypxZPpc6yohTwivHlF)
+238 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

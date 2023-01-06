@@ -4,7 +4,7 @@
 
 > The best Piano House tracks out now.
 
-166 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/6IrxcoOBzoeJKFAs7ICWhb)
+166 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

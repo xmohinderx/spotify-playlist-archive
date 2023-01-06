@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-125 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+125 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

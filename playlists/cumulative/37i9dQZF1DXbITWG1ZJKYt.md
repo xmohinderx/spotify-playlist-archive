@@ -4,7 +4,7 @@
 
 > The best tunes in Jazz history\. Cover: John Coltrane
 
-329 songs - 1 day 4 hr 54 min - [published](https://open.spotify.com/playlist/4TeJWp2FnWT3w9IWQNn7Hv)
+329 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

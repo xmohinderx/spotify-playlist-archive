@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 322857,
+  "num_followers": 322942,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMGFhNzY2MDkzODNhOTE5MjM2ZjkyOWQ3NTU4NmQyZWJi",
+  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDdmYWQxYTI2ZDBmNjZkYjhiODM0M2Y3NjZjZDUyZjA5",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
-      },
-      "artists": [
-        {
-          "name": "Ron Adelaar",
-          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
-        }
-      ],
-      "duration_ms": 110868,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Bach Reworks (Pt. 2)",
         "url": "https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 234880,
       "name": "Prelude in G Major",
       "url": "https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "duration_ms": 110868,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
-      },
-      "artists": [
-        {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
-        }
-      ],
-      "duration_ms": 130459,
-      "name": "poetry in touch",
-      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
+      },
+      "artists": [
+        {
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+        }
+      ],
+      "duration_ms": 130459,
+      "name": "poetry in touch",
+      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Octaves",
         "url": "https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 132500,
       "name": "Octaves",
       "url": "https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "You Finally Knew",
-        "url": "https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K"
-      },
-      "artists": [
-        {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        }
-      ],
-      "duration_ms": 203935,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -951,18 +935,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/2ps87Twd3Ol4npWF0gQBGn"
+        "name": "You Finally Knew",
+        "url": "https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K"
       },
       "artists": [
         {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
         }
       ],
-      "duration_ms": 262464,
-      "name": "your sonnet",
-      "url": "https://open.spotify.com/track/6JUN0WSBlhvi5tIDyY4ccA"
+      "duration_ms": 203935,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -979,22 +963,6 @@
       "duration_ms": 269904,
       "name": "Sand and Stars",
       "url": "https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
-      },
-      "artists": [
-        {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
-        }
-      ],
-      "duration_ms": 182805,
-      "name": "how we sleep",
-      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1031,22 +999,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Col",
-        "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
-      },
-      "artists": [
-        {
-          "name": "Elias Braun",
-          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
-        }
-      ],
-      "duration_ms": 142041,
-      "name": "Col",
-      "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Void (I Play Mine version)",
         "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
       },
@@ -1063,50 +1015,50 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Quintessence",
-        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2ps87Twd3Ol4npWF0gQBGn"
       },
       "artists": [
         {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
         }
       ],
-      "duration_ms": 144840,
-      "name": "Quintessence",
-      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
+      "duration_ms": 262464,
+      "name": "your sonnet",
+      "url": "https://open.spotify.com/track/6JUN0WSBlhvi5tIDyY4ccA"
     },
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Life in Process",
-        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
       },
       "artists": [
         {
-          "name": "Masaki Kawasaki",
-          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
         }
       ],
-      "duration_ms": 199400,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
+      "duration_ms": 182805,
+      "name": "how we sleep",
+      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
     },
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Echoes In The Valley",
-        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
+        "name": "Col",
+        "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
       },
       "artists": [
         {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+          "name": "Elias Braun",
+          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
         }
       ],
-      "duration_ms": 202288,
-      "name": "Billow Gently",
-      "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
+      "duration_ms": 142041,
+      "name": "Col",
+      "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1143,22 +1095,50 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "145",
-        "url": "https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg"
+        "name": "Echoes In The Valley",
+        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
       },
       "artists": [
         {
-          "name": "Patrik Berg Almkvisth",
-          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
-        },
-        {
-          "name": "LUCHS",
-          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
         }
       ],
-      "duration_ms": 141602,
-      "name": "145 - Revisited",
-      "url": "https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8"
+      "duration_ms": 202288,
+      "name": "Billow Gently",
+      "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Life in Process",
+        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
+      },
+      "artists": [
+        {
+          "name": "Masaki Kawasaki",
+          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Quintessence",
+        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Quintessence",
+      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1175,6 +1155,26 @@
       "duration_ms": 253169,
       "name": "Some Other Place",
       "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "145",
+        "url": "https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        },
+        {
+          "name": "LUCHS",
+          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
+        }
+      ],
+      "duration_ms": 141602,
+      "name": "145 - Revisited",
+      "url": "https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "An Evening Scene",
-        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 144625,
-      "name": "An Evening Scene",
-      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "A Cloud Passed",
         "url": "https://open.spotify.com/album/7gYv4XTS4bIBw6c9z91v07"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 136078,
       "name": "A Cloud Passed",
       "url": "https://open.spotify.com/track/6l6cLvP0ACfjEzu343bWfa"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "An Evening Scene",
+        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 144625,
+      "name": "An Evening Scene",
+      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
     },
     {
       "added_at": "2022-09-20 13:39:53",

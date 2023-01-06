@@ -4,7 +4,7 @@
 
 > Best Bollywood dance songs from last 10 years\. Cover\- Ranveer & Deepika
 
-138 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/7qAEWSrM1FrFMeKQC49WwZ)
+138 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

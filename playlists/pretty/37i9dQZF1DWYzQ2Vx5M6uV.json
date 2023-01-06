@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Oxlade, Camila Cabello\n",
-  "num_followers": 102142,
+  "num_followers": 102185,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDY4MDk0MDc3M2ZiNTNhYWMxMjI0ZmUxOWM1M2ExNWIx",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGQ2NjA3ZjIyNGNkN2I1NWFhNTI0OGY0YzVlYzMwMDE1",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -247,6 +247,26 @@
     {
       "added_at": "2022-12-08 01:11:58",
       "album": {
+        "name": "The Prince I Became",
+        "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 196857,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0hRyt5qiE2pwTSAeeUS7lW"
+    },
+    {
+      "added_at": "2022-12-08 01:11:58",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 195428,
       "name": "Fuego (with Sean Paul & Anitta, feat. Tainy)",
       "url": "https://open.spotify.com/track/660eekzsNZ7sdATvfIsAkR"
-    },
-    {
-      "added_at": "2022-12-08 01:11:58",
-      "album": {
-        "name": "The Prince I Became",
-        "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 196857,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0hRyt5qiE2pwTSAeeUS7lW"
     },
     {
       "added_at": "2022-12-08 01:11:58",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2022-12-08 01:11:58",
       "album": {
-        "name": "Popor\u00f3",
-        "url": "https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx"
-      },
-      "artists": [
-        {
-          "name": "Preto Show",
-          "url": "https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW"
-        },
-        {
-          "name": "Teo No Beat",
-          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
-        }
-      ],
-      "duration_ms": 169396,
-      "name": "Popor\u00f3",
-      "url": "https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz"
-    },
-    {
-      "added_at": "2022-12-08 01:11:58",
-      "album": {
         "name": "Te Gusta",
         "url": "https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 206538,
       "name": "Te Gusta",
       "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
+    },
+    {
+      "added_at": "2022-12-08 01:11:58",
+      "album": {
+        "name": "Popor\u00f3",
+        "url": "https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx"
+      },
+      "artists": [
+        {
+          "name": "Preto Show",
+          "url": "https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW"
+        },
+        {
+          "name": "Teo No Beat",
+          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
+        }
+      ],
+      "duration_ms": 169396,
+      "name": "Popor\u00f3",
+      "url": "https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz"
     },
     {
       "added_at": "2022-12-08 01:11:58",

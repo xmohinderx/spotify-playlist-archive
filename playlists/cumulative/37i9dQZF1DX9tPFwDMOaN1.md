@@ -4,7 +4,7 @@
 
 > Let's turn ON the movement! Cover: NewJeans
 
-228 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
+228 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

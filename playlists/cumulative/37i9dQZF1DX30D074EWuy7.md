@@ -4,7 +4,7 @@
 
 > Una selezione speciale natalizia, a cura di <a href="spotify:artist:2qW0CNnmvdEQwiabdareHi">Paolo Fresu</a>! 🎄
 
-207 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/4ci8LwC6vBaMAmVvAWXsOb)
+207 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

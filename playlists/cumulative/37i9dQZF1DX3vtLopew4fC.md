@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Nemahsis
 
-639 songs - 1 day 9 hr 24 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+639 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

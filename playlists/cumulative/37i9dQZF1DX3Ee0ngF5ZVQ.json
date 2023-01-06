@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randall King",
   "name": "Texas Country Now",
-  "published_playlist_ids": [
-    "4X9VlF1gslCvOG5f1Uvt9a"
-  ],
   "tracks": [
     {
       "album": {
@@ -431,7 +428,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 187563,
       "name": "Anderson County",
       "url": "https://open.spotify.com/track/13x5ByGTp5k2Eu1nFCM0cc"
@@ -845,10 +842,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 298906,
       "name": "blood",
       "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
+    },
+    {
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/5EWN5DLTfsypaYtPh231A4"
+      },
+      "artists": [
+        {
+          "name": "Ben McPeak",
+          "url": "https://open.spotify.com/artist/7ly5T1xTU0IzHygu5IC2CY"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175767,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/6JViSSEsMTYdKpXWgrpuRg"
     },
     {
       "album": {
@@ -1357,7 +1372,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 187370,
       "name": "Chisholm Trail",
       "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
@@ -2201,7 +2216,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 175920,
       "name": "First Time",
       "url": "https://open.spotify.com/track/6BQtdlt9yP8E7mQcwJ7o1x"
@@ -3707,7 +3722,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 213759,
       "name": "Keep up with a Cowgirl",
       "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
@@ -3743,7 +3758,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 211200,
       "name": "Legends",
       "url": "https://open.spotify.com/track/3tMySztcJ2hrYLHOAXpCVc"
@@ -4519,7 +4534,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 187216,
       "name": "Once in a Blue Moon",
       "url": "https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq"
@@ -4541,6 +4556,24 @@
       "duration_ms": 200342,
       "name": "One Honky Tonk Town",
       "url": "https://open.spotify.com/track/1j3aYPaCzk1ENO4dL9nxw5"
+    },
+    {
+      "album": {
+        "name": "One Two Step Away",
+        "url": "https://open.spotify.com/album/75M65qiiyw2tCGDIij7kZs"
+      },
+      "artists": [
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194028,
+      "name": "One Two Step Away",
+      "url": "https://open.spotify.com/track/6MzgcxRl6y4x11DMg8K750"
     },
     {
       "album": {
@@ -4825,7 +4858,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 237785,
       "name": "Priorities",
       "url": "https://open.spotify.com/track/6uUehOfuEUy1vQmkL8AwaE"
@@ -5319,7 +5352,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 183913,
       "name": "Shot from the Heart",
       "url": "https://open.spotify.com/track/3uvw2lZIL6tuaCQWUP2Syp"
@@ -5463,7 +5496,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 197729,
       "name": "Sound of Rain",
       "url": "https://open.spotify.com/track/1i63IAjJXD2HsFozWGfU8e"
@@ -6419,7 +6452,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 242716,
       "name": "Up to Me",
       "url": "https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W"
@@ -6491,7 +6524,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 218083,
       "name": "Walk Your Line",
       "url": "https://open.spotify.com/track/0tHRdq9LHL0Dq9KHo1oPiN"
@@ -6709,7 +6742,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 225060,
       "name": "What's Your Drinkin' Song",
       "url": "https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl"
@@ -7003,7 +7036,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 203000,
       "name": "Why, Dallas?",
       "url": "https://open.spotify.com/track/0aG9eIioKkXS4aicxhyuT8"

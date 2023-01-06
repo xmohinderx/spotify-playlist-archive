@@ -4,7 +4,7 @@
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-142 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/3gEBX1MSMTVMs4piEbVTl2)
+142 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

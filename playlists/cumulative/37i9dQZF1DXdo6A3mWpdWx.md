@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: Jennifer Lopez.
 
-316 songs - 21 hr 29 min - [published](https://open.spotify.com/playlist/6TUZaOg0zmZ7RSt0SzZOvF)
+316 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

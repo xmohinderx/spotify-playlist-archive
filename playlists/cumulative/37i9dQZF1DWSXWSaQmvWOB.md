@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-608 songs - 1 day 13 hr 24 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+608 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

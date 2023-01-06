@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-179 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/0U0cw4q8cHAIGrBJksfsst)
+179 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

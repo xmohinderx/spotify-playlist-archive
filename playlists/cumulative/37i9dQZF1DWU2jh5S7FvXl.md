@@ -4,7 +4,7 @@
 
 > Just try not to move to this mix of recent hits\. Cover: Kx5
 
-268 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/0P4nm4mYYeYKFUkoWAIWgc)
+268 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

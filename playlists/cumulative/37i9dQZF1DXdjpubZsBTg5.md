@@ -4,7 +4,7 @@
 
 > Revive a la generación que transformó el rock en español para siempre\. En portada: Soda Stereo
 
-93 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/7sQIHN2Vqyt3FA4Krnqe3i)
+93 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

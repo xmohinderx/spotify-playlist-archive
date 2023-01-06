@@ -4,11 +4,11 @@
 
 > Todo el sonido indie de Chile\. Foto: Mecánico
 
-299 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+300 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [200 Mph](https://open.spotify.com/track/6BvLzzz4ODMhfYtZY2BQR9) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Traducciones](https://open.spotify.com/album/0aPvz0rCmRVUUWgPu11uem) | 2:13 | 2022-07-08 |  |
+| [200 Mph](https://open.spotify.com/track/6BvLzzz4ODMhfYtZY2BQR9) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Traducciones](https://open.spotify.com/album/0aPvz0rCmRVUUWgPu11uem) | 2:13 | 2022-07-08 | 2023-01-06 |
 | [<3](https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [<3](https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6) | 2:22 | 2022-11-11 |  |
 | [A Los Arboles \(feat\. Raag\)](https://open.spotify.com/track/2osY6sjuuMa3UYWWG2naiu) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [Tejido](https://open.spotify.com/album/0DYNKGYbgS5EcX2sftjVgg) | 4:57 | 2022-04-15 | 2022-07-28 |
 | [A Toda Velocidad](https://open.spotify.com/track/556qCMc5Jvqc6i1NVMMJ5b) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [A Toda Velocidad](https://open.spotify.com/album/17mxHCWw5TEPMOhlxp1Pml) | 2:50 | 2022-04-15 |  |
@@ -122,6 +122,7 @@
 | [Fuego con Usté](https://open.spotify.com/track/5N4ZvLdH5uv3qjcve2wzUL) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57) | [Fuego con Usté](https://open.spotify.com/album/0epwZNWGDanwMH5sZKY2O2) | 3:05 | 2022-04-15 | 2022-07-29 |
 | [Fuego Con Usté](https://open.spotify.com/track/6XPvJuPBuoSlPH2nmNQgNU) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57) | [Fuego Con Usté](https://open.spotify.com/album/2g5WlfBZw4SFaiODjojCJg) | 3:05 | 2022-07-22 | 2022-12-10 |
 | [Fuerzas Que Retroceden](https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Fuerzas Que Retroceden](https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE) | 3:51 | 2022-09-02 |  |
+| [Fábula de la Montaña](https://open.spotify.com/track/0kAvQ4Y9u9D1kqAF6PqRDM) | [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb), [m4nu](https://open.spotify.com/artist/0pUoGGZ9vPDFfGCXFwkucv) | [Fábulas](https://open.spotify.com/album/7wSqqyepUFtfkyaSMNvcv7) | 4:14 | 2023-01-06 |  |
 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 | 2022-07-08 |  |
 | [Grito y Plata](https://open.spotify.com/track/04H5QgfHklFMBUXbviy2M8) | [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Pirueta](https://open.spotify.com/album/3Sbf7GZMTahvu2dhHeABe5) | 3:03 | 2022-04-15 | 2022-12-10 |
 | [Hace 10 Años](https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Hace 10 Años](https://open.spotify.com/album/71f277kinxputEU6wff8To) | 3:04 | 2022-10-07 |  |

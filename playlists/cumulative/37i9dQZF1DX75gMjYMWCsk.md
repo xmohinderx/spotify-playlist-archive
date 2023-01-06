@@ -4,7 +4,7 @@
 
 > Explore the unforgettable melodies of the greatest LGBTQ+ composers\. Cover: <a href="spotify:artist:2vObsQCPsbVfkqHlQOu2zc">Nico Muhly</a>
 
-60 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/4bdhFwQmc1PHe5VOMoHRmL)
+60 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

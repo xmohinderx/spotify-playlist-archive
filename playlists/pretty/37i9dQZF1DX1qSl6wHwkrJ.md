@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,996 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,975 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 10 | [The Day It Snows On Christmas](https://open.spotify.com/track/7dhgZvhWgeDhp1GpIfYcGq) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [Christmas Gumbo](https://open.spotify.com/album/3v7yoCGisdwfvIBnU9RYmp) | 3:16 |
 | 11 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/1ralRyNhB09WyWlGyGJOrl) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 3:12 |
 | 12 | [Christmas](https://open.spotify.com/track/1MpFJiLGfXg7WQdYHbw2f9) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 3:12 |
-| 13 | [Merry Christmas Baby](https://open.spotify.com/track/4numb7lAi5gbfXLAwRs8gx) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Merry Christmas Baby](https://open.spotify.com/album/0T8ScTKAu8F1ZR7bYBvJSH) | 3:24 |
+| 13 | [I'm Your Santa](https://open.spotify.com/track/0l7GHJ9ImzdO4E3iJSQKD9) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 2:54 |
 | 14 | [Lonesome Christmas](https://open.spotify.com/track/6hIy9o0zF4Ecof4x89CS4J) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [A Christmas Celebration Of Hope](https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu) | 3:04 |
-| 15 | [I'm Your Santa](https://open.spotify.com/track/0l7GHJ9ImzdO4E3iJSQKD9) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 2:54 |
+| 15 | [Merry Christmas Baby](https://open.spotify.com/track/4numb7lAi5gbfXLAwRs8gx) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Merry Christmas Baby](https://open.spotify.com/album/0T8ScTKAu8F1ZR7bYBvJSH) | 3:24 |
 | 16 | [Christmas Tears](https://open.spotify.com/track/3PueitHxV80BwcgQVl0qjt) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Oil \- The Complete Federal Recordings](https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ) | 2:47 |
 | 17 | [Blues For Christmas](https://open.spotify.com/track/3bldbpvqL5jC4BqxgMOTrD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Complete '50s Chess Recordings](https://open.spotify.com/album/6ZytgjeBLBmOmxt8OyhMk0) | 3:19 |
 | 18 | [Merry, Merry Christmas](https://open.spotify.com/track/0u0qsXGPxRL3FmyWyREG2s) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 79 | [Christmas Morning Blues \- Remastered](https://open.spotify.com/track/6pOb1aPQkuyd3UldXh7SkK) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [The Bluebird Recordings, 1938](https://open.spotify.com/album/4HhTU3By2batodWLzxpYqc) | 3:23 |
 | 80 | [Sonny Boy's Christmas Blues](https://open.spotify.com/track/5rbIjCVVXOyTAdX7u59HZ7) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [King Biscuit Time](https://open.spotify.com/album/1aPpiXa9PkLqformEOgyIe) | 2:37 |
 
-Snapshot ID: `MTY3MTYyOTc4MSwwMDAwMDAwMGQxMTcxMWFiMzU3MzI4MGUzMDM1OWE0ZGRkYmE1NGJh`
+Snapshot ID: `MTY3MTYyOTc4MSwwMDAwMDAwMDkwZTkxNjkyZDliMTVhZDg2ZDE3YjYzMTAzMDUzNTY4`

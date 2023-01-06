@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from Fresh Finds Latin this year\. Cover: Estevie \#SpotifyWrapped
 
-724 songs - 1 day 16 hr 6 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
+724 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

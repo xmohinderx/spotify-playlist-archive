@@ -4,7 +4,7 @@
 
 > Let the daily stresses of the world melt away with this peaceful playlist, filled with the warm, comforting melodies of JS Bach.
 
-122 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/5BHppfN0O1RAvnlCxdySYC)
+122 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

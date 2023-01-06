@@ -4,7 +4,7 @@
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Neto Reyno en portada.
 
-138 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
+138 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

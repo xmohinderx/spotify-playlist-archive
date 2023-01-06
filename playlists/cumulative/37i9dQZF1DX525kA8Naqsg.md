@@ -4,7 +4,7 @@
 
 > A soundtrack that both you and your little one can enjoy.
 
-129 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/6UCuYNr6qw0LU9TaEyh2j7)
+129 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

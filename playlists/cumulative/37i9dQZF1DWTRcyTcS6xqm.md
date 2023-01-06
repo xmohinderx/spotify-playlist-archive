@@ -4,7 +4,7 @@
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-67 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/2PyWBQN1l9lLTmhJUOKeAZ)
+67 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7746,
+  "num_followers": 7745,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGFhMmE0ZjliNjhhZmY0ZWEwNDg0YWIxZTA5MjEwM2I4",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDJjNjhiZTViZjAyMjZjOTNhYzUxMDA1NzllMGJiZGEy",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "M\u00e9li-molo",
-        "url": "https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I"
-      },
-      "artists": [
-        {
-          "name": "Yelo Molo",
-          "url": "https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs"
-        }
-      ],
-      "duration_ms": 278291,
-      "name": "Le petit castor",
-      "url": "https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Fieldtrip",
         "url": "https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 190040,
       "name": "Gros tas d'marde",
       "url": "https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "M\u00e9li-molo",
+        "url": "https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I"
+      },
+      "artists": [
+        {
+          "name": "Yelo Molo",
+          "url": "https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs"
+        }
+      ],
+      "duration_ms": 278291,
+      "name": "Le petit castor",
+      "url": "https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Courtepointes",
-        "url": "https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5"
-      },
-      "artists": [
-        {
-          "name": "Arseniq33",
-          "url": "https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Cit\u00e9 rock suicide",
-      "url": "https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Le silence des roses",
         "url": "https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 323400,
       "name": "Dans les airs",
       "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Courtepointes",
+        "url": "https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5"
+      },
+      "artists": [
+        {
+          "name": "Arseniq33",
+          "url": "https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Cit\u00e9 rock suicide",
+      "url": "https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi"
     },
     {
       "added_at": "2020-06-23 14:47:30",

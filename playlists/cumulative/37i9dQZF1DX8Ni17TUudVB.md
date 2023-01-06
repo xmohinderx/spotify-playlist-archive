@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-193 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/6i54Gc32OBgUQz8RjwMK3M)
+193 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Vintage soul gems from the archives.
 
-181 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/2qsloYSmMKpXRTPmf7TGhq)
+181 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

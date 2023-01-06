@@ -4,7 +4,7 @@
 
 > Unwind and let the afternoon unfold.
 
-182 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/70ri3ZmvP0HS9tUQD53FSg)
+182 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

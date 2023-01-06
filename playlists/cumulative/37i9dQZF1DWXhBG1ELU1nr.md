@@ -4,7 +4,7 @@
 
 > Uma seleção de hits pra te acompanhar no home office.
 
-164 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/1w2tlix8KMG1doSRYQhzfq)
+164 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

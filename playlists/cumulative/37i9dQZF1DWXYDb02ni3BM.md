@@ -4,7 +4,7 @@
 
 > Las divas del pop latino de ayer y hoy\. Foto: Alejandra Guzmán
 
-111 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/6OVps4t01j2MG90WMdax7o)
+111 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

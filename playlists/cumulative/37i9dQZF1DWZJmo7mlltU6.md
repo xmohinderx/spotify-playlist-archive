@@ -2,9 +2,9 @@
 
 ### [borderless](https://open.spotify.com/playlist/37i9dQZF1DWZJmo7mlltU6)
 
-> Beyond genre, beyond language, beyond borders\. Cover: PinkPantheress.
+> Beyond genre, beyond language, beyond borders\. Cover: Prim.
 
-523 songs - 1 day 4 hr 59 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+529 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Amor Que No Tiene Fin](https://open.spotify.com/track/5YAXnBkp7pGDiSZSsesRRY) | [Los Fresones Rebeldes](https://open.spotify.com/artist/7jnDSK1hbbcZdjapo2bHzY) | [Amor Que No Tiene Fin](https://open.spotify.com/album/7CNCTL1xInWeYSyLBW3xaM) | 2:42 | 2022-04-22 | 2022-05-31 |
 | [Ando](https://open.spotify.com/track/4yDJiaUeNJS2WiGokRNTCR) | [toorai](https://open.spotify.com/artist/6GevMSNQ6R54xxyfOFSWBd) | [Ando](https://open.spotify.com/album/5OVWWN4UBDTZjfZ60WHcmW) | 3:43 | 2022-03-11 | 2022-08-13 |
 | [ANTIFREEZE](https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [ANTIFREEZE](https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY) | 3:29 | 2022-09-23 | 2022-11-19 |
+| [Anything But You](https://open.spotify.com/track/2FQnmZO1hJ8EAYx7BSBMIw) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Anything But You](https://open.spotify.com/album/2lVpuysUoXYL2hBVeujKn1) | 3:41 | 2023-01-06 |  |
 | [Autobahn](https://open.spotify.com/track/4iCKVsaLcbWXiwQjPDvXsQ) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Push Life](https://open.spotify.com/album/5QCQE9y6dsC9TSEW4qJkU4) | 1:49 | 2022-04-01 | 2022-06-11 |
 | [Baby You’re the One I Need](https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Baby You’re the One I Need](https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6) | 2:43 | 2022-03-28 | 2022-06-18 |
 | [Back In The Game](https://open.spotify.com/track/0zRinZTCWJCx0pTSUeToC7) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Back In The Game](https://open.spotify.com/album/3mFUxzax1U0c4qKaybkZBF) | 3:28 | 2022-04-29 | 2022-10-22 |
@@ -49,6 +50,7 @@
 | [Birdy](https://open.spotify.com/track/5hBpxb5JtyfqLWOlIaZ9YY) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/77yXxEndm5eQyRQUQweAsY) | 4:33 | 2022-01-28 | 2022-03-19 |
 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 | 2022-03-11 | 2022-06-11 |
 | [BOP](https://open.spotify.com/track/2G4SVNZ184cbAa0jzTLCpN) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [BOP](https://open.spotify.com/album/0oS6s31ETsc3If8kmfnZZP) | 2:56 | 2022-05-20 | 2022-09-03 |
+| [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 | 2023-01-06 |  |
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2022-12-19 |  |
 | [Bu Rüya Değil](https://open.spotify.com/track/4cio8Ejp4rHwV0WxPsdh22) | [Tuğçe Şenoğul](https://open.spotify.com/artist/0BSQ8y2wIx6pK8bjisf30l) | [Bu Rüya Değil](https://open.spotify.com/album/4LBKNPCVjgxx1wDMPRxdJx) | 4:33 | 2022-11-18 |  |
 | [Buena Gente](https://open.spotify.com/track/6OguqfxfMVT6vhC6Qc6TB2) | [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy) | [Buena Gente](https://open.spotify.com/album/4RdNgwpPZM0EQGKK60fHYO) | 3:45 | 2022-06-10 | 2022-07-09 |
@@ -84,6 +86,7 @@
 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-03-04 | 2022-06-25 |
 | [Comment tu vas finir](https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Comment tu vas finir](https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz) | 2:29 | 2022-03-18 | 2022-05-12 |
 | [Como son las cosas](https://open.spotify.com/track/7t8zoNnda5roMNPJVQAdpC) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Como son las cosas](https://open.spotify.com/album/7zeucEPN9Dnx2eNtdfOGWO) | 2:42 | 2022-01-14 | 2022-02-05 |
+| [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2023-01-06 |  |
 | [Conseguenze](https://open.spotify.com/track/3Qu1niBpz75dwj7ZaghQLJ) | [Réclame](https://open.spotify.com/artist/2olteAWcog6K5LBMX77dpf) | [Conseguenze](https://open.spotify.com/album/5ptDjx8Em07Z5QeaLucMtg) | 3:32 | 2022-03-28 | 2022-05-21 |
 | [Corazón Roto](https://open.spotify.com/track/5rBKKmiqq4PkU4eaQHuW6m) | [BERNARDA](https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW), [Carlotta Cosials](https://open.spotify.com/artist/3npNxahICTnLgXUWuw2ZAC) | [Corazón Roto](https://open.spotify.com/album/7j0hVxaar4vsfLMVDIqZLU) | 2:50 | 2022-12-23 |  |
 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 | 2022-08-12 | 2022-11-26 |
@@ -119,6 +122,7 @@
 | [Don't worry bout me feat\. Meemi](https://open.spotify.com/track/1bHgPmoycLt2pzOPV0pEnH) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2), [Anna](https://open.spotify.com/artist/5br4h6xtm7ia5hdlAOZNJB), [Meemi](https://open.spotify.com/artist/68MBgAF3KPCjNT4hz6fdHW) | [Don't worry bout me](https://open.spotify.com/album/6zlcxFXv57GuTLV6k50Uhi) | 3:56 | 2022-10-14 | 2022-12-24 |
 | [Doone Doone](https://open.spotify.com/track/2LMsEc6igAKXA5pBFRwpMP) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Doone Doone](https://open.spotify.com/album/7mdIUHlz8Pmu4uPRAtT9rX) | 4:38 | 2022-08-26 | 2022-11-19 |
 | [Dos vidas](https://open.spotify.com/track/4mG1Qzy4jjQ8M41b27aqTL) | [Dorian](https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk) | [Dos vidas](https://open.spotify.com/album/2dap3D6pnpQwlDGIRAho8Z) | 3:10 | 2022-01-14 | 2022-03-30 |
+| [Dream](https://open.spotify.com/track/2DnYDLmWqS4ImDyhlX1FE7) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [Dream](https://open.spotify.com/album/2Vmoh3yzhnTkpL71D9BuOG) | 4:15 | 2023-01-06 |  |
 | [Dusty Issues](https://open.spotify.com/track/27Kcb2Hslz0lSplnxVmmQk) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Dusty Issues](https://open.spotify.com/album/1kBh2A0rSYYbNVoCaNsjdQ) | 2:04 | 2022-04-08 | 2022-08-13 |
 | [Dóidóidói](https://open.spotify.com/track/4oSVbS2wVr62tRypCHHiQY) | [Labaq](https://open.spotify.com/artist/3lYrvAJgDMVswjcn0Zi0La) | [Dóidóidói](https://open.spotify.com/album/5ORpzqsldrjpCGMBlhSUQA) | 2:46 | 2022-04-01 | 2022-09-03 |
 | [Easy](https://open.spotify.com/track/6e4E1UzuXQMVChJ6TgIOv5) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy](https://open.spotify.com/album/4zPlrT0LVP56XnNdpNYV7T) | 4:01 | 2022-01-14 | 2022-04-23 |
@@ -218,6 +222,7 @@
 | [Just a moment](https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Just a moment](https://open.spotify.com/album/5BPLqZrd0YicrOFMCWLlkv) | 3:22 | 2022-09-09 | 2022-11-12 |
 | [Karaoke](https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Karaoke](https://open.spotify.com/album/5JJYDmVfIhfdTp3HRaiKTy) | 3:17 | 2022-05-11 | 2022-06-11 |
 | [Keep Moving](https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938) | 4:00 | 2022-01-14 | 2022-02-15 |
+| [Kiedy? Gdzie? Jak?](https://open.spotify.com/track/3qiDQabkL2QMmMBcRyICsn) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Kiedy? Gdzie? Jak?](https://open.spotify.com/album/08Whpr1XPG997mMtfJqqjh) | 2:36 | 2023-01-06 |  |
 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 | 2022-05-30 | 2022-12-24 |
 | [Killer](https://open.spotify.com/track/3MKBHqQ5EtXnChdVF4P3ji) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Killer](https://open.spotify.com/album/3UgmPtg6ADEBPEef7RImgg) | 3:00 | 2022-10-28 |  |
 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 | 2022-03-11 | 2022-07-02 |
@@ -360,6 +365,7 @@
 | [Pouco a Pouco](https://open.spotify.com/track/4hhPfYrZ3KRLj2CN0tClh0) | [Leonardo Marques](https://open.spotify.com/artist/1D0MIo5N8QMrSB0Ek1iHPH), [Yannick Falisse](https://open.spotify.com/artist/3awq4e0quWiIbA3gRrDJFI) | [Flea Market Music](https://open.spotify.com/album/5qQMMQua0Qzutmb6dx2Qjj) | 4:10 | 2022-03-28 | 2022-04-29 |
 | [Pourquoi c'est comme ça?](https://open.spotify.com/track/0Go1HvPpye03t8hb6KIvWL) | [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [LIMPORTANCEDUVIDE](https://open.spotify.com/album/2WJrL6BbYanLAJRRRdsBhc) | 2:20 | 2022-02-14 | 2022-04-09 |
 | [Power of Denial](https://open.spotify.com/track/6gKEM5PLDjH2WsInN5JroT) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Power of Denial](https://open.spotify.com/album/6Evnriuz8ieQypvk4V2OJT) | 5:14 | 2022-08-05 | 2022-10-08 |
+| [Prou que dol](https://open.spotify.com/track/1uHqzc9p5WsEMS2OMYg7cI) | [Filipin Yess](https://open.spotify.com/artist/7hr1ydc5Cy7XA7jeMeyZti) | [Prou que dol](https://open.spotify.com/album/57rQibQStJFPsLmiO5GzPO) | 2:29 | 2023-01-06 |  |
 | [Provinciana](https://open.spotify.com/track/0VDRGqAZRShcOyrlEZJs1V) | [Rayo Ultravioleta](https://open.spotify.com/artist/7qCyS1SJOxtniq2SuhpHpB), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Provinciana](https://open.spotify.com/album/0RBnRgLEbbrGwurclggqqX) | 3:17 | 2022-03-11 | 2022-06-18 |
 | [Pulchritudinous](https://open.spotify.com/track/4nzhd7FQDblgX8ogmGSeem) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [But could the moments in between](https://open.spotify.com/album/5cHlpmNwKG3RbEv8DiEUoC) | 4:24 | 2022-06-24 | 2022-08-27 |
 | [Pull](https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Pull](https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv) | 3:16 | 2022-10-21 |  |

@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-212 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/16ojsYsGmxEyBlFo3lFArf)
+213 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [It's Gone](https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Silence Slowly And Madly Shines](https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA) | 5:43 | 2021-12-15 |  |
 | [Jocelyne](https://open.spotify.com/track/5G9yfOMJgjzdsgeb61RoG9) | [JIVRE](https://open.spotify.com/artist/0guPFpmvHHxsjqhwxoXmOA) | [No Beach](https://open.spotify.com/album/2zWFIy0MCyzlPd9KJHnDRw) | 3:24 | 2021-12-15 | 2022-07-29 |
 | [Joy](https://open.spotify.com/track/6q3L0PXHNHM2wLRkpxINmH) | [Sympathies](https://open.spotify.com/artist/4ivXcuZRP6CfR9gVdmE2yb) | [Reconnect with Me](https://open.spotify.com/album/0DSfvoJLR6f9MzwlFutcqy) | 3:00 | 2021-12-15 | 2022-07-21 |
-| [Jumping Fences](https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9) | [Back Garden Light](https://open.spotify.com/artist/7bLrwX8HkyBWahu7yvw7bJ) | [Back Garden Light](https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT) | 4:44 | 2022-03-24 |  |
+| [Jumping Fences](https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9) | [Back Garden Light](https://open.spotify.com/artist/7bLrwX8HkyBWahu7yvw7bJ) | [Back Garden Light](https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT) | 4:44 | 2022-03-24 | 2023-01-06 |
 | [Keep Up Until It Bleeds](https://open.spotify.com/track/7FMF5tM8SyGbw7o6pCOKYZ) | [Blackbird Hill](https://open.spotify.com/artist/49Ypkl4ltiWhxXcLILO8W1) | [Keep Up Until It Bleeds](https://open.spotify.com/album/4wyMHDo55NpyDa14Bc5S4c) | 4:31 | 2022-06-30 |  |
 | [Khalil](https://open.spotify.com/track/2R0p97M11bb2W7vBKBLA5i) | [Rescue Rangers](https://open.spotify.com/artist/6erPxLLPCkVjBrW6BTylq0) | [Join Hate](https://open.spotify.com/album/2nng9pWpHHSSGGLJnROHTP) | 3:43 | 2022-01-14 | 2022-04-18 |
 | [Knees](https://open.spotify.com/track/49WaJosNna7DBveejaBjra) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Healing Is Not Linear](https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0) | 3:08 | 2021-12-31 | 2022-07-29 |
@@ -163,6 +163,7 @@
 | [RUNNING IN CIRCLES](https://open.spotify.com/track/2lbrjYnCyMaN4lsSmFLu9F) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [RUNNING IN CIRCLES](https://open.spotify.com/album/6mdvONDzaauSwdHTsD7XIE) | 2:53 | 2022-11-28 |  |
 | [Réveil heureux](https://open.spotify.com/track/185HvxnL9HUliNEb1Ohb48) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Réveil heureux](https://open.spotify.com/album/43qiPYd2IshCDP2HhgiYlu) | 5:08 | 2022-02-01 | 2022-03-25 |
 | [Sabotage](https://open.spotify.com/track/13IFoiFdQ9ywSD8FSeqYhn) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Sabotage](https://open.spotify.com/album/0gxLqxmKUjHF2B7ep1xBdQ) | 5:40 | 2021-12-15 | 2022-12-18 |
+| [Sabotage](https://open.spotify.com/track/2J9DxWY728bKvd0Q95XWJk) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs / Revolving](https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O) | 5:40 | 2022-12-11 |  |
 | [Sane! Sane! Sane!](https://open.spotify.com/track/3g3kipiNq024hxd67t8Bmp) | [My Thinking Face](https://open.spotify.com/artist/6CHiDYwhqZDX2X9a0mnzR6) | [The Meltdown](https://open.spotify.com/album/4d9TxK7bOMDAv1VMt9gxuq) | 2:12 | 2021-12-15 | 2022-07-28 |
 | [Sapphire](https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Spiritual Instinct](https://open.spotify.com/album/6o13o3tlmwPYFnlIrVoRhh) | 5:00 | 2021-12-15 |  |
 | [Save Me](https://open.spotify.com/track/3x2A78JLm8M8YGVFchcBSX) | [Back On Earth](https://open.spotify.com/artist/0O21EWCzkKnl0tLOsg1hms) | [Save Me](https://open.spotify.com/album/65IHH4VzEhnSva41SXgMOS) | 3:26 | 2021-12-31 | 2022-07-23 |

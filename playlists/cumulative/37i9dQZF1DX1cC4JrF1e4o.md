@@ -4,7 +4,7 @@
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-114 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/4QkHY9VZoiOZq5xC04j0Mc)
+114 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

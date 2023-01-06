@@ -4,7 +4,7 @@
 
 > La esencia ranchera del mariachi se une al romanticismo de tus artistas pop favoritos\. Kany García & Christian Nodal en portada.
 
-65 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/05bV0yx12rW3D31bBqo9ap)
+65 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

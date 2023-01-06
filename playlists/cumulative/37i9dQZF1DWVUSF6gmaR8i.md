@@ -4,7 +4,7 @@
 
 > Kick back with a collection of classic and new piano rock and pop.
 
-70 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/1d2QPJuB6Fd77XqXT9UYGL)
+70 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

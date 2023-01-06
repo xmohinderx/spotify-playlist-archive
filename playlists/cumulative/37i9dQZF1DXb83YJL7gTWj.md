@@ -4,7 +4,7 @@
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-234 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/5xFoAu42rUxBBjwiUOlAS2)
+234 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

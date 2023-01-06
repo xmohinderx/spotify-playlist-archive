@@ -4,7 +4,7 @@
 
 > The essential tracks from The Weeknd.
 
-104 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/6uoeuT1V3h46eQ4ThAisl4)
+104 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > It's all about the girls tonight.
 
-199 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/1ityN4Bm7ljJtFkTthOEOy)
+199 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

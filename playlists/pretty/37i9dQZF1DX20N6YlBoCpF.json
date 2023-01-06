@@ -1,13 +1,29 @@
 {
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma?si=9_ztbYjLSueEdImNuk_0pg\">Irene-Louise Van Wyk</a>",
-  "num_followers": 4858,
+  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH?si=wRplUt7FSF2-9SmbK0jmwA\">Juan Boucher</a>",
+  "num_followers": 4896,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjYxMDM0MCwwMDAwMDAwMGYwNDg0NGJlYTlhYmQyYzg5ZWZkMzkzYWE2OGFjZGRi",
+  "snapshot_id": "MTY3Mjk1NTk0MCwwMDAwMDAwMGM0YTdhOWUzYmFlMzEyNGQ0MGI3MTcwMGEyOThmZTE5",
   "tracks": [
+    {
+      "added_at": "2023-01-01 21:59:00",
+      "album": {
+        "name": "Dans Met Gevaar",
+        "url": "https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV"
+      },
+      "artists": [
+        {
+          "name": "Juan Boucher",
+          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
+        }
+      ],
+      "duration_ms": 249506,
+      "name": "Dans Met Gevaar",
+      "url": "https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof"
+    },
     {
       "added_at": "2023-01-01 21:59:00",
       "album": {
@@ -65,22 +81,6 @@
       "url": "https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH"
     },
     {
-      "added_at": "2022-11-24 21:59:00",
-      "album": {
-        "name": "Impulsief",
-        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 183317,
-      "name": "Impulsief",
-      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
-    },
-    {
       "added_at": "2023-01-01 21:59:00",
       "album": {
         "name": "Nora Vlok",
@@ -99,22 +99,6 @@
       "duration_ms": 187894,
       "name": "Nora Vlok",
       "url": "https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "Dans Met Gevaar",
-        "url": "https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV"
-      },
-      "artists": [
-        {
-          "name": "Juan Boucher",
-          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
-        }
-      ],
-      "duration_ms": 249506,
-      "name": "Dans Met Gevaar",
-      "url": "https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -155,22 +139,6 @@
     {
       "added_at": "2023-01-01 21:59:00",
       "album": {
-        "name": "Foto's",
-        "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "Foto's",
-      "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
         "name": "Vuur En Vlam",
         "url": "https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK"
       },
@@ -199,6 +167,22 @@
       "duration_ms": 257000,
       "name": "Suikerbos",
       "url": "https://open.spotify.com/track/5xw1XMX2FkhfMDxJkImMEy"
+    },
+    {
+      "added_at": "2022-11-24 21:59:00",
+      "album": {
+        "name": "Impulsief",
+        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 183317,
+      "name": "Impulsief",
+      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -239,6 +223,22 @@
     {
       "added_at": "2023-01-01 21:59:00",
       "album": {
+        "name": "Foto's",
+        "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "duration_ms": 194890,
+      "name": "Foto's",
+      "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
+    },
+    {
+      "added_at": "2023-01-01 21:59:00",
+      "album": {
         "name": "Uit my hande (afrikaans wil dans Remix)",
         "url": "https://open.spotify.com/album/44la9oqHWKpNcx2eEfTMxP"
       },
@@ -259,6 +259,38 @@
     {
       "added_at": "2023-01-01 21:59:00",
       "album": {
+        "name": "Dogter",
+        "url": "https://open.spotify.com/album/2oY1HgguwbO0kgh4sfco2i"
+      },
+      "artists": [
+        {
+          "name": "Juan Boucher",
+          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
+        }
+      ],
+      "duration_ms": 243893,
+      "name": "Dogter",
+      "url": "https://open.spotify.com/track/1PO2llChG41r9NlY7sIeLa"
+    },
+    {
+      "added_at": "2023-01-05 21:59:00",
+      "album": {
+        "name": "Wind Oor Die Berge",
+        "url": "https://open.spotify.com/album/2dJlSMrpuRPH1HkKqNjogS"
+      },
+      "artists": [
+        {
+          "name": "Tertius rooi",
+          "url": "https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Wind Oor Die Berge",
+      "url": "https://open.spotify.com/track/0VJlsGRJCojYup9mWi72t2"
+    },
+    {
+      "added_at": "2023-01-01 21:59:00",
+      "album": {
         "name": "Alles",
         "url": "https://open.spotify.com/album/3y6DJQFdkjfuLwKu2RhV43"
       },
@@ -271,6 +303,22 @@
       "duration_ms": 222582,
       "name": "Alles",
       "url": "https://open.spotify.com/track/6AfAYZSP09RMPqCVzyVAMj"
+    },
+    {
+      "added_at": "2023-01-01 21:59:00",
+      "album": {
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 184026,
+      "name": "ATKV",
+      "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -311,34 +359,18 @@
     {
       "added_at": "2023-01-01 21:59:00",
       "album": {
-        "name": "Vonkel",
-        "url": "https://open.spotify.com/album/0to1EOGNGl5DDev4nldVPX"
+        "name": "Jinne Maar Dis Lekker",
+        "url": "https://open.spotify.com/album/7oibnZJvOZJFWJ5pdNvZIJ"
       },
       "artists": [
         {
-          "name": "Mymymy",
-          "url": "https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf"
+          "name": "Ch\u00e9",
+          "url": "https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90"
         }
       ],
-      "duration_ms": 246095,
-      "name": "Vonkel",
-      "url": "https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "Dogter",
-        "url": "https://open.spotify.com/album/2oY1HgguwbO0kgh4sfco2i"
-      },
-      "artists": [
-        {
-          "name": "Juan Boucher",
-          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
-        }
-      ],
-      "duration_ms": 243893,
-      "name": "Dogter",
-      "url": "https://open.spotify.com/track/1PO2llChG41r9NlY7sIeLa"
+      "duration_ms": 186179,
+      "name": "Jinne Maar Dis Lekker",
+      "url": "https://open.spotify.com/track/19NUbG17wydOXIC8e3dFma"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -375,6 +407,22 @@
     {
       "added_at": "2023-01-01 21:59:00",
       "album": {
+        "name": "Drink",
+        "url": "https://open.spotify.com/album/1TAfabaZ5Y59atQoCqi4jx"
+      },
+      "artists": [
+        {
+          "name": "Frikkie Braaibroodjie",
+          "url": "https://open.spotify.com/artist/2AbLDwbYJ3Fq0dk8Wr0PTL"
+        }
+      ],
+      "duration_ms": 198843,
+      "name": "Drink",
+      "url": "https://open.spotify.com/track/0ES7dRb7iXkQ2GB3FfBfPa"
+    },
+    {
+      "added_at": "2023-01-01 21:59:00",
+      "album": {
         "name": "Rooi Bos",
         "url": "https://open.spotify.com/album/0CzF8nPiQS2Vr0JSZXands"
       },
@@ -389,92 +437,20 @@
       "url": "https://open.spotify.com/track/5aAa1nEMTRNlvDrziA5l6e"
     },
     {
-      "added_at": "2023-01-01 21:59:00",
+      "added_at": "2023-01-05 21:59:00",
       "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+        "name": "Jou Lewe",
+        "url": "https://open.spotify.com/album/52fdYMXWTbAFIqPn4ZJtcR"
       },
       "artists": [
         {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+          "name": "Frans Karoo",
+          "url": "https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO"
         }
       ],
-      "duration_ms": 184026,
-      "name": "ATKV",
-      "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "My Main Bra Tops",
-        "url": "https://open.spotify.com/album/1fi2Jaz0NJyc1yGMnlWwjT"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        },
-        {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "My Main Bra Tops",
-      "url": "https://open.spotify.com/track/0N1SlT7lVO21RgeqLYMtac"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "Jinne Maar Dis Lekker",
-        "url": "https://open.spotify.com/album/7oibnZJvOZJFWJ5pdNvZIJ"
-      },
-      "artists": [
-        {
-          "name": "Ch\u00e9",
-          "url": "https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90"
-        }
-      ],
-      "duration_ms": 186179,
-      "name": "Jinne Maar Dis Lekker",
-      "url": "https://open.spotify.com/track/19NUbG17wydOXIC8e3dFma"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "Uit Bethlehem",
-        "url": "https://open.spotify.com/album/6wPNYknmrK7GwDqXJcw1oM"
-      },
-      "artists": [
-        {
-          "name": "Johan Vorster",
-          "url": "https://open.spotify.com/artist/6asZtEizmynPK6QiUt2oWh"
-        },
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
-        }
-      ],
-      "duration_ms": 192679,
-      "name": "Uit Bethlehem",
-      "url": "https://open.spotify.com/track/5vQzoDbfOQ8ZHLsUgVkfrz"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "Drink",
-        "url": "https://open.spotify.com/album/1TAfabaZ5Y59atQoCqi4jx"
-      },
-      "artists": [
-        {
-          "name": "Frikkie Braaibroodjie",
-          "url": "https://open.spotify.com/artist/2AbLDwbYJ3Fq0dk8Wr0PTL"
-        }
-      ],
-      "duration_ms": 198843,
-      "name": "Drink",
-      "url": "https://open.spotify.com/track/0ES7dRb7iXkQ2GB3FfBfPa"
+      "duration_ms": 224000,
+      "name": "Jou Lewe",
+      "url": "https://open.spotify.com/track/2YJQQKNthSG8i443BZ65Np"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -561,6 +537,22 @@
       "url": "https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO"
     },
     {
+      "added_at": "2023-01-05 21:59:00",
+      "album": {
+        "name": "Lekker Hou",
+        "url": "https://open.spotify.com/album/6O1qzf3Uy1fdsTGKbZmJHB"
+      },
+      "artists": [
+        {
+          "name": "Augusta Zietsman",
+          "url": "https://open.spotify.com/artist/3jZWDJXxKcoeidgkf8N6mO"
+        }
+      ],
+      "duration_ms": 173919,
+      "name": "Lekker Hou",
+      "url": "https://open.spotify.com/track/5vIAa51osMoYOFRXcVxURY"
+    },
+    {
       "added_at": "2023-01-01 21:59:00",
       "album": {
         "name": "Laat Jou Voete Praat",
@@ -575,6 +567,22 @@
       "duration_ms": 226000,
       "name": "Laat Jou Voete Praat",
       "url": "https://open.spotify.com/track/6qNaSzF7aySbSCsNhmari2"
+    },
+    {
+      "added_at": "2023-01-01 21:59:00",
+      "album": {
+        "name": "Lekker In Suid-Afrika",
+        "url": "https://open.spotify.com/album/6tY0nQArsx8hwTIjPG3Gc6"
+      },
+      "artists": [
+        {
+          "name": "Lallie",
+          "url": "https://open.spotify.com/artist/4uSmTI5DC3mlZne6QOuSwo"
+        }
+      ],
+      "duration_ms": 208875,
+      "name": "Lekker In Suid-Afrika",
+      "url": "https://open.spotify.com/track/1WhdprkjiCK9xECfcIpH5A"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -595,42 +603,6 @@
     {
       "added_at": "2023-01-01 21:59:00",
       "album": {
-        "name": "Jona",
-        "url": "https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3"
-      },
-      "artists": [
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "Lyfie",
-      "url": "https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "Kersfees Is Jesus",
-        "url": "https://open.spotify.com/album/26mkOOLXD0ooYqNcKOamZg"
-      },
-      "artists": [
-        {
-          "name": "Stella",
-          "url": "https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5"
-        },
-        {
-          "name": "Louis Brittz",
-          "url": "https://open.spotify.com/artist/5l7CLS8mERdGXW5nhxLemJ"
-        }
-      ],
-      "duration_ms": 293186,
-      "name": "Kersfees Is Jesus",
-      "url": "https://open.spotify.com/track/7fbH4h0eU2m8mJqWCnBS4j"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
         "name": "As die Plaas Byt",
         "url": "https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z"
       },
@@ -643,6 +615,22 @@
       "duration_ms": 213734,
       "name": "As die Plaas Byt",
       "url": "https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK"
+    },
+    {
+      "added_at": "2023-01-01 21:59:00",
+      "album": {
+        "name": "Vonkel",
+        "url": "https://open.spotify.com/album/0to1EOGNGl5DDev4nldVPX"
+      },
+      "artists": [
+        {
+          "name": "Mymymy",
+          "url": "https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf"
+        }
+      ],
+      "duration_ms": 246095,
+      "name": "Vonkel",
+      "url": "https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -799,18 +787,38 @@
     {
       "added_at": "2023-01-01 21:59:00",
       "album": {
-        "name": "Lekker In Suid-Afrika",
-        "url": "https://open.spotify.com/album/6tY0nQArsx8hwTIjPG3Gc6"
+        "name": "My Sonskyn",
+        "url": "https://open.spotify.com/album/3Yd6n0KAvRrsuKOLlVlXPU"
       },
       "artists": [
         {
-          "name": "Lallie",
-          "url": "https://open.spotify.com/artist/4uSmTI5DC3mlZne6QOuSwo"
+          "name": "Melissa van Jaarsveld",
+          "url": "https://open.spotify.com/artist/1R2IoeZ8xw9Y35es1vZp4j"
         }
       ],
-      "duration_ms": 208875,
-      "name": "Lekker In Suid-Afrika",
-      "url": "https://open.spotify.com/track/1WhdprkjiCK9xECfcIpH5A"
+      "duration_ms": 243666,
+      "name": "My Sonskyn",
+      "url": "https://open.spotify.com/track/2CktNfTd3lvPHwVfBaSGxR"
+    },
+    {
+      "added_at": "2023-01-01 21:59:00",
+      "album": {
+        "name": "My Main Bra Tops",
+        "url": "https://open.spotify.com/album/1fi2Jaz0NJyc1yGMnlWwjT"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "My Main Bra Tops",
+      "url": "https://open.spotify.com/track/0N1SlT7lVO21RgeqLYMtac"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -827,22 +835,6 @@
       "duration_ms": 169062,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "My Sonskyn",
-        "url": "https://open.spotify.com/album/3Yd6n0KAvRrsuKOLlVlXPU"
-      },
-      "artists": [
-        {
-          "name": "Melissa van Jaarsveld",
-          "url": "https://open.spotify.com/artist/1R2IoeZ8xw9Y35es1vZp4j"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "My Sonskyn",
-      "url": "https://open.spotify.com/track/2CktNfTd3lvPHwVfBaSGxR"
     },
     {
       "added_at": "2023-01-01 21:59:00",

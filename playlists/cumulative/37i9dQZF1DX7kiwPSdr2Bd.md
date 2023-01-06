@@ -4,7 +4,7 @@
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Cassiane, Fernanda Brum
 
-100 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/65FJ5aIMXCu7yCIPpdXqxC)
+100 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

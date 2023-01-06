@@ -4,7 +4,7 @@
 
 > You know\. Epik High Is Here.
 
-108 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/5bA5AMOx89KfXjejAEPIvU)
+108 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

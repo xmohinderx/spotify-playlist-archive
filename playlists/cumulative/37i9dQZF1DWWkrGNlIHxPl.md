@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Saint Levant
 
-224 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+224 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

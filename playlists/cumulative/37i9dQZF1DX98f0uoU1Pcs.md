@@ -2,9 +2,9 @@
 
 ### [Noisy](https://open.spotify.com/playlist/37i9dQZF1DX98f0uoU1Pcs)
 
-> The perfect mix of Punk, Rock, Alt & Indie\. Cover: Special Interest
+> The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-364 songs - 19 hr 26 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+365 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Fate Is...](https://open.spotify.com/track/0pMAi0RA1Y1zKt5VNM4uED) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [I Was Trying to Describe You to Someone](https://open.spotify.com/album/4Qe5TvCjMQmX0gjjYwtARt) | 2:40 | 2022-01-07 | 2022-07-29 |
 | [Fate Is…](https://open.spotify.com/track/0wIwl2tvNN2fxKFh7V9rPF) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [I Was Trying to Describe You to Someone](https://open.spotify.com/album/07dXaYcSea0bdLcwmpeZJw) | 2:40 | 2022-07-08 | 2022-11-22 |
 | [Find The Light](https://open.spotify.com/track/0uzhHBYfoXelqQ0IICgZnx) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [In The Wild](https://open.spotify.com/album/0YNHnVxMqfHsVQUdJn7HgI) | 2:50 | 2022-06-14 |  |
+| [Fingers of Steel](https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Fingers of Steel](https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y) | 4:21 | 2023-01-06 |  |
 | [Foul](https://open.spotify.com/track/0jLiGDl2JzE6AphvAJ4HEl) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Foul](https://open.spotify.com/album/5Rd8jZQIzuHX6EuV1ZA6CE) | 2:47 | 2022-10-07 | 2022-11-24 |
 | [Foul](https://open.spotify.com/track/27YME9ZCAEKJc7tUQubCqW) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 2:47 | 2022-11-04 | 2022-12-10 |
 | [four days](https://open.spotify.com/track/24S8SDMXhsdqtDYTubh5po) | [Brandon Jack & The Artifacts](https://open.spotify.com/artist/4e7XSqMThH4O5gW0QTEV5r) | [four days](https://open.spotify.com/album/7y4oX1oppmiZjaNT16MLBb) | 2:10 | 2021-10-07 | 2022-04-29 |
@@ -219,7 +220,7 @@
 | [Missile Command](https://open.spotify.com/track/3kXNzPTs1tmjAoCo5aov3t) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Missile Command](https://open.spotify.com/album/4uGaVxhX8MdhGgJmn2rAnC) | 3:24 | 2021-10-07 | 2022-08-19 |
 | [MMMOOOAAAAAYAYA](https://open.spotify.com/track/5OEhwuwzSVnmeJdREOBqqk) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:04 | 2022-01-07 | 2022-03-12 |
 | [Model Village \(feat\. slowthai\)](https://open.spotify.com/track/0uETaKcRTISDXbaGBBxSNL) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Model Village \(feat\. slowthai\)](https://open.spotify.com/album/7bfzBwU5y5Js45fAbbWikS) | 3:55 | 2021-10-07 | 2022-01-08 |
-| [Modern Dinosaur](https://open.spotify.com/track/5TPqgtVFvYK8rmcIUNKY0s) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Sub Atomic Party Cool](https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm) | 2:31 | 2021-10-07 |  |
+| [Modern Dinosaur](https://open.spotify.com/track/5TPqgtVFvYK8rmcIUNKY0s) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Sub Atomic Party Cool](https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm) | 2:31 | 2021-10-07 | 2023-01-06 |
 | [molotov \[OK\]](https://open.spotify.com/track/6m0vqKogDYkJwwwpvNjyJT) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [molotov \[OK\]](https://open.spotify.com/album/1zV1jnwaCLWeXw8JiuaPSQ) | 2:16 | 2021-11-05 | 2022-01-08 |
 | [Moments of Clarity](https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ) | 3:50 | 2022-11-21 |  |
 | [Monkey Mind](https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Monkey Mind](https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW) | 2:18 | 2022-08-16 |  |
@@ -320,7 +321,7 @@
 | [Tell The Papers](https://open.spotify.com/track/0UashtBXvXLey63GLMJI7S) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Future Forecast](https://open.spotify.com/album/4ufRetq7F81HXrqjId1vq1) | 3:25 | 2022-01-07 |  |
 | [That Sedative](https://open.spotify.com/track/0w9v5TQFW13yOTfYuY0NtR) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [That Sedative](https://open.spotify.com/album/0YjsjTly2Jk6TpVKyk1YZR) | 2:21 | 2021-10-07 | 2022-07-29 |
 | [That Sedative](https://open.spotify.com/track/3xctqctbVGsgX2nzkRQ3xC) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [That Sedative](https://open.spotify.com/album/0JM4lsF31jRVkpuG4Ekrlk) | 2:21 | 2022-07-08 | 2022-10-08 |
-| [The Baby Panda](https://open.spotify.com/track/4kRS2jPnDN9f0mDpCnYai5) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl), [Laura Stevenson](https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg) | [The Baby Panda](https://open.spotify.com/album/3PZCUu3tPDTU0NamSdSwXr) | 1:49 | 2022-12-09 |  |
+| [The Baby Panda](https://open.spotify.com/track/4kRS2jPnDN9f0mDpCnYai5) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl), [Laura Stevenson](https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg) | [The Baby Panda](https://open.spotify.com/album/3PZCUu3tPDTU0NamSdSwXr) | 1:49 | 2022-12-09 | 2023-01-06 |
 | [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 | 2022-08-05 | 2022-09-26 |
 | [The Drop](https://open.spotify.com/track/3kBeOovTQnNlsRL6nxoWeD) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ) | 2:58 | 2022-09-23 | 2022-10-13 |
 | [The Drop](https://open.spotify.com/track/6LYwgEoWRoiTI9kMl1vaZ4) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/4pu1o36fxMUVZK6FFTtGZt) | 2:58 | 2022-11-04 | 2022-11-14 |
@@ -365,7 +366,7 @@
 | [Watching Strangers Smile](https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Watching Strangers Smile](https://open.spotify.com/album/2FbdRiyp61bzj01wQmtiDA) | 3:34 | 2022-03-11 |  |
 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 | 2022-09-23 |  |
 | [Weights](https://open.spotify.com/track/0GGqqihnFeI2asyfdHhXmV) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Weights](https://open.spotify.com/album/2xiG70X5SAFIb8YOtMPpMA) | 2:36 | 2022-01-07 | 2022-03-12 |
-| [What A Memorable Night](https://open.spotify.com/track/2k6m3RpKsAJJfRJZ1jqoTk) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [What A Memorable Night](https://open.spotify.com/album/3Ez2o1q5xtJcN77qVOE7L6) | 2:51 | 2022-02-11 |  |
+| [What A Memorable Night](https://open.spotify.com/track/2k6m3RpKsAJJfRJZ1jqoTk) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [What A Memorable Night](https://open.spotify.com/album/3Ez2o1q5xtJcN77qVOE7L6) | 2:51 | 2022-02-11 | 2023-01-06 |
 | [Whatever](https://open.spotify.com/track/6nCeCu9xovpYGPBUGoGqXi) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Whatever](https://open.spotify.com/album/5RbmktxpqVBEHpq14N5MUP) | 3:06 | 2021-10-07 | 2022-03-26 |
 | [Who Loves Ya? \(Coup d'état\)](https://open.spotify.com/track/5VWxoK8gGzImPEaHi8UP67) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Labour of Love](https://open.spotify.com/album/2eiPZLFJNcNnjj7YEHOW3p) | 3:40 | 2022-07-08 | 2022-08-27 |
 | [Who Loves Ya? \(Coup d'état\)](https://open.spotify.com/track/6z9gUolZoaw9Lf2mG90ytt) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Labour of Love](https://open.spotify.com/album/7KOvsna0rd5wQD1QLXdUV2) | 3:40 | 2022-02-21 | 2022-07-29 |

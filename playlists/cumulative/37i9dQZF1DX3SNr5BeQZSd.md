@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-134 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
+134 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

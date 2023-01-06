@@ -4,7 +4,7 @@
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Giovani Cidreira, Linn da Quebrada
 
-81 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/5WRCap7Po4seHkP0oCl5pD)
+81 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

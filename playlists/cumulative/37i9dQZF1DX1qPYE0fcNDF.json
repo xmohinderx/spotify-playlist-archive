@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Hip Hop and Happy Holidays! Cover: Gucci Mane",
   "name": "Hip Hop Holiday",
-  "published_playlist_ids": [
-    "15iDgUjDjSnw0fojRcTunX"
-  ],
   "tracks": [
     {
       "album": {
@@ -207,6 +204,28 @@
     {
       "album": {
         "name": "Your Favorite Christmas Songs",
+        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Problem",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146133,
+      "name": "Ain't No Santa",
+      "url": "https://open.spotify.com/track/0OBEDKruUCF8z8fOqyJkjY"
+    },
+    {
+      "album": {
+        "name": "Your Favorite Christmas Songs",
         "url": "https://open.spotify.com/album/305uSyxF5cbcBoGenNlvge"
       },
       "artists": [
@@ -221,7 +240,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 146133,
       "name": "Ain't No Santa",
       "url": "https://open.spotify.com/track/16smAuwyrmkBEbb4X4YYzE"

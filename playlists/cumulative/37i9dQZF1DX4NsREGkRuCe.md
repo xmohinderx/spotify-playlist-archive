@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-177 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/1Go6SzSjthtEYQfJ1ialIi)
+177 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

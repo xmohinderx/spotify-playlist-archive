@@ -4,7 +4,7 @@
 
 > Dale play, y que el amor no pare.
 
-130 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/7hfAkxwatZwawHA0lwo8eh)
+130 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

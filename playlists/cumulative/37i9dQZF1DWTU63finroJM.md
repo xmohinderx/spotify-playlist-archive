@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon\. Cover: Rhove.
 
-897 songs - 2 day 2 hr 16 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+897 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

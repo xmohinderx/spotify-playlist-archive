@@ -4,7 +4,7 @@
 
 > The saddest songs of the 1950s.
 
-48 songs - 2 hr 12 min - not published yet
+48 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

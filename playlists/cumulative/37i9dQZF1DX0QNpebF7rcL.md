@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Joe Louis Walker
+> The best in blues right now\. Cover: Taj Mahal
 
-242 songs - 16 hr 25 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+244 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,16 +69,17 @@
 | [Fragile Peace And Certain War](https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:59 | 2021-10-08 |  |
 | [Full Moon, Half Crazy](https://open.spotify.com/track/2mH1duZvwv83ft7fV56Y3z) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Full Moon, Half Crazy](https://open.spotify.com/album/4jaqIASmnRVNEpK54iXLyB) | 3:21 | 2021-08-20 | 2022-02-26 |
 | [Further](https://open.spotify.com/track/3e11gcdBWpIPpgDsHuJ1K3) | [Dwight & Nicole](https://open.spotify.com/artist/4F8E2YPeiWp9ncA3xJlxv0) | [Further](https://open.spotify.com/album/5YU8wpgoWdOkiRrjuJCeNo) | 2:57 | 2021-10-08 |  |
+| [Gee Baby Ain't I Good To You](https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Gee Baby Ain't I Good To You](https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk) | 3:51 | 2023-01-06 |  |
 | [Georgia Women](https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Georgia Women](https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS) | 4:05 | 2022-04-29 | 2022-06-11 |
 | [Get Down](https://open.spotify.com/track/3EHUAF57hi6zS7LS9QKzGJ) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/3cBmAwjBX1csLooXbuwHhr) | 3:27 | 2021-06-25 | 2022-07-29 |
-| [Get Down](https://open.spotify.com/track/7FnFu8xkQdB5HtX9sTg4eq) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 3:27 | 2021-06-25 |  |
+| [Get Down](https://open.spotify.com/track/7FnFu8xkQdB5HtX9sTg4eq) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 3:27 | 2021-06-25 | 2023-01-06 |
 | [Get Out of My Life Woman](https://open.spotify.com/track/5KN5fmcJShC49J830DEqHI) | [Watermelon Slim](https://open.spotify.com/artist/1GwDrciV2X5gn9uh0UDFwN) | [Church of the Blues](https://open.spotify.com/album/4Zy8gXmsSdNNeVjrmCIq3T) | 3:09 | 2020-12-14 | 2022-02-26 |
 | [Ghosts](https://open.spotify.com/track/0Abu2kVKUQrTNSqfowYWEp) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ghosts](https://open.spotify.com/album/78AbRfKfLgNCIPsm03P72R) | 5:09 | 2022-04-15 | 2022-05-28 |
 | [Giving Up On Your Love](https://open.spotify.com/track/1b4iMXi38xiZM6emdMlU0O) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [The Big Sound of Lil' Ed & The Blues Imperials](https://open.spotify.com/album/0bgCN0pFtQMEfoaiNRaoCR) | 3:39 | 2021-04-13 | 2022-04-23 |
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 | 2022-01-14 | 2022-04-23 |
 | [Great Minds Drink Alike \- With Horns](https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Great Minds Drink Alike \(With Horns\)](https://open.spotify.com/album/6pcpzddprnaCd9UfPN1vtt) | 3:57 | 2022-04-22 |  |
 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 | 2022-08-12 | 2022-09-17 |
-| [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2021-06-04 |  |
+| [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2021-06-04 | 2023-01-06 |
 | [Healing Time](https://open.spotify.com/track/1TnboUz1hVeZvqubDBQcHM) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH) | 4:35 | 2022-04-29 |  |
 | [Heartache by the Pound](https://open.spotify.com/track/2SSuZ7fCreC6czcTtu2wfu) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Heartache by the Pound](https://open.spotify.com/album/29Zs8tvzNxlKHIHjqHAW1N) | 3:09 | 2022-07-15 |  |
 | [Hello, it's the Blues](https://open.spotify.com/track/4l4ds95dBXqtgkRw05FHes) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Hello, it's the Blues](https://open.spotify.com/album/63AimE0DtK9RSDDm8ylU2H) | 6:46 | 2022-12-02 |  |
@@ -86,6 +87,7 @@
 | [Hiding Place](https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Hiding Place](https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D) | 7:23 | 2022-03-18 | 2022-04-06 |
 | [High Is Low](https://open.spotify.com/track/3yrV9iFHJYULuE8jogoPec) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 4:19 | 2022-08-19 |  |
 | [Highest Bidder](https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Highest Bidder](https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb) | 3:34 | 2022-02-11 | 2022-06-04 |
+| [Highest Bidder \- Acoustic](https://open.spotify.com/track/1h5ohHc3D1kqp4keFCNfR0) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Highest Bidder \(Acoustic\)](https://open.spotify.com/album/7FB08bB5nHUdT6yvxyrXTo) | 4:28 | 2023-01-06 |  |
 | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/album/6v7PWbwEKiBFAPcijUpRVe) | 4:33 | 2021-05-28 | 2022-05-20 |
 | [Hold Me](https://open.spotify.com/track/5t93hSW6hOhojflI6pjits) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:07 | 2020-12-14 | 2022-02-26 |
 | [Holding on with One Hand](https://open.spotify.com/track/6Zi5U36NiSzt0xp5OoXPzu) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Holler If You Hear Me](https://open.spotify.com/album/13Bf7tzevJNc8iqYysngFy) | 3:56 | 2021-09-03 | 2022-04-23 |

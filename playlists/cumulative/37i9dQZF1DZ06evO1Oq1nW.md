@@ -4,7 +4,7 @@
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-68 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/4AXkYbznAkUO1tVklEhRSv)
+68 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

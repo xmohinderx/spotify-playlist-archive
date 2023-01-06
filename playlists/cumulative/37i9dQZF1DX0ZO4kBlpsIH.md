@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-108 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/51Vd6umMWNvVzBmx5KIj0I)
+108 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

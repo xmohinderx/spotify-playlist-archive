@@ -4,7 +4,7 @@
 
 > ついにシリーズ完結！最新作映画『シン・エヴァンゲリオン劇場版』公開記念『エヴァンゲリオン』シリーズの音楽をプレイリストで！（C）カラー
 
-156 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/0FktuX6QwE8BElG39olosR)
+156 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

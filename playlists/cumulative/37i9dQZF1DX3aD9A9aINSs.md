@@ -4,7 +4,7 @@
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Funda Arar
 
-556 songs - 1 day 5 hr 47 min - [published](https://open.spotify.com/playlist/0Ug3iJ167AwJwwVFcWuJiv)
+556 songs - 1 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

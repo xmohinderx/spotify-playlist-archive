@@ -4,7 +4,7 @@
 
 > Mellow songs from the 2000s.
 
-280 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/6WzeCAKfLBdNdOPGxWapt7)
+280 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

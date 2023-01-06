@@ -4,7 +4,7 @@
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Foto: Duki
 
-67 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/5qWh0GZPnfQ4QFIzqA7iQK)
+67 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

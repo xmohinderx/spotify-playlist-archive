@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-180 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
+180 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

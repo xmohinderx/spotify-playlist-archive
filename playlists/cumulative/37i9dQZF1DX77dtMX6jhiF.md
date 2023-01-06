@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-54 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/777qMpOBhzMIfgYhrUbT0x)
+54 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

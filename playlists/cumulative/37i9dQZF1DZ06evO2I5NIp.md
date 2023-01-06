@@ -4,7 +4,7 @@
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-74 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/2sgp57SR3g5DZ4v54uUY9H)
+74 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

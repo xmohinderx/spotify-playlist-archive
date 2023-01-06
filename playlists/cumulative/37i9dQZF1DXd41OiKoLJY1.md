@@ -4,7 +4,7 @@
 
 > The top 50 tracks from Fresh Finds Philippines in 2022\. Cover: Jace Roque
 
-637 songs - 1 day 14 hr 36 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
+637 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

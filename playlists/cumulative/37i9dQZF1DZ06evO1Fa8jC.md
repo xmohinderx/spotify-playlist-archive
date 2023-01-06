@@ -4,7 +4,7 @@
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-76 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/2uF55wDJm5CvI71AIEYqh3)
+76 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

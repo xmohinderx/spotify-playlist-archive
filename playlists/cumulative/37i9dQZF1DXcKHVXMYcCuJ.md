@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all\. Cover: Hundred Reasons
 
-307 songs - 19 hr 7 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
+307 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Gallery](https://open.spotify.com/track/3Lo8larOv42LjOl3bCahU1) | [Tellison](https://open.spotify.com/artist/0lH9bacJzoLfY0tP60h6ko) | [Contact! Contact!](https://open.spotify.com/album/6eoLEZ3hvPH3lGN0M5MAFI) | 4:18 | 2022-01-11 | 2022-06-30 |
 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 | 2022-06-23 |  |
 | [Get Found](https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 3:01 | 2021-12-15 |  |
-| [Ghetto Blaster](https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [4 AM](https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq) | 5:02 | 2021-12-15 |  |
+| [Ghetto Blaster](https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [4 AM](https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq) | 5:02 | 2021-12-15 | 2023-01-06 |
 | [Ghost in the Mirror](https://open.spotify.com/track/2sxVGe2awPj7emt2btYnp1) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Asymmetry \(Deluxe\)](https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37) | 3:36 | 2022-04-15 |  |
 | [Glad That You're Gone](https://open.spotify.com/track/3zZhZxT1Rv2cgBSuGGElrL) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [Glad That You're Gone](https://open.spotify.com/album/1aYQKTRz4sQPvXXAkRZWSd) | 3:18 | 2021-12-15 | 2022-07-28 |
 | [Gold](https://open.spotify.com/track/4Kx4tZHPRKg7DVFeyh9xMA) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [...And We Explode](https://open.spotify.com/album/1xnNpamKRzpuKyF4pWNdZd) | 2:45 | 2021-12-15 | 2022-07-27 |
@@ -284,7 +284,7 @@
 | [Trigger](https://open.spotify.com/track/6wbCy1EJ5qkr1DjWPESIGF) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/36scylzoJ2n1YYwuHD0Db0) | 3:00 | 2022-11-02 | 2022-11-09 |
 | [Trouble Prone](https://open.spotify.com/track/5ICqGwuTjnSZjWEBQVLOo8) | [Down For Tomorrow](https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0) | [Whatever Happens](https://open.spotify.com/album/0fDxt4CQ9DR4P1pKzeznOc) | 2:29 | 2021-12-15 | 2022-07-22 |
 | [Tune in, Drop Out](https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tune in, Drop Out](https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX) | 2:50 | 2021-12-15 |  |
-| [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 | 2022-12-11 | 2022-12-30 |
+| [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 | 2022-12-11 |  |
 | [Unreal Is Here](https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2) | 2:31 | 2022-06-23 | 2022-12-13 |
 | [Unreal Is Here](https://open.spotify.com/track/4aBXGe7ftxVf7GaArOg0nK) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/4UjIWlTVbImEfiI40fF83i) | 2:31 | 2021-12-15 | 2022-07-29 |
 | [Us Vs Them](https://open.spotify.com/track/5GGPceIwbcpa563RKaNnoc) | [Spring King](https://open.spotify.com/artist/5kkANnP50OoBkxc8JRuTsA) | [A Better Life](https://open.spotify.com/album/3WwiWPs4LPH5421J6wovcV) | 3:42 | 2021-12-15 | 2022-07-29 |

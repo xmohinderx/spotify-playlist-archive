@@ -4,7 +4,7 @@
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-54 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/0EtQG6YP53d23Aucg19flz)
+54 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

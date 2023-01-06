@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-203 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
+203 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

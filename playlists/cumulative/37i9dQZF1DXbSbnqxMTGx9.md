@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-466 songs - 1 day 2 hr 41 min - [published](https://open.spotify.com/playlist/1Re3dl58DlvduJv8hc4Smq)
+466 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-153 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/3fipqYb0w1LRACIkepntXi)
+153 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

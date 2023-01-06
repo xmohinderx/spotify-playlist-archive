@@ -4,7 +4,7 @@
 
 > Sing along and enjoy the drive...
 
-816 songs - 2 day 2 hr 14 min - [published](https://open.spotify.com/playlist/1OVcAnTmAg9Lhtx4p2Q5k3)
+816 songs - 2 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

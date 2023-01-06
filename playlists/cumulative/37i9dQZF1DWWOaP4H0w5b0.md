@@ -4,7 +4,7 @@
 
 > Want some metal? Better to start with the essentials\. Cover: Pantera
 
-155 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/6yanaPw8WxmYYJb5axwMTB)
+155 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

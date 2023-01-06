@@ -4,7 +4,7 @@
 
 > ¡Y así suena..\. Julión Álvarez Y Su Norteño Banda!
 
-73 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/4oSA5mxBShTlqn9EK0pLuB)
+73 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

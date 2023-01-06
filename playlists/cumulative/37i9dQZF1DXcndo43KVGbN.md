@@ -4,7 +4,7 @@
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-116 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
+116 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

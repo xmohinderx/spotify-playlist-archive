@@ -4,7 +4,7 @@
 
 > Sad songs just 4 you para uno de esos días.
 
-158 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/2UyGgwrSRZspaHIh8SZiLr)
+158 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,119 songs - 2 day 14 hr 14 min - [published](https://open.spotify.com/playlist/3Rgnj48dhQD0TIHePADQ4d)
+1,119 songs - 2 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,7 +596,7 @@
 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-06-26 |
 | [LOVE YOU BETTER](https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:09 | 2022-04-30 | 2022-05-02 |
 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2022-05-04 | 2022-05-08 |
-| [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-29 | 2022-12-31 |
+| [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-29 |  |
 | [LUMBERJACK](https://open.spotify.com/track/0BiK5BbYNFLb88CCOxBFJe) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:18 | 2021-06-27 | 2021-06-28 |
 | [Lundinn Í Dalnum](https://open.spotify.com/track/5EhEOBsdGOdUplavTQrKc3) | [SZK](https://open.spotify.com/artist/6sSuXem86IOpEGNsDqJSSg) | [Lundinn Í Dalnum](https://open.spotify.com/album/7boxXzjJTrSWVVJb7iiFaD) | 3:01 | 2022-07-30 | 2022-08-01 |
 | [luvsong for the streets](https://open.spotify.com/track/2n7J13ZmuRtKFBFprYb3mZ) | [Lil Binni](https://open.spotify.com/artist/5A08BH6Y4ogPpBz71JO0e3) | [þjóðþekktur einstaklingur í valdastöðu](https://open.spotify.com/album/1gv02EfUkvWstrxyDpUM6P) | 3:01 | 2022-04-21 | 2022-04-24 |
@@ -856,7 +856,7 @@
 | [SloMo \- Eurovision's Dancebreak Edit](https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo \(Eurovision's Dancebreak Edit\)](https://open.spotify.com/album/3nrVP8ljurMTI2cEv6ItJA) | 3:00 | 2022-05-16 | 2022-05-19 |
 | [Slowup](https://open.spotify.com/track/6C7FM3Fkc2czoRbRGnG0AJ) | [Floni](https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7) | [Demotape 01](https://open.spotify.com/album/7ER6fzhCU5aJE9SNNTlkKd) | 2:20 | 2021-07-25 | 2021-07-28 |
 | [Slæmir Ávanar \(feat\. Krabba Mane\)](https://open.spotify.com/track/4frx9f5aTwWVRpHKNn7Q8O) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z), [Krabba Mane](https://open.spotify.com/artist/2UGze5HoSKodY9Lr2PV9zh) | [Bushido](https://open.spotify.com/album/2IB1JhcHO9T94RYr0aO2fv) | 2:40 | 2021-10-17 | 2021-11-27 |
-| [Slæmir Ávanar \- Young Nazareth Remix](https://open.spotify.com/track/7fusw1qY5GhqlXEe7mgN73) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z), [Krabba Mane](https://open.spotify.com/artist/2UGze5HoSKodY9Lr2PV9zh), [Young Nazareth](https://open.spotify.com/artist/18dU5cileMWztRvdqcQph3) | [Slæmir Ávanar \(Young Nazareth Remix\)](https://open.spotify.com/album/2r938N11gXVEeDIsGignXw) | 4:20 | 2022-12-31 |  |
+| [Slæmir Ávanar \- Young Nazareth Remix](https://open.spotify.com/track/7fusw1qY5GhqlXEe7mgN73) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z), [Krabba Mane](https://open.spotify.com/artist/2UGze5HoSKodY9Lr2PV9zh), [Young Nazareth](https://open.spotify.com/artist/18dU5cileMWztRvdqcQph3) | [Slæmir Ávanar \(Young Nazareth Remix\)](https://open.spotify.com/album/2r938N11gXVEeDIsGignXw) | 4:20 | 2022-12-31 | 2023-01-06 |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-13 | 2021-11-14 |
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2021-11-14 | 2021-11-28 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-05-11 | 2022-07-31 |

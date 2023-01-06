@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/6id0MckDOs2InxKfXzEbED)
+75 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

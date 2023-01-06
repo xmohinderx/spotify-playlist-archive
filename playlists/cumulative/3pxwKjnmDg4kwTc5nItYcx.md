@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-652 songs - 1 day 11 hr 14 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+652 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

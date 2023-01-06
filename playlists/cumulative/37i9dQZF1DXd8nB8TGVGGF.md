@@ -4,7 +4,7 @@
 
 > The best Blues for a long trip behind the wheel.
 
-140 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/7inldxiHCey24iSezd8whW)
+140 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

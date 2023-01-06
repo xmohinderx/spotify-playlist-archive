@@ -4,7 +4,7 @@
 
 > Island vibes for the whole family.
 
-52 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/1sOJ79s7c3GxAyycUWxTU0)
+52 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

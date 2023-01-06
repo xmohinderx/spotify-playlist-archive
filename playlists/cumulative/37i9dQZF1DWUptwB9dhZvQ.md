@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-91 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/6OAKXR3lL6SjbrqJyJl0zB)
+91 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

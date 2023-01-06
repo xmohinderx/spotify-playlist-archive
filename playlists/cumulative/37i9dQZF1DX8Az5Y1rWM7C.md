@@ -4,7 +4,7 @@
 
 > Revive lo mejor del trap latino del año.<br/>Foto: Jhay Cortez, Anuel AA & J Balvin.
 
-69 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/6aZRNXEu453v8uwGxUVpdE)
+69 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

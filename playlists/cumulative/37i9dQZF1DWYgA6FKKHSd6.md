@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-198 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
+198 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Personal Touch](https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Personal Touch](https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3) | 3:44 | 2021-07-12 |  |
 | [Play](https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Play](https://open.spotify.com/album/3AXyBPdf2uUHzQw2fec9vl) | 3:56 | 2022-06-24 |  |
 | [Prime Time](https://open.spotify.com/track/0Sj54pXxygKjTg6eEYSJlj) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Prime Time](https://open.spotify.com/album/1bdElAX11hV0fGE7kDYilG) | 3:59 | 2021-07-12 | 2022-04-29 |
-| [Prime Time](https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Prime Time](https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1) | 3:59 | 2021-07-12 | 2022-09-17 |
+| [Prime Time](https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Prime Time](https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1) | 3:59 | 2021-07-12 |  |
 | [Quintastic](https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf) | [Deon Yates](https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO) | [Quintastic](https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS) | 4:03 | 2021-07-12 |  |
 | [Ready to Go](https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX), [Magdalena Chovancova](https://open.spotify.com/artist/7sk96eq3pJ78GAZnf02FEP) | [Ready to Go](https://open.spotify.com/album/3lMmhPqyO3M5ECUj0enyJr) | 4:00 | 2021-07-12 |  |
 | [Rendezvous](https://open.spotify.com/track/02IFnwB9sOwXYNm3z4NBRN) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [The Morning After](https://open.spotify.com/album/2amAassXEbafoWBjFqR4qP) | 5:01 | 2021-07-12 | 2022-07-28 |
@@ -173,7 +173,7 @@
 | [Supersonic](https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Supersonic](https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV) | 3:40 | 2021-07-12 |  |
 | [Supersonic](https://open.spotify.com/track/5fM6c0mQ5uhHY9lbbAPvaB) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Supersonic](https://open.spotify.com/album/4fKVfS9TuE7WCXUovLI11R) | 3:40 | 2021-07-12 | 2022-07-29 |
 | [Sweetness](https://open.spotify.com/track/6XqIJu5pvnmk2hYjne89E9) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Sweetness](https://open.spotify.com/album/0fEG5FbdY24aA6sSlceKEW) | 6:50 | 2021-07-12 |  |
-| [Tailgate](https://open.spotify.com/track/60BTc4nKmy4zpHu9h93NQe) | [Patrick Lamb](https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35) | [Soul Ties](https://open.spotify.com/album/5Qe5J6bW0EyChzBZwg7Zve) | 4:27 | 2021-07-12 |  |
+| [Tailgate](https://open.spotify.com/track/60BTc4nKmy4zpHu9h93NQe) | [Patrick Lamb](https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35) | [Soul Ties](https://open.spotify.com/album/5Qe5J6bW0EyChzBZwg7Zve) | 4:27 | 2021-07-12 | 2023-01-06 |
 | [Taking Control](https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G \(Bonus Version\)](https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR) | 4:04 | 2021-07-12 |  |
 | [Tale of Two Cities](https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Talk of the Town](https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7) | 4:15 | 2021-07-12 |  |
 | [Tender \- Remix](https://open.spotify.com/track/5YYradN167DiyMgEmyg2o0) | [Daniel Chia](https://open.spotify.com/artist/6ntBTBKJKCqXEwDLevDm79), [Colin Watson](https://open.spotify.com/artist/0P4g915UEZLSjxKmVJwy3f) | [Tender \(Remix\)](https://open.spotify.com/album/3Hu6rLwI8Cqh4NciEwpfmX) | 5:03 | 2021-07-12 |  |

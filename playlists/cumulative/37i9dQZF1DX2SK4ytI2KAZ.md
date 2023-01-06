@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-415 songs - 23 hr 16 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+415 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

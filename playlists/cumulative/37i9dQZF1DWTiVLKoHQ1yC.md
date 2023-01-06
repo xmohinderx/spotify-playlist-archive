@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-105 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/7Fk7reI8lyvSnSbVbSoYyx)
+105 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

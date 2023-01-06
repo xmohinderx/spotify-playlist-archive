@@ -4,7 +4,7 @@
 
 > For whatever activity you do that may need a punch of intensity!
 
-290 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/1oJeOPmShDcRBjFvIb3Azw)
+290 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

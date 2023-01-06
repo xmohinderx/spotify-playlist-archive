@@ -4,7 +4,7 @@
 
 > Country's Top 50 most played songs—in the world\. Updated weekly\. Cover: Zach Bryan
 
-157 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/4jlP9JLoDqL2UcXAwJMvrX)
+157 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-268 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
+268 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

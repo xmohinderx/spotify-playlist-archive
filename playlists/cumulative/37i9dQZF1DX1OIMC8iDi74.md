@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-235 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+235 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

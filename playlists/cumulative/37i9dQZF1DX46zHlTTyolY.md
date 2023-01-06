@@ -4,7 +4,7 @@
 
 > Music to see you through the tough times.
 
-172 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/4sJeHXibErKpD8IDAbCwPl)
+172 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

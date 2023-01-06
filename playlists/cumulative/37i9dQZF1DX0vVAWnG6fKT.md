@@ -4,7 +4,7 @@
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-111 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/6ngukquRtVxTVqJcxVPRbM)
+111 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

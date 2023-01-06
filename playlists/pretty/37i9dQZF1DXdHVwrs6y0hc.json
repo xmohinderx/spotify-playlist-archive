@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 38707,
+  "num_followers": 38849,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDg5NTEwNiwwMDAwMDAwMDQ3MTY3ZTM2YzU5YjNhYTU4Yjg5MjUxYjg4ZWMwYmI1",
+  "snapshot_id": "MTYzNDg5NTEwNiwwMDAwMDAwMDk2OTNjMmNiMWRhMDA5ZmZmYjA2ZjdlOWVhZmFjZjgy",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -375,30 +375,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Kieran Fahy: Irish Fiddle - Man From the West",
-        "url": "https://open.spotify.com/album/3qiNV2ylg4Kif4DCML9FCo"
-      },
-      "artists": [
-        {
-          "name": "Philip Masure",
-          "url": "https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F"
-        },
-        {
-          "name": "Patrick Michiels",
-          "url": "https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N"
-        },
-        {
-          "name": "Kieran Fahy",
-          "url": "https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF"
-        }
-      ],
-      "duration_ms": 165893,
-      "name": "The Whole Chicken in the Soup - The Crooked Road",
-      "url": "https://open.spotify.com/track/4edsi4eGy8AyZ6ODg3ZnuR"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Ireland: Tales of Our Land",
         "url": "https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF"
       },
@@ -419,6 +395,30 @@
       "duration_ms": 198733,
       "name": "Road to Granard / Gallagher's Frolics / Out on the Ocean",
       "url": "https://open.spotify.com/track/6hJpbmcFZJcwskh0o3u4VV"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Kieran Fahy: Irish Fiddle - Man From the West",
+        "url": "https://open.spotify.com/album/3qiNV2ylg4Kif4DCML9FCo"
+      },
+      "artists": [
+        {
+          "name": "Philip Masure",
+          "url": "https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F"
+        },
+        {
+          "name": "Patrick Michiels",
+          "url": "https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N"
+        },
+        {
+          "name": "Kieran Fahy",
+          "url": "https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF"
+        }
+      ],
+      "duration_ms": 165893,
+      "name": "The Whole Chicken in the Soup - The Crooked Road",
+      "url": "https://open.spotify.com/track/4edsi4eGy8AyZ6ODg3ZnuR"
     },
     {
       "added_at": "2021-04-26 15:38:07",

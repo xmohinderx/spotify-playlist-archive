@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-142 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/5epGcI3jwXpExjEdCjz20Q)
+142 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

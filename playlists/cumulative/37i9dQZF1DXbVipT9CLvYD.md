@@ -4,7 +4,7 @@
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-65 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/5ViJtyAwBRLu7fqFg9JMgY)
+65 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

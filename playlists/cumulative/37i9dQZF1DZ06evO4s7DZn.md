@@ -4,7 +4,7 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/4JIi4bjPGxzuez5Wn9lhj6)
+83 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

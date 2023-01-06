@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz dos grandes adoradores do Brasil\. Foto: Maria Marçal
 
-79 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/77mvdIhvEtSHIOmonSSyen)
+79 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

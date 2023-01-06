@@ -4,7 +4,7 @@
 
 > Escuchá a Mora Navarro y a más mujeres a todo volumen\. <br/>Dales PLAY, dales POWER.
 
-551 songs - 1 day 5 hr 56 min - [published](https://open.spotify.com/playlist/2QVxsIRorz9KsDBcQ2nOCU)
+551 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

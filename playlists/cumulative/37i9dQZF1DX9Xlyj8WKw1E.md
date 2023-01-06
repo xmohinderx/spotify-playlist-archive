@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover, Babyface Ray
 
-318 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/57t0qc1oksSiWQYs8DnYvL)
+318 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

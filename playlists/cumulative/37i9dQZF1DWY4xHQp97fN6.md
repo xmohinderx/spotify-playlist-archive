@@ -4,7 +4,7 @@
 
 > Mode: Turnt
 
-437 songs - 21 hr 15 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
+437 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

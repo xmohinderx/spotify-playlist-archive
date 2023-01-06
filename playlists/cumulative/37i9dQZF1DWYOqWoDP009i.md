@@ -4,7 +4,7 @@
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-109 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/43vCWCUSR0OchxOLKb5RA4)
+109 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

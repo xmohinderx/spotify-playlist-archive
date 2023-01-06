@@ -4,7 +4,7 @@
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-194 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/5VEyXoyPv34EuLVwWwWH7G)
+194 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

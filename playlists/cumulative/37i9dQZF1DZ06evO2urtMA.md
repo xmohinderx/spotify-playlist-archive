@@ -4,7 +4,7 @@
 
 > This is Narrow Head\. The essential tracks, all in one playlist.
 
-25 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/04FAiHdgntu9MUnKcvzwgv)
+25 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

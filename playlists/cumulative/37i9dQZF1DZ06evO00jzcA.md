@@ -4,7 +4,7 @@
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-82 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/0STv48kztmKltDvms2WfHH)
+82 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

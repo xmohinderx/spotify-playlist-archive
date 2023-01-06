@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,233 songs - 2 day 11 hr 36 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,233 songs - 2 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

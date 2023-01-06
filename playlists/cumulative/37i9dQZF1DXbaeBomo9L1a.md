@@ -4,7 +4,7 @@
 
 > R&B sensual para una apasionada noche en excelente compañía.
 
-70 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/1i4e9zZGg6WcrvjDTSglUO)
+70 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

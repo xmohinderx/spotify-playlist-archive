@@ -4,7 +4,7 @@
 
 > Lo mejor de las mujeres a todo volumen con Ceci Juno en portada.
 
-129 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+129 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

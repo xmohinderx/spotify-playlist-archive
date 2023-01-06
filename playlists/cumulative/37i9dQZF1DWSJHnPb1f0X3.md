@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-528 songs - 1 day 2 hr 37 min - [published](https://open.spotify.com/playlist/1tr0x1oNxYIGOgyNmauGpx)
+528 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

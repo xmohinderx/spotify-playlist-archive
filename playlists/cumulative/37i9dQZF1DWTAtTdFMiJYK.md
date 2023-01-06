@@ -4,7 +4,7 @@
 
 > Radar artists' that were loved the most in 2022\. Cover \- Anumita Nadesan \#SpotifyWrapped
 
-196 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+196 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

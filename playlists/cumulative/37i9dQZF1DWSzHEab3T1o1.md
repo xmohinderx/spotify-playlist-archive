@@ -4,7 +4,7 @@
 
 > El junte entre las estrellas del dance global y del urbano latino\. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo
 
-66 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/0CJyRyndIC2VnvKOsLLyfE)
+66 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

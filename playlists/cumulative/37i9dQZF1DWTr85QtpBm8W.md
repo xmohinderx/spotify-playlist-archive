@@ -4,7 +4,7 @@
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-107 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/0zy8b8voSxCSA3RsWKT2B6)
+107 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

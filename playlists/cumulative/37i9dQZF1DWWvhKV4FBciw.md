@@ -4,7 +4,7 @@
 
 > A selection of the greatest funk & soul records ever made.
 
-184 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/2AjOW6a9C9C9LSslZhQe3k)
+184 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

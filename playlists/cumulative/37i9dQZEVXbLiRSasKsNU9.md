@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,097 songs - 2 day 11 hr 15 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+1,097 songs - 2 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv) | 2:33 | 2022-02-15 | 2022-02-17 |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2023-01-03 |  |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-03 | 2023-01-04 |
-| [Bloody Mary \- Sped Up](https://open.spotify.com/track/2U2Rc8lJHAhUGjYZrglZjD) | [northwest](https://open.spotify.com/artist/3RKPBKtZwufk5QekqW1Ab9) | [Bloody Mary \(Sped Up\)](https://open.spotify.com/album/3kUmW8Iroc8ONRWQGZtkPv) | 3:10 | 2023-01-03 |  |
+| [Bloody Mary \- Sped Up](https://open.spotify.com/track/2U2Rc8lJHAhUGjYZrglZjD) | [northwest](https://open.spotify.com/artist/3RKPBKtZwufk5QekqW1Ab9) | [Bloody Mary \(Sped Up\)](https://open.spotify.com/album/3kUmW8Iroc8ONRWQGZtkPv) | 3:10 | 2023-01-03 | 2023-01-06 |
 | [Blue Flame](https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:21 | 2022-05-24 | 2022-05-27 |
 | [Blunt für dich](https://open.spotify.com/track/2ez3Jmw9dFAJEGX1naEqBg) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Blunt für dich](https://open.spotify.com/album/6Ka4bAxQmr8KtYitiGrAEC) | 2:37 | 2022-01-11 | 2022-01-19 |
 | [BM \(London View\)](https://open.spotify.com/track/2swRdG3vAk5bYBR3oSf1cg) | [OTP](https://open.spotify.com/artist/3AFt30387waHIjjDL63XeI) | [BM \(London View\)](https://open.spotify.com/album/4oB0i1S43BE1uM7eopeurT) | 2:44 | 2021-12-28 | 2022-01-05 |
@@ -463,7 +463,7 @@
 | [I Want Candy](https://open.spotify.com/track/7sruBwHu4S0DIo8RXKxsAY) | [Aaron Carter](https://open.spotify.com/artist/5338fdSzGNOFD4cxAxDTeq) | [Aaron's Party \(Come Get It\)](https://open.spotify.com/album/3BfvHVArGv1rIZgbOkdrbW) | 3:13 | 2022-11-08 | 2022-11-14 |
 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 | 2022-06-11 | 2022-07-10 |
 | [I'd Do Anything For Love \(But I Won't Do That\) \- Single Edit](https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell II: Back Into Hell](https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z) | 5:16 | 2022-01-23 | 2022-01-30 |
-| [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2022-12-13 | 2023-01-05 |
+| [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2022-12-13 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-20 | 2022-10-17 |
 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-22 | 2022-03-30 |
 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 | 2022-11-22 | 2022-12-08 |

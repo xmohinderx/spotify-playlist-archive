@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: slipmami
 
-114 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
+115 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Futuro](https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg) | [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c) | [Poder](https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd) | 2:23 | 2022-03-18 |  |
 | [Garota Califórnia](https://open.spotify.com/track/3qVGrdhoNv3xzpga0B8I6S) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Garota California](https://open.spotify.com/album/6tkNx1oadbWZLzYr3kH1Tk) | 3:06 | 2022-06-24 |  |
 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 | 2022-03-18 |  |
+| [Girassol](https://open.spotify.com/track/26comn1fbkVTg3HuuYU4w3) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I) | [Girassol](https://open.spotify.com/album/7poqNacyVe3hPkzyPtugdD) | 2:26 | 2023-01-06 |  |
 | [Haters And Snakes](https://open.spotify.com/track/0GrH8cHTWShAdjaQtS9yBy) | [Casa De Musique](https://open.spotify.com/artist/0hZopCUa9lvzrv2GGsHfxz), [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Haters And Snakes](https://open.spotify.com/album/1ezQ47LA8hNsUdZafyOUSY) | 2:28 | 2022-07-08 |  |
 | [Haters and Snakes](https://open.spotify.com/track/4yPrZjRwN6vB07Qx6zyxVa) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Haters and Snakes](https://open.spotify.com/album/2KGOOACrBMEGoEWFY7RWEM) | 2:28 | 2022-03-18 | 2022-07-29 |
 | [Hija de Kuyen \- Ao Vivo](https://open.spotify.com/track/2ca0ORNc1zHBU55rENU09T) | [Brisa Flow](https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO) | [Brisa Flow no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/3ln6jlK3dSMATTdhHnm2w1) | 3:32 | 2022-07-01 | 2022-12-03 |

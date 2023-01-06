@@ -4,7 +4,7 @@
 
 > Los abanderados del rock argentino y sus himnos.
 
-136 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/20QTaB58HA6OAkx383binx)
+136 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

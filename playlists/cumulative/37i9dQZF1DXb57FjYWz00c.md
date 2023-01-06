@@ -4,7 +4,7 @@
 
 > Nothing but unforgettable songs from the 80s.
 
-151 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/4C0kE2G0iduh3H69khkkrO)
+151 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

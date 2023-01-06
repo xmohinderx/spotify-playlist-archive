@@ -4,7 +4,7 @@
 
 > Let your favorite pop guide you through your daily commute! Cover: Dua Lipa
 
-241 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/7hzvHKwkDQ5iYg92Vjtc0a)
+241 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

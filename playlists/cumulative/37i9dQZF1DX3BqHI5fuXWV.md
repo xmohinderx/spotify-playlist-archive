@@ -4,7 +4,7 @@
 
 > The best tracks from the great Miles Davis.
 
-138 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/6e4rtl5SvFO1Jq3xitAZyt)
+138 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

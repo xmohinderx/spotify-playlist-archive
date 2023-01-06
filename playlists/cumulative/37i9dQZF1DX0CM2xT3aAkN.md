@@ -4,7 +4,7 @@
 
 > Choral and instrumental classical music from the Renaissance era.
 
-97 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/39g0MNn34FnvzkGxfEXy8E)
+97 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

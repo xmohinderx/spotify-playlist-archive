@@ -4,7 +4,7 @@
 
 > This is Fangclub\. The essential tracks, all in one playlist.
 
-27 songs - 1 hr 32 min - [published](https://open.spotify.com/playlist/2dyz5XJZJ6VHq4VxeqR4OA)
+27 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

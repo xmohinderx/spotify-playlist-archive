@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Ashley McBryde
 
-216 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+216 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

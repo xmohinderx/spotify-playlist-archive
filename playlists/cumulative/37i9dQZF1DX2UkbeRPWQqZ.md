@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-150 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+154 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [It's Time To Come Home](https://open.spotify.com/track/0KiBDgHHknKpx21oimTDp2) | [Lissie Dunn](https://open.spotify.com/artist/2hI2FJVLX5KUMS3fUUl5ah) | [It's Time To Come Home](https://open.spotify.com/album/0MoqEpJYuQaJOGI1anBJIL) | 2:45 | 2022-09-02 |  |
 | [It's Time To Go To Sleep](https://open.spotify.com/track/0MODSghjQ1qBiy9mP5EoLm) | [The Magic Guitar](https://open.spotify.com/artist/2lETErpujLR6ngyVsrSj2v) | [A\-Hunting We Will Go](https://open.spotify.com/album/6O1oNKCphZNf7Qlzwmlr9E) | 2:08 | 2021-11-11 |  |
 | [It's Time To Say Sweet Dreams](https://open.spotify.com/track/32gQ8o6mhuQySEfh9ztsuq) | [Julio Neve](https://open.spotify.com/artist/1PQUU6PsqiLylfwDuzkGc8) | [It's Time To Say Sweet Dreams](https://open.spotify.com/album/6mGQmZTQ4Pvh6srEI0yL1w) | 1:45 | 2021-11-11 |  |
+| [Itsy Bitsy Spider](https://open.spotify.com/track/3FIPEJ6eEft1rB2DrOghDc) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Itsy Bitsy Spider](https://open.spotify.com/album/4e171SgcolbaTGuahv9wHl) | 1:38 | 2023-01-06 |  |
 | [Jumpin Bumpin Bounce](https://open.spotify.com/track/7a2OEKKGw9vO3aYIIoRvcF) | [Boris Vlašic](https://open.spotify.com/artist/3zNmA2R2BOtatVjh5rMgMQ) | [Jumpin Bumpin Bounce](https://open.spotify.com/album/5IrFRr42ArFhYggtmyQoYw) | 3:16 | 2022-07-29 |  |
 | [Kling och klang](https://open.spotify.com/track/183VkWkmFqG7iv6AbtbW5H) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Kling och klang](https://open.spotify.com/album/2BsQ8v9OA15dH9XZo0SpYe) | 2:27 | 2022-07-01 |  |
 | [La Magia del Alma](https://open.spotify.com/track/4kyEfs7bWqDzdBwndT7l9d) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [La Magia del Alma](https://open.spotify.com/album/5LLIHdECpb0s7LJHLz45py) | 2:04 | 2022-07-01 |  |
@@ -118,9 +119,10 @@
 | [Rockabye Baby](https://open.spotify.com/track/75Ts9hRtbg1AVGy9vRJtsK) | [Jeremy Weber](https://open.spotify.com/artist/5kG2I7kJM2vgorcUBEmdQX) | [Guitar Lullabies](https://open.spotify.com/album/1RYmiB1F57bwA1CYhOctwu) | 1:11 | 2021-11-11 |  |
 | [Row Row Row Your Boat](https://open.spotify.com/track/47PMzPN17D3fj1V3tAayDD) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Frère Jacques](https://open.spotify.com/album/0yDbIhI2acYzofgV3AH2go) | 2:12 | 2022-04-26 |  |
 | [Row Your Boat](https://open.spotify.com/track/0xlMGRmoGT9ekGhIBhOMqG) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [Row Your Boat](https://open.spotify.com/album/1BXXcxa3g3Izca7MjBlKMx) | 1:30 | 2021-11-11 | 2022-04-27 |
+| [See the Stars](https://open.spotify.com/track/1J9HqwN1K2RuEEifceye5Z) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [See the Stars](https://open.spotify.com/album/2az551c3qBHagaYEIVXpQw) | 1:57 | 2023-01-06 |  |
 | [Simple Gifts \- Guitar Instrumental](https://open.spotify.com/track/0eG7qveAW9otB6SzWVh2ZA) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Guitar Lullabies: Music for Babies](https://open.spotify.com/album/1gW0NUlwmxK7YKNAF1TpDj) | 1:48 | 2021-11-11 | 2022-01-22 |
 | [Six Little Ducks](https://open.spotify.com/track/3RGS63bYLsf9kjL1GTjNFz) | [John Petravic](https://open.spotify.com/artist/1yvylwyE6YBJOErEOJrr7X) | [Bedtime Guitar Lullabies](https://open.spotify.com/album/08P9sX4mlNilheho0M8iia) | 2:10 | 2021-11-11 | 2022-06-11 |
-| [Skidamarink A Dink A Dink](https://open.spotify.com/track/3jWeocrrxb4mQmH0Po0UNA) | [Lisa Liddle](https://open.spotify.com/artist/1YzqZE21VmV1PvWp1bHmlq) | [Skidamarink A Dink A Dink](https://open.spotify.com/album/3ckHFaiiOJl3x1lCf5S9nw) | 2:20 | 2021-11-11 |  |
+| [Skidamarink A Dink A Dink](https://open.spotify.com/track/3jWeocrrxb4mQmH0Po0UNA) | [Lisa Liddle](https://open.spotify.com/artist/1YzqZE21VmV1PvWp1bHmlq) | [Skidamarink A Dink A Dink](https://open.spotify.com/album/3ckHFaiiOJl3x1lCf5S9nw) | 2:20 | 2021-11-11 | 2023-01-06 |
 | [Skogen Sover](https://open.spotify.com/track/42EfNrLcYB9vMAnfi928Ci) | [Sofia Andersson](https://open.spotify.com/artist/7vFIdjlk1tPniBpfYn0ShM) | [Skogen Sover](https://open.spotify.com/album/1Ng8bNMcVMR77m0yWd91kI) | 2:41 | 2022-04-26 |  |
 | [Sleep Birdie Sleep](https://open.spotify.com/track/42zVKfVVXZpW9cFkNUAsi1) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleep Birdie Sleep](https://open.spotify.com/album/2Pu9LPjvHdG5BxArbqZLNe) | 2:08 | 2022-09-02 |  |
 | [Sleep Hymn](https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Sleep Hymn](https://open.spotify.com/album/7KhhtHKQ8rjeDRWpBoA1z8) | 2:11 | 2021-11-11 |  |
@@ -129,6 +131,7 @@
 | [So Many Stars](https://open.spotify.com/track/54Mmafmblu61obktO4hibb) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [So Many Stars](https://open.spotify.com/album/19nV7OOmUPmLBjz4jswvoD) | 2:55 | 2022-06-10 |  |
 | [Sov godt trollet mitt](https://open.spotify.com/track/5n03A1PL8EYrVwGmtG9glK) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sov godt trollet mitt](https://open.spotify.com/album/5xO1UYpDwxtRkanELdS61x) | 1:30 | 2021-11-11 |  |
 | [Sov Gott Lilla Du](https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Sov Gott Lilla Du](https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9) | 2:34 | 2022-12-16 |  |
+| [Sov På Min Arm \- Guitar Version](https://open.spotify.com/track/49INsxQEM7B4lAHbHXSuxD) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [Sov På Min Arm \- Guitar Version](https://open.spotify.com/album/5zfOuOoNi1n6n4XvadqK2T) | 1:53 | 2023-01-06 |  |
 | [Stars at Night](https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF) | [3rd Street Guitar](https://open.spotify.com/artist/2A7EWzNXsSbpTOpw8NvUhF) | [Stars at Night](https://open.spotify.com/album/3MQuWn9w5Vqv0AjrLNnsCP) | 1:42 | 2021-11-11 |  |
 | [Stjernefall](https://open.spotify.com/track/72Brqr3kj4zbxnmA31fW78) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Stjernefall](https://open.spotify.com/album/6JCE5LPLTWhPfwJsq27RAM) | 1:28 | 2022-06-10 |  |
 | [Take Me Out to the Ballgame](https://open.spotify.com/track/7zg3AH81GeAQWov5dNLTtI) | [The Sleepy Guitar](https://open.spotify.com/artist/3Dyk5VGJ21XhhypsaeMjYO) | [Guitar Lullabies](https://open.spotify.com/album/3kZzS9BJtaRcshaIa1wqwr) | 2:17 | 2021-11-11 |  |
@@ -143,6 +146,7 @@
 | [The Wheels On The Bus](https://open.spotify.com/track/7IpF6HgZeSeQ4VS3fxbqxw) | [The Singing Guitar](https://open.spotify.com/artist/4HuZFgsc8Y4blxFSzwNTWF) | [Lullabies](https://open.spotify.com/album/6Mk6zRNF5DNBoUo1b8lxpW) | 2:06 | 2021-11-11 |  |
 | [This Old Man](https://open.spotify.com/track/0FFtYy25WDwgdTlKOyFFui) | [Funny Fanny](https://open.spotify.com/artist/1kvETyy8pcVERDBrk7Txdh) | [This Old Man](https://open.spotify.com/album/0iL8y62kdnKlUv0l1n5LLb) | 2:00 | 2021-11-11 | 2022-10-29 |
 | [This Old Man](https://open.spotify.com/track/0W3lwmDR8B83b8puxO89HE) | [Karina Grant](https://open.spotify.com/artist/6z6tjX6FtOo6WOkE8CrLn6) | [This Old Man](https://open.spotify.com/album/6Srd3HVugYrR8GuT98wYFK) | 1:41 | 2022-10-28 |  |
+| [Toy song](https://open.spotify.com/track/1EffS9L96WFcVqyl2C3lsb) | [Roger Citrus](https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW) | [Toy Song](https://open.spotify.com/album/4DnkzFjiU9jVnOmjHixzdf) | 1:27 | 2023-01-06 |  |
 | [Trollmors vuggevise](https://open.spotify.com/track/1PKjwXKjMSUN1q48vcciui) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sanger for de minste](https://open.spotify.com/album/73HFQPdPGcT72SGPbNre5h) | 1:43 | 2021-11-11 |  |
 | [Tryggare kan ingen vara](https://open.spotify.com/track/4TDyCo1Vx6pbN5BKvkmP6h) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 1](https://open.spotify.com/album/0BAIYSMDCppH6iFWzA0jEb) | 1:33 | 2021-11-11 |  |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/6zWt8aRGtbqQ0kGaQIXV0W) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:37 | 2021-11-11 |  |

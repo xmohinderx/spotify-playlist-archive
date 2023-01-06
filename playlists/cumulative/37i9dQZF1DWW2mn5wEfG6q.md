@@ -4,7 +4,7 @@
 
 > 2013 highlights from the home of indie music.
 
-124 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/1S81S8JC2nYLWxFw3a2sL5)
+124 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

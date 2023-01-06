@@ -4,7 +4,7 @@
 
 > That unbridled, unholy, loud and dirty 90s rock goodness you know you love
 
-71 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/4P6ez16qM3ynYMAAhm9MsJ)
+71 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

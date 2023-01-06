@@ -4,7 +4,7 @@
 
 > Peaceful ambient for mind body connection.
 
-160 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
+160 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The perfect instrumental accompaniment to your wedding day; elegant background music for seating guests, walking down the aisle or cocktail hour.
 
-57 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/5Y8mV1kkK7RVGOGyZCwVZy)
+57 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

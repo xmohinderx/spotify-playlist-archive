@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "Tracks popping off in the global Afro scene. Cover: Ayra Starr",
   "name": "Peppeh",
-  "published_playlist_ids": [
-    "3nZuXQa2F2MSgHEfT2QpvH"
-  ],
   "tracks": [
     {
       "album": {
@@ -895,6 +892,32 @@
       "duration_ms": 165142,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL"
+    },
+    {
+      "album": {
+        "name": "Fine Girl",
+        "url": "https://open.spotify.com/album/4UFfCfzRXHZXoiWUWeL6zq"
+      },
+      "artists": [
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        },
+        {
+          "name": "Boat",
+          "url": "https://open.spotify.com/artist/545XHoCXOXRYsNrKjh4uHd"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229897,
+      "name": "Fine Girl",
+      "url": "https://open.spotify.com/track/4ep4DgNUhZSmMTpq0hHet4"
     },
     {
       "album": {

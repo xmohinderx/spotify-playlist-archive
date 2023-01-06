@@ -4,7 +4,7 @@
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-69 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/4DsBzLXOa5IdfOWSaGnozR)
+69 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

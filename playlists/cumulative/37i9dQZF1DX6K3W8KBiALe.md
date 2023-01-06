@@ -4,7 +4,7 @@
 
 > Chill to the familiar classical pieces featured in award\-winning films.
 
-125 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/1QWhIJzyTDvacbNTzsyc3s)
+125 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

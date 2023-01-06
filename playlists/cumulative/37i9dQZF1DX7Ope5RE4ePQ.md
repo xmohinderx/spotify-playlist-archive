@@ -4,7 +4,7 @@
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-76 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/2v8yMWug6NT2lbtXU1fqbl)
+76 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

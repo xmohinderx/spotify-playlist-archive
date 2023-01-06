@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-76 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
+76 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

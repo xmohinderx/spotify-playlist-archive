@@ -4,7 +4,7 @@
 
 > Cold beer\. Hot wings\. Great rock.
 
-166 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/3dZKmsHFqarBZK5PhR0m0r)
+166 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-245 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
+246 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [New Rules](https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [New Rules](https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA) | 3:14 | 2021-07-16 |  |
 | [No Regrets](https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [No Regrets](https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI) | 3:07 | 2021-07-16 | 2022-11-13 |
 | [No Tears Left To Cry](https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [No Tears Left To Cry](https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y) | 3:58 | 2021-07-16 |  |
-| [Nothing Breaks Like a Heart](https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [Nothing Breaks Like a Heart](https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP) | 3:23 | 2021-07-16 |  |
+| [Nothing Breaks Like a Heart](https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [Nothing Breaks Like a Heart](https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP) | 3:23 | 2021-07-16 | 2023-01-06 |
 | [NY Man](https://open.spotify.com/track/3ZfJ3tNrqVY9CDLPgeow8T) | [A Girl Called Eddy](https://open.spotify.com/artist/4R024vmmAv1tyJGZPWkEDu) | [Been Around](https://open.spotify.com/album/6DwkzPEjQeTutwvtajX7mO) | 4:02 | 2021-07-16 | 2022-07-29 |
 | [Ocean Eyes](https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N) | [Jameson David](https://open.spotify.com/artist/66pRpCCxdVALakZpifVDwq) | [Ocean Eyes](https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb) | 2:58 | 2021-07-16 | 2022-12-03 |
 | [Old Town Road](https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Old Town Road](https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv) | 2:51 | 2021-07-16 |  |
@@ -211,6 +211,7 @@
 | [Take a Bow](https://open.spotify.com/track/36CEKFj615FPeNYyGWcmuI) | [Chimdrop](https://open.spotify.com/artist/0oXV2JEgqbIkieZf3f1GgZ) | [Take a Bow](https://open.spotify.com/album/3T1pXluHHXJluVmcHc4BWM) | 3:40 | 2021-07-16 | 2022-07-29 |
 | [Tattoo](https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP) | [Natalie 2V](https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x) | [Tattoo](https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr) | 2:56 | 2021-07-16 |  |
 | [Tenderness](https://open.spotify.com/track/0l4C0NqebeMcpVJkduRuUK) | [Laura Gibson](https://open.spotify.com/artist/396L5wXlifF7nfSLhP3tTH) | [Tenderness](https://open.spotify.com/album/0QciEURoa6fZUkITRIUOQM) | 3:36 | 2021-07-16 | 2022-07-26 |
+| [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 | 2023-01-03 |  |
 | [The Day I Left Hanoi](https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y) | [Jokai](https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz) | [The Day I Left Hanoi](https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh) | 3:49 | 2021-07-16 | 2023-01-03 |
 | [The Day That We First Met](https://open.spotify.com/track/17ekhUz8G2Pmeupx9YYmQk) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [The Day That We First Met](https://open.spotify.com/album/6iw7Nwas2Qw3ByoVCh3g6r) | 3:40 | 2021-07-16 | 2022-07-29 |
 | [The Moons Detriment](https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [The Moons Detriment](https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m) | 2:35 | 2021-07-16 |  |

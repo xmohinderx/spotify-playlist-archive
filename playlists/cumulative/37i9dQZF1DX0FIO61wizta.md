@@ -4,7 +4,7 @@
 
 > Verdi was the undisputed king of Italian opera in the 19th century\. Explore his greatest works, including Rigoletto and La Traviata, right here.
 
-106 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/1JX2k68z13nb5nDeYoOiIS)
+106 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

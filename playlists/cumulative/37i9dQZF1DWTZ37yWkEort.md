@@ -4,7 +4,7 @@
 
 > From joyful jubillance to hushed harmonies – this is some of the best in A Cappella Christmas.
 
-73 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/5QBY79IZSDXVZ7kDF0XFKT)
+73 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

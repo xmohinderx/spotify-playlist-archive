@@ -4,7 +4,7 @@
 
 > Celebrating some of the most iconic female voices of all time\.  Cover: Kelly Clarkson
 
-105 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/4KeSj5RmVQDyrnv4hQ1OiP)
+105 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

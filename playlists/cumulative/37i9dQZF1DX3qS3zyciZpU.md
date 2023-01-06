@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-151 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/2tqwvqLztEVOvwl4EXM922)
+151 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

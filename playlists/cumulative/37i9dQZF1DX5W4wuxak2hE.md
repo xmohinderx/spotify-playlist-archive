@@ -4,7 +4,7 @@
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-104 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/2YOkhgiX4mtX981PcVEeLB)
+104 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

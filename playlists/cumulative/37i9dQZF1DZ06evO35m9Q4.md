@@ -4,7 +4,7 @@
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/2sTCeRqFZP7FBgs84k9rr5)
+61 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-182 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
+182 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

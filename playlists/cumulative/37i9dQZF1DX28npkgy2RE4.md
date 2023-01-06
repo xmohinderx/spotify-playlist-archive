@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Drugdealer
 
-374 songs - 23 hr 5 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
+375 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-05-25 | 2022-07-29 |
 | [Apple Juice](https://open.spotify.com/track/15cNyPj2P1ohuM2rMJiMUb) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Apple Juice](https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO) | 3:02 | 2022-04-15 | 2022-10-15 |
 | [Apple Juice](https://open.spotify.com/track/3A5aS28dQBFswox9AefLSX) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:02 | 2022-10-14 |  |
-| [Aquamarine](https://open.spotify.com/track/1j8hpxvE9IfjR2Vk9ihjrK) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 4:14 | 2022-07-11 |  |
+| [Aquamarine](https://open.spotify.com/track/1j8hpxvE9IfjR2Vk9ihjrK) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 4:14 | 2022-07-11 | 2023-01-06 |
 | [Aquamarine](https://open.spotify.com/track/2bNcVuWSoMVWxFIbQIAC7A) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Aquamarine](https://open.spotify.com/album/67i6eRlC0warZ41bgxzs1a) | 4:14 | 2021-11-12 | 2022-07-29 |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2021-11-12 |  |
 | [August](https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [August](https://open.spotify.com/album/1MLYRx0yyQKW7TyFvSye5z) | 2:48 | 2022-07-11 |  |
@@ -376,6 +376,7 @@
 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 | 2021-11-12 |  |
 | [Woman](https://open.spotify.com/track/4RraQaETfGBWvDAbVeCBib) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Woman](https://open.spotify.com/album/1IIiI9LpMlXOChqLqMfGzV) | 3:49 | 2021-11-12 | 2022-10-22 |
 | [Woman](https://open.spotify.com/track/5HheAgHugjc04e0YOt4OIE) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Mother’s Milk](https://open.spotify.com/album/3lf8jM9HzVHrL9RI0JNWsz) | 3:49 | 2022-10-14 |  |
+| [Woman](https://open.spotify.com/track/43JOg7EAhMKqlkPr2mZUIP) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Woman](https://open.spotify.com/album/31FXylZSxeyXau0uevwdeu) | 3:45 | 2022-12-12 |  |
 | [Woman \(feat\. Lady Lamb\)](https://open.spotify.com/track/0f8VjKe3TShzHjas4qd6MA) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Woman \(feat\. Lady Lamb\)](https://open.spotify.com/album/7BIJQX1YaJOxJwTCxiTvVM) | 3:45 | 2021-11-12 | 2022-07-29 |
 | [Worldender](https://open.spotify.com/track/6VDvcEeDNYuUwUjgVg72QO) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Worldender](https://open.spotify.com/album/1Hs5Q0WA0rAHoFA8a6j77D) | 4:13 | 2022-04-01 | 2022-07-27 |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2021-11-12 |  |

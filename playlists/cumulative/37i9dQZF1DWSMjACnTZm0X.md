@@ -4,7 +4,7 @@
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=D6t3mgaNRoG34W61XJd0Qw">Lojay</a>, <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=KWN2MSIkRP2HPgX2t9QTMg">DJ Maphorisa</a> and <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=g31cPvUxRSGeNeezoaaKYg">Kabza De Small</a>
 
-100 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/2VDTulRwwLDleluIc1nZ2E)
+100 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

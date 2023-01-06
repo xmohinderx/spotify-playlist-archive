@@ -4,7 +4,7 @@
 
 > Song of the Year winners from 1959\-2021\. How many do you know? \#SpotifyTBT
 
-87 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/5sviYI5JD7rztpjP8iZrzW)
+87 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

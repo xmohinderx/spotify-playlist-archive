@@ -4,7 +4,7 @@
 
 > Hit the road to the soundtrack of these seventies classics.
 
-286 songs - 19 hr 42 min - [published](https://open.spotify.com/playlist/1G4piBuXasSgedzOMD6dKo)
+286 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

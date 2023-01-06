@@ -4,7 +4,7 @@
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/71Zv4rCSRmVJyeYVBZibaN)
+58 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

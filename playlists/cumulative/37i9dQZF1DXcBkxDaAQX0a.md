@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-262 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
+262 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

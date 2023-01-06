@@ -4,7 +4,7 @@
 
 > Time to rave again.
 
-262 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
+262 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is the PROOF of BTS history\. ARMY is unbeatable💜
 
-447 songs - 1 day 2 hr 50 min - [published](https://open.spotify.com/playlist/0H29pOOi9iH82uofXTdelu)
+447 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

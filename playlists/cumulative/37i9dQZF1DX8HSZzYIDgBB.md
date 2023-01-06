@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Mula en portada.
 
-202 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+202 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

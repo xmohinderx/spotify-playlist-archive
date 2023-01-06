@@ -4,7 +4,7 @@
 
 > The best Indie tracks from the scene\. Cover \- Taaruk Raina
 
-174 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
+174 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

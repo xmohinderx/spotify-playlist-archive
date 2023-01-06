@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-58 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1ZkV0CfmGhvgxDrLrEpQmF)
+59 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Tose Naina Lage \(Unplugged\)](https://open.spotify.com/track/3ceyAysjbknWYu2C3Bgkin) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Tose Naina Lage \(Unplugged\) \- Single](https://open.spotify.com/album/26mT72BDl53qzqXSR9bRUD) | 2:09 | 2022-12-14 |  |
 | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/track/1V9MzOZA1PRhK0VCFMf8II) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/album/3NlyYQJD6uH1SAGG2f8kpn) | 2:28 | 2022-04-11 | 2023-01-05 |
 | [Tujhko Jo Paaya](https://open.spotify.com/track/62kyw2ux2p0CZ7pKWtM6QO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Crook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/298NO23hfv1nhAE0gQ5vLN) | 3:04 | 2022-04-11 |  |
-| [Tujhse Naraz Nahin Zindagi Unplugged LoFi](https://open.spotify.com/track/1hSsvaAZHK1NdyhSvnBZwh) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2) | [Tujhse Naraz Nahin Zindagi Unplugged LoFi](https://open.spotify.com/album/5chFwFDNb5HL2R4KbUj4Eu) | 2:27 | 2023-01-04 |  |
+| [Tujhse Naraz Nahin Zindagi Unplugged LoFi](https://open.spotify.com/track/0z0fbGkzbfeJQTvrCrelOl) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2) | [Tujhse Naraz Nahin Zindagi Unplugged Lofi \- Single](https://open.spotify.com/album/53gbAlbYkzqUKPQwwGV7Q8) | 2:27 | 2023-01-04 |  |
+| [Tujhse Naraz Nahin Zindagi Unplugged LoFi](https://open.spotify.com/track/1hSsvaAZHK1NdyhSvnBZwh) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2) | [Tujhse Naraz Nahin Zindagi Unplugged LoFi](https://open.spotify.com/album/5chFwFDNb5HL2R4KbUj4Eu) | 2:27 | 2023-01-04 | 2023-01-06 |
 | [Tum Se Hi \(Reprise\) \(From "Sadak 2"\) \(feat\. Alia Bhatt\)](https://open.spotify.com/track/4xhxNVJ21MayyOpKUnFd7W) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Tum Se Hi \(Reprise\) \(feat\. Alia Bhatt\) \[From "Sadak 2"\]](https://open.spotify.com/album/4qXletW47OQdSrNSmLYVNs) | 4:05 | 2022-04-11 |  |
 | [Woh Din \(From "Chhichhore"\)](https://open.spotify.com/track/6QPFWNUw9iGFZAXgqecunp) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Woh Din \(From "Chhichhore"\)](https://open.spotify.com/album/6AO0pgr8j2uk3fQUmXR8lF) | 5:12 | 2022-04-11 |  |
 | [You're So Beautiful](https://open.spotify.com/track/78vh1SHHtT8MUZ2MUft4xG) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Haunted](https://open.spotify.com/album/5fGF8CMrFsj1zrF17UDYdB) | 4:28 | 2022-04-11 |  |

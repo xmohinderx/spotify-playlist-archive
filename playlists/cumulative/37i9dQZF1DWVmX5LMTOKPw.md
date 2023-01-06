@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best hit songs of the year! Cover: Harry Styles
 
-50 songs - 2 hr 38 min - not published yet
+50 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

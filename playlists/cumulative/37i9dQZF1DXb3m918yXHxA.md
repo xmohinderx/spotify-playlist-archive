@@ -4,7 +4,7 @@
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-114 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/5vWhtnXr3d9iOKCLTHbHXQ)
+114 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

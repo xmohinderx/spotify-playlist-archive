@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-194 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/4Q5EZJbUbCT3HpL6GxMjPC)
+194 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

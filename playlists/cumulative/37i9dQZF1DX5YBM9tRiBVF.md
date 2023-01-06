@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! Cover: <a href="spotify:artist:0cb0p26TbAeBeekZHfxWlS">Mentissa</a>
 
-291 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
+291 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

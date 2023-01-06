@@ -4,7 +4,7 @@
 
 > Music by Metro Boomin, Lil Durk and Moneybagg Yo.
 
-1,469 songs - 3 day 3 hr 41 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,470 songs - 3 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1418,6 +1418,7 @@
 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 | 2021-03-06 | 2021-06-12 |
 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 | 2022-03-11 | 2022-06-18 |
 | [When You Down \(with Polo G feat\. Lil Durk\)](https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 3:13 | 2020-09-18 | 2020-12-11 |
+| [Where Dem Dollas At \(feat\. DJ Paul & Juicy J\)](https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Enquiring Minds](https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp) | 4:29 | 2023-01-05 |  |
 | [While I'm Here \(feat\. Polo G\)](https://open.spotify.com/track/6YFNTA6WdBIOyEihK1Ss5V) | [Lil Loaded](https://open.spotify.com/artist/7scapvSjZLSm0fBgqGM0Mn), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [A Demon In 6lue](https://open.spotify.com/album/40zMiWd6ctIydNFnPgqdM3) | 3:29 | 2020-10-09 | 2020-10-16 |
 | [Whipski \(feat\. Lil Skies & Internet Money\)](https://open.spotify.com/track/0a2Yk4ORO4MsGaJ4DI03qx) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Whipski \(feat\. Lil Skies & Internet Money\)](https://open.spotify.com/album/69zRKx6ZZQx652iPq1PRyp) | 3:03 | 2021-04-10 | 2021-04-24 |
 | [White Lows Off Designer \(feat\. Lil Durk\)](https://open.spotify.com/track/00lh2JJMF7xsplZhwDT4jv) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [White Lows Off Designer \(feat\. Lil Durk\)](https://open.spotify.com/album/3bZ0JelIrqE98jF15RxJUH) | 2:55 | 2021-03-19 | 2021-05-08 |

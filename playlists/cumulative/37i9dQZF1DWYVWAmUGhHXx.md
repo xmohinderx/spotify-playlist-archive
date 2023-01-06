@@ -4,7 +4,7 @@
 
 > Ritmos latinos para encender la llama de la pasión.
 
-132 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/5zFuETfEhKRghsm5a0dGCk)
+132 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

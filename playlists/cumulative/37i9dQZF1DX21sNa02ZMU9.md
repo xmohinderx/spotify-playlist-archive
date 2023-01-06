@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 00s
 
-221 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/1JS0kEefQI1qgwW3Y378aD)
+221 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT?si=5dwnc1j\_SByNOTWWBcCBTw" > Oxlade </a>  and <a href="https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF?si=\-VO0zRASTJ2xWVgc64LZsA" > Camila Cabello </a>
 
-271 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/3Y8M6G8CEpUSth190sL4SQ)
+271 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

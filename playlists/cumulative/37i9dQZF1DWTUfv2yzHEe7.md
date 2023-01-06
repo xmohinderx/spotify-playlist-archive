@@ -4,7 +4,7 @@
 
 > Bollywood beats to keep you dancing all night\. Cover: Govinda Naam Mera
 
-82 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/5HAFGxpwN32oLCPDEylxYw)
+82 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

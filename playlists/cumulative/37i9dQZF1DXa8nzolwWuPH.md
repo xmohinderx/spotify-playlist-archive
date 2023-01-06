@@ -4,7 +4,7 @@
 
 > Exclusive sports stories and conversations from sports legends.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/73RcrgZiiqFP1kHnHQgNRa)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

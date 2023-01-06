@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The country way of testifying. Cover: Mickey Guyton",
   "name": "Country by the Grace of God",
-  "published_playlist_ids": [
-    "6cE3SvtvS08f7zxJyG9uyM"
-  ],
   "tracks": [
     {
       "album": {
@@ -321,6 +318,24 @@
       "duration_ms": 233213,
       "name": "Bloodlines",
       "url": "https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw"
+    },
+    {
+      "album": {
+        "name": "Can I See My Dog?",
+        "url": "https://open.spotify.com/album/4j47u9VWxM9MhAKZG2FqeM"
+      },
+      "artists": [
+        {
+          "name": "Roman Alexander",
+          "url": "https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195050,
+      "name": "Can I See My Dog?",
+      "url": "https://open.spotify.com/track/0ZZBTSD2RGt4O86ZQpPW4x"
     },
     {
       "album": {
@@ -1961,6 +1976,28 @@
       "duration_ms": 237933,
       "name": "Phone Call to God",
       "url": "https://open.spotify.com/track/3oSyemHgjMoHqW85EuclSb"
+    },
+    {
+      "album": {
+        "name": "Place for Me",
+        "url": "https://open.spotify.com/album/23KSpAVjELjsop1LUXsldT"
+      },
+      "artists": [
+        {
+          "name": "Kasey Tyndall",
+          "url": "https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2"
+        },
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Place for Me",
+      "url": "https://open.spotify.com/track/6lhnuGmvxgRiozlK4J2cer"
     },
     {
       "album": {

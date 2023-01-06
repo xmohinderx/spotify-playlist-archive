@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GREY D
 
-45 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/2s99wOe5KkDPtODdly2OIW)
+45 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

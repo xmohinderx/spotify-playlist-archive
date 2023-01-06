@@ -4,7 +4,7 @@
 
 > Relaxing piano works by Chopin.
 
-63 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/76Jly7Nt7BMApdWX5GLIfX)
+63 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

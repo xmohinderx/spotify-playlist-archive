@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-170 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
+170 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-153 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/1KxHyfdL3wCGKY9oZxPyfF)
+153 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

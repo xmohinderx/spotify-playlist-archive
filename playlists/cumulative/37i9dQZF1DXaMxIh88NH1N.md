@@ -4,7 +4,7 @@
 
 > Al cien con los corridos ¡Para un buen ejercicio!
 
-370 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/1DOweYuVVKrE9ujdDdWPfp)
+370 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

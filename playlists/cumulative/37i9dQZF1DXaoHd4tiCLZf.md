@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-220 songs - 13 hr 2 min - not published yet
+220 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

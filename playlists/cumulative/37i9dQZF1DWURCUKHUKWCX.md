@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-168 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+168 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

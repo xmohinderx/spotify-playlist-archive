@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,482 likes - 71 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,585 likes - 71 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 54 | [Trouble with Home](https://open.spotify.com/track/3cRT4Q78S5AnlzqA9YO3nj) | [Friendly Savages](https://open.spotify.com/artist/3Ig26ddcKT3uUPpvLjzMAw) | [O, Joshua!](https://open.spotify.com/album/4tjNIbJuVc8GxqBXAqGZAD) | 3:19 |
 | 55 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
 | 56 | [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 |
-| 57 | [She Lit a Fire](https://open.spotify.com/track/7jvRS4mNvjbSwgdiWDG2ZD) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/69kRqmPTFu7xBqsrM47Ko4) | 4:30 |
+| 57 | [She Lit a Fire](https://open.spotify.com/track/6EwmdjdgIxoN1sRMhqWwmS) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:30 |
 | 58 | [Lie with Me \- EP Version](https://open.spotify.com/track/34bGkKfN3W2z2EdA4PjLFH) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/3qddrnnY93q5krHvd3z5BY) | 3:09 |
 | 59 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 |
 | 60 | [Everything You Need](https://open.spotify.com/track/1X4okn3iYFuvrqziSqTXpW) | [The Lonely Wild](https://open.spotify.com/artist/7uG1pvcReIxuBhvpabjdom) | [The Sun as It Comes](https://open.spotify.com/album/6QhBP3TaVPhzhHbEUUV1nS) | 4:35 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 70 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 71 | [Hopeless Wanderer](https://open.spotify.com/track/1FNGW0JOSp7Rbomh80XVYm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:07 |
 
-Snapshot ID: `MTY2MzczOTY0NiwwMDAwMDAwMGM1YTQ3MzQzN2ZlNDkzYTI1NzVkNmJkZDY4M2M4OTQ4`
+Snapshot ID: `MTY2MzczOTY0NiwwMDAwMDAwMDAxMGJjYWI1YTU2MmM5ZjkwYWVkNjAzNTA1MjhhZDM5`

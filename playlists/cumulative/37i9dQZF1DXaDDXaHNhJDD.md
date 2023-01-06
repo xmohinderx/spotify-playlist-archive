@@ -4,7 +4,7 @@
 
 > An exclusive collection of Malayalam super hit songs.<br/>Cover: GOLD
 
-95 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/10m0BYH7vx3vQP94cQIjSm)
+95 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

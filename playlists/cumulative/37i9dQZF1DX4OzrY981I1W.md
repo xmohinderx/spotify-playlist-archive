@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-328 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
+328 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

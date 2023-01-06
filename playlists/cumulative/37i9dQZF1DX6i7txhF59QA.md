@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Jung Dong Won\(정동원\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-781 songs - 1 day 20 hr 35 min - [published](https://open.spotify.com/playlist/4095CD5XCukMZYOcr7Aaxg)
+781 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,13 +725,13 @@
 | [로꾸거!!!](https://open.spotify.com/track/77Z6XdUHDsbvsLd61vVbQU) | [SUPER JUNIOR\-T](https://open.spotify.com/artist/5Z595Kh9tlzZuyneUHI111) | [로꾸거!!!](https://open.spotify.com/album/4jKdrKP3d7a6fR9nJBQMAv) | 2:59 | 2022-05-03 |  |
 | [마셔라](https://open.spotify.com/track/7M7dVVgNr0VaLq6B2aqw5E) | [Mr.Boombox](https://open.spotify.com/artist/47feRgmsZDfJs3AOY68xPp) | [마셔라](https://open.spotify.com/album/5HcjCPrfrpBgkGYJUTwRYr) | 3:48 | 2022-04-07 | 2022-07-29 |
 | [만약 혹시나 만약에](https://open.spotify.com/track/0MBll3MNAunvI1k4EqRDXZ) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [만약 혹시나 만약에](https://open.spotify.com/album/1DJtekGwGeFiEWUkaYslNZ) | 2:36 | 2022-05-03 | 2022-07-20 |
-| [목계나루](https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3) | [이수진](https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP) | [트로트 여인 1, 2](https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk) | 2:36 | 2022-04-22 | 2022-12-04 |
+| [목계나루](https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3) | [이수진](https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP) | [트로트 여인 1, 2](https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk) | 2:36 | 2022-04-22 |  |
 | [무명배우](https://open.spotify.com/track/3rYKL4GEjt2R91ww7wNxeT) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [미스트롯 FINAL STAGE](https://open.spotify.com/album/1M7ZC5LiictivsP80SG886) | 4:15 | 2022-04-07 | 2022-07-29 |
 | [무명배우](https://open.spotify.com/track/39VPnJnAO80E2bRFQFHck0) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Again](https://open.spotify.com/album/2hmWVreZzq76CRhKkwEBJr) | 4:15 | 2022-07-22 |  |
 | [무명배우](https://open.spotify.com/track/6xKZwgfvGsz2uhKlxnL205) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Dream](https://open.spotify.com/album/4QlmckbPKjwvpfDO9DzDpQ) | 4:20 | 2022-05-03 | 2022-07-24 |
 | [물안개 블루스 Cafe Water Fog Blues](https://open.spotify.com/track/1WHjPqInTxxdfvDPoywAOV) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [검사내전 OST Diary of a prosecutor](https://open.spotify.com/album/0G1CPXP6liWXMWL5Y17myB) | 3:24 | 2022-05-03 | 2022-07-23 |
 | [물안개 블루스\(Bossa\) Cafe Water Fog Blues\(Bossa\)](https://open.spotify.com/track/50QrAx0hzJemxQS6bM88pI) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [검사내전 OST Diary of a prosecutor](https://open.spotify.com/album/0G1CPXP6liWXMWL5Y17myB) | 3:21 | 2022-04-07 | 2022-07-29 |
-| [바보 같은 사람](https://open.spotify.com/track/1YGw2tcb8dsBtcIrZYlj5s) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [바보 같은 사람](https://open.spotify.com/album/3XrJa2kkNDvkD0LMz7ECve) | 3:48 | 2022-10-07 |  |
+| [바보 같은 사람](https://open.spotify.com/track/1YGw2tcb8dsBtcIrZYlj5s) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [바보 같은 사람](https://open.spotify.com/album/3XrJa2kkNDvkD0LMz7ECve) | 3:48 | 2022-10-07 | 2023-01-06 |
 | [버리지 말아주세요](https://open.spotify.com/track/7jPVAzvBIpLlfbMigwNJOW) | [이미자](https://open.spotify.com/artist/3yXSdsWFus4eMZywfTuHG0) | [명예의 전당 가요무대 3](https://open.spotify.com/album/4nHETWlobhoAmBSvvW31xG) | 2:22 | 2022-04-22 | 2022-07-28 |
 | [보릿고개](https://open.spotify.com/track/2RYQrS3fDdnincR9K6mNgp) | [Jin Sung](https://open.spotify.com/artist/73Bihnu9ymiWuNTNtZLg9Z) | [트롯가왕](https://open.spotify.com/album/2GhSslxollNuNr8Q94sa4b) | 3:29 | 2022-04-21 |  |
 | [본능적으로](https://open.spotify.com/track/5QGEU738UICRLjHPhWzO6m) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [허주](https://open.spotify.com/artist/2cwJyLwfPebALO5YklhFKM) | [아무도 모르게 김호중의 파트너 Pt\. 1](https://open.spotify.com/album/60gWqkO4zELpk6S55P4nIX) | 3:37 | 2022-05-03 | 2022-07-14 |

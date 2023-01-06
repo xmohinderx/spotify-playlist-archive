@@ -4,7 +4,7 @@
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-71 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/5muGSFLefiwB3XW2mQjEIM)
+71 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

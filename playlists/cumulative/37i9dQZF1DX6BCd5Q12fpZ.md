@@ -4,7 +4,7 @@
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-154 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/1exkrkQUMlN50irx29MF90)
+154 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

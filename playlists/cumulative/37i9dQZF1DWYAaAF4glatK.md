@@ -4,7 +4,7 @@
 
 > Les 50 titres qui ont marqué votre été 2022 !
 
-50 songs - 2 hr 34 min - not published yet
+50 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

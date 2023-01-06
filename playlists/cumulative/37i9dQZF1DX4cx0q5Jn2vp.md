@@ -4,7 +4,7 @@
 
 > Nakakakilig!
 
-112 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/3xWDe6yEOKSf26XaGBB55W)
+112 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

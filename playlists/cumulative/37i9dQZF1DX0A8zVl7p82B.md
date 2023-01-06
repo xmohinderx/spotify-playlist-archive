@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-227 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/1cWqFYI6ySnzsyIBE6xMhO)
+227 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

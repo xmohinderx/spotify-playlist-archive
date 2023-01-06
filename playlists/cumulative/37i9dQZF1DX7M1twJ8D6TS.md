@@ -4,7 +4,7 @@
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-157 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/6kdXzda1LIaxeejkB6DjXj)
+157 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

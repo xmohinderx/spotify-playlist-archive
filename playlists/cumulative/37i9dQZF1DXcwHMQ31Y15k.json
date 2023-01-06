@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Wandra Restusiyan",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Hendra Kumbara",
   "name": "Boso Jowo",
-  "published_playlist_ids": [
-    "6MWAwkgQhB2wRNopb9pKvS"
-  ],
   "tracks": [
     {
       "album": {
@@ -435,6 +432,24 @@
       "duration_ms": 234076,
       "name": "Eman Eman",
       "url": "https://open.spotify.com/track/5yxFTVy9MdtCmk3uXBys9f"
+    },
+    {
+      "album": {
+        "name": "Eman Eman (Keroncong)",
+        "url": "https://open.spotify.com/album/6xxez6poEaY2UemC1s309s"
+      },
+      "artists": [
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Eman Eman - Keroncong",
+      "url": "https://open.spotify.com/track/0H3B3cCIQPCs6jjmwhW1A0"
     },
     {
       "album": {
@@ -929,7 +944,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 276796,
       "name": "Mending Golek Timbang Balen(MGTB)",
       "url": "https://open.spotify.com/track/6LKFSmhIt0htvIWjAgjr8R"
@@ -1243,7 +1258,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 231505,
       "name": "Opo Anane",
       "url": "https://open.spotify.com/track/5q7aPA3OMkMh7pvfGsvFrg"
@@ -1413,6 +1428,24 @@
       "duration_ms": 335994,
       "name": "Piye Kabare",
       "url": "https://open.spotify.com/track/7MKuL6VuzjLAb09qLNSpDR"
+    },
+    {
+      "album": {
+        "name": "Piye Kabare (Keroncong)",
+        "url": "https://open.spotify.com/album/3ZDTkBf67dCJgwuDVZmgxP"
+      },
+      "artists": [
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339461,
+      "name": "Piye Kabare - Keroncong",
+      "url": "https://open.spotify.com/track/2NQtWhnnrkvlqmIGoZ0RSl"
     },
     {
       "album": {

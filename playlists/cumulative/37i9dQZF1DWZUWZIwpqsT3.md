@@ -4,7 +4,7 @@
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-144 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/6MZWwqjG4Q8Yhj3nm7gAIo)
+144 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

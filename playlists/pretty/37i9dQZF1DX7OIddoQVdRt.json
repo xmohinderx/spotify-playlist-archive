@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 609880,
+  "num_followers": 610005,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDFjYjY5ZTZjOTY2NzliZDUyODgzMDNmYTc4NjZiNjdk",
+  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDdjMTRkN2IyNzg2MmRjZmExZDExOWI0NjQ5MjAwOWQx",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "We Gon\u2019 Be Alright",
-        "url": "https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "We Gon\u2019 Be Alright",
-      "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
         "name": "Thank You For It All",
         "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 264430,
       "name": "Thank You For It All",
       "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "We Gon\u2019 Be Alright",
+        "url": "https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "We Gon\u2019 Be Alright",
+      "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -575,18 +575,18 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Jesus Is Born",
-        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
+        "name": "V2...",
+        "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
       },
       "artists": [
         {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
         }
       ],
-      "duration_ms": 327742,
-      "name": "Count Your Blessings",
-      "url": "https://open.spotify.com/track/5y8apzJP1xF42QHMjSauvN"
+      "duration_ms": 223666,
+      "name": "Praise on the Inside",
+      "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "V2...",
-        "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
+        "name": "Jesus Is Born",
+        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
       },
       "artists": [
         {
-          "name": "J Moss",
-          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Praise on the Inside",
-      "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
+      "duration_ms": 327742,
+      "name": "Count Your Blessings",
+      "url": "https://open.spotify.com/track/5y8apzJP1xF42QHMjSauvN"
     },
     {
       "added_at": "2021-06-25 06:54:59",

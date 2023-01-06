@@ -4,7 +4,7 @@
 
 > Hip\-hop mexicano, rimas de la calle, en voz de Aczino y Yoiker.
 
-249 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+249 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

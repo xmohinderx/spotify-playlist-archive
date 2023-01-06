@@ -4,7 +4,7 @@
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-60 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/4aFhuCpQYr4sVtONw9TY5C)
+60 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

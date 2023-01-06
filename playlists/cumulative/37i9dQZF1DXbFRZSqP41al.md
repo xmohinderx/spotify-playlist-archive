@@ -4,7 +4,7 @@
 
 > Burn off all those beers from last night.
 
-220 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/5v75t6HpGYMhjfPC1WhqkE)
+220 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

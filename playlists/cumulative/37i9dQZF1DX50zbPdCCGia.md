@@ -4,7 +4,7 @@
 
 > The best soft rock from the 1970s.
 
-171 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/1IgZ8KwdjzVpSHJdp9dx2F)
+171 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

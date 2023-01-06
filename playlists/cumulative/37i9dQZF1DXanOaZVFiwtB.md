@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-79 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/4IZcoENbRUH8fIMPWTB7x5)
+79 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

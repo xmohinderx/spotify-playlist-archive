@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Just chill.",
   "name": "Chill Vibes",
-  "published_playlist_ids": [
-    "4xMryNZOIXSOcA9on5hgsi"
-  ],
   "tracks": [
     {
       "album": {
@@ -757,6 +754,28 @@
       "duration_ms": 242859,
       "name": "Begin (feat. Wales)",
       "url": "https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz"
+    },
+    {
+      "album": {
+        "name": "Bicycle (Rework)",
+        "url": "https://open.spotify.com/album/3p9Jejp6QR3IlOEHIxdyYK"
+      },
+      "artists": [
+        {
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        },
+        {
+          "name": "pijama land",
+          "url": "https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185510,
+      "name": "Bicycle (Rework)",
+      "url": "https://open.spotify.com/track/0IrnXvUh1uDvsNIWajE8Su"
     },
     {
       "album": {
@@ -4412,6 +4431,24 @@
     },
     {
       "album": {
+        "name": "Remember Your North Star",
+        "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89616,
+      "name": "meet me in brooklyn",
+      "url": "https://open.spotify.com/track/6QkOMriITXf0oqpga33HnP"
+    },
+    {
+      "album": {
         "name": "MERCY",
         "url": "https://open.spotify.com/album/7wyTJUF7oPfDYABCxqZH4P"
       },
@@ -4699,6 +4736,36 @@
       "duration_ms": 304666,
       "name": "M\u00eame Langue (feat. MUNYA)",
       "url": "https://open.spotify.com/track/1cbzgAaPgE3iL3diqC2zzh"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Be Alone (HONNE Remix)",
+        "url": "https://open.spotify.com/album/6lfVjl4oZl6q9DTiJHOoax"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/7EXJJpgDl7y4szvrpUYj0s"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "Never Gonna Be Alone (HONNE Remix)",
+      "url": "https://open.spotify.com/track/3z9rfhgooezVTMBrRvNz0l"
     },
     {
       "album": {
@@ -5013,6 +5080,24 @@
       "duration_ms": 226013,
       "name": "Orange Blood",
       "url": "https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi"
+    },
+    {
+      "album": {
+        "name": "Oyster Bay",
+        "url": "https://open.spotify.com/album/2S5afSFaYIhRZtVwqphHO6"
+      },
+      "artists": [
+        {
+          "name": "Will Epstein",
+          "url": "https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343013,
+      "name": "Oyster Bay",
+      "url": "https://open.spotify.com/track/2gAUlTl69mEyEAANQc4gwO"
     },
     {
       "album": {
@@ -7127,7 +7212,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 168000,
       "name": "uni",
       "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
@@ -7235,7 +7320,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 245026,
       "name": "Voices - Live on WEXT",
       "url": "https://open.spotify.com/track/59LJbjPh4wcHcuoqimqDb5"
@@ -7581,7 +7666,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 205229,
       "name": "Why (Spare Me Tears)",
       "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
@@ -7885,7 +7970,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 192114,
       "name": "Zombies",
       "url": "https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC"

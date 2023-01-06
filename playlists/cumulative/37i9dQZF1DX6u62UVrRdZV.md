@@ -4,7 +4,7 @@
 
 > Summer or not: get into a sunny and beachy mood, with this selection of reggae born music.
 
-89 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/5siQC20oHoSDI6W0jYW206)
+89 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

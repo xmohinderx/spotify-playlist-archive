@@ -4,7 +4,7 @@
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-75 songs - 4 hr 15 min - not published yet
+75 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

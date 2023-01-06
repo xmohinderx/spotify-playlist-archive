@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: Tássia Reis
 
-100 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
+101 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 | 2022-04-29 |  |
 | [Novinha da Lancha](https://open.spotify.com/track/234hlFlKjMokIVGIMakFAN) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Novinha da Lancha](https://open.spotify.com/album/0iRAfyQVKFLQO8ti290R9u) | 2:48 | 2022-11-18 |  |
 | [Não Nega](https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Não Nega](https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP) | 3:04 | 2022-08-26 | 2022-10-08 |
-| [Não Para](https://open.spotify.com/track/7rMDGuF0Ka1DlRn0J5OwcN) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI) | [Não Para](https://open.spotify.com/album/04AxxMqe87R652pCosDblm) | 2:45 | 2022-11-04 |  |
+| [Não Para](https://open.spotify.com/track/7rMDGuF0Ka1DlRn0J5OwcN) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI) | [Não Para](https://open.spotify.com/album/04AxxMqe87R652pCosDblm) | 2:45 | 2022-11-04 | 2023-01-06 |
 | [Não Podem Parar](https://open.spotify.com/track/2R8PMteNXbTDY7GTOD8Eze) | [Udi Santos](https://open.spotify.com/artist/3YO5cUXFe5nLw9liwkp7fr), [B.art](https://open.spotify.com/artist/6KnF0fsn6wR9fdC5MBP0vE) | [Não Podem Parar](https://open.spotify.com/album/78tsqxqvgvuN5ZwtBYmnEL) | 2:51 | 2022-03-25 | 2022-04-16 |
 | [Oi, Prazer](https://open.spotify.com/track/4pCTXorg7BKc6SmjtQaEbG) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu) | [Oi, Prazer](https://open.spotify.com/album/3NhhBBKyHZNfILXQs5WwDQ) | 2:38 | 2022-11-11 |  |
 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 | 2022-03-11 | 2022-11-19 |
@@ -104,6 +104,7 @@
 | [Tonight](https://open.spotify.com/track/7kuYGMg1bWRI9qhAh1sAWq) | [Pérola kenia](https://open.spotify.com/artist/3NWZS5KLAa68c19lUTHtui), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS), [Lady Ebony](https://open.spotify.com/artist/6o9CjwTAQKA8G0UE2KEJFS) | [Tonight](https://open.spotify.com/album/5JWiLjK3ldDHbGBGxsJ1xA) | 3:00 | 2022-07-08 | 2022-08-27 |
 | [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 | 2022-10-08 |  |
 | [Vejo o bem](https://open.spotify.com/track/5M37zvK48rOQMOVyc0t36o) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Urucum](https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi) | 2:48 | 2022-04-01 | 2022-04-29 |
+| [Vibe](https://open.spotify.com/track/1jMCSwd04JhgbqWJqKJSVG) | [Dourado](https://open.spotify.com/artist/6A4I0Mwth99UqrnvGQs7W8), [Vibox](https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x) | [Vibe](https://open.spotify.com/album/0vOrt7Tus6OZbegppVeBX5) | 2:51 | 2023-01-06 |  |
 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 | 2022-11-11 |  |
 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 | 2022-06-17 |  |
 | [Xeque\-Mate](https://open.spotify.com/track/7bs5NNmTcrktPH1pAQnVPz) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK), [Caio Kazzi](https://open.spotify.com/artist/2qDGGgQrsth8uAC6OfGlIc), [HERvolution](https://open.spotify.com/artist/3rN8auMvCh8BcWf1WKt7OW) | [Xeque\-Mate](https://open.spotify.com/album/6XCmEGHcQ5ykWHtgrHmBWx) | 2:04 | 2022-10-14 | 2022-10-29 |

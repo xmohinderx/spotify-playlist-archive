@@ -4,7 +4,7 @@
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/4I1tHZ9VgAFZYFBmOwNU7i)
+97 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

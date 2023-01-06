@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-23",
   "description": "the prerogative to have a little fun ",
   "name": "neon cowgirl",
-  "published_playlist_ids": [
-    "019eANnTY8xc7Yn7RDLHwH"
-  ],
   "tracks": [
     {
       "album": {
@@ -531,6 +528,24 @@
       "duration_ms": 133933,
       "name": "Fist City",
       "url": "https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z"
+    },
+    {
+      "album": {
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     },
     {
       "album": {
@@ -2297,7 +2312,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 238773,
       "name": "Whose Bed Have Your Boots Been Under?",
       "url": "https://open.spotify.com/track/2ugGNNwNaJdiusX3aLOMUy"

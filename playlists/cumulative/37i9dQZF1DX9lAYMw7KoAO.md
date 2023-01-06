@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-98 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
+98 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

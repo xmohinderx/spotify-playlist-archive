@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Architects
 
-583 songs - 2 day 2 hr 32 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+585 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Colours](https://open.spotify.com/track/0NkFLNlM82YJ1SXRHUn543) | [Voyager](https://open.spotify.com/artist/16fltNcwTM5V9rnxIlcha4) | [Colours](https://open.spotify.com/album/1EBPNfgBB7eIj688x8HULF) | 4:04 | 2021-12-17 | 2022-07-29 |
 | [Come Alive](https://open.spotify.com/track/7zFcWdYvXTSO95T4ixAIN0) | [Virtual Symmetry](https://open.spotify.com/artist/3NC1AdGQMaRiX7s49I4vJy) | [Come Alive](https://open.spotify.com/album/6ZYjeVNoj0bkERomSoE06g) | 6:25 | 2022-07-01 | 2022-09-05 |
 | [Complex](https://open.spotify.com/track/1yKblFSgMYjbpFWa5r6nXI) | [Threshold](https://open.spotify.com/artist/7KTRbZ1YTch5oXQOmQTStM) | [Dividing Lines](https://open.spotify.com/album/7knrgJVj2Q95gEecolDfeR) | 5:50 | 2022-10-28 | 2023-01-02 |
-| [Complex](https://open.spotify.com/track/3HtmYWiBa8y2CCYFJye6Yw) | [Threshold](https://open.spotify.com/artist/7KTRbZ1YTch5oXQOmQTStM) | [Complex](https://open.spotify.com/album/37YEbW5Pi7qeQKqf4gMIbV) | 5:50 | 2022-10-07 |  |
+| [Complex](https://open.spotify.com/track/3HtmYWiBa8y2CCYFJye6Yw) | [Threshold](https://open.spotify.com/artist/7KTRbZ1YTch5oXQOmQTStM) | [Complex](https://open.spotify.com/album/37YEbW5Pi7qeQKqf4gMIbV) | 5:50 | 2022-10-07 | 2023-01-06 |
 | [Computer Eyes](https://open.spotify.com/track/1vKwCrbb0cgm56zrIa4WJq) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [Timeline](https://open.spotify.com/album/5fzem17HhdK8JvbQ5VssDU) | 7:17 | 2021-12-17 | 2022-01-29 |
 | [Condemned to the Gallows](https://open.spotify.com/track/26zVufX9OHnePGHVj58x69) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [Condemned to the Gallows](https://open.spotify.com/album/6zT7A9hiGNmmSn9wBIzWoC) | 6:34 | 2021-12-17 | 2022-01-17 |
 | [Counterfeit](https://open.spotify.com/track/56DpxldmWlbxESQ3g7J4Ij) | [The Northern](https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU) | [Cloudburst](https://open.spotify.com/album/0uTemOj24WSMxUs4R6Ab4x) | 3:34 | 2022-07-13 | 2022-09-30 |
@@ -147,6 +147,7 @@
 | [Early Grave](https://open.spotify.com/track/6GouRVZ275NAcveDfHW8Z1) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Early Grave](https://open.spotify.com/album/3U4Ej58L88Wr8mDjUhHdk1) | 3:51 | 2022-07-13 |  |
 | [Echo Chamber](https://open.spotify.com/track/60f16377jccKJsVAwmnyiR) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Echo Chamber](https://open.spotify.com/album/1s8WAKE6VnNPW5Mdud6nQF) | 3:47 | 2021-12-31 |  |
 | [Echoes of a Silent Scream](https://open.spotify.com/track/2voZdUEBjgFezU5ImMJvt9) | [Manticora](https://open.spotify.com/artist/2G99sa92gtg3AXLF5K8qur) | [Echoes of a Silent Scream](https://open.spotify.com/album/6MENBeS3PzFhsiDf7vBHiY) | 6:02 | 2021-12-31 | 2022-01-01 |
+| [Eclipse](https://open.spotify.com/track/4AVCEjuaaBbWfsgDcs8wvX) | [Filippo Rosati](https://open.spotify.com/artist/12c2d4AN9VLatC3AmPGwWm), [Simen Sandnes](https://open.spotify.com/artist/2Aka8cMNugjqe6KQgTxYDY) | [Eclipse](https://open.spotify.com/album/4EWzKIUJg9TLo0cv5seoEU) | 4:15 | 2023-01-06 |  |
 | [Eden \- P O R T A L S](https://open.spotify.com/track/62duewknNqt9fZhBoYAanE) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [PORTALS](https://open.spotify.com/album/2hF7dY29EsfBvXe65PYPBd) | 6:33 | 2022-07-13 |  |
 | [Edge of Time](https://open.spotify.com/track/2kJ4KrCurDIIDYjHen8ASJ) | [Ghost Ship Octavius](https://open.spotify.com/artist/7E1Soj4kGw9zyhIJWZyOhx) | [Edge of Time](https://open.spotify.com/album/49IsCsXei7h5U4iI4UTpGz) | 5:38 | 2021-12-17 | 2022-05-14 |
 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv) | 5:50 | 2022-10-28 |  |
@@ -498,11 +499,12 @@
 | [The Quartz Grave](https://open.spotify.com/track/6XHpv3Ll4amR9EwrMeYm50) | [V3ctors](https://open.spotify.com/artist/6cRxCrWwfxBaBKBJW1WOI8) | [Amarna, Pt\. 1](https://open.spotify.com/album/1LPdLI78lK9xttgvopL1P5) | 4:19 | 2022-07-13 | 2022-07-25 |
 | [The Rat & The Snake](https://open.spotify.com/track/6I1HQ1fAggIDm17CXJo6aq) | [Ghost Iris](https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka), [Tyler Shelton](https://open.spotify.com/artist/05te9cG7cEF5EuxU9JqnCk) | [Apple of Discord](https://open.spotify.com/album/71AN4Bro8X57lLN90tfelX) | 4:06 | 2022-07-13 |  |
 | [The Regress](https://open.spotify.com/track/0MA6RvZ7cIJLVkREkEJmvX) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Lena Scissorhands](https://open.spotify.com/artist/5FEXEjkn7RZM0XycCEkSvP) | [The Regress](https://open.spotify.com/album/5Yxr8ohf1xJPXlIAwbkODu) | 4:52 | 2021-12-17 |  |
-| [The Riven Heart](https://open.spotify.com/track/09QwbIVHfMelQeaCbvIt18) | [Kryn](https://open.spotify.com/artist/4OUkgSJQkianAfCIzM5Y9L) | [The Riven Heart](https://open.spotify.com/album/6JkhAVwtVIextjGF1nOjo5) | 5:57 | 2021-12-17 |  |
+| [The Riven Heart](https://open.spotify.com/track/09QwbIVHfMelQeaCbvIt18) | [Kryn](https://open.spotify.com/artist/4OUkgSJQkianAfCIzM5Y9L) | [The Riven Heart](https://open.spotify.com/album/6JkhAVwtVIextjGF1nOjo5) | 5:57 | 2021-12-17 | 2023-01-06 |
 | [The Same Asylum As Before](https://open.spotify.com/track/1QNwjDbxhWPtdevy7ZTXAg) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [To The Bone](https://open.spotify.com/album/37lL4QxxvHJ3SxFH2KtkDD) | 5:14 | 2021-12-17 | 2022-01-29 |
 | [The Secret Pt\. 1](https://open.spotify.com/track/6D6NRfGV84J0S8IgpDTWxQ) | [DGM](https://open.spotify.com/artist/5Rq2C3wWiwL3NqjutXMt8e) | [The Secret Pt.1](https://open.spotify.com/album/2eh7y0C8ALvLBB1bAXoorh) | 8:24 | 2021-12-17 | 2022-01-28 |
 | [The Shadow](https://open.spotify.com/track/6rLASbKbKCPQjB5WrkOpCx) | [Toothgrinder](https://open.spotify.com/artist/03YfzFNcD7l9uskxK7WaPP) | [Phantom Amour](https://open.spotify.com/album/67qrET1eCDywwoPECD5trm) | 4:01 | 2021-12-17 | 2022-01-29 |
 | [The Shape of Things to Come](https://open.spotify.com/track/3lo7hmbnxQQLx5BNAwBV0T) | [Defecto](https://open.spotify.com/artist/2o6fdLOyFmR2e94aYpQoAs) | [The Shape of Things to Come](https://open.spotify.com/album/1Y0ydJDMJ4oqMLdeoEPBDk) | 6:08 | 2021-12-31 | 2022-07-28 |
+| [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-06 |  |
 | [The Sun Sleeps](https://open.spotify.com/track/3A6JgmzUWDueOffok4KIEW) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [The Sun Sleeps](https://open.spotify.com/album/4jgLp45wBAbzOPeEUTSLnP) | 4:14 | 2022-07-13 |  |
 | [The Tempest](https://open.spotify.com/track/7jmuosDBwcmcfB6Jbi7zIX) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [The Tempest](https://open.spotify.com/album/695AyssBtISEpsMTh0Ue5f) | 4:48 | 2021-12-17 | 2022-07-29 |
 | [The Tower of Cosmic Nihility](https://open.spotify.com/track/4dgbo8OaQhFaKxebtlh3WA) | [IOTUNN](https://open.spotify.com/artist/3yJvUOZq6oH130RTa68hQz) | [The Tower of Cosmic Nihility](https://open.spotify.com/album/5BpW1er5S8lrzZGHYRhFOv) | 7:30 | 2021-12-17 | 2022-07-29 |

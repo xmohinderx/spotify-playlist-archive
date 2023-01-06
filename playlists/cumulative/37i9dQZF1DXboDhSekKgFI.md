@@ -4,7 +4,7 @@
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-75 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/3yUTzo8lbBlDnOya9cliI9)
+75 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

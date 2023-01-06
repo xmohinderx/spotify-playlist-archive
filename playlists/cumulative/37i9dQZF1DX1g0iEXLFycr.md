@@ -4,7 +4,7 @@
 
 > Uplifting anthems to power you through 'til the weekend.
 
-470 songs - 1 day 4 hr 23 min - [published](https://open.spotify.com/playlist/2tFotzrzPUxGRiBA9Ot6cF)
+470 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

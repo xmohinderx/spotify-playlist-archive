@@ -4,7 +4,7 @@
 
 > cute moments in fields and on dancefloors \#SpotifyWrapped
 
-51 songs - 3 hr 28 min - not published yet
+51 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

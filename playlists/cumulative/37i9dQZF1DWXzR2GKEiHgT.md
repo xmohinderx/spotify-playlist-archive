@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-211 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/3orUpWmUP8XdWYQVEuyTH3)
+211 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Brain Waves Ocean Sounds 2](https://open.spotify.com/track/7xa0f1u6PD4pVqTLw07hNR) | [Brain Timbre](https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1) | [Brain Waves Ocean Sounds](https://open.spotify.com/album/51mmFPq33EjPSn9SIGhWKU) | 2:30 | 2021-11-11 |  |
 | [Brain Waves Ocean Sounds 3](https://open.spotify.com/track/1RTIg9btharEAVP3koGsdI) | [Brain Timbre](https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1) | [Brain Waves Ocean Sounds](https://open.spotify.com/album/51mmFPq33EjPSn9SIGhWKU) | 2:48 | 2021-11-11 |  |
 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 | 2021-11-11 |  |
-| [By the Sea](https://open.spotify.com/track/6I4kL4BehbZ96Yz3SKpll8) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Tranquility Spree](https://open.spotify.com/album/5DqwzCAr0thVAdVeZaxB2a) | 1:46 | 2021-11-11 | 2023-01-03 |
+| [By the Sea](https://open.spotify.com/track/6I4kL4BehbZ96Yz3SKpll8) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Tranquility Spree](https://open.spotify.com/album/5DqwzCAr0thVAdVeZaxB2a) | 1:46 | 2021-11-11 |  |
 | [Calm Pouring Ocean](https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 3:00 | 2021-11-11 | 2022-11-17 |
 | [Calm Waves](https://open.spotify.com/track/7lJINhXaySCQiVtQErGA5M) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [The Beautiful Sounds Of The Ocean](https://open.spotify.com/album/1SSDVDGzMhv9t6SBbS3GMQ) | 2:42 | 2021-11-11 | 2022-02-11 |
 | [Calm Waves pt\. 1](https://open.spotify.com/track/7IulohcnhFlYLhx8VWaTmE) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Calm Waves](https://open.spotify.com/album/2cFzBWXywCjPKQ2PJAWHIM) | 2:47 | 2021-11-11 |  |
@@ -143,7 +143,7 @@
 | [Sleep Refreshed](https://open.spotify.com/track/73zohs74P55sdkTRIzIuqN) | [Beach Top Sounders](https://open.spotify.com/artist/2MpXnqfEhxozPnAndJjTWM) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:32 | 2021-11-11 |  |
 | [Slow Waves](https://open.spotify.com/track/5Is3rDh7Y7JcdmeaiOomYp) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Slow Waves](https://open.spotify.com/album/5v5qT4eyJfLXD8lnNAIo2d) | 1:47 | 2021-11-11 |  |
 | [Soft Rolling Waves](https://open.spotify.com/track/6fv4yl8OMQpTHti7nCTgLe) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Relax At Sea](https://open.spotify.com/album/7Ics0LpJ0tvnuJXWIXjSLr) | 2:27 | 2021-11-11 |  |
-| [Soothing Carmel Waves](https://open.spotify.com/track/39hIhbVAwHcIHnwaTxM98v) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 4:56 | 2021-11-11 |  |
+| [Soothing Carmel Waves](https://open.spotify.com/track/39hIhbVAwHcIHnwaTxM98v) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 4:56 | 2021-11-11 | 2023-01-06 |
 | [Soothing Evening waves Of Nerja 3](https://open.spotify.com/track/2AFka6kv2ZNapN66OoMAcn) | [Soothing Waves Of Nerja](https://open.spotify.com/artist/0k1cImEoI17KHmKiVpSY4X) | [Soothing Evening waves Of Nerja](https://open.spotify.com/album/2fCA0NKd6DjSE3Z5Ur0jaJ) | 3:10 | 2021-11-11 |  |
 | [Soothing Evening waves Of Nerja 4](https://open.spotify.com/track/0gJZa23KwVDfghKSGoWoHr) | [Soothing Waves Of Nerja](https://open.spotify.com/artist/0k1cImEoI17KHmKiVpSY4X) | [Soothing Evening waves Of Nerja](https://open.spotify.com/album/2fCA0NKd6DjSE3Z5Ur0jaJ) | 2:04 | 2021-11-11 |  |
 | [Soothing Mediterranean Waves 1](https://open.spotify.com/track/2ut8jbR0IscCy1BXbLUhbu) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Soothing Mediterranean Waves](https://open.spotify.com/album/1vghmld08G61LHeiw0ULMq) | 3:14 | 2021-11-11 |  |

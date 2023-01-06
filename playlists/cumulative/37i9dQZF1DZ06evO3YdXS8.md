@@ -4,7 +4,7 @@
 
 > This is Selena\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/3ZnyjLzDOWRQz4xHXrcMAw)
+74 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

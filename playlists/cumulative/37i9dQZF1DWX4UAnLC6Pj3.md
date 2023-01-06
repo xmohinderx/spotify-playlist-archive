@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Edicion Especial en portada.
 
-171 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/029aY0bfQdNwToDmSRYzRr)
+171 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

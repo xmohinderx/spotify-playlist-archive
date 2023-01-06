@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Alex Hoyer en portada.
 
-160 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
+160 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

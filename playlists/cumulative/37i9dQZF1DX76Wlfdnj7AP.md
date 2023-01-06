@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,204 songs - 2 day 17 hr 50 min - [published](https://open.spotify.com/playlist/2nFNJMbQKer7P1FTwUEMzE)
+1,204 songs - 2 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

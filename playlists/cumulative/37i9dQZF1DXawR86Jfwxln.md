@@ -4,7 +4,7 @@
 
 > Revisit the year in Folk & Americana with the best songs released in 2022\. Cover: Madison Cunningham \#SpotifyWrapped
 
-189 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/2g88U0CaHjq9ygfdz2xBlC)
+189 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

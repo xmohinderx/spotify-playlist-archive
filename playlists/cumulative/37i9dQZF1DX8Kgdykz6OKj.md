@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-310 songs - 17 hr 55 min - [published](https://open.spotify.com/playlist/3EsnSTM7kDp7N5dNPCJ8kz)
+310 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

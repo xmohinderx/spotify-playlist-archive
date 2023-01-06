@@ -4,7 +4,7 @@
 
 > Big bands, big sounds.
 
-70 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/3540LvahXVa3DfJ3k1sJDB)
+70 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

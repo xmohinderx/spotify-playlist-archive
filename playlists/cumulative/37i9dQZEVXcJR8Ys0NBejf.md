@@ -4,7 +4,7 @@
 
 > Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
 
-3,574 songs - 7 day 18 hr 25 min - [published](https://open.spotify.com/playlist/4NpXd8dO9mQF1HW2ZFnwyF)
+3,574 songs - 7 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

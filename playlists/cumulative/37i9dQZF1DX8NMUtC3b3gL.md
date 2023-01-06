@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-266 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+266 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

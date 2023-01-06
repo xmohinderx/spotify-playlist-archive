@@ -4,7 +4,7 @@
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/3ntLLbFu4xW2KbCpfe6IH1)
+64 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

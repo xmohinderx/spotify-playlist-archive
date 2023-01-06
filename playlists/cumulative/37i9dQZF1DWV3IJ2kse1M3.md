@@ -4,7 +4,7 @@
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>我想夢見你 可你沒回應<br/>別怕我再次經歷分離<br/>我想你 就看看鏡子裡的我自己。
 
-141 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/2SCoxCvdP1evPUUya0Z55H)
+141 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

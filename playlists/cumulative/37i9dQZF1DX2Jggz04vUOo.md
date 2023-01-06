@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-112 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/6Uulv9qmgDZFuVKOsRe47Z)
+112 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Most adored pop hits from the Middle East and North Africa\. Cover: Ramy Sabry
 
-115 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
+115 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

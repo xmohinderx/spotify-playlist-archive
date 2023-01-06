@@ -4,7 +4,7 @@
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-68 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/2MJVM40wk4kbPwCrOhCR9b)
+68 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

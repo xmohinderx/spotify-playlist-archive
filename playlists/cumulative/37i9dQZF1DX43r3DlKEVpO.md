@@ -4,7 +4,7 @@
 
 > Uma seleção para as mães e os pais cantarem junto com os filhos e vice\-versa.
 
-135 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/7GSaTmZoXJlwkWZt50V739)
+135 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

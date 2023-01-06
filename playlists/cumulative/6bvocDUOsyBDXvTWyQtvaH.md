@@ -4,7 +4,7 @@
 
 > Lo\-Fi, Beats, for Study and Focus..\. but around the Holidays.
 
-142 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/0oHyJtp2nujyesfCs8zAlr)
+142 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-105 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/2i2f84b6aFCm4d39FIhHSI)
+105 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

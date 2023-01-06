@@ -4,7 +4,7 @@
 
 > Nothing but classics! The best in Soca anthems brought to you by the Soca Queen herself Alison Hinds.
 
-193 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/64TrHSSpN6MFtOko77c2wK)
+193 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

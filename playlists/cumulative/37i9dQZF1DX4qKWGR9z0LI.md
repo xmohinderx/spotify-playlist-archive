@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Gilberto Santa Rosa
 
-207 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/4IbPQ76hDBnvYgVTXtYV8M)
+207 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

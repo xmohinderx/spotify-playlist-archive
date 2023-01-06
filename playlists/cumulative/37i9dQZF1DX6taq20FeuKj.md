@@ -4,7 +4,7 @@
 
 > Get your gaming session going with this epic rap mix.
 
-377 songs - 20 hr 42 min - [published](https://open.spotify.com/playlist/5kUKwQJZ2mzR3lmEOluUG6)
+377 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-05-26",
   "description": "I think my life might be better if I lived in Colorado? Cover: Rene\u00e9 Rapp",
   "name": "young & free",
-  "published_playlist_ids": [
-    "5ughHfqxtBosozqZ6BniQD"
-  ],
   "tracks": [
     {
       "album": {
@@ -15541,7 +15538,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 248818,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH"
@@ -15559,7 +15556,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 248818,
       "name": "Memories",
       "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
@@ -18847,7 +18844,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 156000,
       "name": "pirouette",
       "url": "https://open.spotify.com/track/3312pIKWAgXQAd9F6fuREy"
@@ -22145,6 +22142,24 @@
       "duration_ms": 159078,
       "name": "Sometimes Things Just Fall Apart",
       "url": "https://open.spotify.com/track/3xijzRdlKYMuEQDVZTYlg9"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Between",
+        "url": "https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156475,
+      "name": "Somewhere in Between",
+      "url": "https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG"
     },
     {
       "album": {
@@ -25526,6 +25541,24 @@
     },
     {
       "album": {
+        "name": "Ugly Crier",
+        "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152053,
+      "name": "Ugly Crier",
+      "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
+    },
+    {
+      "album": {
         "name": "Uncall It",
         "url": "https://open.spotify.com/album/5JdqxFr49wq2SnOCObPYA4"
       },
@@ -26871,7 +26904,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 124109,
       "name": "why'd you show up at my party?",
       "url": "https://open.spotify.com/track/0EacpZPuRh2pREF1p0qt8f"

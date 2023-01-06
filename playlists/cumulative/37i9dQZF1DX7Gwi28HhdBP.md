@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: حكيم
 
-191 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
+191 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

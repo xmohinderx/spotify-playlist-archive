@@ -4,7 +4,7 @@
 
 > County's best like you've never heard before\. Cover: Breland.
 
-81 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/6cfFPGErcW6407wBcuU0nz)
+81 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

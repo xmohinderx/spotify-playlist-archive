@@ -4,7 +4,7 @@
 
 > 2017 highlights from the home of indie music.
 
-126 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/2hLIrkkuUmvTKCLYx50Gyi)
+126 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

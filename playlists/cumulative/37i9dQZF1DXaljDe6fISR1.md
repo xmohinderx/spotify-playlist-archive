@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-93 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
+94 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [O Trem](https://open.spotify.com/track/4FpVLn9ne4NDGo83yRTAIi) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:12 | 2022-03-11 |  |
 | [Oitavo Anjo](https://open.spotify.com/track/73ZFqSslPNdKZBRmGcGzKW) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [Provérbios 13](https://open.spotify.com/album/4tWDp6fP9O3wNfko1UCaQo) | 5:28 | 2022-03-11 | 2022-07-29 |
 | [Oitavo Anjo](https://open.spotify.com/track/2eCvTrc70dsKhJQRuNDfdN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 5:28 | 2022-04-22 |  |
+| [Os Guerreiros Estão de Pé](https://open.spotify.com/track/15P42RrNmPOp15ZLJXGcEO) | [De Menos Crime](https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv), [D.R.R\. Banda](https://open.spotify.com/artist/3cfxRQJbSygzAtwr2EugEt) | [Os Guerreiros Estão de Pé](https://open.spotify.com/album/2i9vnQrisHxV4ZvkLVKtPn) | 4:21 | 2023-01-06 |  |
 | [Paranoia](https://open.spotify.com/track/0Q4GWaN6cJGlpd2bJUkRj5) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [MC Sombra](https://open.spotify.com/artist/63IeYEM4TZh69DN3PfZ0d1) | [Origens Parte 2 \- Ontem, Hoje e Amanhã](https://open.spotify.com/album/11bMuxP509lwDJPprgjo2S) | 3:28 | 2022-03-11 |  |
 | [Periferia / Sample: Fim De Semana No Parque](https://open.spotify.com/track/7hXQTTsfyeIiT7TB1ilBel) | [Helião](https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Guerreiro, Guerreira](https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo) | 4:27 | 2022-03-11 |  |
 | [Ponta de Lança \(Verso Livre\)](https://open.spotify.com/track/0Y8dSlRPhYGN96MoPCFj8c) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Ponta de Lança \(Verso Livre\)](https://open.spotify.com/album/52xmMOOQQXlggQF281n47s) | 3:34 | 2022-03-11 |  |

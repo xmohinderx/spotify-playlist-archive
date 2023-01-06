@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-247 songs - 21 hr 5 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
+247 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Centre](https://open.spotify.com/track/4O44XcSyYrDUkNcKqi9aAl) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Silver Lining](https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY) | 2:42 | 2022-10-13 |  |
 | [Chelsea Bridge](https://open.spotify.com/track/3adEZyI3YfyACGbH293KTG) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Chelsea Bridge](https://open.spotify.com/album/193K3cqXvobNyEPiuOmEVz) | 3:54 | 2022-12-23 |  |
 | [Chez le photographe du motel \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 3:50 | 2022-08-12 |  |
-| [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 | 2022-11-10 |  |
+| [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 | 2022-11-10 | 2023-01-06 |
 | [Close Your Eyes](https://open.spotify.com/track/3VSMYAVSnUHMgNonipRcsQ) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Close Your Eyes](https://open.spotify.com/album/2AKnOIZeclPvfNySSo7ANk) | 3:46 | 2022-11-10 |  |
 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 | 2022-11-10 |  |
 | [Conversation Among the Ruins](https://open.spotify.com/track/0tS5xy6W4dmRnhu6Lwu7EL) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [The Secret Between the Shadow and the Soul](https://open.spotify.com/album/21Jrn9lGRwkXZyFz2bJjaf) | 8:46 | 2022-05-18 | 2022-09-23 |
@@ -237,7 +237,7 @@
 | [When October Goes](https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27) | [John Brown](https://open.spotify.com/artist/7ajJigdOxmHkfWdvLVABN5) | [Quiet Time](https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT) | 8:12 | 2022-09-22 |  |
 | [When You Are Near](https://open.spotify.com/track/0b7B42MUMSywoNjY43dkD3) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/3tRwejXlLIbZB8o6PHTM1n) | 8:22 | 2022-06-29 | 2022-09-23 |
 | [When You Are Near](https://open.spotify.com/track/7dWzkzCjOVVkJDTEeWrCZ0) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/2n12HqIagVlEPeXY4hhWUs) | 8:22 | 2022-05-18 | 2022-07-29 |
-| [When You Return](https://open.spotify.com/track/7LTpiEX2hKJjvMdMFICzSU) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [When You Return](https://open.spotify.com/album/2qwg1oqLV6X7JgsB774y0H) | 5:45 | 2022-11-10 | 2023-01-03 |
+| [When You Return](https://open.spotify.com/track/7LTpiEX2hKJjvMdMFICzSU) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [When You Return](https://open.spotify.com/album/2qwg1oqLV6X7JgsB774y0H) | 5:45 | 2022-11-10 |  |
 | [When Your Lover Has Gone](https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:54 | 2022-05-18 |  |
 | [Where Are You \- Remastered](https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:10 | 2022-09-08 |  |
 | [Where Can I Go Without You](https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:32 | 2022-06-03 |  |

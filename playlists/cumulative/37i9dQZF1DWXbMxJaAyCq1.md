@@ -4,7 +4,7 @@
 
 > This is the remix..\. escúchalos acá\. Foto: Cris Mj, Nicki Nicole, Standly & Duki.
 
-224 songs - 16 hr 54 min - [published](https://open.spotify.com/playlist/5vLgxBMLeVg8tWML5FMZMe)
+224 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

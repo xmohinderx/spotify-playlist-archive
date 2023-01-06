@@ -4,7 +4,7 @@
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: GREY D
 
-130 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
+131 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Ngày Đầu Tiên](https://open.spotify.com/track/5Msoarj5hk9LguTtiIyqug) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Ngày Đầu Tiên](https://open.spotify.com/album/2vki9hRAipW0SbK0A0c92W) | 3:28 | 2022-05-27 |  |
 | [Ngã Tư Không Đèn](https://open.spotify.com/track/73fFRs03s0gtjggfMW213L) | [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b), [Khoa Vũ](https://open.spotify.com/artist/4OqYnPUq6VwNMacIwwbWGw) | [Chỉ Có Thể Là Anh](https://open.spotify.com/album/1Ln8SYXthP1VIVaQPDmZH9) | 3:38 | 2022-07-27 |  |
 | [Ngôi Sao Cô Đơn](https://open.spotify.com/track/2mwVxrwLORLTNznZRZBjK5) | [Jack \- J97](https://open.spotify.com/artist/3KJopZ2uUclqEtLxQg0FNn) | [Ngôi Sao Cô Đơn](https://open.spotify.com/album/5fDgEcanAeh0CwPxGK86RN) | 4:35 | 2022-07-27 | 2022-08-01 |
+| [ngủ một mình \(tình rất tình\)](https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/album/24GVnl6IHS4453WEGwp65Y) | 3:12 | 2023-01-06 |  |
 | [Nhìn Những Mùa Thu Đi](https://open.spotify.com/track/4MZkrUWN2C0dhc7Xn1LPug) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Nhìn Những Mùa Thu Đi](https://open.spotify.com/album/4JjTQrduYfwIza24mYYZVv) | 2:52 | 2022-06-28 | 2022-07-12 |
 | [Nhìn Những Mùa Thu Đi \- Em Và Trịnh Original Soundtrack](https://open.spotify.com/track/1F7kjQhF92Al8CSu2jP5rH) | [Bùi Lan Hương](https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9) | [Em Và Trịnh \(Original Soundtrack/ Vol.1\)](https://open.spotify.com/album/5TA8F1Lkwa4exTPHyTZutr) | 2:04 | 2022-06-28 | 2022-07-12 |
 | [Nàng Thơ](https://open.spotify.com/track/1w3eUC89GPspKpi62tPwjt) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [25](https://open.spotify.com/album/0v7y0tr3mKZ4kZXFVRhTMS) | 4:14 | 2022-07-27 | 2022-09-12 |

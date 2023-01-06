@@ -4,7 +4,7 @@
 
 > Get your kids in the holiday spirit with this collection of Hanukkah tracks!
 
-44 songs - 2 hr 1 min - not published yet
+44 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

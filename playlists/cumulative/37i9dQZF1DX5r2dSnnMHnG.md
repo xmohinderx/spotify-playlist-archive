@@ -4,7 +4,7 @@
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-148 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/3bTGjCbNqBInmwb7ojPDvw)
+148 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

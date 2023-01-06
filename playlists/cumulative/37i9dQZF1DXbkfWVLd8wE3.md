@@ -4,7 +4,7 @@
 
 > In Da Club and more classics
 
-90 songs - 6 hr 11 min - not published yet
+90 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

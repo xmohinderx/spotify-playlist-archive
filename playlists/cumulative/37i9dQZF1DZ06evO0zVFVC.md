@@ -4,7 +4,7 @@
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/6u2iDNee0h9mQQPZozV8gU)
+67 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

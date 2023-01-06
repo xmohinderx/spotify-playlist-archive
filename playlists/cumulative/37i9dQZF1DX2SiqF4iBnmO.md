@@ -4,7 +4,7 @@
 
 > A more than 40 years spanning collection of multi\-genre music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-86 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/297oKr8af10BYdq6dvSYuM)
+86 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

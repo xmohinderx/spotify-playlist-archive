@@ -4,7 +4,7 @@
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-53 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/4kNNQVrlqV3Y0E9htm7KB4)
+53 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

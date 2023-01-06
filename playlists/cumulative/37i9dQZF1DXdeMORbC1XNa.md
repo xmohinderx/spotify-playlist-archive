@@ -4,7 +4,7 @@
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Kelvyn Boy
 
-361 songs - 19 hr 6 min - [published](https://open.spotify.com/playlist/60Bw7Cwgr0oH9rAK1w2wYZ)
+361 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

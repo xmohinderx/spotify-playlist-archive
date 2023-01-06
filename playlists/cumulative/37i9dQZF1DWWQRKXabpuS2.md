@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: لمياء المالكي
 
-176 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+176 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

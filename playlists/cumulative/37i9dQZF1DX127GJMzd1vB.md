@@ -4,7 +4,7 @@
 
 > ¡De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.
 
-118 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/1JebMJ0vxbKTDqNpCT5ZJd)
+118 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

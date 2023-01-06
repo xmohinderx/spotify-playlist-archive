@@ -4,7 +4,7 @@
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-57 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/4GNN9EtwRM1Eshpu0xwF9x)
+57 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

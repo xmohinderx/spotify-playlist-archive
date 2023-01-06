@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-118 songs - 5 hr 21 min - not published yet
+120 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Andromeda](https://open.spotify.com/track/3T9ouQ0YeXLayMQ9eWPAda) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [Andromeda](https://open.spotify.com/album/6x9oS9r0yMvUk0tnUBCFOQ) | 3:36 | 2022-10-10 |  |
 | [Angel](https://open.spotify.com/track/0OIJbFfZfNoAA8oATXh0xr) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Angel](https://open.spotify.com/album/6PwehYyShfSDzzJPZyoZWq) | 3:18 | 2022-10-10 |  |
 | [Angel of Death](https://open.spotify.com/track/7MtVdKpPuufNUOQrJB31uI) | [DarkTerror](https://open.spotify.com/artist/2o4YQX4hxBZaZKA6KbUtWo) | [Angel of Death](https://open.spotify.com/album/3Mi42mgHpgZKtJuU0x3sJ3) | 2:48 | 2022-10-10 |  |
+| [Antarctica](https://open.spotify.com/track/70vSSq0cTXUQzJD9fgtiCb) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Antarctica](https://open.spotify.com/album/1oWEYEC46CHtNyWkhayjtz) | 3:51 | 2023-01-06 |  |
 | [Aria Math](https://open.spotify.com/track/0QeYTfxC3BchP1Hzn5HGPd) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW), [HARDX](https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn) | [Aria Math](https://open.spotify.com/album/4hIpj10UfZXzkhbocSxDXh) | 4:05 | 2022-12-16 |  |
 | [Ascension](https://open.spotify.com/track/655HUrteca32fCVbWCHe0b) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627), [Cowbell Christ](https://open.spotify.com/artist/1U1JvyVp0OJeyQowx6HOlm) | [Ascension](https://open.spotify.com/album/1sQ5onguS8iW0SfZb6WSoZ) | 2:00 | 2022-10-10 |  |
 | [AUTUMN SLEEP \- Slowed & Reverb](https://open.spotify.com/track/7pmw88lKWUHx00WHK4RqsM) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [eyfect](https://open.spotify.com/artist/2k4XvivwTpFDQhgN34RYcn) | [ETERNAL IN MEMORIUM \(Slowed & Reverb\)](https://open.spotify.com/album/4Pae9lPOsqOttCwzchxIWi) | 1:52 | 2022-10-10 |  |
@@ -69,6 +70,7 @@
 | [LXVE TXWN](https://open.spotify.com/track/1pCDWUyukLwNnDtKuDKk7j) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LXVE TXWN](https://open.spotify.com/album/04FHXUjQJckGhzOiPGZHlm) | 2:38 | 2022-10-10 |  |
 | [MACHINE](https://open.spotify.com/track/2Ygz10JmWDwVigM6jN94H8) | [mxnarch](https://open.spotify.com/artist/42WdWoZDRwUeWhGOYDhfuj), [CERAZ](https://open.spotify.com/artist/2qN0KCCSg4BwDSagUxmEfR) | [MACHINE](https://open.spotify.com/album/6QeJDinj9YHIbiermHKxB6) | 2:47 | 2022-10-10 |  |
 | [MEANING OF LIFE](https://open.spotify.com/track/0JeAofgLJ7A0wnO8ecBm23) | [GTM](https://open.spotify.com/artist/2U79YzoLgxZrBbxzrg5l1S) | [MEANING OF LIFE](https://open.spotify.com/album/0lxBekjKWscjykmqz3xOHR) | 2:28 | 2022-10-10 |  |
+| [Memento](https://open.spotify.com/track/5AWRqPQCacbrDyU9jz3JAo) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Memento](https://open.spotify.com/album/4TxgA6rExPcEaIqF8H1HJU) | 2:56 | 2023-01-06 |  |
 | [Memories of the Past](https://open.spotify.com/track/5nr2DfL7RtMyNyLLHaYkBo) | [KXXXIRO](https://open.spotify.com/artist/3WD49X7Fu6qlbmgT28BISo), [NEKXSTXZIS](https://open.spotify.com/artist/0I0YSfDwpdlrrgAfrucDdN) | [Memories of the Past](https://open.spotify.com/album/4XhA6RWi70bfN3RG0yuMol) | 2:46 | 2022-10-10 | 2022-11-26 |
 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-10-10 |  |
 | [MINDSET](https://open.spotify.com/track/7AopDNQE6cqEydT5zv96MN) | [KEDELA](https://open.spotify.com/artist/0ytXblHAJwc57GVGp6wjvB) | [MINDSET](https://open.spotify.com/album/4DdiZ6bzOzDgNRUzygqWQI) | 3:05 | 2022-10-10 | 2022-11-26 |
@@ -109,7 +111,7 @@
 | [Space](https://open.spotify.com/track/0W0KjUBX70GxtgVXraTcf9) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9), [Proof Nation](https://open.spotify.com/artist/7CV2yBOPHytA4ZrSPsjoLA) | [Space](https://open.spotify.com/album/0qh0hHIeYCqBJaDv7r12uR) | 2:25 | 2022-11-25 |  |
 | [Spacewave](https://open.spotify.com/track/2WzK3sBkdRm0VvfSKJjXCu) | [Confirmbackup](https://open.spotify.com/artist/6Da2INMo1oIn9flRNiIZqk) | [Spacewave](https://open.spotify.com/album/5BWydJ3ORPcf5Z7cCmFuyJ) | 3:26 | 2022-10-10 |  |
 | [Stay](https://open.spotify.com/track/4wBJ1sqcPukNqtMff4EEVb) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0) | [Stay](https://open.spotify.com/album/0lxkx8NDcNRiddCfUlpMfo) | 2:56 | 2022-10-10 |  |
-| [STOP LIES](https://open.spotify.com/track/6FqFMy46LchyaU6IsYeSSY) | [ROMANE](https://open.spotify.com/artist/05ZFcoNvwrfxD1sIRmGqfp) | [STOP LIES](https://open.spotify.com/album/4B51pcp7eccRF5T2thjSEa) | 3:23 | 2022-10-10 |  |
+| [STOP LIES](https://open.spotify.com/track/6FqFMy46LchyaU6IsYeSSY) | [ROMANE](https://open.spotify.com/artist/05ZFcoNvwrfxD1sIRmGqfp) | [STOP LIES](https://open.spotify.com/album/4B51pcp7eccRF5T2thjSEa) | 3:23 | 2022-10-10 | 2023-01-06 |
 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 | 2022-10-10 |  |
 | [TEARDROP](https://open.spotify.com/track/0HPsP6pwUJHKHySEXLST0u) | [L19U1D](https://open.spotify.com/artist/6eIJYF4G64wbLdUXpxCKd2), [attashe](https://open.spotify.com/artist/2D8oenshYhpgfJSaJ8o8on) | [TEARDROP](https://open.spotify.com/album/6dYneATOS4dlt88gyQWvMv) | 3:00 | 2022-10-14 |  |
 | [Tell me what \- Alternative](https://open.spotify.com/track/3ZAVDqWDatGhJEbgTJrSpE) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [CRESTA LA CULTURA, Vol.1](https://open.spotify.com/album/17yH3m2wuD17DaOEzorZHr) | 3:45 | 2022-10-10 |  |
@@ -123,7 +125,7 @@
 | [Void](https://open.spotify.com/track/1tZMS81fc3APyMkU14cTWk) | [SOULIFY](https://open.spotify.com/artist/4jnJA6v62HXFktScoZQHIw), [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl) | [Void](https://open.spotify.com/album/3afCmbwcfdCYouUXV04xTO) | 2:38 | 2022-10-10 |  |
 | [VOODOO](https://open.spotify.com/track/18D25d3voTo9ZaUh5Ij46I) | [Send 1](https://open.spotify.com/artist/1f4j1E8XNo0m6EsMbGDjRV) | [VOODOO](https://open.spotify.com/album/3T3mxTfHJm504OXFmgO5Jw) | 2:13 | 2022-10-10 | 2022-11-19 |
 | [vxzduh](https://open.spotify.com/track/702NDQuG9DGPJmwbAUFHTa) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [vxzduh](https://open.spotify.com/album/1aY5R5j1a5dqXXdrFo5lrM) | 3:05 | 2022-10-10 |  |
-| [We're Not Children Anymore](https://open.spotify.com/track/7Jddd2nB8kFKsJPJCq8SB4) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM), [brxken sxul](https://open.spotify.com/artist/7DfIRKGej5bJAbjunotyUf) | [We're Not Children Anymore](https://open.spotify.com/album/7GZyA3UjfoprmWp8AiwdMy) | 3:03 | 2022-12-02 |  |
+| [We're Not Children Anymore](https://open.spotify.com/track/7Jddd2nB8kFKsJPJCq8SB4) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM), [brxken sxul](https://open.spotify.com/artist/7DfIRKGej5bJAbjunotyUf) | [We're Not Children Anymore](https://open.spotify.com/album/7GZyA3UjfoprmWp8AiwdMy) | 3:03 | 2022-12-02 | 2023-01-06 |
 | [you're my moon](https://open.spotify.com/track/3QS2MR6CbGUliVnbRi8k1f) | [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [you're my moon](https://open.spotify.com/album/1fHsZc8gUUsdqVHA22N9Rw) | 2:22 | 2022-10-10 |  |
 | [Перестал мечтать](https://open.spotify.com/track/7LmeYVqtNa5FUxLK2Iyam8) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [Перестал мечтать](https://open.spotify.com/album/2qBHvwmiX5p9Od7D1QFadg) | 2:48 | 2022-10-10 |  |
 

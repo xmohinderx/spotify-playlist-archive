@@ -4,7 +4,7 @@
 
 > Heavy music that understands.
 
-106 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/0Ngqpcl8RKKzJxWis2gA88)
+106 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

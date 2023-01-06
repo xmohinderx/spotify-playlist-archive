@@ -4,7 +4,7 @@
 
 > música para insubordinados\. Las Decapitadas en portada.
 
-72 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/7FbH27wWWIzTyGHnxAk9gv)
+72 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

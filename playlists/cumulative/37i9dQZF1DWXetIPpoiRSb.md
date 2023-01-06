@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Leah Kate
 
-932 songs - 1 day 22 hr 58 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
+932 songs - 1 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-85 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
+85 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

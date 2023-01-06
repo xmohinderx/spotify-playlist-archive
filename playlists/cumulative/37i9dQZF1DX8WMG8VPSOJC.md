@@ -4,7 +4,7 @@
 
 > Nothing but beautiful country love songs.
 
-156 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/3D2crqIpUOvL4P3WOb2H4z)
+156 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

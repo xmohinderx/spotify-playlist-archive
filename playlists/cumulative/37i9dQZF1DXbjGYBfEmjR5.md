@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-473 songs - 1 day 2 hr 52 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
+473 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

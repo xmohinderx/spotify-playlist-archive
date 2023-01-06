@@ -4,7 +4,7 @@
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-91 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/7uxp56zGiSEJTuIfzdU3G9)
+91 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

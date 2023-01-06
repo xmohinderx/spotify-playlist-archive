@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. Tom & Collins en portada.
 
-180 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/6ndsqys7EQOockTFuddjf1)
+180 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

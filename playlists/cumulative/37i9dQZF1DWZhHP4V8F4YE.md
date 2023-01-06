@@ -4,7 +4,7 @@
 
 > Viral hits in Africa
 
-141 songs - 8 hr 5 min - not published yet
+141 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

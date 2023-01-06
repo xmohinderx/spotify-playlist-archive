@@ -4,7 +4,7 @@
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/6FgtEwLsDoBJ1pzNYHsEP8)
+48 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

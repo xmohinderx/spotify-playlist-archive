@@ -4,7 +4,7 @@
 
 > Aczino con el hat\-trick: campeón internacional 2022\. Mira los clips y descubre las mejores batallas, solo aquí.
 
-149 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/0czRm1bZ5YA9YxDSXYTnLg)
+149 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

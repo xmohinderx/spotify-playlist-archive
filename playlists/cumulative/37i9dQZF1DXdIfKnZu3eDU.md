@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1QEd635szhierW6gzRiS1o">Hannah Laing</a> delivers a high\-energy mix that emits her trance and techno influences.
 
-15 songs - 1 hr 3 min - not published yet
+15 songs - 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

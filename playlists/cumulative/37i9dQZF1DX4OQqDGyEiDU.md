@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-452 songs - 1 day 2 hr 11 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
+452 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [ドクター=ファンクビート](https://open.spotify.com/track/10aURDc5wCO14NOKOHeBC0) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv) | [カドワナルカ=シアノタイプ](https://open.spotify.com/album/2FGdJBAjE4hS41DUAiEWeL) | 3:30 | 2022-06-09 | 2022-07-04 |
 | [トキヲ・ファンカ](https://open.spotify.com/track/1zzdir27Qnk0hS0JMhChnt) | [takamatt](https://open.spotify.com/artist/2R42xVG4zUh3UdPegxw2dE) | [イーストエンド・パンデモニウム](https://open.spotify.com/album/7meiSQd7gVv7X2Qy8vUiwS) | 5:40 | 2022-06-14 | 2022-07-16 |
 | [トンデモワンダーズ](https://open.spotify.com/track/3jmQnsr4YxDIrCJ7GbE7vM) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [トンデモワンダーズ](https://open.spotify.com/album/533pE7WjeCHpdfs3jiSXbL) | 3:15 | 2022-06-09 | 2022-07-29 |
-| [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 | 2022-06-23 | 2023-01-04 |
+| [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 | 2022-06-23 |  |
 | [ド屑](https://open.spotify.com/track/3DxfcE53Wf89XSftbAffFx) | [なきそ](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [ド屑](https://open.spotify.com/album/70Qo9q6AieJMYxxAkTmBD3) | 2:00 | 2022-06-09 | 2022-07-29 |
 | [ニュートンダンス \- ナユタン星人×Chinozo](https://open.spotify.com/track/3nHhm1ovo8Dda7U4ZeqLg9) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [キメラ](https://open.spotify.com/album/77rEReLUqAP2TZf2krjApQ) | 3:16 | 2022-06-09 | 2022-07-29 |
 | [ネオネオン](https://open.spotify.com/track/7fgqQbv9E5Ho3dn5nwLTIv) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンデッドアリス](https://open.spotify.com/album/4Qb8IrRrj7VODAWuYglITl) | 3:05 | 2022-06-09 | 2022-07-17 |
@@ -346,7 +346,7 @@
 | [一心不乱](https://open.spotify.com/track/75EGAQg5gJhUz69GSYufBt) | [UMETORA](https://open.spotify.com/artist/5ZjOsH8VbUcUs5LoDjeYOE) | [一心不乱](https://open.spotify.com/album/3A00yiXvch1ZRGBlMfr3hP) | 3:17 | 2022-06-09 | 2022-07-27 |
 | [一角獣](https://open.spotify.com/track/6OcfNne5vPOrkthIvwPe9a) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [一角獣](https://open.spotify.com/album/3JtEzwAfXhTcRr3FbONylo) | 3:37 | 2022-06-09 | 2022-07-28 |
 | [不埒な喝采](https://open.spotify.com/track/1yALlDzyQ4MbzEtMosEJkk) | [音楽的同位体 可不\(KAFU\)](https://open.spotify.com/artist/4nZ9ZaF0eFDMDQKgrJgsqC) | [KAF+YOU KAFU COMPILATION ALBUM](https://open.spotify.com/album/6ljHb4t09MebY2WYuP8iQ1) | 2:24 | 2022-06-09 | 2022-07-23 |
-| [不完全愛情進行中](https://open.spotify.com/track/1kccUSvGvxEt7tccnrfV4y) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [不完全愛情進行中](https://open.spotify.com/album/1FIf5JBEDDWxaqwvtCiRAM) | 2:41 | 2022-10-27 |  |
+| [不完全愛情進行中](https://open.spotify.com/track/1kccUSvGvxEt7tccnrfV4y) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [不完全愛情進行中](https://open.spotify.com/album/1FIf5JBEDDWxaqwvtCiRAM) | 2:41 | 2022-10-27 | 2023-01-06 |
 | [不純なベンガラ](https://open.spotify.com/track/3xN6bAYDya63j0tuaTIXXJ) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [不純なベンガラ](https://open.spotify.com/album/43eiB8sDKy4v5spvmTTZdr) | 2:39 | 2022-06-30 | 2022-07-05 |
 | [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 |  |
 | [人が歌う曲じゃない](https://open.spotify.com/track/4dOWyhJA2QK2JHsTuEzPgz) | [SajEst](https://open.spotify.com/artist/4w5OjwRCUqwdyNT1wFGp03) | [人が歌う曲じゃない](https://open.spotify.com/album/1WCpiyvA0OxQQM9awKLLhS) | 3:37 | 2022-06-30 | 2022-07-13 |

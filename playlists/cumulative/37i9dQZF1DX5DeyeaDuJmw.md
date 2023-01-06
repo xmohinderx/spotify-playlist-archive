@@ -4,7 +4,7 @@
 
 > Acá hay letra\. Foto: Anuel AA.
 
-188 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/23mcGFZmewEpHERZOtSvTD)
+188 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

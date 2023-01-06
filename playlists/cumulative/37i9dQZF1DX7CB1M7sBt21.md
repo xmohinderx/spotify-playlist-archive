@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-166 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/7LLOCYnFLNo5JBC7Qx4h3g)
+166 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

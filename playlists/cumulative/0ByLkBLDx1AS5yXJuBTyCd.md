@@ -4,7 +4,7 @@
 
 > Travel the world through sound – with indie and traditional folk and acoustic from across the globe.
 
-36 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/4Thw0013FxwwpeOiArYjdf)
+36 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

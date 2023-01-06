@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Turnstile
 
-375 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
+375 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Classic soft rock\. For that free and easy feeling.
 
-106 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/08neF8htQhOTNoWwHUhonx)
+106 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

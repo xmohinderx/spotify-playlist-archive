@@ -4,7 +4,7 @@
 
 > The most memorable country hits from the 2010s\. Cover: Chris Stapleton
 
-241 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/1rsikrd7wTVvtQeoOiLi8z)
+241 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

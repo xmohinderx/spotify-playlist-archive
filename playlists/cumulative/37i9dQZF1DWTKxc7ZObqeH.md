@@ -4,7 +4,7 @@
 
 > Relaxing Jazz on a warm summer day.
 
-188 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
+188 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

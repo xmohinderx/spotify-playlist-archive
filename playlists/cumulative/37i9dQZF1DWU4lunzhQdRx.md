@@ -4,7 +4,7 @@
 
 > cry just a little
 
-112 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/4RNcP1yr6aGefjxN7svMAz)
+112 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Beat distraction and stay on task with these bird sounds to for your \(home\) office workday.
 
-40 songs - 1 hr 42 min - not published yet
+40 songs - 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

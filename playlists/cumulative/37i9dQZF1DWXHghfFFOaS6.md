@@ -4,7 +4,7 @@
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-163 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/0s2Ueduw9O11cFJZqPQWID)
+163 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

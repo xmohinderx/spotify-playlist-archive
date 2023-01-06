@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-311 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
+311 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

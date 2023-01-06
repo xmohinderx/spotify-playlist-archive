@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas + Pedropiedra",
+  "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Pettinellis",
   "name": "Rock Chileno",
-  "published_playlist_ids": [
-    "1tfQa6JTwsM9WdweiKdMHY"
-  ],
   "tracks": [
     {
       "album": {
@@ -337,6 +334,24 @@
       "duration_ms": 187181,
       "name": "Bola de Fuego",
       "url": "https://open.spotify.com/track/555e5RYDYUbGDib7NbD7m6"
+    },
+    {
+      "album": {
+        "name": "Caballo sin due\u00f1o",
+        "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
+      },
+      "artists": [
+        {
+          "name": "Pettinellis",
+          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217543,
+      "name": "Caballo sin due\u00f1o",
+      "url": "https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X"
     },
     {
       "album": {
@@ -763,7 +778,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 329875,
       "name": "Destino Final",
       "url": "https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR"

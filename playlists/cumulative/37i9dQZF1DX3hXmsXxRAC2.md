@@ -4,7 +4,7 @@
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-144 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/4QYjPiGAfd9kEfeaSrtn66)
+144 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-75 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
+75 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

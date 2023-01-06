@@ -4,7 +4,7 @@
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/2UwBYpgJZ0E7dCO3ToQZjJ)
+79 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

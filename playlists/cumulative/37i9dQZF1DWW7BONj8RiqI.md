@@ -4,7 +4,7 @@
 
 > Rave and whine to the best of Soca with Nadia Batson.
 
-175 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/3Z8zm9B7hkX1o3xTsJ8Z1Z)
+175 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

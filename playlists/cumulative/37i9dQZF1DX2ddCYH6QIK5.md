@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Larasüß, Artwork: Isu Kim.
 
-567 songs - 1 day 9 hr 9 min - [published](https://open.spotify.com/playlist/769sf2A9Kk835wCxbodHwy)
+567 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

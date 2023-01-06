@@ -4,7 +4,7 @@
 
 > Todo o calor latino está aqui! 🔥  foto: Karol G
 
-220 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/0hWEX2Wmud5ZvfLlh8QTkr)
+220 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

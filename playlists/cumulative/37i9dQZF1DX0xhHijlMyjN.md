@@ -4,7 +4,7 @@
 
 > La música que necesita cualquier verbena veraniega.
 
-73 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/5zA7lshsNGJsQdXcICeF69)
+73 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

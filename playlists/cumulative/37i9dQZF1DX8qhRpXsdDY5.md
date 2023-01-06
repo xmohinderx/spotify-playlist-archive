@@ -4,7 +4,7 @@
 
 > Classic Latin tunes to get you in the Christmas spirit\. Cover: José Feliciano
 
-228 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/3HjIJ3sXLe73tAroOhDnrQ)
+228 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

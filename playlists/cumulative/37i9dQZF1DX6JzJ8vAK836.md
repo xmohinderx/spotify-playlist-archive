@@ -4,7 +4,7 @@
 
 > Prince was a true original and earth\-shattering performer\. Hear Prince Rogers Nelson best right now.
 
-147 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
+147 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

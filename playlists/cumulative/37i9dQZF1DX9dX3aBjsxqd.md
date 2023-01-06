@@ -4,7 +4,7 @@
 
 > Relax to these mellow cello melodies.
 
-128 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/5QP85XJ5BkoMn5QWDijTgf)
+128 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

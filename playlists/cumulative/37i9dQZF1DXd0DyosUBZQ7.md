@@ -4,7 +4,7 @@
 
 > The most beautiful love songs of the 2000s
 
-134 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/4XlRxN53m0imBUyqmf9uvg)
+134 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

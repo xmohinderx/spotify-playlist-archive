@@ -4,7 +4,7 @@
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-109 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/1Lw3OcfQQZwnc25pF6c86g)
+109 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

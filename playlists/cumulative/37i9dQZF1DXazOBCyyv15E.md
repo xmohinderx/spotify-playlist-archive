@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Ben Gregory
 
-1,221 songs - 3 day 0 hr 27 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,221 songs - 3 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

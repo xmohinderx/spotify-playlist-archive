@@ -2,9 +2,9 @@
 
 ### [mood.](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: SZA
+> The R&B and good vibe tracks for your current mood\. Cover: slchld
 
-278 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
+284 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All for U](https://open.spotify.com/track/4k2dxVydbkJdf9qSuVRKuf) | [mikebie](https://open.spotify.com/artist/6bSCTKZdt76wAmSy1zwJY5) | [All for U](https://open.spotify.com/album/0JDL0dcrSc1pFtH2EwErMZ) | 3:49 | 2022-09-29 | 2022-12-09 |
 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 | 2022-06-08 | 2022-08-26 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-14 | 2022-07-22 |
+| [All Out Of Love](https://open.spotify.com/track/7vhoaLa8KJJTIQJYfDhdV3) | [Vitara](https://open.spotify.com/artist/0NcLSUH54X9UBJSO7uMtPA) | [All Out Of Love](https://open.spotify.com/album/1nbO2blQ2f2McVpyPmgcUS) | 2:58 | 2023-01-05 |  |
 | [All That I Need](https://open.spotify.com/track/7ziBvMT017ycfAxit7j7kf) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [All That I Need](https://open.spotify.com/album/2qfFZJTEuNg6YSpNzoUiIc) | 3:41 | 2022-06-08 | 2022-10-14 |
 | [almond eyes](https://open.spotify.com/track/0UQqXykR504ftBmPR2XlwM) | [Clavita](https://open.spotify.com/artist/3J6rkpg316KEM3dvDsizb7) | [almond eyes](https://open.spotify.com/album/0bwBVQwy1TgmqkRt3Wuib0) | 3:32 | 2022-12-08 |  |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-06-08 | 2022-09-30 |
@@ -29,6 +30,7 @@
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-22 |  |
 | [Bag Of You](https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Bag Of You](https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM) | 3:17 | 2022-11-10 |  |
 | [Ballroom Extravaganza](https://open.spotify.com/track/1KoAKmbSdx172NnEn6rV9F) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Ballroom Extravaganza](https://open.spotify.com/album/0rbFTWzM6EtmYd61kpV1ke) | 3:09 | 2022-07-28 | 2022-08-05 |
+| [bayou](https://open.spotify.com/track/4b4qQm1jizKxQOmHzdUJIR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [bayou](https://open.spotify.com/album/6JUOEOgX7p42TQyvczGMKm) | 3:49 | 2023-01-05 |  |
 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 | 2022-07-14 |  |
 | [Beautiful \(feat\. Sam Kim\)](https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [EGO 90'S](https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw) | 4:34 | 2022-07-21 | 2022-08-05 |
 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 | 2022-09-01 | 2022-09-16 |
@@ -59,10 +61,12 @@
 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 | 2022-06-08 | 2022-09-23 |
 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 | 2022-11-17 | 2022-12-17 |
 | [Do Me Right](https://open.spotify.com/track/419qEKI3RalGHPVzEDQeNY) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Still Blue](https://open.spotify.com/album/5NVdE7fnUNSfJ7Taka31IF) | 3:25 | 2022-12-16 | 2022-12-31 |
+| [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 | 2023-01-05 |  |
 | [Don't Love Me](https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Don't Love Me](https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G) | 2:47 | 2022-06-08 | 2022-12-17 |
 | [Don't Need You](https://open.spotify.com/track/6fPUNOgsI5BPQuu1LqjjS6) | [Ai.Z](https://open.spotify.com/artist/3WskbYlYe2qJrMtYnkIvKk), [Kenny](https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY) | [Everything In Between](https://open.spotify.com/album/1FuXu8THCvtATJaaMYLI5i) | 3:36 | 2022-10-13 |  |
 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 | 2022-10-20 | 2022-10-29 |
 | [DON'T THEY \(REMIX\) \[feat\. Normani\]](https://open.spotify.com/track/3u8becTPmigEyasAqCaO2Q) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DON'T THEY \(REMIX\) \[feat\. Normani\]](https://open.spotify.com/album/54Ju4fs7XOHyEfjnXxAabD) | 3:17 | 2022-06-09 | 2022-06-24 |
+| [Don’t go home](https://open.spotify.com/track/2ROP0upaRoZuU3WZAAv4d3) | [seoseo](https://open.spotify.com/artist/19fpoLzmPBNG4TdMQMSSc8) | [Don’t go home](https://open.spotify.com/album/5Z2DV5deJlPtSIgLPta6Hb) | 3:07 | 2023-01-05 |  |
 | [Dope \(with JID\)](https://open.spotify.com/track/3E1y4V7dxcn5AwKCD4AqFn) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Dope](https://open.spotify.com/album/0dbPpCxqmGEw1wQ5SH7q9O) | 2:38 | 2022-06-08 | 2022-06-10 |
 | [double tap](https://open.spotify.com/track/1ihLTwHjpxs2waSvf5yOrj) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [double tap](https://open.spotify.com/album/4fwBRNDbioQ2eO0DZxyzyK) | 2:37 | 2022-06-08 | 2022-06-10 |
 | [Electric](https://open.spotify.com/track/5HAdfADPJE797O73yUHJMf) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Electric](https://open.spotify.com/album/2xD74v93mGgP188mldE96h) | 4:11 | 2022-06-30 | 2022-08-26 |
@@ -90,6 +94,7 @@
 | [Get It, Got It](https://open.spotify.com/track/7DX5KOLW9Ffp7O0lkIwmTU) | [RL KLAV](https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc) | [POV](https://open.spotify.com/album/05fkAxw8mh5IUlTbYgKBoq) | 3:07 | 2022-08-18 | 2022-09-09 |
 | [Get Well Soon](https://open.spotify.com/track/18Ia5NxKnS3d0Aamr24SX0) | [KIRI](https://open.spotify.com/artist/14Zup84x4k8NXTTgrhqqAw) | [Get Well Soon](https://open.spotify.com/album/5kyZ5rI1l0mxBHpuV953dH) | 3:57 | 2022-10-07 | 2022-10-29 |
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-06-08 | 2022-07-15 |
+| [Glass](https://open.spotify.com/track/3kw6y6iKeyVX2JUqwdp7cj) | [Chriselda](https://open.spotify.com/artist/2U9rPOlR5Osiq6sRuL0dSr) | [Glass](https://open.spotify.com/album/3Jf9qj802fXyKNLhFr6oQs) | 3:48 | 2023-01-05 |  |
 | [Good Time](https://open.spotify.com/track/5C5TY76zEvTDPT3FRi6Obs) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Good Time](https://open.spotify.com/album/3D3que0A2F6BVUqmsY2MFh) | 3:18 | 2022-11-10 | 2022-12-17 |
 | [Goodbye 2022 \(feat\. J.O.Y\)](https://open.spotify.com/track/3xmGR655IjSCH5oFcMmdBS) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Goodbye 2022](https://open.spotify.com/album/5kTSDjeJ7RErbxbA3rLfn8) | 3:02 | 2022-12-01 |  |
 | [Got U](https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [LUV SIGN](https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6) | 3:45 | 2022-10-13 | 2022-10-29 |
@@ -104,6 +109,7 @@
 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 | 2022-09-08 | 2022-09-16 |
 | [Here It Goes Again](https://open.spotify.com/track/5ENmrKNn9IH3cAXR9EFe4j) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 3:50 | 2022-11-03 |  |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2022-11-11 |
+| [Hide & Seek \- FLO Remix](https://open.spotify.com/track/6jAdi1dYM3CqKaPnaGu03H) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Hide & Seek \(FLO Remix\)](https://open.spotify.com/album/7sFeHL1xwkJEZzQarMXsDv) | 3:29 | 2023-01-05 |  |
 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 | 2022-08-04 | 2022-08-19 |
 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 | 2022-11-17 | 2022-12-17 |
 | [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 | 2022-06-16 |  |

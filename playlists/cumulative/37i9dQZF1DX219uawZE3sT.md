@@ -4,7 +4,7 @@
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-134 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/4jQDg5Y9DskGmTHtELVHPY)
+134 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "All the New Joints featuring Wiz Khalifa, Redveil and more. Cover: Rae Sremmurd",
+  "description": "All the New Joints featuring French Montana, Real Boston Richey and more. Cover: Youngboy Never Broke Again",
   "name": "New Joints",
-  "published_playlist_ids": [
-    "1pXAF39Jhtc0ey1NUW44Ot"
-  ],
   "tracks": [
     {
       "album": {
@@ -287,7 +284,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 150588,
       "name": "1st Day of School",
       "url": "https://open.spotify.com/track/0GQ4pqjCYn5WTENwjb7eCJ"
@@ -309,7 +306,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 201906,
       "name": "2 Certified",
       "url": "https://open.spotify.com/track/0I5ETO3rKcbvlFApCVVPqT"
@@ -661,7 +658,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 137706,
       "name": "2daside",
       "url": "https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8"
@@ -1713,7 +1710,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 126928,
       "name": "Ain\u2019t Right",
       "url": "https://open.spotify.com/track/5cJoIc7QehxhaX6MthuGsZ"
@@ -3168,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Bad Bitch",
+        "url": "https://open.spotify.com/album/30NrujfphLM7qczBFiCFQk"
+      },
+      "artists": [
+        {
+          "name": "Lexy Panterra",
+          "url": "https://open.spotify.com/artist/5bB58D2RfSIIM2eBJy2Kww"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Bad Bitch",
+      "url": "https://open.spotify.com/track/1YBNyz3eAVXPoh2ZWEWiIt"
+    },
+    {
+      "album": {
         "name": "King Of The Trap 2 (Deluxe)",
         "url": "https://open.spotify.com/album/6PMDRce4bzlXYzXlsEPWtP"
       },
@@ -3773,6 +3788,28 @@
       "duration_ms": 115927,
       "name": "Bentley Bentayga!",
       "url": "https://open.spotify.com/track/34eGc2hu8Ye6AuRJWvq0ES"
+    },
+    {
+      "album": {
+        "name": "BENZ",
+        "url": "https://open.spotify.com/album/5VvKj7hSbo59rSuF6E3CcJ"
+      },
+      "artists": [
+        {
+          "name": "Young Cardi",
+          "url": "https://open.spotify.com/artist/0xf3nf764hGg0fSptQqeDk"
+        },
+        {
+          "name": "Bankrol Hayden",
+          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137318,
+      "name": "BENZ",
+      "url": "https://open.spotify.com/track/6E031JdEzh2E3mesGmlGt6"
     },
     {
       "album": {
@@ -4427,6 +4464,24 @@
       "duration_ms": 163499,
       "name": "Blacc Tarantino",
       "url": "https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR"
+    },
+    {
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/3Qtj7PJlxPZsdWLqIW1I8d"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/6lyhMxltOaZrzRxRmmc3lU"
     },
     {
       "album": {
@@ -5694,6 +5749,24 @@
     },
     {
       "album": {
+        "name": "ONLY ONE",
+        "url": "https://open.spotify.com/album/5qocotft3C4USMvQA7Jgge"
+      },
+      "artists": [
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148080,
+      "name": "Bruce lee (feat. Xhulooo)",
+      "url": "https://open.spotify.com/track/1gCqbCM6zZG8gapl5yF3bs"
+    },
+    {
+      "album": {
         "name": "The Forever Story",
         "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
       },
@@ -6716,6 +6789,28 @@
     },
     {
       "album": {
+        "name": "Check (feat. Big Yavo)",
+        "url": "https://open.spotify.com/album/6NUnyYTNV94AbTehZ3BHRM"
+      },
+      "artists": [
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130164,
+      "name": "Check (feat. Big Yavo)",
+      "url": "https://open.spotify.com/track/3g2H2JmJKe7NZyZBIMXgN3"
+    },
+    {
+      "album": {
         "name": "Check In",
         "url": "https://open.spotify.com/album/2T8KVNfTxXLHFvLfa0f4C3"
       },
@@ -6851,6 +6946,36 @@
       "duration_ms": 213333,
       "name": "Chiraq",
       "url": "https://open.spotify.com/track/0noJPiJ7nLUrh0oPWhZK2f"
+    },
+    {
+      "album": {
+        "name": "Coke Boys 6",
+        "url": "https://open.spotify.com/album/70415SlsGN0hrHDbOkhT8Z"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Smooky MarGielaa",
+          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153357,
+      "name": "Chit Chat",
+      "url": "https://open.spotify.com/track/4r9GyHViUSb8iVXQsJc8U5"
     },
     {
       "album": {
@@ -8635,7 +8760,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 167544,
       "name": "Dead Wrong (with midwxst)",
       "url": "https://open.spotify.com/track/5OuQux22kTLsjggWCWE1aw"
@@ -10078,6 +10203,28 @@
     },
     {
       "album": {
+        "name": "Don't Love Me Now (feat. charlieonnafriday)",
+        "url": "https://open.spotify.com/album/0pXAMS6EMJqb8mKIvQhxKd"
+      },
+      "artists": [
+        {
+          "name": "2KBABY",
+          "url": "https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE"
+        },
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122623,
+      "name": "Don't Love Me Now (feat. charlieonnafriday)",
+      "url": "https://open.spotify.com/track/1uWHol8i8GaYEDFq2MsH1p"
+    },
+    {
+      "album": {
         "name": "Don't Miss",
         "url": "https://open.spotify.com/album/5STr775eXjmZqssJIYBQCd"
       },
@@ -11047,7 +11194,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 200400,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/31h2Iv1c5xeUJq4pXd0XCR"
@@ -11259,7 +11406,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 124558,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
@@ -11549,7 +11696,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 169411,
       "name": "Fck Love",
       "url": "https://open.spotify.com/track/5dhwZyyGS4dYRxPshaEGXf"
@@ -11999,7 +12146,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 130815,
       "name": "Finish What I Started",
       "url": "https://open.spotify.com/track/3ieq9vKcbv9tuxqDBnab7x"
@@ -12065,6 +12212,24 @@
       "duration_ms": 322360,
       "name": "First Impression (feat. Quavo & Yung Miami)",
       "url": "https://open.spotify.com/track/605q55PSYbR26lHjamODIz"
+    },
+    {
+      "album": {
+        "name": "Public Housing, Pt. 2",
+        "url": "https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2LWeSrNPOceNtiGecWLLoe"
     },
     {
       "album": {
@@ -12363,7 +12528,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 160920,
       "name": "FOMF",
       "url": "https://open.spotify.com/track/1q9huadusReYqEjnENS3uw"
@@ -13318,6 +13483,24 @@
     },
     {
       "album": {
+        "name": "Gah Damn",
+        "url": "https://open.spotify.com/album/7xMqiBsn4iTnFw172KnxaA"
+      },
+      "artists": [
+        {
+          "name": "Yung Mal",
+          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "Gah Damn",
+      "url": "https://open.spotify.com/track/0VQucSKq1xINBeqQZRt69w"
+    },
+    {
+      "album": {
         "name": "Gallery",
         "url": "https://open.spotify.com/album/0dvxB8rEM4hO5iQK8sTqTP"
       },
@@ -13953,6 +14136,28 @@
       "duration_ms": 102660,
       "name": "Gift Rap",
       "url": "https://open.spotify.com/track/3IVy03WUwjAxp1J5vRudHU"
+    },
+    {
+      "album": {
+        "name": "Gimme Freestyle",
+        "url": "https://open.spotify.com/album/6DTah7bil3pr4acSCPIqRJ"
+      },
+      "artists": [
+        {
+          "name": "Fred the Godson",
+          "url": "https://open.spotify.com/artist/4XfZS4DTtBxAd8JjsDFMzl"
+        },
+        {
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171417,
+      "name": "Gimme Freestyle",
+      "url": "https://open.spotify.com/track/5zHkXYdDT6903xEce1LWK8"
     },
     {
       "album": {
@@ -15004,6 +15209,24 @@
     },
     {
       "album": {
+        "name": "Groovy",
+        "url": "https://open.spotify.com/album/2OeKQdJREBGjuX94QL0MfY"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190530,
+      "name": "Groovy",
+      "url": "https://open.spotify.com/track/6lO1vt2ipUxh1bmxK8cR2s"
+    },
+    {
+      "album": {
         "name": "Groovy (feat. Fivio Foreign)",
         "url": "https://open.spotify.com/album/6Qa5jPHgdY6NW3P4tY7ej9"
       },
@@ -15643,7 +15866,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 185496,
       "name": "Hear No Evil (For the Money)",
       "url": "https://open.spotify.com/track/4hXlgbQbzG0gsruzqfLar5"
@@ -16927,7 +17150,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 175621,
       "name": "HTAFL",
       "url": "https://open.spotify.com/track/0ezt3b76CRzJcmCMmCVmbw"
@@ -17885,6 +18108,24 @@
       "duration_ms": 158219,
       "name": "In Disguise (feat. Bakar)",
       "url": "https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc"
+    },
+    {
+      "album": {
+        "name": "In Ha Mood",
+        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129360,
+      "name": "In Ha Mood",
+      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
     },
     {
       "album": {
@@ -19495,7 +19736,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 92135,
       "name": "Known Spenders",
       "url": "https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd"
@@ -19967,7 +20208,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -20519,6 +20760,28 @@
       "duration_ms": 132976,
       "name": "Like Bill",
       "url": "https://open.spotify.com/track/1U0z1CFCqSWAYA5O4oKpeC"
+    },
+    {
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/0HhVSa3NhYFXxJ3JTdhV9F"
+      },
+      "artists": [
+        {
+          "name": "Duece Uno",
+          "url": "https://open.spotify.com/artist/1PdCdnAjBXPeCFhBMlhjBt"
+        },
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148275,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/2XLh0cozp37b76JqHSZC79"
     },
     {
       "album": {
@@ -22749,7 +23012,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 161000,
       "name": "Money 4 Dummies",
       "url": "https://open.spotify.com/track/5GntCT6sMSgeTUPgpNndIl"
@@ -23179,6 +23442,24 @@
       "duration_ms": 163113,
       "name": "Mr. CBFW (feat. G Herbo)",
       "url": "https://open.spotify.com/track/3olMRANIDgoV0UlCKsnn0C"
+    },
+    {
+      "album": {
+        "name": "Mr. Hanky",
+        "url": "https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142915,
+      "name": "Mr. Hanky",
+      "url": "https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l"
     },
     {
       "album": {
@@ -23923,6 +24204,28 @@
       "duration_ms": 235582,
       "name": "Neighborhood Superstar",
       "url": "https://open.spotify.com/track/0lTqQTHcYb0RzGa5STjVrf"
+    },
+    {
+      "album": {
+        "name": "Neighborhood Trapstars",
+        "url": "https://open.spotify.com/album/1MiESrjwiTznQNnptHeaDD"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Neighborhood Trapstars",
+      "url": "https://open.spotify.com/track/7zXZQEkHUclAqRTJXLIip4"
     },
     {
       "album": {
@@ -25352,6 +25655,32 @@
     },
     {
       "album": {
+        "name": "Off Top Off Rip (Remix) [feat. Mozzy & Fetty Wap]",
+        "url": "https://open.spotify.com/album/3oFsM0aaYWbrhSqH9UD1K3"
+      },
+      "artists": [
+        {
+          "name": "Rayven Justice",
+          "url": "https://open.spotify.com/artist/0m9husdLSRyNHOuxFAr5hB"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224953,
+      "name": "Off Top Off Rip (Remix) [feat. Mozzy & Fetty Wap]",
+      "url": "https://open.spotify.com/track/2YPAnyQ3RezEyV4b7aI1Du"
+    },
+    {
+      "album": {
         "name": "Off White",
         "url": "https://open.spotify.com/album/3UrNfZ5SEwJilzhj8xUeja"
       },
@@ -25497,7 +25826,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 155573,
       "name": "Okay Okay",
       "url": "https://open.spotify.com/track/4gH1tOHc7EkzACWj1ABLym"
@@ -26386,6 +26715,24 @@
     },
     {
       "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/72SRRaSf8OEru4ewgAK0UM"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117543,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4"
+    },
+    {
+      "album": {
         "name": "386 Landlord",
         "url": "https://open.spotify.com/album/5i2A4Ubx6GGLYMZh4BWhRn"
       },
@@ -26785,7 +27132,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 129018,
       "name": "Pape Talk",
       "url": "https://open.spotify.com/track/1fInVZhQmpopTKTkZnLvwG"
@@ -26979,7 +27326,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 166830,
       "name": "Patience (feat. NoCap)",
       "url": "https://open.spotify.com/track/2KUoS9OMlDLszLly6JcJGi"
@@ -28036,6 +28383,24 @@
     },
     {
       "album": {
+        "name": "Porsche Truck",
+        "url": "https://open.spotify.com/album/3qPrSg8I072UC2tzkQaMPt"
+      },
+      "artists": [
+        {
+          "name": "ICYTWAT",
+          "url": "https://open.spotify.com/artist/6bVRNVg2f91pCAyKnrIOW0"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64000,
+      "name": "Porsche Truck",
+      "url": "https://open.spotify.com/track/3dYp2NzzYqflfSBWniwOEC"
+    },
+    {
+      "album": {
         "name": "Portland 2",
         "url": "https://open.spotify.com/album/48V6VMvomnJ47t1V0DnHvO"
       },
@@ -28664,6 +29029,28 @@
     },
     {
       "album": {
+        "name": "Pull Up (feat. Brezay)",
+        "url": "https://open.spotify.com/album/5w8jRxeZBOyKGc8bTkAFdC"
+      },
+      "artists": [
+        {
+          "name": "Fresco Trey",
+          "url": "https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g"
+        },
+        {
+          "name": "Brezay",
+          "url": "https://open.spotify.com/artist/1KRxSx5j4fjxss8cqhMWud"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Pull Up (feat. Brezay)",
+      "url": "https://open.spotify.com/track/3sgs88draqbNzrvKZYmcJW"
+    },
+    {
+      "album": {
         "name": "Read The Room",
         "url": "https://open.spotify.com/album/1roM4M7RDOX7Oa3Nq1ND80"
       },
@@ -28745,7 +29132,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 169142,
       "name": "Punch Line (Freestyle)",
       "url": "https://open.spotify.com/track/4nc3m9Jpd6Xv7sx8vJEX5V"
@@ -29082,6 +29469,24 @@
     },
     {
       "album": {
+        "name": "PUT YOU ON GAME",
+        "url": "https://open.spotify.com/album/2F9w1TeWYelRUUb9YN1Ll6"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159452,
+      "name": "PUT YOU ON GAME",
+      "url": "https://open.spotify.com/track/31UEIDEnR72bsUiavstcof"
+    },
+    {
+      "album": {
         "name": "Pyrex",
         "url": "https://open.spotify.com/album/1ZWHj0kb2hk0hZCCDdNjL5"
       },
@@ -29369,7 +29774,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 183480,
       "name": "Raised In Memphis",
       "url": "https://open.spotify.com/track/0jiiCreJo7AbZS0IGOgilc"
@@ -31279,6 +31684,32 @@
       "duration_ms": 150912,
       "name": "Said It\u2019s Lit",
       "url": "https://open.spotify.com/track/4sw5u1NAL7Wd1WaPBEHOFj"
+    },
+    {
+      "album": {
+        "name": "-95 DEGREES",
+        "url": "https://open.spotify.com/album/6pGYzNLRH0Ve8OPjOityaN"
+      },
+      "artists": [
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        },
+        {
+          "name": "Kajun Waters",
+          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
+        },
+        {
+          "name": "Fergie Baby",
+          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205753,
+      "name": "SAILS",
+      "url": "https://open.spotify.com/track/3gC5ZvWnG2yy2RTQnRRRXq"
     },
     {
       "album": {
@@ -34225,7 +34656,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 172362,
       "name": "Stadiums",
       "url": "https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX"
@@ -36165,7 +36596,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 137115,
       "name": "Tell Me (feat. ATL Jacob)",
       "url": "https://open.spotify.com/track/0v4se3cJ1ol7zihw1sOXEB"
@@ -37249,7 +37680,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 138308,
       "name": "THROW",
       "url": "https://open.spotify.com/track/1cz9jUbkmRSX6jZmQrrSA9"
@@ -37337,6 +37768,24 @@
       "duration_ms": 201420,
       "name": "Throw'd As It Gets (Remix)[Feat. Maxo Kream]",
       "url": "https://open.spotify.com/track/7zSSH0SSoU3jOUT6gbd1uA"
+    },
+    {
+      "album": {
+        "name": "Thru The Week",
+        "url": "https://open.spotify.com/album/2gUrIbJA00fdERuqhLEKit"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170360,
+      "name": "Thru The Week",
+      "url": "https://open.spotify.com/track/2hKPymvrEGzloa4dShEMkw"
     },
     {
       "album": {
@@ -38123,7 +38572,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 166400,
       "name": "Trap House Lease In Her Name",
       "url": "https://open.spotify.com/track/0ponyStF2emlsnLiBUXpWF"
@@ -39611,7 +40060,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 157800,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
@@ -40668,6 +41117,24 @@
     },
     {
       "album": {
+        "name": "Win For Losin",
+        "url": "https://open.spotify.com/album/4QyUbGbGyn1725sRukfZ9P"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117909,
+      "name": "Win For Losin",
+      "url": "https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB"
+    },
+    {
+      "album": {
         "name": "Wish Upon a Star (feat. Curren$y)",
         "url": "https://open.spotify.com/album/3bzKPtpfImmoLjEHvcQUo2"
       },
@@ -40861,6 +41328,24 @@
       "duration_ms": 183898,
       "name": "Woozie",
       "url": "https://open.spotify.com/track/2uIukEsbb5yvC3ZK7CWk6G"
+    },
+    {
+      "album": {
+        "name": "WOP",
+        "url": "https://open.spotify.com/album/1bdrnZV4O1Oa455LLV2pug"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202945,
+      "name": "WOP",
+      "url": "https://open.spotify.com/track/0M0pqpXxzPDstdL7ESgrTr"
     },
     {
       "album": {

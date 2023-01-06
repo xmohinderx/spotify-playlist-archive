@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-142 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
+142 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

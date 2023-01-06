@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
   "name": "Shuffle Syndrome",
-  "published_playlist_ids": [
-    "3x0R9H3q2apK7ItZZ2pCtQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 159200,
       "name": "4Ever",
       "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
@@ -289,6 +286,24 @@
       "duration_ms": 166714,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/1MFmiir89nKDrfw8AjeNKu"
+    },
+    {
+      "album": {
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169117,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7nMNn3PJJMjhipGwFedAm3"
     },
     {
       "album": {
@@ -689,6 +704,32 @@
       "duration_ms": 142857,
       "name": "Bring Et",
       "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
+    },
+    {
+      "album": {
+        "name": "Broke Bitch",
+        "url": "https://open.spotify.com/album/62uCkdPVscfNWzzqIdSjxB"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Lil Asian Thiccie",
+          "url": "https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "Broke Bitch",
+      "url": "https://open.spotify.com/track/3Ay4JbFCfh7q7RIUScJQ1v"
     },
     {
       "album": {
@@ -1673,7 +1714,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 163928,
       "name": "Feeling Of Falling",
       "url": "https://open.spotify.com/track/5ZL1VcP71UgUXRq9THSC8J"
@@ -1851,6 +1892,24 @@
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
     },
     {
       "album": {
@@ -2051,7 +2110,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 159375,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/4ajYMWEIDhn78UDHxIIK4s"
@@ -2205,6 +2264,32 @@
       "duration_ms": 127680,
       "name": "Gucci Fendi Prada - BYOR Remix",
       "url": "https://open.spotify.com/track/7FYV4Nq4IW08XDssxctuyR"
+    },
+    {
+      "album": {
+        "name": "Guddi Riddim",
+        "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        },
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Guddi Riddim",
+      "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
     },
     {
       "album": {
@@ -2579,7 +2664,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 174193,
       "name": "I Don't Really Care",
       "url": "https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd"
@@ -2689,7 +2774,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 197760,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P"
@@ -2955,7 +3040,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 186190,
       "name": "Leave Your Mind Behind",
       "url": "https://open.spotify.com/track/7CMjldJAvD3xRRBcIHwIlu"
@@ -3632,6 +3717,32 @@
     },
     {
       "album": {
+        "name": "Miami (\u00d6wnboss Remix) [feat. Nile Rodgers]",
+        "url": "https://open.spotify.com/album/2HTCGfMaVGgW5MJJaGH3oJ"
+      },
+      "artists": [
+        {
+          "name": "Lola Audreys",
+          "url": "https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Miami (\u00d6wnboss Extended Remix) [feat. Nile Rodgers]",
+      "url": "https://open.spotify.com/track/3lUJNlIFgP9lvunZIqgZH3"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3"
       },
@@ -4147,6 +4258,24 @@
       "duration_ms": 163108,
       "name": "Not Dancing",
       "url": "https://open.spotify.com/track/2ipTMqLLogZOwB3VXafqTR"
+    },
+    {
+      "album": {
+        "name": "Nudes",
+        "url": "https://open.spotify.com/album/4vtBTnn8AbVYqYnHZf3NVb"
+      },
+      "artists": [
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136055,
+      "name": "Nudes",
+      "url": "https://open.spotify.com/track/6mjCVjYkqyo4IG4nMhlpD2"
     },
     {
       "album": {
@@ -5362,6 +5491,40 @@
     },
     {
       "album": {
+        "name": "The Drop (Ownboss Remix)",
+        "url": "https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176328,
+      "name": "The Drop - \u00d6wnboss Remix",
+      "url": "https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69"
+    },
+    {
+      "album": {
         "name": "The G.O.A.T.",
         "url": "https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh"
       },
@@ -5461,7 +5624,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 202524,
       "name": "Thrills (feat. Jaxon Rose)",
       "url": "https://open.spotify.com/track/2KnOz4On4UakMbBYlfPa9K"

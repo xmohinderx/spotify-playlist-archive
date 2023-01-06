@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Sung Si Kyung\(성시경\)\)\) \(당신의 감성에 발라드, 려요\)
 
-638 songs - 1 day 17 hr 30 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+638 songs - 1 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

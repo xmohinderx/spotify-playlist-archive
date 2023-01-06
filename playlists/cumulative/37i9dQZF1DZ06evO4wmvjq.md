@@ -4,7 +4,7 @@
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-129 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/3pQB6bVE7rab9WbzcxnMjP)
+130 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Arica](https://open.spotify.com/track/5YWt5swsMPRm99XRCSY8U0) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 11:43 | 2022-06-03 | 2022-10-13 |
 | [Ascencion](https://open.spotify.com/track/4byb8gZffMTaIZD4xl0PfQ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 13:35 | 2022-06-15 | 2022-10-08 |
 | [Barabas](https://open.spotify.com/track/1lc7hX8e7HtG3yMSTqukkc) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 4:53 | 2022-06-03 | 2022-06-05 |
+| [Bird of Paradise: Part 1](https://open.spotify.com/track/7ozjAzViP4PTJxKuvIVpjE) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 5:01 | 2023-01-05 |  |
 | [Black Woman](https://open.spotify.com/track/41BeACjgrGUeIPR0jLLqD9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 4:15 | 2022-10-12 |  |
 | [Blue Anthem](https://open.spotify.com/track/6LLSaICqGSFPi6TYaYT6au) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Krishna Bhatt](https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl) | [No Man's Land](https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0) | 8:39 | 2022-11-15 | 2022-12-05 |
 | [Blyzole](https://open.spotify.com/track/6BrdVvQypYv7sw3YheghN2) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Blyzole](https://open.spotify.com/album/4y3UyR0KbhPv0lVtJQEKkl) | 1:01 | 2022-10-28 |  |
@@ -41,7 +42,7 @@
 | [Eastern Man](https://open.spotify.com/track/02DJWyW9y1TcwlhF3xScxR) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 11:28 | 2022-05-29 | 2022-12-02 |
 | [Embroidery](https://open.spotify.com/track/3stUfG4xfDXJfp3PCzlPoo) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 22:24 | 2022-05-29 | 2022-10-13 |
 | [Emerald Runner](https://open.spotify.com/track/1MaSYb6iRmbCOdWfphWMcX) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 13:22 | 2022-06-02 | 2022-10-12 |
-| [Even Your Beloved Wife](https://open.spotify.com/track/55Bw5EGZQfbXkrKcduiR86) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 4:57 | 2023-01-04 |  |
+| [Even Your Beloved Wife](https://open.spotify.com/track/55Bw5EGZQfbXkrKcduiR86) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 4:57 | 2023-01-04 | 2023-01-06 |
 | [Five \(Five Voices\)](https://open.spotify.com/track/7CG0K8qonZE6Sl0WFp9CSP) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s), [Paul Hillier](https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Theatre Of Voices](https://open.spotify.com/artist/4XFASxAPCD5LZ6omKGJI56), [Alan Bennett](https://open.spotify.com/artist/3D8I281fLMVQyllXYZQ2NV), [Andrea Fullington](https://open.spotify.com/artist/6EJJnZgExJa0WXQ1nqEg92), [Paul Eliott](https://open.spotify.com/artist/41SQcY8GbLRL5qUy6G1OmH) | [John Cage: Litany for the Whale](https://open.spotify.com/album/7M1mQHS6iSTph4jEyYupNw) | 5:04 | 2022-11-26 | 2023-01-05 |
 | [Folk Song](https://open.spotify.com/track/1pHfqvY7jHDbGFyGSdD9Eu) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/336G74NrqpBt6A3cXEoUg7) | 4:27 | 2022-07-18 | 2022-11-17 |
 | [Francesco en Paraiso](https://open.spotify.com/track/6PU7ov0CYZzsEOWoFlRFBK) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 5:06 | 2022-05-29 |  |

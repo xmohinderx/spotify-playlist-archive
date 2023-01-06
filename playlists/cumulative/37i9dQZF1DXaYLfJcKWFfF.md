@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b?si=GzGRgXZWRD2JvHho7dyGcQ"> senth</a>
 
-67 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/2z7lj51FcrlwnyaaEF8RCy)
+67 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-166 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+167 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Going Out Like This](https://open.spotify.com/track/2La9vfJPqpxxKgOxCqlJT3) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Sippin' On The Simple Life](https://open.spotify.com/album/5vKquArL0GIKYNrNXpS3Mo) | 3:29 | 2021-10-15 |  |
 | [Gonna Be Alright](https://open.spotify.com/track/3wQWy9KSrcMviSoFRNGeDI) | [The Kentucky Headhunters](https://open.spotify.com/artist/2sgj794K3UaW1ApX28ZUhY) | [....That's a Fact Jack!](https://open.spotify.com/album/6B0g54q8KeALKIM1rARwmw) | 3:59 | 2021-11-19 | 2022-09-21 |
 | [Good Brown Gravy](https://open.spotify.com/track/4r73MgEVjf5xMkGui5tNeD) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794), [Wink Martindale](https://open.spotify.com/artist/1X5ZSwlYraWjWqjkkhJjdg) | [Good Brown Gravy](https://open.spotify.com/album/04FuVoV7pMjU94jTcUfRly) | 2:38 | 2021-10-15 |  |
+| [Grass Is Green Enough Right Here](https://open.spotify.com/track/2tQFUEceD3I2SHKzT6u9Z4) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Grass Is Green Enough Right Here](https://open.spotify.com/album/2eNC9W2afhPJOYIp6qgFTm) | 2:26 | 2023-01-06 |  |
 | [Heartbreak Song](https://open.spotify.com/track/3q3hcw8QF3feQOpd3xKdMy) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Heartbreak Song](https://open.spotify.com/album/6el7S7Ebsgh69AimpDPesJ) | 3:59 | 2022-07-29 |  |
 | [Hearts in the Sand](https://open.spotify.com/track/3C91xtXZGNY4mM2DcbzlRt) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [The Rest of It's Mine](https://open.spotify.com/album/6b5WQURAJNRYKYYKbtMenX) | 3:56 | 2022-07-22 |  |
 | [Her Loving Man](https://open.spotify.com/track/2VqE5LvdZ5S8CBrxubpakU) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [12th of June](https://open.spotify.com/album/0p13hRQZ6VwBqXuoYzFtBR) | 5:22 | 2022-05-16 |  |

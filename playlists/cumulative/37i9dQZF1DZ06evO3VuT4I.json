@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Suzanne Ciani. The essential tracks, all in one playlist.",
   "name": "This Is Suzanne Ciani",
-  "published_playlist_ids": [
-    "1gXDDyxOU9AacC9pvn9SPP"
-  ],
   "tracks": [
     {
       "album": {
@@ -481,7 +478,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 255333,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/44oGOmVIujTmRF3rLP1A4Y"
@@ -643,7 +640,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 174000,
       "name": "Hotel Luna",
       "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"
@@ -805,7 +802,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 229466,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd"
@@ -1147,7 +1144,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 154973,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4mfLfODYehwVfHnXMlIArx"
@@ -1219,7 +1216,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 229080,
       "name": "Silver Ship",
       "url": "https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt"
@@ -1291,7 +1288,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 246293,
       "name": "Stromboli",
       "url": "https://open.spotify.com/track/7ijPcZ54DGNPRfu5DXQBc5"

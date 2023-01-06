@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-156 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
+156 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

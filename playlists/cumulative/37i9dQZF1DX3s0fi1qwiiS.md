@@ -4,7 +4,7 @@
 
 > Who order Azul?
 
-51 songs - 3 hr 18 min - not published yet
+51 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

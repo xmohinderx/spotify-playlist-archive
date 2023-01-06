@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Coi Leray",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto & Glorilla",
   "name": "Feelin' Myself",
-  "published_playlist_ids": [
-    "0FtcGJDMEWLAVf67SoV0Nd"
-  ],
   "tracks": [
     {
       "album": {
@@ -1967,7 +1964,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 141453,
       "name": "HDBG Shemix",
       "url": "https://open.spotify.com/track/2A59foYLjX4iUuvtncE8BZ"
@@ -2221,6 +2218,24 @@
       "duration_ms": 110790,
       "name": "Icy Chain",
       "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
+    },
+    {
+      "album": {
+        "name": "In Ha Mood",
+        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129360,
+      "name": "In Ha Mood",
+      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
     },
     {
       "album": {

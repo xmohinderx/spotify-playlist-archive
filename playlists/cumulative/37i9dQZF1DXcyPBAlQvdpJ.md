@@ -4,7 +4,7 @@
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-78 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/0JfAREWmsf4OMLVBZTUBmc)
+78 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The finest quality of Bollywood music handpicked for you\. Cover\- Alia and Ranbir.
 
-74 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/3aiNMDFKRmhdg4lRDcg4QM)
+74 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > These women rock our worlds with their music and influence\. Cover: Alanis Morissette
 
-174 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/4puxHH16U8QMCFkFLBLCLa)
+174 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

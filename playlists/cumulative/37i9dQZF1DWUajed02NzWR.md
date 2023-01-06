@@ -4,7 +4,7 @@
 
 > The perfect classical tunes for pruning, planting, and putting your feet up.
 
-83 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/7JtaxZToMc5B9xvXLAoc8a)
+83 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nnekaenergy/">Nneka Onuorah</a>
 
-838 songs - 2 day 6 hr 11 min - [published](https://open.spotify.com/playlist/5AYqsnlUM1hNHFfi6U6U5U)
+838 songs - 2 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-120 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/0FgSybGr6AtuqHlcsxaZUL)
+120 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

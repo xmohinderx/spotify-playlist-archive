@@ -4,7 +4,7 @@
 
 > Classic drinking singalongs.
 
-61 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/56xGjjMt3q1sbs8rAN1t2E)
+61 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

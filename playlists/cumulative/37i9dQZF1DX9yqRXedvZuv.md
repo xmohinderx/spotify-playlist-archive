@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/zackbia/">Zack Bia</a>
 
-53 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/1KoOLyNtVgdilQ8fpKH68Q)
+53 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

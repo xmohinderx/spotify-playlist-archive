@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-530 songs - 1 day 9 hr 14 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+530 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

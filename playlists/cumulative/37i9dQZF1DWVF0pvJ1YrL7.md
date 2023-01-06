@@ -4,7 +4,7 @@
 
 > Welcome, you belong here.
 
-163 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/187ScON8KrrWo7kYQuCuMH)
+163 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Amapiano tracks to fuel your beast mode!
 
-89 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/1DXvCmpNG84tGLErObm8cZ)
+89 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

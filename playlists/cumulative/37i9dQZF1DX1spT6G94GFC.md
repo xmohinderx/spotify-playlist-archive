@@ -4,7 +4,7 @@
 
 > These songs rocked the 80s.
 
-172 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/4jYRsZsdPBj4GY3BTjud4Q)
+172 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

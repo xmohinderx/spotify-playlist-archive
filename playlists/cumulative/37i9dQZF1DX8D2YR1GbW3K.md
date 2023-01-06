@@ -4,7 +4,7 @@
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-195 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/32yWo5rps1QJ3QtObrBl8L)
+195 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

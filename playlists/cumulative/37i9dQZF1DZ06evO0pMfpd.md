@@ -4,7 +4,7 @@
 
 > This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/4UMWv0357zmNo4xmR1nSew)
+56 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Best lofi music to study or chill to.
 
-1,273 songs - 2 day 2 hr 52 min - [published](https://open.spotify.com/playlist/4JM2L2envXGFQsKlA6eLmY)
+1,273 songs - 2 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

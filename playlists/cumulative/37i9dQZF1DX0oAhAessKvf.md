@@ -4,7 +4,7 @@
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-166 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5hf1hQSZw5PUaTleXUee3L)
+166 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

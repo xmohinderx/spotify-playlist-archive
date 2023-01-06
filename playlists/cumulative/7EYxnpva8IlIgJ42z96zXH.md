@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/7EYxnpva8IlIgJ42z96zXH.md) - cumulative - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7EYxnpva8IlIgJ42z96zXH)
 
-### [Best Of: Morning Workout 2022](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
+### [Morning Workout](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-562 songs - 1 day 5 hr 53 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
+563 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Just Feels Tight](https://open.spotify.com/track/7wT85929YTgiyb2cQDe2fb) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/0hETamGnqdcM4TuUDqV378) | 3:17 | 2021-07-31 | 2021-09-04 |
 | [Just for the Times](https://open.spotify.com/track/67LyilCFvsLvoC7zEBPcKK) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Just for the Times](https://open.spotify.com/album/3NPApmy06Q3QMZ5Es2SpBe) | 3:25 | 2021-04-13 | 2021-07-04 |
 | [Keep It Comin](https://open.spotify.com/track/3tyw03CsA7n00xC5hnvjuX) | [Mr Gray](https://open.spotify.com/artist/1cSOF44doCI1YNC1f7rb6w), [Zoë Badwi](https://open.spotify.com/artist/16Mje1BDQmN1DWp4a94YOC) | [Keep It Comin](https://open.spotify.com/album/2TZmCMQegg86vKegAlkZZI) | 3:03 | 2022-06-24 | 2022-08-06 |
+| [Ki\-Ki \(feat\. ENNY\)](https://open.spotify.com/track/35REVjW2vGqWclKAtI1PqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Ki\-Ki \(feat\. ENNY\)](https://open.spotify.com/album/0t8GA7Bcs9mmlp3gqakWDX) | 2:20 | 2023-01-06 |  |
 | [Kill That Beat](https://open.spotify.com/track/1FvCj1NsaOa6l0uWXH7b62) | [Kult Kyss](https://open.spotify.com/artist/6UVDhXoU9ypbSPfqXMbRSO) | [Kill That Beat](https://open.spotify.com/album/6FcVgMPMTjTWfqzOc3ndln) | 3:20 | 2020-12-04 | 2020-12-18 |
 | [King & Queen \(feat\. DJ Supa D & Mr Taffa\) \- Paul Woolford Remix](https://open.spotify.com/track/60WMbjXd2DoYPT2WzDaFqd) | [LushKells](https://open.spotify.com/artist/5xwvuBlXudoH3FK8HBDfKd), [DJ Supa D](https://open.spotify.com/artist/0y84aioPoEjBOzm24Iranq), [Mr Taffa](https://open.spotify.com/artist/1W5HeHrDFcC1zQ8PUENSWi), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [King & Queen \(feat\. DJ Supa D & Mr Taffa\) \[Paul Woolford Remix\]](https://open.spotify.com/album/7nxHRt0T2N8XDGJo6aOJQf) | 3:57 | 2020-12-04 | 2020-12-11 |
 | [Knock Knock](https://open.spotify.com/track/70dmZtJ2NDuFsPdlQgdnbh) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Knock Knock](https://open.spotify.com/album/52Aj733Z1QNSshBALGbFNP) | 4:01 | 2021-08-04 | 2021-08-10 |

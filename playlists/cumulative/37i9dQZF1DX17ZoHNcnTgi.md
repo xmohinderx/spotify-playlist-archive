@@ -4,7 +4,7 @@
 
 > De costa a costa, de frontera a frontera..\.  un banquete de sonidos de México.
 
-272 songs - 17 hr 0 min - [published](https://open.spotify.com/playlist/4htmeqGQevysih0VjJ1WZ7)
+272 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

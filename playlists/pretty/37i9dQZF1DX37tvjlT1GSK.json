@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Los Gemelos de Sinaloa en portada. ",
-  "num_followers": 709347,
+  "num_followers": 709442,
   "original_name": "Sierre\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzY3MiwwMDAwMDAwMGI4MDY1ZWUzNTg3M2ZkYTlhOTFiYTI1OWIyMjc3Yjll",
+  "snapshot_id": "MTY2OTk1NzY3MiwwMDAwMDAwMDU2ZWRhMWJhMTg0ZjcyZWZmNDQ1MzczZWQyMzk1ZmZm",
   "tracks": [
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
+        "name": "Odio",
+        "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 153732,
+      "name": "Odio",
+      "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
         "name": "Comandante Tanque",
         "url": "https://open.spotify.com/album/5Wpsb0hX19nyz3ygUd6YHX"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 206918,
       "name": "Comandante Tanque",
       "url": "https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
-        "name": "Odio",
-        "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 153732,
-      "name": "Odio",
-      "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Quiero Contarte",
-        "url": "https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 160597,
-      "name": "Quiero Contarte",
-      "url": "https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
         "name": "No Falta Mas Tiempo",
         "url": "https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 166266,
       "name": "No Falta Mas Tiempo",
       "url": "https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
+        "name": "Quiero Contarte",
+        "url": "https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 160597,
+      "name": "Quiero Contarte",
+      "url": "https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay"
     },
     {
       "added_at": "2022-12-02 05:07:52",

@@ -4,7 +4,7 @@
 
 > For a love that hits like a 2000s Romcom
 
-60 songs - 3 hr 46 min - not published yet
+60 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ¡Con las Letras de estas canciones, no querrás soltar el micrófono!
 
-139 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/76kqMpYpVXonZ7kbMZnW0n)
+139 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

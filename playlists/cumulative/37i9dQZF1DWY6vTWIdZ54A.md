@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-268 songs - 15 hr 44 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
+268 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

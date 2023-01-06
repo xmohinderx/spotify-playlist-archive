@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-106 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
+106 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

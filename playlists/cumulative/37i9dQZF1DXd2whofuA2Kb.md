@@ -4,7 +4,7 @@
 
 > Because once you were a hipster, and now you are an indie parent.
 
-171 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/5sxtaGLtxNfp0BcsVlc1FL)
+171 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

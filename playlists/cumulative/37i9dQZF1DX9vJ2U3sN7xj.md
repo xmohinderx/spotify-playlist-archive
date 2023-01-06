@@ -4,7 +4,7 @@
 
 > nos fuimos de fiesta 🎉 <br/>Cover: Black Eyed Peas & Daddy Yankee
 
-217 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/4BeKLwGBQeQiMkVsNWLStS)
+217 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

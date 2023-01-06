@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,604 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,885 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 38 | [The Lucky One](https://open.spotify.com/track/56H7ChmRXYt092T3qwjARD) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/2Qjp6JMCIVm3582SkJMere) | 3:39 |
 | 39 | [Night Nurse](https://open.spotify.com/track/4DQttwipnILl88cru3BRZx) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 4:09 |
 | 40 | [Circle of Peace](https://open.spotify.com/track/7lPYCnj8FdLanbEWnt7BiZ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Rebellion Rises](https://open.spotify.com/album/0Adhu5aZikW2lFQt3JP9f5) | 3:21 |
-| 41 | [Yearn to Burn](https://open.spotify.com/track/3Iny6X0WfTwrAWWlXxa587) | [Geoff Weers](https://open.spotify.com/artist/52zqbHNNh8iRMYAXQHM5r9), [Kash'd Out](https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm), [The Expendables](https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9) | [Yearn to Burn](https://open.spotify.com/album/5PtN6aW3lzkZ1lgLaP5i34) | 2:59 |
+| 41 | [Yearn to Burn](https://open.spotify.com/track/3Iny6X0WfTwrAWWlXxa587) | [Geoff Weers](https://open.spotify.com/artist/52zqbHNNh8iRMYAXQHM5r9), [Kash'd Out](https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm) | [Yearn to Burn](https://open.spotify.com/album/5PtN6aW3lzkZ1lgLaP5i34) | 2:59 |
 | 42 | [People](https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Victory Rock Riddim](https://open.spotify.com/album/2ychB1n3vMLc8t2bOflZTu) | 3:27 |
 | 43 | [Solitude](https://open.spotify.com/track/0k5s9BlyIUaHK1Fa7DVTyY) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:39 |
 | 44 | [I Wanna Live](https://open.spotify.com/track/2myre8mTEQXlkuaa9iAYdT) | [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [Good](https://open.spotify.com/album/6W1TIkWWfuVxEi9tut8CL4) | 3:57 |

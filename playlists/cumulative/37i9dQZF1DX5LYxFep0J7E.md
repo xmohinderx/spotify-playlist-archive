@@ -4,7 +4,7 @@
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-145 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/6vPgqB1nQAvAFN19KxQccP)
+145 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

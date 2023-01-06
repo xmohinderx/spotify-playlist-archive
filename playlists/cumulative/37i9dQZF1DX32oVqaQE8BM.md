@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-477 songs - 20 hr 23 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
+477 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

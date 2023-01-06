@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-183 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/7tEIBkzo4kHvFj89vdjHtz)
+183 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

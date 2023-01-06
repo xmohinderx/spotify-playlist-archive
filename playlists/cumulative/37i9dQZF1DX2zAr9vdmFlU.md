@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-184 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/3N3y8hpOLcf4lHcrRM7Jsi)
+184 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

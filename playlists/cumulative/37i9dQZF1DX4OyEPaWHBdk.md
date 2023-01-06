@@ -4,7 +4,7 @@
 
 > Check out the winners from this year's 2022 MAMA AWARDS!
 
-184 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/7vcRWJxU5Wkswds3wsTczl)
+184 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

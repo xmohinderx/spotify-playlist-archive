@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, chiello\)
 
-171 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+171 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Coi Leray
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Latto & Glorilla
 
-245 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
+246 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Hands Up \(with Monaleo\)](https://open.spotify.com/track/51Zw9bJ0i2KlGbbtlkbieR) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Hands Up \(with Monaleo\)](https://open.spotify.com/album/3Ai7fsWfL2WTv2iYo4bFJR) | 3:04 | 2022-09-02 | 2022-11-19 |
 | [Hate to see it](https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [My Side](https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq) | 2:53 | 2022-07-22 | 2022-08-27 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-09-10 | 2022-10-09 |
-| [HDBG Shemix](https://open.spotify.com/track/2A59foYLjX4iUuvtncE8BZ) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Tweeday](https://open.spotify.com/artist/6X94tEGcPVz8dyYUZqUHWj) | [HDBG Shemix](https://open.spotify.com/album/6ol7utlb56Owco0kPzLhbt) | 2:21 | 2022-09-16 |  |
+| [HDBG Shemix](https://open.spotify.com/track/2A59foYLjX4iUuvtncE8BZ) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Tweeday](https://open.spotify.com/artist/6X94tEGcPVz8dyYUZqUHWj) | [HDBG Shemix](https://open.spotify.com/album/6ol7utlb56Owco0kPzLhbt) | 2:21 | 2022-09-16 | 2023-01-06 |
 | [Hello \(with Saucy Santana\)](https://open.spotify.com/track/2Ib5LOrfWLHrME2dYtMDxp) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Hello \(with Saucy Santana\)](https://open.spotify.com/album/5EnqzpQ9kXinG5Gs93urB9) | 2:48 | 2022-02-04 | 2022-05-28 |
 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 | 2022-12-16 |  |
 | [Here I Come](https://open.spotify.com/track/24JTap3Y2LHb3icc5iIkNj) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Here I Come](https://open.spotify.com/album/5yEN89IGBwa3y0tP2qWAnK) | 1:48 | 2022-11-18 |  |
@@ -120,6 +120,7 @@
 | [I Look Good](https://open.spotify.com/track/09zTVXUcPZvWhIERXChXep) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [I Look Good](https://open.spotify.com/album/1IoA8ma8z6shw1ZAre9rab) | 1:53 | 2022-05-06 | 2022-08-27 |
 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 | 2021-10-29 | 2022-03-12 |
 | [Icy Chain](https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Icy Chain](https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5) | 1:50 | 2021-11-19 | 2022-03-18 |
+| [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-01-06 |  |
 | [In Person \(With OG Parker feat\. Tyga\)](https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:10 | 2021-09-24 | 2022-02-19 |
 | [In Touch](https://open.spotify.com/track/0ZiEInpnUrUD0T3WIFMIW9) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [HITGIRL](https://open.spotify.com/album/2J9CZL9gMrruzFq3SnIlMm) | 2:44 | 2022-05-20 | 2022-06-04 |
 | [Involved](https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Involved](https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv) | 3:00 | 2022-06-24 | 2022-09-17 |

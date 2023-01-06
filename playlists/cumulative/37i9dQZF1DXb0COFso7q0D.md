@@ -4,7 +4,7 @@
 
 > The playlist sin fronteras\. Cover: Fuerza Regida
 
-256 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/0V871kSfrlE3mK4NJAUl7m)
+256 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

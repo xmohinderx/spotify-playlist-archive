@@ -4,7 +4,7 @@
 
 > Music from "GOLDEN KAMUY"! /アニメ「ゴールデンカムイ」の楽曲を1つのプレイリストで。
 
-42 songs - 2 hr 14 min - not published yet
+42 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

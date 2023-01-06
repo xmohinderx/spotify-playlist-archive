@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-24",
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: T\u00e1ssia Reis",
   "name": "Baby Hair",
-  "published_playlist_ids": [
-    "3rwwZkx8eAvX3Q2DGPIL7D"
-  ],
   "tracks": [
     {
       "album": {
@@ -1347,7 +1344,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 165000,
       "name": "N\u00e3o Para",
       "url": "https://open.spotify.com/track/7rMDGuF0Ka1DlRn0J5OwcN"
@@ -2121,6 +2118,28 @@
       "duration_ms": 168795,
       "name": "Vejo o bem",
       "url": "https://open.spotify.com/track/5M37zvK48rOQMOVyc0t36o"
+    },
+    {
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/0vOrt7Tus6OZbegppVeBX5"
+      },
+      "artists": [
+        {
+          "name": "Dourado",
+          "url": "https://open.spotify.com/artist/6A4I0Mwth99UqrnvGQs7W8"
+        },
+        {
+          "name": "Vibox",
+          "url": "https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/1jMCSwd04JhgbqWJqKJSVG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Happy Pop\-Rock Tunes to start your day.
 
-203 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/3j9mauw5Zu7ivIgvltle7G)
+203 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

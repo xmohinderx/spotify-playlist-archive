@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-132 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+132 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

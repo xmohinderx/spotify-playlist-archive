@@ -4,7 +4,7 @@
 
 > Mellow pop favorites from 2022\. Cover: Lauren Spencer Smith \#SpotifyWrapped
 
-115 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/23CdQguTiRUfiEh3jJLc2Q)
+115 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

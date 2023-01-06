@@ -4,7 +4,7 @@
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-55 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/3sThgltbrDH5c6hYx5luxv)
+55 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

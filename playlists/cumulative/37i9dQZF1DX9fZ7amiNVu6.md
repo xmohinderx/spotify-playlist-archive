@@ -4,7 +4,7 @@
 
 > Kick back and enjoy these classic summer songs.
 
-149 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/3C8UVUXmpYsaTxtPSutW5E)
+149 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

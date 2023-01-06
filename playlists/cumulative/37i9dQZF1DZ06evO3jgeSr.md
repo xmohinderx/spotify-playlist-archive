@@ -4,7 +4,7 @@
 
 > This is Labi Siffre\. The essential tracks, all in one playlist.
 
-90 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/2jFekeZPuzaG7F5m50IpwY)
+90 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

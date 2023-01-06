@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-89 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/7p0WalrT4dOYZ5O0obVXyp)
+89 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

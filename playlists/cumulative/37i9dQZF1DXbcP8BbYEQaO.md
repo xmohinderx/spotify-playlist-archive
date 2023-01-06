@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-482 songs - 1 day 3 hr 17 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+482 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

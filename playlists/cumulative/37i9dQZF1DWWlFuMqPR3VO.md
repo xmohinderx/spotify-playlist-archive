@@ -4,7 +4,7 @@
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-54 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/0i8A8Zhxmw4y6l8ycNdq8a)
+54 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

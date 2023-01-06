@@ -4,7 +4,7 @@
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-266 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
+266 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

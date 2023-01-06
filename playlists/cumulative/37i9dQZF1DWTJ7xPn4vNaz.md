@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1970s.
 
-527 songs - 1 day 11 hr 39 min - [published](https://open.spotify.com/playlist/4f5WBgUIVWfE2Rex20Gg2k)
+527 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

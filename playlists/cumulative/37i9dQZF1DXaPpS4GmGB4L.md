@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-116 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/0ZGzl8ZDjgisJi8EmlTZqX)
+116 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,11 +75,11 @@
 | [Move It On Over](https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Essential Recordings: One Bourbon, One Scotch, One Beer](https://open.spotify.com/album/0LkSSubbJHoVeDNh7GEkLi) | 4:20 | 2022-07-08 |  |
 | [Movin' On](https://open.spotify.com/track/1iET7rB2cxydcGvfDz2jGo) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:01 | 2022-11-17 | 2022-11-19 |
 | [Movin' On](https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu) | [Jonathan Tyler](https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU) | [Movin' On](https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6) | 3:47 | 2022-09-23 | 2022-12-13 |
-| [Mustang Sally](https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Very Best of Wilson Pickett](https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH) | 3:07 | 2021-12-20 |  |
+| [Mustang Sally](https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Very Best of Wilson Pickett](https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH) | 3:07 | 2021-12-20 | 2023-01-06 |
 | [My Baby Is a Good 'Un](https://open.spotify.com/track/0lEpe4WQaHcdbH2QI45z42) | [Federico Verteramo](https://open.spotify.com/artist/7arbLF5KNH9SXNCuSYUsYx) | [Rush Hour](https://open.spotify.com/album/4DyiaOUlcWhlxhgWfhMGNY) | 3:15 | 2021-12-20 | 2022-11-19 |
 | [My Baby's a Good 'Un](https://open.spotify.com/track/6oyDM2FMgK1f4Dx1H4hetP) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Double Trouble](https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf) | 2:40 | 2021-12-20 | 2022-06-24 |
 | [Nadine \- Stereo Remix](https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:49 | 2021-12-20 |  |
-| [Old School](https://open.spotify.com/track/54sI3jSzu7Q3xaiU9o2nI7) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [Watch Your Back](https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW) | 3:59 | 2022-05-27 | 2022-11-19 |
+| [Old School](https://open.spotify.com/track/54sI3jSzu7Q3xaiU9o2nI7) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [Watch Your Back](https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW) | 3:59 | 2022-05-27 |  |
 | [Old School Blues](https://open.spotify.com/track/10E1R5NUF4kCYl1o7QosuR) | [Betty Padgett](https://open.spotify.com/artist/5WlOxakcWwJzjXE7AIt7He) | [Ridin' with the Blues](https://open.spotify.com/album/0lD5BukyzH1hadhyhdmqlT) | 4:28 | 2022-01-07 | 2022-07-03 |
 | [One Way Out \- Mono Version](https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:48 | 2021-12-20 |  |
 | [Ooh Poo Pah Do \(Pt\. 1\)](https://open.spotify.com/track/02v6Ie89lZ4bArlzp9MKzi) | [Jessie Hill](https://open.spotify.com/artist/0LeecN3yVUDsHFFzrTLp5v) | [Ooh Poo Pah Do](https://open.spotify.com/album/0nPsjgUeJCi31GD8yJggXL) | 2:17 | 2022-04-01 | 2022-11-19 |

@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr?si=nR\-3\-Q83TE6mPeI4jcvvnQ"> Kwesta </a> and <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=bm3v1IzvQouZl2R52zdVcA"> Kabza De Small </a>
 
-145 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
+145 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

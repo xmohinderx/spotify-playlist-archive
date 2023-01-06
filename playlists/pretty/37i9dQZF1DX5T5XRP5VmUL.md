@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,169 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,071 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 58 | [Count Your Blessings Instead Of Sheep](https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:40 |
 | 59 | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24) | 3:27 |
 | 60 | [Away In A Manger](https://open.spotify.com/track/5eicQ92kEMYKjfpb7jWWlR) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Wonderland](https://open.spotify.com/album/3RumoLPCjQPosp5mPiBl2V) | 2:26 |
-| 61 | [Sleigh My Name \(Remix\)](https://open.spotify.com/track/1sIhm5NsxNEcuNIm4RVjWD) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO), [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sleigh My Name \(Remix\)](https://open.spotify.com/album/2EGGSpoN4WAGyojOzDwg0H) | 3:35 |
-| 62 | [My Favorite Things](https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [My Favorite Things](https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k) | 2:55 |
+| 61 | [My Favorite Things](https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [My Favorite Things](https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k) | 2:55 |
+| 62 | [Sleigh My Name \(Remix\)](https://open.spotify.com/track/1sIhm5NsxNEcuNIm4RVjWD) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO), [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sleigh My Name \(Remix\)](https://open.spotify.com/album/2EGGSpoN4WAGyojOzDwg0H) | 3:35 |
 | 63 | [Please Come Home For Christmas](https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Please Come Home For Christmas](https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr) | 2:59 |
 | 64 | [It Snowed \- Remastered](https://open.spotify.com/track/7eRH77hH1hT3jMZxfaYT38) | [Meaghan Smith](https://open.spotify.com/artist/47QqI0kuVSCrV0KVRBZ3km) | [It Snowed](https://open.spotify.com/album/5d7XWrnwFwMMHcvOtdSlU9) | 3:44 |
 | 65 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 70 | [My Christmas List](https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [My Christmas List](https://open.spotify.com/album/3VpSv9WqlJ2xwnsDcMgINy) | 3:27 |
 | 71 | [Blue Christmas](https://open.spotify.com/track/3euLun3X5Gg4WQ3o0bmphM) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Blue Christmas](https://open.spotify.com/album/0gCud9oDVuzmBRpVLg5EUG) | 2:06 |
 | 72 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 |
-| 73 | [Christmas Is Hittin' Me Different](https://open.spotify.com/track/1MjT5Ye12aNXQDyJB4aBHX) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Christmas Is Hittin' Me Different](https://open.spotify.com/album/4dU3Oj6Z49rIyJzEpU5O80) | 3:20 |
-| 74 | [The First Noel](https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [River City Christmas](https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg) | 3:39 |
+| 73 | [The First Noel](https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [River City Christmas](https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg) | 3:39 |
+| 74 | [Christmas Is Hittin' Me Different](https://open.spotify.com/track/1MjT5Ye12aNXQDyJB4aBHX) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Christmas Is Hittin' Me Different](https://open.spotify.com/album/4dU3Oj6Z49rIyJzEpU5O80) | 3:20 |
 | 75 | [Christmas In A Cage](https://open.spotify.com/track/1gf6ixq1F0sZkoc9Kvaray) | [Fur Trade](https://open.spotify.com/artist/3Wrg4k4AIvnUbg9103fxkW) | [Christmas In A Cage](https://open.spotify.com/album/37ULvZCm8qn0gEEGA3Wytp) | 4:02 |
 | 76 | [Can't Wait Till Christmas](https://open.spotify.com/track/5EFDul5zvAw4yI3SV38cbP) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Can't Wait Till Christmas](https://open.spotify.com/album/2P5W3sdpuzWJ7C9dvHjiQA) | 3:41 |
 | 77 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/4WxKGeo6ghHDgyhwW9qZF0) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [They Don’t Make Them Like That Anymore](https://open.spotify.com/album/4HtQJ64lhKr84L5LRHVVEt) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/track/0AFOsHOLzZvUY8IqnhfRvA) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/album/1U04rSEjf2f4tMvOpvKacK) | 3:51 |
 | 100 | [Tinseltown](https://open.spotify.com/track/1L6bTqfeKD3VRyJyoteUc9) | [Jimmy Rankin](https://open.spotify.com/artist/2OQPlCSsa0Hs0V0oMT5YdU) | [Tinsel Town](https://open.spotify.com/album/5geLUoFqgN4GpktaxO7zUf) | 3:44 |
 
-Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDgzYjg4NmIyZThiZWQxZDRjZjMzYzM0NmMwNTJjMDZh`
+Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMGU3OGYwNWEyMDljZDJjOGZhNDY4MGVhNDk2YmRmMzE4`

@@ -4,7 +4,7 @@
 
 > Romance antigüito en voz de tus artistas pop con Mel Muñiz en portada.
 
-231 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/4BSRRbWHbtCycrKZ946Plx)
+231 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

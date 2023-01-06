@@ -4,7 +4,7 @@
 
 > The soundtrack to snuggling on the sofa, scrolling.
 
-126 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/3gZOIKvsBM5WJ1qvKLnFBv)
+126 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

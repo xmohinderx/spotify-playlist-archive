@@ -4,7 +4,7 @@
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-75 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/6xtCgOcwTGsbApYVo7bgUn)
+75 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

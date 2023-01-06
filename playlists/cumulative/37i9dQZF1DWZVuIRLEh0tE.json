@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-22",
   "description": "El sonido urbano de RD, pa' lo t\u00edgueres de alta gama. Cover: El Alfa",
   "name": "Flow Dominicano",
-  "published_playlist_ids": [
-    "0p7l69bBTRQySKVeTYIMy0"
-  ],
   "tracks": [
     {
       "album": {
@@ -273,7 +270,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 139672,
       "name": "Bobo - Remix",
       "url": "https://open.spotify.com/track/27MRm3ERqaasIuqqONCgep"
@@ -567,10 +564,32 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 140571,
       "name": "Cuca",
       "url": "https://open.spotify.com/track/185juQ66htkJV1aNzeUBUw"
+    },
+    {
+      "album": {
+        "name": "Davirito",
+        "url": "https://open.spotify.com/album/2ZKxqH2FMNtMEQQGo0tKkP"
+      },
+      "artists": [
+        {
+          "name": "El Domi Blanco",
+          "url": "https://open.spotify.com/artist/2lYYTh54aFc39yR3J8rcZ0"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Davirito",
+      "url": "https://open.spotify.com/track/5aB65kxjdKGNBTVcZKMNvF"
     },
     {
       "album": {
@@ -585,7 +604,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 189628,
       "name": "De La Mata",
       "url": "https://open.spotify.com/track/7BqEX4un0WgjEPuvEi6qIJ"
@@ -673,7 +692,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 161130,
       "name": "Desacatate",
       "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
@@ -1014,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Gass Pure",
+        "url": "https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137586,
+      "name": "Gass Pure",
+      "url": "https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK"
+    },
+    {
+      "album": {
         "name": "Guanguan",
         "url": "https://open.spotify.com/album/0vPaYmSaXflyKSRqcOEwKc"
       },
@@ -1110,6 +1147,28 @@
     },
     {
       "album": {
+        "name": "Hay Santo",
+        "url": "https://open.spotify.com/album/2jlvqgwdqIpqpuYGv1JdJ2"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Jonatan Burlon",
+          "url": "https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207631,
+      "name": "Hay Santo",
+      "url": "https://open.spotify.com/track/1MUJMUO1dywCGUsYYOUFnH"
+    },
+    {
+      "album": {
         "name": "Hoyo",
         "url": "https://open.spotify.com/album/2ak2UHWueLjmL4TtUIsk24"
       },
@@ -1183,10 +1242,36 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 159906,
       "name": "LA 9",
       "url": "https://open.spotify.com/track/6Jt51CKJnGipV8clWfvC9f"
+    },
+    {
+      "album": {
+        "name": "La Funda",
+        "url": "https://open.spotify.com/album/3E80rUf96PpHOsSplirX8k"
+      },
+      "artists": [
+        {
+          "name": "La Manta",
+          "url": "https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV"
+        },
+        {
+          "name": "Skary Movie",
+          "url": "https://open.spotify.com/artist/7A4Vp8uK2NvGXmNSNMvULc"
+        },
+        {
+          "name": "D\u00b4Flow Aka La Maldad",
+          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "La Funda",
+      "url": "https://open.spotify.com/track/3AqPhTjceCb24WkWUhAQdy"
     },
     {
       "album": {
@@ -1279,10 +1364,32 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 359941,
       "name": "Live, Vol. 1",
       "url": "https://open.spotify.com/track/5bxEXOaf4biN720159ryJz"
+    },
+    {
+      "album": {
+        "name": "Lo Rafaguie",
+        "url": "https://open.spotify.com/album/0PNfohwBm4XqbY83CA39BV"
+      },
+      "artists": [
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141372,
+      "name": "Lo Rafaguie",
+      "url": "https://open.spotify.com/track/6oB33MiHmxDTMVLoPX5dv7"
     },
     {
       "album": {
@@ -2280,6 +2387,28 @@
     },
     {
       "album": {
+        "name": "Tan Quedao",
+        "url": "https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q"
+      },
+      "artists": [
+        {
+          "name": "Briante",
+          "url": "https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4"
+        },
+        {
+          "name": "Onguito Wa",
+          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142372,
+      "name": "Tan Quedao",
+      "url": "https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx"
+    },
+    {
+      "album": {
         "name": "Tiembla",
         "url": "https://open.spotify.com/album/6UPZluwCWXaysCKvksMikq"
       },
@@ -2448,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "Un Chin",
+        "url": "https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145646,
+      "name": "Un Chin",
+      "url": "https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI"
+    },
+    {
+      "album": {
         "name": "Un Uber",
         "url": "https://open.spotify.com/album/4UtReDihY2fUNxrEfKgOMt"
       },
@@ -2489,7 +2636,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 192000,
       "name": "Vaina Cara",
       "url": "https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h"

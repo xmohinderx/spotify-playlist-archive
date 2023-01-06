@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-240 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
+241 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2022-02-17 |  |
 | [Chopped Coriander](https://open.spotify.com/track/2ebCREZWTZhsP1l2Cxdgy9) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Chopped Coriander](https://open.spotify.com/album/3pZTq5HX11D5D2OazxpZG9) | 2:03 | 2022-06-02 | 2022-11-20 |
 | [Chris Dave](https://open.spotify.com/track/1XWnqOmEFGUplMu4le53rp) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Notes With Attachments](https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr) | 3:22 | 2022-02-17 | 2022-04-29 |
-| [City Dreams](https://open.spotify.com/track/1npn7uPiSxUr5oKJIkGq04) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Phøn](https://open.spotify.com/artist/6v2EgPbnVH1tpRh4GXAejH), [Javier Santiago](https://open.spotify.com/artist/3L3oWS9VsgTRBF7HFHdOEz), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [City Dreams](https://open.spotify.com/album/6FtVuIjXMLrskjf3xZfCMv) | 4:58 | 2022-02-17 |  |
+| [City Dreams](https://open.spotify.com/track/1npn7uPiSxUr5oKJIkGq04) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Phøn](https://open.spotify.com/artist/6v2EgPbnVH1tpRh4GXAejH), [Javier Santiago](https://open.spotify.com/artist/3L3oWS9VsgTRBF7HFHdOEz), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [City Dreams](https://open.spotify.com/album/6FtVuIjXMLrskjf3xZfCMv) | 4:58 | 2022-02-17 | 2023-01-06 |
 | [Coasting](https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 4:49 | 2022-02-17 |  |
 | [Come Again](https://open.spotify.com/track/33b5uoFVzbQDe9vCmJu45J) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Come Again](https://open.spotify.com/album/6CoPJwN6vjxLbi7tA0Fmdu) | 3:23 | 2022-06-02 |  |
 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 | 2022-02-17 |  |
@@ -174,6 +174,7 @@
 | [Silver Lining](https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/5kR7t1B8wTKFKi6kfyKyiv) | 3:42 | 2022-02-17 | 2022-11-02 |
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2022-11-10 |  |
 | [Siren Call](https://open.spotify.com/track/41cDyLUieQjGRsw9ezlECk) | [Toine Thys](https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU), [GURU.FARM](https://open.spotify.com/artist/7MB2t9SLvpvvbf0NahGVZg) | [Guédé](https://open.spotify.com/album/5uprZ4VBkK8SVYReHykGvZ) | 4:59 | 2022-02-17 | 2022-12-13 |
+| [Sit and Think](https://open.spotify.com/track/5JlXZM6sPT5KJWz70Gd9uo) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Sit and Think](https://open.spotify.com/album/5MLFlxyn74kwSMHLjn1Xcg) | 2:11 | 2023-01-05 |  |
 | [SMiLE](https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [SMiLE](https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk) | 3:11 | 2022-04-28 | 2022-05-25 |
 | [So What](https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Cool Cats Lofi](https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3) | [So What](https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C) | 2:09 | 2022-03-11 | 2022-06-03 |
 | [Somewhere Different](https://open.spotify.com/track/1YEgbaYU0j5H9QiiQ1kTf8) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Somewhere Different](https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6) | 5:21 | 2022-02-17 | 2022-09-09 |

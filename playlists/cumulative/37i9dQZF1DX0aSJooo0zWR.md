@@ -2,9 +2,9 @@
 
 ### [Fusion Fest](https://open.spotify.com/playlist/37i9dQZF1DX0aSJooo0zWR)
 
-> Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea & Nino Josele
+> Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-136 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
+137 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Decoration \- Alternative Version](https://open.spotify.com/track/2fQiesYvRRvU26T9yskrQd) | [Varre Vartiainen](https://open.spotify.com/artist/2XhdWDg4TZrfKrGb3dg3QG) | [Almost Standards \(Doctoral Edition\)](https://open.spotify.com/album/1ptiBUZkgEzYmt3nElJbdb) | 6:34 | 2022-04-29 | 2022-07-28 |
 | [Dolemite](https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Tore Down House](https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb) | 5:52 | 2021-02-12 |  |
 | [Dream Chaser](https://open.spotify.com/track/0vdB6LzEsOVBbtGZVK6TSM) | [Nikola Bankov](https://open.spotify.com/artist/1MYTUphUheZ7NGFaqk4ufd), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Dream Chaser](https://open.spotify.com/album/6do2ff8V2y5SJUpbKAlMzD) | 5:33 | 2022-04-08 | 2022-10-22 |
-| [Eastern Kaleidoscope](https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz) | [Usein Bekirov](https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y), [Max Malyshev](https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Eastern Kaleidoscope](https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI) | 6:24 | 2021-04-30 |  |
+| [Eastern Kaleidoscope](https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz) | [Usein Bekirov](https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y), [Max Malyshev](https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Eastern Kaleidoscope](https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI) | 6:24 | 2021-04-30 | 2023-01-06 |
 | [Escher Sketch \(A Tale Of Two Rhythms\)](https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Now You See It ..\. \(Now You Don't\)](https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo) | 5:26 | 2021-02-12 |  |
 | [Even Song](https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Jackets XL](https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u) | 8:23 | 2021-02-12 |  |
 | [Even Song](https://open.spotify.com/track/54nbMd4MHkfhCxJ425ANJi) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Even Song](https://open.spotify.com/album/1M43rju5xutOMHXO2jj6BP) | 8:23 | 2021-02-12 | 2022-07-29 |
@@ -72,6 +72,7 @@
 | [JosHUA!](https://open.spotify.com/track/2EawGMU71NkLKgBMau09qE) | [Tangible Jazz Dreams](https://open.spotify.com/artist/6uFzhLZ9nAOJCSWT0RpFPN) | [Meltdown](https://open.spotify.com/album/5pCN9sKpemavxFuIqV1oXI) | 7:03 | 2022-04-01 | 2022-07-29 |
 | [K4Y](https://open.spotify.com/track/6lHAH1CHfFDO2vjahZNqFJ) | [Daniel Weiss](https://open.spotify.com/artist/1C1dIy1LMvY2twCVueCoCP), [Yaniv Taubenhouse](https://open.spotify.com/artist/5EmzSgnKdfQh0wEZ5aiGLo) | [K4Y](https://open.spotify.com/album/705VGnP2jRgbmW1cHKDhcD) | 8:29 | 2021-02-12 | 2022-07-29 |
 | [Keisha Billip](https://open.spotify.com/track/0dPq960kuzrOCOTfj4M7Su) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Keisha Billip](https://open.spotify.com/album/70sAqcPrrvuTLywNpCJbdn) | 4:22 | 2021-02-12 | 2022-07-29 |
+| [Layers](https://open.spotify.com/track/33x06YtLX7JGoaxJqVKRZL) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Layers](https://open.spotify.com/album/61HTeENwsrXkQywUJBoE97) | 2:44 | 2023-01-06 |  |
 | [Legends](https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge) | [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [A Present For The Future](https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5) | 9:11 | 2021-02-12 |  |
 | [Leimert Day](https://open.spotify.com/track/4HrR8RwNBqEUC45kYHKKaL) | [Katalyst](https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM) | [Leimert Day](https://open.spotify.com/album/30LIb1TdJBCtWgkGld79rU) | 3:54 | 2021-02-12 | 2022-07-29 |
 | [Level One](https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO) | [The Eleventh House](https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi) | [Level One](https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi) | 3:02 | 2021-02-12 | 2022-12-06 |

@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-203 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
+205 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-11 |  |
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2022-11-17 |  |
 | [Here´s That Rainy Day](https://open.spotify.com/track/2bd8JjaPL4XrbgGyWPqFms) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:54 | 2021-12-14 |  |
-| [Heyoke](https://open.spotify.com/track/00dxvvVllByEVaCnkLR1RL) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Heyoke](https://open.spotify.com/album/1qugT0donvhBonOVJIUjdy) | 4:09 | 2022-04-26 |  |
+| [Heyoke](https://open.spotify.com/track/00dxvvVllByEVaCnkLR1RL) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Heyoke](https://open.spotify.com/album/1qugT0donvhBonOVJIUjdy) | 4:09 | 2022-04-26 | 2023-01-06 |
 | [Hill](https://open.spotify.com/track/6GFQLWVOpzCZIsvVk9jWQB) | [The Bourbon Trio](https://open.spotify.com/artist/6NwBJDTD73WjyAXoepnK4z) | [Head Start](https://open.spotify.com/album/1Nx0LA5GUp04wJU8tBlCQY) | 6:30 | 2021-12-14 | 2022-04-27 |
 | [Hirte](https://open.spotify.com/track/44GnQP1rFHn2BC7NJsQ183) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm) | [Und Zarathustra Tanzte](https://open.spotify.com/album/0ZlritXzGMoiRAlFE9hU7i) | 5:23 | 2021-12-14 | 2022-10-28 |
 | [How My Heart Sings](https://open.spotify.com/track/5liCciLu82rWull0PwMxBj) | [Dylan Lytle](https://open.spotify.com/artist/0mmQFz47dByQgYVEMqC8fF) | [How My Heart Sings](https://open.spotify.com/album/30wPThO6rsgeDJgvi17ZpP) | 3:05 | 2021-12-14 | 2022-06-01 |
@@ -98,7 +98,7 @@
 | [Julia](https://open.spotify.com/track/6hTEfMxYFeUqiAJ5jIX7Y5) | [The Stilltones](https://open.spotify.com/artist/4ggqOcGiYxjjAaKhYzXUzR) | [Julia](https://open.spotify.com/album/3EghppHRylXFFIEV4lzctR) | 3:52 | 2021-12-14 |  |
 | [Kogarashi](https://open.spotify.com/track/358BhQYtag5CMI3vx58ZKz) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Kogarashi](https://open.spotify.com/album/6MZUKmpkrJZbLgsTJWrcb2) | 4:23 | 2022-08-30 |  |
 | [La mer](https://open.spotify.com/track/2kdabnudbCMzHPEx81fjOA) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [La mer](https://open.spotify.com/album/25kANqFzLBCAwzARuf48vV) | 3:43 | 2022-08-11 |  |
-| [Lake Natron](https://open.spotify.com/track/5SgPrYkFIr1WNd80A4BxfK) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Lake Natron](https://open.spotify.com/album/4aA4fD7p4ZRgUpHwGYhSOz) | 3:44 | 2022-03-17 |  |
+| [Lake Natron](https://open.spotify.com/track/5SgPrYkFIr1WNd80A4BxfK) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Lake Natron](https://open.spotify.com/album/4aA4fD7p4ZRgUpHwGYhSOz) | 3:44 | 2022-03-17 | 2023-01-06 |
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2021-12-14 |  |
 | [Late Night Walk](https://open.spotify.com/track/2uSdRkfWEUU7kE9sDceU70) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:47 | 2021-12-14 |  |
 | [Laura](https://open.spotify.com/track/6nXrnq0lJpbowo1P84J2t7) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 4:50 | 2021-12-14 | 2022-08-18 |
@@ -145,6 +145,7 @@
 | [Search For Peace](https://open.spotify.com/track/41pWty3Q37WlXCcXW4KfOA) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Search For Peace](https://open.spotify.com/album/0mUxdj9cQf9wZMOr5Ordnc) | 5:06 | 2022-12-23 |  |
 | [Searching](https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:28 | 2022-06-14 |  |
 | [Serenade In Blue](https://open.spotify.com/track/29nKWbQUYATHKzOGss2ssj) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Landslide](https://open.spotify.com/album/1cZifNyhDjtYokRPwLkqAB) | 5:02 | 2022-02-03 | 2022-06-30 |
+| [She Steps Into The Frame](https://open.spotify.com/track/5iShMgXWNiRUHc1knNf6QI) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [She Steps Into The Frame](https://open.spotify.com/album/63GO4Q9IV55ana3r02rsWD) | 2:21 | 2023-01-05 |  |
 | [Shinbashi](https://open.spotify.com/track/38ZDhtysx579bB9fvo9veR) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Shinbashi](https://open.spotify.com/album/6NeDuoWZG13tBB2xxb7v4N) | 3:04 | 2022-08-11 |  |
 | [Signs in the Wind](https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Signs in the Wind](https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP) | 2:16 | 2022-06-29 |  |
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2021-12-14 |  |
@@ -165,6 +166,7 @@
 | [Sorrowful](https://open.spotify.com/track/3Kg8e71569ZAoUwXYugyej) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Sorrowful](https://open.spotify.com/album/7HLOybEIWiqCiEZNVCP0vk) | 3:28 | 2022-10-27 |  |
 | [Spring Is Here](https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 5:09 | 2021-12-14 | 2022-09-09 |
 | [Stella by Starlight](https://open.spotify.com/track/3TVpiMoI86chM88b0I712D) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [Tea for Two](https://open.spotify.com/album/2ogUu6iYKmNTdddXXHBwp5) | 5:02 | 2021-12-14 |  |
+| [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-05 |  |
 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 | 2021-12-14 |  |
 | [Stop Look Desire](https://open.spotify.com/track/1Tkj4AH4GndygWAUMJOMa2) | [Ellie & The Bunch](https://open.spotify.com/artist/3KgAqkM5fxFxW17aBtZkBD) | [Stop Look Desire](https://open.spotify.com/album/0KolRqxySLkvZWxnBhETRX) | 3:07 | 2021-12-14 | 2022-05-04 |
 | [Sun Souls](https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA) | [Tosh Rhann Band](https://open.spotify.com/artist/0VO3Qw7YVwTbXhBx6neI0e) | [Of Laughter and Warmth](https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc) | 2:38 | 2022-05-03 |  |

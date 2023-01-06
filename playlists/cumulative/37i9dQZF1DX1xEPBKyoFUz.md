@@ -4,7 +4,7 @@
 
 > The return of Kratos and Atreus has arrived! Listen to their playlist while playing God of War Ragnarök \(rated "M" for "mature".\)
 
-312 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/0baera3LhxgyRhDcpAQcGW)
+312 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

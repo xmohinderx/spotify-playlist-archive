@@ -4,7 +4,7 @@
 
 > Where it all started\. Cover: Mase
 
-167 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/3itAObRKbEsL0P6iSCHXHF)
+167 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

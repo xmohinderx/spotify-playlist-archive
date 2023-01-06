@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-161 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/0ndLkmHW7tKwbEqiyvylLh)
+161 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

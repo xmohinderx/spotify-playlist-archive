@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-373 songs - 1 day 2 hr 37 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
+373 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [66 Exeter Street](https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56) | [Traitor](https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM) | [Exiled To The Surface](https://open.spotify.com/album/0tkgyipQ3jjwI2UVGVDDuT) | 4:09 | 2022-07-08 | 2022-08-09 |
 | [666 \- World Divided](https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [666 \- World Divided](https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY) | 4:44 | 2021-12-17 |  |
 | [666Teen](https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Speed Between the Lines](https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA) | 2:56 | 2021-12-17 |  |
-| [A Bitter Pill](https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb) | [Razor](https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B) | [A Bitter Pill](https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr) | 2:47 | 2022-09-09 |  |
+| [A Bitter Pill](https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb) | [Razor](https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B) | [A Bitter Pill](https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr) | 2:47 | 2022-09-09 | 2023-01-06 |
 | [A Lesson in Violence](https://open.spotify.com/track/7INHJI8QevyNUri2JKinLO) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:48 | 2022-07-13 | 2022-07-22 |
 | [A New Land](https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Resurrection Day](https://open.spotify.com/album/4c91poPTEELsFj0yUPhoWl) | 3:50 | 2021-12-17 | 2022-12-16 |
 | [A Song and a Promise](https://open.spotify.com/track/5s84j81naFIV5VKH7OafOS) | [Crim](https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2), [Olga from the Toy Dolls](https://open.spotify.com/artist/4vsRDn0PxIibLIM3yz52hL) | [A Song and a Promise](https://open.spotify.com/album/71a9u0aGd3xp7OghvvRKOG) | 3:29 | 2022-02-11 | 2022-02-16 |
@@ -227,7 +227,7 @@
 | [Ninja Untouchables/Untouchable Glory](https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Untouchable Glory](https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr) | 2:46 | 2022-07-13 |  |
 | [No Absolution](https://open.spotify.com/track/3TG250zay6SvwFwQpEqnEr) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/5KxFFFGTWgff5YGl6EfOsN) | 4:09 | 2021-12-17 | 2022-08-21 |
 | [No Absolution](https://open.spotify.com/track/7DDtR2AfAcLGtSDJ0BQbhU) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs) | 4:10 | 2022-07-13 |  |
-| [No Place for Disgrace](https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [No Place For Disgrace](https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e) | 6:13 | 2022-07-13 | 2023-01-05 |
+| [No Place for Disgrace](https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [No Place For Disgrace](https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e) | 6:13 | 2022-07-13 |  |
 | [Non\-Existent](https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d) | [Fueled By Fire](https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx) | [Non\-Existent](https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr) | 3:03 | 2022-04-01 | 2022-07-03 |
 | [Nuke The Cross](https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg) | [Toxic Holocaust](https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0) | [An Overdose of Death...](https://open.spotify.com/album/5UfQpdGMJJ4dfhk7BnHiEU) | 2:47 | 2021-12-17 |  |
 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 | 2022-08-26 |  |

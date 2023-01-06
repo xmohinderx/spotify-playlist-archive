@@ -4,7 +4,7 @@
 
 > The perfect uptempo tracks for your Party.<br/>Cover : Nithiin
 
-96 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/78b2rp1nXUaWMPRj1Tflck)
+96 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

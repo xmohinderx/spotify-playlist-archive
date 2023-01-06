@@ -4,7 +4,7 @@
 
 > Pop hits to keep your workout fresh.
 
-461 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/0oNDHtHD4l8OJ21wgmsuip)
+461 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

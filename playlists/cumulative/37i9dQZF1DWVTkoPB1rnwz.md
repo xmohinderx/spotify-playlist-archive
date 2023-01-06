@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-278 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+280 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Four Glass Steps](https://open.spotify.com/track/34Jlc2jWDf7CogIa8driCU) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Four Glass Steps](https://open.spotify.com/album/3mfGzMbRtYHYt2eU9BblDX) | 4:14 | 2021-10-16 | 2022-07-27 |
 | [Glass Ripples](https://open.spotify.com/track/54pqtuZ9QEVKpQreLP1mh6) | [Himalayan Beach Ensemble](https://open.spotify.com/artist/2mbmAHLUOR1DnyW3i2fu8o) | [Glass Ripples](https://open.spotify.com/album/0RkuycEp2BX9cmfoWQHrxT) | 2:29 | 2022-01-07 | 2022-07-29 |
 | [Glint](https://open.spotify.com/track/23ZVZvsAz6KLgeQQm3dGL0) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Glint](https://open.spotify.com/album/02ngGbggExsPeN8dzZbYmr) | 2:46 | 2022-08-19 | 2022-09-26 |
+| [gonzo](https://open.spotify.com/track/7A9IQ96Jf62hhkbyuy4XVM) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [gonzo](https://open.spotify.com/album/5z0mo5pwyzkGLQucmbtccM) | 2:08 | 2023-01-05 |  |
 | [gorge](https://open.spotify.com/track/1DryFlz9GE3GM1FneruABy) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [gorge](https://open.spotify.com/album/5q4UKuEjVFpzZZhGuPWQQ2) | 3:01 | 2021-10-16 | 2022-07-29 |
 | [Gorge](https://open.spotify.com/track/21NWvfC00qCfHdaMIb7Cqq) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Gorge](https://open.spotify.com/album/2HkEQUkxDl5AkzG4RPJ6wr) | 3:01 | 2021-10-16 |  |
 | [greenery](https://open.spotify.com/track/7mv3ZNeyUFk7xuRehUrPZl) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [greenery](https://open.spotify.com/album/4fXZgmm9p3wOM1myYysXt6) | 1:52 | 2021-10-16 | 2022-06-29 |
@@ -141,7 +142,7 @@
 | [Le danseur dans la boîte](https://open.spotify.com/track/0vGbsSDK7St7mNqbs19nUC) | [Isaac Symonds](https://open.spotify.com/artist/7mvHnjqntcNNecYAHHbdM2), [Yaehsun](https://open.spotify.com/artist/2EzEflueqj8hSyiCNSTxbB), [Camille Paquette\-Roy](https://open.spotify.com/artist/1pVlFqIC1hmzaUf9UPIpFZ) | [Natura Sophia](https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq) | 4:58 | 2021-10-16 | 2022-07-29 |
 | [Life Tools](https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Life Tools](https://open.spotify.com/album/38hMfjKQMQTUYpbtku1KRK) | 1:44 | 2021-10-16 | 2022-08-09 |
 | [Light](https://open.spotify.com/track/3is4aHMSpsFnrDx0btsuEW) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/7zCzUUixLiKDCNcoHfVkd0) | 1:50 | 2021-10-16 | 2022-11-19 |
-| [Light](https://open.spotify.com/track/4oFJKYQ32w0jIMXwYBWg4i) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/2cIwdGl2fnwNFqnpQlKdem) | 1:50 | 2021-10-16 |  |
+| [Light](https://open.spotify.com/track/4oFJKYQ32w0jIMXwYBWg4i) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/2cIwdGl2fnwNFqnpQlKdem) | 1:50 | 2021-10-16 | 2023-01-06 |
 | [Lilac](https://open.spotify.com/track/0Ymu1QBwxsXpwsLdxWBRtA) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/4lqw1wICfF7tNfVjj3TPgX) | 2:40 | 2021-10-16 | 2022-07-29 |
 | [Lilac](https://open.spotify.com/track/1o6NbOV0dqkjeaXFiTMJOO) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/7s9B2fGXMeIgYEnoHxrzWN) | 2:40 | 2021-10-16 |  |
 | [Lithe](https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Blizz](https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9) | 5:28 | 2022-11-25 |  |
@@ -213,7 +214,7 @@
 | [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 | 2022-11-25 |  |
 | [Silent, Again](https://open.spotify.com/track/1y2VUlqdTglajvnqfWlTNr) | [bonsai2004](https://open.spotify.com/artist/4dadbZwGXdRXe17zBigfoO) | [Silent, Again](https://open.spotify.com/album/61wpNCObeDn2KQimfYGtR4) | 2:04 | 2021-10-16 | 2022-07-27 |
 | [simbiosis](https://open.spotify.com/track/50oogoHC2e9HDCFxw1oB7G) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [simbiosis](https://open.spotify.com/album/3RK6NpoByT63TvTZO1k9RY) | 3:36 | 2021-10-16 | 2022-07-29 |
-| [Sinharaja Rain Forest](https://open.spotify.com/track/0Mw0pFOPi8bl3XfyifwUvw) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Sinharaja Rain Forest](https://open.spotify.com/album/0cW23AQ5uuPAdP5B7RycMY) | 2:09 | 2021-10-16 |  |
+| [Sinharaja Rain Forest](https://open.spotify.com/track/0Mw0pFOPi8bl3XfyifwUvw) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Sinharaja Rain Forest](https://open.spotify.com/album/0cW23AQ5uuPAdP5B7RycMY) | 2:09 | 2021-10-16 | 2023-01-06 |
 | [Sinú](https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6) | [Nodes](https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv) | [Pantano Lontano](https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE) | 5:41 | 2021-10-16 |  |
 | [Sistine \(Plucks\)](https://open.spotify.com/track/6HmtbuPgCApFCDKPmciwAq) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:29 | 2021-10-16 | 2022-07-22 |
 | [Sisu](https://open.spotify.com/track/3uQ33vLHvYhUC5EJvd4RuK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisu](https://open.spotify.com/album/5fDif78W0imKj7ZVnsEjGP) | 2:33 | 2021-10-16 |  |
@@ -230,6 +231,7 @@
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2021-10-16 |  |
 | [Street Talk](https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv) | 3:49 | 2021-10-16 | 2022-07-27 |
 | [Study of a Bull](https://open.spotify.com/track/7r4YdYRQNVZMd2M37DVQhu) | [Rushab Nandha](https://open.spotify.com/artist/08JY95hQcpOet2v3lYRoaA) | [Study of a Bull](https://open.spotify.com/album/24Us6fvwBE6xFuGi7u7twU) | 4:22 | 2022-09-30 | 2022-11-01 |
+| [submerge](https://open.spotify.com/track/0jzQF9trHn9PvZcJvuXKDm) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [submerge](https://open.spotify.com/album/7DnxnmMo2zzENpShlvxTzk) | 1:39 | 2023-01-06 |  |
 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 | 2021-10-16 |  |
 | [summer \(shade\)](https://open.spotify.com/track/05JBitld3kGDUrkeZ0hQmg) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [Warmth](https://open.spotify.com/album/5PlR2KmCcUMqsMaVkYFufQ) | 2:15 | 2021-10-16 | 2022-12-21 |
 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 | 2021-10-16 |  |

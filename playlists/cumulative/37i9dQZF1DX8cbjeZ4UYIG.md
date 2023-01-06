@@ -4,7 +4,7 @@
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-111 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/12kc3aOEIzE3ZnCYE8brGK)
+111 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

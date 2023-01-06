@@ -4,7 +4,7 @@
 
 > 😔
 
-157 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/3dzz2B4jd4mVgCeuv2nOYw)
+157 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Super mega hits of 2022! Foto: Harry Styles
 
-105 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/6sR6xjejeStumWPTXcOrfM)
+105 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

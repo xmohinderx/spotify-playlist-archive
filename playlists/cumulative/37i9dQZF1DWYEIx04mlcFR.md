@@ -4,7 +4,7 @@
 
 > lo mejor de la nueva ola de artistas con Kevin Kaarl en portada\. 🌊✨
 
-256 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+256 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

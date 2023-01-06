@@ -4,7 +4,7 @@
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-81 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/5j6zeQgUYH1nqWVzzE7VBW)
+81 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

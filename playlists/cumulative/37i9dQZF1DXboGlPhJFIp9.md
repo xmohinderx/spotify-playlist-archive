@@ -4,7 +4,7 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-112 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+112 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

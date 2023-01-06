@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-168 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/5m1bjYNR2pVMWBRWkLrWBe)
+168 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-634 songs - 1 day 7 hr 36 min - [published](https://open.spotify.com/playlist/5G465BVDSMcRmryY2Z1rr5)
+634 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

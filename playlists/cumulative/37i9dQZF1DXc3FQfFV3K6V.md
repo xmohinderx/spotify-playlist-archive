@@ -4,7 +4,7 @@
 
 > Acoustic versions of well\-known songs.
 
-207 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/2gZT7bXJYkak1F0H80ajLr)
+207 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

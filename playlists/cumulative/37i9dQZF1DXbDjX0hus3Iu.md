@@ -4,7 +4,7 @@
 
 > The early pioneers and current favorites in Southern Rock\.  Cover:  The Godfather...Charlie Daniels.
 
-139 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/32m0kp3VU59LLfn7Ms9ksX)
+139 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

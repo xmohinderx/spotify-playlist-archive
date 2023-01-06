@@ -4,7 +4,7 @@
 
 > ジャンルレスな作品性と、美麗なファルセット・ヴォイスが魅力のSSW、ビッケブランカ のオールタイム・ベスト。
 
-72 songs - 4 hr 31 min - not published yet
+72 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

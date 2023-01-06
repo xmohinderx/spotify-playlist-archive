@@ -4,7 +4,7 @@
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-139 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
+139 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

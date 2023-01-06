@@ -4,11 +4,11 @@
 
 > All the best new songs from the pop punk scene\. Cover: blink\-182
 
-221 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
+222 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA) | 2:51 | 2022-11-10 |  |
+| [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA) | 2:51 | 2022-11-10 | 2023-01-06 |
 | [2009](https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [2009](https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d) | 3:11 | 2022-02-07 |  |
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2021-12-20 | 2022-06-15 |
 | [32](https://open.spotify.com/track/2sYl3t3Rrnrs7mDbDHnIPg) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [32](https://open.spotify.com/album/3pm0elSt5GTx5OJAw0Wrfx) | 4:41 | 2022-03-14 | 2022-11-11 |
@@ -158,6 +158,7 @@
 | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/7A9JSq4XOYn9bhSFcGJxto) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/6MGaZYL2sKeycUQhWepQms) | 2:41 | 2022-01-14 | 2022-03-15 |
 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 | 2021-12-20 | 2022-07-19 |
 | [Portuguese Knives](https://open.spotify.com/track/2xiaqtvivM2PUPpSVqaIw6) | [Lost Love](https://open.spotify.com/artist/5IAbKA1N8YXggDLpdheaVh) | [Portuguese Knives](https://open.spotify.com/album/7sbcjY48QJNHxzOjEOnxRK) | 1:40 | 2021-12-20 | 2022-03-01 |
+| [Promise](https://open.spotify.com/track/4hyMz2XnHVcms6Tb6hKmOo) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/2GhbRogqOKDZ2LCUBZ0K05) | 3:13 | 2022-11-10 |  |
 | [Promise](https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz) | 3:13 | 2022-10-13 | 2022-12-19 |
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-08-18 |  |
 | [punk chick](https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [punk chick](https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p) | 3:08 | 2022-07-04 | 2022-11-13 |

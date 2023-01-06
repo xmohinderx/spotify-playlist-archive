@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez, Jessie Uribe.
 
-252 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/4lIbpCJ2pbV6798FY5z8fP)
+252 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

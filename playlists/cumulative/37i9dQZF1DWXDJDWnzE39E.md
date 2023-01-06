@@ -4,7 +4,7 @@
 
 > A salute to all of the women that like it loud & heavy\. Cover: BABYMETAL
 
-247 songs - 16 hr 15 min - [published](https://open.spotify.com/playlist/2PwU7tbcMm117R21Ot8It9)
+247 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

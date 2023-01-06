@@ -4,7 +4,7 @@
 
 > Country that made country cool! Cover: Vince Gill
 
-182 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/5IDkbO4ORcphFP9N9pX9l7)
+182 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

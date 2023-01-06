@@ -4,7 +4,7 @@
 
 > New England music breaking waves\. Cover, Meech
 
-257 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/00m3TONAbF60v2PgKEF6G2)
+257 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

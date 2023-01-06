@@ -4,7 +4,7 @@
 
 > Brighten your day with a mix of folksy mood boosters.
 
-193 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4lWrIHnS7oBXtFO6UQpyPP)
+193 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

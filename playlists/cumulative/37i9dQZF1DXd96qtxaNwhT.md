@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-478 songs - 1 day 2 hr 47 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+478 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

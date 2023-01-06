@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Marracash",
+  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Icy Subzero",
   "name": "Plus Ultra",
-  "published_playlist_ids": [
-    "7z4B5G5t7icaq70XD3Gf3S"
-  ],
   "tracks": [
     {
       "album": {
@@ -1153,7 +1150,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 192905,
       "name": "Cicatrici (feat. Tedua)",
       "url": "https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX"
@@ -1657,7 +1654,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 172000,
       "name": "Ferrari - Remix",
       "url": "https://open.spotify.com/track/3XucsgiwXb8KPn9Csf9Zmu"
@@ -2802,6 +2799,32 @@
     },
     {
       "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Michelangelo",
+          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165216,
+      "name": "MONDAY (feat. Shiva & Michelangelo)",
+      "url": "https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq"
+    },
+    {
+      "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/1L3BundfZgLB9db5496I4y"
       },
@@ -2897,6 +2920,24 @@
       "duration_ms": 161739,
       "name": "Mujer (feat. Madame)",
       "url": "https://open.spotify.com/track/4jrroLcBiR5ZCT5C7Itd28"
+    },
+    {
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "NAPO****NO",
+      "url": "https://open.spotify.com/track/4y4wOYV6OJ2hlXeBFzazEO"
     },
     {
       "album": {
@@ -3973,7 +4014,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 140050,
       "name": "Senza Emotions (feat. ANNA)",
       "url": "https://open.spotify.com/track/71LQrUFG59w2vjhYe8Epue"
@@ -4537,6 +4578,28 @@
       "duration_ms": 193876,
       "name": "WEED, SOLDI, SESSO (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/0WBYASmM4kt2hRv02zQCyJ"
+    },
+    {
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215421,
+      "name": "X CASO (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
     },
     {
       "album": {

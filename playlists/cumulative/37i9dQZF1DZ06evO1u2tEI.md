@@ -4,7 +4,7 @@
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/70Ohsc6IHNs6h9xH85dU25)
+60 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

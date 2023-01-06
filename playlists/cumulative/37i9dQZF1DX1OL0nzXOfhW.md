@@ -4,7 +4,7 @@
 
 > 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: Novel Fergus
 
-75 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
+75 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-160 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/1SZQWs3WD9VeRF5jXaZeol)
+160 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

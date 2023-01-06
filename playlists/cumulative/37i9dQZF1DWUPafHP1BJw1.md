@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-148 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
+148 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

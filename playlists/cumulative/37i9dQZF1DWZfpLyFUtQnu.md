@@ -4,7 +4,7 @@
 
 > Les plus belles ballades de la chanson française.
 
-76 songs - 4 hr 42 min - not published yet
+76 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

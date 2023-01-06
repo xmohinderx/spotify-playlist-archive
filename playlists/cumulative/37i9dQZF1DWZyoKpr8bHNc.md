@@ -4,7 +4,7 @@
 
 > Classici Ya Habibi! This is why Tata always says, "fish ba'ed ayam zamaan."
 
-58 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/3fuIq8WUILdNuM1mhTgx6c)
+58 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

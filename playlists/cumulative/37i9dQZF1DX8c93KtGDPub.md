@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-260 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
+260 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

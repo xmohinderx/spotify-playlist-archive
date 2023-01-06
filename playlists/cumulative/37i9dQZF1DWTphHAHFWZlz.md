@@ -4,7 +4,7 @@
 
 > La nueva ola del rock argentino\. Foto: Riel
 
-180 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
+180 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

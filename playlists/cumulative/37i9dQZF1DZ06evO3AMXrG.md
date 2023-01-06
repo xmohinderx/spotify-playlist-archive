@@ -4,7 +4,7 @@
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-59 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/2KpUyoaXLO08Vpz7QeRH6e)
+59 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > In the mood for some romance?
 
-96 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/5McL4KDECCvpXBrrAW9ZH7)
+96 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

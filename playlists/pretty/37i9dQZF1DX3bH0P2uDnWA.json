@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 321900,
+  "num_followers": 322111,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDNhNGI3NDViOTg1NDRmZTY0NTVlNDY0NDM0OTIyZDI1",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDEwMjFkODZmMmU1MjA0NGY1YjQ0ZDVhNWNmZjM3MWQ2",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -861,26 +861,6 @@
       "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
     },
     {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Parla pi\u00f9 piano / In cerca di te",
-        "url": "https://open.spotify.com/album/4xwyeSNYVMkK8o1V2JtBO3"
-      },
-      "artists": [
-        {
-          "name": "Glenn Gatsby",
-          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
-        },
-        {
-          "name": "Free Shots",
-          "url": "https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Parla pi\u00f9 piano / In cerca di te - Electro Swing Mix",
-      "url": "https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H"
-    },
-    {
       "added_at": "2021-04-02 04:01:00",
       "album": {
         "name": "Get This (Bang Bang)",
@@ -915,6 +895,26 @@
       "duration_ms": 194741,
       "name": "Crazy Out There",
       "url": "https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf"
+    },
+    {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Parla pi\u00f9 piano / In cerca di te",
+        "url": "https://open.spotify.com/album/4xwyeSNYVMkK8o1V2JtBO3"
+      },
+      "artists": [
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        },
+        {
+          "name": "Free Shots",
+          "url": "https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Parla pi\u00f9 piano / In cerca di te - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -1021,6 +1021,22 @@
       "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
     },
     {
+      "added_at": "2021-04-16 04:01:00",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
+      },
+      "artists": [
+        {
+          "name": "Szigeti Juli",
+          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
+    },
+    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Ladies Night",
@@ -1055,22 +1071,6 @@
       "duration_ms": 328441,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
-    },
-    {
-      "added_at": "2021-04-16 04:01:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
-      },
-      "artists": [
-        {
-          "name": "Szigeti Juli",
-          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1193,20 +1193,20 @@
       "url": "https://open.spotify.com/track/15gUb7QKP6PlbXxxTJm2T4"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
+      "added_at": "2021-01-22 10:35:47",
       "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
       },
       "artists": [
         {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
         }
       ],
-      "duration_ms": 228993,
-      "name": "Code Red",
-      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
+      "duration_ms": 213120,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1225,20 +1225,20 @@
       "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
-      "added_at": "2021-01-22 10:35:47",
+      "added_at": "2021-09-03 04:01:00",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
       },
       "artists": [
         {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
         }
       ],
-      "duration_ms": 213120,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
+      "duration_ms": 228993,
+      "name": "Code Red",
+      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1293,34 +1293,6 @@
       "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Something Serious",
-        "url": "https://open.spotify.com/album/1IqEauUVodVfkZDadKJ4mg"
-      },
-      "artists": [
-        {
-          "name": "Deladap",
-          "url": "https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Reinwald Kranner",
-          "url": "https://open.spotify.com/artist/5QcpYyN9rZK1f6X7Z1JBid"
-        },
-        {
-          "name": "Melinda Stoika",
-          "url": "https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE"
-        }
-      ],
-      "duration_ms": 190938,
-      "name": "Something Serious",
-      "url": "https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Slaughter In the Suburbs",
@@ -1355,6 +1327,34 @@
       "duration_ms": 247500,
       "name": "Day & Night",
       "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Something Serious",
+        "url": "https://open.spotify.com/album/1IqEauUVodVfkZDadKJ4mg"
+      },
+      "artists": [
+        {
+          "name": "Deladap",
+          "url": "https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Reinwald Kranner",
+          "url": "https://open.spotify.com/artist/5QcpYyN9rZK1f6X7Z1JBid"
+        },
+        {
+          "name": "Melinda Stoika",
+          "url": "https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE"
+        }
+      ],
+      "duration_ms": 190938,
+      "name": "Something Serious",
+      "url": "https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t"
     }
   ],
   "unique_name": "Electro Swing",

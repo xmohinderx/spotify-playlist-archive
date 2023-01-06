@@ -4,7 +4,7 @@
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-98 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/04LUwGShR4OdBbtoV9xRij)
+98 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-132 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
+132 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

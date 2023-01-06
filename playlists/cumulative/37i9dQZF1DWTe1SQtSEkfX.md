@@ -4,7 +4,7 @@
 
 > Is that a UFO? Hear stories, predictions, and more as Joe talks about alien life.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/6hRvHsidodBqg3ZGjSO4xf)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

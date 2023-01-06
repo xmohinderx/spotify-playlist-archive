@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Women at full volume! Cover: <a href="spotify:artist:43FIX6vzpqRHK1VXQmRlKE">Robin Kester</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,402 likes - 59 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,413 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 57 | [Last Night](https://open.spotify.com/track/4bCniOs3Cgch7nD6G1FAds) | [Qeaux Qeaux Joans](https://open.spotify.com/artist/1ngGoef9s4j42FWVD3R6G3), [LAUTMALR](https://open.spotify.com/artist/7cmprcONCGB5YxSr0DZziB) | [Last Night](https://open.spotify.com/album/6aKIAX3aO59CXhnVCSqVla) | 3:33 |
 | 58 | [New Year’s Song](https://open.spotify.com/track/42ruPkbxzEZO0EkvH73cxF) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [New Year’s Song](https://open.spotify.com/album/5ujQeILm8EFjrCOiXvxt4y) | 3:47 |
 | 59 | [Zonden](https://open.spotify.com/track/3CTVkBeZBpO8TWIxsFr9ZW) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Zonden](https://open.spotify.com/album/7dMWmv9ozI0l6sVM0EbBzM) | 3:48 |
+| 60 | [Infinity Song](https://open.spotify.com/track/6HePNi3QS42SD9eTqEGkSG) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Infinity Song](https://open.spotify.com/album/0U9wGkVQjr3elUMi95GYsh) | 3:52 |
 
-Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMGMzYzJjNjMxOTBmZTQxYzFiOWNhMDllZWRlM2I0OGE2`
+Snapshot ID: `MTY3Mjk1OTYwMCwwMDAwMDAwMDEzYTc2NzY5OTQzM2NhNGJmYWIwZmEzNDQ2ODE0ZDkx`

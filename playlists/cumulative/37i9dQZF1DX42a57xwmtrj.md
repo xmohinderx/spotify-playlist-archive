@@ -4,7 +4,7 @@
 
 > ¡Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez
 
-139 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/0lDwr3VyV0083RkCP1IAZV)
+139 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

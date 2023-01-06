@@ -4,7 +4,7 @@
 
 > Home is where the heart is.
 
-337 songs - 20 hr 30 min - [published](https://open.spotify.com/playlist/5lAopPvgezlqzomRb60xSb)
+337 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

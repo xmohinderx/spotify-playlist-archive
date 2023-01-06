@@ -4,7 +4,7 @@
 
 > A dose of high\-energy, feel\-good rock tunes.
 
-221 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/31BtjWZOch0vZk8cRSyrqF)
+221 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

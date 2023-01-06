@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-154 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/08O5oJuSceMQ8gK9L0DkGT)
+154 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Come for the stew stay for the craic.
 
-65 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/2UoQjYf7sXAZD5KCr6tZQp)
+65 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

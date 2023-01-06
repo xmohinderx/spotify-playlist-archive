@@ -4,7 +4,7 @@
 
 > Slow down with some calming keys and relaxing piano music.
 
-591 songs - 1 day 1 hr 47 min - [published](https://open.spotify.com/playlist/3pCIUS2io9Ubc0nMl8Q5Pg)
+591 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

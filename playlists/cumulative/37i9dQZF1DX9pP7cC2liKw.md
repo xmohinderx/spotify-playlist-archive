@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-238 songs - 16 hr 58 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
+238 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 今年の冬に聴きたい日本のクラシックを集めました。
 
-84 songs - 5 hr 7 min - not published yet
+84 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

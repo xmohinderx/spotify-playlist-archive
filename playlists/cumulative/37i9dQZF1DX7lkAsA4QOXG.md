@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-129 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
+129 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

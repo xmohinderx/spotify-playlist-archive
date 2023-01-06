@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,884 songs - 5 day 6 hr 45 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,885 songs - 5 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -828,7 +828,8 @@
 | [I Know What You Want](https://open.spotify.com/track/7x0o8kaUElaXuWnP9kwe5p) | [André Marie Tala](https://open.spotify.com/artist/7zoESCAeVJ8h0e1k62snyS) | [Arabica](https://open.spotify.com/album/4Asgh45uEqx2UYyHxl51er) | 5:19 | 2022-07-12 |  |
 | [I Know You Rider](https://open.spotify.com/track/3v85BrHUuCDd7Xwp04vMzB) | [Gale Garnett](https://open.spotify.com/artist/5cJgEhhKGk7kiSA6O8Qzyc) | [My Kind of Folk Songs](https://open.spotify.com/album/6oOUyNNmvvz3jwp7QRGbrt) | 2:23 | 2022-06-09 |  |
 | [I Like It \(Don't Stop\)](https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9) | [Maxwell Udoh](https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy) | 6:30 | 2022-06-09 |  |
-| [I Love Music \- Umoja Edit](https://open.spotify.com/track/1WMJQKsYV5ZrBAW0ayHJSK) | [The Sumo Brothers](https://open.spotify.com/artist/3RcP5YGPY95XRxwmwvTzpv), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Ivory Coast Soul Edits](https://open.spotify.com/album/0H1jcfsOknvMhOBYCUInHy) | 5:44 | 2022-07-12 |  |
+| [I Love Music \- Umoja Edit](https://open.spotify.com/track/1WMJQKsYV5ZrBAW0ayHJSK) | [The Sumo Brothers](https://open.spotify.com/artist/3RcP5YGPY95XRxwmwvTzpv), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Ivory Coast Soul Edits](https://open.spotify.com/album/0H1jcfsOknvMhOBYCUInHy) | 5:44 | 2022-07-12 | 2023-01-06 |
+| [I Love Music \- Umoja Edit](https://open.spotify.com/track/4ARKWFPq1w1o6rDeNeEh7B) | [The Sumo Brothers](https://open.spotify.com/artist/3RcP5YGPY95XRxwmwvTzpv), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Hot Casa Records, Vol\. 1](https://open.spotify.com/album/3pdmm1aqnSNlG6ckV2vhIP) | 5:44 | 2022-12-20 |  |
 | [I Need Somebody To Love Tonight](https://open.spotify.com/track/0wotnD2zTSOUDwVBN863fi) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 4:02 | 2022-07-27 |  |
 | [I Need Somebody To Love Tonight](https://open.spotify.com/track/1025Ay59SiFdzEbJH3Euqe) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [I Need Somebody To Love Tonight](https://open.spotify.com/album/6HAW8VQLhSMy7lBpiwo4Gq) | 4:02 | 2022-07-12 | 2022-07-29 |
 | [I Need Your Love](https://open.spotify.com/track/4d4XmACYq23zAgxEvgnp4s) | [Scherzando](https://open.spotify.com/artist/2pDMh66OCdARjVZ0GCFWDi) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:35 | 2022-06-09 |  |

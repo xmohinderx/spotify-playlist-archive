@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-194 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+194 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

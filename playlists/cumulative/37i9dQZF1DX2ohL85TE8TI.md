@@ -4,7 +4,7 @@
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: The Interests of Love\(사랑의 이해\)\)
 
-491 songs - 1 day 5 hr 47 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
+491 songs - 1 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

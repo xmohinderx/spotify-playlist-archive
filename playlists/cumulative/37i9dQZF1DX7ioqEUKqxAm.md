@@ -4,7 +4,7 @@
 
 > 注目の新進クリエイターを紹介するRADAR（レイダー）がスタート！お気に入りの番組を発掘しよう。
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/4CkHGAWOTytaIfuJMLuyFV)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

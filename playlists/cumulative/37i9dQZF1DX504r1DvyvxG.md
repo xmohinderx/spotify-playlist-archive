@@ -4,7 +4,7 @@
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-191 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/3SYauXGHMGALNz6T4c3c5m)
+191 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

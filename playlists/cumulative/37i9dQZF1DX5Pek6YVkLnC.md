@@ -4,7 +4,7 @@
 
 > P fkn R\. Esto llega al choliiiii\. Cover: ROA, Omar Courtz, Bryant Myers, Dei V.
 
-161 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/5dfcyYjgXtZzbFL0wbWZbj)
+161 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

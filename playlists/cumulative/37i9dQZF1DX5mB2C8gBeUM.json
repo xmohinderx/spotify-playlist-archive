@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Country gone wild! You never know what you're gonna get. Artist: Elle King",
   "name": "Wild Country",
-  "published_playlist_ids": [
-    "2NFX3fEEavFql8EoHSR8S8"
-  ],
   "tracks": [
     {
       "album": {
@@ -559,6 +556,28 @@
       "duration_ms": 180807,
       "name": "Behind",
       "url": "https://open.spotify.com/track/3u0UQ8hnA9eWkHgeYLPGEe"
+    },
+    {
+      "album": {
+        "name": "Bets On Us",
+        "url": "https://open.spotify.com/album/3n6nbKCoNMsSDBpzvEg1Q5"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180959,
+      "name": "Bets On Us",
+      "url": "https://open.spotify.com/track/1AZEKyJQKVucfisCqKO1Nk"
     },
     {
       "album": {
@@ -2119,6 +2138,24 @@
       "duration_ms": 178433,
       "name": "Get That All The Time (feat. Mitchell Tenpenny)",
       "url": "https://open.spotify.com/track/3hfEwSKgFMMhZJBaPpR41e"
+    },
+    {
+      "album": {
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     },
     {
       "album": {

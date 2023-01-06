@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-118 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/0mWtPSkQPViGQEWUUHWJxq)
+118 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Chandelier](https://open.spotify.com/track/3uYH99gz6GynHDJkFCqtLO) | [Twisted Measure](https://open.spotify.com/artist/3mXcNgD2MC7GIMvIoefa4T) | [Chandelier](https://open.spotify.com/album/7ceKiVu2Vki1yerIJbbqWm) | 4:07 | 2021-12-24 | 2022-07-29 |
 | [Circle of Life/He Lives in You](https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Circle of Life/He Lives in You](https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27) | 3:38 | 2021-12-24 |  |
 | [Coffee In Bed](https://open.spotify.com/track/2AI3ZqvfHy3hTvdM9oRMYs) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Lucky Ones](https://open.spotify.com/album/6doKrVnhuZB7ajkdvCDvyC) | 3:15 | 2021-12-24 | 2022-07-29 |
-| [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 | 2021-12-24 | 2022-12-21 |
+| [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 | 2021-12-24 |  |
 | [Come Sail Away](https://open.spotify.com/track/2TmWgYDevPOukQGNJPeZrN) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/3r3sAExzTK7xT8ty4a151h) | 5:36 | 2021-12-24 | 2022-07-29 |
 | [Creep \- Studio Version](https://open.spotify.com/track/0bkEVRYVWuKBCWOX6kY2kT) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [The Sing\-Off: The Best of Season 2](https://open.spotify.com/album/3Kh7U1zy45wEM6yWGvIFcR) | 3:41 | 2021-12-24 | 2022-11-13 |
 | [Cruise](https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [The Sing\-Off: Season 4, Episode 1\- The Sing\-Off Is Back](https://open.spotify.com/album/2v7S6K26bvlGpKP35MLF9j) | 1:40 | 2021-12-24 | 2022-12-10 |
@@ -77,7 +77,7 @@
 | [Misty Mountains \(A Cappella\)](https://open.spotify.com/track/1g5OHdV7X0nOaB9Vy8sGdN) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Misty Mountains \(A Cappella\)](https://open.spotify.com/album/41iB6cCYKWTpOivxL7lVaS) | 4:20 | 2021-12-24 | 2022-07-23 |
 | [Misty Mountains \- Solo Version](https://open.spotify.com/track/3fMdTXx79MvNWnB7orsq4d) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Songs of Middle Earth](https://open.spotify.com/album/0ocEjdrrdGiP4N2JmZj9cJ) | 4:18 | 2021-12-24 | 2022-11-14 |
 | [No Ego](https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [No Ego](https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv) | 2:54 | 2021-12-24 |  |
-| [Ordinary People](https://open.spotify.com/track/76gxuHuto98nHGREuQmYMn) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [J.None](https://open.spotify.com/artist/3WbIAfBAZZolnww7HPuWqe) | [Ordinary People](https://open.spotify.com/album/7eUyybbl4WNllfbMIng1Sk) | 1:14 | 2022-12-09 |  |
+| [Ordinary People](https://open.spotify.com/track/76gxuHuto98nHGREuQmYMn) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [J.None](https://open.spotify.com/artist/3WbIAfBAZZolnww7HPuWqe) | [Ordinary People](https://open.spotify.com/album/7eUyybbl4WNllfbMIng1Sk) | 1:14 | 2022-12-09 | 2023-01-06 |
 | [Party In The U.S.A.](https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 1:02 | 2021-12-24 |  |
 | [Party In The U.S.A.](https://open.spotify.com/track/1est72o2prNA80flC5ncoN) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect Soundtrack](https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2) | 1:03 | 2021-12-24 | 2022-07-29 |
 | [Problem](https://open.spotify.com/track/3H3uzC93i5XXChUev0wHI8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Problem](https://open.spotify.com/album/11tXKKKp6WelxkqSpNUQLW) | 2:30 | 2021-12-24 | 2022-07-03 |

@@ -4,7 +4,7 @@
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-141 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/0PLlaQFb6drzj3TvrPayc8)
+141 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

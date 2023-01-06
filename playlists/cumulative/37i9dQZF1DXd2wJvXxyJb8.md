@@ -4,7 +4,7 @@
 
 > q q eh birimbola?
 
-195 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+195 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Central Cee
 
-2,020 songs - 4 day 9 hr 24 min - [published](https://open.spotify.com/playlist/2IpzDd0RQh5cskBeJoBiVy)
+2,020 songs - 4 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

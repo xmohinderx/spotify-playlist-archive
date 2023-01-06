@@ -4,7 +4,7 @@
 
 > Extraordinary soundtracks composed by extraordinary women\. Photo: <a href="spotify:artist:2lD1D6eEh7xQdBtnl2Ik7Y">Hildur Guðnadóttir</a>
 
-78 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/3RBpFCwPPhCIAcnst6oao3)
+78 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

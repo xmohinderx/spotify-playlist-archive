@@ -4,7 +4,7 @@
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/2tdkSOsMZpMwyOVfvOGj24)
+69 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

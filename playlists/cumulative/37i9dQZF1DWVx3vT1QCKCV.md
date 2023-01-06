@@ -4,7 +4,7 @@
 
 > The jazz giant's classic recordings.
 
-100 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/0jfHqNhOpmf2OncwPpR2fE)
+100 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

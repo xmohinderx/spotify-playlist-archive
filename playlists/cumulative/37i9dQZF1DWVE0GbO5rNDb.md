@@ -4,7 +4,7 @@
 
 > Musica dance per le tue giornate di sole!
 
-227 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
+227 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

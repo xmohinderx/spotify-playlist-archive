@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 107280,
+  "num_followers": 107367,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MzIwNiwwMDAwMDAwMDU3MzIxZTQxOWFkOWEwYjNjMzM0Y2E1MjhhZmIwZDJk",
+  "snapshot_id": "MTY3MDU2MzIwNiwwMDAwMDAwMGRkNzhlMzFjMTBiMzk0ZjNkZWVmNGZkYzg4ODMzMjg0",
   "tracks": [
     {
       "added_at": "2022-12-06 13:51:14",
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2"
     },
     {
-      "added_at": "2023-01-05 01:04:15",
+      "added_at": "2023-01-06 07:08:06",
       "album": {
         "name": "Vem Doce",
         "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
@@ -835,26 +835,6 @@
     {
       "added_at": "2022-12-06 13:51:14",
       "album": {
-        "name": "Alumi\u00f4",
-        "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
-      },
-      "artists": [
-        {
-          "name": "Luiza Lian",
-          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
-        },
-        {
-          "name": "Bixiga 70",
-          "url": "https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU"
-        }
-      ],
-      "duration_ms": 204116,
-      "name": "Alumi\u00f4",
-      "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
-    },
-    {
-      "added_at": "2022-12-06 13:51:14",
-      "album": {
         "name": "Devagarinho 2.0 (prod. DKVPZ)",
         "url": "https://open.spotify.com/album/7sjeAJANX5rlCazXEMkSLO"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 222315,
       "name": "Devagarinho 2.0 (prod. DKVPZ)",
       "url": "https://open.spotify.com/track/0HYHMmuWQ1WWLiYXOhjt5I"
+    },
+    {
+      "added_at": "2022-12-06 13:51:14",
+      "album": {
+        "name": "Alumi\u00f4",
+        "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
+      },
+      "artists": [
+        {
+          "name": "Luiza Lian",
+          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
+        },
+        {
+          "name": "Bixiga 70",
+          "url": "https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU"
+        }
+      ],
+      "duration_ms": 204116,
+      "name": "Alumi\u00f4",
+      "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
     },
     {
       "added_at": "2022-12-06 13:51:14",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-12-06 13:51:14",
       "album": {
+        "name": "Rua Tr\u00eas",
+        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 154647,
+      "name": "Rua Tr\u00eas",
+      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
+    },
+    {
+      "added_at": "2022-12-06 13:51:14",
+      "album": {
         "name": "Moqueca",
         "url": "https://open.spotify.com/album/2ZQLiEqJgQeNAVuZpMP8iA"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 244363,
       "name": "Moqueca",
       "url": "https://open.spotify.com/track/1i0usGuYiymo13HXahmgSU"
-    },
-    {
-      "added_at": "2022-12-06 13:51:14",
-      "album": {
-        "name": "Rua Tr\u00eas",
-        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 154647,
-      "name": "Rua Tr\u00eas",
-      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
     },
     {
       "added_at": "2022-12-06 13:51:14",

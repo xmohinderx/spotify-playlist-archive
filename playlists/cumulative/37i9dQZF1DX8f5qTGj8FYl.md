@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-210 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
+210 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

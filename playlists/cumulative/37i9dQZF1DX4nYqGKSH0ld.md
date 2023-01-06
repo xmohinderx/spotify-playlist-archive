@@ -4,7 +4,7 @@
 
 > Get ready for good feels and fireworks!
 
-162 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/4Viaag8JICsMFAC05w81oz)
+162 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

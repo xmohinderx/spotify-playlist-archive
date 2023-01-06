@@ -4,7 +4,7 @@
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Slum Village
 
-125 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/14eAdAezP3MLdGe4QegXpf)
+125 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

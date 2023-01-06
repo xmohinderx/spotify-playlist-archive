@@ -4,7 +4,7 @@
 
 > Let your stress melt away while you work up a sweat.
 
-203 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/0gAp2fhS8FFQOA7HtJ1tbD)
+203 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

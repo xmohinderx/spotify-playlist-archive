@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-79 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/4IaS7qt7IgxoHpK2AE8vDm)
+79 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

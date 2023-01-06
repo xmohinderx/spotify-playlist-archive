@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-96 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
+96 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

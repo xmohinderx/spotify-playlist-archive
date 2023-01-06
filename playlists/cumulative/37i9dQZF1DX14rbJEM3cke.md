@@ -4,7 +4,7 @@
 
 > New Rock driving the current, every week\. Cover: DE'WAYNE
 
-159 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/2jxSs2Q6Z9zjjyOXKs22bg)
+159 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

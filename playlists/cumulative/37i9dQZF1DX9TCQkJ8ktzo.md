@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-96 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/45Y4ADhIS41wJfzyX9AM1P)
+96 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The most unforgettable love songs from the 70s.
 
-163 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/6mYSua03CeoIAGskzYR38n)
+163 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

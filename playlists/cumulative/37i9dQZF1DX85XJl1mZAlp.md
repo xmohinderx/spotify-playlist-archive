@@ -4,7 +4,7 @@
 
 > The best new releases from swinging bop to free jazz\. Cover: Ethan Iverson
 
-172 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/2myKIx6nL00hIJ3LYvxpsO)
+172 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

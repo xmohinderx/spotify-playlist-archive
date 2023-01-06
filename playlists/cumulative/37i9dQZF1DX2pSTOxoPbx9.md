@@ -4,7 +4,7 @@
 
 > Beautifully dark, dramatic tracks.
 
-198 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/05MxtZKo0HueRtsNgrnDSa)
+198 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

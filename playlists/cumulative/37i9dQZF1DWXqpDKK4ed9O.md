@@ -4,7 +4,7 @@
 
 > Tight Roll your jeans, break out the CK1, and set the mood...
 
-122 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/18ahK2am7p6K88HhVZXnvH)
+122 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

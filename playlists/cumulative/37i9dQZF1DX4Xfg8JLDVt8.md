@@ -4,7 +4,7 @@
 
 > Modo cursi: ON \#RelationshipGoals
 
-106 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/15mR6SqPGAa7p8QpZ2mmaU)
+106 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

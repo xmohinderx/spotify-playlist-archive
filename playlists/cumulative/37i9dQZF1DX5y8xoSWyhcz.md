@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. bestfriend on the cover.
 
-1,000 songs - 2 day 3 hr 21 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+1,002 songs - 2 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Calls](https://open.spotify.com/track/5RzEyrxL09e1D80CXHmFAx) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Calls](https://open.spotify.com/album/2LNjaaGyhhMomXZOzqGgTw) | 2:51 | 2021-01-16 | 2021-03-27 |
 | [camellia](https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [camellia](https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8) | 2:31 | 2020-11-21 | 2021-03-14 |
 | [Camp Anonymous](https://open.spotify.com/track/0BVNjqMhsxCioq76mhDUez) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Camp Anonymous](https://open.spotify.com/album/4YScZstfkp3TeCPnNOVhlg) | 2:49 | 2022-08-19 |  |
+| [Can I Tell You I Like You?](https://open.spotify.com/track/6LSkLGDk87wGKawiRTqwdy) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Can I Tell You I Like You?](https://open.spotify.com/album/0vH5RGYzgJNm1nS6bkFu5u) | 2:18 | 2023-01-06 |  |
 | [Can We Take The Night Off?](https://open.spotify.com/track/7uOvb1oTvrCGiU42h4rzE5) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Can We Take The Night Off?](https://open.spotify.com/album/4wgjdiDDwSiSkL4QwUZKlG) | 3:30 | 2022-09-16 |  |
 | [Cardigan](https://open.spotify.com/track/7CCKYz9WZ0G2D3nELghKl3) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Cardigan](https://open.spotify.com/album/5boWNREF7G7SqWNGOzmhFO) | 3:10 | 2022-09-23 |  |
 | [Catch Me](https://open.spotify.com/track/6AdgfvJ4y3BzOVvUYX6xkb) | [LilSaku](https://open.spotify.com/artist/1ArRwk2d2zyiu9MKfFkUie), [wethher](https://open.spotify.com/artist/4U3s5eKRWiJYp9S9G0B1To) | [Catch Me](https://open.spotify.com/album/7nXGtcBDdEwWiSV4MwCCMJ) | 2:09 | 2021-01-23 | 2021-02-06 |
@@ -363,7 +364,7 @@
 | [Guard Down](https://open.spotify.com/track/4Qx7ThsDRXzhxxAaSPLlI6) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Guard Down](https://open.spotify.com/album/5v6JyuSddGvPBgxxo04ljf) | 3:26 | 2021-02-12 | 2021-02-20 |
 | [Guerrilla](https://open.spotify.com/track/6y57l1NHNuc1dNz7Cel3Oo) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Guerrilla / Sexy Villain](https://open.spotify.com/album/46zy76PQmEBa9szqYIIKfd) | 2:44 | 2021-09-11 | 2021-10-02 |
 | [Guess I'm Going To Hell](https://open.spotify.com/track/4TETZ56lnLvEpFZmVjsQM1) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Guess I'm Going To Hell](https://open.spotify.com/album/6K8XkU7IREanr9fx3vjbxD) | 4:15 | 2022-05-20 |  |
-| [Gutterball](https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Gutterball](https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93) | 3:32 | 2022-02-04 |  |
+| [Gutterball](https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Gutterball](https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93) | 3:32 | 2022-02-04 | 2023-01-06 |
 | [Hannah in the City](https://open.spotify.com/track/6zzNgRhlsGdwPpXd77S59i) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [Hannah in the City](https://open.spotify.com/album/4a6VSKgvPsMOIEHw0iZ0bg) | 3:48 | 2021-08-28 | 2021-12-11 |
 | [Happen To Me](https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Happen To Me](https://open.spotify.com/album/7BHTjC0GfwdDkEDDvniZj7) | 3:51 | 2020-11-07 | 2020-11-14 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-07-31 | 2021-10-30 |
@@ -537,6 +538,7 @@
 | [love of your life](https://open.spotify.com/track/58mNlQC7dh07i8JF8CMycR) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [love of your life](https://open.spotify.com/album/2U7nCP55m7ws8MXAqfD8D9) | 2:50 | 2021-09-25 | 2021-12-04 |
 | [Love on the Weekend](https://open.spotify.com/track/4T0Z5SG6t3r7XFUp4yfMi9) | [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [Love on the Weekend](https://open.spotify.com/album/2KtK1Topqqu9kvyZuJilNK) | 2:33 | 2021-01-23 | 2021-03-27 |
 | [love you harder](https://open.spotify.com/track/2nW3S6nMLWOY2Q7eeXIL6Y) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [love you harder](https://open.spotify.com/album/1r2d20CXLO1PRUkb4QX4RO) | 3:35 | 2021-10-30 | 2022-01-08 |
+| [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:21 | 2023-01-06 |  |
 | [Loveless Metropolis](https://open.spotify.com/track/3EUT2oOnzayoPrTwBJFEss) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Loveless Metropolis](https://open.spotify.com/album/6Wtyntsd3OD0KEe4wOZaFK) | 2:40 | 2022-03-18 | 2022-04-16 |
 | [Lovely](https://open.spotify.com/track/5Hk1e4wp12VfOkdfHdpeBy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Lovely](https://open.spotify.com/album/4kzqBT7MnaHJkX0LjfDHay) | 3:24 | 2020-10-29\* | 2020-11-14 |
 | [Lovestruck Energy](https://open.spotify.com/track/3svuWRYyn2xd8GhswXA4RG) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Lovestruck](https://open.spotify.com/album/3XMtpgrvIsSLaG0NpMNWGX) | 3:18 | 2021-11-13 | 2022-03-19 |
@@ -545,7 +547,7 @@
 | [low down](https://open.spotify.com/track/6ZSVGlfIRyFC3faVcXEzlT) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down \(Ben Rainey remix\)](https://open.spotify.com/album/2RuHMxejZiKj2TR0RRNrP7) | 3:02 | 2022-10-28 | 2022-11-13 |
 | [LUV U A LIL BIT](https://open.spotify.com/track/4rEc2f0jkObR0F45hmmgVM) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [LUV U A LIL BIT](https://open.spotify.com/album/1UcugzrGj09mNMxFurq7fc) | 2:25 | 2021-09-11 | 2021-10-09 |
 | [MADONNA](https://open.spotify.com/track/3CMyRTk91XlLcab29q41M5) | [Sandman](https://open.spotify.com/artist/2UytYzhVi9dPgPi9FIFGI4) | [MADONNA](https://open.spotify.com/album/6kTzzlgENOlrpxSnYbpwAD) | 3:06 | 2021-06-05 | 2021-06-19 |
-| [Magazines](https://open.spotify.com/track/3jqkxkAoFA9T3ohkLmaeJs) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Magazines](https://open.spotify.com/album/5qiV1lVO8EGxnIwcBXtSJ2) | 2:43 | 2022-02-25 |  |
+| [Magazines](https://open.spotify.com/track/3jqkxkAoFA9T3ohkLmaeJs) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Magazines](https://open.spotify.com/album/5qiV1lVO8EGxnIwcBXtSJ2) | 2:43 | 2022-02-25 | 2023-01-06 |
 | [Make Believe](https://open.spotify.com/track/1Pfk03tf9z8b5MPeK9uNVR) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Make Believe](https://open.spotify.com/album/4VwrrAYg9D88tV0cGKZg0B) | 3:28 | 2022-08-19 | 2022-11-13 |
 | [Make Believe](https://open.spotify.com/track/2Fz9Mfjo3GTENXxoZ6YVku) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [What Tomorrow Brings](https://open.spotify.com/album/1w64Qy4uueDC8hItAkBV8Z) | 3:28 | 2022-10-28 |  |
 | [Make My Bed](https://open.spotify.com/track/2xN8wluJkPng1dpUd6h9hW) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Make My Bed](https://open.spotify.com/album/0viAFE6FcjxVPF7EL0yTlA) | 2:56 | 2021-05-22 | 2021-08-14 |
@@ -645,7 +647,7 @@
 | [outside the party, inside the dream \- a maddie jay remix](https://open.spotify.com/track/5puv5e1tzEmOyiRnDyigEb) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O), [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [outside the party, inside the dream \(a maddie jay remix\)](https://open.spotify.com/album/2YzQmGhD0VNmFXds1QcHBI) | 3:14 | 2021-07-17 | 2021-08-14 |
 | [Outta This World](https://open.spotify.com/track/58Rt4LpJI0HoYuOX9ILG7L) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Outta This World](https://open.spotify.com/album/5j6iEQQKvgHYIBmusCIU2B) | 2:39 | 2021-11-06 | 2022-02-26 |
 | [Overexposed](https://open.spotify.com/track/75ltCxPZaTM2hi8YRnQuir) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Overexposed](https://open.spotify.com/album/1fo7LauHBzmPE1JxHOF9qu) | 3:01 | 2021-06-19 | 2021-07-31 |
-| [Overthinking](https://open.spotify.com/track/1BdZg2Id9Xq8n9w2owkoaz) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Overthinking](https://open.spotify.com/album/7FaGK2kvmc8vskLYsVIJKa) | 2:55 | 2022-04-22 |  |
+| [Overthinking](https://open.spotify.com/track/1BdZg2Id9Xq8n9w2owkoaz) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Overthinking](https://open.spotify.com/album/7FaGK2kvmc8vskLYsVIJKa) | 2:55 | 2022-04-22 | 2023-01-06 |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-07-31 | 2021-08-14 |
 | [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 | 2022-08-05 |  |
 | [Panic Attack](https://open.spotify.com/track/5aXqav0oqptwqmhdRrH5e8) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Panic Attack](https://open.spotify.com/album/72aADhEzG3mFn55ASNRahw) | 3:14 | 2022-02-04 | 2022-07-30 |

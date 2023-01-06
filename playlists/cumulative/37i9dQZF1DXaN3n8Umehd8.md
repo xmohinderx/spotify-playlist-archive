@@ -4,7 +4,7 @@
 
 > oops\_i\_did\_it\_again.mp3
 
-149 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/7h1W8RLtMVCpgWm47PFbh3)
+149 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

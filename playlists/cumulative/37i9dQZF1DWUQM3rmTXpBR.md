@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Adonis.
 
-97 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
+97 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

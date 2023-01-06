@@ -4,7 +4,7 @@
 
 > Ultimate mix of songs from the 1990s to insure a good time while on the road.
 
-344 songs - 1 day 0 hr 33 min - [published](https://open.spotify.com/playlist/3mwrZYdtYDXn4eIYaTKHxz)
+344 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-104 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/2Vtiq3m1kt7V8ae1tjCvfR)
+104 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

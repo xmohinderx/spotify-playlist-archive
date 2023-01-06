@@ -4,7 +4,7 @@
 
 > Legendary tracks featured in music video games and rhythm games over the years.
 
-61 songs - 4 hr 5 min - not published yet
+61 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

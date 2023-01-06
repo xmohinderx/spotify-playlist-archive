@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-152 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+152 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

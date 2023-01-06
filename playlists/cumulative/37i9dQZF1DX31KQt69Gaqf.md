@@ -4,7 +4,7 @@
 
 > Let us take care of your workday soundtrack.
 
-188 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/4mBxM3JJWtFgFyQKETemG7)
+188 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

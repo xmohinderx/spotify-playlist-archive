@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/1D7F79ihmqVCZOamI5aR0k)
+61 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Classic tunes to soundtrack your weekend\. Cover: The Tragically Hip
 
-295 songs - 19 hr 28 min - [published](https://open.spotify.com/playlist/53dtueIOJq1n4EVVrLjqp4)
+295 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > una gatita que le gusta el mambo 🐱🥵
 
-315 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
+315 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

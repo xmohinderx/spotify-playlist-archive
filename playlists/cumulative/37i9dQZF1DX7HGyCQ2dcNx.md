@@ -4,7 +4,7 @@
 
 > The artist's latest and greatest hits\. Lo nuevo y lo esencial de Jose\. ¡Leggo!
 
-131 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/0anfdNe2iPWw4Dhq3AouqG)
+131 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

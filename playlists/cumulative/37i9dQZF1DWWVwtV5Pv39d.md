@@ -4,7 +4,7 @@
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-102 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/0tIR1F4TAVMZPY4NE1Ks1b)
+102 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

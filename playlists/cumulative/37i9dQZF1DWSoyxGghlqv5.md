@@ -4,7 +4,7 @@
 
 > Pop gems to help you concentrate and stay focused.
 
-125 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/0X9AF1yDpdI8brDxUUQ79L)
+125 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

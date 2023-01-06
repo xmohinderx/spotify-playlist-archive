@@ -4,7 +4,7 @@
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2022
 
-144 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/41vYaKONxsf6dvUNFH56lw)
+144 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

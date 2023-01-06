@@ -4,7 +4,7 @@
 
 > Energetic tracks from the 2010s to boost your running session.
 
-74 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/6n3aWJctQxrPMGy8B8BwpU)
+74 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

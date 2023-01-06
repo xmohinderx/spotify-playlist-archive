@@ -4,7 +4,7 @@
 
 > Late night chilled vibes, for those intimate moments.
 
-220 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
+220 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

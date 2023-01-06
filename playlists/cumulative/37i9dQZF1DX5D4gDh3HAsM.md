@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-107 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/12HWYiTUQkdIKRtyDC4XH7)
+107 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

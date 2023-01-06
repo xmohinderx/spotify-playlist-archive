@@ -4,7 +4,7 @@
 
 > Get your body right with this workout twerkout
 
-182 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/2ZNRycSD6A3VyEqhSpWbtp)
+182 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

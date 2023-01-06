@@ -4,7 +4,7 @@
 
 > Our favorite electronic songs from around the world this year\. Cover: Boris Brejcha
 
-196 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/3osIW9coSTQHd3N0LFREv3)
+196 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

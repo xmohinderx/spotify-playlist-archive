@@ -4,7 +4,7 @@
 
 > Relax and slip into this eclectic mix of reggae infused tracks.
 
-63 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/46NRebXBh8HX6qp1qL56cG)
+63 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

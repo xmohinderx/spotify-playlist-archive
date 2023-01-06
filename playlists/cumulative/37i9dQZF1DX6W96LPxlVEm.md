@@ -4,7 +4,7 @@
 
 > Los mejores nuevos y viejos temas para cantar y perrear detrás del volante.
 
-211 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/1WkhgkrYo9eTjsGnhSatMI)
+211 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

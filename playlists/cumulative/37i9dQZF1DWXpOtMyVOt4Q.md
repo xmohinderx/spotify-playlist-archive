@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-162 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/11Gpqzsbqf7yfVJuxrNTH2)
+162 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

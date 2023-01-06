@@ -4,7 +4,7 @@
 
 > Love songs from your favorite films
 
-139 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/5n4bAfqXL1AIL7z3Ma3gPK)
+139 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

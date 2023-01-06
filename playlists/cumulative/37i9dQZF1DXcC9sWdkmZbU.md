@@ -4,7 +4,7 @@
 
 > Worship songs for the whole family.
 
-61 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/2uH4DsnGfE4NtZg4sRySa3)
+61 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

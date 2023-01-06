@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 362 likes - 200 songs - 12 hr 3 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 362 likes - 202 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,5 +208,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 198 | [Rosacea](https://open.spotify.com/track/3CHXpZdk5W8y5wLlJape0Y) | [Grid](https://open.spotify.com/artist/2mr8Sn2YZJZiKuvbRmABbm) | [Rosacea](https://open.spotify.com/album/3eOytFp2PJ6061ZjOm9LRh) | 3:11 |
 | 199 | [OBLIVION](https://open.spotify.com/track/3KMqwUL9XTpfrDvkCGlRJ9) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [OBLIVION](https://open.spotify.com/album/2n2VcwvJsChKhBL1zX75Cj) | 3:12 |
 | 200 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 |
+| 201 | [For You](https://open.spotify.com/track/2wRlRa04whOwI5cZ4QXsmj) | [DXXDLY](https://open.spotify.com/artist/6GKLaeqLSNmXOedBQQY9R7), [JÖST](https://open.spotify.com/artist/3ERTkqBGVuP0lA4r3pNvGu) | [For You](https://open.spotify.com/album/4Cd2EftimaltmI0irA1dCX) | 2:28 |
+| 202 | [Ryza](https://open.spotify.com/track/6pOwVBLGJIHQhdxdOHENOh) | [KTrek](https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV) | [Ryza](https://open.spotify.com/album/0cv1F06ZUvZKet0IZUfs4J) | 3:12 |
 
-Snapshot ID: `MjE2LDlkYjk2NmRlMjUxMjhjMTQyMzc0OWQ5Njk4YjBhZWRiNWY5MDVjY2U=`
+Snapshot ID: `MjE4LDE5NmRmNzBhZTlmMzI3NDY5Yzg4MTVhZGY3ZDdkZGRlYWVkYmNiZDk=`

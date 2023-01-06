@@ -4,7 +4,7 @@
 
 > The summer needs dance hits 😎☀️
 
-217 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/6ta8u2iDoFcxRb8dkiF2nY)
+217 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

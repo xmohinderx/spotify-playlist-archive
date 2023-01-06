@@ -4,7 +4,7 @@
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/2Fr8s7ujhjKo7LWC8No6V7)
+87 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

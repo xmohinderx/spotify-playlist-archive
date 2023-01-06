@@ -2,9 +2,9 @@
 
 ### [Indie Rock Club](https://open.spotify.com/playlist/37i9dQZF1DX35DWKgAk2B5)
 
-> Welcome to Indie Rock Club\. Cover: The White Stripes
+> Welcome to Indie Rock Club\. Cover: Arctic Monkeys
 
-236 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/57EEISkDBsPP628txQA6Po)
+237 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [One More Hour](https://open.spotify.com/track/3ccsKRKg0NEfiDaeYnIauK) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/0nbA26khGDRROFRo7D90w0) | 3:19 | 2022-07-21 | 2022-07-23 |
 | [Our Velocity](https://open.spotify.com/track/1yG1OpMiV8WtDeOYEBvNW8) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Our Earthly Pleasures](https://open.spotify.com/album/6mDHmXgvy79alh2CwEmMxJ) | 3:20 | 2022-07-21 | 2022-09-21 |
 | [Outtathaway](https://open.spotify.com/track/2tkbtyIBe9ynJnrkYcpc0M) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 3:02 | 2022-07-21 | 2022-09-21 |
+| [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 | 2023-01-05 |  |
 | [Painted By Numbers](https://open.spotify.com/track/0vKt8MR7mVWJ7uWH93HYzl) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Dying to Say This to You \(Premium Download Version\)](https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG) | 3:19 | 2022-07-21 | 2022-09-21 |
 | [Papillon](https://open.spotify.com/track/4EeC062v5HNOHEltMGI0S5) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [In This Light And On This Evening](https://open.spotify.com/album/55G6kC2dMIMS82ULG0nIz3) | 5:24 | 2022-07-21 | 2022-07-29 |
 | [Papillon](https://open.spotify.com/track/7hYiX6LMP8w8d0kEc4KWuW) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [In This Light and on This Evening](https://open.spotify.com/album/4JO30GKQBd4SRLZSBwtTPY) | 5:24 | 2022-07-21 | 2022-09-21 |

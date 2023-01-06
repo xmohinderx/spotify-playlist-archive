@@ -4,7 +4,7 @@
 
 > Hold up, run that back\. Cover: Baby Keem
 
-128 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/2xBkkbJBAkF0lenXSwyyYz)
+128 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

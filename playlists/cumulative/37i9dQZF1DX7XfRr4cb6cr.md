@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-191 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
+191 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

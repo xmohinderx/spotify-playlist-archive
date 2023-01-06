@@ -4,7 +4,7 @@
 
 > Let this upbeat playlist power you through your day
 
-306 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/3DbxxfoAnAHXxgQUN2EJib)
+306 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

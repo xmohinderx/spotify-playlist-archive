@@ -4,7 +4,7 @@
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Dimmu Borgir
 
-322 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
+322 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Funeral Fog](https://open.spotify.com/track/2lXi7xN0MiTfLb2DW7H9UT) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 5:47 | 2022-07-13 |  |
 | [Gehenna](https://open.spotify.com/track/3x2A8myfYInyflbGmZKQDD) | [Se, Josta Ei Puhuta](https://open.spotify.com/artist/1n64pzlYBm5zq9Mvf8C0dk) | [Gehenna](https://open.spotify.com/album/6BFtNQI9JIkLEmcrlWLRdi) | 4:12 | 2021-12-17 | 2022-07-27 |
 | [God Is Wasted](https://open.spotify.com/track/3dX9IN7FSVn1fQZotgM0KU) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/5A0LRCVTtoyd5EWpHdwB11) | 4:18 | 2022-07-13 | 2022-07-29 |
-| [God Is Wasted](https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX) | 4:18 | 2022-07-13 |  |
+| [God Is Wasted](https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX) | 4:18 | 2022-07-13 | 2023-01-06 |
 | [Gods of Debauchery](https://open.spotify.com/track/03Zhio4cTHx7feyvJv0DgU) | [Seven Spires](https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o) | [Gods of Debauchery](https://open.spotify.com/album/7sDWktL9q8E53QJQjdLmsd) | 6:46 | 2021-12-17 | 2022-03-11 |
 | [Grains](https://open.spotify.com/track/3qJXf6sD3q7fjIBFYEqtlT) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Grains](https://open.spotify.com/album/5p0MfkqRPyvmTw8F4z0cYh) | 6:05 | 2022-03-10 | 2022-03-19 |
 | [Gudars Skymning](https://open.spotify.com/track/4JldgoBVqonhtwE0BX6RzE) | [Night Crowned](https://open.spotify.com/artist/5SErd5q1jffsYwFs3ssVJh) | [Hädanfärd](https://open.spotify.com/album/2IGPyXQg373IL5pfZNhtWc) | 5:52 | 2021-12-17 | 2022-04-02 |
@@ -213,7 +213,7 @@
 | [Nosferatu](https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [We Are The Apocalypse](https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs) | 4:41 | 2022-03-18 | 2022-11-26 |
 | [Nova](https://open.spotify.com/track/0y5B4FwoB7yWQvgeXcc3gC) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nova](https://open.spotify.com/album/48KBRtfdI5mzRsoTuOKC13) | 4:36 | 2022-02-11 | 2022-03-19 |
 | [Nowhere, Still Somewhere](https://open.spotify.com/track/7C5IPnZ3qx9yobcFi4qwGA) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nowhere, Still Somewhere](https://open.spotify.com/album/45GeiEbVAqyGByCLuNMkfd) | 4:34 | 2021-12-17 | 2022-01-15 |
-| [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 | 2022-01-21 | 2022-08-23 |
+| [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 | 2022-01-21 |  |
 | [Of Blood and Tears](https://open.spotify.com/track/77CRIpEPQFDZAY4wOMACbh) | [Naraka](https://open.spotify.com/artist/7Js05ttQyRt4Pczu0F2LRo) | [In Tenebris](https://open.spotify.com/album/4ep3HzckKB6SLCbJUhq49v) | 5:24 | 2021-12-17 | 2022-05-21 |
 | [On the Shore of Eternity](https://open.spotify.com/track/6a8iR9C7Mi5Gkww7yOyoJE) | [Hanging Garden](https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN) | [Neither Moth nor Rust](https://open.spotify.com/album/1QVMTChYOhXsAyRC949Nkt) | 4:13 | 2022-01-21 | 2022-07-29 |
 | [One by One](https://open.spotify.com/track/65sql5o05skwJ6frSq4exl) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Sons of Northern Darkness](https://open.spotify.com/album/2CdmVpeV91e5nfN1kJ6hGj) | 4:58 | 2022-07-13 |  |

@@ -4,7 +4,7 @@
 
 > Quiet music for reading, curl up with a good book and a calm piano playlist in the background.
 
-564 songs - 1 day 0 hr 34 min - [published](https://open.spotify.com/playlist/7Bls3S4IjzzI4A2ncl4Q9i)
+564 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-709 songs - 1 day 13 hr 43 min - [published](https://open.spotify.com/playlist/7AErLDUggnFbzZO3gre4Ta)
+709 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB?si=kIJ9OaJFRY\-\_DktMB6Logg"> STRAFITTI</a>
 
-311 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
+311 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

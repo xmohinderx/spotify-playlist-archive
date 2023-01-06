@@ -4,7 +4,7 @@
 
 > Una sensual selección de canciones para bailar en una sola baldosa.
 
-79 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/5e64oDpSbQovckjKQVo4HX)
+79 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

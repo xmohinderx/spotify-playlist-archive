@@ -4,7 +4,7 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Bring Me The Horizon
 
-143 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/74UBTR7z0vAmQsRIWWsXwK)
+143 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Escucha las canciones de pop más exitosas en México\. Matisse y Edén Muñoz en portada.
 
-240 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/1nDBCqiK6HvT2BsLItZYgM)
+240 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

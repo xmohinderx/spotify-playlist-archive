@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: DD Osama
 
-486 songs - 22 hr 10 min - [published](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
+486 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

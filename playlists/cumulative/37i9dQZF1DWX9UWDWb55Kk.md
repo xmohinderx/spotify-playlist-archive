@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-351 songs - 22 hr 30 min - not published yet
+351 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

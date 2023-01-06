@@ -4,7 +4,7 @@
 
 > Las canciones de reggaetón que marcaron el año, con Myke Towers en portada.
 
-57 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/7FdxNB3nYpH9CWeuAB2zln)
+57 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

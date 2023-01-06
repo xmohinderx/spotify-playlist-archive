@@ -4,7 +4,7 @@
 
 > New music from female\-identifying artists\. Cover: <a href=“spotify:artist:39i5B6umzWzkfMe12JrMwW”>TiaCorine</a>
 
-704 songs - 1 day 13 hr 59 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+704 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

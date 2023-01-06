@@ -4,7 +4,7 @@
 
 > Music from Studio Chizu's new movie "BELLE"!  ©︎STUDIO CHIZU/ 映画『竜とそばかすの姫』の音楽をプレイリストで。豪華ミュージシャン、作家陣が音楽の魅力を語る「Music+Talk」版は<a href="spotify:show:0GVl86Z7umr9JEu8EhN22m">こちら</a>
 
-117 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/5X9NxzLaOTgvJcYll8A6Dt)
+117 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: AViVA
 
-225 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
+225 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

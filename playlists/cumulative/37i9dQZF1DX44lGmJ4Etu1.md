@@ -4,7 +4,7 @@
 
 > The Latin Pop hits of yesterday and today all in one place!
 
-189 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/6za6jVxzlqdyqphHX95GNC)
+189 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-83 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/6Mwq2JV69hbC2CLKfkPcBX)
+83 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

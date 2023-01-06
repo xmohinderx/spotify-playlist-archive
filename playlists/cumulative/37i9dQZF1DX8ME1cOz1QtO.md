@@ -4,7 +4,7 @@
 
 > Find the path back to an era of enlightenment.
 
-116 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/5J3EKg539yRy9jhTY0BJOL)
+116 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

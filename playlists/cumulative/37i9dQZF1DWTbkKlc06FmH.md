@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-169 songs - 10 hr 9 min - not published yet
+170 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Garden](https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:49 | 2022-12-15 |  |
 | [Genuine](https://open.spotify.com/track/0oc9vttTtk0Yv0856GYwzw) | [Tsukasa Inoue](https://open.spotify.com/artist/3czcDGwX9EJRdAaiYQKwBn), [大神:OHGA](https://open.spotify.com/artist/3vJfeYxL12SXLvPMwBY25d), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Genuine](https://open.spotify.com/album/2S5UhMvmBlRAInHflPAM7t) | 4:43 | 2022-10-27 | 2022-11-30 |
 | [GET IT](https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:31 | 2022-10-20 |  |
+| [Gone Baby, Don't Be Long](https://open.spotify.com/track/3mw4zCiy6cRqFieD7L4IDp) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [Gone Baby, Don't Be Long](https://open.spotify.com/album/0amr9WM6hmjOA09JwSV2si) | 7:53 | 2023-01-06 |  |
 | [Good Company](https://open.spotify.com/track/0bs4c6mFxhNMqQvOjv4vR3) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Company](https://open.spotify.com/album/2PgLWCDmJKChhZab33Pth9) | 2:37 | 2022-12-06 |  |
 | [Good Lovin](https://open.spotify.com/track/67GSli4TH2MYpm2YbXv8Pr) | [Flamingo Cartel](https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D), [DJ TARO](https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo), [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ), [Julisa](https://open.spotify.com/artist/37jvpuURr5W4XN4JDVx744) | [Good Lovin](https://open.spotify.com/album/3UhvdOKBVUwsTtihw50T4K) | 3:21 | 2022-11-05 | 2022-11-30 |
 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 | 2022-10-20 |  |
@@ -173,7 +174,7 @@
 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 | 2022-10-20 | 2022-10-26 |
 | [女の子は誰でも \~Fly Me To Heaven\~ \- STUTS Remix](https://open.spotify.com/track/4XAXBrO1WFHzubLC5pV7jx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [百薬の長](https://open.spotify.com/album/7tean6qlQaKq6tyqzaLrpR) | 4:19 | 2022-11-29 |  |
 | [東京cruisin'](https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [東京cruisin'](https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne) | 3:08 | 2022-11-29 | 2022-12-02 |
-| [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-10-20 |  |
+| [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-10-20 | 2023-01-06 |
 | [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 | 2022-10-27 |  |
 | [肌](https://open.spotify.com/track/4feplpsR36DD09WfE5MqLl) | [DADARAY](https://open.spotify.com/artist/5YVpCleE4Ysa6YRa66nzIN) | [肌](https://open.spotify.com/album/3gt2UvnXJQHQugGxaZO6Jx) | 3:43 | 2022-12-01 |  |
 | [都会](https://open.spotify.com/track/2xnakNkUj5CFdWQ8kK0BME) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [都会](https://open.spotify.com/album/2gRN2uSvRB2TV5TUOlMhU7) | 3:53 | 2022-11-08 | 2022-11-25 |

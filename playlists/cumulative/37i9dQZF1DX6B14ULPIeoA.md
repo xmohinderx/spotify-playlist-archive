@@ -4,7 +4,7 @@
 
 > Ya vienen los Reyes Magos...
 
-185 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/73UOu4GnK799VXnAbtt9LK)
+185 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Hasan Raheem
 
-142 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
+142 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

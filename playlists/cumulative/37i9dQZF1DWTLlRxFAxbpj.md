@@ -4,7 +4,7 @@
 
 > You're on Spring Break...turn it up and start acting like it!
 
-121 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/71CyiFhCCLykEokdnepQoU)
+121 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: The Cool Greenhouse
 
-299 songs - 18 hr 40 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+299 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

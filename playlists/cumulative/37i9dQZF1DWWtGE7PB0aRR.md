@@ -4,7 +4,7 @@
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-116 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
+116 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > it's never too early.
 
-208 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/6cghO0Da93k5eTyAVNppYC)
+208 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

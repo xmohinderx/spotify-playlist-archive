@@ -4,7 +4,7 @@
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-268 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/2JiEqFHGgu7m6aY1C9iMqg)
+268 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

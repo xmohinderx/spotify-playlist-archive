@@ -4,7 +4,7 @@
 
 > New and classic Christmas tales for kids.
 
-27 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/3pMEDRDXVuKCgKz7VOTu3e)
+27 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

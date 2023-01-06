@@ -4,7 +4,7 @@
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Drake, Stormzy, DJ Khaled, and more
 
-105 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/14bEBF0XIXvpomoPm6muAO)
+105 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

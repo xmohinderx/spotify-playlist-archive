@@ -4,7 +4,7 @@
 
 > Welcome the weekend with these happy hits\. Cover\- Sidharth Malhotra, Alia Bhatt, and Fawad Khan
 
-69 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/4Sm5SJqJJCGKhlh0mSnJQm)
+69 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

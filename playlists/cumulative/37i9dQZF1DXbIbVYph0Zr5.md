@@ -4,7 +4,7 @@
 
 > The perfect soundtrack recipe for a backyard barbecue!
 
-189 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/0jQ54mEPRoiJAcBR4wlz5Q)
+189 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

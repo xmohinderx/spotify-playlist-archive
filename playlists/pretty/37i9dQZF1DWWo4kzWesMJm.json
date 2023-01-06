@@ -1,12 +1,12 @@
 {
   "description": "L'autoroute des tubes fran\u00e7ais !",
-  "num_followers": 59815,
+  "num_followers": 59898,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQwNDE1MSwwMDAwMDAwMGUwYzY4OTFjMGVkNTQ4ODUwMjQ5MjhlMmIyMTNhZmM2",
+  "snapshot_id": "MTY3MDQwNDE1MSwwMDAwMDAwMGFjZmQzM2FlNzZkYzQwMThiNzEzZTNiNDhjN2Y0NDM2",
   "tracks": [
     {
       "added_at": "2022-12-07 09:09:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Coup de soleil",
-        "url": "https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK"
-      },
-      "artists": [
-        {
-          "name": "ELISA ERKA",
-          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
-        }
-      ],
-      "duration_ms": 162980,
-      "name": "Coup de soleil",
-      "url": "https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
         "name": "Palais d'argile",
         "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 214464,
       "name": "Monde Nouveau",
       "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "L'Ange De Mon D\u00e9mon",
+        "url": "https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0"
+      },
+      "artists": [
+        {
+          "name": "Ridan",
+          "url": "https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ulysse",
+      "url": "https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "L'Ange De Mon D\u00e9mon",
-        "url": "https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0"
+        "name": "Coup de soleil",
+        "url": "https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK"
       },
       "artists": [
         {
-          "name": "Ridan",
-          "url": "https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz"
+          "name": "ELISA ERKA",
+          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
         }
       ],
-      "duration_ms": 219333,
-      "name": "Ulysse",
-      "url": "https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7"
+      "duration_ms": 162980,
+      "name": "Coup de soleil",
+      "url": "https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Libert\u00e9 ch\u00e9rie",
-        "url": "https://open.spotify.com/album/7lxtIDOmhph5iuna24OZHC"
+        "name": "la derniere annee",
+        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
       },
       "artists": [
         {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
         }
       ],
-      "duration_ms": 226386,
-      "name": "1987",
-      "url": "https://open.spotify.com/track/56tfg3H8mcJ8eIKuyCWamX"
+      "duration_ms": 221666,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "la derniere annee",
-        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
+        "name": "Libert\u00e9 ch\u00e9rie",
+        "url": "https://open.spotify.com/album/7lxtIDOmhph5iuna24OZHC"
       },
       "artists": [
         {
-          "name": "De Palmas",
-          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+      "duration_ms": 226386,
+      "name": "1987",
+      "url": "https://open.spotify.com/track/56tfg3H8mcJ8eIKuyCWamX"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Le Premier Jour",
-        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Le Premier jour (Du reste de ta vie)",
-      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
         "name": "Cach\u00e9 derri\u00e8re",
         "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 215160,
       "name": "Le pouvoir des fleurs",
       "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "Le Premier Jour",
+        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Le Premier jour (Du reste de ta vie)",
+      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
         }
       ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
+      "duration_ms": 250746,
+      "name": "Rockollection",
+      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
       },
       "artists": [
         {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
         }
       ],
-      "duration_ms": 250746,
-      "name": "Rockollection",
-      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
     },
     {
       "added_at": "2022-12-07 09:09:11",

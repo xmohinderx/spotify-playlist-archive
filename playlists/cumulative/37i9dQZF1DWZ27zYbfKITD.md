@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-75 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
+75 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

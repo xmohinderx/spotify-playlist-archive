@@ -4,7 +4,7 @@
 
 > Posłuchaj głosu polskich artystów LGBTQIA+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Zawadzki
 
-82 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
+82 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

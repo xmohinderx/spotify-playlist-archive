@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-162 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
+162 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

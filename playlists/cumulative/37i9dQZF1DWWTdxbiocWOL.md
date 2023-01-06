@@ -4,7 +4,7 @@
 
 > Aerial post\-rock sounds to take you somewhere else.
 
-88 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/2vUbCCQUSY5J25PxfmpGKN)
+88 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

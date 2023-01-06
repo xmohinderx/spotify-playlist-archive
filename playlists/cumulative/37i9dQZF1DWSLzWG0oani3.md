@@ -4,7 +4,7 @@
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-100 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
+100 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

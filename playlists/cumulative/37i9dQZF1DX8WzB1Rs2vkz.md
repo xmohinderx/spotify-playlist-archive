@@ -4,7 +4,7 @@
 
 > ¡Un amor que te hace bailar!
 
-80 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/2lymHG74BVSi4WY59SAeB3)
+80 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

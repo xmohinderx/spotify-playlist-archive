@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw blues.
 
-139 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
+139 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

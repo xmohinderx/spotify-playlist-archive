@@ -4,7 +4,7 @@
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-97 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/6svP3bBxJ9EcvyqG2SOUXM)
+97 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

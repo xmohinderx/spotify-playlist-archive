@@ -4,7 +4,7 @@
 
 > Classic rock to get your motor running\. Cover: AC/DC
 
-202 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/3cdz0aucHBK1vPaIUIR7Mz)
+202 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > House Music legend S\-Man, aka <a href="spotify:artist:1HT9k1ZSUL9IczSstOAgWJ">Roger Sanchez</a>, takes us on a ride with his latest DJ set.
 
-14 songs - 59 min 56 sec - not published yet
+14 songs - 59 min 56 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

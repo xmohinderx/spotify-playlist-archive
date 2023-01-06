@@ -4,7 +4,7 @@
 
 > All the jams\. Cover: Miguel
 
-109 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/04WS0KlVVfaMfaSoMjxTDE)
+109 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

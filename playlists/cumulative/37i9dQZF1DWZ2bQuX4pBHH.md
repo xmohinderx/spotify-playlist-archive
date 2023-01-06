@@ -4,7 +4,7 @@
 
 > Essential tracks of Shah Rukh Khan all in one playlist
 
-116 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/3bi7qEBs4b1V7N3RlOgtiv)
+116 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

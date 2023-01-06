@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros
 
-138 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+138 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

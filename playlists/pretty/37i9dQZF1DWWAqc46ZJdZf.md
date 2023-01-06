@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,148 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,012 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 50 | [I Cry](https://open.spotify.com/track/3rDZ6pStaJhzk1mXjDyOfR) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [I Cry](https://open.spotify.com/album/1wztw3SRnkENNyMW2o5wmy) | 3:38 |
 | 51 | [Black Is Beautiful](https://open.spotify.com/track/2hq1MJnuAPnJfNm3xGdqZp) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:39 |
 | 52 | [Tribe](https://open.spotify.com/track/3genAqdJAms2ifNFdbC4EO) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:33 |
-| 53 | [FTP](https://open.spotify.com/track/2RBsmtiaD90yNFtqkFjBVW) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [FTP](https://open.spotify.com/album/03WHzx89aK1pKO9GZzlSH7) | 2:42 |
-| 54 | [Let Love Lead](https://open.spotify.com/track/6ezWbOb22Pih3yFT0DTyUD) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Let Love Lead](https://open.spotify.com/album/5BEemxdbH4HsY8OHUTcL23) | 3:55 |
+| 53 | [Let Love Lead](https://open.spotify.com/track/6ezWbOb22Pih3yFT0DTyUD) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Let Love Lead](https://open.spotify.com/album/5BEemxdbH4HsY8OHUTcL23) | 3:55 |
+| 54 | [FTP](https://open.spotify.com/track/2RBsmtiaD90yNFtqkFjBVW) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [FTP](https://open.spotify.com/album/03WHzx89aK1pKO9GZzlSH7) | 2:42 |
 | 55 | [Ashamed](https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Ashamed](https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL) | 2:27 |
 | 56 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 |
 | 57 | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/track/1HVX9i2RIAIAzPeZrqqRiL) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/album/0wui0K5vPI3iVI4DfRhGvw) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 | 60 | [True To The Game](https://open.spotify.com/track/01XVwBiMgmGt5Q3GO1YNp9) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 4:10 |
 
-Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMGRlNTFjMzlmMTQ0ZWFhZDRmZGU4YWY0MzkwZTJmOGI5`
+Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMGMzYTRmYWNkMjJmMGJlN2U5MzA1OTY3OWY5NGRhY2Rk`

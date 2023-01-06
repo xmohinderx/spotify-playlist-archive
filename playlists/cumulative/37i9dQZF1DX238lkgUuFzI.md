@@ -4,7 +4,7 @@
 
 > 2022 highlight from the misfits 2.0 universe\. Cover: Bring Me The Horizon
 
-108 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/1SAU5RhpSqUWVCaX01XWdm)
+108 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

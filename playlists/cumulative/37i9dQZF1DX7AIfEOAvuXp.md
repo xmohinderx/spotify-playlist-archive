@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-179 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
+179 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

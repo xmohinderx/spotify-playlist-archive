@@ -4,7 +4,7 @@
 
 > Piano music to get some work done! <br/>Reading, writing, studying, learning to the sound of soft work music.
 
-608 songs - 1 day 2 hr 30 min - [published](https://open.spotify.com/playlist/7cjodZVzQ3VbBI3fx7ewwS)
+608 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

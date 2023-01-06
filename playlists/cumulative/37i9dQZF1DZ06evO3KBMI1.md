@@ -4,7 +4,7 @@
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-90 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/4BvGS6QmMp3Lq2pFlrq9Ly)
+90 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,804 likes - 47 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,106 likes - 47 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 46 | [It's Gettin' Better \(Man!!\) \(Live at Knebworth, 11 August '96\)](https://open.spotify.com/track/19r7EyyRHEzagsDFZxQBmH) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:56 |
 | 47 | [I Am The Walrus \(Live at Knebworth, 11 August '96\)](https://open.spotify.com/track/1vvlQgoUYdBICnqzuREVnI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 6:40 |
 
-Snapshot ID: `Mjc4ODA3MzQsMDAwMDAwMDA4YjYzYjdhYzZlZDJkMjk5ZWE2OTI4MTU3YjA5N2UyMQ==`
+Snapshot ID: `Mjc4ODIxNTksMDAwMDAwMDAyZGU4NDI1ZWM1ODYxZjUzZDA4YTgyZmFhZGY2MTBmNA==`

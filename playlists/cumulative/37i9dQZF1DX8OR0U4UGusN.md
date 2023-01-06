@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-213 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
+213 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

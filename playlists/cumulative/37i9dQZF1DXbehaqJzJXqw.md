@@ -4,7 +4,7 @@
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-153 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/0n3iccKC8QyenwGtq9NXxf)
+153 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

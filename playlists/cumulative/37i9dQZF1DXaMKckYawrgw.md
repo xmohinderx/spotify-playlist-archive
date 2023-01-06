@@ -4,7 +4,7 @@
 
 > Ska con cuadritos blancos, negros, y tricolores\. La Tremenda Korte en portada.
 
-140 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/7o4h9V9vhPDNT8jAt3VvIq)
+140 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-164 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
+164 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6144,
+  "num_followers": 6149,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDdmZDIwNTI1NjM3YTIyNzVkZjQ4ZWJlZDNjM2ZhZDli",
+  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDE1MzgyYzQ5NzdiMDUzZWI2MmM4OGU4ZmQ0NGJkMGY4",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Porque Ele Vive (Voz e Viol\u00e3o)",
+        "url": "https://open.spotify.com/album/5FITCXCCV96scIxzzeLBuI"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Porque Ele Vive",
+      "url": "https://open.spotify.com/track/7DK9ghk8bJnOD3PdzjV16f"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "\u00d3 Noite Santa",
         "url": "https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 234663,
       "name": "Gl\u00f3ria e Aleluia - Christmas",
       "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Porque Ele Vive (Voz e Viol\u00e3o)",
-        "url": "https://open.spotify.com/album/5FITCXCCV96scIxzzeLBuI"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Porque Ele Vive",
-      "url": "https://open.spotify.com/track/7DK9ghk8bJnOD3PdzjV16f"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        }
-      ],
-      "duration_ms": 210372,
-      "name": "Dai Louvores ao Rei",
-      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Louvor VII",
         "url": "https://open.spotify.com/album/78tY0SGJ9jUGHVjsCfLjpX"
       },
@@ -507,18 +491,38 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Natal",
-        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
       "artists": [
         {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
         }
       ],
-      "duration_ms": 204196,
-      "name": "Natal",
-      "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
+      "duration_ms": 210372,
+      "name": "Dai Louvores ao Rei",
+      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Gl\u00f3ria a Deus nas Alturas",
+        "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
+      },
+      "artists": [
+        {
+          "name": "Laura Morena",
+          "url": "https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU"
+        },
+        {
+          "name": "Sullivan Dutra",
+          "url": "https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki"
+        }
+      ],
+      "duration_ms": 242192,
+      "name": "Gl\u00f3ria a Deus nas Alturas",
+      "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -559,22 +563,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Gl\u00f3ria a Deus nas Alturas",
-        "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
+        "name": "Natal",
+        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
       },
       "artists": [
         {
-          "name": "Laura Morena",
-          "url": "https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU"
-        },
-        {
-          "name": "Sullivan Dutra",
-          "url": "https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki"
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
         }
       ],
-      "duration_ms": 242192,
-      "name": "Gl\u00f3ria a Deus nas Alturas",
-      "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
+      "duration_ms": 204196,
+      "name": "Natal",
+      "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Primeiro Natal (The First Noel)",
-      "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Natal Real",
         "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 256217,
       "name": "Natal Real",
       "url": "https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Primeiro Natal (The First Noel)",
+      "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -875,22 +875,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Meu Natal",
-        "url": "https://open.spotify.com/album/0hqPJXin6tnErxVYK6i4jA"
+        "name": "Cl\u00e1ssicos",
+        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
       },
       "artists": [
         {
-          "name": "Jeanne Mascarenhas",
-          "url": "https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
         }
       ],
-      "duration_ms": 255986,
-      "name": "Tenha pra Voc\u00ea um Feliz Natal",
-      "url": "https://open.spotify.com/track/1y0oEieIbO267rpUEpvgMM"
+      "duration_ms": 220788,
+      "name": "Maravilhoso \u00c9 / Rei dos Reis",
+      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
     }
   ],
   "unique_name": "Louvores de Natal",

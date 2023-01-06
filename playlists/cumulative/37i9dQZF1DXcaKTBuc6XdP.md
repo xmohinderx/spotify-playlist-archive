@@ -4,7 +4,7 @@
 
 > A playlist of Christian summer camp favorites, past and present.
 
-63 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/4zi31rdXvldSXq3voUeFgF)
+63 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

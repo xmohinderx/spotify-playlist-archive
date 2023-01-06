@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-279 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+279 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

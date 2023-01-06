@@ -4,7 +4,7 @@
 
 > Con muchas rimas y amor.
 
-321 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/2WBamNTnCDPUx0LeQlwfJ9)
+321 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

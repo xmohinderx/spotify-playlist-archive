@@ -4,7 +4,7 @@
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-187 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/7juXk18uqyskcYtmS5tHhQ)
+187 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

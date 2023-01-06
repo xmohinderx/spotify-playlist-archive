@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-66 songs - 3 hr 59 min - not published yet
+66 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

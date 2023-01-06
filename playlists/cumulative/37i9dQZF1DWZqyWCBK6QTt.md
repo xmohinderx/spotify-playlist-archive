@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: Sara James.
 
-384 songs - 23 hr 41 min - [published](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
+384 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

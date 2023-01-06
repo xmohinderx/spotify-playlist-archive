@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma?si=9_ztbYjLSueEdImNuk_0pg\">Irene-Louise Van Wyk</a>",
+  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH?si=wRplUt7FSF2-9SmbK0jmwA\">Juan Boucher</a>",
   "name": "Nuwe Afrikaans",
-  "published_playlist_ids": [
-    "0RKP7WChEoliblztnGqALh"
-  ],
   "tracks": [
     {
       "album": {
@@ -1332,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "Jou Lewe",
+        "url": "https://open.spotify.com/album/52fdYMXWTbAFIqPn4ZJtcR"
+      },
+      "artists": [
+        {
+          "name": "Frans Karoo",
+          "url": "https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Jou Lewe",
+      "url": "https://open.spotify.com/track/2YJQQKNthSG8i443BZ65Np"
+    },
+    {
+      "album": {
         "name": "Jy Moet Weet",
         "url": "https://open.spotify.com/album/3nQ2cPzgpbuA5QwUhwBhRj"
       },
@@ -1423,7 +1438,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 293186,
       "name": "Kersfees Is Jesus",
       "url": "https://open.spotify.com/track/7fbH4h0eU2m8mJqWCnBS4j"
@@ -1710,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Lekker Hou",
+        "url": "https://open.spotify.com/album/6O1qzf3Uy1fdsTGKbZmJHB"
+      },
+      "artists": [
+        {
+          "name": "Augusta Zietsman",
+          "url": "https://open.spotify.com/artist/3jZWDJXxKcoeidgkf8N6mO"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173919,
+      "name": "Lekker Hou",
+      "url": "https://open.spotify.com/track/5vIAa51osMoYOFRXcVxURY"
+    },
+    {
+      "album": {
         "name": "Lekker In Suid-Afrika",
         "url": "https://open.spotify.com/album/6tY0nQArsx8hwTIjPG3Gc6"
       },
@@ -1887,7 +1920,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 208226,
       "name": "Lyfie",
       "url": "https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu"
@@ -3295,7 +3328,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 192679,
       "name": "Uit Bethlehem",
       "url": "https://open.spotify.com/track/5vQzoDbfOQ8ZHLsUgVkfrz"
@@ -3697,6 +3730,24 @@
       "duration_ms": 205294,
       "name": "Wie's Jou Kat?",
       "url": "https://open.spotify.com/track/1cpPxUeohprGjsQInKBggX"
+    },
+    {
+      "album": {
+        "name": "Wind Oor Die Berge",
+        "url": "https://open.spotify.com/album/2dJlSMrpuRPH1HkKqNjogS"
+      },
+      "artists": [
+        {
+          "name": "Tertius rooi",
+          "url": "https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Wind Oor Die Berge",
+      "url": "https://open.spotify.com/track/0VJlsGRJCojYup9mWi72t2"
     },
     {
       "album": {

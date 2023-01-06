@@ -4,7 +4,7 @@
 
 > DMV music breaking waves\. Cover: Shy Glizzy
 
-304 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
+304 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

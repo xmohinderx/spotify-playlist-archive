@@ -4,7 +4,7 @@
 
 > Check your vibe with Epic Records.
 
-141 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/6P9X9MwCBeNsFzdG2NDQp3)
+141 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

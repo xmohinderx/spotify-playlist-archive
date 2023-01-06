@@ -4,7 +4,7 @@
 
 > Piano music for your massage session.
 
-172 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/0MT14IFeha7RvTUzzRUcTI)
+172 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

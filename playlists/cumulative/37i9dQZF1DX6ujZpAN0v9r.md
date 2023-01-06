@@ -4,7 +4,7 @@
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Cover: my bloody valentine
 
-227 songs - 17 hr 23 min - [published](https://open.spotify.com/playlist/5wox3oqTyq5tKxLClFEbq5)
+227 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

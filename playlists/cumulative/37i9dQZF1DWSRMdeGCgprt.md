@@ -4,7 +4,7 @@
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-37 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/5rW6Jls37bSKk3xmMYdx8M)
+37 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

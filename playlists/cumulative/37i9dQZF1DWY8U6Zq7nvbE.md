@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-309 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/4k2X8AujYuVA9s50gTmPB1)
+309 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

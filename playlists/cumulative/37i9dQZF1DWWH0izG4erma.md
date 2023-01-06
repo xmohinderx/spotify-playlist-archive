@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!! Cover: HARDY
 
-207 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+207 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

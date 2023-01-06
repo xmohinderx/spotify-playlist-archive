@@ -4,7 +4,7 @@
 
 > Unwind to these easy classics from the 2010s...
 
-178 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/0oEW2djZdF5843olQKfDJx)
+178 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

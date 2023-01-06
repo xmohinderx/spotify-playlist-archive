@@ -4,7 +4,7 @@
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-238 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/2VTzOCqf9seV9cXRnrcZT1)
+238 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

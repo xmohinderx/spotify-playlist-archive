@@ -4,7 +4,7 @@
 
 > Listen to these flows during your yoga flow.
 
-140 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/0w38tJ0DK6jJgEZIRyEAWI)
+140 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems\. Cover: Hazel Dickens & Alice Gerrard
 
-87 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/07yp3lWFtNeOSgqePmPMKz)
+87 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

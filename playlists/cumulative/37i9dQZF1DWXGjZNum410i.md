@@ -4,7 +4,7 @@
 
 > Disfruta de canciones pop para toda la familia.
 
-95 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5lm2tsooLm52Qsh6cOQMDm)
+95 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

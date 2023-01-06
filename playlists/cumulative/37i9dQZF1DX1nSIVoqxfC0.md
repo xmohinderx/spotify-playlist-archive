@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-324 songs - 22 hr 47 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
+325 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [LA Ride](https://open.spotify.com/track/6B3bVeUIIaxyaut1yKA2hq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Kaleidoscope](https://open.spotify.com/album/3LWrYfernAQQUBvxlPxeZd) | 4:13 | 2020-10-20\* | 2022-07-29 |
 | [Last Train](https://open.spotify.com/track/5WF8uMHYX8onyE5lJj3zk1) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 4:48 | 2020-10-20\* |  |
 | [Lasting Lover \- Tiësto Remix](https://open.spotify.com/track/3fIkn0ksMuH91GpflwmpJf) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lasting Lover \(Tiësto Remix\)](https://open.spotify.com/album/5Et99TQHMNNxn8YhG0XuZu) | 3:32 | 2020-10-30 |  |
+| [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-05 |  |
 | [Let Me Love You \- Tiësto's AFTR:HRS Mix](https://open.spotify.com/track/59zB2gWw14YjGDfwkAMfv1) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [House Party](https://open.spotify.com/album/56i9CE1lxolHuCyOwQeuAs) | 2:35 | 2022-11-10 | 2022-11-13 |
 | [Let Me Love You \- Tiësto's AFTR:HRS Mix](https://open.spotify.com/track/6ULNtDItJ3KUniAOt7iuxv) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Let Me Love You \(Tiësto's AFTR:HRS Mix\)](https://open.spotify.com/album/6GhJLXDvJdlYWK9ZrlTwDl) | 2:35 | 2020-10-20\* | 2022-07-29 |
 | [Let Me Love You \- Tiësto's AFTR:HRS Mix](https://open.spotify.com/track/7srwQKnqYsIY26Aatbazaq) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Let Me Love You \(Tiësto's AFTR:HRS Mix\)](https://open.spotify.com/album/1ASGnaVLO875GdjJBGFUEH) | 2:35 | 2022-07-28 |  |

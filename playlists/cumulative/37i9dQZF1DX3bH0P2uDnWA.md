@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-246 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+246 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best indie rock/pop/punk/dance/hip hop/r&b of 2019\. Cover: Clairo
 
-86 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/5hz8Xvsg73JZ8spEinKWb8)
+86 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

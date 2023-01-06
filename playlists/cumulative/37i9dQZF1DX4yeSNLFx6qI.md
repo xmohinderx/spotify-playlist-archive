@@ -4,7 +4,7 @@
 
 > Se acabó el amor\. La música continúa.
 
-182 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/5ip3Hsabx9kyB1i1dzdp3Y)
+182 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

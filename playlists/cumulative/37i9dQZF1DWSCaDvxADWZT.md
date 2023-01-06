@@ -4,7 +4,7 @@
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-176 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/6NuDy1yqJIupGY1iTzbTeX)
+176 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

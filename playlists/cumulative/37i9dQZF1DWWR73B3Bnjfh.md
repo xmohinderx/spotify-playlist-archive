@@ -4,7 +4,7 @@
 
 > The melancholic and soft sound of Jazz.
 
-144 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/0KmOAff9Qu5XjfAKEmMLdc)
+144 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: The Specials
 
-235 songs - 16 hr 55 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
+235 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

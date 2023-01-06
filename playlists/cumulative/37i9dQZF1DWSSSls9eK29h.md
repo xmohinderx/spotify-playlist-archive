@@ -4,7 +4,7 @@
 
 > So smooth, so classic\. Cover: George Benson
 
-72 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/0ZDIbBqEKDIwnLMRTztqt6)
+72 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

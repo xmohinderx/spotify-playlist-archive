@@ -4,7 +4,7 @@
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: متعب الشعلان
 
-86 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
+86 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

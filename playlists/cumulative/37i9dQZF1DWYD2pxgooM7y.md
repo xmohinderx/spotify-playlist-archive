@@ -4,7 +4,7 @@
 
 > Summertime sadness everyday
 
-426 songs - 23 hr 42 min - [published](https://open.spotify.com/playlist/6cyWpehxt0KCj4u5mLdL90)
+426 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

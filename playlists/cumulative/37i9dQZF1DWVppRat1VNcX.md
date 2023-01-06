@@ -4,7 +4,7 @@
 
 > Get all your kids' amigos together and play while listening to these awesome tunes!
 
-64 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/2t1XR7zPkxNpjRkveREXaS)
+64 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

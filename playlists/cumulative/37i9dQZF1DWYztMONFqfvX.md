@@ -4,7 +4,7 @@
 
 > The Bollywood crooner's best songs.
 
-88 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/5a0HCfJmRc8ZpTMvehGeYq)
+88 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

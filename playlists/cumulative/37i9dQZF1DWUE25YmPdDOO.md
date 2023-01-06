@@ -4,7 +4,7 @@
 
 > Canciones de Rock con un toque de nostalgia.
 
-118 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/0yamtoS3c3M0OZk9jDt8L7)
+118 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

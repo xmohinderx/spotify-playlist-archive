@@ -4,7 +4,7 @@
 
 > Grandes hits da música pop pra agitar sua festa com os pequenos!
 
-79 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/48CdodPiAlOVbdO0QWnV7F)
+79 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

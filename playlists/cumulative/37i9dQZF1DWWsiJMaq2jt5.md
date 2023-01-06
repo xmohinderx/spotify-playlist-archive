@@ -4,7 +4,7 @@
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Zalia
 
-756 songs - 1 day 17 hr 16 min - [published](https://open.spotify.com/playlist/4GLTrwzQfm5erozUlasyTG)
+756 songs - 1 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

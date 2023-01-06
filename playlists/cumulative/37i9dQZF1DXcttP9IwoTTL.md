@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-259 songs - 1 day 1 hr 34 min - [published](https://open.spotify.com/playlist/2Ef1pT9lprEUZ0GG1CMnv6)
+259 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

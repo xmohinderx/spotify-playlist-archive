@@ -4,7 +4,7 @@
 
 > For those who like to party hard!
 
-90 songs - 5 hr 58 min - not published yet
+90 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

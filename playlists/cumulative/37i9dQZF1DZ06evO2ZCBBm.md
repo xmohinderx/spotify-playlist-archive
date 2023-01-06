@@ -4,7 +4,7 @@
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/3RSWdYQk2ESbtH2oh3V7bX)
+73 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

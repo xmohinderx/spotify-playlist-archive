@@ -4,7 +4,7 @@
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-147 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/07zdgoDKJ8jxaVLlbQqEma)
+147 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Brisa](https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Brisa](https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK) | 2:31 | 2021-07-02 | 2022-07-29 |
 | [Burguesinha](https://open.spotify.com/track/3mXjQTPztvXVRuL6tt6jY3) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [América Brasil O Disco](https://open.spotify.com/album/5TjMovSYXlYcz8y10cBwS2) | 4:18 | 2021-07-02 | 2022-07-29 |
 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 | 2021-07-02 |  |
-| [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 | 2021-07-02 |  |
+| [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 | 2021-07-02 | 2023-01-06 |
 | [Cara valente](https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 4:42 | 2021-07-02 | 2022-07-29 |
 | [Caraca, Muleke!](https://open.spotify.com/track/4XR43c2rhTtjEvwlxjDT1K) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Caraca, Muleke! \- Single](https://open.spotify.com/album/3drTyPEFtEBpkCKwWepyvE) | 2:50 | 2021-07-02 | 2022-06-01 |
 | [Cartão Postal](https://open.spotify.com/track/3eucICCnDDnB1i82k99hoy) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Cartão Postal](https://open.spotify.com/album/2eIiUtlaanaoVXdxY35pFK) | 4:16 | 2021-07-02 | 2022-07-26 |
@@ -80,7 +80,7 @@
 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 | 2021-07-02 |  |
 | [Jackie Tequila](https://open.spotify.com/track/4vylvWmzkARLasyWiAMo2I) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Calango](https://open.spotify.com/album/5pp3Fjp4h728libl8vxoFn) | 4:10 | 2021-07-02 | 2022-07-29 |
 | [Jeito Sexy](https://open.spotify.com/track/2pGklev9ODeFJ8eIGoD2Fo) | [Fat Family](https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2) | [Retratos](https://open.spotify.com/album/42PRGs04xwTbtR5UXDqDZP) | 4:12 | 2021-07-02 | 2022-07-29 |
-| [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2021-07-02 | 2023-01-02 |
+| [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2021-07-02 |  |
 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2021-07-02 |  |
 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 | 2021-07-02 |  |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:50 | 2021-07-02 | 2022-11-18 |

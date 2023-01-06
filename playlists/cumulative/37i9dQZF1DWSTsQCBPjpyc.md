@@ -4,7 +4,7 @@
 
 > Blues meets funk\. Cover: Eric Gales
 
-71 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/4VCR7dI4Up8fnUbiFhdzLP)
+71 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-288 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+288 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

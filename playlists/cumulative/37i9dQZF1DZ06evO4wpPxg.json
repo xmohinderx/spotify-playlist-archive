@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is Rev. Gary Davis. The essential tracks, all in one playlist.",
   "name": "This Is Rev. Gary Davis",
-  "published_playlist_ids": [
-    "4P6Wk9XgK4CnFpRzT3XfBU"
-  ],
   "tracks": [
     {
       "album": {
@@ -271,7 +268,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 177666,
       "name": "C-Rag",
       "url": "https://open.spotify.com/track/1GiJmTHq7vLj1ikbdY961s"
@@ -775,7 +772,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 175760,
       "name": "Goin' To Sit Down On The Banks Of The River",
       "url": "https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5"
@@ -1412,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Rev. Gary Davis - The Best of (Live)",
+        "url": "https://open.spotify.com/album/5ZPJN0s0Fp8KR0ZQsaVqNT"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205732,
+      "name": "I'm Going Down To The Banks Of The River - Live",
+      "url": "https://open.spotify.com/track/35JxXNUXfVK0PUpuNOte1Y"
+    },
+    {
+      "album": {
         "name": "Demons & Angels: The Ultimate Collection, Pt. 3",
         "url": "https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd"
       },
@@ -1567,7 +1582,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 218920,
       "name": "Intro - Live in Seattle, WA",
       "url": "https://open.spotify.com/track/3qra42HibmYt47IvJ82B75"
@@ -1693,7 +1708,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 207960,
       "name": "Joy to Know",
       "url": "https://open.spotify.com/track/22NgYpSx3Q4nnClofbL2LL"
@@ -2287,7 +2302,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 185293,
       "name": "O Lord, Search My Heart",
       "url": "https://open.spotify.com/track/32zidKZ81Jd6eK22Mkadqb"
@@ -2521,7 +2536,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 177533,
       "name": "Pure Religion",
       "url": "https://open.spotify.com/track/6xTWLIflbQGvTrYEDG4bMs"
@@ -3547,7 +3562,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 198186,
       "name": "You Got To Go Down",
       "url": "https://open.spotify.com/track/0nPMAv8LxG6CxO4bkP0qi8"

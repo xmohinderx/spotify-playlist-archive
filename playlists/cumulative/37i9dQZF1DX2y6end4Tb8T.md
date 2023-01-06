@@ -4,7 +4,7 @@
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-132 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/7I6QNVjLs0VZaycFD8oEdq)
+132 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

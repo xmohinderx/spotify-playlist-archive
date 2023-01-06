@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-128 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
+128 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

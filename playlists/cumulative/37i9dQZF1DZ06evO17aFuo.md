@@ -4,7 +4,7 @@
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-85 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/141W4WWrwkoW2aNnv9xRdi)
+85 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

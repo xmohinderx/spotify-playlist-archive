@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-135 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/48pLdQsTopl1rcmXXDSwY6)
+135 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [De Puro Curda](https://open.spotify.com/track/3pO7tabfegqefBPsFHpysR) | [Alfredo Belusi](https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe) | [Lo Mejor de Alfredo Belusi](https://open.spotify.com/album/20REqo3uTm8pSvAqvUIsmH) | 2:04 | 2022-03-18 | 2022-07-25 |
 | [De Puro Curda](https://open.spotify.com/track/3uAp3dUUD1uB5JoApVhcby) | [Alfredo Belusi](https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe) | [Lo Mejor de Alfredo Belusi](https://open.spotify.com/album/3wb46GHMf2t8Ljb30eDsB9) | 2:04 | 2022-03-18 |  |
 | [Desde El Alma \- Instrumental](https://open.spotify.com/track/7hc9R31zHkGP84yPheNFFG) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Ausencia](https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF) | 2:55 | 2022-03-18 | 2022-07-29 |
-| [Desde El Alma \- Instrumental](https://open.spotify.com/track/3x4avp1I0TItgRFwytiTsX) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Boleros y Tangos Clásicos Mix](https://open.spotify.com/album/4FQbREiD9Anv7pc1osol0y) | 2:59 | 2022-03-18 | 2023-01-03 |
+| [Desde El Alma \- Instrumental](https://open.spotify.com/track/3x4avp1I0TItgRFwytiTsX) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Boleros y Tangos Clásicos Mix](https://open.spotify.com/album/4FQbREiD9Anv7pc1osol0y) | 2:59 | 2022-03-18 |  |
 | [Desencuentro](https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 2:38 | 2022-03-18 | 2022-07-29 |
 | [Detrás de los Cerros](https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48) | [Orquesta Los Crayones](https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy) | [Detrás de los Cerros](https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9) | 3:10 | 2022-03-18 | 2022-07-29 |
 | [Don Agustín Bardi](https://open.spotify.com/track/4sTyyFYvesp495YKFX8erD) | [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [Viejo Zen del alma](https://open.spotify.com/album/0pzsh5nMb1GJcoIrYrDFMS) | 3:19 | 2022-03-18 | 2022-07-29 |
@@ -85,7 +85,7 @@
 | [Meurte Del Angel](https://open.spotify.com/track/1nVCAvTvxAZ7oPh0eWEv83) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg) | [The Central Park Concert](https://open.spotify.com/album/3Phv4UOzHL7XEHzjKSFgVd) | 3:19 | 2022-03-18 | 2022-07-29 |
 | [Mi Buenos Aires Querido](https://open.spotify.com/track/0iVdym2atUN2WcutBb12Ew) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [Desdén \[1933\-1935\]](https://open.spotify.com/album/4DlSPp6Uy6H5CrLWla9scB) | 2:37 | 2022-03-18 | 2022-07-29 |
 | [Mi Tango Triste](https://open.spotify.com/track/2YH37uc9M1dJGWFTcTKjDM) | [Daniel Ruggiero](https://open.spotify.com/artist/2UD4URrkIUokDksTRHVGHR) | [Bandoneon Es Cultura](https://open.spotify.com/album/05RUxy0iXQPPeBDsQsmdAa) | 5:35 | 2022-03-18 | 2022-07-24 |
-| [Mi Tango Triste](https://open.spotify.com/track/5dRE1WG0rHgpu0SU3QNYs1) | [Daniel Ruggiero](https://open.spotify.com/artist/2UD4URrkIUokDksTRHVGHR) | [Bandoneon Es Cultura](https://open.spotify.com/album/79IXjtaj0Jp4uLYm65LSoo) | 5:37 | 2022-03-18 |  |
+| [Mi Tango Triste](https://open.spotify.com/track/5dRE1WG0rHgpu0SU3QNYs1) | [Daniel Ruggiero](https://open.spotify.com/artist/2UD4URrkIUokDksTRHVGHR) | [Bandoneon Es Cultura](https://open.spotify.com/album/79IXjtaj0Jp4uLYm65LSoo) | 5:37 | 2022-03-18 | 2023-01-06 |
 | [Milonga de mis amores \- Estilo Pedro Laurenz](https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK) | [SEXTETO VISCERAL](https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C) | [Milonga de mis amores](https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9) | 2:22 | 2022-03-18 |  |
 | [Milonga del Desocupado](https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo) | [Quinteto Bataraz](https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Milonga del Desocupado](https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X) | 3:52 | 2022-03-18 | 2022-07-25 |
 | [Milonga Triste](https://open.spotify.com/track/184YuzU56OoLcIlQ3Nou5Y) | [César Angeleri](https://open.spotify.com/artist/0dXS98DkHEA9K2H1YjKiTQ), [Daniel Binelli](https://open.spotify.com/artist/3pI9A9672brzUyGUtkaGqh) | [Re\-Encuentro](https://open.spotify.com/album/6kxxUyfgkO5n4NcHDkHMHC) | 3:13 | 2022-03-18 |  |

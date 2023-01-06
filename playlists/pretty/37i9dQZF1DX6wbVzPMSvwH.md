@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Awali tahunmu dengan lagu\-lagu yang memuatmu bersemangat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,124 likes - 71 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,149 likes - 71 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

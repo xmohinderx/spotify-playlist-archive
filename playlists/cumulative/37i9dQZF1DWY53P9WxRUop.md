@@ -4,7 +4,7 @@
 
 > Summer fun for the whole family.
 
-90 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/7BcUzLlBJ2xTZ7YTR5pSJz)
+90 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

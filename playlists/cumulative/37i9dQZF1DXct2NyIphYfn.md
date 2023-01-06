@@ -4,7 +4,7 @@
 
 > Some of the most beautiful French love songs.
 
-146 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/7bHpNw5RhYKen90eNPVY3R)
+146 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

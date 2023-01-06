@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-150 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/715jXIfJUzT2AiTQl5FY7n)
+150 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

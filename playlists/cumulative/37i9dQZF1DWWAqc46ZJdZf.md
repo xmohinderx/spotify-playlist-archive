@@ -4,7 +4,7 @@
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-108 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/6NlI2j08Q0MMp7vJMFMQPV)
+108 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

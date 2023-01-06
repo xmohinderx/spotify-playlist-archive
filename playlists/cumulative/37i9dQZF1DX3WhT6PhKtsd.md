@@ -4,7 +4,7 @@
 
 > For those whose year was full of angst and anger \#SpotifyWrapped
 
-52 songs - 2 hr 29 min - not published yet
+52 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

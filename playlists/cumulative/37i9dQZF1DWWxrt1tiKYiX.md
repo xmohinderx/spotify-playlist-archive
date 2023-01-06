@@ -4,7 +4,7 @@
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: Dean Lewis
 
-145 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
+145 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

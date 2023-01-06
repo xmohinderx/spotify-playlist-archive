@@ -4,7 +4,7 @@
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-173 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/5cLQpcK4Q9rjrHgLrER8dF)
+173 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Run to the world of R&B and hip\-hop.
 
-145 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/5okw0xKXUK9lSuLXVKNMCM)
+145 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

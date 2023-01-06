@@ -4,7 +4,7 @@
 
 > Songs with some serious violin and cello action.
 
-39 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/65dIoabDN9AlsJyqrY8I5Q)
+39 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

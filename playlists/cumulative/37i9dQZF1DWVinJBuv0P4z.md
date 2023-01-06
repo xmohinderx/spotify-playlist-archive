@@ -4,7 +4,7 @@
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-319 songs - 17 hr 48 min - [published](https://open.spotify.com/playlist/4WUUkJTjef9Cmttdbtlviv)
+319 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

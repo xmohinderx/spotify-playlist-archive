@@ -4,7 +4,7 @@
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-76 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/3newvo8m3himT0l53tQqni)
+76 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

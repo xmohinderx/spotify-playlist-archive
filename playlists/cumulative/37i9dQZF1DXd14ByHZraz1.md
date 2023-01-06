@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-108 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
+108 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

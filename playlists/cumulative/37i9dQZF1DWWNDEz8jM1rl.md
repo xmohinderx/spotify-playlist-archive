@@ -4,7 +4,7 @@
 
 > ¡Vamos a bailar con Dios!
 
-59 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/6Y8UbtURyWBf2yUJAyO8WE)
+59 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-140 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
+140 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

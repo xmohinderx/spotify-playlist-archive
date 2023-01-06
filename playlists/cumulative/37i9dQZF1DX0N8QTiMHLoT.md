@@ -4,7 +4,7 @@
 
 > Because bass\. Cover: Victor Wooten
 
-87 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/3J2o79GoABQYOdRgtP3x7m)
+87 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

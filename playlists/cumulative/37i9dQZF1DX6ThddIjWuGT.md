@@ -4,7 +4,7 @@
 
 > Timeless Latin pop hits through the decades! Cover: Chayanne
 
-186 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/2FSO8yoy6jp43MoiNNcuHM)
+186 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

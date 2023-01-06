@@ -4,7 +4,7 @@
 
 > Feel great with these timelessly fun songs!
 
-293 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/0lR8wd9COqP0E60EfeBfJ2)
+293 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

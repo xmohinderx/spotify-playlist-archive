@@ -4,7 +4,7 @@
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/1xjrOFeEw74VbZbRn49c5D)
+77 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

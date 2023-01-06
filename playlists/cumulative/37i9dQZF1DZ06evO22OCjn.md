@@ -4,7 +4,7 @@
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/6PNqDto21Pc7noiKhPa5qP)
+83 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

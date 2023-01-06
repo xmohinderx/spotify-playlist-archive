@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Featuring new music by Yot Club.
 
-771 songs - 1 day 17 hr 53 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+771 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

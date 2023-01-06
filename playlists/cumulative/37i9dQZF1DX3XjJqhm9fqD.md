@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Michael Benjamin
 
-147 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/3ur3vTrlhNCzIjyRqhoVJ8)
+147 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

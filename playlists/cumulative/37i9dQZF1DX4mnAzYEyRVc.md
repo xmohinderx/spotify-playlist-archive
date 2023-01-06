@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-468 songs - 1 day 3 hr 7 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
+468 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-166 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/5GTz5fENvpfuW4x8P5AoYT)
+166 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

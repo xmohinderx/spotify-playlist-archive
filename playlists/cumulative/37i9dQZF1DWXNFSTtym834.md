@@ -2,9 +2,9 @@
 
 ### [00s Metal Classics](https://open.spotify.com/playlist/37i9dQZF1DWXNFSTtym834)
 
-> The biggest metal songs of the 2000s\. Cover: Disturbed
+> The biggest metal songs of the 2000s\. Cover: Slipknot
 
-247 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/3jt3VwWJpWVrZ0Elil9S2R)
+247 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

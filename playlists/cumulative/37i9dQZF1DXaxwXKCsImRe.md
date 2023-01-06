@@ -4,7 +4,7 @@
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: DIKKE
 
-105 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
+105 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

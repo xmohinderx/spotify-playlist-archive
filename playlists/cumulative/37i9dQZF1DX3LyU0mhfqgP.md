@@ -4,7 +4,7 @@
 
 > The best songs from LGBTQIA+ artists in 2022\. Cover: MUNA
 
-458 songs - 1 day 0 hr 51 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
+458 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:3OoC54nEM3Xl7Kn5hsDdpg\">Finesse2tymes</a>",
+  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:3LZZPxNDGDFVSIPqf4JuEf\">Ice Spice</a>",
   "name": "Most Necessary",
-  "published_playlist_ids": [
-    "2WbWeZomiAM8yIPIZZMDJK"
-  ],
   "tracks": [
     {
       "album": {
@@ -241,7 +238,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 132310,
       "name": "2Tone (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/7IOrMgzGar3mbtQKNdlbYz"
@@ -2684,6 +2681,28 @@
     },
     {
       "album": {
+        "name": "Check (feat. Big Yavo)",
+        "url": "https://open.spotify.com/album/6NUnyYTNV94AbTehZ3BHRM"
+      },
+      "artists": [
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130164,
+      "name": "Check (feat. Big Yavo)",
+      "url": "https://open.spotify.com/track/3g2H2JmJKe7NZyZBIMXgN3"
+    },
+    {
+      "album": {
         "name": "Made 4 More 2",
         "url": "https://open.spotify.com/album/1BTRlRnUM0XZaLGJBJoBqy"
       },
@@ -4876,6 +4895,24 @@
     },
     {
       "album": {
+        "name": "Public Housing, Pt. 2",
+        "url": "https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2LWeSrNPOceNtiGecWLLoe"
+    },
+    {
+      "album": {
         "name": "Mr. Crawford",
         "url": "https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7"
       },
@@ -5364,6 +5401,24 @@
     },
     {
       "album": {
+        "name": "Gah Damn",
+        "url": "https://open.spotify.com/album/7xMqiBsn4iTnFw172KnxaA"
+      },
+      "artists": [
+        {
+          "name": "Yung Mal",
+          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "Gah Damn",
+      "url": "https://open.spotify.com/track/0VQucSKq1xINBeqQZRt69w"
+    },
+    {
+      "album": {
         "name": "Survivor Of The Trenches",
         "url": "https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13"
       },
@@ -5685,7 +5740,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 131474,
       "name": "Glocks and Raris",
       "url": "https://open.spotify.com/track/5kQTyoKaLpWgctkRXaWVRS"
@@ -7102,6 +7157,24 @@
     },
     {
       "album": {
+        "name": "In Ha Mood",
+        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129360,
+      "name": "In Ha Mood",
+      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+    },
+    {
+      "album": {
         "name": "IN THE MIDDLE",
         "url": "https://open.spotify.com/album/6NcGjXe9oZn7WReMlwLQcD"
       },
@@ -7447,7 +7520,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 117000,
       "name": "KAPITOL DENIM",
       "url": "https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ"
@@ -7777,6 +7850,28 @@
       "duration_ms": 150075,
       "name": "Lately",
       "url": "https://open.spotify.com/track/77OMY86vNpNk304RSucxNr"
+    },
+    {
+      "album": {
+        "name": "Law & Order pt. 2",
+        "url": "https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "50jittsteppa",
+          "url": "https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239303,
+      "name": "Law & Order pt. 2",
+      "url": "https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF"
     },
     {
       "album": {
@@ -9103,6 +9198,24 @@
       "duration_ms": 163113,
       "name": "Mr. CBFW (feat. G Herbo)",
       "url": "https://open.spotify.com/track/3olMRANIDgoV0UlCKsnn0C"
+    },
+    {
+      "album": {
+        "name": "Mr. Hanky",
+        "url": "https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142915,
+      "name": "Mr. Hanky",
+      "url": "https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l"
     },
     {
       "album": {
@@ -10910,6 +11023,24 @@
     },
     {
       "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/72SRRaSf8OEru4ewgAK0UM"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117543,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4"
+    },
+    {
+      "album": {
         "name": "386 Landlord",
         "url": "https://open.spotify.com/album/5i2A4Ubx6GGLYMZh4BWhRn"
       },
@@ -11297,7 +11428,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 175947,
       "name": "PENDULUM",
       "url": "https://open.spotify.com/track/3v4jYNa4W7IkCjnvPfNCoP"
@@ -11703,7 +11834,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 145007,
       "name": "PSA feat. Kyle Richh",
       "url": "https://open.spotify.com/track/0LHzdbZcQxANth09pZzeRn"
@@ -14441,7 +14572,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 203031,
       "name": "Summo",
       "url": "https://open.spotify.com/track/1AXB0WRiTcSQe9RbBD2Ipx"
@@ -15481,7 +15612,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 150883,
       "name": "Ton1ght (Bonus)",
       "url": "https://open.spotify.com/track/1AxglUIgkkLQ0RnMI67e3f"
@@ -15819,7 +15950,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 155204,
       "name": "Understanding",
       "url": "https://open.spotify.com/track/0dbrw7unsnoUBwS3WSLTiO"
@@ -16743,6 +16874,24 @@
       "duration_ms": 172987,
       "name": "WIN 4 LOSIN (with Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/104Z44ugOYxbw2RzGBWZPn"
+    },
+    {
+      "album": {
+        "name": "Win For Losin",
+        "url": "https://open.spotify.com/album/4QyUbGbGyn1725sRukfZ9P"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117909,
+      "name": "Win For Losin",
+      "url": "https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB"
     },
     {
       "album": {

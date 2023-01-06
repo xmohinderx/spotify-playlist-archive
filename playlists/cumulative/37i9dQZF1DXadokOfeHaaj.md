@@ -4,7 +4,7 @@
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-66 songs - 4 hr 33 min - not published yet
+66 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

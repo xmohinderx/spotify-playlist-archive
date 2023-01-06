@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/6L0IFMoxZABDTeTkmPaFPR)
+76 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

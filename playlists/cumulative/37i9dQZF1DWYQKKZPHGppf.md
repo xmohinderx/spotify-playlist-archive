@@ -4,7 +4,7 @@
 
 > Plus Ultra presenta: il meglio dell'urban italiano nel 2022! Cover: RHOVE
 
-113 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/6HZY32LgXJroaGbYoDPpWg)
+113 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

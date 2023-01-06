@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-163 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+163 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

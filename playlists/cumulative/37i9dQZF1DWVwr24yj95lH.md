@@ -4,7 +4,7 @@
 
 > The best Grunge heirs' songs\. Cover: Staind
 
-160 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/0QVwgnSnBXtgD6WdqeyPu5)
+160 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

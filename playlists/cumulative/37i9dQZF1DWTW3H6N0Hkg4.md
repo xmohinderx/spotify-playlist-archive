@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-248 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
+248 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

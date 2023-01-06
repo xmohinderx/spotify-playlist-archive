@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: <a href="https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI?si=i0H2aCbMQJS7HrwsS4kZWw"> Lasmid </a>
 
-97 songs - 5 hr 13 min - not published yet
+97 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

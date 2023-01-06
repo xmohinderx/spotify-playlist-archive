@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-340 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+340 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

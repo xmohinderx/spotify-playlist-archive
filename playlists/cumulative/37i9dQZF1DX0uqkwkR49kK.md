@@ -4,7 +4,7 @@
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-166 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/2rdAvTDYuWVwQMDSQjVRa5)
+166 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

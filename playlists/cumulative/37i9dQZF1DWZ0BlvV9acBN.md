@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Mauro Henrique
 
-80 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/7oTc2fOi3oZW5UpwamTP2u)
+80 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

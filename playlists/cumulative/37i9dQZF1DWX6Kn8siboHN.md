@@ -4,7 +4,7 @@
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Carlos & José en portada.
 
-183 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/0yReHuRr1FPfjUMqzMjhhX)
+183 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

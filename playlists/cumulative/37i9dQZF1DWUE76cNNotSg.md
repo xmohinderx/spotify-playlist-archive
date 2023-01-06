@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-323 songs - 21 hr 22 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
+323 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

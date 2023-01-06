@@ -4,7 +4,7 @@
 
 > ¿A vuelta de rueda? Con esta playlist el camino será más ligero.
 
-166 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/1LEmf4BEmZLASdw3vzJnQn)
+166 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

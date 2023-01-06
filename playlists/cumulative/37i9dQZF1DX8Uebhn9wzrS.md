@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,192 songs - 1 day 21 hr 26 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
+1,192 songs - 1 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

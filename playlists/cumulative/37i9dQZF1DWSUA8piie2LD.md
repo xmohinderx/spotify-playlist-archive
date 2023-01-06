@@ -4,7 +4,7 @@
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-139 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/22cH7NuF0ONCHdq6lheKJc)
+139 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

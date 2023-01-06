@@ -4,7 +4,7 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-299 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+299 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these easy, laid\-back songs.
 
-375 songs - 22 hr 50 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
+375 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

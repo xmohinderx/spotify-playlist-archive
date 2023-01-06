@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Doja Cat
 
-113 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/5CobvX2WaihXg6bR2qXgbE)
+113 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Feel good with this positively timeless playlist!",
   "name": "Feelin' Good",
-  "published_playlist_ids": [
-    "1vzEyOKMOiIbxyVfBjbHDh"
-  ],
   "tracks": [
     {
       "album": {
@@ -1649,7 +1646,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 279933,
       "name": "Hollywood Swinging",
       "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
@@ -4313,7 +4310,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 160813,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec"

@@ -4,7 +4,7 @@
 
 > Spend some quality time with these romantic classical masterpieces.
 
-59 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/4Lf7xMUsMOHP7AyEwLcLqv)
+59 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

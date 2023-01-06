@@ -4,7 +4,7 @@
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/3L1RmjKFTceey2iLuEWcFK)
+58 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

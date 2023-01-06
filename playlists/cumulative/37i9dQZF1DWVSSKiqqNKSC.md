@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-200 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/2HGElLQ4Q40P5HXdU6etvf)
+200 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

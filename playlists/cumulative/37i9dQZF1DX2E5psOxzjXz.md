@@ -4,7 +4,7 @@
 
 > Pakistani Indie 101 presents...Top Pakistani indie tracks this year\. Cover: Abdul Hannan
 
-163 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+163 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

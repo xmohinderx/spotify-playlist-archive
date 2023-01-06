@@ -4,7 +4,7 @@
 
 > Songs to make you run, not walk, to the dancefloor
 
-75 songs - 4 hr 39 min - not published yet
+75 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

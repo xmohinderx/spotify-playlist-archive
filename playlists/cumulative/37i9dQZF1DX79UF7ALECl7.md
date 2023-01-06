@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-116 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
+116 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

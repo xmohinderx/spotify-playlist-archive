@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-119 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+120 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [BAYNA](https://open.spotify.com/track/1tZDQqGmN6A6wOWPHkJoC1) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:05 | 2022-05-19 |  |
 | [Beli Wassit](https://open.spotify.com/track/0KwaYXajEWxN9KLVqpwAyK) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Beli Wassit](https://open.spotify.com/album/4oOglonQ8avYy0LeJDKcUi) | 4:05 | 2021-12-10 |  |
 | [BLA BLA](https://open.spotify.com/track/4XDaWzm0Y6gZoRuo2engXC) | [Youssef Mounes](https://open.spotify.com/artist/6sMjcbHchN0wUoMmYhKSD2) | [BLA BLA](https://open.spotify.com/album/5qy4gJpXBGvCqlAM7uyVTj) | 2:48 | 2022-09-07 |  |
-| [Blata](https://open.spotify.com/track/0zVePr5IuAQISOFQXjQ1D9) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Blata](https://open.spotify.com/album/7ru31Nlx5qRZDvupo3euWo) | 3:53 | 2021-12-10 |  |
+| [Blata](https://open.spotify.com/track/0zVePr5IuAQISOFQXjQ1D9) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Blata](https://open.spotify.com/album/7ru31Nlx5qRZDvupo3euWo) | 3:53 | 2021-12-10 | 2023-01-06 |
 | [Blonda](https://open.spotify.com/track/7numLiPibzIhZ2oITph8z4) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Romeo](https://open.spotify.com/album/6X6DhXAyYwrJR5KySBgGhj) | 3:42 | 2021-12-10 | 2022-05-20 |
 | [Cheda W Tzoul](https://open.spotify.com/track/0gSIsNOlouCajRSw0yK6Kj) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Cheda W Tzoul](https://open.spotify.com/album/125HbmJXycVBvnQdxCUNEr) | 3:26 | 2021-12-10 | 2022-12-06 |
 | [Chkoun F'eddar](https://open.spotify.com/track/5koKnPTZc5Cb2mKckBV9nF) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Chkoun F'eddar](https://open.spotify.com/album/0OKERQHLeD3og47pdZrcWi) | 3:22 | 2022-01-14 | 2022-04-01 |
@@ -73,6 +73,7 @@
 | [Ma Tebki Ya Ain](https://open.spotify.com/track/6Fv6mqIai6eGsGAvJ4M2s6) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK), [Myne](https://open.spotify.com/artist/4cqqwyFXQGG2bWTwfVchMv) | [Ma Tebki Ya Ain](https://open.spotify.com/album/2v0YFXim7Ucs85m5lokaHE) | 3:32 | 2022-11-03 |  |
 | [Ma3lich](https://open.spotify.com/track/7rmqhAZGOeVNPW8gA1vU1T) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Ma3lich](https://open.spotify.com/album/5Sh5EZ5VJoJufLgXZgxfRa) | 4:09 | 2021-12-10 | 2022-07-12 |
 | [Ma3Likesh Elloum](https://open.spotify.com/track/2BDStFDyWmfAKYw1Vz0LTA) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:12 | 2022-11-26 |  |
+| [Maghrebins](https://open.spotify.com/track/4U5h7GaXXXNOLpuo5vr3dU) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:23 | 2023-01-06 |  |
 | [Maghrebins](https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Maghrebins](https://open.spotify.com/album/1etFNKjDP2lFtXd6NGTzwF) | 3:23 | 2021-12-10 | 2022-07-12 |
 | [Mani Wlidek](https://open.spotify.com/track/3sWOuPS3srcCShuoYjd6hG) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Mani Wlidek](https://open.spotify.com/album/7cRWMRusoJ6juDguMnq7pI) | 2:56 | 2021-12-10 | 2022-10-05 |
 | [Mathi](https://open.spotify.com/track/2BUzhyKaCLs3uqeN5HUWHE) | [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY) | [Mathi](https://open.spotify.com/album/7F5Iqxhgk9qNwuMNtoBgdb) | 3:24 | 2022-02-03 | 2022-11-27 |

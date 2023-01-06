@@ -4,7 +4,7 @@
 
 > Lying flat on the sofa scrolling but with a nice soundtrack.
 
-154 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/6KOmfB8LJCCp07mWRDkpos)
+154 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

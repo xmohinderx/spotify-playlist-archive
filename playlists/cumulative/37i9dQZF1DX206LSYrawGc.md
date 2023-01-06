@@ -4,7 +4,7 @@
 
 > 80s rock to fuel your ride\. Cover: Guns N' Roses
 
-72 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/3hAccsICN2Mkk5YbDegR4U)
+72 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

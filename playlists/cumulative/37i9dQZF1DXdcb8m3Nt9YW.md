@@ -4,7 +4,7 @@
 
 > ¡De la tarima a tus bocinas! Los mejores corridos en vivo\. Enigma Norteño & Fuerza Regida en portada.
 
-83 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/5K9BiEODYfz62wlV83pilv)
+83 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

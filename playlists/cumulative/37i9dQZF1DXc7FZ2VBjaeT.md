@@ -4,7 +4,7 @@
 
 > Listen to all her biggest hits, in one place.
 
-128 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/0DfYncW9mxd1xxPkajZXJE)
+128 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

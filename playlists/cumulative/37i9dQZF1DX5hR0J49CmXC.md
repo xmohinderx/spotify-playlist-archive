@@ -4,7 +4,7 @@
 
 > That real hip\-hop\. Cover: 38 Spesh
 
-289 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/3aBEPaCmxnNZhkIPP42r3z)
+289 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

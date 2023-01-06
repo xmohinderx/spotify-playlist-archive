@@ -4,7 +4,7 @@
 
 > Soothing ambient and Hang to gently focus the mind.
 
-96 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/45gpvPkFcJ345RLFnunX6G)
+96 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

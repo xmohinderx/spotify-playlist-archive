@@ -4,7 +4,7 @@
 
 > The biggest songs of the 2010s.
 
-896 songs - 2 day 6 hr 32 min - [published](https://open.spotify.com/playlist/001TVlFbnnZ8ScZXciOvI5)
+896 songs - 2 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

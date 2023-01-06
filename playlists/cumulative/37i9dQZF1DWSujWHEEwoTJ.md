@@ -4,7 +4,7 @@
 
 > Banda MS de Sergio Lizárraga nos lleva a Mazatlán, Sinaloa con sus canciones favoritas para disfrutar unos deliciosos mariscos.
 
-59 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/5fIr1ul7pTtBY7tN2jf5Ny)
+59 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

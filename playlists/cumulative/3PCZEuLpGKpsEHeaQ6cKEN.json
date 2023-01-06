@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday",
-  "name": "Armada Today | New Years Eve 2023 \ud83c\udf86 NYE 2022",
-  "published_playlist_ids": [
-    "2VKYZJ3lSyTEDXrKo18ci6"
-  ],
+  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: Leony",
+  "name": "Armada Today",
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 201625,
       "name": "Adagio For Strings",
       "url": "https://open.spotify.com/track/7L085mctgAFFDJ8QqWK6Hl"
@@ -107,7 +104,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
@@ -195,7 +192,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 312226,
       "name": "Antibodies - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r"
@@ -993,7 +990,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 152250,
       "name": "Computers Take Over The World",
       "url": "https://open.spotify.com/track/2Fn66Mos1yElxdJBadXgpO"
@@ -1290,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Doug McQuaid",
+        "url": "https://open.spotify.com/album/5vK8t05IOiTZgG6FdrIJ7H"
+      },
+      "artists": [
+        {
+          "name": "My Friend",
+          "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235119,
+      "name": "Doug McQuaid",
+      "url": "https://open.spotify.com/track/3twiQ6bWSOpITupyEFbCu5"
+    },
+    {
+      "album": {
         "name": "Drifting Away",
         "url": "https://open.spotify.com/album/3WgmH7tOlVlAmGtRRlQpl7"
       },
@@ -1353,6 +1368,32 @@
       "duration_ms": 206389,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/14fUo8QBghk4M0mlroSAMN"
+    },
+    {
+      "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151820,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j"
     },
     {
       "album": {
@@ -2144,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0wVpaYo5BOsTdWRJMal5gR"
+      },
+      "artists": [
+        {
+          "name": "Maxim Lany",
+          "url": "https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2jizN8ZAjiV4IBjn6z42r7"
+    },
+    {
+      "album": {
         "name": "Trance Top 1000 (Mini Mix 010) - Armada Music",
         "url": "https://open.spotify.com/album/4uY3v6NGQh8DhQG2ky8CWm"
       },
@@ -2509,7 +2568,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 199522,
       "name": "Hey (I Miss You)",
       "url": "https://open.spotify.com/track/2i6vQrYVULLekBceqmCNwT"
@@ -2937,7 +2996,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 190082,
       "name": "I Feel You Everywhere (Antibodies)",
       "url": "https://open.spotify.com/track/6bubfQc1unpqZ6zNv4Nd02"
@@ -3437,7 +3496,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 203824,
       "name": "Laroc",
       "url": "https://open.spotify.com/track/022a1XbhELRTggfqhJezpT"
@@ -4267,7 +4326,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 166505,
       "name": "Mind Games - Les Bisous Remix",
       "url": "https://open.spotify.com/track/5XkAxo2FkFWOnDvSt9ml2d"
@@ -5816,6 +5875,24 @@
     },
     {
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180638,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
+    },
+    {
+      "album": {
         "name": "Armada Music Year Mix 2022, Vol. 2",
         "url": "https://open.spotify.com/album/3bJjNEcp10aGVqgh04SqE6"
       },
@@ -6043,6 +6120,28 @@
       "duration_ms": 226976,
       "name": "Sirius",
       "url": "https://open.spotify.com/track/3GYH6TqF2fIihKps1Sedxc"
+    },
+    {
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/0sg3xcua3C94UM2QjK3Pr2"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Mike Schmid",
+          "url": "https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/0h4DDybPcSxK6yI5L2PIaZ"
     },
     {
       "album": {
@@ -7977,7 +8076,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 267358,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/3vRA721uK5h75UqA2iLHbo"

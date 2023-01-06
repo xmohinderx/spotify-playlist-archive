@@ -4,7 +4,7 @@
 
 > ¡Picositos y con mucho sabor!
 
-175 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/4Q1G17YGjayP3gLunVYAPv)
+175 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

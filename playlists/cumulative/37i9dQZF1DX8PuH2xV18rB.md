@@ -4,7 +4,7 @@
 
 > Enjoy M.Net's dance battle show Street Dance Girls Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿댄스 걸스 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-44 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/47RuOfSLUImp6TQPHwDiwX)
+44 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Jackie Venson
 
-114 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/6wMyac4Tq7WkhRXiQeoF05)
+114 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

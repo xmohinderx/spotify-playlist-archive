@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2010s.
 
-100 songs - 5 hr 43 min - not published yet
+100 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

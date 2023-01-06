@@ -4,7 +4,7 @@
 
 > ONE DREAM with TXT!
 
-77 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/0SB4cIXoV0TCgjBg98gz8P)
+77 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

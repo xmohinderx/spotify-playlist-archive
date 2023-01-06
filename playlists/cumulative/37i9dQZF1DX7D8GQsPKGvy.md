@@ -4,7 +4,7 @@
 
 > Remixed hits from the past.
 
-271 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/3QLsH06OpU02nY0NDXbVsq)
+271 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Sénégal Rek!🇸🇳🇸🇳🇸🇳
 
-136 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/7fI9ns3CTpwGPwTVCgIWgK)
+136 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

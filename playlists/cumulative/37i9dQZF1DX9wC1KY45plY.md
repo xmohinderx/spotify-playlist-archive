@@ -4,7 +4,7 @@
 
 > A soundtrack to fuel your good mood while on the road.
 
-194 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/3JiRPi2K3BLi8D6ddBol7M)
+194 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

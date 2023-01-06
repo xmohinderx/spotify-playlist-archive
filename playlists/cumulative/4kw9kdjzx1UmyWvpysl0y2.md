@@ -4,13 +4,14 @@
 
 > Brand new music from Monstercat, all in one place.
 
-373 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+374 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1975](https://open.spotify.com/track/5bQqkBDFptj1oNKoVDVsGI) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Paranoid Optimist](https://open.spotify.com/album/2XuM7DMo1S8BueOOxBuiYl) | 2:11 | 2022-05-06 | 2022-07-19 |
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2022-06-07 | 2022-08-20 |
 | [2hard2letgo \- Acoustic](https://open.spotify.com/track/6b7AC4lKNIuCMSVzDHOS18) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo \(Acoustic\)](https://open.spotify.com/album/65jfBY2rxFAiB26CmNGiMA) | 4:36 | 2022-12-06 |  |
+| [2NITE](https://open.spotify.com/track/4DPQLiWUDwnQp9NJ57CgoW) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [2NITE](https://open.spotify.com/album/3utDd56IEEsiwsFweMkqfB) | 3:19 | 2023-01-05 |  |
 | [2Nite](https://open.spotify.com/track/0VeY3NqMDTymaHmFoQWAZq) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:47 | 2022-11-19 | 2022-11-22 |
 | [2Nite](https://open.spotify.com/track/6Jw4guwTyYoV8bsMhK1mTG) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [2Nite](https://open.spotify.com/album/6UnSBFydjgagyhNaN2JJ1o) | 3:47 | 2022-10-24 | 2022-11-20 |
 | [505](https://open.spotify.com/track/3KHdPiJC74XETgP6lCce3S) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [Guilt Chip](https://open.spotify.com/artist/1PWCOmvvW8kVMRvPDyLC2P) | [505](https://open.spotify.com/album/7o2wHfozPCR2KuIWE6q4at) | 3:00 | 2022-05-30 | 2022-08-11 |
@@ -224,7 +225,7 @@
 | [My Mind \- Badjokes Remix](https://open.spotify.com/track/3wEYYSOSwCF7iSA7b2Cf9b) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb), [Badjokes](https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD) | [Introspection \(Remixes\)](https://open.spotify.com/album/2u680EuTLOLYxNnEUet4lu) | 4:11 | 2022-12-13 |  |
 | [My Mind \- Badjokes Remix](https://open.spotify.com/track/7uF9c7MgOQryPCXa7We2xM) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb), [Badjokes](https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD) | [My Mind \(Badjokes Remix\)](https://open.spotify.com/album/2ddkGLWOrggjL1zFn2pXZL) | 4:11 | 2022-11-25 |  |
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-02-17 | 2022-04-29 |
-| [Nara](https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nara](https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN) | 4:09 | 2022-10-19 |  |
+| [Nara](https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nara](https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN) | 4:09 | 2022-10-19 | 2023-01-06 |
 | [Nevada \- Vicetone Lofi Mix](https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada \(Vicetone Lofi Mix\)](https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA) | 2:27 | 2022-02-18 | 2022-04-29 |
 | [Never Cared](https://open.spotify.com/track/1eFlpHjgc4OCRMo4TgAh5g) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Never Cared](https://open.spotify.com/album/1P1wiF5kauftUiGBrZCs3Y) | 3:39 | 2022-02-14 | 2022-04-23 |
 | [Never Enough](https://open.spotify.com/track/0OIHK8vvOTnjg4dtBH34qX) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [Never Enough](https://open.spotify.com/album/4GN1ATNzGkfuhGDgcnKgKJ) | 3:17 | 2022-02-04 | 2022-04-15 |

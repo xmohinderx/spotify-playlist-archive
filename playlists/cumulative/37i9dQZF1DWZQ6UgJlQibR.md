@@ -4,7 +4,7 @@
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-56 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/7s0WHDm1xGgwzCT0C6gGrJ)
+56 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

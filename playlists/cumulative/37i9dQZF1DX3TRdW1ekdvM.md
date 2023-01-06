@@ -4,7 +4,7 @@
 
 > Perfect sleep riding Theta brain waves\. It's Science, it works!
 
-78 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/0k7IQIk85I1l06fbIplDhu)
+78 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

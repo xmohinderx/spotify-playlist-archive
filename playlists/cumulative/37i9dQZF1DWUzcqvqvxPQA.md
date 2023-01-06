@@ -4,7 +4,7 @@
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-162 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/0QMKGi3rb83XR2pAjP4UYj)
+162 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

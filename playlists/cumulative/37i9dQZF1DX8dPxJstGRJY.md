@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-66 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/2aqWtg3gFyBEEz7hN86TZv)
+66 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

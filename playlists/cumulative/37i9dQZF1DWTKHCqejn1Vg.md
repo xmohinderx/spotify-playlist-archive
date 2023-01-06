@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-211 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
+211 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Gravity](https://open.spotify.com/track/6QyBEmvY2uQvorfZ2pmo95) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Gravity](https://open.spotify.com/album/2z8pYpESu09LMi9aDSk1fZ) | 3:12 | 2022-05-03 | 2022-07-29 |
 | [Grxxdy](https://open.spotify.com/track/1WAmQJRFZY6HPROxzuQnRb) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Bad Girlfriend \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/3XkngC33ucHUrYmzczTiLD) | 2:59 | 2022-07-08 | 2022-08-10 |
 | [Gunner](https://open.spotify.com/track/2s6mnu51NafM2OLVgdRhlF) | [Sasha](https://open.spotify.com/artist/6avsZQ2pnMpzZimJAn5dFN) | [Gunner](https://open.spotify.com/album/7bVEPchL7QCLHtcnqG8dwm) | 2:56 | 2022-05-03 | 2022-11-02 |
-| [Harujongil](https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:44 | 2022-07-08 | 2022-12-20 |
+| [Harujongil](https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:44 | 2022-07-08 |  |
 | [Harujongil](https://open.spotify.com/track/67TFGDlhk2GQ9ALDjqPWlE) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/6CFhQLoXy665joV93vkgU4) | 3:44 | 2022-05-03 | 2022-07-29 |
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-03 | 2022-10-08 |
 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-22 | 2022-12-20 |
@@ -153,7 +153,7 @@
 | [PuZZLE](https://open.spotify.com/track/56D3iGXn2ybnhgwzN1fSud) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 3:03 | 2022-05-03 | 2022-07-22 |
 | [QUIET DOWN](https://open.spotify.com/track/0YAcvxeJwf0jkcdLGTdiKx) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [HORIZON : THE MIXTAPE](https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj) | 3:09 | 2022-05-03 | 2022-07-23 |
 | [Rebound](https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:58 | 2022-05-03 |  |
-| [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 | 2022-07-04 |  |
+| [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 | 2022-07-04 | 2023-01-06 |
 | [Rendezvous](https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Flip](https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8) | 3:05 | 2022-05-03 |  |
 | [Replay](https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 2:43 | 2022-07-08 |  |
 | [Replay](https://open.spotify.com/track/6y4QxuBZiFSX8iKphnK3gt) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 2:43 | 2022-05-03 | 2022-07-26 |

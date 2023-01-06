@@ -4,7 +4,7 @@
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-77 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/3Oiyustir2EbcJWY5rmfYz)
+77 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

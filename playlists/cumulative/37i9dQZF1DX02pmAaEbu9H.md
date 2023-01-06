@@ -4,7 +4,7 @@
 
 > Recorre los kilómetros con estos cantables clásicos para el camino.
 
-277 songs - 19 hr 12 min - [published](https://open.spotify.com/playlist/3JzmrCyCRaLhXdH8s8iKXI)
+277 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

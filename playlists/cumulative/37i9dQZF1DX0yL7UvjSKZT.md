@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Violet Bell
 
-223 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+223 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

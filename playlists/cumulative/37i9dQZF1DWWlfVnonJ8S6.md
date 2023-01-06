@@ -4,7 +4,7 @@
 
 > best desi lofi tracks of 2022
 
-135 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/2qnwnlVqwDzQeyJdfRGrMN)
+135 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

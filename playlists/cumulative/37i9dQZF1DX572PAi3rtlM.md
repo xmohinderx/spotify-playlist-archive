@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-147 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
+147 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Peaches & Prunes](https://open.spotify.com/track/3pn3x8rAgZlxmZf3bgsOc7) | [Nightlife Unlimited](https://open.spotify.com/artist/7d6TGYTJoO5XAaVnS5obx6) | [Let's Do It Again](https://open.spotify.com/album/3eUxhAFsXxEQpNjJnb1icD) | 5:06 | 2021-09-01 | 2022-08-25 |
 | [People Are All That We Have](https://open.spotify.com/track/6wysLEBaxlsaHvL0FyvD1u) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [People Are All That We Have](https://open.spotify.com/album/05ymzuHJPM2fbhnExw0K4N) | 8:53 | 2021-09-01 | 2022-07-29 |
 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 | 2021-09-01 |  |
-| [Pool Party Music](https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:07 | 2021-09-01 |  |
+| [Pool Party Music](https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:07 | 2021-09-01 | 2023-01-06 |
 | [Pose](https://open.spotify.com/track/2b06hoCTKogMazNvtbCjQC) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j) | [Pose](https://open.spotify.com/album/2yC5omuXyoEwVSTzJZMcLY) | 4:26 | 2021-09-01 | 2022-07-28 |
 | [Power To The People](https://open.spotify.com/track/0uxohsqS7JLISPsCnWI1gj) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Resonant Body](https://open.spotify.com/album/4tCzrHhdqQ8CiM9e3tZR0F) | 7:01 | 2021-09-01 | 2022-07-25 |
 | [Pretty Face \- 12" Version](https://open.spotify.com/track/574uq1y82QgKJfAX4LEO1t) | [Stinger J.](https://open.spotify.com/artist/3g9j8j65o6WhNWDlrCY7XP) | [Pretty Face](https://open.spotify.com/album/0a2iikoBJyhdqjZ5a9z6oA) | 6:41 | 2021-09-01 | 2022-07-29 |
@@ -145,7 +145,7 @@
 | [Trainfilters2](https://open.spotify.com/track/0TF77FkwoyFJqhONmWoIBj) | [DJ Jenifa](https://open.spotify.com/artist/6XNtr5lwjhJWMWN15dlyrP) | [Jag Trax](https://open.spotify.com/album/2AEp9VZj4DdNFxIN25nfCm) | 5:38 | 2021-09-01 | 2022-07-27 |
 | [Voyage](https://open.spotify.com/track/2Ny9IkHyAJzSaJBEYweXyp) | [Arp Frique](https://open.spotify.com/artist/2Rm5Fw56mWmB0Pz0JPcOyb), [Mariseya](https://open.spotify.com/artist/6CezXXzMXtPnjFvqu4kED1) | [Minina Bem Li](https://open.spotify.com/album/54IZ4wR3HC25QXyV2bOrpQ) | 5:32 | 2021-09-01 | 2022-07-29 |
 | [Waiting](https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Waiting](https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz) | 6:52 | 2021-09-01 |  |
-| [Walk on By](https://open.spotify.com/track/2FDIwfqSI44hVE9D6RmLQQ) | [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Sybil's Greatest Hits](https://open.spotify.com/album/6aOF3agLPNHtnLx0A5GaJM) | 4:07 | 2021-09-01 | 2022-11-24 |
+| [Walk on By](https://open.spotify.com/track/2FDIwfqSI44hVE9D6RmLQQ) | [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Sybil's Greatest Hits](https://open.spotify.com/album/6aOF3agLPNHtnLx0A5GaJM) | 4:07 | 2021-09-01 |  |
 | [Warm Priority](https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Priorities](https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X) | 5:48 | 2021-09-01 |  |
 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/3yjN1QyJncu2e7jm8jSR4g) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Deluxe\)](https://open.spotify.com/album/5s3SqoM2Url1gIZMJg03oq) | 3:50 | 2021-09-01 | 2022-07-29 |
 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 | 2021-09-01 |  |

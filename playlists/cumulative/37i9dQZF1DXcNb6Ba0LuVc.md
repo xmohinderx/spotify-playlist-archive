@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-398 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+398 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

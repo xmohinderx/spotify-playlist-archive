@@ -4,7 +4,7 @@
 
 > Your everyday pick\-me\-up playlist.
 
-76 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/5Pm0B7sqCCxC5d2UrRo9Dc)
+76 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

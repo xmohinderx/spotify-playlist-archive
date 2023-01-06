@@ -4,7 +4,7 @@
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-141 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/5IOGpcMWdAwHjOc8PyryaR)
+141 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ねぐせ。 / <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-599 songs - 1 day 12 hr 14 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+601 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Dance Alone](https://open.spotify.com/track/2kpZkWCfmuSvn8CZYGvNkO) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Dance Alone](https://open.spotify.com/album/2grXUKK5gDiBlcWcpbKm6Y) | 4:56 | 2022-09-13 | 2022-10-12 |
 | [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 | 2022-09-20 | 2022-11-01 |
 | [Danceless Island](https://open.spotify.com/track/72BFb5OajhZEkmzoHssXLN) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/575eZHzWuiFFuUQ4sDF4G4) | 3:45 | 2022-09-20 | 2022-09-22 |
-| [DANCE風呂a!](https://open.spotify.com/track/1nnnQqaEVc4giwspZt5EMB) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR) | [DANCE風呂a!](https://open.spotify.com/album/0ckt8HpaApwrcVoCAZX1RB) | 4:03 | 2022-10-11 | 2022-12-02 |
+| [DANCE風呂a!](https://open.spotify.com/track/1nnnQqaEVc4giwspZt5EMB) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR) | [DANCE風呂a!](https://open.spotify.com/album/0ckt8HpaApwrcVoCAZX1RB) | 4:03 | 2022-10-11 |  |
 | [daylight](https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [daylight](https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA) | 4:03 | 2022-12-01 |  |
 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 | 2022-08-16 | 2022-10-12 |
 | [Deadstock](https://open.spotify.com/track/1h3XEx3bmfIARIJQqE3NA5) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [きのぽっぽ](https://open.spotify.com/artist/7wELjvjV3KJdFtxYlZ5bhf) | [Deadstock](https://open.spotify.com/album/4Z9igjlzrOpnidH6MwRhEc) | 3:19 | 2022-08-23 | 2022-09-28 |
@@ -442,6 +442,7 @@
 | [パラノイア](https://open.spotify.com/track/3BXOPG1v6z3augHRkaGyKy) | [UNISH](https://open.spotify.com/artist/1QBOFtlp9NHSmSaJ3ievuS) | [パラノイア](https://open.spotify.com/album/1hu48H4Rz2LG9WoPPvJPWW) | 3:50 | 2022-10-11 | 2022-11-16 |
 | [ビジネスマン \-Businessman\-](https://open.spotify.com/track/5Z9bmURV4B1OsF60Bjq8Ab) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [ビジネスマン \-Businessman\-](https://open.spotify.com/album/2fV0SUEdzqmiIS9SYvnjP5) | 2:57 | 2022-07-26 | 2022-07-29 |
 | [ビードロ](https://open.spotify.com/track/3ZGcf6lq7ffWSS0UcdgFfY) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [root you](https://open.spotify.com/album/4vScBHmc561zaVbdLY68bc) | 2:10 | 2022-05-24 | 2022-07-06 |
+| [ピアス](https://open.spotify.com/track/4q64nWPqTWIVHGHidRaSUm) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [ピアス](https://open.spotify.com/album/29VASKJxI1IvAieKz3hqrU) | 3:56 | 2023-01-05 |  |
 | [ピント](https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [ピント](https://open.spotify.com/album/4CDlpPToQl8dlAYsvYriko) | 4:44 | 2022-10-18 | 2022-11-30 |
 | [ファフロツキーズ](https://open.spotify.com/track/7bHaFtt6yzVixxgfomIdt6) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [ファフロツキーズ](https://open.spotify.com/album/7fqc1N4mtjkcb0N6YwRtLN) | 3:11 | 2022-03-22 | 2022-05-11 |
 | [フィナーレ](https://open.spotify.com/track/6QvyZ3BBTTu66ynGkY1J41) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [フィナーレ](https://open.spotify.com/album/59JFCRRQCXAU3pb0AbzvD0) | 2:26 | 2022-09-13 | 2022-10-05 |
@@ -452,6 +453,7 @@
 | [ポケットに](https://open.spotify.com/track/37XQ3GWcGfdomTX3ekjOYs) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [DREAM DROPPER](https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh) | 3:16 | 2022-02-17 | 2022-03-09 |
 | [マイボーイ](https://open.spotify.com/track/3u5oNyjZGEP5Ntj0b29M8V) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [マイボーイ](https://open.spotify.com/album/7x2wB6G9O0NW8OBDHr0cRj) | 4:07 | 2022-04-12 | 2022-06-15 |
 | [マフラー](https://open.spotify.com/track/5KKhVM5IUJ1apDXDlIjk4h) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [マフラー](https://open.spotify.com/album/2iHaNmRtaZeSZmsGsc05pB) | 2:40 | 2022-11-15 |  |
+| [ミスサンシャイン](https://open.spotify.com/track/34feVzSNYrG2BgeAK5YdXJ) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [ミスサンシャイン](https://open.spotify.com/album/2K2DU74WgUNuFfEllxnaLF) | 4:06 | 2023-01-05 |  |
 | [ミラ](https://open.spotify.com/track/3Nh3i6YBmVN9zHGFuMlwd2) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ミラ](https://open.spotify.com/album/5RLYmHgINEeyKJrWTDZr4c) | 2:56 | 2022-02-17 | 2022-04-06 |
 | [ミラージュ](https://open.spotify.com/track/1Th7SUwzsekSITN4OcLfmc) | [Benlou](https://open.spotify.com/artist/4sECzRxkhQ0LmFaufbgbKj) | [ミラージュ](https://open.spotify.com/album/5uqGYqtdZmnQ2ZdsVhrijJ) | 3:43 | 2022-10-25 | 2022-10-27 |
 | [ムスクの香り](https://open.spotify.com/track/5N7gaC7e7eeOFe8Bgnzhti) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [ムスクの香り](https://open.spotify.com/album/3ytT7NqC0qAXHLAMp2R3lq) | 3:16 | 2022-10-25 | 2022-12-21 |

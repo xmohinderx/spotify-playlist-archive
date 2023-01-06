@@ -4,7 +4,7 @@
 
 > This playlist is a soundtrack for you to live your best life, to experience the best love you will ever have, to remember that in the moments where things feel hard, hard times don't last forever\. With Love, <a href="https://www.theokraproject.com/">The Okra Project</a> \| Cover: Dominique Morgan
 
-51 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/3Gf6ys8rN3kfNRvU11Rtik)
+51 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

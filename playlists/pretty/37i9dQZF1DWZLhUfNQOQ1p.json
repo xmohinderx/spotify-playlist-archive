@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230782,
+  "num_followers": 230770,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDZkNjYyYTk4NjE3OGRjM2ZhZGUxY2I0NTI5MDkxYmNi",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGI0Mzg3NGFmZjY0ZGYzNTQ4M2M5Nzk5NjBmMzg5NmU4",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -919,22 +919,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
-      },
-      "artists": [
-        {
-          "name": "Tab\u00fa",
-          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
-        }
-      ],
-      "duration_ms": 220038,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 150014,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
+      },
+      "artists": [
+        {
+          "name": "Tab\u00fa",
+          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
+        }
+      ],
+      "duration_ms": 220038,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
     },
     {
       "added_at": "2021-08-05 09:09:59",

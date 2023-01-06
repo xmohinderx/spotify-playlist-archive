@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-352 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/1QOdLztBWNrsSWvFlIeQGt)
+352 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

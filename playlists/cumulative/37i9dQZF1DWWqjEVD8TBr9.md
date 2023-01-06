@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY\. The most awaited SKZ\-REPLAY is here! \#LoveSTAY
 
-237 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/0Vxp66pxUmZYhcNuoMA3LI)
+237 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

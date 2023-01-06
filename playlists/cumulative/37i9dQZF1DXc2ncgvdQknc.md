@@ -4,7 +4,7 @@
 
 > All 10s, all ballads\. Cover: Adele
 
-105 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/78OgGyzhtKp99xxofYpFYm)
+105 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Elevation Worship",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Gateway Worship",
   "name": "WorshipNow",
-  "published_playlist_ids": [
-    "12yoI78Chtrh071OwGd6QO"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,6 +38,28 @@
       "duration_ms": 309329,
       "name": "A Thousand Hallelujahs - Live",
       "url": "https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu"
+    },
+    {
+      "album": {
+        "name": "Abba (Live)",
+        "url": "https://open.spotify.com/album/3jck8hz8CTVg1cSZXbIGJT"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595918,
+      "name": "Abba - Live",
+      "url": "https://open.spotify.com/track/6mWxL6kqEE27IXO9UbHksQ"
     },
     {
       "album": {
@@ -953,7 +972,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 501148,
       "name": "Come To Jesus - Live",
       "url": "https://open.spotify.com/track/4k2XLAQhzsbJ2JUIp0LHNJ"
@@ -2183,7 +2202,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 385683,
       "name": "I Just Love You - Live",
       "url": "https://open.spotify.com/track/4YWprYc7YaDAbnhTitzdDX"
@@ -2351,6 +2370,32 @@
       "duration_ms": 707149,
       "name": "I'm Gonna Worship (feat. Dante Bowe)",
       "url": "https://open.spotify.com/track/43bf58Zo2FdOvkrKzs00vc"
+    },
+    {
+      "album": {
+        "name": "If I Could Have Anything",
+        "url": "https://open.spotify.com/album/2WUzFHWLFCMCGNwqznfntm"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Blake Wiggins",
+          "url": "https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV"
+        },
+        {
+          "name": "Ahjah Walls",
+          "url": "https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430120,
+      "name": "If I Could Have Anything",
+      "url": "https://open.spotify.com/track/1Ujc3cNf2JxHHhoLjzHRbL"
     },
     {
       "album": {
@@ -3382,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "Never Has",
+        "url": "https://open.spotify.com/album/62fw7o9qvVqvzeYK29Aijn"
+      },
+      "artists": [
+        {
+          "name": "C3 NYC",
+          "url": "https://open.spotify.com/artist/6tVUFgMhjG96KGcJSr3BdJ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201940,
+      "name": "Never Has",
+      "url": "https://open.spotify.com/track/0rwK3yIOJ3nDIoQPZwEX4I"
+    },
+    {
+      "album": {
         "name": "Tribl Nights Atlanta",
         "url": "https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt"
       },
@@ -3809,7 +3872,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 624840,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/5xMD8CYZ9VbQS43Yr8JlFC"

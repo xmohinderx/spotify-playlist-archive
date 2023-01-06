@@ -4,7 +4,7 @@
 
 > Best of 80s pop, rock, and new wave top hits from iconic bands and artists like Madonna, Phil Collins, and Tina Turner\. All the biggest throwback songs for your 80s dance party!
 
-81 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/2BgYeTFdGz0X5hAfIl0ERw)
+81 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

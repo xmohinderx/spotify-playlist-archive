@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Andre Dinuth
 
-84 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/50nx8bYWnlzdoNtPoX5a5I)
+84 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

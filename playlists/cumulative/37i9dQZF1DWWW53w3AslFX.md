@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-171 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/2LxnqPYAd4vz9nI21uWtgg)
+171 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

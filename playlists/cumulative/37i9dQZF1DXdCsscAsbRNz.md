@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-330 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+330 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

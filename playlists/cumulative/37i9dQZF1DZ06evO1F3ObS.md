@@ -4,7 +4,7 @@
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-54 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/6veeVefkYHSLtRTsxsOXCw)
+54 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

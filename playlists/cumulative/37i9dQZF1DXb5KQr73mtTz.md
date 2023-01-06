@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-206 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/1BjnPhemiZQgRsPsVy0WZP)
+206 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

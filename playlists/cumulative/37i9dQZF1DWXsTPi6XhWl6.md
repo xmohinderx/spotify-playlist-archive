@@ -4,7 +4,7 @@
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-120 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/4QEboiTQ5FZpURd879PG5r)
+120 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-72 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/2blojqbK7VuiIRbFqTGQVl)
+72 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

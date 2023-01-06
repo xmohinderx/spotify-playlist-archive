@@ -4,7 +4,7 @@
 
 > JORDSS getting you ready for the road at Notting Hill Carnival 2022
 
-225 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
+225 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

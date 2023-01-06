@@ -4,7 +4,7 @@
 
 > Where the past meets the present\. Cover: Nicki Minaj
 
-51 songs - 2 hr 33 min - not published yet
+51 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

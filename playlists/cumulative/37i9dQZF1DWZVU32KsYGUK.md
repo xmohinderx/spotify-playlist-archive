@@ -4,7 +4,7 @@
 
 > Restaurant style, elegant music for your fancy dinner
 
-296 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
+296 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

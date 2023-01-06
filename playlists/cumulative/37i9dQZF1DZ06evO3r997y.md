@@ -4,7 +4,7 @@
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/2QLQcLJZETqsNf96r3ofWm)
+51 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

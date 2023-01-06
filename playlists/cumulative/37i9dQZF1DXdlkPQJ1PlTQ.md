@@ -4,7 +4,7 @@
 
 > 2022's must hear episodes, hand\-picked by Spotify Podcast Editorial
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/7w7aut3ZTA9lP1s1Ai9cfQ)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

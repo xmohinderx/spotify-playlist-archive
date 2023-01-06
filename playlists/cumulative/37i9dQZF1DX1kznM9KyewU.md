@@ -4,7 +4,7 @@
 
 > Rock that was on repeat during the summers of the 1990s.
 
-135 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/3tnqKXamIBRk8iOPpGRhQG)
+135 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

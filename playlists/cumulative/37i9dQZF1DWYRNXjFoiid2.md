@@ -4,7 +4,7 @@
 
 > Today's best pop to fuel your gaming\. Cover: BoyWithUke
 
-277 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/6RJKkqdKyBbx3chwpeoPfr)
+277 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-10",
   "description": "the beat of your drift",
   "name": "phonk",
-  "published_playlist_ids": [
-    "6fzpM1WKSBsd9hRYXVIwxm"
-  ],
   "tracks": [
     {
       "album": {
@@ -233,6 +230,24 @@
       "duration_ms": 130336,
       "name": "Always Want Me",
       "url": "https://open.spotify.com/track/24HvJre1s9gcYsgm5kV3Wz"
+    },
+    {
+      "album": {
+        "name": "AMBAL",
+        "url": "https://open.spotify.com/album/0uafNnjgxsjXeU91wRoWCe"
+      },
+      "artists": [
+        {
+          "name": "Goos",
+          "url": "https://open.spotify.com/artist/3qbEungOBNy6JhQGP8v5cr"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152340,
+      "name": "AMBAL",
+      "url": "https://open.spotify.com/track/7usbKajM9jbTQUWGdfXCiu"
     },
     {
       "album": {
@@ -1319,7 +1334,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 143467,
       "name": "DARK LADY",
       "url": "https://open.spotify.com/track/15kFp3rOPgHSogMHLon1bC"
@@ -3253,7 +3268,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 122542,
       "name": "I FEEL ALIVE",
       "url": "https://open.spotify.com/track/6MK4FbbYR71obIQQHMxKXs"
@@ -3658,6 +3673,28 @@
     },
     {
       "album": {
+        "name": "kuinke",
+        "url": "https://open.spotify.com/album/4RJ39GTV8D0ZPSqoBn8FzE"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92312,
+      "name": "kuinke",
+      "url": "https://open.spotify.com/track/0bXi4r2mRKFw9BQnSVd9It"
+    },
+    {
+      "album": {
         "name": "L.V.",
         "url": "https://open.spotify.com/album/4bBGtuNCUaUVL662GFxjbd"
       },
@@ -4029,7 +4066,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 93730,
       "name": "mana break",
       "url": "https://open.spotify.com/track/3XOcTnIA8aGpil8h76eH7N"
@@ -4438,6 +4475,24 @@
     },
     {
       "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/30ei2lHJtrhRFX3rcPamzL"
+      },
+      "artists": [
+        {
+          "name": "Kaito Shoma",
+          "url": "https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121200,
+      "name": "Most Wanted",
+      "url": "https://open.spotify.com/track/6kA9g6M1SoDBUGuy3iuC3D"
+    },
+    {
+      "album": {
         "name": "Murder In My Mind",
         "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
@@ -4453,6 +4508,24 @@
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "album": {
+        "name": "MURDER PLOT",
+        "url": "https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "MURDER PLOT",
+      "url": "https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr"
     },
     {
       "album": {
@@ -5643,7 +5716,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 146030,
       "name": "RAVEN",
       "url": "https://open.spotify.com/track/33jNhRb9njyX482vPmFPMu"
@@ -5973,7 +6046,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 127309,
       "name": "Scrapyard",
       "url": "https://open.spotify.com/track/4uvPRByRYtH1AjhhqG6emD"
@@ -6590,6 +6663,28 @@
     },
     {
       "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/74hmoEvrQchYpQFdmhmXcE"
+      },
+      "artists": [
+        {
+          "name": "Maikubi",
+          "url": "https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB"
+        },
+        {
+          "name": "VOLT VISION",
+          "url": "https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132396,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/0KFK1UkZkYO5uv9MmAN4t1"
+    },
+    {
+      "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/4jaQbw6gzyNrd7C90566Uw"
       },
@@ -7145,7 +7240,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 177274,
       "name": "unamerican beauty - HXVRMXN Remix",
       "url": "https://open.spotify.com/track/0zwKGn5APj7kgZOpZB1djC"
@@ -7773,6 +7868,28 @@
       "duration_ms": 212335,
       "name": "|BONKERS|",
       "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
+    },
+    {
+      "album": {
+        "name": "\u00daltima Oportunidad",
+        "url": "https://open.spotify.com/album/47HIa7RkALEnFUGwixQcZz"
+      },
+      "artists": [
+        {
+          "name": "2upset2die",
+          "url": "https://open.spotify.com/artist/2FKMAqbGxL3ovpvHhV0JSs"
+        },
+        {
+          "name": "KEMPERMANE",
+          "url": "https://open.spotify.com/artist/4WxFcgkVJwMKBZEWUpdTcI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128118,
+      "name": "\u00daltima Oportunidad",
+      "url": "https://open.spotify.com/track/7pGYJmXcbTUvi44NfWTHNW"
     },
     {
       "album": {

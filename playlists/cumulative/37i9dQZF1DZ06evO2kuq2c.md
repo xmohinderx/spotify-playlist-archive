@@ -4,7 +4,7 @@
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/6ekucn6Wbk3jh9UDmm3XTW)
+63 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

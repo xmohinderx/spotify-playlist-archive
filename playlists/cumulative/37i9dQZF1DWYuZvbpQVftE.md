@@ -4,7 +4,7 @@
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-66 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/5Wmp7nI2JePkFhexNsBnSf)
+66 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

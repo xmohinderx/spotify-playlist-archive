@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever. From classics to fresh new tracks, just play it loud! Cover: Slipknot",
+  "description": "Heavy Metal forever. From classics to fresh new tracks, just play it loud! Cover: Nita Strauss",
   "name": "Heavy Metal",
-  "published_playlist_ids": [
-    "6NpBTQ0b3N3b1zdtxQGNsV"
-  ],
   "tracks": [
     {
       "album": {
@@ -2203,7 +2200,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 300013,
       "name": "Crow Killer Blues",
       "url": "https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy"
@@ -7641,6 +7638,24 @@
       "duration_ms": 441402,
       "name": "Patient Number 9 (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
+    },
+    {
+      "album": {
+        "name": "Pillars of Serpents",
+        "url": "https://open.spotify.com/album/1HTbINeUUGe8pmHyxZyb5Y"
+      },
+      "artists": [
+        {
+          "name": "Heaven Shall Burn",
+          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337992,
+      "name": "Pillars of Serpents",
+      "url": "https://open.spotify.com/track/42ASpTtai1npURX7qDsteD"
     },
     {
       "album": {

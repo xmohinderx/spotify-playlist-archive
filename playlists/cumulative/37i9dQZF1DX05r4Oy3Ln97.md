@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-203 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/6NDzsmnIYKIFzcUbiNvjdZ)
+203 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

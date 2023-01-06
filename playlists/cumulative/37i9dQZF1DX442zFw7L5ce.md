@@ -4,7 +4,7 @@
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-109 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
+109 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

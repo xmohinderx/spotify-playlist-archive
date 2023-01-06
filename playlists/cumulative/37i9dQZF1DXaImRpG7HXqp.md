@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-393 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+393 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Forget the morning rush and kick off your day the right way \- music on, volume up, happy days!
 
-42 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/4fkyLTRNVaCgtV35FpDGzL)
+42 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Curated playlist of fresh pop rock&\#x2F;indie rock&\#x2F;punk rock releases.
 
-215 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/4536gPUpGVZK4oxHHbUgaK)
+215 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

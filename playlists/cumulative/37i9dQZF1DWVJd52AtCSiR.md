@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-136 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/0vmRJRYwOgFfUhgFl1I2vw)
+136 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

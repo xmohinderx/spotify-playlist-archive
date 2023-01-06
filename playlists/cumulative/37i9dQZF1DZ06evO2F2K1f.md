@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-101 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/28P9YuJcTLPFyCtcBLEXvl)
+101 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Big Black Cadillac](https://open.spotify.com/track/3NVhdWRA0VKc8C9CqHdWsQ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 2:18 | 2022-10-11 | 2022-10-13 |
 | [Blue Haze](https://open.spotify.com/track/6zS7hMg2Ow7zLqfJqYw9Ta) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Contemporary Contrasts](https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv) | 3:22 | 2022-05-29 |  |
 | [Bluebird](https://open.spotify.com/track/6AMKMSkHyzBE7D1T7uX3rI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Happy Rainbows](https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH) | 2:20 | 2022-05-29 |  |
-| [Blues For Organ](https://open.spotify.com/track/534PDQEzooTmL17oKDbqZT) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Hawk's Hammond Lounge](https://open.spotify.com/album/4X9dIVJaDcGMQCJEUqLS7h) | 4:29 | 2023-01-04 |  |
+| [Blues For Organ](https://open.spotify.com/track/534PDQEzooTmL17oKDbqZT) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Hawk's Hammond Lounge](https://open.spotify.com/album/4X9dIVJaDcGMQCJEUqLS7h) | 4:29 | 2023-01-04 | 2023-01-06 |
 | [Calendar Girl](https://open.spotify.com/track/7xR5tGKrowaoy5JCHC00az) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 1:56 | 2022-05-29 |  |
 | [Centrepoint](https://open.spotify.com/track/4o44QfNndsZCCRkHNBlMmp) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:10 | 2022-05-29 |  |
 | [Chic Boutique](https://open.spotify.com/track/2LgJtEp6nVsYjjgwBvNoKA) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Sounds of the 60's & 70's \- 2](https://open.spotify.com/album/635BSaHDVn2DyjNfgomuYH) | 1:29 | 2022-12-01 | 2022-12-03 |
@@ -97,7 +97,7 @@
 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 | 2022-05-29 |  |
 | [Sunflower](https://open.spotify.com/track/1h70v5iWJWPmLbmQjKoRvT) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Happy Rainbows](https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH) | 2:25 | 2022-09-06 |  |
 | [Take to the Sky](https://open.spotify.com/track/2tvyMjIC6BM5jDBY2jUpUW) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 3:08 | 2022-05-29 | 2022-10-13 |
-| [Tap Footer](https://open.spotify.com/track/2360JvZBIuCjy0NqUw5b1V) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:40 | 2022-05-29 | 2023-01-04 |
+| [Tap Footer](https://open.spotify.com/track/2360JvZBIuCjy0NqUw5b1V) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:40 | 2022-05-29 |  |
 | [The Action Scene](https://open.spotify.com/track/18o3KULy3bqbWd5YEZluEY) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Beat Incidental](https://open.spotify.com/album/1wKRVl9kRVN879WQifzkYg) | 0:43 | 2022-06-04 | 2022-08-12 |
 | [The Executive](https://open.spotify.com/track/776mbKjVAft84zLUPqoluf) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 3:32 | 2022-05-29 | 2023-01-05 |
 | [The Feminine Scene](https://open.spotify.com/track/4T5WDDivphEVKFz2NmVmxn) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Beat Incidental](https://open.spotify.com/album/1wKRVl9kRVN879WQifzkYg) | 1:02 | 2022-06-03 |  |

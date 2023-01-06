@@ -4,7 +4,7 @@
 
 > Queens everywhere \- givin' us life.<br/>Cover: Bimini
 
-117 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/5qqRE5zC7pUBy84hiALZqW)
+117 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

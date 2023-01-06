@@ -4,7 +4,7 @@
 
 > Achieve optimal workday zen with this relaxed, meditative mix.
 
-75 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5LZtncbGVmYkaBqv23p6OZ)
+75 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

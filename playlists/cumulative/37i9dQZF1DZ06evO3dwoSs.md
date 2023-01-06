@@ -4,7 +4,7 @@
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/66qrbgFxBQIYZjL76PLDsW)
+63 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

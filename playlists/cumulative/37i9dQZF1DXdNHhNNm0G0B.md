@@ -4,7 +4,7 @@
 
 > Relax to the sounds of acoustic blues and folk...
 
-91 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/2SbTfjlboeBgZrjdgbkYSX)
+91 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

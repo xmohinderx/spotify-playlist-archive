@@ -4,7 +4,7 @@
 
 > A decade full of 00s country hits! Cover: Lee Ann Womack
 
-160 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/3pUY5iuYWlsPVBK6AnHFI9)
+160 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

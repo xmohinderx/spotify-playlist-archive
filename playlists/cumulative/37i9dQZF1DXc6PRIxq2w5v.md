@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: BIG THE KIID
 
-136 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
+136 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

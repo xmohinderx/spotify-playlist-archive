@@ -4,7 +4,7 @@
 
 > Make your shower more uplifting by singing along to these hits.
 
-1,032 songs - 2 day 17 hr 15 min - [published](https://open.spotify.com/playlist/0bWbbMf6QMS9BYmS1mWwHB)
+1,032 songs - 2 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

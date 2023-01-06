@@ -4,7 +4,7 @@
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-79 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/13en7Orf0L2LROM0phnA8F)
+79 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

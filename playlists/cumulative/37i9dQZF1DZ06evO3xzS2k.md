@@ -4,7 +4,7 @@
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-45 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/385qUgjyB07ZAM2N6EjW6b)
+45 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

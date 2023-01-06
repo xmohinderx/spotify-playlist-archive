@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover Chin Bees
 
-62 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/1btdo8kMBVWjpbQP3UO41v)
+62 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

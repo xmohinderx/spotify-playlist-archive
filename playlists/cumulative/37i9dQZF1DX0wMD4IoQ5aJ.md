@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-268 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
+268 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The hottest corridos in the US! Bien Al Tiro con Edgardo Nuñez & Junior H
 
-203 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/4NUSWCdJAi5DEcSry3A1Ae)
+203 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

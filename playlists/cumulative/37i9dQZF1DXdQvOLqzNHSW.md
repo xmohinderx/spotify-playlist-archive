@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-431 songs - 1 day 2 hr 52 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+431 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 | 2020-12-21 | 2022-04-17 |
 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 | 2022-07-22 |  |
 | [Cold War](https://open.spotify.com/track/3l1QX9fhldeI23AlON5iY3) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/0I55n0pRuelv0nfZHKhA8f) | 3:23 | 2020-12-21 | 2022-07-29 |
-| [Columbia River](https://open.spotify.com/track/17cwqWxSyZK4bo7Hg7z9ko) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [4E](https://open.spotify.com/album/2UDkmwKTN9KsyF3204XjhL) | 4:42 | 2020-12-21 |  |
+| [Columbia River](https://open.spotify.com/track/17cwqWxSyZK4bo7Hg7z9ko) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [4E](https://open.spotify.com/album/2UDkmwKTN9KsyF3204XjhL) | 4:42 | 2020-12-21 | 2023-01-06 |
 | [Coming Back \(feat\. SZA\)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:15 | 2021-10-08 | 2022-07-21 |
 | [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-10-28 | 2022-12-22 |
 | [Cool Air](https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac), [Allie Donelly](https://open.spotify.com/artist/5XZGB0O2VrWW8PkulhNjcC) | [Cool Air](https://open.spotify.com/album/69R2lqNZBrVmn4iRCnpAHq) | 4:30 | 2021-05-01 | 2022-05-14 |
@@ -205,7 +205,7 @@
 | [In Spite of Me](https://open.spotify.com/track/5wNn33j2VfP8WMZhojE3JC) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 2:34 | 2020-12-21 | 2022-04-13 |
 | [Innocent](https://open.spotify.com/track/6irqzozBaaBp1ZvbBnoxzr) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Innocent](https://open.spotify.com/album/4UXiWjp0DCb1g0GFWlPMfX) | 3:32 | 2020-12-21 | 2022-07-29 |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-08-08 |  |
-| [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2023-01-05 |  |
+| [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2023-01-04 |  |
 | [January](https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [January](https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk) | 3:16 | 2020-12-21 |  |
 | [jasmine \- Demo](https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [jasmine \(Demo\)](https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb) | 4:13 | 2022-05-06 | 2022-07-09 |
 | [Je t'aime encore](https://open.spotify.com/track/0vQH42DnQe4F0i7uxlcY0t) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [L'Ère du Verseau](https://open.spotify.com/album/5iCfp2KefljOSPdRqpAvyW) | 3:34 | 2020-12-21 | 2022-04-19 |
@@ -330,7 +330,7 @@
 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2022-10-28 | 2022-11-14 |
 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 | 2022-07-22 | 2022-12-01 |
 | [Send Me](https://open.spotify.com/track/3C577pIvUmFN02Dgshfg3S) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Send Me](https://open.spotify.com/album/6ruCp4mB7FOyOKfLowr0dS) | 4:03 | 2021-05-01 | 2022-04-14 |
-| [september 13th](https://open.spotify.com/track/3VLanFEDmh9JduRky83qQe) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [september 13th](https://open.spotify.com/album/3l7cgNajTN496lgJSXRlza) | 2:09 | 2023-01-05 |  |
+| [september 13th](https://open.spotify.com/track/3VLanFEDmh9JduRky83qQe) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [september 13th](https://open.spotify.com/album/3l7cgNajTN496lgJSXRlza) | 2:09 | 2023-01-04 |  |
 | [Seventeen](https://open.spotify.com/track/3ctBlLC81pc2TMriIxnXxN) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [At Weddings](https://open.spotify.com/album/1v55LXxVAFvFV02xGMImwP) | 4:31 | 2020-12-21 | 2022-04-16 |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2021-03-04 | 2022-05-21 |
 | [Shadow Bloom](https://open.spotify.com/track/6xKjVD4VNcVHauHauwpTQ1) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Shadow Bloom](https://open.spotify.com/album/5O6fyq3ewz8DcT9HnJ1i59) | 3:40 | 2020-12-21 | 2022-04-12 |
@@ -394,7 +394,7 @@
 | [Time](https://open.spotify.com/track/1cEHGBID7A9CTLUKOWVk5h) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Time](https://open.spotify.com/album/0CDeIgzn8DcJVpFQ55FMbj) | 3:56 | 2020-12-21 | 2022-04-13 |
 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 | 2020-12-21 | 2022-04-19 |
 | [Today \(with Tirzah\)](https://open.spotify.com/track/7vqbA9MfCnSFMTT0cikF8b) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [R.Y.C](https://open.spotify.com/album/49XdLHYoA83A2JpKbJykSP) | 3:20 | 2020-12-21 | 2022-07-21 |
-| [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 | 2022-10-28 | 2023-01-05 |
+| [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 | 2022-10-28 |  |
 | [Tomb](https://open.spotify.com/track/6ZYy5Z5E03reWlt3hZuvXn) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/5OaRF9FbwGlSeAO5QZBBOa) | 4:18 | 2020-12-21 | 2022-04-16 |
 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 | 2022-07-15 |  |
 | [Too Late](https://open.spotify.com/track/4YHuPWY3yxGo5eftu1Ixm8) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Too Late](https://open.spotify.com/album/4VhSINv5l9dJN1t781T6sX) | 4:12 | 2020-12-21 | 2022-07-21 |

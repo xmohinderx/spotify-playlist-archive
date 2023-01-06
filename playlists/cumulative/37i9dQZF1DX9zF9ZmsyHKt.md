@@ -4,7 +4,7 @@
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-206 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/58e2gUTzby8sgN6dRSHs42)
+206 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

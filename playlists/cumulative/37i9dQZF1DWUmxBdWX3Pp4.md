@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Arcangel.
 
-288 songs - 16 hr 28 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
+288 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

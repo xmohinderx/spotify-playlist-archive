@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. In cover, Mezzosangue.
 
-246 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
+246 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

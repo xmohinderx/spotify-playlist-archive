@@ -4,7 +4,7 @@
 
 > Enjoy the most epic, electrifying, face\-melting axe performances\. Cover: Eddie Van Halen
 
-59 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/0rO41sUWACZztPLVmQUDoG)
+59 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

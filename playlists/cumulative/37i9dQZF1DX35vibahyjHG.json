@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Highlights of 2022, listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=du9lq5lGR-27xrx2qy_HRg\"> Ayra Starr</a>",
-  "name": "Best of EQUAL Africa 2022",
-  "published_playlist_ids": [
-    "6yzD6damvxnHwo13ZRV2qK"
-  ],
+  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW?si=P6oPExm4QMimoz-HpGDuhQ\"> Yemi Alade</a>",
+  "name": "EQUAL Africa ",
   "tracks": [
     {
       "album": {
@@ -103,7 +100,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 207569,
       "name": "African Fever",
       "url": "https://open.spotify.com/track/4AvCMabzghnW8gXLyrGUYu"
@@ -288,6 +285,24 @@
     },
     {
       "album": {
+        "name": "African Baddie",
+        "url": "https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0"
+    },
+    {
+      "album": {
         "name": "TBH (To Be Honest)",
         "url": "https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r"
       },
@@ -451,7 +466,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 201818,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/5hDjWc5A1zOonjMrikQpuQ"
@@ -1181,7 +1196,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 210000,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/5XUZN3xXUYEXAKwV5O8I0x"
@@ -1283,7 +1298,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 134509,
       "name": "Harmonies",
       "url": "https://open.spotify.com/track/0LC0ATPU0YgeTbz0C1vDhf"
@@ -1896,6 +1911,36 @@
     },
     {
       "album": {
+        "name": "Maitama (Going)",
+        "url": "https://open.spotify.com/album/3cErrQwNkGcBR37wIZUDd5"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206315,
+      "name": "Maitama (Going)",
+      "url": "https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ"
+    },
+    {
+      "album": {
         "name": "Mayana",
         "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
       },
@@ -2056,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "Monsta Alta & Ch\u00e9rie",
+        "url": "https://open.spotify.com/album/5RhWRWtO6UuunZaznnyDce"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Monsta Alta",
+      "url": "https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6"
+    },
+    {
+      "album": {
         "name": "WONDALAND",
         "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
       },
@@ -2103,7 +2166,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 180978,
       "name": "Mwambieni",
       "url": "https://open.spotify.com/track/0RHpqRNqC51Jb3BFvRjhB9"
@@ -2275,6 +2338,24 @@
       "duration_ms": 164633,
       "name": "Not The Same (feat. Lucasraps)",
       "url": "https://open.spotify.com/track/73DJqwKLRQgDMNN7odJPqt"
+    },
+    {
+      "album": {
+        "name": "Notice",
+        "url": "https://open.spotify.com/album/0oGDwRzADK0Dw6LEXUEcKw"
+      },
+      "artists": [
+        {
+          "name": "Majesty Lyn",
+          "url": "https://open.spotify.com/artist/5ZETERIwOXfWYCBljWg3Hk"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Notice",
+      "url": "https://open.spotify.com/track/1Xk47tjKaopJmQQqyJWz9T"
     },
     {
       "album": {
@@ -2506,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/1kP6tt24YPAb6MqTCzR2GG"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/7cbe94yjeFCvXZ0T7avjJS"
+    },
+    {
+      "album": {
         "name": "Nkulunkulu",
         "url": "https://open.spotify.com/album/0xPBBVmKorl1Cc2HuasuOX"
       },
@@ -2697,7 +2796,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 192596,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju"
@@ -3565,6 +3664,36 @@
       "duration_ms": 154105,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/6Dcg4JEZgSS4YOeSpu4S76"
+    },
+    {
+      "album": {
+        "name": "UYATHANDEKA",
+        "url": "https://open.spotify.com/album/1xJnRQlIhkJsZSwLgZxEGp"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471478,
+      "name": "UYATHANDEKA",
+      "url": "https://open.spotify.com/track/0YWnzJDkaCAuNgE74ktZD1"
     },
     {
       "album": {

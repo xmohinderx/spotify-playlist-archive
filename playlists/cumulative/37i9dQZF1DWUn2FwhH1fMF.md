@@ -4,7 +4,7 @@
 
 > The best dance songs of 2022\. Cover: Charlotte de Witte
 
-232 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/4NC9GP1oyZmO0sV37Tctze)
+232 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

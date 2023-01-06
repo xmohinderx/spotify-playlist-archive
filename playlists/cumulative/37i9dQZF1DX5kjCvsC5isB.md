@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Kelsy Karter
 
-297 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
+297 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

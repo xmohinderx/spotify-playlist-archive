@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Foto: Paulo Londra
 
-78 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/7tURDhchLm4ApuqHMwUzSU)
+78 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

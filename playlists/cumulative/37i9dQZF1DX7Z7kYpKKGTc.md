@@ -4,7 +4,7 @@
 
 > The romantic side of classic rock and metal
 
-426 songs - 1 day 8 hr 24 min - [published](https://open.spotify.com/playlist/1tXGnbXeluTxKGNVwR9OWH)
+426 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

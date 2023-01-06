@@ -4,7 +4,7 @@
 
 > Blues favorites from 2022\. Cover: Eric Gales \#SpotifyWrapped
 
-143 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/7J29LYotKBKO0d6uHHNKwN)
+143 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

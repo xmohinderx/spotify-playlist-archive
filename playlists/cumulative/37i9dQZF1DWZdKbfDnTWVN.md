@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: Wakadinali
 
-87 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/5uX6eRgTlxUUU0p5d2ahrD)
+87 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

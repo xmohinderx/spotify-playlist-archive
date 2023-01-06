@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida
 
-128 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/1ClIe19M3uxxR397slRi95)
+128 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

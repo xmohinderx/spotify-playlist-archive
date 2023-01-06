@@ -4,7 +4,7 @@
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-57 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/4FfOxrkgxYIrMVTmN0HiSb)
+57 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

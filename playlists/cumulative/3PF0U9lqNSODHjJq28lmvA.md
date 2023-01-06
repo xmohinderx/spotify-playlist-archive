@@ -4,7 +4,7 @@
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-833 songs - 2 day 2 hr 2 min - [published](https://open.spotify.com/playlist/3jiEnkgtFoBVGgNkQaHpJi)
+833 songs - 2 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

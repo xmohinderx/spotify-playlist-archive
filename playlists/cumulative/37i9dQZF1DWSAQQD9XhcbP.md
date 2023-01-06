@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-120 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/37tjlG90TZNOtMj5QxYz5W)
+120 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

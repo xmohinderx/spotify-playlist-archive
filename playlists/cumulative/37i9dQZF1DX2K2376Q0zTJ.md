@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  カネコアヤノ\(Ayano Kaneko\)
 
-650 songs - 1 day 14 hr 55 min - [published](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
+650 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

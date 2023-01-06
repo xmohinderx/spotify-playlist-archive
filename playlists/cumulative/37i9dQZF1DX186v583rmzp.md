@@ -4,7 +4,7 @@
 
 > Real rap music from the golden era.
 
-210 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/3nluuMc1ut66d8EDvyctJz)
+210 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

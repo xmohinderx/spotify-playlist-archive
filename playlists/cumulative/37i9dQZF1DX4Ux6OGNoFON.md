@@ -4,7 +4,7 @@
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Dread Mar I
 
-84 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/3JQCn0U5J7gjZIqJmCR5xX)
+84 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

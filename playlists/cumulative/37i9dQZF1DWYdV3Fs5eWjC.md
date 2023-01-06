@@ -4,7 +4,7 @@
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-109 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/0Yxcvo3ladWEVkD3pIGKnm)
+109 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

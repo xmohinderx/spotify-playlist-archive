@@ -4,7 +4,7 @@
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-136 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/1qRROkHI9x5BXVWcCEXpLA)
+136 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

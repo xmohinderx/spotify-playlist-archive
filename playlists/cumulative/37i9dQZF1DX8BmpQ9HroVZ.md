@@ -4,7 +4,7 @@
 
 > The hottest local and global tracks in Pakistan\. Cover \- Kaifi Khalil
 
-125 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/7dqZIhUmQUoc5otwsdY7F6)
+125 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

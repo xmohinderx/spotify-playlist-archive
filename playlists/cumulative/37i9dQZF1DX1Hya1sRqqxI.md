@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-329 songs - 21 hr 42 min - [published](https://open.spotify.com/playlist/2OkbfmWWY4oCLX6EhdyVrn)
+329 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

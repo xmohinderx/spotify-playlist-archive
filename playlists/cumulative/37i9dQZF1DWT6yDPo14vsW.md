@@ -4,7 +4,7 @@
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
 
-168 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/1YrzgOkwUbL9XUNWYqQR2W)
+168 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

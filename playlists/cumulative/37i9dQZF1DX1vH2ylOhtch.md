@@ -4,7 +4,7 @@
 
 > uh\-oh?
 
-100 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/1HpjezBT7Nxrel2PfnMJZv)
+100 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-167 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/4XDAKmGxhqFedp5hyrO7jw)
+167 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

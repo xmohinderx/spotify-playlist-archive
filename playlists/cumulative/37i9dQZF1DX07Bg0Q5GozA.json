@@ -1,8 +1,7 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: David Bay",
+  "description": "New music off the beaten track. Cover: Moglii, Mulay",
   "name": "OFF POP",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -212,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Gonna Get You Real Good EP",
+        "url": "https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4"
+      },
+      "artists": [
+        {
+          "name": "Tom Zeta",
+          "url": "https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359238,
+      "name": "Bocha Bocha",
+      "url": "https://open.spotify.com/track/5NSjxBfnO0Kfn4qL1slvbo"
+    },
+    {
+      "album": {
         "name": "Both Of Us",
         "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
@@ -263,7 +280,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 249949,
       "name": "Broken - Jacques Lu Cont Mix",
       "url": "https://open.spotify.com/track/4Ovys7emm2gWoPUynSKJdS"
@@ -503,7 +520,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 237173,
       "name": "Domino",
       "url": "https://open.spotify.com/track/6WHKa9TMH4oYHhVZQZ8EM7"
@@ -823,7 +840,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 244262,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc"
@@ -867,6 +884,24 @@
       "duration_ms": 187054,
       "name": "Forr\u00f3",
       "url": "https://open.spotify.com/track/0JJmId5ZF7aOykoQz4AFNe"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6yG6pLMM62bFqa9VVhJM6B"
+      },
+      "artists": [
+        {
+          "name": "Glimmer of Blooms",
+          "url": "https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163361,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/6G8S7nEHC8NqL3mZmvCmwU"
     },
     {
       "album": {
@@ -1020,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "harder",
+        "url": "https://open.spotify.com/album/2RYiKmYrXAt6QEyE3Pht2w"
+      },
+      "artists": [
+        {
+          "name": "Eveline",
+          "url": "https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181030,
+      "name": "harder",
+      "url": "https://open.spotify.com/track/66zt8IyGtkoJEoxxnZOuQB"
+    },
+    {
+      "album": {
         "name": "Ghost In Town",
         "url": "https://open.spotify.com/album/6BNR858jJkOulCVg4JCLqc"
       },
@@ -1145,7 +1198,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 137655,
       "name": "In der Nacht",
       "url": "https://open.spotify.com/track/5zM7a2cRrVcyxBi0LuMKAE"
@@ -1377,7 +1430,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 207775,
       "name": "La Danse Heureuse - Edit",
       "url": "https://open.spotify.com/track/6oF0ZOAKaMxlRVYYHPGgiH"
@@ -1461,7 +1514,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 221379,
       "name": "Loba",
       "url": "https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B"
@@ -2481,7 +2534,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 237760,
       "name": "Snowblind",
       "url": "https://open.spotify.com/track/7eK2khaEOjLozVLBYgqv9F"
@@ -2569,10 +2622,32 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 224480,
       "name": "strange love",
       "url": "https://open.spotify.com/track/2qEu3k0PN2FzXP32h8aa6m"
+    },
+    {
+      "album": {
+        "name": "Sunliight",
+        "url": "https://open.spotify.com/album/3iLQyDZQsLcERtVxrNstVJ"
+      },
+      "artists": [
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        },
+        {
+          "name": "Mulay",
+          "url": "https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Sunliight",
+      "url": "https://open.spotify.com/track/5jcih933VV9IAx2EbadFXQ"
     },
     {
       "album": {
@@ -2671,6 +2746,28 @@
       "duration_ms": 234511,
       "name": "The Outsider",
       "url": "https://open.spotify.com/track/4QP9kNcxLKUT1DVnJ1d1n4"
+    },
+    {
+      "album": {
+        "name": "The Touch",
+        "url": "https://open.spotify.com/album/55VFscrTtQWEu1hnVQvqum"
+      },
+      "artists": [
+        {
+          "name": "SANDHAUS",
+          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
+        },
+        {
+          "name": "Arude",
+          "url": "https://open.spotify.com/artist/3jvLVdebZznGhPcOcOFKd9"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421463,
+      "name": "The Touch",
+      "url": "https://open.spotify.com/track/7EO5QmpN4VfJ17zIBvsB64"
     },
     {
       "album": {
@@ -2790,6 +2887,28 @@
     },
     {
       "album": {
+        "name": "Unity (Agar Agar Remix)",
+        "url": "https://open.spotify.com/album/2vJKrrqbLh6c8kqvYTXM7K"
+      },
+      "artists": [
+        {
+          "name": "Nina Hagen",
+          "url": "https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj"
+        },
+        {
+          "name": "Agar Agar",
+          "url": "https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269192,
+      "name": "Unity - Agar Agar Remix",
+      "url": "https://open.spotify.com/track/6VTSDSzkuyFYs8DxIKd8gB"
+    },
+    {
+      "album": {
         "name": "Voodoo? (Lazywax Remix)",
         "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
@@ -2892,6 +3011,28 @@
     },
     {
       "album": {
+        "name": "Wet Cement (Kareem Ali Remix)",
+        "url": "https://open.spotify.com/album/0yP7kQHYuDp1lOvHILN5t2"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        },
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343663,
+      "name": "Wet Cement - Kareem Ali Remix",
+      "url": "https://open.spotify.com/track/0ifI6yZ047szP2E252EJUY"
+    },
+    {
+      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
       },
@@ -2965,6 +3106,28 @@
       "duration_ms": 294906,
       "name": "Yonder",
       "url": "https://open.spotify.com/track/4PIgYYjyLWSRxHXQotXfVo"
+    },
+    {
+      "album": {
+        "name": "Intimate Fonk",
+        "url": "https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "Holybrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208898,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/4FKuIlfFCIcvpg7M2HJhwx"
     },
     {
       "album": {

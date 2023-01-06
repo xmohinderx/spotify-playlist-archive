@@ -4,7 +4,7 @@
 
 > Take it easy with these laid back tracks from the eighties...
 
-204 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/7IRjF6AeMRfymoepNhLREz)
+204 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

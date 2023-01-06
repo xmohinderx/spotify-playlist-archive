@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-136 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
+136 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

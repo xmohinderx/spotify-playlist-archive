@@ -4,7 +4,7 @@
 
 > Our editorial picks for best hip\-hop songs of the year!<br/>Cover: Future
 
-101 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/0Bc70Mn3kBMyP5uqZ6ESPI)
+101 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

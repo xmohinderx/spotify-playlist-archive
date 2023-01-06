@@ -4,7 +4,7 @@
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Lizzy McAlpine
 
-149 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/4nFqLOYDLUIz4zSbVsy852)
+149 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

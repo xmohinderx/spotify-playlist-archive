@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-244 songs - 16 hr 19 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
+244 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

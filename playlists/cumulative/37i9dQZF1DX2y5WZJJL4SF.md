@@ -4,7 +4,7 @@
 
 > Soft and calm renditions of songs for harp.
 
-184 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
+184 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

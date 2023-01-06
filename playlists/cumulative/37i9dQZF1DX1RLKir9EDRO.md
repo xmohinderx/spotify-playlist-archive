@@ -4,7 +4,7 @@
 
 > Yılın favori keşifleri\. Kapak: Beliz
 
-256 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
+256 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

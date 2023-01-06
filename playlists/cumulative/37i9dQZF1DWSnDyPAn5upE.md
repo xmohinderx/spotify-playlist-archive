@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-126 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/2pF9f5Ff26sFMxb5DKpzBz)
+126 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Clotho](https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 1:36 | 2022-05-18 |  |
 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 | 2022-05-18 |  |
 | [Cry Me A Blizzard \- AFRODEUTSCHE I'm Here Remix](https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG), [AFRODEUTSCHE](https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m) | [Cry Me A Blizzard \(AFRODEUTSCHE I'm Here Remix\)](https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3) | 3:29 | 2022-05-18 |  |
-| [Current Loop Light](https://open.spotify.com/track/6N7yuuN4M7DjkTDg2g9M74) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda), [Ella Zwietnig](https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa) | [Far Within Reach](https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g) | 3:48 | 2022-05-18 |  |
+| [Current Loop Light](https://open.spotify.com/track/6N7yuuN4M7DjkTDg2g9M74) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda), [Ella Zwietnig](https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa) | [Far Within Reach](https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g) | 3:48 | 2022-05-18 | 2023-01-06 |
 | [Dango \- Colloid Version](https://open.spotify.com/track/29MBtrRzSGCnns9CPycR0C) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Dango \(Colloid Version\)](https://open.spotify.com/album/5tbc91panu3bb9H1Cg3ull) | 4:28 | 2022-05-18 |  |
 | [Dawn of Awakening](https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Dawn of Awakening](https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd) | 4:00 | 2022-12-02 |  |
 | [Demetra](https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Hilja](https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe) | 5:21 | 2022-05-18 |  |
@@ -56,7 +56,7 @@
 | [Fields of Grass](https://open.spotify.com/track/727SGrQuPMEECEmnpisZVC) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 4:25 | 2022-07-01 |  |
 | [For You I Am Missing …](https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Ana Stamp](https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH) | [There Up, Behind The Moon](https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m) | 3:18 | 2022-05-18 |  |
 | [Forward](https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Forward / Wreck Dive](https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN) | 3:16 | 2022-07-01 |  |
-| [Fountain \(ars amatoria\)](https://open.spotify.com/track/4tuK95S2K07yPnMYJiMnlH) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Vessel](https://open.spotify.com/artist/3CVP7vT9JUFGLj8MgiVKjY) | [Fountain \(ars amatoria\)](https://open.spotify.com/album/0hGiFp2Ac0VzhFDQCodUFG) | 7:27 | 2022-05-18 | 2023-01-04 |
+| [Fountain \(ars amatoria\)](https://open.spotify.com/track/4tuK95S2K07yPnMYJiMnlH) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Vessel](https://open.spotify.com/artist/3CVP7vT9JUFGLj8MgiVKjY) | [Fountain \(ars amatoria\)](https://open.spotify.com/album/0hGiFp2Ac0VzhFDQCodUFG) | 7:27 | 2022-05-18 |  |
 | [From the Sea](https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig) | [Serena Gabriel](https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR), [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Seeing Inside](https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF) | 11:47 | 2022-05-18 |  |
 | [Frontier](https://open.spotify.com/track/3KYC7CK4Itjy7UXn1BaW67) | [Holly Herndon](https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ) | [PROTO](https://open.spotify.com/album/29sozE8XDMOHT8KK9iq4Fo) | 4:29 | 2022-05-18 |  |
 | [Fur & Feather](https://open.spotify.com/track/1V9na2MEGjOajhK1fTJRpS) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/17i8UBmNkp5UY0CLRHokyk) | 3:04 | 2022-12-02 |  |

@@ -4,7 +4,7 @@
 
 > Caminando de la mano..\. eres mi razón de ser.
 
-107 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/23mdkCkMshzjDWHVkIoEzR)
+107 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

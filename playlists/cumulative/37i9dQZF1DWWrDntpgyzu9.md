@@ -4,7 +4,7 @@
 
 > Solte a voz no chuveiro e liberte o cantor dentro de você!
 
-162 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/1zsveXP4y3EfVZQZKneD0e)
+162 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

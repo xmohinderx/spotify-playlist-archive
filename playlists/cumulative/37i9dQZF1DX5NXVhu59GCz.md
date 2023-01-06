@@ -4,7 +4,7 @@
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-60 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/4hlf5ZG8IaIwQc0qKofAzM)
+60 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

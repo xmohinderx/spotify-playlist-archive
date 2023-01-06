@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-67 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/3WhNOVBn98jdzbJUMW15Op)
+67 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

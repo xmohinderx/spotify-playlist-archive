@@ -4,7 +4,7 @@
 
 > el amor es pico tres <3
 
-121 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/7mH8k47mbNXRQVJ4PEHEwr)
+121 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

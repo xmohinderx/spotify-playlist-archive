@@ -4,7 +4,7 @@
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-103 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/5KqdPjZsZp6sxfFMSxGy2A)
+103 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

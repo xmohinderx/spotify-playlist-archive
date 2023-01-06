@@ -4,7 +4,7 @@
 
 > Your go\-to playlist for this week's hottest music featuring Hozier, Harry Styles &amp; more!
 
-250 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/75s0XbdgHXKxghQ09Qc5k3)
+250 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

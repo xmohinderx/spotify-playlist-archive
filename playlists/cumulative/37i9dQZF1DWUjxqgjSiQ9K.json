@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-01",
   "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: \n Generaci\u00f3n 12",
   "name": "\u00c9xitos Cristianos",
-  "published_playlist_ids": [
-    "46xuGYmp3nbMhyLwZ3Xj5y"
-  ],
   "tracks": [
     {
       "album": {
@@ -591,7 +588,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 160979,
       "name": "Ando Buscando",
       "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
@@ -2315,7 +2312,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 193333,
       "name": "En el estudio con Manny Montes Vol. 4",
       "url": "https://open.spotify.com/track/2k3zCJ36BmRBINkHV3gWf7"
@@ -2571,6 +2568,24 @@
       "duration_ms": 239063,
       "name": "Este Es Mi Tiempo",
       "url": "https://open.spotify.com/track/3Sge1EEIo3YeYa3SsgNXrw"
+    },
+    {
+      "album": {
+        "name": "ETERNOS",
+        "url": "https://open.spotify.com/album/5QGzUZWzw2ozqN3G5UQNvw"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159508,
+      "name": "ETERNOS",
+      "url": "https://open.spotify.com/track/4vV0X2mXpAzJtQYSReDhsO"
     },
     {
       "album": {
@@ -3349,7 +3364,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 171000,
       "name": "La Oraci\u00f3n",
       "url": "https://open.spotify.com/track/4Aw3yrryzr5RfPHLY8kcfy"
@@ -4698,6 +4713,28 @@
     },
     {
       "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/7w9SYfdjGZLL8xM5J944OU"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208350,
+      "name": "Poderoso",
+      "url": "https://open.spotify.com/track/7suLotu4fPldWgHbsvvmzz"
+    },
+    {
+      "album": {
         "name": "Poderoso Dios (Grande Y Fiel)",
         "url": "https://open.spotify.com/album/3kBXpmimlp4hbrmf8itlxj"
       },
@@ -5631,7 +5668,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 206527,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK"
@@ -5889,7 +5926,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 191149,
       "name": "S\u00e1name Jes\u00fas",
       "url": "https://open.spotify.com/track/5GXgfaCCFW5pTRK6Sk6hMP"
@@ -6029,6 +6066,24 @@
       "duration_ms": 373577,
       "name": "Te Seguiremos",
       "url": "https://open.spotify.com/track/0DNp28hkM9fwmdn4JbSo2B"
+    },
+    {
+      "album": {
+        "name": "Te seguir\u00e9",
+        "url": "https://open.spotify.com/album/41et6v4ubF04EyYMd1OkkC"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302149,
+      "name": "Te seguir\u00e9",
+      "url": "https://open.spotify.com/track/5uT8vJgTmzCwc7X3kGrEfD"
     },
     {
       "album": {
@@ -6241,6 +6296,24 @@
       "duration_ms": 255774,
       "name": "Tu Bondad",
       "url": "https://open.spotify.com/track/7xURcWepR5TwKQMhA3vnMC"
+    },
+    {
+      "album": {
+        "name": "Tu Estabas Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2Xazt8vUvFBdbQTeXVJm5V"
+      },
+      "artists": [
+        {
+          "name": "Pablo Olivares",
+          "url": "https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Tu Estabas Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5KwLXpjsHHttXnMEhPS0Cl"
     },
     {
       "album": {
@@ -6567,6 +6640,24 @@
       "duration_ms": 227908,
       "name": "vale na",
       "url": "https://open.spotify.com/track/7gh11NpuOwvASxThHQhxCk"
+    },
+    {
+      "album": {
+        "name": "Veintidos",
+        "url": "https://open.spotify.com/album/0q0lOr8XvWYcAu6enCdiJT"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183663,
+      "name": "Veintidos",
+      "url": "https://open.spotify.com/track/4h4HCyYQmcaB7sXR7IEIH9"
     },
     {
       "album": {

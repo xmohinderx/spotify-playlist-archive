@@ -4,7 +4,7 @@
 
 > Relaxing classical piano.
 
-69 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/2E2RyBcBkqOG7RVx0sFU7t)
+69 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

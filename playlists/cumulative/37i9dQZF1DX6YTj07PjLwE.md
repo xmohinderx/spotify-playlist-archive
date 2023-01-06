@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-633 songs - 1 day 22 hr 25 min - [published](https://open.spotify.com/playlist/5fY6Ph5wM7EgXYDIjEJqVm)
+633 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-64 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/6BSA9slljRH4cdN4bRj9CH)
+64 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

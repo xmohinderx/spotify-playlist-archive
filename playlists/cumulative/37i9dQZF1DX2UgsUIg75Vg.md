@@ -2,9 +2,9 @@
 
 ### [Chilled R&B](https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg)
 
-> Chilled R&B jams for your most relaxed moods\. Cover: Leon Thomas
+> Chilled R&B jams for your most relaxed moods\. Cover: Mario
 
-525 songs - 1 day 6 hr 12 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
+527 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [LIE TO ME](https://open.spotify.com/track/7ASpmYX408cN5tkmjvKTCN) | [Siergio](https://open.spotify.com/artist/6PSc1olsEQHlpmi4MRIBFP) | [BEFORE IT'S TOO LATE](https://open.spotify.com/album/1t43eH5HnqYEtadR8amnr8) | 4:24 | 2022-09-30 |  |
 | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/track/4bxr2sOVZSLjIN7tQx53ir) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/album/6rdfmpRVrUn1B7Q8rSCHZj) | 3:17 | 2022-07-08 |  |
 | [Lifetime](https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Lifetime](https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC) | 3:09 | 2022-04-15 | 2022-11-05 |
+| [Like Her Too](https://open.spotify.com/track/2prgEUNls0vlOlZoDzTw5m) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Like Her Too](https://open.spotify.com/album/4oRAaZA9TrNiR3ARRkAvWl) | 2:58 | 2023-01-06 |  |
 | [Like I Feel \(feat\. Mereba\)](https://open.spotify.com/track/64V55m8zSkracnZ6mYpjK0) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Like I Feel \(feat\. Mereba\)](https://open.spotify.com/album/0lwbJqkYbNedGKrLoqOhfN) | 3:47 | 2020-10-09 | 2021-04-10 |
 | [Like I Want You](https://open.spotify.com/track/1Gv8NYJeqQNXXrYQ1c1r4e) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Like I Want You](https://open.spotify.com/album/2v6H5GnUs1QS2VsN8WZqME) | 4:20 | 2019-12-11 | 2020-05-08 |
 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 | 2020-05-15 | 2020-08-30 |
@@ -410,6 +411,7 @@
 | [See Through Love \(feat\. Chris Brown\)](https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 3:50 | 2022-08-19 | 2022-10-29 |
 | [Self Love \(with Ari Lennox & Bas feat\. Baby Rose\)](https://open.spotify.com/track/7dnSXaCjLdFiWZa8s5wP1n) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:43 | 2019-07-10\* | 2019-12-24 |
 | [Sensitive](https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Sometimes, I'm Speechless](https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE) | 2:54 | 2022-12-16 |  |
+| [Sensually](https://open.spotify.com/track/4Wb8NdNKT7kjeHIs8IMRUK) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP) | 2:51 | 2023-01-06 |  |
 | [Set Him Up \(feat\. Ari Lennox\)](https://open.spotify.com/track/0FhfNle9FovXRL03awCJbe) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Set Him Up \(feat\. Ari Lennox\)](https://open.spotify.com/album/6prRBHIVxS9oyvDmxS2nwa) | 3:42 | 2021-04-10 | 2021-11-10 |
 | [Shot Clock](https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:21 | 2019-07-10\* | 2019-08-13 |
 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 | 2021-03-14 | 2021-08-07 |

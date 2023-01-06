@@ -4,7 +4,7 @@
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: CHUNG HA, Christopher\)
 
-207 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/3XvJZtxjOxsmcdtLvwdndV)
+207 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

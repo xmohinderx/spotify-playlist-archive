@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Sydney Blu",
+  "description": "The best of today's dance hits. Cover: Skrillex",
   "name": "mint Canada",
-  "published_playlist_ids": [
-    "1PEHoMgddwKvz8RvsLstCM"
-  ],
   "tracks": [
     {
       "album": {
@@ -1231,7 +1228,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 168960,
       "name": "Body Love",
       "url": "https://open.spotify.com/track/4nnjabY2jXxrt0LDU3Hvmb"
@@ -2928,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "Elesa",
+        "url": "https://open.spotify.com/album/1en5wHdoxXFQhUsbCcx1uT"
+      },
+      "artists": [
+        {
+          "name": "Haffenfold",
+          "url": "https://open.spotify.com/artist/2b22KV07lFaJYxVmpdiCkq"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256696,
+      "name": "Elesa",
+      "url": "https://open.spotify.com/track/7mYW6UDI53tZrhLycPqcw0"
+    },
+    {
+      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/1FMoyW1Ntjaoq3tko5kuuk"
       },
@@ -3694,6 +3709,28 @@
     },
     {
       "album": {
+        "name": "Front To Back (feat. DLMT)",
+        "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
+      },
+      "artists": [
+        {
+          "name": "FOMO",
+          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Front To Back (feat. DLMT)",
+      "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
+    },
+    {
+      "album": {
         "name": "Frozen Time",
         "url": "https://open.spotify.com/album/7adtype4aYgD15BCt98mB6"
       },
@@ -3831,6 +3868,24 @@
       "duration_ms": 180983,
       "name": "Giving Up On Love",
       "url": "https://open.spotify.com/track/3WhW8hmR8tFQjpZBIFNLw6"
+    },
+    {
+      "album": {
+        "name": "God On The Weekend",
+        "url": "https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180231,
+      "name": "God On The Weekend",
+      "url": "https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh"
     },
     {
       "album": {
@@ -5425,7 +5480,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 200299,
       "name": "It's Ours - Short Mix",
       "url": "https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM"
@@ -6878,6 +6933,24 @@
     },
     {
       "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/115d9MPpcQT2sKnjpIW12G"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/3aQFj0dc2vv6sAhHSVGoFi"
+    },
+    {
+      "album": {
         "name": "Married to Your Melody",
         "url": "https://open.spotify.com/album/4sfQiCd0Wcm0vRPmgTH7Su"
       },
@@ -7467,6 +7540,28 @@
       "duration_ms": 193846,
       "name": "Needed You",
       "url": "https://open.spotify.com/track/564T582Vtk381CRQC25sD0"
+    },
+    {
+      "album": {
+        "name": "Never Be Enough",
+        "url": "https://open.spotify.com/album/29aziFEfDkkBlgfhHdwXUy"
+      },
+      "artists": [
+        {
+          "name": "Sugar Jesus",
+          "url": "https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5"
+        },
+        {
+          "name": "Sylvie",
+          "url": "https://open.spotify.com/artist/65ZxzibB1frczfKSahNg5R"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147351,
+      "name": "Never Be Enough",
+      "url": "https://open.spotify.com/track/3LqLxWxH2AOS1jNw9CYnDX"
     },
     {
       "album": {
@@ -8571,7 +8666,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 153548,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/0nPaWkxRGHwPsJ65vv0eQA"
@@ -9373,6 +9468,32 @@
       "duration_ms": 152973,
       "name": "Ruin Your Life",
       "url": "https://open.spotify.com/track/7rnNkVDXH6RQUNQTXVClCr"
+    },
+    {
+      "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
     },
     {
       "album": {
@@ -11502,6 +11623,28 @@
     },
     {
       "album": {
+        "name": "This Is The Sound",
+        "url": "https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192401,
+      "name": "This Is The Sound",
+      "url": "https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj"
+    },
+    {
+      "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/2PLSUN7AZmosnt1D7xNkKV"
       },
@@ -11521,6 +11664,32 @@
       "duration_ms": 155720,
       "name": "Through The Night - Radio Edit",
       "url": "https://open.spotify.com/track/2gHEGakBTCACE179XoCg2K"
+    },
+    {
+      "album": {
+        "name": "Tibet",
+        "url": "https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403676,
+      "name": "Tibet",
+      "url": "https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90"
     },
     {
       "album": {

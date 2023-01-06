@@ -4,7 +4,7 @@
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/47kA07wVyKhpcPYywANZEm)
+57 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

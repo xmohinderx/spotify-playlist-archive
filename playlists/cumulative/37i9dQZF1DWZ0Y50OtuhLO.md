@@ -4,7 +4,7 @@
 
 > Ana & Saff bring you the soundtrack to being to best version of you! \#NYE2022
 
-306 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/5ZEbsFDVgsXqSDnmBZojgS)
+306 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

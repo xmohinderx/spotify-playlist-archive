@@ -4,7 +4,7 @@
 
 > Shame exists because representation doesn’t\. Unshaming shares the stories of silenced communities.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/6Cgqv5Mi9rEXcS9vxPRGqr)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

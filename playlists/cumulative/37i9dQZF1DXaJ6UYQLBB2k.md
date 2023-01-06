@@ -4,7 +4,7 @@
 
 > Re\-live the glory of Ambient from the 1990s.
 
-77 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/099b4qP987Avm2d4iVZhyZ)
+77 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

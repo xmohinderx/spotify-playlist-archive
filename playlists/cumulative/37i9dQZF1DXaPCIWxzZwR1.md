@@ -4,7 +4,7 @@
 
 > next gen pop cover: Sabrina Carpenter
 
-1,270 songs - 2 day 13 hr 46 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,272 songs - 2 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [A\-O\-K](https://open.spotify.com/track/4CbrNGvwVjneG8Nk9YQqMR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [A\-O\-K](https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR) | 2:53 | 2021-05-08 | 2021-11-27 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-09-28 | 2022-03-18 |
 | [About a Breakup](https://open.spotify.com/track/38Lzl3hFC8AmlcpnIAfBps) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [About a Breakup](https://open.spotify.com/album/1uAnTBreKEvqneOZJU7Hlg) | 2:42 | 2021-04-24 | 2021-05-22 |
+| [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2023-01-06 |  |
 | [AdaLINE](https://open.spotify.com/track/2As91j4G5GKRbx4In7ClyV) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [AdaLINE](https://open.spotify.com/album/6cEOgTZp3T7lxaUSNCCeN1) | 2:45 | 2022-12-16 |  |
 | [ADDERALL](https://open.spotify.com/track/4uRIEIVwS9uKdmFMluEZQz) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [ADDERALL](https://open.spotify.com/album/6HiXnVz4gjJOOhG2ndnOK3) | 2:52 | 2021-02-19 | 2021-03-14 |
 | [Adelaide](https://open.spotify.com/track/16NGKSGdga9PpKni7czkLl) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It’s Never Really Over](https://open.spotify.com/album/6uo1RAD4bTkbHVn1cnxaED) | 3:02 | 2021-02-16\* | 2021-02-19 |
@@ -471,7 +472,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-04 | 2021-09-25 |
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2021-09-25 | 2022-02-26 |
 | [Happy](https://open.spotify.com/track/24HQbYzBldd05ENwkwaBRq) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [Conversations With Myself](https://open.spotify.com/album/0Rgza5JnxjHm3jARyRb7v8) | 2:23 | 2021-02-16\* | 2021-03-06 |
-| [happy f\*\*\*ing birthday](https://open.spotify.com/track/06oe6KMQ6RkTUDUQzAnyH4) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [happy f\*\*\*ing birthday](https://open.spotify.com/album/7AJV5iSnexDnam2InfRQNR) | 3:06 | 2022-12-09 |  |
+| [happy f\*\*\*ing birthday](https://open.spotify.com/track/06oe6KMQ6RkTUDUQzAnyH4) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [happy f\*\*\*ing birthday](https://open.spotify.com/album/7AJV5iSnexDnam2InfRQNR) | 3:06 | 2022-12-09 | 2023-01-06 |
 | [happy for me](https://open.spotify.com/track/5xb35zCNGaD9XuZtp4PZCv) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [happy for me](https://open.spotify.com/album/5BMliAH2ieqeKktKa1qsbK) | 3:11 | 2021-09-14 | 2021-11-06 |
 | [Happy Loner](https://open.spotify.com/track/3aVpNPYYhmnhFl61QS56tx) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Happy Loner](https://open.spotify.com/album/2LqEi8okydBj6gNTAVhOJq) | 3:13 | 2021-12-04 | 2022-01-29 |
 | [HARMONY](https://open.spotify.com/track/0pj4T7AzKyVOYmnSnxgdge) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [HARMONY](https://open.spotify.com/album/3EmBIgEc9m3Fm8n2UtS0aj) | 2:36 | 2021-10-09 | 2021-11-13 |
@@ -1176,6 +1177,7 @@
 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 | 2022-08-19 |  |
 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 | 2022-11-11 |  |
 | [UGLY](https://open.spotify.com/track/2dhPuSbG7blYN5tc6VxzHq) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 6: UGLY](https://open.spotify.com/album/0L7Pn96iL4d6oSZYk1QAxa) | 1:58 | 2021-12-31 | 2022-01-15 |
+| [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 | 2023-01-06 |  |
 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 | 2022-09-30 |  |
 | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN) | 2:13 | 2022-04-22 | 2022-07-09 |
 | [Under My Tongue](https://open.spotify.com/track/2OikEBxAnm5UfC0Ag6VCsa) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5) | [Strange Nights](https://open.spotify.com/album/0XYNxkfhrnGvbmyOrfcx83) | 2:54 | 2021-08-04 | 2021-08-28 |
@@ -1240,7 +1242,7 @@
 | [Why I Broke Up With You](https://open.spotify.com/track/21RiG0Y6cm7M7qN4r4BgGW) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Why I Broke Up With You](https://open.spotify.com/album/2BhCsXcXD3FBgC38hej4p5) | 2:43 | 2022-07-08 | 2022-10-15 |
 | [Wild](https://open.spotify.com/track/0yBZ0uyGRXehekIIadZ3Cd) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Wild](https://open.spotify.com/album/3Q7vRXzztzgiUf5ANcr8fI) | 2:19 | 2022-05-27 | 2022-06-25 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-07 | 2022-12-19 |
-| [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 | 2022-12-07 |  |
+| [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 | 2022-12-07 | 2023-01-06 |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 | 2021-09-25 | 2021-12-20 |
 | [Wildflower](https://open.spotify.com/track/5HEfenabh2FfPUOO4xa89L) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Wildflower](https://open.spotify.com/album/5MX0G9hlDVOUsY6zRDFMq0) | 2:41 | 2022-10-07 | 2022-12-03 |
 | [Wingman](https://open.spotify.com/track/6VitRC30kO0TKoDcEeQHCU) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Wingman](https://open.spotify.com/album/1be3Mn77VbYlBtltlAOIDO) | 3:27 | 2021-02-16\* | 2021-02-26 |

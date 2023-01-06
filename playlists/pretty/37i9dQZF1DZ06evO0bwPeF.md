@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,872 likes - 47 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,878 likes - 47 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 46 | [Seeing Eye Dog](https://open.spotify.com/track/6RvQs3xkobVzjsfKX3278z) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:03 |
 | 47 | [Intro \- Live at CBGB](https://open.spotify.com/track/7G0GL6nuNPavq0qXmAASBF) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Live and Rare](https://open.spotify.com/album/23LB0tzYvazXNVnYL1OZbo) | 1:39 |
 
-Snapshot ID: `Mjc4ODA3MzQsMDAwMDAwMDBkNGJkNTlmYTkyZDVmZWRhYTEwMWY5ZGQ2NDJmYjAwZA==`
+Snapshot ID: `Mjc4ODIxNTksMDAwMDAwMDA0YjAzOTU0YThkYTUwZDA0NDFhYmJlZDBiMWQ5NDFlYQ==`

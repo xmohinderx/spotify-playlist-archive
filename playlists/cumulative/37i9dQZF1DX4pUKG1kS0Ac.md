@@ -4,7 +4,7 @@
 
 > You say guilty, we say non stop bangers!
 
-457 songs - 1 day 5 hr 15 min - [published](https://open.spotify.com/playlist/3E1uCCU01gqnp80UIJaAJv)
+457 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

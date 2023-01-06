@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 ### [Acoustic Blues](https://open.spotify.com/playlist/37i9dQZF1DX2iUghHXGIjj)
 
-> Raw, emotional, and acoustic\. Cover: Taj Mahal
+> Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,792 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,790 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 99 | [What They Say](https://open.spotify.com/track/24NvptbNKGs6sPy1Vh1O0v) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/1OsaTxNg63FgnAqMVvIcC7) | 2:46 |
 | 100 | [Turtle Beach](https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT) | [Eric Von Schmidt](https://open.spotify.com/artist/739hmk6VVud7fbPNmYL7pa) | [2nd Right, 3rd Row](https://open.spotify.com/album/54NcsyWIW9MeKUSqzHCrHW) | 3:53 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDUzYjM3ZWVhY2NlZGEzMGI5YjFiNjk1OGNmMjQ3YWU3`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGM1ODY2OTI3YmM1MmNlNTMyY2E5ODk1YmIzZjc0N2Mz`

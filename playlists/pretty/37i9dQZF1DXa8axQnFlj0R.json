@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 68163,
+  "num_followers": 68233,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwNzc1NywwMDAwMDAwMGJmMTE5NDM5NDBkOWU5NGVlOTIwZjA5ZGUxYjc0MDky",
+  "snapshot_id": "MTY3MDAwNzc1NywwMDAwMDAwMGEyOTVlZDlmMzU1ZDdlMmRjMzEwYTAwNTE1ZDhmOWVj",
   "tracks": [
     {
       "added_at": "2022-10-14 19:05:43",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
     },
     {
-      "added_at": "2023-01-05 01:28:59",
+      "added_at": "2023-01-06 06:45:39",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -631,22 +631,18 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
+        "name": "Running With The Wolves",
+        "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
       },
       "artists": [
         {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        },
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
         }
       ],
-      "duration_ms": 267266,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"
+      "duration_ms": 163821,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -667,18 +663,22 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Running With The Wolves",
-        "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
       },
       "artists": [
         {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        },
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 163821,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
+      "duration_ms": 267266,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Simply the Best (From \"Schitt's Creek\")",
-        "url": "https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 177918,
-      "name": "Simply the Best (From \"Schitt's Creek\")",
-      "url": "https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "Simply the Best (From \"Schitt's Creek\")",
+        "url": "https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 177918,
+      "name": "Simply the Best (From \"Schitt's Creek\")",
+      "url": "https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/5Syb5fDjejlzXhwHhEFVzq"
     },
     {
-      "added_at": "2023-01-05 01:28:59",
+      "added_at": "2023-01-06 06:45:39",
       "album": {
         "name": "Brutally",
         "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "False Floors",
-        "url": "https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT"
-      },
-      "artists": [
-        {
-          "name": "Rogue Valley",
-          "url": "https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7"
-        }
-      ],
-      "duration_ms": 256535,
-      "name": "The Wolves and the Ravens",
-      "url": "https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "Blood Wolf Moon",
         "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 180010,
       "name": "Blood Wolf Moon",
       "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "False Floors",
+        "url": "https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT"
+      },
+      "artists": [
+        {
+          "name": "Rogue Valley",
+          "url": "https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7"
+        }
+      ],
+      "duration_ms": 256535,
+      "name": "The Wolves and the Ravens",
+      "url": "https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Subject To Change",
-        "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Glad I Got You",
-      "url": "https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 199172,
       "name": "Now & Then",
       "url": "https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "Subject To Change",
+        "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Glad I Got You",
+      "url": "https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 151240,
-      "name": "Rookery",
-      "url": "https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "Love You Twice",
         "url": "https://open.spotify.com/album/6cCcFoDt2Zncbda2vn0Ji5"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 204736,
       "name": "Love You Twice",
       "url": "https://open.spotify.com/track/0p8N7QE1DJtY6IVmLy1YZc"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 151240,
+      "name": "Rookery",
+      "url": "https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
+        "name": "Midnight Sun (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS"
+      },
+      "artists": [
+        {
+          "name": "MishCatt",
+          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
+        }
+      ],
+      "duration_ms": 193905,
+      "name": "Midnight Sun - Acoustic Version",
+      "url": "https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
         "name": "The Old Pine E.P.",
         "url": "https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 197460,
       "name": "Wild",
       "url": "https://open.spotify.com/track/7GbRC3WWnBGF9Uc9N2BUDh"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
-        "name": "Midnight Sun (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS"
-      },
-      "artists": [
-        {
-          "name": "MishCatt",
-          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
-        }
-      ],
-      "duration_ms": 193905,
-      "name": "Midnight Sun - Acoustic Version",
-      "url": "https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0"
     },
     {
       "added_at": "2022-10-14 19:05:43",

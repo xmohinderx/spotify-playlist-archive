@@ -4,7 +4,7 @@
 
 > Celebrating all the great women of pop music\. Cover: Taylor Swift
 
-507 songs - 1 day 6 hr 32 min - [published](https://open.spotify.com/playlist/6hHKwc1YaDccLadJSMfgv7)
+507 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Genie In A Bottle \(Album Version\)](https://open.spotify.com/track/4gW7mm93XKmqdPduQ3bpqS) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Come On Over Baby/Genie In A Bottle](https://open.spotify.com/album/10uyvuWsvX8SSREpMrMYiJ) | 3:37 | 2021-03-09 | 2022-04-18 |
 | [Get on Your Feet](https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuts Both Ways](https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9) | 3:38 | 2021-03-08 | 2022-04-19 |
 | [Ghost](https://open.spotify.com/track/4XPWKmy05Rcff6TLHNoNF8) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 3:33 | 2021-03-10 | 2022-04-19 |
-| [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 | 2019-09-05 | 2023-01-02 |
+| [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 | 2019-09-05 |  |
 | [Girls \(feat\. Cardi B, Bebe Rexha & Charli XCX\)](https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girls \(feat\. Cardi B, Bebe Rexha & Charli XCX\)](https://open.spotify.com/album/0TITR3yePyzJvlnQk61AWP) | 3:41 | 2019-05-26\* | 2019-08-29 |
 | [Give 'n' Take](https://open.spotify.com/track/72D5vQFXnIOqvBhnFfmyQE) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Give 'n' Take](https://open.spotify.com/album/1zYTI82P3qHJbL2rvilyDh) | 3:03 | 2020-06-12 | 2022-04-20 |
 | [Give A Little](https://open.spotify.com/track/4za2QYGfHlYml23pChrpXO) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Give A Little](https://open.spotify.com/album/6ZjnIplQKKNGlbGX589VG6) | 3:45 | 2019-06-21 | 2022-04-19 |
@@ -336,7 +336,7 @@
 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 | 2019-06-25 |  |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2022-12-28 |  |
 | [Now Or Never](https://open.spotify.com/track/0Nhu3zSYbEz32IYiobV75e) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/1fV3TdIojhb9lQXd72HiPq) | 3:34 | 2019-05-27 | 2019-06-28 |
-| [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-02-24 |  |
+| [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-02-24 | 2023-01-06 |
 | [Obsessed](https://open.spotify.com/track/1eN1K7YPRButXU7Mq0V58N) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Obsessed](https://open.spotify.com/album/5SGmG1tw3OYNVORxY6q51X) | 3:04 | 2019-05-26\* | 2022-06-21 |
 | [Ocean Eyes \- Astronomyy Remix](https://open.spotify.com/track/3CNMpj3ow5t4JhpC4uop0w) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Astronomyy](https://open.spotify.com/artist/3EpmmPtV7DduqNmeqaADIm) | [Ocean Eyes \(The Remixes\)](https://open.spotify.com/album/4M8mMpLXaJZMagyWDizRaf) | 4:56 | 2019-06-23 | 2019-06-28 |
 | [One, Two Step \(feat\. Missy Elliott\)](https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:23 | 2019-06-22 | 2022-04-16 |

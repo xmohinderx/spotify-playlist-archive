@@ -4,7 +4,7 @@
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-129 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/2QwlzrEjUwHNpvdCZVIDMX)
+129 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

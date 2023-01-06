@@ -4,7 +4,7 @@
 
 > Classics from the Baroque era.
 
-71 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/6RtZJwhltjKwNxSdITQdxW)
+71 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

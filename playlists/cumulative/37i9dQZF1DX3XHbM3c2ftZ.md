@@ -4,7 +4,7 @@
 
 > Celebrate Dad with these songs for the whole family.
 
-41 songs - 1 hr 28 min - [published](https://open.spotify.com/playlist/6tl6Ybu4TpCwX9cllSPtj0)
+41 songs - 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

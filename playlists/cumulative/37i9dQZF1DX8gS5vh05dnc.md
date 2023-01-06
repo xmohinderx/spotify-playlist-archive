@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-162 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/5NOIpWlRTcXEkgjmyodxCT)
+162 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

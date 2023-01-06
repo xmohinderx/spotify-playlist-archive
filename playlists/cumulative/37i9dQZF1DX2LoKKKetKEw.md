@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Marizu
 
-93 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/3Byz18nq85Iwxm1gDdCput)
+93 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

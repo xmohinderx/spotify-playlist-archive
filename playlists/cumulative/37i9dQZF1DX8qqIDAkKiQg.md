@@ -4,7 +4,7 @@
 
 > The essential works of Wolfgang Amadeus Mozart, featuring relaxing piano, soulful strings, a few magical operas, and plenty of legendary melodies.
 
-128 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/5e5uywO2idnps6EMgBZJhw)
+128 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

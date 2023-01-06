@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-87 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/3SMaUdCHYgOYKwuKa1OVGG)
+87 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

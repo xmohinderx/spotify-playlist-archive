@@ -4,7 +4,7 @@
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-73 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/016gHuQWHU4zN7AfhV8d5y)
+73 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

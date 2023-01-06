@@ -4,7 +4,7 @@
 
 > 
 
-663 songs - 1 day 20 hr 39 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+663 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

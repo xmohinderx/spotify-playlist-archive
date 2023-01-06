@@ -4,7 +4,7 @@
 
 > Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...
 
-228 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/0ZFLSW3mLbUT8p6UvOvMPO)
+228 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

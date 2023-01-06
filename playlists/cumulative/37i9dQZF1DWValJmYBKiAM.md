@@ -4,7 +4,7 @@
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2000s.
 
-128 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/0ytVWKZ6AVAwJHeApB1I5t)
+128 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

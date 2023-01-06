@@ -4,7 +4,7 @@
 
 > Una lista perfecta para aquellos corazones que aún no han sido correspondidos.
 
-83 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/6zwOwkn8jYbaNjGrktCDGR)
+83 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

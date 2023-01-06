@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-775 songs - 2 day 7 hr 29 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
+775 songs - 2 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

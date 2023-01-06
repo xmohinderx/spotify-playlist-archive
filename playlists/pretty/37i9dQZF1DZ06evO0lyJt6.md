@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,785 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,806 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 50 | [Y Se Parece A Ti](https://open.spotify.com/track/7j0DwKoBLkgXkfDtu3CgmV) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [El Vale Por Siempre](https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN) | 2:26 |
 | 51 | [Según Tus Labios](https://open.spotify.com/track/2gUDXy0cLy2nEvEUDI5m9G) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:09 |
 
-Snapshot ID: `Mjc4ODA3MzQsMDAwMDAwMDAxODA1NTEzZmMxZWRlZmMyZmM3MzA5OTBlYWQ1Y2ZmMQ==`
+Snapshot ID: `Mjc4ODIxNTksMDAwMDAwMDA4ZjgxZmNiYTdiZWFhMTY4Y2JhMmM2NWM5NmRkNWE0Mg==`

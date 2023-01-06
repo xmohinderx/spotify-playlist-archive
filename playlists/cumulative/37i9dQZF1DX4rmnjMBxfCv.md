@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Obeidmusic, Pamela Antoun.
 
-90 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+90 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Beta frequencies for increased concentration.
 
-62 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/5ut6icI7FhIjnPBgG0hnSt)
+62 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

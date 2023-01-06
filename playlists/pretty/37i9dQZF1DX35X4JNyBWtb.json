@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 559017,
+  "num_followers": 559990,
   "original_name": "Energy Booster: Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc5MzIwMCwwMDAwMDAwMDkzNDAxMGJjYjdhYTU4ZGE4OGViMmYzZTZmZDAzOGRi",
+  "snapshot_id": "MTY3MTc5MzIwMCwwMDAwMDAwMGM0NjQ4ODc5NjUzN2UxZmE3YjlhZmRiOTlkNjEzMWEx",
   "tracks": [
     {
       "added_at": "2022-12-23 11:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
+        "name": "Million Voices",
+        "url": "https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Million Voices - Radio Edit",
+      "url": "https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
         "name": "Narco",
         "url": "https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 208634,
       "name": "Narco",
       "url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
-        "name": "Million Voices",
-        "url": "https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Million Voices - Radio Edit",
-      "url": "https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 217906,
-      "name": "Move Your Body - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Hear Me Say",
         "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 190772,
       "name": "Hear Me Say",
       "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 217906,
+      "name": "Move Your Body - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2155,6 +2155,26 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
+        "name": "Would You Ever",
+        "url": "https://open.spotify.com/album/2czvZrAe1DWj6uc4iOqtJX"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Poo Bear",
+          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Would You Ever",
+      "url": "https://open.spotify.com/track/57p8CBvPOxrvyCbn6ttl5r"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
         "name": "Good Evening",
         "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
       },
@@ -2191,26 +2211,6 @@
       "duration_ms": 176097,
       "name": "Insomnia - King Topher Remix",
       "url": "https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
-        "name": "Would You Ever",
-        "url": "https://open.spotify.com/album/2czvZrAe1DWj6uc4iOqtJX"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Poo Bear",
-          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Would You Ever",
-      "url": "https://open.spotify.com/track/57p8CBvPOxrvyCbn6ttl5r"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2275,26 +2275,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "This Groove",
-        "url": "https://open.spotify.com/album/6V2cksv4xWiubhZdh2Kb1H"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Lenno",
-          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "This Groove",
-      "url": "https://open.spotify.com/track/6ZvLKwgPKlyZtDPkTWjPI7"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Something Just Like This (Remixes)",
         "url": "https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE"
       },
@@ -2319,6 +2299,26 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
+        "name": "This Groove",
+        "url": "https://open.spotify.com/album/6V2cksv4xWiubhZdh2Kb1H"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Lenno",
+          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "This Groove",
+      "url": "https://open.spotify.com/track/6ZvLKwgPKlyZtDPkTWjPI7"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
         "name": "Secrets (Radio Edit)",
         "url": "https://open.spotify.com/album/4p3CULd5VeCSikL0PYkoP3"
       },
@@ -2339,6 +2339,26 @@
       "duration_ms": 216967,
       "name": "Secrets - Radio Edit",
       "url": "https://open.spotify.com/track/69zxj1EFDfAouZu9JDmQld"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2371,22 +2391,22 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/0O9TE4lPPsojRsKkWqByVn"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
         },
         {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
         }
       ],
-      "duration_ms": 160183,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
+      "duration_ms": 213211,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/2uMbCJ8lxF7hqpQUaeo42D"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2411,26 +2431,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Do It Right",
-        "url": "https://open.spotify.com/album/0O9TE4lPPsojRsKkWqByVn"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/2uMbCJ8lxF7hqpQUaeo42D"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Skippin",
         "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
       },
@@ -2447,6 +2447,26 @@
       "duration_ms": 157446,
       "name": "Skippin",
       "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "We Got Love",
+        "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "We Got Love",
+      "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2471,26 +2491,6 @@
       "duration_ms": 196214,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
-        "name": "We Got Love",
-        "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "We Got Love",
-      "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2639,30 +2639,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Can't Come To The Phone",
-        "url": "https://open.spotify.com/album/1ABAfouWvWYsUinSXR2B6H"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Amber Van Day",
-          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
-        },
-        {
-          "name": "N.F.I",
-          "url": "https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd"
-        }
-      ],
-      "duration_ms": 175305,
-      "name": "Can't Come To The Phone",
-      "url": "https://open.spotify.com/track/0I5pVidtNjNXeaqHnwhrva"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Black Light",
         "url": "https://open.spotify.com/album/6RL4nOMfiTDBjhzRnpiMas"
       },
@@ -2683,6 +2659,30 @@
       "duration_ms": 175505,
       "name": "Black Light",
       "url": "https://open.spotify.com/track/6XsjMGPp015u8Ykod0KMUj"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "Can't Come To The Phone",
+        "url": "https://open.spotify.com/album/1ABAfouWvWYsUinSXR2B6H"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        },
+        {
+          "name": "N.F.I",
+          "url": "https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd"
+        }
+      ],
+      "duration_ms": 175305,
+      "name": "Can't Come To The Phone",
+      "url": "https://open.spotify.com/track/0I5pVidtNjNXeaqHnwhrva"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2787,26 +2787,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Quechua",
-        "url": "https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Thomas Gold",
-          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
-        }
-      ],
-      "duration_ms": 179090,
-      "name": "Quechua",
-      "url": "https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "You Make Me Feel",
         "url": "https://open.spotify.com/album/5BwmV3PN9DS5Yvx8En57as"
       },
@@ -2823,6 +2803,26 @@
       "duration_ms": 203909,
       "name": "You Make Me Feel",
       "url": "https://open.spotify.com/track/4z2ZZU3skkejktx83PbKiR"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "Quechua",
+        "url": "https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        }
+      ],
+      "duration_ms": 179090,
+      "name": "Quechua",
+      "url": "https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -3027,6 +3027,26 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
+        "name": "New Rules (Remixes)",
+        "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "New Rules - KREAM Remix",
+      "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
         "name": "Shooting Darts (with R3HAB & Prezioso)",
         "url": "https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB"
       },
@@ -3047,26 +3067,6 @@
       "duration_ms": 152903,
       "name": "Shooting Darts (with R3HAB & Prezioso)",
       "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
-        "name": "New Rules (Remixes)",
-        "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 280853,
-      "name": "New Rules - KREAM Remix",
-      "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
     },
     {
       "added_at": "2022-12-23 11:00:00",

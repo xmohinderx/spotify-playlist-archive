@@ -1,12 +1,12 @@
 {
   "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Cloudy June",
-  "num_followers": 316348,
+  "num_followers": 316778,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTc3MSwwMDAwMDAwMGJhMTAxMTI5NTVlZDYyOTg0MWQ2YWI4ODY5ZTU2MGZj",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDk0NDQ2NjA0NjY1Yzg5OTA0OGFjYjM4ZDhlNzI4OGYw",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
     },
     {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 144090,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Girl Like Me",
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL"
     },
     {
-      "added_at": "2022-12-23 05:02:51",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "ever fallen?",
-        "url": "https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo"
+        "name": "Ugly Crier",
+        "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
       },
       "artists": [
         {
-          "name": "Kate Peytavin",
-          "url": "https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS"
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
         }
       ],
-      "duration_ms": 168725,
-      "name": "ever fallen?",
-      "url": "https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu"
+      "duration_ms": 152053,
+      "name": "Ugly Crier",
+      "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -81,20 +97,36 @@
       "url": "https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Sagittarius",
-        "url": "https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25"
+        "name": "What You Need",
+        "url": "https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV"
       },
       "artists": [
         {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
         }
       ],
-      "duration_ms": 162466,
-      "name": "Kickflip",
-      "url": "https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe"
+      "duration_ms": 196470,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW"
+    },
+    {
+      "added_at": "2022-12-23 05:02:51",
+      "album": {
+        "name": "ever fallen?",
+        "url": "https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo"
+      },
+      "artists": [
+        {
+          "name": "Kate Peytavin",
+          "url": "https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS"
+        }
+      ],
+      "duration_ms": 168725,
+      "name": "ever fallen?",
+      "url": "https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -111,6 +143,22 @@
       "duration_ms": 159338,
       "name": "AVA",
       "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Sagittarius",
+        "url": "https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Kickflip",
+      "url": "https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe"
     },
     {
       "added_at": "2022-12-23 05:02:51",
@@ -225,22 +273,6 @@
       "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 185040,
-      "name": "F2F",
-      "url": "https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Messy",
@@ -287,22 +319,6 @@
       "duration_ms": 155681,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Self Dysmorphia",
-        "url": "https://open.spotify.com/album/5sXDpVJMW6f3nRzJSFGWoi"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Self Dysmorphia",
-      "url": "https://open.spotify.com/track/4XxNQ8VlWCDT6kEwWDuW4u"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 138360,
       "name": "i feel everything",
       "url": "https://open.spotify.com/track/110y35XBBoCyzv1jClu3Kv"
-    },
-    {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "killer queen",
-        "url": "https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 178888,
-      "name": "killer queen",
-      "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
     },
     {
       "added_at": "2021-09-10 04:00:00",

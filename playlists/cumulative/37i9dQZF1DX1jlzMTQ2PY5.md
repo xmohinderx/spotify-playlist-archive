@@ -4,7 +4,7 @@
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-120 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/6BSFLLUjSk6q46lz8mcc2D)
+120 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

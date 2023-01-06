@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Varisu
 
-85 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
+85 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

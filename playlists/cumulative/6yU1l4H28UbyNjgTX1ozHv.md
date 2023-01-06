@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-134 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
+134 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

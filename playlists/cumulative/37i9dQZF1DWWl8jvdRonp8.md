@@ -4,7 +4,7 @@
 
 > Las grandes canciones escritas por El Buki.
 
-173 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/6iD0P63slLNSdHNwqJH0X0)
+173 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

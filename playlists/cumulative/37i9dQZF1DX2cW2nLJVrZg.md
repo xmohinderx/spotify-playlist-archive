@@ -4,7 +4,7 @@
 
 > Nominees from the 94th annual event celebrating Hollywood's brightest stars.
 
-50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/7CjEHP2nFY9SLCboWUYZ1B)
+50 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

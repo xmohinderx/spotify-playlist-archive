@@ -4,7 +4,7 @@
 
 > Best of hip hop tracks from South Asia this year\. Cover: Shubh
 
-171 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
+171 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

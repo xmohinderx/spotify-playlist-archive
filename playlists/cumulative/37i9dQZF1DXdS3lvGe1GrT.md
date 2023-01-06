@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds Folk this year\. Cover: Sadurn
 
-318 songs - 19 hr 20 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
+318 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

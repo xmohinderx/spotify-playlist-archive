@@ -4,7 +4,7 @@
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-125 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/6Kv5FB2j0bACWv8Ol5GxDe)
+125 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

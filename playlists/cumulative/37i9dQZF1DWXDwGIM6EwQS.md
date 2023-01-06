@@ -4,7 +4,7 @@
 
 > pov: you're crying and dancing at the same time.
 
-180 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
+180 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

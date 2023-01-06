@@ -4,7 +4,7 @@
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/41prJYhrgPNDi8w3ldhpb3)
+62 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

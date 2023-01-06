@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-379 songs - 23 hr 13 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
+379 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

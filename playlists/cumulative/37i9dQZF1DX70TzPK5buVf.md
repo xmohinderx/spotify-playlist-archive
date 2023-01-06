@@ -4,7 +4,7 @@
 
 > Funk to these good ol' funky soul classics!
 
-111 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/1zjOq1oqEJezG95HP1aOeI)
+111 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Skeng
 
-91 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/5CCqycT3xKUm1yqlOpRcRl)
+91 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

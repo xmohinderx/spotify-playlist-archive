@@ -4,7 +4,7 @@
 
 > Get in the zone with these current jams!
 
-396 songs - 20 hr 27 min - [published](https://open.spotify.com/playlist/6Gckw6wUqYAIpQL71hAiF8)
+396 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

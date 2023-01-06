@@ -4,7 +4,7 @@
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT?si=plY\-6c4iRY\-EbVvV9p\_K6A&nd=1">Yaya Bey.</a>
 
-477 songs - 1 day 2 hr 36 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
+477 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

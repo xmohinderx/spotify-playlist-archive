@@ -4,7 +4,7 @@
 
 > That summer sound.
 
-256 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/7h3Qdt8YSkCi1WJz7ruXZr)
+256 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

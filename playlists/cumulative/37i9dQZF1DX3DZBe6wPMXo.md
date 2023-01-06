@@ -4,7 +4,7 @@
 
 > Gentle instrumental music to help you relax while you read.
 
-78 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/1DQy7gS8V44qes6mI0Slm9)
+78 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Trampled by Turtles
 
-381 songs - 22 hr 59 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
+381 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

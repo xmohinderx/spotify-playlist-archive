@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: <a href="spotify:artist:43FIX6vzpqRHK1VXQmRlKE">Robin Kester</a>
 
-714 songs - 1 day 13 hr 50 min - [published](https://open.spotify.com/playlist/4HFBvyCxCRzRXdAd3xUnbU)
+715 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [In Time You'll See](https://open.spotify.com/track/4zqhpVOEeNmlcJul331Oww) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [In Time You’ll See](https://open.spotify.com/album/70YPiQYnwbUDraYw5i3AnC) | 3:12 | 2022-04-05 | 2022-05-04 |
 | [In Your Arms](https://open.spotify.com/track/009axEM4XJ9Ss22thINYzc) | [Someone](https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE), [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [In Your Arms](https://open.spotify.com/album/5TcUza2MsrOforRRmiROV1) | 3:12 | 2022-09-06 | 2022-10-05 |
 | [Inexplicable](https://open.spotify.com/track/3oJazzA7SuDKo6LBLLYbHC) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Inexplicable](https://open.spotify.com/album/5Drm43QaZvIwIx6OS1Wej0) | 2:57 | 2022-08-02 | 2022-09-07 |
+| [Infinity Song](https://open.spotify.com/track/6HePNi3QS42SD9eTqEGkSG) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Infinity Song](https://open.spotify.com/album/0U9wGkVQjr3elUMi95GYsh) | 3:52 | 2023-01-05 |  |
 | [Into The Light](https://open.spotify.com/track/3Rnuihs2pYxxVTHajMReIC) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Into The Light](https://open.spotify.com/album/7ImBgHgix3BE6eAJJ5kidU) | 3:05 | 2022-04-05 | 2022-05-04 |
 | [Into Your Head](https://open.spotify.com/track/5VY9wxhKgJJula88AQVOei) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/2mhAyi89acxMmBxj8hdWj4) | 2:52 | 2023-01-03 |  |
 | [It's Not Real](https://open.spotify.com/track/1yDyQEAD9Nk53JBbURtBiS) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [It's Not Real](https://open.spotify.com/album/7qHbmea064KZHqNOOduHJU) | 3:47 | 2022-02-01 | 2022-03-08 |

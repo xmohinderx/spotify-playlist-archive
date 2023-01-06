@@ -4,7 +4,7 @@
 
 > Celebrating the release of Live Forever: A Tribute to Billy Joe Shaver\. Cover: Billy Joe Shaver
 
-97 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/4xIGgN9sUn8w5WjNECj4E7)
+97 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

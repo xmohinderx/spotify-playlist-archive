@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Brandi Carlile",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: SYML",
   "name": "Fresh Folk",
-  "published_playlist_ids": [
-    "7yU452WcXvKlp2CXhHrD6N"
-  ],
   "tracks": [
     {
       "album": {
@@ -753,7 +750,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 186550,
       "name": "always emptiness",
       "url": "https://open.spotify.com/track/3CoP4in32rBBY5Se10uhqA"
@@ -1451,6 +1448,24 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263253,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS"
     },
     {
       "album": {
@@ -2169,7 +2184,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 222091,
       "name": "Broken Routine",
       "url": "https://open.spotify.com/track/7C1SOiueqfYPxY443GXgvu"
@@ -6068,6 +6083,24 @@
     },
     {
       "album": {
+        "name": "Homemaker",
+        "url": "https://open.spotify.com/album/5JX6lCMslXIVUBeprDgGIY"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253625,
+      "name": "Homemaker",
+      "url": "https://open.spotify.com/track/7gkcXaqplvft0Gk0FbUteE"
+    },
+    {
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/4n4q83AjyMVQdV8x1b3KR3"
       },
@@ -6587,6 +6620,24 @@
       "duration_ms": 183413,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun"
+    },
+    {
+      "album": {
+        "name": "I Feel It",
+        "url": "https://open.spotify.com/album/4ubQDotUd6fO1TDA7CBQn7"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296840,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/5PTDUraHge5XgzG4lzm5Hb"
     },
     {
       "album": {
@@ -8493,7 +8544,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 205760,
       "name": "Look At Miss Ohio",
       "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
@@ -9295,7 +9346,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 208495,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/6ERbOSiVlLgwYcKsN3kmY6"
@@ -9797,7 +9848,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 317524,
       "name": "Nightbird - Duo Version",
       "url": "https://open.spotify.com/track/0qq5xXkzgpRlBT6tNns0SJ"
@@ -11061,7 +11112,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 258579,
       "name": "Prenda del Alma - Spotify Singles",
       "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
@@ -11993,7 +12044,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 204009,
       "name": "Sad",
       "url": "https://open.spotify.com/track/1K6dPwnP8alsRxVc5ET5Ft"
@@ -13189,7 +13240,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 169080,
       "name": "Still Water",
       "url": "https://open.spotify.com/track/3inIdx3pCVdZ3rlrDrDIHw"
@@ -14509,7 +14560,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 155276,
       "name": "These Are The Good Old Days",
       "url": "https://open.spotify.com/track/4NgOFLmiXjPCJPJgceUBGK"
@@ -15706,6 +15757,24 @@
     },
     {
       "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/5UgR4xPUCnuHS5F1wNNc3x"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185358,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/1NOTidLDDPTeau4BWJ0vwX"
+    },
+    {
+      "album": {
         "name": "Wasted On You",
         "url": "https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ"
       },
@@ -16377,7 +16446,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 197972,
       "name": "Who Are You Now",
       "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
@@ -16624,6 +16693,24 @@
     },
     {
       "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/46tFc3Dh5NrobyPI6Rq4hJ"
+      },
+      "artists": [
+        {
+          "name": "Me and My Friends",
+          "url": "https://open.spotify.com/artist/4KewrgdzmKzWiJT3Znotp3"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200233,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/0gyF4C5bQduO9Qd1EgTupN"
+    },
+    {
+      "album": {
         "name": "Woman Named Willie",
         "url": "https://open.spotify.com/album/3G4Kio5ifVch7EA4uqYe3M"
       },
@@ -16657,6 +16744,24 @@
       "duration_ms": 233788,
       "name": "Working Class Blues",
       "url": "https://open.spotify.com/track/4O6siSaivtL3kgOpw4Wnq0"
+    },
+    {
+      "album": {
+        "name": "World's Greatest Sleeper",
+        "url": "https://open.spotify.com/album/1B1aaFNBIh4R8VINBjxdQ3"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186587,
+      "name": "World's Greatest Sleeper",
+      "url": "https://open.spotify.com/track/7Etfp59BHjo4Ud0x67r5st"
     },
     {
       "album": {
@@ -16859,7 +16964,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 187360,
       "name": "You Could Be Free",
       "url": "https://open.spotify.com/track/2bnia5glTFaCJMbRenC0U3"

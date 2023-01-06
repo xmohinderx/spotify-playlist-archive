@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-217 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+217 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

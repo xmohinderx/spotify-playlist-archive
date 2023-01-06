@@ -4,7 +4,7 @@
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/1vnCs1yYJOqwVP1hIqviIU)
+78 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

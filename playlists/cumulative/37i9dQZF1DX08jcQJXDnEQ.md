@@ -4,7 +4,7 @@
 
 > A collection of the biggest Metal classics of the 90s\. Cover: Deftones
 
-247 songs - 19 hr 27 min - [published](https://open.spotify.com/playlist/3h31tTr3Ha92IjfhLZSpkP)
+247 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

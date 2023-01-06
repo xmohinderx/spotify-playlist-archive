@@ -4,7 +4,7 @@
 
 > Lo mejor del rock en español en la década de los 80.
 
-77 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/3dFhtw30OPS3vX4XwxlQFZ)
+77 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

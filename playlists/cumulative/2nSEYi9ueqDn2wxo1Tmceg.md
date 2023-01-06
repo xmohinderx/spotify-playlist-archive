@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-301 songs - 19 hr 46 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+302 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [The Extra Sees the Film](https://open.spotify.com/track/1WPsYspncOcNNSMTcmv8Uq) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 4:37 | 2022-08-17 | 2022-09-29 |
 | [The Flood](https://open.spotify.com/track/5nC0QNvm9GINzYOkDMQ2Uq) | [Tobias](https://open.spotify.com/artist/2XfJDeJW8WypSlrm2IBuhB) | [Two Birds](https://open.spotify.com/album/3SUIfTE7GjIPlGu3hJFjuS) | 3:05 | 2022-12-07 |  |
 | [The Good Ones \- The Tchad Blake Mix 2022](https://open.spotify.com/track/5XI06e5jILbE7flIRlGszY) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [No Wow \(The Tchad Blake Mix 2022\)](https://open.spotify.com/album/3hWemd6cKvUHeDaRo3J9kb) | 3:28 | 2022-06-08 | 2022-07-21 |
+| [The Harmony](https://open.spotify.com/track/4bWoizeurWxioIenJkguM6) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c), [The Second Hand Orchestra](https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh) | [The Harmony](https://open.spotify.com/album/4kpZBm6XlD1TZRU220lj9i) | 4:03 | 2023-01-05 |  |
 | [The Individual](https://open.spotify.com/track/0Exh17FiF1Nqklg5TSZArt) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [BLUSH](https://open.spotify.com/album/2RmsiWEPNkqtfjbFDi1zqe) | 3:50 | 2022-10-20 | 2022-12-01 |
 | [The Lazer](https://open.spotify.com/track/62r9v0y9TE0UAMhcb9Mlwd) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Big Love Blanket](https://open.spotify.com/album/2Ocda6SiIopqmd5rzT4SNl) | 3:51 | 2022-11-09 | 2022-12-15 |
 | [The Rain Came Down](https://open.spotify.com/track/3wHZmrmckEdz2es3w0YKYN) | [The Weather Boys](https://open.spotify.com/artist/21BmZUrTd0aS0kDS0NJftY) | [The Rain Came Down](https://open.spotify.com/album/70iJQrk26iJClhGjvjSVFv) | 3:26 | 2022-06-08 | 2022-06-17 |

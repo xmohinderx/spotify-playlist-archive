@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny vibe!
 
-130 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
+130 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [When She Loves](https://open.spotify.com/track/3D0l2V3pDLXoHV9Xmdoku1) | [Ziggi Recado](https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8) | [When She Loves](https://open.spotify.com/album/2VtfSz5SWUFElw171LLCpC) | 3:52 | 2022-11-10 |  |
 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 | 2021-11-25 |  |
 | [Wrong Decision](https://open.spotify.com/track/4DkypNYUkFpVGti3L7wUC3) | [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO), [Maneaux](https://open.spotify.com/artist/5Q6xUlCaEgAUiwIrNPdESw), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Guns Riddim](https://open.spotify.com/album/77sRERrr9Yzo0l8QaB9xnv) | 2:38 | 2021-11-25 | 2022-01-25 |
-| [Yearn to Burn](https://open.spotify.com/track/3Iny6X0WfTwrAWWlXxa587) | [Geoff Weers](https://open.spotify.com/artist/52zqbHNNh8iRMYAXQHM5r9), [Kash'd Out](https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm), [The Expendables](https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9) | [Yearn to Burn](https://open.spotify.com/album/5PtN6aW3lzkZ1lgLaP5i34) | 2:59 | 2022-12-06 |  |
+| [Yearn to Burn](https://open.spotify.com/track/3Iny6X0WfTwrAWWlXxa587) | [Geoff Weers](https://open.spotify.com/artist/52zqbHNNh8iRMYAXQHM5r9), [Kash'd Out](https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm) | [Yearn to Burn](https://open.spotify.com/album/5PtN6aW3lzkZ1lgLaP5i34) | 2:59 | 2022-12-06 |  |
 | [You Can't Hurry Love](https://open.spotify.com/track/7zVz2u9UQJl6lJxaQuqQoJ) | [Pinky Dread](https://open.spotify.com/artist/0Y876qrI6O3kItxH3ycwaQ) | [You Can't Hurry Love](https://open.spotify.com/album/3yBpB9HYVUEiLSLoHI1Chc) | 2:34 | 2022-12-06 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

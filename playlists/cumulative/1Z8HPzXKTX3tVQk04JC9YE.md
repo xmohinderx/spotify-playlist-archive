@@ -4,7 +4,7 @@
 
 > All your favorite tracks from the hottest TV shows, commercials, and movies! Cover: Sofia Carson
 
-113 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/2cfy7Rm8LVljTMG1lEbl0m)
+113 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

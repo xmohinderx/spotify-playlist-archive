@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ?si=tdUrYs62R\-Wn4tBZJfT2hQ">Ukweli</a> and <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=yszItYT6R8Sl7BDM5wXqpA">Xenia Manasseh </a>
 
-110 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
+110 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

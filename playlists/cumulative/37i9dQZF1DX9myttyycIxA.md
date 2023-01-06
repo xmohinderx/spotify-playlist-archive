@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Teenage Priest
 
-759 songs - 1 day 19 hr 26 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+759 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Deep Sea Ladder](https://open.spotify.com/track/0AKss1DzepeFmwOSEvK5sb) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Crab Park](https://open.spotify.com/album/7Cx7EeeY8TaRKbmcXNY4rc) | 3:29 | 2022-10-21 | 2022-10-29 |
 | [Deep Sea Ladder](https://open.spotify.com/track/1kgX28e49B0GC6U9HdwCoh) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Deep Sea Ladder](https://open.spotify.com/album/43oCH1Z5gOYXSzhy40dMrA) | 3:29 | 2022-09-23 | 2022-10-25 |
 | [Defy](https://open.spotify.com/track/1rpLnmk3hlS4SKAD3sgUl2) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [No Luck](https://open.spotify.com/album/598tri5nxtfMnskSO4ht2c) | 1:26 | 2022-04-29 | 2022-05-18 |
-| [Demons at the Dinner Table](https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Demons at the Dinner Table](https://open.spotify.com/album/2QxLfEiN0Uo4TXpTBUVDJI) | 2:04 | 2022-11-17 |  |
+| [Demons at the Dinner Table](https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Demons at the Dinner Table](https://open.spotify.com/album/2QxLfEiN0Uo4TXpTBUVDJI) | 2:04 | 2022-11-17 | 2023-01-06 |
 | [Destroyer](https://open.spotify.com/track/3Lllvxi2oA6DIwy2qhPgQx) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [The Lamb](https://open.spotify.com/album/3gu8vRNBovoMdF82JLGvFL) | 3:12 | 2021-06-02 | 2022-04-21 |
 | [Dew ♥ \- Lo\-Fi Version](https://open.spotify.com/track/2kGsDdHM1S79pw9EUwo9qi) | [PYNKIE](https://open.spotify.com/artist/45GkpefZW8F5td5gkU8f29) | [Dew ♥ \(Lo\-Fi Version\)](https://open.spotify.com/album/4lTpONk7TsaPa3AayHVb1a) | 3:40 | 2021-06-02 | 2022-04-17 |
 | [Difficult](https://open.spotify.com/track/6TV5YIX27b0ewliqXo5gWx) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [If It Comes Down To It](https://open.spotify.com/album/5V68mtjh04q5DvhyYnmmBw) | 2:56 | 2021-03-05 | 2022-03-23 |
@@ -467,7 +467,7 @@
 | [my favorite things](https://open.spotify.com/track/0XB8C36wLdj1GuzsXFCfVv) | [Molly Frances](https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh) | [my favorite things](https://open.spotify.com/album/7tLedYLB53PpUPOjYdffp5) | 2:41 | 2022-12-16 |  |
 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/0RMxx9ZD0KXSnUYPwunVbw) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/7DaHhFanoQbsCBHM7bzWUa) | 2:17 | 2022-03-26 | 2022-05-19 |
 | [Mythical Bonds](https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mythical Bonds](https://open.spotify.com/album/74Q7dSC1RXdhoB76Eac49Q) | 2:04 | 2022-07-22 | 2022-12-15 |
-| [National Team](https://open.spotify.com/track/7xuuu097llYHPptd42QxOV) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [National Team](https://open.spotify.com/album/0ebH6G0lKJ32rdd6lmvsHQ) | 3:33 | 2022-10-28 | 2022-12-15 |
+| [National Team](https://open.spotify.com/track/7xuuu097llYHPptd42QxOV) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [National Team](https://open.spotify.com/album/0ebH6G0lKJ32rdd6lmvsHQ) | 3:33 | 2022-10-28 |  |
 | [Navy](https://open.spotify.com/track/7kReLxmnpzrUBEp6fzFY8E) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Navy](https://open.spotify.com/album/721v4tJJZVgOJgrftH01l9) | 3:34 | 2021-09-10 | 2022-04-28 |
 | [Necromancer](https://open.spotify.com/track/0aVM2DspPoHNTDBm7ehySx) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Joy Again](https://open.spotify.com/album/65lnDjCMHpSzQFQFYwF9AE) | 2:33 | 2022-04-29 | 2022-05-03 |
 | [Never Be The Same \(Andrew VanWyngarden Mix\)](https://open.spotify.com/track/70M98T72nkHYIspWyvAnIA) | [Club Intl](https://open.spotify.com/artist/4ocgkEqase6QoOnj6O5wUq), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [Johnny Jewel](https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR), [John Eatherly](https://open.spotify.com/artist/5FgE0utDmmiiVaaFQNO6GZ) | [Never Be The Same](https://open.spotify.com/album/5y6MKcoAspRVH8OOUb2EsF) | 5:46 | 2021-03-05 | 2022-03-22 |

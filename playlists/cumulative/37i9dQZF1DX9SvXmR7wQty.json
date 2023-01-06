@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Les derni\u00e8res nouveaut\u00e9s francophones avec Damso, DawaMafia, Rymz et Farfadet. ",
+  "description": "Les derni\u00e8res nouveaut\u00e9s francophones. Photo: Melissa Laveaux, Pierre Lapointe",
   "name": "Nouveaut\u00e9s de la semaine Canada",
-  "published_playlist_ids": [
-    "14BQdNO6xmXnKxtcZsp2FC"
-  ],
   "tracks": [
     {
       "album": {
@@ -165,7 +162,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 166295,
       "name": "17",
       "url": "https://open.spotify.com/track/6yERTgc0PMeOMQnU9YPYvr"
@@ -2232,6 +2229,50 @@
     },
     {
       "album": {
+        "name": "Bal\u00e8n",
+        "url": "https://open.spotify.com/album/6nJipqncQH77Hj76Vujq9O"
+      },
+      "artists": [
+        {
+          "name": "Melissa Laveaux",
+          "url": "https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO"
+        },
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Bal\u00e8n",
+      "url": "https://open.spotify.com/track/5pzecuPMIBdp14ZNbE9CMv"
+    },
+    {
+      "album": {
+        "name": "Bang Bang Bang",
+        "url": "https://open.spotify.com/album/6n927dm48RWFEEYQStM5IK"
+      },
+      "artists": [
+        {
+          "name": "Kofs",
+          "url": "https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw"
+        },
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Bang Bang Bang",
+      "url": "https://open.spotify.com/track/2GCo6tiqduhpuaY0qL7Hl1"
+    },
+    {
+      "album": {
         "name": "Bar-Mitzvah",
         "url": "https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0"
       },
@@ -2498,6 +2539,28 @@
     },
     {
       "album": {
+        "name": "Bicycle (Rework)",
+        "url": "https://open.spotify.com/album/3p9Jejp6QR3IlOEHIxdyYK"
+      },
+      "artists": [
+        {
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        },
+        {
+          "name": "pijama land",
+          "url": "https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185510,
+      "name": "Bicycle (Rework)",
+      "url": "https://open.spotify.com/track/0IrnXvUh1uDvsNIWajE8Su"
+    },
+    {
+      "album": {
         "name": "Big boy",
         "url": "https://open.spotify.com/album/1UvtLl4a9eOFUKcE6fhXw7"
       },
@@ -2571,7 +2634,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 243204,
       "name": "Bisou L\u00e9tal",
       "url": "https://open.spotify.com/track/6BEh9v8ZJlJKynsT79FWhP"
@@ -3255,6 +3318,46 @@
       "duration_ms": 152784,
       "name": "Bye Bye Baby",
       "url": "https://open.spotify.com/track/2NjwdiM3Bv0AfWT7JDM6UO"
+    },
+    {
+      "album": {
+        "name": "Cloud",
+        "url": "https://open.spotify.com/album/217M10Fi7Xd6PtIYx5cU1Q"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "B\u00e2timent",
+      "url": "https://open.spotify.com/track/7HxYJbClLyojdDkMPLBghR"
+    },
+    {
+      "album": {
+        "name": "B\u00e9atrice",
+        "url": "https://open.spotify.com/album/3DDAQPHoNAxGmE9OM3n54Z"
+      },
+      "artists": [
+        {
+          "name": "Caballero & JeanJass",
+          "url": "https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6"
+        },
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166626,
+      "name": "B\u00e9atrice",
+      "url": "https://open.spotify.com/track/5vnnl9cnndbuWRj2BEUv9S"
     },
     {
       "album": {
@@ -4167,7 +4270,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 188573,
       "name": "Cette ann\u00e9e-l\u00e0",
       "url": "https://open.spotify.com/track/10JrUDqAjSR8JlcFj6GK8i"
@@ -4670,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "CLUB",
+        "url": "https://open.spotify.com/album/5Ud8KvdMkCM5Z0kZr0IbEj"
+      },
+      "artists": [
+        {
+          "name": "Mitso",
+          "url": "https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "CLUB",
+      "url": "https://open.spotify.com/track/5BQWYo6YSL4XcUZcYEtoid"
+    },
+    {
+      "album": {
         "name": "Cl\u00e9o",
         "url": "https://open.spotify.com/album/6cw0g0xUnBvDK0MBZJ4wQz"
       },
@@ -4681,7 +4802,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 214901,
       "name": "Cl\u00e9o",
       "url": "https://open.spotify.com/track/4XeOoFtBcUbtgTyygdzX0s"
@@ -5457,7 +5578,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 168995,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/0ZnW5FPjwOOEtWlTSpvazP"
@@ -7482,6 +7603,24 @@
     },
     {
       "album": {
+        "name": "ELLE VEUT ME SUIVRE.",
+        "url": "https://open.spotify.com/album/3jSRBFdAZ7yIvQRnWsRZEy"
+      },
+      "artists": [
+        {
+          "name": "Frank'emcy",
+          "url": "https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183765,
+      "name": "ELLE VEUT ME SUIVRE.",
+      "url": "https://open.spotify.com/track/0p7tzOrlWl4xxB3havGMkv"
+    },
+    {
+      "album": {
         "name": "Embrasse-moi",
         "url": "https://open.spotify.com/album/2wJBFdSS7XkVqj0i9327BY"
       },
@@ -7733,6 +7872,24 @@
       "duration_ms": 171089,
       "name": "Encre rose",
       "url": "https://open.spotify.com/track/2ozGNfYebzpA8mEoQbtAP3"
+    },
+    {
+      "album": {
+        "name": "Enfant de",
+        "url": "https://open.spotify.com/album/0jgDWVC9Wp7XaAd0Zxm9oR"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174576,
+      "name": "Enfant de",
+      "url": "https://open.spotify.com/track/6z8hRlJeWY33LvjpOQxIkr"
     },
     {
       "album": {
@@ -10279,7 +10436,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 168185,
       "name": "H\u00f4tel 5 \u00e9toiles",
       "url": "https://open.spotify.com/track/54h2v2JyOUk2sfEgrToKWw"
@@ -12989,7 +13146,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 153510,
       "name": "La Brume",
       "url": "https://open.spotify.com/track/11mrYqiLcOZAPPzoGjcYWH"
@@ -14701,7 +14858,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 143069,
       "name": "Les belles filles - Spotify Singles",
       "url": "https://open.spotify.com/track/312JgU2zABk8VkjSdkjonp"
@@ -16061,7 +16218,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 161893,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/4P79OOQkEYekflp46u6GKM"
@@ -18027,7 +18184,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 203692,
       "name": "No\u00ebl ne veut rien dire sans toi",
       "url": "https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI"
@@ -18155,7 +18312,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 206991,
       "name": "OG Gang",
       "url": "https://open.spotify.com/track/6U8gy0hqd1kF53sILUYFPS"
@@ -18959,6 +19116,24 @@
       "duration_ms": 214020,
       "name": "Pareil mais diff\u00e9rent",
       "url": "https://open.spotify.com/track/5jMUzrpbfbGFBSbWYHceGb"
+    },
+    {
+      "album": {
+        "name": "Parler au pass\u00e9",
+        "url": "https://open.spotify.com/album/10vvie4cumMML9NoDD2omk"
+      },
+      "artists": [
+        {
+          "name": "Francis Bedard",
+          "url": "https://open.spotify.com/artist/3h8yd5Ig09beZqG3Gdg0u3"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181810,
+      "name": "Parler au pass\u00e9",
+      "url": "https://open.spotify.com/track/1PbbKVA0yeSpTfyJiqFWiU"
     },
     {
       "album": {
@@ -23133,7 +23308,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 153287,
       "name": "SMS",
       "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
@@ -25050,6 +25225,24 @@
     },
     {
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/3pG1YMOWFmGdvWt8KTGBqO"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158486,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/18DQCUGYEvzGcCy50phQn7"
+    },
+    {
+      "album": {
         "name": "Toxik",
         "url": "https://open.spotify.com/album/694rt03PJFmeaPRRzKmnRU"
       },
@@ -26738,6 +26931,32 @@
     },
     {
       "album": {
+        "name": "Waterbending",
+        "url": "https://open.spotify.com/album/2LnuOz8ckmCmxA2Qzo0tMH"
+      },
+      "artists": [
+        {
+          "name": "SAULE",
+          "url": "https://open.spotify.com/artist/49MYInJAJqPwuH2jdHVYVc"
+        },
+        {
+          "name": "Kenzo",
+          "url": "https://open.spotify.com/artist/5rIiFpbheS1kxGiDdB42zw"
+        },
+        {
+          "name": "Hazy",
+          "url": "https://open.spotify.com/artist/4BG3bpoakhQKEcGaRrbfOg"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182210,
+      "name": "Waterbending",
+      "url": "https://open.spotify.com/track/3AvkR7UryNTBDpcgqGMiCK"
+    },
+    {
+      "album": {
         "name": "Wendat Rap",
         "url": "https://open.spotify.com/album/3HRmk6CSN7zUyyjHJ7dLIz"
       },
@@ -27637,6 +27856,32 @@
       "duration_ms": 218910,
       "name": "\u00c9l\u00e9ment 115",
       "url": "https://open.spotify.com/track/4UfbCR87edQDCnA2cYXikA"
+    },
+    {
+      "album": {
+        "name": "\u00c9ph\u00e9m\u00e8re",
+        "url": "https://open.spotify.com/album/4OasnUHdl8XeAbR4fsPAEZ"
+      },
+      "artists": [
+        {
+          "name": "\u00d4-lit",
+          "url": "https://open.spotify.com/artist/5lo3DSr7YufiuRYqbazv0O"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207467,
+      "name": "\u00c9ph\u00e9m\u00e8re",
+      "url": "https://open.spotify.com/track/5UB0z3TWA2dWPQ8gee8Uqc"
     },
     {
       "album": {

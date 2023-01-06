@@ -4,7 +4,7 @@
 
 > Selections of North Indian classical music.
 
-63 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/6KxJho2Z4Stal5h3YgTXxS)
+63 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

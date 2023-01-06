@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-81 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
+81 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

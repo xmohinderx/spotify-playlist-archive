@@ -4,7 +4,7 @@
 
 > Discover the newest Hardstyle tracks\. Cover: Sickmode & Rooler
 
-131 songs - 7 hr 9 min - not published yet
+131 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-163 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
+163 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Automatic floorfillers\. A DJ's best friend\. Cover: Daft Punk
 
-239 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/1AA4UMyoniomo3EBnKv1jr)
+239 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

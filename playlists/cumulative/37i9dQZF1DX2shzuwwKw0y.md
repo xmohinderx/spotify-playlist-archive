@@ -2,9 +2,9 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Fuerza Regida en portada.
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Virlán García & Ángel Cervantes en portada.
 
-164 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
+164 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

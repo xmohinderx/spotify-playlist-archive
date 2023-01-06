@@ -4,7 +4,7 @@
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-375 songs - 1 day 0 hr 8 min - [published](https://open.spotify.com/playlist/55GdQaI3M6rHQD7agSU7NY)
+375 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

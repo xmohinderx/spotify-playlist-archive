@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-92 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/2dxvfaJZHLYH4XzE7Sth5o)
+92 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

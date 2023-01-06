@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2022\. Luis R Conriquez en portada.
 
-366 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
+366 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

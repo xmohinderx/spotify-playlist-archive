@@ -4,7 +4,7 @@
 
 > Explore the surreal world of Satie, from serene Gymnopédies, to gothic dances and poetic songs.
 
-96 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/0eqXU4sXR3D9thr5ggoCdN)
+96 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

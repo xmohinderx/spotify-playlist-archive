@@ -4,7 +4,7 @@
 
 > A collection of Hip Hop hits and viral trends feat Lil Baby, Migos, GloRilla &amp; more\. Updated weekly!  Cover: JID
 
-109 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/2zScgyaDadcbUzlRPfgGJu)
+109 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

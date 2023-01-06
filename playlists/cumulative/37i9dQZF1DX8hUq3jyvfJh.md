@@ -4,7 +4,7 @@
 
 > Majur e mais mulheres para serem ouvidas no máximo volume.
 
-514 songs - 1 day 2 hr 58 min - [published](https://open.spotify.com/playlist/5s7ZVpE0nPPM8ZlUIQWHHa)
+514 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

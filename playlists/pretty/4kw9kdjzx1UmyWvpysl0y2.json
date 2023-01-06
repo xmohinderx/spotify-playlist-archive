@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127136,
+  "num_followers": 127143,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzg4Miw2ZTUxYzVmYmVlYjU3OGUzN2FjYzdjNjU2NTk4Yzk1MDZjMTI2Nzc4",
+  "snapshot_id": "Mzg4NCxkMGMzMjVkZjJhYjViYTAyMDYyZWVjNTkwMzc3YmFiMGFlNDkwYWQy",
   "tracks": [
+    {
+      "added_at": "2023-01-05 17:53:56",
+      "album": {
+        "name": "2NITE",
+        "url": "https://open.spotify.com/album/3utDd56IEEsiwsFweMkqfB"
+      },
+      "artists": [
+        {
+          "name": "nanobii",
+          "url": "https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3"
+        }
+      ],
+      "duration_ms": 199726,
+      "name": "2NITE",
+      "url": "https://open.spotify.com/track/4DPQLiWUDwnQp9NJ57CgoW"
+    },
     {
       "added_at": "2022-12-16 04:17:05",
       "album": {
@@ -1107,22 +1123,6 @@
       "duration_ms": 105000,
       "name": "SICKO",
       "url": "https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN"
-      },
-      "artists": [
-        {
-          "name": "PROFF",
-          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
-        }
-      ],
-      "duration_ms": 249836,
-      "name": "Nara",
-      "url": "https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

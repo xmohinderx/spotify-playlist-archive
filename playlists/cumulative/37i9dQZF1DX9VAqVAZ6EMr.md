@@ -4,7 +4,7 @@
 
 > De Britney a Madonna, os maiores hits do pop estão reunidos nesta playlist.
 
-110 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/5CHMXMBGiPa76tiBe4mEXy)
+110 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

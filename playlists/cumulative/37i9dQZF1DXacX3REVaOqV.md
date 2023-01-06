@@ -4,7 +4,7 @@
 
 > The best in house music
 
-283 songs - 20 hr 49 min - [published](https://open.spotify.com/playlist/1jmDVl99lY2U7kbnO53Sgs)
+283 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

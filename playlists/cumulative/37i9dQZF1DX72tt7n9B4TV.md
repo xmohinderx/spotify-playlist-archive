@@ -4,7 +4,7 @@
 
 > Hot noise for summer days.
 
-151 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/5zEkm1jh8QhoO6jxa8ICRU)
+151 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

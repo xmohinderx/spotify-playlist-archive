@@ -4,7 +4,7 @@
 
 > Run to indie and alternative hits.
 
-195 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
+195 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

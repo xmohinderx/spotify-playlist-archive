@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: Level Up Doctor Choi Kiseok\(레벨업 닥터 최기석\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-101 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+101 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A new take on the freshest dance tracks with remixes from Dubdogz & JØRD, Sonny Fodera, LP Giobbi and more!
 
-166 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/2vi7OZ4lcfLpa6nP2zGPRg)
+166 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

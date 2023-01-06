@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Trueno & JID
 
-455 songs - 1 day 1 hr 43 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
+455 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

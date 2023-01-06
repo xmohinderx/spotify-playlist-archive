@@ -4,7 +4,7 @@
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-96 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/2WCAFMoi6tvwzKLrQPlf9a)
+96 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

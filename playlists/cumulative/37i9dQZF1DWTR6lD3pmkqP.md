@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-483 songs - 1 day 17 hr 7 min - [published](https://open.spotify.com/playlist/52ZpPLnxkLdZ3FTl62Dt96)
+483 songs - 1 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

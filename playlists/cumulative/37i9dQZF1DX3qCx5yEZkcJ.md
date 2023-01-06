@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-433 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+434 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Candles](https://open.spotify.com/track/4L9NChljxi1xu4NdV0Uruo) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Candles](https://open.spotify.com/album/3M69AADOD8W0LbsG523sfh) | 2:15 | 2020-03-27 | 2022-04-21 |
 | [Cargo Rhodes](https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Orange](https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077) | 2:29 | 2022-11-17 |  |
 | [Cargo Rhodes](https://open.spotify.com/track/1MmFMp0sgwl7liFDKJdEyY) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Cargo Rhodes / Deliverance](https://open.spotify.com/album/73wgRhPJUpKXr8k49lHVQy) | 2:29 | 2019-06-14 | 2022-07-29 |
-| [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 | 2022-12-30 |  |
+| [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 | 2022-12-15 |  |
 | [Carpet](https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Hot Water](https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9) | 2:22 | 2020-01-14 | 2022-12-13 |
 | [Cenario](https://open.spotify.com/track/7KQGUqom3BIzU0UB8XltUN) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR) | [Home Grown](https://open.spotify.com/album/2zWWibkLVYNp39mnQoGMJb) | 2:04 | 2019-05-26\* | 2020-01-14 |
 | [Change](https://open.spotify.com/track/7oD6a9yGIHCqtlqIplK4tN) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Change](https://open.spotify.com/album/7raWI0KFGJ2nVuUbvCkFus) | 1:48 | 2020-11-06 | 2022-07-28 |
@@ -203,6 +203,7 @@
 | [Lamp2](https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi) | 3:18 | 2022-07-28 |  |
 | [Lamp2](https://open.spotify.com/track/5cT5aaRfRRkF9xPk7LcBt2) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/5qFp5leDuFDeTNplGB7I9L) | 3:18 | 2022-02-03 | 2022-07-29 |
 | [Lanai Gardens](https://open.spotify.com/track/1El1ynnuq0aBHj6cfr83ew) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit](https://open.spotify.com/album/6OwYJoEWZUhTuYsTBr9SD6) | 2:17 | 2019-06-14 | 2019-08-13 |
+| [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-06 |  |
 | [Late Trains](https://open.spotify.com/track/7JQt4KO35aSwLQSlaSRsdY) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Late Trains](https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ) | 3:19 | 2020-12-11 | 2023-01-01 |
 | [Laverne](https://open.spotify.com/track/0pYdhNukjrkpBWdq75GXSm) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb) | [Birds of a Feather, Vol\. 1](https://open.spotify.com/album/65kDeUOJ7UAXQJtdmXYtT5) | 1:55 | 2019-05-26\* | 2019-06-15 |
 | [Legacy](https://open.spotify.com/track/2Ba2yo38eh6atKPDdaYZRM) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Legacy](https://open.spotify.com/album/7D0dE3E7LTaPe6WcZheWQI) | 2:01 | 2019-07-26 | 2022-04-20 |
@@ -295,7 +296,7 @@
 | [poopoop](https://open.spotify.com/track/4XCFfPCt4kb3oBd1pQyEHj) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Traffic](https://open.spotify.com/album/7reas5sNVOnudBgBQLgWVq) | 1:44 | 2020-06-29 | 2022-07-27 |
 | [Pressure](https://open.spotify.com/track/4FFmAYhmgETV87UMVBgVcT) | [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws) | [Pressure](https://open.spotify.com/album/15BHb7ob8dJP8pR4MlLbb7) | 2:39 | 2020-08-30 | 2022-07-25 |
 | [Purple T Shirts](https://open.spotify.com/track/1IUh4pGnhEP2XLfgV9lIuu) | [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Energy Dreams](https://open.spotify.com/album/5NbcAITHDzXJmJ7BDovK7v) | 3:17 | 2019-05-26\* | 2021-05-28 |
-| [Quiet in the Garden](https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Just a Lullaby](https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd) | 2:20 | 2020-08-30 |  |
+| [Quiet in the Garden](https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Just a Lullaby](https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd) | 2:20 | 2020-08-30 | 2023-01-06 |
 | [Rain season](https://open.spotify.com/track/6khEYI59dTyi3IMuzOKaoD) | [Ymori](https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK) | [Rain season / The sun came out](https://open.spotify.com/album/0OvVyvIdtM8RJ1uC2O1yuB) | 2:04 | 2019-06-14 | 2019-08-13 |
 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 | 2022-10-13 |  |
 | [Rainy Day](https://open.spotify.com/track/5b2pZuGJVlnVBTMGDQVhmJ) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [HighSáez](https://open.spotify.com/album/1PgPW5Eg8239FOnKPorn2n) | 1:19 | 2020-07-18 | 2022-07-24 |

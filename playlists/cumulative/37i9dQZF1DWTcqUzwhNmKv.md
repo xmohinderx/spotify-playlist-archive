@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Of Mice & Men on top of the biggest Metal playlist!
+> Self Deception on top of the biggest Metal playlist!
 
-345 songs - 22 hr 54 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
+346 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [deep fake](https://open.spotify.com/track/7mfMTQ21RSVhUw778ymlyV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:33 | 2022-10-28 | 2022-11-05 |
 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2022-07-29 | 2022-10-01 |
 | [Devil](https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Mourning](https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro) | 3:23 | 2022-11-04 |  |
+| [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 | 2023-01-06 |  |
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-07-15 | 2022-11-08 |
 | [Dicker's Done](https://open.spotify.com/track/2XAaijZbG5OaB1tPyeW656) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Dicker's Done](https://open.spotify.com/album/46OXV6amQwfxFjv0kfvWoL) | 5:19 | 2022-11-25 |  |
 | [Die Another Day](https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Jackpot Juicer](https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW) | 3:41 | 2022-08-12 | 2022-09-10 |
@@ -115,7 +116,7 @@
 | [Foregone Pt\. 1](https://open.spotify.com/track/4GAE2sALmyF5ZvrxOEvloU) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 1](https://open.spotify.com/album/2EPDIXOWMkXpT5jTIi02SR) | 3:24 | 2022-10-21 | 2022-12-17 |
 | [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-12-16 |  |
 | [Forest](https://open.spotify.com/track/45kKa2PfTXSBMa26k96fdn) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Forest](https://open.spotify.com/album/3K6d4oxrjKbwh1Xasm02YE) | 4:46 | 2022-07-29 | 2022-08-06 |
-| [Forever Bloom \(feat\. Trevor Strnad\)](https://open.spotify.com/track/5mavoeczZoK9jeHFVWTkv6) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b), [Trevor Strnad](https://open.spotify.com/artist/5ABUXkPbITc1OnlxG0fPmf) | [Forever Bloom](https://open.spotify.com/album/2Nvrs4vBmCZcHLnALbN2hk) | 2:49 | 2022-11-11 |  |
+| [Forever Bloom \(feat\. Trevor Strnad\)](https://open.spotify.com/track/5mavoeczZoK9jeHFVWTkv6) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b), [Trevor Strnad](https://open.spotify.com/artist/5ABUXkPbITc1OnlxG0fPmf) | [Forever Bloom](https://open.spotify.com/album/2Nvrs4vBmCZcHLnALbN2hk) | 2:49 | 2022-11-11 | 2023-01-06 |
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-14 | 2022-05-06 |
 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 | 2021-12-20 | 2022-03-04 |
 | [Freak Like Me](https://open.spotify.com/track/6VrgzSdbqpA9cAvUbd1Rwx) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc), [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Freak Like Me](https://open.spotify.com/album/5ERF0E0AE6I5d4CfVZVnsR) | 2:20 | 2021-12-20 | 2022-01-07 |

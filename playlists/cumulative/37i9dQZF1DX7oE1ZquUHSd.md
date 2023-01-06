@@ -4,7 +4,7 @@
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-473 songs - 1 day 8 hr 10 min - [published](https://open.spotify.com/playlist/7edC6Keo79iDrg2lm86gJ3)
+473 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: YOVNGCHIMI & Lunay
 
-366 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
+366 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-70 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/0GWHPq4ASrEkmOe3SooidX)
+70 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Rock unplugged\. Cover: Wolf Alice
 
-90 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/4pmqASXT6N1jKQdZeUqEyI)
+90 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

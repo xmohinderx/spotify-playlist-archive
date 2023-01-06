@@ -4,7 +4,7 @@
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Nuevo Elemento en portada.
 
-109 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/5wcPkKyyBQErURyxu67foA)
+109 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

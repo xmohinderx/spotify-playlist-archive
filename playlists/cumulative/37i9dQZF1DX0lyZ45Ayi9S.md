@@ -4,7 +4,7 @@
 
 > Our editorial picks of this year's best indie songs\. \#SpotifyWrapped
 
-75 songs - 4 hr 19 min - not published yet
+75 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

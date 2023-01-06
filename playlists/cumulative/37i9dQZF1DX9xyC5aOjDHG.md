@@ -4,7 +4,7 @@
 
 > Music & Episodes of “Sword Art Online” series! 音楽とPodcastで辿る「ソードアート・オンライン」の世界！\(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-130 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/0PzANGEQ6UOUzOy4YIBJAY)
+130 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Calming sounds of nature for sleeping babies.
 
-104 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/47G451af9u2JmfvxOvW6Ut)
+104 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Songs of deep relationships to inspire your journey with each other.
 
-98 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/7x1MYtipwfxns13j9VJIYR)
+98 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

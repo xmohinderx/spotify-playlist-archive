@@ -4,7 +4,7 @@
 
 > We hear you.
 
-527 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+529 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [fly](https://open.spotify.com/track/3jH30PGXQDOx1VP9nL75lU) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [it didn't know it was a butterfly](https://open.spotify.com/album/4EHYixLT41BFnQrBiBOOzI) | 3:19 | 2022-04-01 | 2022-07-29 |
 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2021-04-02 | 2022-10-15 |
 | [Forever & Always](https://open.spotify.com/track/2keT649m2xIywngAVJHsuC) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Forever & Always](https://open.spotify.com/album/06EYDifphG99Y4dmF44pwe) | 4:09 | 2022-03-29 |  |
-| [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 | 2022-04-01 |  |
+| [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 | 2022-04-01 | 2023-01-06 |
 | [Free With You](https://open.spotify.com/track/37KYM3zuGyozpEwDuO2OVw) | [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Free With You](https://open.spotify.com/album/1MXwnwrBqGVgu9UsnqLnLl) | 2:48 | 2021-04-02 | 2022-04-16 |
 | [Friends](https://open.spotify.com/track/0q0fJWjbiK5DSKCSN1GKsK) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/2ylgkcYanTrAeBdqQSSDBE) | 3:06 | 2021-04-02 | 2022-04-21 |
 | [Friends Don't Keep Secrets](https://open.spotify.com/track/63krJmqmJJ5j0bbWCfibuY) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Friends Don't Keep Secrets](https://open.spotify.com/album/5T7s4mCdPHrvnWmMmjgDwr) | 2:10 | 2022-10-14 | 2022-12-22 |
@@ -240,7 +240,7 @@
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-07-15 |  |
 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 | 2021-04-02 | 2022-07-29 |
 | [if all the people \. \. .](https://open.spotify.com/track/6vsEeepIYXoNMC7ROPfXoR) | [aesthetic boi](https://open.spotify.com/artist/1W4VMesdXuX2yKVXHeHcLN), [hiraeth.](https://open.spotify.com/artist/5oLTLuHsqyA78zxL9l3Udp) | [if all the people \. \. .](https://open.spotify.com/album/5x20UTRfdLYCL6hsZL3C9X) | 2:33 | 2021-10-26 | 2022-06-09 |
-| [If I Really Love You](https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [If I Really Love You](https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u) | 3:14 | 2021-04-02 |  |
+| [If I Really Love You](https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [If I Really Love You](https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u) | 3:14 | 2021-04-02 | 2023-01-06 |
 | [If You Leave](https://open.spotify.com/track/6vOasXD4uE6zEPgcXD86Tq) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [If You Leave](https://open.spotify.com/album/0rgdSm4zbzgZEBKXja4xJp) | 2:40 | 2021-04-02 | 2022-07-19 |
 | [im used to it](https://open.spotify.com/track/5PqreNOgHtz0JusSoeitaF) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [im used to it](https://open.spotify.com/album/5hzOPYGJBGqIQ5oluCeT5y) | 2:55 | 2021-04-02 | 2022-04-20 |
 | [in love](https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [in love](https://open.spotify.com/album/09GS5ONXA0R6l8oPCTsyzl) | 2:32 | 2021-08-27 | 2022-07-23 |
@@ -304,6 +304,7 @@
 | [Malleable](https://open.spotify.com/track/5RpZBENYCjZE7t9M823v0S) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Malleable](https://open.spotify.com/album/6m0ibc9oEx9tiYhbk7D4sA) | 2:48 | 2021-04-02 | 2022-07-29 |
 | [MANGATA](https://open.spotify.com/track/4mRD1edvWuTaMMylCcsHGB) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [DEVILS PLAYGROUND](https://open.spotify.com/album/2vF7VckTpJS0uMkf0JN2GE) | 1:55 | 2022-10-14 | 2022-10-18 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-25 | 2022-10-15 |
+| [Maya](https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Maya](https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr) | 3:27 | 2023-01-06 |  |
 | [Maybe i'm alone](https://open.spotify.com/track/1uwl2FmnR4ux7sMkxDJ4xH) | [Yaiko Kaori](https://open.spotify.com/artist/6Y1X1y0lolpyo4xCpB458o) | [Maybe i'm alone](https://open.spotify.com/album/2SrT7vtYvc0m1eYgxfNsg6) | 2:20 | 2021-04-02 | 2022-07-21 |
 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 | 2021-04-02 | 2022-07-28 |
 | [Meant To Be](https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN) | 2:43 | 2022-10-14 | 2022-12-24 |
@@ -329,6 +330,7 @@
 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 | 2022-07-15 |  |
 | [No One Gets Me \(feat\. RMR\)](https://open.spotify.com/track/0SBnx2rzXbh1Gt2WmmMX0g) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw) | [No One Gets Me \(feat\. RMR\)](https://open.spotify.com/album/3U17Clob2dMUevoYU0t39b) | 3:22 | 2022-01-21 | 2022-04-20 |
 | [no song without you \- london session](https://open.spotify.com/track/5LvZe8erHQJvivxAQeqYPe) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [nswy: dream edits](https://open.spotify.com/album/2EafeoPywXvcSudYSeSMWO) | 3:12 | 2022-03-29 | 2022-04-07 |
+| [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 | 2023-01-06 |  |
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2022-05-25 |  |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-09 |  |
 | [None of This Alone](https://open.spotify.com/track/3oC6XhD8it51GroGHUh3Ud) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [None of This Alone](https://open.spotify.com/album/7akTYYhH1O4asv7ojULTX5) | 2:52 | 2021-06-25 | 2022-07-29 |

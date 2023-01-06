@@ -4,7 +4,7 @@
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-75 songs - 4 hr 27 min - not published yet
+75 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Throwbacks you can catch a wine to.
 
-170 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/3PPxIsGiR2XzxbMKPVmBN3)
+170 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

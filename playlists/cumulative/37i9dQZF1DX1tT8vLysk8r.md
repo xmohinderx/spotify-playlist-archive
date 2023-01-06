@@ -4,7 +4,7 @@
 
 > An introduction to the best\-loved works of Russian composer Sergei Prokofiev.
 
-108 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/4DB6QYU7gQRNoqkKcgIFIR)
+108 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

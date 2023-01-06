@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Grace Kelly",
+  "description": "New jazz for open minds. Cover: Esperanza Spalding & Fred Hersch",
   "name": "State of Jazz",
-  "published_playlist_ids": [
-    "5R2nAaHgZSXgVDUHN6bx38"
-  ],
   "tracks": [
     {
       "album": {
@@ -285,6 +282,46 @@
       "duration_ms": 191986,
       "name": "A Slice Of The Top",
       "url": "https://open.spotify.com/track/6FYkE7YkOeTXc4m6tc2em6"
+    },
+    {
+      "album": {
+        "name": "Alive at the Village Vanguard",
+        "url": "https://open.spotify.com/album/0ZtyPgjVZsMzwxeDYYgllf"
+      },
+      "artists": [
+        {
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274520,
+      "name": "A Wish",
+      "url": "https://open.spotify.com/track/2Tq89QmtNijYrcXOqkks0w"
+    },
+    {
+      "album": {
+        "name": "Above Us",
+        "url": "https://open.spotify.com/album/5JDYGlqd6K6xmQJWtANYZa"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Above Us",
+      "url": "https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0"
     },
     {
       "album": {
@@ -1355,7 +1392,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 380631,
       "name": "Beep Durple",
       "url": "https://open.spotify.com/track/0jpQ9EDSXQUiLyek5i6WYM"
@@ -1533,6 +1570,48 @@
       "duration_ms": 360874,
       "name": "Black Alchemy/Hall of Mirrors",
       "url": "https://open.spotify.com/track/36tF6eoNw42PF9KsHV25wg"
+    },
+    {
+      "album": {
+        "name": "Black Heroes",
+        "url": "https://open.spotify.com/album/3qvyDRcMmeG20MzB5X6FZx"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Jon Cowherd",
+          "url": "https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE"
+        },
+        {
+          "name": "Myron Walden",
+          "url": "https://open.spotify.com/artist/5wTziSHywk2CtCL463tSNR"
+        },
+        {
+          "name": "Monte Croft",
+          "url": "https://open.spotify.com/artist/2lJS048alI10juGK1Z9J49"
+        },
+        {
+          "name": "Doug Weiss",
+          "url": "https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq"
+        },
+        {
+          "name": "Rogerio Boccato",
+          "url": "https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe"
+        },
+        {
+          "name": "John Hart",
+          "url": "https://open.spotify.com/artist/3ndHyLdOcwpsVn1FCxIrLV"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370456,
+      "name": "Black Heroes",
+      "url": "https://open.spotify.com/track/7Mn1C8ErqynVQAqWmXms5Q"
     },
     {
       "album": {
@@ -3567,7 +3646,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 205928,
       "name": "Epoca",
       "url": "https://open.spotify.com/track/2BkAmulEiKR12DmygIv1Wq"
@@ -3621,7 +3700,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 227226,
       "name": "Ersa",
       "url": "https://open.spotify.com/track/4twURyv1xrqjT9RILugLb3"
@@ -3965,6 +4044,36 @@
       "duration_ms": 261519,
       "name": "Finding Light",
       "url": "https://open.spotify.com/track/3MGg7Spc0VFKuvdnUG5oYm"
+    },
+    {
+      "album": {
+        "name": "Fire In Detroit",
+        "url": "https://open.spotify.com/album/0VEkd4NLUm337P8FrbHnDI"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Phil Ranelin",
+          "url": "https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1"
+        },
+        {
+          "name": "Wendell Harrison",
+          "url": "https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299758,
+      "name": "Fire In Detroit",
+      "url": "https://open.spotify.com/track/7oUnKsa84QuvSUZ6ssNNdI"
     },
     {
       "album": {
@@ -5860,6 +5969,24 @@
     },
     {
       "album": {
+        "name": "It Might as Well Be Spring",
+        "url": "https://open.spotify.com/album/21FWhg9f01fN9WtJ9sICxc"
+      },
+      "artists": [
+        {
+          "name": "Jim Snidero",
+          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419933,
+      "name": "It Might as Well Be Spring",
+      "url": "https://open.spotify.com/track/2G1V7x6BZ5Pym68sgSpY66"
+    },
+    {
+      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
       },
@@ -6386,6 +6513,32 @@
     },
     {
       "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/61HTeENwsrXkQywUJBoE97"
+      },
+      "artists": [
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        },
+        {
+          "name": "Hadrien Feraud",
+          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
+        },
+        {
+          "name": "Morgan \u00c5gren",
+          "url": "https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164622,
+      "name": "Layers",
+      "url": "https://open.spotify.com/track/33x06YtLX7JGoaxJqVKRZL"
+    },
+    {
+      "album": {
         "name": "Lazy Song",
         "url": "https://open.spotify.com/album/5uu3QNPRpcWwgO7Bn6BU3D"
       },
@@ -6427,6 +6580,32 @@
       "duration_ms": 448974,
       "name": "LDN",
       "url": "https://open.spotify.com/track/6kvg46WxVlk7ebhNEWlVuk"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/4hYJP6VSDvVktdcZRq2mtx"
+      },
+      "artists": [
+        {
+          "name": "Antoine Berjeaut",
+          "url": "https://open.spotify.com/artist/0xkHhnHO6QHTFUUrJpHM2G"
+        },
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        },
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269106,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/06PsxVo9cUtgP97EjxFUs7"
     },
     {
       "album": {
@@ -6597,6 +6776,24 @@
       "duration_ms": 203560,
       "name": "Life Goes On (feat. Sampa the Great)",
       "url": "https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX"
+    },
+    {
+      "album": {
+        "name": "Like Him",
+        "url": "https://open.spotify.com/album/68WPYZbyg71tCq3mfsjbQZ"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415413,
+      "name": "Like Him",
+      "url": "https://open.spotify.com/track/5h6LeISR8TUp4hNdK7cADW"
     },
     {
       "album": {
@@ -7563,7 +7760,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 255573,
       "name": "Miss Kane",
       "url": "https://open.spotify.com/track/3b5bgnDoFfVv4tbg8gbQlO"
@@ -7599,7 +7796,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 380373,
       "name": "Mister Unknown",
       "url": "https://open.spotify.com/track/0YGxsYwJbxzaHJQ0lj37EL"
@@ -7959,7 +8156,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 227435,
       "name": "Mystics - Live",
       "url": "https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9"
@@ -9457,7 +9654,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 332500,
       "name": "Red Lightning",
       "url": "https://open.spotify.com/track/7z8y7GvjS0X2BwDJGThY7y"
@@ -9599,6 +9796,24 @@
       "duration_ms": 302160,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/4l6LEkiXfyZCNVyb9rS6Rg"
+    },
+    {
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/51Y9W3uAwSwbeO8WWPgyiz"
+      },
+      "artists": [
+        {
+          "name": "yuma yamaguchi",
+          "url": "https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335515,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/5i7jFc90XNuTFfDNIhyfhw"
     },
     {
       "album": {
@@ -9879,6 +10094,24 @@
       "duration_ms": 252000,
       "name": "Ruff Stuff",
       "url": "https://open.spotify.com/track/50pOeDIE20XV1tWDBuSviy"
+    },
+    {
+      "album": {
+        "name": "Ruth",
+        "url": "https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly"
+      },
+      "artists": [
+        {
+          "name": "Joe Chambers",
+          "url": "https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251277,
+      "name": "Ruth",
+      "url": "https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD"
     },
     {
       "album": {
@@ -10533,7 +10766,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 252000,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"
@@ -12107,7 +12340,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 285186,
       "name": "The Hit",
       "url": "https://open.spotify.com/track/5dFkLgD1jMu9lzgltLoO8l"
@@ -13609,7 +13842,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 338506,
       "name": "War Dance",
       "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
@@ -14059,7 +14292,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 400800,
       "name": "Words Left Unspoken",
       "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
@@ -14409,6 +14642,24 @@
       "duration_ms": 253000,
       "name": "\u591c\u7a7a\u304b\u3089\u306e\u6765\u8a2a\u8005",
       "url": "https://open.spotify.com/track/5tPF81ERdwsYA7VhV3lJT7"
+    },
+    {
+      "album": {
+        "name": "\u5bb5\u5bb5\u96ea\u82b1",
+        "url": "https://open.spotify.com/album/6JxehKWtAhIAiMWzkSpVrR"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "\u5bb5\u5bb5\u96ea\u82b1",
+      "url": "https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf"
     },
     {
       "album": {

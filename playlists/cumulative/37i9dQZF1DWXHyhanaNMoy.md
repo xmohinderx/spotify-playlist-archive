@@ -4,7 +4,7 @@
 
 > Alleen maar motion en good vibes\. Cover: Lani Manila
 
-338 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+339 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aan Je Wakka](https://open.spotify.com/track/0Y9nnflUXlXDzbH8FfrpvK) | [MC MC](https://open.spotify.com/artist/7eMoHqrg7fdrVTjhrQE0Go), [Jonna Rincon](https://open.spotify.com/artist/6o3BlWTeK4EKUyByo35y6F) | [Aan Je Wakka](https://open.spotify.com/album/46zr9VISTJVpiVcmrfemv2) | 2:26 | 2022-10-27 | 2022-11-18 |
 | [Actief in de night](https://open.spotify.com/track/4EPomXYQdoGjFbBH03Tvf0) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT) | [Actief in de night](https://open.spotify.com/album/2BqrpEnSgDTsrD6ZcVmHA7) | 2:53 | 2022-09-15 | 2022-12-24 |
 | [Activeren](https://open.spotify.com/track/2BTLc3HjGW71DtDGe0ngbB) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Passion](https://open.spotify.com/artist/1J83abhW7lGHgDpTeTUuSd) | [Activeren](https://open.spotify.com/album/3diG0itmo6d1DN24tNl7CF) | 2:48 | 2022-09-15 | 2022-10-07 |
+| [Ai Ai Ai](https://open.spotify.com/track/0O1aOVz2AHByG9fM5ggg9W) | [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG) | [Ai Ai Ai](https://open.spotify.com/album/75flqZ7CwXhFXJ7DxjvyQw) | 2:20 | 2023-01-05 |  |
 | [Air Max](https://open.spotify.com/track/5G65Qm4RBZM7VzsiP8tZ0P) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [Koning Met Principes](https://open.spotify.com/album/4u9j22MWqT44ICoxWoV9nc) | 2:46 | 2022-10-11 | 2022-11-18 |
 | [All I Want For Christmas Is A Klaksbeat](https://open.spotify.com/track/1ChjcmCGJst5DyiaPFjsXs) | [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i), [Kinoh](https://open.spotify.com/artist/2DL90GeChXppBBui74CXlp), [Trevv](https://open.spotify.com/artist/0imoHB5M7KW6B9PApK7rMb) | [All I Want For Christmas Is A Klaksbeat](https://open.spotify.com/album/4NPLgh9dLfGdayk623LJxT) | 1:45 | 2022-12-01 |  |
 | [Allez Allez](https://open.spotify.com/track/0IeRfqzN4AonzZIKaPMXtw) | [Ismo](https://open.spotify.com/artist/2vRJ1xr5DT4PdBnM63DBJZ) | [Allez Allez](https://open.spotify.com/album/0s2RgOo6slU8PkcfuoRaox) | 2:02 | 2022-09-08 | 2022-09-16 |

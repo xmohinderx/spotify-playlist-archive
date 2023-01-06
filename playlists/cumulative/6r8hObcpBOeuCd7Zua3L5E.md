@@ -4,7 +4,7 @@
 
 > Sped up songs from TikTok and around the web! Discover the latest sped up songs and sped up versions of songs, and discover new favorites!
 
-119 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/7lvhSCtmWUyIreSJ2sonuM)
+119 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

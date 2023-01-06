@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
 
-208 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/4ZYc49bP2BhIE0m0JrNtAT)
+209 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Better Man](https://open.spotify.com/track/58vvWxNX1uQVs0ZRBAOfOi) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/3BTQHNtVLjqVHKIRb3CZwj) | 2:21 | 2021-10-01 | 2022-07-29 |
 | [Big Time](https://open.spotify.com/track/0OhZEVzS5iCdPyVANAqGqm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/5cYoVs8TyCVkTUr8vjpIFF) | 4:07 | 2022-06-01 | 2022-07-29 |
 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 | 2022-06-01 |  |
+| [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2023-01-06 |  |
 | [Black Man In A White World](https://open.spotify.com/track/3ddle9t9JiBFVqHyrnaGxz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 4:18 | 2022-06-01 |  |
 | [Blind Ambition](https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx) | [Sophia Bastian](https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND) | [Blind Ambition](https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5) | 3:51 | 2021-10-01 | 2022-01-31 |
 | [Bossy](https://open.spotify.com/track/1WNtjvH8NmueY4kV10ZI93) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Bossy](https://open.spotify.com/album/3EF1kZp1nzZdHzYS7501za) | 3:18 | 2022-06-01 | 2022-07-20 |
@@ -125,7 +126,7 @@
 | [Monterey](https://open.spotify.com/track/6naEBVsSQonTSqTOsquBA9) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Monterey](https://open.spotify.com/album/2ttSZFH721F5dC6fbZznTb) | 3:28 | 2022-08-02 |  |
 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 | 2021-10-01 |  |
 | [Morning Terrors Nights of Dread](https://open.spotify.com/track/419cNVI2TzuYFlXmp4BNDU) | [Shilpa Ray](https://open.spotify.com/artist/2aBdKyqYmbMAxMFCujJSqw) | [Door Girl](https://open.spotify.com/album/6DV3VOHDapKGREdDgjPrly) | 4:27 | 2021-10-01 | 2022-07-29 |
-| [Morning Terrors Nights of Dread](https://open.spotify.com/track/429zYwDePDJxSut57xtLFe) | [Shilpa Ray](https://open.spotify.com/artist/2aBdKyqYmbMAxMFCujJSqw) | [Door Girl](https://open.spotify.com/album/3absnEPdv3f3dhTBCb6EYS) | 4:27 | 2022-06-01 | 2022-10-17 |
+| [Morning Terrors Nights of Dread](https://open.spotify.com/track/429zYwDePDJxSut57xtLFe) | [Shilpa Ray](https://open.spotify.com/artist/2aBdKyqYmbMAxMFCujJSqw) | [Door Girl](https://open.spotify.com/album/3absnEPdv3f3dhTBCb6EYS) | 4:27 | 2022-06-01 |  |
 | [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4) | 5:52 | 2022-06-01 |  |
 | [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/4x1vhOOK3VJhhq9BkMNq9z) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/0pZUQKSLyTeTHIy0A4Q0Zb) | 5:52 | 2021-10-01 | 2022-07-29 |
 | [Never Been A Captain](https://open.spotify.com/track/70IqB1OoLQWVZExqbhMefW) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Alta Falls](https://open.spotify.com/album/1L50DFmecIs4D04tbzlcsY) | 4:41 | 2021-10-01 | 2022-07-29 |
@@ -153,7 +154,7 @@
 | [Party City](https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Party City](https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo) | 4:20 | 2021-10-01 | 2022-11-13 |
 | [Persistence](https://open.spotify.com/track/4lgnsoBDruL2TzW00kI9xP) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Persistence](https://open.spotify.com/album/3qLAGo8JfSOc7nAUjO9QLW) | 2:51 | 2021-10-01 | 2022-07-28 |
 | [Pining](https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:44 | 2021-10-01 |  |
-| [Place Names](https://open.spotify.com/track/7g43lO9P1diIwalJSdAhDx) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Place Names](https://open.spotify.com/album/4IKumYQwjIA84v4Bfn029O) | 3:53 | 2021-10-01 |  |
+| [Place Names](https://open.spotify.com/track/7g43lO9P1diIwalJSdAhDx) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Place Names](https://open.spotify.com/album/4IKumYQwjIA84v4Bfn029O) | 3:53 | 2021-10-01 | 2023-01-06 |
 | [Powder Blue](https://open.spotify.com/track/6BHdfzIwMm9WPORQ4OGnnx) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You’re Dreaming](https://open.spotify.com/album/2u82YoTVFqN1Z7uIbqVCfr) | 2:23 | 2021-10-01 | 2022-07-29 |
 | [Powder Blue](https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 2:23 | 2022-06-01 |  |
 | [Quit You](https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:49 | 2021-10-01 | 2022-11-13 |
@@ -169,7 +170,7 @@
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2022-06-01 |  |
 | [Rotterdam](https://open.spotify.com/track/7JqQ6NFbM6LhOl7OK1XV8X) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Rotterdam](https://open.spotify.com/album/4JJS843bH73FFzM5WHXXrc) | 3:25 | 2021-10-01 | 2022-08-03 |
 | [Run\-down Neighborhood](https://open.spotify.com/track/4d75miZVKZd75MiAVWZvDa) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 3:06 | 2021-10-01 | 2022-07-29 |
-| [Run\-down Neighborhood](https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:06 | 2022-06-01 |  |
+| [Run\-down Neighborhood](https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:06 | 2022-06-01 | 2023-01-06 |
 | [S.O.B.](https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [S.O.B.](https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI) | 4:07 | 2021-10-01 |  |
 | [Say It](https://open.spotify.com/track/4hqsg6viSC2UoLKUydMFOO) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4DL8KCLfnDpUQRyDR5dKvt) | 3:22 | 2021-10-01 | 2022-07-29 |
 | [Say It](https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:22 | 2022-06-01 |  |

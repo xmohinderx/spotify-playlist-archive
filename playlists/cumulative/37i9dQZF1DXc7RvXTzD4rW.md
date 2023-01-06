@@ -4,7 +4,7 @@
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 神谷浩史 ⒸKiramune Project
 
-153 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
+153 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,121 songs - 2 day 11 hr 59 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+1,121 songs - 2 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Attrape\-moi si tu peux](https://open.spotify.com/track/6LuAtG9sa0aU8GTMd9CQnO) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [La Direction](https://open.spotify.com/album/65q2W2g3nvvVN5dGoll3sP) | 3:31 | 2021-05-23 | 2021-06-06 |
 | [Auburn](https://open.spotify.com/track/6PSlFyUoUfOE97eMpCQc6a) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Auburn](https://open.spotify.com/album/6obHyCNwx86U02MB3Mj6jA) | 4:11 | 2022-07-02 | 2022-07-04 |
 | [Auburn](https://open.spotify.com/track/4m3X0hcI4dZdZ802yxpm35) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 4:11 | 2022-09-17 | 2022-09-25 |
-| [Autobahn](https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 2:50 | 2022-11-19 |  |
+| [Autobahn](https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 2:50 | 2022-11-19 | 2023-01-06 |
 | [Avec José](https://open.spotify.com/track/2WXnSSGToID9UFzIbDOxd4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 3:17 | 2022-06-04 | 2022-06-06 |
 | [Avec Toi](https://open.spotify.com/track/656vbT8JKkVx7g1yG12L89) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [OMEGA](https://open.spotify.com/album/0SPYxxevaQPJZKdyP9Ikgn) | 3:13 | 2021-09-03 | 2021-10-17 |
 | [Avengers](https://open.spotify.com/track/2YAgixJPrOiEZSgZMlmqqF) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Kalif Hardcore](https://open.spotify.com/artist/12rqcxsx28NPNRwPOEBxYG) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 3:17 | 2021-10-10 | 2021-10-18 |
@@ -143,7 +143,7 @@
 | [Blue Magic](https://open.spotify.com/track/4wKYh5xkPvAF6JaG6lxEcH) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 3:10 | 2021-11-07 | 2021-11-21 |
 | [Bobo](https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Bobo](https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI) | 3:07 | 2021-05-30 | 2021-08-24 |
 | [BODIES \(feat\. Damso\)](https://open.spotify.com/track/3im90dPSC5z1PYJ305kgSy) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 2:46 | 2022-07-02 | 2022-09-09 |
-| [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2023-01-04 |  |
+| [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2023-01-04 | 2023-01-06 |
 | [Bolide allemand](https://open.spotify.com/track/7edvQQI4OxF0qbqWNmoHJn) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 2:56 | 2022-12-03 | 2022-12-31 |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-05-03 | 2022-07-03 |
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-07-02 | 2022-10-29 |
@@ -494,7 +494,7 @@
 | [Je ressens rien](https://open.spotify.com/track/1UyBDxF6P4WLJphGiF9djD) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:03 | 2022-02-05 | 2022-02-13 |
 | [Je te veux toi](https://open.spotify.com/track/3FNc92KG0Zxzvtj3ZkGIxb) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 2:44 | 2022-06-04 | 2022-06-06 |
 | [Je t’aime de ouf](https://open.spotify.com/track/5BUl0EBl4tOmPtT9IN0UUP) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [16 ou pas](https://open.spotify.com/album/3W0kaNeIqkpPlqqqzsHCYZ) | 2:49 | 2021-04-04 | 2021-06-06 |
-| [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2021-12-05 | 2023-01-05 |
+| [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2021-12-05 |  |
 | [Jeune d'en bas \(feat\. Nekfeu\)](https://open.spotify.com/track/3cOIYXOt3tMpeNz9XOmNos) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [Vrai 2 vrai](https://open.spotify.com/album/0dzxf2H7rACEaNpta7XjWg) | 3:26 | 2021-07-25 | 2021-08-01 |
 | [Jeune soldat](https://open.spotify.com/track/6A29l1WiOjvMY8mOL0Q3N3) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 3:22 | 2021-09-19 | 2021-09-20 |
 | [Jeune voyou](https://open.spotify.com/track/4YEpm5zIxSYrfGNb06dO7R) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Kekra](https://open.spotify.com/album/01BiXX7GWR0MKgrbCordRr) | 3:25 | 2021-04-04 | 2021-04-05 |
@@ -814,7 +814,7 @@
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-08-24 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-06 |
 | [Pistolet 45](https://open.spotify.com/track/28sz0xiDFDcEXHdVjnv1ZJ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 3:28 | 2022-12-10 | 2022-12-12 |
-| [Placebo](https://open.spotify.com/track/17jlkHSNHFu1zUuu8QZyOW) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Imany Deluxe](https://open.spotify.com/album/2kxLG2zY19L7YWG5iWLewv) | 3:10 | 2022-11-15 | 2022-11-20 |
+| [Placebo](https://open.spotify.com/track/17jlkHSNHFu1zUuu8QZyOW) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Imany Deluxe](https://open.spotify.com/album/2kxLG2zY19L7YWG5iWLewv) | 3:10 | 2022-11-15 |  |
 | [Platine o Plomo](https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:37 | 2021-11-28 | 2021-12-05 |
 | [Plaza Athénée](https://open.spotify.com/track/3zfX77h21GrlhsiOuYnZNC) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Plaza Athénée](https://open.spotify.com/album/7oWPHRsf07z12mpqB029Gc) | 2:28 | 2021-05-30 | 2021-06-04 |
 | [Plein les poches](https://open.spotify.com/track/6uAL5MbQ6bOBOrgqf05FK6) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 2:45 | 2021-03-27 | 2021-04-11 |

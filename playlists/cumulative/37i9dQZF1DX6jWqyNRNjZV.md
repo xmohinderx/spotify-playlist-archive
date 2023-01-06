@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6AaLiQRx5xSWLWZFSOcItq">dameeeela's </a> favourite tracks\.  Updated regularly\. Curated by dameeeela\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-77 songs - 5 hr 40 min - not published yet
+77 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

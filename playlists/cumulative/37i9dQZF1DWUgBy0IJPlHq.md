@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Zach Bryan
+> A new shade of Country\. Cover: The Panhandlers
 
-389 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
+390 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 | 2021-12-17 | 2022-03-05 |
 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 | 2022-10-07 |  |
 | [Long, Long Year](https://open.spotify.com/track/0pLsmdx3085wYk87iU2A8T) | [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [Long, Long Year](https://open.spotify.com/album/3vkg2n1PUlk9V4Q6jBRze8) | 4:19 | 2022-07-29 |  |
+| [Longneck Way To Go](https://open.spotify.com/track/2L34x2yCo1PUqTxNL1Nl67) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:08 | 2023-01-06 |  |
 | [Longneck Way To Go](https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Longneck Way To Go](https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg) | 3:08 | 2022-04-29 |  |
 | [Look At The Mess I'm In](https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:00 | 2022-03-04 | 2022-10-01 |
 | [Loose Cannon](https://open.spotify.com/track/0NugEFSGIWRGcrbH7h2jDS) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Loose Cannon](https://open.spotify.com/album/789MvCDTKZzXZh6YkgO0ee) | 3:22 | 2022-01-28 | 2022-05-07 |
@@ -262,7 +263,7 @@
 | [Place Out Back](https://open.spotify.com/track/6lBbIMJnQ7uuCyBFHOXFEW) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [A Couple 2, 3…](https://open.spotify.com/album/3YQ6xNhgt6j3VlxZRN0Yyg) | 3:28 | 2022-09-09 |  |
 | [Plain Dealing](https://open.spotify.com/track/7CVFMKpWFqztojsuR654u9) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Plain Dealing](https://open.spotify.com/album/7BIu512T3yrvo01oPR8LDM) | 2:49 | 2021-12-17 | 2022-01-29 |
 | [Port City](https://open.spotify.com/track/2xtyduCtx4uPVxksiSYSjj) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Port City](https://open.spotify.com/album/4D56Jhz6zigKLQ3Y1WYuSz) | 3:50 | 2022-03-18 | 2022-04-16 |
-| [Poster Child](https://open.spotify.com/track/5l2dSqEv2SRH2HrHI36b3S) | [John Fullbright](https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA) | [Poster Child](https://open.spotify.com/album/3okKkuJv195XnqamQX9bpz) | 2:26 | 2022-08-19 |  |
+| [Poster Child](https://open.spotify.com/track/5l2dSqEv2SRH2HrHI36b3S) | [John Fullbright](https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA) | [Poster Child](https://open.spotify.com/album/3okKkuJv195XnqamQX9bpz) | 2:26 | 2022-08-19 | 2023-01-06 |
 | [Problem With It](https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Problem With It](https://open.spotify.com/album/66ydaWFaxPBMBGmegJBDDR) | 3:32 | 2022-07-29 | 2022-10-26 |
 | [Problem With It](https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:32 | 2022-10-14 |  |
 | [Quite Like You](https://open.spotify.com/track/0KVeQWIL6r8ALPy6Lxjlx6) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Coast](https://open.spotify.com/album/3Q6idrlnc5UQwg1RKKIglL) | 4:12 | 2022-11-25 |  |

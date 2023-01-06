@@ -4,7 +4,7 @@
 
 > What breaking up in the 2000s sounded like\. Cover: The Fray
 
-139 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/0RXg6mV3lO8rDLT1okHytk)
+139 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

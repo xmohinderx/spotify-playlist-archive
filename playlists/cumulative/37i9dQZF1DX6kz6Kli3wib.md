@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-244 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
+244 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

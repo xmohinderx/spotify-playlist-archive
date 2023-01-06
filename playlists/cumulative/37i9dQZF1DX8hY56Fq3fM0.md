@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-253 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/6T6fNI28dK30V4yGA7f0oJ)
+253 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

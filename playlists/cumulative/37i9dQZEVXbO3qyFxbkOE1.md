@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Mexico.
 
-504 songs - 1 day 4 hr 12 min - [published](https://open.spotify.com/playlist/3e8QIH2JlRAnIaOA3btZ81)
+504 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

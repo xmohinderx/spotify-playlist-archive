@@ -1,12 +1,12 @@
 {
   "description": "Wednesday Addams has put her paws up",
-  "num_followers": 1902470,
+  "num_followers": 1906344,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyMzI5NiwwMDAwMDAwMDVhOTgzODg3NDU4ZDdmMWZkZTE5MDg1MjQ5ZjRiNGEx",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDlmMDdjYjFmMzUwMzUwODhiNzM3ODI2NDRhOWEwOGFm",
   "tracks": [
     {
       "added_at": "2022-11-28 18:00:14",
@@ -145,6 +145,26 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
+      "added_at": "2022-11-29 23:43:25",
+      "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 239888,
+      "name": "Escapism. - Sped Up",
+      "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
+    },
+    {
       "added_at": "2022-12-01 05:21:29",
       "album": {
         "name": "Boy's a liar",
@@ -193,20 +213,20 @@
       "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2022-12-30 18:00:00",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8"
+        "name": "Back That Up To The Beat",
+        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
       },
       "artists": [
         {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 168421,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC"
+      "duration_ms": 192282,
+      "name": "Back That Up To The Beat - sped up version",
+      "url": "https://open.spotify.com/track/1ZvGlbx6sESozg3imglt83"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -223,6 +243,38 @@
       "duration_ms": 149456,
       "name": "Girl Like Me",
       "url": "https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL"
+    },
+    {
+      "added_at": "2022-07-18 04:05:40",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -257,24 +309,20 @@
       "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
     },
     {
-      "added_at": "2022-11-29 23:43:25",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Escapism. (Sped Up)",
-        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+        "name": "Ugly Crier",
+        "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
         }
       ],
-      "duration_ms": 239888,
-      "name": "Escapism. - Sped Up",
-      "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
+      "duration_ms": 152053,
+      "name": "Ugly Crier",
+      "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -299,38 +347,6 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/7jHi6opPq439ruUlfH90Aw"
-    },
-    {
-      "added_at": "2022-12-12 22:40:24",
-      "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 227749,
-      "name": "In The Kitchen",
-      "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
-    },
-    {
-      "added_at": "2022-07-18 04:05:40",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -363,22 +379,6 @@
       "duration_ms": 217411,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
-    },
-    {
-      "added_at": "2022-12-30 18:00:00",
-      "album": {
-        "name": "Back That Up To The Beat",
-        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 192282,
-      "name": "Back That Up To The Beat - sped up version",
-      "url": "https://open.spotify.com/track/1ZvGlbx6sESozg3imglt83"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -971,22 +971,6 @@
       "duration_ms": 197353,
       "name": "Summertime Sadness - Sped Up",
       "url": "https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Self Dysmorphia",
-        "url": "https://open.spotify.com/album/5sXDpVJMW6f3nRzJSFGWoi"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Self Dysmorphia",
-      "url": "https://open.spotify.com/track/4XxNQ8VlWCDT6kEwWDuW4u"
     },
     {
       "added_at": "2022-11-11 05:00:00",

@@ -4,7 +4,7 @@
 
 > Relive the good ol' days with these 60s and 70s classics.
 
-134 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/2gzlIXvEV3vDGhGFPIuGSf)
+134 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

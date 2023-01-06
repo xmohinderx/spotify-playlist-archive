@@ -4,7 +4,7 @@
 
 > Relax with this soothing soundtrack from the nineties...
 
-240 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/7fhSCJ8q7xulx4bYNQXkWm)
+240 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

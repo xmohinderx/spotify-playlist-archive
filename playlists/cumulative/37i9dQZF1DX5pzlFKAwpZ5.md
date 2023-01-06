@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-187 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
+187 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/1ulqcDC3O7qdPCMIeHzm0c)
+42 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

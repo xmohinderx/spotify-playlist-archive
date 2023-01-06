@@ -4,7 +4,7 @@
 
 > A collection of the best metal ballads\. Cover: Guns N' Roses
 
-273 songs - 23 hr 18 min - [published](https://open.spotify.com/playlist/2c4OCmgadzEHr3ZwZYA4VJ)
+273 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

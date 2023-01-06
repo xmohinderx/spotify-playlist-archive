@@ -4,7 +4,7 @@
 
 > Your ultimate easy\-listening soundtrack for the winter months.
 
-151 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/3HzY1Lkj3X6KFFJA2E16Or)
+151 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,500 songs - 2 day 19 hr 7 min - [published](https://open.spotify.com/playlist/59zXuCHEMBal62ty9R9WVn)
+1,500 songs - 2 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

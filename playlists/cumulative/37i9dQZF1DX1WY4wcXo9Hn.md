@@ -4,7 +4,7 @@
 
 > a maroon kind of mood
 
-105 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/23fB26dU2vYzc523vA12TM)
+105 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

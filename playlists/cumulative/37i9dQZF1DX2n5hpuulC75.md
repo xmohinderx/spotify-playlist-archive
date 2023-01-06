@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-127 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
+127 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

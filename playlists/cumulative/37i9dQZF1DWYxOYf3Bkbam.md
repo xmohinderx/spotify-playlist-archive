@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-152 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/2GjcMWtH64TAHAcgFS6gKj)
+152 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

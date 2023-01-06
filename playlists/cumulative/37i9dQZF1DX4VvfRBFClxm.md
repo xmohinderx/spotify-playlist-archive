@@ -4,7 +4,7 @@
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-338 songs - 20 hr 18 min - [published](https://open.spotify.com/playlist/7bUcek1mMNSNQXUd5BDskV)
+338 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

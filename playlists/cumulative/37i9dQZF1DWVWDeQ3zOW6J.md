@@ -4,7 +4,7 @@
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-110 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/30A05OArJAIX8E56LydTBw)
+110 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

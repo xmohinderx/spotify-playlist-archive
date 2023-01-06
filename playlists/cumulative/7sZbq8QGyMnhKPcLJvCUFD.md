@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-167 songs - 8 hr 37 min - not published yet
+168 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [By Your Side](https://open.spotify.com/track/7xdLOiw41ACPrR6lKRhMgk) | [God's Warrior](https://open.spotify.com/artist/4OGggb4JhHb8BejoK3Y0zh) | [By Your Side](https://open.spotify.com/album/0SprUbV3HTNOWG5guO0VSU) | 3:25 | 2022-10-26 |  |
 | [Call On Me](https://open.spotify.com/track/6IZBXIuMsIuVYL6MI5IW50) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [Call On Me](https://open.spotify.com/album/1LfH2dTHBSEuUqfqjxFP5e) | 3:05 | 2022-09-21 |  |
 | [Calling Out](https://open.spotify.com/track/1XhtyPGOGR7Hk2QZPBo5gV) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Calling Out](https://open.spotify.com/album/5rnsg03WBzzwHsgQICocX4) | 2:08 | 2022-08-02 |  |
+| [Can't Say No](https://open.spotify.com/track/3GjkAL654ijp5s8Xkh93wV) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q) | [Can't Say No](https://open.spotify.com/album/3ChgqHnbhZNKP8bzyKOyVX) | 3:35 | 2023-01-05 |  |
 | [Can't You Feel It](https://open.spotify.com/track/7qw1FDLaNC5LA6kifisldI) | [MIDNIGHT CVLT](https://open.spotify.com/artist/6fT08N8EN9rPdbeWxXkNdX), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Can't You Feel It](https://open.spotify.com/album/1mdT842jxLeARBJpahEw6f) | 3:43 | 2022-09-20 |  |
 | [Caramel](https://open.spotify.com/track/14StKF124FSjdGN5zizxeu) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Stahl](https://open.spotify.com/artist/1Yc7C8ld8ndzPNKh3kUmWU), [RUD](https://open.spotify.com/artist/6IJyibMKpIZOeGR8FlxzBb) | [Caramel](https://open.spotify.com/album/1GaCDSNcfWizabEX3El1vl) | 4:02 | 2022-08-19 |  |
 | [Champions](https://open.spotify.com/track/0TX9BlX5jJfMMinl7UWaPa) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Lunaar](https://open.spotify.com/artist/13utdDa4vewlnpTmTHZNma), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Champions](https://open.spotify.com/album/2Xfu9gcaWqUiFdjXFJToOB) | 3:30 | 2022-04-23 |  |

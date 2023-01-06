@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,420 likes - 81 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,832 likes - 81 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 80 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 |
 | 81 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 |
 
-Snapshot ID: `MTY3MjY1MDAwMCwwMDAwMDAwMGE1MzYzMGVlNWI4YmNmODgyMjdiZjc4M2RiNzdlZmNk`
+Snapshot ID: `MTY3MjkzMDgwMCwwMDAwMDAwMGU4Y2U2ZTc4NjQ4OTMxMTRmZTlkZDUzNzEzZjA5N2Y0`

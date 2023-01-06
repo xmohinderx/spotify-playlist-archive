@@ -4,7 +4,7 @@
 
 > Big hits from the world of acoustics.
 
-453 songs - 1 day 2 hr 54 min - [published](https://open.spotify.com/playlist/15USUzNR9YKdH5WRjqJCtH)
+453 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

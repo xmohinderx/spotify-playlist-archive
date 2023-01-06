@@ -4,7 +4,7 @@
 
 > Chill instrumental ambient for slow, focused movement.
 
-400 songs - 19 hr 22 min - [published](https://open.spotify.com/playlist/6R2Y2tMEHANXWuPQwUT6Pc)
+400 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

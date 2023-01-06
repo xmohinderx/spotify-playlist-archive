@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. Eartheater Trinity \(Deluxe\), plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.
 
-286 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
+286 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

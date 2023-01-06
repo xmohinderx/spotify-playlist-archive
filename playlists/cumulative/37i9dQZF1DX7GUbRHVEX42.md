@@ -4,7 +4,7 @@
 
 > The best current contemporary Reggae\. Cover: Kabaka Pyramid
 
-105 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/0YIpWHNBNN3qo5IAtegSNU)
+105 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

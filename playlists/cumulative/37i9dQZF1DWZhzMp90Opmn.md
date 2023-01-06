@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-305 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/7kSbO7docWbPCdbgHmckd8)
+305 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

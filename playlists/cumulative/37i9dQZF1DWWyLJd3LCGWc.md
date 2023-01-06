@@ -4,7 +4,7 @@
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-57 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/513tfrlbDdecPO8RvqG20y)
+57 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

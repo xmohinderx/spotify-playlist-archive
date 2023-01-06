@@ -4,7 +4,7 @@
 
 > Taking it back to the 2000s\. Cover: Lil Wayne
 
-155 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/6HtuY1KUrmlIFQHmKYYhOh)
+155 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

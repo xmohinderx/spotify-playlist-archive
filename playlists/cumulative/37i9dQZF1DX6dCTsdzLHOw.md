@@ -4,7 +4,7 @@
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-42 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/7fBxUYr44Ikmg6ar6XDArN)
+42 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

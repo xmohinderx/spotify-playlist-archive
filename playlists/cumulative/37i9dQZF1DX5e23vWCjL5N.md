@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-87 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/5H6hqlvktBn3pbjzKS7Ytr)
+87 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

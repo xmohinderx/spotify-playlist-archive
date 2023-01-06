@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-264 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+264 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

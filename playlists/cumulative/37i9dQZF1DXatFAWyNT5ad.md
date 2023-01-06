@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-538 songs - 1 day 4 hr 11 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+538 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

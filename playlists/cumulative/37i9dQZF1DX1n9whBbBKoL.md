@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-183 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+183 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

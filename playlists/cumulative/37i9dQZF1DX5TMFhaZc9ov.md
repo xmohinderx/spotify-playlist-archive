@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Adeem the Artist
 
-147 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
+147 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

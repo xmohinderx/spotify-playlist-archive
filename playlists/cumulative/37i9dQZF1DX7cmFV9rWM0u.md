@@ -4,7 +4,7 @@
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.Dance
 
-131 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/1EX7jorEgMNF33269zGZLq)
+131 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

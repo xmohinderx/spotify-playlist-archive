@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-71 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/1gYEYogFzvLBeen9BV5hI9)
+71 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

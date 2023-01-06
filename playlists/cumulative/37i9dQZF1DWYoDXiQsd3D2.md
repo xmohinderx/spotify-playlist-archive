@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-173 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
+173 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

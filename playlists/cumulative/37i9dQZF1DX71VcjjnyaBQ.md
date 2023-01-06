@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-161 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+161 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

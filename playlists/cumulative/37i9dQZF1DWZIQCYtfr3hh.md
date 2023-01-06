@@ -4,7 +4,7 @@
 
 > The best of the Bollywood diva\. Cover: Aishwarya Rai Bachchan.
 
-43 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/2wa76kZjKorfXsagM1g6oY)
+43 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

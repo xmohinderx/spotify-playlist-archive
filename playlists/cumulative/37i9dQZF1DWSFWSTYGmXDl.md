@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-184 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
+184 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

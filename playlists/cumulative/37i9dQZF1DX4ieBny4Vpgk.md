@@ -4,7 +4,7 @@
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-113 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/60p5YX6EhMvmlI8rfgDUBd)
+113 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Bonita \- Special Edition](https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:12 | 2022-11-30 |  |
 | [Born In The Dark](https://open.spotify.com/track/1BqN5U71j779zCZlPRpWpk) | [Eric Hutchinson](https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4) | [Before & After Life](https://open.spotify.com/album/0gbO5q0USgCkccD7CpCiwE) | 5:17 | 2021-12-01 | 2022-12-01 |
 | [But Beautiful](https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:55 | 2021-12-01 | 2022-12-01 |
-| [Can't Get Out of This Mood](https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Can't Get Out of This Mood](https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy) | 3:42 | 2022-11-30 |  |
+| [Can't Get Out Of This Mood](https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Can't Get Out Of This Mood](https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy) | 3:42 | 2022-11-30 |  |
 | [Come Fly with Me](https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Come Fly with Me](https://open.spotify.com/album/1a9XmKMYpi3XJAc626uqyY) | 3:31 | 2022-11-30 |  |
 | [Come on Little Bird](https://open.spotify.com/track/3xPzobpvhizPZSR7If1Zcx) | [Brice Davoli](https://open.spotify.com/artist/27kwwOnjG09lmLHv3zle84), [Valerie Deniz](https://open.spotify.com/artist/3xODAav1Ryy8BspJHjbHcL) | [Classic Jazz \- Divas & Crooners \(Edited\)](https://open.spotify.com/album/1atP4hfVKAF0d07D4HjpbR) | 3:17 | 2021-12-01 | 2022-12-01 |
 | [Devil May Care \(feat\. Steve LaSpina\)](https://open.spotify.com/track/3c3UiNK3VFXA5zQUSvvWc5) | [Sherine 尚羚](https://open.spotify.com/artist/3jHGEibos6PbvirMBJlgFl), [Steve LaSpina](https://open.spotify.com/artist/5OmSSr7NqennGE7koYEUjn) | [TWO FOR THE ROAD](https://open.spotify.com/album/32cHdfEfedPELnp8KljvzA) | 3:31 | 2021-12-01 | 2022-12-01 |

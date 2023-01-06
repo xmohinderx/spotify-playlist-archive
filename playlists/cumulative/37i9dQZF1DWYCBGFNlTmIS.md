@@ -4,7 +4,7 @@
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-94 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/1af8ylc64pqspENKOOMB8c)
+94 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

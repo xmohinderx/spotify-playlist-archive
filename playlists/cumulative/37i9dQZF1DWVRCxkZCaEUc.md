@@ -4,7 +4,7 @@
 
 > tracks to play at full volume with the windows down
 
-249 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/2v1NXtZTobpMMl5w4yIlYO)
+249 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

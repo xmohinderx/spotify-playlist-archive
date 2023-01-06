@@ -4,7 +4,7 @@
 
 > Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: Måneskin
 
-262 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+263 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ansia Capitale](https://open.spotify.com/track/3aJ8dxraLU7aqEm1FKwhX7) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Ansia Capitale](https://open.spotify.com/album/2uGVlSPYAyexEmyNJQa15H) | 4:02 | 2022-05-09 | 2022-05-27 |
 | [around my neck](https://open.spotify.com/track/42UjxTXLgUAgBTjBoUiBpo) | [Eugenia Post Meridiem](https://open.spotify.com/artist/47wCQih5a5wC9l3LqDRySE) | [around my neck](https://open.spotify.com/album/433w6aPK6Ht3Cif62mo5WJ) | 4:09 | 2022-10-06 | 2022-10-21 |
 | [Artistico serale](https://open.spotify.com/track/5EBpMh8KabaQxYITlPd5nc) | [Lo Straniero](https://open.spotify.com/artist/0m2ZFwd9Gh7wI0NpqzIkBD) | [Falli a pezzi!](https://open.spotify.com/album/6Y5QkxB88qzpT3njgKH2LF) | 3:43 | 2022-06-30 | 2022-12-02 |
+| [Assaggio](https://open.spotify.com/track/4AUvDIm0oTHqMHUYry1qbL) | [Alibi](https://open.spotify.com/artist/6vtDqOkppg14GMh5jq7tQv) | [Assaggio](https://open.spotify.com/album/01I4T6NBQ79WQ2Pp4kpFSr) | 3:13 | 2023-01-05 |  |
 | [ASSOLO](https://open.spotify.com/track/73mlazOcJ2mD8SdQaYeVGN) | [VERSAILLES](https://open.spotify.com/artist/3A2Z3yqJm0weMjLnVZSHTE) | [ASSOLO](https://open.spotify.com/album/723w7XUsnkgzhgbilXylzU) | 2:38 | 2022-05-09 | 2022-05-27 |
 | [B4](https://open.spotify.com/track/471iPDomxfndXNESa4xg7C) | [Etta](https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB) | [Stress](https://open.spotify.com/album/4nWf8QLYNgmTLCZcyFeLJY) | 3:29 | 2022-12-08 |  |
 | [Back To Bangkok](https://open.spotify.com/track/5RrtTSB9uvPFCWFJ8ViI94) | [The Manges](https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc) | [Back To Bangkok](https://open.spotify.com/album/17T80PkB923M3sQfkvkDQf) | 2:06 | 2022-07-14 | 2022-09-30 |
@@ -97,7 +98,7 @@
 | [Fiesta](https://open.spotify.com/track/1PMoaqAqVRQdZuBzACqcPw) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fiesta](https://open.spotify.com/album/0YVnkqNYaSrz2YFffWz2BG) | 3:06 | 2022-10-20 | 2022-11-11 |
 | [Fiesta](https://open.spotify.com/track/2y2lOdAh8e336PbTKw0pJV) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fiesta](https://open.spotify.com/album/19SOo8BWq6jkpRBOb3mdIp) | 3:06 | 2022-09-29 | 2022-10-21 |
 | [Fiji](https://open.spotify.com/track/71IMl8wVSkav5NPjqk9bxe) | [Testarossa](https://open.spotify.com/artist/7yVdD1RiPKmVmqjH32EUGS) | [Fiji](https://open.spotify.com/album/0ezUmnkksJ9BP768tqg1UI) | 3:31 | 2022-05-12 | 2022-06-10 |
-| [Fiori ai mortai](https://open.spotify.com/track/0Lcws78J2icfIs1184tiwY) | [Origami](https://open.spotify.com/artist/2z0MB92U117RLN71TMPolD) | [Origine](https://open.spotify.com/album/0a8prrTpWDjQ4jhPbiQZAw) | 3:23 | 2022-11-17 |  |
+| [Fiori ai mortai](https://open.spotify.com/track/0Lcws78J2icfIs1184tiwY) | [Origami](https://open.spotify.com/artist/2z0MB92U117RLN71TMPolD) | [Origine](https://open.spotify.com/album/0a8prrTpWDjQ4jhPbiQZAw) | 3:23 | 2022-11-17 | 2023-01-06 |
 | [FLOWER POWER](https://open.spotify.com/track/7AJ00s3H7TehVRdPN8ANou) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [FLOWER POWER](https://open.spotify.com/album/64R18cc1rLixwFQvTMKqLW) | 2:32 | 2022-12-15 |  |
 | [Follow the Money](https://open.spotify.com/track/7dngVIjn3nbUmOHqiJhTRg) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Follow the Money](https://open.spotify.com/album/5EmIHTygguJUWXPTACC10D) | 3:33 | 2022-05-09 | 2022-06-24 |
 | [Forever](https://open.spotify.com/track/0QCYEkX0MfJkvVEOr6Up08) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [Forever](https://open.spotify.com/album/0NHAE4I0u0YpbAlDj8KRl0) | 2:43 | 2022-05-09 | 2022-06-10 |

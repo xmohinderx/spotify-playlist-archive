@@ -4,7 +4,7 @@
 
 > Prendete con tu lista favorita de Dembow\. Foto: El Alfa
 
-314 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/0M7kUlhLiJGAPIrDjqZTS6)
+314 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

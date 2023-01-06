@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-101 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/1wVKj7pX2ay3j4g9J5jTlV)
+101 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

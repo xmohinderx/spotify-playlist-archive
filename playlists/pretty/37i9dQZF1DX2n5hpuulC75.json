@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 245518,
+  "num_followers": 245619,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDUwYjZlMzQ3ZmZhMDI1M2JmYWJhNmZmZTRhYThhNDA2",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDYxZTljOTY2ODY5YjljNWY4NWVjMzZkZWY0ZTFlNDQz",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -63,26 +63,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Besidju",
-        "url": "https://open.spotify.com/album/07vja1cbDBcvT9CpJAnf0c"
-      },
-      "artists": [
-        {
-          "name": "shamana",
-          "url": "https://open.spotify.com/artist/79idWEjZLtkCkJ37uHo7Av"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 107441,
-      "name": "Besidju",
-      "url": "https://open.spotify.com/track/3nUyfV0XhG8sysUfgEDmdI"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Theres Still Us",
         "url": "https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 157384,
       "name": "I'm sorry",
       "url": "https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Besidju",
+        "url": "https://open.spotify.com/album/07vja1cbDBcvT9CpJAnf0c"
+      },
+      "artists": [
+        {
+          "name": "shamana",
+          "url": "https://open.spotify.com/artist/79idWEjZLtkCkJ37uHo7Av"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 107441,
+      "name": "Besidju",
+      "url": "https://open.spotify.com/track/3nUyfV0XhG8sysUfgEDmdI"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/5IOAXuRLWNGAuOXL2YVwf8"
     },
     {
-      "added_at": "2019-09-16 15:44:25",
-      "album": {
-        "name": "Baby You Can Free Your Mind",
-        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
-      },
-      "artists": [
-        {
-          "name": "Mind Bath",
-          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
-        }
-      ],
-      "duration_ms": 335180,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Woodstock (Deluxe Edition)",
@@ -517,20 +501,20 @@
       "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-09-16 15:44:25",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+        "name": "Baby You Can Free Your Mind",
+        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
       },
       "artists": [
         {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
         }
       ],
-      "duration_ms": 255214,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
+      "duration_ms": 335180,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -547,6 +531,22 @@
       "duration_ms": 87037,
       "name": "INT.",
       "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -633,24 +633,20 @@
       "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-06-07 08:01:00",
       "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
+        "name": "Boys by Girls",
+        "url": "https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd"
       },
       "artists": [
         {
           "name": "Instupendo",
           "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        },
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
         }
       ],
-      "duration_ms": 259427,
-      "name": "Fleur",
-      "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
+      "duration_ms": 210745,
+      "name": "Pinch",
+      "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -675,6 +671,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Island -EP",
+        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
+      },
+      "artists": [
+        {
+          "name": "Nuit Oce\u0101n",
+          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
+        }
+      ],
+      "duration_ms": 185758,
+      "name": "Together Alone",
+      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "VIII",
         "url": "https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl"
       },
@@ -695,18 +707,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Island -EP",
-        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
+        "name": "Boom Boom On The Roof, Boom Boom In Your Ears",
+        "url": "https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP"
       },
       "artists": [
         {
-          "name": "Nuit Oce\u0101n",
-          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
+          "name": "Common Tiger",
+          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
         }
       ],
-      "duration_ms": 185758,
-      "name": "Together Alone",
-      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
+      "duration_ms": 175412,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
     },
     {
       "added_at": "2019-03-18 20:29:35",
@@ -727,6 +739,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        },
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 259427,
+      "name": "Fleur",
+      "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Homegrown (Remixes)",
         "url": "https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt"
       },
@@ -743,22 +775,6 @@
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs"
-    },
-    {
-      "added_at": "2019-06-07 08:01:00",
-      "album": {
-        "name": "Boys by Girls",
-        "url": "https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 210745,
-      "name": "Pinch",
-      "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -859,18 +875,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Boom Boom On The Roof, Boom Boom In Your Ears",
-        "url": "https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP"
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
       },
       "artists": [
         {
-          "name": "Common Tiger",
-          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
         }
       ],
-      "duration_ms": 175412,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
+      "duration_ms": 218000,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -891,22 +907,6 @@
       "duration_ms": 198776,
       "name": "Home (feat. LEES)",
       "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
-      },
-      "artists": [
-        {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -959,22 +959,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub"
-      },
-      "artists": [
-        {
-          "name": "Drinker",
-          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
-        }
-      ],
-      "duration_ms": 339921,
-      "name": "Fragment II",
-      "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Passionfruit Falls",
         "url": "https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 101469,
       "name": "The Falls",
       "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub"
+      },
+      "artists": [
+        {
+          "name": "Drinker",
+          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
+        }
+      ],
+      "duration_ms": 339921,
+      "name": "Fragment II",
+      "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
     },
     {
       "added_at": "2018-12-11 21:12:31",

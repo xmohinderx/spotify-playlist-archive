@@ -4,7 +4,7 @@
 
 > The songs from the 2000s that will make you dance all summer long!
 
-125 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/0qafXjMlF1IYPNQws6QoAM)
+125 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

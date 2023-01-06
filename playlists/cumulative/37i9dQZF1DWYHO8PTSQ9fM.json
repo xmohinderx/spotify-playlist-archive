@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-13",
   "description": "Les hits du moment sont ici. Cover : DYSTINCT",
   "name": "Hot Hits Maghreb",
-  "published_playlist_ids": [
-    "5fjwJv8oqkWtmz8CqfcbMQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -102,6 +99,24 @@
     },
     {
       "album": {
+        "name": "\u0664in",
+        "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "Arahmini",
+      "url": "https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K"
+    },
+    {
+      "album": {
         "name": "\u0664in (Act 1)",
         "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
       },
@@ -113,7 +128,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 228520,
       "name": "Arahmini",
       "url": "https://open.spotify.com/track/3BbVF781ENNpsLyVlJdoAA"

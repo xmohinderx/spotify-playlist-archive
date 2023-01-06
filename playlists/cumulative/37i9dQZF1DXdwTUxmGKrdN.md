@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-206 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+206 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Chill or Be Chilled](https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [The Limit's the Sky](https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S) | 3:43 | 2022-01-17 | 2022-07-29 |
 | [Close Your Eyes](https://open.spotify.com/track/4d12NDxv7ol5lMJemDsWXJ) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' the Faith](https://open.spotify.com/album/0JBQoZCxqbAAjIBMq0Qz1T) | 5:05 | 2021-12-27 | 2022-07-03 |
 | [Co\-Motion](https://open.spotify.com/track/7aCzaOsXIRC28tE7bjJ7JK) | [Lemek](https://open.spotify.com/artist/52LGkbSlh5X2HM5hRnL83v) | [Co\-Motion](https://open.spotify.com/album/5nQi9bFWOclcf9zFzJi1qs) | 4:07 | 2022-11-14 |  |
-| [Consequences](https://open.spotify.com/track/2Iw7eGTRmSALk6toRy9tw6) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D) | 3:56 | 2023-01-02 |  |
+| [Consequences](https://open.spotify.com/track/2Iw7eGTRmSALk6toRy9tw6) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D) | 3:56 | 2023-01-02 | 2023-01-06 |
 | [Consequences](https://open.spotify.com/track/6yLOYaqyHjHBiAIGwEj1Xt) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/4wjBRmKPL5VVnLwEBZ0GtR) | 3:56 | 2021-12-27 | 2022-07-27 |
 | [Cruising](https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 5:38 | 2022-08-01 |  |
 | [Cruising](https://open.spotify.com/track/7C90grbsFHtsmGac0clKhm) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/5m0YhT07QfRVhcnjGmrBZS) | 5:38 | 2021-12-27 | 2022-07-12 |
@@ -104,7 +104,7 @@
 | [It's On Now](https://open.spotify.com/track/7qXLWmM1TzvksNaXOpjkB5) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [It's On Now](https://open.spotify.com/album/2HeoztjYZv8uZ1Vpsv9ZZG) | 3:47 | 2021-12-27 | 2022-07-29 |
 | [It's On Now \(feat\. Ragan Whiteside\)](https://open.spotify.com/track/4kP4fo9eEjsx5DocPSu3YV) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [It's My Time](https://open.spotify.com/album/5Q3khADDwTMYXoPkVBrBdZ) | 3:48 | 2022-10-03 |  |
 | [It's Too Late](https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [A Song For You](https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil) | 4:41 | 2022-01-03 |  |
-| [I’m All Ears](https://open.spotify.com/track/6P41vUr7mSHjAxkmY844g6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 4:59 | 2022-12-22 | 2022-12-28 |
+| [I’m All Ears](https://open.spotify.com/track/6P41vUr7mSHjAxkmY844g6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 4:59 | 2022-12-22 |  |
 | [JJ's Strut \(Radio Single\)](https://open.spotify.com/track/7m0H1Tri64Gs7ndu2giQXI) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [JJ's Strut \(Radio Single\)](https://open.spotify.com/album/7cFYasV6tFxybojZKXm4sN) | 4:11 | 2021-12-27 |  |
 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 | 2022-07-18 |  |
 | [Just Between us](https://open.spotify.com/track/0RfOHjujKeLVlUuUwfXxJ8) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [The Very Best Of Smooth Jazz Guitar](https://open.spotify.com/album/0gc1Dw2arZYdTZdZbnfLsw) | 5:11 | 2022-04-11 | 2022-04-20 |

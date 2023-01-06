@@ -4,7 +4,7 @@
 
 > ¡Pop\-punk por siempre!
 
-101 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/3WhbNn8qSzUKSvI6nJ4Hu0)
+101 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

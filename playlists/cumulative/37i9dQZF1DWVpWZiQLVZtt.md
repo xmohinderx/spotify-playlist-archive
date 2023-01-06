@@ -4,7 +4,7 @@
 
 > Pop Latino de los 80 y 90\. Canciones que quedarán para siempre\. Foto: Luis Miguel
 
-144 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/4TPOg4z7ow0pMjivOY7ryi)
+144 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

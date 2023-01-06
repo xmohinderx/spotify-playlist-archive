@@ -4,7 +4,7 @@
 
 > Gentle, relaxing <a href="spotify:genre:classical">classical</a> music.
 
-88 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/2YCAAeGEXEavVyg50BOz5y)
+88 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

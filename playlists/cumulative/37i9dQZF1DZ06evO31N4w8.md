@@ -4,7 +4,7 @@
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/0sYa4z4Qbp5n9iE99g3wrJ)
+67 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

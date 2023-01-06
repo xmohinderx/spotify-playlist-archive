@@ -4,7 +4,7 @@
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-130 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/0xa56MXGmyMkeCUbUQIGYD)
+130 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

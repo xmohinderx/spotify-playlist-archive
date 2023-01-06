@@ -4,7 +4,7 @@
 
 > 100% British \- 100% R&B\. Cover: Pip Millett
 
-68 songs - 3 hr 51 min - not published yet
+68 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

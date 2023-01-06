@@ -4,7 +4,7 @@
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-112 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/0fYuaDGdomcOuqOi0yoUUE)
+112 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > if bunny is on, you know it's a good perreo.
 
-45 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/70wQf23gDEpec8IJxqaCIA)
+45 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

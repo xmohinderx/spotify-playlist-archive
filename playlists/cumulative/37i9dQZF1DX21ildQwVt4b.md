@@ -4,7 +4,7 @@
 
 > Featuring all trans, non\-binary, and two spirit voices discussing the future of gender justice.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/4pXx3yXCNXO6TmNCoYBCOM)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

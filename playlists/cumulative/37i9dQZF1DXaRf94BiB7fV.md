@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from Fresh Finds IN this year\. Cover: Dikshant
 
-643 songs - 1 day 14 hr 28 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
+643 songs - 1 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

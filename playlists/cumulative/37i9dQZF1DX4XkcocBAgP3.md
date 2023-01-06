@@ -4,7 +4,7 @@
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/3Kp3WiSdtQdoPYlxnSP7sR)
+70 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

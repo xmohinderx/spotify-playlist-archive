@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 130309,
+  "num_followers": 130518,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc5Mzg1MCwwMDAwMDAwMDZmZTM1NzBkMWJjNTRkMDhmM2MwM2VhOGIxMTE4OGRj",
+  "snapshot_id": "MTY3Mjc5Mzg1MCwwMDAwMDAwMGI2ZjExNDhiMDk1MWE5OTNjYTc0ZTBjYzY2ZmJmZDEy",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -553,26 +553,6 @@
       "url": "https://open.spotify.com/track/2KOG6pwDZflwcZjgiFw1w6"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "High January",
-        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
-      },
-      "artists": [
-        {
-          "name": "Marker Starling",
-          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        }
-      ],
-      "duration_ms": 266287,
-      "name": "Starved for Glamour",
-      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
       "added_at": "2022-09-12 20:31:51",
       "album": {
         "name": "Can I Call You",
@@ -595,6 +575,26 @@
       "duration_ms": 262893,
       "name": "Can I Call You",
       "url": "https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "High January",
+        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+      },
+      "artists": [
+        {
+          "name": "Marker Starling",
+          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 266287,
+      "name": "Starved for Glamour",
+      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
       "added_at": "2022-09-22 17:52:51",
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF"
     },
     {
+      "added_at": "2022-07-15 05:46:40",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
       "added_at": "2022-09-09 13:45:31",
       "album": {
         "name": "Jolene From Her Own Perspective",
@@ -699,22 +715,6 @@
       "duration_ms": 207253,
       "name": "Jolene From Her Own Perspective",
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
-    },
-    {
-      "added_at": "2022-07-15 05:46:40",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 517362,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
       "added_at": "2022-07-15 05:42:57",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
     },
     {
-      "added_at": "2023-01-03 01:09:50",
-      "album": {
-        "name": "Time Skiffs",
-        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 470299,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
-    },
-    {
       "added_at": "2022-05-24 01:31:24",
       "album": {
         "name": "Sun's Signature",
@@ -781,20 +765,20 @@
       "url": "https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2023-01-03 01:09:50",
       "album": {
-        "name": "Behind The Sun",
-        "url": "https://open.spotify.com/album/74awnhwIvK6XAFL3q68iuG"
+        "name": "Time Skiffs",
+        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
       },
       "artists": [
         {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
         }
       ],
-      "duration_ms": 209817,
-      "name": "Behind The Sun",
-      "url": "https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu"
+      "duration_ms": 470299,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
     },
     {
       "added_at": "2022-09-29 00:57:24",
@@ -819,6 +803,22 @@
       "duration_ms": 213159,
       "name": "Crime Seed",
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Behind The Sun",
+        "url": "https://open.spotify.com/album/74awnhwIvK6XAFL3q68iuG"
+      },
+      "artists": [
+        {
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+        }
+      ],
+      "duration_ms": 209817,
+      "name": "Behind The Sun",
+      "url": "https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu"
     },
     {
       "added_at": "2022-09-11 03:49:06",
@@ -853,6 +853,22 @@
       "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Universe Is Always Right",
+        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "duration_ms": 244390,
+      "name": "The Universe Is Always Right",
+      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+    },
+    {
       "added_at": "2022-10-05 14:12:30",
       "album": {
         "name": "Gloss",
@@ -869,20 +885,20 @@
       "url": "https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2023-01-03 01:09:50",
       "album": {
-        "name": "The Universe Is Always Right",
-        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
+        "name": "What We Do For Others",
+        "url": "https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR"
       },
       "artists": [
         {
-          "name": "Hayden Thorpe",
-          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
         }
       ],
-      "duration_ms": 244390,
-      "name": "The Universe Is Always Right",
-      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+      "duration_ms": 185632,
+      "name": "You're Untouchable",
+      "url": "https://open.spotify.com/track/59ZHu7uSIVaeENq2P5LlZC"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -917,22 +933,6 @@
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
-      "added_at": "2023-01-03 01:09:50",
-      "album": {
-        "name": "What We Do For Others",
-        "url": "https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR"
-      },
-      "artists": [
-        {
-          "name": "Dorian Concept",
-          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
-        }
-      ],
-      "duration_ms": 185632,
-      "name": "You're Untouchable",
-      "url": "https://open.spotify.com/track/59ZHu7uSIVaeENq2P5LlZC"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Life, and Another",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Room For The Moon",
-        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
-      },
-      "artists": [
-        {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
-        }
-      ],
-      "duration_ms": 338371,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
-    },
-    {
       "added_at": "2023-01-02 19:44:34",
       "album": {
         "name": "CODE",
@@ -995,6 +979,22 @@
       "duration_ms": 255264,
       "name": "CODE",
       "url": "https://open.spotify.com/track/0ykQscPscfZzjQkRqRettF"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Room For The Moon",
+        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
+      },
+      "artists": [
+        {
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+        }
+      ],
+      "duration_ms": 338371,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Robber",
-        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
-    },
-    {
       "added_at": "2022-04-20 13:58:09",
       "album": {
         "name": "Las Olas Contra Todos",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Robber",
+        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "The Revolution Of Super Visions",
         "url": "https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 301153,
       "name": "The Revolution Of Super Visions",
       "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Big Moonlight (Ookii Gekkou)",
+        "url": "https://open.spotify.com/album/10yYYLcte8bN9ZWzMH1QMg"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 290373,
+      "name": "Big Moonlight (Ookii Gekkou)",
+      "url": "https://open.spotify.com/track/7rcxsiSZTU9VC0t6tGKFTl"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -1147,22 +1163,6 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Big Moonlight (Ookii Gekkou)",
-        "url": "https://open.spotify.com/album/10yYYLcte8bN9ZWzMH1QMg"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 290373,
-      "name": "Big Moonlight (Ookii Gekkou)",
-      "url": "https://open.spotify.com/track/7rcxsiSZTU9VC0t6tGKFTl"
     },
     {
       "added_at": "2022-09-27 21:46:39",
@@ -1569,6 +1569,22 @@
       "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
     },
     {
+      "added_at": "2022-08-13 01:25:00",
+      "album": {
+        "name": "THE 55",
+        "url": "https://open.spotify.com/album/3VRckeo4W4pLalver76sg1"
+      },
+      "artists": [
+        {
+          "name": "GUSPY",
+          "url": "https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "THE 55",
+      "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
+    },
+    {
       "added_at": "2022-09-03 03:42:34",
       "album": {
         "name": "Velvet Station",
@@ -1601,22 +1617,6 @@
       "url": "https://open.spotify.com/track/4n5pGqntHw2yLB61tbVGoJ"
     },
     {
-      "added_at": "2022-08-13 01:25:00",
-      "album": {
-        "name": "THE 55",
-        "url": "https://open.spotify.com/album/3VRckeo4W4pLalver76sg1"
-      },
-      "artists": [
-        {
-          "name": "GUSPY",
-          "url": "https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "THE 55",
-      "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
-    },
-    {
       "added_at": "2022-07-06 16:56:59",
       "album": {
         "name": "Painting Box",
@@ -1647,6 +1647,22 @@
       "duration_ms": 274626,
       "name": "Sekwar",
       "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
+    },
+    {
+      "added_at": "2023-01-03 23:48:36",
+      "album": {
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2022-02-09 04:03:27",
@@ -1707,22 +1723,6 @@
       "duration_ms": 311533,
       "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
       "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
-    },
-    {
-      "added_at": "2023-01-03 23:48:36",
-      "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     }
   ],
   "unique_name": "Oblique",

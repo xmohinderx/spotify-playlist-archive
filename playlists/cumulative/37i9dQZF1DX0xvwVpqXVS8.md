@@ -4,7 +4,7 @@
 
 > "Not Past It" host Simone Polanen shares her favorite serotonin\-boosting songs to dance to\. Cover: Simone Polanen
 
-20 songs - 1 hr 20 min - not published yet
+20 songs - 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

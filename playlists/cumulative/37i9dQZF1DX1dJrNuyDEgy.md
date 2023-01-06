@@ -4,7 +4,7 @@
 
 > Ay ay ay ay..\. Canta y no llores, porque cantando se alegran, cielito lindo, los corazones.
 
-126 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/4vYTIdDxuuSPgpW7kakjdU)
+126 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

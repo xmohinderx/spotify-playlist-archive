@@ -4,7 +4,7 @@
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-212 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/4wtAcRqaRr1DxciaVaIabv)
+212 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

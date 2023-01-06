@@ -4,7 +4,7 @@
 
 > A mediterranean sundown soundtrack.
 
-125 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/35ZH6ULtFwpziVm8cNibCl)
+125 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

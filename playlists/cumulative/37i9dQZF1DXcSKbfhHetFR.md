@@ -4,7 +4,7 @@
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-86 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/74OJ5cYHNaWeOdAyQV6W4i)
+86 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

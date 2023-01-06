@@ -4,7 +4,7 @@
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Fuerza Regida
 
-271 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/0bH4Nye50v2mRRde9njJas)
+271 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

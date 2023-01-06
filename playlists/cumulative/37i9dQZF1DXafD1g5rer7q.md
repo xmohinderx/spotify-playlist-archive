@@ -4,7 +4,7 @@
 
 > Create the new vibe by mixing in the retro sounds.
 
-167 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/6MFAOS4DnvWe0ANdEUS1lG)
+167 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

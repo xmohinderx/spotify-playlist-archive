@@ -4,7 +4,7 @@
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-69 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/1sBiL9e1FXqfbDn47RYumn)
+69 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

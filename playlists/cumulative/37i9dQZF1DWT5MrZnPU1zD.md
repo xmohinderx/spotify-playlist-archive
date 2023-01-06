@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-598 songs - 1 day 4 hr 52 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
+598 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

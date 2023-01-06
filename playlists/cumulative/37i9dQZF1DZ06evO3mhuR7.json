@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is The Orb. The essential tracks, all in one playlist.",
   "name": "This Is The Orb",
-  "published_playlist_ids": [
-    "3KjCofDikLJ6vqcKXgLNBj"
-  ],
   "tracks": [
     {
       "album": {
@@ -175,7 +172,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 371400,
       "name": "Afros, Afghans and Angels - Helg\u00f6 Treasure Chest",
       "url": "https://open.spotify.com/track/2bHXdca9yg6TfWikQGAAJS"
@@ -237,7 +234,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 424492,
       "name": "Alpine Evening",
       "url": "https://open.spotify.com/track/3oyl7c3ZpYHFXoHiXRN9HM"
@@ -259,7 +256,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 85896,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/1SFuW1Sh6V9JJf0ezWIPbJ"
@@ -717,7 +714,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 253544,
       "name": "H. O. O",
       "url": "https://open.spotify.com/track/1dcKekvRNoO7tP1KwowdUQ"

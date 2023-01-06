@@ -4,7 +4,7 @@
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-182 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/7s5Dgpk9E3N59KDagZAZrc)
+182 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

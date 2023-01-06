@@ -4,7 +4,7 @@
 
 > The songs that defined the other side of the 80s\. Cover: The Cramps
 
-244 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/2H1LxPFJmPRXwu3yCnyOJK)
+244 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

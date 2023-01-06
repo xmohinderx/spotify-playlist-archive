@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- Anushka Udana
 
-194 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/2w2mbMpgTPMFcOGFWypro1)
+194 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

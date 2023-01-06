@@ -4,7 +4,7 @@
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=\_1tjXUnTS2CRapuxEexbmA">Msaki</a> and <a href="https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=FlqIEG2USBCH2hQnLNMxew">Tubatsi Mpho Moloi</a>
 
-310 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
+310 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

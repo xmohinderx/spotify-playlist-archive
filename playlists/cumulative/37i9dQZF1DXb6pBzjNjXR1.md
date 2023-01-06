@@ -4,7 +4,7 @@
 
 > AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here.
 
-87 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/2tRmuLmE2qlwUjvVj1bq1z)
+87 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

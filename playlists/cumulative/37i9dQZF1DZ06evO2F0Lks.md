@@ -4,7 +4,7 @@
 
 > This is Carrie Underwood\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/0MjXUWD5QKjl4rUAJNZ9Zw)
+65 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The songs we've been partying to in 2022\. Cover: David Guetta & Bebe Rexha \#SpotifyWrapped
 
-191 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/6l3yfPgWZlSn5H8tmyvRji)
+191 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

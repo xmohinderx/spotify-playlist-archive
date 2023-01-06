@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-917 songs - 2 day 8 hr 8 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
+917 songs - 2 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Songs from the last decade that will make you sing and dance all summer long!
 
-180 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/5gqPbFMvqjsfKY9lovIRIX)
+180 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

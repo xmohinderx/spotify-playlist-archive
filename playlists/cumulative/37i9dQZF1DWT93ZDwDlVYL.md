@@ -4,7 +4,7 @@
 
 > Podcast che devi avere sul tuo RADAR: Bouquet of Madness, Dear Alice, Caffè Design.<br/>Foto: Caffè Design.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/01iVLEbfFQFwjrxPyNl7rv)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

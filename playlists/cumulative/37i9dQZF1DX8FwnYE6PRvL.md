@@ -4,7 +4,7 @@
 
 > The ultimate rock party playlist!
 
-249 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/6wytlPj0ScraMlbNzCNoAU)
+249 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

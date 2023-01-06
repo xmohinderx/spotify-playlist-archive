@@ -4,7 +4,7 @@
 
 > The leading wave of Latin Electronic music\. Cover: Gordo & Feid
 
-147 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
+147 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

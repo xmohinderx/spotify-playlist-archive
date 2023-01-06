@@ -4,7 +4,7 @@
 
 > Feel\-good tunes for your Cinco de Mayo\. ¡Salud!
 
-63 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/5MpfuYK4Taev1DBYtxOh5w)
+63 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

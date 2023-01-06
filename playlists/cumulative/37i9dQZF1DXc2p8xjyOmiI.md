@@ -4,7 +4,7 @@
 
 > Puros corridones pa' quemarle las patas al Diablo 😈 Los Lara & Santa Fe Klan en portada.
 
-100 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/5zmaHdeU8tjMcZ0ofQEoOW)
+100 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

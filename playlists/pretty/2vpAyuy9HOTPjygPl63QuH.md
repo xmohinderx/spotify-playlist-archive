@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,549 likes - 21 songs - 1 hr 9 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,554 likes - 21 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 9 | [Work For Me](https://open.spotify.com/track/4pAnnvNUCJnVxXlnTXtlcj) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Work For Me](https://open.spotify.com/album/0gwHQhbt31Kks94mvDJSSn) | 3:22 |
 | 10 | [Don't Be Fake](https://open.spotify.com/track/6kRGbAUcNh5F5Xm0IBVZik) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Don't Be Fake](https://open.spotify.com/album/4x81uTurmck6zDA9Er2SMw) | 2:56 |
 | 11 | [La Vida](https://open.spotify.com/track/6DKnfTDqRV6UXfbtIXMYZn) | [Gibson Parker](https://open.spotify.com/artist/7pmS98qub9BnSfqTHvogQD), [Jon Milk](https://open.spotify.com/artist/532lWG2ChILJOu6O9qTbGF) | [La Vida](https://open.spotify.com/album/4Ib0JU8qN332l7Rg3pnhCq) | 3:12 |
-| 12 | [Ballroom \- Edit](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 |
+| 12 | [Ballroom \(Edit\)](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 |
 | 13 | [Hold Up](https://open.spotify.com/track/1TXxy5fiycEyA7d7EdAbIW) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Hold Up](https://open.spotify.com/album/3hmuaQHrZbsuXd6cEhlCks) | 2:46 |
 | 14 | [Gonna Be](https://open.spotify.com/track/13uUEVCKpOU9Znd4t1E1Xr) | [Josh Fedz](https://open.spotify.com/artist/7bMce1twKIoUIlPsR1fAo4), [Zaytek](https://open.spotify.com/artist/0HIXHIfi41bGoW7TxEJ8eX), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [Gonna Be](https://open.spotify.com/album/2ufyImwnxURD03617fZ6WU) | 4:07 |
 | 15 | [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 3:09 |

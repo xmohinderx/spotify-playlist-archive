@@ -4,7 +4,7 @@
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Allison Russell
 
-255 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/1P9OyTiTUDz0lOylvWtrf5)
+255 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

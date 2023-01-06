@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Luis Alfonso Partida El Yaki
 
-317 songs - 17 hr 27 min - [published](https://open.spotify.com/playlist/4oXHgWduTWFlo14M6NXNSL)
+317 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

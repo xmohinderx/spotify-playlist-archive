@@ -4,7 +4,7 @@
 
 > Los sonidos más dulces del pop.
 
-122 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/56Cy6V7Uuo7ehC2UnFSsKF)
+122 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-189 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/085exfJgl69qUdFZhCGUCQ)
+189 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

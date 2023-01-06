@@ -4,7 +4,7 @@
 
 > Home of the best bands orbiting the universe right now\. Cover: Wet Leg
 
-184 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/1G49YSmV3HVbe641zBfJx5)
+184 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

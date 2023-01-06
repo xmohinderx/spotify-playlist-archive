@@ -4,7 +4,7 @@
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-108 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/7INFH95A083YlsLkQccAbs)
+108 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

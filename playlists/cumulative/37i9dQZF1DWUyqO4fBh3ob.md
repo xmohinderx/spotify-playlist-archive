@@ -4,7 +4,7 @@
 
 > The sweet sounds of Syria.
 
-80 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/1T0FUNSxflc8VN7roYu6Gu)
+80 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

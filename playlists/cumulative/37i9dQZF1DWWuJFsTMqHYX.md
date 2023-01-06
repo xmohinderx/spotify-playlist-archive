@@ -4,7 +4,7 @@
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-78 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/0bFPwkqmzwywAEYIYtJnVj)
+78 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

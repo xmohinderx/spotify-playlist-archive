@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Montano, Totoy El Frio
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,360 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,385 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 54 | [Full Pioli \(feat\. Best\)](https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Full Pioli \(feat\. Best\)](https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb) | 2:36 |
 | 55 | [Uno Pal Otro](https://open.spotify.com/track/4tM5wHvqV3nufCwXbtY3O4) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Uno Pal Otro](https://open.spotify.com/album/7vL8qLZ9jfN6hwpBV4VR7R) | 3:37 |
 | 56 | [Prendete](https://open.spotify.com/track/6Dei890Fy98wn36t39CSht) | [Ery](https://open.spotify.com/artist/233EuLolQJNuWaoQf617jD), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Prendete](https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq) | 3:33 |
-| 57 | [Mala Memoria](https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [Mala Memoria](https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA) | 2:58 |
-| 58 | [La Práctica](https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [La Práctica](https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F) | 2:44 |
+| 57 | [La Práctica](https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [La Práctica](https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F) | 2:44 |
+| 58 | [Mala Memoria](https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [Mala Memoria](https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA) | 2:58 |
 | 59 | [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/track/7GRe01YSKYRxkXGmrjkcGU) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/album/2I8pcFT4wfrgXi3hynkzag) | 4:53 |
 | 60 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
 
-Snapshot ID: `MTY3MDU2MjA2MCwwMDAwMDAwMDRlZGY0MDg2Y2M2MmY3YjRkNDBjZWQ4MDFjYTgxNTE5`
+Snapshot ID: `MTY3MDU2MjA2MCwwMDAwMDAwMDk3YTZkZDMxYmI2OGUwYjZiYzI4NTVkNjE4MzNjODBh`

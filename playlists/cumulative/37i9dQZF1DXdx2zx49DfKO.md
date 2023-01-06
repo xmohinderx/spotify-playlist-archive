@@ -4,7 +4,7 @@
 
 > The fastest growing genre in 2022.
 
-50 songs - 1 hr 59 min - not published yet
+50 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

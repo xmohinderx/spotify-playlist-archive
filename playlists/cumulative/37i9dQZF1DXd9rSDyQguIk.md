@@ -4,7 +4,7 @@
 
 > Nothing but classic blues tracks
 
-99 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/25kgjWOtno43YyLeVznhiH)
+99 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

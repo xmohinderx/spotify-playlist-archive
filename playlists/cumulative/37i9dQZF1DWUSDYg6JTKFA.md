@@ -4,7 +4,7 @@
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-118 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/0i02fW9LF0YzG6MIUX1RaI)
+118 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

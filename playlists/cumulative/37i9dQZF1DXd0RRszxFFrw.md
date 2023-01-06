@@ -4,7 +4,7 @@
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-101 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/1AvLi2ctXgpXcBk4Im1Ia3)
+101 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

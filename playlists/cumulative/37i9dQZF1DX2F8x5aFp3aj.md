@@ -4,7 +4,7 @@
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-203 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/7MNQpJF8R2XZQsiwsBTSQ1)
+203 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

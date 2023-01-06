@@ -4,7 +4,7 @@
 
 > Me and bae = love
 
-171 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
+171 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

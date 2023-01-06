@@ -4,7 +4,7 @@
 
 > The songs that defined a golden era of British indie.
 
-139 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/2UfTWjq9QRlsLv1yZlnYYd)
+139 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

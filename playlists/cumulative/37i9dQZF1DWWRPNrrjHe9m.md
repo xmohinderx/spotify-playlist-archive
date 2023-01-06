@@ -4,7 +4,7 @@
 
 > Hear all of SMTOWN's biggest and best hits in one playlist.
 
-207 songs - 13 hr 21 min - not published yet
+207 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Copão na mão](https://open.spotify.com/playlist/37i9dQZF1DXbTYpRASjxaF)
 
-> Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: WC no Beat, Mc Gabzin, Felp 22
+> Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: PL Quest, L7NNON
 
-148 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/7yBgPzkrKCeqBbpF8RHyZV)
+148 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-205 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+205 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

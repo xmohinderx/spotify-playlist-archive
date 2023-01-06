@@ -4,7 +4,7 @@
 
 > Upbeat songs that will get the whole family feelin' good!
 
-88 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/7ArTQhm1NXOmGwTxTe92qv)
+88 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 2010s\. Cover: Flo Rida
 
-396 songs - 23 hr 23 min - [published](https://open.spotify.com/playlist/577hBQgsPRJu9fnDHiVtpO)
+396 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

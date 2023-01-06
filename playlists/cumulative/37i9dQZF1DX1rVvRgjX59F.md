@@ -4,7 +4,7 @@
 
 > These songs rocked the 90s\. Cover: Nirvana
 
-153 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/3ssq6CMYUOuOSUXgLz3W6D)
+153 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

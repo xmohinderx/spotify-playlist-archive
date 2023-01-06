@@ -4,7 +4,7 @@
 
 > We're here to provide some sonic solace for your grief.
 
-132 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/13QYcLMFMp1jHvwM1Y6Iom)
+132 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

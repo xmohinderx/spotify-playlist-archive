@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Aya Nakamura
 
-596 songs - 1 day 7 hr 4 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+596 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

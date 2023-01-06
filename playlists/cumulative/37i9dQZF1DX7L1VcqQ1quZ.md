@@ -4,7 +4,7 @@
 
 > All 90s, all ballads\. Cover: Whitney Houston
 
-87 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/1S5MWUPnOvyz1w7RvDvP5N)
+87 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

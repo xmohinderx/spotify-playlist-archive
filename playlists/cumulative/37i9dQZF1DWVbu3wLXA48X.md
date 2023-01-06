@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Wallows
 
-690 songs - 1 day 16 hr 58 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+690 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

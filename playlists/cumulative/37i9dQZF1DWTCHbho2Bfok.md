@@ -4,7 +4,7 @@
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-109 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/6kMROUmrhkoCB9OtoHeyZI)
+109 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

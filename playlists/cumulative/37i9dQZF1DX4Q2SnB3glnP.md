@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-260 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+260 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

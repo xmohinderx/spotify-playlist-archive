@@ -4,7 +4,7 @@
 
 > Celebrate Women's History Month with these powerful voices\. Cover: Greeicy
 
-164 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/3pQFKhnY33a9QIrCBLbj5H)
+164 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

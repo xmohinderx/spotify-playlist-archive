@@ -4,7 +4,7 @@
 
 > Listen to the women of the world at full volume\. Cover: NewJeans
 
-900 songs - 2 day 1 hr 36 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+900 songs - 2 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

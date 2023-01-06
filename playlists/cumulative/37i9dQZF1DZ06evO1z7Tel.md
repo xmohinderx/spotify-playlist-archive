@@ -4,7 +4,7 @@
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/4s4DmYUSBU8m6yhFJ8OLsV)
+69 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

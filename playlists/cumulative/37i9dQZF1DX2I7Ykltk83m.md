@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Soccer Mommy
 
-309 songs - 18 hr 35 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
+309 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

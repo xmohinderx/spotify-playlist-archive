@@ -4,7 +4,7 @@
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-112 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/1jMZl3sblz7aThsvIcYET0)
+112 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

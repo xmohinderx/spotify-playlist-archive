@@ -4,7 +4,7 @@
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-129 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/0ykWqecK3jiRY8qdI86lLb)
+129 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

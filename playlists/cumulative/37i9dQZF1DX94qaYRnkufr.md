@@ -4,7 +4,7 @@
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-112 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/6z8AfU874zmIOlsImqKd6w)
+112 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

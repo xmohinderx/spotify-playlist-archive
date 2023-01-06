@@ -4,7 +4,7 @@
 
 > \(Deep House /Slap House /G\-House &amp; More\) \| 2022
 
-157 songs - 7 hr 29 min - not published yet
+157 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Come to Me](https://open.spotify.com/track/3qk13lMgKy20BmwmErghe3) | [IP Beats](https://open.spotify.com/artist/0inePbQJbrLLSf2vOMzdaF) | [Come to Me](https://open.spotify.com/album/40X5sEVuKR6WS5zUW7iyD1) | 2:33 | 2022-09-23 |  |
 | [Cooler Than Me](https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Cooler Than Me](https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP) | 2:59 | 2022-09-23 |  |
 | [Crazy](https://open.spotify.com/track/6Rg8UP503pJiKfeGjv7JBs) | [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Crazy](https://open.spotify.com/album/0DbYRcXK8APfPNpmV6otFT) | 4:00 | 2022-09-23 |  |
+| [Dark Soul](https://open.spotify.com/track/2gKsPi7ToEZuHJU3BVq7IR) | [SXL1D](https://open.spotify.com/artist/6D282eBXQJhuKhgikbRhde) | [DARK SOUL](https://open.spotify.com/album/6D1Wr9VBg9OToagg3b7UGH) | 3:32 | 2022-12-29 |  |
 | [Darkside](https://open.spotify.com/track/34jHOHcQlN2pqFCbAgQ6LZ) | [Sterk](https://open.spotify.com/artist/4W9eoyGmwzpPXFUIoO8rra), [GROOTT](https://open.spotify.com/artist/6IhOkU0ycJcuKE9Q5vXW5C), [SARDIO](https://open.spotify.com/artist/1TKQPncXcxEpZaDPiN9G1s) | [Darkside](https://open.spotify.com/album/1EV9V4PGr6hohDrJvmUsMz) | 2:48 | 2022-09-23 |  |
 | [Desert Rose](https://open.spotify.com/track/5PCKDvXIi9GWCYZbzcSiTE) | [XZEEZ](https://open.spotify.com/artist/2RiUm9R19CexHcvpC5hD8Z), [OTASH](https://open.spotify.com/artist/3lWH59JER2slR937o2bnvK) | [Desert Rose](https://open.spotify.com/album/39nNmwizrGkX2ncTkRxCaO) | 3:12 | 2022-09-23 |  |
 | [Desire](https://open.spotify.com/track/65VI7Cf6IpQVJFnr0HzigI) | [SMIRNOFF](https://open.spotify.com/artist/0YstQRsnjcXaEwDazjycz4) | [Desire](https://open.spotify.com/album/5fPywJ3CmHMp6S45N23kBj) | 2:20 | 2022-09-23 |  |
@@ -136,7 +137,6 @@
 | [Soldier](https://open.spotify.com/track/7FWolfcoG7nUQ9RyVp82VO) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ) | [Soldier](https://open.spotify.com/album/7bgMgxZvle5HXcHFfSyg7p) | 3:00 | 2022-09-23 |  |
 | [Someone Else](https://open.spotify.com/track/1snAeIiR8qamJiVJQFjMgP) | [ReMan](https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR), [XZEEZ](https://open.spotify.com/artist/2RiUm9R19CexHcvpC5hD8Z), [Veneta](https://open.spotify.com/artist/1SUnQYulu39LJZ0zft4O27) | [Someone Else](https://open.spotify.com/album/5zNwOFDnsWzcrx28p3LNWV) | 2:45 | 2022-09-23 |  |
 | [Stay](https://open.spotify.com/track/6trAwwM3603uLByMaRpbrI) | [A'Lone](https://open.spotify.com/artist/0FdVEJ79HZwk9RlHyU2Tvc), [Solina](https://open.spotify.com/artist/30aS844d1Z9H1wjYvoPr9q) | [Stay](https://open.spotify.com/album/7vb0dIYvMiFJnA70HfzexW) | 2:33 | 2022-09-23 |  |
-| [SXL1D](https://open.spotify.com/track/2gKsPi7ToEZuHJU3BVq7IR) | [Dark Soul](https://open.spotify.com/artist/0Gluq0NmayHYSSsFGhR3dT) | [DARK SOUL](https://open.spotify.com/album/6D1Wr9VBg9OToagg3b7UGH) | 3:32 | 2022-12-29 |  |
 | [Symphony](https://open.spotify.com/track/6WW01KvJaDbRRm9rqUwWyQ) | [ORIPV](https://open.spotify.com/artist/237HNl9pU5Qh95DctFoi4d), [Beenur](https://open.spotify.com/artist/5q1YpRvJzKzjqiSJSVYZAV) | [Symphony](https://open.spotify.com/album/2WRz7cXZ1pq50OmnsHdXsj) | 2:49 | 2022-09-23 |  |
 | [Take It Slow](https://open.spotify.com/track/5K0Zom67qV76dlXUgLmA1e) | [Kaspro](https://open.spotify.com/artist/5vYSQ3FUnzaBWn8cb4mPpl), [MATT](https://open.spotify.com/artist/0kLj7yO1KzdqEFNRlN6rWC) | [Take It Slow](https://open.spotify.com/album/3FEx2XruMROoaEZQQUu65L) | 2:26 | 2022-09-23 |  |
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2022-09-23 |  |

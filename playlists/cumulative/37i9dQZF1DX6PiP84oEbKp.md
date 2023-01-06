@@ -4,7 +4,7 @@
 
 > A pride playlist for the whole family.
 
-46 songs - 2 hr 3 min - [published](https://open.spotify.com/playlist/3KLEVcPpbMJmbRBCH8WJUJ)
+46 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

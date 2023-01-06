@@ -4,7 +4,7 @@
 
 > All the indelible tunes from the other side of the 00s\. Cover: Santigold
 
-239 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/0l2j8XF9puRyFNeDOUmk2F)
+239 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

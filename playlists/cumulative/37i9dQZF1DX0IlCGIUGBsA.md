@@ -4,7 +4,7 @@
 
 > Get the party going with these classics from across the decades.
 
-248 songs - 15 hr 44 min - [published](https://open.spotify.com/playlist/4tBOrClKcyYatqHpPJNoHl)
+248 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

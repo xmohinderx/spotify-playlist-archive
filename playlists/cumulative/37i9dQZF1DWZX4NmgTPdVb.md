@@ -4,7 +4,7 @@
 
 > The songs of the 1970s that will make you dance all summer long!
 
-140 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/3YR5avjYTFDFs7YnoFEh00)
+140 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

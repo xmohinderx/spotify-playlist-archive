@@ -4,7 +4,7 @@
 
 > Cathartic songs for new beginnings.
 
-441 songs - 1 day 2 hr 58 min - [published](https://open.spotify.com/playlist/2eXMGwGQulNspuXocRGIiv)
+441 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

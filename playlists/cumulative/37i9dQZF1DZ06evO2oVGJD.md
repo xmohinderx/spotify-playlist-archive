@@ -4,7 +4,7 @@
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/30uI2gYAvX6tKERzCH9fFc)
+61 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

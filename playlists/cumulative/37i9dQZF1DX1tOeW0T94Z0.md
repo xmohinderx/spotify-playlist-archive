@@ -4,7 +4,7 @@
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
 
-130 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/0rXoGbjDMsfaWXFMqBwgOM)
+130 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

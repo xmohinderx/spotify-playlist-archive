@@ -4,7 +4,7 @@
 
 > Get those vocal chords working with these Indie favourites.
 
-233 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/186EHiJu36imycobZrDlxV)
+233 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

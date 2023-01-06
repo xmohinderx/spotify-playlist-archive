@@ -4,7 +4,7 @@
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-54 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/01n1mtxEZ7ZDHGLb21xiFu)
+54 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

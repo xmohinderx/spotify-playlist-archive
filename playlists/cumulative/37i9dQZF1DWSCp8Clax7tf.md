@@ -4,7 +4,7 @@
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-122 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/1Tu1mArc6Ym1uHBqG7xX3z)
+122 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

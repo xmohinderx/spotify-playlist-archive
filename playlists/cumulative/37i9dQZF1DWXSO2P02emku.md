@@ -4,7 +4,7 @@
 
 > ¡Ponte las que más sonaron en 2022! ¡Ponte lo mejor de La Reina! Carin León en portada.
 
-51 songs - 2 hr 40 min - not published yet
+51 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

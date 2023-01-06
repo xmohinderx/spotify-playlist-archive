@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7gW0r5CkdEUMm42w9XpyZO">Laufey</a> shares her jazz favorites
 
-373 songs - 1 day 9 hr 0 min - [published](https://open.spotify.com/playlist/42A9uUxoL8MOPVcDBrKJhZ)
+373 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

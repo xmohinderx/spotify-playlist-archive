@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-173 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/38ow5EP0p7zXkIBNd5gW6R)
+173 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,10 +118,10 @@
 | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Almost Famous](https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv) | 3:04 | 2021-12-17 |  |
 | [No Plans for Love \(with Ne\-Yo & Kent Jones\)](https://open.spotify.com/track/5f2CDk3D2XX8XyL6kViwZI) | [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Kent Jones](https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO) | [No Plans for Love \(with Ne\-Yo & Kent Jones\)](https://open.spotify.com/album/6KhNL7xE9vbfCcx6brXPiO) | 3:24 | 2021-12-17 |  |
 | [No, No, No Pt\. 2 \(feat\. Wyclef Jean\)](https://open.spotify.com/track/5kHgrRO3hMDPehtH9VhYQc) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Destiny's Child](https://open.spotify.com/album/3zB2PjaK4CDzxBErKvDvfo) | 3:27 | 2021-12-17 |  |
-| [Not Nice](https://open.spotify.com/track/1nepx6kDPFlkhUaSYaorbc) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/7wuiHCscUN4WZV4jdLEFHt) | 3:22 | 2022-08-02 | 2023-01-04 |
+| [Not Nice](https://open.spotify.com/track/1nepx6kDPFlkhUaSYaorbc) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/7wuiHCscUN4WZV4jdLEFHt) | 3:22 | 2022-08-02 |  |
 | [Not Nice](https://open.spotify.com/track/4STaHtfguDMkWbPEo6Fwcx) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2FXGUAESmG5l9YPrzWPvHI) | 3:22 | 2021-12-17 | 2023-01-01 |
 | [Not Nice](https://open.spotify.com/track/4k45t4xh3k9JZ8qtqwGfyB) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Love My 10's R&B](https://open.spotify.com/album/40K3sTELcbfeib4OrPd2rw) | 3:22 | 2022-08-02 | 2023-01-03 |
-| [Not Nice](https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:22 | 2022-08-02 |  |
+| [Not Nice](https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:22 | 2022-08-02 | 2023-01-06 |
 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2021-12-17 |  |
 | [One Minute Man \(feat\. Jay\-Z\) \- Remix](https://open.spotify.com/track/4Z1GSvE92RKsxjzrrBJAIT) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Ryan Foley](https://open.spotify.com/artist/5zdR4t6J5pyMrtS1SQCzKH) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 4:35 | 2021-12-17 |  |
 | [One, Two Step \(feat\. Missy Elliott\)](https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:23 | 2021-12-17 |  |

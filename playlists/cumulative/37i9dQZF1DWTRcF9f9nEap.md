@@ -4,7 +4,7 @@
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-71 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/1FcICrbevbT0gAXUKq6YSS)
+71 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

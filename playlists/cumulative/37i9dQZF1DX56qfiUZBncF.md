@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-249 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
+249 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

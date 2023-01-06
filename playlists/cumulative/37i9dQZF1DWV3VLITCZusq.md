@@ -4,7 +4,7 @@
 
 > A pop rock running mix.
 
-81 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/4FKjGWyoTiRnN1BLl76wKJ)
+81 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

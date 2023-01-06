@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from Fresh Finds Jazz this year\. Cover: Nathan\-Paul \#SpotifyWrapped
 
-893 songs - 2 day 23 hr 52 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
+893 songs - 2 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

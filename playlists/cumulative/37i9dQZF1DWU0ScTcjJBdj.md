@@ -4,7 +4,7 @@
 
 > Let your worries and cares slip away.
 
-257 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/48nHSzZWFJZqa0aL14cfvw)
+257 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

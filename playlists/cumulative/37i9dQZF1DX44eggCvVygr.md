@@ -4,7 +4,7 @@
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-90 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/6k8Bo9IB5HrBOBHtxn9gtS)
+90 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

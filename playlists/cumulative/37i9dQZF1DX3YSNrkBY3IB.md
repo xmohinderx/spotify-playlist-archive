@@ -4,7 +4,7 @@
 
 > Check out these Hip Hop classics that are great for the whole family.
 
-51 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/6ojJOhCCk5Plcodw4vIUac)
+51 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

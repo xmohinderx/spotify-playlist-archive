@@ -4,7 +4,7 @@
 
 > R&B jams for the brokenhearted.
 
-182 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/1Ve8KXr0RcZEOOEI6rgy7n)
+182 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

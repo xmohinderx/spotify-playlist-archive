@@ -4,7 +4,7 @@
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-69 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/2f6ONNjgKhI99SaSsbeC2X)
+69 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

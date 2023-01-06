@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-201 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/0aBELbZxmQOYGlLTnkY2l0)
+201 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Our editorial picks for the best pop songs of 2022! \#SpotifyWrapped
 
-75 songs - 3 hr 52 min - not published yet
+75 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [The Newness](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> Our favorite R&B artists on the rise! Cover: Ambré
+> Our favorite R&B artists on the rise! Cover: RIMON
 
-495 songs - 1 day 1 hr 42 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+496 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [bend you](https://open.spotify.com/track/2Eh66WrkqVpTjKHZDGSoBM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/673wWns8iuEBeBLRAQU68A) | 2:39 | 2022-07-15 | 2022-11-13 |
 | [bend you](https://open.spotify.com/track/3G2MG6jQJ1tC42NwAjRsxy) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:39 | 2022-07-15 | 2022-07-29 |
 | [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 | 2022-07-15 |  |
+| [Better Than Him](https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP) | 3:49 | 2023-01-06 |  |
 | [Birthday Girl](https://open.spotify.com/track/4AmxBBozDJDeNcsPMcLrTq) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Birthday Girl](https://open.spotify.com/album/1KfH7Htcq4ck6JNVZrozUa) | 2:23 | 2022-11-11 |  |
 | [Bitter](https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Bitter](https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp) | 2:18 | 2022-11-04 |  |
 | [Bittersweet](https://open.spotify.com/track/6YIXb5R1nJ6DbSucyvAXYg) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Bittersweet](https://open.spotify.com/album/3YPSBfBdzyeOoQU72r1RH8) | 3:20 | 2022-04-08 | 2022-05-21 |
@@ -450,7 +451,7 @@
 | [Tell Me Why](https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why](https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN) | 3:08 | 2022-05-13 | 2022-07-10 |
 | [Temptations](https://open.spotify.com/track/4QokysYZE2otPdhq5L4EM0) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Didn't Start With You](https://open.spotify.com/album/27RhvUoZNhFtggwX1pVSgr) | 2:59 | 2022-10-07 |  |
 | [The Falls](https://open.spotify.com/track/6E0d534IEAkuYWHPvdh2lC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Falls](https://open.spotify.com/album/6M7LJCq0Cuvyelq1uTwFaB) | 2:52 | 2022-04-08 | 2022-04-29 |
-| [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 | 2022-12-02 |  |
+| [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 | 2022-12-02 |  |
 | [The Web](https://open.spotify.com/track/4trYiL7jQ4KvqWOQiIgSDR) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 2:07 | 2022-07-15 | 2022-09-10 |
 | [These Days](https://open.spotify.com/track/3M8Yawi1zXzMDsap14tiMQ) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [These Days](https://open.spotify.com/album/41NnlLfBeiaGZhOJRiPxcg) | 2:36 | 2022-09-16 | 2022-10-29 |
 | [Thinkin' Bout You](https://open.spotify.com/track/5ZQ8Pkf6CI0hHNVJYmKB3A) | [Sukaina Yasin](https://open.spotify.com/artist/3WPX7IWIMAG4SCEfEPEB2w), [Lan'do](https://open.spotify.com/artist/2CydGGDCQTBvHCjr3WEY7C), [Kieron Boothe](https://open.spotify.com/artist/5lQKyehhkfirgUVh9U0k0W) | [Thinkin' Bout You](https://open.spotify.com/album/0mgyacC2aoBaFxSEVc48s8) | 3:28 | 2022-04-01 | 2022-05-14 |

@@ -4,7 +4,7 @@
 
 > Flute and fiddle, drums and drops.
 
-91 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/2xJUsXL10xTMGcRnqRGJHk)
+91 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

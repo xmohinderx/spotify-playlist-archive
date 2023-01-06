@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-151 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+151 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

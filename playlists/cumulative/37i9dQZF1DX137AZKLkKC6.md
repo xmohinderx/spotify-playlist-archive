@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Paola Jara
 
-98 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/09JnbAwg5RJpS8FdxS2fcC)
+98 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

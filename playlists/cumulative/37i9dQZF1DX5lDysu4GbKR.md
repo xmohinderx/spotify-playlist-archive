@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-166 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
+166 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

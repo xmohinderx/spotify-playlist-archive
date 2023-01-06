@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-172 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/7hAGoFxP75Hq4uhkZnOFeo)
+172 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

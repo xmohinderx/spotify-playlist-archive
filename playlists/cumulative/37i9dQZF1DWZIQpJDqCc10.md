@@ -4,7 +4,7 @@
 
 > A selection of the greatest alternative love songs of all time.
 
-196 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/6YQCZe8hO85v0lGe1i13Jq)
+196 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

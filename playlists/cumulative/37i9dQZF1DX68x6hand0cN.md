@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-117 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/4WAHWXqbl799pc8cRS91Pp)
+117 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

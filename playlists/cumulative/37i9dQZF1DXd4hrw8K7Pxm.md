@@ -4,7 +4,7 @@
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-81 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/4kV4p5GG7I9PAKbvOcs33Y)
+81 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

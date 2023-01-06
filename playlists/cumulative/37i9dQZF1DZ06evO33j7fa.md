@@ -4,7 +4,7 @@
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-33 songs - 1 hr 48 min - [published](https://open.spotify.com/playlist/4HIrU2E8UBtxajxKI0lidy)
+33 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

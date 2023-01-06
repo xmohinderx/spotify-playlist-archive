@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-816 songs - 1 day 18 hr 30 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+816 songs - 1 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

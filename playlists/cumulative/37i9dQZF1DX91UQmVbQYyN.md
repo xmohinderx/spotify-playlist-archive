@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Florence + The Machine
 
-415 songs - 1 day 1 hr 17 min - [published](https://open.spotify.com/playlist/1asloj9UtV8SBgxSK2ddXs)
+415 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

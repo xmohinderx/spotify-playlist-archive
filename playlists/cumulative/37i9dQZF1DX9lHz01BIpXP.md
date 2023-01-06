@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ\-u8gnmqQaUJ8A">Loufi</a>
 
-64 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
+64 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

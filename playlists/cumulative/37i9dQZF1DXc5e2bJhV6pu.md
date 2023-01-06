@@ -4,7 +4,7 @@
 
 > Get your day off to a cracking start!
 
-1,413 songs - 3 day 8 hr 15 min - [published](https://open.spotify.com/playlist/67irSdO9zVHD30k2pQQgca)
+1,413 songs - 3 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Don't Mess With My Man](https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:37 | 2021-03-14 | 2021-07-27 |
 | [Don't Need You](https://open.spotify.com/track/5VuuQAqTwEXe3GiwlaS8cC) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/6KFUEpoc6kGKE27Uie6qEC) | 3:05 | 2022-04-05 | 2022-04-18 |
 | [Don't Say](https://open.spotify.com/track/6rHC7eMaQDDpbm29WuuJbe) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Say](https://open.spotify.com/album/6yYmVFP4TaBffBvA604Ney) | 3:32 | 2020-01-07 | 2021-05-12 |
-| [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2019-12-06 | 2023-01-02 |
+| [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2019-12-06 |  |
 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 | 2019-08-26 | 2022-04-20 |
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2019-08-08 |  |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 | 2021-03-16 | 2022-04-14 |
@@ -1039,7 +1039,7 @@
 | [Saved My Life](https://open.spotify.com/track/5cpw6QKJcoXzpNBLNUJx2i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Saved My Life](https://open.spotify.com/album/1kKYFo3YmUCRmT1tUj31wp) | 3:55 | 2020-06-12 | 2022-04-15 |
 | [Say It](https://open.spotify.com/track/6vnDoUOHTiVB5DvX18tJon) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Skin](https://open.spotify.com/album/2lBRNqB9iOJZFNu1JOSUBW) | 4:22 | 2019-07-30 | 2019-07-31 |
 | [Say It](https://open.spotify.com/track/6ry2vpew139OTJUFUkPKpE) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Say It](https://open.spotify.com/album/2kLzQP0h0u4MCfXVRSyB3l) | 3:48 | 2019-08-26 | 2021-05-12 |
-| [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2020-07-03 |  |
+| [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2020-07-03 | 2023-01-06 |
 | [Say Something](https://open.spotify.com/track/2mzXbSJxejbKEa12GhrI4a) | [Kira Puru](https://open.spotify.com/artist/4tqKQAZcPhjqMmHaVRGHaY) | [Kira Puru \- EP](https://open.spotify.com/album/6LhVSVjMwuEdhhZASpskfl) | 3:05 | 2021-03-10 | 2022-04-18 |
 | [Say Something](https://open.spotify.com/track/2kkGRB3PKYCAFGmaLsmIbd) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Say Something](https://open.spotify.com/album/1xhPkfU6a8YJiGdJdwx0Uy) | 3:32 | 2020-07-24 | 2022-04-01 |
 | [Scar](https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Sound Of White](https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ) | 3:33 | 2021-03-18 | 2022-04-08 |

@@ -4,7 +4,7 @@
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów w 2022 roku\. Cover: the small town kids, Nicole Trębacz
 
-634 songs - 1 day 12 hr 53 min - [published](https://open.spotify.com/playlist/6wB7HHgPQjErlX5o34Jlnm)
+634 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

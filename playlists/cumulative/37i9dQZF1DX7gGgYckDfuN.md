@@ -4,7 +4,7 @@
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ジョジョの歴代関連楽曲が一堂に会した公式プレイリスト！©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-50 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/6W9eKvKU0htzkWgBSPnfMr)
+50 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

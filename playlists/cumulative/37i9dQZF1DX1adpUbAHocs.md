@@ -4,7 +4,7 @@
 
 > hop in and take the long way.
 
-277 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/5jokDv5Z5OSve1XaOaj4bi)
+277 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,8 +49,8 @@
 | [Candle](https://open.spotify.com/track/4xWTAkfG8uz5JnPWGKhQyD) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Candle](https://open.spotify.com/album/27VlJlfcPEP1aIcvJRBEwh) | 3:43 | 2021-10-08 | 2022-06-25 |
 | [Chemicals](https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 3:19 | 2022-03-22 |  |
 | [Chevrolet Van](https://open.spotify.com/track/5QpkOt3hpNf4zns6FJ7JRH) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 4:18 | 2021-10-08 |  |
-| [Circles](https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:18 | 2022-03-22 |  |
 | [Circles](https://open.spotify.com/track/6ZoXt2on0ub2ORSTWnJCjs) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 3:18 | 2022-03-22 | 2022-04-21 |
+| [Circles](https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:18 | 2022-03-22 |  |
 | [Cloudy Shoes](https://open.spotify.com/track/2RSTocJ5sMub2icfNa3OlY) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Saint Bartlett](https://open.spotify.com/album/4dQ1BuVOBccAdlaZstF5hN) | 4:08 | 2022-03-22 | 2022-04-20 |
 | [Colorado Blues](https://open.spotify.com/track/2qew8GpEiZ9ApwgWPamrj3) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Colorado Blues](https://open.spotify.com/album/7mk5dBCDyzFHhEmg3JwtWQ) | 2:37 | 2022-01-07 | 2022-04-20 |
 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 | 2022-03-22 | 2022-04-21 |

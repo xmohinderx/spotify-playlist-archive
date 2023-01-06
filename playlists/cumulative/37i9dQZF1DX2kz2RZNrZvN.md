@@ -4,7 +4,7 @@
 
 > The biggest Drum 'n' Bass bangers of 2022\. Cover: Nia Archives
 
-70 songs - 4 hr 14 min - not published yet
+70 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

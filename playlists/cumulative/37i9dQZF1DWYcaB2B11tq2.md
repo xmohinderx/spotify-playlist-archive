@@ -4,7 +4,7 @@
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-188 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/3jiShlYwS71F3xKwdZ7drq)
+188 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

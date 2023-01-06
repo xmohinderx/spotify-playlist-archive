@@ -4,7 +4,7 @@
 
 > Só pra quem usa a colher de pau como microfone.
 
-173 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/75QCej9aYFfDshgTSgpDId)
+173 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

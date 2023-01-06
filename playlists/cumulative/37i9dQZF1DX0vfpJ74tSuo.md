@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-137 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/552CTfC4M9l0JV14ohVvHI)
+137 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

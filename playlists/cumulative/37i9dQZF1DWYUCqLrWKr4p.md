@@ -4,7 +4,7 @@
 
 > Unforgettable love songs from the 1960s.
 
-111 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/3OBMQlltdDI6ehst0mhfxA)
+111 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

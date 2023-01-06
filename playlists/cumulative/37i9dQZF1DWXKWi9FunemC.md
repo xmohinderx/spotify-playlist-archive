@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-150 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/0oJReVcQbzcC4wJyLv9HIi)
+150 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

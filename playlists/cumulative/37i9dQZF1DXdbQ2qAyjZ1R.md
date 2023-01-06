@@ -4,7 +4,7 @@
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-70 songs - 4 hr 44 min - not published yet
+70 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

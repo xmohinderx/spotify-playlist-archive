@@ -4,7 +4,7 @@
 
 > Punk rock from the 90s and 00s that you need in your life\. Cover: Rancid
 
-137 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/4NfEC9yeEsrC4krXTum2UL)
+137 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

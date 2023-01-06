@@ -4,7 +4,7 @@
 
 > Dale play y llénate de nostalgia con estas canciones inolvidables.
 
-94 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/3u5yxhoplsyXY7fypHfFVT)
+94 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

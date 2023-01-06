@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-185 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/6VpP8JPY2B7vhKnzWlgYHi)
+185 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Mal Amor](https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Baila Santa Fe](https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU) | 3:09 | 2022-06-03 |  |
 | [Maravillosa Esta Noche](https://open.spotify.com/track/3mqvuGlzUk0YRiKzWHEQXu) | [Freddy y los Solares](https://open.spotify.com/artist/4VV2QFCzOG5Nxisme12B0b) | [Para Morir de Amor](https://open.spotify.com/album/4EQ1W80B2zpKLvsVbKYSgd) | 3:03 | 2022-06-17 | 2022-07-06 |
 | [María La Celosa](https://open.spotify.com/track/1JE5btALQhrrsm0KBKjcJ9) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [María La Celosa](https://open.spotify.com/album/1Fzv08KCiiE7ExkWmqOofF) | 2:48 | 2022-07-01 | 2022-09-05 |
-| [María La Celosa](https://open.spotify.com/track/1nNoRIDoMBVqRJJ2yRSIXT) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Roto Corazón](https://open.spotify.com/album/4GsB3eiy9rNVxJkp9zAF1a) | 2:48 | 2022-12-24 |  |
+| [María La Celosa](https://open.spotify.com/track/1nNoRIDoMBVqRJJ2yRSIXT) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Roto Corazón](https://open.spotify.com/album/4GsB3eiy9rNVxJkp9zAF1a) | 2:48 | 2022-12-24 | 2023-01-06 |
 | [Matala Matala](https://open.spotify.com/track/5xY4JSm5ciMeGA47aACikk) | [Habana Combo](https://open.spotify.com/artist/7zpSH2chjM380vMwQTEOaq) | [Todo Fue un Error](https://open.spotify.com/album/1R5PN1hvvafPIRm1et6uua) | 3:49 | 2022-06-17 | 2022-07-16 |
 | [Me Dediqué a Perderte \- En Vivo](https://open.spotify.com/track/2m4nocjuXlAjrfuSqXEo46) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Todo a Su Tiempo \(En Vivo\)](https://open.spotify.com/album/5QiDj5pvq28cO1s4oupY53) | 4:15 | 2022-04-15 | 2022-07-29 |
 | [Me Dediqué a Perderte \- En Vivo](https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Todo a Su Tiempo \(En Vivo\)](https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl) | 4:15 | 2022-07-15 |  |
@@ -163,7 +163,7 @@
 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2022-04-15 |  |
 | [Sufrirás](https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB) | [El Más Parrandero](https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd) | 4:30 | 2022-04-15 | 2022-07-17 |
 | [Tan Solo Amantes](https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v) | 3:55 | 2022-04-15 |  |
-| [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 | 2022-06-03 | 2022-12-24 |
+| [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 | 2022-06-03 |  |
 | [Te Perdono](https://open.spotify.com/track/46SixvsqGTjE1dufNyjTrR) | [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [Te Perdono](https://open.spotify.com/album/2ZT6052xVwoQPd8592JsZV) | 3:24 | 2022-04-15 | 2022-07-13 |
 | [Te Propongo](https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk) | [El Secreto](https://open.spotify.com/album/5u9ztgTHFrPoyGsXwysaSC) | 3:10 | 2022-06-03 | 2022-07-27 |
 | [Te Sorprenderás](https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Sorprenderás](https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8) | 3:08 | 2022-04-15 | 2022-07-28 |

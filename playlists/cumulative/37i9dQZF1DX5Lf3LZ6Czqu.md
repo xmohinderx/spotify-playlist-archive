@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Polyphia
 
-111 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+111 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

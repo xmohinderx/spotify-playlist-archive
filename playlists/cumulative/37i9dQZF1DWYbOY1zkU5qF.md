@@ -4,7 +4,7 @@
 
 > Versiones acústicas de tus canciones favoritas.
 
-113 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/51QoCsvUCPIdFTHJouvKC6)
+113 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

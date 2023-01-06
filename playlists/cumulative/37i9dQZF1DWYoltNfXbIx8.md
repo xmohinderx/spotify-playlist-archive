@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-101 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/17snTQx4nUc5vx1ksDMIHE)
+101 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

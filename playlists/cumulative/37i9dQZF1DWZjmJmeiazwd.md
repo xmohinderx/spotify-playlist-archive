@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-419 songs - 1 day 1 hr 17 min - [published](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
+419 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

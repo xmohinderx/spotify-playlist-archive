@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-578 songs - 1 day 5 hr 23 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+578 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

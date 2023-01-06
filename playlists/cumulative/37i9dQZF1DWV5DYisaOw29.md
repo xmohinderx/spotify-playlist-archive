@@ -4,7 +4,7 @@
 
 > DJ Minx co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Motor City has to offer!
 
-43 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/623AC8Z1fYMYt9K4uN3qss)
+43 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

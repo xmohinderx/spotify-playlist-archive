@@ -4,7 +4,7 @@
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: El de La Guitarra & Polo Gonzalez
 
-361 songs - 18 hr 21 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
+361 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Botas Blancas](https://open.spotify.com/track/2FRquaTV3ifxdTVgqdHTPA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Edgardo Nuñez Con La Séptima Banda](https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4) | 2:48 | 2022-12-02 |  |
 | [Brillo](https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:34 | 2022-05-13 |  |
 | [Brindo Por Lo Malo](https://open.spotify.com/track/3sHfnPwJChhhgoSfrjKrsA) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Brindo Por Lo Malo](https://open.spotify.com/album/339OmmMXcDHHY1XJjlHyKd) | 2:10 | 2022-06-17 |  |
-| [Buen Callo \- En Vivo](https://open.spotify.com/track/1IyDPcSWAjNe06JXqTxpWE) | [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl) | [De Buen Callo \(En Vivo\)](https://open.spotify.com/album/3E3XHq0fQoQ5y4FtjPOzXl) | 2:08 | 2022-11-11 |  |
+| [Buen Callo \- En Vivo](https://open.spotify.com/track/1IyDPcSWAjNe06JXqTxpWE) | [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl) | [De Buen Callo \(En Vivo\)](https://open.spotify.com/album/3E3XHq0fQoQ5y4FtjPOzXl) | 2:08 | 2022-11-11 | 2023-01-06 |
 | [Buena Vibra](https://open.spotify.com/track/6QRncCD58n8Dua0SKw1XIH) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Buena Vibra](https://open.spotify.com/album/1pS8MfxJoV0aS9UTct0SY8) | 2:31 | 2022-07-15 |  |
 | [Buena Vida Mala Fama](https://open.spotify.com/track/7tLiD26eCAYJf2PU5tdJ3H) | [El De La H](https://open.spotify.com/artist/5JRFF4doyWWw1oWC4th6O1) | [Buena Vida Mala Fama](https://open.spotify.com/album/26ImwaokiBua4FXXZU0O8c) | 3:30 | 2022-09-23 | 2022-10-08 |
 | [Cada Quien](https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p) | 3:17 | 2022-05-13 |  |
@@ -153,7 +153,7 @@
 | [El Señoron](https://open.spotify.com/track/1EPZpEO3bZTUbfiAyiknDC) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [El Señoron](https://open.spotify.com/album/1dfYE3Fpz112Ae3a9RYxVo) | 3:24 | 2022-07-22 |  |
 | [El Señoron \(En Vivo\)](https://open.spotify.com/track/4d9qYTDo6wTKxfugrBKJ9T) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Señoron \(En Vivo\)](https://open.spotify.com/album/32Tya5YSesM6i0k0LWzjCh) | 2:18 | 2022-05-13 |  |
 | [El Señoron \(En Vivo\)](https://open.spotify.com/track/3LemZBFc7yP7fhyJrrRnO4) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [El Señoron \(En Vivo\)](https://open.spotify.com/album/0Du2I75UKIDWzT3zQdUBwg) | 3:24 | 2022-06-03 | 2022-07-29 |
-| [El Sobrino](https://open.spotify.com/track/75h8O0QXLm7YRB2Rcdb2MM) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Sobrino](https://open.spotify.com/album/7iTq1sf463e0VrDluySGJD) | 2:15 | 2022-05-13 | 2022-11-05 |
+| [El Sobrino](https://open.spotify.com/track/75h8O0QXLm7YRB2Rcdb2MM) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Sobrino](https://open.spotify.com/album/7iTq1sf463e0VrDluySGJD) | 2:15 | 2022-05-13 |  |
 | [El Sucesor](https://open.spotify.com/track/4xmbgTGk4ozpTGkY5IezIV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Sucesor](https://open.spotify.com/album/4ShDgSamOCAa27w3cEEDuR) | 5:04 | 2022-08-19 | 2022-12-01 |
 | [El Taliban](https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Taliban](https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r) | 3:04 | 2022-05-13 |  |
 | [El Tirabalas](https://open.spotify.com/track/6oLRVlSHXfxPIJDsZivxaG) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Tirabalas](https://open.spotify.com/album/0wDrkVCojZJgw3t4h61PIt) | 2:46 | 2022-05-27 | 2022-10-22 |

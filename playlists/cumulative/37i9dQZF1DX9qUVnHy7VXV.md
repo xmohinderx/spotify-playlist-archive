@@ -4,7 +4,7 @@
 
 > Hit del passato e nuovi brani per la tua giornata perfetta.
 
-139 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/2GHnsWGaysbYfcDaNBBj0Z)
+139 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

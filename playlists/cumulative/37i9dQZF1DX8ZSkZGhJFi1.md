@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-151 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
+151 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Music from and inspired by Blood & Water, now streaming on Netflix.
 
-75 songs - 5 hr 6 min - not published yet
+75 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

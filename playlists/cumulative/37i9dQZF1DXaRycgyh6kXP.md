@@ -4,7 +4,7 @@
 
 > Delicate digital expressions of the heart.
 
-147 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/5z5TOODdOzr7Xe3P1TW7fd)
+147 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > "This playlist is giving vibes and should be played to pump yourself up b/c you are THAT girl!!!" Cover: Brandon Edelman
 
-37 songs - 2 hr 12 min - not published yet
+37 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

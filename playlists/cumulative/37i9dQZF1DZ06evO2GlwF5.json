@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-11",
   "description": "This is Maaya Sakamoto. The essential tracks, all in one playlist.",
   "name": "This Is Maaya Sakamoto",
-  "published_playlist_ids": [
-    "5ygZUlIVEGyKj8FsaadfcX"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 331465,
       "name": "birds",
       "url": "https://open.spotify.com/track/4LJiorJdPtMw2zXjfceIfD"
@@ -261,7 +258,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 343066,
       "name": "Gyakko -unplugged session-",
       "url": "https://open.spotify.com/track/2suN1RxO4zbJHQnGAjNjHU"

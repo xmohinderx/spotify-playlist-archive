@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-155 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
+155 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

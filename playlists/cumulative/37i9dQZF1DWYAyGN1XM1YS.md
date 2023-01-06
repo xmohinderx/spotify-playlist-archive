@@ -4,7 +4,7 @@
 
 > Back to the golden age of emo\. Cover: Thursday
 
-63 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/2OcBf1DX0Haz6eQXJ4V6dg)
+63 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

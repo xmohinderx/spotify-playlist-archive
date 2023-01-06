@@ -4,7 +4,7 @@
 
 > The best season of the year, wherever you are! Cover: Karol G
 
-147 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/3hyQvNkwrPywpF3qOFZQaG)
+147 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

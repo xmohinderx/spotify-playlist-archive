@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60?si=FOyqotiMRGCQBrR1bMWpeQ" >Tayc</a>
 
-173 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
+173 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

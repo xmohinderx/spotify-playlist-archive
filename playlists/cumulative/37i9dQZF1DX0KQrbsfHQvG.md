@@ -4,7 +4,7 @@
 
 > Get up\. Stand up\. Be the revolution.
 
-140 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/3LESta3mpzYXIV0Vy0jKwT)
+140 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

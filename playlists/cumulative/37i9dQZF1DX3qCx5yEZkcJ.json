@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-05-26",
   "description": "Stay relaxed with these low-key beats and instrumentals.",
   "name": "Mellow Beats",
-  "published_playlist_ids": [
-    "79bD32Mo8Na66JzRH4c1HB"
-  ],
   "tracks": [
     {
       "album": {
@@ -1031,7 +1028,7 @@
           "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
         }
       ],
-      "date_added": "2022-12-30",
+      "date_added": "2022-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158769,
@@ -3826,6 +3823,24 @@
     },
     {
       "album": {
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "album": {
         "name": "Late Trains",
         "url": "https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ"
       },
@@ -5685,7 +5700,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 140000,
       "name": "Quiet in the Garden",
       "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"

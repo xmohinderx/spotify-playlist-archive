@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-234 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/0Of8ma195u6f1pUyvCxvgT)
+234 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

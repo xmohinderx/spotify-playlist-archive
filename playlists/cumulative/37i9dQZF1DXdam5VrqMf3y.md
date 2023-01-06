@@ -4,7 +4,7 @@
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Meghan Trainor
 
-107 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/6ra7ildIw0y4orWkx6YTYg)
+107 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

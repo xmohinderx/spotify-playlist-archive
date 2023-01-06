@@ -4,7 +4,7 @@
 
 > The biggest Christmas songs of all time.
 
-207 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/7l6IxKG32LlSCNWmOjozYs)
+207 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

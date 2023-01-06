@@ -4,7 +4,7 @@
 
 > Your very own time capsule: a nostalgic look back on the past four years.
 
-462 songs - 1 day 2 hr 47 min - [published](https://open.spotify.com/playlist/5GkdXPgZsfNNV4RjJ3N95k)
+462 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

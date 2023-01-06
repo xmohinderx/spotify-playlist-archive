@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-336 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+336 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

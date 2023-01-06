@@ -4,7 +4,7 @@
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-123 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/4nnFd93C2I3sEx07XAmJIF)
+123 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

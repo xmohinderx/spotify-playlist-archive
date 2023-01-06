@@ -4,7 +4,7 @@
 
 > La bande\-son de votre apéro\. Santé !
 
-110 songs - 6 hr 36 min - not published yet
+110 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

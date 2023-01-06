@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-01",
   "description": "Jazz voices of today. Cover: Lauren Henderson",
   "name": "Vocal Jazz",
-  "published_playlist_ids": [
-    "1MJcLwlhyaudSQhL0k2nLU"
-  ],
   "tracks": [
     {
       "album": {
@@ -1462,7 +1459,7 @@
     },
     {
       "album": {
-        "name": "Can't Get Out of This Mood",
+        "name": "Can't Get Out Of This Mood",
         "url": "https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy"
       },
       "artists": [
@@ -1475,7 +1472,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222401,
-      "name": "Can't Get Out of This Mood",
+      "name": "Can't Get Out Of This Mood",
       "url": "https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K"
     },
     {
@@ -2451,6 +2448,28 @@
       "duration_ms": 292288,
       "name": "Don't Take Your Love from Me",
       "url": "https://open.spotify.com/track/0yU5Oa00MqxV6GvVQ0CQu6"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Wait Too Long",
+        "url": "https://open.spotify.com/album/34MuhV45usZj0gpyhXCMUL"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        },
+        {
+          "name": "The SWR Big Band",
+          "url": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231686,
+      "name": "Don't Wait Too Long",
+      "url": "https://open.spotify.com/track/04OP7yV8CcYOhPsqEsetha"
     },
     {
       "album": {
@@ -4751,7 +4770,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 265000,
       "name": "It Was A Very Good Year",
       "url": "https://open.spotify.com/track/37vFLEQMtzQCnZC3Uy0Qtd"
@@ -6078,6 +6097,28 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3yghgHELi2zqgEb8K7NYGS"
+      },
+      "artists": [
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        },
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358053,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/28BuGCSbPIjzmYY3zCmESA"
+    },
+    {
+      "album": {
         "name": "All Rise (Deluxe)",
         "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
       },
@@ -6107,7 +6148,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 261760,
       "name": "Midnight at the Oasis - Radio Edit",
       "url": "https://open.spotify.com/track/1GI9DcSiYadOTgU7bGIanB"
@@ -6469,7 +6510,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 206590,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/5HkL7aG5gOJqwe5BrOBeMa"
@@ -7427,7 +7468,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 284186,
       "name": "Send For Me",
       "url": "https://open.spotify.com/track/0XgKeg2rv7UFkqWlepL0XO"
@@ -8887,6 +8928,24 @@
       "duration_ms": 265605,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/6fE9UEIXyYjyQiq4qnho4S"
+    },
+    {
+      "album": {
+        "name": "The Sorrow It Shows",
+        "url": "https://open.spotify.com/album/5gjE4MoGl4w4voVWUZxGW5"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349160,
+      "name": "The Sorrow It Shows",
+      "url": "https://open.spotify.com/track/7cZenJ6XodfUnnZ0wwbFih"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > It’s a swing thing.
 
-57 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/1pXDxBqf1ztgvsKdIRffGC)
+57 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

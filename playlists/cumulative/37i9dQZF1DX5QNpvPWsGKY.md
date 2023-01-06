@@ -4,7 +4,7 @@
 
 > Un buffet de ritmos sabrositos para satisfacer tu paladar.
 
-153 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/2WMRWkQTggbc38wFe9FWq8)
+153 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

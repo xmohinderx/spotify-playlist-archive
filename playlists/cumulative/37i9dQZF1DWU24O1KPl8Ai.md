@@ -4,7 +4,7 @@
 
 > Celebrate APIHM with music from Asian and Pacific Islander artists for the whole family\. Cover: Falu
 
-62 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/3Hggm2un8Q4Fd0fKW3TEGR)
+62 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

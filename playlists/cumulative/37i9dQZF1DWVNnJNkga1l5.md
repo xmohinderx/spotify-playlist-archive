@@ -4,7 +4,7 @@
 
 > Temazos inolvidables para darle un toque dulce a tus comidas.
 
-137 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/53DejnEycKH8Va31xECsWV)
+137 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

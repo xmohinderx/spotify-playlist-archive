@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 
 > Songs from your family's favorite TV shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 912 likes - 50 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 914 likes - 50 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 23 | [Doc McStuffins Theme Song](https://open.spotify.com/track/4Fo9Kh6aTfiX1KX2G3G3rO) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Doc McStuffins: The Doc Is In](https://open.spotify.com/album/69MUbfppLbJ1dTxKwqmjgE) | 0:56 |
 | 24 | [Hair In The Air \(Trolls: The Beat Goes On Theme\)](https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg), [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:14 |
 | 25 | [Shake It Up \- From "Shake It Up"](https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Shake It Up \(From "Shake It Up"\)](https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB) | 3:00 |
-| 26 | [Call Me, Beep Me! \(The Kim Possible Song\)](https://open.spotify.com/track/47HmhXbYlMIxpN2ChwNMh9) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Songs from Kim Possible \(Original Soundtrack\)](https://open.spotify.com/album/611TrABNivsGExe1eqIRur) | 2:37 |
-| 27 | [Blue's Clues & You Theme Song](https://open.spotify.com/track/73vWnvPaf0yNifYIkadY9N) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue's Clues & You Theme Song](https://open.spotify.com/album/4JTzi9TBFwIbQAtXIHAHRQ) | 1:33 |
+| 26 | [Blue's Clues & You Theme Song](https://open.spotify.com/track/73vWnvPaf0yNifYIkadY9N) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue's Clues & You Theme Song](https://open.spotify.com/album/4JTzi9TBFwIbQAtXIHAHRQ) | 1:33 |
+| 27 | [Call Me, Beep Me! \(The Kim Possible Song\)](https://open.spotify.com/track/47HmhXbYlMIxpN2ChwNMh9) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Songs from Kim Possible \(Original Soundtrack\)](https://open.spotify.com/album/611TrABNivsGExe1eqIRur) | 2:37 |
 | 28 | [Go!](https://open.spotify.com/track/4AORpy9kuI37FvgTF3BWrd) | [Greg Cipes](https://open.spotify.com/artist/6L3vVRDyG1FxVkpfkY27oH), [Scott Menville](https://open.spotify.com/artist/7JrGE2z9m0yDVXELO7o9jB), [Khary Payton](https://open.spotify.com/artist/6NhL2mZ0OKFLvYIeyi5rd0), [Tara Strong](https://open.spotify.com/artist/4CN7jn6DiWNaDnaJdhBMKp), [Hynden Walch](https://open.spotify.com/artist/4yPSwzNyZhysv1v9FlV5jj) | [Teen Titans Go! To The Movies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JjBO2WnSE6pjK4TC9Jci2) | 1:37 |
 | 29 | [Make Your Move](https://open.spotify.com/track/2q49j6l5dy3BmNiI36iz8x) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Make Your Move](https://open.spotify.com/album/2nyp8Xkf7tpMADBQ6Xo8vI) | 1:41 |
 | 30 | [F.U.N\. Song](https://open.spotify.com/track/0gdLTqxAY4DDUQxXzmwj1z) | [Spongebob Squarepants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj), [Plankton](https://open.spotify.com/artist/4gtF4P04jpHvM0GnWWd3JS) | [SpongeBob's Greatest Hits](https://open.spotify.com/album/7n5FErCSkbQ4g2TZXKU6GD) | 1:24 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 46 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 |
 | 47 | [Power Rangers Megamix](https://open.spotify.com/track/0fTQdOS8FucxBQilLTp2ha) | [Power Rangers](https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx), [PelleK](https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3) | [Power Rangers Megamix](https://open.spotify.com/album/50ggbyZ86toFZBzQDAmEBy) | 12:02 |
 | 48 | [We're on the Case](https://open.spotify.com/track/7zrf9DSawhAV7TizF05P26) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective](https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k) | 0:34 |
-| 49 | [Scooby Doo Theme Song](https://open.spotify.com/track/0g8MfCzZoj5nprV25TbPax) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 1:00 |
-| 50 | [The Casagrandes Theme Song](https://open.spotify.com/track/2JlLo27OES5ER2S1KMzue3) | [The Casagrandes](https://open.spotify.com/artist/3iLNERWJgRO2ogZ8712td7), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [The Casagrandes Theme Song](https://open.spotify.com/album/7yC67Xvwu2yjUH4YsXBfIh) | 1:22 |
+| 49 | [The Casagrandes Theme Song](https://open.spotify.com/track/2JlLo27OES5ER2S1KMzue3) | [The Casagrandes](https://open.spotify.com/artist/3iLNERWJgRO2ogZ8712td7), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [The Casagrandes Theme Song](https://open.spotify.com/album/7yC67Xvwu2yjUH4YsXBfIh) | 1:22 |
+| 50 | [Scooby Doo Theme Song](https://open.spotify.com/track/0g8MfCzZoj5nprV25TbPax) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 1:00 |
 
-Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMDc2YmY3ODVhMDc3ZTlmYjQyOTVhYzVlNGNkNzA0YzI2`
+Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMDYxNGIzYjE1ZmQyNzBjMzgwZjhlOGUzYTdhMzgxNmJm`

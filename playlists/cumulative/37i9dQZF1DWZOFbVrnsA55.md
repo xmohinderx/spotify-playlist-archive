@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-329 songs - 5 day 3 hr 17 min - [published](https://open.spotify.com/playlist/4SP4Cy0AvsFCUHp75jyueu)
+329 songs - 5 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

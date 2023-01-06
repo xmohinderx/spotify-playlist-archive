@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Big Thief
 
-285 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
+285 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

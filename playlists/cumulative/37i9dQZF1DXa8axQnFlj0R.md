@@ -4,7 +4,7 @@
 
 > let me hold both your hands in the holes of my sweater
 
-174 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/4z56XoIfvsTeY0YpsD2N6g)
+174 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

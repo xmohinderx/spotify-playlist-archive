@@ -4,7 +4,7 @@
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Tokischa & Natanael Cano
 
-64 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/6afbS8jMGP22mlmpnwyCdP)
+64 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

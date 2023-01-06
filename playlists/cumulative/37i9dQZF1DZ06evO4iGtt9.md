@@ -4,7 +4,7 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2qtfJ5HohbRgIzIvDR5e2o)
+80 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

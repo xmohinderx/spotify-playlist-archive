@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-07-29",
   "description": "You're on top of the world. Don't forget it.",
   "name": "Confidence Boost",
-  "published_playlist_ids": [
-    "6HuIdktgC33vvZen0bYwSa"
-  ],
   "tracks": [
     {
       "album": {
@@ -650,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "album": {
         "name": "Blow Out My Candle",
         "url": "https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk"
       },
@@ -859,7 +874,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 154666,
       "name": "Bubblegum Bitch",
       "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"

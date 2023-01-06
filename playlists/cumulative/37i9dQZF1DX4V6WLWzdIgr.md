@@ -4,7 +4,7 @@
 
 > Wes kadung sayang lalu ditinggal rabi 😢
 
-29 songs - 2 hr 21 min - not published yet
+29 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

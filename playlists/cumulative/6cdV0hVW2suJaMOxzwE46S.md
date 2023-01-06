@@ -4,7 +4,7 @@
 
 > We've all been there\. This playlist can help\. Just don't let your boss catch you listening....
 
-38 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/1LZhguuuCLVWrj2DRG7zyI)
+38 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

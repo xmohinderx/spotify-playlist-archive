@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: NewJeans",
   "name": "KimBops!",
-  "published_playlist_ids": [
-    "2ZS5sBUg2D7ThTAofFyjhj"
-  ],
   "tracks": [
     {
       "album": {
@@ -181,7 +178,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 183613,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7qrpkyFfaglH9BfYbppZPH"
@@ -199,7 +196,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 203945,
       "name": "Animal Farm",
       "url": "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ"
@@ -253,7 +250,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 159640,
       "name": "As It Was - Spotify Singles",
       "url": "https://open.spotify.com/track/1lUNlmwyhsJy6kXmmrO11t"
@@ -517,7 +514,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 201946,
       "name": "Bite",
       "url": "https://open.spotify.com/track/5SVGGGHyZaRPwvJtVMgCgr"
@@ -777,7 +774,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 219549,
       "name": "BTBT",
       "url": "https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V"
@@ -1377,7 +1374,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 150026,
       "name": "DOMESTIC",
       "url": "https://open.spotify.com/track/3TXcWRCU3TMLAAYRTnFCN4"
@@ -1553,7 +1550,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 384683,
       "name": "Drunken Tiger's Kids (feat. Inno, Jo Gwangil, SIKBOY, WONA & Jung Sangsoo)",
       "url": "https://open.spotify.com/track/2DWvbBPKNF4j5fNOhvkvYO"
@@ -1596,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Canada Check-in OST",
+        "url": "https://open.spotify.com/album/5mcS6Iv09V1Nbc672LHWZ3"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258532,
+      "name": "Even Without Me Asking How You Are",
+      "url": "https://open.spotify.com/track/6UABR3vbEmS7tWCjATH7ky"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt"
       },
@@ -1607,7 +1622,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 184354,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj"
@@ -1733,7 +1748,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 207013,
       "name": "FIRE",
       "url": "https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L"
@@ -1755,6 +1770,46 @@
       "duration_ms": 177373,
       "name": "Flip That",
       "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
+    },
+    {
+      "album": {
+        "name": "LOOKISM (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1KHVPqrQsgT5xbNbRXNJjA"
+      },
+      "artists": [
+        {
+          "name": "Door",
+          "url": "https://open.spotify.com/artist/739RUVFap7LGgh9UcIfLdc"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Fly Up (Ballad Ver.)",
+      "url": "https://open.spotify.com/track/3LMC3yjTMFVAIFFzKLdc0z"
+    },
+    {
+      "album": {
+        "name": "LOOKISM (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1KHVPqrQsgT5xbNbRXNJjA"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chang young",
+          "url": "https://open.spotify.com/artist/77i53Qlp3vNOh4Rab2wr56"
+        },
+        {
+          "name": "Door",
+          "url": "https://open.spotify.com/artist/739RUVFap7LGgh9UcIfLdc"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228464,
+      "name": "Fly Up (Concert Ver.) (Feat. Door)",
+      "url": "https://open.spotify.com/track/0M55V4n7l0ULeYP64IcjX7"
     },
     {
       "album": {
@@ -1877,7 +1932,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 191906,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/59WDxA3UxKvJDIJcK6dVZv"
@@ -1935,6 +1990,24 @@
       "duration_ms": 207163,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
+    },
+    {
+      "album": {
+        "name": "Gonna Be Alright",
+        "url": "https://open.spotify.com/album/6RPpa5Wj8EfSAkOLBE8Nbe"
+      },
+      "artists": [
+        {
+          "name": "VIXX",
+          "url": "https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "Gonna Be Alright",
+      "url": "https://open.spotify.com/track/6V5b8CHXRUSi0jbJfyOVdO"
     },
     {
       "album": {
@@ -2144,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "BOYS PLANET - Here I Am",
+        "url": "https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc"
+      },
+      "artists": [
+        {
+          "name": "BOYS PLANET",
+          "url": "https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244733,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q"
+    },
+    {
+      "album": {
         "name": "Street Man Fighter Original Vol.4 (Crew Songs)",
         "url": "https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw"
       },
@@ -2155,7 +2246,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 144773,
       "name": "HEYDAY (Prod. Czaer)",
       "url": "https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu"
@@ -2675,7 +2766,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 189373,
       "name": "LAW (Prod. Czaer)",
       "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
@@ -2719,6 +2810,24 @@
       "duration_ms": 281000,
       "name": "Like a Bird",
       "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
+    },
+    {
+      "album": {
+        "name": "LOOKISM (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1KHVPqrQsgT5xbNbRXNJjA"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93289,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/5hFlI0omJJ0OYXCIMLozvn"
     },
     {
       "album": {
@@ -2831,7 +2940,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 197613,
       "name": "LOVE COUNTDOWN (Feat. Wonstein)",
       "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
@@ -2925,7 +3034,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 176253,
       "name": "Loveable",
       "url": "https://open.spotify.com/track/087TC6IfJ8z7fBItvglRRs"
@@ -3019,6 +3128,24 @@
       "duration_ms": 196702,
       "name": "Ma Boy",
       "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
+    },
+    {
+      "album": {
+        "name": "INCENSE",
+        "url": "https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/7n21DchMhEHga46iMecQHW"
     },
     {
       "album": {
@@ -3431,7 +3558,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 196392,
       "name": "One In A Billion",
       "url": "https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS"
@@ -3489,7 +3616,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 217731,
       "name": "Party Tonight",
       "url": "https://open.spotify.com/track/1JXbLh8cttnk3P1NXrJWEa"
@@ -3946,6 +4073,24 @@
     },
     {
       "album": {
+        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "Rose Blossom",
+      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/35F1IiTWhlrhjCSQOwvCC6"
       },
@@ -4143,7 +4288,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 229937,
       "name": "SEXY NUKIM (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq"
@@ -4529,7 +4674,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 268853,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI"
@@ -5044,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "A Dream Of ILY:1",
+        "url": "https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG"
+      },
+      "artists": [
+        {
+          "name": "ILY:1",
+          "url": "https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Twinkle, Twinkle",
+      "url": "https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
       },
@@ -5073,7 +5236,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 170600,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
@@ -5217,7 +5380,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 189173,
       "name": "VISION",
       "url": "https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP"
@@ -5563,7 +5726,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 162240,
       "name": "Youth",
       "url": "https://open.spotify.com/track/3KOM7GQcX4KytvirhfdlCW"

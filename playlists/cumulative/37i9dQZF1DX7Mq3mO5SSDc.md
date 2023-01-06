@@ -4,7 +4,7 @@
 
 > An homage to the iconic label’s 1980s and 1990s roots.
 
-54 songs - 3 hr 41 min - not published yet
+54 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

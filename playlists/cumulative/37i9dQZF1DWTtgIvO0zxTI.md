@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Big Soto
 
-91 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
+91 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

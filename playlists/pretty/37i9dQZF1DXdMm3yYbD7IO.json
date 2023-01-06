@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 141148,
+  "num_followers": 141395,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI2MzM0NSwwMDAwMDAwMDQyN2E1OTNkZmI5MmViNzUzMTI3OWM1MmFhMzMwODBm",
+  "snapshot_id": "MTY3MjI2MzM0NSwwMDAwMDAwMDg3MzRhZjllNGM5Zjg5MzFkYzM4Njc1YzFhYmJjMzIz",
   "tracks": [
     {
       "added_at": "2022-12-28 21:35:45",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-12-28 21:35:45",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Lollipop (Candyman)",
-      "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
-    },
-    {
-      "added_at": "2022-12-28 21:35:45",
-      "album": {
         "name": "Funky Divas",
         "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 293105,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
+    },
+    {
+      "added_at": "2022-12-28 21:35:45",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Lollipop (Candyman)",
+      "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
     },
     {
       "added_at": "2022-12-28 21:35:45",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-12-28 21:35:45",
       "album": {
-        "name": "I'm Breathless",
-        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Vogue - Edit",
-      "url": "https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn"
-    },
-    {
-      "added_at": "2022-12-28 21:35:45",
-      "album": {
         "name": "Poison (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 261866,
       "name": "Poison",
       "url": "https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP"
+    },
+    {
+      "added_at": "2022-12-28 21:35:45",
+      "album": {
+        "name": "I'm Breathless",
+        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Vogue - Edit",
+      "url": "https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn"
     },
     {
       "added_at": "2022-12-28 21:35:45",

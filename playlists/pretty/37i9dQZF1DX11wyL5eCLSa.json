@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Astronom\u00eda Interior en portada.",
-  "num_followers": 138174,
+  "num_followers": 138261,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjg1MTM1NywwMDAwMDAwMDA1NDE5YTQ2YmFlODY2ZmY2YjhiNWVhODFiYjJjNmM5",
+  "snapshot_id": "MTY3Mjg1MTM1NywwMDAwMDAwMDVhMzIwNDk5NzNjOWY5M2I5ZDkxMjVhZjIyOTc1Njlj",
   "tracks": [
     {
       "added_at": "2022-11-11 06:03:45",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Cosmovisiones",
-        "url": "https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Corre Amor",
-      "url": "https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "Tu Tiempo",
         "url": "https://open.spotify.com/album/6wGQJhl5Dvm0vgwGvJTsKp"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 205400,
       "name": "Tu Tiempo",
       "url": "https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Cosmovisiones",
+        "url": "https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Corre Amor",
+      "url": "https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1245,20 +1245,20 @@
       "url": "https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC"
     },
     {
-      "added_at": "2022-08-19 01:13:45",
+      "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Instinto Felino",
-        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
+        "name": "Dejarte Ir",
+        "url": "https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc"
       },
       "artists": [
         {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
         }
       ],
-      "duration_ms": 187658,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq"
+      "duration_ms": 192416,
+      "name": "Dejarte Ir",
+      "url": "https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

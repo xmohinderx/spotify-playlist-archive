@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-915 songs - 2 day 0 hr 18 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+915 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

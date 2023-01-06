@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Lainey Wilson\n",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Jackson Dean\n",
   "name": "New Boots",
-  "published_playlist_ids": [
-    "4GYziq6IZSItn9f84k0CzJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -6990,6 +6987,24 @@
     },
     {
       "album": {
+        "name": "Fearless (The Echo)",
+        "url": "https://open.spotify.com/album/5P0hRYIH6ZpS92LjqyRXuh"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216295,
+      "name": "Fearless - The Echo",
+      "url": "https://open.spotify.com/track/1xVjqCBkpIUMe3EmW0PxTM"
+    },
+    {
+      "album": {
         "name": "Feel Better",
         "url": "https://open.spotify.com/album/2eIxUGtyzN9Qjr9uODYNIQ"
       },
@@ -8241,7 +8256,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 182326,
       "name": "Girl Wonder",
       "url": "https://open.spotify.com/track/3hNFCHrMfOpjwE6p517XX4"
@@ -10661,6 +10676,24 @@
       "duration_ms": 163360,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
+    },
+    {
+      "album": {
+        "name": "Hideaway (Studio Version)",
+        "url": "https://open.spotify.com/album/7m8kaGniHe3Vn2YNccDASc"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176245,
+      "name": "Hideaway - Studio Version",
+      "url": "https://open.spotify.com/track/2g8vCblRvgG61BgghzHiwv"
     },
     {
       "album": {
@@ -14961,7 +14994,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 210813,
       "name": "Love You a Little Bit",
       "url": "https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM"
@@ -16954,6 +16987,24 @@
     },
     {
       "album": {
+        "name": "Never Have I Ever",
+        "url": "https://open.spotify.com/album/4uo8oQWJ06Vt4mQeuF2b60"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184251,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/5R7RWASyaVRxOdAZycB9VA"
+    },
+    {
+      "album": {
         "name": "Never Mine",
         "url": "https://open.spotify.com/album/0NVtxdYBHQerKSwjMSdSzS"
       },
@@ -17933,7 +17984,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 189277,
       "name": "On A Different Night",
       "url": "https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx"
@@ -25176,6 +25227,24 @@
     },
     {
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214798,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
+    },
+    {
+      "album": {
         "name": "Trouble Town",
         "url": "https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF"
       },
@@ -25295,7 +25364,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 186920,
       "name": "Try Jesus",
       "url": "https://open.spotify.com/track/0rSuM2IqezwEBOOadZkX1D"
@@ -25379,6 +25448,24 @@
       "duration_ms": 224527,
       "name": "Tuesday I'll Be Gone (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/6QN8DLxJ1Vvib4JaLOw0O2"
+    },
+    {
+      "album": {
+        "name": "Tulsa",
+        "url": "https://open.spotify.com/album/3v6zVsK3CAPEtIi3GHHMUN"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162546,
+      "name": "Tulsa",
+      "url": "https://open.spotify.com/track/6mGv9INV7tnfldu5hFv0eH"
     },
     {
       "album": {
@@ -26683,7 +26770,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 221706,
       "name": "what made you think?",
       "url": "https://open.spotify.com/track/3IkCyX2KnQIyuAYQiT1wtR"
@@ -27001,6 +27088,24 @@
       "duration_ms": 249613,
       "name": "Where I Find God",
       "url": "https://open.spotify.com/track/6eQePEKwbt1y9CkCE6faYi"
+    },
+    {
+      "album": {
+        "name": "Tale Of Two Towns",
+        "url": "https://open.spotify.com/album/5hdl5UuvcEx54G413hxZvh"
+      },
+      "artists": [
+        {
+          "name": "Brandon Ratcliff",
+          "url": "https://open.spotify.com/artist/3nUBs75tDCL2pzPZGHoljy"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215556,
+      "name": "Where I'm Coming From",
+      "url": "https://open.spotify.com/track/3uZMREE8Fl1MFBeSYqFKzd"
     },
     {
       "album": {
@@ -27597,7 +27702,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 169800,
       "name": "Why'd We Break Up Again",
       "url": "https://open.spotify.com/track/6JtzwtwvQZQNuiE24hfa70"

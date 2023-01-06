@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-135 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+135 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-128 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/25GUqW5JgOJRI76d5fMAD3)
+128 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip Hop and Happy Holidays! Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,689 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,592 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 34 | [Intro](https://open.spotify.com/track/0c7J4CTS8FzWWMgWkGKTAe) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Skull Gang](https://open.spotify.com/artist/6R4blCfeFM693nL3QeCeAH) | [Jim Jones Presents: Bad Santa \- Starring Mike Epps](https://open.spotify.com/album/73AXIjZmQDJ29hZdt9y28Q) | 3:13 |
 | 35 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 |
 | 36 | [Ho Ho Ho \- Dirty Christmas](https://open.spotify.com/track/4n3HlzRZxEwxqHXADt758Y) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Ho Ho Ho \(Dirty Christmas\)](https://open.spotify.com/album/7A35Sr7YgnUhANiQ6QYhUq) | 3:14 |
-| 37 | [Ain't No Santa](https://open.spotify.com/track/16smAuwyrmkBEbb4X4YYzE) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Problem](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Your Favorite Christmas Songs](https://open.spotify.com/album/305uSyxF5cbcBoGenNlvge) | 2:26 |
+| 37 | [Ain't No Santa](https://open.spotify.com/track/0OBEDKruUCF8z8fOqyJkjY) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Problem](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Your Favorite Christmas Songs](https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2) | 2:26 |
 | 38 | [Mistletoe](https://open.spotify.com/track/7wy0z84DaALeFYa53tJ9F2) | [Nef The Pharaoh](https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Mistletoe](https://open.spotify.com/album/2P7cI6pxIFfF03CfAOxdWc) | 3:07 |
 | 39 | [The Christmas Song](https://open.spotify.com/track/2gvlqDMOpGLjD6i5nfO89z) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Skyy](https://open.spotify.com/artist/3wWU0L0tv6eE813fHEYYMg), [Marcus](https://open.spotify.com/artist/6EBrS8EW4hv6N4kn0ufYUS) | [MTA2\-Baptized In Dirty Water](https://open.spotify.com/album/4Od0xWG7XWQxvNPdrIzf2A) | 4:09 |
 | 40 | [Nappy Holidays \(Stay a While\)](https://open.spotify.com/track/7L9g3VWFau7z2RFNJsIhwi) | [Nappy Roots](https://open.spotify.com/artist/3tCxM1rTj2qUXsiQZxvt2I) | [Nappy Holidays \(Stay a While\) \- Single](https://open.spotify.com/album/7MayuSvaAb2iB3DfHMCXwr) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 49 | [Christmas At Swae’s](https://open.spotify.com/track/2uIJmDr8yFuq27JgZGAw7l) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Ear Drummers](https://open.spotify.com/artist/16b0RUDQWdrU5HYFKuFW98) | [Christmas At Swae’s](https://open.spotify.com/album/6Qx4jA6F8xTrAypkeaVUSk) | 3:46 |
 | 50 | [Bungecord Christmas](https://open.spotify.com/track/1aeQUlT3fNViIUNtimzgeK) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Bungecord Christmas](https://open.spotify.com/album/1TJY1i9QiyYIABj0cPN9po) | 2:09 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDM2MTU1ZTA3NjBiNjI5MTI3YjVlYWM2MTVhMjc2MWQw`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMGM0MWM0ODQ5OGY5YmI4NzY0ZTNjY2EyMzA3MTQ0Yzg3`

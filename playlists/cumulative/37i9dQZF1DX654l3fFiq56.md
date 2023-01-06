@@ -4,7 +4,7 @@
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-40 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/2TEJLTWYDkfTxvlZ3EebJ4)
+40 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

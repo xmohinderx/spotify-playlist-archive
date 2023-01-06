@@ -4,7 +4,7 @@
 
 > Somos una fusión que nunca termina..\. MEXCLA somos\. Natanael Cano en portada.
 
-165 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/5TyDG9DduIJJ2Y3h0GMvYM)
+165 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

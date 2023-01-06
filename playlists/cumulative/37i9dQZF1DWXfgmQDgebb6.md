@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Miso\(미소\)\)
 
-244 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
+244 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Birthday](https://open.spotify.com/track/0xOBqBL9Gy68Dc8ZA3fAIE) | [Festy Wxs](https://open.spotify.com/artist/21HMWviztlB3LNqP0nE4nu) | [Birthday](https://open.spotify.com/album/2GIJXudMpFp9ql5s6joZwX) | 2:07 | 2022-05-27 | 2022-07-26 |
 | [Blues Cluster](https://open.spotify.com/track/4zk7Xx0x2AZhz3Fzuab8or) | [Gari](https://open.spotify.com/artist/1EGnOaXcfIJdGXdfOxxgn4) | [Blues Cluster](https://open.spotify.com/album/2XScGszYKLqf16svHPwx5U) | 5:33 | 2022-05-27 | 2022-05-31 |
 | [Bokgo](https://open.spotify.com/track/5f9u0T0ug5uYBgRxYLcu5Z) | [tang.erine](https://open.spotify.com/artist/3EYKQMtUKUH5LnfJVNjv7S), [DAWN](https://open.spotify.com/artist/3aB96WIPKUzvJmoctWCrjb) | [Late summer late night](https://open.spotify.com/album/4CQOPjJ7l5jHPJTEYfViZO) | 3:08 | 2022-06-18 | 2022-07-27 |
-| [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/track/0VqsjJaNYLTYi1WOGvUNN6) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/album/4HBgkLANnwyEfDO19oY7SJ) | 3:33 | 2022-05-27 |  |
+| [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/track/0VqsjJaNYLTYi1WOGvUNN6) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/album/4HBgkLANnwyEfDO19oY7SJ) | 3:33 | 2022-05-27 | 2023-01-06 |
 | [Broken Water](https://open.spotify.com/track/4GXUvwKP5anXfQJJhkxCNt) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [BE](https://open.spotify.com/album/6tzNl7uTUZQnElYwtzZaGX) | 4:14 | 2022-05-27 | 2022-07-20 |
 | [Broken Water](https://open.spotify.com/track/06Yxybd6VJoDMeTT8mALhL) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [Broken Water](https://open.spotify.com/album/1qrFYVtJ8ybVJOQAhpAT55) | 4:15 | 2022-05-27 | 2022-07-21 |
 | [BUFFALO \(Feat\. DAMI, Song Eun I, Yu Seung Woo, Yoon Ji Young, Jeong Se Woon, 15 Oxen\)](https://open.spotify.com/track/7w6PnTRHb7U6qF9mEBM3v5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Dami](https://open.spotify.com/artist/5oam7DRB4O6uWGcXSgA53F), [Song Eun I](https://open.spotify.com/artist/2I4kHQ0qQKXmgDzOG6UbSs), [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf), [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ), [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836), [15 Oxen](https://open.spotify.com/artist/7a2foQUb1DQpF1Zs4SvhJu) | [BUFFALO \(Feat\. DAMI, Song Eun I, Yu Seung Woo, Yoon Ji Young, Jeong Se Woon, 15 Oxen\)](https://open.spotify.com/album/4oqGODmjLNwV2QauigiFLP) | 3:00 | 2022-05-27 | 2022-07-27 |
@@ -242,7 +242,7 @@
 | [YOLO!!](https://open.spotify.com/track/7CzlruoUvMHw2ilEEXjPRL) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/4H9NHqoHnM5eOl5JVQ47PT) | 3:29 | 2022-06-18 | 2022-08-13 |
 | [yoo\-hoo!](https://open.spotify.com/track/1dcKCJ7dDPknmu5gaATAqK) | [Hizy](https://open.spotify.com/artist/5njwz2XXduKqMXmRmQ3NVx) | [yoo\-hoo!](https://open.spotify.com/album/1uVy2DXN319LZ1RbXpdxAY) | 2:55 | 2022-05-27 | 2022-07-25 |
 | [Youth](https://open.spotify.com/track/2f220hYoclwzYQGyAvsokr) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Youth](https://open.spotify.com/album/3CDz4HcxV7b9UHgmk7lUSy) | 4:32 | 2022-05-27 | 2022-07-28 |
-| [Youth](https://open.spotify.com/track/0ISIKA8nLm1CQ3scd3ziTy) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Kim Chang Wan](https://open.spotify.com/artist/0Vu5WrZvGftFn4uBeA9mde) | [Youth](https://open.spotify.com/album/7IkwG181Ub4ygt2MqAezgM) | 4:32 | 2022-07-08 | 2022-12-20 |
+| [Youth](https://open.spotify.com/track/0ISIKA8nLm1CQ3scd3ziTy) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Kim Chang Wan](https://open.spotify.com/artist/0Vu5WrZvGftFn4uBeA9mde) | [Youth](https://open.spotify.com/album/7IkwG181Ub4ygt2MqAezgM) | 4:32 | 2022-07-08 |  |
 | [Zizazu](https://open.spotify.com/track/0Fejc35mgnOla2Ptw9Vzry) | [Suji x Yuna](https://open.spotify.com/artist/180ZH9CiYEd7nkh5oA9X2s) | [Zizazu](https://open.spotify.com/album/1wCXK5DQsr52ZxZj4Kasyg) | 4:09 | 2022-05-27 | 2022-07-19 |
 | [ㅎㄷㄷ \(prod\. 윌라\)](https://open.spotify.com/track/2VGQZPkLknBBAVnjT25Cok) | [ALT](https://open.spotify.com/artist/2zOevuLrvNQ7BLD5hXUqrb) | [ㅎㄷㄷ](https://open.spotify.com/album/2rlkGaVNFGv7dVrBLM9ZCR) | 2:12 | 2022-12-19 |  |
 | [그랑죠](https://open.spotify.com/track/4HhguQ9sgBBydl7iVzJhPc) | [SERUM](https://open.spotify.com/artist/3eGpjhDidVKd1snpd8As4A), [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [그랑죠](https://open.spotify.com/album/0ORaaKXUcQmZO0ZKuCrSM2) | 2:55 | 2022-06-29 | 2022-07-29 |

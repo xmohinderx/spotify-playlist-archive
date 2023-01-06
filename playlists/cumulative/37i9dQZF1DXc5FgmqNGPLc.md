@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-105 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
+105 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

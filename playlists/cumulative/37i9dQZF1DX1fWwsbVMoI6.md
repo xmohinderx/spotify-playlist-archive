@@ -4,7 +4,7 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Hnos Yaipen
 
-114 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/5GjAZyTyn8IndSL0yMdeQa)
+114 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

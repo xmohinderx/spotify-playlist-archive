@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-25",
   "description": "Enjoy music from DEN-ON-BU! \u6c17\u92ed\u306e\u30b3\u30f3\u30dd\u30fc\u30b6\u30fc\u304c\u591a\u6570\u53c2\u52a0\u3057\u3001\u4eca\u8a71\u984c\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30d7\u30ed\u30b8\u30a7\u30af\u30c8<a href=\"https://denonbu.jp/\">\u300c\u96fb\u97f3\u90e8\u300d</a>\u3092\u7279\u96c6!! \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3068\u7d21\u3050\u96fb\u5b50\u97f3\u697d\u306e\u4e16\u754c\u306b\u98db\u3073\u8fbc\u3082\u3046\u3002",
   "name": "DEN-ON-BU \u96fb\u97f3\u90e8",
-  "published_playlist_ids": [
-    "5K7DbSnuHl7ZZ1nOfFBmaY"
-  ],
   "tracks": [
     {
       "album": {
@@ -2228,6 +2225,28 @@
     },
     {
       "album": {
+        "name": "Reverse Edge",
+        "url": "https://open.spotify.com/album/7qPh0T13PCTFhoJolDuHj6"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Kan Takahiko",
+          "url": "https://open.spotify.com/artist/2eOPTQxZPGde8cZPJv80SX"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165533,
+      "name": "Reverse Edge",
+      "url": "https://open.spotify.com/track/2gIFO4B71chQvFfUb6dzI5"
+    },
+    {
+      "album": {
         "name": "Shining Lights",
         "url": "https://open.spotify.com/album/5gPKUS7jXWWZiAIEQcMTiB"
       },
@@ -2859,6 +2878,44 @@
       "duration_ms": 194573,
       "name": "Winter Magic Opening Track",
       "url": "https://open.spotify.com/track/34X3p442A0RywBZ0D84k9O"
+    },
+    {
+      "album": {
+        "name": "You Are The Light",
+        "url": "https://open.spotify.com/album/5fa0qYzIn1ooIPuIg5okt2"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u5916\u795e\u7530\u6587\u82b8\u9ad8\u6821",
+          "url": "https://open.spotify.com/artist/5l6WrdmLlrxtBeRH6OOub6"
+        },
+        {
+          "name": "\u795e\u5bae\u524d\u53c2\u9053\u5b78\u5712",
+          "url": "https://open.spotify.com/artist/5OIAt6iflQP7QE5dWAg3Ii"
+        },
+        {
+          "name": "\u6e2f\u767d\u91d1\u5973\u5b66\u9662",
+          "url": "https://open.spotify.com/artist/6eHsXYmw47VoTIVRENvVbC"
+        },
+        {
+          "name": "\u5e1d\u97f3\u56fd\u969b\u5b66\u9662",
+          "url": "https://open.spotify.com/artist/3DuzdA7sSHyXRGHC7HZHoa"
+        },
+        {
+          "name": "\u6e21\u8fba \u91cf [BNSI]",
+          "url": "https://open.spotify.com/artist/40hUcepx63vnmj2KNmG9yP"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268573,
+      "name": "You Are The Light",
+      "url": "https://open.spotify.com/track/5ldDKgidUu0EYHjOGizdPS"
     },
     {
       "album": {

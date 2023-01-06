@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-379 songs - 1 day 3 hr 55 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+379 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

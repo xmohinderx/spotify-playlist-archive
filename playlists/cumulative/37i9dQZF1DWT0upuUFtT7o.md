@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best Fresh Finds Indie tracks of 2022\. Cover: hemlocke springs \#SpotifyWrapped
 
-1,027 songs - 2 day 7 hr 58 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+1,027 songs - 2 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

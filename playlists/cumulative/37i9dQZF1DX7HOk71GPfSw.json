@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-13",
   "description": "ft. 100 gecs ",
   "name": "hyperpop",
-  "published_playlist_ids": [
-    "1O3emUAuENWQMR0opz2aWD"
-  ],
   "tracks": [
     {
       "album": {
@@ -683,6 +680,28 @@
       "duration_ms": 192307,
       "name": "4am insomnia, crying",
       "url": "https://open.spotify.com/track/6L8cciaQIKhCmgBDXkCQ16"
+    },
+    {
+      "album": {
+        "name": "4get",
+        "url": "https://open.spotify.com/album/6fDcYde0k1VUiSaK5hTCc6"
+      },
+      "artists": [
+        {
+          "name": "Delto",
+          "url": "https://open.spotify.com/artist/1WlSGhncfBqk79KNYuTicp"
+        },
+        {
+          "name": "Canna",
+          "url": "https://open.spotify.com/artist/3UQddXFBR9NoYWpcxwAYkh"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139908,
+      "name": "4get",
+      "url": "https://open.spotify.com/track/2mlgFhBe2shVc1ITY0ri9B"
     },
     {
       "album": {

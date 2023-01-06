@@ -4,7 +4,7 @@
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-128 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/13RbIJFt6BWK5QypeKN401)
+128 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

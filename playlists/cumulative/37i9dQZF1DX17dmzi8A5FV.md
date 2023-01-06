@@ -4,7 +4,7 @@
 
 > All the biggest hits from the biggest boybands\. Cover: BTS
 
-159 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/0AmAFDFAE9iHEl2LM4n3Vn)
+159 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

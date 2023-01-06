@@ -4,7 +4,7 @@
 
 > Pop songs for birds looking to stretch their vocal cords.
 
-46 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/7AnMeMSuNFMKhWWNJyi8tQ)
+46 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

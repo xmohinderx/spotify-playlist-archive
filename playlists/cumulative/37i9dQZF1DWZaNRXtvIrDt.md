@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Mafro
 
-89 songs - 6 hr 55 min - not published yet
+90 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Happy](https://open.spotify.com/track/7arEqLvEPdAQ3yjEGgMBZt) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Help! I'm Lost...](https://open.spotify.com/album/2Wphh77GlQ14bQqBjQn0Gw) | 2:55 | 2022-12-08 |  |
 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 | 2022-12-08 | 2022-12-24 |
 | [Hawt](https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Hawt](https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM) | 2:37 | 2022-12-08 |  |
-| [Hollow](https://open.spotify.com/track/6vOXXLWbCQGLrVdnHYHWce) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/5AT27ohVd42E695quyMiB1) | 4:36 | 2022-12-08 |  |
+| [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 | 2022-12-22 |  |
+| [Hollow](https://open.spotify.com/track/6vOXXLWbCQGLrVdnHYHWce) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/5AT27ohVd42E695quyMiB1) | 4:36 | 2022-12-08 | 2023-01-06 |
 | [House It Up](https://open.spotify.com/track/0UU5UlRFelAO158QCw83lQ) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [House It Up](https://open.spotify.com/album/0d4d4nnLEZARgdCthJG0KJ) | 3:04 | 2022-12-08 |  |
 | [I'm Trying](https://open.spotify.com/track/0hs65gzhueVA9Y5u7Tp5u2) | [Joshua Amour](https://open.spotify.com/artist/3jI6t8Tj9LvOVOVPYN8yUb) | [I'm Trying](https://open.spotify.com/album/4laizWsGgenglKUKnCSkXE) | 4:41 | 2022-12-08 |  |
 | [Jobi \- Kareem Ali Remix](https://open.spotify.com/track/1WmrJR4SP796Q35Ik4aGYq) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Jobi \(Kareem Ali Remix\)](https://open.spotify.com/album/0ufjnrRBMHcBd4XdNB9TYU) | 5:58 | 2022-12-08 |  |

@@ -4,7 +4,7 @@
 
 > DJ Blaq Pages sets the tone for 2023 with the bangers of 2022
 
-224 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/0H4WlWSeclrlkQanHsRFQh)
+224 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

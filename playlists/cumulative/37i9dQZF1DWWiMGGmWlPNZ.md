@@ -4,7 +4,7 @@
 
 > Reach inner tranquility with peaceful Hang and ambient.
 
-80 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/5gpuoAqwEPxVmBsNt9nypB)
+80 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

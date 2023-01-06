@@ -4,12 +4,12 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-58 songs - 3 hr 38 min - not published yet
+59 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15th Floor](https://open.spotify.com/track/14NAPaeP9jPGkWXso4J23B) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [15th Floor](https://open.spotify.com/album/3jOCHftuZiA1w54yvVHP8h) | 4:30 | 2022-10-21 |  |
-| [A Long Time](https://open.spotify.com/track/5fJRHZyjnb6891ny5IOkL6) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [How Do You Do](https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V) | 3:41 | 2022-10-21 |  |
+| [A Long Time](https://open.spotify.com/track/5fJRHZyjnb6891ny5IOkL6) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [How Do You Do](https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V) | 3:41 | 2022-10-21 | 2023-01-06 |
 | [Apartment \(feat\. Benny Sings\)](https://open.spotify.com/track/3bt6rnq9mCrq1XStEcGaNl) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:04 | 2022-10-21 |  |
 | [Back On The Music!](https://open.spotify.com/track/68PHkOQpABqaKdxRMhbzMg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:27 | 2022-10-21 |  |
 | [Big Brown Eyes](https://open.spotify.com/track/3lRDE6JZRfstK9mWig5oaf) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art \(2022 Remastered Deluxe\)](https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU) | 4:11 | 2022-10-21 |  |
@@ -28,6 +28,7 @@
 | [I Don't Think We Should Wait](https://open.spotify.com/track/59PWRSbpBHbeI5pw6llR5v) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/5RnpvaRRVTovVqy099c0ve) | 5:00 | 2022-10-21 |  |
 | [I Wonder](https://open.spotify.com/track/2evv8aHR5IeiDTyGlmOOM3) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [I Wonder](https://open.spotify.com/album/4ju3ITVDX4cauQCRUcl8FK) | 4:11 | 2022-10-21 |  |
 | [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 | 2022-10-21 | 2022-10-29 |
+| [Kenny Blues](https://open.spotify.com/track/1XniHNy9PvQSBj9xUtUMw0) | [Rubber Band](https://open.spotify.com/artist/2XHnoChNd8VueTILbmnOlu) | [Kenny Blues](https://open.spotify.com/album/4Srn0HSrvlC9XuElk3izQT) | 3:08 | 2023-01-06 |  |
 | [Konichiwa](https://open.spotify.com/track/5qY5MMXsrlCmYj9X4qKqBX) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [The Don](https://open.spotify.com/album/0drE0Xqo5yrSPirL3edUuX) | 4:37 | 2022-10-21 |  |
 | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/track/4QMipGuTpebExVmTOA2s3C) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/album/2y9tOyJh8EMvPBnzfsGuUZ) | 3:15 | 2022-10-21 |  |
 | [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 | 2022-10-21 |  |

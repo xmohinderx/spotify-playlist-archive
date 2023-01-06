@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-471 songs - 1 day 20 hr 27 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+471 songs - 1 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Black Is The Color Of My True Love's Hair](https://open.spotify.com/track/35HX8z7O4MaVVrT40YEujJ) | [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Bass Desires](https://open.spotify.com/album/3ENSb9BRGFVzNinQh8cFhg) | 7:07 | 2021-10-06 | 2022-04-14 |
 | [Blanket](https://open.spotify.com/track/4YRst0OXQoPEGMbrz4iwUX) | [7038634357](https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO) | [Permanest](https://open.spotify.com/album/73MXFAuug7MDjBPpt6yAhe) | 2:37 | 2022-03-30 | 2022-07-13 |
 | [Blob on the Lawn](https://open.spotify.com/track/104LLrwbK0zPPtfvFKddp3) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/64TzDB3gO5C0NVlvuSQQpB) | 2:52 | 2022-03-11 | 2022-07-22 |
-| [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 | 2021-10-06 |  |
+| [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 | 2021-10-06 | 2023-01-06 |
 | [Blue Ice Cave](https://open.spotify.com/track/6e4JrbtTPhWWDlbnRWey8F) | [Lektromonk](https://open.spotify.com/artist/47anoF4IxhwqttTUhvIfuO) | [Blue Ice Cave](https://open.spotify.com/album/25TFCFVn3NhLcmzxgBmXM2) | 3:15 | 2022-02-18 | 2022-07-27 |
 | [Blue Surround](https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Infinite Echo](https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4) | 3:08 | 2022-11-10 | 2023-01-01 |
 | [Border of Mind](https://open.spotify.com/track/5leVwcmopsoOVCVjKeZrnl) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Border of Mind](https://open.spotify.com/album/68lHjTeBd91IIFkGiBgIve) | 5:53 | 2021-10-06 | 2022-07-21 |
@@ -232,7 +232,7 @@
 | [Kindly Static](https://open.spotify.com/track/4i3BMFukoFFGSumz5Dx2zt) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Chronology](https://open.spotify.com/album/7BZVmbH7so3Hf1tciJPXkI) | 3:05 | 2022-10-14 | 2022-10-28 |
 | [Kiss U](https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Kiss U](https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd) | 5:35 | 2022-09-29 | 2022-10-15 |
 | [Knot of Spirit \- Synth Version](https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 10:19 | 2022-07-08 | 2022-09-06 |
-| [Kommissar Brenkstrupp \(Main Titles\)](https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 2:40 | 2022-09-03 | 2023-01-05 |
+| [Kommissar Brenkstrupp \(Main Titles\)](https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 2:40 | 2022-09-03 |  |
 | [Kura Kura](https://open.spotify.com/track/4VA1bDVM2IVHEHm6kiTnUb) | [Corrado Saija](https://open.spotify.com/artist/3H48cHoTaqJGqQrAcQm2Wq) | [Indigo](https://open.spotify.com/album/1Jk1dwZRaQZR2xN1ymRKuG) | 8:12 | 2022-03-30 | 2022-07-29 |
 | [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-01-14 | 2022-07-25 |
 | [Land III \- Vocal Mix](https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB) | [Land III](https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG) | 4:44 | 2021-10-06 | 2022-07-20 |

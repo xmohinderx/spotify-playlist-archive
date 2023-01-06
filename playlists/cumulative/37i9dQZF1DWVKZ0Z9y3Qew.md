@@ -4,7 +4,7 @@
 
 > Pacific Northwest music breaking waves\. Cover, Umi
 
-402 songs - 18 hr 55 min - [published](https://open.spotify.com/playlist/7rrnuxThUr8V2Q5Pzc1Cr6)
+402 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

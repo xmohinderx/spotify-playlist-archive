@@ -4,7 +4,7 @@
 
 > The emotional interludes we wish were longer.
 
-84 songs - 2 hr 14 min - [published](https://open.spotify.com/playlist/1WgjuGPGPoZVKEll7oH1Vz)
+84 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

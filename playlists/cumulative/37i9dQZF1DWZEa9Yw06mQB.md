@@ -4,7 +4,7 @@
 
 > Los clásicos de hoy y siempre.
 
-280 songs - 19 hr 58 min - [published](https://open.spotify.com/playlist/6ZzugtTmY8hZfoO0k0GCwU)
+280 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

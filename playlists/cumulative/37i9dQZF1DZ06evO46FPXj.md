@@ -4,7 +4,7 @@
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-125 songs - 14 hr 57 min - [published](https://open.spotify.com/playlist/0WU5a7eAdnsL2PN62ZeEjg)
+125 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

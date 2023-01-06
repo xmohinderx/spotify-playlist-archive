@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-74 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/6P7FK7KxB0YRgwehaVREy9)
+74 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

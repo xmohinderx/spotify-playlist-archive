@@ -4,7 +4,7 @@
 
 > Keep your run going with these upbeat rock tracks.
 
-147 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/3TPPArdfkB2psOaQQ7VVia)
+147 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

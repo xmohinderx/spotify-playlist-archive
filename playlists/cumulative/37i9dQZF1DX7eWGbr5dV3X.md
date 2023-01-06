@@ -4,7 +4,7 @@
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-76 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/4MpMAcJX9h7NwCwZfMDVty)
+76 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

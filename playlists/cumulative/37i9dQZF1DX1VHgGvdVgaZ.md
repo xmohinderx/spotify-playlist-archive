@@ -4,7 +4,7 @@
 
 > Instrumental selections from the South Indian school of music.
 
-90 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/2AwX8bUMnLlmfapVgD5oSt)
+90 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

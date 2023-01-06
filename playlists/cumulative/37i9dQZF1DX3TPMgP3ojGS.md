@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,628 songs - 3 day 1 hr 23 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,631 songs - 3 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2021-04-08 | 2022-07-28 |
 | [A Rose](https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8) | [Natalee Marlowe](https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS) | [A Rose](https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA) | 2:27 | 2021-10-09 | 2022-07-29 |
 | [A Silent Wish](https://open.spotify.com/track/711P4SBPCX7zO6TarXBCJ4) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [A Silent Wish](https://open.spotify.com/album/54jnSi7iJTFQizuqW2xDxZ) | 2:29 | 2021-12-21 | 2022-07-25 |
+| [A Simpler Time](https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A Simpler Time](https://open.spotify.com/album/78IAmz0VkRMvJWs4XS0Gx4) | 2:27 | 2023-01-06 |  |
 | [A Sky Full of Flowers](https://open.spotify.com/track/23IhmwOyEMpH7fPU8H6pZz) | [Jeff Bright Jr](https://open.spotify.com/artist/7E6ohNXHygGbx68hwQxEXN) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 3:38 | 2021-03-11 | 2021-12-19 |
 | [A Slow Tune for G](https://open.spotify.com/track/27flOqCzErq4rva0scXy6a) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Diving with My Harpoon](https://open.spotify.com/album/60Cqe5CeQTf6pUGZXtQGJG) | 2:57 | 2021-03-18 | 2022-04-01 |
 | [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 | 2022-11-15 |  |
@@ -319,6 +320,7 @@
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2021-03-18 | 2022-07-17 |
 | [Days Like These](https://open.spotify.com/track/7pwDWr9QNRAv6N63MY2mRn) | [Renard Francis](https://open.spotify.com/artist/1TQQ7EEYrOne3L7iiCObNX) | [Days Like These](https://open.spotify.com/album/207M0Mwbs6wtPdPmayBTUw) | 4:09 | 2021-03-09 | 2022-06-12 |
 | [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2021-05-08 | 2022-04-08 |
+| [Days Passing By](https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Passages](https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB) | 2:39 | 2023-01-06 |  |
 | [De Angelis](https://open.spotify.com/track/7vF6BeR1XaVvgDVX0zpJKv) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [De Angelis](https://open.spotify.com/album/1WV4uwUBSu9Pwwr8bWv2GP) | 2:23 | 2021-03-16 | 2022-04-15 |
 | [Dear Mama](https://open.spotify.com/track/1qUVgTwfcnO0GXOD89SCwz) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Hidden Depth](https://open.spotify.com/album/7x1LzLQlWwtPTCCEH6ytbM) | 3:16 | 2021-03-21 | 2022-07-23 |
 | [Decay](https://open.spotify.com/track/5FFtJ0ygy9EniovOZIDGuK) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Piano 1 \(Extended\)](https://open.spotify.com/album/2HdTrxH48hXXj5kMxZDoWP) | 2:37 | 2021-03-08 | 2022-04-16 |
@@ -379,7 +381,7 @@
 | [Drops](https://open.spotify.com/track/6tAVuHk9SgULudReDLhcgj) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Stories](https://open.spotify.com/album/10i8H3JBp0J5sRVaONz6qe) | 2:36 | 2021-03-16 | 2022-04-06 |
 | [Drops of Memories](https://open.spotify.com/track/26jHMGZQjeLWaKTOHZXfZD) | [Harold Kay](https://open.spotify.com/artist/2syEslXYK8k3kpiQ2RXBDm) | [Gotas de Infinito](https://open.spotify.com/album/5RxHQKZaH6uAgOVHLfBfSx) | 1:56 | 2021-12-13 | 2021-12-21 |
 | [Du Coeur](https://open.spotify.com/track/3rmjP6CStHSpaoQQ1vvOuR) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB) | [Retour](https://open.spotify.com/album/64P2bnzFjqm5Kqsg2mO5YE) | 2:20 | 2021-03-07 | 2021-05-21 |
-| [Dualities](https://open.spotify.com/track/5t9WS1mp1WGOqz6lJut8za) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Dualities](https://open.spotify.com/album/4t57BfTbtsSquhUsYXBQTm) | 2:09 | 2022-12-24 |  |
+| [Dualities](https://open.spotify.com/track/5t9WS1mp1WGOqz6lJut8za) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Dualities](https://open.spotify.com/album/4t57BfTbtsSquhUsYXBQTm) | 2:09 | 2022-12-24 | 2023-01-06 |
 | [Duelliste Dansant](https://open.spotify.com/track/33Ea555jOsBXWFxFlRSAki) | [Hayden Seagreen](https://open.spotify.com/artist/4a4mflOlMF7M1S4s5z7ztu) | [Duelliste Dansant](https://open.spotify.com/album/5rilKiSiAzRIsLOeqIDqZT) | 3:19 | 2021-05-25 | 2021-05-26 |
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2021-07-04 | 2022-07-29 |
 | [Dunkel](https://open.spotify.com/track/4y5m6mGSXzVZArFSm4YnYK) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Dunkel](https://open.spotify.com/album/62Wg9F1bDreyAWx9gp1IXx) | 2:20 | 2021-04-30 | 2022-01-12 |
@@ -1067,6 +1069,7 @@
 | [Portmeirion](https://open.spotify.com/track/2rNL1zppqgwWIzozc1UEq2) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Zéphyrine](https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58) | 2:11 | 2021-04-21 | 2021-04-22 |
 | [Portrait with Shadow](https://open.spotify.com/track/6Ic1I4RcYvkH5cuDc6Fozf) | [Robert Haigh](https://open.spotify.com/artist/7KuwV2EmdnmeUtSd7TRsPN) | [Creatures of the Deep](https://open.spotify.com/album/1C3XG4aTtxeU09UglFsYxG) | 2:04 | 2021-05-10 | 2021-12-18 |
 | [Portrait Y](https://open.spotify.com/track/2OcdSgwyO9RMJ7LurFSdvx) | [Omotesando](https://open.spotify.com/artist/4Oihxkshz07xUKMgUpsiSk) | [Portrait Y](https://open.spotify.com/album/1VOICJ5mvZAf5NorxttwQS) | 3:32 | 2021-06-11 | 2022-07-20 |
+| [Portraits](https://open.spotify.com/track/3v9b94v3ja4RL480ZrJ6bI) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Portraits](https://open.spotify.com/album/2ODTazL8f1JIX0cJ7hiyrt) | 2:20 | 2023-01-06 |  |
 | [Pour dessiner des fleur](https://open.spotify.com/track/45tnZArwDyo4hM7Zjguqb9) | [Maël Alexandrienne](https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu) | [Pour dessiner des fleur](https://open.spotify.com/album/4jMqEaGWYUeMEAAus1t62g) | 2:24 | 2022-12-24 | 2023-01-04 |
 | [Pour l'amour de toi](https://open.spotify.com/track/4IaQbK6vmi0mqXrv17eoav) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [Pour l'amour de toi](https://open.spotify.com/album/2jpXFSkcuFmKf1BvfjKSGZ) | 1:48 | 2021-04-29 | 2022-04-01 |
 | [Pour que tu m’aimes encore](https://open.spotify.com/track/4C9ysvTrYnfCjZ8x8HJWp8) | [Joséphine Auclair](https://open.spotify.com/artist/0apUwW6GnlGwDJLyV35jUy) | [Pour que tu m’aimes encore](https://open.spotify.com/album/5Xbze3vkFASbO4tX2rHNuU) | 2:35 | 2021-03-06\* | 2021-04-23 |
@@ -1164,7 +1167,7 @@
 | [Salvatore](https://open.spotify.com/track/6t49FHYi8W01F35FMrdgbk) | [Henrietta Kuipers](https://open.spotify.com/artist/5ULLDXAaGnGYylLzZxaXog) | [Salvatore](https://open.spotify.com/album/2zqvrczDnP8HS7vCdFXiM7) | 2:16 | 2021-03-09 | 2022-03-31 |
 | [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 | 2021-03-10 | 2022-04-17 |
 | [San Siro](https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [San Remo](https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA) | 2:50 | 2022-07-27 | 2022-12-24 |
-| [Sand](https://open.spotify.com/track/78qaTDD6WW9NnnaFJfP6wa) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Sand](https://open.spotify.com/album/4FxlL6SpqPQDTlBd867kuj) | 2:23 | 2022-12-24 |  |
+| [Sand](https://open.spotify.com/track/78qaTDD6WW9NnnaFJfP6wa) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Sand](https://open.spotify.com/album/4FxlL6SpqPQDTlBd867kuj) | 2:23 | 2022-12-24 | 2023-01-06 |
 | [Sand Castle](https://open.spotify.com/track/3ExgkwTDs4mymqj09BzIsD) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Moonlight](https://open.spotify.com/album/7KvfRrJ0eVVqLZ2W9CThwK) | 3:11 | 2021-05-18 | 2021-05-19 |
 | [Sand Time](https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Sand Time](https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B) | 2:58 | 2022-08-17 |  |
 | [Sans Toi](https://open.spotify.com/track/04uVxAxx6QvPQzfuLv5A6P) | [Loane Tellier](https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS) | [Sans Toi](https://open.spotify.com/album/0avKp2QPHyrlKayO32H0Qa) | 2:07 | 2021-03-08 | 2021-05-28 |
@@ -1417,7 +1420,7 @@
 | [The Unspoken](https://open.spotify.com/track/4y5pAAiq7zGMejPPAxvth7) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Crashing In Slow Motion](https://open.spotify.com/album/4HBwy3loMhcSUMszlNOXXD) | 2:53 | 2021-03-06\* | 2022-04-15 |
 | [The Waltz Between Us](https://open.spotify.com/track/4XJ1vrePP1TxBn7WyWaC49) | [Tonie Green](https://open.spotify.com/artist/3kfHheH2kjb3gsLwSowrdb) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 2:16 | 2021-04-29 | 2022-04-11 |
 | [The Watchtower](https://open.spotify.com/track/504NLPDUBRylbZUUQR97XX) | [Sigimund](https://open.spotify.com/artist/10Sk8d2pdmvQ7JMZcPQDOU) | [The Watchtower](https://open.spotify.com/album/0Pal5VkkxKbiGZZJHsgTHp) | 3:25 | 2021-04-21 | 2022-04-11 |
-| [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-09-29 |  |
+| [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-09-29 | 2023-01-06 |
 | [The Way There](https://open.spotify.com/track/2X0ophIMSyCw9SSISrIEpQ) | [Hreidar](https://open.spotify.com/artist/0tVS8c23TG8rD0vyBSXuWe) | [The Way There](https://open.spotify.com/album/5EZyffRRVIrdJ1tPP06Dac) | 3:24 | 2021-03-20 | 2022-04-15 |
 | [The Willows](https://open.spotify.com/track/2sVHqNjse5KdJkffJce5Dr) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [On the Other Side](https://open.spotify.com/album/633hqMGhBHeMIyTOFfNzm7) | 2:20 | 2021-03-09 | 2022-04-05 |
 | [The Winding Paths](https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:59 | 2021-05-10 | 2022-03-31 |

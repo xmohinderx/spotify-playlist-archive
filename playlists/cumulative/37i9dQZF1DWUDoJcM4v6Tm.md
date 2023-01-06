@@ -4,7 +4,7 @@
 
 > Explore a sprawling musical landscape.
 
-231 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
+231 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > just turn on some rainy weather at will, with this backdrop of dripping drizzle.
 
-79 songs - 3 hr 42 min - not published yet
+79 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

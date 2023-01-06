@@ -4,7 +4,7 @@
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-131 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/5zi8FP7qU8DGmEKQKz7LQ5)
+131 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

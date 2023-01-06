@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-24",
   "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Major RD",
   "name": "Rima Avan\u00e7ada",
-  "published_playlist_ids": [
-    "1fuxTN1KVeY4FHPmGcQzOK"
-  ],
   "tracks": [
     {
       "album": {
@@ -843,7 +840,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 145655,
       "name": "Chef\u00e3o - Fragr\u00e2ncia Dos Malako",
       "url": "https://open.spotify.com/track/7DbkVJGtkmwEKrDlKUV0Pt"
@@ -2074,6 +2071,32 @@
     },
     {
       "album": {
+        "name": "Melhor Agora",
+        "url": "https://open.spotify.com/album/0TGsmtNrPS3w3gN66NM4zb"
+      },
+      "artists": [
+        {
+          "name": "Vivari",
+          "url": "https://open.spotify.com/artist/08z7iBSC01CNhxoRmHmpx7"
+        },
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205745,
+      "name": "Melhor Agora",
+      "url": "https://open.spotify.com/track/2zsjWBqJohc4Vk8YKZJGfT"
+    },
+    {
+      "album": {
         "name": "Menor Magrinho",
         "url": "https://open.spotify.com/album/4agsw6FCmcqEBZBKov4ldv"
       },
@@ -3209,7 +3232,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 182186,
       "name": "Tudo Mec",
       "url": "https://open.spotify.com/track/3Ky4MJEskLIRQ42fKsUtJT"
@@ -3235,6 +3258,24 @@
       "duration_ms": 121714,
       "name": "Tudo Por Nois",
       "url": "https://open.spotify.com/track/6HrxbQDtw2dXuqoqIatgb8"
+    },
+    {
+      "album": {
+        "name": "UEFA Champions",
+        "url": "https://open.spotify.com/album/3Hvq9u2ood36nltFeyIj2P"
+      },
+      "artists": [
+        {
+          "name": "Flamel mc",
+          "url": "https://open.spotify.com/artist/51HQXSdO4FVHgAK7SoEL4A"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162214,
+      "name": "UEFA Champions",
+      "url": "https://open.spotify.com/track/5uhgXGTa6D9owwMl6nHFW7"
     },
     {
       "album": {

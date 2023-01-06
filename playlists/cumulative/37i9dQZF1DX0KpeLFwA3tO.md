@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: poptropicaslutz!
 
-777 songs - 1 day 14 hr 56 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+777 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

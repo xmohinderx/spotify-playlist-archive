@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
-150 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
+150 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

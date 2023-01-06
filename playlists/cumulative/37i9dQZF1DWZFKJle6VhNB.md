@@ -4,7 +4,7 @@
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-166 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/6306uranRreFb9mAG0uhIt)
+166 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

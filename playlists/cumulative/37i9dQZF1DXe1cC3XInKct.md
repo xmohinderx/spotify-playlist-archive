@@ -4,7 +4,7 @@
 
 > ...and find your focus.
 
-184 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/60jVGhBQ9kNItECXd4mEVi)
+184 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

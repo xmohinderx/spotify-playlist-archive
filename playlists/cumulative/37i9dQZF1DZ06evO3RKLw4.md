@@ -4,7 +4,7 @@
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/02kHOKkMU599yalcEmHyV7)
+59 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-290 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
+290 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

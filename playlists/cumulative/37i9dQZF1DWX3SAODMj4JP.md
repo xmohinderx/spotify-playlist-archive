@@ -4,7 +4,7 @@
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-74 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/5JZY6af9zEUuR4p3UhWpXB)
+74 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

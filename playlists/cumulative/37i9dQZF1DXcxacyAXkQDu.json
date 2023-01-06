@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Enjoy a break with some relaxing soft songs.",
   "name": "Cozy Blend",
-  "published_playlist_ids": [
-    "51dhSaYcrh8IGq16obFObB"
-  ],
   "tracks": [
     {
       "album": {
@@ -301,6 +298,24 @@
       "duration_ms": 141720,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/3Ek7jLGOKPmLeILZDWJw09"
+    },
+    {
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/6Ank0OEOGBECg03QfyRbaN"
+      },
+      "artists": [
+        {
+          "name": "Kwassa",
+          "url": "https://open.spotify.com/artist/29ZiI4pYFArKpFQvHtZg7I"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141720,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/0x1nOGuuxzd8lhJCw7hbHO"
     },
     {
       "album": {
@@ -11718,6 +11733,24 @@
     },
     {
       "album": {
+        "name": "Stay Alive (COVERS)",
+        "url": "https://open.spotify.com/album/3I1ZWDd8jAs6aztutLGVDm"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233346,
+      "name": "Stay Alive - Cover",
+      "url": "https://open.spotify.com/track/0cm34ja39LyPxK2oddv90s"
+    },
+    {
+      "album": {
         "name": "Hope, Fear & Fashion",
         "url": "https://open.spotify.com/album/6nTvklCSNP03q78ix8Dh58"
       },
@@ -12033,7 +12066,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 204205,
       "name": "Summer's Gone",
       "url": "https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy"
@@ -12643,7 +12676,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 176080,
       "name": "The Original",
       "url": "https://open.spotify.com/track/0i2G4EegdQ7aO0NnjBJt3R"

@@ -4,7 +4,7 @@
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-81 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/20tmJ1BJdJTTUlBOfl3Mrz)
+81 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Larkin Poe
 
-253 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
+253 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

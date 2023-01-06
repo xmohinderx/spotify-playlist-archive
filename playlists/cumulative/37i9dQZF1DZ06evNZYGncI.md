@@ -4,7 +4,7 @@
 
 > This is Slipknot\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/7cRsoDpUOIMkzdPYuPNOkI)
+52 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Discover the music of Schumann.
 
-106 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/4JZtynEiMqwLsOubUVaOc2)
+106 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

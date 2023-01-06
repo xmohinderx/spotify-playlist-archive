@@ -1,9 +1,26 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Nej'",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
   "name": "R&Bae",
-  "published_playlist_ids": [],
   "tracks": [
+    {
+      "album": {
+        "name": "ANANAS (Acoustic version)",
+        "url": "https://open.spotify.com/album/6lJsS5QVgRhJyp398XalZc"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179132,
+      "name": "ANANAS - Acoustic version",
+      "url": "https://open.spotify.com/track/3nfP0gnomKijWe3LikQg7P"
+    },
     {
       "album": {
         "name": "M\u00e9lo",
@@ -438,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Love Therapy",
+        "url": "https://open.spotify.com/album/0q1VH4DQ3PV4M58b0jNTmM"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309907,
+      "name": "Love Therapy",
+      "url": "https://open.spotify.com/track/4okJMwSKCekj9NdAYZnAAt"
+    },
+    {
+      "album": {
         "name": "Ma promesse",
         "url": "https://open.spotify.com/album/77RhDral1NtDom4ydM19vn"
       },
@@ -575,7 +610,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 165854,
       "name": "Mon enfer",
       "url": "https://open.spotify.com/track/0WdCxvVPr54CL5ljwzOCsf"
@@ -633,7 +668,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 154968,
       "name": "Oublier (Music Monday)",
       "url": "https://open.spotify.com/track/7dx2Fl6o4UqRT6sUNskitx"
@@ -803,6 +838,24 @@
       "duration_ms": 141205,
       "name": "Pr\u00e9face - Nouveau D\u00e9part",
       "url": "https://open.spotify.com/track/6Fj78TJ1CqYW0vYuIzs0Mt"
+    },
+    {
+      "album": {
+        "name": "Cloud",
+        "url": "https://open.spotify.com/album/217M10Fi7Xd6PtIYx5cU1Q"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192973,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/3H1O5X7jL7fJ2DKg9cU8Ox"
     },
     {
       "album": {
@@ -995,7 +1048,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 205000,
       "name": "\u00c0 qui la faute",
       "url": "https://open.spotify.com/track/6i0KLQD7zlFLyS5zxOHAB0"

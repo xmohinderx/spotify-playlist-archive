@@ -4,7 +4,7 @@
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-139 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/7I0Kgq7rLWFyN1Pzlv21nE)
+139 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

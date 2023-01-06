@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover: Yerin Baek(\ubc31\uc608\ub9b0)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 309946,
+  "num_followers": 310050,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjYzNzk4NiwwMDAwMDAwMDBjNzc3MGQ3MjI4Y2ZiOTc3YzEzYmU0NDg4MDBmNjkw",
+  "snapshot_id": "MTY3MjYzNzk4NiwwMDAwMDAwMDU5MGU2ZmY5YzU4Nzc2YzcxYWJiMWE3ZDRlMzhkNTc2",
   "tracks": [
     {
       "added_at": "2023-01-02 05:39:46",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
+        "name": "Love, Maybe (A Business Proposal OST Special Track)",
+        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Love, Maybe",
+      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
-        "name": "Love, Maybe (A Business Proposal OST Special Track)",
-        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Love, Maybe",
-      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
         "name": "Alchemy of Souls, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 251000,
       "name": "Aching",
       "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
+        "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 267280,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 204120,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
-        "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 267280,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "WINTER",
-        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 264678,
-      "name": "Will Last Forever",
-      "url": "https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
         "name": "Mother Nature (H\u2082O)",
         "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 232586,
       "name": "Mother Nature (H\u2082O)",
       "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 264678,
+      "name": "Will Last Forever",
+      "url": "https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -751,22 +751,18 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "Way - SM STATION",
-        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
       },
       "artists": [
         {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 238853,
-      "name": "Way",
-      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -787,18 +783,22 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+        "name": "Way - SM STATION",
+        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
+      "duration_ms": 238853,
+      "name": "Way",
+      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -951,38 +951,6 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "If You Wish Upon Me OST Part.3",
-        "url": "https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "I can't forget you",
-      "url": "https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 256314,
-      "name": "It\u2032s My Life",
-      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -1015,6 +983,38 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
+        "name": "If You Wish Upon Me OST Part.3",
+        "url": "https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "I can't forget you",
+      "url": "https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 256314,
+      "name": "It\u2032s My Life",
+      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
         "name": "in the bed",
         "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
@@ -1027,26 +1027,6 @@
       "duration_ms": 265058,
       "name": "in the bed",
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
-        "name": "Solo Christmas",
-        "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Solo Christmas",
-      "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1079,6 +1059,26 @@
       "duration_ms": 337480,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6FzyaKj1ra703h2h7ymkfn"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
+        "name": "Solo Christmas",
+        "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Solo Christmas",
+      "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "My Liberation Notes OST Part 1",
-        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
+        "name": "Story Of Two Years",
+        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
       },
       "artists": [
         {
-          "name": "HEN",
-          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
         }
       ],
-      "duration_ms": 218621,
-      "name": "Deeply",
-      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
+      "duration_ms": 246293,
+      "name": "\ub108\ub97c \uc704\ud574",
+      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "Story Of Two Years",
-        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
+        "name": "My Liberation Notes OST Part 1",
+        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
       },
       "artists": [
         {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
         }
       ],
-      "duration_ms": 246293,
-      "name": "\ub108\ub97c \uc704\ud574",
-      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
+      "duration_ms": 218621,
+      "name": "Deeply",
+      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "You&I",
-        "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "You&I",
-      "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
         "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 212146,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "You&I",
+      "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 238022,
-      "name": "didn't know me",
-      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 238022,
+      "name": "didn't know me",
+      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1459,18 +1459,22 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
+        "name": "Burn Like A Star",
+        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
       "artists": [
         {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        },
+        {
+          "name": "Woo Ye Rin",
+          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
         }
       ],
-      "duration_ms": 246320,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
+      "duration_ms": 188253,
+      "name": "Burn Like A Star",
+      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1491,22 +1495,18 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "Burn Like A Star",
-        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
       },
       "artists": [
         {
-          "name": "Ahn Ye Eun",
-          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
-        },
-        {
-          "name": "Woo Ye Rin",
-          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
         }
       ],
-      "duration_ms": 188253,
-      "name": "Burn Like A Star",
-      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+      "duration_ms": 246320,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 234269,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
         "name": "Faith OST",
         "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "Starting Now",
-        "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
+        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Starting Now",
-      "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
+      "duration_ms": 234269,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1623,6 +1607,22 @@
       "duration_ms": 210000,
       "name": "Invitation",
       "url": "https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
+        "name": "Starting Now",
+        "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Starting Now",
+      "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "Autumn Memories",
-        "url": "https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O"
+        "name": "If You Wish Upon Me OST Part.1",
+        "url": "https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        },
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
         }
       ],
-      "duration_ms": 238066,
-      "name": "Autumn Memories (with Lee Seok Hoon)",
-      "url": "https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ"
+      "duration_ms": 219413,
+      "name": "LONER",
+      "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
     }
   ],
   "unique_name": "v o K a l",

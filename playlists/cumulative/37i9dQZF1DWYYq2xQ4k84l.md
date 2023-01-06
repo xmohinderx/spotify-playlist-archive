@@ -4,7 +4,7 @@
 
 > The biggest songs in Latin America in 2004\. Cover: Juanes
 
-60 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/0fnqMRgAcbpZ4Qg9kxzXr2)
+60 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

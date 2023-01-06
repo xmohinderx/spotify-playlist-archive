@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-1,303 songs - 2 day 2 hr 10 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
+1,303 songs - 2 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

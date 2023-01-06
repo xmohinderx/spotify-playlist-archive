@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-496 songs - 1 day 4 hr 25 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+496 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

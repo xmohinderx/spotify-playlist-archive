@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español en la década de los 80.
 
-78 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/1ftfsehyp3cng4ZdMJRsmy)
+78 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

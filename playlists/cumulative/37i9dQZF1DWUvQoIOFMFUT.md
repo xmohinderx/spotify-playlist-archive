@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-149 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
+149 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

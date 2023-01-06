@@ -4,7 +4,7 @@
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-126 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/3q59BnHGehGPnPkDsqpEvo)
+126 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

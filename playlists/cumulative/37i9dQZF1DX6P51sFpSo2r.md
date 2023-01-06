@@ -4,7 +4,7 @@
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: A7X
 
-77 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
+77 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

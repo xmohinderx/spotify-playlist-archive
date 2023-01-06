@@ -4,7 +4,7 @@
 
 > Take it easy with these laid\-back classical tunes.
 
-79 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/47gqqZNFsCrPpkRiVILiu1)
+79 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

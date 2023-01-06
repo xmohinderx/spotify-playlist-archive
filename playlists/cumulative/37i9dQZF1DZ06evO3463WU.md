@@ -4,7 +4,7 @@
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/3m1eVXIEKnqdyvtXd0P2zf)
+76 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hosting a dinner party this year? The Mob crew share their ultimate cooking soundtrack! \#NYE2022
 
-178 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/0R9l8FVElkeD9DigbQY2x0)
+178 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

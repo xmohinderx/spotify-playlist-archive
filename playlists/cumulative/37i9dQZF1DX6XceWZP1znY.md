@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-661 songs - 1 day 20 hr 5 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+661 songs - 1 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

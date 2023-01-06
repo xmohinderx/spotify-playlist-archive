@@ -4,7 +4,7 @@
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-682 songs - 1 day 15 hr 51 min - [published](https://open.spotify.com/playlist/7uQhi6P0r2x2Aa7e4OYdRy)
+682 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

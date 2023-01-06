@@ -4,7 +4,7 @@
 
 > Easy listening pop that feels sunny wherever you are.
 
-204 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/5wFYbiZlIUOO4gWh8iRJqH)
+204 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

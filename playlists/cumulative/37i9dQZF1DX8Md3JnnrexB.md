@@ -4,7 +4,7 @@
 
 > Laid back soul music.
 
-311 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/7v77ZxN6OH86CyRzA3yih0)
+311 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

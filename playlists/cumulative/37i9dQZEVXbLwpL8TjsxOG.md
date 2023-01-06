@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-508 songs - 1 day 6 hr 33 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+508 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

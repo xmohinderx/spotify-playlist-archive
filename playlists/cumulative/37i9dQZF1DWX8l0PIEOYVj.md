@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Tsu Nami.
 
-294 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+295 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-12 | 2022-10-11 |
 | [Glass Heart \- Last Heroes Remix](https://open.spotify.com/track/6LpNRKOUC2LNpdOqeHRVYg) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97) | [Glass Heart \(Last Heroes Remix\)](https://open.spotify.com/album/5ksQTlOli0X5clkM69OITQ) | 3:32 | 2022-07-08 | 2022-08-27 |
 | [Glow In The Dark](https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Glow In The Dark](https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85) | 4:09 | 2022-07-08 |  |
-| [Gone](https://open.spotify.com/track/0ryPLLurUf7BHIfUO95rZ0) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Gone](https://open.spotify.com/album/75MgPY66oJwsrja1hnHax6) | 3:09 | 2022-07-08 |  |
+| [Gone](https://open.spotify.com/track/0ryPLLurUf7BHIfUO95rZ0) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Gone](https://open.spotify.com/album/75MgPY66oJwsrja1hnHax6) | 3:09 | 2022-07-08 | 2023-01-06 |
+| [Gone](https://open.spotify.com/track/5TSYawMYDnedU0UAR4ajrS) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Not Since When](https://open.spotify.com/album/1nRMvOYyqvCfcVEo1rz4Id) | 3:09 | 2023-01-06 |  |
 | [Gone \- N3WPORT Remix](https://open.spotify.com/track/16gJDi8MtCwhjTKsys9rB6) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Not Since When \(Remixes\)](https://open.spotify.com/album/2acJNLcQoDIkNVufH7PVXH) | 3:05 | 2022-07-08 | 2022-11-04 |
 | [Good News \(feat\. Kyle Reynolds\)](https://open.spotify.com/track/2odfdqASFlXQc7vmEwpWir) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Good News \(feat\. Kyle Reynolds\)](https://open.spotify.com/album/7bysGI4l7mf0ctxnjOf9lv) | 3:33 | 2022-07-08 | 2022-07-26 |
 | [Graduated \- Sunset City Remix](https://open.spotify.com/track/2ZmHIdYlFSA3QtrlnCVoHQ) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Sunset City](https://open.spotify.com/artist/0YMeoEFy7Pjoa1xceWrsgc) | [Graduated \(Sunset City Remix\)](https://open.spotify.com/album/7ByFQvISxuhyVwS8VeWNse) | 3:31 | 2022-12-16 |  |

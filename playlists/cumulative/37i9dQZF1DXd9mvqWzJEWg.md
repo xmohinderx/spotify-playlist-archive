@@ -4,7 +4,7 @@
 
 > It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=EGSmQqizQz687lXSsBxLdg">Omagoqa</a>
 
-86 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/7uMJ9CoeHul7GwURVi0bpy)
+86 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

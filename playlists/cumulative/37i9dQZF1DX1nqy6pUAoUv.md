@@ -4,7 +4,7 @@
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-228 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/79ANrvDhADPfS6kpFqiqNP)
+228 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Let it all go and lift yourself up with inspiring ambient music.
 
-148 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+148 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

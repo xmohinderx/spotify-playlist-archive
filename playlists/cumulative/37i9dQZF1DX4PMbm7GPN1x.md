@@ -4,7 +4,7 @@
 
 > Relive the 80s disco era with these hits\. Cover\- Bappi Lahiri
 
-74 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/6SfeW0XptP9Kbsct3VXOcx)
+74 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

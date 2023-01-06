@@ -4,7 +4,7 @@
 
 > Agárrense fuerte.
 
-93 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/4q9q1ha6StSi8KNW4vB2tv)
+93 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

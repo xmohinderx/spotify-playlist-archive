@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-257 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+257 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

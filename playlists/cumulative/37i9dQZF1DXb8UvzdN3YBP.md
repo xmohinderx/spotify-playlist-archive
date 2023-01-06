@@ -4,7 +4,7 @@
 
 > Music from and inspired by "Glass Onion: A Knives Out Mystery," coming soon to Netflix.
 
-35 songs - 2 hr 3 min - not published yet
+35 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

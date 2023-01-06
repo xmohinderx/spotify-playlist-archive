@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-183 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
+183 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

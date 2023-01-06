@@ -4,7 +4,7 @@
 
 > Christmas classics from your favourite Blues artists.
 
-125 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/2ff9bHziRvMPkCidiX8ZOI)
+125 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

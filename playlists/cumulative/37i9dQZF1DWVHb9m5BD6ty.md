@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-112 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
+112 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

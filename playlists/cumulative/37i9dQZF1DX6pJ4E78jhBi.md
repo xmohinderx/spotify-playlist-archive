@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-62 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
+62 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español en la década de los 2000\. Foto: Paulina Rubio
 
-83 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/0Mq9tH1dmcs3qcrCzj7A5S)
+83 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

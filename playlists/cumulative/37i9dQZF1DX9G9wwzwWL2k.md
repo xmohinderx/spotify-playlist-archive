@@ -4,7 +4,7 @@
 
 > Lend a little drama to the occasion with this collection of truly epic classical music.
 
-102 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/0Ass7ItbbNyArnjQYNqwuO)
+102 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

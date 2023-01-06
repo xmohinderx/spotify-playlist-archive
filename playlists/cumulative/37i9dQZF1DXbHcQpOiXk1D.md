@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-357 songs - 1 day 2 hr 11 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
+358 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Dat It](https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 4:46 | 2022-07-28 |  |
 | [Dat It](https://open.spotify.com/track/76qzY2EfLVngIMfdI7PYIf) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kiefer](https://open.spotify.com/artist/147JrO3YiY9nLD40wAlFvi) | [Dat It](https://open.spotify.com/album/5lbcjCoExqZKiaxXgO52Ti) | 4:46 | 2021-12-17 | 2022-07-29 |
 | [Days Like This](https://open.spotify.com/track/5HHpKZFPMp2QzLMRiaT5sx) | [Safiyyah](https://open.spotify.com/artist/07UzVz5qBaR5ZQcaRCYeIu), [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU), [Nikhil Beats](https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR) | [Days Like This](https://open.spotify.com/album/130gHXGawD0GHuL0VnfAVh) | 3:38 | 2022-03-08 |  |
-| [Did It Yesterday](https://open.spotify.com/track/1CB55jCLNOG1Ch11sttXJa) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Did It Yesterday](https://open.spotify.com/album/0m6WGHrwytB2bwuREPC7uR) | 3:08 | 2022-12-23 |  |
+| [Did It Yesterday](https://open.spotify.com/track/1CB55jCLNOG1Ch11sttXJa) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Did It Yesterday](https://open.spotify.com/album/0m6WGHrwytB2bwuREPC7uR) | 3:08 | 2022-12-23 | 2023-01-06 |
 | [Did It Yesterday](https://open.spotify.com/track/3qcDDIxV01o13XtN21BRHk) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Did It Yesterday](https://open.spotify.com/album/6qVwOxqFQMNawnwxpUzPEo) | 3:08 | 2022-03-31 | 2022-11-20 |
 | [Discover We Can Fly](https://open.spotify.com/track/5BEpmQY6P40WFDamYFeoUH) | [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Discover We Can Fly](https://open.spotify.com/album/45x8hmroklLHxA2jOi5KWT) | 3:42 | 2022-07-07 |  |
 | [Distraction](https://open.spotify.com/track/1RYvG5NlbR0tXBZvdLLDDS) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Beginner's Mind](https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb) | 5:25 | 2021-12-17 | 2022-11-13 |
@@ -267,6 +267,7 @@
 | [Siesta \(feat\. Emeli Sandé\)](https://open.spotify.com/track/200mXRutkz0x5MSQWyipxS) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 5:48 | 2022-11-04 | 2022-11-11 |
 | [Siesta \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2jtv6QIbHu3898oFPzT2Tl) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Siesta \(feat\. Emeli Sandé\)](https://open.spotify.com/album/1JdqETJJrUGan7FBt7vt98) | 5:48 | 2022-11-04 | 2022-11-13 |
 | [Siesta \(feat\. Emeli Sandé\)](https://open.spotify.com/track/5Yrm1i3NX7r6ycWViSz7oh) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Where I'm Meant To Be](https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux) | 5:48 | 2022-11-04 | 2022-11-05 |
+| [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 | 2022-12-23 |  |
 | [So Cold](https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb) | 4:12 | 2022-07-21 | 2022-12-25 |
 | [So Cool](https://open.spotify.com/track/25xfVwwykey7PVnsNRutbq) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [So Cool](https://open.spotify.com/album/4IbciRuHRVvhJRXqxhzZiX) | 2:10 | 2021-12-17 | 2022-07-08 |
 | [Something I Said](https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2) | 3:16 | 2022-07-28 | 2022-10-02 |

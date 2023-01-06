@@ -4,7 +4,7 @@
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-187 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/45e1y3tTcfgWBUhkl1XGMc)
+187 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

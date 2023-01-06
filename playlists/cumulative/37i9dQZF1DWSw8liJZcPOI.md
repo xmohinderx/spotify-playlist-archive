@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-398 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
+398 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

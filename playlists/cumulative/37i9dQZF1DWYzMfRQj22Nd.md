@@ -4,7 +4,7 @@
 
 > Taking the big steps with Drum & Bass.
 
-371 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/302liozpy9kx91eTyMB6S5)
+371 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

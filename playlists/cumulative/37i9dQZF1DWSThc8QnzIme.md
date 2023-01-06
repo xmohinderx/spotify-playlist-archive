@@ -4,7 +4,7 @@
 
 > Breeze through your commute with these pop favorites\. Cover: Lizzo
 
-268 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/0vJdsJlQZRjy621RIKPqKt)
+268 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

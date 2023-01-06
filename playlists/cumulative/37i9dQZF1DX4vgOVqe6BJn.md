@@ -4,7 +4,7 @@
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-119 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/4JXldDdcRr0IB1N0GH17pC)
+119 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,390 likes - 57 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,428 likes - 57 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 17 | [Waka Waka \(This Time For Africa\)](https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [United We Sing](https://open.spotify.com/album/7oJCzq2s36F8PByLgaaYX6) | 3:19 |
 | 18 | [Wake Me Up](https://open.spotify.com/track/60Q0ZSKKBea7otGijFgrQI) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Crazy Life](https://open.spotify.com/album/7qn9BbiBucTH28IoyEGMyy) | 3:13 |
 | 19 | [Party In The U.S.A.](https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 1:02 |
-| 20 | [I Just Called To Say I Love You](https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [I Just Called To Say I Love You](https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw) | 3:26 |
+| 20 | [Despacito x Shape Of You](https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 3:18 |
 | 21 | [If I Die Young \(Glee Cast Version\)](https://open.spotify.com/track/1REX2q4Fverp8zH7KuSeZC) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [The Quarterback](https://open.spotify.com/album/5K2lqUwpSHseCoCfBcvlcV) | 3:41 |
 | 22 | [No Ego](https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [No Ego](https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv) | 2:54 |
 | 23 | [I See Fire](https://open.spotify.com/track/1ZapqbVeMR92xHFDDJcTy3) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:53 |
 | 24 | [Rhythm of Love / Can't Help Falling in Love \- EP Version](https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack: Volume 2](https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6) | 3:33 |
 | 25 | [Stacey's Mom](https://open.spotify.com/track/2REesWs353uf4aQz09I2HG) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Full Coverage](https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ) | 3:21 |
-| 26 | [Despacito x Shape Of You](https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 3:18 |
+| 26 | [I Just Called To Say I Love You](https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [I Just Called To Say I Love You](https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw) | 3:26 |
 | 27 | [Teenage Dream \(feat\. Darren Criss\)](https://open.spotify.com/track/0nzvwCXs0X3SGPhyGdb7Cp) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm), [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [Glee: The Music, Volume 4](https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI) | 3:40 |
 | 28 | [Back To Basics \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/44xQqtGgjixgB0gnomttKX) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 1:30 |
 | 29 | [Right Round](https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1), [Kay](https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 3:16 |
@@ -64,6 +64,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 54 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 |
 | 55 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |
 | 56 | [Radioactive](https://open.spotify.com/track/6BD0x5rIhqscFOg4u3Y2I9) | [The Michigan G\-Men](https://open.spotify.com/artist/0p4IV6lgprujWIzDZ7mkW7) | [The GP](https://open.spotify.com/album/7EyFTJ9y1YcXA5S3WFwWeO) | 3:04 |
-| 57 | [Ordinary People](https://open.spotify.com/track/76gxuHuto98nHGREuQmYMn) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [J.None](https://open.spotify.com/artist/3WbIAfBAZZolnww7HPuWqe) | [Ordinary People](https://open.spotify.com/album/7eUyybbl4WNllfbMIng1Sk) | 1:14 |
+| 57 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDI5MGFjYTNhOWNkZjM4YmFmZDQ3MTUwNGQ4MTBmMTNk`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDJhN2JmNzFkMGQ0NTM2N2M5NzgzMjFlNmZjMGE2OTI3`

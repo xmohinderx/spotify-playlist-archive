@@ -4,7 +4,7 @@
 
 > Close the curtains, it's time for some leftfield gems.
 
-177 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/6h0aBJF4DpxBxWLBMOrNnP)
+177 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

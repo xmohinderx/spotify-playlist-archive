@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-246 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/7LN5PEHjWoyc7Gr8YesNHn)
+246 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Frankie Please](https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw) | 2:43 | 2022-04-22 |  |
 | [Frankie Please](https://open.spotify.com/track/7iL3tEPfvqOnZ6glFtWhRm) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/2VkipAw4rgbFGAUyI4cdph) | 2:43 | 2021-11-11 | 2022-07-29 |
 | [Garfield's Blackberry Blossom](https://open.spotify.com/track/3S4HRC12gDqUqPDtnvtScN) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Release Me](https://open.spotify.com/album/5pHY33NfVPp6no94BYgoWS) | 3:06 | 2021-11-11 | 2022-07-29 |
-| [Garfield's Blackberry Blossom](https://open.spotify.com/track/2H6m033IwS1i0fkHyWP3g8) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Release Me](https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG) | 3:06 | 2022-04-22 | 2022-11-13 |
+| [Garfield's Blackberry Blossom](https://open.spotify.com/track/2H6m033IwS1i0fkHyWP3g8) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Release Me](https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG) | 3:06 | 2022-04-22 |  |
 | [Gentle on My Mind](https://open.spotify.com/track/4cqj2eiCHxpyf80ePDrcgs) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Gentle On My Mind](https://open.spotify.com/album/7f4JdFYRCcPLVwBwxleQMW) | 3:39 | 2021-11-11 | 2022-07-29 |
 | [Gentle on My Mind](https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine a Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz) | 3:39 | 2022-04-22 |  |
 | [Girl She Used to Be](https://open.spotify.com/track/4AWa8GvbhIEhNoloXwamf8) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7) | [Tightrope](https://open.spotify.com/album/5ZGlQgonNIgNIZgB13aXvZ) | 2:50 | 2021-11-11 | 2022-07-21 |
@@ -135,7 +135,7 @@
 | [Killing the Blues](https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 4:15 | 2021-11-11 |  |
 | [Knee Deep in the Wakarusa River](https://open.spotify.com/track/0tSSPNytFK5ZpIdGYtID52) | [Chuck Mead](https://open.spotify.com/artist/65gM2feRQDv9iYZPEnRtfD) | [Free State Serenade](https://open.spotify.com/album/0pqpWAaVRi3Vj26semUglc) | 3:29 | 2022-10-14 | 2022-11-13 |
 | [Knee Deep in The Wakarusa River](https://open.spotify.com/track/4un1HeXCwyRNzRnMgpZ9XQ) | [Chuck Mead](https://open.spotify.com/artist/65gM2feRQDv9iYZPEnRtfD) | [Free State Serenade](https://open.spotify.com/album/2wYy8JcZavYGdVDKpbyoI5) | 3:29 | 2021-11-11 | 2022-07-29 |
-| [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 | 2021-11-11 |  |
+| [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 | 2021-11-11 | 2023-01-06 |
 | [Let's Have A Good Thing Together](https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [I'm A Song](https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1) | 2:09 | 2022-04-22 |  |
 | [Let's Have a Good Thing Together](https://open.spotify.com/track/0Erb8wHT9YOyi6iYg0JgbB) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [I'm a Song](https://open.spotify.com/album/28f3FK6jtEB8oICONdPz0z) | 2:09 | 2021-11-11 | 2022-07-28 |
 | [Little Black Train](https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c) | [Carlene Carter](https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY) | [Carter Girl](https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T) | 2:49 | 2021-11-11 | 2022-07-23 |

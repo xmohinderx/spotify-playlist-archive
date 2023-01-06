@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-152 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+152 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

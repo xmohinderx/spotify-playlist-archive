@@ -4,7 +4,7 @@
 
 > Giving motivation to your Monday\. You got this!
 
-240 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/0X6TOoiYfTcPrHrYMRW2LE)
+240 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

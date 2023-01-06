@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-237 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+237 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-150 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
+150 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

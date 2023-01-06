@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-391 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+391 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

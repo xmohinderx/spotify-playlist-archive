@@ -1,12 +1,12 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 28116,
+  "num_followers": 28132,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDE2NzNlNGIwMTNmZGJiOWI1MjFjZDBhNTdiYTRkYjVh",
+  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDgxZGIyMzcyMDQwMjNlZDNhMGUzOTk3NTI5MTQ5ZWVm",
   "tracks": [
     {
       "added_at": "2022-09-22 18:15:34",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 177388,
-      "name": "Gabino Barrera",
-      "url": "https://open.spotify.com/track/2QSvl8WTIffnGgCvvlpixE"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
         "name": "Por El Amor De Siempre",
         "url": "https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 226146,
       "name": "Me Estoy Acostumbrando A Ti",
       "url": "https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 177388,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/2QSvl8WTIffnGgCvvlpixE"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 224525,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 205236,
       "name": "En Realidad",
       "url": "https://open.spotify.com/track/2m7I1EX7ogZVHFow6Q1jeC"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 224525,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
     },
     {
       "added_at": "2022-09-22 18:15:34",

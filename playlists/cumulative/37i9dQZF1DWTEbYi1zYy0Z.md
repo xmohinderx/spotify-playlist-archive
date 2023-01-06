@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Candy Dulfer
 
-285 songs - 20 hr 8 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
+285 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Dig It](https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Blue](https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk) | 3:36 | 2022-04-15 | 2022-10-06 |
 | [Dirty Dozen](https://open.spotify.com/track/6xAwvLnRA9QcxdZNNEIsx8) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Dirty Dozen](https://open.spotify.com/album/6ePyOueklnKrmRG3H3PVrs) | 5:08 | 2021-01-22 | 2022-03-17 |
 | [Don't Dance Just Groove](https://open.spotify.com/track/3dsXfrmwFbFDIVonEmffrD) | [Brien Andrews](https://open.spotify.com/artist/0xQmAh1v4k0K5fydCXzC2v), [Mike Burton](https://open.spotify.com/artist/22tMPEnDoxqZCe1K0e8Bgf), [Rick Watford](https://open.spotify.com/artist/7kQ3e3lxm8YZZOxJRTFVlS) | [Don't Dance Just Groove](https://open.spotify.com/album/4VzSPapYMrZZ8jDInirxmc) | 4:00 | 2020-10-30 | 2022-03-17 |
-| [Donut Jam](https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs) | [Peet Project](https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD) | [Donut Jam](https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ) | 3:36 | 2022-09-02 | 2022-12-31 |
+| [Donut Jam](https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs) | [Peet Project](https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD) | [Donut Jam](https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ) | 3:36 | 2022-09-02 |  |
 | [Double Trouble](https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr) | [Greg Chambers](https://open.spotify.com/artist/0oj9oLaApiDmqUbY0Q6WnN) | [No Looking Back](https://open.spotify.com/album/7Ls3fvAbt1xvsDKZZ6WW9j) | 4:21 | 2021-10-01 | 2022-09-17 |
 | [Double Up](https://open.spotify.com/track/10RHJ5FSQrdk5QjFm47lZf) | [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Double Up](https://open.spotify.com/album/64lfO2ja1ypFBwwwTWZcQk) | 4:04 | 2020-10-30 | 2022-03-18 |
 | [Dr\. Norm](https://open.spotify.com/track/6Zecb7XcsuSA9cAe4CnTM7) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Dr\. Norm](https://open.spotify.com/album/0lsBgN4pg9FT9rX5srPUsl) | 4:10 | 2020-10-30 | 2022-03-17 |
@@ -129,7 +129,7 @@
 | [I'll Be There](https://open.spotify.com/track/3l1j42roicNXApsbTtebuo) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The Collective II](https://open.spotify.com/album/0pvXCuppcMxYTi2vCXmGyW) | 4:08 | 2021-04-16 | 2022-03-03 |
 | [I'm Good \- radio single](https://open.spotify.com/track/5nSWbNXMgZZbVf16wiCp0f) | [Charles A\. Kelly](https://open.spotify.com/artist/61e513QSeet2Fwz8XvFegM) | [I'm Good](https://open.spotify.com/album/2eqo8o737VCnrQaMFk1fe1) | 3:48 | 2022-10-29 | 2022-11-18 |
 | [Ignition](https://open.spotify.com/track/1HvQ21aHUGiuW1TVuLZmhe) | [Antonio Jackson](https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5) | [Ignition](https://open.spotify.com/album/41O77E8aABtnJHLv4FlOju) | 4:33 | 2021-07-16 | 2022-07-26 |
-| [III](https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz) | [Marco Giubileo](https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF), [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ), [Kim Stone](https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3), [Roberto Soggetti](https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r), [Simone Boffa](https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR) | [III](https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU) | 3:51 | 2022-10-07 |  |
+| [III](https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz) | [Marco Giubileo](https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF), [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ), [Kim Stone](https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3), [Roberto Soggetti](https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r), [Simone Boffa](https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR) | [III](https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU) | 3:51 | 2022-10-07 | 2023-01-06 |
 | [In His Vision](https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb) | [Christian de Mesones](https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS) | [In His Vision](https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae) | 3:51 | 2022-06-17 |  |
 | [In Other Words](https://open.spotify.com/track/3og6j45E7aT2SWjkRf7fRs) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Real Life](https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv) | 4:53 | 2020-10-30 | 2022-03-08 |
 | [In the Moment](https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4) | [Deon Yates](https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO), [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [In the Moment](https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS) | 3:58 | 2020-10-30 | 2022-03-18 |

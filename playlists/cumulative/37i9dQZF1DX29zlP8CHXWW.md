@@ -4,7 +4,7 @@
 
 > Check out some of the songs from the <a href="https://www.passion2023.com/"> Passion 2023 </a> conference.
 
-42 songs - 4 hr 14 min - not published yet
+42 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

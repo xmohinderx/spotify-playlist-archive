@@ -4,7 +4,7 @@
 
 > 做嘢做到攰，開電視煲吓劇嘆返吓先！聽埋電影同劇集歌，陪你抖返晚。cover: 周興哲
 
-57 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/0zRudhfpeks6lWBZYLxVst)
+57 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Nadie puede quedarse callado cuando estos clásicos suenan en la tribuna.
 
-102 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/7JLQMvMjmUT8OSs9Wjf0X9)
+102 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

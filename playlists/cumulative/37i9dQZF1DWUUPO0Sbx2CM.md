@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-246 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/3vMk9zjuuRtPgQLPS55xS3)
+246 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

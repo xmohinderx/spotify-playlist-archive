@@ -4,7 +4,7 @@
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/0q9eCBIENK9Aex2kFoVgdb)
+56 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

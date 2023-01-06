@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-199 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
+199 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

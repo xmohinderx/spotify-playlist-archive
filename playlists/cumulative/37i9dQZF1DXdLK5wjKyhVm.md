@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-262 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/3E2lh7nVWayN4spRzw9dBo)
+262 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

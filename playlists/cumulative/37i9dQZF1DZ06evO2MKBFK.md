@@ -4,7 +4,7 @@
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/5x3XPazYHMb3rRzDpHUYlp)
+62 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

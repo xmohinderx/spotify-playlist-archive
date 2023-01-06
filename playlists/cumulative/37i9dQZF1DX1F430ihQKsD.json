@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-28",
   "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Chiiild",
   "name": "Montr\u00e9al Chill",
-  "published_playlist_ids": [
-    "4x7dCsK0Zzpdb88Niig3QN"
-  ],
   "tracks": [
     {
       "album": {
@@ -2173,7 +2170,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 157935,
       "name": "J'ai pu de temps \u00e0 perdre!",
       "url": "https://open.spotify.com/track/7zlE1kw1sEm9fGjCfPNRqx"
@@ -2310,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Juillet",
+        "url": "https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a"
+      },
+      "artists": [
+        {
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184946,
+      "name": "Juillet",
+      "url": "https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP"
+    },
+    {
+      "album": {
         "name": "Keep Hiding (way back)",
         "url": "https://open.spotify.com/album/68ra6iNQK40XmAW9TGh5XF"
       },
@@ -2391,6 +2406,24 @@
       "duration_ms": 159951,
       "name": "La nuit",
       "url": "https://open.spotify.com/track/3QNCQAYQqhEdv3zwWmBMX6"
+    },
+    {
+      "album": {
+        "name": "La nuit te ressemble",
+        "url": "https://open.spotify.com/album/345aq3mWimamc7hD1kbhvk"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs",
+          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169004,
+      "name": "La nuit te ressemble",
+      "url": "https://open.spotify.com/track/6sbeMTdnXolT6YZwfSsVbu"
     },
     {
       "album": {
@@ -4357,7 +4390,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 187080,
       "name": "Tout est parfait",
       "url": "https://open.spotify.com/track/0ZJKrCCgePFz5obWfJqHh7"

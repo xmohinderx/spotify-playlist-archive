@@ -4,7 +4,7 @@
 
 > The right music can make a good tailgate great.
 
-150 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/7wnWj8g9uDLSq7ZWd0CcWi)
+150 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

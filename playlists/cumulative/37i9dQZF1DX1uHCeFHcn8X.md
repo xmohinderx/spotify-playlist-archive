@@ -4,7 +4,7 @@
 
 > Mellow songs from the 2010s.
 
-425 songs - 1 day 2 hr 19 min - [published](https://open.spotify.com/playlist/0GlX4cdlG7EraWNs6wkYYs)
+425 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

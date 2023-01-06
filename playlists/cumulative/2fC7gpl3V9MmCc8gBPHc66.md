@@ -4,7 +4,7 @@
 
 > 
 
-731 songs - 2 day 1 hr 44 min - [published](https://open.spotify.com/playlist/0fCtQPyc2UfKU6oHsoXFs0)
+731 songs - 2 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

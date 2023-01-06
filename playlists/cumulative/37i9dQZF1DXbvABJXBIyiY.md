@@ -4,7 +4,7 @@
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-125 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/155vUGZmORDuQImfG0A8fc)
+125 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

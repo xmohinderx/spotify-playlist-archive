@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz christmas classics.
 
-114 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
+114 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

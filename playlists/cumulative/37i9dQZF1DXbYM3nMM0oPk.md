@@ -4,7 +4,7 @@
 
 > A mega mix of 75 favorites from the last few years!
 
-328 songs - 17 hr 50 min - [published](https://open.spotify.com/playlist/653GHkpxw7GmjVxcOlv7fz)
+328 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-358 songs - 22 hr 34 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
+358 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

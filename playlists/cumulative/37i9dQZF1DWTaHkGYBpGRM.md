@@ -4,7 +4,7 @@
 
 > Long distance is hard, but true love knows no boundaries.
 
-139 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/4ITWUe9tguZr37ZcyB09uq)
+140 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Please Stay](https://open.spotify.com/track/0dSTuo3SoZqR8bG4xBOHVv) | [Francois Klark](https://open.spotify.com/artist/6pWdTbfpN654qlN83k3O0P) | [Love](https://open.spotify.com/album/12SFWJtCHuTAW1WX7gpkCU) | 3:44 | 2021-01-25 |  |
 | [Rather Be \- Acoustic Version](https://open.spotify.com/track/6GRKTZWLyVSgHkXljLieMw) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Rather Be \(Acoustic Version\)](https://open.spotify.com/album/6A5p2vHqntNxFkQH3BSKGY) | 2:52 | 2021-01-25 | 2022-07-29 |
 | [Rather Be \- Acoustic Version](https://open.spotify.com/track/70xYJHdWmz19ahK7emfqQi) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Acoustic Hits, Vol\. 1](https://open.spotify.com/album/7k0NBsULw2oXznJTpk3LFl) | 2:52 | 2021-01-25 | 2022-10-09 |
-| [Rather Be with You \- Acoustic](https://open.spotify.com/track/7fS708BKUj1zNyejmuZxDb) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x) | 3:19 | 2021-01-25 |  |
+| [Rather Be with You \- Acoustic](https://open.spotify.com/track/2rNIGwLuQauPp8qLFuQnzm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/4gfAeJv9CKKraAUEqEQOqs) | 3:19 | 2022-12-29 |  |
+| [Rather Be with You \- Acoustic](https://open.spotify.com/track/7fS708BKUj1zNyejmuZxDb) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x) | 3:19 | 2021-01-25 | 2023-01-06 |
 | [Rivers And Roads](https://open.spotify.com/track/1vhWwkwqqOHCcOcxhRmxOF) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/2JfoihpwOWLaCgYmxgRzG7) | 4:44 | 2021-01-25 | 2022-07-29 |
 | [Rivers and Roads](https://open.spotify.com/track/3nzXs8ynjIwQvmxjogvCYx) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:44 | 2021-01-25 | 2022-10-13 |
 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 | 2022-10-08 |  |

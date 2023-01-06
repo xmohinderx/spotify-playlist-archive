@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-370 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
+370 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

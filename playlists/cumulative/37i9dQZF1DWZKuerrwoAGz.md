@@ -4,7 +4,7 @@
 
 > Put a smile on your face with these happy tunes from the last 30 years.
 
-304 songs - 18 hr 21 min - [published](https://open.spotify.com/playlist/35rEabbJhNhvQ3dHFQSX1H)
+304 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

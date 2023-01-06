@@ -4,7 +4,7 @@
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-99 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/6p4gtJcb6ydfBR1qukdk2z)
+99 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

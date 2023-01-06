@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Tune into the finest of Tamil Indie music!\nCover : Vaisagh",
   "name": "Tamil Indie",
-  "published_playlist_ids": [
-    "2PMncOoQzIIDP1bjPCpxj8"
-  ],
   "tracks": [
     {
       "album": {
@@ -295,6 +292,24 @@
       "duration_ms": 183000,
       "name": "Ailasa",
       "url": "https://open.spotify.com/track/3mJ2SqmXIDbn5XECaqN1jj"
+    },
+    {
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/6iBQPUhx4Ptzg8w0S2PoaG"
+      },
+      "artists": [
+        {
+          "name": "yogesh raj kumar",
+          "url": "https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/2SnHeg55mv1Oc0oit4BkpC"
     },
     {
       "album": {

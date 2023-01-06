@@ -4,7 +4,7 @@
 
 > New classics and essential cuts from all your favorite rock bands\. Cover: Rage Against The Machine
 
-159 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/4pFaQUM5cFSlRBE1ox0Ws5)
+159 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

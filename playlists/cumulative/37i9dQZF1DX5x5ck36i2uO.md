@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-158 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/0JIQYIs8BcYEYxPxINEZdb)
+158 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

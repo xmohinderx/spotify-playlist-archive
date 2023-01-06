@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-14",
   "description": "A new take on a classic sound. Cover: Lee Fields",
   "name": "Retro Soul",
-  "published_playlist_ids": [
-    "19AFs6pZ8WyCXnrxjl6M3m"
-  ],
   "tracks": [
     {
       "album": {
@@ -784,6 +781,32 @@
     },
     {
       "album": {
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200686,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
+    },
+    {
+      "album": {
         "name": "Inside Voice",
         "url": "https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof"
       },
@@ -825,24 +848,6 @@
       "duration_ms": 216900,
       "name": "Don\u2019t Want It to Be Over (ft. Coco O.)",
       "url": "https://open.spotify.com/track/7qZknx1i2TgMxOiPP1psEo"
-    },
-    {
-      "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        }
-      ],
-      "date_added": "2021-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200686,
-      "name": "Don\u2019t You Know",
-      "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
     },
     {
       "album": {

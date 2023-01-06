@@ -4,7 +4,7 @@
 
 > Inspired by the arts and his own vivid imagination, Debussy defined a new era of musical impressionism\. Discover his dreamlike preludes, suites and songs right here.
 
-91 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/7G1VOxxafZUDmSTLzS3mJt)
+91 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

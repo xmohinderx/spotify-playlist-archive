@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds AU & NZ this year\. Cover: RONA.
 
-1,494 songs - 3 day 10 hr 54 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
+1,494 songs - 3 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-79 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
+79 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

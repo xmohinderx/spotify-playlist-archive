@@ -4,7 +4,7 @@
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-103 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/2qmmfC30ZHMujmfzim09nF)
+103 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

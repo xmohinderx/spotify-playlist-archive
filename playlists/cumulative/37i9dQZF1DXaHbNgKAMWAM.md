@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-207 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
+207 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

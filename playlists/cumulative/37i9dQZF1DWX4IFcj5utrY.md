@@ -4,7 +4,7 @@
 
 > Only the hottest South African House and Dance singles out right now\. Celebrating 2023 with a hand\-picked mix by <a href="https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ?si=MTbAe2M6RnSNRo8DhO6dBQ">Kususa</a> and <a href="https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt?si=xwCk\-gGYR\_CDzKCoaHvdXw">Argento Dust</a>
 
-677 songs - 2 day 17 hr 45 min - [published](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
+677 songs - 2 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-190 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/4YsfLsdnQQm3Z91YQleLNc)
+190 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

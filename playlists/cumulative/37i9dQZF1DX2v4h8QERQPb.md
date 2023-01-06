@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Muerejoven.
 
-181 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
+181 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

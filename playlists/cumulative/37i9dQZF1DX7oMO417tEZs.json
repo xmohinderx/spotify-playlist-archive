@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-20",
   "description": "Proudly marching to the beat of their own drum. Cover: Lous and The Yakuza",
   "name": "Outliers",
-  "published_playlist_ids": [
-    "2eZDT7fvyZw5HsAm74ImXE"
-  ],
   "tracks": [
     {
       "album": {
@@ -987,7 +984,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 130192,
       "name": "Be Honest'",
       "url": "https://open.spotify.com/track/0YQ1b1ySD9cDPnqpDVB7SQ"
@@ -1561,6 +1558,28 @@
       "duration_ms": 286555,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/4vKEzzWe1W1xYI5foZu15g"
+    },
+    {
+      "album": {
+        "name": "Build Me A House",
+        "url": "https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17"
+      },
+      "artists": [
+        {
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+        },
+        {
+          "name": "Tiggs Da Author",
+          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181481,
+      "name": "Build Me A House",
+      "url": "https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp"
     },
     {
       "album": {
@@ -2501,7 +2520,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 148205,
       "name": "Day Like This",
       "url": "https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu"
@@ -3798,6 +3817,28 @@
     },
     {
       "album": {
+        "name": "Finally Realized",
+        "url": "https://open.spotify.com/album/4TxMEMUp7U3AInb9jOqJ2r"
+      },
+      "artists": [
+        {
+          "name": "remember property",
+          "url": "https://open.spotify.com/artist/25E5zGd4262arDCKSv3S1f"
+        },
+        {
+          "name": "Ben Dintsman",
+          "url": "https://open.spotify.com/artist/4u8zXZraALJQX3jwfSUGom"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Finally Realized",
+      "url": "https://open.spotify.com/track/6dyYgbdagQGgc3IY8Swq3c"
+    },
+    {
+      "album": {
         "name": "Fire Inside",
         "url": "https://open.spotify.com/album/4fJcyHPnaDulJSC9ohTwvF"
       },
@@ -4531,6 +4572,28 @@
       "duration_ms": 212189,
       "name": "Gutterball",
       "url": "https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS"
+    },
+    {
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/15hWrI41OGojvzOi2WdZrv"
+      },
+      "artists": [
+        {
+          "name": "Electric City Underground",
+          "url": "https://open.spotify.com/artist/7hYxhORY6xGtqJxxTCThua"
+        },
+        {
+          "name": "Tachichi",
+          "url": "https://open.spotify.com/artist/3rmvxuQw8DVQcLT4W1JIFP"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220434,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/4HdVQGGTaM9n8mObX1Ii1B"
     },
     {
       "album": {
@@ -6481,7 +6544,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 147907,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/47rk9eQwI1zUlaZymVQeWQ"
@@ -9238,6 +9301,32 @@
     },
     {
       "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/1aYe4zSW94TpR5T3ua89Ue"
       },
@@ -10455,7 +10544,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 273879,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/5TbZ3iiuoIhLGFvq2IoIwD"
@@ -10491,7 +10580,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 199876,
       "name": "Take Two",
       "url": "https://open.spotify.com/track/4g8jAI4REmgqoE9aDZwFZi"
@@ -11943,6 +12032,24 @@
       "duration_ms": 111864,
       "name": "Xbox",
       "url": "https://open.spotify.com/track/0D96Qm09CDTxfu85rkpZwO"
+    },
+    {
+      "album": {
+        "name": "XO Evil Llif3",
+        "url": "https://open.spotify.com/album/3cZ6tecA5PSfQf6cFulIoy"
+      },
+      "artists": [
+        {
+          "name": "steve breaux",
+          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175774,
+      "name": "XO Evil Llif3",
+      "url": "https://open.spotify.com/track/2xi27TLd2IuOddXHaJ7pQn"
     },
     {
       "album": {

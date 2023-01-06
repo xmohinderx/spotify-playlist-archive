@@ -4,7 +4,7 @@
 
 > Il sound giusto per creare in cucina!
 
-157 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/2CxEthUjeG52icgHTYS4xZ)
+157 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Marvel’s Spidey and His Amazing Friends in one playlist!
 
-164 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
+164 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

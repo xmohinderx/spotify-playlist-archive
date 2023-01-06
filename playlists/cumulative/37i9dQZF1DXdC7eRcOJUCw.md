@@ -4,7 +4,7 @@
 
 > Estas damas sí que tienen carácter\. Majo Aguilar en portada.
 
-176 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/28qg7h7VtnPvoLfHcWoH3E)
+176 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

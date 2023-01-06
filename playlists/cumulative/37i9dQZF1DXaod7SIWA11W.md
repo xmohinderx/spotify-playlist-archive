@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Limoblaze
 
-181 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/3GMEBhg58xE6pI1nu7uZoh)
+181 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

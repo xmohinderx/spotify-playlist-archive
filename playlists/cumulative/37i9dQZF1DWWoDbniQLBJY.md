@@ -4,7 +4,7 @@
 
 > Pop Acústico para tu día.
 
-163 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/4u1h06ki2j7GNHTZCGcFb9)
+163 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

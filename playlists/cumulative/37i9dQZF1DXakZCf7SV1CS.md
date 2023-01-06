@@ -4,7 +4,7 @@
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-126 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/7osmwtkMAqCNF1RA6866nT)
+126 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Rock that was on repeat during the summers of the 2010s.
 
-160 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/3f3f8piufbDLkFObYrYDmB)
+160 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

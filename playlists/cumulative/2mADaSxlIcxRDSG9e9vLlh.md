@@ -4,7 +4,7 @@
 
 > Songs for you and your best friend\. Endless love in any weather.
 
-35 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/2KgxHu7oKXk5HliU5AMyZC)
+35 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

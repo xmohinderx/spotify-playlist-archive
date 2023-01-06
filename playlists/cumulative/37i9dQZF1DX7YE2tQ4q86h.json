@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Screaming, crying, throwing up!  If you like this, you'll love  <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>.  Cover: Enisa",
+  "description": "Songs for the Avatars \ud83d\ude09 and the M3ganistas Cover: Ava Max",
   "name": "OBSESSED",
-  "published_playlist_ids": [
-    "3PlypPTy0dmRQm3XnaWpH4"
-  ],
   "tracks": [
     {
       "album": {
@@ -2121,7 +2118,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 219710,
       "name": "Femininomenon",
       "url": "https://open.spotify.com/track/1YlOZY3puELE0PgxD1enZo"
@@ -5914,6 +5911,24 @@
     },
     {
       "album": {
+        "name": "Somewhere in Between",
+        "url": "https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156475,
+      "name": "Somewhere in Between",
+      "url": "https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG"
+    },
+    {
+      "album": {
         "name": "Sooner Or Later",
         "url": "https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt"
       },
@@ -6518,6 +6533,28 @@
     },
     {
       "album": {
+        "name": "Nothing but the Beat",
+        "url": "https://open.spotify.com/album/08DAekBeqPRCsn3XHDwj6b"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245040,
+      "name": "Titanium (feat. Sia)",
+      "url": "https://open.spotify.com/track/77TT8Xvx637TpzV8kKGkUw"
+    },
+    {
+      "album": {
         "name": "Tongue",
         "url": "https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN"
       },
@@ -6841,7 +6878,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 233278,
       "name": "Welcome To My Island",
       "url": "https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud"

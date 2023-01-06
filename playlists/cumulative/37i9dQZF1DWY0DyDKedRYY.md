@@ -4,7 +4,7 @@
 
 > RADAR's artists to watch in 2023\. Featuring RADAR official artist Villano Antillano on the cover.
 
-453 songs - 23 hr 28 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
+453 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

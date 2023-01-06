@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-246 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
+246 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

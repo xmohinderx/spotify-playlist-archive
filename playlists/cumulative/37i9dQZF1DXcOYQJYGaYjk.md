@@ -4,7 +4,7 @@
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-170 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/0CXUKaVOYdtwBBmW5qBSmh)
+170 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

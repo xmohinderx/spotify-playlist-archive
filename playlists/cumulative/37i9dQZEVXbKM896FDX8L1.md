@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-932 songs - 2 day 6 hr 40 min - [published](https://open.spotify.com/playlist/4n1f92uAImh9ia0W919RKo)
+932 songs - 2 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

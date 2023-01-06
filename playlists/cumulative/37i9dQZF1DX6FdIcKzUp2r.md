@@ -4,7 +4,7 @@
 
 > Work or rest with these gems from the 80s.
 
-188 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/2Cgd8hsxaYihdEGXj2hiiD)
+188 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

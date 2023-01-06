@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-292 songs - 1 day 2 hr 7 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
+292 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

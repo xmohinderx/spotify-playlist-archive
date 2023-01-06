@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-27",
   "description": "Os grandes hits do momento est\u00e3o aqui! Foto: Lu\u00edsa Sonza, Xam\u00e3",
   "name": "Hot Hits Brasil",
-  "published_playlist_ids": [
-    "1KdstGq2CxRxvGbquOUHHu"
-  ],
   "tracks": [
     {
       "album": {
@@ -1327,7 +1324,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
@@ -2517,6 +2514,28 @@
       "duration_ms": 152690,
       "name": "VERMELHO",
       "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
+    },
+    {
+      "album": {
+        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181505,
+      "name": "Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/3rTg5u0gjZVZW8OGphOlcU"
     },
     {
       "album": {

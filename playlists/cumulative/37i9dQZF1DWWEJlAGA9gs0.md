@@ -4,7 +4,7 @@
 
 > A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of classical music.
 
-245 songs - 1 day 3 hr 6 min - [published](https://open.spotify.com/playlist/4GpVB3ZYw6xDnEoi26xxbh)
+245 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

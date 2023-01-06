@@ -4,7 +4,7 @@
 
 > Demi Lovato, host of 4D with Demi, shares podcasts helping to celebrate important voices.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/0hzyjezq4AvNDlDoWlx5U7)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

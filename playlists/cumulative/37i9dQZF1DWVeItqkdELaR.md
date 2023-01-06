@@ -4,7 +4,7 @@
 
 > A trilha sonora do verão.
 
-151 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/26p8TFBUNyvm12xCRNHL4H)
+151 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-767 songs - 1 day 18 hr 37 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+767 songs - 1 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

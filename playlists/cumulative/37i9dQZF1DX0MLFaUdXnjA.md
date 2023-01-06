@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Lana Del Rey
 
-1,139 songs - 2 day 12 hr 43 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,139 songs - 2 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

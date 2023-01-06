@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-596 songs - 1 day 6 hr 10 min - [published](https://open.spotify.com/playlist/6yanqWEqV76LNBsD06S3Zl)
+596 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

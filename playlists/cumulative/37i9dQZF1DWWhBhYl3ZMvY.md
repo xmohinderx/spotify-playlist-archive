@@ -4,7 +4,7 @@
 
 > Catch all the essential tracks by the multitalented Rihanna.
 
-119 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/1FhaMr2Pgn8AjxAXXkmuVC)
+119 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The happiest hits to boost your day.
 
-52 songs - 2 hr 47 min - not published yet
+52 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

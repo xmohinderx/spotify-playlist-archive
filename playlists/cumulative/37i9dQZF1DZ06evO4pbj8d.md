@@ -4,7 +4,7 @@
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/0zLwUoEPRguD1c7IKr5fDt)
+45 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black
 
-505 songs - 1 day 14 hr 59 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+506 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Lempo](https://open.spotify.com/track/3WzAw4smXmAsSyXVEE09Qb) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Noita](https://open.spotify.com/album/0VjxxvMfRb10KB92WYbgqN) | 5:35 | 2020-11-29\* | 2021-09-04 |
 | [Let the Fire Rain](https://open.spotify.com/track/4e1sizUvzt4tOquIcEmDpm) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Let the Fire Rain](https://open.spotify.com/album/7IUt3b9v6otoNjqG6WdLbc) | 4:35 | 2021-02-19 | 2021-12-04 |
 | [Leväluhta](https://open.spotify.com/track/7K5ySzyv9GGJcfNCt5SECJ) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Leväluhta](https://open.spotify.com/album/1zdumiD4KGbWRRyE3SPPeL) | 3:49 | 2020-11-29\* | 2021-02-12 |
+| [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 | 2023-01-06 |  |
 | [Lightcrawler](https://open.spotify.com/track/3c75Oqo0wHwivF3Op9CJtu) | [Nothgard](https://open.spotify.com/artist/1PAbtuWk6jScTI9ImsDC8C) | [Lightcrawler](https://open.spotify.com/album/1YIZ5WjiSSJ9unh5JXWgYj) | 4:28 | 2020-11-29\* | 2021-10-16 |
 | [Like a Willow Without Tears](https://open.spotify.com/track/68zrSmYQY9SgU17yHuIH4v) | [Metalwings](https://open.spotify.com/artist/3VBzzOmjwLUcUaxT7JxVGF) | [A Whole New Land](https://open.spotify.com/album/2R9QHxmFsEkH82ObGasqsk) | 5:39 | 2021-06-11 | 2022-02-11 |
 | [Litany Of The Fallen](https://open.spotify.com/track/1gYjWTKs09WJzaZrPLRFDS) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Litany Of The Fallen](https://open.spotify.com/album/11cRcdDcrV6eTJKuvrZdNu) | 4:10 | 2022-05-06 |  |
@@ -482,7 +483,7 @@
 | [Waterslide](https://open.spotify.com/track/2D9MxsIudcEZWTCgJyLcnc) | [Chon](https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0) | [Homey](https://open.spotify.com/album/6KC06etxRkjUDzvfxU5sgA) | 3:26 | 2022-07-13 | 2022-07-30 |
 | [Waves](https://open.spotify.com/track/5WwADTNIfs6sjjJmoveTYc) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Waves](https://open.spotify.com/album/4O81GDO4G95TgkATRw569Q) | 7:40 | 2021-05-28 | 2022-01-22 |
 | [Waves of Eternity](https://open.spotify.com/track/0Puvv2s5mzhrjZ10JP2KQN) | [With Different Eyes](https://open.spotify.com/artist/4eNCg4B5pf6nUQun0lMZ3x) | [Inevitable](https://open.spotify.com/album/3FC85l1xC2JNevqweySool) | 4:21 | 2022-07-13 | 2022-07-28 |
-| [Wayward Sun](https://open.spotify.com/track/4sZge3EvkjsAxEV3Jev1k1) | [Xaon](https://open.spotify.com/artist/5MxqNOyXOnWwKgoj6uX1zz) | [Wayward Sun](https://open.spotify.com/album/0akAV2r1rkQrkN2PuFpgWN) | 4:54 | 2022-05-13 |  |
+| [Wayward Sun](https://open.spotify.com/track/4sZge3EvkjsAxEV3Jev1k1) | [Xaon](https://open.spotify.com/artist/5MxqNOyXOnWwKgoj6uX1zz) | [Wayward Sun](https://open.spotify.com/album/0akAV2r1rkQrkN2PuFpgWN) | 4:54 | 2022-05-13 | 2023-01-06 |
 | [We Are Become Fire](https://open.spotify.com/track/7FMXTrpHqMDKVYtvC4lV5R) | [Ember Falls](https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m) | [We Are Become Fire](https://open.spotify.com/album/3T4Zs6q5Ao26jNlDGtV0oF) | 4:24 | 2020-11-29\* | 2021-09-11 |
 | [We Are the Fire](https://open.spotify.com/track/04I8CtevYCYmQeTrre9CZC) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [We Are the Fire](https://open.spotify.com/album/0mtaaHGtukgLeUHa41VDGy) | 3:35 | 2021-08-21 | 2022-04-02 |
 | [We'll Be Free](https://open.spotify.com/track/5eHDFd1y53Ui8i7rk6N9nx) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [We'll Be Free](https://open.spotify.com/album/5JE6mHj7OvwXBWHhN2DPIV) | 4:02 | 2022-01-14 |  |

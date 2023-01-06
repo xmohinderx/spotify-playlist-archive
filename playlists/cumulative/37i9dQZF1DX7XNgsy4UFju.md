@@ -2,9 +2,9 @@
 
 ### [Indie All Stars](https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju)
 
-> Home to all the latest indie jams\. Cover: July Talk
+> Home to all the latest indie jams\. Cover: Joesef
 
-848 songs - 2 day 2 hr 9 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+850 songs - 2 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Bones \(God Like You\)](https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ) | 2:48 | 2022-07-01 | 2022-09-10 |
 | [Boom Boom](https://open.spotify.com/track/7ytIPPfpyCWMhnPC5bp5iB) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Boom Boom](https://open.spotify.com/album/1DQ15XaG2nFt9dTMJwtbYA) | 3:29 | 2021-12-31 | 2022-01-22 |
 | [Borderline](https://open.spotify.com/track/1PLTjpyaigxmu8M5D4sJmt) | [Hollow Graves](https://open.spotify.com/artist/4GCC4WJAlcF2fkUXOgY8Uz) | [Mid\-Century Modern](https://open.spotify.com/album/4H6haeiJdWz9LlYvIZXmda) | 3:40 | 2022-01-21 | 2022-02-12 |
+| [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 | 2023-01-06 |  |
 | [Bottleneck Boys](https://open.spotify.com/track/3elbooJK6sbSi5HRXm4SdK) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Bottleneck Boys](https://open.spotify.com/album/4A2wwsvPy5M14ZIbxdbnFW) | 3:29 | 2022-09-30 | 2022-10-22 |
 | [Bounds](https://open.spotify.com/track/3u2gVMfuOJWi4MF8mh4nof) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Bounds](https://open.spotify.com/album/2GmeIjqLRMB2wpn0z5hLd9) | 3:27 | 2022-12-16 |  |
 | [Boxes](https://open.spotify.com/track/3OWi7ov1nFXhjnf1wvegcZ) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Boxes](https://open.spotify.com/album/4cZg53uayQfgOH5wcUisBN) | 2:50 | 2022-04-04 | 2022-04-16 |
@@ -292,7 +293,8 @@
 | [Go Write It In The Stars](https://open.spotify.com/track/4I7ly7eSt1raF0ZSOAlWKP) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write It In The Stars](https://open.spotify.com/album/6SAJNqTw4P8uVV8qeApNbJ) | 3:35 | 2022-10-07 |  |
 | [Go Write with the Stars](https://open.spotify.com/track/0LIojBe01OpupDLuMUYwHK) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write with the Stars](https://open.spotify.com/album/1WSBhoawi94swRpqd0weQF) | 3:33 | 2022-10-07 | 2022-10-13 |
 | [God, Love, Prescriptions, and Politics](https://open.spotify.com/track/5l0djzjCuVuPlqGO5lop0Y) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [God, Love, Prescriptions, and Politics](https://open.spotify.com/album/4jg2nTTpZtGojGt3SNciEi) | 3:47 | 2022-11-04 | 2022-11-12 |
-| [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-09-19 |  |
+| [Going Home to a Party](https://open.spotify.com/track/67HUaanzX0yFZeYvwcviWF) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [Going Home to a Party](https://open.spotify.com/album/3ifYlOeyOKESM3eiI5VEj4) | 3:09 | 2023-01-06 |  |
+| [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-09-19 | 2023-01-06 |
 | [Gone](https://open.spotify.com/track/4sgchJtqhlDKHXI5qfC15k) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Gone](https://open.spotify.com/album/60PbOGMe2c5w7ST3UpH3bU) | 6:58 | 2021-12-31 | 2022-02-05 |
 | [Good Kinda High \(feat\. U.S\. Girls\)](https://open.spotify.com/track/1yITtkfWioB4wVYfIzlhDJ) | [Glenn Gould](https://open.spotify.com/artist/3icthvgCtFQ9WHZHO5VWj1), [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Uninvited Guests \- Deluxe](https://open.spotify.com/album/659Zidfi4wFlIwI4kR2l10) | 2:48 | 2021-12-31 | 2022-01-22 |
 | [Good Stuff](https://open.spotify.com/track/4Tfvz7BRWnLYqlja4jUAsy) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [Good Stuff](https://open.spotify.com/album/1Rgpj3IAACl9M48bmefYqC) | 3:43 | 2022-10-14 |  |
@@ -424,7 +426,7 @@
 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 | 2022-06-17 | 2022-09-03 |
 | [Julia](https://open.spotify.com/track/04lmWOI5oqXensMTRiKUYy) | [Vox Rea](https://open.spotify.com/artist/4SRrbYd7KBkGdOCAekSnY1) | [Julia](https://open.spotify.com/album/3GZ4zjIs4s20QTTfv3VkTM) | 2:47 | 2022-10-21 | 2022-11-12 |
 | [June](https://open.spotify.com/track/0q9GWZd6dEJGFmQnJ8M47a) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [June](https://open.spotify.com/album/75crn1XcTiEgE4UGLTE0Bw) | 6:33 | 2022-03-11 | 2022-03-26 |
-| [Just Come Home with Me Tonight](https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home with Me Tonight](https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ) | 4:07 | 2022-11-18 |  |
+| [Just Come Home with Me Tonight](https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home with Me Tonight](https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ) | 4:07 | 2022-11-18 | 2023-01-06 |
 | [Just Fine](https://open.spotify.com/track/3zIoxxvAdOIRrGvnh3EypB) | [Zoe Sky Jordan](https://open.spotify.com/artist/2eA4glPCdlED6WRJreG0aS) | [Just Fine / Achievement of Youth](https://open.spotify.com/album/67OC0cA9pYXrSbUAS2gdVz) | 4:12 | 2022-11-25 |  |
 | [Just Know It](https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Just Know It](https://open.spotify.com/album/2PR7cECQ1VMirJeXjMHeN9) | 2:13 | 2022-09-16 | 2022-10-08 |
 | [Karaoke](https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Karaoke](https://open.spotify.com/album/5JJYDmVfIhfdTp3HRaiKTy) | 3:17 | 2022-05-06 | 2022-06-11 |

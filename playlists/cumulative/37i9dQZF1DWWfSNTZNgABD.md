@@ -4,7 +4,7 @@
 
 > The Latin soundtrack of the 2000s! Cover: Shakira
 
-104 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/3xPg9unhVGV9zYLGDICGVm)
+104 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

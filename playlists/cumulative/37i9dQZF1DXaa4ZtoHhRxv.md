@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-128 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
+129 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-12-10 | 2022-04-29 |
 | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/track/1YW8olrB29icos92vsWPvd) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/album/2ev30eQbF3E9neNPUaTc98) | 2:57 | 2021-12-10 |  |
 | [First Rodeo](https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [First Rodeo](https://open.spotify.com/album/5ECjElUCcGjURvHvdarOyz) | 3:06 | 2022-07-08 |  |
+| [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-01-06 |  |
 | [Good as You \- Digital Farm Animals Remix](https://open.spotify.com/track/2rrBSCcE1tO5o6ycZAEVIY) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Good as You](https://open.spotify.com/album/1shrUJ5iUnfkSW8LzEX8Ps) | 3:24 | 2021-12-10 |  |
 | [GOOD TIME \- Andrelli Remix](https://open.spotify.com/track/7n4UKXvKGFZKSdU1NUw06T) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [GOOD TIME \(Andrelli Remix\)](https://open.spotify.com/album/4IGBxXXi1Mz0y3jLgh0zhf) | 2:44 | 2021-12-10 |  |
 | [Got No Choice \- Dave Audé Remix](https://open.spotify.com/track/0MWV88QURJzWteCK2glxOZ) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Got No Choice \(Dave Audé Remix\)](https://open.spotify.com/album/3OoVO3D4GIw36Fz0r7azfl) | 3:50 | 2021-12-10 |  |

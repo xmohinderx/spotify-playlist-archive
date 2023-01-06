@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-100 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
+100 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

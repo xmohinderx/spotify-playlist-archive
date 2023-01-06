@@ -4,7 +4,7 @@
 
 > Legendary <a href="https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva?si=96ddec9640844dda">Latin</a> songs that have reached \(or are close to\) the 1 billion streams milestone!
 
-27 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/4aqnYuJwrpLj25HkXDexW1)
+27 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

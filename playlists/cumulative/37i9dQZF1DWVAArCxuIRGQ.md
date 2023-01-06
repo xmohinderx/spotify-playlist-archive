@@ -4,7 +4,7 @@
 
 > A sizzling hot soundtrack for your sunshine social.
 
-168 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/4NyrelIUndIbzhU4ozZcir)
+168 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

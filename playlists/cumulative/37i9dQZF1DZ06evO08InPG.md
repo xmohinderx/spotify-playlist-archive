@@ -4,7 +4,7 @@
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-80 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/7u9fww2Kdc2yvh821ta38P)
+80 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-162 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/7vO4O5wNNjqWMnmzz1WRbr)
+162 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

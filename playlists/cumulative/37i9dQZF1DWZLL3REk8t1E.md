@@ -4,7 +4,7 @@
 
 > ¡A calentar garganta!
 
-161 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/16C4gyv5rwRyQDMCpAHjTu)
+161 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-317 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/1KT9n5GpXTYiKVI60QKiPA)
+317 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

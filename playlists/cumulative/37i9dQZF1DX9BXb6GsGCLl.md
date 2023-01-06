@@ -4,7 +4,7 @@
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-188 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/1x8QJGVpkb79sPVbfvkiMc)
+188 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

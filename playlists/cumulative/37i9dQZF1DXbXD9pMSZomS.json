@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Distorted and rough around the edges.",
   "name": "Lo-Fi House",
-  "published_playlist_ids": [
-    "07qDvOBagx5S8EJa8xnFvt"
-  ],
   "tracks": [
     {
       "album": {
@@ -113,7 +110,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 290431,
       "name": "1759 (Outro)",
       "url": "https://open.spotify.com/track/1kGVpWlJn77314BjntTLNI"
@@ -877,7 +874,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 222359,
       "name": "De Ja Vu",
       "url": "https://open.spotify.com/track/2jNiFszQSHVQAO2moezxrP"
@@ -1247,7 +1244,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 357000,
       "name": "Fanacanna",
       "url": "https://open.spotify.com/track/2tPUIw9CdWcoPh3CU1OnRy"
@@ -1487,7 +1484,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "I Gotta Cry",
       "url": "https://open.spotify.com/track/6qT1jEoG6VqQZ92fye8wtd"
@@ -2827,7 +2824,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 378240,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/5xc5zqywjr1aesPBSkBdSB"
@@ -3376,6 +3373,24 @@
     },
     {
       "album": {
+        "name": "The Hills / True Fours",
+        "url": "https://open.spotify.com/album/3onF7nhMqEh590IaLt6ZMp"
+      },
+      "artists": [
+        {
+          "name": "Major Tweaks",
+          "url": "https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160301,
+      "name": "The Hills",
+      "url": "https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq"
+    },
+    {
+      "album": {
         "name": "The Sayers",
         "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
       },
@@ -3499,7 +3514,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 309230,
       "name": "To Light the Night",
       "url": "https://open.spotify.com/track/6zzpaEpd3RlUuVU9wt5qHp"
@@ -3721,7 +3736,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 409619,
       "name": "Watarase - Henrik Schwarz Version",
       "url": "https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ"

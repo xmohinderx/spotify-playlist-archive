@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-174 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+174 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

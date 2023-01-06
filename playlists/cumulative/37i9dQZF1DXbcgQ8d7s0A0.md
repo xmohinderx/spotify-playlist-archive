@@ -4,7 +4,7 @@
 
 > Chill out to the sweetest soul songs.
 
-175 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/7xn5yJaidaf1p3Zso53LRw)
+175 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Funk\-inspired beats by latinos.
 
-55 songs - 3 hr 36 min - not published yet
+55 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

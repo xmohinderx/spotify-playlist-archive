@@ -4,7 +4,7 @@
 
 > La crème de la crème of Montréal's music scene\. Photo: Chiiild
 
-246 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+248 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Insulaire](https://open.spotify.com/track/3Ks37fop1NmNBtKbKrSwCL) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [INSULA](https://open.spotify.com/album/2VbxpSTJVR2aHcnjEMDsS3) | 4:05 | 2022-03-25 | 2022-07-23 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 3:27 | 2022-03-25 | 2022-06-11 |
 | [Isolated](https://open.spotify.com/track/6I1M2IDs6w8qWRSvQMGifg) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U) | 1:36 | 2022-08-26 |  |
-| [J'ai pu de temps à perdre!](https://open.spotify.com/track/7zlE1kw1sEm9fGjCfPNRqx) | [BadBlue](https://open.spotify.com/artist/2Qf6xxx0ubpTfVvIFBtfGh) | [J'ai pu de temps à perdre!](https://open.spotify.com/album/01wwbyhHgcBxSQhHnMKwJ7) | 2:37 | 2022-06-17 |  |
+| [J'ai pu de temps à perdre!](https://open.spotify.com/track/7zlE1kw1sEm9fGjCfPNRqx) | [BadBlue](https://open.spotify.com/artist/2Qf6xxx0ubpTfVvIFBtfGh) | [J'ai pu de temps à perdre!](https://open.spotify.com/album/01wwbyhHgcBxSQhHnMKwJ7) | 2:37 | 2022-06-17 | 2023-01-06 |
 | [Janet Planet](https://open.spotify.com/track/75nGdj0oz2EaRRVrlIKeiL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Empty Seats](https://open.spotify.com/album/5as79P2kyTlrSsHZoWJLDw) | 3:21 | 2022-05-13 |  |
 | [jardin](https://open.spotify.com/track/1QEcr57b4oSQuRk4ztmKkL) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:52 | 2022-08-26 | 2022-11-26 |
 | [jardin](https://open.spotify.com/track/2mcMoXYHmVLxmCgAvaO2cS) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 4:52 | 2022-11-25 |  |
@@ -127,10 +127,12 @@
 | [Jaune](https://open.spotify.com/track/14QJlmd5ulzXXRbjRaS45z) | [Baladeur](https://open.spotify.com/artist/2MnBL1e3Gf1pHK0mXokTST) | [Jaune](https://open.spotify.com/album/3rChcXBXEiIULMsBZYXGdi) | 3:17 | 2022-06-03 |  |
 | [JD](https://open.spotify.com/track/4rODIAkyRLz9tYFN6YGHhI) | [Amki](https://open.spotify.com/artist/5xKr6yXoMkJVDj8NUt2KW1) | [JD](https://open.spotify.com/album/29UvcSPfJphjgNqgFLL9wr) | 3:46 | 2022-08-12 |  |
 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 | 2022-06-03 |  |
+| [Juillet](https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Juillet](https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a) | 3:04 | 2023-01-06 |  |
 | [Keep Hiding \(way back\)](https://open.spotify.com/track/24jKuK0iTLqc6Fbywv1pYu) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Keep Hiding \(way back\)](https://open.spotify.com/album/68ra6iNQK40XmAW9TGh5XF) | 2:57 | 2022-10-14 |  |
 | [La faute](https://open.spotify.com/track/6UKQBUkXOe2ifFhJgOVpto) | [Bronswick](https://open.spotify.com/artist/4mPApT3WY8A04ZnQOS30BL) | [Entre mes insomnies](https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4) | 3:29 | 2022-04-29 | 2022-11-12 |
 | [La nuit](https://open.spotify.com/track/5qMGT6jepsNyROTcf3LpFu) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [La nuit](https://open.spotify.com/album/5FGyf0eRWDMEQ22dxUKwVP) | 3:41 | 2022-06-03 | 2022-07-16 |
 | [La nuit](https://open.spotify.com/track/3QNCQAYQqhEdv3zwWmBMX6) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [La nuit](https://open.spotify.com/album/1CaTDmBmiYtRJVvfVv0GT9) | 2:39 | 2022-06-10 | 2022-09-10 |
+| [La nuit te ressemble](https://open.spotify.com/track/6sbeMTdnXolT6YZwfSsVbu) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [La nuit te ressemble](https://open.spotify.com/album/345aq3mWimamc7hD1kbhvk) | 2:49 | 2023-01-06 |  |
 | [La richesse des pauvres](https://open.spotify.com/track/4jV3QKV40FmtcJikbBpfCf) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO), [Rau Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Échos d'une vie distante: volume 1](https://open.spotify.com/album/4n4gw9wDp29mV0tAYxcFol) | 2:23 | 2022-03-25 | 2022-04-16 |
 | [La Ronde](https://open.spotify.com/track/5mxvBhTdtp8bVxUOg1qjBe) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [La Ronde](https://open.spotify.com/album/44zJbRgjUPe7jlGjXBKUcQ) | 3:40 | 2022-03-25 | 2022-08-27 |
 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 | 2022-03-25 |  |
@@ -233,7 +235,7 @@
 | [Toune 1](https://open.spotify.com/track/3v1mSem8vZUTBJutzWOWXQ) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 1](https://open.spotify.com/album/4up15itKNiWEDZYtmTcMof) | 4:17 | 2022-09-16 | 2022-10-29 |
 | [Toune 2](https://open.spotify.com/track/0McnGxQOn78rzxXZvuNfKe) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 2](https://open.spotify.com/album/4D1iaqCVxIq7Za3dk2Gfiz) | 3:51 | 2022-05-27 | 2022-09-17 |
 | [Toune 9](https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Alexandre Martel](https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH) | 4:18 | 2022-10-28 |  |
-| [Tout est parfait](https://open.spotify.com/track/0ZJKrCCgePFz5obWfJqHh7) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait](https://open.spotify.com/album/741zAnDJPbroIfVD2MrGvQ) | 3:07 | 2022-10-07 |  |
+| [Tout est parfait](https://open.spotify.com/track/0ZJKrCCgePFz5obWfJqHh7) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait](https://open.spotify.com/album/741zAnDJPbroIfVD2MrGvQ) | 3:07 | 2022-10-07 | 2023-01-06 |
 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 | 2022-08-26 |  |
 | [Tu as le droit](https://open.spotify.com/track/7u0YtyBqNQ5qg3vAFjBqU3) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:13 | 2022-06-10 | 2022-08-27 |
 | [Tôt ou tard](https://open.spotify.com/track/0JYJz0PGXsAgxe5sOZfCSf) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:57 | 2022-03-25 | 2022-09-03 |

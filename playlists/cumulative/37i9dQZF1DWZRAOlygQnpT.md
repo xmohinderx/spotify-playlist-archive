@@ -4,7 +4,7 @@
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-250 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/6NSbCsk7MC2tfdc3H3iht8)
+250 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

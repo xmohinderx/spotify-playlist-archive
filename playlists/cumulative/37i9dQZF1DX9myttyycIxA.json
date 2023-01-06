@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Underground indie rock gems. Cover: Teenage Priest",
   "name": "undercurrents",
-  "published_playlist_ids": [
-    "4XA1SOQIX98lp2gcRgRzUr"
-  ],
   "tracks": [
     {
       "album": {
@@ -3393,7 +3390,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 124532,
       "name": "Demons at the Dinner Table",
       "url": "https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm"
@@ -8429,7 +8426,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-15",
+      "date_removed": null,
       "duration_ms": 213706,
       "name": "National Team",
       "url": "https://open.spotify.com/track/7xuuu097llYHPptd42QxOV"

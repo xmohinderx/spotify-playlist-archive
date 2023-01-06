@@ -4,7 +4,7 @@
 
 > Éxitos del Pop Latino para que los disfrute toda la familia.
 
-68 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/1ZLuHxa4BSJyfpRmxeiFES)
+68 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

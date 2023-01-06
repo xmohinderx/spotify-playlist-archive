@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-516 songs - 1 day 9 hr 31 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
+516 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

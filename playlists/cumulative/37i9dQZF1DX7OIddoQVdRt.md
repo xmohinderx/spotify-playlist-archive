@@ -4,7 +4,7 @@
 
 > Experience the powerful messages and sounds of these gospel tunes.
 
-92 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/6RtVKm5KTrmXdN0ek3uFp7)
+92 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

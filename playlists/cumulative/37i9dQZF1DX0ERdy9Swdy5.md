@@ -4,7 +4,7 @@
 
 > Los mejor de los 90s\. The Best of the 90s
 
-155 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/12YhXjjSTG1Xke1hB666xL)
+155 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

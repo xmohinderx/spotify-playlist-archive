@@ -4,7 +4,7 @@
 
 > Keeping the party going where ever you are w/ Everyday People for Art Basel
 
-376 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/4kHlGm9ha80s1MDcD5zhCA)
+376 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-61 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/27QhNl1YK5nbZQm0osNBIH)
+61 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

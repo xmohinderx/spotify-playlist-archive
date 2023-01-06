@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-134 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+134 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

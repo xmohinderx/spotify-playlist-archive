@@ -4,7 +4,7 @@
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : KRK
 
-95 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/3XL9bNtiKeCLaXQYapaYe1)
+95 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-121 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/2wJPFQSijKKEawsi9DOknr)
+121 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

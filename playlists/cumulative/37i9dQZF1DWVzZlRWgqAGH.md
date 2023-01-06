@@ -2,9 +2,9 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> 🧈 Smooth joints\. Cover: Masego
+> 🧈 Smooth joints\. Cover: Little Simz
 
-777 songs - 1 day 21 hr 58 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+778 songs - 1 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,7 @@
 | [No BS](https://open.spotify.com/track/4evaB44maldA4OML15SHQk) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [No BS](https://open.spotify.com/album/1IPnJcCa21qh6CNfOVyrBV) | 5:28 | 2021-07-25 | 2022-01-14 |
 | [No Cure](https://open.spotify.com/track/5ZVI0chJSdsqsj458FbFLr) | [Zoe's Shanghai](https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5) | [No Cure](https://open.spotify.com/album/0CRxE7nHIT6T1S5esl1k7l) | 3:35 | 2019-09-29\* | 2019-10-17 |
 | [No Reply](https://open.spotify.com/track/2VbNBhOi7n7WX1yCVfy77I) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/5yMxPV2nkSUlpzLfm2q0VJ) | 2:57 | 2021-03-07 | 2022-07-29 |
-| [No Reply](https://open.spotify.com/track/3K7WdPYz7vcHMCsyBjK9vL) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/3eUHennkieRuxq8S1mclhY) | 2:57 | 2022-12-30 |  |
+| [No Reply](https://open.spotify.com/track/3K7WdPYz7vcHMCsyBjK9vL) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/3eUHennkieRuxq8S1mclhY) | 2:57 | 2022-12-30 | 2023-01-06 |
 | [No Reply](https://open.spotify.com/track/4i1s3lKM6OAS8ilMNeo9Gq) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/5Qv9B38upc7RdFq8J08mnV) | 2:57 | 2022-07-22 | 2022-10-22 |
 | [No Rush](https://open.spotify.com/track/2GQUAgPKQoByEB2ePeHTyN) | [AgaJon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Ninja Kidsoul](https://open.spotify.com/artist/5fGQSkk1vCCsXliK22M5SJ) | [No Rush](https://open.spotify.com/album/4m4gB2Z4SXs28DR1iBLgWT) | 3:05 | 2019-09-29\* | 2019-11-01 |
 | [North 41 \- Alternate Take](https://open.spotify.com/track/7BCaxDhZvNyO7mHhbgAjM6) | [Kasia Konstance](https://open.spotify.com/artist/69lkTNzZ4F2h3ZokpOHN7j), [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [North 41 \(Alternate Take\)](https://open.spotify.com/album/2l4ISQdjQ84cdFNKlSA4d5) | 3:30 | 2020-10-02 | 2021-06-11 |
@@ -678,6 +678,7 @@
 | [The Calm](https://open.spotify.com/track/4IMOXK8UEUmOqLL82KdlLg) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Weather / The Calm](https://open.spotify.com/album/75N9mJYgZQJH4gxnkcuvsr) | 2:11 | 2020-04-10 | 2020-05-08 |
 | [The Deuce](https://open.spotify.com/track/5Dtyh1atg73gzkV7gJEAsc) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [The Martin Family Trio](https://open.spotify.com/artist/1roKfaQXcSI7iXPK3s7hHJ) | [The Deuce](https://open.spotify.com/album/0rGCFRUPKPuYo1pRrULULC) | 3:34 | 2020-02-12 | 2020-03-20 |
 | [The Distance](https://open.spotify.com/track/6vz5CRaat5Vc4561v7eSUr) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [The Distance](https://open.spotify.com/album/0H0QyUyHsMHyu2XW7FnEZL) | 4:15 | 2022-04-15 | 2022-07-28 |
+| [The Dream](https://open.spotify.com/track/6owRPnezJsGhlbKfbRAfqi) | [Ciara Leah](https://open.spotify.com/artist/7FNnF6wVawmhhqUbwLGeo2) | [Love Money](https://open.spotify.com/album/6Orz1ukWtOi9u2OW6lvE0K) | 4:30 | 2023-01-06 |  |
 | [The Garden](https://open.spotify.com/track/3VtJvlag3A95ODMu0Jmyqi) | [Louise Lee](https://open.spotify.com/artist/11ZIF8ZEWeRbn9JQp7JI2z), [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [The Garden](https://open.spotify.com/album/0qiYxeeoNcQUmRTWgjYwYj) | 2:47 | 2020-09-04 | 2022-05-12 |
 | [The Healer](https://open.spotify.com/track/0CjY9niefITNSiK5OBgPeU) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [The Healer](https://open.spotify.com/album/7CqeFBrZZUkdHowafVUKHI) | 5:52 | 2022-10-21 | 2022-10-29 |
 | [The Heat](https://open.spotify.com/track/3ZOlgtwwhbYskdH7hJ21Bu) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Eldorado](https://open.spotify.com/album/5cjB2vtGhbo12x1gAdJvvY) | 3:18 | 2022-07-22 | 2022-09-03 |
@@ -764,7 +765,7 @@
 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 | 2020-08-30 |  |
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2020-04-18 | 2020-09-11 |
 | [Witchoo](https://open.spotify.com/track/0AizRfHUi7y1cSl1HqwEij) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Witchoo](https://open.spotify.com/album/1WtWOewkBtB1IhbVzTeRmT) | 3:42 | 2021-05-16 | 2022-07-29 |
-| [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 | 2022-07-22 |  |
+| [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 | 2022-07-22 |  |
 | [With You Now for This](https://open.spotify.com/track/5mJQZOr4eubxljEEo3VHj0) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT), [Lucey Way](https://open.spotify.com/artist/2wLX2D4Y82gemGsSO0Ep3m) | [Umbrella Drinks / WYNFT](https://open.spotify.com/album/2zvelwNzXU5uS5rZqeuNkL) | 3:54 | 2021-07-27 | 2022-07-29 |
 | [Woman](https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/5xLroFHEvbfDUBqsiYgk5Z) | 4:29 | 2021-05-11 | 2022-07-29 |
 | [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-07-22 | 2022-11-03 |

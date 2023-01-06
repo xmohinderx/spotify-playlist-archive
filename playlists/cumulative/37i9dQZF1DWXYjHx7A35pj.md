@@ -4,7 +4,7 @@
 
 > <a href="http://casaum.org/">Casa 1</a> recommends songs from LBT women \(lesbians, bi and trans\)\. \| Cover:  Ventura Profana
 
-57 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/5vDUfBtAHRwJD6jYMYd1zW)
+57 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

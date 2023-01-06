@@ -4,7 +4,7 @@
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-33 songs - 2 hr 10 min - not published yet
+33 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

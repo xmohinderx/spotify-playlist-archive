@@ -4,7 +4,7 @@
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-75 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/3OPMOOpls4yZsAtS22bOXv)
+75 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

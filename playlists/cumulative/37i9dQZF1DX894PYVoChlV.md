@@ -4,7 +4,7 @@
 
 > ¡Las canciones más románticas de Luismi!
 
-68 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/0oWOO4IAmiJgAGJ5owJzUV)
+68 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

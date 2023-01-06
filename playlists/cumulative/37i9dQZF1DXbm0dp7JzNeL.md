@@ -4,7 +4,7 @@
 
 > Take comfort in these melancholy masterpieces.
 
-75 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/5fJZ0wGeGkD6csCFT1wCtH)
+75 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

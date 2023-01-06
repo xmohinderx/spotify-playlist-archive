@@ -4,7 +4,7 @@
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-129 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
+129 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

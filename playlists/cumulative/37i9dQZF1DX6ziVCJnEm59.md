@@ -4,7 +4,7 @@
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-249 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/2v08rtTK8fGzJTnf0viUcB)
+254 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Life Is Confusing](https://open.spotify.com/track/16lPj311efhVdbwPrTgTHl) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Life Is Confusing EP](https://open.spotify.com/album/3lqou5SWx4juGcSJJD45FY) | 2:51 | 2019-09-29\* | 2020-07-10 |
 | [Lights Off](https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 3:52 | 2019-09-29\* | 2020-06-01 |
 | [Lion's Den](https://open.spotify.com/track/4P1ldMqrKRYkMIJ0cSJBgY) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Birds in the Ceiling](https://open.spotify.com/album/4AJVnvWHUyqtlZc4JOEXpU) | 3:39 | 2022-08-01 |  |
+| [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 | 2023-01-05 |  |
 | [Little Flower](https://open.spotify.com/track/6aVrVS4xjs2soPEmAa0N7L) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V), [ALIAS Chamber Ensemble](https://open.spotify.com/artist/0h1Z0DxOlzZSito4JDuzWU) | [Little Flower](https://open.spotify.com/album/6XcPuCW2ibm9KQg0E5CPMe) | 6:15 | 2019-09-29\* |  |
 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 | 2021-10-09 |  |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2021-06-12 |  |
@@ -172,6 +173,7 @@
 | [Portland, Maine](https://open.spotify.com/track/6u1E03WKp0QsOfK5FEzzGr) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Portland, Maine](https://open.spotify.com/album/1JdFJfWFPgE8UWUOd3R2gm) | 3:23 | 2019-09-29\* | 2022-07-29 |
 | [Rainstorm](https://open.spotify.com/track/0QEweNusTHFbDPp2lXVzut) | [The Sea The Sea](https://open.spotify.com/artist/3uKFW2tuZB4NFThJfHJtZ1) | [Stumbling Home](https://open.spotify.com/album/4wiWyprlpvO3CPxTmS2bHJ) | 3:36 | 2020-10-06 | 2021-04-15 |
 | [Rambling Blade](https://open.spotify.com/track/44GJU8UBKFfwZnvZgyPMJo) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 2](https://open.spotify.com/album/6yhpvD3T1rlfsGUAoYcIeL) | 2:45 | 2020-10-06 | 2021-01-29 |
+| [Rattlesnake](https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:56 | 2023-01-05 |  |
 | [Recording 15](https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 4:02 | 2019-09-29\* |  |
 | [Records](https://open.spotify.com/track/5OJEYeJhPaczY1BQFZ2yIv) | [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Water Dog](https://open.spotify.com/album/14od62nFeY9aOW4x7MAoyk) | 3:49 | 2019-09-29\* |  |
 | [Remember Fall In Montreal](https://open.spotify.com/track/6VX4UQs6a6jszZeDyx4tgY) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Remember Fall In Montreal](https://open.spotify.com/album/2yIDTUhXvmtDR504JIZOBr) | 5:01 | 2021-10-09 | 2022-07-29 |
@@ -197,9 +199,11 @@
 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 | 2019-09-29\* | 2020-06-01 |
 | [So Cool](https://open.spotify.com/track/3GgdEZJy5bxm2ZjC90ibDC) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Boys \(Side A\)](https://open.spotify.com/album/4kBUtVFzM9mrVZEtr0f56v) | 2:59 | 2019-09-29\* | 2020-09-01 |
 | [Something Familiar](https://open.spotify.com/track/0pid6toQhFvAWPGbB0ET8K) | [Josienne Clarke and Ben Walker](https://open.spotify.com/artist/3Vur5nBUAcGQjXZyk32WV1) | [Overnight](https://open.spotify.com/album/7wkd8uGGBjwGsxcV9LXeyz) | 2:25 | 2019-09-29\* | 2022-01-22 |
+| [Something in the Orange \- Z&E's Version](https://open.spotify.com/track/3rU2QIyNDk2OWV6mAW2qQr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 4:14 | 2023-01-05 |  |
 | [Songbird](https://open.spotify.com/track/41lqGsXFhFnno7r9MkaXtK) | [Cory Chisel](https://open.spotify.com/artist/6y4coSy8vZX0FnM26Z81Rk), [Adriel Denae](https://open.spotify.com/artist/2g5pUXavAoliyoXzM4dUgY) | [Tell Me True](https://open.spotify.com/album/6Pmg1ztyTIRcH1Ufwl7CY4) | 3:26 | 2019-09-29\* | 2020-09-01 |
 | [Sorry Now](https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Thirties](https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ) | 3:12 | 2021-04-15 |  |
 | [Square One](https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Square One](https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8) | 3:06 | 2021-03-06 |  |
+| [Strawberry Wine](https://open.spotify.com/track/7Gvf6Li9MYft4fUijkFjKq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:45 | 2023-01-05 |  |
 | [Sudden Love \(Acoustic\)](https://open.spotify.com/track/4j1qgmRVqhFANilbZ70bft) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2jA6chvv51t3YxdJWsgxzu) | 3:02 | 2019-09-29\* | 2022-06-07 |
 | [Sunscreen](https://open.spotify.com/track/4R68vBtWahKshI7Q3mWpoc) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Sunscreen](https://open.spotify.com/album/1n3lVhMqxEmuVLNzsXu5g4) | 2:58 | 2019-09-29\* |  |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-12-14 |  |
@@ -253,6 +257,7 @@
 | [Why Woman](https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Between Two Shores](https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0) | 3:03 | 2019-09-29\* |  |
 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 | 2019-09-29\* | 2021-10-02 |
 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 | 2019-09-29\* | 2021-12-14 |
+| [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 | 2023-01-05 |  |
 | [Woandering](https://open.spotify.com/track/1bjqyTv5A06p8yGIG8KoeJ) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Our Blood](https://open.spotify.com/album/3cD3DhLcRjllMz8otD9F2X) | 3:44 | 2019-09-29\* | 2022-07-29 |
 | [Woandering](https://open.spotify.com/track/5E9uahV1IHYZ4qyJMvgpkp) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Our Blood](https://open.spotify.com/album/5oY9X7jA6A3JFUmSrRjvvQ) | 3:44 | 2022-06-06 |  |
 | [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 | 2022-12-14 |  |

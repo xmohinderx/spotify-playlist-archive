@@ -4,7 +4,7 @@
 
 > 
 
-105 songs - 8 hr 3 min - not published yet
+105 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

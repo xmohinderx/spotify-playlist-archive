@@ -4,7 +4,7 @@
 
 > Move it and groove it to these great tunes!
 
-88 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/1EldyCKOLc00TgFQ0PLHP4)
+88 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

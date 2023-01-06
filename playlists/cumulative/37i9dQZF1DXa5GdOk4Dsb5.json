@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-24",
   "description": "Para ahogar las penas en el fondo de una botella.",
   "name": "Rancheras, Despecho & Licor",
-  "published_playlist_ids": [
-    "3TYdhPxDiPoy7PDMRCl5B2"
-  ],
   "tracks": [
     {
       "album": {
@@ -3534,6 +3531,28 @@
     },
     {
       "album": {
+        "name": "No Me Deja De Doler",
+        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157946,
+      "name": "No Me Deja De Doler",
+      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
+    },
+    {
+      "album": {
         "name": "As\u00ed de Enamorados",
         "url": "https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK"
       },
@@ -5279,7 +5298,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 193175,
       "name": "Usted No Me Olvida - Remix",
       "url": "https://open.spotify.com/track/68K1Cq7jgceq0yV0Q2Kog6"

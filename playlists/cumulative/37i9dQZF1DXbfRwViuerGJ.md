@@ -4,7 +4,7 @@
 
 > Celebrate all of the biggest Spotify Kids' hits in 2022 with your family!
 
-108 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/54602UAXito5umhVmcq7kw)
+108 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Stephen Sanchez
 
-241 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
+241 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

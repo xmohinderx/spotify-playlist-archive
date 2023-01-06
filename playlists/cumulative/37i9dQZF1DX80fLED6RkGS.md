@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=6FaHJ3sJRZ\-8aikGhceCow">Boutross </a>
 
-223 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
+223 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

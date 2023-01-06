@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-336 songs - 19 hr 5 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
+336 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Better Man](https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Better Man](https://open.spotify.com/album/0DEeN73MO5qqBkPgwYW0Wl) | 3:16 | 2021-09-21 | 2022-12-25 |
 | [Better Now \[Remix\]](https://open.spotify.com/track/3cLA64aQAhxDRQvSp3IBiJ) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Reggie Got Beats](https://open.spotify.com/artist/23tus21ldeakyJwF2NMRhQ), [RickyAtoms](https://open.spotify.com/artist/2pXL1201Xrd659BNMtUG6J) | [Better Now \[Remix\]](https://open.spotify.com/album/730b82WMFGJzq0pZ0eSc3R) | 3:28 | 2021-09-21 | 2022-07-09 |
 | [Black Heart \(feat\. The Dap\-Kings\)](https://open.spotify.com/track/5joZkgTCteYR5SWvSesUSQ) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Black Heart \(feat\. The Dap\-Kings\)](https://open.spotify.com/album/1EctmhyIb6003mVg77wgUb) | 2:54 | 2020-11-13 | 2022-03-26 |
-| [Bluffin](https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Bluffin](https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5) | 2:39 | 2022-04-22 |  |
+| [Bluffin](https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Bluffin](https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5) | 2:39 | 2022-04-22 | 2023-01-06 |
 | [Borders](https://open.spotify.com/track/45HyHvHfun98p29Hp1MnCu) | [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [Borders](https://open.spotify.com/album/520lYAIaHuWlSomNcLkEXU) | 3:57 | 2020-11-13 | 2022-03-16 |
 | [Bravado](https://open.spotify.com/track/0r7hyq2nRub3Swcodfi3pR) | [Your Neighbors](https://open.spotify.com/artist/6mpyU2azr3zfZDY9k8w5GP) | [Bravado](https://open.spotify.com/album/3laNAvwRxjkpj9yEtMtWtl) | 3:30 | 2020-11-13 | 2022-03-22 |
 | [Cape Town Plush](https://open.spotify.com/track/4lrI3nGipSJnyL8YoI7bVF) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Cape Town Plush](https://open.spotify.com/album/76XdnaXob283oq6LDyLESW) | 3:21 | 2022-03-11 | 2022-07-29 |
@@ -342,7 +342,7 @@
 | [You](https://open.spotify.com/track/53pplXFpGH6RPPvf0aCdnQ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:05 | 2021-02-19 | 2022-10-01 |
 | [You](https://open.spotify.com/track/6efuh9QMx0T6dwmZBC1Hez) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [You](https://open.spotify.com/album/7qBrrDS8inczS103oA3pln) | 3:05 | 2021-02-19 | 2022-07-29 |
 | [You and You \- Single Edit](https://open.spotify.com/track/1jEe3EaNbkGecUBHKMcReK) | [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) | [You and You \(Single Edit\)](https://open.spotify.com/album/7u9lcPoYgy2i6qfAH9ccEZ) | 4:34 | 2020-11-13 | 2022-03-22 |
-| [You Gotta Respect Yourself!](https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [You Gotta Respect Yourself!](https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd) | 3:11 | 2022-04-22 | 2022-12-01 |
+| [You Gotta Respect Yourself!](https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [You Gotta Respect Yourself!](https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd) | 3:11 | 2022-04-22 |  |
 | [Zoom Out](https://open.spotify.com/track/0z8zXnL09l88fElGOylr2o) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Zoom Out](https://open.spotify.com/album/5L8Kpu3ocdwqiy2ekv6cxy) | 3:46 | 2021-07-02 | 2022-06-07 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

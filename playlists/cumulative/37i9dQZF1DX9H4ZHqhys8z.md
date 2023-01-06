@@ -4,7 +4,7 @@
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Anna Vissi
 
-219 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/26nYZW9uO5SB3QxZrqoIKG)
+219 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

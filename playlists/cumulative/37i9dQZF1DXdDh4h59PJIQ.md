@@ -4,7 +4,7 @@
 
 > ¡Estos son los hits de la electrónica en el 2022!
 
-245 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/5bWzq23TdSxzFHtcGB1qiD)
+245 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

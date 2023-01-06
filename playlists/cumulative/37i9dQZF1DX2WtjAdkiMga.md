@@ -4,7 +4,7 @@
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-91 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
+91 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

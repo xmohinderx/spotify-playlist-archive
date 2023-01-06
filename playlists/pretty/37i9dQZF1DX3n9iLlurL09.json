@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 57524,
+  "num_followers": 57585,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDM3MTM1NTM2YTU2YWExZjYxOGFjYWQzZmVmY2Q4NGJh",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDIyODg5OWU3NDBmNjEzZjJmNWJhZTQ2Y2Q1NDI3MDg1",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Jake Bugg",
-        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 144013,
-      "name": "Lightning Bolt",
-      "url": "https://open.spotify.com/track/79DO6dBi8936P6EShLB209"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Walk The Moon",
         "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 321280,
       "name": "Anna Sun",
       "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Jake Bugg",
+        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 144013,
+      "name": "Lightning Bolt",
+      "url": "https://open.spotify.com/track/79DO6dBi8936P6EShLB209"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Fitzpleasure",
-      "url": "https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Waiting For The Dawn",
         "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 173093,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Fitzpleasure",
+      "url": "https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Oshin",
-        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Doused",
-      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Oshin",
+        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Doused",
+      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/4g4iUbyDPTz3wCy25Tvivk"
-      },
-      "artists": [
-        {
-          "name": "Heartless Bastards",
-          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Only For You",
-      "url": "https://open.spotify.com/track/17ZnveSDBpG9QtL7zLJNPy"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Sweet Disarray",
         "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 196848,
       "name": "From Nowhere",
       "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/4g4iUbyDPTz3wCy25Tvivk"
+      },
+      "artists": [
+        {
+          "name": "Heartless Bastards",
+          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
+        }
+      ],
+      "duration_ms": 308066,
+      "name": "Only For You",
+      "url": "https://open.spotify.com/track/17ZnveSDBpG9QtL7zLJNPy"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Man On Fire",
-      "url": "https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)",
         "url": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa"
       },
@@ -1411,26 +1395,34 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp"
+        "name": "Here",
+        "url": "https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN"
       },
       "artists": [
         {
-          "name": "Bad Books",
-          "url": "https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt"
-        },
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        },
-        {
-          "name": "Kevin Devine",
-          "url": "https://open.spotify.com/artist/66ScZxprvrMbCtN4ivA0JX"
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
         }
       ],
-      "duration_ms": 223840,
-      "name": "Forest Whitaker",
-      "url": "https://open.spotify.com/track/5S67wnJOMjuySVEu4ssCof"
+      "duration_ms": 259079,
+      "name": "Man On Fire",
+      "url": "https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Synthetica (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1455,18 +1447,26 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Synthetica (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
+        "name": "II",
+        "url": "https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp"
       },
       "artists": [
         {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+          "name": "Bad Books",
+          "url": "https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        },
+        {
+          "name": "Kevin Devine",
+          "url": "https://open.spotify.com/artist/66ScZxprvrMbCtN4ivA0JX"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
+      "duration_ms": 223840,
+      "name": "Forest Whitaker",
+      "url": "https://open.spotify.com/track/5S67wnJOMjuySVEu4ssCof"
     },
     {
       "added_at": "2022-05-19 08:11:23",

@@ -4,7 +4,7 @@
 
 > Happiness! This is Red Velvet! Red Velvet wants everyone to have a Beautiful Christmas!
 
-138 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/4k3z85A5Fsbx0TjazYclfQ)
+138 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

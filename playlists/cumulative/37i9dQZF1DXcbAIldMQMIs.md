@@ -4,7 +4,7 @@
 
 > Indie pop when ur crushing
 
-272 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
+272 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

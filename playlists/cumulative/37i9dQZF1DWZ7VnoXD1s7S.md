@@ -4,7 +4,7 @@
 
 > noclip out of reality
 
-92 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
+92 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

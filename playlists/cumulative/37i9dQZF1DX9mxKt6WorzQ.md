@@ -4,7 +4,7 @@
 
 > Relax and sleep to the soft, melodic, and rhythmic rumbling of the night train
 
-77 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/44a6jNfzSHHbwUP2hz8CzV)
+77 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

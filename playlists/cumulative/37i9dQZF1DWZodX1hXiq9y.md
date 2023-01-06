@@ -4,7 +4,7 @@
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-188 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/6CsWSF1LjFhoHW83Zp4Is9)
+188 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/4Am2nGzT1v1T7bvwT3pcGs)
+50 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

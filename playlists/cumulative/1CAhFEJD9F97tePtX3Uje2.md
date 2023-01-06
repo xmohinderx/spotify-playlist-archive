@@ -4,7 +4,7 @@
 
 > 
 
-200 songs - 12 hr 3 min - not published yet
+202 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Find the Light](https://open.spotify.com/track/6dEBBTFxQTrL8PYpRk6Mkl) | [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Find the Light](https://open.spotify.com/album/2BWUz9i5IXrWNoAoskuoh8) | 3:43 | 2018-11-27 |  |
 | [Fly Away](https://open.spotify.com/track/6ijZZxyGBzbNq2FgR0USYR) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Fly Away](https://open.spotify.com/album/52Lhw4DeQ2rUtYmWNA9dDB) | 4:20 | 2021-02-07 |  |
 | [For The People](https://open.spotify.com/track/7sspyJENSmKfAyQHGJtC1m) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 3:26 | 2019-12-23 |  |
+| [For You](https://open.spotify.com/track/2wRlRa04whOwI5cZ4QXsmj) | [DXXDLY](https://open.spotify.com/artist/6GKLaeqLSNmXOedBQQY9R7), [JÖST](https://open.spotify.com/artist/3ERTkqBGVuP0lA4r3pNvGu) | [For You](https://open.spotify.com/album/4Cd2EftimaltmI0irA1dCX) | 2:28 | 2023-01-05 |  |
 | [Function](https://open.spotify.com/track/2Rj5TXc2G7sv7rAqJntMgn) | [6 Senz](https://open.spotify.com/artist/147cJWfJ6XKAh9T8ohr7Ts) | [Function](https://open.spotify.com/album/7uDKrd3JI9uRuvmCuYIybb) | 3:45 | 2019-12-03 |  |
 | [Game Is On](https://open.spotify.com/track/55c0hKy37sEJpsQs0lSHlj) | [Øfdream](https://open.spotify.com/artist/70P3LvwslDBQicUfL2Ix02) | [Anthology, Pt\. 2](https://open.spotify.com/album/3n4SeHfULyCQNQSOhsEUoY) | 2:56 | 2018-11-27 |  |
 | [Geneva](https://open.spotify.com/track/2nNVyS2Q6SjekgeNaINwbi) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Geneva](https://open.spotify.com/album/7wlcYqBcp40M0G4URfXSxY) | 2:55 | 2018-11-27 |  |
@@ -161,6 +162,7 @@
 | [Replay](https://open.spotify.com/track/5DiiH80hONadLveK3wMz9c) | [Woodju](https://open.spotify.com/artist/7iYTP3Gnpd8ZDFrr9gocBR), [MITYA](https://open.spotify.com/artist/6b9ZuzE85bvMgpSC4tkzun) | [Undiscovered](https://open.spotify.com/album/1xwTjsaYZU4OhMbAPkWgZq) | 3:48 | 2018-12-01 |  |
 | [Rosacea](https://open.spotify.com/track/3CHXpZdk5W8y5wLlJape0Y) | [Grid](https://open.spotify.com/artist/2mr8Sn2YZJZiKuvbRmABbm) | [Rosacea](https://open.spotify.com/album/3eOytFp2PJ6061ZjOm9LRh) | 3:11 | 2022-11-12 |  |
 | [Rush](https://open.spotify.com/track/3lcVFoUD8xC6G8X2ecfS0U) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Rush](https://open.spotify.com/album/31pSPOOzDupzFjJOviKvqg) | 4:18 | 2018-11-27 |  |
+| [Ryza](https://open.spotify.com/track/6pOwVBLGJIHQhdxdOHENOh) | [KTrek](https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV) | [Ryza](https://open.spotify.com/album/0cv1F06ZUvZKet0IZUfs4J) | 3:12 | 2023-01-05 |  |
 | [Salvation in Love](https://open.spotify.com/track/5GOGXozSEjBJNYiv4WVqyM) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Salvation in Love](https://open.spotify.com/album/2pCvklmT4fb002cTbhfAWV) | 3:56 | 2018-11-27 |  |
 | [Same World Next Dimension](https://open.spotify.com/track/3lUMvdNMOhxx8GgaWzJwuL) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 4:43 | 2020-02-14 |  |
 | [See Me](https://open.spotify.com/track/11qtTUPmfsLPt8RVrhlYqZ) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [See Me](https://open.spotify.com/album/4I6zWSUDUhlt8QeeMmLRqq) | 3:28 | 2018-11-27 |  |

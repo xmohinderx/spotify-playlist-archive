@@ -4,7 +4,7 @@
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-54 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/47O4zDuqjFZN0CXSm97TZY)
+54 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

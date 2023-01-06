@@ -4,7 +4,7 @@
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-210 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/73bheCpyPrjxP58pmAp2Qf)
+210 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

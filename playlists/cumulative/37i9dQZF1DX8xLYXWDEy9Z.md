@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Z99ysbztLlZqmYK3urV7w ">Paige</a> has been blurring the lines between Deep House and Melodic Techno, and his latest mix brings exactly that.
 
-12 songs - 1 hr 12 min - not published yet
+12 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

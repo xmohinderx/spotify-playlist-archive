@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-246 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
+246 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

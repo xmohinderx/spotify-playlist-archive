@@ -4,7 +4,7 @@
 
 > Classic rock favorites\. Cover: Bruce Springsteen
 
-131 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/4rcVJdftMBLNicfMZ5tILR)
+131 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

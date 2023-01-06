@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-98 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/6TfVEDAhgo97YC4Yvz98Mx)
+98 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

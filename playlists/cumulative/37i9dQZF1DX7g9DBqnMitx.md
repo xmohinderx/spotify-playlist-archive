@@ -4,7 +4,7 @@
 
 > Le cinéma ça s'écoute aussi.
 
-106 songs - 5 hr 53 min - not published yet
+106 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

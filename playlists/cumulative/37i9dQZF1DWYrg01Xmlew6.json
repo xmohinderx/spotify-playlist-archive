@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il meglio da Napoli e dalla scena campana. Cover: Yung Snapp, ANNA",
+  "description": "Il meglio da Napoli e dalla scena campana. Cover: Geolier",
   "name": "Int 'o Rione",
-  "published_playlist_ids": [
-    "24YJoDhwO3164C86soW14C"
-  ],
   "tracks": [
     {
       "album": {
@@ -659,7 +656,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 183532,
       "name": "Dedication (con Geolier & anice)",
       "url": "https://open.spotify.com/track/24xrkSLeA7Y6Ypb4ZSXwJ2"
@@ -1368,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162992,
+      "name": "MARADONA",
+      "url": "https://open.spotify.com/track/1Bf3WnU7Y6YGP0k4RbbErB"
+    },
+    {
+      "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
       },
@@ -1597,6 +1612,24 @@
       "duration_ms": 150052,
       "name": "NA STORIA",
       "url": "https://open.spotify.com/track/4tMC0vUpZnlYLPPukjy9ud"
+    },
+    {
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "NAPO****NO",
+      "url": "https://open.spotify.com/track/4y4wOYV6OJ2hlXeBFzazEO"
     },
     {
       "album": {
@@ -1885,7 +1918,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 210493,
       "name": "Over (feat. Geolier)",
       "url": "https://open.spotify.com/track/6OeLYmeWpUwT4n4s7cX201"
@@ -2273,6 +2306,24 @@
       "duration_ms": 128274,
       "name": "RFTS 3: Transalp (Freestyle)",
       "url": "https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw"
+    },
+    {
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "RICCHEZZA",
+      "url": "https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA"
     },
     {
       "album": {
@@ -2739,7 +2790,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 132870,
       "name": "TOP BOY \u2a33 (con GEOLIER)",
       "url": "https://open.spotify.com/track/6sCcJIxOPP7GIKFGzDnYDu"

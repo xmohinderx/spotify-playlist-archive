@@ -4,7 +4,7 @@
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-186 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/0LsEqOOLiAoH7HfToPQ8Cv)
+186 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Angels We Have Heard On High](https://open.spotify.com/track/5NDXZph9YC0ZU7PO7PPLZs) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Angels We Have Heard On High](https://open.spotify.com/album/5Vfxiz4U5upC1MURchp7nr) | 2:38 | 2021-11-19 | 2022-11-13 |
 | [Angels We Have Heard On High](https://open.spotify.com/track/469YC4Vq8lAhCsightbkDH) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Angels We Have Heard On High](https://open.spotify.com/album/5I62hbC0Y0xxSJ8Xj9LKJ3) | 2:38 | 2021-11-19 | 2022-07-25 |
 | [Another Christmas](https://open.spotify.com/track/7wTUURwHvDfAfUPHPaxhei) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:40 | 2021-11-19 | 2022-07-29 |
-| [Auld Lang Syne](https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:09 | 2021-11-19 | 2023-01-04 |
+| [Auld Lang Syne](https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:09 | 2021-11-19 |  |
 | [Blue Christmas](https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR) | 1:42 | 2021-11-19 |  |
 | [Blue Christmas](https://open.spotify.com/track/3DL2Zth3HnbmMKgUy3RSiG) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/2To5Y08bzMfSKgssrxaGqp) | 1:42 | 2021-11-19 | 2022-07-27 |
 | [Boxing Day](https://open.spotify.com/track/0HQLq1DUWyhMN2gWXBQ89Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/4dC3BP0H6eU4jkcyXUMrzb) | 3:59 | 2021-11-19 | 2022-07-29 |
@@ -169,7 +169,7 @@
 | [This Is a Christmas Match](https://open.spotify.com/track/2m4EHtbC543ItZjqiM7Tgg) | [Wimbledon Alley](https://open.spotify.com/artist/493q9CX6Jfqz84BMKeE1pT) | [This Is a Christmas Match](https://open.spotify.com/album/6I1AEdIeubzxeUrf06Uz8H) | 2:08 | 2021-11-19 | 2022-07-29 |
 | [This Time of Year](https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Medium Rare](https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO) | 2:17 | 2021-11-19 |  |
 | [Under the Mistletoe](https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:58 | 2021-11-19 | 2022-07-26 |
-| [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/7bKiUJ2re9OTNkB8sjYEdm) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Violent Night \(A Christmas Tale\)](https://open.spotify.com/album/13rqjPtmNSnmvBBO6tZyZg) | 3:30 | 2022-12-01 |  |
+| [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/7bKiUJ2re9OTNkB8sjYEdm) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Violent Night \(A Christmas Tale\)](https://open.spotify.com/album/13rqjPtmNSnmvBBO6tZyZg) | 3:30 | 2022-12-01 | 2023-01-06 |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 2:12 | 2021-11-19 |  |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/5XAQVsXvdN8Kk0U9b2soBm) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/3ZH2C93zp7IX6WC8rH8W1z) | 2:12 | 2021-11-19 | 2022-07-29 |
 | [We Wish You a Merry Christmas / Jingle Bells \- Short Edit](https://open.spotify.com/track/1UsnscOXO3MEGrl3TBP6AS) | [Normahl](https://open.spotify.com/artist/4A3ZGNdTWn4w4Aw6VFqoJm) | [We Wish You a Merry Christmas / Jingle Bells \(Short Edit\)](https://open.spotify.com/album/0ns5OyzHII4TJ0gjtfyC4b) | 2:06 | 2021-11-19 | 2022-07-29 |

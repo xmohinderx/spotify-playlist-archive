@@ -4,7 +4,7 @@
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/2QhYWlxPwMinCJ4N0C2tZh)
+93 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

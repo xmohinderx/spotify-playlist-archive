@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best tracks from Fresh Finds Latin this year. Cover: Estevie #SpotifyWrapped",
-  "num_followers": 168457,
+  "num_followers": 168454,
   "original_name": "Fresh Finds Latin: Best of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMDYwZWI3OTdhM2ExMWExMzUxYzlmMmRmMWU4YjVjMjYw",
+  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMDJiMDZkMGY2NDVkMGJiOTJlNWFiYzU4NTlkNTk1NDI4",
   "tracks": [
     {
       "added_at": "2022-11-30 14:52:40",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
+        "name": "Barquinho",
+        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Barquinho",
+      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
         "name": "vienes y te vas :|",
         "url": "https://open.spotify.com/album/6BhQ6hPpS3saH0zGNdXIrU"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Barquinho",
-        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
+        "name": "To' Los D\u00edas",
+        "url": "https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI"
       },
       "artists": [
         {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+          "name": "Matt Louis",
+          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
         }
       ],
-      "duration_ms": 152750,
-      "name": "Barquinho",
-      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
+      "duration_ms": 218628,
+      "name": "To' Los D\u00edas",
+      "url": "https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -475,22 +491,6 @@
       "duration_ms": 220975,
       "name": "Paradoja",
       "url": "https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
-        "name": "To' Los D\u00edas",
-        "url": "https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI"
-      },
-      "artists": [
-        {
-          "name": "Matt Louis",
-          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
-        }
-      ],
-      "duration_ms": 218628,
-      "name": "To' Los D\u00edas",
-      "url": "https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Bby Grl",
-        "url": "https://open.spotify.com/album/43uszYWNYyigwvqIMVulL9"
-      },
-      "artists": [
-        {
-          "name": "Loui Santana",
-          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Bby Grl",
-      "url": "https://open.spotify.com/track/6w0JTilwoLz5xwTWPSeuf0"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 195918,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Bby Grl",
+        "url": "https://open.spotify.com/album/43uszYWNYyigwvqIMVulL9"
+      },
+      "artists": [
+        {
+          "name": "Loui Santana",
+          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Bby Grl",
+      "url": "https://open.spotify.com/track/6w0JTilwoLz5xwTWPSeuf0"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Sad Kirby :(",
-        "url": "https://open.spotify.com/album/6nu76gHLRkrseVSYh0v13Z"
-      },
-      "artists": [
-        {
-          "name": "Seiscuerdas",
-          "url": "https://open.spotify.com/artist/1B59B61fbQVwFdvlZQ1RWM"
-        }
-      ],
-      "duration_ms": 173892,
-      "name": "Sad Kirby :(",
-      "url": "https://open.spotify.com/track/1VZbWHys9ky0YGBUWbcD6p"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Lo que no ves",
         "url": "https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 135205,
       "name": "Espejos",
       "url": "https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Sad Kirby :(",
+        "url": "https://open.spotify.com/album/6nu76gHLRkrseVSYh0v13Z"
+      },
+      "artists": [
+        {
+          "name": "Seiscuerdas",
+          "url": "https://open.spotify.com/artist/1B59B61fbQVwFdvlZQ1RWM"
+        }
+      ],
+      "duration_ms": 173892,
+      "name": "Sad Kirby :(",
+      "url": "https://open.spotify.com/track/1VZbWHys9ky0YGBUWbcD6p"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Jardin de Rosas",
-        "url": "https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR"
-      },
-      "artists": [
-        {
-          "name": "Ramona Vee",
-          "url": "https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B"
-        }
-      ],
-      "duration_ms": 202409,
-      "name": "Jardin de Rosas",
-      "url": "https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/3xwgOghwfxD3lzpqgu1w3j"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "AGUA CON SAL",
-        "url": "https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m"
+        "name": "Jardin de Rosas",
+        "url": "https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR"
       },
       "artists": [
         {
-          "name": "cata rec",
-          "url": "https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A"
+          "name": "Ramona Vee",
+          "url": "https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B"
         }
       ],
-      "duration_ms": 198031,
-      "name": "AGUA CON SAL",
-      "url": "https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg"
+      "duration_ms": 202409,
+      "name": "Jardin de Rosas",
+      "url": "https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -847,6 +831,22 @@
       "duration_ms": 201245,
       "name": "Me preguntaba",
       "url": "https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "AGUA CON SAL",
+        "url": "https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m"
+      },
+      "artists": [
+        {
+          "name": "cata rec",
+          "url": "https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A"
+        }
+      ],
+      "duration_ms": 198031,
+      "name": "AGUA CON SAL",
+      "url": "https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg"
     },
     {
       "added_at": "2022-11-30 14:52:40",

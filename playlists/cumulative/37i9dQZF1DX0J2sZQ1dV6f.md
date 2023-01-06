@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-216 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/0Zp5ISfQqmS4W6Y0xRDYYd)
+216 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: BiGSaM.
 
-87 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/1Ds22R1HY8cK2GQHEEkmhI)
+87 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

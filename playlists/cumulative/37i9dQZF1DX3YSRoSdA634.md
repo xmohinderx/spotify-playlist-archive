@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-480 songs - 1 day 5 hr 41 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
+480 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

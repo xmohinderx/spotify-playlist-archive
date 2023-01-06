@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to your prenatal yoga session.
 
-521 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/444WMLUCGHEzVpUc5qAl6R)
+521 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

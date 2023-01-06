@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,240 songs - 2 day 15 hr 27 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
+1,241 songs - 2 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Dinosaurs \(S4E7\)](https://open.spotify.com/track/1v5kaAA3u8rsqTiDbGdFHB) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Dinosaurs \(S4E7\)](https://open.spotify.com/album/3Z4vu9dPvIagO0gh5FMbTY) | 2:24 | 2021-05-21 | 2021-05-24 |
 | [Dip My Heart in Confetti](https://open.spotify.com/track/2zzk4jkVObPc5tl97YEJln) | [Lxandra](https://open.spotify.com/artist/6kveFlWW2CZY1bfiX51UnW) | [Dip My Heart In Confetti](https://open.spotify.com/album/1YcowXjbJa5kRb0TCuTG0E) | 3:03 | 2019-11-08 | 2020-01-04 |
 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 | 2022-07-07 | 2022-08-07 |
+| [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-01-06 |  |
 | [Dive](https://open.spotify.com/track/0Npijoc6ZcUe1devUugKvI) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Dive](https://open.spotify.com/album/2DUrw9sLe99AbZ8cRbsXk8) | 2:44 | 2019-12-30 | 2022-07-29 |
 | [Dive](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Dive](https://open.spotify.com/album/0kCeC3O3QGbCYDJGCGUIce) | 2:44 | 2022-11-10 | 2022-11-13 |
 | [Do It All Over \(feat\. Marc E\. Bassy\)](https://open.spotify.com/track/3Pm4fZwIDkykbdehoXqP9d) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Do It All Over \(feat\. Marc E\. Bassy\)](https://open.spotify.com/album/4vKC1XAYYmIdvWfeyMct0t) | 2:54 | 2020-12-04 | 2022-07-27 |
@@ -667,7 +668,7 @@
 | [Make It Hot](https://open.spotify.com/track/0QopfywHKJZH8bnt8Cj9qr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Make It Hot](https://open.spotify.com/album/5lVFS3eenpf4H7u26eiyng) | 2:48 | 2019-08-01 | 2019-08-09 |
 | [Make You Say](https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Make You Say](https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2) | 3:26 | 2022-09-01 | 2022-10-15 |
 | [Malibu](https://open.spotify.com/track/2habSXqcJGExM6JJyskY7O) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Malibu](https://open.spotify.com/album/7CUczABBlsbd5fqng9mjxo) | 3:51 | 2019-08-09 | 2022-04-21 |
-| [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 | 2022-07-07 |  |
+| [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 | 2022-07-07 | 2023-01-06 |
 | [Malibu](https://open.spotify.com/track/5XPo15e5ICs6NvSMn44pTF) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Malibu](https://open.spotify.com/album/4l4ahZ5gAr9b0uowo6am33) | 2:28 | 2021-03-19 | 2022-07-29 |
 | [Mama](https://open.spotify.com/track/6BE3AlZoAVj6vmCxYANCtt) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Mama](https://open.spotify.com/album/3Fsq7nbDz6DR3D6O4hV0C3) | 3:07 | 2019-08-09 | 2019-08-27 |
 | [Mamacita \(feat\. Farruko\)](https://open.spotify.com/track/7iwhbx1YQcQ675DTj6AmAb) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Mamacita \(feat\. Farruko\)](https://open.spotify.com/album/5IGJ2tmnMeHUDAJonQ3ppj) | 3:24 | 2019-07-30 | 2019-08-06 |

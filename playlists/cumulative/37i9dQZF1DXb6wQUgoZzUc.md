@@ -4,7 +4,7 @@
 
 > Un perreito en la pared...
 
-255 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/0rVJPLp4ituh0VEsf3lUZn)
+255 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

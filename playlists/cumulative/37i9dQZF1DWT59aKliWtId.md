@@ -4,7 +4,7 @@
 
 > The highest quality blend ft\. Lana Del Rey
 
-586 songs - 1 day 11 hr 38 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+586 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

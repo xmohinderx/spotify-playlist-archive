@@ -4,7 +4,7 @@
 
 > The Latin soundtrack of the 90s! Cover: Selena
 
-130 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/16bzmiNJN2B7CeLU7dd3R4)
+130 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Mariah Nala
 
-228 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+228 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

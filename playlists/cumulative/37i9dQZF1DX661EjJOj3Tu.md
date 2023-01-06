@@ -4,7 +4,7 @@
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-288 songs - 1 day 0 hr 14 min - [published](https://open.spotify.com/playlist/6qmxQRqQvEVEPIuHCP321g)
+288 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

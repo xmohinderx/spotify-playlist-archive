@@ -4,7 +4,7 @@
 
 > Welcome to the underground
 
-454 songs - 1 day 1 hr 38 min - [published](https://open.spotify.com/playlist/4PYEIAGZSBaHZFeTD19bqu)
+454 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

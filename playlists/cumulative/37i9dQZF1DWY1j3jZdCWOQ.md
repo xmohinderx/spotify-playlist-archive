@@ -4,7 +4,7 @@
 
 > Spain without the S
 
-228 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/2j48AznvoAj8pe3ap5mbUd)
+228 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

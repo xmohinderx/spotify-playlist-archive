@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-382 songs - 22 hr 41 min - [published](https://open.spotify.com/playlist/4PN19Rocw5jhy931gtx7Hy)
+383 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Meu Primeiro Amor](https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Meu Primeiro Amor](https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT) | 3:13 | 2022-03-25 | 2022-04-19 |
 | [Meu Verão \(Versão K7\) \- Acústica](https://open.spotify.com/track/3nHKkYCczRfd7y5exRNulV) | [LoFábio](https://open.spotify.com/artist/5UfL2BN66Pa8Rxah2KbhXg) | [Meu Verão \(Versão K7\) \[Acústica\]](https://open.spotify.com/album/0phTuahRIPaaEP6tquAFsr) | 3:31 | 2021-12-24 | 2022-07-29 |
 | [Minha Viagem](https://open.spotify.com/track/3qiyRWp6A9GExfXXWKVsoM) | [almanua](https://open.spotify.com/artist/4s2zj4RMLkUdNzJFBkc1NL) | [Minha Viagem](https://open.spotify.com/album/1tSaL5DtUZI4yRpbVm0fa3) | 2:47 | 2022-03-25 | 2022-04-12 |
+| [Minha Voz](https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa) | [Versos Que Compomos Na Estrada](https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME), [Eu Me Chamo Antônio](https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh) | [Um Verão Qualquer](https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX) | 2:42 | 2023-01-06 |  |
 | [Miragem](https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Miragem](https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq) | 3:33 | 2021-12-24 |  |
 | [mistério](https://open.spotify.com/track/7iZ1uXYxz7QAxRRDTGmHE2) | [Junin](https://open.spotify.com/artist/4OjzycPL3gEqQjJYZu4Azn) | [músicas para a janela](https://open.spotify.com/album/7cc7t6pfgG3KT7A6ZDOnrf) | 3:12 | 2021-12-24 | 2022-04-21 |
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-25 |  |
@@ -271,7 +272,7 @@
 | [Pra Não Esquecer](https://open.spotify.com/track/7AOMtxV8loRbNU0CCowKg5) | [Lucas Gottardello](https://open.spotify.com/artist/2qjG119rhgzBH4oKq1aOfU) | [O Que Te Faz Sentir](https://open.spotify.com/album/0nADgMSO5BqMPOUjPzQZzz) | 3:03 | 2022-01-21 | 2022-05-26 |
 | [Pra Seguir Viagem](https://open.spotify.com/track/2j1edCLsLNawgyk352oSnm) | [Phill Veras](https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S) | [Dentro](https://open.spotify.com/album/3T94D9NiOZr79Y7eit90CZ) | 4:53 | 2022-01-21 | 2022-06-09 |
 | [Pra Te Iluminar](https://open.spotify.com/track/0cchF6GS8r28iyHrCdsEJa) | [David Mour](https://open.spotify.com/artist/3fgi1hfJkAETgn5Yp2LuiY) | [Pra Te Iluminar](https://open.spotify.com/album/4dwyaJb4tpBBIpmHlIIjK7) | 3:32 | 2021-12-24 | 2022-07-29 |
-| [Princess of China \- Acoustic](https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Princess of China](https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7) | 3:26 | 2022-03-25 |  |
+| [Princess of China \- Acoustic](https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Princess of China](https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7) | 3:26 | 2022-03-25 | 2023-01-06 |
 | [Pro Mundo Que Virá](https://open.spotify.com/track/3Z8wkGzmV0tD1zIQt1CrjH) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [O Amor Liberta](https://open.spotify.com/album/0CHraoZMsUgNZazkXjSvwd) | 3:23 | 2021-12-24 | 2022-07-28 |
 | [Pronto\-Socorro](https://open.spotify.com/track/5vNJgxyvc33hvghUcRWqyd) | [Bi Santana](https://open.spotify.com/artist/3hDjCoC42FAM8I5owulSPd) | [Pronto\-Socorro](https://open.spotify.com/album/4WxXz08rp01NpXhIG2HfpS) | 2:55 | 2022-03-25 | 2022-04-18 |
 | [Pássaros a Voar](https://open.spotify.com/track/4gqmeOswvOrXrDkKRslx1X) | [Ana Rafaela](https://open.spotify.com/artist/7dyTdzLmMI3GXV53f6SY1e) | [Pássaros a Voar](https://open.spotify.com/album/4ReG6Dn2IDo0zHDtas5nlC) | 3:05 | 2021-12-24 | 2022-07-20 |

@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-56 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/0LIqSNHuW7rSqStgtXBh7j)
+56 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

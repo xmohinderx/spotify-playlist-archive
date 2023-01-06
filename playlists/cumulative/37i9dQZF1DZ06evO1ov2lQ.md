@@ -4,7 +4,7 @@
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-121 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/0PYzRsbgIkQ9NNBTqc5aff)
+121 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

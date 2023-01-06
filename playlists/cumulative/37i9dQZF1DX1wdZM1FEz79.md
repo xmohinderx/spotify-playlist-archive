@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: Mingginyu\(밍기뉴\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-429 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
+429 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

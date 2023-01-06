@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-155 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/0GsI4xWiRgp8I8ghyrsDS8)
+155 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

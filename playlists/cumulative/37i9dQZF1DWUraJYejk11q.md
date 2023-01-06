@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-206 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+206 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

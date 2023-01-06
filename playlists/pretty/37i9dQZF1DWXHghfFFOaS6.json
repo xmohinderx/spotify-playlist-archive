@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 245763,
+  "num_followers": 246081,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODM1MywwMDAwMDAwMDVmNTE0YjNmMDIxNTZmYjFhYTUwZDkxYWQwYWRiYjEy",
+  "snapshot_id": "MTY2MDIzODM1MywwMDAwMDAwMGJhOTg3MTFiNzExZTRkNTkwOWQzZjMxNjdmODgzNTBl",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Soundpieces: Da Antidote",
+        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
+      },
+      "artists": [
+        {
+          "name": "Lootpack",
+          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Whenimondamic",
+      "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Hard Groove",
         "url": "https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 470546,
       "name": "I'll Stay",
       "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Soundpieces: Da Antidote",
-        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
-      },
-      "artists": [
-        {
-          "name": "Lootpack",
-          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "Whenimondamic",
-      "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Hard Work",
-        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
-      },
-      "artists": [
-        {
-          "name": "John Handy",
-          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
-        }
-      ],
-      "duration_ms": 417960,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
         "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 354640,
       "name": "Breakfast At Denny's",
       "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Hard Work",
+        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
+      },
+      "artists": [
+        {
+          "name": "John Handy",
+          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
+        }
+      ],
+      "duration_ms": 417960,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Adrenalin",
+        "url": "https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe"
+      },
+      "artists": [
+        {
+          "name": "David Bendeth",
+          "url": "https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe"
+        }
+      ],
+      "duration_ms": 410319,
+      "name": "Feel The Real",
+      "url": "https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 226920,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Adrenalin",
-        "url": "https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe"
-      },
-      "artists": [
-        {
-          "name": "David Bendeth",
-          "url": "https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe"
-        }
-      ],
-      "duration_ms": 410319,
-      "name": "Feel The Real",
-      "url": "https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -951,6 +951,34 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "I'll Be With You",
+        "url": "https://open.spotify.com/album/7GVaEnwt87gGsw0RxM9F3q"
+      },
+      "artists": [
+        {
+          "name": "Apartment Upstairs",
+          "url": "https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk"
+        },
+        {
+          "name": "Doc Awes",
+          "url": "https://open.spotify.com/artist/5Dxx4NwFilcIbafokwfnes"
+        },
+        {
+          "name": "Abhay Sharma",
+          "url": "https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3"
+        },
+        {
+          "name": "Fakeer",
+          "url": "https://open.spotify.com/artist/6noaoyjtcjbs6C8REcYhxf"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "I'll Be With You",
+      "url": "https://open.spotify.com/track/7a0i3hGEInHBswOYD5KaH4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "I-Level",
         "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
       },
@@ -979,34 +1007,6 @@
       "duration_ms": 327133,
       "name": "Good Luck Shore",
       "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "I'll Be With You",
-        "url": "https://open.spotify.com/album/7GVaEnwt87gGsw0RxM9F3q"
-      },
-      "artists": [
-        {
-          "name": "Apartment Upstairs",
-          "url": "https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk"
-        },
-        {
-          "name": "Doc Awes",
-          "url": "https://open.spotify.com/artist/5Dxx4NwFilcIbafokwfnes"
-        },
-        {
-          "name": "Abhay Sharma",
-          "url": "https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3"
-        },
-        {
-          "name": "Fakeer",
-          "url": "https://open.spotify.com/artist/6noaoyjtcjbs6C8REcYhxf"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "I'll Be With You",
-      "url": "https://open.spotify.com/track/7a0i3hGEInHBswOYD5KaH4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Totally Together",
-      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Do You Want More?!!!??!",
         "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 220026,
       "name": "Datskat",
       "url": "https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Totally Together",
+      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "To The Sky (Remastered)",
+        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
+      },
+      "artists": [
+        {
+          "name": "Black Mighty Orchestra",
+          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
+        }
+      ],
+      "duration_ms": 196682,
+      "name": "Ocean Beach",
+      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Girl Overboard",
         "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 444333,
       "name": "Girl Overboard",
       "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "To The Sky (Remastered)",
-        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
-      },
-      "artists": [
-        {
-          "name": "Black Mighty Orchestra",
-          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
-        }
-      ],
-      "duration_ms": 196682,
-      "name": "Ocean Beach",
-      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Galactica Rush",
-        "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
-      },
-      "artists": [
-        {
-          "name": "Jhelisa",
-          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
-        }
-      ],
-      "duration_ms": 320693,
-      "name": "Whirl Keeps Turning",
-      "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Cosmic Vortex (Justice Divine)",
         "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 470520,
       "name": "Walk That Walk, Talk That Talk",
       "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Galactica Rush",
+        "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
+      },
+      "artists": [
+        {
+          "name": "Jhelisa",
+          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
+        }
+      ],
+      "duration_ms": 320693,
+      "name": "Whirl Keeps Turning",
+      "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
     },
     {
-      "added_at": "2022-07-18 17:17:22",
-      "album": {
-        "name": "C'\u00e9tait un rendez-vous",
-        "url": "https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W"
-      },
-      "artists": [
-        {
-          "name": "Arms and Sleepers",
-          "url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
-        }
-      ],
-      "duration_ms": 320737,
-      "name": "C'\u00e9tait un rendez-vous",
-      "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Lava Love",
@@ -1563,6 +1547,22 @@
       "duration_ms": 298722,
       "name": "Niassam",
       "url": "https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU"
+    },
+    {
+      "added_at": "2022-07-18 17:17:22",
+      "album": {
+        "name": "C'\u00e9tait un rendez-vous",
+        "url": "https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W"
+      },
+      "artists": [
+        {
+          "name": "Arms and Sleepers",
+          "url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
+        }
+      ],
+      "duration_ms": 320737,
+      "name": "C'\u00e9tait un rendez-vous",
+      "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
     }
   ],
   "unique_name": "Acid Jazz",

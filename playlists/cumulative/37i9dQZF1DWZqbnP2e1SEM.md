@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-240 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/2XKOagCBnk79SrhGVVglPo)
+240 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Best Anime Songs in 2022! 2022年の<a href="spotify:user:spotify:playlist:37i9dQZF1DWT8aqnwgRt92">Anime Now</a>総まとめ！今年Anime Nowで再生された楽曲ベスト50! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Ado
 
-50 songs - 3 hr 6 min - not published yet
+50 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-150 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
+150 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

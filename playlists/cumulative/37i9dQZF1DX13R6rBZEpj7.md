@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Zero
 
-151 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/4SEWCFMiD2v6uvHXh5cmid)
+151 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

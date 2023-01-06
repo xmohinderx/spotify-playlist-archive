@@ -4,7 +4,7 @@
 
 > Exercise together with uplifting soul music.
 
-141 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
+141 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

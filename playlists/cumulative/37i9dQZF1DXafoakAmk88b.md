@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-193 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
+193 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

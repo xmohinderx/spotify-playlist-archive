@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-240 songs - 17 hr 45 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
+240 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

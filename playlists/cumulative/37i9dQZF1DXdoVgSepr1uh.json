@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Argentina en la casa! Foto: Angela Torres.",
   "name": "Reggaet\u00f3n Argentino",
-  "published_playlist_ids": [
-    "6tDUGVVPmoQw2RkVQfmtJk"
-  ],
   "tracks": [
     {
       "album": {
@@ -373,6 +370,24 @@
       "duration_ms": 164160,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA"
+    },
+    {
+      "album": {
+        "name": "Cartera Drxga y Maquillaje",
+        "url": "https://open.spotify.com/album/7idvjC1nomwslxVrZum7Rr"
+      },
+      "artists": [
+        {
+          "name": "Romeo El Santo",
+          "url": "https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126382,
+      "name": "Cartera Drxga y Maquillaje",
+      "url": "https://open.spotify.com/track/1usHY94fx76ykpvlMD5dWk"
     },
     {
       "album": {
@@ -1739,7 +1754,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 188571,
       "name": "Mi Nena",
       "url": "https://open.spotify.com/track/3qBKuh7RPdibZ5K9I5xQdb"

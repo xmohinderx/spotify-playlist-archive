@@ -4,7 +4,7 @@
 
 > Explore the familiar tunes of Mendelssohn.
 
-103 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/27E3xL6wFljKhr30oMJOKb)
+103 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

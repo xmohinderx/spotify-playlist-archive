@@ -4,7 +4,7 @@
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Papatinho, Xamã, Juliette, L7NNON, Welissom
 
-145 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
+145 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

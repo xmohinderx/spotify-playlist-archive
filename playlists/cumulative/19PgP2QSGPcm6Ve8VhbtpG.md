@@ -4,7 +4,7 @@
 
 > 1980s hits and retro favorites by Whitney Houston, Eurythmics, AC/DC &amp; more!
 
-114 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/6Lep9myswtzUEfC8UqDXrb)
+114 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

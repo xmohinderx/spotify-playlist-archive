@@ -4,7 +4,7 @@
 
 > Have a nice relaxed dinner with some chill indie music.
 
-147 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/5DQOvJsKzXZMJCIkrgn4FQ)
+147 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

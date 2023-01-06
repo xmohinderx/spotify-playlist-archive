@@ -4,7 +4,7 @@
 
 > A playlist of spooky songs to get you ready for fright night!
 
-126 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/4VnJnCxoPD2MaeAi0lWMl1)
+126 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing\. Las vibras tranqui que ocupas en tu vida.
 
-200 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
+200 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

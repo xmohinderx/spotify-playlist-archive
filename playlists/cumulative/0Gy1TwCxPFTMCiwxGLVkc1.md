@@ -4,7 +4,7 @@
 
 > Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
 
-84 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/1xwqNtCgsi5kgP4g07FmIb)
+84 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

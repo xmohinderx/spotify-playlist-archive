@@ -4,7 +4,7 @@
 
 > Alegra tu día con lo más pop para la mañana.
 
-251 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/2dAJR8ZOdFxnoMpvevd6Pw)
+251 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

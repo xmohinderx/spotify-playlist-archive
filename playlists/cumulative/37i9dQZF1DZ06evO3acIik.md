@@ -4,7 +4,7 @@
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/7KOOkYyd9ZT4DmcehRF0as)
+72 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

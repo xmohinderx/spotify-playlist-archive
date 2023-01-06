@@ -4,7 +4,7 @@
 
 > Pack your backpack and get ready for school!
 
-59 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/2HVuCHulCqBb0FSZwQjcCr)
+59 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

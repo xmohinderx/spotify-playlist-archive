@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-313 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
+313 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Avalanche](https://open.spotify.com/track/0Kyxsaxjph9rfEru2uXIGu) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Miles and Miles](https://open.spotify.com/album/16ZBD2rfhcmite2xZ4prJT) | 4:25 | 2022-12-16 |  |
 | [Avalanche](https://open.spotify.com/track/6jBGH36Ue2beiIFrjakDkX) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Miles and Miles](https://open.spotify.com/album/2aGQYE2YiaM44GKTBTOFLc) | 4:25 | 2021-11-05 | 2022-07-28 |
 | [Back to Tennessee](https://open.spotify.com/track/6yVZtPADFaHeYpeAS45Gz2) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Back to Tennessee](https://open.spotify.com/album/6wXcYqIiXETdVMD0GwnI4G) | 3:36 | 2022-02-21 | 2022-07-28 |
-| [Be So Cruel \- Stripped](https://open.spotify.com/track/4VN1iJu8OWnh2yY6QNoKOj) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Be So Cruel \(Stripped\)](https://open.spotify.com/album/0uypCQZERlewPD7jjHhZVU) | 2:42 | 2023-01-03 | 2023-01-05 |
+| [Be So Cruel \- Stripped](https://open.spotify.com/track/4VN1iJu8OWnh2yY6QNoKOj) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Be So Cruel \(Stripped\)](https://open.spotify.com/album/0uypCQZERlewPD7jjHhZVU) | 2:42 | 2023-01-03 |  |
 | [Bed Song 1](https://open.spotify.com/track/5XnQnpRRXZQbJ2PcvvuWp2) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Bed Song 1](https://open.spotify.com/album/1vpdtDIoL0jW47H7gYfp9n) | 3:59 | 2021-11-08 | 2022-07-29 |
 | [Before You](https://open.spotify.com/track/60GSDg8mVq5lIwBdQ8Fdgv) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Before You](https://open.spotify.com/album/3Cm5kXIKNv7VmgvYcotCQC) | 2:47 | 2021-11-05 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/68XQwuLFhzaV0ThuDv2I54) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Berlin](https://open.spotify.com/album/4yQ3lsX2CZRbukZ6QHs1eX) | 4:29 | 2021-11-05 | 2022-07-29 |
@@ -178,7 +178,7 @@
 | [My Arms Were Always Around You](https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [My Arms Were Always Around You](https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc) | 3:20 | 2021-11-05 |  |
 | [My Dreams Have All Come True](https://open.spotify.com/track/2s1c8h4P4u1GxzNQFws648) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [My Dreams Have All Come True](https://open.spotify.com/album/3AJw8vTaNDueiiJ85duVxY) | 4:24 | 2021-11-05 | 2022-07-21 |
 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 | 2022-07-22 |  |
-| [never gonna break your heart](https://open.spotify.com/track/2ak7xmwbLAADnngfYpLKuD) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [IN AND THROUGH THE BODY](https://open.spotify.com/album/3RthcMmqG13Kk0jxR0Up0a) | 3:47 | 2021-11-05 |  |
+| [never gonna break your heart](https://open.spotify.com/track/2ak7xmwbLAADnngfYpLKuD) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [IN AND THROUGH THE BODY](https://open.spotify.com/album/3RthcMmqG13Kk0jxR0Up0a) | 3:47 | 2021-11-05 | 2023-01-06 |
 | [New Paint \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Spotify Singles](https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu) | 2:58 | 2021-11-05 | 2022-07-21 |
 | [Nocturne \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1iWmK4jR0AhIZB0gZG3NKA) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/72rhxNzk3Lm3I6zT1YqYQx) | 4:52 | 2022-02-07 | 2022-02-22 |
 | [Note To Self](https://open.spotify.com/track/5MhQAE03rlj28eK1IymPgB) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note To Self](https://open.spotify.com/album/5nvf3juHez844dgOnwiSjY) | 3:15 | 2022-02-07 | 2022-07-27 |

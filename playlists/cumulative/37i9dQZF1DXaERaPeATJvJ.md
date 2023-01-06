@@ -4,7 +4,7 @@
 
 > Merayakan 21 tahun The Brandals bersama kumpulan katalog mereka.
 
-107 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+107 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

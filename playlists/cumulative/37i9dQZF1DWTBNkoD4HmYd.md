@@ -4,7 +4,7 @@
 
 > A selection of highlights from Vivaldi's celebrated concertos and choral works, proving there's way more to this red\-headed baroque legend than just The Four Seasons.
 
-122 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/0qts7GpvRfqHFlPHhvgCb8)
+122 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

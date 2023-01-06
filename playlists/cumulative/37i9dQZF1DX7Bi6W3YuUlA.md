@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-346 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/335WJRer6HYh9zgu1XDap1)
+346 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

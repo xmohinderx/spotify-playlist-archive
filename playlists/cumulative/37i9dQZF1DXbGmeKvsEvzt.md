@@ -4,7 +4,7 @@
 
 > Post club ride home
 
-50 songs - 2 hr 53 min - not published yet
+50 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

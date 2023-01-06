@@ -4,7 +4,7 @@
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-81 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/40EtmmoKx3q5lEn5K21rgp)
+81 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

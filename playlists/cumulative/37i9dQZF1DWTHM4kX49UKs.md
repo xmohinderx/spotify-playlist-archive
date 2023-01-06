@@ -4,7 +4,7 @@
 
 > The best indie rock/pop/hip hop/dance/r&b of the 2010s\. Cover: Tame Impala
 
-181 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/3auSmhLzNB0gly5FRzRqez)
+181 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

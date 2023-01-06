@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Dani Torres en portada.",
-  "num_followers": 55209,
+  "num_followers": 55201,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MjUzNSwwMDAwMDAwMDZkMGE5NDM4ODcxYjEyYmEzNjBlNzRkZTVhNTA3YTJh",
+  "snapshot_id": "MTY3MTY0MjUzNSwwMDAwMDAwMGE3YTc2NmMzMWVlNDk4YWQxOGRjMTRiMmY3OGQwNTQ0",
   "tracks": [
     {
       "added_at": "2022-11-25 02:28:29",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Mal Acompa\u00f1ada",
         "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 218000,
       "name": "Loco Demente",
       "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 150441,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
     },
     {
       "added_at": "2022-09-29 23:31:37",

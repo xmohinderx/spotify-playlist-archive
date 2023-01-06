@@ -4,7 +4,7 @@
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-95 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/0eXMlsTiRHC7wELyKeszOt)
+95 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

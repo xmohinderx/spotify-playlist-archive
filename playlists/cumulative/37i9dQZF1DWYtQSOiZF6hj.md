@@ -4,7 +4,7 @@
 
 > Great songs for your birthday! Let's celebrate!
 
-83 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5FNcj9ShVqtyKHQLOUG04T)
+83 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

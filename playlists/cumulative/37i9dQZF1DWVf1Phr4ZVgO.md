@@ -4,7 +4,7 @@
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-184 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/2uTuZOwVyeoyYoooE1PJCr)
+184 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-160 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+160 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

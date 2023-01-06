@@ -4,7 +4,7 @@
 
 > Songs from some of the greatest films in the history of cinema.
 
-52 songs - 3 hr 34 min - not published yet
+52 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

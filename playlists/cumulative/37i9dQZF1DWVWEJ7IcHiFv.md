@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-68 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/1X3yVGrCiHqjCnSxESTAcM)
+68 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

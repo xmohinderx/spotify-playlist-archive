@@ -4,7 +4,7 @@
 
 > Sit back and unwind to the most selamba songs around.
 
-281 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/7538s5dwa1woUVGGycWJCO)
+281 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

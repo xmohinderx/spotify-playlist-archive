@@ -4,7 +4,7 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Yeison Jiménez
 
-97 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/4dgRTLno9dN3O245XyEHEz)
+97 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

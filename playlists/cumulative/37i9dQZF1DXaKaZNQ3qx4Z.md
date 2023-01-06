@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Shakira y Alejandro Sanz en un mismo lugar.
 
-62 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/6mYuqeCD0z3bCRGzsxg0t1)
+62 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Per trovare il buonumore, anche a lavoro!
 
-148 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/4tQ1YExJ1a3RvREbSdk0fe)
+148 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

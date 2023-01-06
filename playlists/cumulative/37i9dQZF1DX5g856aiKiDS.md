@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-243 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/3lwK9QgbybtcQdnp8W1GCQ)
+244 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Love like that](https://open.spotify.com/track/1nY4Op7iJyyRAxRdzgpy4G) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/0fYkcK5aT1o6mzFsKWxZxI) | 3:35 | 2022-07-22 |  |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2022-04-12 |  |
 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 | 2022-11-03 |  |
+| [Love Yourself \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/5B0Ki3CZf0mzoN0lLWPcnF) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Symphony](https://open.spotify.com/album/1GwDKLnH82W2m2BBWf3gbS) | 3:14 | 2023-01-05 |  |
 | [lovesick](https://open.spotify.com/track/1nP1TjjP1p0CPnXtWzNzal) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW), [Oz](https://open.spotify.com/artist/4qSDffaAMImvr2UHN5iqi5) | [collection 1](https://open.spotify.com/album/6qu0hjg5oGIlupNylGYEb2) | 3:39 | 2022-06-09 | 2022-06-14 |
 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 | 2022-05-11 |  |
 | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/track/6lJUvqmdG1jt1y3nWT9Exh) | [Camtono](https://open.spotify.com/artist/6hZ5K83wnSmPDM4R3iGF9s), [MNZU](https://open.spotify.com/artist/1juqEV8as6kKzFY3bKSmP9) | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/album/5eRzpXBXvklSf1LucQJxdA) | 3:09 | 2022-07-04 | 2022-07-23 |
@@ -154,7 +155,7 @@
 | [OHOO](https://open.spotify.com/track/7JpfkNqua1LtjGM8B8rNE9) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Redd](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) | 3:16 | 2022-06-09 | 2022-06-12 |
 | [One And Only Girl \(feat\. BrotherSu\)](https://open.spotify.com/track/7eJ6L4oebDYDrIoB1IGrrC) | [Kim Jina](https://open.spotify.com/artist/6I1eP6pjZFnNjJyzU7wDqA), [BrotherSu](https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB) | [One And Only Girl \(feat\. BrotherSu\)](https://open.spotify.com/album/5RtG01OMjkvDCK26vs7riv) | 3:34 | 2022-04-12 | 2022-04-21 |
 | [Only U \(Feat\. PENOMECO\)](https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Only U](https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0) | 3:47 | 2022-07-22 | 2022-11-26 |
-| [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-21 |  |
+| [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-21 | 2023-01-06 |
 | [Our Blue \(Back to You X CHEEZE\)](https://open.spotify.com/track/7rMEAfrzLPdB14MBI5QVxb) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Our Blue \(Back to You X CHEEZE\)](https://open.spotify.com/album/4hwJcvG7UGtS9QyLrRnlo9) | 3:32 | 2022-04-12 | 2022-07-27 |
 | [Out of the Blue](https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3) | [DOWOON](https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs), [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [Out of the Blue](https://open.spotify.com/album/26bCM8vhKNYMdb2uTNG3jt) | 3:16 | 2022-04-12 | 2022-07-29 |
 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 | 2022-07-22 | 2022-09-17 |

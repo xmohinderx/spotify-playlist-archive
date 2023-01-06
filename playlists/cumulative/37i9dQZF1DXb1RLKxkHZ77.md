@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Awdella
 
-140 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
+140 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

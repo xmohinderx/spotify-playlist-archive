@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-330 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
+330 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

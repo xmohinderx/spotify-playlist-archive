@@ -4,7 +4,7 @@
 
 > La carica giusta per i tuoi allenamenti!
 
-156 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/3Ey8aCYd3dXZSoSdUAPFlu)
+156 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

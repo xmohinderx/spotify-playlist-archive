@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-450 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+450 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

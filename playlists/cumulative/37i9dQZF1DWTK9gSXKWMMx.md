@@ -4,7 +4,7 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-58 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/6pVEAMIhTh8lrPSIN67nvp)
+58 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Pas mal "tes tounes de karaoké préférées".
 
-88 songs - 6 hr 0 min - not published yet
+88 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

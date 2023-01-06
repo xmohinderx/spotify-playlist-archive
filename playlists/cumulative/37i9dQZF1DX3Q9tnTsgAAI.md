@@ -4,7 +4,7 @@
 
 > AOMG's mr\. wide\-range rapper: Loco
 
-112 songs - 6 hr 52 min - not published yet
+112 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

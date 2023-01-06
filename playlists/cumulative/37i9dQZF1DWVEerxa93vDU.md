@@ -4,7 +4,7 @@
 
 > Relaxing and soft piano, to get those chill sunday morning vibes.
 
-266 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/6H4giSUURJHccDTCgs6ahS)
+266 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

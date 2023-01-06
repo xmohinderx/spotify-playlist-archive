@@ -4,7 +4,7 @@
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-100 songs - 8 hr 38 min - not published yet
+100 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

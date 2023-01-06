@@ -4,7 +4,7 @@
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-129 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
+129 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

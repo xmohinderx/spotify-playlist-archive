@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-60 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/1SeslTG31uOJ42v4hiisvs)
+60 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

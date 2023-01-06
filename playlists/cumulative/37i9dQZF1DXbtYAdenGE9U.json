@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "All your favorite trance anthems curated by Above & Beyond! #NYE2022",
   "name": "Trance Classics",
-  "published_playlist_ids": [
-    "7xW7e8MTRyrmROWiDQT1hb"
-  ],
   "tracks": [
     {
       "album": {
@@ -77,6 +74,28 @@
       "duration_ms": 171231,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb"
+    },
+    {
+      "album": {
+        "name": "Anjunabeats Volume 13 Sampler pt. 2",
+        "url": "https://open.spotify.com/album/1XPInUUOFV3L9JJJEwsJKG"
+      },
+      "artists": [
+        {
+          "name": "Luminary",
+          "url": "https://open.spotify.com/artist/2Pmmrbt8wdPdD8o7OnJOVO"
+        },
+        {
+          "name": "Oliver Smith",
+          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286875,
+      "name": "Amsterdam - Smith & Pledger Update",
+      "url": "https://open.spotify.com/track/2mCw0pneck8UNB7438kQWQ"
     },
     {
       "album": {
@@ -599,6 +618,24 @@
       "duration_ms": 417306,
       "name": "Everyday - Extended Mix",
       "url": "https://open.spotify.com/track/4ApMz0VzAlMf7EAR1Nn3I5"
+    },
+    {
+      "album": {
+        "name": "Everyday (2002)",
+        "url": "https://open.spotify.com/album/5opOhL8ULQtnF8aXInXU0I"
+      },
+      "artists": [
+        {
+          "name": "Agnelli & Nelson",
+          "url": "https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405866,
+      "name": "Everyday 2002",
+      "url": "https://open.spotify.com/track/2CzT7ifcQsNo8X9ZgjQdNb"
     },
     {
       "album": {
@@ -1375,7 +1412,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 200333,
       "name": "Played-A-Live (The Bongo Song) - Radio Edit",
       "url": "https://open.spotify.com/track/71cEGt2SrA5toSCCTVpLMU"
@@ -1989,7 +2026,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 201306,
       "name": "The Silmarillia - 4 Strings Radio Edit",
       "url": "https://open.spotify.com/track/0dagueyWsGJEWoILIMw628"

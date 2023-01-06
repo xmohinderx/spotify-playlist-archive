@@ -4,7 +4,7 @@
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-86 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/1ikhJEax4Sukl3RPANaiD0)
+86 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

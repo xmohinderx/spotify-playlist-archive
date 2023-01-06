@@ -4,7 +4,7 @@
 
 > A collection of old and new R&B cuts from West Africa’s finest artists\. Cover: Runtown
 
-289 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
+289 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

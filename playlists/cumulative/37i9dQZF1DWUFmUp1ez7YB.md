@@ -4,7 +4,7 @@
 
 > ¡Quiero Salsa, dame Salsa! Foto: Marc Anthony
 
-147 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/2rnLhja0HRVk5exQIlpkYr)
+147 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

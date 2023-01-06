@@ -4,7 +4,7 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-112 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/1cEBRYgZgK9KzFILZUB2YC)
+112 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

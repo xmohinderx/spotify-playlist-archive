@@ -4,7 +4,7 @@
 
 > the best of the best tracks\. Cover: Phoebe Bridgers
 
-491 songs - 1 day 7 hr 33 min - [published](https://open.spotify.com/playlist/3bETkXXSq4lQrH2ppPTrRl)
+491 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

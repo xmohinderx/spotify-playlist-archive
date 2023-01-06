@@ -4,7 +4,7 @@
 
 > Rock that was on repeat during the summers of the 1970s.
 
-151 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/2cyQ6dmMAqrX0JrBpZloRA)
+151 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

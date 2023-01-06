@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 90s
 
-191 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/4ykZlSUB1cjwmNNCnB3uWU)
+191 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

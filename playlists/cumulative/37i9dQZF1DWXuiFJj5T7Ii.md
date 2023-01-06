@@ -4,7 +4,7 @@
 
 > The Top Hot Country tracks from 2022 in one playlist\. Cover: Zach Bryan \#SpotifyWrapped
 
-194 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/2qOq3BPeaDYmoM3mA0lXRn)
+194 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

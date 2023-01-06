@@ -4,7 +4,7 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Prince Royce
 
-101 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/16anPiH3Ulo6h6pHaV7pop)
+101 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

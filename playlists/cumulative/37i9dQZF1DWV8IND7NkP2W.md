@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-533 songs - 23 hr 50 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+534 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [IKA \(SOUND TOUR\)](https://open.spotify.com/track/5fUGnuMTQoRHcs3lF10zLu) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31) | [IKA \(SOUND TOUR\)](https://open.spotify.com/album/2WBGivzgdwNUKKWj9NvAVs) | 1:27 | 2022-04-14 | 2022-07-13 |
 | [In A Dream](https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [In A Dream](https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y) | 2:39 | 2022-07-28 |  |
 | [In Moment](https://open.spotify.com/track/0gN3UHcbbfLtIe2HThmvE1) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [In Moment](https://open.spotify.com/album/4zAoLpf8uLbOETYXKoYIWq) | 2:18 | 2022-03-03 | 2022-07-24 |
-| [ingenuity](https://open.spotify.com/track/7Fc6xaWktLjTFh2pkXPWPs) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Ingenuity \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/00BnzaMCnyitulh8rIEFWV) | 3:04 | 2022-07-28 |  |
+| [ingenuity](https://open.spotify.com/track/7Fc6xaWktLjTFh2pkXPWPs) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Ingenuity \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/00BnzaMCnyitulh8rIEFWV) | 3:04 | 2022-07-28 | 2023-01-06 |
 | [ingenuity](https://open.spotify.com/track/7Jpq5JifjHGXkcke4xaxa8) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Ingenuity \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/073FOLOmSzVc8brGH32LWB) | 3:04 | 2021-12-23 | 2022-07-29 |
 | [INNER CHILD](https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [INNER CHILD](https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA) | 2:56 | 2021-12-23 | 2022-10-13 |
 | [Inside Love](https://open.spotify.com/track/5WSaTxllq6SNyOCEh2C1kb) | [SSIR](https://open.spotify.com/artist/68aVwfoV4wmRwYhRhaze7t) | [Inside Love](https://open.spotify.com/album/4bA08DkU2XGgOvwgmB7dFa) | 1:40 | 2022-04-14 | 2022-07-28 |
@@ -250,6 +250,7 @@
 | [kyou](https://open.spotify.com/track/3aRUdjDIGzHoH93jHy07YZ) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [kyou](https://open.spotify.com/album/1bsTiQ9tGAR7wUveZ6oTo7) | 1:58 | 2022-01-06 | 2022-07-25 |
 | [Lamp2](https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi) | 3:18 | 2022-07-28 |  |
 | [Lamp2](https://open.spotify.com/track/5cT5aaRfRRkF9xPk7LcBt2) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/5qFp5leDuFDeTNplGB7I9L) | 3:18 | 2022-02-03 | 2022-07-29 |
+| [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-06 |  |
 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 | 2021-12-23 |  |
 | [Latitude](https://open.spotify.com/track/5V7ZYaPJlhaVsby0Qev1Kl) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Latitude](https://open.spotify.com/album/4Fj24NC7ybJiVQw7jh4by1) | 2:46 | 2021-12-23 | 2022-07-25 |
 | [Le Penseur](https://open.spotify.com/track/6EW6GMbrCX3xG2XwpYhKJz) | [Gardentones](https://open.spotify.com/artist/3ZssErKV7JalICINouJ5CE), [Avantaro](https://open.spotify.com/artist/0jjmDIXXndzUooW1KogNEx), [Taikutsu](https://open.spotify.com/artist/4C8imA7ub7SiyiwApuSqc6) | [Le Penseur](https://open.spotify.com/album/4Ojh3CfSmJIg79xvBuSKix) | 1:12 | 2022-03-24 | 2022-04-18 |

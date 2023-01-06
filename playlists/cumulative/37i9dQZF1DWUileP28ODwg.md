@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys
 
-257 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
+257 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

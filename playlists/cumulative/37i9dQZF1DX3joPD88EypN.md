@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-121 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/3n7iIXRDUs5P3QBIyqeQID)
+121 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

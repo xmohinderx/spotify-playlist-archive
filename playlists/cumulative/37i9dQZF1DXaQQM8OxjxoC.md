@@ -4,7 +4,7 @@
 
 > Discover the music of Brahms.
 
-110 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/1XDbvVi0X3ytWtcUNYcRM6)
+110 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

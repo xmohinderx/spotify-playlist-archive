@@ -4,7 +4,7 @@
 
 > In the trap with Bad Bunny 🐰 🔥
 
-40 songs - 2 hr 37 min - not published yet
+40 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

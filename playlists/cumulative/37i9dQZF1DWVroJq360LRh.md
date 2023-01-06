@@ -4,7 +4,7 @@
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-205 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/1MGkYmGQ7StCIsRe8pezD4)
+205 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

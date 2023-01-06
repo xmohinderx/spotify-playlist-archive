@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: WILSN
 
-274 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
+274 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Where the Light Is](https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw) | [CAMPBELL](https://open.spotify.com/artist/50V8MR39rjDJ9GbtqHHBgk), [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW), [Nancy Daines](https://open.spotify.com/artist/4OJNnbwrNhUSPNJGvL71jR) | [Where the Light Is](https://open.spotify.com/album/0kGvVheAH35jEukM3elOGu) | 3:50 | 2022-04-01 |  |
 | [Whisper My Name](https://open.spotify.com/track/31RMjIWGSWCuj6S3CaaBu8) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/0W8Rm6qBMnykppCswQyMTO) | 4:00 | 2021-12-03 | 2022-05-22 |
 | [Whisper My Name](https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:01 | 2021-12-03 |  |
-| [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 | 2021-12-03 |  |
+| [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 | 2021-12-03 |  |
 | [With A Little Help From My Friends \- Poppin Mix](https://open.spotify.com/track/1m0WIodfeFyevAYuHsWk0w) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [With A Little Help From My Friends](https://open.spotify.com/album/17wWiySB4jS3DBZQaMmGhN) | 2:37 | 2022-01-28 | 2022-04-19 |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2022-09-09 |  |
 | [Work of Art](https://open.spotify.com/track/4L6bK3JIEJpctCTxX9BJqO) | [Alex J\. Price](https://open.spotify.com/artist/7D3ZgjKGSixJVqJBSEdLZ7), [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC) | [Work of Art](https://open.spotify.com/album/6wSrZfl0XlnN5REUZX8GvL) | 3:10 | 2021-12-03 | 2022-07-25 |

@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois en 2022\. Photo: Loud \#SpotifyWrapped
 
-104 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/0coijtqe33Y0PEyuzfRFFn)
+104 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

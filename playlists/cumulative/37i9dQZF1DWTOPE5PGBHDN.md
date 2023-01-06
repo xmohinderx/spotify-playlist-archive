@@ -4,7 +4,7 @@
 
 > Para las mujeres que le dan duro al  gym\. ¡A quemar grasa con este playlist!
 
-152 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/4myBMzSbD7BRMtxMKKYqhg)
+152 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

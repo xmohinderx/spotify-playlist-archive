@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-231 songs - 20 hr 53 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+231 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.
 
-79 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/0vKjwC12x9Psx4QBF8Kziu)
+79 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

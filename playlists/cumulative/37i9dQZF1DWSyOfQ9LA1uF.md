@@ -4,7 +4,7 @@
 
 > Bedroom bootlegs and electroclash gems\. Cover: Chromeo
 
-156 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/5Cxep01SDXktRYE7g6krlV)
+156 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-119 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+119 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

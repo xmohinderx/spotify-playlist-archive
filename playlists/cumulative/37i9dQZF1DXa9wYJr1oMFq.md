@@ -4,7 +4,7 @@
 
 > Get nostalgic with the golden age of pop punk.
 
-104 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/4iIg2MRFTgqXXHr5Sw52If)
+104 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

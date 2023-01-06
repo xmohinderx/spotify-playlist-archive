@@ -4,7 +4,7 @@
 
 > Den perfekta mixade spellistan för träningspasset.
 
-143 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/417Ys8x8Iow3PJfqFACoes)
+143 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

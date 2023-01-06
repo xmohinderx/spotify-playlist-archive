@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-206 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/5wJsWdiqLgGKoWe7fmymn2)
+206 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

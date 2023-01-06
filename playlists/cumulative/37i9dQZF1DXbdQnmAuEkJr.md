@@ -4,7 +4,7 @@
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 
-96 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/4sVhpXSOjw8xtSawtZABe0)
+96 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

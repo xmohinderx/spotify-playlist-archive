@@ -4,7 +4,7 @@
 
 > Lavando e louvando a Deus com grandes hinos.
 
-175 songs - 17 hr 0 min - [published](https://open.spotify.com/playlist/0Giu1xu0c1ZY6tJIwbSuTL)
+175 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

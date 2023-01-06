@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  Aaron Cole
 
-728 songs - 1 day 12 hr 40 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+728 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

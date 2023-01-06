@@ -4,7 +4,7 @@
 
 > 2015 highlights from the home of indie music.
 
-126 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/6ixuogA2Qc1PzDwdJ5KbsA)
+126 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

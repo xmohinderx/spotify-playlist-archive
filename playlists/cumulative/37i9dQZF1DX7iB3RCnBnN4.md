@@ -4,7 +4,7 @@
 
 > Every song with over 1 billion streams on Spotify\. Cover: Billie Eilish
 
-370 songs - 22 hr 36 min - [published](https://open.spotify.com/playlist/0C0sQRzxdwWHDf74RbiLwr)
+370 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

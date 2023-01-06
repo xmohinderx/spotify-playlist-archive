@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-59 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/0Ij2p11ySRhLverD0eg7Nv)
+59 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

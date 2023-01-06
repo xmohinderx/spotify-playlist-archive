@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-275 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/3JOQwQnXq5qUrauqYRJQpF)
+275 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

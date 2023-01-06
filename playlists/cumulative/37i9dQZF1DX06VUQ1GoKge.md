@@ -4,7 +4,7 @@
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-212 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/1sqtKhuMmhclVsZWdnutKC)
+212 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

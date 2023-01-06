@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-291 songs - 19 hr 12 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+291 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

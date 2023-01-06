@@ -1,12 +1,12 @@
 {
-  "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 6421,
+  "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Loud",
+  "num_followers": 6433,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMGNmZWU3MTU4ZjBiZjMzZTQ2MWZjNjUyMzIyOTNlMjE2",
+  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMGIzMGM5MDE0OTk0YWVmYjU0OTdjYjk4NDdiNjdhNzkw",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -343,18 +343,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Leaving",
-        "url": "https://open.spotify.com/album/7A4TshLSDnAQcnCr72kC2c"
+        "name": "Sex In The City",
+        "url": "https://open.spotify.com/album/43QKj7lqltgm5UYQlUpviO"
       },
       "artists": [
         {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+          "name": "Lorenzo",
+          "url": "https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy"
+        },
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
         }
       ],
-      "duration_ms": 224117,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/1Gx5oXQw5BjWZRwGVkA9Ok"
+      "duration_ms": 226653,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/3at8iNHLzE5EizkFWoQzCK"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -387,22 +391,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Sex In The City",
-        "url": "https://open.spotify.com/album/43QKj7lqltgm5UYQlUpviO"
+        "name": "Leaving",
+        "url": "https://open.spotify.com/album/7A4TshLSDnAQcnCr72kC2c"
       },
       "artists": [
         {
-          "name": "Lorenzo",
-          "url": "https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy"
-        },
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
         }
       ],
-      "duration_ms": 226653,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/3at8iNHLzE5EizkFWoQzCK"
+      "duration_ms": 224117,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/1Gx5oXQw5BjWZRwGVkA9Ok"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Zay",
-        "url": "https://open.spotify.com/album/2jXXgAO8DRfHewBk849PSp"
+        "name": "Up Next",
+        "url": "https://open.spotify.com/album/0cdS1I81C36z0QAeKreCob"
       },
       "artists": [
         {
-          "name": "FouKi",
-          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
         }
       ],
-      "duration_ms": 217600,
-      "name": "Makeup",
-      "url": "https://open.spotify.com/track/21RgjCszrzZBePdEBDgubQ"
+      "duration_ms": 149363,
+      "name": "West Side",
+      "url": "https://open.spotify.com/track/40Tr9d2wr9yBvT7p9MIKFh"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Up Next",
-        "url": "https://open.spotify.com/album/0cdS1I81C36z0QAeKreCob"
+        "name": "Zay",
+        "url": "https://open.spotify.com/album/2jXXgAO8DRfHewBk849PSp"
       },
       "artists": [
         {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
         }
       ],
-      "duration_ms": 149363,
-      "name": "West Side",
-      "url": "https://open.spotify.com/track/40Tr9d2wr9yBvT7p9MIKFh"
+      "duration_ms": 217600,
+      "name": "Makeup",
+      "url": "https://open.spotify.com/track/21RgjCszrzZBePdEBDgubQ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "DEAD.",
+        "url": "https://open.spotify.com/album/3LKroOov310fASJk3twjmP"
+      },
+      "artists": [
+        {
+          "name": "Dead Obies",
+          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
+        }
+      ],
+      "duration_ms": 279706,
+      "name": "Doo Wop",
+      "url": "https://open.spotify.com/track/17RcMFZHPrjusBlklhSKou"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Occupation Hood",
         "url": "https://open.spotify.com/album/40HMdZmQ4UwUs0JfLH8aKN"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 242362,
       "name": "Occupation Hood",
       "url": "https://open.spotify.com/track/7vVlYQcgt4looKGEhjLCRt"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "DEAD.",
-        "url": "https://open.spotify.com/album/3LKroOov310fASJk3twjmP"
-      },
-      "artists": [
-        {
-          "name": "Dead Obies",
-          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
-        }
-      ],
-      "duration_ms": 279706,
-      "name": "Doo Wop",
-      "url": "https://open.spotify.com/track/17RcMFZHPrjusBlklhSKou"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -795,30 +795,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Aliens",
-        "url": "https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke"
-      },
-      "artists": [
-        {
-          "name": "Charlie Shulz",
-          "url": "https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI"
-        },
-        {
-          "name": "TrippyThaKid",
-          "url": "https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz"
-        },
-        {
-          "name": "Kamiyada",
-          "url": "https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Aliens",
-      "url": "https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Silence de mort",
         "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
       },
@@ -831,6 +807,26 @@
       "duration_ms": 189344,
       "name": "Entre toi et moi",
       "url": "https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/1HpEHr7YME3TpJmHNX7x3T"
+      },
+      "artists": [
+        {
+          "name": "Clay and Friends",
+          "url": "https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm"
+        },
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/3wz9q30Ip0dqpi4wWw6g1q"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -859,22 +855,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/1HpEHr7YME3TpJmHNX7x3T"
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke"
       },
       "artists": [
         {
-          "name": "Clay and Friends",
-          "url": "https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm"
+          "name": "Charlie Shulz",
+          "url": "https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI"
         },
         {
-          "name": "FouKi",
-          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+          "name": "TrippyThaKid",
+          "url": "https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz"
+        },
+        {
+          "name": "Kamiyada",
+          "url": "https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP"
         }
       ],
-      "duration_ms": 147853,
-      "name": "Undercover",
-      "url": "https://open.spotify.com/track/3wz9q30Ip0dqpi4wWw6g1q"
+      "duration_ms": 180983,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 171262,
+      "name": "G-code",
+      "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "IMPR\u00c9VU",
         "url": "https://open.spotify.com/album/0ZT9myo7oZW88ZB81glyvE"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 261890,
       "name": "Sang Sur les Mains",
       "url": "https://open.spotify.com/track/0T3Fsro25pwNhZ4iVDnIiC"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Cash Out",
-        "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 171262,
-      "name": "G-code",
-      "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Silence de mort",
+        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
+      },
+      "artists": [
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+        },
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "duration_ms": 208140,
+      "name": "La purge",
+      "url": "https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Temple de la Renomm\u00e9e",
         "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 204988,
       "name": "Pavel Bure",
       "url": "https://open.spotify.com/track/5CXOwEgCeq7BQkUJc968S5"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Silence de mort",
-        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
-      },
-      "artists": [
-        {
-          "name": "Random",
-          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
-        },
-        {
-          "name": "White-B",
-          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
-        }
-      ],
-      "duration_ms": 208140,
-      "name": "La purge",
-      "url": "https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Temple de la Renomm\u00e9e",
-        "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
-      },
-      "artists": [
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
-        }
-      ],
-      "duration_ms": 227711,
-      "name": "Parle-Mo\u00e9 Don D'\u00e7a",
-      "url": "https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Henny",
         "url": "https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 197615,
       "name": "Jalousie",
       "url": "https://open.spotify.com/track/1bypDBJ7EReMNW6Rz1C2kc"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Temple de la Renomm\u00e9e",
+        "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        }
+      ],
+      "duration_ms": 227711,
+      "name": "Parle-Mo\u00e9 Don D'\u00e7a",
+      "url": "https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA"
     },
     {
       "added_at": "2022-03-11 05:02:00",

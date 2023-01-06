@@ -4,7 +4,7 @@
 
 > El icuiricui, el matalacachimba y el ruletero.
 
-199 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/39vfktrnS8Wr51Upfb0wRu)
+199 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

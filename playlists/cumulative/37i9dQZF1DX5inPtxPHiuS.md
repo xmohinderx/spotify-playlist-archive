@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Don Tetto
 
-191 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/11Mc0pmsFxafTtRY7OU2qP)
+191 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

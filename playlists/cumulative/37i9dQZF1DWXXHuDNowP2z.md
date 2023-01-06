@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-231 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
+231 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

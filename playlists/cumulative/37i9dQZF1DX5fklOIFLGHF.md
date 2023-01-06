@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: EMI
 
-269 songs - 17 hr 53 min - [published](https://open.spotify.com/playlist/56SMHx11i5aVGx2LZ3nkds)
+269 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Scopri il documentario speciale dedicato a Rhove e la playlist con alcune delle top promesse della musica italiana!
 
-82 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
+82 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

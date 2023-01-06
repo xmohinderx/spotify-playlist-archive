@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-102 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/37ATRX3EEE0W2CNCUfCl5p)
+102 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

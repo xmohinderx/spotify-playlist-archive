@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-236 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/3uBCjD3QXS1bsdZpxQUdvo)
+236 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

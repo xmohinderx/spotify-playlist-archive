@@ -4,7 +4,7 @@
 
 > This is Gojira\. The essential tracks, all in one playlist.
 
-54 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/4YbSkWZUmXTIcQHpQjN7lQ)
+54 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

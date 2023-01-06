@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-203 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/65XrvyNxHjIi48t0HlAgZq)
+203 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

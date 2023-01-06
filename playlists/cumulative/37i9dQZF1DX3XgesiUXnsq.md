@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: The Alchemist
 
-272 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
+274 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [29 \(Freestyle\)](https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [29 \(Freestyle\)](https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf) | 2:22 | 2022-07-08 | 2022-08-13 |
 | [30 Hours](https://open.spotify.com/track/2CHmgtK8OCL28WtIK96u4N) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:23 | 2022-04-29 | 2022-12-03 |
 | [4,3,2,1](https://open.spotify.com/track/2jpd11oy0FGFebu6BpKSse) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Cannibus](https://open.spotify.com/artist/2Pu35Fye4uT4MwwDz7M3lr) | [Phenomenon](https://open.spotify.com/album/0AJaRBLPuUybHfdJi87GQP) | 4:16 | 2022-12-29 |  |
+| [7am on Court St](https://open.spotify.com/track/1LtTY0P07HlRgcoFJVeHuX) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [7am on Court St](https://open.spotify.com/album/4Rm1TCxny4fL6yZoINgtvX) | 3:26 | 2023-01-06 |  |
 | [93 'Til Infinity](https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:46 | 2022-04-29 |  |
 | [A.D.H.D](https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 3:35 | 2022-12-16 |  |
 | [Airborne Aquaruim](https://open.spotify.com/track/71vuS1nprefkBeCK344TEL) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pilot Talk: Trilogy](https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V) | 2:51 | 2022-04-29 |  |
@@ -79,6 +80,7 @@
 | [Ether](https://open.spotify.com/track/1Mxs3wyD4S81j9vpF6A6ov) | [EdwOrdS](https://open.spotify.com/artist/3Wps34Gtn7dTxmDADXDBBJ) | [Low Key EP](https://open.spotify.com/album/4oxBXOoRIccgbrtGMHYonQ) | 2:51 | 2022-06-10 | 2022-08-27 |
 | [Everybody Ain’t Shit \(with EARTHGANG\)](https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 3:23 | 2022-04-29 |  |
 | [Everyday Struggle \- 2005 Remaster](https://open.spotify.com/track/3bOvAqhaZNSWpGVIvHEx8B) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:19 | 2022-05-13 |  |
+| [Family Feud](https://open.spotify.com/track/6ku4gCfjdxmYpajNONAciN) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4:44](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv) | 4:11 | 2023-01-06 |  |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2022-04-29 |  |
 | [Fast Life](https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z) | [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Fast Life](https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on) | 1:57 | 2022-10-07 | 2022-11-12 |
 | [Figure of Speech](https://open.spotify.com/track/2NSq58JxsJE1k7h6BVeDDQ) | [Freddy Printz](https://open.spotify.com/artist/15L89B5Jg0z67nBZZxDH36) | [The Candidate](https://open.spotify.com/album/6b2SU7BJlvf0bAZyb7e9bw) | 2:14 | 2022-06-03 | 2022-10-29 |
@@ -243,7 +245,7 @@
 | [The Scoop On Heaven](https://open.spotify.com/track/213LtzTmFAm3LsyVnNyLGQ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:43 | 2022-07-22 |  |
 | [The Title](https://open.spotify.com/track/5AcNJ4zqJEDKjO4ZZhCUTS) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [The Title](https://open.spotify.com/album/2ZxNKF3uu9vW4auJRfSqx2) | 2:43 | 2022-08-12 | 2022-11-19 |
 | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm) | 2:17 | 2022-07-22 |  |
-| [The Way I Am](https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:50 | 2022-04-29 |  |
+| [The Way I Am](https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:50 | 2022-04-29 | 2023-01-06 |
 | [Therapy Music \(feat\. Russ\)](https://open.spotify.com/track/3WRT8uD7wYPzIJagtFRVjF) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Therapy Music](https://open.spotify.com/album/0umXnJRqobrCwHOlWlHZc9) | 4:22 | 2022-05-06 | 2022-06-04 |
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2022-10-14 |  |
 | [Thinking to Myself](https://open.spotify.com/track/5QsN1W5nvBZcweBfRtaWFj) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Thinking to Myself](https://open.spotify.com/album/1ISHVzRrOrGH43v1oEerca) | 2:15 | 2022-12-09 |  |

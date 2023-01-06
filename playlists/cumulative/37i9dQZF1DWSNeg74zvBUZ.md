@@ -4,7 +4,7 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-129 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/6I8fmXMLAXw2qtlzy84laP)
+129 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

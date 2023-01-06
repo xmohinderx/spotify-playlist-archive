@@ -4,7 +4,7 @@
 
 > Only the hottest out now in Hip Hop..\. Cover: <a href="https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp?si=m9hn5NihQh\-KzEXHAAb8uA">Metro Boomin</a>
 
-133 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/6I6oFpcK7RBFahZIAhJPwX)
+133 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

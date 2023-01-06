@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-440 songs - 1 day 2 hr 25 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
+440 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

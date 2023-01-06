@@ -4,7 +4,7 @@
 
 > Big riffs and pounding drums to help you strut the streets.
 
-111 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/7gqp6Qihy76TgbYOyECoLT)
+111 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Anything from hidden local gems to pop classics about the journey to embracing all kinds of love.
 
-83 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
+83 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

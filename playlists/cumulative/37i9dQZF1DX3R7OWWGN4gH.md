@@ -4,7 +4,7 @@
 
 > Lately I've been dressing for revenge
 
-239 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
+239 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

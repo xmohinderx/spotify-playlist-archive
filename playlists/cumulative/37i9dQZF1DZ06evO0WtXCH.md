@@ -4,7 +4,7 @@
 
 > This is Quicksand\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 36 min - not published yet
+32 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

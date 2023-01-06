@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - USA.",
   "name": "Viral 50 - USA",
-  "published_playlist_ids": [
-    "2HKs1wzvUezKZaRpk2HAlO"
-  ],
   "tracks": [
     {
       "album": {
@@ -7361,7 +7358,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -12975,10 +12972,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 90766,
       "name": "NEW OPP",
       "url": "https://open.spotify.com/track/59P17I4QL4y66TqKokfdJS"
+    },
+    {
+      "album": {
+        "name": "New Opp",
+        "url": "https://open.spotify.com/album/7okGnhb1jybiMuNXIkhEkl"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93857,
+      "name": "New Opp",
+      "url": "https://open.spotify.com/track/3Kk1uJa4bqAkewVpUAU19W"
     },
     {
       "album": {
@@ -19205,7 +19220,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 84817,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD"

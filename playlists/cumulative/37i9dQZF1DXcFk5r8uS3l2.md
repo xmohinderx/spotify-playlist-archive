@@ -4,12 +4,12 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-235 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+237 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 Edward](https://open.spotify.com/track/33AfkIQqriOQPBHUNhfs1w) | [Nancy Wilson](https://open.spotify.com/artist/5gnpB90GzUR1gXpse5Kl4R) | [4 Edward](https://open.spotify.com/album/53J3ZGvVMa4Jwq0abT24iv) | 1:43 | 2021-12-17 | 2022-07-23 |
-| [61 South](https://open.spotify.com/track/1NG0CP8midHLl5rvXfx2MA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [61 South](https://open.spotify.com/album/20rYQgHGiV23Mhz6TCfJRy) | 1:20 | 2022-12-16 |  |
+| [61 South](https://open.spotify.com/track/1NG0CP8midHLl5rvXfx2MA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [61 South](https://open.spotify.com/album/20rYQgHGiV23Mhz6TCfJRy) | 1:20 | 2022-12-16 | 2023-01-06 |
 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 | 2021-12-17 | 2022-07-29 |
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/112GY487AYZ0Q0zB9KYv3x) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Ain't Gotta Worry Child](https://open.spotify.com/album/5z25YPZkf3WB9Eh94EEwFw) | 3:05 | 2021-12-17 | 2022-07-27 |
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome as a Shadow](https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE) | 3:05 | 2022-05-27 |  |
@@ -51,6 +51,7 @@
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-01-28 |  |
 | [Dance Monkey](https://open.spotify.com/track/4W3UeFjutmOG80XCTgioWT) | [Bette Smith](https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3), [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Dance Monkey](https://open.spotify.com/album/1uUxV8oH2qs8wRApyp62Rn) | 3:33 | 2021-12-17 | 2022-08-01 |
 | [Dark Roses \(Live From Sunset Sound\)](https://open.spotify.com/track/6U685GBNARP2yH1ZIsIui3) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Wreckage, Vol\. 2 \(Live\)](https://open.spotify.com/album/3TtOISH2vi1m9vR3xYlLS6) | 3:30 | 2022-09-30 | 2022-10-08 |
+| [Devil and the Deep Blue](https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Devil and the Deep Blue](https://open.spotify.com/album/1xvHBAe6ThcdFQc82IElN1) | 3:07 | 2023-01-06 |  |
 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 | 2021-12-17 |  |
 | [Don't Let the Devil Ride](https://open.spotify.com/track/5RUJ4EFMAaWdtvso1j8kLT) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels in Heaven Done Signed My Name](https://open.spotify.com/album/5qiokBP05cRxwpCLqocWn7) | 2:45 | 2021-12-17 | 2022-07-29 |
 | [Don't Let The Devil Ride](https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels In Heaven Done Signed My Name](https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa) | 2:45 | 2022-01-28 |  |
@@ -83,6 +84,7 @@
 | [Hard To Stay Cool](https://open.spotify.com/track/5mkwcdqarspFI0bbMfzAum) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 5:34 | 2022-01-28 | 2022-08-20 |
 | [Harder To Blame](https://open.spotify.com/track/6Qfd1lfuOpHwyyccBXAHH6) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Harder To Blame](https://open.spotify.com/album/7J1pLKAXPMishkIbaZroGc) | 4:06 | 2022-06-17 | 2022-06-25 |
 | [Have A Ball](https://open.spotify.com/track/0M5ulWgUKiuyaVbs4h3jCI) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Have A Ball](https://open.spotify.com/album/2DxhN63gMkdmNEMrCGn2AT) | 2:24 | 2022-05-06 | 2022-11-13 |
+| [Have a Ball](https://open.spotify.com/track/46I1B1wc6YddZzK50swoSD) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 2:24 | 2022-05-06 |  |
 | [Have a Ball](https://open.spotify.com/track/6ngNT63RRgIqmgZkWK39Q7) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/4FN73eUqBC3Nh0nnsz4A8c) | 2:24 | 2022-05-06 | 2022-06-11 |
 | [Heart by Heart](https://open.spotify.com/track/3xOt8ADrsq52yDivtBZfS6) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Heart by Heart](https://open.spotify.com/album/35lPmfsSzeu5pgEIlO2Ntv) | 4:03 | 2021-12-17 | 2022-07-29 |
 | [Heaven Knows](https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Heaven Knows](https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8) | 5:23 | 2022-04-29 | 2022-06-11 |
@@ -148,7 +150,7 @@
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2021-12-17 |  |
 | [No Wrong](https://open.spotify.com/track/6j3ltnb3g4RQRt8azR7Yf5) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/5Pe4lj6pfNgR0ZXeZ1altv) | 3:49 | 2021-12-17 | 2022-04-16 |
 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 | 2022-03-11 | 2022-07-29 |
-| [Not Ready To Let Go](https://open.spotify.com/track/4nXIogA01ib6VLHPPKZPxt) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Not Ready To Let Go](https://open.spotify.com/album/1q1jyVZyIQwzq3DG8z9qVR) | 3:58 | 2022-10-28 |  |
+| [Not Ready To Let Go](https://open.spotify.com/track/4nXIogA01ib6VLHPPKZPxt) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Not Ready To Let Go](https://open.spotify.com/album/1q1jyVZyIQwzq3DG8z9qVR) | 3:58 | 2022-10-28 | 2023-01-06 |
 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 | 2022-05-27 |  |
 | [Oak Tree](https://open.spotify.com/track/47dOtJjjwVkbKW244db2dE) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 3:00 | 2021-12-17 | 2022-06-12 |
 | [Oh Betty](https://open.spotify.com/track/6ciaC5vY31PR1fZJqZwAJ0) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Oh Betty](https://open.spotify.com/album/0K9R41oPagcN9NoH8dLq1o) | 3:56 | 2022-03-11 | 2022-07-29 |

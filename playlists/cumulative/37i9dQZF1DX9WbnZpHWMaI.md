@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-103 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/2qMeWuSU5XkH0w2mb2bXO8)
+103 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

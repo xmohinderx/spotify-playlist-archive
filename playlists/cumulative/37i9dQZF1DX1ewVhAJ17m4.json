@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "All the best new songs from the pop punk scene. Cover: blink-182",
   "name": "Pop Punk's Not Dead",
-  "published_playlist_ids": [
-    "1ZPuIvGxHPsGj5FOHcdzdv"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 171112,
       "name": "1-800-IDONTKNOWYOUANYMORE",
       "url": "https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0"
@@ -2905,6 +2902,28 @@
       "duration_ms": 100443,
       "name": "Portuguese Knives",
       "url": "https://open.spotify.com/track/2xiaqtvivM2PUPpSVqaIw6"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/2GhbRogqOKDZ2LCUBZ0K05"
+      },
+      "artists": [
+        {
+          "name": "Crooked Teeth",
+          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
+        },
+        {
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193960,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4hyMz2XnHVcms6Tb6hKmOo"
     },
     {
       "album": {

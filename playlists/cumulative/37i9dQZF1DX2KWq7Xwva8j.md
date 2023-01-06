@@ -4,7 +4,7 @@
 
 > Descubre hoy a los artistas de mañana\. Foto: Judeline
 
-151 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
+151 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

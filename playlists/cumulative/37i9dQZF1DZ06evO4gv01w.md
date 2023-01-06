@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/4R9EPFhGfbJ9ffLcucgt7g)
+71 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

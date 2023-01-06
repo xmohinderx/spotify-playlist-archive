@@ -4,7 +4,7 @@
 
 > ITZY? 있지! It'z ITZY Time!
 
-113 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/76GcwIMslZVncU8rkXyYVE)
+113 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

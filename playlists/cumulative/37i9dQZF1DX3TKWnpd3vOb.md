@@ -2,9 +2,9 @@
 
 ### [Rock Chileno](https://open.spotify.com/playlist/37i9dQZF1DX3TKWnpd3vOb)
 
-> Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas + Pedropiedra
+> Encuentra un mix de clásicos y nuevos talentos\. Foto: Pettinellis
 
-218 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
+219 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Besos de Papel \(Hoy Te Vi\)](https://open.spotify.com/track/4WzSCOmQIjAdP3J3lDxcOa) | [Mera](https://open.spotify.com/artist/2STjZWySdM3zCSVv1E0Qrn) | [Besos de Papel \(Hoy Te Vi\)](https://open.spotify.com/album/1fIraWCcYR9mK4BJcTtbmL) | 3:36 | 2022-11-29 |  |
 | [Bichos / Vicious](https://open.spotify.com/track/56L0VuYBkJzslZes40qjuf) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Loumania](https://open.spotify.com/album/3nzWHNbkQZq5nF4QlI9OP8) | 2:58 | 2022-04-08 |  |
 | [Bola de Fuego](https://open.spotify.com/track/555e5RYDYUbGDib7NbD7m6) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Bola de Fuego](https://open.spotify.com/album/1IcdO8wRlwQGFY4rMCEWdZ) | 3:07 | 2022-04-08 | 2022-12-17 |
+| [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 | 2023-01-06 |  |
 | [Camino a Casa](https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Camino a Casa](https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU) | 2:53 | 2022-04-08 |  |
 | [Camino Hacia el Sol](https://open.spotify.com/track/4U2QDvSK05kZjbBFyGGXNs) | [Club Calaca](https://open.spotify.com/artist/6tMgnaQXrnY75jL1wktHRA) | [Camino Hacia el Sol](https://open.spotify.com/album/5DxMciCzaK9ZgB68NZvWLG) | 3:39 | 2022-04-08 |  |
 | [Cara y Corazón](https://open.spotify.com/track/1QtiUJ9Qn7DLoMeUDNrYl7) | [La Transa](https://open.spotify.com/artist/6EF1264lzOeAYoRT6kFNL2), [Tomás Maldonado](https://open.spotify.com/artist/6prihyniSR9AcgzNKRIX7p) | [Cara y Corazón](https://open.spotify.com/album/7LcU95BCXuQftctl8xIo5C) | 3:51 | 2022-04-08 |  |
@@ -48,7 +49,7 @@
 | [Dejando Libre el Amor](https://open.spotify.com/track/4IvYW5NRB5U8FE1nHTQkGn) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 4:22 | 2022-04-08 | 2022-12-17 |
 | [Despacio \- Bonus Track Migra](https://open.spotify.com/track/4x2HBispFiJkuu5jtIv0Py) | [El Ultimo Viaje](https://open.spotify.com/artist/6fpbLCQo7cLpMV1g397HWL) | [Despacio \(Bonus Track Migra\)](https://open.spotify.com/album/46a0OY25sTGfKXaSxQnOl1) | 6:19 | 2022-04-08 | 2022-07-28 |
 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 | 2022-04-08 | 2022-07-29 |
-| [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 | 2022-04-08 |  |
+| [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 | 2022-04-08 | 2023-01-06 |
 | [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 | 2022-04-08 |  |
 | [Digan Lo Que Digan](https://open.spotify.com/track/4bULkLH35pHeVl0NzlVzid) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Digan Lo Que Digan](https://open.spotify.com/album/2zmRkOB16XBx0QNXvlr469) | 2:41 | 2022-04-08 |  |
 | [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 | 2022-04-08 |  |

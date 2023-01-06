@@ -4,7 +4,7 @@
 
 > The most romantic tracks of all time, featuring today's hits and all the classics.
 
-254 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/1vMZC0Wpki1EqeXhzpF9fI)
+254 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

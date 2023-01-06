@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-76 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/5h1kkeVebhBTJyRzBDxWOy)
+76 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

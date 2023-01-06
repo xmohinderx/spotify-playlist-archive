@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-115 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/2NQLrFSoKR34tgxbFWZBgI)
+115 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

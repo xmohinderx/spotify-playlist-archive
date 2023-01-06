@@ -4,7 +4,7 @@
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-122 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/2Kr0huhuGmwKqVDH3tUmr8)
+122 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

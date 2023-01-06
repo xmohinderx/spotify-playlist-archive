@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 3314,
+  "num_followers": 3357,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMGM2MDhjMjBhMGYxYzE2OTNiYzZlMDg1ZjdlOTE5NDBh",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDE4OThkYzdkODkyMTUyMzgxNWY0MjVhZTNiZDI5NDkz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "A Written Testimony",
         "url": "https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 328365,
       "name": "A.P.I.D.T.A.",
       "url": "https://open.spotify.com/track/5wJC8qlivbwAx29bnTecSn"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Messiah",
-        "url": "https://open.spotify.com/album/5HdrqQZiSy2VEnCvuxOiij"
-      },
-      "artists": [
-        {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/5LZeYIkOIvhNTDPzQdIN56"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+        "name": "Messiah",
+        "url": "https://open.spotify.com/album/5HdrqQZiSy2VEnCvuxOiij"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
         }
       ],
-      "duration_ms": 267384,
-      "name": "THE NEWS",
-      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
+      "duration_ms": 179400,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/5LZeYIkOIvhNTDPzQdIN56"
     },
     {
       "added_at": "2022-10-01 16:57:49",

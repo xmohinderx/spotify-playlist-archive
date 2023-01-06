@@ -4,7 +4,7 @@
 
 > 지금 국내에서 가장 핫한 노래들을 만나보세요! \(커버: NCT DREAM\)
 
-113 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/69FUGFsW4OBtls4BtdFXep)
+113 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

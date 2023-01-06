@@ -4,7 +4,7 @@
 
 > Instrumental, ambient music to awaken your imagination.
 
-78 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
+78 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

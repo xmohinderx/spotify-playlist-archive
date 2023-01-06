@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: guncharlie. Artwork: Isu Kim",
+  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: WHITE YOU. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
-  "published_playlist_ids": [
-    "0sFtnPcJ2xiQS1kZ7Io9aQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,24 @@
       "duration_ms": 228571,
       "name": "21\u0e27\u0e31\u0e19 \u0e17\u0e24\u0e29\u0e0e\u0e35\u0e08\u0e35\u0e1a\u0e40\u0e18\u0e2d (Love Theory)",
       "url": "https://open.spotify.com/track/401VVCAswS3tZUJznHrVEZ"
+    },
+    {
+      "album": {
+        "name": "247UNITS \u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (Palliate) : Intro - Best",
+        "url": "https://open.spotify.com/album/675Nymotfkp8p91csUv9yx"
+      },
+      "artists": [
+        {
+          "name": "Best 247UNITS",
+          "url": "https://open.spotify.com/artist/2WGkP4duOSNTyEHDaxzUni"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "247UNITS \u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (Palliate) : Intro - Best",
+      "url": "https://open.spotify.com/track/2EKdV1vqQ6z9welpdGxVEQ"
     },
     {
       "album": {
@@ -839,7 +854,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 206479,
       "name": "\u0e02\u0e2d\u0e2d\u0e35\u0e1f\u0e44\u0e27\u0e49\u0e01\u0e48\u0e2d\u0e19 (Christmas Eve)",
       "url": "https://open.spotify.com/track/1GHYtsVCMkVCmnJDmAajLl"
@@ -1063,7 +1078,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 262674,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
       "url": "https://open.spotify.com/track/7s9lXHu74ykZ69Q5ldDPUx"
@@ -1413,7 +1428,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 301928,
       "name": "\u0e0a\u0e32\u0e22\u0e40\u0e25",
       "url": "https://open.spotify.com/track/2oVfkFISufXHrRhez8pVq0"
@@ -1619,6 +1634,24 @@
       "duration_ms": 282000,
       "name": "\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2b\u0e25\u0e31\u0e01\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/3NqiDKqmXuZJsprTa3ZdD2"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e37\u0e4a\u0e2d",
+        "url": "https://open.spotify.com/album/3uihD3dxiRAeTPwbT2yarP"
+      },
+      "artists": [
+        {
+          "name": "IIVY B",
+          "url": "https://open.spotify.com/artist/11gyFgMNRagfYZHvCaIMtF"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99570,
+      "name": "\u0e15\u0e37\u0e4a\u0e2d",
+      "url": "https://open.spotify.com/track/6TrKXlH4G9PHUQoX7MTj17"
     },
     {
       "album": {
@@ -2482,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e21\u0e2b\u0e19\u0e32\u0e27 (Winter wind)",
+        "url": "https://open.spotify.com/album/6knmtnkVOzLgqtAiWDciN4"
+      },
+      "artists": [
+        {
+          "name": "aDawn",
+          "url": "https://open.spotify.com/artist/37qCVJmPjeXQlqO1bY5wEb"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "\u0e25\u0e21\u0e2b\u0e19\u0e32\u0e27 (Winter wind)",
+      "url": "https://open.spotify.com/track/3vETn8UpNq9P3JSjqYYjvF"
+    },
+    {
+      "album": {
         "name": "\u0e25\u0e30\u0e2d\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07",
         "url": "https://open.spotify.com/album/3HkMrHluj1WJGJAcB5Bke3"
       },
@@ -2684,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e22\u0e31\u0e48\u0e21\u0e21\u0e32 (Don't Say That)",
+        "url": "https://open.spotify.com/album/40GJ1AETsEaRMI47wOOSiv"
+      },
+      "artists": [
+        {
+          "name": "WHITE YOU",
+          "url": "https://open.spotify.com/artist/1KWSY214mKKcRu5Am6TYgc"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183711,
+      "name": "\u0e2b\u0e22\u0e31\u0e48\u0e21\u0e21\u0e32 (Don't Say That)",
+      "url": "https://open.spotify.com/track/6gmbdZ40YpTh1U2n87TEox"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e25\u0e07\u0e17\u0e32\u0e07 \u0e2b\u0e25\u0e07\u0e40\u0e18\u0e2d (GPS)",
         "url": "https://open.spotify.com/album/5HjaDldFtdoBOjTQFuzakS"
       },
@@ -2767,7 +2836,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 260239,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e17\u0e35\u0e48\u0e08\u0e30\u0e25\u0e37\u0e21 (Blue rubber)",
       "url": "https://open.spotify.com/track/3scf4Y2sUoSXCyNScr5EVJ"
@@ -3700,6 +3769,24 @@
     },
     {
       "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/3YiUAVMBldOSPmnXaIFyua"
+      },
+      "artists": [
+        {
+          "name": "Chanom",
+          "url": "https://open.spotify.com/artist/1PRysXimdri49HvpxhcRXV"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167808,
+      "name": "\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/7byTUMcGvs3k6u3jBdhaGU"
+    },
+    {
+      "album": {
         "name": "\u0e43\u0e08\u0e1b\u0e4b\u0e21 (You cut my heart cuz you don't care my hair)",
         "url": "https://open.spotify.com/album/3JouJ5dqQEbzJH7pQ4Iffj"
       },
@@ -3885,7 +3972,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 190588,
       "name": "\u0e44\u0e21\u0e48\u0e14\u0e37\u0e49\u0e2d\u0e19\u0e30\u0e1e\u0e35\u0e48",
       "url": "https://open.spotify.com/track/4fptvFbMjMl2KNWVIgKToF"

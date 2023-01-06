@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-156 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+156 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

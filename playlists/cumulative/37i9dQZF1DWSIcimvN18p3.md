@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Plains
 
-359 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/189GjBlA83HumNay4qpApT)
+359 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Leave the Light On \- Demo](https://open.spotify.com/track/2nxBkZ02hsiU3SIowH4XQI) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Before July: Demos & Unreleased Songs](https://open.spotify.com/album/7lNnNfJjnoQIKAzyZY9sdL) | 3:12 | 2021-03-05 | 2022-03-06 |
 | [Left\-Centred Weight](https://open.spotify.com/track/5cmDQ3eW1Oyv6KecErLNM2) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Left\-Centred Weight](https://open.spotify.com/album/1Fok53eLl1IUC9qwLIgN4N) | 4:03 | 2021-03-05 | 2022-03-04 |
 | [Let Him Fly](https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Living With Ghosts](https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF) | 3:11 | 2021-03-05 |  |
-| [Letting Me Down](https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:14 | 2021-03-05 | 2023-01-03 |
+| [Letting Me Down](https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:14 | 2021-03-05 |  |
 | [Li'l Red Riding Hood](https://open.spotify.com/track/1XeTxXsXaWcoMbkctt2s25) | [Laura Gibson](https://open.spotify.com/artist/396L5wXlifF7nfSLhP3tTH) | [Little Red Riding Hood](https://open.spotify.com/album/1DbAardTwA6QE0NdEuHaHx) | 2:36 | 2021-03-05 | 2022-02-27 |
 | [Libra](https://open.spotify.com/track/7uHoNWpMZ8BdJo3I6h9oIk) | [Lemoncello](https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6) | [Oil and Water](https://open.spotify.com/album/6Cjo8BqWWgDeOHFf8Ezeei) | 5:08 | 2021-03-05 | 2022-03-08 |
 | [Little Boxes](https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q) | [Malvina Reynolds](https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN) | [Ear to the Ground](https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q) | 2:11 | 2021-03-05 |  |
@@ -221,7 +221,7 @@
 | [Never Chase a Man](https://open.spotify.com/track/69KpdPLbYLx71n0eF25xyJ) | [Esmé Patterson](https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa) | [Woman to Woman](https://open.spotify.com/album/7kvhYaWajFQvsaVG3uvKV8) | 2:37 | 2021-03-05 | 2022-07-29 |
 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 | 2022-03-08 |  |
 | [No Reason](https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [No Reason](https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3) | 2:39 | 2022-11-30 |  |
-| [Northern Girl](https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7) | [Cheryl Wheeler](https://open.spotify.com/artist/4bvWv6KDmnNNJCfElUEgsZ) | [Circles And Arrows](https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo) | 3:46 | 2021-03-05 |  |
+| [Northern Girl](https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7) | [Cheryl Wheeler](https://open.spotify.com/artist/4bvWv6KDmnNNJCfElUEgsZ) | [Circles And Arrows](https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo) | 3:46 | 2021-03-05 | 2023-01-06 |
 | [Not Dark Yet](https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4), [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Not Dark Yet](https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ) | 4:19 | 2021-03-05 |  |
 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 | 2021-03-05 |  |
 | [Oak Tree](https://open.spotify.com/track/47dOtJjjwVkbKW244db2dE) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 3:00 | 2021-03-05 | 2022-03-09 |

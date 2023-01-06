@@ -4,7 +4,7 @@
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: Wednesday
 
-60 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
+60 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-212 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/5fgwAY73JTriUUqNxbT4r5)
+212 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

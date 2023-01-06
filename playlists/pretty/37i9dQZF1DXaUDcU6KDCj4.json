@@ -1,13 +1,101 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Brandi Carlile",
-  "num_followers": 765621,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: SYML",
+  "num_followers": 765889,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMGQ2NjlmZTk1YmFhNDM3MjVlZTgwODYwM2E2MmEyMjYz",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGM5NWRkMDRkODVjYjRjOWQ1MmM3NmZlNTZmNGQ0OTJk",
   "tracks": [
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/46tFc3Dh5NrobyPI6Rq4hJ"
+      },
+      "artists": [
+        {
+          "name": "Me and My Friends",
+          "url": "https://open.spotify.com/artist/4KewrgdzmKzWiJT3Znotp3"
+        }
+      ],
+      "duration_ms": 200233,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/0gyF4C5bQduO9Qd1EgTupN"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/0WoFpsBhfUZ0XzVogStjqC"
+      },
+      "artists": [
+        {
+          "name": "Down Like Silver",
+          "url": "https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps"
+        },
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        },
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 208954,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/6R61u47uaYnWrHu8OBKyZx"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Homemaker",
+        "url": "https://open.spotify.com/album/5JX6lCMslXIVUBeprDgGIY"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 253625,
+      "name": "Homemaker",
+      "url": "https://open.spotify.com/track/7gkcXaqplvft0Gk0FbUteE"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "World's Greatest Sleeper",
+        "url": "https://open.spotify.com/album/1B1aaFNBIh4R8VINBjxdQ3"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "duration_ms": 186587,
+      "name": "World's Greatest Sleeper",
+      "url": "https://open.spotify.com/track/7Etfp59BHjo4Ud0x67r5st"
+    },
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
@@ -23,6 +111,38 @@
       "duration_ms": 170826,
       "name": "My Skin",
       "url": "https://open.spotify.com/track/4Ezw6WOStpZON6GrbVxLyu"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/5UgR4xPUCnuHS5F1wNNc3x"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "duration_ms": 185358,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/1NOTidLDDPTeau4BWJ0vwX"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "This Is Going To Be The Year",
+        "url": "https://open.spotify.com/album/5lcSCem101LKn2rIxoODBU"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 252507,
+      "name": "This Is Going To Be The Year",
+      "url": "https://open.spotify.com/track/4ijH0M7n6oM4ZARKcInAyv"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -41,20 +161,20 @@
       "url": "https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "This Is Going To Be The Year",
-        "url": "https://open.spotify.com/album/5lcSCem101LKn2rIxoODBU"
+        "name": "I Feel It",
+        "url": "https://open.spotify.com/album/4ubQDotUd6fO1TDA7CBQn7"
       },
       "artists": [
         {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
         }
       ],
-      "duration_ms": 252507,
-      "name": "This Is Going To Be The Year",
-      "url": "https://open.spotify.com/track/4ijH0M7n6oM4ZARKcInAyv"
+      "duration_ms": 296840,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/5PTDUraHge5XgzG4lzm5Hb"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -175,30 +295,6 @@
       "duration_ms": 190961,
       "name": "Part Time Lovers",
       "url": "https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/0WoFpsBhfUZ0XzVogStjqC"
-      },
-      "artists": [
-        {
-          "name": "Down Like Silver",
-          "url": "https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps"
-        },
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        },
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 208954,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/6R61u47uaYnWrHu8OBKyZx"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1231,22 +1327,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Wingding",
-        "url": "https://open.spotify.com/album/7LpD3xPu8JwKCUJmK2jxrN"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 222091,
-      "name": "Broken Routine",
-      "url": "https://open.spotify.com/track/7C1SOiueqfYPxY443GXgvu"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "The Summer Isles (Sunrise)",
         "url": "https://open.spotify.com/album/1LKzG8knWyTv8xpdyaJocp"
       },
@@ -1311,22 +1391,6 @@
       "duration_ms": 222026,
       "name": "Swan Upon Leda",
       "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Prenda del Alma - Spotify Singles",
-        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 258579,
-      "name": "Prenda del Alma - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1603,22 +1667,6 @@
       "duration_ms": 188175,
       "name": "You are my House",
       "url": "https://open.spotify.com/track/5OP4YDqfuksol3eFGxhgvr"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "grow your hair long if you\u2019re wanting to see something that you can change",
-        "url": "https://open.spotify.com/album/5YCEWH1mVK86feTnIOBtHQ"
-      },
-      "artists": [
-        {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
-        }
-      ],
-      "duration_ms": 186550,
-      "name": "always emptiness",
-      "url": "https://open.spotify.com/track/3CoP4in32rBBY5Se10uhqA"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1915,22 +1963,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "You Could Be Free",
-        "url": "https://open.spotify.com/album/4Bog6J0ArjOtPH9mPAqHnl"
-      },
-      "artists": [
-        {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
-        }
-      ],
-      "duration_ms": 187360,
-      "name": "You Could Be Free",
-      "url": "https://open.spotify.com/track/2bnia5glTFaCJMbRenC0U3"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Spanish Villager No. 3",
         "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
       },
@@ -2135,22 +2167,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 197972,
-      "name": "Who Are You Now",
-      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Stay (ft. Gary Clark Jr.)",
         "url": "https://open.spotify.com/album/5ykzMuRih48Mm81Uf0kxRQ"
       },
@@ -2223,22 +2239,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "These Are The Good Old Days",
-        "url": "https://open.spotify.com/album/2WSXCvkgJST1LOiS7MzMRj"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 155276,
-      "name": "These Are The Good Old Days",
-      "url": "https://open.spotify.com/track/4NgOFLmiXjPCJPJgceUBGK"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Can't Get High",
         "url": "https://open.spotify.com/album/6aMU0BZAUDBRXeVYhlW51e"
       },
@@ -2251,22 +2251,6 @@
       "duration_ms": 178512,
       "name": "Can't Get High",
       "url": "https://open.spotify.com/track/6pEwmzXlnUaitpjfFWzfMc"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Look At Miss Ohio",
-        "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -2415,38 +2399,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Sundays",
-        "url": "https://open.spotify.com/album/2pUX7U59JzLuLQFffTrFRV"
-      },
-      "artists": [
-        {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
-        }
-      ],
-      "duration_ms": 169080,
-      "name": "Still Water",
-      "url": "https://open.spotify.com/track/3inIdx3pCVdZ3rlrDrDIHw"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Carving Canyons",
-        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 204009,
-      "name": "Sad",
-      "url": "https://open.spotify.com/track/1K6dPwnP8alsRxVc5ET5Ft"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Walking Song",
         "url": "https://open.spotify.com/album/1F7L1p8STaJVQVVYijEng2"
       },
@@ -2475,22 +2427,6 @@
       "duration_ms": 235626,
       "name": "Soul Sweet Song",
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/2nXzlL3Zhd3LnZkAMyvesX"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 208495,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/6ERbOSiVlLgwYcKsN3kmY6"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -2591,22 +2527,6 @@
       "duration_ms": 214133,
       "name": "Lost Myself",
       "url": "https://open.spotify.com/track/7sv2OdXFRyi4LgYXNJYRN3"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Watchhouse (Duo)",
-        "url": "https://open.spotify.com/album/2UZLRGQmNZLPuKFn9JVwjo"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 317524,
-      "name": "Nightbird - Duo Version",
-      "url": "https://open.spotify.com/track/0qq5xXkzgpRlBT6tNns0SJ"
     },
     {
       "added_at": "2022-12-23 05:00:00",

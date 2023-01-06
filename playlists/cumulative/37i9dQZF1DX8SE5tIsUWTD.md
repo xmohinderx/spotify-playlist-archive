@@ -4,7 +4,7 @@
 
 > A playlist for your Arab hipster starter kit.
 
-113 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/17ATh4UAh4fydqblUGTXv8)
+113 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

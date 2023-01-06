@@ -4,7 +4,7 @@
 
 > Party on with these top children's tracks!
 
-115 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/35J8tx9xvVM0O8oKcmw2vk)
+115 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

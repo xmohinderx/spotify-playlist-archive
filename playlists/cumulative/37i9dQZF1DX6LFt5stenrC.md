@@ -4,7 +4,7 @@
 
 > Songs from your family's favorite TV shows.
 
-120 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/1tbHCLwQujb8LsLzNBqLFl)
+120 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

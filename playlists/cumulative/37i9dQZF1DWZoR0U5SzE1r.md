@@ -4,7 +4,7 @@
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-181 songs - 17 hr 48 min - [published](https://open.spotify.com/playlist/3C0qobAOSLbFAynsNuLE2F)
+181 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

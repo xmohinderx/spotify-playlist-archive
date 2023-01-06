@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-348 songs - 1 day 12 hr 12 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+348 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-21 | 2022-09-10 |
 | [Brave New World](https://open.spotify.com/track/2RTLo7ZBz4SSVXlxCLSVCO) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu) | [Brave New World](https://open.spotify.com/album/1CaeDHHSXPFAOSNkMehefw) | 6:04 | 2021-05-26 | 2022-07-28 |
 | [Cairn](https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Nothing Is](https://open.spotify.com/album/5Co8zEbkMF66GkYFyHKb3x) | 6:42 | 2021-11-09 | 2022-07-28 |
-| [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 | 2023-01-04 |
+| [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 |  |
 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 | 2021-06-18 | 2022-11-01 |
 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-08-23 |  |
 | [Canto Al Sol](https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Upahl](https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl) | 4:37 | 2021-05-07 |  |
@@ -228,7 +228,7 @@
 | [Night Bell \- Arizona](https://open.spotify.com/track/7f1eD0myp4ntwnVLA5jmIU) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Night Bell \(Arizona\)](https://open.spotify.com/album/5eFPnkzLRO1EGogagnJyx7) | 7:28 | 2021-04-21 | 2022-11-07 |
 | [Night Bell \- Arizona](https://open.spotify.com/track/2SN41T7WJfoKkAsGUV11PA) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Light, West](https://open.spotify.com/album/2942biAKKQFqcATNWMzsFT) | 7:28 | 2022-07-01 |  |
 | [Niteroi](https://open.spotify.com/track/1HxnvdlGxXDrCv8O0bdBuh) | [Canitrot](https://open.spotify.com/artist/5yIT6Q9Tpt2Y6ki8stWX9R), [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Niteroi](https://open.spotify.com/album/0jq9PRK0SmS4otBgG5bGnt) | 5:17 | 2021-07-02 | 2022-07-29 |
-| [Niteroi](https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Niteroi](https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM) | 5:17 | 2022-07-01 |  |
+| [Niteroi](https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Niteroi](https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM) | 5:17 | 2022-07-01 | 2023-01-06 |
 | [Ocean \(feat\. Jamie Foxx\) \- DJ Koze Remix](https://open.spotify.com/track/6aXZxlv7H26dTul1IetR3p) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Nobody Is Not Loved, Remixes, Pt\. 2](https://open.spotify.com/album/5xq4m6AJBvYZn9HYeGFmuc) | 5:12 | 2022-05-13 | 2022-07-29 |
 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [El\-Jay](https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE) | 3:59 | 2022-10-28 |  |
 | [Ode to Life](https://open.spotify.com/track/1E3aNzg2MTlTYhWPRQip5K) | [Ella Wild](https://open.spotify.com/artist/5YRXoNseSn9ml0cI3htXVP) | [Ode to Life](https://open.spotify.com/album/6K0VhVmbpWRsflDciGS09K) | 7:14 | 2021-05-07 | 2022-04-22 |

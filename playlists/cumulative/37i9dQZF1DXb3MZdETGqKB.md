@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Eric Bibb
 
-170 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+170 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

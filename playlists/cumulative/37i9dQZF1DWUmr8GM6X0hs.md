@@ -4,7 +4,7 @@
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-120 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/13iVxCV9Zen1FfBrkzmqw4)
+120 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

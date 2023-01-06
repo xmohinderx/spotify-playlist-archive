@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-348 songs - 21 hr 2 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+348 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

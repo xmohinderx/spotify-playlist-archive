@@ -4,7 +4,7 @@
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-59 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/6o3V1jZmHWvECMVGyJ14Gh)
+59 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

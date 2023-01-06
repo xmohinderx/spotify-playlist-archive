@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: The Jack Moves
 
-140 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
+141 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Faces](https://open.spotify.com/track/5iWVOFjMWtDUx01SFIbQ61) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Faces](https://open.spotify.com/album/7FyL9XkXtnwJJREWDdcm0B) | 2:21 | 2022-03-11 | 2022-10-18 |
 | [Faces](https://open.spotify.com/track/7xJXzykZkjJLdIjTws8Piu) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Comedown](https://open.spotify.com/album/6dMQpXeo2FcdgPEItBtbGp) | 2:21 | 2022-03-11 | 2022-11-13 |
 | [Fall For You](https://open.spotify.com/track/3zfBJlugaINCF6UyRiVg2J) | [David Hansen](https://open.spotify.com/artist/2Wm55svxm4cvVLWwHtZN5E), [Jimmy Rivler](https://open.spotify.com/artist/2VcGBf5YDWgKpQedSvx58i) | [Fall For You](https://open.spotify.com/album/2HddKmvwQaapR7OiIOqS8Q) | 2:55 | 2022-06-03 |  |
-| [Feel So Good](https://open.spotify.com/track/6Zoi8MTQJ5UZ28Xra0FAAn) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Feel So Good](https://open.spotify.com/album/4Y0TmKELuNPjdLFNAEC4An) | 3:27 | 2022-02-11 |  |
+| [Feel So Good](https://open.spotify.com/track/6Zoi8MTQJ5UZ28Xra0FAAn) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Feel So Good](https://open.spotify.com/album/4Y0TmKELuNPjdLFNAEC4An) | 3:27 | 2022-02-11 | 2023-01-06 |
 | [First Thing](https://open.spotify.com/track/6W3s4OcqdCN49QDzIVItzR) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [First Thing](https://open.spotify.com/album/1qrXPJPrjcri9XEocz9rQO) | 3:59 | 2022-08-12 |  |
 | [Forever](https://open.spotify.com/track/0EvDKZOVkcDUkJdQOIscMA) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Forever](https://open.spotify.com/album/4jMu8CqTNq5VYVldMqa2qt) | 3:42 | 2022-06-24 | 2022-10-01 |
 | [Free](https://open.spotify.com/track/7uz2uui0tboZulmc5TdjTV) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Sledgendary](https://open.spotify.com/artist/5NoEz2x1F5WsQ225GJtvBJ) | [Free](https://open.spotify.com/album/4meOyw0LxSchM8wARkfNnZ) | 3:50 | 2022-02-18 |  |
@@ -148,5 +148,6 @@
 | [Wishing Well](https://open.spotify.com/track/161KhiTvj9JwoO7uzorjGo) | [Rodney Hunter](https://open.spotify.com/artist/3TD8t9L7Mpi6S72O9MOxm3), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Wishing Well](https://open.spotify.com/album/75bgX4B8rcP8FseJ7YVoho) | 4:30 | 2022-02-25 |  |
 | [You Keep Saying](https://open.spotify.com/track/7ebT6YZGAkTCRyCbfGX0I4) | [Ollie Olivia](https://open.spotify.com/artist/2VTVGDfP4tK769da9YbgHu) | [You Keep Saying](https://open.spotify.com/album/4nboI3WcxLnsbGtACuKaJA) | 3:31 | 2021-11-19 | 2022-09-17 |
 | [You Should Be Dancing](https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS) | [Dee Gees](https://open.spotify.com/artist/0mCTPQ5oa1lbPvbw4kc0eX) | [Dee Gees / Hail Satin \- Foo Fighters / Live](https://open.spotify.com/album/50QMS2zosvUxhucf6zMRUy) | 3:52 | 2021-07-23 | 2022-10-22 |
+| [Your Love](https://open.spotify.com/track/0uo8mXAMX1OGngebGLmAeH) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Your Love](https://open.spotify.com/album/1LV5fBgsYBmb85DyqCtNNx) | 3:22 | 2023-01-06 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

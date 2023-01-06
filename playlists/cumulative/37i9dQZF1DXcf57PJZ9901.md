@@ -4,7 +4,7 @@
 
 > The best soft rock from the 2010s.
 
-129 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/0odmU63W8mzvvddJ5VjjQC)
+129 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

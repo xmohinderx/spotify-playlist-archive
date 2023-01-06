@@ -4,7 +4,7 @@
 
 > Celebrate your wedding with over 100 favorite love songs perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
-208 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/4J0AmxAoPjBsvkBleG9MtI)
+208 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > From across the globe\. New Songwriters on the horizon\. Cover: <a href="spotify:artist:2YqJwmohaNjg9lg51flSax"> Chiild.</a>
 
-34 songs - 1 hr 48 min - [published](https://open.spotify.com/playlist/5upgV173Zs7PqUDbnYxRRp)
+34 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

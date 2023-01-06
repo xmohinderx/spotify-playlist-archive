@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-292 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/5HXLTrGkLfaN5i0vPRiA78)
+293 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Definition](https://open.spotify.com/track/31vrYgT1bq756Yu3Hlzedj) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:12 | 2022-11-18 |  |
 | [Deserve](https://open.spotify.com/track/33fMPjjVBkz6X1xgHTIcwi) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:23 | 2022-09-08 |  |
 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 | 2022-11-13 |  |
-| [Digital](https://open.spotify.com/track/3db3uJVWCW9naIaZTDjUYC) | [Neila](https://open.spotify.com/artist/3vRiuQKPUpfmh1ZFr6xsAp) | [Level 1](https://open.spotify.com/album/7cNyyVQ6FWYhftsZvYr3zP) | 3:28 | 2022-12-15 |  |
+| [Digital](https://open.spotify.com/track/0esaIMbZKquvCTpmPh7thM) | [Neila](https://open.spotify.com/artist/3vRiuQKPUpfmh1ZFr6xsAp) | [Level 1](https://open.spotify.com/album/13lMczrO6jb52rGaaKsSFT) | 3:28 | 2023-01-05 |  |
+| [Digital](https://open.spotify.com/track/3db3uJVWCW9naIaZTDjUYC) | [Neila](https://open.spotify.com/artist/3vRiuQKPUpfmh1ZFr6xsAp) | [Level 1](https://open.spotify.com/album/7cNyyVQ6FWYhftsZvYr3zP) | 3:28 | 2022-12-15 | 2023-01-06 |
 | [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 | 2022-09-08 | 2022-10-03 |
 | [DNA](https://open.spotify.com/track/0FfC67AEwBvtTWWfzzWo0m) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 2:57 | 2022-10-02 |  |
 | [Do I Love You \- 2017 Remaster](https://open.spotify.com/track/54olPoOTWblj14yyCuj0KN) | [Vince Hill](https://open.spotify.com/artist/1dnnFgitgT63Qkm6ATDRLo) | [The Other Side of Me \(2017 Remaster\)](https://open.spotify.com/album/1WRNb2DXW3t8y8ICEogbcG) | 2:45 | 2022-12-15 |  |

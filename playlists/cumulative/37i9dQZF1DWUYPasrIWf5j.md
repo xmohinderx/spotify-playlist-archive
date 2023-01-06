@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-105 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/1s1TQtiEzAtYVOJeSrtlYU)
+105 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

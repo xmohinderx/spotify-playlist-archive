@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-326 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+326 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

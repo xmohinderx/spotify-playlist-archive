@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-281 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/7J6V8CtH6cauGweEfdRx6B)
+281 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

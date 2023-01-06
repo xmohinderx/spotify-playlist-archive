@@ -4,7 +4,7 @@
 
 > Club classics from the homeland of dance music.
 
-61 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/7G46PFdAwpJzEu1i0XREw2)
+61 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

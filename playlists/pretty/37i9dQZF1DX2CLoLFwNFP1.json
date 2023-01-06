@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 11294,
+  "num_followers": 11367,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjYzODgyMSwwMDAwMDAwMGJjN2ViOTI2YTY0YzFiN2Y2M2NhNjkzYjEzY2IzZWI2",
+  "snapshot_id": "MTY3MjYzODgyMSwwMDAwMDAwMDVjNjc2MGU5NDNiOTdkMDBlNzJjMDlkODc3ZjNkMmM1",
   "tracks": [
     {
       "added_at": "2023-01-02 05:53:41",
@@ -2083,6 +2083,26 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 191660,
+      "name": "Yummy (Prod. by Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/6EHY1kVGeoghDbj77BwMnq"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -2103,26 +2123,6 @@
       "duration_ms": 362314,
       "name": "WORLDWIDE",
       "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 191660,
-      "name": "Yummy (Prod. by Cha Cha Malone)",
-      "url": "https://open.spotify.com/track/6EHY1kVGeoghDbj77BwMnq"
     },
     {
       "added_at": "2023-01-02 05:53:41",
@@ -2203,18 +2203,30 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+        "name": "SOJU (Remix)",
+        "url": "https://open.spotify.com/album/5up3gHITO86zXeGtDm79K8"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
         }
       ],
-      "duration_ms": 256642,
-      "name": "In This B*tch",
-      "url": "https://open.spotify.com/track/5Dy4Aj5VdMdHElLSXLhWLZ"
+      "duration_ms": 318747,
+      "name": "SOJU - Remix",
+      "url": "https://open.spotify.com/track/4QuqMDWbg2poF8ytkH6pCm"
     }
   ],
   "unique_name": "This Is Jay Park",

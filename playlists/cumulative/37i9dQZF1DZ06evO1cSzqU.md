@@ -4,7 +4,7 @@
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-67 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/6E9edSMK1fl3XL7ta4oPPS)
+67 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Country tracks to pump up your gaming.
 
-97 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/61BrKcCm67FF5LnuWRLfG5)
+97 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > LGBTQ+ artists and allies join this fiesta\. <br/>Cover: Nicole Zignago
 
-194 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/5YJ4toIxNRIrBELWHX0e5E)
+194 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

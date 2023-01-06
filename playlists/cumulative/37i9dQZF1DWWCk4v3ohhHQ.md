@@ -4,7 +4,7 @@
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-144 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/1gncBmczgwVF53kM2yHpLW)
+144 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

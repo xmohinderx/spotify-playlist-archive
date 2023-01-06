@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-227 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
+227 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Indie Dance and Alt Hip\-Hop for cooling under the sunny sun sun.
 
-214 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/0uKWr1Uzb37C6D49uTzEk7)
+214 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

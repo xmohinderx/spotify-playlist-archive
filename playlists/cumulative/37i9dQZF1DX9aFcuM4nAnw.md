@@ -4,7 +4,7 @@
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-113 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/35JGd7xkZ4aXiacB1Wn3xh)
+113 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

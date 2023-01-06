@@ -4,7 +4,7 @@
 
 > Relax with this Peaceful Indie Ambient mix.
 
-234 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/6bqSuckRW2PaqS6qzZhBpE)
+234 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

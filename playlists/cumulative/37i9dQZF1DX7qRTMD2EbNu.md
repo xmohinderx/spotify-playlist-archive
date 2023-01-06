@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ?si=Kgw5PWDhS6yDqzLVTjjqjA"> Bosom P Yung </a>
 
-119 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/1DNOYlQCXHEP1xefjAcAjP)
+119 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

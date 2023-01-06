@@ -4,7 +4,7 @@
 
 > The perfect noughties blend.
 
-364 songs - 1 day 0 hr 0 min - [published](https://open.spotify.com/playlist/1Ixrmajco4KVFepb8BsSWg)
+364 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

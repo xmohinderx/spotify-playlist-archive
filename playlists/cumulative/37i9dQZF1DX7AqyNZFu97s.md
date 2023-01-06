@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Natalie Red
 
-726 songs - 1 day 15 hr 24 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
+726 songs - 1 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

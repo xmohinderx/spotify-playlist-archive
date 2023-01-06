@@ -4,7 +4,7 @@
 
 > Uplifting classical melodies to help you rise and shine.
 
-57 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/0QgKCcn9LhdDwr9yfJHm5c)
+57 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

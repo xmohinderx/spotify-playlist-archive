@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-819 songs - 1 day 18 hr 55 min - [published](https://open.spotify.com/playlist/5DcefufghevVf1SGhXA5NO)
+819 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,7 +739,7 @@
 | [Try \(Just a Little Bit Harder\)](https://open.spotify.com/track/1y6KBuPwQFqPuXj4iin6kv) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin: The Woodstock Experience](https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4) | 3:55 | 2019-07-20 | 2019-08-01 |
 | [Try a Little Tenderness](https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Complete & Unbelievable: The Otis Redding Dictionary of Soul](https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y) | 3:21 | 2022-08-12 |  |
 | [Try a Little Tenderness](https://open.spotify.com/track/4lm3Qc4gKR4zUBeDhcrKPr) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Definitive Soul: Otis Redding](https://open.spotify.com/album/5GISxo4Igi2GPbeHlBnAPj) | 3:21 | 2019-06-24 | 2021-10-14 |
-| [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 | 2019-05-26\* |  |
+| [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 | 2019-05-26\* | 2023-01-06 |
 | [Twist And Shout](https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Twist & Shout](https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J) | 2:35 | 2020-12-22 | 2021-10-16 |
 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 | 2020-12-24 |  |
 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 | 2020-12-22 | 2021-01-15 |
@@ -789,7 +789,7 @@
 | [Wild Thing](https://open.spotify.com/track/2VGv9RV5POeCU3UlehM2sX) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [60's Gold](https://open.spotify.com/album/62mXUmDITTTj1GhSRj6pMK) | 2:34 | 2019-06-01 | 2022-07-29 |
 | [Wild Thing](https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [From Nowhere](https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2) | 2:35 | 2022-06-08 |  |
 | [Will You Love Me Tomorrow](https://open.spotify.com/track/0bwy3sGHeYwng2Ioicq6wf) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Tonight's The Night](https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk) | 2:40 | 2020-08-15 | 2020-08-22 |
-| [Will You Love Me Tomorrow](https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:40 | 2022-06-08 | 2022-12-02 |
+| [Will You Love Me Tomorrow](https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:40 | 2022-06-08 |  |
 | [Will You Love Me Tomorrow](https://open.spotify.com/track/7oYTK1C0Clz6MZiETSpFTS) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Tonight's The Night](https://open.spotify.com/album/1kZelGeyflOF29raK8dsYa) | 2:42 | 2019-05-26\* | 2022-07-29 |
 | [Windmills of Your Mind \- Remastered](https://open.spotify.com/track/5HpgFfhUdGzkBLM3255Fkz) | [Noel Harrison](https://open.spotify.com/artist/4bcKtHlKBhkEXB1cVY5Ull) | [Flower Power Hits](https://open.spotify.com/album/0OJifnGxaWF5J56hkEgtL2) | 2:21 | 2019-06-25 | 2019-08-09 |
 | [Wipe Out](https://open.spotify.com/track/5uUit0306tZmk2mdljYscl) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Wipe Out \(Original Album Plus Bonus Tracks\)](https://open.spotify.com/album/18mOjCWil1TCn56o2GIPI7) | 2:18 | 2019-06-22 | 2019-08-06 |

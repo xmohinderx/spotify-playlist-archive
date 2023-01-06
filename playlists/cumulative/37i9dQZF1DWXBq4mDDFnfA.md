@@ -4,7 +4,7 @@
 
 > Relax to the sound of classical guitar.
 
-41 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/5ezvMeFI6T1tZLvi0cjCPx)
+41 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

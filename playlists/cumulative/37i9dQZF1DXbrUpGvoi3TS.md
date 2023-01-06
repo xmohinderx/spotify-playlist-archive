@@ -4,7 +4,7 @@
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-371 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/2LOkDAASIpkTAKTeolFeA8)
+372 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Can You Hold Me](https://open.spotify.com/track/1isXdpzFMO6EIkgdWjV2D8) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Mansion](https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl) | 3:41 | 2022-05-19 | 2022-11-13 |
 | [Can You Hold Me](https://open.spotify.com/track/3w1dGSbR4VwfYvnPELox70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Mansion](https://open.spotify.com/album/4s9KbOQEr7TnpSDW2EqKBa) | 3:41 | 2021-10-21 | 2022-06-12 |
 | [Can't Be Happy All The Time](https://open.spotify.com/track/3Cwx1w1QYOuMOlx7xDmLcQ) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Bad Child/Can't Be Happy All The Time](https://open.spotify.com/album/6Z7DGRyzIlsq7kXNXQF3Yd) | 4:18 | 2022-03-24 | 2022-04-19 |
+| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-01-06 |  |
 | [Certain Things \(feat\. Chasing Grace\)](https://open.spotify.com/track/5zvJELVKAnPkscGc5aLKJI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Chasing Grace](https://open.spotify.com/artist/5M6D2PqxdnZMVMCb1jNOTp) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 3:53 | 2021-10-21 | 2022-11-13 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-24 |  |
 | [Chasing A Feeling](https://open.spotify.com/track/6NbaSIWPpZ1b914pRY1R0W) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Chasing A Feeling](https://open.spotify.com/album/0tey4A2rY0o6g2j1BeXnaJ) | 3:51 | 2022-03-24 | 2022-04-13 |
@@ -242,7 +243,7 @@
 | [Never Getting Over You](https://open.spotify.com/track/6dToZXQLpfPJfZWoRPhY3Q) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart](https://open.spotify.com/album/5nB5tR7ntrEpHbpCS7iHN9) | 3:28 | 2022-03-24 | 2022-04-21 |
 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 | 2022-03-24 |  |
 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 | 2022-03-24 | 2022-07-22 |
-| [Not Today](https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 4:21 | 2022-05-19 |  |
+| [Not Today](https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 4:21 | 2022-05-19 | 2023-01-06 |
 | [Not Today \- From "Me Before You" Soundtrack](https://open.spotify.com/track/3EJPT32ZJdZkml81KqHrO5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Not Today \(From "Me Before You" Soundtrack\)](https://open.spotify.com/album/1JLNmnLzT4MDYrsXh918Wp) | 4:21 | 2022-03-24 | 2022-04-16 |
 | [Nothing Like Us](https://open.spotify.com/track/30Co9eN7JHPf1i2wEyVSMJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7) | 3:19 | 2021-10-21 | 2022-11-13 |
 | [Now You're Gone \(feat\. Zara Larsson\)](https://open.spotify.com/track/2oVoSgGAlog02WQ2pLCxcT) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:32 | 2022-03-24 | 2022-04-16 |

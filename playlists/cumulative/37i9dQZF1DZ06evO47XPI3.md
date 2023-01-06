@@ -4,7 +4,7 @@
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-85 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/6zvbg6qSNpNAuJrm7XfuWO)
+85 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,14 +57,14 @@
 | [Love's Melody](https://open.spotify.com/track/2sgCv3E062DpMeIJZe14TZ) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/0ZZ5Hj5Ic5V21qpE84MV2M) | 2:38 | 2022-08-05 | 2022-10-12 |
 | [Lying To Myself \- Digitally Remastered 1997](https://open.spotify.com/track/1wNKxbMVz1l1TLoZclQxKV) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La\-La Means I Love You](https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5) | 4:01 | 2022-05-25 |  |
 | [My Girl \- Live](https://open.spotify.com/track/4dQALx6SrbgW8kJVYPysBu) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Ray, Goodman & Brown](https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh) | [The Delfonics vs Ray, Goodman & Brown Live In Concert](https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5) | 3:22 | 2022-11-05 | 2022-12-31 |
-| [My New Love](https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:48 | 2022-05-25 |  |
+| [My New Love](https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:48 | 2022-05-25 | 2023-01-06 |
 | [My World Revolves Around You](https://open.spotify.com/track/1Bb8niOtFuv0M07uCEDpvb) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:38 | 2022-05-25 |  |
 | [Oh My Love](https://open.spotify.com/track/6o2OoZbn5shmkO7AVKbRe1) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Records Presents: The Way Things Were](https://open.spotify.com/album/0v9VmBNpHA23zKo3lbTEIJ) | 5:41 | 2022-05-27 | 2022-10-15 |
 | [Over and Over](https://open.spotify.com/track/5AXQomuNhUW0iLVkzvyVJ5) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 3:06 | 2022-09-20 | 2022-10-27 |
 | [Ready or Not Here I Come \(Can't Hide from Love\)](https://open.spotify.com/track/5RnlUyTKgmd7V6tXdQcKVK) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 1:59 | 2022-05-25 |  |
 | [Round & Round](https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:11 | 2022-06-04 | 2023-01-05 |
 | [Scarborough Fair \- Remastered for Buddha](https://open.spotify.com/track/6YxNkTm0dBwrhPvzRRp2eU) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:17 | 2022-06-04 | 2022-07-28 |
-| [Seventeen \(And In Love\)](https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:21 | 2022-10-26 | 2023-01-05 |
+| [Seventeen \(And In Love\)](https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:21 | 2022-10-26 |  |
 | [Seventeen \(And In Love\)](https://open.spotify.com/track/60kXFhrH2WuAhI8kpsJFjb) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Records Presents: This Time](https://open.spotify.com/album/4JiEK0vq0RvCZIYB4PdCMs) | 4:21 | 2022-10-14 | 2022-10-20 |
 | [She's The Kinda Girl](https://open.spotify.com/track/3QXJsJ9R31nSo6uierSCeE) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:13 | 2022-05-25 | 2022-12-20 |
 | [Silently](https://open.spotify.com/track/5AaOh9npHduIYXum5x4JwJ) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/0ZZ5Hj5Ic5V21qpE84MV2M) | 2:37 | 2022-05-25 |  |

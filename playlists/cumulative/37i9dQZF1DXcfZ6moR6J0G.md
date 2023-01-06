@@ -4,7 +4,7 @@
 
 > You know what time it is.
 
-155 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/20d4IlNUeftDn1dC55e5ld)
+155 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

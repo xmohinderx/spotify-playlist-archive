@@ -4,7 +4,7 @@
 
 > The sweet sounds of Jordan.
 
-74 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/3RjKkBGdUUaqqoXkZCGwyG)
+74 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

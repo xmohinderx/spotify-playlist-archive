@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-11-03",
   "description": "The best independent music in a post-genre world",
   "name": "HEADPHONES",
-  "published_playlist_ids": [
-    "3VMk54nY0oCnTsFHeWOKJN"
-  ],
   "tracks": [
     {
       "album": {
@@ -417,6 +414,28 @@
       "duration_ms": 219412,
       "name": "4 Angelitos",
       "url": "https://open.spotify.com/track/15QS3XiOzZc6LOj2fdolo1"
+    },
+    {
+      "album": {
+        "name": "YOUNG SAAB STORIES VOL. 2",
+        "url": "https://open.spotify.com/album/0QzUd2r30dYYWICQ8iOAq5"
+      },
+      "artists": [
+        {
+          "name": "Young Saab",
+          "url": "https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5"
+        },
+        {
+          "name": "YGTUT",
+          "url": "https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130280,
+      "name": "4 LEAF CLOVER",
+      "url": "https://open.spotify.com/track/7ascXt2NiH6FByjAeekHMp"
     },
     {
       "album": {
@@ -2364,6 +2383,32 @@
     },
     {
       "album": {
+        "name": "Awake (Silkky Remix)",
+        "url": "https://open.spotify.com/album/3GMebAdHlgV0cQlwQT6Jqj"
+      },
+      "artists": [
+        {
+          "name": "MADSUN",
+          "url": "https://open.spotify.com/artist/6o6BwJ3kVxEBZuZub89qpt"
+        },
+        {
+          "name": "Silkky",
+          "url": "https://open.spotify.com/artist/05bRFv6yddq035eQbmC0P4"
+        },
+        {
+          "name": "Jaime Deraz",
+          "url": "https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Awake (Silkky Remix)",
+      "url": "https://open.spotify.com/track/3Pm68IZvvwFSCeEcWyayNc"
+    },
+    {
+      "album": {
         "name": "AWFF ME",
         "url": "https://open.spotify.com/album/5cKOhNL45UMzwjUkhsyVcz"
       },
@@ -3749,7 +3794,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 99674,
       "name": "Bienaventurada",
       "url": "https://open.spotify.com/track/3OgjyStP3nPB7LSlUWGAdI"
@@ -5236,6 +5281,24 @@
     },
     {
       "album": {
+        "name": "butterflies",
+        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212790,
+      "name": "butterflies",
+      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
+    },
+    {
+      "album": {
         "name": "Buzz Like Flies",
         "url": "https://open.spotify.com/album/7vgaSmf1hPuZUT5egRGZdn"
       },
@@ -5429,7 +5492,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 237091,
       "name": "CALI VICE (Apache Version)",
       "url": "https://open.spotify.com/track/4QmZ9lFD32dWOt1jYtHYbW"
@@ -6749,6 +6812,24 @@
       "duration_ms": 202816,
       "name": "Clean Up (feat. AJ Tracey)",
       "url": "https://open.spotify.com/track/7nMOjcJglCFOLt3xqFL6Jg"
+    },
+    {
+      "album": {
+        "name": "CLOSE FRIENDS",
+        "url": "https://open.spotify.com/album/0g7dAm9scVss0GoZoVvmDT"
+      },
+      "artists": [
+        {
+          "name": "Jonna Torres",
+          "url": "https://open.spotify.com/artist/2RZ5MBBHsQ3bHQUPxF3MpD"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "CLOSE FRIENDS",
+      "url": "https://open.spotify.com/track/6efjURo7f1Bja9mGXjKqMA"
     },
     {
       "album": {
@@ -12351,7 +12432,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 228727,
       "name": "Fight Fire With Gasoline",
       "url": "https://open.spotify.com/track/78frUxVotRtpMrNMcyYtns"
@@ -14771,7 +14852,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 213246,
       "name": "Greater Heights",
       "url": "https://open.spotify.com/track/01Ql0jKoHp27YofDYYcevg"
@@ -16449,7 +16530,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 150857,
       "name": "Home - Versi\u00f3n en Espa\u00f1ol",
       "url": "https://open.spotify.com/track/526jYzj2W1IWxZWmb3VXTu"
@@ -21511,7 +21592,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 114285,
       "name": "Loose",
       "url": "https://open.spotify.com/track/0gsuGg31HJgIiVSlqBpX2S"
@@ -28515,7 +28596,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 127866,
       "name": "Playa Venus",
       "url": "https://open.spotify.com/track/6ZXzEQEX7JZotjZMMpcVYE"
@@ -28725,7 +28806,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 264917,
       "name": "Por Una Vez En La Vida - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/3DRk2Yf5JmNHAE6raUxrCo"
@@ -29485,7 +29566,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 190998,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/0K0gjmwuoyQudhTJox2e2u"
@@ -31392,6 +31473,32 @@
     },
     {
       "album": {
+        "name": "SEE",
+        "url": "https://open.spotify.com/album/3oFqnxT38zvzM6DLoFikc7"
+      },
+      "artists": [
+        {
+          "name": "Ian Jazzi",
+          "url": "https://open.spotify.com/artist/60vTr8Bkk5ghwI1D0TQZn1"
+        },
+        {
+          "name": "Prince Bright",
+          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
+        },
+        {
+          "name": "Chymny Crane",
+          "url": "https://open.spotify.com/artist/1iYTHAYczacWac9DxC7gkm"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333981,
+      "name": "SEE",
+      "url": "https://open.spotify.com/track/6clBKA225TFIe1x12luaDt"
+    },
+    {
+      "album": {
         "name": "See Me Here, See Me Now",
         "url": "https://open.spotify.com/album/3xDW9maLgBdwS2vAS2R7Eq"
       },
@@ -31487,6 +31594,24 @@
       "duration_ms": 285386,
       "name": "Seeds of Love",
       "url": "https://open.spotify.com/track/3rq74Vy3nCG9ucFfnG9ii4"
+    },
+    {
+      "album": {
+        "name": "Seeing Straight",
+        "url": "https://open.spotify.com/album/4JAKg35Lyg9g9259rmL2cW"
+      },
+      "artists": [
+        {
+          "name": "Mitch Santiago",
+          "url": "https://open.spotify.com/artist/6eERFYkiQQPyRK4rPEXTNH"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278710,
+      "name": "Seeing Straight",
+      "url": "https://open.spotify.com/track/37jDUmxh5NUuaBWTAOB0si"
     },
     {
       "album": {
@@ -35997,7 +36122,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 132943,
       "name": "THE SUN WON'T COME UP (feat. Bearcubs)",
       "url": "https://open.spotify.com/track/0EzTR9aMCFJucFOvfGTNxy"
@@ -36809,7 +36934,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 336302,
       "name": "Todos lo conocen",
       "url": "https://open.spotify.com/track/3cOrdZp6c0llbYX4hi756g"
@@ -38698,6 +38823,24 @@
     },
     {
       "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/5UgR4xPUCnuHS5F1wNNc3x"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185358,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/1NOTidLDDPTeau4BWJ0vwX"
+    },
+    {
+      "album": {
         "name": "Wasting Time",
         "url": "https://open.spotify.com/album/44l6TKVUwQAi9LaJG0ZBPQ"
       },
@@ -38803,7 +38946,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 213900,
       "name": "Wave Like Bo",
       "url": "https://open.spotify.com/track/2tpRLhSwPwvUmI5ZLEFmwC"

@@ -4,7 +4,7 @@
 
 > As if! Your favorite 1990s throwbacks, including “Say My Name”, “Bye Bye Bye”, “…Baby One More Time” and more.
 
-143 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/3HR3w8UGzn1zwwjSILb3ZN)
+143 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Para los enamorados y despechados.
 
-92 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/38Ai5WsfkNpO3c1KY0X1gl)
+92 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

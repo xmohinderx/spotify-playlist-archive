@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-208 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
+208 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

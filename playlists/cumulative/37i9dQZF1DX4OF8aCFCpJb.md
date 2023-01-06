@@ -4,7 +4,7 @@
 
 > Det bästa från den svenska reggaescenen.
 
-211 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/7yF7K05YVtBZlFxXJKjSU8)
+211 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

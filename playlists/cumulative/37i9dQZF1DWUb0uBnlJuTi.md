@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-250 songs - 19 hr 43 min - [published](https://open.spotify.com/playlist/5YdwjD0Yo4VfktuMzWIUHY)
+250 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

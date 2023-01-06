@@ -4,7 +4,7 @@
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-232 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/7jjPP4PUX9hnS6yWYHRUMC)
+232 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

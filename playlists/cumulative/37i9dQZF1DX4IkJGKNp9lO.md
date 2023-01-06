@@ -4,7 +4,7 @@
 
 > Svensk punk från förr och nu.
 
-225 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/3Pn9tRKK1cG7DF1Ujbt84s)
+225 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

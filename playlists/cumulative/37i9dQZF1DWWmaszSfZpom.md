@@ -4,7 +4,7 @@
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacaré
 
-103 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/0gFxWIMRmT9sGRD0RQtCOA)
+103 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

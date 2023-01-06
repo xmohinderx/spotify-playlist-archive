@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Tomberlin
 
-449 songs - 1 day 4 hr 9 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
+449 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Don’t Slow Me Down \(feat\. Bonnie Prince Billy\)](https://open.spotify.com/track/21dLiJG5xpbs4CBkV9RZiI) | [Ashley Shadow](https://open.spotify.com/artist/5RdjQlRaM2PIjLE2tfgHxY), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Don't Slow Me Down \(feat\. Bonnie Prince Billy\)](https://open.spotify.com/album/7HVul4K3F0FWQbM6VIvRau) | 4:29 | 2021-10-22 | 2022-07-25 |
 | [Down by the Water](https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Getaway](https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV) | 2:55 | 2022-04-13 |  |
 | [Drinking Song](https://open.spotify.com/track/0QrxeCKmq1qHJSqysK5rdD) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Fish Eyes EP](https://open.spotify.com/album/0AJs8uGiBASbgSV5t34yhp) | 3:14 | 2022-02-25 | 2022-04-17 |
-| [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 | 2021-10-22 |  |
+| [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 | 2021-10-22 | 2023-01-06 |
 | [Dyan](https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 2:38 | 2022-06-24 | 2022-10-15 |
 | [Dyan](https://open.spotify.com/track/1cCHgtg8lfmjL4nQhqlRb1) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/2MTKjNpZDTNTjn3FRbuAfx) | 2:38 | 2021-10-22 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/6e4E1UzuXQMVChJ6TgIOv5) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy](https://open.spotify.com/album/4zPlrT0LVP56XnNdpNYV7T) | 4:01 | 2022-01-14 | 2022-07-29 |
@@ -364,7 +364,7 @@
 | [Talk to the Lord](https://open.spotify.com/track/4M0cP6Qafv6FfBkq4EMaaB) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Talk to the Lord](https://open.spotify.com/album/0sUkmcF1CUnlilBZYRexM7) | 3:27 | 2021-10-22 | 2022-07-29 |
 | [That's How You Know](https://open.spotify.com/track/3Vnpr2sEVngZQgAZYmAgl3) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Sima Cunningham](https://open.spotify.com/artist/7hCrrpVmgtWF6Y3MZed12l), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [That's How You Know](https://open.spotify.com/album/3L2xXFvMayei3lV4JLqLTU) | 3:45 | 2022-10-14 | 2022-12-01 |
 | [That's Life Honey](https://open.spotify.com/track/41EWCCqujOEoyQreiu9pt2) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [That's Life Honey](https://open.spotify.com/album/0Dto3sJrxxHp4GEy12KAI1) | 3:02 | 2021-10-22 | 2022-07-29 |
-| [That's Life Honey](https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [Wayfinder](https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN) | 3:02 | 2022-10-14 | 2022-12-28 |
+| [That's Life Honey](https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [Wayfinder](https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN) | 3:02 | 2022-10-14 |  |
 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 | 2021-10-22 | 2022-04-14 |
 | [The Breeze / My Baby Cries](https://open.spotify.com/track/32QtDJN4oRfo3Jwy6gpoWN) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Loving Takes This Course \- a Tribute to the Songs of Kath Bloom](https://open.spotify.com/album/45Ae8sd3ZB5gbBHNNIZaGY) | 6:23 | 2021-10-22 | 2022-01-15 |
 | [The Bride & The Bachelor](https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp) | [Famous Men](https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6) | 4:10 | 2021-10-22 |  |

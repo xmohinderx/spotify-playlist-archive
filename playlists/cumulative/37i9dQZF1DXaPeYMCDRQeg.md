@@ -4,7 +4,7 @@
 
 > Celebrating Black love, one song at a time.
 
-143 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/0EXr3LZI5y1SPDKSOyr1zu)
+143 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

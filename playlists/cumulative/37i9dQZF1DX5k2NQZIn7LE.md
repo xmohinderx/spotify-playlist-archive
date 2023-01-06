@@ -4,7 +4,7 @@
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-81 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/0XQM5ONk6GhW4OcFYlBuNy)
+81 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Lo mejor de la nueva\. Foto: Montano, Totoy El Frio
 
-169 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/3ZGG1JOi7RasWn3HYxETEa)
+169 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

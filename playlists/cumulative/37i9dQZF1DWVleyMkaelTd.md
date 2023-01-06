@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-134 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
+134 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Aimer\. The essential tracks, all in one playlist.
 
-67 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/1qiJTMwSP57XnJIPa3JfBj)
+67 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

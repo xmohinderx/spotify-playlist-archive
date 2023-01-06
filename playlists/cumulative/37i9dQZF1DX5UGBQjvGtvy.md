@@ -4,10 +4,14 @@
 
 > Listen to the soundtracks of Disney+'s original drama Big Bet\. \(디즈니+ 오리지널 드라마 카지노의 사운드 트랙들을 즐겨보세요!\)
 
-92 songs - 2 hr 46 min - not published yet
+96 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1\. Message from Son Sukku](https://open.spotify.com/track/00yuktaEDKcpNQ7tGd7oVv) | [Big Bet](https://open.spotify.com/artist/02GsOZ9KVl2ZDFdZ9yyRXk) | [Big Bet Audio liners](https://open.spotify.com/album/2DHYjtK6uC5oliPq56dRKE) | 0:49 | 2023-01-05 |  |
+| [2\. Message from Lee Donghwi](https://open.spotify.com/track/0vaRz5YeubnKMfaw0LGXaY) | [Big Bet](https://open.spotify.com/artist/02GsOZ9KVl2ZDFdZ9yyRXk) | [Big Bet Audio liners](https://open.spotify.com/album/2DHYjtK6uC5oliPq56dRKE) | 0:52 | 2023-01-05 |  |
+| [3\. Message from Ha Hyun Woo](https://open.spotify.com/track/2tnowOihX8582EqTnp3ifS) | [Big Bet](https://open.spotify.com/artist/02GsOZ9KVl2ZDFdZ9yyRXk) | [Big Bet Audio liners](https://open.spotify.com/album/2DHYjtK6uC5oliPq56dRKE) | 1:02 | 2023-01-05 |  |
+| [4\. Message from Heo Sungtae](https://open.spotify.com/track/1TZ7ETIoO7IPzPkPk6i4kV) | [Big Bet](https://open.spotify.com/artist/02GsOZ9KVl2ZDFdZ9yyRXk) | [Big Bet Audio liners](https://open.spotify.com/album/2DHYjtK6uC5oliPq56dRKE) | 0:44 | 2023-01-05 |  |
 | [A Last Supper](https://open.spotify.com/track/5cYIhgs29x50dd8wVrwvOV) | [Yoon Il Sang](https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf) | [Big Bet \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs) | 1:04 | 2023-01-03 |  |
 | [Action](https://open.spotify.com/track/4eJENmzh5qk0Iq8EsjCDfT) | [Yoon Il Sang](https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf) | [Big Bet \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs) | 3:36 | 2023-01-03 |  |
 | [All In Casino](https://open.spotify.com/track/4qg2LiX5PIh6AyYOnVlCY7) | [Yoon Il Sang](https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf) | [Big Bet \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs) | 3:06 | 2023-01-03 |  |

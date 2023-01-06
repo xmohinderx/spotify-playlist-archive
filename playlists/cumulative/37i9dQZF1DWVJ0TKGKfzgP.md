@@ -4,7 +4,7 @@
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-116 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/3f9kVVAg7rQUcBVrSRpqMR)
+116 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

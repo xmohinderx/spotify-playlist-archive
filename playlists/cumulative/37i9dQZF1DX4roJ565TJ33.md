@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-123 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
+123 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites and new discoveries.
 
-301 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
+301 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

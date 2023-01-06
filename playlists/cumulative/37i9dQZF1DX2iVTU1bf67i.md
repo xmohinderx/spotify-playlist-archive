@@ -4,7 +4,7 @@
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-222 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/4W1f5QkM0RmmszcjLODvTL)
+222 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Give Me The Simple Life](https://open.spotify.com/track/7Kc3hZoCRTs5dNHU7GqT9x) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 2:20 | 2022-01-20 |  |
 | [Honeysuckle Rose](https://open.spotify.com/track/2nw4QBlkVix8USKT8swP6G) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Cole Trio](https://open.spotify.com/artist/23vOGXcgR6XTtoLcPzXh6R) | [Some Fine Old Chestnuts \(60th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0vXBeJIkaeXbximtc8p6x1) | 2:26 | 2022-01-20 |  |
 | [How Deep Is The Ocean \(How High Is The Sky\)](https://open.spotify.com/track/2yVSmhgifg9zyolZ2FOgPM) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 2:33 | 2022-01-20 | 2022-10-08 |
-| [How High The Moon \- Remastered](https://open.spotify.com/track/5KbYlvQhNwlyfTcOGeWQ2e) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [June Christy Recalls Those Kenton Days](https://open.spotify.com/album/7LiaPDVtP6eWdpO6MCkiIS) | 2:33 | 2022-01-20 | 2022-10-08 |
+| [How High The Moon \- Remastered](https://open.spotify.com/track/5KbYlvQhNwlyfTcOGeWQ2e) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [June Christy Recalls Those Kenton Days](https://open.spotify.com/album/7LiaPDVtP6eWdpO6MCkiIS) | 2:33 | 2022-01-20 |  |
 | [I Can't Give You Anything But Love](https://open.spotify.com/track/5doczA8CcUYo0J9H7uvHgU) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 3:52 | 2022-01-20 | 2022-12-01 |
 | [I Could Write a Book](https://open.spotify.com/track/0eijtL958nCP1dy7OR1hUA) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 2:38 | 2022-01-20 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:24 | 2022-01-20 |  |
@@ -144,7 +144,7 @@
 | [My Heart Belongs to Daddy](https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:03 | 2022-01-20 |  |
 | [My Little Brown Book](https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 5:19 | 2022-01-20 |  |
 | [My Melancholy Baby](https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:39 | 2022-01-20 |  |
-| [My One and Only Love](https://open.spotify.com/track/02baLCk9oKchFS5UrTfIvG) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Just Imagine](https://open.spotify.com/album/2LFMAjQmxQHiwJxLamWi2l) | 6:13 | 2022-04-22 |  |
+| [My One and Only Love](https://open.spotify.com/track/02baLCk9oKchFS5UrTfIvG) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Just Imagine](https://open.spotify.com/album/2LFMAjQmxQHiwJxLamWi2l) | 6:13 | 2022-04-22 | 2023-01-06 |
 | [My One And Only Love](https://open.spotify.com/track/1BPmVDqR4cX9aFC0Qx0eWn) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Gentle Side Of John Coltrane](https://open.spotify.com/album/0hc0DLxQyod6p5UdCjNOJS) | 4:56 | 2022-01-20 | 2022-08-18 |
 | [My Romance \(take 1\)](https://open.spotify.com/track/2u6gOYRHuN06LMQDHTwUrl) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:11 | 2022-04-08 | 2022-10-08 |
 | [My Sin \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/1ebZEQLe2lfwyMnuhnIDjx) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 6:53 | 2022-01-20 |  |

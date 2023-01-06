@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18377,
+  "num_followers": 18376,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYwMjQwMCwwMDAwMDAwMDNlODk5NWVkNGI2NjI3ZWI3YTQ0YTAxZGRjYTlhOTAy",
+  "snapshot_id": "MTY3MTYwMjQwMCwwMDAwMDAwMDNkZjhjZWFiMTE0NGRmZTM2ZDQxOTc3ZDkzNjZkNWU5",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Coconut Mango",
-        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
-      },
-      "artists": [
-        {
-          "name": "Arrangement",
-          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
-        }
-      ],
-      "duration_ms": 325489,
-      "name": "Coconut Mango",
-      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Six Songs for Invisible Gardens",
         "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 223000,
       "name": "Peperomia Seedling",
       "url": "https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Coconut Mango",
+        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
+      },
+      "artists": [
+        {
+          "name": "Arrangement",
+          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
+        }
+      ],
+      "duration_ms": 325489,
+      "name": "Coconut Mango",
+      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
     },
     {
       "added_at": "2022-01-07 02:01:58",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Subtle Vertigo",
-        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
-      },
-      "artists": [
-        {
-          "name": "Scott Gilmore",
-          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
-        }
-      ],
-      "duration_ms": 226965,
-      "name": "Europe",
-      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Amber",
         "url": "https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 397000,
       "name": "Yulquen",
       "url": "https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Subtle Vertigo",
+        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
+      },
+      "artists": [
+        {
+          "name": "Scott Gilmore",
+          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
+        }
+      ],
+      "duration_ms": 226965,
+      "name": "Europe",
+      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
     },
     {
       "added_at": "2021-09-10 04:35:25",

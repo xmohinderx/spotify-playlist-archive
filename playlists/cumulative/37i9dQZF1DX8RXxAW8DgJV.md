@@ -4,7 +4,7 @@
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-113 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/0XnZdPXNMro0Z14SbfzsnO)
+113 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

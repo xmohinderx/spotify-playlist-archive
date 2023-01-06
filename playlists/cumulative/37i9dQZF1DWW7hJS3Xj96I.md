@@ -4,7 +4,7 @@
 
 > ¡Baila con los mejores éxitos de los 90!
 
-92 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/0nxZjq1X0FlGlwMkxj3U2K)
+92 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

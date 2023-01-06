@@ -4,7 +4,7 @@
 
 > Great songs by indisputable music legends\. Cover: Queen
 
-221 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/0GtqGrLzVf2NF3NwuYf9ll)
+221 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

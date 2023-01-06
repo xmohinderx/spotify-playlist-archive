@@ -4,7 +4,7 @@
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Whitney Houston
 
-105 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/4Hyc8FBwGAkz0KJlOJzNHJ)
+105 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

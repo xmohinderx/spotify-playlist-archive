@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-406 songs - 20 hr 26 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
+406 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

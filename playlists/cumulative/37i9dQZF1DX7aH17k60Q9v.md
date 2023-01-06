@@ -4,7 +4,7 @@
 
 > Canciones para acompañar la garnacha que apapacha.
 
-103 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/0UNO0MRhCn4N0PEUhUSJPZ)
+103 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

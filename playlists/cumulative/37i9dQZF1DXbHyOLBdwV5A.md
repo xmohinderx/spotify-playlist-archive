@@ -4,7 +4,7 @@
 
 > A palavra do Senhor pra você dançar\. Foto: Gui Brazil
 
-83 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/5BZh37EBVCBsouojMwfrbZ)
+83 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

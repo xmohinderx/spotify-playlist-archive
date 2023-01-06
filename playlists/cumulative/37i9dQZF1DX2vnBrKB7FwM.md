@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-96 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/3zmU4gkPj0G6pq0uLvvBh3)
+96 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

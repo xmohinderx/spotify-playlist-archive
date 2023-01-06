@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-437 songs - 1 day 2 hr 37 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
+437 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

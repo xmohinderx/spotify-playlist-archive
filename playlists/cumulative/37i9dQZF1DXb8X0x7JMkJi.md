@@ -4,7 +4,7 @@
 
 > Dê o play e tire um tempinho você
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/4fjCM63nMwhoFiDM3I0Ewp)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-457 songs - 1 day 13 hr 2 min - [published](https://open.spotify.com/playlist/2gWaZAY61eO3QXZAh34tFq)
+457 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

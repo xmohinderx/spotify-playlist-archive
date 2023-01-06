@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Central Cee
 
-132 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/7hMCvjkaTpfWbLIl5i39jB)
+132 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

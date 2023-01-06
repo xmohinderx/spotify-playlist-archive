@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi hits with Karan Aujla
 
-177 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+177 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

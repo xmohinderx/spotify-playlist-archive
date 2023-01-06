@@ -4,7 +4,7 @@
 
 > romanticizing indie music in 2022
 
-77 songs - 4 hr 6 min - not published yet
+77 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

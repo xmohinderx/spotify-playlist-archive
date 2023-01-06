@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-442 songs - 1 day 11 hr 55 min - [published](https://open.spotify.com/playlist/6YEOhxlMSKcPFNC9j3L9q9)
+442 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

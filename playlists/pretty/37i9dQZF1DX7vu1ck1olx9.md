@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,568 likes - 82 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,613 likes - 82 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 56 | [Habitual Words](https://open.spotify.com/track/2IB7U1RPRbCuPspDCq1ecj) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Twin](https://open.spotify.com/album/3UE5nSckTW1SSgepfBbabG) | 4:15 |
 | 57 | [If It Moves](https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms) | [Michael Michaelson](https://open.spotify.com/artist/72FGRiJVcSofI5bOBzoilz) | [If It Moves](https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw) | 1:38 |
 | 58 | [Sunny in Saint Lucia](https://open.spotify.com/track/5L6RFPXEfm9YBCMUVEi3bE) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [Sunny in Saint Lucia](https://open.spotify.com/album/7yZLICBnXiNzpohnqGlLpT) | 3:06 |
-| 59 | [Doppelgänger](https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4) | [Doppelgänger](https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3) | 2:45 |
-| 60 | [timestamp](https://open.spotify.com/track/0DP6ySJDVMTResFo9zAMqa) | [walzy](https://open.spotify.com/artist/0FdfALVZs2DXZB7WazJzOS), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [timestamp](https://open.spotify.com/album/1H1ze2V9V1NV9yEi6sdnOh) | 2:27 |
-| 61 | [Fractals](https://open.spotify.com/track/4ijwRNrJHhEPt1CNIzNG5E) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde), [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET) | [Jazz Cat](https://open.spotify.com/album/4VWW7BeHlH0jlMPQFtNSsu) | 2:59 |
+| 59 | [timestamp](https://open.spotify.com/track/0DP6ySJDVMTResFo9zAMqa) | [walzy](https://open.spotify.com/artist/0FdfALVZs2DXZB7WazJzOS), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [timestamp](https://open.spotify.com/album/1H1ze2V9V1NV9yEi6sdnOh) | 2:27 |
+| 60 | [Fractals](https://open.spotify.com/track/4ijwRNrJHhEPt1CNIzNG5E) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde), [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET) | [Jazz Cat](https://open.spotify.com/album/4VWW7BeHlH0jlMPQFtNSsu) | 2:59 |
+| 61 | [Doppelgänger](https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4) | [Doppelgänger](https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3) | 2:45 |
 | 62 | [Solitude](https://open.spotify.com/track/1o1UWMy6g6QRLYnK8wuY9L) | [DCS Lefty](https://open.spotify.com/artist/39Y0ja9MWC0yMdKMFGu4L7) | [Solitude](https://open.spotify.com/album/5TIBOPZs2qfJ5SwvAaGqJz) | 2:25 |
 | 63 | [makeuseofthetime](https://open.spotify.com/track/4YblvnMhr0V2lbn8IPVb35) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 1:18 |
 | 64 | [Solstånd \- Bonus Track](https://open.spotify.com/track/5JhnZmoePRQaSjhtVWPlVZ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Close Distance \(Deluxe\)](https://open.spotify.com/album/4aSu2qefcm9v4hcALQy4It) | 2:21 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 68 | [Act I](https://open.spotify.com/track/56Q5Wdwc0zILGWfdBzPfao) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V), [Hush Child](https://open.spotify.com/artist/3r46iM1vaXubb5us8YCDPa) | [Act I](https://open.spotify.com/album/5Zkht2CtX4CWk2b1UCxKXO) | 2:28 |
 | 69 | [Soul Finding](https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Collabs, Vol 2](https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi) | 1:41 |
 | 70 | [Inn](https://open.spotify.com/track/2hEgmgkHVDFf52Sxpc3Nh2) | [Benno](https://open.spotify.com/artist/4HYjlPJLk1PyVwuuy63o6L), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Inn](https://open.spotify.com/album/4Lh05HrYs2QKvRIaNN9oQG) | 2:11 |
-| 71 | [Bing Bong](https://open.spotify.com/track/6ZZ3aexUFYKMTlrvGqM9mO) | [Augie Haas](https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh) | [Bing Bong](https://open.spotify.com/album/09IebgiVmovUCMx7RcyFWT) | 1:56 |
+| 71 | [Evenfall](https://open.spotify.com/track/00OJTs80tu6DWWkcYJSkFg) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Evenfall](https://open.spotify.com/album/6gWZNNi5YDnUKclfDRY4H0) | 2:32 |
 | 72 | [By Your Side](https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [By Your Side](https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W) | 2:23 |
-| 73 | [Utah](https://open.spotify.com/track/15ak5UN9CgFQzYCVEeigY9) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Utah](https://open.spotify.com/album/0ULUBycp5jD1x6PyAMqEG2) | 2:06 |
-| 74 | [Evenfall](https://open.spotify.com/track/00OJTs80tu6DWWkcYJSkFg) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Evenfall](https://open.spotify.com/album/6gWZNNi5YDnUKclfDRY4H0) | 2:32 |
+| 73 | [Bing Bong](https://open.spotify.com/track/6ZZ3aexUFYKMTlrvGqM9mO) | [Augie Haas](https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh) | [Bing Bong](https://open.spotify.com/album/09IebgiVmovUCMx7RcyFWT) | 1:56 |
+| 74 | [Utah](https://open.spotify.com/track/15ak5UN9CgFQzYCVEeigY9) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Utah](https://open.spotify.com/album/0ULUBycp5jD1x6PyAMqEG2) | 2:06 |
 | 75 | [NightSky](https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [NightSky](https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu) | 3:04 |
 | 76 | [High Grade](https://open.spotify.com/track/148fw8hR1GJWy8Wv8Njmae) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64), [Dylan Jones](https://open.spotify.com/artist/6I27Pm1RWzs9IJzB9KlKhN) | [Vibrations](https://open.spotify.com/album/3rscuOtVUHLjqiHSDxdqrc) | 3:53 |
 | 77 | [Springman](https://open.spotify.com/track/1QxvBUifBAyr47CPjVYh6v) | [Coubo](https://open.spotify.com/artist/3VZj4YxaCNGpQGm95P1lVq) | [Homewards](https://open.spotify.com/album/1saLXXiujQG2zc5piB9mjk) | 3:39 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [Mirage](https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Mirage](https://open.spotify.com/album/11lBSg0fUCPWIBlM05FAJx) | 2:24 |
 | 82 | [Moments](https://open.spotify.com/track/3r5R3UBhe7Cdgywozq4zKz) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Flow](https://open.spotify.com/album/598S5qbw2Q9pj4kjVS2sqw) | 3:15 |
 
-Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDU4YmRhYzE3N2Q5M2Q2ZTQ3NWQzZGQ0YWIzYjdmYTE1`
+Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDgzODRmZTg3MTkyZGQzZGJhYzg5MDkwNmMxNGUyMzRh`

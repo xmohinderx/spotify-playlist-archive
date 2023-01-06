@@ -4,7 +4,7 @@
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-137 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/6turhzq7wb2AQ4gmSzxhcu)
+137 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-78 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/6iAVNIBlFxj6iy8bBx59pl)
+78 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

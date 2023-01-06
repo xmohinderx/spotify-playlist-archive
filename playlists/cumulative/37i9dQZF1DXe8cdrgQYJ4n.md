@@ -4,7 +4,7 @@
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-73 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/3IkwNHOGDjdzBz3oQtuZPV)
+73 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

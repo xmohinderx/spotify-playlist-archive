@@ -4,7 +4,7 @@
 
 > 90s rock to fuel your ride\. Cover: The Smashing Pumpkins
 
-64 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/6Xdv835R3SfJNaxAchmcum)
+64 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The unforgettable romantic Jazz songs\. Cover: Nat King Cole
 
-144 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/3qUetQLNSupJ2CAPcW3Sx3)
+144 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

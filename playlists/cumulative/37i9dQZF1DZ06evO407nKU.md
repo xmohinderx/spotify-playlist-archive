@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/6Y7WCOGwQgghlGDjlm7brC)
+80 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Drake, 21 Savage
 
-635 songs - 1 day 8 hr 38 min - [published](https://open.spotify.com/playlist/5LUYY08NHALqUOrBRkJKro)
+635 songs - 1 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

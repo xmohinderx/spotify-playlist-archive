@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-463 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/1fzLEPXbNRV5WhwUmgxpLC)
+463 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

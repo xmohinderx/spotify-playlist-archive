@@ -4,7 +4,7 @@
 
 > This is Kendrick Lamar\. Essential tracks all in one playlist.
 
-87 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/2gURM4VFY4GNBKA4eJjlmx)
+87 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

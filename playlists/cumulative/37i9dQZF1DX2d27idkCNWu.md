@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-134 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/4xxd2oBY0gtVGr5sedjYHK)
+134 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

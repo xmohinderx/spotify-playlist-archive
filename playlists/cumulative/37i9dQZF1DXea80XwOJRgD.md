@@ -4,7 +4,7 @@
 
 > Some heart and soul for those up late.
 
-90 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
+90 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

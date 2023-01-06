@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-295 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
+295 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

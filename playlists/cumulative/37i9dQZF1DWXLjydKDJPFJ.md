@@ -4,7 +4,7 @@
 
 > ¡Compare! Prenda el carbón y saque la bocina que ya se armó la carnita.
 
-218 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/5COluVzrmo5voG6SCj0H9x)
+218 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

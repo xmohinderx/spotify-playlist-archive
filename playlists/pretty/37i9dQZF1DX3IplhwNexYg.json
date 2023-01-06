@@ -1,15 +1,15 @@
 {
   "description": "The best in current indie rock. Cover: Nil\u00fcfer Yanya",
-  "num_followers": 110711,
+  "num_followers": 110734,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcxODA5MiwwMDAwMDAwMDk5MmRkYTBmNGQ3OWYxOWNlNjdmN2RmNzZjZGYzNzhm",
+  "snapshot_id": "MTY3MTcxODA5MiwwMDAwMDAwMDU2NWEzNWUwYWI1ODQ1ZWM4MTcxMDcxOWM5YWNkY2Yy",
   "tracks": [
     {
-      "added_at": "2023-01-05 01:17:06",
+      "added_at": "2023-01-06 07:15:06",
       "album": {
         "name": "PAINLESS (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP"
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Do You Wanna Talk",
-        "url": "https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 146392,
-      "name": "Do You Wanna Talk",
-      "url": "https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Love Will Get You There",
         "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 250280,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Do You Wanna Talk",
+        "url": "https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 146392,
+      "name": "Do You Wanna Talk",
+      "url": "https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
     },
     {
-      "added_at": "2023-01-05 01:17:06",
+      "added_at": "2023-01-06 07:15:06",
       "album": {
         "name": "Someone2Me",
         "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "No Rule",
-        "url": "https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 325888,
-      "name": "No Rule",
-      "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Everybody's Saying Thursday's The Weekend",
         "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 184333,
       "name": "Everybody's Saying Thursday's The Weekend",
       "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "No Rule",
+        "url": "https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 325888,
+      "name": "No Rule",
+      "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 177529,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "The Overload",
         "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c"
+        "name": "Kool Aid",
+        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
       },
       "artists": [
         {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 177529,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu"
+      "duration_ms": 216665,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -471,22 +487,6 @@
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "Kool Aid",
-        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "Kool Aid",
-      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Handle",
-        "url": "https://open.spotify.com/album/0f1y4j9KXMhnrpLzj4PEC6"
-      },
-      "artists": [
-        {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
-        }
-      ],
-      "duration_ms": 205479,
-      "name": "Handle",
-      "url": "https://open.spotify.com/track/1U2ul6SmAuRtnRCDDIAg3Q"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "ILY2",
         "url": "https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 199328,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5yqJYw5xgVn46fc0IZ55Mz"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Handle",
+        "url": "https://open.spotify.com/album/0f1y4j9KXMhnrpLzj4PEC6"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "duration_ms": 205479,
+      "name": "Handle",
+      "url": "https://open.spotify.com/track/1U2ul6SmAuRtnRCDDIAg3Q"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "The Dance You Sell",
-        "url": "https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7"
-      },
-      "artists": [
-        {
-          "name": "L'objectif",
-          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
-        }
-      ],
-      "duration_ms": 242512,
-      "name": "The Dance You Sell",
-      "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Gulp!",
         "url": "https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo"
+        "name": "The Dance You Sell",
+        "url": "https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7"
       },
       "artists": [
         {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+          "name": "L'objectif",
+          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
         }
       ],
-      "duration_ms": 125546,
-      "name": "Arrow",
-      "url": "https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc"
+      "duration_ms": 242512,
+      "name": "The Dance You Sell",
+      "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1099,6 +1083,22 @@
       "duration_ms": 209230,
       "name": "It Was Nothing",
       "url": "https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 125546,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc"
     },
     {
       "added_at": "2022-11-25 00:00:00",

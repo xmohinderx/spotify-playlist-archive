@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Blessd
 
-83 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/6opAfCvVy9IGx107v1jCvA)
+83 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

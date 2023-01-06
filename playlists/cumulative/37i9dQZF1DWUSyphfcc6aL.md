@@ -4,7 +4,7 @@
 
 > Need to break a sweat? Turn these jams up and stay motivated!
 
-192 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/3wa2EvbPL3Aa4mDDU6b60D)
+192 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

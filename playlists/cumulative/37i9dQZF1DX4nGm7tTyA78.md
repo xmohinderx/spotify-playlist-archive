@@ -4,7 +4,7 @@
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-74 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/4QTolJARsiGXtNoXJeFdWi)
+74 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

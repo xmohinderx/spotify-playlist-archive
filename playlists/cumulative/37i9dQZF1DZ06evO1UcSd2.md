@@ -4,7 +4,7 @@
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/1YYodDIyxN0i5Xwsstvkpi)
+71 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

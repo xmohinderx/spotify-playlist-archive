@@ -4,7 +4,7 @@
 
 > Long and constant \- lose yourself in the sustain.
 
-180 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
+180 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Dark Cities](https://open.spotify.com/track/3pGvm73V59h70SGIE1Pkm5) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [duenn](https://open.spotify.com/artist/4NPzHTy0WMICLZBUH9ZGbT) | [Distance as Power](https://open.spotify.com/album/7KalZInYptgFjlVa17SjMe) | 5:35 | 2022-05-25 |  |
 | [Dark Motive](https://open.spotify.com/track/02S9ssx1zhXx6aHQqdDFmg) | [Paul Whitehead](https://open.spotify.com/artist/4TaIAHSrmJz39bSLfzH5KG), [Dom Kane](https://open.spotify.com/artist/36VhFXGlahmuSAXdr7SVCP) | [Dark Analogue Drones](https://open.spotify.com/album/2617v2UbZZLDniFrmSBaKU) | 2:48 | 2022-11-24 |  |
 | [Dark Motive](https://open.spotify.com/track/3cxtmbowjyyyx9usby1Bym) | [Paul Whitehead](https://open.spotify.com/artist/4TaIAHSrmJz39bSLfzH5KG), [Dom Kane](https://open.spotify.com/artist/36VhFXGlahmuSAXdr7SVCP) | [Dark Analogue Drones](https://open.spotify.com/album/37TPBwpuEhTp9zWwH0XGGt) | 2:48 | 2022-05-25 | 2022-07-29 |
-| [Dark Nails](https://open.spotify.com/track/2DtBlBP2Kw4T5ov7BjZO8U) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Dark Nails](https://open.spotify.com/album/5es5EDRuCLdsT6dD5uZjXg) | 10:30 | 2022-05-25 |  |
+| [Dark Nails](https://open.spotify.com/track/2DtBlBP2Kw4T5ov7BjZO8U) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Dark Nails](https://open.spotify.com/album/5es5EDRuCLdsT6dD5uZjXg) | 10:30 | 2022-05-25 | 2023-01-06 |
 | [Darkened Valley Lullaby](https://open.spotify.com/track/7GDbjLB0JxUt6f7nl2GBBO) | [Devin Sarno](https://open.spotify.com/artist/6H0BGNsWkD3AZNqJ3dEHPI) | [Evocation](https://open.spotify.com/album/1QPetxI3eJ5u6RdcKqsgfJ) | 5:12 | 2022-05-25 | 2022-12-31 |
 | [Diamond Nights](https://open.spotify.com/track/0uK78BIKDhjAN6p78vBycJ) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Eyes Like Angels](https://open.spotify.com/album/3peNyjBArdVRwfMNCY5UOP) | 5:56 | 2022-05-25 |  |
 | [Distant \- Drone Mix](https://open.spotify.com/track/0MAhzaMVquiCYKzmhydblv) | [CALM TRANSMISSIONS](https://open.spotify.com/artist/60LEwqfO4hiuirXepr8MXX) | [Distant \(Drone Mix\)](https://open.spotify.com/album/5w07cL98KrOheroP153LSq) | 4:23 | 2022-05-25 | 2022-12-21 |
@@ -164,7 +164,7 @@
 | [T' Cow's Yed](https://open.spotify.com/track/474nLqSxFrQDLLwPDam5Ug) | [Nocturnal Emissions](https://open.spotify.com/artist/0WQSPkWeZe8mY8fInQXu41) | [Spiritflesh](https://open.spotify.com/album/7i0FawLGiN8KCIUL43glPq) | 4:12 | 2022-05-25 | 2022-10-14 |
 | [Tensión Hacia Tres](https://open.spotify.com/track/0tzujIWyPv8t9LqQQ7PTy2) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Tensión Hacia Tres](https://open.spotify.com/album/4iDLZ4aJLc4ZbiRwzvCx2s) | 15:52 | 2022-05-25 |  |
 | [The Canonization](https://open.spotify.com/track/0qnPb51JWtWmUdNt97ODnO) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:10 | 2022-05-25 |  |
-| [The Last Island](https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR) | [Time Away](https://open.spotify.com/artist/7nmRj45sN6eA6eMJsPjW1k) | [Age of Water](https://open.spotify.com/album/74ynFeiqnFkdw0m2Q6mD22) | 6:48 | 2022-05-25 | 2023-01-05 |
+| [The Last Island](https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR) | [Time Away](https://open.spotify.com/artist/7nmRj45sN6eA6eMJsPjW1k) | [Age of Water](https://open.spotify.com/album/74ynFeiqnFkdw0m2Q6mD22) | 6:48 | 2022-05-25 |  |
 | [The Look That Falls Upon Us Extends As If a Landform \- Remastered](https://open.spotify.com/track/6qR7UDfwNHj2NZjDX6hJ2i) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Sunlir \(Remastered\)](https://open.spotify.com/album/6FElkPlYYHMY2KkPSW9uqR) | 8:04 | 2022-07-01 |  |
 | [The Sacrifice](https://open.spotify.com/track/1G2eapqHAjlEdmv9yFAMaQ) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [The Sacrifice](https://open.spotify.com/album/1uB9z63XmV3PRTK1wwr6dd) | 4:00 | 2022-05-25 | 2022-07-28 |
 | [The Sacrifice](https://open.spotify.com/track/4BEdj9G17kmBuElba6lShF) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [Blind Emperor](https://open.spotify.com/album/0HkYfpjWLP0WYIj0xNFJ0N) | 4:00 | 2022-07-08 | 2022-11-25 |

@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-298 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/6BiUQwxfmWJtL7vBYtAIVk)
+298 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

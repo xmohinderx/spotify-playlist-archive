@@ -4,7 +4,7 @@
 
 > Be like water....<br/>Get into the flow with calming sounds of running streams.
 
-110 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/5lBubUXoaR27mjhSFRWH6Z)
+110 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

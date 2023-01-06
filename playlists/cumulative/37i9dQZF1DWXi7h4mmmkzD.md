@@ -4,7 +4,7 @@
 
 > Nighttime is the right time for these party hits!
 
-135 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/4Rm4c5XWoHXgvLuAPjgog8)
+135 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

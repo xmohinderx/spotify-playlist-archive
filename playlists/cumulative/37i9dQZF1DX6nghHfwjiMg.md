@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Zoe Gotusso.
 
-101 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/5Pxi8eyAIqTOgi5TjZfI4h)
+101 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

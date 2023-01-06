@@ -4,7 +4,7 @@
 
 > Nacimos para rodar en el asfalto.
 
-123 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/4ovE5dvEqCFHC12jjlnh1V)
+123 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

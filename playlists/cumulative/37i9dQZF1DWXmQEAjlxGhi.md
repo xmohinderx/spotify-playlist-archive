@@ -4,7 +4,7 @@
 
 > Upbeat Latin songs to keep your heart rate up.
 
-261 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/0GLF7nKWEkaOJSii1QXnjC)
+261 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

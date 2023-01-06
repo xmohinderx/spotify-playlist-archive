@@ -4,7 +4,7 @@
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-65 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/4u7f1HwInuIa63rJmgbxkz)
+65 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

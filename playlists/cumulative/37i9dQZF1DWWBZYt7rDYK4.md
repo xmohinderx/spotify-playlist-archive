@@ -4,7 +4,7 @@
 
 > A pop soundtrack that both you and your little one can enjoy.
 
-146 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/4WGXzSJ3RMfwF6SJ6no75o)
+146 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

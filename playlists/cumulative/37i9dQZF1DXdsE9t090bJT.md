@@ -4,7 +4,7 @@
 
 > Amor a la mexicana, canciones para dedicarle al amor de tu vida.
 
-141 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/3YeBxoONeIcuXelnrG78UZ)
+141 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

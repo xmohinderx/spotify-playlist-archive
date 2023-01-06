@@ -4,7 +4,7 @@
 
 > Esta selección musical se te hará agua la boca.
 
-85 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/4GFgtQ6muqwEA78cKiRjck)
+85 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

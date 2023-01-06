@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-173 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
+173 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

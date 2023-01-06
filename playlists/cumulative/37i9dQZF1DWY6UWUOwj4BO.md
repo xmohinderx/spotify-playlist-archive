@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-50 songs - 2 hr 41 min - not published yet
+51 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [I Ain’t Worried \- Acoustic](https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \- Acoustic \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG) | 2:29 | 2022-12-21 |  |
 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2022-12-21 |  |
 | [I Leave Again \- Acoustic](https://open.spotify.com/track/6XnmPBOZfmvRHW1BSbwugJ) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [I Leave Again](https://open.spotify.com/album/15yBff9ZnXVgnO3v6vfCw5) | 2:57 | 2022-12-21 |  |
+| [I'm Good \(Blue\) \- Acoustic](https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\) \[Acoustic\]](https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY) | 2:18 | 2023-01-05 |  |
 | [Leave The Door Open \- Acoustic](https://open.spotify.com/track/65P0LJJh9vEa5yR6S2xIZR) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Leave The Door Open \(Acoustic\)](https://open.spotify.com/album/47GrZGrgepJsZqTuAhmkUD) | 3:06 | 2022-12-21 |  |
 | [Let's Love \(feat\. Sia\) \- Acoustic](https://open.spotify.com/track/1CQH9bjtrHOnbXTGL4JzT7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love \(feat\. Sia\) \[Acoustic\]](https://open.spotify.com/album/5SwdV9W7iDZHPcns35goPD) | 3:25 | 2022-12-21 |  |
 | [Light Switch \- Acoustic](https://open.spotify.com/track/1Vq9QT96yzs3hNDaCpeiWx) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Acoustic Vibes](https://open.spotify.com/album/24TUp6UvuBpcWD1dimGe2y) | 3:06 | 2022-12-21 |  |
@@ -56,7 +57,7 @@
 | [Te Amo \- DJ Youcef Remix – Version Acoustique](https://open.spotify.com/track/5DiKjTMmJfdIROpZXAzLwY) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Te Amo \(DJ Youcef Remix – Version Acoustique\)](https://open.spotify.com/album/4we58LKZyy9dtDRIJXeUJs) | 4:18 | 2022-12-21 |  |
 | [Wasted Love \(feat\. Lagique\) \- Acoustic](https://open.spotify.com/track/5Zn1K7j3DkB1akPiBLwKR9) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\) \[Acoustic\]](https://open.spotify.com/album/2CgvyrhuhDiXBAmXQz52Js) | 2:07 | 2022-12-21 |  |
 | [Where Are You Now \- Acoustic](https://open.spotify.com/track/4jU6qkh8stB9uqXEPMqnJL) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now \(Acoustic\)](https://open.spotify.com/album/4Am155SZjwvCP6zPnnVZqH) | 2:42 | 2022-12-21 |  |
-| [You \(with Marshmello & Vance Joy\) \- Acoustic](https://open.spotify.com/track/2wcseriGAqeodDazDXgmaq) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [You \(with Marshmello & Vance Joy\) \[Main + Acoustic\]](https://open.spotify.com/album/0XqS6EE0TuqdLrhJVo06jL) | 2:31 | 2022-12-21 |  |
+| [You \(with Marshmello & Vance Joy\) \- Acoustic](https://open.spotify.com/track/2wcseriGAqeodDazDXgmaq) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [You \(with Marshmello & Vance Joy\) \[Main + Acoustic\]](https://open.spotify.com/album/0XqS6EE0TuqdLrhJVo06jL) | 2:31 | 2022-12-21 | 2023-01-06 |
 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 | 2022-12-21 |  |
 
 \*This playlist was first scraped on 2022-12-28. Prior content cannot be recovered.

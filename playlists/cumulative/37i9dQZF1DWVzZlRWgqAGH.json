@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "\ud83e\uddc8 Smooth joints. Cover: Masego",
+  "description": "\ud83e\uddc8 Smooth joints. Cover: Little Simz",
   "name": "BUTTER",
-  "published_playlist_ids": [
-    "6iBWJdwWthi80GH8IDHW0t"
-  ],
   "tracks": [
     {
       "album": {
@@ -9583,7 +9580,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 177653,
       "name": "No Reply",
       "url": "https://open.spotify.com/track/3K7WdPYz7vcHMCsyBjK9vL"
@@ -13712,6 +13709,24 @@
     },
     {
       "album": {
+        "name": "Love Money",
+        "url": "https://open.spotify.com/album/6Orz1ukWtOi9u2OW6lvE0K"
+      },
+      "artists": [
+        {
+          "name": "Ciara Leah",
+          "url": "https://open.spotify.com/artist/7FNnF6wVawmhhqUbwLGeo2"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270826,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/6owRPnezJsGhlbKfbRAfqi"
+    },
+    {
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/0qiYxeeoNcQUmRTWgjYwYj"
       },
@@ -15495,6 +15510,10 @@
         {
           "name": "Durand Jones & The Indications",
           "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         },
         {
           "name": "Aaron Frazer",

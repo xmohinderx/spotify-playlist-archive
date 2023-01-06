@@ -2,13 +2,13 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG?si=ZVCAsCCQQpGII03V3HGZpQ">Jakkie Louw</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6?si=p9dZjX6fSu6o7ycwpmwk7Q">Marissa</a>
 
-90 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/3e1GdHUgFT8NgWwl0UpVff)
+91 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 Uit 10](https://open.spotify.com/track/0Y8MPTdUEx4HKVSJKLu4Wl) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Die Onbekende](https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc) | 3:56 | 2022-11-10 |  |
+| [10 Uit 10](https://open.spotify.com/track/0Y8MPTdUEx4HKVSJKLu4Wl) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Die Onbekende](https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc) | 3:56 | 2022-11-10 | 2023-01-06 |
 | [110](https://open.spotify.com/track/0du9AbEce0kooBH5I6suvG) | [Margot](https://open.spotify.com/artist/3mNS0vt7TNS7yL6wfaksKf) | [110](https://open.spotify.com/album/26xPlVpw1qJcexaviUjYTU) | 3:09 | 2022-08-25 | 2022-10-07 |
 | [Afrika Son](https://open.spotify.com/track/6AmJU5Rtf7vXcubCYJitGa) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Afrika Son](https://open.spotify.com/album/2AeonSEurMMMp7nfCKoRg2) | 2:50 | 2022-09-01 | 2022-10-21 |
 | [As die Plaas Byt](https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [As die Plaas Byt](https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z) | 3:33 | 2022-10-20 |  |
@@ -93,6 +93,7 @@
 | [Vat Die Cruiser](https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jacques Du Plessis](https://open.spotify.com/artist/1JACnZftdau4Kpt0I8kvTA) | [Vat Die Cruiser](https://open.spotify.com/album/1kfAKry5OJsrxRQsKBX5s1) | 3:00 | 2022-12-08 |  |
 | [Vegter](https://open.spotify.com/track/1KK0U3XmxHyj5WYjARSxkv) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Vegter](https://open.spotify.com/album/1c7lGU1cP8l04hmOSAbCOC) | 3:46 | 2022-06-09 | 2022-10-07 |
 | [Vir Jou Geval](https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Vir Jou Geval](https://open.spotify.com/album/3XWL5eNy3Q2bSOjk9Pwfwx) | 4:02 | 2022-12-29 |  |
+| [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 | 2023-01-05 |  |
 | [Wanneer Laas](https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Wanneer Laas](https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL) | 2:42 | 2022-11-03 | 2022-11-18 |
 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 | 2022-09-08 | 2022-12-02 |
 | [Wat my Pa sou sê](https://open.spotify.com/track/05VXiNCJM3KMDekmOtquOq) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Wat my Pa sou sê](https://open.spotify.com/album/5FP9ioRvPrNL2LavCBjU70) | 2:56 | 2022-09-22 | 2022-11-04 |

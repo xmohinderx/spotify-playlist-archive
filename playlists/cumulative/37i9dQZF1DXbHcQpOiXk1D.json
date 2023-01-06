@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-01",
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
   "name": "Jazz UK",
-  "published_playlist_ids": [
-    "59EKsWawfSCVKzHCfwFtdU"
-  ],
   "tracks": [
     {
       "album": {
@@ -1457,7 +1454,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 188401,
       "name": "Did It Yesterday",
       "url": "https://open.spotify.com/track/1CB55jCLNOG1Ch11sttXJa"
@@ -5295,6 +5292,28 @@
       "duration_ms": 348000,
       "name": "Siesta (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/5Yrm1i3NX7r6ycWViSz7oh"
+    },
+    {
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT"
+      },
+      "artists": [
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"
     },
     {
       "album": {

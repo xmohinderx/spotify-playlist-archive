@@ -4,7 +4,7 @@
 
 > Music for all your adventures on Roblox\. Check out <a href="https://www.roblox.com/spotify">Spotify Island on Roblox</a> today.
 
-84 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/6Spjgi4rRpVJNBgerTy7Gs)
+84 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

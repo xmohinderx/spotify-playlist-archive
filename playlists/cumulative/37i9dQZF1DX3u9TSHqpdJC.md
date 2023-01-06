@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds Pop this year\. Cover: Olivia Knox \#SpotifyWrapped
 
-2,654 songs - 5 day 15 hr 40 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
+2,654 songs - 5 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

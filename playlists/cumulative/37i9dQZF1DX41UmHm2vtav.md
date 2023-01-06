@@ -4,7 +4,7 @@
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-157 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/0mYePZvO0R1lksRZVy4eTm)
+157 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

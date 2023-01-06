@@ -4,7 +4,7 @@
 
 > Take the afternoon off.
 
-122 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/64LGzR07zq6CmmON7Z6yjH)
+122 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

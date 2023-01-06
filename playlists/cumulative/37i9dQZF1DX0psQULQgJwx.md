@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA.
 
-104 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
+104 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

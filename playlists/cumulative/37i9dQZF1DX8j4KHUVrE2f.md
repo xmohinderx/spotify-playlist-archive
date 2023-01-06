@@ -4,7 +4,7 @@
 
 > Take a trip down memory lane with these noughties classics...
 
-241 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/7uZ8ufX0AtBMAQh2PQh2dv)
+241 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

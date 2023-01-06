@@ -4,7 +4,7 @@
 
 > A look back at some of the most impactful songs of 2017.
 
-133 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/3pXmTZBNpu2uGfP0OT5yh6)
+133 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

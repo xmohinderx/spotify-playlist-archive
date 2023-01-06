@@ -4,7 +4,7 @@
 
 > hairbrush as a microphone type songs.
 
-196 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/6PTJHBFUIOwc6BtLykSSy8)
+196 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-298 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/1WAyEUZtOSwZyUwFQKR52M)
+298 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

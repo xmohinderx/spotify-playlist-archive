@@ -4,7 +4,7 @@
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/53sjBaslS5oMykII3x7VVQ)
+55 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

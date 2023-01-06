@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,437 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,634 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,27 +86,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 76 | [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 |
 | 77 | [La Musique](https://open.spotify.com/track/7iyb4S0aR3dmvRTNn6dHKo) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Era](https://open.spotify.com/album/26pAoDv2hi7pjc6vcuIkiz) | 3:11 |
 | 78 | [Hot Chance](https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Sexy Times \(3rd Anniversary Edition\)](https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd) | 3:45 |
-| 79 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
+| 79 | [Virtual World](https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Virtual World](https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm) | 4:05 |
 | 80 | [Disco's Revenge](https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Disco's Revenge](https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq) | 1:20 |
-| 81 | [REFRESH](https://open.spotify.com/track/2rxb4x0lE8Wq8xA5tgeZ58) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [REFRESH](https://open.spotify.com/album/2JXsrhK7uJIXALgPEc8Qr5) | 2:12 |
-| 82 | [Cecile no Amagasa \(Version II\) \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/0105y2JAjha9xmJi9APSM5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [Mari Iijima \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/0p880y8z907ga4mFt4abRD) | 4:47 |
-| 83 | [Virtual World](https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Virtual World](https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm) | 4:05 |
+| 81 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
+| 82 | [REFRESH](https://open.spotify.com/track/2rxb4x0lE8Wq8xA5tgeZ58) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [REFRESH](https://open.spotify.com/album/2JXsrhK7uJIXALgPEc8Qr5) | 2:12 |
+| 83 | [Cecile no Amagasa \(Version II\) \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/0105y2JAjha9xmJi9APSM5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [Mari Iijima \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/0p880y8z907ga4mFt4abRD) | 4:47 |
 | 84 | [Knights](https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68) | [Bazz](https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr) | [Montaime, Vol\. 1](https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP) | 6:09 |
 | 85 | [SOULLL](https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg) | 2:56 |
 | 86 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
 | 87 | [Future Funk 2022](https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2022](https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL) | 3:05 |
 | 88 | [Stereo](https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Stereo](https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc) | 4:29 |
-| 89 | [This Is Just a Test](https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf) | [UniBe@t](https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg) | [This Is Just a Test](https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8) | 6:03 |
-| 90 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
-| 91 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
-| 92 | [Unlimited](https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Now That I Have You](https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4) | 2:54 |
+| 89 | [Unlimited](https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Now That I Have You](https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4) | 2:54 |
+| 90 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
+| 91 | [This Is Just a Test](https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf) | [UniBe@t](https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg) | [This Is Just a Test](https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8) | 6:03 |
+| 92 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
 | 93 | [Lynx](https://open.spotify.com/track/524FkjRzQa1CWYCpKrb6wV) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Lynx](https://open.spotify.com/album/4BCVAAm5eV08IVm2yISDN3) | 4:05 |
 | 94 | [First Season](https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [First Season](https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj) | 4:55 |
 | 95 | [What You Need](https://open.spotify.com/track/31GGop5dcxgwHupVB7RRyi) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Bae 5](https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM) | 2:41 |
 | 96 | [Funk Express](https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl) | [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Back By Popular Demand](https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2) | 1:50 |
 | 97 | [Stellae](https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Stellae](https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k) | 3:50 |
-| 98 | [DJ BFF Slideshow](https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD) | [The Phantom's Revenge](https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe) | [Mental Geller](https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT) | 5:48 |
-| 99 | [Show Me Your Moves](https://open.spotify.com/track/25uEVnvqRFy1q6aQ7Dvr3a) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Nautical Nonsense](https://open.spotify.com/album/3YbRlq4I7RN3UNTO8hNwAm) | 2:33 |
+| 98 | [Show Me Your Moves](https://open.spotify.com/track/25uEVnvqRFy1q6aQ7Dvr3a) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Nautical Nonsense](https://open.spotify.com/album/3YbRlq4I7RN3UNTO8hNwAm) | 2:33 |
+| 99 | [DJ BFF Slideshow](https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD) | [The Phantom's Revenge](https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe) | [Mental Geller](https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT) | 5:48 |
 | 100 | [Dancefloor Sneakers](https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [Beaches](https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y) | 2:08 |
 
-Snapshot ID: `MTY2NzU0MDI1MCwwMDAwMDAwMDhhNGYzYjk3NjE2MTY3OTlmN2Q3MmE0ODYyYjE5YTU0`
+Snapshot ID: `MTY2NzU0MDI1MCwwMDAwMDAwMGYzOWNiODg3YTg5MWY0NGUyYWQ2ODQxZjA0Y2ZmYWE0`

@@ -4,7 +4,7 @@
 
 > This is Ingrid Andress\. The essential tracks, all in one playlist.
 
-25 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/6fTFoLvYqXTEUu5EQdWQqj)
+25 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

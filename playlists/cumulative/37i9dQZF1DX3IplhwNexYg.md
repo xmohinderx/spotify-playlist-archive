@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Nilüfer Yanya
 
-338 songs - 19 hr 5 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+338 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/07aplnR92uNzWfsvMemABa)
+76 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

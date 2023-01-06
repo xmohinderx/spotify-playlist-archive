@@ -4,7 +4,7 @@
 
 > ¡Qué traigan más cheve que nos sobran copas!
 
-297 songs - 20 hr 23 min - [published](https://open.spotify.com/playlist/6nGPiIqbwjflRmLuBR8YY3)
+297 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

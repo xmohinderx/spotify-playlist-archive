@@ -4,7 +4,7 @@
 
 > East Africa Queens in their music bag
 
-78 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
+78 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

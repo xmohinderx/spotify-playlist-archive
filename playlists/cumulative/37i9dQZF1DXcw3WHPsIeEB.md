@@ -4,7 +4,7 @@
 
 > Progressive beats and harmonies for the late hours.
 
-60 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/1JHfEmSUyPHhf48VoBCtg6)
+60 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

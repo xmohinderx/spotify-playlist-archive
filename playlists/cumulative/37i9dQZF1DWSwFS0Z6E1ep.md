@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1950s\. Cover: Elvis.
 
-283 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/5d834Vfy0GpgZiax0dUN0t)
+283 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

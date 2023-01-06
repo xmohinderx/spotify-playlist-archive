@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-261 songs - 19 hr 28 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
+261 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Beginning](https://open.spotify.com/track/0LP368Un2yy06i9hLCig9N) | [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Piano](https://open.spotify.com/album/7yRzVFzD4b5aTWlXsFIm6k) | 4:38 | 2021-12-17 |  |
 | [Belt of Venus](https://open.spotify.com/track/051WPIDuWqgVGeb68Or5KO) | [Lynn Avery](https://open.spotify.com/artist/1sniKBvInfBWCIkzFMUshP), [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [To Live & Die In Space & Time](https://open.spotify.com/album/3gQqYnC4DbOrmnmPH51QPn) | 3:11 | 2022-02-24 | 2022-03-18 |
 | [Beneath It All](https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Beneath It All](https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs) | 2:51 | 2022-12-08 |  |
-| [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-11-11 |  |
+| [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-11-11 | 2023-01-06 |
 | [Birthday Song](https://open.spotify.com/track/6lPxHEHnSSey6zI4bdpe0s) | [Trygve Seim](https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8) | [Helsinki Songs](https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM) | 5:58 | 2021-12-17 | 2022-11-11 |
 | [Black meditation](https://open.spotify.com/track/76m6W5MNiQmspKUoReaIvN) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Black meditation](https://open.spotify.com/album/4YiFMgoiVVMLoEKk1RsIPM) | 3:58 | 2022-05-05 | 2022-05-26 |
 | [Blue in Green](https://open.spotify.com/track/7y2Se9fwns1AlQtwAIOVYk) | [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA) | [Insight](https://open.spotify.com/album/0pJDQV8lXMutpbweWhgCyq) | 6:22 | 2021-12-17 | 2022-10-08 |
@@ -58,7 +58,7 @@
 | [Deep As Love](https://open.spotify.com/track/2zLYr006x2323uleZZT1U2) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 5:54 | 2022-05-26 | 2022-10-07 |
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2022-11-11 |  |
 | [Distant Hearts](https://open.spotify.com/track/7qOoWH3cUsEMfqEGcT1muE) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Distant Hearts](https://open.spotify.com/album/1fbiWYWMGJF3yB4WmoqJNv) | 2:19 | 2022-11-24 |  |
-| [Doubt Thou the Stars](https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jonas Simonson](https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG), [Karin Nelson](https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV) | [Tantum](https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u) | 3:11 | 2021-12-17 | 2022-12-08 |
+| [Doubt Thou the Stars](https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jonas Simonson](https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG), [Karin Nelson](https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV) | [Tantum](https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u) | 3:11 | 2021-12-17 |  |
 | [Draw Near](https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Being There](https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS) | 3:51 | 2022-05-25 |  |
 | [Drifting](https://open.spotify.com/track/7coZuTH340U7sJKtTMsG93) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Drifting](https://open.spotify.com/album/0zS6U86mdHxv2w1AzJBFv2) | 4:01 | 2022-12-30 |  |
 | [Dry Water](https://open.spotify.com/track/3xQH8Wn7AaDIcQlK7itltB) | [Michel Bisceglia](https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC) | [Blue Bird](https://open.spotify.com/album/23k3ADRVxmy9EbEhmXnUsG) | 5:43 | 2022-09-15 | 2022-12-04 |

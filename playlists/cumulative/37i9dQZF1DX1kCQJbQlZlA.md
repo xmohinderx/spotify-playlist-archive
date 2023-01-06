@@ -4,7 +4,7 @@
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-102 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/2zCUYqbonj5e3RrsBlMytG)
+102 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

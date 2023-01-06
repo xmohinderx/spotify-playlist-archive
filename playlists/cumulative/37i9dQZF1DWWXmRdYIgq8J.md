@@ -4,7 +4,7 @@
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-94 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/3hJwIKMOemzG50G9c6UeZn)
+94 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

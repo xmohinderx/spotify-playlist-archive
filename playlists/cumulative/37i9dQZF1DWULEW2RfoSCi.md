@@ -4,7 +4,7 @@
 
 > A collection of the biggest soul tracks from the 1970s.
 
-154 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/1U8oAm40hMuZ5aAKe6Zzaz)
+154 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

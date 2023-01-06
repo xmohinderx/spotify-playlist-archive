@@ -4,7 +4,7 @@
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-96 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/1CYBz6V53XgiUSKHXNcFvJ)
+96 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-126 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/6vpFFxpgEbjdsljT6vUDSQ)
+126 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

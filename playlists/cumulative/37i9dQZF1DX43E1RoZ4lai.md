@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-389 songs - 1 day 10 hr 39 min - [published](https://open.spotify.com/playlist/1myRvVzCuNFZ2oz3g9ebfk)
+389 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ウタ/UTA from ONE PIECE FILM RED ©尾田栄一郎／2022「ワンピース」製作委員会
 
-358 songs - 1 day 0 hr 47 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
+360 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [BEYOND THE TIME \~メビウスの宇宙を越えて\~ / with TM NETWORK](https://open.spotify.com/track/0fjjznHpfbPcRdBDqfkhnk) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [BEYOND THE TIME \~メビウスの宇宙を越えて\~ / with TM NETWORK](https://open.spotify.com/album/0C1FHJuqDP34JuFzXzrqTZ) | 5:36 | 2022-06-14 | 2022-06-21 |
 | [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 | 2022-09-20 |  |
 | [Bitter Sweet Harmony](https://open.spotify.com/track/4pY7Ls1vq65efdZfZaNn69) | [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [30 pieces of love \-selection\-](https://open.spotify.com/album/33L48U5bNYik44z86Zf9ah) | 4:34 | 2022-06-24 | 2022-07-03 |
+| [Blue Velvet \- From CrosSing](https://open.spotify.com/track/1stcaK4Jiau9TzqkxujW8C) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- From CrosSing](https://open.spotify.com/album/6mjKUEAq098eWWgu5qze1Q) | 3:54 | 2023-01-05 |  |
 | [Brand new diary](https://open.spotify.com/track/47RAi35e2x9JfDVUfo1mJz) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [世界が晴れたら](https://open.spotify.com/album/5JAaO4GOtFc0tMJ41El23S) | 4:09 | 2022-06-14 | 2022-07-29 |
 | [Broken Sky](https://open.spotify.com/track/4J6TEcIeIwEv09w7CAbmfY) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Prologue](https://open.spotify.com/album/2SQ8nT5gWerN2GcXd5kokB) | 3:54 | 2022-06-09 | 2022-07-24 |
 | [Canary Yellow](https://open.spotify.com/track/7KDZ7v5hHAAEHNvwT6Dhhg) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Canary Yellow](https://open.spotify.com/album/3Ee1rvSUA8iX5QhqiclAix) | 3:38 | 2022-06-24 | 2022-07-28 |
@@ -57,6 +58,7 @@
 | [endless voyage](https://open.spotify.com/track/1m8muBoMgbBwSLFxx7SwMC) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite synthesis 6](https://open.spotify.com/album/6hlFraRfE4BTmC3idbon6H) | 5:04 | 2022-06-21 | 2022-07-29 |
 | [ENJOY IT!](https://open.spotify.com/track/0tgisyzU6IT2FRLtoTJuM7) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [ENJOY IT!](https://open.spotify.com/album/2iVFzFSdX4eEyOVVvXI7SN) | 4:13 | 2022-06-14 | 2022-07-11 |
 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 | 2022-07-07 | 2022-07-20 |
+| [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 | 2023-01-05 |  |
 | [Fiction](https://open.spotify.com/track/0LT1FJrmhPalsd2OVQwu49) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Fiction](https://open.spotify.com/album/04sFbywbBnpQwZpcdyLBf4) | 4:03 | 2022-07-07 | 2022-07-16 |
 | [Fightin Pose](https://open.spotify.com/track/2pZ5eJYGW9T8Gd3vwyOLl4) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Fightin Pose](https://open.spotify.com/album/2pNXhWFgPcxYp8N5GAL7Ro) | 3:48 | 2022-07-07 | 2022-07-18 |
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-06-14 | 2022-07-25 |
@@ -68,7 +70,7 @@
 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 | 2022-06-12 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/4O0WiQ8T3Kxv0Tq6xxTDKj) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/2eBuJfQEdp3hhFG2ej0sL0) | 2:56 | 2022-06-21 | 2022-07-27 |
 | [Good Night](https://open.spotify.com/track/2Aeq6X8PmiZrzdC5WptzIL) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Play the world](https://open.spotify.com/album/4mnu3y4nJjpnT24fRUPlMD) | 3:57 | 2022-06-09 | 2022-07-26 |
-| [Gotoubun no Katachi](https://open.spotify.com/track/32nW0L3AHrEasXxB4y4kt4) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Katachi / Hatsukoi \(Special Edition\)](https://open.spotify.com/album/0GIm93uEvIAQ75FCTXCkUL) | 4:03 | 2022-11-19 |  |
+| [Gotoubun no Katachi](https://open.spotify.com/track/32nW0L3AHrEasXxB4y4kt4) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Katachi / Hatsukoi \(Special Edition\)](https://open.spotify.com/album/0GIm93uEvIAQ75FCTXCkUL) | 4:03 | 2022-11-19 | 2023-01-06 |
 | [Gの閃光 / with 押尾コータロー](https://open.spotify.com/track/3QcZlflQbuxoiL9NrnoK0c) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [GUNDAM SONG COVERS 3](https://open.spotify.com/album/6u752tmdWcBCcCmsgHqF8W) | 3:39 | 2022-07-07 | 2022-07-14 |
 | [Hajimari no Sign](https://open.spotify.com/track/0gDwPtNkiPPMvnfPddX9AG) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [Hajimari no Sign](https://open.spotify.com/album/4ARKEbQec1IrJdYfzUHp7V) | 4:35 | 2022-06-09 | 2022-07-18 |
 | [HELLO](https://open.spotify.com/track/54hxy2o48DD270KUt21Fp4) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [鈴木このみ5thアルバム「ULTRA FLASH」](https://open.spotify.com/album/6ZnPbcPpRkomKi28gJ1R8o) | 3:12 | 2022-06-09 | 2022-07-28 |
@@ -145,7 +147,7 @@
 | [Sign](https://open.spotify.com/track/3pUeCDzHNM0yHN0FoPEadN) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Ephemera](https://open.spotify.com/album/4sZTfQPwOERRFZJ75QZgsO) | 3:53 | 2022-06-12 | 2022-06-15 |
 | [Silky Heart](https://open.spotify.com/track/3qwaCcjR2r977dmeNHsyWt) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Best Album](https://open.spotify.com/album/0Dn3MxWI1u4fzRtXX955MD) | 3:58 | 2022-06-14 | 2022-06-19 |
 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 | 2022-06-09 |  |
-| [Skyreach](https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Various BLUE](https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0) | 4:28 | 2022-08-02 |  |
+| [Skyreach](https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Various BLUE](https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0) | 4:28 | 2022-08-02 | 2023-01-06 |
 | [Snow Tears](https://open.spotify.com/track/01zfaWg8i0Xpg0oCnU6bvU) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Day of Bright Sunshine](https://open.spotify.com/album/4XapCPKTWCYcIEXoWsfguK) | 4:30 | 2022-07-07 | 2022-07-24 |
 | [So Sweet](https://open.spotify.com/track/32UKoNWChyyojIoPBKY4UA) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [So Sweet Dolce](https://open.spotify.com/album/0LBVqFA75oXV4giQAMmXO6) | 3:54 | 2022-06-09 | 2022-07-24 |
 | [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-09 |  |

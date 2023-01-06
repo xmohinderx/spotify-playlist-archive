@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Nivel Codiciado & José Mejía
 
-273 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
+273 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

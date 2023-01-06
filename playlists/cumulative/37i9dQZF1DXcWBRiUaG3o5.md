@@ -4,7 +4,7 @@
 
 > Keep your night easy and light with this acoustic mix.
 
-212 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/0M0Cs9qzLAasLW0h17eQAb)
+212 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

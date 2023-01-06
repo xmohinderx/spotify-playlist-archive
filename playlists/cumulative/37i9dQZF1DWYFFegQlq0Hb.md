@@ -4,7 +4,7 @@
 
 > TVアニメ<a href="https://jujutsukaisen.jp/">「呪術廻戦」</a> の公式プレイリスト。OP/ED曲、<a href="spotify:show:24s1gq2QNlYGwGLpGYYDuS">「呪術廻戦 じゅじゅとーく＋オーディオコメンタリー」</a>」ポッドキャストを合わせてチェック！ / "You should use your strength to help others." \- Enjoy music and podcast from Jujutsu Kaisen!
 
-104 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/3fNCm9FWFIDEF8bSjQH4mp)
+104 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

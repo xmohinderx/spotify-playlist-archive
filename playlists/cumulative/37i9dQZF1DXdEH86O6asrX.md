@@ -4,7 +4,7 @@
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-168 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/3aN5jpBdtu5i0Yw4idYp92)
+168 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

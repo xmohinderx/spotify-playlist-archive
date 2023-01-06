@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-360 songs - 19 hr 0 min - [published](https://open.spotify.com/playlist/2vm7Zsmtx3aOQOSoSAckj2)
+360 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Feline\-friendly tracks curated by musicologist <a href="spotify:artist:0TMyZy9NGJJ7NKMAgCgw6B">David Teie</a>, who pioneered scientifically researched music for cats.
 
-36 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/3aC2CwoMZV4vaqzE3DlaQB)
+36 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

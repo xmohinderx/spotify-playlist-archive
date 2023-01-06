@@ -4,7 +4,7 @@
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  DOE
 
-232 songs - 20 hr 7 min - [published](https://open.spotify.com/playlist/6tbQcvssGqLrTKMvWwo62Y)
+232 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

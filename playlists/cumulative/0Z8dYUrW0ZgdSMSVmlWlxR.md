@@ -4,7 +4,7 @@
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-272 songs - 13 hr 15 min - not published yet
+272 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [ADSR](https://open.spotify.com/track/0CBw2LuhpttdZJs2ICrnlS) | [Jigokü](https://open.spotify.com/artist/5GjXaxXdUpnbmqp5woEoNn) | [ADSR](https://open.spotify.com/album/5EkbfMQqa0QKBIZ1P3ZXd3) | 3:57 | 2022-08-10 |  |
 | [akatsuki.exe \- Remix](https://open.spotify.com/track/27Y5mRGHTn6klxTy5b1QYN) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [Prompto](https://open.spotify.com/artist/55l8XOO8frgVTbpedazbWo) | [akatsuki.exe \(Remix\)](https://open.spotify.com/album/0tvJRRoODCo8LzaxMd5kBU) | 4:24 | 2022-08-13 |  |
 | [Akudama](https://open.spotify.com/track/3coeo9H305LiuDbXXn9ANe) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [A Quiet Place to Die](https://open.spotify.com/album/5lhJd031Bu6j42O8wnXWIc) | 2:37 | 2022-04-28 |  |
-| [alone](https://open.spotify.com/track/4DOQULDZcy6W3mNKtuAZpz) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [alone](https://open.spotify.com/album/6io6hr34sIRqIuyqvvO2LT) | 2:34 | 2022-07-28 |  |
+| [alone](https://open.spotify.com/track/4DOQULDZcy6W3mNKtuAZpz) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [alone](https://open.spotify.com/album/6io6hr34sIRqIuyqvvO2LT) | 2:34 | 2022-07-28 | 2023-01-06 |
 | [Alpha](https://open.spotify.com/track/34suMP5fG78QH2hnM0RaG1) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44) | [Alpha](https://open.spotify.com/album/6RaQu9rUDZhkwV0wE9SINC) | 4:07 | 2022-02-15 |  |
 | [Anavar](https://open.spotify.com/track/4C2R8S3ml3ySAhCdknVJUg) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Anavar](https://open.spotify.com/album/0308pmZBknBPgx0LxON0P9) | 2:38 | 2022-01-29 |  |
 | [ANUBIS](https://open.spotify.com/track/4MAchystlBBEC4oRUL0MhH) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Netuh](https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG) | [ANUBIS](https://open.spotify.com/album/3N8ejH1nfopZNW9xDihd6Y) | 1:55 | 2022-08-17 |  |
@@ -98,7 +98,7 @@
 | [Glimmer of Hope](https://open.spotify.com/track/7fexuK3DlpbjESFLcZ0x72) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44) | [Obsidian](https://open.spotify.com/album/4NjzT0M53EYxCiohsgis7E) | 2:56 | 2022-01-21 |  |
 | [GO](https://open.spotify.com/track/24ZOBY63E4pRiTrzVc0PcR) | [Urbanstep](https://open.spotify.com/artist/3Qq4056RMPoY5ehQrpNeVi) | [GO](https://open.spotify.com/album/3hWGhQcQswGoWrkU5Wp9Le) | 3:46 | 2022-10-02 |  |
 | [Go on, Apologize \(Motivational\)](https://open.spotify.com/track/0rfc4fKlH07VwcV3fSrRW9) | [Yunyakosva](https://open.spotify.com/artist/6Rb96f9TkQqMWLgaqey5tR) | [Go on, Apologize \(Motivational\)](https://open.spotify.com/album/6xVTnqLru4uqzZk1IPsCrz) | 2:10 | 2022-10-21 |  |
-| [god hand](https://open.spotify.com/track/0HGECa00DSlKfg13Ywt0Pc) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx), [Yunyakosva](https://open.spotify.com/artist/6Rb96f9TkQqMWLgaqey5tR) | [god hand](https://open.spotify.com/album/4ll7Rvn1nGyOiKhyS6v9E3) | 2:21 | 2022-07-21 |  |
+| [god hand](https://open.spotify.com/track/0HGECa00DSlKfg13Ywt0Pc) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx), [Yunyakosva](https://open.spotify.com/artist/6Rb96f9TkQqMWLgaqey5tR) | [god hand](https://open.spotify.com/album/4ll7Rvn1nGyOiKhyS6v9E3) | 2:21 | 2022-07-21 | 2023-01-06 |
 | [Godzilla](https://open.spotify.com/track/7L52h9YbvJkZFJhluqOXfh) | [Free Flow Flava](https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ) | [Midnight XIII](https://open.spotify.com/album/0VpniLj1NcVMkQZKeo7ayW) | 2:42 | 2022-02-09 |  |
 | [Graveyard Phonk](https://open.spotify.com/track/2tzijRI9adcPew2ZvkMrWn) | [DeadJxhn](https://open.spotify.com/artist/1j9UZJ4ZN298RsP5rWtLGK), [Yavomag](https://open.spotify.com/artist/7n0FLC0AmAsdOb30OAzRzz) | [Graveyard Phonk](https://open.spotify.com/album/3QYZjiEmXo0cz525vVABlr) | 2:25 | 2022-02-15 |  |
 | [Grievous Lady \-nothing is but what is not\-](https://open.spotify.com/track/5PkOQiyGkfrW2ZEMSSZdoU) | [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa), [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Arcaea Sound Collection: Memories of Conflict](https://open.spotify.com/album/45slopREa0Xk7yxQGrDxrn) | 6:00 | 2022-03-14 |  |

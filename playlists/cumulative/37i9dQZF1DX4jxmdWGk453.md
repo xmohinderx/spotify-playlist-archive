@@ -4,7 +4,7 @@
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-57 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/53jXBm1qBD5ykfWKmQYFAY)
+57 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

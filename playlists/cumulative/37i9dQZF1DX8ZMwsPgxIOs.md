@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Carl Cox
 
-159 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/5s19c9YN7LAmpSImXIMXhT)
+159 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-75 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/79QmEbB0xiRT4xmUcdumGe)
+75 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

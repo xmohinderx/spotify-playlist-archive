@@ -4,7 +4,7 @@
 
 > Aquí está tu próximo podcast favorito.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/1LfMYnGydB0HZxEkzyqQ6e)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

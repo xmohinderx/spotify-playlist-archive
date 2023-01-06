@@ -4,7 +4,7 @@
 
 > 
 
-40 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/7f23olFojXNqT2XCHIpANY)
+40 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

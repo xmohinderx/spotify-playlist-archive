@@ -4,7 +4,7 @@
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-87 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/0K1q36ekheqewhgP75p016)
+87 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

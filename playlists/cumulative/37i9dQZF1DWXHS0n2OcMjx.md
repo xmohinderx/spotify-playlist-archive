@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-189 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
+189 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

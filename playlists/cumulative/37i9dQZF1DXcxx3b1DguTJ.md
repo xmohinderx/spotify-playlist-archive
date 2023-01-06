@@ -4,7 +4,7 @@
 
 > Grandes clásicos del pop en español\. ¡Todo limpio y ordenado!
 
-77 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/5BZpjfAsenVsYue4wUAkkk)
+77 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

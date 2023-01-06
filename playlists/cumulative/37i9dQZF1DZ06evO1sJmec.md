@@ -4,7 +4,7 @@
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-63 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/2UDQg6CBJ0wKx3atlNxXRx)
+63 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

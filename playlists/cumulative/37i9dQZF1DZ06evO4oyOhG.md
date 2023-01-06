@@ -4,7 +4,7 @@
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/2SpHtSX2j1FtmOf5J7jAfu)
+65 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ">Xhanthi Nokwali</a>
 
-93 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
+93 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

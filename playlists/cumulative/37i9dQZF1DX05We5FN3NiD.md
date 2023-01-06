@@ -4,7 +4,7 @@
 
 > 2019 highlights from the home of indie music.
 
-120 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/4pANmKCSBoyjeOGG047kTr)
+120 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

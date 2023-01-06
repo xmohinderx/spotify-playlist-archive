@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-171 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+171 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

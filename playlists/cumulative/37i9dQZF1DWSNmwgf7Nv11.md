@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-276 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+276 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/3HuRNar3SDFartpoMja17I)
+55 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

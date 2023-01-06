@@ -4,7 +4,7 @@
 
 > se acabó todo 💔
 
-83 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/10dOy7ussxv3SPnsuowUMH)
+83 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

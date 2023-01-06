@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: クレナズム\(Culenasm\)
 
-723 songs - 1 day 22 hr 27 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+724 songs - 1 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [My Christmas](https://open.spotify.com/track/7DgCQCALmT9lrG0lqHzX67) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [My Christmas / Dear My Dependence](https://open.spotify.com/album/4lg2LC4SYjgk5IqbUKXGEB) | 3:15 | 2022-12-07 | 2022-12-30 |
 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 | 2022-11-01 |  |
 | [Myself](https://open.spotify.com/track/6goPRfxzG4tcPXOf0xcp9w) | [POLTA](https://open.spotify.com/artist/7AcpgsXKOWvTvlYmEJlw6X) | [Myself](https://open.spotify.com/album/7jAjFZgPDcFSvibxfCTSGp) | 3:21 | 2022-06-07 | 2022-07-15 |
+| [Natural](https://open.spotify.com/track/6jORyuT0NO71bNeQgwcdAi) | [AQMO](https://open.spotify.com/artist/6fQQ8G7xptjlxYPLY7Lvuy) | [Natural / Sabotage](https://open.spotify.com/album/2qqTrHWRm4zSEWNQW39d2E) | 2:06 | 2023-01-05 |  |
 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 | 2022-09-15 |  |
 | [No kidding!](https://open.spotify.com/track/4XXGl9kXNXGIOexdZpL9MK) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [No kidding!](https://open.spotify.com/album/2hNCne7EoaNLmj2KOpM4La) | 2:14 | 2022-06-02 | 2022-07-24 |
 | [NO SWEAT](https://open.spotify.com/track/7qNKOY7KThQExK66yIi4Dj) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [NO SWEAT](https://open.spotify.com/album/7mukzXWGZe0qrnwQ0QK4WE) | 2:18 | 2022-07-28 | 2022-08-18 |
@@ -530,7 +531,7 @@
 | [ワンオブゼム](https://open.spotify.com/track/1ZzkN4Rgd3PpRBW073yDT2) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [日記を燃やして](https://open.spotify.com/album/1mE37cesFslJwiZSUp0Ny9) | 4:12 | 2022-05-31 | 2022-06-03 |
 | [上出来](https://open.spotify.com/track/4rhZquDmNb9mIjzga90x2p) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [上出来](https://open.spotify.com/album/1nUwhyn08TSd7Ibg6EWPmv) | 3:03 | 2022-06-02 | 2022-06-23 |
 | [下恋心](https://open.spotify.com/track/5fcjL0rdKAAJvFiwyotkDM) | [VOLOMUSIKS](https://open.spotify.com/artist/5gBPLClN3Jo2oU8itZFSiq) | [下恋心](https://open.spotify.com/album/7AAdGIuBm98YIyUUWxgocU) | 4:10 | 2022-06-02 | 2022-07-11 |
-| [不幸アレ](https://open.spotify.com/track/0dm0mktu535ZorIOqy1v61) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [不幸アレ](https://open.spotify.com/album/0gBxUBo9uOVqrQJfCiH94g) | 4:02 | 2022-11-01 |  |
+| [不幸アレ](https://open.spotify.com/track/0dm0mktu535ZorIOqy1v61) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [不幸アレ](https://open.spotify.com/album/0gBxUBo9uOVqrQJfCiH94g) | 4:02 | 2022-11-01 | 2023-01-06 |
 | [不知道](https://open.spotify.com/track/2yZfzw8zSKZYnLStFWsyRb) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [再見/不知道](https://open.spotify.com/album/2J9QlKXQs3U308jRjMxUFW) | 4:38 | 2022-06-02 | 2022-07-20 |
 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 | 2022-07-28 | 2022-12-14 |
 | [予測不能の一秒先も濁流みたいに愛してる](https://open.spotify.com/track/657As4T0b2jCoQdFemM0rs) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [予測不能の1秒先も濁流みたいに愛してる](https://open.spotify.com/album/4O6a6o4144MXUXETY2Rp08) | 3:28 | 2022-06-16 | 2022-06-27 |

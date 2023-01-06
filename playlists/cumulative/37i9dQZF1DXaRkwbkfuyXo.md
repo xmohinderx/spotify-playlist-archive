@@ -4,7 +4,7 @@
 
 > Seguimos arremangados, pariente\. Voz de Mando en portada.
 
-112 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/6WRQ2rQiGlhp2WfZktq7QQ)
+112 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

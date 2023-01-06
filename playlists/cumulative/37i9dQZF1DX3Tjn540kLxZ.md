@@ -4,7 +4,7 @@
 
 > all\-day bops you can always rely on ◡̈
 
-378 songs - 21 hr 19 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
+378 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

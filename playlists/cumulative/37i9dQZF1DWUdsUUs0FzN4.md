@@ -4,7 +4,7 @@
 
 > Bienvenidxs al mundo del bellaqueo, con Uzielito Mix.
 
-106 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/6uhnpN8l70O9yI67E5CkB2)
+106 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your favorite Latin anthems to get the party started!<br/>Cover: Daddy Yankee, Marc Anthony
 
-205 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/0TAQH4Jakv4zY6thS25wWp)
+205 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

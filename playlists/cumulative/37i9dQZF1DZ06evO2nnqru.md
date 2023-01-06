@@ -4,7 +4,7 @@
 
 > This is Marca MP\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/47goMATczW5EiQYFKhWMw6)
+70 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

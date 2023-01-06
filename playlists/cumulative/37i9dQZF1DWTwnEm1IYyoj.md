@@ -4,7 +4,7 @@
 
 > Warm familiar pop you know and love\. Cover: John Legend
 
-366 songs - 22 hr 51 min - [published](https://open.spotify.com/playlist/7Bn49z5p4CqoX5mpg2CICH)
+366 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

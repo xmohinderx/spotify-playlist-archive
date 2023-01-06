@@ -4,7 +4,7 @@
 
 > Walk down memory lane with the biggest rock anthems.
 
-197 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/13V9mZMYjLKEbPVfGupxWK)
+197 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

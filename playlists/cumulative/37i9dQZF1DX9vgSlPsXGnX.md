@@ -4,7 +4,7 @@
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-129 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/4SS0zxKg1zqnt4ItXfPUcF)
+129 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

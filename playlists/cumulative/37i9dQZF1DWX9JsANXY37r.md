@@ -4,7 +4,7 @@
 
 > Conforto para beber gin tônica, mojito ou caipirinha sem precisar levantar do sofá.
 
-220 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/1auBputQiLOUbjD4e5chlL)
+220 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

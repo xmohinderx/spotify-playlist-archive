@@ -4,7 +4,7 @@
 
 > Groove to the rhythm of OPM's R&B tunes\. Cover: Jason Dhakal
 
-88 songs - 5 hr 23 min - not published yet
+88 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

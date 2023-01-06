@@ -4,7 +4,7 @@
 
 > Música navideña para las fiestas decembrinas\. Foto: Nuevo Elemento
 
-101 songs - 5 hr 29 min - not published yet
+101 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

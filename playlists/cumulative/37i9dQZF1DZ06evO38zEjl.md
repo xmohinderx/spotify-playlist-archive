@@ -4,7 +4,7 @@
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-84 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/5utu6NSDQOYS6yo7sj1Zvx)
+84 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

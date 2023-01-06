@@ -4,7 +4,7 @@
 
 > Where everything is lovely and snuggly <3
 
-212 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/3OzAg60NrwMQPfMtLjUuRG)
+212 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Clásicas románticas, melodiosas, apacibles.
 
-80 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/2Snu25HjMZnX4NZH84ha5a)
+80 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-214 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
+214 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: India Martínez.
 
-496 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
+496 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

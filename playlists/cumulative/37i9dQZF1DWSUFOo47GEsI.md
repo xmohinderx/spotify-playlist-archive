@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-332 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
+332 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

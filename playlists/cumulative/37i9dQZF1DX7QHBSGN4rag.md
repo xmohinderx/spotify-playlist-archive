@@ -4,7 +4,7 @@
 
 > 情人節有麗英@小薯茄為你揀選情歌單《擁抱單身的你》，單拖過節有我哋陪你呀！
 
-28 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/409HG9KCfm92kp9zwDqTlA)
+28 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

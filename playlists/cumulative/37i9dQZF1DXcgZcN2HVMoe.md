@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-675 songs - 1 day 16 hr 18 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+676 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-12-17 |  |
 | [Everything I Know About Love](https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:29 | 2022-07-29 |  |
 | [Everything I Know About Love](https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC) | 3:29 | 2022-07-22 | 2022-10-13 |
-| [everything i wanted](https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 4:34 | 2021-12-17 |  |
+| [everything i wanted](https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 4:34 | 2021-12-17 | 2023-01-06 |
 | [Everywhere I'm Goin' \(featuring Avenue Beat\)](https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 3:27 | 2021-12-17 | 2022-04-21 |
 | [Exhale \- Acoustic](https://open.spotify.com/track/0dY1EGwJi07EHmDr1qwyG0) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Exhale \(Acoustic\)](https://open.spotify.com/album/6iUYug744pXKrAk45VGcuq) | 2:36 | 2022-01-24 | 2022-04-20 |
 | [Extraordinary Life](https://open.spotify.com/track/5uzobcG3nuWj4MU6CBaHfd) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/5h81iCjTwueeh5ZbDGhU9V) | 3:41 | 2021-12-17 | 2022-07-29 |
@@ -352,7 +352,7 @@
 | [Lights of Los Angeles](https://open.spotify.com/track/39bPID980Tjn3xmlAGLp6d) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Lights of Los Angeles](https://open.spotify.com/album/0Hqei8dyLO2nGMXul7mxZI) | 3:42 | 2022-01-24 | 2022-04-19 |
 | [Like a Hurricane](https://open.spotify.com/track/2WVEq2fMfSYISTrqafVjUo) | [Francesca Blanchard](https://open.spotify.com/artist/5nr9aC1q4Iu3i4hYOiRiNf) | [Make It Better](https://open.spotify.com/album/5Qk8gWfUfjEBFkKllNyav5) | 3:30 | 2021-12-17 | 2022-01-19 |
 | [Like I Used To \- Acoustic Version](https://open.spotify.com/track/53GeeseR2mm7yjGIJCNvvq) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To \(Acoustic Version\)](https://open.spotify.com/album/7uHg8PgXRvRgrzSscVAZ6M) | 4:01 | 2022-01-24 | 2022-04-20 |
-| [Liquid Love](https://open.spotify.com/track/20f37PJbRwppnrX861JwDF) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:11 | 2021-12-17 |  |
+| [Liquid Love](https://open.spotify.com/track/20f37PJbRwppnrX861JwDF) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:11 | 2021-12-17 | 2023-01-06 |
 | [Listen Up](https://open.spotify.com/track/0g4v8zDxXSCwXZvae6dfQg) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Listen Up](https://open.spotify.com/album/1I1Ahe6u0yNUj0OCfgrsGr) | 3:10 | 2022-01-24 | 2022-04-17 |
 | [Little Bit Better](https://open.spotify.com/track/5Keeju9Yx1xM7r771Ex7OY) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Little Bit Better](https://open.spotify.com/album/3mJeHXa94CyEOHoMLRypwd) | 4:17 | 2022-01-24 | 2022-04-20 |
 | [Little Marks](https://open.spotify.com/track/2muCD2b8lL3LEFd6rAXoYc) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Little Marks](https://open.spotify.com/album/5JSZFsEwC6JJap7DaYJt5M) | 2:49 | 2022-01-24 | 2022-04-21 |
@@ -387,7 +387,7 @@
 | [Mentiras Con Cariño](https://open.spotify.com/track/68S4gw8NT6Tf1IbGrIftLj) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Mentiras Con Cariño](https://open.spotify.com/album/0Ug12AyGyXXxK7iHKHXmcC) | 3:48 | 2022-04-01 | 2022-05-20 |
 | [Mercy](https://open.spotify.com/track/0s5qyDeL5KqWoBP4xRnse7) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:12 | 2022-01-24 | 2022-04-18 |
 | [Mercy](https://open.spotify.com/track/2HA6R2XOV9jBwXkdOTfsWK) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Yard Sale](https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A) | 4:02 | 2021-12-17 | 2022-07-29 |
-| [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 | 2022-06-29 | 2022-11-13 |
+| [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 | 2022-06-29 |  |
 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 | 2021-12-17 | 2022-12-13 |
 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 | 2022-01-24 | 2022-04-14 |
 | [Million Miles](https://open.spotify.com/track/59sSH85je4qJRCyIboqOR2) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Million Miles](https://open.spotify.com/album/4RHxgP4R7BHtyLb1WLMO2N) | 3:12 | 2022-01-24 | 2022-04-19 |
@@ -585,6 +585,7 @@
 | [The Open Road](https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1woKCA8dTokL647kKXySq6) | 3:20 | 2021-12-17 | 2022-07-28 |
 | [The Open Road](https://open.spotify.com/track/2Dj9OOoQHG5f0jlL5vt7Ve) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96) | 3:20 | 2022-07-22 |  |
 | [The Other Side](https://open.spotify.com/track/2XyhWiLdaahhkjFFKQp1nM) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW) | [The Other Side](https://open.spotify.com/album/72bvcFQW3waAmfR4YTBtWX) | 3:53 | 2021-12-17 | 2022-11-26 |
+| [The Other Side](https://open.spotify.com/track/3tYAfLlWTekl6vCp5viAj4) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW) | [The Other Side](https://open.spotify.com/album/0UyDij8GOVajgiMBrVKOH5) | 3:53 | 2022-07-29 |  |
 | [The Pool](https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Pool](https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t) | 4:02 | 2022-07-29 |  |
 | [The Pool](https://open.spotify.com/track/3PXbcti7P1ZekivSWu48A3) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Pool](https://open.spotify.com/album/3yx7FdDCtxXE7zQeGWCgwj) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [The Right Thing Is Hard To Do](https://open.spotify.com/track/6mBg5msp0A14K7VfbTY272) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [A Color of the Sky](https://open.spotify.com/album/5XgsP1RlwCnPU8f3NuoY2K) | 3:46 | 2022-01-24 | 2022-04-21 |

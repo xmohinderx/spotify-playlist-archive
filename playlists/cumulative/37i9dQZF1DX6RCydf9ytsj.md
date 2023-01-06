@@ -4,7 +4,7 @@
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-206 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/5zYDQkCJi1ELDVkzWoTLTr)
+206 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

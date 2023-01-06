@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Omeretta The Great
 
-256 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
+256 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

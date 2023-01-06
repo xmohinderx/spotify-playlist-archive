@@ -4,7 +4,7 @@
 
 > The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride\. Cover: Lady Gaga & Ariana Grande
 
-130 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/2k3Js1aEal97We8PPic6Wk)
+130 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

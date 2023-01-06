@@ -4,7 +4,7 @@
 
 > Taking it back to the 2010s\. Cover: Chief Keef
 
-586 songs - 1 day 10 hr 44 min - [published](https://open.spotify.com/playlist/0NVnLMZLWX74QAANrVArj1)
+586 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

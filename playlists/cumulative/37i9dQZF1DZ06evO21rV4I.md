@@ -4,7 +4,7 @@
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/3NgCcemLv1S1XcSzkm8aIh)
+90 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Come Closer \(feat\. Drake\)](https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:31 | 2021-12-28 |  |
 | [Cool Me Down \(feat\. Wizkid\)](https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cool Me Down \(feat\. Wizkid\)](https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM) | 3:28 | 2022-09-10 |  |
 | [Daddy Yo](https://open.spotify.com/track/2hKLu5akQZ9BbrCQVXM2cZ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 2:40 | 2021-12-28 | 2022-11-13 |
-| [Deep](https://open.spotify.com/track/5iTsvRTl65FFgqZZLNLEOC) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 2:34 | 2022-11-12 |  |
+| [Deep](https://open.spotify.com/track/5iTsvRTl65FFgqZZLNLEOC) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 2:34 | 2022-11-12 | 2023-01-06 |
 | [Dirty Wine \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/47AMYhY7w49L3rv6UZdlXV) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:01 | 2021-12-29 | 2022-07-29 |
 | [Dis Love](https://open.spotify.com/track/4yF6ykrqb0iDtMjPtQMG8O) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Grace](https://open.spotify.com/album/5POlBPtjdKCxmJQBXw191I) | 2:35 | 2022-01-16 |  |
 | [Don't Dull](https://open.spotify.com/track/6C6xlP5zYRhYSNI5ORl6Wd) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 4:39 | 2021-12-28 | 2022-06-12 |
@@ -66,7 +66,8 @@
 | [Mamacita \(feat\. Wizkid\)](https://open.spotify.com/track/5lZ8wDFNEFnFq3ahC08yBX) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Mamacita \(feat\. Wizkid\)](https://open.spotify.com/album/5MLHZ8Z3GltBClK999iEEb) | 3:39 | 2021-12-28 | 2022-10-13 |
 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 | 2022-08-29 |  |
 | [Master Groove](https://open.spotify.com/track/6NynQjhojcFZ9iYhuezO6B) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Master Groove](https://open.spotify.com/album/6533uOhO0WDdMzgsd8LWyK) | 2:59 | 2021-12-29 | 2022-10-13 |
-| [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-29 |  |
+| [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-29 | 2023-01-06 |
+| [Money & Love](https://open.spotify.com/track/213Ymlnss7DUsqG7Ut1HW0) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:11 | 2023-01-05 |  |
 | [Mood \(feat\. BNXN\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 | 2021-12-28 |  |
 | [My Love \(feat\. Major Lazer, WizKid, Dua Lipa\)](https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:48 | 2021-12-28 |  |
 | [Naughty Ride \(feat\. Major Lazer\)](https://open.spotify.com/track/0erJdrkQUJlA7nbtn1qxQR) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:12 | 2021-12-28 | 2022-10-13 |

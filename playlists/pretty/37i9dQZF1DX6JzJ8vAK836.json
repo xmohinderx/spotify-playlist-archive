@@ -1,12 +1,12 @@
 {
   "description": "Prince was a true original and earth-shattering performer. Hear Prince Rogers Nelson best right now.",
-  "num_followers": 757543,
+  "num_followers": 757686,
   "original_name": "This Is Prince",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDE1NjI4MSwwMDAwMDAwMDMyYmM1YjIyMTQ2NzU4YjBlYWU4YmM4ZTYyNWVlNTY3",
+  "snapshot_id": "MTY3Mjk1MzEwOCwwMDAwMDAwMGIyYWRkZGRiNTU2ZTliYjMwOWU5N2YxYjgwOTc2ZmNi",
   "tracks": [
     {
       "added_at": "2021-04-09 21:22:12",
@@ -155,6 +155,22 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 347666,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
         "name": "Controversy",
         "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 225226,
       "name": "Pop Life",
       "url": "https://open.spotify.com/track/6Zs3F2lrr3L3kugrniFG5R"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 347666,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
     },
     {
       "added_at": "2022-05-26 09:39:02",

@@ -4,7 +4,7 @@
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-157 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/1Pjd800VkqQ5UHpr6EEuIh)
+157 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

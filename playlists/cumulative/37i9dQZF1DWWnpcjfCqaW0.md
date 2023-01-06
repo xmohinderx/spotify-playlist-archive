@@ -4,7 +4,7 @@
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-153 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/2fX5VjjnFjAPoruPmq1WKV)
+153 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

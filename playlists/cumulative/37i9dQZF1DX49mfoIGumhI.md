@@ -4,7 +4,7 @@
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-102 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/5Eq6o7jgelFRwT16WevEQh)
+102 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

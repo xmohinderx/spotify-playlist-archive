@@ -4,7 +4,7 @@
 
 > California music breaking waves\. Cover: Saweetie
 
-589 songs - 1 day 5 hr 31 min - [published](https://open.spotify.com/playlist/7aCz9WTkVveWry6ECm9qAk)
+589 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

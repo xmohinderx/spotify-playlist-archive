@@ -4,7 +4,7 @@
 
 > Our editors' picks from the best of Desi hits this year\. Cover: Shae Gill, Ali Sethi
 
-143 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
+143 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

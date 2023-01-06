@@ -4,7 +4,7 @@
 
 > Easy and soft piano Jazz when you need to relax.
 
-162 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/47TMtG71WaoyKFakM6fHQB)
+162 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

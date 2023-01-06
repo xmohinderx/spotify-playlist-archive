@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-01",
   "description": "Your daily update of the most viral tracks right now - Canada.",
   "name": "Viral 50 - Canada",
-  "published_playlist_ids": [
-    "7wpwmjDxIyfeAPJQUP9XOc"
-  ],
   "tracks": [
     {
       "album": {
@@ -2881,7 +2878,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -12767,10 +12764,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 90766,
       "name": "NEW OPP",
       "url": "https://open.spotify.com/track/59P17I4QL4y66TqKokfdJS"
+    },
+    {
+      "album": {
+        "name": "New Opp",
+        "url": "https://open.spotify.com/album/7okGnhb1jybiMuNXIkhEkl"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93857,
+      "name": "New Opp",
+      "url": "https://open.spotify.com/track/3Kk1uJa4bqAkewVpUAU19W"
     },
     {
       "album": {
@@ -18593,7 +18608,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 156631,
       "name": "Too Well",
       "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"

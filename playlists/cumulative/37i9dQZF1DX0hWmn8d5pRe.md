@@ -4,7 +4,7 @@
 
 > Run to this collection of rock jams.
 
-175 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/5XZ0SzCrSLHVIM2j43NcHt)
+175 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

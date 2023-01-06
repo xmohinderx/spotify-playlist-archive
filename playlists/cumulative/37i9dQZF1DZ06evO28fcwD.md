@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-113 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/24imJLVW9FZTNmf0BSg9VS)
+113 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Hello My Baby](https://open.spotify.com/track/6FajJfTlwR9r1kkGlKlB8c) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu](https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME) | 3:09 | 2021-12-28 |  |
 | [Homeless](https://open.spotify.com/track/4X7XfP15mnFklhYeP7YMKw) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Favourites](https://open.spotify.com/album/5j95AoT8sEKEPEv3Hv1F4q) | 3:37 | 2021-12-28 | 2022-06-10 |
 | [Homeless \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 3:48 | 2021-12-28 |  |
-| [Homeless \(with Ladysmith Black Mambazo\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4YDjXXVSAKYEICaQPKKL5G) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 4:15 | 2022-10-12 | 2022-12-31 |
+| [Homeless \(with Ladysmith Black Mambazo\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4YDjXXVSAKYEICaQPKKL5G) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 4:15 | 2022-10-12 |  |
 | [I Know What I Know \(with Ladysmith Black Mambazo\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4hc0ZwfqdkHP7hkGhC8U2o) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 4:32 | 2022-10-12 |  |
 | [I'll Take You There](https://open.spotify.com/track/4YDCuoXyvcT4IMRiBpbz4S) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 6:37 | 2021-12-28 | 2022-10-16 |
 | [Inkanyezi Nezazi \(The Star And The Wiseman\)](https://open.spotify.com/track/1EYDFzpXnupeapHRA6vX3c) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU) | 4:48 | 2021-12-28 |  |
@@ -83,7 +83,7 @@
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 | 2022-10-24 |  |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 | 2021-12-28 | 2022-10-06 |
 | [Nomathemba](https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Spirit Of South Africa](https://open.spotify.com/album/3lSXtIZ7BtoMW3e17WxFCy) | 3:32 | 2021-12-28 |  |
-| [Oh Happy Day](https://open.spotify.com/track/0lLA7dsfDEuokYI0N6J4lw) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw) | 5:42 | 2022-10-24 |  |
+| [Oh Happy Day](https://open.spotify.com/track/0lLA7dsfDEuokYI0N6J4lw) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw) | 5:42 | 2022-10-24 | 2023-01-06 |
 | [Oh Happy Day](https://open.spotify.com/track/50yuka9B8lppoDIBsIwGLt) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5VuH0pVmWz1UHUNooKFuND) | 5:42 | 2021-12-28 | 2022-10-14 |
 | [Old MacDonald Zulu Style](https://open.spotify.com/track/73gBGz0ByDjEx8ZRhPOIjO) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 3:18 | 2021-12-28 | 2022-10-13 |
 | [Once In a Blue Moon](https://open.spotify.com/track/1aJD2XbbrBlhjg8zi63o0d) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [In Harmony](https://open.spotify.com/album/0Ei2iU4AG1Qgz23S5pNpjf) | 3:57 | 2022-11-23 |  |

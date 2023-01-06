@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Bollywood hits repackaged just for you. Cover- Ayushmann Khurrana & Malaika Arora",
   "name": "Bollywood 2.O",
-  "published_playlist_ids": [
-    "1RxcZY2SgLIUlL0fFKyBFg"
-  ],
   "tracks": [
     {
       "album": {
@@ -1598,6 +1595,36 @@
     },
     {
       "album": {
+        "name": "Phir Dhan Te Nan (From \"Kuttey\")",
+        "url": "https://open.spotify.com/album/6SfyHk2RY0vbU6UBgtKogg"
+      },
+      "artists": [
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260148,
+      "name": "Phir Dhan Te Nan (From \"Kuttey\")",
+      "url": "https://open.spotify.com/track/201VNiUkMr44r6XbH6Ioz2"
+    },
+    {
+      "album": {
         "name": "Poster Lagwa Do (From \"Luka Chuppi\")",
         "url": "https://open.spotify.com/album/0NFYKQLV3mjmTvkhjcnLRn"
       },
@@ -1625,7 +1652,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 178847,
       "name": "Poster Lagwa Do (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/5G1H1Im43gBwssOH8XlnNU"

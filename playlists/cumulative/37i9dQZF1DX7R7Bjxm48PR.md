@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-133 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/639MyonEK5vnxNKfmiZBKq)
+133 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

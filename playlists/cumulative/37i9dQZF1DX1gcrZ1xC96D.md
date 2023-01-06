@@ -4,7 +4,7 @@
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-161 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/7KYDTb9MPMU550wXeMZesu)
+161 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

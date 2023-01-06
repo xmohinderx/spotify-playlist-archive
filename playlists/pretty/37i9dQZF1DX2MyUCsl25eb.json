@@ -1,13 +1,29 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 973788,
+  "num_followers": 973812,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDUxODA3ZmJkYjc0OGMwZTg0NGM0NTBlMGRmYTE4MjI3",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGI1MTJiNmY0OTY5ZjYxZjE5MjQxZTdiNTExNzIwYmM5",
   "tracks": [
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS"
+    },
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
@@ -33,6 +49,22 @@
       "url": "https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng"
     },
     {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/6L53ehiafsAH3fzCJQcuGk"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grace",
+          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+        }
+      ],
+      "duration_ms": 217345,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5OqNp1GnyErifeRgHgBdNn"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Happy New Year",
@@ -53,104 +85,20 @@
       "url": "https://open.spotify.com/track/5pylf1BFd80ENsoxC0k8g3"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Hiding in Plain Sight",
-        "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
+        "name": "How Are You?",
+        "url": "https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69"
       },
       "artists": [
         {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
         }
       ],
-      "duration_ms": 217706,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/4WH2dF8Bd0ZhftyysLGXKb"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "This Is Going To Be The Year",
-        "url": "https://open.spotify.com/album/5lcSCem101LKn2rIxoODBU"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 252507,
-      "name": "This Is Going To Be The Year",
-      "url": "https://open.spotify.com/track/4ijH0M7n6oM4ZARKcInAyv"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Stop Calling Me (Acoustic)",
-        "url": "https://open.spotify.com/album/3LjvPIqQWjsjFGagHTJnrv"
-      },
-      "artists": [
-        {
-          "name": "Brent Morgan",
-          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
-        }
-      ],
-      "duration_ms": 183272,
-      "name": "Stop Calling Me (Acoustic)",
-      "url": "https://open.spotify.com/track/0ouUnebxKTVkoQMBGY3YZp"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Hurts So Bad",
-        "url": "https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        },
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
-        }
-      ],
-      "duration_ms": 235061,
-      "name": "Hurts So Bad - with Josh Teskey",
-      "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "You Are Not Alone",
-        "url": "https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 165835,
-      "name": "You Are Not Alone",
-      "url": "https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "This Year",
-        "url": "https://open.spotify.com/album/6TYFFAcE5IWeqVMrwxdhDd"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 194575,
-      "name": "This Year",
-      "url": "https://open.spotify.com/track/4qfKdJO2DNS7xPwQgy78ji"
+      "duration_ms": 169499,
+      "name": "How Are You?",
+      "url": "https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -285,22 +233,6 @@
       "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
-    },
-    {
       "added_at": "2022-12-02 05:01:00",
       "album": {
         "name": "Paper Crown",
@@ -315,22 +247,6 @@
       "duration_ms": 192407,
       "name": "Paper Crown",
       "url": "https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Hurtless",
-        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 180274,
-      "name": "Hurtless",
-      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -351,6 +267,22 @@
     {
       "added_at": "2022-04-01 04:02:00",
       "album": {
+        "name": "Hurtless",
+        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 180274,
+      "name": "Hurtless",
+      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },
@@ -363,6 +295,22 @@
       "duration_ms": 146895,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -669,22 +617,6 @@
       "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 193806,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "emotionally unavailable",
@@ -699,6 +631,22 @@
       "duration_ms": 182958,
       "name": "we're not kids anymore",
       "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 193806,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -797,22 +745,6 @@
       "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 221377,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
@@ -837,6 +769,22 @@
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 221377,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Carry It Well",
@@ -853,6 +801,22 @@
       "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "You Are Not Alone",
+        "url": "https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 165835,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "When You Think Of Me",
@@ -867,22 +831,6 @@
       "duration_ms": 210133,
       "name": "When You Think Of Me",
       "url": "https://open.spotify.com/track/7t99DAaOhydc0GoqkiqfEi"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Baby Why",
-        "url": "https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu"
-      },
-      "artists": [
-        {
-          "name": "Sarah Cothran",
-          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "Baby Why",
-      "url": "https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -915,6 +863,22 @@
       "duration_ms": 201463,
       "name": "I Just Want a Lover",
       "url": "https://open.spotify.com/track/6whql8yh4n96c8Zl4MYkVG"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Baby Why",
+        "url": "https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu"
+      },
+      "artists": [
+        {
+          "name": "Sarah Cothran",
+          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Baby Why",
+      "url": "https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -981,6 +945,22 @@
       "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Mr. Percocet",
+      "url": "https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p"
+    },
+    {
       "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "The Good Parts",
@@ -1027,22 +1007,6 @@
       "duration_ms": 202319,
       "name": "Fat Funny Friend (sadder)",
       "url": "https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "Mr. Percocet",
-      "url": "https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1093,22 +1057,6 @@
       "url": "https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Sunday Crossword",
-        "url": "https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR"
-      },
-      "artists": [
-        {
-          "name": "J. Maya",
-          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
-        }
-      ],
-      "duration_ms": 184827,
-      "name": "Sunday Crossword",
-      "url": "https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Last Night In The Bittersweet",
@@ -1123,6 +1071,22 @@
       "duration_ms": 262871,
       "name": "Radio",
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Sunday Crossword",
+        "url": "https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR"
+      },
+      "artists": [
+        {
+          "name": "J. Maya",
+          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "Sunday Crossword",
+      "url": "https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1157,6 +1121,22 @@
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
     },
     {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "The Joy of Music",
+        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Pink Moon",
@@ -1177,20 +1157,20 @@
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Joy of Music",
-        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
+        "name": "Love Me Like That",
+        "url": "https://open.spotify.com/album/5IXVmq7591VkI4Yy4xw33g"
       },
       "artists": [
         {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Steady Love",
-      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
+      "duration_ms": 139200,
+      "name": "Love Me Like That",
+      "url": "https://open.spotify.com/track/4iAIwW9LIaRc0elSN0EX5Z"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1209,20 +1189,20 @@
       "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Love Me Like That",
-        "url": "https://open.spotify.com/album/5IXVmq7591VkI4Yy4xw33g"
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS"
       },
       "artists": [
         {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Love Me Like That",
-      "url": "https://open.spotify.com/track/4iAIwW9LIaRc0elSN0EX5Z"
+      "duration_ms": 163360,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1241,20 +1221,40 @@
       "url": "https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS"
+        "name": "Two Places at Once (Part I)",
+        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
         }
       ],
-      "duration_ms": 163360,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
+      "duration_ms": 199395,
+      "name": "Two Places at Once",
+      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Hiding in Plain Sight",
+        "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP"
     }
   ],
   "unique_name": "Morning Commute",

@@ -4,7 +4,7 @@
 
 > That fuzzy, noisy punk\-blues hybrid
 
-61 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/1p2RiftJCMyvTVNCgyg4PN)
+61 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

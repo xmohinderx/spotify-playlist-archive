@@ -4,7 +4,7 @@
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-230 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
+230 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

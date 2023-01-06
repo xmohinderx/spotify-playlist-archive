@@ -4,7 +4,7 @@
 
 > The hits you know like you’ve never heard before\.  Cover: Harry Styles.
 
-156 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/4vwHHoNBJiy53B2sRKKvPz)
+156 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

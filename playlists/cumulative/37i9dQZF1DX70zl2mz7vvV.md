@@ -4,7 +4,7 @@
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-101 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/3unIimQjWMk86DrgGDOhN0)
+101 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

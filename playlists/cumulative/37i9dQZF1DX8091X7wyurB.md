@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-94 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
+94 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

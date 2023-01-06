@@ -4,7 +4,7 @@
 
 > Hits written and produced by Max Martin.
 
-168 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/493jwAVjZmRSYFyYQPpsaC)
+168 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

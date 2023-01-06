@@ -4,7 +4,7 @@
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8/">Jesus Culture</a>
 
-148 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/3jxuoXcOX7DBxfMH9aM88r)
+148 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

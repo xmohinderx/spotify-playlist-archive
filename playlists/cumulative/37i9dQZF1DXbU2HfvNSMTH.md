@@ -4,7 +4,7 @@
 
 > The songs of the 1980s that will make you dance all summer long!
 
-124 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/5owjqwOqMLWAuQpX5HtDrS)
+124 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

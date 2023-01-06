@@ -4,7 +4,7 @@
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-74 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/0Jg6LvqlfA99j1rS3eLGZd)
+74 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

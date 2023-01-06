@@ -4,7 +4,7 @@
 
 > Concentrate comfortably with sweet k\-pop accompaniments without lyrics\. \(가사 없는 감미로운 가요 반주곡들과 편안하게 집중하세요.\)
 
-213 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/4XvItJuMKSSQUCN3RPO6uN)
+213 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

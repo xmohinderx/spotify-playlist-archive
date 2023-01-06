@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-485 songs - 1 day 11 hr 48 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+485 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Law Laffeina El Ard \- Habibi Funk 020](https://open.spotify.com/track/7aYyF8mi6LYqms6JdcREDS) | [Maha](https://open.spotify.com/artist/18LWSRqUjdqlSaAD79HS4H) | [Law Laffeina El Ard \(Habibi Funk 020\)](https://open.spotify.com/album/7vtL88JlUZ72Q5ekJ4MLsx) | 6:16 | 2022-09-03 | 2022-11-20 |
 | [Layla, Pt\. 1](https://open.spotify.com/track/1fJWdk2kxrtkdlPFyVRqIc) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [Layla](https://open.spotify.com/album/33jRRJHoKl6Fes91vgdXAz) | 3:14 | 2021-10-06 | 2022-05-29 |
 | [Lazalypso](https://open.spotify.com/track/4mtYQUCB0AuUriy4Sv1nri) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/0y7GV4jRQOaWiN4sH0SPW5) | 3:33 | 2021-10-06 | 2022-04-14 |
-| [Lazalypso](https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 3:33 | 2021-10-06 |  |
+| [Lazalypso](https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 3:33 | 2021-10-06 | 2023-01-06 |
 | [Levante la Mano \(Tonga Conga Remix\)](https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Levante la Mano \(Remixes\)](https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS) | 4:03 | 2022-04-17 | 2022-05-25 |
 | [Liquid Love](https://open.spotify.com/track/0gPlSsAiRoaX2Wu2mrsmQH) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Liquid Love](https://open.spotify.com/album/3eCRbDscbTBwDRc70kPbtW) | 5:28 | 2022-12-07 | 2023-01-03 |
 | [Little Mouse](https://open.spotify.com/track/6PLmTnJIHb22SXrQRr29fg) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP), [Mr\. Morski](https://open.spotify.com/artist/0RJTUTPE6jdu7i23X79GEi) | [Music Sun Love](https://open.spotify.com/album/4k9DC9Gc7OhaBBEfuPM1fV) | 4:52 | 2021-10-06 | 2022-06-18 |
@@ -326,7 +326,7 @@
 | [Nimele Bolo](https://open.spotify.com/track/0K9yEYBuOQwmRKvdNLKhpi) | [Charly Kingson](https://open.spotify.com/artist/0NFxrN3u1FNHeYQHvSvokS) | [Born In Africa](https://open.spotify.com/album/3SINV0dzoGMwwpK86yE77I) | 5:27 | 2022-03-29 | 2022-04-20 |
 | [Nineteen Hundred and Eighty Five](https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 5:40 | 2021-10-06 |  |
 | [Ninfa de la villa](https://open.spotify.com/track/7Ax9fR3OPue9dRH7n9Pidm) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Ninfa de la villa](https://open.spotify.com/album/25c9ZAKyYYpeS8ZfUKMeZ2) | 3:09 | 2021-10-06 | 2022-04-18 |
-| [No Me Quieres \(feat\. Fabi Reyna\)](https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv) | [Sumohair](https://open.spotify.com/artist/5lDU6YOrMGStD7lnzHvDk5), [Fabi Reyna](https://open.spotify.com/artist/58G2Hb81kZxBJ4MOvZBAID) | [No Me Quieres \(feat\. Fabi Reyna\)](https://open.spotify.com/album/0XwtNqA59iplkPTxi4Qoam) | 3:23 | 2022-04-17 | 2023-01-02 |
+| [No Me Quieres \(feat\. Fabi Reyna\)](https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv) | [Sumohair](https://open.spotify.com/artist/5lDU6YOrMGStD7lnzHvDk5), [Fabi Reyna](https://open.spotify.com/artist/58G2Hb81kZxBJ4MOvZBAID) | [No Me Quieres \(feat\. Fabi Reyna\)](https://open.spotify.com/album/0XwtNqA59iplkPTxi4Qoam) | 3:23 | 2022-04-17 |  |
 | [No Waiting](https://open.spotify.com/track/5WGuFj5MiI5HfjXNXUuJsK) | [Les Frères Smith](https://open.spotify.com/artist/2DsPD1Xb7F2oukRHmrkEqQ), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [No Waiting](https://open.spotify.com/album/31dY7dNVlpbp5BMFjjwXRA) | 5:26 | 2021-10-06 | 2022-04-18 |
 | [Noko Hewon](https://open.spotify.com/track/0lNND4ICbiZEXahwxtl8OX) | [Afrik Bawantu](https://open.spotify.com/artist/2cfMyJQIEEqNhfiqQ24bUW) | [Noko Hewon](https://open.spotify.com/album/5eO68ZD9iOVu08B6LveM11) | 6:34 | 2021-10-06 | 2022-04-27 |
 | [Nosotros También](https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:26 | 2021-10-06 |  |

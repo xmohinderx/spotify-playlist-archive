@@ -4,7 +4,7 @@
 
 > Relax with these timeless tunes\. Cover: John Denver
 
-137 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/32lp5vkX1hCFRdFKPQMDZK)
+137 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

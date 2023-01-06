@@ -4,7 +4,7 @@
 
 > Finnish underground trailblazer <a href="spotify:artist:5Dyfxq0ZrFjjeFBdSNxDbo">Yotto</a> delivering a mint fresh, gem\-filled mix full of surprises!
 
-12 songs - 1 hr 3 min - not published yet
+12 songs - 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

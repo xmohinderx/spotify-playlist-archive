@@ -4,7 +4,7 @@
 
 > Tus canciones favoritas de pop te acompañan a donde quiera que vayas.
 
-107 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/2PVKYQvkoxNNZwGg6AkNYO)
+107 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

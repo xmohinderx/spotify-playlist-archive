@@ -4,7 +4,7 @@
 
 > Semplicemente noi.
 
-240 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/0l80wId7YOuXBlEY4SFFZ4)
+241 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-06-10 |  |
 | [NEON \- Le Ali \(feat\. Elisa\)](https://open.spotify.com/track/76cEI7LczlKZ1yLAHIoPBJ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:27 | 2022-06-06 | 2022-06-10 |
 | [Non mi basta più \(feat\. Chiara Ferragni\)](https://open.spotify.com/track/5ZUeBvBEH8hpdLMW3yCmHb) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg), [Chiara Ferragni](https://open.spotify.com/artist/0Rt1pqbZ2uBlOEXl0izcxb) | [Non mi basta più \(feat\. Chiara Ferragni\)](https://open.spotify.com/album/0kxhtcOBnkoIqfZ4xBLzHp) | 3:20 | 2022-05-25 | 2022-07-15 |
-| [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2022-06-06 |  |
+| [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2022-06-06 | 2023-01-06 |
 | [Notti In Bianco](https://open.spotify.com/track/38UoVEHcZ85EGBo6k79643) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Notti In Bianco](https://open.spotify.com/album/6gnq480U8mvkVRMqKinsX6) | 2:56 | 2022-04-27 | 2022-07-29 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-07-26 |  |
 | [NUOVO RANGE \(con SFERA EBBASTA\)](https://open.spotify.com/track/3fxSSvnUS7ALxmhOckb7t6) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [TAXI DRIVER](https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp) | 2:56 | 2022-04-27 | 2022-07-29 |
@@ -201,6 +201,7 @@
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-26 | 2022-08-19 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-07-29 | 2022-09-30 |
 | [SNAP \- Italian](https://open.spotify.com/track/2jLW0YomEl9zIal6P7QPpc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:00 | 2022-09-29 |  |
+| [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 | 2022-10-27 |  |
 | [Sono un bravo ragazzo un po' fuori di testa](https://open.spotify.com/track/4fllTuc6KM95uB3ZqqiGYd) | [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0) | [Sono un bravo ragazzo un po' fuori di testa](https://open.spotify.com/album/6a8UGBGszHZc47vdsI121Q) | 2:50 | 2022-05-30 | 2022-06-30 |
 | [Sottovoce](https://open.spotify.com/track/0QwlGKxgBzz10Vs3Hu1Ofd) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [HOT PARTY BACK TO SCHOOL 2022](https://open.spotify.com/album/1xybf1vMF8lcAQnvC3r2x9) | 3:22 | 2022-10-27 |  |
 | [Stavo pensando a te \(con Fulminacci\)](https://open.spotify.com/track/1mBSWayaS9nnqLvZNdOdL7) | [MOBRICI](https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd), [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Stavo pensando a te \(con Fulminacci\)](https://open.spotify.com/album/5Hkop7ke0mdOMywFTz7986) | 4:10 | 2022-05-25 | 2022-05-29 |

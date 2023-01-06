@@ -4,7 +4,7 @@
 
 > Shenseea bringing you massive island vibes for her Island Pop takeover.
 
-117 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/2IWnbNUu459whuD2COYJWY)
+117 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

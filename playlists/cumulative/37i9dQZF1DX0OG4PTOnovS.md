@@ -4,7 +4,7 @@
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-65 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/4ouO9TGcvdiRiB4W0BQXPr)
+65 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

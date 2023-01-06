@@ -4,7 +4,7 @@
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: Gorillaz
 
-178 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/4EagXK2UFeb8VRjckjIwUL)
+178 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

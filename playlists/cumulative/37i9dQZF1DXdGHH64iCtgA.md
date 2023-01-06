@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-174 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
+174 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

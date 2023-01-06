@@ -4,7 +4,7 @@
 
 > Rise with a relaxing blend of folk and acoustic.
 
-194 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/5OnqyGQ45pjHIR1UdjdRu4)
+194 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

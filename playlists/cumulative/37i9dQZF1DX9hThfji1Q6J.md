@@ -4,7 +4,7 @@
 
 > 2022年、海外で最も再生された日本人アーティストの楽曲別ランキング。Check out the top 50 tracks from Japanese artists, streamed globally in 2022! cover:藤井風 \(Fujii Kaze\)
 
-50 songs - 3 hr 21 min - not published yet
+50 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

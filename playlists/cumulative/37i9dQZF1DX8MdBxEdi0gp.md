@@ -4,7 +4,7 @@
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-188 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/1hAa8J0PFUdYrlTpNoEoq8)
+188 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

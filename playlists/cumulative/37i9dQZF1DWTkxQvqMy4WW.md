@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-340 songs - 19 hr 37 min - [published](https://open.spotify.com/playlist/2tqcUzcMdvjapZUweh0oOM)
+340 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-153 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/60LiS949KObJRF0kT8PKqw)
+153 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

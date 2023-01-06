@@ -4,7 +4,7 @@
 
 > Experience the best live performances.
 
-185 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/2sS4qkEiXB06QFdcBpO2nu)
+185 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

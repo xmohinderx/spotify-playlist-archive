@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-363 songs - 16 hr 28 min - [published](https://open.spotify.com/playlist/7KF7Evm7HugJ0ZFYg9Yj0E)
+363 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

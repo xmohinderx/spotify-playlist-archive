@@ -4,7 +4,7 @@
 
 > Some of the worlds most beautiful love songs.
 
-370 songs - 1 day 1 hr 20 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
+370 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

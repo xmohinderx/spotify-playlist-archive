@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-565 songs - 1 day 10 hr 29 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+565 songs - 1 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
