@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Narrow Head
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Sleep Token
 
-293 songs - 18 hr 46 min
+299 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [EYE TO EYE](https://open.spotify.com/track/532PgIpf93c12uY9SAWheS) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [EYE TO EYE](https://open.spotify.com/album/52Bi5Euib8FrdsJLA7LsT1) | 3:53 | 2022-04-15 |  |
 | [FAIRY METAL](https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA) | 2:41 | 2022-03-04 |  |
 | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW) | 1:18 | 2022-12-02 |  |
+| [Familia Finito](https://open.spotify.com/track/6efk4XQySFHObUildXzh6e) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Familia Finito](https://open.spotify.com/album/2NsPZAEAUb7jCoHSuVTA5z) | 1:27 | 2023-01-06 |  |
 | [Fear in Non Fiction](https://open.spotify.com/track/48qldcY9MIstCu7JxcAGGj) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX) | [Fear in Non Fiction](https://open.spotify.com/album/1wzFbbjthC4RwynzagKDJ1) | 3:24 | 2022-01-28 |  |
 | [Feel It Linger](https://open.spotify.com/track/61mPF8FLWs0b88T4HXlAgs) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Learning To Dissolve](https://open.spotify.com/album/6fvt916VE3qmh2NPCyfOfl) | 4:39 | 2022-08-19 |  |
 | [Fight Back](https://open.spotify.com/track/1KllUhrZirzSBJGZuc56Kp) | [Restraining Order](https://open.spotify.com/artist/4HXv1CWVOyIO8ZNvGOSyEy) | [Fight Back](https://open.spotify.com/album/5km5tzjw0EVU8RwqQMoICb) | 1:50 | 2022-09-30 |  |
@@ -118,6 +119,7 @@
 | [Guided Meditation](https://open.spotify.com/track/0Dq4oDfcDFsOJ5jVhZ07Up) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Shock Therapy](https://open.spotify.com/album/6Ju7Ef2xrpkAq9Rqhpf2xV) | 1:35 | 2022-08-12 |  |
 | [Guillotine](https://open.spotify.com/track/5mWs0zabZrREJBFfFCLhyj) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Guillotine](https://open.spotify.com/album/2205MIj3I5b2QXBVZ3n8jJ) | 3:37 | 2022-02-25 |  |
 | [H377](https://open.spotify.com/track/38YxfCfUuQJU4r4pe3jeYb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:23 | 2022-09-30 |  |
+| [Half Life](https://open.spotify.com/track/7qwTlAdz1usnxXd24H3yjw) | [Object of Affection](https://open.spotify.com/artist/1U4tj1OPey66HhgVXGdlSY) | [Half Life](https://open.spotify.com/album/0AjbRK9LP0qPcGRWw0GYGp) | 3:32 | 2023-01-06 |  |
 | [Hatekeeper](https://open.spotify.com/track/3J9QqbxNYdH0a4CeEsVh53) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Hatekeeper](https://open.spotify.com/album/5x32HHBeFEXYd9bBRyOrOe) | 1:01 | 2022-05-27 |  |
 | [Heart Reformer](https://open.spotify.com/track/4bSTKeCvyLnXwsDc1Aw452) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Heart Reformer](https://open.spotify.com/album/04b6r0OaKUICdRbIacCRPa) | 3:26 | 2022-08-26 |  |
 | [Hell's Half Acre](https://open.spotify.com/track/5UQIePOpp3Sltpk85Ynilv) | [Fugitive](https://open.spotify.com/artist/5Gn20zEvjiNUyQUIaItAlL) | [Maniac](https://open.spotify.com/album/3eQj46K9ZQmQyUL1WVo6Gn) | 3:44 | 2022-08-12 |  |
@@ -162,6 +164,7 @@
 | [Mother Fucking Liar](https://open.spotify.com/track/2iu3j0Gumnc0aTUhuGjJAR) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [Mother Fucking Liar](https://open.spotify.com/album/5rIBeueszVxOFNhXulxiwb) | 3:12 | 2022-04-29 |  |
 | [Move](https://open.spotify.com/track/6r8xg4vDHIPBDjCFb70uWn) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Move](https://open.spotify.com/album/3JhCDiTZ095MaNxc6zXrEX) | 2:29 | 2022-06-10 |  |
 | [My Creator](https://open.spotify.com/track/6KCa6PR3lmRFrOTzG7hkNr) | [Anklebiter](https://open.spotify.com/artist/3RyxShZKZfWVtCaAxmgEDg) | [Demo 2022](https://open.spotify.com/album/0UvDfUynydvwHXS4DSGKqE) | 1:20 | 2022-06-03 |  |
+| [My Will to Live](https://open.spotify.com/track/4sAWFLOCxVfyBvZq9dWy0s) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [My Will to Live](https://open.spotify.com/album/5Jqz6ZgchnSaUNsTbV38pz) | 5:20 | 2023-01-06 |  |
 | [names](https://open.spotify.com/track/4keVU1iG5gKDkp3gFnIMsM) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2), [Record Setter](https://open.spotify.com/artist/5dAHI3WBHJFGRaAyDm5VHT) | [names](https://open.spotify.com/album/4UDjMHGSpHxfRm6ABUsiCF) | 1:16 | 2022-04-01 |  |
 | [Napalm](https://open.spotify.com/track/5DCFs0BboOFVMCYWMpQfeH) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Napalm](https://open.spotify.com/album/7sJcgW8x73vH5vwhqEdsLz) | 2:30 | 2022-01-28 |  |
 | [Nauseating Despair](https://open.spotify.com/track/75l59IlC5Vnv950vbdB0X2) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Nauseating Despair](https://open.spotify.com/album/3ytulfN7eaFD9aIQikuM27) | 4:39 | 2022-07-08 |  |
@@ -261,7 +264,9 @@
 | [The Razor's Apple](https://open.spotify.com/track/6skD0fAOAk5zswKCiSevHz) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [The Razor's Apple](https://open.spotify.com/album/7vBzf3GC0LJ9FiGDDKqwlr) | 3:11 | 2022-10-21 |  |
 | [The Requiem](https://open.spotify.com/track/6hfkFSmTZktAqOoPV1Jqlf) | [Deadbody](https://open.spotify.com/artist/1wGgCyV0NZ50dH1aEoKjma) | [The Requiem](https://open.spotify.com/album/3d7HL1BTrcrfkjvOrAQQMf) | 1:43 | 2022-10-21 |  |
 | [The Serpent and the Rainbow](https://open.spotify.com/track/2CkpD7gqMXrrpTCJ9TZ0bw) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:57 | 2022-12-16 |  |
+| [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-06 |  |
 | [The Vigour of Evil](https://open.spotify.com/track/4cY10FaoZgYU5LkmgSYsqh) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [The Vigour of Evil](https://open.spotify.com/album/36XknJHEttZcRf0Q7812zX) | 4:29 | 2022-04-01 |  |
+| [The World Unseen](https://open.spotify.com/track/3ZAdEwTuiK0NQdlVOasxq3) | [Majesties](https://open.spotify.com/artist/6ltmynMmgIUOQiL4eHlHyo) | [The World Unseen](https://open.spotify.com/album/3naQ4YwbbH6av9sg0FuwC3) | 3:43 | 2023-01-06 |  |
 | [Thermal Runaway](https://open.spotify.com/track/4CBDr82fX76y2sflS6Mb7d) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk), [Cara Drolshagen](https://open.spotify.com/artist/0ZaE2bBAU8bnB8tIN4bZkB) | [Thermal Runaway](https://open.spotify.com/album/2MzUgcAHyVNt30g63NweXV) | 4:01 | 2022-02-04 |  |
 | [They Fear Us](https://open.spotify.com/track/4AoCVndz22Nf7nCag0pvSO) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3Jv1c7grobLidRkAE8PRA0) | 4:10 | 2022-02-04 |  |
 | [This Is It](https://open.spotify.com/track/0VWtdJyiJyA4TasrWcIG6F) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [This Is It](https://open.spotify.com/album/0lJoJXVEwaPAdGzP3pzQAc) | 4:00 | 2022-01-07 |  |
@@ -300,6 +305,7 @@
 | [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 | 2022-03-11 |  |
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-04-08 |  |
 | [Zombie Inferno](https://open.spotify.com/track/3kDii17lJocLG2jfWGzecS) | [Bloodbath](https://open.spotify.com/artist/7eYmDBinb760MUIfoRdlGQ) | [Zombie Inferno](https://open.spotify.com/album/6OsZBopYtCRSANJJ7FwI7Y) | 4:07 | 2022-07-01 |  |
+| [Истина](https://open.spotify.com/track/2vKRArTlpWvplOjsVX7zjG) | [Рожь](https://open.spotify.com/artist/6H4aSq8C0uNkxUKDsC2t0j) | [Всё](https://open.spotify.com/album/3WxKplxyqg68yCQHtNucAo) | 9:59 | 2023-01-06 |  |
 | [知恵](https://open.spotify.com/track/5fJKzNZbsGbeA8w8yKPGaS) | [moreru](https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4) | [山田花子](https://open.spotify.com/album/6p4e0G8qlZMvSpcpviffAw) | 3:26 | 2022-04-01 |  |
 
 \*This playlist was first scraped on 2022-11-16. Prior content cannot be recovered.

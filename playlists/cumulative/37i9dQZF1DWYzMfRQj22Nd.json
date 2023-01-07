@@ -409,6 +409,28 @@
     },
     {
       "album": {
+        "name": "Only in Dreams",
+        "url": "https://open.spotify.com/album/35axN2yrxRiycF2pA8mZaB"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        },
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218057,
+      "name": "Anarchy",
+      "url": "https://open.spotify.com/track/3qLHmaFZf2TKaC2LgdcUZ6"
+    },
+    {
+      "album": {
         "name": "Anarchy",
         "url": "https://open.spotify.com/album/1v6aplqC4XenBlhPiIwqcc"
       },
@@ -796,7 +818,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 213297,
       "name": "Better Off Without You (High Contrast Remix feat. Shift K3Y)",
       "url": "https://open.spotify.com/track/4EsFXXYwZYh4GD37aff1Db"
@@ -1040,7 +1062,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 213488,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/1U7c5G11xl4PMwhxHdc5oV"
@@ -1124,7 +1146,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 244045,
       "name": "Catharsis X",
       "url": "https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk"
@@ -1454,7 +1476,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Control Me",
       "url": "https://open.spotify.com/track/6FGayqvQemkqpDhHmoJawA"
@@ -2276,7 +2298,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 292173,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
@@ -2582,7 +2604,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 265371,
       "name": "Follow Me - Blanke Remix",
       "url": "https://open.spotify.com/track/7H5GF7ufsRpIPtvupChNyf"
@@ -2728,7 +2750,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252013,
       "name": "Freedom - Sub Focus x Wilkinson x High Contrast Remix",
       "url": "https://open.spotify.com/track/3zsM1eJsFUtXD1XzMMwyaL"
@@ -2844,7 +2866,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 245113,
       "name": "Galaxies",
       "url": "https://open.spotify.com/track/2xO3tUdbE42rjV81NrQJ0S"
@@ -2982,7 +3004,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 247135,
       "name": "Go",
       "url": "https://open.spotify.com/track/6LmNEPZWhYAyz9jZHaW3sj"
@@ -3022,10 +3044,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 260344,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/7bT32pu1rHEiS6OGvbZwNV"
+    },
+    {
+      "album": {
+        "name": "Mosaik",
+        "url": "https://open.spotify.com/album/1miPtr5WVeMoYFvu0RZ6Mc"
+      },
+      "artists": [
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232560,
+      "name": "Good Times Bad Times",
+      "url": "https://open.spotify.com/track/44nRLXNwTmTIV7Zk7lRol5"
     },
     {
       "album": {
@@ -4490,7 +4530,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 196655,
       "name": "Met Her At A Dance In Leicester (feat. UK Apache)",
       "url": "https://open.spotify.com/track/7tUx5m8e0jzm3kRv9nhoRU"
@@ -4537,6 +4577,28 @@
     },
     {
       "album": {
+        "name": "Miracle (REAPER Remix)",
+        "url": "https://open.spotify.com/album/1Kg2QCkCOOIhjx9EOXpQc5"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        },
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204827,
+      "name": "Miracle - REAPER Remix",
+      "url": "https://open.spotify.com/track/4qsIryBYSke1rPIlI1WnYV"
+    },
+    {
+      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/6PtWDkMBMsesrZmjE07PdA"
       },
@@ -4552,7 +4614,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 267906,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/6bUlKNTAOA2EUg4CQ4PtJb"
@@ -4570,7 +4632,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 189634,
       "name": "Moment In The Sun",
       "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
@@ -5292,7 +5354,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 195862,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz"
@@ -5412,6 +5474,28 @@
       "duration_ms": 212571,
       "name": "Purple Hat - Dux n Bass Remix",
       "url": "https://open.spotify.com/track/1WL8mPxXzTfb4BPrPApONP"
+    },
+    {
+      "album": {
+        "name": "Push It To The Limit",
+        "url": "https://open.spotify.com/album/0U8TlpV5LKhlh2aPJ0svyc"
+      },
+      "artists": [
+        {
+          "name": "Qo",
+          "url": "https://open.spotify.com/artist/4jUjWu6BEktjwqmxqqQ60g"
+        },
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/7khXTDDp4ZkGEoSCUB5Hyt"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295813,
+      "name": "Push It To The Limit",
+      "url": "https://open.spotify.com/track/2erTGEjv5eLsqc10Z7ge20"
     },
     {
       "album": {
@@ -5676,7 +5760,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 249655,
       "name": "Recombine",
       "url": "https://open.spotify.com/track/2GZ3TAxyasEWv08Ajcypii"
@@ -6044,7 +6128,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218470,
       "name": "Scared",
       "url": "https://open.spotify.com/track/7DTk1207Efq0HBUEYmbcTB"
@@ -6443,6 +6527,32 @@
     },
     {
       "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/2xRGteG3RlpT2IGXTHZF0h"
+      },
+      "artists": [
+        {
+          "name": "GLXY",
+          "url": "https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT"
+        },
+        {
+          "name": "Javeon",
+          "url": "https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7"
+        },
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6baWEskdN5ZKy6TyA2fm5Z"
+    },
+    {
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/1VTu7oss8WCM8VC4oLEsrg"
       },
@@ -6636,7 +6746,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 315172,
       "name": "Sunchaser",
       "url": "https://open.spotify.com/track/7gFkNM7uKNC9150e5yQpUC"
@@ -6988,7 +7098,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 232686,
       "name": "There and Back",
       "url": "https://open.spotify.com/track/4H3mLpYw9fgx0FHNanYLAd"
@@ -7123,6 +7233,32 @@
     },
     {
       "album": {
+        "name": "Turn Back Time (Remixes)",
+        "url": "https://open.spotify.com/album/1lO9VKQh8Fe8v8IyXirSv8"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253793,
+      "name": "Turn Back Time - Wilkinson Remix",
+      "url": "https://open.spotify.com/track/5AJsdSy92xTDNWCe2tPnel"
+    },
+    {
+      "album": {
         "name": "Started This Fire / Turn It Up",
         "url": "https://open.spotify.com/album/4DtHUNYWHcQ6MWuAUgW8d5"
       },
@@ -7188,7 +7324,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Ultralight",
       "url": "https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314"
@@ -7586,7 +7722,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 248751,
       "name": "Write It Down - Fred V Remix",
       "url": "https://open.spotify.com/track/6K8vq2QV9ezdTQ9EdIH4WI"

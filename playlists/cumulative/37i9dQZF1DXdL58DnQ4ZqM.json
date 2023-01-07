@@ -1705,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Cozy Sunday",
+        "url": "https://open.spotify.com/album/2HJPA9yMnrZz44o9wlzyRm"
+      },
+      "artists": [
+        {
+          "name": "Mr Sleep",
+          "url": "https://open.spotify.com/artist/6VtqApngKv3UlCnSneWdyD"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111634,
+      "name": "Cozy Sunday",
+      "url": "https://open.spotify.com/track/2PARDKT7ZI4gj6LtVA3wKd"
+    },
+    {
+      "album": {
         "name": "Creation",
         "url": "https://open.spotify.com/album/7Dv1BGiYX6n1zGjK8DmZ5j"
       },
@@ -2102,6 +2120,24 @@
       "duration_ms": 186206,
       "name": "Dolphin Diver",
       "url": "https://open.spotify.com/track/7HOYXzSNaWZiYpfceKXVLV"
+    },
+    {
+      "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/0m1gKmBZrxWCCvo0UQA1oh"
+      },
+      "artists": [
+        {
+          "name": "Hallie",
+          "url": "https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179027,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/4I1C6ogoGzcFPxYzkbbyKF"
     },
     {
       "album": {
@@ -2929,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Grogu is back",
+        "url": "https://open.spotify.com/album/01Ccl2WRLwD3obdqHgbeb0"
+      },
+      "artists": [
+        {
+          "name": "Mean Dartin",
+          "url": "https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Grogu is back",
+      "url": "https://open.spotify.com/track/11H70u0CyLijoszKYZS9fz"
+    },
+    {
+      "album": {
         "name": "Growing Wings",
         "url": "https://open.spotify.com/album/5PJe80EAXJ9ol67ChfOf6o"
       },
@@ -3630,7 +3684,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 240729,
       "name": "In motion",
       "url": "https://open.spotify.com/track/1irdRdvQJyyQA7J4ZNxzm2"
@@ -4476,6 +4530,24 @@
       "duration_ms": 176328,
       "name": "Long",
       "url": "https://open.spotify.com/track/21mee0yCdwwsGw1iUY4sF3"
+    },
+    {
+      "album": {
+        "name": "Loose RAM",
+        "url": "https://open.spotify.com/album/6JrPjb3YAvpGMNSzKflFL4"
+      },
+      "artists": [
+        {
+          "name": "Birdpool",
+          "url": "https://open.spotify.com/artist/4RLF1AYCR3VA8q0VdTvvzi"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114019,
+      "name": "Loose RAM",
+      "url": "https://open.spotify.com/track/2rfxjiphz64WYQncSsuC1J"
     },
     {
       "album": {
@@ -5382,7 +5454,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 277894,
       "name": "Never Let Me Go - Chill Version",
       "url": "https://open.spotify.com/track/2eKedMhdCVb6JXx3eUmHlq"
@@ -7066,7 +7138,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 228000,
       "name": "Sorry - Chill Out Version",
       "url": "https://open.spotify.com/track/0weYjDc9mmP4JaMINLaSrk"
@@ -7452,7 +7524,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 211200,
       "name": "Streets of Philadelphia",
       "url": "https://open.spotify.com/track/14b5cSGM4OS7zfFDCf2ipo"

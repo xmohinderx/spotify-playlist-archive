@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Leony
 
-384 songs - 20 hr 28 min
+385 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [So Sick \- Simon Field & SverreV Version](https://open.spotify.com/track/6itUGDgWTBZIyQUckOThGP) | [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57), [SverreV](https://open.spotify.com/artist/04sHRlBQD0sORhbe2EYydj) | [So Sick \(Simon Field & SverreV Version\)](https://open.spotify.com/album/3UFyfoEEXYses3JWaVqmvu) | 3:06 | 2022-06-09 | 2022-09-02 |
 | [Somebody](https://open.spotify.com/track/571VdzPAVPYyH7TT06zmwE) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Somebody](https://open.spotify.com/album/6Oywxi0QgYkkekNhktFpls) | 3:11 | 2022-07-07 |  |
 | [Something Beautiful](https://open.spotify.com/track/5fMy36xPHP4PEgsirxLmma) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Feel Again, Pt\. 2](https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q) | 2:34 | 2022-10-20 | 2022-10-28 |
+| [Somewhere In Between](https://open.spotify.com/track/4RgcHsBvmH8AJ3raGfaqvK) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere In Between](https://open.spotify.com/album/39KBFZHemCL8i2Smrkak4o) | 2:36 | 2023-01-06 |  |
 | [Soul Seekers](https://open.spotify.com/track/1TPX9r2PuTF8LdSmrmq46L) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Armada Music Year Mix 2022, Vol\. 2](https://open.spotify.com/album/3bJjNEcp10aGVqgh04SqE6) | 3:41 | 2022-12-08 |  |
 | [Soul Seekers](https://open.spotify.com/track/3Fq3RyAi4ATABmdIgyfeSm) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Soul Seekers](https://open.spotify.com/album/0w3cHPzFHsKTeYFZMgXZNS) | 3:41 | 2022-10-06 | 2022-12-09 |
 | [Soul Seekers \- Joachim Pastor Remix](https://open.spotify.com/track/0OaPgWQe0OrOamArbbAga9) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Soul Seekers \(Joachim Pastor Remix\)](https://open.spotify.com/album/69ToKf1GTf7ldT3SXK7Cfq) | 4:34 | 2022-11-10 |  |

@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,233 songs - 2 day 11 hr 36 min
+1,234 songs - 2 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [i got it](https://open.spotify.com/track/09MQjbV6eiOAMmL3Uwus6P) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE) | [i got it](https://open.spotify.com/album/0DPNAxqZmxsG5cIIRu1mUq) | 3:33 | 2022-03-22 | 2022-07-01 |
 | [I Have a List of Names](https://open.spotify.com/track/4DeXZXlvnz7lUzsAaeIUCa) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [I Have a List of Names](https://open.spotify.com/album/5MxEXcfCMhQpXQPCA1WQmL) | 2:56 | 2021-01-30 | 2021-10-16 |
 | [I Heard You Bought a Gun](https://open.spotify.com/track/4mjzA3I0QhNNA3WRMqHK5t) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [you'll be dead before you know it](https://open.spotify.com/album/6KLiLpuoG3C6f6FuA7AICj) | 2:26 | 2022-03-29 | 2022-05-12 |
+| [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 | 2023-01-06 |  |
 | [i might like u](https://open.spotify.com/track/2DI4mFhCkWoVK5fyLv9q4v) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Midnight](https://open.spotify.com/album/2awUCq0Bf4VWSGQrSxl1Eb) | 2:15 | 2020-11-20 | 2021-05-03 |
 | [i remember](https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i remember](https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc) | 3:23 | 2021-09-24 | 2021-10-12 |
 | [I Shake That Ath](https://open.spotify.com/track/3WuVc0mHidnThPj0K3Dilz) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [I Shake That Ath](https://open.spotify.com/album/5JC5WScfG0jI8VkXQnfhcF) | 2:48 | 2020-10-16 | 2021-02-27 |
@@ -793,7 +794,7 @@
 | [Out My Head](https://open.spotify.com/track/4vPoabHSXopY6RzY9atmUe) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Out My Head](https://open.spotify.com/album/1O7sWuEyCsa9UtlXJwXDTP) | 2:17 | 2020-11-03 | 2021-05-15 |
 | [OVER EVERYTHING](https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [OVER EVERYTHING](https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM) | 3:11 | 2022-03-18 | 2022-04-10 |
 | [Overflow](https://open.spotify.com/track/74r1DelsIM4EFBH4Ts0DlJ) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Overflow](https://open.spotify.com/album/7AgRvwdxUPCIYW9hL41IB1) | 2:58 | 2022-04-29 | 2022-06-11 |
-| [overpaid \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/2LVeGtvlH8VwDJTP8EHeek) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [post spring, self destruction](https://open.spotify.com/album/3pIwZl4Z1jKi9Je3lMh3Rd) | 2:54 | 2022-11-11 |  |
+| [overpaid \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/2LVeGtvlH8VwDJTP8EHeek) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [post spring, self destruction](https://open.spotify.com/album/3pIwZl4Z1jKi9Je3lMh3Rd) | 2:54 | 2022-11-11 | 2023-01-07 |
 | [Oxygen!](https://open.spotify.com/track/3cRWtWnQhJofNchkKtoXvA) | [Capital Soiree](https://open.spotify.com/artist/1sd5vbMAYXlLoJNTQfY0HV) | [Oxygen!](https://open.spotify.com/album/31alWZq3ftTwk6FlRUeVTu) | 2:16 | 2022-06-17 | 2022-08-06 |
 | [OYSTER](https://open.spotify.com/track/3lFXywaGYF6782Eo4FomFU) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [PASTIMES](https://open.spotify.com/album/4t0W7LDmbu1qCdpREL0w0R) | 3:12 | 2021-08-15 | 2021-10-16 |
 | [PACK 4 DA LOW](https://open.spotify.com/track/77bvhrf6eY9V7eDku7TYs3) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 2:06 | 2021-05-15 | 2021-06-05 |

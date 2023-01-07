@@ -2,7 +2,7 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Stephen Sanchez
+> Discover your favorite new chill pop songs\. Cover: Lily Meola
 
 1,117 songs - 2 day 10 hr 39 min
 

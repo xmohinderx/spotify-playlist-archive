@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-391 songs - 17 hr 34 min
+396 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,9 +33,11 @@
 | [Arctic Breeze](https://open.spotify.com/track/5g91B8gGNBtpceBeLEP2tG) | [Mellow Star](https://open.spotify.com/artist/4BVAeObmdneYygikVQ94gM) | [Arctic Breeze](https://open.spotify.com/album/4OtpZmQxEHLl5YX6zLhlZV) | 2:17 | 2022-12-09 |  |
 | [Atotoztli](https://open.spotify.com/track/48dZLnPkYNhuUZHl36A24f) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [Atotoztli](https://open.spotify.com/album/1uHAS3TEeN3yPGB2nxJZSf) | 2:03 | 2022-07-08 |  |
 | [Avalanche](https://open.spotify.com/track/0VMEBEpEWY56jW7ud5aT94) | [Dreams For Two](https://open.spotify.com/artist/5KXdwqIvJf4lofmV84wIQe) | [Avalanche](https://open.spotify.com/album/1Y2H8LXdK9uu2rfk1em2Lg) | 1:44 | 2022-04-15 |  |
+| [Away From You](https://open.spotify.com/track/65G4iKOfLs0gidAEPAzl50) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Away From You](https://open.spotify.com/album/4yCEPsYP8Ro3qjOZf13jgS) | 1:58 | 2023-01-06 |  |
 | [Ayewete](https://open.spotify.com/track/2ksbaKOkuO1SYyQIqLIX1M) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 2:20 | 2022-02-10 |  |
 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 | 2021-11-10 | 2022-10-14 |
 | [Back to Java](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Back to Java](https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4) | 3:17 | 2021-11-10 |  |
+| [Background Experience](https://open.spotify.com/track/5LK6iUQp2brDC9Dl3xhhPW) | [Ogi Feel the Beat](https://open.spotify.com/artist/03ODvxPFTYW0NS7wnXclYG) | [Stress Reducing \(Original\)](https://open.spotify.com/album/0XiLezwfHR3mKG1S0QwpXa) | 4:27 | 2023-01-06 |  |
 | [Backpacked](https://open.spotify.com/track/76Cduh6Txq8dnZ8o6bLRGU) | [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Backpacked](https://open.spotify.com/album/0KRPqPM8JroUiD9zom2kaj) | 2:09 | 2022-10-28 |  |
 | [Baines Brains](https://open.spotify.com/track/4mYZMVHrAEVQUexcjwuHHa) | [Onedin](https://open.spotify.com/artist/7KrGMuULLxPvuxjbfmUSyj) | [Baines Brains](https://open.spotify.com/album/10oADYbyibQzzhvtqKLyjv) | 3:21 | 2021-11-10 | 2022-05-20 |
 | [Beach Vacay](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Beach Vacay](https://open.spotify.com/album/3GCaSyRf0LPvVGj4s7n3mW) | 2:41 | 2021-11-10 |  |
@@ -124,6 +126,7 @@
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2021-11-10 | 2022-10-07 |
 | [floaty](https://open.spotify.com/track/6K250yvOotlfeDRzUyFdIK) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [floaty](https://open.spotify.com/album/6u13flQo08XtfdftYWNjY7) | 2:18 | 2022-10-28 |  |
 | [Flow](https://open.spotify.com/track/2X74XD1uMFMrl2MXgG95Y1) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Flow](https://open.spotify.com/album/2LMpczTAWQqqK35la4mJcq) | 1:45 | 2021-11-10 | 2022-10-14 |
+| [Flowers](https://open.spotify.com/track/1DCK1OSYbuD0y6UiKihULg) | [Paraceta](https://open.spotify.com/artist/4WOcTt3WS2TuaWc5yMcBFw) | [Flowers](https://open.spotify.com/album/0CHTY7ocNOvM1bMyM9Cos0) | 2:16 | 2023-01-06 |  |
 | [Flutters](https://open.spotify.com/track/3tEc1mPR0KHqpTOu7YJJGW) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Beauty in the Ruins](https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A) | 2:39 | 2022-06-17 |  |
 | [Focused Projections](https://open.spotify.com/track/1W2z4uJzZuA0r0MDQWJvex) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Clusters](https://open.spotify.com/album/7mPBccYXc1Wkx45EGsN0ir) | 3:25 | 2021-11-10 | 2022-07-08 |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2021-11-10 |  |
@@ -196,6 +199,7 @@
 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 | 2021-11-10 | 2022-06-10 |
 | [let it be](https://open.spotify.com/track/0KNi97NfOrRQdeM05jVSCv) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [let it be](https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF) | 2:05 | 2022-01-21 |  |
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2021-11-10 | 2022-02-11 |
+| [lights out](https://open.spotify.com/track/4VPY9FS6kOmJSBu60bHn32) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [lights out](https://open.spotify.com/album/7omdHaoEHAkSTLh9VVUmdJ) | 3:05 | 2023-01-06 |  |
 | [Lightweight](https://open.spotify.com/track/75kGb3NugyzVZ2JOyEV6gN) | [Going North](https://open.spotify.com/artist/7inHxv9DhiskK3UJOU3FXA) | [Lightweight](https://open.spotify.com/album/7FRiFJTmFTnEDbODaZlAZM) | 2:53 | 2022-11-25 |  |
 | [Limoncello](https://open.spotify.com/track/3hiMfIXRuD4OAjD6F5VLQb) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Limoncello](https://open.spotify.com/album/1mUX9DSCKssZvL9SAJiaR3) | 2:26 | 2022-07-15 |  |
 | [lipshells](https://open.spotify.com/track/2nfYoMN2329hAlwbPhVJuf) | [cowa cowa](https://open.spotify.com/artist/0OslD5KMKoNQvrXv7DR5VC) | [lipshells](https://open.spotify.com/album/5noCjiE5k92zUycUGD0QVq) | 2:52 | 2021-11-10 | 2022-07-08 |
@@ -295,6 +299,7 @@
 | [Rhodes](https://open.spotify.com/track/2EFTZJN5orePrHn2k6Lsxe) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Rhodes](https://open.spotify.com/album/3ib4ZrpTSLEEqPIt49BnGs) | 3:48 | 2021-11-10 | 2022-09-02 |
 | [Rise](https://open.spotify.com/track/36XEBgGn2zTURfa3yvKpNV) | [Gold Coast Microscopes](https://open.spotify.com/artist/1cp4bfGnJTQ2JImmeBCzMu) | [Poolside](https://open.spotify.com/album/5tkPyaVRCTnUwXozgKpvB8) | 2:11 | 2022-06-03 | 2022-06-10 |
 | [Rolling Waves](https://open.spotify.com/track/5Z7UJUFFqFUeoH4kI1rBQu) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Rolling Waves](https://open.spotify.com/album/6xxZBlJhExbVHs3qJvTkJm) | 2:22 | 2021-11-10 |  |
+| [Rondo a la cocoa](https://open.spotify.com/track/4lHzdbjFiGX11qRNp3rHFj) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Rondo a la cocoa](https://open.spotify.com/album/2t50Ct2aoWoalmAzkv24te) | 2:21 | 2023-01-06 |  |
 | [Rooftop Grill](https://open.spotify.com/track/61MsjQN0Q7KahSXROkTuCT) | [My Ol' Man](https://open.spotify.com/artist/37j2MNjIAKO9lXKTXlhxJM) | [Rooftop Grill](https://open.spotify.com/album/15zZne87pgRocffEgZX7CO) | 2:22 | 2021-11-10 | 2022-09-17 |
 | [Rose](https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Rose](https://open.spotify.com/album/6O3C5aOvvsqxAVfcyL1nvV) | 2:59 | 2021-11-10 |  |
 | [Roses are Pink](https://open.spotify.com/track/1Q1cgTXvpnwQ8Kd3jb0gMC) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Roses are Pink](https://open.spotify.com/album/1T4fZKskN0Pigykr6opSkA) | 2:27 | 2022-09-02 |  |

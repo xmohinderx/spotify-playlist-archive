@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB?si=kIJ9OaJFRY\-\_DktMB6Logg"> STRAFITTI</a>
 
-311 songs - 15 hr 39 min
+312 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [4AM in Ibiza](https://open.spotify.com/track/03ihazIgZQERyUB2BGAeLb) | [Castro](https://open.spotify.com/artist/35o4S4FOdo7sF0mn2Qd2O8) | [Triple Take, Vol\. II](https://open.spotify.com/album/31ISMmTdreHPGIZd9ddM4M) | 2:42 | 2022-02-17 | 2022-03-12 |
 | [500 DEGREES](https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [500 DEGREES](https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A) | 2:10 | 2022-10-28 | 2022-12-02 |
 | [5STAR](https://open.spotify.com/track/2SbUl2NjInfY4DyeEzZS7d) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [5STAR](https://open.spotify.com/album/6AyJAGUMwWM0jNmZiLvP8R) | 2:40 | 2021-12-16 | 2022-10-29 |
+| [7 DAYS](https://open.spotify.com/track/6ZVhEsRHDUpA8AzNmTBeJu) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [RAIN](https://open.spotify.com/album/1fzWfjXUPWwhW4eEnX4tLW) | 2:11 | 2023-01-06 |  |
 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 | 2022-04-28 | 2022-08-13 |
 | [Abeg](https://open.spotify.com/track/6oytl8EePHa4CRuaBfzJgD) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Abeg](https://open.spotify.com/album/4f5jNZ01xZqrhH0FszjrWf) | 4:13 | 2022-11-24 | 2022-12-09 |
 | [Abeg \(feat\. Amindi\)](https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Stairway To Heaven](https://open.spotify.com/album/2gllP0wR0siE0NYM9U5Tjb) | 3:23 | 2021-12-02 | 2022-12-02 |
@@ -95,7 +96,7 @@
 | [Don't Be Shy](https://open.spotify.com/track/77WyHfWYb6sWhPJ5GeeUmo) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Don't Be Shy](https://open.spotify.com/album/7iPzgjVOJ2zQE9oismpvn2) | 2:34 | 2021-02-26 | 2022-04-08 |
 | [Don't Care](https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Senth Of Her](https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu) | 3:22 | 2022-12-18 |  |
 | [DRAMA QUEEN](https://open.spotify.com/track/51MaFLZUzEE2mU5F4pSIZh) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Denim](https://open.spotify.com/album/38r3tXAVmVr8MpbFWUWEnG) | 2:11 | 2022-09-15 | 2022-10-14 |
-| [Drop Off](https://open.spotify.com/track/38bgf6do56GuZQZfBnKfH3) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Drop Off](https://open.spotify.com/album/44B8aoG9cCvnb4bmLCheap) | 2:32 | 2022-12-08 |  |
+| [Drop Off](https://open.spotify.com/track/38bgf6do56GuZQZfBnKfH3) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Drop Off](https://open.spotify.com/album/44B8aoG9cCvnb4bmLCheap) | 2:32 | 2022-12-08 | 2023-01-07 |
 | [Early Momo](https://open.spotify.com/track/3wYuNJPSFESv8kQ5HMQaGA) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Good Girl LA](https://open.spotify.com/artist/0qiNIeeeTOtNE6YHZ0c56e) | [Early Momo](https://open.spotify.com/album/202NJs9xDY00wxMTSRQhVu) | 3:13 | 2021-02-26 | 2022-02-25 |
 | [EDMP \( E Dey Move Person\)](https://open.spotify.com/track/5jkbCSJQcZyniK0WPRvVQw) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [NATIVEWORLD](https://open.spotify.com/album/1ZJjKmDNfYzur7u3IfMcIH) | 1:27 | 2022-08-18 | 2022-09-15 |
 | [EDMP \(E Dey Move Person with Cruel Santino\)](https://open.spotify.com/track/2vf1v4p98qn3nS85BMPcgy) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [NATIVEWORLD](https://open.spotify.com/album/66qZw3xUgH56lpOlDvXyPO) | 1:27 | 2022-08-18 |  |
@@ -246,7 +247,7 @@
 | [Saviour](https://open.spotify.com/track/5NaYtbE1183SMAa57dDH8w) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [Saviour](https://open.spotify.com/album/1g4JkRkSgMy2DwaO2Kb7aJ) | 2:25 | 2022-05-19 | 2022-05-27 |
 | [Selense](https://open.spotify.com/track/7k5p0y3ujvszuxWoeJJpxO) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Selense](https://open.spotify.com/album/6qqM3masriqBhSobcZVmAt) | 3:57 | 2021-07-09 | 2022-03-12 |
 | [Serenade](https://open.spotify.com/track/0Hv7LgRPIYEJMpjQkGIWTi) | [Begho](https://open.spotify.com/artist/3TTy6LYKVib6oOmyEq0QZb), [Loti](https://open.spotify.com/artist/68vnTeEFYHwyYIviDda37B) | [Serenade](https://open.spotify.com/album/7AsdQ9pfh57nuYV6vZedF9) | 2:23 | 2021-07-02 | 2022-01-28 |
-| [Serpent](https://open.spotify.com/track/75sj0jvAGespYP7lcm4iQR) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Toxic Sweet](https://open.spotify.com/album/6XZEdNXjaagyQVpbi5aioZ) | 1:42 | 2022-09-29 |  |
+| [Serpent](https://open.spotify.com/track/75sj0jvAGespYP7lcm4iQR) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Toxic Sweet](https://open.spotify.com/album/6XZEdNXjaagyQVpbi5aioZ) | 1:42 | 2022-09-29 | 2023-01-07 |
 | [Shining \(feat\. Tay Iwar & Zlatan\)](https://open.spotify.com/track/5YRTadZ4cj2kxzEG2UcS28) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Afrikan Rebel](https://open.spotify.com/album/4iEeNMH7ooC4Hwy0J6rQB4) | 3:40 | 2021-09-16 | 2022-03-12 |
 | [Should We Try](https://open.spotify.com/track/5SLGCYDB44nVPKRQf1jJHj) | [David Bolton](https://open.spotify.com/artist/4rpPz9ZDWhFXcMKnkGF7CG) | [Should We Try](https://open.spotify.com/album/2lhXDm1QXyIpXVeEOAGxNQ) | 3:45 | 2022-01-13 | 2022-02-04 |
 | [Silent Action](https://open.spotify.com/track/384gKomRoOZASNswYQk9Se) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [Silent Action](https://open.spotify.com/album/3n2vKiIDdlqLVRuzC1azeF) | 2:18 | 2022-07-28 | 2022-09-16 |

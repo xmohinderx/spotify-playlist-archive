@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-854 songs - 20 hr 1 min
+855 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,6 +705,7 @@
 | [Stained Glass Memory](https://open.spotify.com/track/1JtQCKXlzjxbNfYXIFKTEW) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Hillside Reflections](https://open.spotify.com/album/3uRHm02elkBXbWQ06eOGnQ) | 1:06 | 2022-01-12 |  |
 | [Stained Glass Reflecting](https://open.spotify.com/track/0iM1is9T2It1mwRn1KAtjl) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Slow Rising Hope](https://open.spotify.com/album/05bFtzLqr4sBPsxne7idU8) | 1:04 | 2022-01-16 |  |
 | [Stained Glass Reflecting On You](https://open.spotify.com/track/3tIFXLKfZT1mNPopYSeudL) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Tenderness](https://open.spotify.com/album/5cqsHPHamgtgv6JUuuKW8j) | 1:02 | 2022-02-11 |  |
+| [Starlight \- Cello Version](https://open.spotify.com/track/2Ehn3ffEFWFjMnZ0tRx1kW) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Starlight \(Cello Version\)](https://open.spotify.com/album/3R23khyyllqyiq6Icw4zV4) | 1:01 | 2023-01-06 |  |
 | [Starry Night](https://open.spotify.com/track/1mlwBOEGtzJzmaPWalhqSy) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Gentle Flow](https://open.spotify.com/album/2xnFA2PQopVi0ZGeOi9g9I) | 1:01 | 2022-05-25 |  |
 | [Stars in My Dreams](https://open.spotify.com/track/4IUlrZ3gBk49DmrBohg5AW) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Solace](https://open.spotify.com/album/4dP9u4vO1TEht5cxYPU2Uw) | 1:45 | 2022-01-12 |  |
 | [Stay](https://open.spotify.com/track/0nJpXrkQBTXouGDl6NVEHe) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Healing Times](https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7) | 1:13 | 2022-01-12 |  |

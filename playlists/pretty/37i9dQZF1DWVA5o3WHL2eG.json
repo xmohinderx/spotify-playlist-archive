@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Lilly Palmer",
-  "num_followers": 23312,
+  "num_followers": 23329,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMDNhMDk3N2M3NDU4MGUxZTEwOTE2YTYxYjhmYmFkYTNk",
+  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMDI4NjQwNzdjZjZkN2UwYTZmZTA0ZjcxZTExZTEwZWNl",
   "tracks": [
     {
       "added_at": "2023-01-03 23:00:00",
@@ -263,22 +263,18 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "PANIK",
-        "url": "https://open.spotify.com/album/6QN8IJaxfKDuMW6Dg7N1uc"
+        "name": "Junge",
+        "url": "https://open.spotify.com/album/423IoNr4MW1JOAoEIfcR5E"
       },
       "artists": [
         {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5"
-        },
-        {
-          "name": "KAAS",
-          "url": "https://open.spotify.com/artist/6Rej5jPj4nu1O8hW04Iffk"
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
         }
       ],
-      "duration_ms": 203360,
-      "name": "PANIK",
-      "url": "https://open.spotify.com/track/7JDZYzLx19WN1BHbxjLeEZ"
+      "duration_ms": 227008,
+      "name": "Junge",
+      "url": "https://open.spotify.com/track/6QmuVe9sMixiRdizHHHau3"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -299,6 +295,26 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
+        "name": "PANIK",
+        "url": "https://open.spotify.com/album/6QN8IJaxfKDuMW6Dg7N1uc"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5"
+        },
+        {
+          "name": "KAAS",
+          "url": "https://open.spotify.com/artist/6Rej5jPj4nu1O8hW04Iffk"
+        }
+      ],
+      "duration_ms": 203360,
+      "name": "PANIK",
+      "url": "https://open.spotify.com/track/7JDZYzLx19WN1BHbxjLeEZ"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
         "name": "Instabil",
         "url": "https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 154976,
       "name": "Instabil",
       "url": "https://open.spotify.com/track/287EfmsRlLBJWpdMc0gKVH"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
-        "name": "Junge",
-        "url": "https://open.spotify.com/album/423IoNr4MW1JOAoEIfcR5E"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 227008,
-      "name": "Junge",
-      "url": "https://open.spotify.com/track/6QmuVe9sMixiRdizHHHau3"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Watergate 20 Years (Pt. 1/8)",
-        "url": "https://open.spotify.com/album/0ChBYkZ5b2rZWVrlLolWg5"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 416783,
-      "name": "Lima",
-      "url": "https://open.spotify.com/track/7GtRGZmitPBbHFZVrDHqi7"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "15 Years",
         "url": "https://open.spotify.com/album/1r2fWcGwEVYuU9GOvv2BHJ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 198682,
       "name": "15 Years",
       "url": "https://open.spotify.com/track/5XfhFRT2iIXD9zhjiOoau7"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "Watergate 20 Years (Pt. 1/8)",
+        "url": "https://open.spotify.com/album/0ChBYkZ5b2rZWVrlLolWg5"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 416783,
+      "name": "Lima",
+      "url": "https://open.spotify.com/track/7GtRGZmitPBbHFZVrDHqi7"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Everyone Is Getting Old",
-        "url": "https://open.spotify.com/album/3Xwqx2pcOau4AG8Z2p9LGR"
-      },
-      "artists": [
-        {
-          "name": "Lener",
-          "url": "https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "Everyone Is Getting Old",
-      "url": "https://open.spotify.com/track/4nR4CvWevA2NnmfpXL5D24"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "a line in my skin",
         "url": "https://open.spotify.com/album/1kmmKwqENIDHbavzvodyu5"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 216235,
       "name": "a line in my skin",
       "url": "https://open.spotify.com/track/1ke4aQ72kFgtq0g3Chl4iB"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "Everyone Is Getting Old",
+        "url": "https://open.spotify.com/album/3Xwqx2pcOau4AG8Z2p9LGR"
+      },
+      "artists": [
+        {
+          "name": "Lener",
+          "url": "https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "Everyone Is Getting Old",
+      "url": "https://open.spotify.com/track/4nR4CvWevA2NnmfpXL5D24"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Not The Right Time For Us",
-        "url": "https://open.spotify.com/album/3Mzq3kobahQ8a51Xlxg5Pd"
-      },
-      "artists": [
-        {
-          "name": "metty",
-          "url": "https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW"
-        }
-      ],
-      "duration_ms": 122200,
-      "name": "Unlove You",
-      "url": "https://open.spotify.com/track/3VT0uoVyIkrcRrWmc4joe6"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "Daddy Unser",
         "url": "https://open.spotify.com/album/7B9XeLLudUpF59vCn7GJ3Y"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 213000,
       "name": "Daddy Unser",
       "url": "https://open.spotify.com/track/1diFCd0OpnTtKYowfNj07K"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "Not The Right Time For Us",
+        "url": "https://open.spotify.com/album/3Mzq3kobahQ8a51Xlxg5Pd"
+      },
+      "artists": [
+        {
+          "name": "metty",
+          "url": "https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW"
+        }
+      ],
+      "duration_ms": 122200,
+      "name": "Unlove You",
+      "url": "https://open.spotify.com/track/3VT0uoVyIkrcRrWmc4joe6"
     },
     {
       "added_at": "2023-01-03 23:00:00",

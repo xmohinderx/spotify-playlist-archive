@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-94 songs - 7 hr 1 min
+97 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/0eZNkuyJGeNGHxBxcXzHRq) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/1zHWMhbLzLP2mjQnuqJnqL) | 5:57 | 2022-06-24 | 2022-07-29 |
 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 5:57 | 2022-06-24 |  |
 | [99 Year Blues](https://open.spotify.com/track/7GQZYw55Juuq3tntjZJzZt) | [Hot Tuna](https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7) | [Burgers](https://open.spotify.com/album/0NWwuGPSfuj9H0OMUDikws) | 3:59 | 2022-06-24 |  |
+| [A Change Is Gonna Come](https://open.spotify.com/track/0JCiStjQ3LqDn6Ijni8wFf) | [Bonny B.](https://open.spotify.com/artist/0awWK2CDOk4vhdtqs6WlOG) | [Freedom](https://open.spotify.com/album/51Q8xb6yKqRdETYMUDj9mo) | 7:09 | 2023-01-06 |  |
 | [A Change Is Gonna Come \- Live](https://open.spotify.com/track/7KxGNaPXmhRwdjio3ttD69) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Live +](https://open.spotify.com/album/5LTErKR4sVxrANiPNLcYI8) | 7:20 | 2022-06-24 |  |
 | [A Little Less Conversation](https://open.spotify.com/track/2XbxdAWaC7UfQRE11JYGP4) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [Watch Your Back](https://open.spotify.com/album/5WwzmetgQlGwtddMt3FQaD) | 4:04 | 2022-06-24 | 2022-07-29 |
 | [A Little Less Conversation](https://open.spotify.com/track/73qNHMPnanBGsxD1cQ2ojn) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [Watch Your Back](https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW) | 4:04 | 2022-07-08 |  |
@@ -65,6 +66,7 @@
 | [I'd Rather Go Blind](https://open.spotify.com/track/1RlNXHNrVkFd0ExMdGRSRZ) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4927jpQNUFVlKNZt3Lzwpg) | 3:17 | 2022-10-14 | 2022-11-14 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/5i1T44coT8wyZpCMd4F4O8) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:17 | 2022-07-08 |  |
 | [I'll Play the Blues for You](https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao) | [Frank Marino](https://open.spotify.com/artist/4N7EfXrDs4KJFXuN2BIuCT) | [L.A\. Blues Authority Vol\. Iv: Fit for a King](https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w) | 5:30 | 2022-06-24 |  |
+| [I'm a Woman](https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8) | [Louise Phelan](https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc), [Octavio Herrero](https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB) | [Azules](https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf) | 4:07 | 2023-01-06 |  |
 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 4:32 | 2022-06-24 |  |
 | [I’ve Been Loving You Too Long \(Live\)](https://open.spotify.com/track/5D0ZRPvZOCbR520eCZ5mCs) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 6:52 | 2022-06-24 |  |
 | [Judgement Day](https://open.spotify.com/track/6ZdCKxcNoLgJfQBCncD2SU) | [Wentus Blues Band](https://open.spotify.com/artist/6RS2f6BOaKgqByAkXgpRJ9), [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Too Much Mustard](https://open.spotify.com/album/3qBcJfdrKT98tvXZqcIqsO) | 3:43 | 2022-06-24 |  |
@@ -88,11 +90,12 @@
 | [Stop!](https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:48 | 2022-06-24 |  |
 | [Stormy Monday Blues](https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 4:23 | 2022-06-24 |  |
 | [Sweet Home Chicago \- Mono Rough Mix](https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues \(Expanded\)](https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ) | 4:00 | 2022-06-24 |  |
+| [Taxman](https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI) | [Teresa James](https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C) | [Taxman](https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee) | 3:26 | 2023-01-06 |  |
 | [Te Ni Nee Ni Nu](https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [All Time Favorites: Lou Ann Barton](https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ) | 2:54 | 2022-06-24 |  |
 | [The Sky Is Crying](https://open.spotify.com/track/5F1PDuoQ9ajtBnKAPVOqT4) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Stax Profiles: Albert King](https://open.spotify.com/album/5QeVc1L4mudB1lsTNeeiGL) | 4:11 | 2022-10-14 |  |
 | [There's A Bright Side Somewhere](https://open.spotify.com/track/3ThRt0CKd9Fu3d4SiSYf69) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [River Of Time](https://open.spotify.com/album/6FwFt4jIkHCRg09cqOQhXU) | 2:59 | 2022-06-24 |  |
 | [Tom Cat Blues](https://open.spotify.com/track/3XPY2HNMUsCPXOGKWXcPQn) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Blue Country Heart](https://open.spotify.com/album/2bj1nmObmKUBAYmznB3crd) | 3:03 | 2022-06-24 | 2022-07-29 |
-| [Tom Cat Blues](https://open.spotify.com/track/69LGgafa9setHOHVyPQyJK) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Blue Country Heart](https://open.spotify.com/album/4p6mFvVULKm6iU8BXksH6r) | 3:03 | 2022-07-08 | 2022-12-08 |
+| [Tom Cat Blues](https://open.spotify.com/track/69LGgafa9setHOHVyPQyJK) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Blue Country Heart](https://open.spotify.com/album/4p6mFvVULKm6iU8BXksH6r) | 3:03 | 2022-07-08 |  |
 | [Travelling Riverside Blues \(BBC Session\) \- Remastered](https://open.spotify.com/track/3dCarMp6T3GsKCspJgeD0a) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Coda \(Deluxe Edition\)](https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd) | 5:11 | 2022-06-24 |  |
 | [Uncle Sam Blues \- Live](https://open.spotify.com/track/3YqtzrRTFoEUWdFXxmFHJP) | [Hot Tuna](https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7) | [Hot Tuna](https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL) | 4:57 | 2022-06-24 |  |
 | [Under My Thumb](https://open.spotify.com/track/32rkgJbRDxBoCocsT6iSrd) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 4:25 | 2022-06-24 |  |

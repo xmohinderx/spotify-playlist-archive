@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 84 | [Untitled 2](https://open.spotify.com/track/1QSsN1kMaKv0Vx3pYw7FNj) | [다정 Dajung](https://open.spotify.com/artist/4MisLzbilh7iF4SvLWd77C) | [Jay Knife](https://open.spotify.com/album/14cBsBAuKSnwZPe6brHuSD) | 3:49 |
 | 85 | [MERRY GO ROUND](https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [MERRY GO ROUND](https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM) | 3:20 |
 | 86 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 |
-| 87 | [Last Call](https://open.spotify.com/track/5saaGZgz1R2TBeB0mDZHIL) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop](https://open.spotify.com/album/3eQwoUhBTy2F89F4K4dmRI) | 2:52 |
+| 87 | [Last call](https://open.spotify.com/track/6frkpzV7cJB5hC9uzsoJ0v) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop](https://open.spotify.com/album/7pdadTDX7TqjlkWYk01ON3) | 2:52 |
 | 88 | [Around](https://open.spotify.com/track/0WGDTNPUH5ywFcatKn4DUo) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Around](https://open.spotify.com/album/6tICS1jK7fDG4e2Mmlcsw3) | 4:49 |
 | 89 | [Dry Flower](https://open.spotify.com/track/1Dqo8RY50LMCvjjA3kOrNZ) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [I Know](https://open.spotify.com/album/62r3CabGyFZ0nkJLr5vean) | 3:03 |
 | 90 | [The Lights Behind You](https://open.spotify.com/track/166iAk7X9kL8MflEfDm89P) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Aren't You?](https://open.spotify.com/album/1pyBgBOQTAvZcIEcCluNj6) | 5:12 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 113 | [Lip balm](https://open.spotify.com/track/4wii40hlqbVqbSeXuDtySq) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [\[DELICIOUS\]](https://open.spotify.com/album/03b7sXntDsxzF3nG9KmJ8G) | 3:16 |
 | 114 | [Happy Birthday](https://open.spotify.com/track/5WBC8Ymk4UsMecQgLpwfqQ) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [\[3\-2=A\]](https://open.spotify.com/album/12f7MPJxreN85KhapL4Ayz) | 3:05 |
 
-Snapshot ID: `MTY2NjQzMjM1MiwwMDAwMDAwMDZiYmUxMzU4N2EwNjM0YWIzMDM5Y2E4ODRiM2QzNmVl`
+Snapshot ID: `MTY2NjQzMjM1MiwwMDAwMDAwMDA2YmU4NTNjNGM2ZGYzM2M2N2RlNmM2YjhmNDI4YzVk`

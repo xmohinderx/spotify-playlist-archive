@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,697 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,701 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 41 | [Thunder & Blazes](https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [More Best of the Dukes of Dixieland, Vol\. 2](https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI) | 2:15 |
 | 42 | [While We Danced at Mardi Gras](https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d) | [Sharkey Bonano](https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM) | [Mardi Gras Parade Music from New Orleans](https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o) | 4:45 |
 | 43 | [Bugle Boy March](https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx) | 5:15 |
-| 44 | [Dippermouth Blues](https://open.spotify.com/track/0OR6wvvgo0MXjlxsNrgmb7) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans, Vol\. 2](https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm) | 2:38 |
-| 45 | [Ring On Her Fingers](https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI) | [Dixieland Band](https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E) | [Kings Of Dixieland](https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71) | 2:19 |
+| 44 | [Ring On Her Fingers](https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI) | [Dixieland Band](https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E) | [Kings Of Dixieland](https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71) | 2:19 |
+| 45 | [Dippermouth Blues](https://open.spotify.com/track/0OR6wvvgo0MXjlxsNrgmb7) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans, Vol\. 2](https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm) | 2:38 |
 | 46 | [Lassa's Trombone](https://open.spotify.com/track/40GGKzPCqYCqhydSjk3d6Y) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [The Best Of Dixieland Volume 2](https://open.spotify.com/album/1RB0fpiwqDNTEn6OECBiTV) | 2:47 |
 | 47 | [The Billboard](https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [On Parade](https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ) | 2:16 |
 | 48 | [We're Gonna Have Smooth Sailing](https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [The Incomparable Henry Red Allen: The Golden Years, Vol\. 2](https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK) | 2:50 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Dixie](https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP) | [Billy Randolph](https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF), [The High Hatters](https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u) | [Roaring' 20's](https://open.spotify.com/album/6yGyFKhtYmeatToldl421e) | 3:02 |
 | 55 | [Semper Fidelis](https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [4th of July Parade: 30 Patriotic Marches for Independence Day](https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj) | 3:09 |
 
-Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMDhjYjYyYjM3NDJhZTAyZTI3ZmZmOTM2YTQzNjlkMGRj`
+Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMDAxNWU0Y2NkNzYzYTM0NTVmMDA3MzY1NzM2YzZhMTE2`

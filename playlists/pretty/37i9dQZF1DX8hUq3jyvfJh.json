@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMDVmN2QyNTA1MjEyNjQ3NzYyOTA0MDIyZmM5MWI1YmNk",
+  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMGU4MDc5MGRiNzg5MDJiYWZkZTFmYjE1ZWI0Y2NlMWZl",
   "tracks": [
     {
       "added_at": "2023-01-04 03:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Habilidades Extraordin\u00e1rias",
-        "url": "https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx"
-      },
-      "artists": [
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        }
-      ],
-      "duration_ms": 305073,
-      "name": "Sama\u00fama",
-      "url": "https://open.spotify.com/track/3O1niyU6tCU8hIH5GJUH8o"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "N\u00f3s",
         "url": "https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 216344,
       "name": "Cabe\u00e7a erguida",
       "url": "https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Habilidades Extraordin\u00e1rias",
+        "url": "https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx"
+      },
+      "artists": [
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        }
+      ],
+      "duration_ms": 305073,
+      "name": "Sama\u00fama",
+      "url": "https://open.spotify.com/track/3O1niyU6tCU8hIH5GJUH8o"
     },
     {
       "added_at": "2023-01-04 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Trueno & JID
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,647 likes - 120 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,688 likes - 120 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 97 | [EL INCA](https://open.spotify.com/track/4RYKjXtPtf4fjIeMpb3VZ3) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 3:32 |
 | 98 | [La Que Hay](https://open.spotify.com/track/5XCIh9cKTUdAMz6jovPVEo) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [La Que Hay](https://open.spotify.com/album/1JEbUd7kAG7lLqen6Jit6p) | 3:08 |
 | 99 | [FOLLOWS](https://open.spotify.com/track/13HFRTXdWFvXIRxGsjLsWc) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [FOLLOWS](https://open.spotify.com/album/6MkEiKy5O4kGghEqO9rt7E) | 3:57 |
-| 100 | [Rosa](https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Rosa](https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL) | 3:00 |
-| 101 | [Rolex](https://open.spotify.com/track/3ngemaN0E275eFYjHdrmw0) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z) | [Rolex](https://open.spotify.com/album/1LEWufsU7xMe9G83r5DGTt) | 3:58 |
+| 100 | [Rolex](https://open.spotify.com/track/3ngemaN0E275eFYjHdrmw0) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z) | [Rolex](https://open.spotify.com/album/1LEWufsU7xMe9G83r5DGTt) | 3:58 |
+| 101 | [Rosa](https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Rosa](https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL) | 3:00 |
 | 102 | [Jorge Al Niño \(feat\. Lefty Sm\)](https://open.spotify.com/track/13TdyyKFfD2a1G1Ze467t1) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:13 |
 | 103 | [Chapter 1: Comentarios](https://open.spotify.com/track/68UjQzzvXO0HTZvMEkcTsx) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Elio Mafiaboy](https://open.spotify.com/artist/220fH9KvHqXP9T4r3IwlJH) | [Chapter 1: Comentarios](https://open.spotify.com/album/7msrBR2PXYJy3epn5hbruN) | 3:13 |
 | 104 | [Bacanora](https://open.spotify.com/track/1Sn1dtN2rVnOo3cqelNFRb) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Los del Noro](https://open.spotify.com/album/4OM4r8Pzin9wdBpPLPXNep) | 3:31 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 116 | [Seres de Noche](https://open.spotify.com/track/4hRWp9ouazLXyfZpucb621) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Seres de Noche](https://open.spotify.com/album/7lmm7sVUgcVkSLlXD4hdi0) | 3:48 |
 | 117 | [Cotidiano](https://open.spotify.com/track/7G2pomkPBvmMIzT5H7Pt2v) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Cotidiano](https://open.spotify.com/album/0vIS13618HUMjfeFcbXIoM) | 2:12 |
 | 118 | [Stripper X](https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Soñando en PR](https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5) | 2:38 |
-| 119 | [Uh yeah](https://open.spotify.com/track/1PaH6xUsycYE68nsXL4j3I) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Uh yeah](https://open.spotify.com/album/1ofnoofcnmiI5N1cGeXqJD) | 3:32 |
-| 120 | [Reset](https://open.spotify.com/track/2FmUnhzYRfemmL0uAxjeJa) | [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Reset](https://open.spotify.com/album/6rMh8VwpK8SK2Uzrlihllf) | 2:18 |
+| 119 | [Reset](https://open.spotify.com/track/2FmUnhzYRfemmL0uAxjeJa) | [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Reset](https://open.spotify.com/album/6rMh8VwpK8SK2Uzrlihllf) | 2:18 |
+| 120 | [Uh yeah](https://open.spotify.com/track/1PaH6xUsycYE68nsXL4j3I) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Uh yeah](https://open.spotify.com/album/1ofnoofcnmiI5N1cGeXqJD) | 3:32 |
 
-Snapshot ID: `MTY3MjQzMTU1NywwMDAwMDAwMDYyOWJjNmI1YTdkMTM4NjZmZTk2YTNiYWY3MWIyNzZj`
+Snapshot ID: `MTY3MjQzMTU1NywwMDAwMDAwMDQ5YTAyYzlkYzU3MTE3ZTg5MGQ4MzMwY2QxMzNkNDNj`

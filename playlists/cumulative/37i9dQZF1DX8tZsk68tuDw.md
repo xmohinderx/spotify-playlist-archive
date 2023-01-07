@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Azzecca.
 
-1,913 songs - 4 day 15 hr 20 min
+1,914 songs - 4 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -935,6 +935,7 @@
 | [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 | 2022-08-12 | 2022-10-08 |
 | [LEFT TO RIGHT](https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4dFzMinnMwvmQZLQubahEh) | 2:26 | 2022-08-12 | 2022-09-05 |
 | [Lemme See](https://open.spotify.com/track/1u4pvznoU57shxIRC1SCzE) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Lemme See](https://open.spotify.com/album/6F0OblQzVwDqeezGmVtukA) | 2:47 | 2021-12-10 | 2022-03-12 |
+| [Lennon](https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Lennon](https://open.spotify.com/album/4Whx04xrZZSzMWhKduRWFI) | 3:25 | 2023-01-06 |  |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2022-09-09 | 2022-11-19 |
 | [Let It Go](https://open.spotify.com/track/5bABQWkbZQAdVGhD9HIX4l) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx) | [Let It Go](https://open.spotify.com/album/3ld6eLkg5UurwvwSKraSUX) | 2:57 | 2022-09-30 | 2022-11-05 |
 | [Let Me Go](https://open.spotify.com/track/5WnnOy3qXPS8qOwl3U5KWX) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Zak Leever](https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU) | [Let Me Go](https://open.spotify.com/album/71JDjU89pUcQs36ArVK8qd) | 3:28 | 2022-05-06 | 2022-07-23 |
@@ -1064,7 +1065,7 @@
 | [Marching Band](https://open.spotify.com/track/2kpOZP2szJea4TExBH2DJu) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Marching Band](https://open.spotify.com/album/0dLUc1NOmR5ka8tqnaFYJk) | 3:13 | 2022-03-25 | 2022-06-18 |
 | [Maria Maria](https://open.spotify.com/track/3aQFj0dc2vv6sAhHSVGoFi) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/115d9MPpcQT2sKnjpIW12G) | 2:41 | 2022-12-16 | 2023-01-06 |
 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 | 2022-12-02 | 2023-01-06 |
-| [MAS GASOLINA \(feat\. N.F.I\) \- Raffa FL Remix](https://open.spotify.com/track/2bN2G0rRvutCS9VscUvdtr) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd) | [MAS GASOLINA \(feat\. N.F.I\) \[Raffa FL Remix\]](https://open.spotify.com/album/1MYLHN9B1U64X1S2ffZBhn) | 3:15 | 2022-12-09 |  |
+| [MAS GASOLINA \(feat\. N.F.I\) \- Raffa FL Remix](https://open.spotify.com/track/2bN2G0rRvutCS9VscUvdtr) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd) | [MAS GASOLINA \(feat\. N.F.I\) \[Raffa FL Remix\]](https://open.spotify.com/album/1MYLHN9B1U64X1S2ffZBhn) | 3:15 | 2022-12-09 | 2023-01-07 |
 | [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 | 2022-05-20 | 2022-06-25 |
 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2022-05-13 | 2022-07-16 |
 | [Me & U](https://open.spotify.com/track/06nCnkVALuvvNcBwVRNTUS) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Me & U](https://open.spotify.com/album/2M6deeLX5B02deMpHoOu1G) | 3:33 | 2020-12-05 | 2021-02-19 |

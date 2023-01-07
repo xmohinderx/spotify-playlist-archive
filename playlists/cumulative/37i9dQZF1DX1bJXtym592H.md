@@ -4,7 +4,7 @@
 
 > n3xt l3v3l beats.
 
-138 songs - 5 hr 45 min
+140 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Crunchy](https://open.spotify.com/track/29Vnq6QaHQZnc0y0rPSQSe) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Crunchy](https://open.spotify.com/album/6EjrJfPvnHoJRS15xWXmKJ) | 2:45 | 2022-04-22 |  |
 | [Deep Pockets](https://open.spotify.com/track/6ivtpwLd3ZJW6J9THJP2JP) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Deep Pockets](https://open.spotify.com/album/0hgL3GX8NBVHG26sV0lPmG) | 2:46 | 2022-04-22 |  |
 | [Dream Sailling](https://open.spotify.com/track/1CLQSFom2hv8us4rXiJxGm) | [Billy Nova](https://open.spotify.com/artist/04umGdIV4JxSdiFyoEiaFj) | [Blame the Winds](https://open.spotify.com/album/3A26hgmcTnVx5BcsfYS7rl) | 2:49 | 2022-04-22 |  |
+| [Dryer](https://open.spotify.com/track/3qHPIeckBEFVGEaYdKXbTJ) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Dryer](https://open.spotify.com/album/3dkqT9bcNiPXM0gzcAjfgV) | 2:33 | 2023-01-06 |  |
 | [Evening Ride](https://open.spotify.com/track/5mVuwhsslkuuClVIekKA97) | [Ky\-Fo\-Beatz](https://open.spotify.com/artist/3d8VyDVDObHeXnvYUzFDfA) | [Evening Ride](https://open.spotify.com/album/50jJrDF3VTx4CnZemd3ku3) | 2:19 | 2022-04-22 |  |
 | [Favorbook](https://open.spotify.com/track/3p8aZOtWjsg9QlhvCbOBxO) | [Hatchio](https://open.spotify.com/artist/2yJIW1Ej1HulMn17JJ4kaC) | [Meowmalade](https://open.spotify.com/album/3BPl9HBiCR2AWKTbQSS5bC) | 2:42 | 2022-04-22 |  |
 | [Flip Around](https://open.spotify.com/track/2nQqrEnAZgyP3GcT7tMIdz) | [Eli Stewart](https://open.spotify.com/artist/2cyxeWKnrm59EavSUK4h7O) | [Flip Around](https://open.spotify.com/album/4LZgxPGON2n2BTm3njiVcE) | 2:37 | 2022-04-22 |  |
@@ -87,6 +88,7 @@
 | [New Canary in Town](https://open.spotify.com/track/0kDJu1vVdvQd8zgoGMTjNr) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [New Canary in Town](https://open.spotify.com/album/5krBS3qtNJngoj6GKJwmtq) | 3:17 | 2022-04-22 |  |
 | [New York Moonlight](https://open.spotify.com/track/1I3c85KVlj1VgjnVf6bQ20) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [New York Moonlight](https://open.spotify.com/album/4wHaNXifn7ItMoWWXjp4d8) | 1:59 | 2022-04-22 |  |
 | [Night Ride](https://open.spotify.com/track/2iOoOLkA4AQSdNwxPJlBxH) | [Ganther](https://open.spotify.com/artist/2XP4QAz4wvP1pOO7NprFbJ) | [Night Ride](https://open.spotify.com/album/0NVIX55zaGhZV7GlpMQPQe) | 3:17 | 2022-04-22 |  |
+| [No New Friends](https://open.spotify.com/track/7DZdYHRUXHDfabjkHKoLpf) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [No New Friends](https://open.spotify.com/album/5mzHrv24KXDI1ZYuOm5kNg) | 2:52 | 2023-01-06 |  |
 | [Office Hours](https://open.spotify.com/track/1wT08JjKyu3iUj52fAQAZz) | [Assistant Manager](https://open.spotify.com/artist/15sr5wzsH17p3tFje4h9Tl) | [Office Hours](https://open.spotify.com/album/5sqwRtt3nAnfnlAKITRF1c) | 1:58 | 2022-04-22 |  |
 | [Old Fashioned](https://open.spotify.com/track/0lOP0k0Flt9K3oGd78OwMw) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Old Fashioned](https://open.spotify.com/album/7r26BSZm9wHxpagpuT47hj) | 3:17 | 2022-04-22 |  |
 | [On The Tools](https://open.spotify.com/track/6ngXfR9v3aibV1eFFMI92z) | [Nose Deck Tail](https://open.spotify.com/artist/1QyQ9LA9HRLGfuNeGwJ1pM) | [On The Tools](https://open.spotify.com/album/4qs7aCCS0H7OaH1yw0f5ZP) | 3:12 | 2022-04-22 |  |

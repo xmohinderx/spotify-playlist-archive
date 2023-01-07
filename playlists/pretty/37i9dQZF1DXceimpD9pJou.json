@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Madiel Lara",
-  "num_followers": 114740,
+  "num_followers": 114793,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MzM1NywwMDAwMDAwMDMzMDE4M2RkMzg0MjI0OGJkNmUyMmI0ZTMzNGMzNWE1",
+  "snapshot_id": "MTY3Mjk4MzM1NywwMDAwMDAwMGI5N2ZhYjJlZDRlYWYzMjI5MjdmODU4MDAxNWQzOGZl",
   "tracks": [
     {
       "added_at": "2023-01-06 05:35:57",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
+        "name": "Una Nueva Historia (Espanhol)",
+        "url": "https://open.spotify.com/album/75GTKHL6mcZG5B4Yx6bxG5"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 272895,
+      "name": "Una Nueva Historia - Espanhol",
+      "url": "https://open.spotify.com/track/40ElYEtYTuKC56EwgJltaL"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
         "name": "Yeshua el Sonido de Libertad",
         "url": "https://open.spotify.com/album/30TlihsK5Z82paAmsorcB0"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 323365,
       "name": "Yeshua el Sonido de Libertad",
       "url": "https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
-        "name": "Una Nueva Historia (Espanhol)",
-        "url": "https://open.spotify.com/album/75GTKHL6mcZG5B4Yx6bxG5"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 272895,
-      "name": "Una Nueva Historia - Espanhol",
-      "url": "https://open.spotify.com/track/40ElYEtYTuKC56EwgJltaL"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
+        "name": "Celebra Victorioso",
+        "url": "https://open.spotify.com/album/2qHcU5VILpvAe1B1tu53yA"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+        }
+      ],
+      "duration_ms": 228576,
+      "name": "Celebra Victorioso",
+      "url": "https://open.spotify.com/track/5SalhBIQrEXU76v9QGL6Sh"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
         "name": "En Ti Yo Esperar\u00e9 (What I'm Waiting For) (feat. TWICE)",
         "url": "https://open.spotify.com/album/6ZvTJaNoL6G3G9IEmqVBOU"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 230389,
       "name": "En Ti Yo Esperar\u00e9 (What I'm Waiting For) (feat. TWICE)",
       "url": "https://open.spotify.com/track/5dbsfmhaLJ8yi3maimbuWZ"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
-        "name": "Celebra Victorioso",
-        "url": "https://open.spotify.com/album/2qHcU5VILpvAe1B1tu53yA"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
-        }
-      ],
-      "duration_ms": 228576,
-      "name": "Celebra Victorioso",
-      "url": "https://open.spotify.com/track/5SalhBIQrEXU76v9QGL6Sh"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
+        "name": "La Oraci\u00f3n",
+        "url": "https://open.spotify.com/album/22MZoLR9ERwdK8rmbDL7KT"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "La Oraci\u00f3n",
+      "url": "https://open.spotify.com/track/4Aw3yrryzr5RfPHLY8kcfy"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
         "name": "Todo Es Posible",
         "url": "https://open.spotify.com/album/3iuqVncBZOIcOMWzaqf8OF"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 187253,
       "name": "Todo Es Posible",
       "url": "https://open.spotify.com/track/5qxaoad8qzoe6630ZJbtzu"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
-        "name": "La Oraci\u00f3n",
-        "url": "https://open.spotify.com/album/22MZoLR9ERwdK8rmbDL7KT"
-      },
-      "artists": [
-        {
-          "name": "Rubinsky Rbk",
-          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "La Oraci\u00f3n",
-      "url": "https://open.spotify.com/track/4Aw3yrryzr5RfPHLY8kcfy"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Una Y Otra Vez",
-        "url": "https://open.spotify.com/album/7qOnJRFFhmVei4khZI1zba"
-      },
-      "artists": [
-        {
-          "name": "Fellowship Creative",
-          "url": "https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL"
-        },
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
-        }
-      ],
-      "duration_ms": 315600,
-      "name": "Una Y Otra Vez",
-      "url": "https://open.spotify.com/track/07RYlmvOrD1Z9ferw3zoZ8"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "Bello Jes\u00fas",
         "url": "https://open.spotify.com/album/4BWWJQWNs265qa4NaED1gB"
       },
@@ -607,18 +587,22 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Amor, Amor, Amor",
-        "url": "https://open.spotify.com/album/46brTenNVzpBIXcJNTlQjk"
+        "name": "Una Y Otra Vez",
+        "url": "https://open.spotify.com/album/7qOnJRFFhmVei4khZI1zba"
       },
       "artists": [
         {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+          "name": "Fellowship Creative",
+          "url": "https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Amor, Amor, Amor - En vivo",
-      "url": "https://open.spotify.com/track/47GvCA8LGKu7oVyPRFpZ39"
+      "duration_ms": 315600,
+      "name": "Una Y Otra Vez",
+      "url": "https://open.spotify.com/track/07RYlmvOrD1Z9ferw3zoZ8"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -651,18 +635,18 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Paso a Paso",
-        "url": "https://open.spotify.com/album/5Egmn32rISYg4tJ9SVOW2K"
+        "name": "Amor, Amor, Amor",
+        "url": "https://open.spotify.com/album/46brTenNVzpBIXcJNTlQjk"
       },
       "artists": [
         {
-          "name": "Deluz",
-          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
         }
       ],
-      "duration_ms": 211272,
-      "name": "Paso a Paso",
-      "url": "https://open.spotify.com/track/5o9iPNwRsPcBgCzVg9QTHz"
+      "duration_ms": 165000,
+      "name": "Amor, Amor, Amor - En vivo",
+      "url": "https://open.spotify.com/track/47GvCA8LGKu7oVyPRFpZ39"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -699,6 +683,22 @@
       "duration_ms": 313222,
       "name": "Esperar\u00e9 en ti SE\u00d1OR",
       "url": "https://open.spotify.com/track/4HtKWZ8bJUUiGMrPnamtys"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Paso a Paso",
+        "url": "https://open.spotify.com/album/5Egmn32rISYg4tJ9SVOW2K"
+      },
+      "artists": [
+        {
+          "name": "Deluz",
+          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
+        }
+      ],
+      "duration_ms": 211272,
+      "name": "Paso a Paso",
+      "url": "https://open.spotify.com/track/5o9iPNwRsPcBgCzVg9QTHz"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Su Sangre",
-        "url": "https://open.spotify.com/album/5fvhJ16FUBEYkhKIcmCzJp"
-      },
-      "artists": [
-        {
-          "name": "Nueva Raza",
-          "url": "https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0"
-        },
-        {
-          "name": "Ayrton Day",
-          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
-        }
-      ],
-      "duration_ms": 349901,
-      "name": "Su Sangre - Radio Edit",
-      "url": "https://open.spotify.com/track/1Gmid3Ba0ZN1Mi18K9wnSU"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "Pa' que Son Las Guitarras",
         "url": "https://open.spotify.com/album/40z3TYafjcab3mfN6VkDT1"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 193956,
       "name": "Pa' que Son Las Guitarras",
       "url": "https://open.spotify.com/track/2I6G5TABjMu7RVntToFDwk"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Su Sangre",
+        "url": "https://open.spotify.com/album/5fvhJ16FUBEYkhKIcmCzJp"
+      },
+      "artists": [
+        {
+          "name": "Nueva Raza",
+          "url": "https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0"
+        },
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "duration_ms": 349901,
+      "name": "Su Sangre - Radio Edit",
+      "url": "https://open.spotify.com/track/1Gmid3Ba0ZN1Mi18K9wnSU"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
+        "name": "Carmesi",
+        "url": "https://open.spotify.com/album/4I8FKMAgtQA7rSa90M9KKA"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Carmesi",
+      "url": "https://open.spotify.com/track/28bX6k1WTQB8DyTYEYPFJ5"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
         "name": "Prendio",
         "url": "https://open.spotify.com/album/2hvgQGdaaADwSomkDxOLcD"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Carmesi",
-        "url": "https://open.spotify.com/album/4I8FKMAgtQA7rSa90M9KKA"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Carmesi",
-      "url": "https://open.spotify.com/track/28bX6k1WTQB8DyTYEYPFJ5"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "rosa de amor",
         "url": "https://open.spotify.com/album/2ldKE839o8afQK7gKk7joL"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 204458,
       "name": "rosa de amor",
       "url": "https://open.spotify.com/track/0gNmsJQAUzYulBFCGknFF9"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Yahweh Se Manifestar\u00e1",
+        "url": "https://open.spotify.com/album/4SwV1tMJ4W1aVHaOjA3EJh"
+      },
+      "artists": [
+        {
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+        }
+      ],
+      "duration_ms": 227330,
+      "name": "Yahweh Se Manifestar\u00e1",
+      "url": "https://open.spotify.com/track/5mab87rBhELUSD52sUr2qs"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Yahweh Se Manifestar\u00e1",
-        "url": "https://open.spotify.com/album/4SwV1tMJ4W1aVHaOjA3EJh"
-      },
-      "artists": [
-        {
-          "name": "Kyrios",
-          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
-        }
-      ],
-      "duration_ms": 227330,
-      "name": "Yahweh Se Manifestar\u00e1",
-      "url": "https://open.spotify.com/track/5mab87rBhELUSD52sUr2qs"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "Y Que Suene (En Vivo)",
         "url": "https://open.spotify.com/album/6ucPRxLNAZHMOKr3j9GsTG"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 245202,
       "name": "Vencer\u00e9",
       "url": "https://open.spotify.com/track/33SZuxILS1QvM6OrqyCauJ"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
-        "name": "Naci\u00f3 El Salvador",
-        "url": "https://open.spotify.com/album/1aajGKcYs2CtZgPZ2B1GQN"
-      },
-      "artists": [
-        {
-          "name": "Samuel Adri\u00e1n",
-          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
-        }
-      ],
-      "duration_ms": 227897,
-      "name": "Naci\u00f3 El Salvador",
-      "url": "https://open.spotify.com/track/5YwAuDB6UvcvcG5rRddIi5"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -995,6 +979,22 @@
       "duration_ms": 185494,
       "name": "Presumirte",
       "url": "https://open.spotify.com/track/131iByqVfG1L9glVo6JciS"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Naci\u00f3 El Salvador",
+        "url": "https://open.spotify.com/album/1aajGKcYs2CtZgPZ2B1GQN"
+      },
+      "artists": [
+        {
+          "name": "Samuel Adri\u00e1n",
+          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
+        }
+      ],
+      "duration_ms": 227897,
+      "name": "Naci\u00f3 El Salvador",
+      "url": "https://open.spotify.com/track/5YwAuDB6UvcvcG5rRddIi5"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Maranatha",
-        "url": "https://open.spotify.com/album/2qTdqR3GAZHBIVMhzn6rxj"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Fones, Sj",
-          "url": "https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk"
-        }
-      ],
-      "duration_ms": 300857,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/58UzDiEKSShileIQVivnWB"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "El Robo",
         "url": "https://open.spotify.com/album/45NhbYt4QlTHqs5PApbYKK"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 226000,
       "name": "El Robo",
       "url": "https://open.spotify.com/track/54OKvi0G0EZF10lR1lRokv"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Maranatha",
+        "url": "https://open.spotify.com/album/2qTdqR3GAZHBIVMhzn6rxj"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Fones, Sj",
+          "url": "https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk"
+        }
+      ],
+      "duration_ms": 300857,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/58UzDiEKSShileIQVivnWB"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "El Protagonista",
-        "url": "https://open.spotify.com/album/2xjCkKC8DJVKNfmS9F1ukT"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Cielo",
-          "url": "https://open.spotify.com/artist/7BtPvKcx93ZZwYUIjpGyYQ"
-        }
-      ],
-      "duration_ms": 299535,
-      "name": "El Protagonista",
-      "url": "https://open.spotify.com/track/7ltjh4lDUqhQozk81qVbNb"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "Siempre Bueno",
         "url": "https://open.spotify.com/album/3UN282s5X41Y4jNT3bcy1r"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 258665,
       "name": "Siempre Bueno",
       "url": "https://open.spotify.com/track/7r9NkOt6NQDt1IeNw2lT1r"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "El Protagonista",
+        "url": "https://open.spotify.com/album/2xjCkKC8DJVKNfmS9F1ukT"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Cielo",
+          "url": "https://open.spotify.com/artist/7BtPvKcx93ZZwYUIjpGyYQ"
+        }
+      ],
+      "duration_ms": 299535,
+      "name": "El Protagonista",
+      "url": "https://open.spotify.com/track/7ltjh4lDUqhQozk81qVbNb"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/7LOVNMezm1H8eeyrb7mIY7"
-      },
-      "artists": [
-        {
-          "name": "Andy CM",
-          "url": "https://open.spotify.com/artist/0KMMGx2gkuprvNDT8sNWos"
-        },
-        {
-          "name": "La D Rodriguez",
-          "url": "https://open.spotify.com/artist/2JLiNmuhc4a6G1FvZ3jlBz"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/6VIw4fwvDXfKGiNmpjcuth"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "Vas a Llegar",
         "url": "https://open.spotify.com/album/2t3q3LbGj450g9brgSwUVF"
       },
@@ -1283,26 +1263,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Como La Primera Vez",
-        "url": "https://open.spotify.com/album/7BDyAirumPg7KMrqisowb2"
-      },
-      "artists": [
-        {
-          "name": "Kelly Granada",
-          "url": "https://open.spotify.com/artist/1MaVeo6ERKO0KjvqW6KJgI"
-        },
-        {
-          "name": "Luis Campos",
-          "url": "https://open.spotify.com/artist/43GeSwEPl4PapusCzWkKFP"
-        }
-      ],
-      "duration_ms": 357580,
-      "name": "Como La Primera Vez",
-      "url": "https://open.spotify.com/track/70Fm48HLOpS3WlGXtLC5dp"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/63tnhdXRB8Eq0vLIJtx0rw"
       },
@@ -1319,6 +1279,46 @@
       "duration_ms": 184187,
       "name": "Por Siempre",
       "url": "https://open.spotify.com/track/4sFFHBhmAiWWldw7PP2rYj"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/7LOVNMezm1H8eeyrb7mIY7"
+      },
+      "artists": [
+        {
+          "name": "Andy CM",
+          "url": "https://open.spotify.com/artist/0KMMGx2gkuprvNDT8sNWos"
+        },
+        {
+          "name": "La D Rodriguez",
+          "url": "https://open.spotify.com/artist/2JLiNmuhc4a6G1FvZ3jlBz"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6VIw4fwvDXfKGiNmpjcuth"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Como La Primera Vez",
+        "url": "https://open.spotify.com/album/7BDyAirumPg7KMrqisowb2"
+      },
+      "artists": [
+        {
+          "name": "Kelly Granada",
+          "url": "https://open.spotify.com/artist/1MaVeo6ERKO0KjvqW6KJgI"
+        },
+        {
+          "name": "Luis Campos",
+          "url": "https://open.spotify.com/artist/43GeSwEPl4PapusCzWkKFP"
+        }
+      ],
+      "duration_ms": 357580,
+      "name": "Como La Primera Vez",
+      "url": "https://open.spotify.com/track/70Fm48HLOpS3WlGXtLC5dp"
     },
     {
       "added_at": "2023-01-06 05:35:57",

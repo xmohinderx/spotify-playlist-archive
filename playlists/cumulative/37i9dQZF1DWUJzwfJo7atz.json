@@ -500,7 +500,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 232131,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl"
@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Lose Your Senses",
+        "url": "https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM"
+      },
+      "artists": [
+        {
+          "name": "Cubicolor",
+          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388000,
+      "name": "Lose Your Senses",
+      "url": "https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY"
+    },
+    {
+      "album": {
         "name": "Black Girl Magic",
         "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
       },
@@ -633,7 +651,7 @@
         },
         {
           "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+          "url": "https://open.spotify.com/artist/6lx1oSxA9vR67eRlAOIxFT"
         }
       ],
       "date_added": "2022-11-30",

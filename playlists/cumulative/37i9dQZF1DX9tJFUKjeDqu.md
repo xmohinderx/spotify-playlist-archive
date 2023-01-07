@@ -4,13 +4,14 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-101 songs - 7 hr 4 min
+107 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Blues for the Worried Minds](https://open.spotify.com/track/4epUUIQ8Uf89fzMP9hvjmg) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [A Blues for the Worried Minds](https://open.spotify.com/album/6j7tExly5611q8eH7ybAKf) | 2:44 | 2022-04-15 |  |
 | [A Foggy Day](https://open.spotify.com/track/4UtGtDJpkscJil25b273Vu) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [A Foggy Day](https://open.spotify.com/album/5kuWXsGJ1R1BNXzUwl6MIS) | 5:03 | 2022-11-18 |  |
 | [All Blues](https://open.spotify.com/track/6W5PADiws4J4jNZwr2loyH) | [Zachary Breaux](https://open.spotify.com/artist/2jYHSJBXjusgmYdrNeaRmg) | [Uptown Groove](https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq) | 6:33 | 2022-04-15 |  |
+| [All Or Nothing](https://open.spotify.com/track/55UZlpa7AQAV4bR7QFfEm6) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [The Wanderer](https://open.spotify.com/album/0VKnrYcrai0fJ41eVbBu4r) | 2:15 | 2023-01-06 |  |
 | [Answer to Ronnie](https://open.spotify.com/track/0FEO7enEiq1uVm27W2sjFT) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers](https://open.spotify.com/album/57HFDvunhtwCpfe8pkzUkN) | 4:53 | 2022-04-15 | 2022-07-29 |
 | [Answer To Ronnie](https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers](https://open.spotify.com/album/6Gv7FGEI7Ot7tgfthNLIiy) | 4:53 | 2022-07-08 |  |
 | [Baton Rouge](https://open.spotify.com/track/45mOThZziA0POOBVqwELS4) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Baton Rouge](https://open.spotify.com/album/4r1Fb5TSgtvWCazZDH5RJ5) | 3:01 | 2022-04-15 |  |
@@ -37,6 +38,7 @@
 | [Dana's Song](https://open.spotify.com/track/7izyXZtIw69OhbeDb2jkTu) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP) | [Twelve Hours](https://open.spotify.com/album/5VWXunq9g3JCd2wo3ecpYL) | 6:20 | 2022-04-15 |  |
 | [Desert Flower Blues](https://open.spotify.com/track/6eT8Gtpe0T2Q79CTCYGiWe) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Desert Flower Blues](https://open.spotify.com/album/2nLCI1N0Ftgvd0EdNupPV4) | 2:55 | 2022-11-18 |  |
 | [Dodging The Blues](https://open.spotify.com/track/3I5wlSHXXMmVXTpPvN3wa5) | [Carl Verheyen](https://open.spotify.com/artist/3BpUUAvJhkvkpYI6nQ7OUf) | [Essential Blues](https://open.spotify.com/album/13I1hgOYUQTqPLpk0sGnO5) | 4:22 | 2022-04-15 |  |
+| [Don't Be Fooled](https://open.spotify.com/track/2CAIdlGCNRSDyJ8Y2UdQVo) | [Lada](https://open.spotify.com/artist/4GerVbgFLWZCwwnz6tE1EN) | [Don't Be Fooled](https://open.spotify.com/album/1ziVR6or0rA1lj4cbMxjQy) | 2:31 | 2023-01-06 |  |
 | [Donna](https://open.spotify.com/track/23ozU0cVhWspGJpd84NQHi) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 7:23 | 2022-10-14 |  |
 | [Donna](https://open.spotify.com/track/2pypgWd8ZbLYwyMsPXPai1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 7:23 | 2022-04-15 | 2022-11-13 |
 | [Elegy for a Bluesman](https://open.spotify.com/track/51eO3uxag2ZhvnqWePYeVv) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Maxwell Street](https://open.spotify.com/album/6QJ6h4nSqQgnCNVVVYPwly) | 5:40 | 2022-07-08 |  |
@@ -55,6 +57,7 @@
 | [It's a Rough Ride We're On](https://open.spotify.com/track/2RiU43I9nzxG1by7Q8Y5Zi) | [Berdon Kirksaether](https://open.spotify.com/artist/0wp3pipE3auQxIeHfFvH6o), [The Twang Bar Kings](https://open.spotify.com/artist/2gOxxvd4sVhmsEmu3GQVLo) | [Blues](https://open.spotify.com/album/16Tjd5ycFqkHDU6f78rKYk) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 | 2022-04-15 |  |
 | [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-04-15 |  |
+| [Labour](https://open.spotify.com/track/0zmxQRILLqz9M2KKsNyvP8) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Labour](https://open.spotify.com/album/19tMyS4bf5WVptEqdO6HQf) | 2:23 | 2023-01-06 |  |
 | [Lazy Morning](https://open.spotify.com/track/6o45k8RC2nsW0VaoN9laPh) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Lazy Morning](https://open.spotify.com/album/7DZvKKwzAQ1Hrip0KXq4Kx) | 2:12 | 2022-12-21 |  |
 | [Le blues de berthe](https://open.spotify.com/track/2WB7N4gk7MO4d6vjpxIruc) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/5xgnea0UTuxQnXctk4yARm) | 2:00 | 2022-07-29 |  |
 | [Le blues de berthe](https://open.spotify.com/track/4MAqsOKC5dngNQKjQe7RdZ) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/4veWCAN2OijQqL3kA1FZcP) | 2:00 | 2022-07-08 | 2022-09-23 |
@@ -64,6 +67,7 @@
 | [Linda](https://open.spotify.com/track/12psIyrsp6DXHqzkkweac1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-04-15 |  |
 | [Marje's Melody](https://open.spotify.com/track/3ZewawA5h2yP6RvhWlBdFq) | [Ronnie Earl & The Broadcasters](https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I) | [Good News](https://open.spotify.com/album/00gjkhEHHnrATP8ORz4C2G) | 6:45 | 2022-04-15 | 2022-07-29 |
 | [Marje's Melody](https://open.spotify.com/track/36SpII7Y7MzXhuQe5Xu097) | [Ronnie EarlThe Broadcasters](https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF) | [Good News](https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63) | 6:45 | 2022-07-08 |  |
+| [Met my Love in Baton Rouge](https://open.spotify.com/track/5oj8xhZdu8TgqYIBWgw3Qm) | [Lada](https://open.spotify.com/artist/4GerVbgFLWZCwwnz6tE1EN) | [Don't Be Fooled](https://open.spotify.com/album/1ziVR6or0rA1lj4cbMxjQy) | 2:10 | 2023-01-06 |  |
 | [Monument Valley](https://open.spotify.com/track/4nAkPawzPeuy6V5h3ML8Ks) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Mississippi Boy](https://open.spotify.com/album/1GkkGdsXQIhDAzxmJjyoA2) | 2:33 | 2022-04-15 |  |
 | [Mud Island Morning](https://open.spotify.com/track/7dugh1bNpR9FLOQd341YNX) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 3:20 | 2022-07-29 |  |
 | [On My Way To See Nancy](https://open.spotify.com/track/0Bm5XTEyBth8b04J6oEms6) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/0dPH6VQgPhfc0lLueu9m7V) | 3:32 | 2022-04-15 |  |
@@ -102,12 +106,14 @@
 | [The Blink Of An Eye](https://open.spotify.com/track/2vJLBn78JRXewtqcUVvtm3) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/6XIK9crFq9HgXowGwTK91I) | 6:02 | 2022-04-15 | 2022-07-29 |
 | [The Blink Of An Eye](https://open.spotify.com/track/656b8WVsC5JMmDDN43hPoQ) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/5EAr5Rzknr0B1DFaBPcC8v) | 6:02 | 2022-07-08 |  |
 | [The Route Home](https://open.spotify.com/track/1DdyCpQHozMxfuQnV0Nkvc) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [The Route Home](https://open.spotify.com/album/1YUBztLYPkoYS0RuIJpPfn) | 2:56 | 2022-11-18 |  |
+| [The Wanderer](https://open.spotify.com/track/1IgbPXZ3PG57sOoCxDbfYF) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [The Wanderer](https://open.spotify.com/album/0VKnrYcrai0fJ41eVbBu4r) | 2:57 | 2023-01-06 |  |
 | [Things Are Changing](https://open.spotify.com/track/7bNnYkFBVaGzgscgh4XAtX) | [Papa Don McMinn](https://open.spotify.com/artist/6JcG0JQqJTWl0lAa2wPy3L) | [Blues Ain't a Color](https://open.spotify.com/album/2zMqZ4gu3kmRZAY1l8XpxO) | 3:38 | 2022-04-15 |  |
 | [Tracks and Lines \- 2000 Remaster](https://open.spotify.com/track/2E5QCoyvDTM7oLJpF6K2wc) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Rush \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2) | 3:01 | 2022-04-15 |  |
 | [Train Ride](https://open.spotify.com/track/2kuGJ5Dfda4zr6j3AtSU4m) | [Josh Henning](https://open.spotify.com/artist/3E7euSFqjyYvuAzF69w1Zk) | [Train Ride](https://open.spotify.com/album/2IJcIF95WPnyh0CAwqDBcI) | 2:56 | 2022-10-14 |  |
 | [Twin Cities Blues](https://open.spotify.com/track/5QTNOAonSo9nw9mYNjb07R) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Stormy Sea](https://open.spotify.com/album/6WSj8xhmmO7riEXhzvGE4p) | 2:02 | 2022-10-14 |  |
 | [Unique Ambience for Staying Home](https://open.spotify.com/track/0oHsRS3yY9FZ5eJHbwgvKw) | [Instrumental Blues Retro](https://open.spotify.com/artist/6ynE2UtjVmR7Ljqr8hBbq0) | [Slow Blues Guitar \- Ambiance for Working](https://open.spotify.com/album/6sUMKVFDCkCiX3oR34ii2j) | 2:40 | 2022-04-15 |  |
 | [Wayfaring Pilgrim](https://open.spotify.com/track/6yJ6VtC0IQ4BC47Aj6MkZ3) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [In The Beginning](https://open.spotify.com/album/4s8yNqAy1MyFXtLp8HlWUM) | 5:08 | 2022-04-15 |  |
+| [When I'm With You](https://open.spotify.com/track/5FWOKwCQMQrStHCwSa0nSW) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [When I'm With You](https://open.spotify.com/album/5Uph6wx9f8zrVNDke8fIot) | 2:22 | 2023-01-06 |  |
 | [You Don't Know Me](https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Sweet Emma](https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL) | 5:41 | 2022-12-20 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

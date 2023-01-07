@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Riovaz
 
-507 songs - 21 hr 0 min
+508 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [BACKROOM](https://open.spotify.com/track/2CXNjqL7ewOt2bo5VCd1Lj) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [BACKROOM](https://open.spotify.com/album/3Z96YG0kqDD0hFc3ZD68NW) | 2:35 | 2021-12-03 | 2022-02-19 |
 | [Bag](https://open.spotify.com/track/0CyqjmmaRh3TL3ebR7vLhc) | [645AR](https://open.spotify.com/artist/3Iv3mOsjFV8vZkXphpQ8hz), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Bag](https://open.spotify.com/album/2l9HFZ8woqwKc9vX6hsprZ) | 1:43 | 2022-07-01 | 2023-01-05 |
 | [BAGGY](https://open.spotify.com/track/5WCqx3pgABaG7EQgAXStSN) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [BAGGY](https://open.spotify.com/album/3T0PqUn2K6bykeuxoR2Wo3) | 1:43 | 2022-08-06 | 2022-12-17 |
-| [Bane](https://open.spotify.com/track/2TKwo7J4oyyiYZvck7ky3R) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Bane](https://open.spotify.com/album/1DIa6H1AjmAg9SMrByTbiI) | 2:20 | 2022-09-27 |  |
+| [Bane](https://open.spotify.com/track/2TKwo7J4oyyiYZvck7ky3R) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Bane](https://open.spotify.com/album/1DIa6H1AjmAg9SMrByTbiI) | 2:20 | 2022-09-27 | 2023-01-07 |
 | [bane](https://open.spotify.com/track/7zS3UNh0KHF6mEv2qVObMJ) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/1tiD0UGetoA3qTkJN3Thdv) | 2:17 | 2021-10-15 | 2022-02-19 |
 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 | 2022-02-16 | 2022-05-28 |
 | [Battery](https://open.spotify.com/track/3TZD1tcwJWCu5Zitgx362G) | [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Van Goghs Left Ear](https://open.spotify.com/album/1f92L2RYQBvolOuzzpQYbP) | 1:06 | 2022-03-01 | 2022-05-07 |
@@ -329,6 +329,7 @@
 | [My World](https://open.spotify.com/track/3GsQiEOwY9i3q9HQZQWxmr) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [My World](https://open.spotify.com/album/55ko7ulwSD2Mvlhe0sy1ay) | 2:57 | 2022-07-01 | 2022-07-23 |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-19 | 2022-04-26 |
 | [NBAYOUNGBOAT](https://open.spotify.com/track/7mfeXGMR9pzX9fOXQlCOP3) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Hip Hop Essentials](https://open.spotify.com/album/2ka2rleIYCZ2EVF7gMvjV5) | 2:19 | 2022-04-26 | 2022-05-28 |
+| [NEVEREVER](https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:24 | 2023-01-06 |  |
 | [New Opp](https://open.spotify.com/track/3Kk1uJa4bqAkewVpUAU19W) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2) | [New Opp](https://open.spotify.com/album/7okGnhb1jybiMuNXIkhEkl) | 1:33 | 2023-01-05 |  |
 | [No Big Deal](https://open.spotify.com/track/13onhP0FAk3dKOnjOhKXpq) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [No Big Deal](https://open.spotify.com/album/1In8f10K2NLMfNeEeSsFTb) | 1:33 | 2022-04-22 | 2022-05-25 |
 | [No Drama](https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [No Drama](https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z) | 3:16 | 2021-12-17 | 2022-05-14 |

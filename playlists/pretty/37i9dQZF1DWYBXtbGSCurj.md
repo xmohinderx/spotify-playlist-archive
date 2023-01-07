@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Caio Luccas, Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,883 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,142 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 20 | [Invencível](https://open.spotify.com/track/6MFN6SOlKjYelQBTGHrbQ0) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW), [DJ Thi Marquez](https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA) | [Invencível](https://open.spotify.com/album/3OyWndHk674qqcC2kSD6ms) | 3:32 |
 | 21 | [Brinca Demais](https://open.spotify.com/track/1JzMOnuyabzpRuSudDD4Cq) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 3:14 |
 | 22 | [N.A.F](https://open.spotify.com/track/1NKjlInIokpk1HBiEZwaoD) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Fabiow011](https://open.spotify.com/artist/4I5Y9NX4RZ5KA78a5UKsVY) | [N.A.F](https://open.spotify.com/album/42Zi2AfWoF1gDDK5cTv4HW) | 2:57 |
-| 23 | [PPF – Mó Paz \(feat\. Casluzito\)](https://open.spotify.com/track/4coOYFkvgU2v9NtopmWzvc) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Casluzito](https://open.spotify.com/artist/4pypSYOfnePDuGQt0uKCZa) | [PPF – Mó Paz \(feat\. Casluzito\)](https://open.spotify.com/album/2JpGCp03SfedNHe6OGH0gJ) | 3:17 |
+| 23 | [PPF – Mó Paz \(feat\. Junior Lord\)](https://open.spotify.com/track/4coOYFkvgU2v9NtopmWzvc) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Casluzito](https://open.spotify.com/artist/4pypSYOfnePDuGQt0uKCZa), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP) | [PPF – Mó Paz \(feat\. Junior Lord\)](https://open.spotify.com/album/2JpGCp03SfedNHe6OGH0gJ) | 3:17 |
 | 24 | [Cão de Guerra](https://open.spotify.com/track/6akek1AIeB013493GHhPf3) | [LetoDie](https://open.spotify.com/artist/2JFpfD9p2vTjRCH8XLeO0l), [Rafa MC](https://open.spotify.com/artist/535k9Q5l4ENw57K1GtziPJ), [Liip Beats](https://open.spotify.com/artist/3Pr7FENKcGB6uHVbHDXcPC) | [Cão de Guerra](https://open.spotify.com/album/2A9gAq3ROu2uoMbCtApNPv) | 3:20 |
 | 25 | [Dores](https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Dores](https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n) | 3:15 |
 | 26 | [Tormentos](https://open.spotify.com/track/1EfLZnZuJ4SADFcprkEGEB) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Tormentos](https://open.spotify.com/album/0246qMwTjAiBp5zo6eBG1Q) | 2:55 |

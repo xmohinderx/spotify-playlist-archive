@@ -1,29 +1,13 @@
 {
-  "description": "Up and down I-95. Cover: DD Osama",
-  "num_followers": 431210,
+  "description": "Up and down I-95. Cover: Lola Brooke",
+  "num_followers": 431310,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMDFiZTFmMGYxZmRmYjRmOGRjMjMzZDRhNzJhZThjNjVi",
+  "snapshot_id": "MTY3MzAzMDEzMiwwMDAwMDAwMDg3YzViMjBmMDdhYmU5ZTg4OWExMmQ1YmU1ZjY4ZGI5",
   "tracks": [
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Letter 2 Notti",
-        "url": "https://open.spotify.com/album/26LCzQxgr9L97slkouEn80"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        }
-      ],
-      "duration_ms": 127397,
-      "name": "Letter 2 Notti",
-      "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
-    },
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
@@ -43,6 +27,66 @@
       "duration_ms": 131052,
       "name": "Don't Play With It (feat. Billy B)",
       "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
+    },
+    {
+      "added_at": "2023-01-06 18:35:32",
+      "album": {
+        "name": "In Ha Mood",
+        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129360,
+      "name": "In Ha Mood",
+      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+    },
+    {
+      "added_at": "2023-01-06 18:35:32",
+      "album": {
+        "name": "Coke Boys 6",
+        "url": "https://open.spotify.com/album/70415SlsGN0hrHDbOkhT8Z"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Smooky MarGielaa",
+          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "duration_ms": 153357,
+      "name": "Chit Chat",
+      "url": "https://open.spotify.com/track/4r9GyHViUSb8iVXQsJc8U5"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/3RbYFBgKVIg8m2TNxEL9sq"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 122718,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/66BoIQExCIsSmJ6H5zZTZg"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -113,6 +157,22 @@
       "url": "https://open.spotify.com/track/6V6qKLDO7jSA4Vh6tDfScL"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Letter 2 Notti",
+        "url": "https://open.spotify.com/album/26LCzQxgr9L97slkouEn80"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 127397,
+      "name": "Letter 2 Notti",
+      "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "JUST FRIENDS ?",
@@ -145,20 +205,28 @@
       "url": "https://open.spotify.com/track/0BQ2Rl5wkrg9fLVDHexi1K"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2023-01-06 18:35:32",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/3RbYFBgKVIg8m2TNxEL9sq"
+        "name": "-95 DEGREES",
+        "url": "https://open.spotify.com/album/6pGYzNLRH0Ve8OPjOityaN"
       },
       "artists": [
         {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        },
+        {
+          "name": "Kajun Waters",
+          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
+        },
+        {
+          "name": "Fergie Baby",
+          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
         }
       ],
-      "duration_ms": 122718,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/66BoIQExCIsSmJ6H5zZTZg"
+      "duration_ms": 205753,
+      "name": "SAILS",
+      "url": "https://open.spotify.com/track/3gC5ZvWnG2yy2RTQnRRRXq"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1447,26 +1515,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Gangsta Wit It (Pt. 2)(feat. Toosii)",
-        "url": "https://open.spotify.com/album/2cbRzpC1Liaj2WB2PNcc4e"
-      },
-      "artists": [
-        {
-          "name": "3Breezy",
-          "url": "https://open.spotify.com/artist/4cSobXLXhJMHYUZvBMuQFG"
-        },
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 199708,
-      "name": "Gangsta Wit It (Pt. 2)(feat. Toosii)",
-      "url": "https://open.spotify.com/track/7txoLXa6FucfNDxuwEClQ5"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "HH5",
         "url": "https://open.spotify.com/album/63loU5wOJuZfUymxLVwwxX"
       },
@@ -1571,22 +1619,6 @@
       "duration_ms": 249675,
       "name": "pg baby - Remix",
       "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "40K",
-        "url": "https://open.spotify.com/album/36iDaPfRnnzuXBPjAj40yo"
-      },
-      "artists": [
-        {
-          "name": "Henny Hermes",
-          "url": "https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy"
-        }
-      ],
-      "duration_ms": 142344,
-      "name": "40K",
-      "url": "https://open.spotify.com/track/6Z54w29nQ442irkw2carZC"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1807,26 +1839,6 @@
       "duration_ms": 150329,
       "name": "Round & Round",
       "url": "https://open.spotify.com/track/6CcS9wHavuQD6KjqsrMvdr"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "The Last Remnants",
-        "url": "https://open.spotify.com/album/2I5gEMVij8Z6mEJlItaTrt"
-      },
-      "artists": [
-        {
-          "name": "Che Noir",
-          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 148192,
-      "name": "Wash The Dishes",
-      "url": "https://open.spotify.com/track/2ijOqX5vRDWSEcOAkRFnIM"
     },
     {
       "added_at": "2022-11-04 04:00:00",

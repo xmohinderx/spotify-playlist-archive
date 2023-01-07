@@ -12627,6 +12627,24 @@
     },
     {
       "album": {
+        "name": "Starlight (Cello Version)",
+        "url": "https://open.spotify.com/album/3R23khyyllqyiq6Icw4zV4"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61326,
+      "name": "Starlight - Cello Version",
+      "url": "https://open.spotify.com/track/2Ehn3ffEFWFjMnZ0tRx1kW"
+    },
+    {
+      "album": {
         "name": "Gentle Flow",
         "url": "https://open.spotify.com/album/2xnFA2PQopVi0ZGeOi9g9I"
       },

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Abelia",
+        "url": "https://open.spotify.com/album/6G43mdzXHVvGOnY6s8ELZP"
+      },
+      "artists": [
+        {
+          "name": "Milkweed",
+          "url": "https://open.spotify.com/artist/57C636Jkd8eaZsGzRgWKLE"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149845,
+      "name": "Abelia",
+      "url": "https://open.spotify.com/track/4VdWE85NqgTrCzxdBbWrVF"
+    },
+    {
+      "album": {
         "name": "Abloom",
         "url": "https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 213011,
       "name": "Better Vibes",
       "url": "https://open.spotify.com/track/0o7EZM7Pjx1h5fe4rjL3UU"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 192146,
       "name": "City Highs",
       "url": "https://open.spotify.com/track/7Fask2JUtxg4jhCDuTF3tj"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 154434,
       "name": "High Five",
       "url": "https://open.spotify.com/track/1ff94cpvhlQx8ZInQTJ0jF"
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 171704,
       "name": "Informalit\u00e9",
       "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
@@ -2386,6 +2404,24 @@
       "duration_ms": 167576,
       "name": "listen love",
       "url": "https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA"
+    },
+    {
+      "album": {
+        "name": "Look Who Was Here",
+        "url": "https://open.spotify.com/album/2N8U54PjbL9J5RFbZ7pFCp"
+      },
+      "artists": [
+        {
+          "name": "Miriamy",
+          "url": "https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199415,
+      "name": "Look Who Was Here",
+      "url": "https://open.spotify.com/track/1e82eeTd5saBytIIC1rQXO"
     },
     {
       "album": {
@@ -2713,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "Moonage Love",
+        "url": "https://open.spotify.com/album/0ZL52ybH6vsWnE5bFcZuvX"
+      },
+      "artists": [
+        {
+          "name": "Soft Sea",
+          "url": "https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182278,
+      "name": "Moonage Love",
+      "url": "https://open.spotify.com/track/6vkNiVaQI8bTCF2lAhABCz"
+    },
+    {
+      "album": {
         "name": "Moot",
         "url": "https://open.spotify.com/album/2x00k3LmpeSpfH9GcwwUHP"
       },
@@ -2821,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "My Ringtone Is a Voice Memo of You Last Summer",
+        "url": "https://open.spotify.com/album/7Be7HqGl07roH5Fk1mqrCL"
+      },
+      "artists": [
+        {
+          "name": "baegel",
+          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120019,
+      "name": "My Ringtone Is a Voice Memo of You Last Summer",
+      "url": "https://open.spotify.com/track/1UyfCVCj9LBDhjaiZmcgJJ"
+    },
+    {
+      "album": {
         "name": "Myst",
         "url": "https://open.spotify.com/album/4qHIVZJHIcxTexR7fHC3zv"
       },
@@ -2868,7 +2940,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 230379,
       "name": "New Begs",
       "url": "https://open.spotify.com/track/4rODkpSqMBFfnBpw9V8Zln"
@@ -2922,10 +2994,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 132857,
       "name": "NiteGlow",
       "url": "https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ"
+    },
+    {
+      "album": {
+        "name": "Obscure",
+        "url": "https://open.spotify.com/album/2YsmqvleUTgthS1gO5Q9BS"
+      },
+      "artists": [
+        {
+          "name": "Drunk Archer",
+          "url": "https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183977,
+      "name": "Obscure",
+      "url": "https://open.spotify.com/track/0PKMlISgvTdPj2tcysyBwW"
     },
     {
       "album": {
@@ -3030,7 +3120,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 193867,
       "name": "Oya",
       "url": "https://open.spotify.com/track/780oYps6HX9dd2Ri3owzs6"
@@ -3250,6 +3340,24 @@
       "duration_ms": 156000,
       "name": "Plush",
       "url": "https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV"
+    },
+    {
+      "album": {
+        "name": "Poet Bio",
+        "url": "https://open.spotify.com/album/07BExc9NedKtIqUAMCcjcp"
+      },
+      "artists": [
+        {
+          "name": "Twin Iguana",
+          "url": "https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192545,
+      "name": "Poet Bio",
+      "url": "https://open.spotify.com/track/6TTjXl7QKKvvMAGviSfUKo"
     },
     {
       "album": {
@@ -4122,7 +4230,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 188333,
       "name": "Summer flower",
       "url": "https://open.spotify.com/track/1FZ8DbYXBExoMZpVYlILR1"
@@ -4482,7 +4590,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 201750,
       "name": "Torches to the Sky",
       "url": "https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4"
@@ -4554,7 +4662,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 195000,
       "name": "Upside",
       "url": "https://open.spotify.com/track/3xqjgRw2hmbNX3MlKiAmV0"
@@ -4810,6 +4918,24 @@
       "duration_ms": 183394,
       "name": "Young Guns",
       "url": "https://open.spotify.com/track/6Inc6yOBo4kUlCltz75Y4K"
+    },
+    {
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/6tCuCuKVgdtf6JtoyyNes7"
+      },
+      "artists": [
+        {
+          "name": "Pink Lotus",
+          "url": "https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122527,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8"
     },
     {
       "album": {

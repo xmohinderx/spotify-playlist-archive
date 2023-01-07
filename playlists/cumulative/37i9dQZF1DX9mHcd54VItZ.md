@@ -4,7 +4,7 @@
 
 > Only the best in South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw">Spoegwolf</a>
 
-169 songs - 10 hr 1 min
+170 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,10 +93,11 @@
 | [Leech](https://open.spotify.com/track/213FfJIwavzYZrAXa2nNL5) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Leech](https://open.spotify.com/album/4xnqnQAzwMK6gZsuPTojvU) | 3:50 | 2022-05-26 |  |
 | [Lefase](https://open.spotify.com/track/20ACysTMjJiaat5ZAwD9nF) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh), [BLK JKS](https://open.spotify.com/artist/00yegohFGb5ErPFAIYBc3u), [Riders Against the Storm](https://open.spotify.com/artist/7HX7VccoNod5ogSFcosn9Y) | [Lefase](https://open.spotify.com/album/0gODdkdalKBZ9NO4P5a0We) | 3:30 | 2022-05-26 | 2022-12-16 |
 | [Like Fire](https://open.spotify.com/track/03g3AEXXS0sVDkTWQv51eX) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:34 | 2022-02-03 | 2022-11-18 |
+| [Lonely Boy Heart](https://open.spotify.com/track/0oMAe0kUbEvzBDfiNtk6AP) | [Steve Tissiman](https://open.spotify.com/artist/7ebybXjJ5EhyGVt7fhM5fJ) | [Lonely Boy Heart](https://open.spotify.com/album/2fZYS7lZt0PjkRjgfUe5Nf) | 2:52 | 2023-01-06 |  |
 | [Lonely Road](https://open.spotify.com/track/7c5dtWi2N1DBmEwIBWangX) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Lonely Road](https://open.spotify.com/album/5O7lOQew1oBQHZ4ndqKESK) | 3:15 | 2021-05-05 | 2022-03-04 |
 | [Loveless](https://open.spotify.com/track/7iQui052V5iZA7cPzBJ98M) | [De Wallen](https://open.spotify.com/artist/3n6PF2KnptY1WuDGFguiXF) | [Street Fight Sonata](https://open.spotify.com/album/5fnZOHN3JZLNQ208awZyNk) | 3:11 | 2021-02-18 | 2022-01-22 |
 | [Maksimum Volume](https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [C'est La Vie](https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ) | 3:27 | 2022-09-02 |  |
-| [Man Down](https://open.spotify.com/track/6LvcACjtwZr8d8Rjyz3Jw3) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Man Down](https://open.spotify.com/album/6yPesYP8A3zZWXKpc1s8PV) | 4:20 | 2022-04-07 |  |
+| [Man Down](https://open.spotify.com/track/6LvcACjtwZr8d8Rjyz3Jw3) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Man Down](https://open.spotify.com/album/6yPesYP8A3zZWXKpc1s8PV) | 4:20 | 2022-04-07 | 2023-01-07 |
 | [Mayhem](https://open.spotify.com/track/1MDc7PDmDGCmogKJO2OkjC) | [Alanna Joy](https://open.spotify.com/artist/4EVOaWmv3mIsrqm4Oxyo9k), [Lost//Youth](https://open.spotify.com/artist/4BdFQrwkW4xye28RMbrfOo) | [Mayhem](https://open.spotify.com/album/53wKblbUHvMxx3pUskWF74) | 4:05 | 2021-05-28 | 2022-01-22 |
 | [Momentum](https://open.spotify.com/track/1PLdMFrVv6cCT9MrQneTMN) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 3:27 | 2022-09-22 |  |
 | [Monkey Mind](https://open.spotify.com/track/05PILc8wNotPdvMeukiElo) | [The Vast Oddity](https://open.spotify.com/artist/0s9M3dghDINHO5fCiS3SsO) | [Monkey Mind](https://open.spotify.com/album/5sk24XesYQp0EHH4HzBa0J) | 2:56 | 2021-11-11 | 2022-03-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,111 likes - 106 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,387 likes - 106 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 69 | [Shadow of the Colossus®](https://open.spotify.com/track/7azgc6j5E6XhEDAfwW3Zrr) | [Video Games Live](https://open.spotify.com/artist/6dZAVi5PugDwlAnH8KMEGl) | [Level 3](https://open.spotify.com/album/2KHrrZCAkI8HOIJpOqLzET) | 3:02 |
 | 70 | [Gris, Pt\. 1](https://open.spotify.com/track/3m7ieZFPvfPARawHCs3Mjj) | [Berlinist](https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn) | [Gris \(Original Game Soundtrack\)](https://open.spotify.com/album/2YMWspDGtbDgYULXvVQFM6) | 2:36 |
 | 71 | [Crypteque](https://open.spotify.com/track/0wydxbEaB3KSKJstJVhTG5) | [Danny Baranowsky](https://open.spotify.com/artist/2CivYlBeDSjMj9Azw9cIHB) | [Crypt of the Necrodancer \(Original Game Soundtrack\)](https://open.spotify.com/album/3nZQnXN0pPRe4QccJXHPS6) | 2:45 |
-| 72 | [9999999](https://open.spotify.com/track/7t0AFyyVYgwXuPRjbhQGph) | [Aperture Science Psychoacoustic Laboratories](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP) | [Portal 2: Songs to Test By \(Collectors Edition\)](https://open.spotify.com/album/5l1BFWphq5XiWlpbYUjrhr) | 3:12 |
+| 72 | [9999999](https://open.spotify.com/track/7cb5qcpZusQZv5FVnj4sRg) | [Aperture Science Psychoacoustic Laboratories](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP) | [Portal 2: Songs to Test by \(Collectors Edition\)](https://open.spotify.com/album/3avDuVP1Ua1QsCXLoSStHb) | 3:12 |
 | 73 | [Legion of Dawn](https://open.spotify.com/track/4fFXTt4Lb1SVVQucRgA2Pg) | [Sarah Schachner](https://open.spotify.com/artist/692KvxElsJHIJQCS6Eoc32) | [Anthem \(Original Soundtrack\)](https://open.spotify.com/album/6Dh6CBAsa6sDFKAeFfbGlU) | 3:46 |
 | 74 | [Nascence](https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [Journey \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn) | 1:46 |
 | 75 | [Dianoia](https://open.spotify.com/track/4eKttBFjxz3qF2ByEv5tol) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Immortals Fenyx Rising \(Original Game Soundtrack\)](https://open.spotify.com/album/5j30b8wiK6MbEbmxnB8CmI) | 4:24 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 105 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 106 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [Ea Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
 
-Snapshot ID: `MTY3MTE2MzIwMCwwMDAwMDAwMGMzMDc5YjM2NjI3NWRjMWM1M2NjODc0YTdlMzUyYTBj`
+Snapshot ID: `MTY3MTE2MzIwMCwwMDAwMDAwMDI3NmZjYTkxODZmZmJkMzgxODVmYmU3ZTdiMDYwOGYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,655 likes - 115 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,663 likes - 115 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 52 | [I Heard You](https://open.spotify.com/track/5WqScUHIGmu58YSI4Zw9h9) | [徐靖玟](https://open.spotify.com/artist/5xnz0Uwx90USsDrdTkskup) | [He Says, She Says](https://open.spotify.com/album/4J10tX4X1ygODR1tZraVeS) | 4:05 |
 | 53 | [Bubble Tea](https://open.spotify.com/track/46T5ywwJm9S9v0xAzBS2Fs) | [Mango Street Papa 芒果街老爸](https://open.spotify.com/artist/7L3ELK3RL1ghTrhVo3dwS0) | [Bubble Tea](https://open.spotify.com/album/13Gr8vg0zTzBn7MKeKR9Dx) | 2:50 |
 | 54 | [無情怪物](https://open.spotify.com/track/5R3pccaqEJTWf5RxCkRwiW) | [Astro Bunny](https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK) | [無情怪物](https://open.spotify.com/album/4bISGEm3hApy3p3dZWjFLH) | 2:56 |
-| 55 | [浪漫蒂克\(電視劇《她們的名字》插曲\)](https://open.spotify.com/track/70oft0YTNzGLq9jJtHyASy) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9), [Psy.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR), [CAELAN](https://open.spotify.com/artist/1kGzn5BtwpX0ZLK5Vcrnww) | [《她們的名字》電視劇原聲帶](https://open.spotify.com/album/3pUFiLUX2hLLqQTCiDKxPD) | 3:26 |
+| 55 | [浪漫蒂克\(電視劇《她們的名字》插曲\)](https://open.spotify.com/track/70oft0YTNzGLq9jJtHyASy) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9), [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR), [CAELAN](https://open.spotify.com/artist/1kGzn5BtwpX0ZLK5Vcrnww) | [《她們的名字》電視劇原聲帶](https://open.spotify.com/album/3pUFiLUX2hLLqQTCiDKxPD) | 3:26 |
 | 56 | [窃](https://open.spotify.com/track/1Dkav0pUfCDl0dJkLtzgZU) | [Sunnee楊芸晴](https://open.spotify.com/artist/07Qt0KlMf6vpPVXuY5Qrhj) | [窃](https://open.spotify.com/album/7KZr9OyNJe2QbGFcXiWe7H) | 4:38 |
 | 57 | [和你的天气总是那么好 \(新传媒电视剧《遇见你,真香!》插曲\)](https://open.spotify.com/track/45c6g3bSGtCTmVzZkwc4s9) | [Xu Bin](https://open.spotify.com/artist/3FFFFJDwvzCq6gcHa9WkLs), [Chantalle Ng](https://open.spotify.com/artist/0XRTIDpqja8U3RNVM7CxEK) | [新传媒电视剧《遇见你,真香!》电视剧原声带](https://open.spotify.com/album/1K8czXXHMQeE57rqeifxPE) | 3:08 |
 | 58 | [多巴胺](https://open.spotify.com/track/4SeVkGp84CmcPF1W3Y5C2s) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [多巴胺](https://open.spotify.com/album/1vKJrj6jmjXX87S6BZeE8d) | 2:57 |

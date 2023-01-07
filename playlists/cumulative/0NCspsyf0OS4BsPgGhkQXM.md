@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
 
-629 songs - 1 day 10 hr 11 min
+630 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Stay \- Afinity Remix](https://open.spotify.com/track/1BTc2Jtvi0xXbuew9QsQXs) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:40 | 2022-07-29 | 2022-11-24 |
 | [Stranger Inside Me](https://open.spotify.com/track/4NyZeyQTf9lzybdYrw8AnK) | [Kuoga.](https://open.spotify.com/artist/6zVuQdorqzJrQy6jPACUr7), [Ivy](https://open.spotify.com/artist/4GqL0DrjpEK0YYRH1VyPBI) | [Until It Isn't](https://open.spotify.com/album/0PUh79wOZHNlFddJytsl9z) | 4:13 | 2022-02-16 | 2022-03-19 |
 | [Stream](https://open.spotify.com/track/5GW3F4v5PJr4A9l2Fbs40G) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 3:32 | 2022-08-18 |  |
+| [Stride](https://open.spotify.com/track/3B0iuYopEr5FxexDivlAUt) | [Lenny](https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU), [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [SL!DE](https://open.spotify.com/artist/1lKzr6x82kX0Rb7t3Slskc) | [Stride](https://open.spotify.com/album/75yDcpgSrrT93p81MsIZNK) | 2:16 | 2023-01-06 |  |
 | [Stronger](https://open.spotify.com/track/2bTrbsUXZlZQPDGrrwdSLT) | [Cerus](https://open.spotify.com/artist/7fquLeTBUvpluuODNIgSLY), [RMNCE](https://open.spotify.com/artist/7LWf0GAZdARfcenjTJmpMc), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stronger](https://open.spotify.com/album/4x9hFPLf32q0J3kMHpOFLy) | 3:48 | 2022-05-12 | 2022-09-15 |
 | [Stronger](https://open.spotify.com/track/2n117fBCTe4gj22OdvuQcf) | [Tom Wilson](https://open.spotify.com/artist/4W9vuLWmzlcGv6stGVWPPC), [Linn Sandin](https://open.spotify.com/artist/3zr3aDseqNYhcqexvcS5ir) | [Stronger](https://open.spotify.com/album/4RQmNe4X7j1KIYgX2iGxwz) | 2:26 | 2022-08-19 |  |
 | [Sweat](https://open.spotify.com/track/4qZYebAsenZ7Su6fAkAmMh) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [ERVIS](https://open.spotify.com/artist/2SASbxZSgWPzlQ6iFyRx0d) | [Sweat](https://open.spotify.com/album/6iovaxHlE2iDacVh60ADqZ) | 2:03 | 2022-08-17 | 2022-10-08 |

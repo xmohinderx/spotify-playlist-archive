@@ -4,7 +4,7 @@
 
 > Hop in.
 
-301 songs - 19 hr 19 min
+302 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Colors](https://open.spotify.com/track/6vaSStNN5NX4nJ4QbRY3S0) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/54SlWgNocRPhlZEFTYjOfW) | 4:06 | 2021-01-27 | 2022-07-28 |
 | [Come Home](https://open.spotify.com/track/229137QCrGaoOBf3IpTxtT) | [CHAPPO](https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6) | [Moonwater](https://open.spotify.com/album/2beJejre7mUR1Z65Mrxrrb) | 3:27 | 2020-10-29\* | 2021-10-12 |
 | [Come Home](https://open.spotify.com/track/0qaZqZWOcHUJLRWjw1ivKi) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Come Home](https://open.spotify.com/album/5yEry1EV43XyEFXPI52Klw) | 4:50 | 2020-10-29\* | 2021-10-16 |
+| [Concorde](https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 6:03 | 2023-01-06 |  |
 | [Crooked Teeth](https://open.spotify.com/track/1crbFuCkGL4kXnAGd63RXq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:23 | 2022-05-04 | 2022-11-13 |
 | [Crooked Teeth](https://open.spotify.com/track/4Qmm1kIX3RO1DKdsYQbLK0) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9) | 3:23 | 2021-05-30 | 2022-05-03 |
 | [Cut Me Off](https://open.spotify.com/track/5CI6ANv60uGcU2qm1YuN2K) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Perfect Shapes](https://open.spotify.com/album/4KgLdFV6LvFi2WSaf9DUQS) | 3:19 | 2020-10-29\* | 2022-03-19 |
@@ -255,7 +256,7 @@
 | [The Gold \- Nick Waterhouse Remix](https://open.spotify.com/track/0RhJzeWQHRbJ8H9q0Bk9jm) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [The Gold \(Nick Waterhouse Remix\)](https://open.spotify.com/album/2gPXq974PUbF7xPsFTfpS4) | 4:09 | 2021-01-15 | 2022-07-29 |
 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 | 2021-06-28 |  |
 | [The Magician](https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:51 | 2021-01-15 | 2022-07-27 |
-| [The Other Way](https://open.spotify.com/track/72tFZO4vGmXJvjG62rnpWI) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [The Other Way](https://open.spotify.com/album/20k8V0vHdLxnkTaJjXGcFE) | 3:10 | 2022-09-02 |  |
+| [The Other Way](https://open.spotify.com/track/72tFZO4vGmXJvjG62rnpWI) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [The Other Way](https://open.spotify.com/album/20k8V0vHdLxnkTaJjXGcFE) | 3:10 | 2022-09-02 | 2023-01-07 |
 | [The Rabbit, the Bat, & the Reindeer](https://open.spotify.com/track/02hDdfBdaJhyVHQkTojXQo) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Fate](https://open.spotify.com/album/7deW5FlwTnjalzBDAftgwf) | 3:29 | 2020-10-29\* | 2021-10-16 |
 | [The Suburbs](https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs \(Deluxe\)](https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F) | 5:15 | 2022-05-04 |  |
 | [The Summer](https://open.spotify.com/track/3O2bW6OI1jo3l2DhHfEffP) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Summer](https://open.spotify.com/album/7qBHuHCWS1A6eLXupHao0z) | 3:36 | 2020-10-29\* | 2022-06-21 |

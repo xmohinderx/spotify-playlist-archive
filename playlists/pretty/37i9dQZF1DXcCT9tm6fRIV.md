@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,889 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,914 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 11 | [Bahía Blanca \- Instrumental](https://open.spotify.com/track/6JfI6n6UEHVd7fIkmIGQV1) | [Carlos Di Sarli y su Orquesta Típica](https://open.spotify.com/artist/3vGWwim5gZ0QIW6PA5ISDU) | [Solo Tango: Carlos Di Sarli \- Instrumental Vol\. 1](https://open.spotify.com/album/6tGetlLmTbL1Y4B9YE8bxy) | 2:50 |
 | 12 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 |
 | 13 | [Milonga de mis amores \- Estilo Pedro Laurenz](https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK) | [SEXTETO VISCERAL](https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C) | [Milonga de mis amores](https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9) | 2:22 |
-| 14 | [Los Mareados](https://open.spotify.com/track/03bPLvobYz452ePAEksJgY) | [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [Raul Lavié\-Los Elegidos](https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV) | 2:38 |
-| 15 | [Melodía de Arrabal](https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD) | [Tangazos](https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg) | 1:49 |
+| 14 | [Melodía de Arrabal](https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD) | [Tangazos](https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg) | 1:49 |
+| 15 | [Los Mareados](https://open.spotify.com/track/03bPLvobYz452ePAEksJgY) | [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [Raul Lavié\-Los Elegidos](https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV) | 2:38 |
 | 16 | [El Ultimo Café \(with Leopoldo Federico y Su Orquesta\)](https://open.spotify.com/track/0c19zOgwp0OFKv7tlNYebl) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX), [Leopoldo Federico y su Orquesta](https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA) | [El Firulete](https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV) | 3:05 |
 | 17 | [Anclao En Paris](https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [20 Grandes Exitos](https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu) | 2:20 |
 | 18 | [Uno](https://open.spotify.com/track/1Pb3Q2EqL9LfQ78lwAykav) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs) | 2:34 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 34 | [Muñeca brava](https://open.spotify.com/track/2SPb8awMSxa5NmSaBQKWGN) | [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Alberto Castillo \- Asi se baila el tango](https://open.spotify.com/album/1fFBzmIUSdNaejKSM44y5l) | 2:55 |
 | 35 | [Niebla del Riachuelo](https://open.spotify.com/track/4Jupi4tbrMAT8HriFC5xQN) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Docke](https://open.spotify.com/album/73sutmVaIOSflj6XV4hjAL) | 2:59 |
 | 36 | [Sería Facil Decir](https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 2:34 |
-| 37 | [Yuyo Verde](https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 3:25 |
-| 38 | [De Puro Curda](https://open.spotify.com/track/3uAp3dUUD1uB5JoApVhcby) | [Alfredo Belusi](https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe) | [Lo Mejor de Alfredo Belusi](https://open.spotify.com/album/3wb46GHMf2t8Ljb30eDsB9) | 2:04 |
+| 37 | [De Puro Curda](https://open.spotify.com/track/3uAp3dUUD1uB5JoApVhcby) | [Alfredo Belusi](https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe) | [Lo Mejor de Alfredo Belusi](https://open.spotify.com/album/3wb46GHMf2t8Ljb30eDsB9) | 2:04 |
+| 38 | [Yuyo Verde](https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 3:25 |
 | 39 | [Adiós Muchachos](https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [Celebridades](https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL) | 2:28 |
 | 40 | [Por una Cabeza](https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 1: Gardel y Le Pera](https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ) | 2:34 |
 | 41 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 53 | [Si Sos Brujo](https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX) | [Alfredo Gobbi](https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7) | [Si Sos Brujo](https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh) | 3:29 |
 | 54 | [Quiero Verte una Vez Más](https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID) | [Roberto Siri](https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl) | [70 Años de Tango](https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk) | 3:48 |
 | 55 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
-| 56 | [Danzarín](https://open.spotify.com/track/4zdKgCwKjX0E75qQyGpTYo) | [Leopoldo Federico \- Roberto Grela](https://open.spotify.com/artist/2utsUOhTQw9eMJWpP2vYkX) | [Hombres de tango](https://open.spotify.com/album/1ceobp5yVCMfzfTunQmH2G) | 3:51 |
-| 57 | [Fugata](https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2) | [Quinteto Astor Piazzolla](https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8) | [Fugata](https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy) | 2:41 |
+| 56 | [Fugata](https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2) | [Quinteto Astor Piazzolla](https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8) | [Fugata](https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy) | 2:41 |
+| 57 | [Danzarín](https://open.spotify.com/track/4zdKgCwKjX0E75qQyGpTYo) | [Leopoldo Federico \- Roberto Grela](https://open.spotify.com/artist/2utsUOhTQw9eMJWpP2vYkX) | [Hombres de tango](https://open.spotify.com/album/1ceobp5yVCMfzfTunQmH2G) | 3:51 |
 | 58 | [Milonga Triste](https://open.spotify.com/track/184YuzU56OoLcIlQ3Nou5Y) | [César Angeleri](https://open.spotify.com/artist/0dXS98DkHEA9K2H1YjKiTQ), [Daniel Binelli](https://open.spotify.com/artist/3pI9A9672brzUyGUtkaGqh) | [Re\-Encuentro](https://open.spotify.com/album/6kxxUyfgkO5n4NcHDkHMHC) | 3:13 |
 | 59 | [El Andariego](https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l) | [Julio Pane](https://open.spotify.com/artist/4LfXtXfhAtyH6Htp0x0mUV) | [A Las Orquestas](https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF) | 4:11 |
 | 60 | [Soledad](https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Castiellos](https://open.spotify.com/album/54xztW047EbGLz0wkr1QST) | 4:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 79 | [Fuimos \- En Vivo](https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Andrés Linetzky](https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH) | [Intimos, Vol\. 1 en vivo en Bebop](https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg) | 5:20 |
 | 80 | [Tal vez sera su voz](https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Orquesta El Arranque](https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV) | [Tal vez serà su voz](https://open.spotify.com/album/38DLfwMW0mZdcUh1sr2eTG) | 4:22 |
 
-Snapshot ID: `MTY0NzU3MjQwMCwwMDAwMDAwMDUxNzc5NDcxZjEwODZjODFhMzZlMDY3ZWY0YmEyYjdj`
+Snapshot ID: `MTY0NzU3MjQwMCwwMDAwMDAwMGRlYzk4Y2E0NjNkMWY2NmQ4YTJkNzJkMjVhNTZmYjc0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 60 Canadian artists to watch in 2023, handpicked by our curators\. \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,875 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,877 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 59 | [Black Card](https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Black Card](https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc) | 3:46 |
 | 60 | [Lone Ranger](https://open.spotify.com/track/1MLxOSwBdfLIreioghy0AS) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [All Blue](https://open.spotify.com/album/6by4TrvFhxkZiee23fhhi3) | 3:11 |
 
-Snapshot ID: `MTY2OTgyNjQ0MywwMDAwMDAwMGFjMmQwZDk0YzliZmJjNzZiYmNlYTUzNGVlZjhiZmUw`
+Snapshot ID: `MTY2OTgyNjQ0MywwMDAwMDAwMDFlMGQyNjZiM2ViMTlhYjExMjQ0ZjEzMjhiNjVkZjc3`

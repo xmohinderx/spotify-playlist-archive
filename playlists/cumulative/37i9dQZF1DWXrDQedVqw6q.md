@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-156 songs - 7 hr 20 min
+157 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Forever Right Now](https://open.spotify.com/track/0RKSDqAbLoKCWBEn7a4UWR) | [Tom Brown Sterling](https://open.spotify.com/artist/5QFEyJpaEKyXqrXJbZQRiY) | [Forever Right Now](https://open.spotify.com/album/6XeAvtLpu79R5eMwsXft7j) | 2:16 | 2022-03-21 | 2022-09-07 |
 | [From The Horizon](https://open.spotify.com/track/4Wk9NDOcjHMSDcnKnVfLvb) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [From The Horizon](https://open.spotify.com/album/61jBjdLl3sLfmMOuK2w4d9) | 3:08 | 2022-03-21 | 2022-09-07 |
 | [Gentle Serenity](https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb) | [Perfect Shapes](https://open.spotify.com/artist/7rocivfP8tOkfNxT2jp9Fr) | [Horizon](https://open.spotify.com/album/3887UhI3G4vNcTefsBA5Zi) | 3:27 | 2022-03-21 |  |
+| [Horizon](https://open.spotify.com/track/2sagi6LnzbTNFRMuhrW683) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Horizon](https://open.spotify.com/album/6K3Rrv6q0SWdYHeho5DqdM) | 1:32 | 2023-01-06 |  |
 | [Hushed Premonition](https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Hushed Premonition](https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ) | 3:34 | 2022-03-21 | 2022-08-13 |
 | [Hyacinths](https://open.spotify.com/track/1tnWwIOUKtPD4Fc13hg8F3) | [Eyüp Börekç](https://open.spotify.com/artist/2PcaI1a5aqV8rbitzcX5u8) | [Hyacinths](https://open.spotify.com/album/4Dgvaw4NLjbSTCbuPKEyRm) | 1:54 | 2022-03-21 |  |
 | [Il Segreto Dell Isola](https://open.spotify.com/track/7odpvITlqx8YH3QQONsJf5) | [Lucio Francesco](https://open.spotify.com/artist/6SmEyMlUWcw5nzD9YmCCRN) | [Osservazioni](https://open.spotify.com/album/3MCnWEvdRqmzUN6k1sgcso) | 2:58 | 2022-03-21 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring French Montana, Real Boston Richey and more\. Cover: Youngboy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,972 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,187 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Black](https://open.spotify.com/track/6lyhMxltOaZrzRxRmmc3lU) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Black](https://open.spotify.com/album/3Qtj7PJlxPZsdWLqIW1I8d) | 2:08 |
 | 2 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 |
 | 3 | [Chit Chat](https://open.spotify.com/track/4r9GyHViUSb8iVXQsJc8U5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Coke Boys 6](https://open.spotify.com/album/70415SlsGN0hrHDbOkhT8Z) | 2:33 |
-| 4 | [First Time](https://open.spotify.com/track/2LWeSrNPOceNtiGecWLLoe) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 3:04 |
+| 4 | [First Time](https://open.spotify.com/track/2LWeSrNPOceNtiGecWLLoe) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 3:05 |
 | 5 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
 | 6 | [Mr\. Hanky](https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mr\. Hanky](https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu) | 2:22 |
 | 7 | [SAILS](https://open.spotify.com/track/3gC5ZvWnG2yy2RTQnRRRXq) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY), [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa) | [\-95 DEGREES](https://open.spotify.com/album/6pGYzNLRH0Ve8OPjOityaN) | 3:25 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 13 | [WOP](https://open.spotify.com/track/0M0pqpXxzPDstdL7ESgrTr) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [WOP](https://open.spotify.com/album/1bdrnZV4O1Oa455LLV2pug) | 3:22 |
 | 14 | [Neighborhood Trapstars](https://open.spotify.com/track/7zXZQEkHUclAqRTJXLIip4) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Neighborhood Trapstars](https://open.spotify.com/album/1MiESrjwiTznQNnptHeaDD) | 2:33 |
 | 15 | [Groovy](https://open.spotify.com/track/6lO1vt2ipUxh1bmxK8cR2s) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Groovy](https://open.spotify.com/album/2OeKQdJREBGjuX94QL0MfY) | 3:10 |
-| 16 | [Win For Losin](https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Win For Losin](https://open.spotify.com/album/4QyUbGbGyn1725sRukfZ9P) | 1:57 |
+| 16 | [Win For Losin](https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Win For Losin](https://open.spotify.com/album/4QyUbGbGyn1725sRukfZ9P) | 1:55 |
 | 17 | [Bruce lee \(feat\. Xhulooo\)](https://open.spotify.com/track/1gCqbCM6zZG8gapl5yF3bs) | [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [ONLY ONE](https://open.spotify.com/album/5qocotft3C4USMvQA7Jgge) | 2:28 |
 | 18 | [Don't Love Me Now \(feat\. charlieonnafriday\)](https://open.spotify.com/track/1uWHol8i8GaYEDFq2MsH1p) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Don't Love Me Now \(feat\. charlieonnafriday\)](https://open.spotify.com/album/0pXAMS6EMJqb8mKIvQhxKd) | 2:02 |
 | 19 | [Pull Up \(feat\. Brezay\)](https://open.spotify.com/track/3sgs88draqbNzrvKZYmcJW) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g), [Brezay](https://open.spotify.com/artist/1KRxSx5j4fjxss8cqhMWud) | [Pull Up \(feat\. Brezay\)](https://open.spotify.com/album/5w8jRxeZBOyKGc8bTkAFdC) | 2:27 |

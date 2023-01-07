@@ -2,7 +2,7 @@
 
 ### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
 
-> All things <a href="spotify:genre:bass">bass</a> with Alison Wonderland.
+> All things <a href="spotify:genre:bass">bass</a> with SLANDER, Alison Wonderland & Said The Sky.
 
 406 songs - 23 hr 47 min
 

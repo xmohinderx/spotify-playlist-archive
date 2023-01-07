@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Stephen Sanchez
+> Discover your favorite new chill pop songs\. Cover: Lily Meola
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290,366 likes - 81 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,290,518 likes - 81 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 80 | [wish I didn't know you](https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [wish I didn't know you](https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU) | 2:53 |
 | 81 | [Up In The Sky](https://open.spotify.com/track/5DGUvMn0jGSCJIbAv9HqfU) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Up In The Sky](https://open.spotify.com/album/4edTXgynYjblkVFVHtHzDd) | 3:53 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDMzMzI4NDQwZTJhMzBjMmMzYjQ3YTkyNWRlMjkzMDMx`
+Snapshot ID: `MTY3MzA0MzA1NSwwMDAwMDAwMDVhODRkMzg2NDg5NWYyMDhiZDg3OTdkNjlkOWJiMDNj`

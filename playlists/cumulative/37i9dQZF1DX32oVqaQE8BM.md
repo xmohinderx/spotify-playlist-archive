@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-477 songs - 20 hr 23 min
+482 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [At The Hoffman's](https://open.spotify.com/track/2rTCp6VfOIqzzOJ2cvV16o) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [At The Hoffman's](https://open.spotify.com/album/4qSGLzKVXWdATYMG2T8HfM) | 2:20 | 2022-06-17 |  |
 | [Atotoztli](https://open.spotify.com/track/48dZLnPkYNhuUZHl36A24f) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [Atotoztli](https://open.spotify.com/album/1uHAS3TEeN3yPGB2nxJZSf) | 2:03 | 2022-07-08 |  |
 | [Awaken](https://open.spotify.com/track/0FQhhFUY0imS9POfz4yxuF) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Awaken](https://open.spotify.com/album/00TkOdiVZHMhk7HCPkTVJI) | 2:54 | 2022-05-27 |  |
+| [Away From You](https://open.spotify.com/track/65G4iKOfLs0gidAEPAzl50) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Away From You](https://open.spotify.com/album/4yCEPsYP8Ro3qjOZf13jgS) | 1:58 | 2023-01-06 |  |
 | [Ayewete](https://open.spotify.com/track/2ksbaKOkuO1SYyQIqLIX1M) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 2:20 | 2022-02-10 |  |
 | [Azul](https://open.spotify.com/track/4V9JH0Yk7etdGCZDX7TXvG) | [Side Sledge](https://open.spotify.com/artist/04ZyJQLsMY92swDhrrSqGe) | [Chance](https://open.spotify.com/album/4MaBzgmtaK2k7QOr9cFs5g) | 3:37 | 2021-11-10 | 2022-08-20 |
 | [bajo la luna](https://open.spotify.com/track/6MzqmDMctnS7fI0savOOtw) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [bajo la luna](https://open.spotify.com/album/6FOcsajbqcF0h8XP5bqqe3) | 2:14 | 2022-10-28 |  |
@@ -149,6 +150,7 @@
 | [floaty](https://open.spotify.com/track/6K250yvOotlfeDRzUyFdIK) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [floaty](https://open.spotify.com/album/6u13flQo08XtfdftYWNjY7) | 2:18 | 2022-10-28 |  |
 | [Flora](https://open.spotify.com/track/0dfmIWOOMbx0rP82IQQnJl) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [Flora](https://open.spotify.com/album/4egi10lrnbzOpPciddXwIB) | 2:04 | 2022-10-28 |  |
 | [Flow](https://open.spotify.com/track/2X74XD1uMFMrl2MXgG95Y1) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Flow](https://open.spotify.com/album/2LMpczTAWQqqK35la4mJcq) | 1:45 | 2021-11-10 |  |
+| [Fluffy Flakes](https://open.spotify.com/track/0kXUvcu0ljACNgP9sAclkT) | [Davide Perico](https://open.spotify.com/artist/2HieRZlSa2pQdRBWVN5CqT), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Fluffy Flakes](https://open.spotify.com/album/5SO2cjQM2g5Zowo0juUQZe) | 2:19 | 2023-01-06 |  |
 | [For No Reason](https://open.spotify.com/track/4h93amQ2V3qCp5ZMJ6r6lB) | [Temperal Guidance](https://open.spotify.com/artist/5NYAa1gibaabXhygG2bcsi) | [For No Reason](https://open.spotify.com/album/3YapZf1lBVPmczSuMTnkjx) | 2:19 | 2021-11-10 | 2022-07-08 |
 | [For Samira](https://open.spotify.com/track/19YEXoO45iLULaOyxGOuOn) | [Calendar Echoes](https://open.spotify.com/artist/4ANlASV891L3OO3snkMbHN) | [For Samira](https://open.spotify.com/album/2eI3zSVwiOPtFJVzrG6GVd) | 2:32 | 2021-11-10 | 2022-07-01 |
 | [Found Some Water](https://open.spotify.com/track/0CQiMloLtYnXibZWE0e3dN) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Found Some Water](https://open.spotify.com/album/0HhZ2MAqZQw9QoH1IYSbbf) | 2:16 | 2022-07-22 |  |
@@ -188,6 +190,7 @@
 | [Human](https://open.spotify.com/track/1OdyF8TKLozvztgR4Mwy0w) | [Ebende](https://open.spotify.com/artist/0DOiT9J5OrviDfUhBAkJAE) | [Human](https://open.spotify.com/album/5lQJwFSf6G5RTpyCYt5kSW) | 4:13 | 2022-05-20 |  |
 | [hymn](https://open.spotify.com/track/2fstidjX52u0PGrvEf00Ox) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [hymn](https://open.spotify.com/album/6gyrxxudYoLOll7qWRWWHM) | 1:44 | 2021-11-10 |  |
 | [I Am Here With You](https://open.spotify.com/track/1cQCJHU2UkaaUEKqCZjpXT) | [Some Guy I Know](https://open.spotify.com/artist/04PHmOO2YEDLmkcuEM8vzP) | [I Feel Like Flying](https://open.spotify.com/album/5hO3Y5UmKSHnagOsZabvUn) | 1:53 | 2022-04-15 |  |
+| [I Feel Warmer Already](https://open.spotify.com/track/5dvXFPoyEo4KM6BumvypbA) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [I Feel Warmer Already](https://open.spotify.com/album/72jLh8lLAIG07SY7m1cADS) | 2:30 | 2023-01-06 |  |
 | [I Think It Was In June](https://open.spotify.com/track/5ILMxmLYnmIcnjkNbWn3b0) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [I Think It Was In June](https://open.spotify.com/album/5sMFY17vv0LVna3tHIzgub) | 2:02 | 2022-09-16 |  |
 | [i tried](https://open.spotify.com/track/6W7hFzh8GNeSTljK7qzCsT) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [i tried](https://open.spotify.com/album/3WyFAmRvYnIo7c3ZzyL7uo) | 3:12 | 2022-07-29 | 2022-09-23 |
 | [Iampredotto don](https://open.spotify.com/track/0gqQB2GBIyprIf4qJYvOHJ) | [SpizyAnice](https://open.spotify.com/artist/2EfobqosVRmphWbrOEIn0Q) | [Iampredotto don](https://open.spotify.com/album/1NDMmgKNdAaPQp7dETbSaK) | 2:30 | 2022-01-21 |  |
@@ -225,6 +228,7 @@
 | [Licorice](https://open.spotify.com/track/517E0FKxGOc8ydUdTUdS49) | [Napolicity](https://open.spotify.com/artist/6qZ0vZZfdOormGhYSJtt5q) | [Licorice](https://open.spotify.com/album/57B3uwORFO3AT8krK2Ivgk) | 2:04 | 2021-11-10 | 2022-08-20 |
 | [Lifesaver](https://open.spotify.com/track/0ErNDv1Ki7vVXlWPUoEVC0) | [Adam Doschki](https://open.spotify.com/artist/6Srxg2LqSxDvLlgxWkvUzO) | [Lifesaver](https://open.spotify.com/album/0xuZTpvDmtYL3ychCXbNHl) | 1:46 | 2021-11-10 | 2022-01-22 |
 | [Lights Ablaze in the Dusking Sky](https://open.spotify.com/track/2NA1eNQeunceqGzraGE11K) | [States Of Matter](https://open.spotify.com/artist/0zL5nus6xyjc2UbkjBgxaz) | [Elephas](https://open.spotify.com/album/44bw9KEoZgoFje5AmuyIzw) | 2:44 | 2021-11-10 | 2022-05-11 |
+| [lights out](https://open.spotify.com/track/4VPY9FS6kOmJSBu60bHn32) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [lights out](https://open.spotify.com/album/7omdHaoEHAkSTLh9VVUmdJ) | 3:05 | 2023-01-06 |  |
 | [Lilly Pad](https://open.spotify.com/track/40aLPi04VSPDhGVdg7n81t) | [Oskarr Starr](https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9) | [Lilly Pad](https://open.spotify.com/album/2clmtz2yiq8x3aOlYVsFoW) | 3:35 | 2021-11-10 | 2022-05-27 |
 | [lipshells](https://open.spotify.com/track/2nfYoMN2329hAlwbPhVJuf) | [cowa cowa](https://open.spotify.com/artist/0OslD5KMKoNQvrXv7DR5VC) | [lipshells](https://open.spotify.com/album/5noCjiE5k92zUycUGD0QVq) | 2:52 | 2021-11-10 |  |
 | [lofiology](https://open.spotify.com/track/4eAY8ptmb2Nx9YNIK9PZss) | [Trixpot](https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK) | [lofiology](https://open.spotify.com/album/02GmJmun9UOWAeHKcjCKbd) | 2:19 | 2021-11-10 | 2022-09-09 |
@@ -311,6 +315,7 @@
 | [Particles](https://open.spotify.com/track/1ONBzD68J6QOaK0PrO9D3L) | [lisa millien](https://open.spotify.com/artist/2Kr18HMvOrDXltmo8bM3Wa) | [Particles](https://open.spotify.com/album/0WkWxeeZBeCuLKu6NAKLXj) | 1:51 | 2021-11-10 | 2022-10-29 |
 | [Patch](https://open.spotify.com/track/6om9J0gECkyl3NUtqtmwIZ) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Patch](https://open.spotify.com/album/4m4hazt2TSTPZhfQdP4TgT) | 3:02 | 2022-07-22 |  |
 | [Pathway](https://open.spotify.com/track/7MdUasyyylotmFLRzAy4NQ) | [Ilunabarra](https://open.spotify.com/artist/3t09BAYYbcbc4B4FIwNDdH) | [Pathway](https://open.spotify.com/album/2rvK0wkM6AkXdFYpFitVxB) | 2:40 | 2021-11-10 | 2022-05-11 |
+| [Patient](https://open.spotify.com/track/0JiC3KyAo384rat8Jr94fP) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [Patient](https://open.spotify.com/album/1WzNLB5zgS7OC5JpKlcTQb) | 2:08 | 2023-01-06 |  |
 | [Pax Mundi](https://open.spotify.com/track/1KGbSpJomANfc0836NqTdg) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Pax Mundi](https://open.spotify.com/album/3EGJfV6X0lqRjau5fCCZ45) | 2:16 | 2022-10-28 |  |
 | [Peach Salamander](https://open.spotify.com/track/4EpXywdhBbzIveXZZ0f1aD) | [analog patterns](https://open.spotify.com/artist/16IWZGWkBV0qHoeh64QL01) | [Peach Salamander](https://open.spotify.com/album/7hFWUfQnnw2WBXm2k9RRY8) | 2:43 | 2021-11-10 | 2022-07-08 |
 | [Perdido en Memorias](https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Perdido en Memorias](https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A) | 2:09 | 2022-10-28 |  |

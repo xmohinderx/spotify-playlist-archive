@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-5,845 songs - 12 day 16 hr 22 min
+5,847 songs - 12 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [ALLVARLIGT](https://open.spotify.com/track/1YGcRUmCYnaOWPUkZxzNlc) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [ALLVARLIGT + D KLART DOM HATAR OSS](https://open.spotify.com/album/1hEyD7ldmW99IJQBjv9sji) | 3:18 | 2022-09-22 | 2022-09-30 |
 | [Aloha!](https://open.spotify.com/track/1nVAXNncJum2YgmVRINs6v) | [WISEKIDS](https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2) | [Aloha!](https://open.spotify.com/album/6nqZGmU6GEHSLr5aJaGEUH) | 2:22 | 2023-01-05 |  |
 | [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-03 | 2022-11-11 |
-| [Alone](https://open.spotify.com/track/151RPoWoVDVV9WKNqOq0oS) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Alone](https://open.spotify.com/album/6PKxZA8GRTAMPPEATm7Xk5) | 2:52 | 2023-01-05 |  |
+| [Alone](https://open.spotify.com/track/151RPoWoVDVV9WKNqOq0oS) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Alone](https://open.spotify.com/album/6PKxZA8GRTAMPPEATm7Xk5) | 2:52 | 2023-01-05 | 2023-01-07 |
+| [Alone](https://open.spotify.com/track/4qo9H3XZFkJorSSCdCiHnR) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Alone](https://open.spotify.com/album/0Hj7ezeQPurVYvAOset4Yh) | 2:52 | 2023-01-06 |  |
 | [Alone](https://open.spotify.com/track/1WZSTEcC48PcrQZliCZj2y) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Alone](https://open.spotify.com/album/3PYk89I5WHZTLJhc1cWFS3) | 3:11 | 2022-08-12 | 2022-08-19 |
 | [Alone At Midnight](https://open.spotify.com/track/1KULdGZrUxMQxcDBBIcD4g) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Alone At Midnight](https://open.spotify.com/album/6yETZMXh1lCGTCZrfpWsqF) | 3:14 | 2022-12-15 | 2022-12-24 |
 | [Alone In The Night](https://open.spotify.com/track/19LGo0Ei7NGpSlhWKh9iVn) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Avatars Of Love](https://open.spotify.com/album/5YbxJ02zBKgzwTuamFiic2) | 6:25 | 2022-03-31 | 2022-04-08 |
@@ -5344,6 +5345,7 @@
 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 | 2022-03-17 | 2022-03-25 |
 | [Used To You](https://open.spotify.com/track/7x9varTNk1RMUWlFBm2Ggy) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Used To You](https://open.spotify.com/album/5PGvJzCiyz854JCpb6GwOl) | 2:52 | 2022-11-03 | 2022-11-11 |
 | [Ut med allt](https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ut med allt](https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE) | 2:21 | 2022-04-07 | 2022-04-15 |
+| [UTE PÅ JAKT](https://open.spotify.com/track/3XDKCULgNxH5s6WdgZge2G) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [UTE PÅ JAKT](https://open.spotify.com/album/1lyWpBbEUphXWN2KmlVFqx) | 2:01 | 2023-01-06 |  |
 | [Uti vår hage](https://open.spotify.com/track/40mvDJWuWUKuoP8sb4NNRW) | [Klara & Jag](https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k) | [Uti vår hage](https://open.spotify.com/album/4ipOVFPxngVqqI5fDQjh7R) | 2:17 | 2022-03-31 | 2022-04-08 |
 | [Utsikten](https://open.spotify.com/track/22jx33sruXQleB3K1h7CrH) | [Frej Larsson](https://open.spotify.com/artist/3B2Q6VDxVx3WMP620Nk4GH), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [Utsikten](https://open.spotify.com/album/0rCNZAXzfvA43Fv0bIfRcx) | 3:08 | 2022-08-18 | 2022-08-26 |
 | [v4 \(freeslaktish\)](https://open.spotify.com/track/3nXc9DDqsY2Y840KbbN8h8) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn) | [six v's](https://open.spotify.com/album/0mU4EvBcX5idj4UWW6TNE7) | 2:26 | 2022-06-23 | 2022-07-01 |
@@ -5679,7 +5681,7 @@
 | [Will Of The People](https://open.spotify.com/track/1bbyikfBqLFAMxzrAuGreh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/3nJtclmCvKVlXMDV4uM5hV) | 3:18 | 2022-06-02 | 2022-06-10 |
 | [Willing To Trust \(with Ty Dolla $ign\)](https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Willing To Trust](https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61) | 4:42 | 2022-09-22 | 2022-09-30 |
 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 | 2021-12-23 | 2021-12-31 |
-| [Win For Losin](https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Win For Losin](https://open.spotify.com/album/4QyUbGbGyn1725sRukfZ9P) | 1:57 | 2022-12-23 |  |
+| [Win For Losin](https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Win For Losin](https://open.spotify.com/album/4QyUbGbGyn1725sRukfZ9P) | 1:55 | 2022-12-23 |  |
 | [Win Lose or Draw](https://open.spotify.com/track/2ViWvkkXh7MFw1EdP8TDZe) | [Prop Dylan](https://open.spotify.com/artist/6oVl1muvHp8VLrJ5lv6lBh), [Termanology](https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl), [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [Bushido Code](https://open.spotify.com/album/2KKSejEaQ6KgE38pdfYaiA) | 3:21 | 2022-05-05 | 2022-05-13 |
 | [Wind In My Sails](https://open.spotify.com/track/5tUfKelIXC4aX2hZKkVL1h) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Wind In My Sails](https://open.spotify.com/album/6Vyg84oc9E2jrR8ZzyXbIy) | 2:59 | 2022-01-20 | 2022-01-28 |
 | [Window Shopper](https://open.spotify.com/track/7IA61hZr2za83qAfeyC49u) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Window Shopper](https://open.spotify.com/album/1kUpXT3OAzoiy7l1KtsX9y) | 2:36 | 2022-06-02 | 2022-06-10 |

@@ -2637,6 +2637,28 @@
     },
     {
       "album": {
+        "name": "No More Levitation",
+        "url": "https://open.spotify.com/album/4AzdEsWq896xPo46LQskW9"
+      },
+      "artists": [
+        {
+          "name": "Rex Hooligan",
+          "url": "https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL"
+        },
+        {
+          "name": "Anna Simone",
+          "url": "https://open.spotify.com/artist/1PLrdBJr5VTanR7zNI2nes"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "No More Levitation",
+      "url": "https://open.spotify.com/track/1xsUjMmrGeW18jVbg7xRPP"
+    },
+    {
+      "album": {
         "name": "No Rival",
         "url": "https://open.spotify.com/album/7cf61DeA3JoCN9n9nyBQ4V"
       },

@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-323 songs - 12 hr 40 min
+325 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Love Gone](https://open.spotify.com/track/13YF85tcO7tABHpidBnpgG) | [Reflejitos](https://open.spotify.com/artist/6Wa63VdHO4nX4IgCAXrd3W) | [Love Gone](https://open.spotify.com/album/7iUGacygA2lhtNlGVBtSMb) | 2:34 | 2022-12-09 |  |
 | [lu$h life](https://open.spotify.com/track/1XssVKsdajwvkRxbwHWTJK) | [Small Paws](https://open.spotify.com/artist/5ZInWJ31e4wRM7NounnYZ8) | [lu$h life](https://open.spotify.com/album/4m8nZ8ZjaN3yWTn6ZRrmau) | 1:46 | 2022-10-15 |  |
 | [Lunapark](https://open.spotify.com/track/09TatcqktQYlvIUSXWiEvV) | [Villa Maria](https://open.spotify.com/artist/5AxZSSot8isQTBuIYRlCxK) | [Lunapark](https://open.spotify.com/album/4KFJt183tLPpGcrSxDdrEp) | 2:51 | 2022-09-30 |  |
+| [Luv Devotion](https://open.spotify.com/track/65kAFxRITQjqQ6W97zALHJ) | [Yoann Garel](https://open.spotify.com/artist/2RRf9tUE1EcvP4W4v9Hi4B), [Aphrow](https://open.spotify.com/artist/5r6e4n1Ux36kMlRJSqeMPr), [Damien Fleau](https://open.spotify.com/artist/2hBiKiDOmotLf0fHDRHWW7) | [Luv Devotion](https://open.spotify.com/album/7fW9dK8OIBPrLGzaVi984h) | 2:40 | 2023-01-06 |  |
 | [Mad Summer](https://open.spotify.com/track/74NXZxHh9WGjDTWtkVkAzi) | [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Mad Summer](https://open.spotify.com/album/19mCcLU4lQXBCqg2XRrDF9) | 2:47 | 2022-09-02 |  |
 | [Main Moe \- Instrumental](https://open.spotify.com/track/2VxaK4YxG45h4vOSNctBdy) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Booth Brothers & Sisters Instrumentals 1\-10](https://open.spotify.com/album/0XSP0PtqGs0omZmJ9gIbX3) | 3:11 | 2022-11-11 |  |
 | [Main Moe \- Instrumental](https://open.spotify.com/track/6F0MccmyQ5y4pEc9M78qnV) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Main Moe \(Instrumental\)](https://open.spotify.com/album/4lMMSjL32KSMPNtrmuhgJS) | 3:11 | 2022-09-02 | 2022-11-20 |
@@ -240,6 +241,7 @@
 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 | 2022-02-17 |  |
 | [Queen's Flower](https://open.spotify.com/track/6s1G9bpphtB9E4OijfWslZ) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Queen's Flower](https://open.spotify.com/album/5bzw7GhCjD3ewcq0Pgng2M) | 2:22 | 2022-08-19 | 2022-10-29 |
 | [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:27 | 2021-11-11 |  |
+| [Rea\(L\)ove](https://open.spotify.com/track/6Pl77sVaKa2PrLsTSoVntF) | [athena](https://open.spotify.com/artist/5LCmX0zahE0VcaMNHxLJqm) | [Rea\(L\)ove](https://open.spotify.com/album/6PWdS6cfkAQqf0GEA2IQE5) | 2:44 | 2023-01-06 |  |
 | [rebounce](https://open.spotify.com/track/2tW8wzVmE4NZNX2dCpDyz4) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:02 | 2021-11-11 |  |
 | [reception](https://open.spotify.com/track/4pIzD4Yd3dPbAt8h1muzEo) | [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z), [Crunch FM](https://open.spotify.com/artist/7zapArBg2A8uBR2bPoqgcd) | [reception](https://open.spotify.com/album/3l24KWhweP65RZU17USXXC) | 3:50 | 2022-10-28 |  |
 | [Renegades](https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Renegades](https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc) | 2:58 | 2021-11-11 |  |

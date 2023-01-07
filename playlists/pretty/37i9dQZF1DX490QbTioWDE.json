@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra, Ke Personajes & La K'onga.",
-  "num_followers": 547175,
+  "num_followers": 547698,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk3NDAwMCwwMDAwMDAwMDc1NDRlYzU1ZjhiZmVjOWRmZTVmOThiZGJkOGE4ZTE1",
+  "snapshot_id": "MTY3Mjk3NDAwMCwwMDAwMDAwMGI5ODgwZGQ5NGUzNzUyMmI5ZTBhNzU0NDJhNGE5NDIx",
   "tracks": [
     {
       "added_at": "2023-01-06 03:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "No Seas Cruel",
         "url": "https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 254053,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
-      },
-      "artists": [
-        {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Para Rato!",
-        "url": "https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ"
-      },
-      "artists": [
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 227306,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "200 Copas (En Vivo)",
         "url": "https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 218826,
       "name": "200 Copas - En Vivo",
       "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Para Rato!",
+        "url": "https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "duration_ms": 227306,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1595,38 +1595,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Tu Peor Enemigo",
-        "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
-      },
-      "artists": [
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 201109,
-      "name": "Tu Peor Enemigo",
-      "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Trulala - Grandes exitos",
-        "url": "https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx"
-      },
-      "artists": [
-        {
-          "name": "Claudio Toledo",
-          "url": "https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "Tu amor me duele",
-      "url": "https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "Ojal\u00e1 Que No Puedas / Me Parece Que (En Vivo)",
         "url": "https://open.spotify.com/album/36oVWVE59SadLSJSxV6Uul"
       },
@@ -1639,6 +1607,38 @@
       "duration_ms": 315157,
       "name": "Ojala Que No Puedas / Me Parece Que - En Vivo",
       "url": "https://open.spotify.com/track/2RUq39ldhpIla3CoYTfYbw"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Fina",
+        "url": "https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Fina",
+      "url": "https://open.spotify.com/track/5mwKUdKISoTg2QN8rni0oh"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Tu Peor Enemigo",
+        "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "duration_ms": 201109,
+      "name": "Tu Peor Enemigo",
+      "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "Trulala - Grandes exitos",
+        "url": "https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx"
+      },
+      "artists": [
+        {
+          "name": "Claudio Toledo",
+          "url": "https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "Tu amor me duele",
+      "url": "https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "Olv\u00eddate (Cuarteto)",
         "url": "https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 266000,
       "name": "Olv\u00eddate - Cuarteto",
       "url": "https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Fina",
-        "url": "https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Fina",
-      "url": "https://open.spotify.com/track/5mwKUdKISoTg2QN8rni0oh"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Volver\u00e1s a mi cama",
-        "url": "https://open.spotify.com/album/2iXgt6xMsk1NWyZxiAbBTV"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes del Cuarteto",
-          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
-        },
-        {
-          "name": "Fabi\u00e1n Show",
-          "url": "https://open.spotify.com/artist/0RKPB7jsjhvfa18hkcOGjH"
-        }
-      ],
-      "duration_ms": 192997,
-      "name": "Volver\u00e1s a mi cama",
-      "url": "https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "Un Sue\u00f1o Hecho Realidad",
         "url": "https://open.spotify.com/album/5QTCqQJpABAHRghnawZP7p"
       },
@@ -1771,6 +1751,22 @@
       "duration_ms": 191698,
       "name": "Viuda a los 20",
       "url": "https://open.spotify.com/track/0dXehysNVTVWkBVxfVkUh9"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Espectacular Monada",
+        "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Dame un Poco Mas",
+      "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
     }
   ],
   "unique_name": "100% Cuarteto",

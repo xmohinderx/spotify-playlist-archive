@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 110761,
+  "num_followers": 110799,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMGY2MmM1NWQ2ZTBlZjEzOWMwM2U5NmI5ZGE4ZWM0YjY2",
+  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMGE2MThiNjJiNmYyMWQwMzQyNGZkMjMzZTVjY2E3NDA5",
   "tracks": [
     {
       "added_at": "2022-12-15 13:00:00",
@@ -869,7 +869,7 @@
         },
         {
           "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+          "url": "https://open.spotify.com/artist/6lx1oSxA9vR67eRlAOIxFT"
         }
       ],
       "duration_ms": 197727,
@@ -943,26 +943,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Kryptonite",
-        "url": "https://open.spotify.com/album/5vaQxSQf6pano3BHr9VQzG"
-      },
-      "artists": [
-        {
-          "name": "JYYE",
-          "url": "https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb"
-        },
-        {
-          "name": "Julia Temos",
-          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
-        }
-      ],
-      "duration_ms": 130558,
-      "name": "Kryptonite (feat. Julia Temos)",
-      "url": "https://open.spotify.com/track/2uMP2WzQTyU4uyOEdfm2WY"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "Touch (feat. Rromarin)",
         "url": "https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 206250,
       "name": "Touch (feat. Rromarin)",
       "url": "https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/5vaQxSQf6pano3BHr9VQzG"
+      },
+      "artists": [
+        {
+          "name": "JYYE",
+          "url": "https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+        }
+      ],
+      "duration_ms": 130558,
+      "name": "Kryptonite (feat. Julia Temos)",
+      "url": "https://open.spotify.com/track/2uMP2WzQTyU4uyOEdfm2WY"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "We Don\u2019t Ever Stop",
-        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+        "name": "Get What You Want (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/54DJoT0IkExQ6druq7hQ57"
       },
       "artists": [
         {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         }
       ],
-      "duration_ms": 160638,
-      "name": "We Don't Ever Stop",
-      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+      "duration_ms": 223809,
+      "name": "Get What You Want - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/0MikGbA8bt5Fo07NVW6HQ7"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -1119,18 +1123,18 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz"
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
       },
       "artists": [
         {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
         }
       ],
-      "duration_ms": 293775,
-      "name": "Feel It Too",
-      "url": "https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs"
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
     }
   ],
   "unique_name": "Sunday Sessions",

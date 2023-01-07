@@ -2,7 +2,7 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from Bad Bunny, Ñengo Flow, KAROL G and more.🔥🥵
+> Reggaeton hits from Yandel, Feid, KAROL G and more.🔥🥵
 
 213 songs - 12 hr 7 min
 

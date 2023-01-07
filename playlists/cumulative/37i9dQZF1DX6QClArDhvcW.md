@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-269 songs - 10 hr 0 min
+274 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,11 +32,13 @@
 | [bottle rockets](https://open.spotify.com/track/0H9T97wS2k3bk1JcyOlrrN) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [campfire talks](https://open.spotify.com/album/5UgSVmsWg4jgAuGUwjssVU) | 2:19 | 2022-07-22 |  |
 | [Breeze 52](https://open.spotify.com/track/0rNTOI1K11CSPTj3dvq1tU) | [Pluto Tracks](https://open.spotify.com/artist/1JFmZ9XvgZnVttQHe8RSj1) | [Breeze 52](https://open.spotify.com/album/1qRVaci6Oqo43ssMt88MwZ) | 1:58 | 2022-05-20 |  |
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2022-05-20 |  |
+| [BUREAU](https://open.spotify.com/track/1G2S9S4zkyjWZ4o7UFxKEN) | [C L A E S](https://open.spotify.com/artist/7l7padJSxJNVmAgHnrvo7E) | [BUREAU](https://open.spotify.com/album/3wm25SygTk8pNHDEcW5zF2) | 1:16 | 2023-01-06 |  |
 | [Candy](https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq) | [Ada Vula](https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv) | [Candy](https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N) | 1:46 | 2022-09-02 |  |
 | [Candy Clouds](https://open.spotify.com/track/0Z4O3yTtmqdLXzCxSX9XPt) | [Airship River](https://open.spotify.com/artist/6v5wK0vEKyLP05vV9dvly6) | [Lemo](https://open.spotify.com/album/0rA6rd8ashXD1xaAQkbZRI) | 3:12 | 2022-05-20 |  |
 | [Cashmere Gifts](https://open.spotify.com/track/1K372fPaHuSfk4yCANtbRG) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Cashmere Gifts](https://open.spotify.com/album/5h7s0PzCnsG8tNiP8LmSED) | 2:07 | 2022-05-27 | 2022-09-17 |
 | [Cereal](https://open.spotify.com/track/7zmnH5VY7m2TDJjMnr1g7k) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 3:31 | 2022-05-20 |  |
 | [chances](https://open.spotify.com/track/0Nq2LxjyX4iPkQr8rA0LW3) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [chances](https://open.spotify.com/album/0VmuWLfudj3p7PROwKlzOP) | 3:10 | 2022-05-27 | 2022-08-19 |
+| [Chi Chi Doe](https://open.spotify.com/track/1VxQS5FdWbLT7XI93CSHD1) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Chi Chi Doe](https://open.spotify.com/album/3TLhATvGaFZVZ42mWZz3Zx) | 2:18 | 2023-01-06 |  |
 | [chocolate milk thnx](https://open.spotify.com/track/4z8LqF5jRvM2qNG4Kzf9Bl) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [chocolate milk thnx](https://open.spotify.com/album/3uhR8os4vLjHI6U4y42ZRU) | 2:23 | 2022-06-24 |  |
 | [chromatico](https://open.spotify.com/track/1DIrNCgJci5gRZnltnABJA) | [reviie](https://open.spotify.com/artist/0NhZ9c4X8i2SHZP0sHBo8J) | [chromatico](https://open.spotify.com/album/6S8qHXw7l9QROYNkzUClOb) | 2:04 | 2022-05-20 |  |
 | [Cinnamon Memories](https://open.spotify.com/track/0e3ctvfNdTAtzVAMVdDbNZ) | [Treewind](https://open.spotify.com/artist/4byI3GpeyNiSfD8XOy0Kg6) | [Cinnamon Memories](https://open.spotify.com/album/2HDnU9DXWjpKRQysNPlsD2) | 2:29 | 2022-11-25 |  |
@@ -90,6 +92,7 @@
 | [fusions](https://open.spotify.com/track/505vdK8fP7XVkNmK3zicyC) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [power to flow](https://open.spotify.com/album/5C8StkM3ZYGtkDAEqmV5ll) | 4:40 | 2022-05-20 | 2022-07-08 |
 | [Give in to you](https://open.spotify.com/track/2GYrasXjMJuZKD5WMKrLHs) | [Gachagchi](https://open.spotify.com/artist/4gYhpOBdTKEhnrjRsYrhXe) | [I am the one](https://open.spotify.com/album/0hN15c8jV4wx6Q8PkqWKZf) | 1:44 | 2022-05-20 |  |
 | [Golden Gardens](https://open.spotify.com/track/3k7afHN7Gc9vdIFJovkv8G) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Golden Gardens](https://open.spotify.com/album/3MnvFHRNCoyHnoagZq48qt) | 3:16 | 2022-05-20 | 2022-06-25 |
+| [Good Morning World](https://open.spotify.com/track/7voEmTBYrlegfKjtzcgbPs) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Lafken](https://open.spotify.com/artist/2H2m5FIzmtgssMAFEXTWrf) | [Cruz del Sur](https://open.spotify.com/album/0FwVoBOy9KJiMMiCN4iI2E) | 1:58 | 2023-01-06 |  |
 | [Halfway](https://open.spotify.com/track/7JjUUzjaOvKTgOPqS8k7co) | [Droxilyn](https://open.spotify.com/artist/3oFAs0SnvbeuGg4ti8Ycak), [lofi boyz](https://open.spotify.com/artist/4MGcmCTE0ifSg3In5uyD1u) | [Halfway](https://open.spotify.com/album/288gVJdgEXnPu89VNdKY4t) | 2:12 | 2022-05-20 | 2022-05-27 |
 | [Hammock Peace](https://open.spotify.com/track/5c4HtDhI2AQAHiDZyiGanT) | [Oliver Max](https://open.spotify.com/artist/2VhJDJ4mwZK4DAnpcJmRAt) | [Hammock Peace](https://open.spotify.com/album/4jXFZ2EFjeARbnldcTjbip) | 2:25 | 2022-07-22 | 2022-09-17 |
 | [hanging on](https://open.spotify.com/track/6PBlsaAapHTqzooT5lZn2a) | [middlesway](https://open.spotify.com/artist/5AZJCTkP3II2LkTMmZPHYJ) | [hanging on](https://open.spotify.com/album/34bsRD4L9wsyfjZiAGKYXS) | 2:12 | 2022-05-20 | 2022-07-22 |
@@ -125,6 +128,7 @@
 | [late mornings](https://open.spotify.com/track/2HTpEiq5lnOpVQr1Z3oqHA) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [late mornings](https://open.spotify.com/album/3gevJpx2m2uSXCXq1FtWXa) | 1:38 | 2022-10-28 |  |
 | [Lazy Days](https://open.spotify.com/track/6hRR9B0kIoMFuiJw5ra4MV) | [Blues Trip](https://open.spotify.com/artist/1tR2bO3i8fdS3A8tLn2UEw) | [Lazy Days](https://open.spotify.com/album/1kU27rgNOeTPXvGHdANVwl) | 2:07 | 2022-10-28 |  |
 | [Lazy Morning Park Life](https://open.spotify.com/track/4CY3fB6NqsugoCtXiWcp35) | [Lofi MMMO](https://open.spotify.com/artist/7mC3tlq3rhrrGfWzMnV0qw) | [Livin La Vida Lofi Loca](https://open.spotify.com/album/2C5qc19784Ret4oa5xLrRh) | 2:36 | 2022-09-02 |  |
+| [Lazy Mornings](https://open.spotify.com/track/3dx6xE1JmUhTDCLhneVNX9) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q) | [Lazy Mornings](https://open.spotify.com/album/1EbGkkV0QZWrCHCCEWmJp7) | 2:21 | 2023-01-06 |  |
 | [Le Hippie](https://open.spotify.com/track/37bVtb7OiKv6L8qJuDWCBG) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Le Hippie](https://open.spotify.com/album/3y9zpas3INXBk6lUVnrIVF) | 2:22 | 2022-05-20 | 2022-10-29 |
 | [left staring](https://open.spotify.com/track/1aKmyCgZQbhVeN9aH6co0I) | [bugdawn](https://open.spotify.com/artist/3iB5oTLzBMSaNQ2CajhcGz) | [left staring](https://open.spotify.com/album/0qRiHtoEzskxs1lcKzLIml) | 2:12 | 2022-05-20 |  |
 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 | 2022-05-20 |  |
@@ -181,6 +185,7 @@
 | [perception](https://open.spotify.com/track/6fVMTxRuHpBL5TwL71HL6R) | [cloudi](https://open.spotify.com/artist/64LHvgl55hJTLXtgaO454g) | [perception](https://open.spotify.com/album/4pMhm2IQ8ojjdvOPpaZA91) | 1:25 | 2022-05-20 |  |
 | [pet spider](https://open.spotify.com/track/7lcLYruqGRzJ9Je6Cwmujo) | [Lif Lof](https://open.spotify.com/artist/59klqOnyVLPI3Tyb5uy0zJ) | [pet spider](https://open.spotify.com/album/2MANZUjdHH4BoykEu4sv46) | 2:27 | 2022-08-05 | 2022-10-29 |
 | [Pillow Head](https://open.spotify.com/track/0ISbKdCQjZ3RYF30RBrCbY) | [Dreamy Vibes](https://open.spotify.com/artist/5md3j6tShlKtrcokmLIJJw) | [Pillow Head](https://open.spotify.com/album/30TMwmHW2rtrlqOFEapBSI) | 2:21 | 2022-05-20 |  |
+| [Pillow Retreat](https://open.spotify.com/track/3c8ruuQkemApqagMhbqSdE) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Pillow Retreat](https://open.spotify.com/album/3BnPwguYMYzXtSQZAnuKd2) | 2:22 | 2023-01-06 |  |
 | [play it](https://open.spotify.com/track/78WfketyVicKm5FjIUlnjU) | [B.O Mitz](https://open.spotify.com/artist/2N2Pm6RaNByrYBzEcguka9) | [play it](https://open.spotify.com/album/2J32iHvpetzGjSi2BiM1JE) | 2:32 | 2022-07-01 |  |
 | [play me](https://open.spotify.com/track/20iCDmodyMCKSpNpoCus35) | [yumiyumi](https://open.spotify.com/artist/7Cp3qOemuJmuqdD7qnL780) | [play me](https://open.spotify.com/album/0jFczI9RFaTMEkgF6wJGnc) | 2:17 | 2022-05-20 |  |
 | [Popsicle](https://open.spotify.com/track/3YkTd9wRFuVLBn2yWm9jDm) | [LIAR.](https://open.spotify.com/artist/3WWfY5srwuTUAD85I6dQr6) | [Popsicle](https://open.spotify.com/album/3megiTdeoMiHET8bxY2g5A) | 2:02 | 2022-05-20 |  |

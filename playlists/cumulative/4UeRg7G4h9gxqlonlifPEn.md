@@ -2,9 +2,9 @@
 
 ### [Turnt Mode](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 
-> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: FNF Chop
+> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Harold
 
-175 songs - 8 hr 12 min
+176 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 | 2022-09-16 |  |
 | [One Two \(feat\. YungManny\)](https://open.spotify.com/track/0YLKjMNe2YtC5pzCyRoypZ) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3), [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [One Two \(feat\. YungManny\)](https://open.spotify.com/album/5wRaQ7AhuwZhIwXOm1znT9) | 3:45 | 2022-06-03 |  |
 | [OPP PARTY \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/0sQVPgee00O6WrP7b8E1ix) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [OPP PARTY \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/6f9Ybh8nheTL1SP9fay42H) | 3:36 | 2022-06-03 | 2022-10-15 |
+| [Out of Time](https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [Out of Time](https://open.spotify.com/album/72SRRaSf8OEru4ewgAK0UM) | 1:57 | 2023-01-06 |  |
 | [Overseas](https://open.spotify.com/track/4vs8wFsbctZBuuzJxZnmPz) | [Jay Bezzy](https://open.spotify.com/artist/1GZUXd4w6cHTfoqHMrbMDZ), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Overseas](https://open.spotify.com/album/04uP1i16kH1FXkf0YUYmxk) | 2:11 | 2022-06-03 | 2022-08-06 |
 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 | 2022-07-08 |  |
 | [Party of a Lifetime \- Birthday Edit](https://open.spotify.com/track/0PtzOivdOKTEecvsHmEzSz) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Party of a Lifetime \(Birthday Edit\)](https://open.spotify.com/album/44z0qgd1VKubYQGRRTWe5M) | 2:38 | 2022-08-05 |  |

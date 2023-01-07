@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-328 songs - 15 hr 18 min
+331 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Fumes](https://open.spotify.com/track/7dvP0RUa28jZyRPvWHRvs8) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Smoozie](https://open.spotify.com/album/0uaq4E8FvJTnrh72g8PEhg) | 2:18 | 2021-04-26\* | 2021-10-14 |
 | [Game Tester](https://open.spotify.com/track/5sunUwPt7huJmBIb1xxwTh) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj), [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Push It](https://open.spotify.com/album/6pT0TyUeh21jmMHKuEzfCA) | 2:41 | 2021-04-26\* | 2021-08-26 |
 | [Gangster Rap Beat](https://open.spotify.com/track/1qJvHwzLoPVQRe0tALYSO5) | [Suhail Ahmad](https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk) | [Gangster Rap Beat](https://open.spotify.com/album/34qjwTwdASTioqGE00HMEb) | 3:19 | 2021-05-07 | 2021-06-18 |
+| [Godess](https://open.spotify.com/track/3Uwskc8fcou9aZWP2XfUDk) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Godess](https://open.spotify.com/album/6ze5yOAvCfm2UZCetGqOSh) | 2:48 | 2023-01-06 |  |
 | [Gogh](https://open.spotify.com/track/5vyVUBGUkdlIvSCVyLhlz6) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Gogh](https://open.spotify.com/album/63sPq8YeeaClKpUy9m2zpn) | 2:37 | 2021-11-10 |  |
 | [GQ](https://open.spotify.com/track/1u1Vm4cXZC6obgukTjYPX7) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Starpower](https://open.spotify.com/album/2Pnt9baDF2LhYGqXAmrvaH) | 2:22 | 2021-06-04 | 2021-10-14 |
 | [Happy Trap](https://open.spotify.com/track/3NKRNH11HPKqw9LUC7QeVR) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Happy Trap](https://open.spotify.com/album/3VK7GQ7jFQSU5JsiruhBrM) | 2:14 | 2022-09-16 |  |
@@ -174,6 +175,7 @@
 | [Light Colors](https://open.spotify.com/track/57icLTnAu0LHPOsdmfOhjF) | [IntoVerted](https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT) | [Light Colors](https://open.spotify.com/album/5myEgExIXQPG6fKTGbd0On) | 2:48 | 2021-11-10 | 2022-10-29 |
 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 | 2021-11-10 |  |
 | [Lone Time](https://open.spotify.com/track/4VLNtvBPryNoSAa4EA1pHG) | [Suhail Ahmad](https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk) | [Lone Time](https://open.spotify.com/album/7w2GVmp5BY8pxCZSvcEiM3) | 3:50 | 2021-04-26\* | 2021-08-26 |
+| [Long Way Home](https://open.spotify.com/track/4MPS8kSzTiVFhgv9MDJncU) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Long Way Home](https://open.spotify.com/album/7808T5V1eWDOc5vGKtqcB9) | 2:37 | 2023-01-06 |  |
 | [Losing Ground](https://open.spotify.com/track/0s8WAg0nNe2ia0qKtkAfdu) | [OMOZO](https://open.spotify.com/artist/0UADN60KWS7lO5isbnePqy) | [Losing Ground](https://open.spotify.com/album/3zdjmQpQjyfuiFynMPYquD) | 2:47 | 2021-11-10 |  |
 | [Lotus](https://open.spotify.com/track/3I2UfvebTSME6qOSvvuxnI) | [karasu.](https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae) | [Lotus](https://open.spotify.com/album/2IOMBujAQ7aN3vKSnDX4pM) | 3:23 | 2021-04-26\* | 2022-08-19 |
 | [Low Low](https://open.spotify.com/track/2BL001oJy6k8InQLo3pc6L) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Dark Souls](https://open.spotify.com/album/0kQXksVJtxOi0eNqdlOaLv) | 2:32 | 2021-04-26\* | 2021-08-26 |
@@ -234,6 +236,7 @@
 | [Reason \(Instrumental\)](https://open.spotify.com/track/3m9dTM1EGwaTMZlWz35IO4) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Reason \(Instrumental\)](https://open.spotify.com/album/79wdqvPlARnL1sXcEbnIHI) | 2:49 | 2021-04-26\* | 2022-08-19 |
 | [Recenseo](https://open.spotify.com/track/6QdHlBTs0Rme9cn9EYFSc0) | [Humblebee](https://open.spotify.com/artist/43DaGVXzvghYrfrHK4eP3m) | [Occasus](https://open.spotify.com/album/1ddz02kStcLhxFiizCK1lP) | 2:49 | 2021-04-26\* | 2021-06-18 |
 | [red reflections](https://open.spotify.com/track/2HXbCeN1K3jxvvPSYZPOUp) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [kaleidoscopes](https://open.spotify.com/album/4GSUMxsOfySGzYumuJ9i8P) | 2:53 | 2021-11-10 | 2022-07-22 |
+| [Redemption Art](https://open.spotify.com/track/36029vUr50awRBW4ZkGc59) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Redemption Art](https://open.spotify.com/album/6G15IbO6nTl1Ay9GcBf9VM) | 2:47 | 2023-01-06 |  |
 | [Regardless](https://open.spotify.com/track/47ycT8Rnhz6nQ54eJND3II) | [trabbey](https://open.spotify.com/artist/3njIliuv3ugKzuNZgEOZ6s), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [Regardless](https://open.spotify.com/album/5msAk3rbAcG0NjJf8LDoBQ) | 2:39 | 2022-04-22 | 2022-08-19 |
 | [Right Timing](https://open.spotify.com/track/4ZF3hIQwWDrboDPwmxsECc) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Bare](https://open.spotify.com/album/1TsskLJu3cR1g9WgcVgkte) | 2:27 | 2021-06-04 |  |
 | [Riverside](https://open.spotify.com/track/1XKngi22KpRA2EEJvW9JTM) | [Producerboibrad.](https://open.spotify.com/artist/7vicJmnVJ4aW8yKB4AEEAB) | [Riverside](https://open.spotify.com/album/5VYV8Z7uRQnBiVAZfU6GNF) | 2:25 | 2021-04-26\* | 2022-12-24 |

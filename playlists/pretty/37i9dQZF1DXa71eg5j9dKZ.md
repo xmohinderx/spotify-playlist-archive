@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,460 likes - 125 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,493 likes - 125 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 85 | [No Passa](https://open.spotify.com/track/2jT3SPpQCkkHilhF799MUR) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Cartell](https://open.spotify.com/artist/1MVD2kfZ6DypFq4iQVKyvM) | [Peace of Mind](https://open.spotify.com/album/0fPfWMKz6eplxREP6GtTBG) | 3:37 |
 | 86 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 |
 | 87 | [Organ Belta](https://open.spotify.com/track/0Uo3ri0yFn2iUh2c3Z54uO) | [Jamie Roy](https://open.spotify.com/artist/79ABJJGvLA87FSIayREkBM) | [Organ Belta](https://open.spotify.com/album/4DuqITm0UJZ2HQTpJ6gMga) | 6:00 |
-| 88 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
+| 88 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/6lx1oSxA9vR67eRlAOIxFT) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
 | 89 | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 |
 | 90 | [Yours, Mine](https://open.spotify.com/track/6fHovUU6c7i3h7GY8S6BSs) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Yours, Mine](https://open.spotify.com/album/2qJSWpxdRK6auFOhwSWjCn) | 4:22 |
 | 91 | [Woe](https://open.spotify.com/track/28xeM58xfbn0ahMEfjAsHP) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:40 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 107 | [Seran's Harp](https://open.spotify.com/track/0FU3cNMUISYdzNrzZTKC5V) | [Affelaye](https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ) | [Seran's Harp](https://open.spotify.com/album/3LIgUgTag5FzdcvBAFX1t8) | 5:20 |
 | 108 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 109 | [Never Gonna Get It](https://open.spotify.com/track/0QEbtIIK5pwcZZYuzjTOZB) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Never Gonna Get It](https://open.spotify.com/album/3CxpaBghJW3Rjm6cY3WWRS) | 2:50 |
-| 110 | [Tommy's Dream](https://open.spotify.com/track/48gwHIUd09s0g1JxEv9VzJ) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Tommy's Dream](https://open.spotify.com/album/5bAvj4QAWaKMQQaTIMRK7c) | 3:39 |
+| 110 | [Tommy's Dream](https://open.spotify.com/track/0RsKr0MBHoL1qxoeWyhNrh) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Tommy's Dream](https://open.spotify.com/album/6aMOR9XeLq7DcyXUnYg9mO) | 3:39 |
 | 111 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:04 |
 | 112 | [Feels Like](https://open.spotify.com/track/6tiK5mxdY4c8AFMhypVgG7) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Feels Like](https://open.spotify.com/album/4tXty4RLKNyDH0ltilC9jJ) | 3:23 |
 | 113 | [Elder Garden](https://open.spotify.com/track/3TWcBUoQnSXKw1e4cbws5H) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/3PbfDF0bANDL73NuQL7Wkf) | 5:29 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 124 | [Sueños](https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa) | [Waleed](https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs) | [Sueños](https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe) | 4:58 |
 | 125 | [FYA FYA](https://open.spotify.com/track/7gXR2JukLmjLqryJmqQmTK) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [FYA FYA](https://open.spotify.com/album/3iWeKO9mVCGJ6nUTPb2M4R) | 3:41 |
 
-Snapshot ID: `MTY3Mjk2MzIwMCwwMDAwMDAwMDBlMjc2ZjZkYWMyZjE4YjNhMWMzYmYzYjcwMzk2Yzdj`
+Snapshot ID: `MTY3Mjk2MzIwMCwwMDAwMDAwMDRlYjUwYmFmZTIwMDZjZTM2Njg1Y2Q0MTIxZGNkYWQ0`

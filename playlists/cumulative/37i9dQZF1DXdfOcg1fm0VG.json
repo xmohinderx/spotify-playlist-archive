@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Portal 2: Songs to Test by (Collectors Edition)",
+        "url": "https://open.spotify.com/album/3avDuVP1Ua1QsCXLoSStHb"
+      },
+      "artists": [
+        {
+          "name": "Aperture Science Psychoacoustic Laboratories",
+          "url": "https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "9999999",
+      "url": "https://open.spotify.com/track/7cb5qcpZusQZv5FVnj4sRg"
+    },
+    {
+      "album": {
         "name": "Portal 2: Songs to Test By (Collectors Edition)",
         "url": "https://open.spotify.com/album/5l1BFWphq5XiWlpbYUjrhr"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 192426,
       "name": "9999999",
       "url": "https://open.spotify.com/track/7t0AFyyVYgwXuPRjbhQGph"

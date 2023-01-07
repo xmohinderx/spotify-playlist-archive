@@ -1,12 +1,12 @@
 {
   "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Popcaan, Drake\n\n",
-  "num_followers": 110586,
+  "num_followers": 110600,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk3NDAwMCwwMDAwMDAwMDQwZWQ5NTE1MWUxNGMwYWQwMzE4ZmYyNDdhOTU5NTQz",
+  "snapshot_id": "MTY3Mjk3NDAwMCwwMDAwMDAwMDUyMjVhNTViZDc2YTFiMGUzNzk5MzkxY2Q3YWQzZTcw",
   "tracks": [
     {
       "added_at": "2023-01-06 03:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 229436,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "MAMA.CITA (hasta la vista)",
         "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 152358,
       "name": "MAMA.CITA (hasta la vista)",
       "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 229436,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Run Into Trouble",
-        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
+        "name": "#NeverDrinkingAgain",
+        "url": "https://open.spotify.com/album/0LTBVBoCdL2FSGJIPvqKc8"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         }
       ],
-      "duration_ms": 182564,
-      "name": "Run Into Trouble",
-      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
+      "duration_ms": 181333,
+      "name": "#NeverDrinkingAgain",
+      "url": "https://open.spotify.com/track/6V6qKLDO7jSA4Vh6tDfScL"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1079,6 +1075,26 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "Run Into Trouble",
+        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Run Into Trouble",
+      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "WDIA (Would Do It Again)",
         "url": "https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 191040,
       "name": "WDIA (Would Do It Again)",
       "url": "https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "#NeverDrinkingAgain",
-        "url": "https://open.spotify.com/album/0LTBVBoCdL2FSGJIPvqKc8"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "#NeverDrinkingAgain",
-      "url": "https://open.spotify.com/track/6V6qKLDO7jSA4Vh6tDfScL"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "TR\u00caS",
-        "url": "https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 130434,
-      "name": "Mole",
-      "url": "https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "FICA PRO CAF\u00c9",
         "url": "https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 150260,
       "name": "FICA PRO CAF\u00c9",
       "url": "https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "TR\u00caS",
+        "url": "https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "Mole",
+      "url": "https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1363,6 +1363,34 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "Ayo Girl (Fayahh Beat) [feat. Rema & Tempoe]",
+        "url": "https://open.spotify.com/album/2JoPRQl4Nye9kJ9icFiKXv"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 167271,
+      "name": "Ayo Girl (Fayahh Beat) [feat. Rema & Tempoe]",
+      "url": "https://open.spotify.com/track/7CIzqVH1N2BxHPavv5CLWz"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "Sex, Drugs, Etc. (Stripped Down)",
         "url": "https://open.spotify.com/album/4dy64woaU8KwpLVdU14nsc"
       },
@@ -1375,26 +1403,6 @@
       "duration_ms": 201481,
       "name": "Sex, Drugs, Etc. - Stripped Down",
       "url": "https://open.spotify.com/track/4UIP2ib4kHghA1S0jxnW5s"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Love Me Now (feat. FAST BOY) [Acoustic]",
-        "url": "https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 138348,
-      "name": "Love Me Now (feat. FAST BOY) - Acoustic",
-      "url": "https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1419,6 +1427,26 @@
       "duration_ms": 168515,
       "name": "Emoji de Fogo (Danny Bond & Cyberkills Remix)",
       "url": "https://open.spotify.com/track/2Xr1tVdvdGBTKuGfGQMIsw"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Love Me Now (feat. FAST BOY) [Acoustic]",
+        "url": "https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 138348,
+      "name": "Love Me Now (feat. FAST BOY) - Acoustic",
+      "url": "https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1455,34 +1483,6 @@
       "duration_ms": 142699,
       "name": "Mete o P\u00e9",
       "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Ayo Girl (Fayahh Beat) [feat. Rema & Tempoe]",
-        "url": "https://open.spotify.com/album/2JoPRQl4Nye9kJ9icFiKXv"
-      },
-      "artists": [
-        {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 167271,
-      "name": "Ayo Girl (Fayahh Beat) [feat. Rema & Tempoe]",
-      "url": "https://open.spotify.com/track/7CIzqVH1N2BxHPavv5CLWz"
     },
     {
       "added_at": "2023-01-06 03:00:00",

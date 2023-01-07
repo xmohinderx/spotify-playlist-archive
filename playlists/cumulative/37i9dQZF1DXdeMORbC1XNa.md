@@ -4,7 +4,7 @@
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Kelvyn Boy
 
-361 songs - 19 hr 6 min
+362 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Don't You Know](https://open.spotify.com/track/3OfW40yFLQLliMnWaz8DEu) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Don't You Know](https://open.spotify.com/album/5LMPPzAnCQSipNb8RzfVXi) | 3:38 | 2021-12-20 | 2022-06-11 |
 | [DRUNK GUITAR \(feat\. Potter Payper\)](https://open.spotify.com/track/1cbpSW7r9Hl5lIFSK1NlL8) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Drunk Guitar \(feat\. Potter Payper\)](https://open.spotify.com/album/0lLfnpTgYq169ZsCk72GY9) | 4:16 | 2021-12-20 | 2022-05-27 |
 | [E Be Mad](https://open.spotify.com/track/2aochHcSqGYOJrHOQXVAYY) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Something Else](https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu) | 2:54 | 2021-12-20 | 2022-07-16 |
-| [Eh God \(Barnabas\)](https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 3:04 | 2021-12-20 |  |
+| [Eh God \(Barnabas\)](https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 3:04 | 2021-12-20 | 2023-01-07 |
 | [ENERGY \(feat\. Beam\)](https://open.spotify.com/track/0314PeD1sQNonfVWix3B2K) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 1:56 | 2022-08-18 | 2022-09-17 |
 | [Enough for Me](https://open.spotify.com/track/3FEjSw1Xxg1Qc7SKn5SXXY) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Enough for Me](https://open.spotify.com/album/4cfl6I6WyvpU4HXOH9pnCv) | 2:46 | 2022-07-21 | 2022-08-06 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2021-12-20 |  |
@@ -258,6 +258,7 @@
 | [Pick Up](https://open.spotify.com/track/13iAeDhYtRuuWdcNLZftY2) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Pick Up](https://open.spotify.com/album/6pig1K4wZv0XZ26xYSGHOd) | 3:14 | 2021-12-20 | 2022-07-28 |
 | [Pimp of the Party](https://open.spotify.com/track/10vinAvgIODP5C7QgHeGlH) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [ZJ Chrome](https://open.spotify.com/artist/10RdVSp5OiUPHjh4bYKBMM) | [Pimp of the Party](https://open.spotify.com/album/0WM2nEd5XorOUkpBzr5wc2) | 2:00 | 2022-08-18 | 2022-09-17 |
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-05-06 |  |
+| [Point and Kill](https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:05 | 2022-10-23 |  |
 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 | 2022-09-30 | 2022-11-21 |
 | [PRESS](https://open.spotify.com/track/4oOHLldeSQn3WVwcyrN4zm) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:43 | 2022-03-14 | 2022-07-28 |
 | [Pressure](https://open.spotify.com/track/2cjn17ZzFbT8IaSY0POZxg) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Pressure](https://open.spotify.com/album/4xddNgNiuNaRRSuiHzcuyy) | 3:29 | 2021-12-20 | 2022-06-12 |

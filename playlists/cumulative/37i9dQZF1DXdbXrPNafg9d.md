@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Cuco
 
-4,629 songs - 11 day 7 hr 49 min
+4,630 songs - 11 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Aries \(feat\. Peter Hook and Georgia\)](https://open.spotify.com/track/2haIfONRw1Bhi2zSp67MYU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Peter Hook](https://open.spotify.com/artist/7yE0pgnhHPnPk4GZVuEpZM), [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Song Machine Episode 3](https://open.spotify.com/album/7z7ioOPs2FaEWB2uRWjfCE) | 4:13 | 2020-04-10 | 2020-05-15 |
 | [Arm's Length](https://open.spotify.com/track/4UaRFwdpv9JFBxOvW6Xr11) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Arm's Length](https://open.spotify.com/album/1VU9JM0ZkihXjpKgq32XOs) | 4:11 | 2021-05-08 | 2021-06-26 |
 | [Army Of Me](https://open.spotify.com/track/4RYc3RH9YZD6jn8k6h7aAW) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Army Of Me](https://open.spotify.com/album/3KXPsypHcb5a9taDnFWkFp) | 4:06 | 2021-05-29 | 2021-07-17 |
+| [Arqxvst \(Hope\)](https://open.spotify.com/track/4AxI2quttaA3cOAucg9sPp) | [Pretty V](https://open.spotify.com/artist/7bYrSokOzrKQjswYHevxMy) | [Aqrxvst Is The Band's Name](https://open.spotify.com/album/3OctoMpjK0QHnRqEYwITDB) | 5:05 | 2023-01-06 |  |
 | [Arrow](https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Arrow](https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo) | 2:05 | 2022-09-30 | 2022-11-12 |
 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 | 2022-08-19 | 2022-09-24 |
 | [ARTIST](https://open.spotify.com/track/02UO3xSQlxlorDKGA46agO) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [RACEWAY: THE WISDOM OF INSECURITY](https://open.spotify.com/album/23QeslK3ZYpvMRUhddZfzB) | 3:24 | 2021-10-16 | 2021-12-11 |
@@ -2503,7 +2504,7 @@
 | [Mad At Me](https://open.spotify.com/track/3wbXyVBbFXczjXcLL46GH4) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [Mad At Me](https://open.spotify.com/album/3jo28hZqatoB93dyt9nMQt) | 3:38 | 2022-11-04 | 2023-01-06 |
 | [Mad Wave](https://open.spotify.com/track/6Nii6hQpwFCCbskIeBb29I) | [Mad Wave](https://open.spotify.com/artist/0tS15pxDPrRayyEVi9n8zP) | [Mad Wave](https://open.spotify.com/album/3iUwNRLoHja7jRfUrlrNHn) | 4:46 | 2020-08-30 | 2020-10-02 |
 | [Made In Love](https://open.spotify.com/track/4TOmkrfz9oci7884vcUuYp) | [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Made In Love](https://open.spotify.com/album/4Y62pESCAeF4MpJHXYZQJH) | 4:26 | 2019-10-04 | 2019-10-25 |
-| [made of](https://open.spotify.com/track/1TCb7N0GiCWBlYaV0veZ1X) | [Skyler Acord](https://open.spotify.com/artist/1phSD0yoDFOv2kUbXzM1d4) | [made of](https://open.spotify.com/album/6wHWVoohwI1MJZl3tiY28f) | 3:02 | 2022-11-25 |  |
+| [made of](https://open.spotify.com/track/1TCb7N0GiCWBlYaV0veZ1X) | [Skyler Acord](https://open.spotify.com/artist/1phSD0yoDFOv2kUbXzM1d4) | [made of](https://open.spotify.com/album/6wHWVoohwI1MJZl3tiY28f) | 3:02 | 2022-11-25 | 2023-01-07 |
 | [Made Your Mama Cry](https://open.spotify.com/track/7jLO42iL33KSzoOEgvHaQa) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Made Your Mama Cry](https://open.spotify.com/album/32Gu0cNEhFjqXeI60IH61I) | 2:38 | 2021-07-04 | 2021-08-07 |
 | [madhouse](https://open.spotify.com/track/3EsYB7kiB7JsLvP3tHuHij) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [madhouse](https://open.spotify.com/album/47zuKf611JlvNEqmRnhXn0) | 3:31 | 2020-08-07 | 2020-08-30 |
 | [Madison](https://open.spotify.com/track/7pDDKICYEYLmMo3ONZthgW) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/1KO9ZOZIJElwNv5tivkGWA) | 3:42 | 2022-06-17 | 2022-07-23 |

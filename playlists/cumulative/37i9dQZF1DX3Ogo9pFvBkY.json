@@ -772,7 +772,7 @@
       ],
       "date_added": "2020-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 99500,
       "name": "Apple",
       "url": "https://open.spotify.com/track/1TFOmWCZQoDB8HNa0f6guN"
@@ -3166,7 +3166,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 131316,
       "name": "Distant Glow",
       "url": "https://open.spotify.com/track/2aBYVl2d2RFAPbYlZ7rIUf"
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2020-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 185905,
       "name": "Dreaming - Ethereal Piano",
       "url": "https://open.spotify.com/track/0MvigYTSmsu7AZxiLqNOCH"
@@ -3346,7 +3346,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 223259,
       "name": "Dreaming Deeper",
       "url": "https://open.spotify.com/track/4KPRqt53xnT2Hs2rDGKiRu"
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2019-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 253000,
       "name": "Dr\u00f8mme",
       "url": "https://open.spotify.com/track/3ScyefUwfkGi0g6CaCemRc"
@@ -5748,7 +5748,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 126049,
       "name": "In my quiet hour",
       "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
@@ -6810,7 +6810,7 @@
       ],
       "date_added": "2019-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 153500,
       "name": "Lyrebird",
       "url": "https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ"
@@ -7098,7 +7098,7 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 158607,
       "name": "Mindset",
       "url": "https://open.spotify.com/track/208gbnbg0h5ga5c6IvtWM5"
@@ -8646,7 +8646,7 @@
       ],
       "date_added": "2020-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 228461,
       "name": "Prarie Whisper",
       "url": "https://open.spotify.com/track/0qwKXExu6ZFmCVmuXS77Bd"
@@ -8992,6 +8992,24 @@
       "duration_ms": 104262,
       "name": "Relief",
       "url": "https://open.spotify.com/track/0tCTXGCsD8wgeLtYQ1b5H1"
+    },
+    {
+      "album": {
+        "name": "Ambient Peace",
+        "url": "https://open.spotify.com/album/4Ywp2WnMfHMiODsoTUtY9P"
+      },
+      "artists": [
+        {
+          "name": "draw close",
+          "url": "https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "renew - Instrumental",
+      "url": "https://open.spotify.com/track/0zj9voOg55wXK4Yyx5Sgnu"
     },
     {
       "album": {
@@ -11152,7 +11170,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 281000,
       "name": "The Mist",
       "url": "https://open.spotify.com/track/1VLSQX83qEPHSGXRw1J1Tu"
@@ -11422,7 +11440,7 @@
       ],
       "date_added": "2019-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 135187,
       "name": "Tomb",
       "url": "https://open.spotify.com/track/6WTGLr26egcppsIEHeBuL3"
@@ -11476,7 +11494,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 231116,
       "name": "Touch of My Soul",
       "url": "https://open.spotify.com/track/7mBZGPbX8nmWRZfhityZda"
@@ -11566,7 +11584,7 @@
       ],
       "date_added": "2020-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 163483,
       "name": "Tremoland",
       "url": "https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe"

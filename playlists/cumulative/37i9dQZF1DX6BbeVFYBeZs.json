@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "D\u00eda F\u00e1cil",
+        "url": "https://open.spotify.com/album/18idEnRzxpLkVIZv8ETBAb"
+      },
+      "artists": [
+        {
+          "name": "Valerio Castilla",
+          "url": "https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181020,
+      "name": "D\u00eda F\u00e1cil",
+      "url": "https://open.spotify.com/track/3Yz1SZXphecIMZcKjdtqFL"
+    },
+    {
+      "album": {
         "name": "Romantic Spanish Guitar, Vol. 3",
         "url": "https://open.spotify.com/album/7vpRhpWT83mNvLBqjJ9Kbt"
       },

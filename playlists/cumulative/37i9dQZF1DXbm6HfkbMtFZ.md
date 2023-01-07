@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-469 songs - 1 day 4 hr 23 min
+470 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [It Runs Through Me](https://open.spotify.com/track/0p92TJPcRHCbcSk3wCwWBz) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [It Runs Through Me](https://open.spotify.com/album/5xwjUoVyZTxDN0P9D2GXFd) | 4:21 | 2021-12-16 | 2022-10-14 |
 | [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-11-11 |  |
 | [It Takes a Lot](https://open.spotify.com/track/13AYQK0HEtYCMGo0yKebeD) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [It Takes a Lot](https://open.spotify.com/album/4lGwQlZzNfkdP1A3JUbENH) | 3:58 | 2021-12-16 | 2022-04-21 |
-| [It'll All Be Over](https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 3:05 | 2022-03-30 |  |
+| [It'll All Be Over](https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 3:05 | 2022-03-30 | 2023-01-07 |
 | [Juicy](https://open.spotify.com/track/3VEdzfUk5q70JDmBH0F0Wa) | [Emmett Kai](https://open.spotify.com/artist/3iFMfPvVhkPDaR6uCaBV9q) | [Midnight](https://open.spotify.com/album/04q89UZFZgoHq13VI8Etar) | 3:22 | 2021-12-16 | 2022-07-28 |
 | [Jumping Fences](https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [Dusk at Cubist Castle](https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh) | 1:52 | 2022-10-14 | 2022-12-29 |
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX) | 2:30 | 2022-03-30 | 2022-04-20 |
@@ -416,6 +416,7 @@
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2021-12-16 | 2022-01-06 |
 | [Til I Met Thee](https://open.spotify.com/track/0TNXILAGuF49nsIyylBACS) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Landing on a Hundred](https://open.spotify.com/album/37ay1Z8l7tLLcByUsukF3S) | 4:25 | 2022-03-30 | 2022-04-20 |
 | [Time and Place](https://open.spotify.com/track/7JBGmLzOLtpirsys3Ufoqa) | [Lee Moses](https://open.spotify.com/artist/073AjXFaMayG50bDyAopud) | [Time and Place](https://open.spotify.com/album/3L3JOkdZKS4AyKdhF3hahK) | 2:56 | 2022-03-30 | 2022-04-21 |
+| [Time Was](https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hallelujah](https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB) | 3:22 | 2023-01-07 |  |
 | [Tip Pit](https://open.spotify.com/track/1bYqCjyoX456YOsC5MhiNC) | [World Champion](https://open.spotify.com/artist/4kK9XiFmS6rlzCFIY5DzI9) | [Avocado Galaxy](https://open.spotify.com/album/1Bg7byH7AeQhvwfXs4iRiG) | 3:47 | 2022-03-30 | 2022-04-19 |
 | [To Connect](https://open.spotify.com/track/1O3ZpANOTSH7R9TYIxZxGe) | [Floating Action](https://open.spotify.com/artist/01Ru0hfWYNVxQHtFkvYY7r) | [Floating Action](https://open.spotify.com/album/1GDN7bty8mKXFfzqYM73oK) | 4:02 | 2022-03-30 | 2022-06-12 |
 | [To Love You All Over Again](https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Bare Bones](https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha) | 3:57 | 2022-07-26 | 2022-10-04 |

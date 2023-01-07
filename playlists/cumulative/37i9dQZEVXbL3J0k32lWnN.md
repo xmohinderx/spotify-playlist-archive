@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-927 songs - 2 day 0 hr 39 min
+928 songs - 2 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -870,6 +870,7 @@
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-24 |  |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-22 |
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2021-03-27\* | 2021-04-11 |
+| [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-01-06 |  |
 | [Ups N Downs](https://open.spotify.com/track/40aJycGoNUQO8sD8iHsIEb) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Ups N Downs](https://open.spotify.com/album/4y0VgN6ptUlRDm187hdLks) | 2:47 | 2021-05-14 | 2021-05-23 |
 | [Urørlig](https://open.spotify.com/track/2PzhOZXhOPwsN30xlK8hIt) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 2:59 | 2022-01-15 | 2022-02-13 |
 | [Varmeste Herinde](https://open.spotify.com/track/7a6n5faijC27CAPbh4H7So) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 3:08 | 2022-10-15 | 2022-10-19 |
@@ -890,7 +891,7 @@
 | [Violence \(feat\. Branco\)](https://open.spotify.com/track/6YdvKXXBg33LPe40riAVCc) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [FORZA](https://open.spotify.com/album/7mD8Ze6PRguxWvcTTpvhhi) | 2:30 | 2022-03-11 | 2022-03-27 |
 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 | 2021-10-31 | 2021-11-07 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-09-05 |
-| [Vores År \(Nytårssangen\)](https://open.spotify.com/track/5wnQatWruCErVy8AJDuVA4) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [Vores År \(Nytårssangen\)](https://open.spotify.com/album/6YVLcq49DaD0N6XSrsbMHz) | 3:27 | 2022-12-28 |  |
+| [Vores År \(Nytårssangen\)](https://open.spotify.com/track/5wnQatWruCErVy8AJDuVA4) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [Vores År \(Nytårssangen\)](https://open.spotify.com/album/6YVLcq49DaD0N6XSrsbMHz) | 3:27 | 2022-12-28 | 2023-01-07 |
 | [VV](https://open.spotify.com/track/5U2T400b5vXPx4GxfeHdHG) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg), [Larry 44](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Diplomático](https://open.spotify.com/album/5QaCWC5VBE7B0VA7bbCLhZ) | 2:39 | 2021-10-10 | 2021-10-17 |
 | [Vågen \(Artigeardit X Lamin\)](https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Vågen \(Artigeardit X Lamin\)](https://open.spotify.com/album/7AmMkq9qKtCROjM8DVVgsx) | 2:37 | 2022-05-27 |  |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-04-30 | 2022-05-22 |

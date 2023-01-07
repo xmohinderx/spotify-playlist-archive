@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Katatonia
 
-2,412 songs - 6 day 18 hr 49 min
+2,413 songs - 6 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -938,6 +938,7 @@
 | [Gotta Rock](https://open.spotify.com/track/2lLeVEkM1pE26BbGp5xZF3) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Gotta Rock](https://open.spotify.com/album/1KTlhyppJefxvcvBc8Fvbv) | 4:10 | 2022-10-14 | 2022-10-22 |
 | [Grand Theft Audio](https://open.spotify.com/track/4eMIrcbIZXunB7C76hF5lN) | [The Lone Wolf](https://open.spotify.com/artist/3tgBwjfL3ycAT49VVpkfnE) | [Grand Theft Audio](https://open.spotify.com/album/2rIcbFEeEcRtNXSYpIaEup) | 3:14 | 2022-08-19 | 2022-08-27 |
 | [Grave Dive](https://open.spotify.com/track/4DCtTtWYJLP3UD2s9Km0Ee) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Grave Dive](https://open.spotify.com/album/5D6o12XKVSm9arPgSFefgV) | 2:31 | 2022-04-01 | 2022-04-08 |
+| [Grave of the Fireflies](https://open.spotify.com/track/4HMj40gmhWLGqHk0YNzu0M) | [Lucrecia](https://open.spotify.com/artist/63MmxZVbkrXRTyOZm3BCZe), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [Grave of the Fireflies](https://open.spotify.com/album/105WE9fhnByBKZe0E4wyqG) | 4:55 | 2023-01-06 |  |
 | [Grave Troopers](https://open.spotify.com/track/7BYPQJA7pgTj8lKnL28uQr) | [A Sound of Thunder](https://open.spotify.com/artist/571SRwCkLqVygKpejWCR0v) | [Grave Troopers](https://open.spotify.com/album/1Fpr8iZrUd9dfouGZRp0s7) | 3:43 | 2022-06-17 | 2022-06-24 |
 | [Graveyard](https://open.spotify.com/track/4lDhUegBfuSYmL2REY3P8y) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Empires Fall](https://open.spotify.com/album/1A8gLXrhRu9GJl0j8D9oJb) | 3:03 | 2022-06-17 | 2022-06-24 |
 | [Gravity](https://open.spotify.com/track/6pdJg5TlOExPtqeJYHmQG1) | [The Disaster Area](https://open.spotify.com/artist/5cNBtvhQCLKWInveVFe49O) | [Gravity](https://open.spotify.com/album/0XVL9IXwVqIcpuLLZEACO2) | 3:29 | 2022-01-28 | 2022-02-25 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 ### [Mellow Bars](https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61)
 
-> Chillout hip\-hop vibes\. Cover: The Alchemist
+> Chillout hip\-hop vibes\. Cover: Boldy James
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,159,919 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,160,284 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [SOHO HOUSE \(feat\. Hello O'shay\)](https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [MEMO](https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT) | 4:28 |
 | 100 | [Save The Best For Last \(Feat\. Rick Ross\)](https://open.spotify.com/track/4mmg0ZJlcATIM6pJQrdKVS) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:50 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDk4ZDBlOWYxMzQzNWEyZmQ5YjhlZjBmNmExODUwOWFm`
+Snapshot ID: `MTY3MzAyOTg0NCwwMDAwMDAwMGUwNDZkZjJlYjAyZjY4MTRmZjJkNjAzZGFiYzdhZTU2`

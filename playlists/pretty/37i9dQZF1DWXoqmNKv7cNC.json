@@ -1,18 +1,18 @@
 {
   "description": "Mujeres mexicanas a todo volumen. Bratty en portada.",
-  "num_followers": 72380,
+  "num_followers": 72509,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgxMjAwMCwwMDAwMDAwMDc5Nzc4Yzk4YWJiNWIzOWE1YWZiNzVkZmJjYTg1M2E4",
+  "snapshot_id": "MTY3MzAyNTUxNSwwMDAwMDAwMDc2YmE3MTBjYTU5ODE4YjQxZjIyZjMxMTA3YzY0MDMx",
   "tracks": [
     {
-      "added_at": "2023-01-04 06:00:00",
+      "added_at": "2023-01-06 17:18:35",
       "album": {
-        "name": "\u00bfY C\u00f3mo?",
-        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
+        "name": "Continental",
+        "url": "https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME"
       },
       "artists": [
         {
@@ -20,13 +20,17 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         },
         {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
         }
       ],
-      "duration_ms": 212693,
-      "name": "\u00bfY C\u00f3mo?",
-      "url": "https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO"
+      "duration_ms": 204613,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I"
     },
     {
       "added_at": "2023-01-04 06:00:00",
@@ -75,6 +79,26 @@
       "duration_ms": 187703,
       "name": "Constelaciones",
       "url": "https://open.spotify.com/track/1kBuKmsiJT96y4wpS1jsqj"
+    },
+    {
+      "added_at": "2023-01-04 06:00:00",
+      "album": {
+        "name": "\u00bfY C\u00f3mo?",
+        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "\u00bfY C\u00f3mo?",
+      "url": "https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO"
     },
     {
       "added_at": "2023-01-04 06:00:00",
@@ -264,7 +288,7 @@
           "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         }
       ],
-      "duration_ms": 160028,
+      "duration_ms": 159254,
       "name": "Horas Contigo",
       "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
     },

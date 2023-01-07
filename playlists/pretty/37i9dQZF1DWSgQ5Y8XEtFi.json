@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 155633,
+  "num_followers": 155977,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjkwMTA0MCwwMDAwMDAwMGNjYWU5ODk2MDA1MTNmZDEwYmRmMmM2MWJjM2YxYmJh",
+  "snapshot_id": "MTY3MzAyMjgwNiwwMDAwMDAwMGQ0NDk5Nzk3OWQ5ZmM2YjIwZGRiMDdmNzdkMDMwOThh",
   "tracks": [
     {
       "added_at": "2022-10-14 18:14:02",
@@ -27,6 +27,26 @@
       "duration_ms": 122880,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA"
+    },
+    {
+      "added_at": "2023-01-06 16:33:26",
+      "album": {
+        "name": "Chirp",
+        "url": "https://open.spotify.com/album/0HM18dhYH5jMz3SPZ2p9Fo"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        }
+      ],
+      "duration_ms": 134826,
+      "name": "Chirp",
+      "url": "https://open.spotify.com/track/3pzi58VskO2NzwqV75Vce3"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -61,26 +81,6 @@
       "url": "https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S"
     },
     {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 213132,
-      "name": "Roll in Peace (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "KICKFLIP",
@@ -99,6 +99,26 @@
       "duration_ms": 142360,
       "name": "KICKFLIP",
       "url": "https://open.spotify.com/track/1cIIfWEkU5qLyspAGQD8ZA"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 213132,
+      "name": "Roll in Peace (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
     },
     {
       "added_at": "2022-12-02 05:09:00",
@@ -153,6 +173,26 @@
       "url": "https://open.spotify.com/track/5MLreTrtwv7fGyyAy0RyeB"
     },
     {
+      "added_at": "2023-01-06 16:12:52",
+      "album": {
+        "name": "DIRTIESTNASTIEST$UICIDE",
+        "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Germ",
+          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
+        }
+      ],
+      "duration_ms": 226932,
+      "name": "My Swisher Sweet, But My Sig Sauer",
+      "url": "https://open.spotify.com/track/1xIibyoUvyxwoNqx8quHSz"
+    },
+    {
       "added_at": "2022-10-07 11:48:00",
       "album": {
         "name": "The Melodic Blue",
@@ -183,6 +223,22 @@
       "duration_ms": 156780,
       "name": "151 Rum",
       "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Summertime '06",
+        "url": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Norf Norf",
+      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -219,22 +275,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Summertime '06",
-        "url": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Norf Norf",
-      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "Stop Staring At the Shadows",
         "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
       },
@@ -247,6 +287,30 @@
       "duration_ms": 106340,
       "name": "What the Fuck is Happening",
       "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
+    },
+    {
+      "added_at": "2023-01-06 16:12:52",
+      "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 146571,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -327,6 +391,22 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 142707,
+      "name": "If Self-Destruction Was an Olympic Event, I\u2019d Be Tonya Harding",
+      "url": "https://open.spotify.com/track/5ikjIVLHoBrgaZ0zNrn6Ty"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF"
       },
@@ -393,20 +473,24 @@
       "url": "https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ"
     },
     {
-      "added_at": "2022-10-07 11:48:00",
+      "added_at": "2022-10-25 15:20:00",
       "album": {
-        "name": "Long Term Effects of SUFFERING",
-        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+        "name": "bag or die",
+        "url": "https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY"
       },
       "artists": [
         {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Lil Toe",
+          "url": "https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z"
         }
       ],
-      "duration_ms": 142707,
-      "name": "If Self-Destruction Was an Olympic Event, I\u2019d Be Tonya Harding",
-      "url": "https://open.spotify.com/track/5ikjIVLHoBrgaZ0zNrn6Ty"
+      "duration_ms": 178520,
+      "name": "deadman (feat. Lil Toe)",
+      "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -455,26 +539,6 @@
       "duration_ms": 99013,
       "name": "G Walkin' on Yo Coffin",
       "url": "https://open.spotify.com/track/2I387d1XWsQfWcrwXVp2i0"
-    },
-    {
-      "added_at": "2022-10-25 15:20:00",
-      "album": {
-        "name": "bag or die",
-        "url": "https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Lil Toe",
-          "url": "https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z"
-        }
-      ],
-      "duration_ms": 178520,
-      "name": "deadman (feat. Lil Toe)",
-      "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -591,22 +655,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        }
-      ],
-      "duration_ms": 109595,
-      "name": "Crisis",
-      "url": "https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "CITY MORGUE VOL 2: AS GOOD AS DEAD",
         "url": "https://open.spotify.com/album/6o5cXlhhYbFvewfsYpuyEM"
       },
@@ -631,6 +679,22 @@
       "duration_ms": 202613,
       "name": "DRAINO (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/5hOnCHMwQdXOd4qfAWEhKP"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "duration_ms": 109595,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -703,26 +767,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "TOXIC BOOGALOO",
-        "url": "https://open.spotify.com/album/2EadUtQ3hpx3Xt0HKAfOF9"
-      },
-      "artists": [
-        {
-          "name": "City Morgue",
-          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
-        },
-        {
-          "name": "ZillaKami",
-          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
-        }
-      ],
-      "duration_ms": 121277,
-      "name": "YELLOW PISS",
-      "url": "https://open.spotify.com/track/0NFCrBf6tnaDTZ5xOWjHCI"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "Keep Your Distance",
         "url": "https://open.spotify.com/album/6OKwocf1zHfEtNdUzf3nCb"
       },
@@ -767,6 +811,26 @@
       "duration_ms": 134116,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "TOXIC BOOGALOO",
+        "url": "https://open.spotify.com/album/2EadUtQ3hpx3Xt0HKAfOF9"
+      },
+      "artists": [
+        {
+          "name": "City Morgue",
+          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
+        },
+        {
+          "name": "ZillaKami",
+          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
+        }
+      ],
+      "duration_ms": 121277,
+      "name": "YELLOW PISS",
+      "url": "https://open.spotify.com/track/0NFCrBf6tnaDTZ5xOWjHCI"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -851,62 +915,6 @@
       "duration_ms": 134117,
       "name": "LOCKJAW!",
       "url": "https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "Art of War (feat. Denzel Curry & Rico Nasty)",
-        "url": "https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 186472,
-      "name": "Art of War (feat. Denzel Curry & Rico Nasty)",
-      "url": "https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "TA13OO",
-        "url": "https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "SUMO | ZUMO",
-      "url": "https://open.spotify.com/track/7EHAXZenBzmGCpccWCyg8z"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "BOY ANONYMOUS",
-        "url": "https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 159652,
-      "name": "HEAVY METAL",
-      "url": "https://open.spotify.com/track/1j6zEnDOTIRJhBhknrd86m"
     }
   ],
   "unique_name": "LOCKJAW",

@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-337 songs - 23 hr 24 min
+339 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2021-10-20 |  |
 | [greenery](https://open.spotify.com/track/7mv3ZNeyUFk7xuRehUrPZl) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [greenery](https://open.spotify.com/album/4fXZgmm9p3wOM1myYysXt6) | 1:52 | 2021-10-20 | 2022-04-25 |
 | [greenery](https://open.spotify.com/track/7o9CLXoW831csQxsnP4JkH) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [plantboy](https://open.spotify.com/album/1ij4vTHOkvxI4j4lN0WaCb) | 1:52 | 2021-10-20 | 2022-09-02 |
+| [Growing Cannabis Vegetation Cycle](https://open.spotify.com/track/6QEPm379BapyBAyJMWS0ER) | [Music For Plants](https://open.spotify.com/artist/2746YvEYNDpropECfjdoQs) | [Growing Cannabis \- Vegetation Cycle Node Explosion](https://open.spotify.com/album/0x02WeUPoy95DiiODcFkfl) | 2:30 | 2023-01-06 |  |
 | [Gyroscope](https://open.spotify.com/track/2dziNfL0S9awABp30vNN08) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Storytelling](https://open.spotify.com/album/4FYYpIBxJnSbW08oyU4xAP) | 3:07 | 2021-10-20 |  |
 | [Gyroscope](https://open.spotify.com/track/2pYTzXfDybwjnRu76Tin9N) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Storytelling](https://open.spotify.com/album/3Xh7QzI0UPQx2GZJgSding) | 3:07 | 2021-10-20 | 2022-12-01 |
 | [Gyroscope](https://open.spotify.com/track/54iPM8Ht4u1eoygcKf9gzM) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Gyroscope](https://open.spotify.com/album/1zw9I5WkLqef7toQ0o6B6U) | 3:08 | 2021-10-20 | 2022-07-29 |
@@ -259,7 +260,7 @@
 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 | 2021-10-20 |  |
 | [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 | 2022-11-25 |  |
 | [Silken Pt\. 2.1](https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:52 | 2021-12-01 | 2022-07-29 |
-| [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 | 2021-10-20 |  |
+| [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 | 2021-10-20 | 2023-01-07 |
 | [Silver Ladders](https://open.spotify.com/track/3Vduh36kT0NNKaxfpfo75B) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5ROFj16TsmnCUd5YtiVDU3) | 3:45 | 2021-10-20 | 2022-07-28 |
 | [Silver Secrets](https://open.spotify.com/track/2OV2BllliHblN27N5I31Hq) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr) | [Field Works: Ultrasonic](https://open.spotify.com/album/5pJLTSGYfTkCnXdcz9Dfyt) | 5:16 | 2021-10-20 | 2022-07-29 |
 | [simbiosis](https://open.spotify.com/track/50oogoHC2e9HDCFxw1oB7G) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [simbiosis](https://open.spotify.com/album/3RK6NpoByT63TvTZO1k9RY) | 3:36 | 2021-10-20 | 2022-07-28 |
@@ -270,6 +271,7 @@
 | [Soft Gaiden](https://open.spotify.com/track/5TSBcSt79jSYwuZmBJDp4X) | [Brin](https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp) | [Soft Gaiden / Featherdrift](https://open.spotify.com/album/4LkiJAIvbejVb6r2r8zdR4) | 5:26 | 2021-10-20 | 2022-07-29 |
 | [Soft Meadow](https://open.spotify.com/track/0OwQcBnZDvSIjk82JH0s4V) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 5:28 | 2021-10-20 | 2022-07-29 |
 | [Soft Meadow](https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 5:28 | 2021-10-20 |  |
+| [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 | 2023-01-06 |  |
 | [Solar](https://open.spotify.com/track/4Mgq8E9ehbpUFAFxiEcwss) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Solar](https://open.spotify.com/album/0qIMW1UNQKG34F9eXtr2uD) | 4:10 | 2021-10-20 | 2022-07-26 |
 | [Solo, Op\. 1: No\. 1](https://open.spotify.com/track/2HCtyKgeht2LC7jXhywJ1s) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Solo, Op\. 1: No\. 1](https://open.spotify.com/album/1Zk5AG5bbR2S3nP4YLCo2u) | 2:40 | 2021-10-20 | 2022-07-29 |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2021-10-20 |  |
@@ -279,7 +281,7 @@
 | [SPAC3S](https://open.spotify.com/track/1JyJd2DT8RrbkoQayzvdlG) | [Kampala Social Club](https://open.spotify.com/artist/1j2z4kWUO6QrYTqzQVxoZS) | [SPAC3S](https://open.spotify.com/album/4dQccaaNWX89Zz9oeRLEhx) | 4:37 | 2021-10-29 | 2022-07-29 |
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2021-10-20 |  |
 | [Space Water](https://open.spotify.com/track/511FzKk8bOa4UTkiwoqYbB) | [Walton](https://open.spotify.com/artist/542yacXt2x9eLr9g8v0X8k) | [Unknown Territories](https://open.spotify.com/album/3gdbCEyrYrSLeg7Z7tUIES) | 2:43 | 2021-10-20 | 2022-04-18 |
-| [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 | 2022-01-14 |  |
+| [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 | 2022-01-14 | 2023-01-07 |
 | [Spiritual Power](https://open.spotify.com/track/6EHx08pPJzvOD5xv9K3VQv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:25 | 2021-10-20 | 2022-04-21 |
 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 | 2021-10-20 |  |
 | [Stratus](https://open.spotify.com/track/7G0celL82dCIDYjUxdPyoG) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/5T9rGi62i1O7wRu3c2f3q4) | 3:04 | 2021-10-20 | 2022-07-23 |

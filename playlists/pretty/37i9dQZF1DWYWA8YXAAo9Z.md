@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,552 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,594 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 22 | [Aether Vibrations](https://open.spotify.com/track/1JgeUGhBGB4jzpFZAFpEnx) | [Pulse Mandala](https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX) | [Entanglement](https://open.spotify.com/album/2ulqyHaLOAzuCKrd5WyAyV) | 4:33 |
 | 23 | [The Secret Garden](https://open.spotify.com/track/5nQzwQJAMxPR8TV6BXhthc) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Secret Garden](https://open.spotify.com/album/5XSfsdujTPlwsr4zCup4p2) | 4:41 |
 | 24 | [cells\_](https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [cells\_](https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv) | 2:25 |
-| 25 | [Entropy](https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ) | 4:49 |
-| 26 | [September Remember](https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:09 |
+| 25 | [September Remember](https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:09 |
+| 26 | [Entropy](https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ) | 4:49 |
 | 27 | [Deine Augen](https://open.spotify.com/track/5RkjwEQviBKkVDisjJbVSJ) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/7dAYdoahzW8oZgSGHWpfNP) | 5:16 |
 | 28 | [Lumina](https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Clara](https://open.spotify.com/album/1QU235rCtednzHCJgperwb) | 6:12 |
 | 29 | [Where Do You Get Your Dreams From?](https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB) | [Sven Laux](https://open.spotify.com/artist/1uOymh5ziYDMdP8NRtGk5q), [Logic Moon](https://open.spotify.com/artist/3cqJW0hZR5efv5YWJKVMw8) | [Where Do You Get Your Dreams From?](https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm) | 6:45 |
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 56 | [Open plain](https://open.spotify.com/track/730hlLtDWpD2i0492i9rME) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 4:59 |
 | 57 | [Raum \- Single Edit](https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Raum \(Single Edit\)](https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA) | 7:22 |
 | 58 | [Kosmic Headroom](https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva) | [Poulson Sq.](https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp) | [Kosmic Headroom](https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj) | 4:13 |
-| 59 | [Every Night](https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [The Sparrow](https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt) | 5:57 |
-| 60 | [Particulator](https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1) | [Jstory](https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji) | [Good Sound](https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF) | 4:11 |
-| 61 | [Biholomorphia](https://open.spotify.com/track/5y3BBX09xecawyqoZWFt5v) | [Benedict Mortimer](https://open.spotify.com/artist/5lSHzqed7L3SMDtjlJiayM), [Mark Watt](https://open.spotify.com/artist/3TvtIr14xDVHS7GHt3BNm6) | [Biholomorphia](https://open.spotify.com/album/5OQ8YkW2PLZr4HR558FbTZ) | 7:18 |
-| 62 | [Reflections On The Waterfront](https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY) | [Tryst \(UK\)](https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4) | [Aerious EP](https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D) | 4:37 |
-| 63 | [Approximate Bermeja](https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J) | [Sounds From Phantom Islands](https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI) | 3:09 |
-| 64 | [A1\. J\-Math](https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [Geoglyph](https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl) | 6:04 |
+| 59 | [Particulator](https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1) | [Jstory](https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji) | [Good Sound](https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF) | 4:11 |
+| 60 | [Biholomorphia](https://open.spotify.com/track/5y3BBX09xecawyqoZWFt5v) | [Benedict Mortimer](https://open.spotify.com/artist/5lSHzqed7L3SMDtjlJiayM), [Mark Watt](https://open.spotify.com/artist/3TvtIr14xDVHS7GHt3BNm6) | [Biholomorphia](https://open.spotify.com/album/5OQ8YkW2PLZr4HR558FbTZ) | 7:18 |
+| 61 | [Reflections On The Waterfront](https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY) | [Tryst \(UK\)](https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4) | [Aerious EP](https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D) | 4:37 |
+| 62 | [Every Night](https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [The Sparrow](https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt) | 5:57 |
+| 63 | [A1\. J\-Math](https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [Geoglyph](https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl) | 6:04 |
+| 64 | [The Station Is Alive Again](https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za) | [Hermbot](https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt) | [Moonbase Alpha](https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO) | 2:25 |
 | 65 | [Alternations](https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd) | [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Scene Memory 2](https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn) | 3:06 |
-| 66 | [Sleepy Dragon](https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y) | [Sunmoonstar](https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu) | [Breathing Instruments](https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe) | 2:00 |
-| 67 | [The Station Is Alive Again](https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za) | [Hermbot](https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt) | [Moonbase Alpha](https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO) | 2:25 |
+| 66 | [Approximate Bermeja](https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J) | [Sounds From Phantom Islands](https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI) | 3:09 |
+| 67 | [Sleepy Dragon](https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y) | [Sunmoonstar](https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu) | [Breathing Instruments](https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe) | 2:00 |
 | 68 | [Orange Blue Green](https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [Orange Blue Green](https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz) | 2:45 |
-| 69 | [Rambutan](https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music Vol 2: Fruits and Flowers of Hawai'i](https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb) | 5:04 |
-| 70 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 |
+| 69 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 |
+| 70 | [Rambutan](https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music Vol 2: Fruits and Flowers of Hawai'i](https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb) | 5:04 |
 | 71 | [Interlude 03](https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t) | [Farsi](https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M) | [Interlude 03](https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl) | 3:19 |
 | 72 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
 | 73 | [Sleep to Dream](https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Sleep to Dream](https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej) | 4:23 |
 | 74 | [Home Stories](https://open.spotify.com/track/3zKh4uoo7A7Mu6nuASKTDt) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Home Stories](https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y) | 5:33 |
 | 75 | [Automat](https://open.spotify.com/track/5s0QV9wD1BdWaroVgLDiKo) | [Recent Arts](https://open.spotify.com/artist/6YTikqXTOc9mvsgv2wOiYc), [Tobias Freund](https://open.spotify.com/artist/2IMuk5pFLxBMzcEAZcfleX), [Valentina Berthelon](https://open.spotify.com/artist/2r6y7E3nFNHvxmIoIlenzW) | [Hypertext](https://open.spotify.com/album/5BVwbpPSALHaFKEDL7LEdi) | 6:10 |
 
-Snapshot ID: `MTY2NDg5Mjg2OCwwMDAwMDAwMGNlZmIxZGQzOThlY2FlOGM4MTk2Y2Y1MzgyZWU0MTk2`
+Snapshot ID: `MTY2NDg5Mjg2OCwwMDAwMDAwMDEyMTZjZTZkMjhlNjFjYTQ5YTM0NjllOWQxMGQ4NTVk`

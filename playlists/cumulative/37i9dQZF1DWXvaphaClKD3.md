@@ -4,7 +4,7 @@
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Alejandro Fernández en portada.
 
-1,035 songs - 2 day 7 hr 30 min
+1,036 songs - 2 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Aquellas Hazañas \(En Vivo\)](https://open.spotify.com/track/5EphNIrYtoi1ox4N61e0NT) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Aquellas Hazañas \(En Vivo\)](https://open.spotify.com/album/1jc1dYd30lEnxxYjog3FSJ) | 2:29 | 2022-10-14 | 2022-10-22 |
 | [Aqui Ando En El Caloron \- En Vivo](https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Aqui Ando En El Caloron \(En Vivo\)](https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn) | 3:52 | 2022-12-16 | 2022-12-24 |
 | [Aquí Andamos](https://open.spotify.com/track/0TOsDKRNmnAsyVihPwHwiy) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Aquí Andamos](https://open.spotify.com/album/7glpXyS1prFn7q4hwH7X8s) | 2:42 | 2022-12-09 | 2022-12-17 |
+| [Aquí Ando En El Gabacho](https://open.spotify.com/track/3I0UDjDFAKnYII35v9TQ6n) | [Jasiel AB](https://open.spotify.com/artist/1hsZtqjs2Z7sInQ8x3oUEx) | [Aquí Ando En El Gabacho](https://open.spotify.com/album/0vaK3KNYSMlnizcfabeGXR) | 3:39 | 2023-01-06 |  |
 | [Aquí el Respeto Se Gana](https://open.spotify.com/track/7kglP8vX2WefTh97Vb70Pt) | [Perla Quintanilla](https://open.spotify.com/artist/5pl7BIxdVjFfa3iCMVPcgi), [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [Aquí el Respeto Se Gana](https://open.spotify.com/album/3FKTJgSVcnS212dxjUUHiB) | 2:43 | 2022-10-07 | 2022-10-15 |
 | [Arrancate Del Pecho](https://open.spotify.com/track/4UxJ3I4Re3HlamIfOSypGl) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv) | [Arrancate Del Pecho](https://open.spotify.com/album/3HYAYM2hYW7ILfLnRK6fsT) | 3:09 | 2023-01-06 |  |
 | [Arrasando](https://open.spotify.com/track/4irGjwBegfcVEAlgwFKkxI) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Arrasando](https://open.spotify.com/album/08jnRSYEyv0o5hpLYSP3mF) | 3:43 | 2022-08-05 | 2022-08-13 |

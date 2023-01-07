@@ -2,9 +2,9 @@
 
 ### [Street Soul](https://open.spotify.com/playlist/37i9dQZF1DWTplaZ1W7ARf)
 
-> Neighborhood Storytellers\. Cover: Rich Homie Quan
+> Neighborhood Storytellers\. Cover: NoCap
 
-167 songs - 8 hr 25 min
+168 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Can't Lose \(feat\. Lil Durk\)](https://open.spotify.com/track/2oX9VjMLgO8hYMZ3Mh4J8o) | [Lil Mexico](https://open.spotify.com/artist/5HL0VTY0iLTz0RcoeI4cmY), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Can't Lose \(feat\. Lil Durk\)](https://open.spotify.com/album/6IlNeUhzVDjbwrMPfjqkyx) | 3:12 | 2022-04-29 | 2022-12-17 |
 | [Cell Tales](https://open.spotify.com/track/3DhYADlDxFqDcxbnPDHYud) | [Lil Loaded](https://open.spotify.com/artist/7scapvSjZLSm0fBgqGM0Mn) | [Cell Tales](https://open.spotify.com/album/1E3AT2xwudhRQSFCv70XMk) | 2:10 | 2022-06-03 | 2022-07-16 |
 | [Chief](https://open.spotify.com/track/7MN2fQ1oMGvhKf0NQolm9R) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [So Icy Boyz 22](https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8) | 2:49 | 2022-11-04 |  |
-| [Chosen](https://open.spotify.com/track/1TgtXovH4948JNA4IpEp2d) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [17](https://open.spotify.com/album/4joJtfM9QKxT7Q1zVuaPFo) | 2:39 | 2022-08-26 |  |
+| [Chosen](https://open.spotify.com/track/1TgtXovH4948JNA4IpEp2d) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [17](https://open.spotify.com/album/4joJtfM9QKxT7Q1zVuaPFo) | 2:39 | 2022-08-26 | 2023-01-07 |
 | [Chosen](https://open.spotify.com/track/5f4ysnH5EaLNbdYq2CK6tq) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Chosen](https://open.spotify.com/album/7ssdhUu8jouEzU7LngWnIf) | 2:39 | 2022-08-26 | 2022-11-07 |
 | [Chosen](https://open.spotify.com/track/5zGOj8eITiXUFXINUqt4Ia) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Chosen](https://open.spotify.com/album/0Fa81lx1XgZl4ZpvtOq6YX) | 2:39 | 2022-08-26 | 2022-10-23 |
 | [Closure](https://open.spotify.com/track/0X5lj4BaAPT5TZPp9Qd5DB) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Closure](https://open.spotify.com/album/407bge0e0JWWnqqf1bMPjd) | 4:48 | 2021-12-17 | 2022-08-06 |
@@ -83,6 +83,7 @@
 | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/album/2iAZ2v69xjK5mz9ndKywVr) | 3:00 | 2022-07-08 | 2022-11-20 |
 | [livin wild](https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:22 | 2022-01-26 | 2022-12-17 |
 | [livin wild](https://open.spotify.com/track/2Ep9xSNftebXZkSQp1yM25) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:22 | 2022-01-26 | 2022-07-29 |
+| [Loner](https://open.spotify.com/track/1DenbmzkT4hvnq1ltyBZBM) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 2:46 | 2023-01-06 |  |
 | [Love is...](https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Love is…](https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg) | 3:50 | 2022-07-15 |  |
 | [Love of the Money \(feat\. Hotboii\)](https://open.spotify.com/track/6yo90VmiX3oiCAZJfZQspi) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Love of the Money \(feat\. Hotboii\)](https://open.spotify.com/album/2jHHkewIxIxHCBoGOSJJCU) | 3:01 | 2022-07-15 | 2022-11-20 |
 | [Luigi \(feat\. Chief Keef\)](https://open.spotify.com/track/2LvbYwfsRvGYnRytG573iW) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Luigi \(feat\. Chief Keef\)](https://open.spotify.com/album/6o58I8nVfoDw0MGhpG6amS) | 3:21 | 2021-10-22 | 2022-04-10 |

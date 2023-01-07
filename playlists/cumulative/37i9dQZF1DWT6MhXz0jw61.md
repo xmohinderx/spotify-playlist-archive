@@ -2,7 +2,7 @@
 
 ### [Mellow Bars](https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61)
 
-> Chillout hip\-hop vibes\. Cover: The Alchemist
+> Chillout hip\-hop vibes\. Cover: Boldy James
 
 385 songs - 21 hr 7 min
 

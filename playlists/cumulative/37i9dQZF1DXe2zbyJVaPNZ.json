@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Hills",
+        "url": "https://open.spotify.com/album/4jgjzmK773C6q9NGVAtD0l"
+      },
+      "artists": [
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153464,
+      "name": "Hills",
+      "url": "https://open.spotify.com/track/6rMM5c330kAz3wKRmH4IRn"
+    },
+    {
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/6IoxzKrzEWprrw1yUN9Da1"
       },
@@ -1722,6 +1740,24 @@
       "duration_ms": 197288,
       "name": "Pacific Dreams",
       "url": "https://open.spotify.com/track/13wWc3pKPzBVmpX6YinHXe"
+    },
+    {
+      "album": {
+        "name": "Peelu",
+        "url": "https://open.spotify.com/album/2cW30hRFY564QirLitGmqM"
+      },
+      "artists": [
+        {
+          "name": "Wate Way",
+          "url": "https://open.spotify.com/artist/2FlrdMztVZTJ9Df7qeGMvR"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Peelu",
+      "url": "https://open.spotify.com/track/24rMsc1O0qk3JaP005qzX7"
     },
     {
       "album": {

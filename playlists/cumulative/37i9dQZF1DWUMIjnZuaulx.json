@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  DOE",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Pastor Mike Jr.",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -1431,6 +1431,28 @@
     },
     {
       "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/1sOms20oQO6Cpd5MjIcVTT"
+      },
+      "artists": [
+        {
+          "name": "Rickey Montgomery",
+          "url": "https://open.spotify.com/artist/7bH38UXOCobIMtkIvaD3Zv"
+        },
+        {
+          "name": "Cassie Richardson",
+          "url": "https://open.spotify.com/artist/1ImWoHWxgT6HTqyLFBLcXn"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391384,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/46AXfrIN6Z5qDJGpMmaFZz"
+    },
+    {
+      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/3w1OeEVG5oO2sEWRvSCaoF"
       },
@@ -1936,7 +1958,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 228596,
       "name": "IDKY Jesus Loves Me",
       "url": "https://open.spotify.com/track/2nlnSs2D9bbeZrsSaQ8Khl"
@@ -2002,7 +2024,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 233766,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6eDkRvkEVhdR0l6ZMmxIPe"
@@ -2429,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Let God In (Radio Edit)",
+        "url": "https://open.spotify.com/album/54sNt8MUvMaIBp3lfGfHMS"
+      },
+      "artists": [
+        {
+          "name": "Yemohni Jones",
+          "url": "https://open.spotify.com/artist/2CJ0ek3LrVe8hyh0w1Zblg"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244053,
+      "name": "Let God In - Radio Edit",
+      "url": "https://open.spotify.com/track/1DAJ0tC7d0wsIMA4atKkJC"
+    },
+    {
+      "album": {
         "name": "Let Him In",
         "url": "https://open.spotify.com/album/7vsjLmKmDaM5d6X6jk8Mtc"
       },
@@ -2692,7 +2732,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 240778,
       "name": "Making A Way - Radio Edit",
       "url": "https://open.spotify.com/track/5JrHRLJi62RrJl8l8rowg4"
@@ -2824,6 +2864,24 @@
       "duration_ms": 459750,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/3qLQuhUegj9nStFKE2zUhq"
+    },
+    {
+      "album": {
+        "name": "Mr. McClure",
+        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197254,
+      "name": "Mr. McClure",
+      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
     },
     {
       "album": {
@@ -3166,7 +3224,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 436333,
       "name": "One Touch",
       "url": "https://open.spotify.com/track/2OQY9SKxc9t97hlnN5Kx4t"

@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 39915,
+  "num_followers": 39963,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQyNzM1OSwwMDAwMDAwMDQ4YTc2ZWY4MDhkNzU1MWNiOTFhOGYzNmFmMzYwNDA4",
+  "snapshot_id": "MTY3MDQyNzM1OSwwMDAwMDAwMDI1NDUxZWFlM2RiOGQ1MGRkNjg4NmM2OWMzODYyYjNi",
   "tracks": [
     {
       "added_at": "2022-10-28 20:24:03",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2022-10-28 20:24:03",
       "album": {
-        "name": "Sabor a Mar",
-        "url": "https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v"
-      },
-      "artists": [
-        {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        },
-        {
-          "name": "Mariano Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0dUOCnp5qXw0yJscm4tldc"
-        }
-      ],
-      "duration_ms": 197862,
-      "name": "Sabor a M\u00ed - Amuzgo",
-      "url": "https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb"
-    },
-    {
-      "added_at": "2022-10-28 20:24:03",
-      "album": {
         "name": "Apasionadamente",
         "url": "https://open.spotify.com/album/2OQoV2aCykRNe95vvZC6Vl"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 180500,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/5j6tIKVYQm4IX34SWQGQoE"
+    },
+    {
+      "added_at": "2022-10-28 20:24:03",
+      "album": {
+        "name": "Sabor a Mar",
+        "url": "https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v"
+      },
+      "artists": [
+        {
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+        },
+        {
+          "name": "Mariano Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0dUOCnp5qXw0yJscm4tldc"
+        }
+      ],
+      "duration_ms": 197862,
+      "name": "Sabor a M\u00ed - Amuzgo",
+      "url": "https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb"
     },
     {
       "added_at": "2022-10-28 20:24:03",

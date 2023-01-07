@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 79536,
+  "num_followers": 80019,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDA2MCwwMDAwMDAwMDVlY2FlOGFlOGEyMjk4YzFjZWMzY2I5MWU4MjViYTFk",
+  "snapshot_id": "MTY3MTc1MDA2MCwwMDAwMDAwMDIwOWM5NTQzNTkzMWViZWNiZDY1MjVmYzA4NDdkZGZi",
   "tracks": [
     {
       "added_at": "2022-12-22 23:01:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
-    },
-    {
-      "added_at": "2022-12-22 23:01:00",
-      "album": {
         "name": "Formula EP",
         "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 433971,
       "name": "Doppler",
       "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
     },
     {
       "added_at": "2022-12-22 23:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
-    },
-    {
-      "added_at": "2022-12-22 23:01:00",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 387807,
       "name": "Control - Original Mix",
       "url": "https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     },
     {
       "added_at": "2022-12-22 23:01:00",

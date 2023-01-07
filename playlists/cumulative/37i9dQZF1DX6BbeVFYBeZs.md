@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-194 songs - 8 hr 54 min
+195 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 | 2022-06-17 |  |
 | [Dos Semanas](https://open.spotify.com/track/0DLJOEDh4Xdi7tlRXJCh0r) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Dos Semanas](https://open.spotify.com/album/6j0fxPpJFCs4Bj9ua6SEQg) | 2:27 | 2022-07-29 |  |
 | [Dos Semanas](https://open.spotify.com/track/5xBLH2lm5TFylXBOuJwnDm) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Dos Semanas](https://open.spotify.com/album/7wGfMMfZy4TROCO1KtgSkd) | 2:27 | 2022-06-17 | 2022-08-04 |
+| [Día Fácil](https://open.spotify.com/track/3Yz1SZXphecIMZcKjdtqFL) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Día Fácil](https://open.spotify.com/album/18idEnRzxpLkVIZv8ETBAb) | 3:01 | 2023-01-06 |  |
 | [El Arte De La Guitarra](https://open.spotify.com/track/12t9WB5iWTX3nAz5aLSjGA) | [Armik](https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK) | [Romantic Spanish Guitar, Vol\. 3](https://open.spotify.com/album/7vpRhpWT83mNvLBqjJ9Kbt) | 4:12 | 2022-06-17 | 2022-12-17 |
 | [El Ciego](https://open.spotify.com/track/1EtqyTZZhHtT7cmznkSc25) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [El Ciego](https://open.spotify.com/album/6qo8bLXjZSYwCU5I6PaN4b) | 1:39 | 2022-06-17 |  |
 | [El Pedro](https://open.spotify.com/track/5iskfQEmsSMqsXaSqaHFZM) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Pedro](https://open.spotify.com/album/0G8DZq836R0rIisEZtxlrj) | 4:36 | 2022-06-17 |  |

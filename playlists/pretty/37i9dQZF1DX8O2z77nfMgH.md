@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Standly
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,371 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,446 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 46 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 |
 | 47 | [Será \(feat\. Tamara Báez & DT.Bilardo\)](https://open.spotify.com/track/6J50I7pW8UQJE8qVT0RSea) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [Tamara Báez](https://open.spotify.com/artist/0JhK7gnIBytbUEh2PURT8i), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Será \(feat\. Tamara Báez & DT.Bilardo\)](https://open.spotify.com/album/2MQZG90FO0qGdhhajfJsc8) | 2:49 |
 | 48 | [Na Oficial](https://open.spotify.com/track/5bWqWZMZQanGyoUvCwAUEA) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Na Oficial](https://open.spotify.com/album/4BY13m0zpvQaNOWICBWNRR) | 4:00 |
-| 49 | [DISCRETA](https://open.spotify.com/track/0OXtFvUypfYoJOBXh9h5Lx) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO), [Toledo](https://open.spotify.com/artist/0c7soAA3Nv5aaDBMtCy7v4), [GIMARIO](https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH) | [DISCRETA](https://open.spotify.com/album/4q4JxBCUJBJ5LMOcaK6Ewd) | 3:54 |
+| 49 | [DISCRETA](https://open.spotify.com/track/0OXtFvUypfYoJOBXh9h5Lx) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO), [Toledo](https://open.spotify.com/artist/2edDMZSglhNmjytJPdkSbZ), [GIMARIO](https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH) | [DISCRETA](https://open.spotify.com/album/4q4JxBCUJBJ5LMOcaK6Ewd) | 3:54 |
 | 50 | [Nuestro Amor Regresa](https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Nuestro Amor Regresa](https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx) | 2:05 |
 
 Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDg3NDFlNmE2ZDY4ODgyZTY2OWY5NjJlNDMwMGQ5ZTk5`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 ### [New Music Friday UK](https://open.spotify.com/playlist/37i9dQZF1DX4W3aJJYCDfV)
 
-> Brand new music from Joesef \(pictured\), Sugababes and more!
+> Brand new music from Joesef \(pictured\), Popcaan x Drake, Sugababes and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,537 likes - 86 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,754 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,10 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 79 | [coca cola](https://open.spotify.com/track/6yLteOjWoKnF4FZWsUVezU) | [Mitty](https://open.spotify.com/artist/6WK1QmibG6rD0tGleeT08r) | [coca cola](https://open.spotify.com/album/0BFVE7wFx26X0zM0ZRqPv6) | 2:17 |
 | 80 | [Aesop](https://open.spotify.com/track/1y19vCgbtWdZompNiX9VUg) | [Kuma Overdose](https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ), [Mushkilla](https://open.spotify.com/artist/5tgqiVnzusJiWXqN0ZZIbU), [SA$H£R](https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb) | [Aesop](https://open.spotify.com/album/0XMWgURyV78FONbBTIZ9KK) | 2:12 |
 | 81 | [Your Love](https://open.spotify.com/track/0uo8mXAMX1OGngebGLmAeH) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Your Love](https://open.spotify.com/album/1LV5fBgsYBmb85DyqCtNNx) | 3:22 |
-| 82 | [Told you its wasn't enough](https://open.spotify.com/track/4rWyX6fhdyMqrvILFpPJqg) | [Kasper Fell](https://open.spotify.com/artist/0tRQbTZtuy2UDAqIzZgpbW) | [Told you its wasn't enough](https://open.spotify.com/album/4Jts3r4OnIwfdLjrRZv4aB) | 2:26 |
-| 83 | [Glow In The Dark](https://open.spotify.com/track/6PCJsEOd9rq2mTs6cOuhj2) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Glow In The Dark](https://open.spotify.com/album/7ARlhnl5Swf292DJ4IwEV5) | 3:56 |
-| 84 | [SUNBEAMING](https://open.spotify.com/track/75JDAoE9p9CI78Z7NVvokn) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [SUNBEAMING](https://open.spotify.com/album/5rrtJWHzOAs88edmVKJdGH) | 3:54 |
-| 85 | [Bored](https://open.spotify.com/track/5tHMdiQu2wk55vacXfGbaW) | [Low Girl](https://open.spotify.com/artist/2NieKujN76b0pYPpxo79qE) | [Bored](https://open.spotify.com/album/2YGcu3k18PmMBVSYMQxXi0) | 3:01 |
-| 86 | [Hide & Seek \- FLO Remix](https://open.spotify.com/track/6jAdi1dYM3CqKaPnaGu03H) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Hide & Seek \(FLO Remix\)](https://open.spotify.com/album/7sFeHL1xwkJEZzQarMXsDv) | 3:29 |
+| 82 | [Glow In The Dark](https://open.spotify.com/track/6PCJsEOd9rq2mTs6cOuhj2) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Glow In The Dark](https://open.spotify.com/album/7ARlhnl5Swf292DJ4IwEV5) | 3:56 |
+| 83 | [SUNBEAMING](https://open.spotify.com/track/75JDAoE9p9CI78Z7NVvokn) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [SUNBEAMING](https://open.spotify.com/album/5rrtJWHzOAs88edmVKJdGH) | 3:54 |
+| 84 | [Bored](https://open.spotify.com/track/5tHMdiQu2wk55vacXfGbaW) | [Low Girl](https://open.spotify.com/artist/2NieKujN76b0pYPpxo79qE) | [Bored](https://open.spotify.com/album/2YGcu3k18PmMBVSYMQxXi0) | 3:01 |
+| 85 | [Hide & Seek \- FLO Remix](https://open.spotify.com/track/6jAdi1dYM3CqKaPnaGu03H) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Hide & Seek \(FLO Remix\)](https://open.spotify.com/album/7sFeHL1xwkJEZzQarMXsDv) | 3:29 |
 
-Snapshot ID: `MTY3Mjk2MzY2MiwwMDAwMDAwMGQzMmNkNjQ1MDEwMDg0MjI2NDY3NzM3MWViMTRhNWFj`
+Snapshot ID: `MTY3Mjk5MzA3NCwwMDAwMDAwMDg4YTg4OWUxZGFiYThiZmE5MWM5YmQxMzVkMmNiNDRj`

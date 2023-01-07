@@ -4,7 +4,7 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2022</a>! Meet them first at the MU:CON 2022 official playlist\. \(뮤콘 2022 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-131 songs - 8 hr 48 min
+132 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Jungle Gym](https://open.spotify.com/track/4AsUeG6OBiXQo9IaSWsozL) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C), [Takashi Kashikura](https://open.spotify.com/artist/6wtd4TOkA6vsvmnex0gTtY) | [Jungle Gym](https://open.spotify.com/album/6hKA6V8a72Ld7IxpIveTcR) | 4:21 | 2022-09-27 |  |
 | [Keep Drinking!!](https://open.spotify.com/track/5TkEzSB1hGwj0ytAUZFMfW) | [Drinking Boys and Girls Choir](https://open.spotify.com/artist/1ZBsXLFV4kdFa0yqqNy9kx) | [Keep Drinking](https://open.spotify.com/album/5weZL40Nw4VmHCAAJtBzKv) | 0:56 | 2022-09-27 |  |
 | [kk](https://open.spotify.com/track/7HYtRBGVkaka9OAvifc7g2) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Harmony](https://open.spotify.com/album/5G5tvzJf7JitZ0x4GpoUxh) | 2:51 | 2022-09-27 |  |
-| [Last Call](https://open.spotify.com/track/5saaGZgz1R2TBeB0mDZHIL) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop](https://open.spotify.com/album/3eQwoUhBTy2F89F4K4dmRI) | 2:52 | 2022-10-17 |  |
+| [Last Call](https://open.spotify.com/track/5saaGZgz1R2TBeB0mDZHIL) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop](https://open.spotify.com/album/3eQwoUhBTy2F89F4K4dmRI) | 2:52 | 2022-10-17 | 2023-01-07 |
+| [Last call](https://open.spotify.com/track/6frkpzV7cJB5hC9uzsoJ0v) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop](https://open.spotify.com/album/7pdadTDX7TqjlkWYk01ON3) | 2:52 | 2022-10-22 |  |
 | [Liars](https://open.spotify.com/track/0TWlOxbPcxIozWShIGYOsv) | [TRPP](https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D) | [TRPP](https://open.spotify.com/album/2BacozGtXMOerDsVq5lJkd) | 3:00 | 2022-09-27 | 2022-12-03 |
 | [Liars](https://open.spotify.com/track/4cLUdcRWfhWNcWc7PrMP7F) | [TRPP](https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D) | [TRPP](https://open.spotify.com/album/4MCb03enJHRY5ovHpoHWQT) | 3:00 | 2022-10-22 |  |
 | [Light Beside You](https://open.spotify.com/track/2QTyOuLerx1U0kcpAVH4Fo) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Rise From The Ashes](https://open.spotify.com/album/7KNZ09ycq8We2c9kJD6yKl) | 3:35 | 2022-10-22 |  |

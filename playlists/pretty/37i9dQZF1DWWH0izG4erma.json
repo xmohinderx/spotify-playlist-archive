@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: HARDY",
-  "num_followers": 497407,
+  "num_followers": 497661,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY5NTY4NCwwMDAwMDAwMDQ4MTVlYjU1ZTZkZWZhYjExMmQ4MjlmMTBhOTRlOTRk",
+  "snapshot_id": "MTY3MjY5NTY4NCwwMDAwMDAwMDNkZTE5MmRiMjU2MTQwM2Y1MjM5YzJjZDZhNGNlOWRm",
   "tracks": [
     {
       "added_at": "2023-01-02 21:41:24",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
-        "name": "High Time",
-        "url": "https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn"
+        "name": "I Only Date Cowboys",
+        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
         }
       ],
-      "duration_ms": 234848,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
+      "duration_ms": 176813,
+      "name": "I Only Date Cowboys",
+      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
-        "name": "I Only Date Cowboys",
-        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
+        "name": "High Time",
+        "url": "https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn"
       },
       "artists": [
         {
-          "name": "Kylie Morgan",
-          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 176813,
-      "name": "I Only Date Cowboys",
-      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
+      "duration_ms": 234848,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
+        "name": "Crazy Angels",
+        "url": "https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Crazy Angels",
+      "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
+    },
+    {
+      "added_at": "2023-01-02 21:41:24",
+      "album": {
         "name": "April Showers",
         "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
-        "name": "Crazy Angels",
-        "url": "https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 156826,
-      "name": "Crazy Angels",
-      "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -791,22 +807,6 @@
       "duration_ms": 194896,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
-    },
-    {
-      "added_at": "2023-01-02 21:41:24",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
-        "name": "Workin' Man",
-        "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 218419,
-      "name": "Workin' Man",
-      "url": "https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG"
-    },
-    {
-      "added_at": "2023-01-02 21:41:24",
-      "album": {
         "name": "Sunday Drunk",
         "url": "https://open.spotify.com/album/4cmQ0g8KAGhVOMLB03r2dK"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 271389,
       "name": "Sunday Drunk",
       "url": "https://open.spotify.com/track/47AbGEgg7B33psQDmIygKz"
+    },
+    {
+      "added_at": "2023-01-02 21:41:24",
+      "album": {
+        "name": "Workin' Man",
+        "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 218419,
+      "name": "Workin' Man",
+      "url": "https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
-        "name": "All It Cost Me Was Everything",
-        "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
-    },
-    {
-      "added_at": "2023-01-02 21:41:24",
-      "album": {
         "name": "I'm Not For Everyone",
         "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
+    },
+    {
+      "added_at": "2023-01-02 21:41:24",
+      "album": {
+        "name": "All It Cost Me Was Everything",
+        "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
-        "name": "4 X 4 Play",
-        "url": "https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW"
-      },
-      "artists": [
-        {
-          "name": "Blackjack Billy",
-          "url": "https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7"
-        }
-      ],
-      "duration_ms": 201711,
-      "name": "4 X 4 Play",
-      "url": "https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41"
-    },
-    {
-      "added_at": "2023-01-02 21:41:24",
-      "album": {
         "name": "Still a Few Cowboys Left",
         "url": "https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 194186,
       "name": "Still a Few Cowboys Left",
       "url": "https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU"
+    },
+    {
+      "added_at": "2023-01-02 21:41:24",
+      "album": {
+        "name": "4 X 4 Play",
+        "url": "https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW"
+      },
+      "artists": [
+        {
+          "name": "Blackjack Billy",
+          "url": "https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7"
+        }
+      ],
+      "duration_ms": 201711,
+      "name": "4 X 4 Play",
+      "url": "https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
-        "name": "These Old Boots",
-        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
-      },
-      "artists": [
-        {
-          "name": "Seth Anthony",
-          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
-        }
-      ],
-      "duration_ms": 206307,
-      "name": "These Old Boots",
-      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
-    },
-    {
-      "added_at": "2023-01-02 21:41:24",
-      "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
@@ -1447,6 +1431,38 @@
       "duration_ms": 180453,
       "name": "Built Different",
       "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+    },
+    {
+      "added_at": "2023-01-02 21:41:24",
+      "album": {
+        "name": "Train",
+        "url": "https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ"
+      },
+      "artists": [
+        {
+          "name": "Manny Blu",
+          "url": "https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"
+    },
+    {
+      "added_at": "2023-01-02 21:41:24",
+      "album": {
+        "name": "These Old Boots",
+        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
+      },
+      "artists": [
+        {
+          "name": "Seth Anthony",
+          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
+        }
+      ],
+      "duration_ms": 206307,
+      "name": "These Old Boots",
+      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -1479,22 +1495,6 @@
       "duration_ms": 175000,
       "name": "My Ex Came Over",
       "url": "https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK"
-    },
-    {
-      "added_at": "2023-01-02 21:41:24",
-      "album": {
-        "name": "Train",
-        "url": "https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ"
-      },
-      "artists": [
-        {
-          "name": "Manny Blu",
-          "url": "https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
+        "name": "COUNTRY FUZZ",
+        "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "duration_ms": 184619,
+      "name": "Labels",
+      "url": "https://open.spotify.com/track/6oX6Z8IRcQoE5c1huBv4hU"
+    },
+    {
+      "added_at": "2023-01-02 21:41:24",
+      "album": {
         "name": "EOM - EP",
         "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 207215,
       "name": "Payback (feat. The Cadillac Three)",
       "url": "https://open.spotify.com/track/0MDFaaKSyNrt4aZtJvqirX"
-    },
-    {
-      "added_at": "2023-01-02 21:41:24",
-      "album": {
-        "name": "COUNTRY FUZZ",
-        "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 184619,
-      "name": "Labels",
-      "url": "https://open.spotify.com/track/6oX6Z8IRcQoE5c1huBv4hU"
     },
     {
       "added_at": "2023-01-02 21:41:24",

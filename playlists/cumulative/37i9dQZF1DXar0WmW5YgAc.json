@@ -1371,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "So (2012 Remastered)",
+        "url": "https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330373,
+      "name": "In Your Eyes - 2012 Remaster",
+      "url": "https://open.spotify.com/track/4qN7nSAVTjPfOOz0wkRQpM"
+    },
+    {
+      "album": {
         "name": "City of Angels (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/2IxykVOZuS5JdJHjhlD2ds"
       },

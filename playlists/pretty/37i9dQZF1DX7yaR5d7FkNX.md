@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > Disfrutemos del amor en los tiempos del rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,770 likes - 118 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,900 likes - 118 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 97 | [Tiemblo de Ti](https://open.spotify.com/track/6I4daOtdIrKyzuUEFK78c5) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Generación Inmediata](https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB) | 3:36 |
 | 98 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 |
 | 99 | [Alucinante](https://open.spotify.com/track/7gkw2rnb9fr0jFibCEjeTK) | [Monte Casino](https://open.spotify.com/artist/5ar40BBA3PLuS5Ac8D8zon), [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Alucinante](https://open.spotify.com/album/2zFnVvMJjnuqG8bTLSdcDg) | 2:37 |
-| 100 | [Ignis](https://open.spotify.com/track/5GHDwauerHo0VhYuHIEoGl) | [URSS Bajo el Árbol](https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY) | [Ignis](https://open.spotify.com/album/3T2ngs2uRrlCWvG6t2mfvQ) | 3:19 |
+| 100 | [Ignis](https://open.spotify.com/track/7cdjVBrIyoRxjbKbCLFWDx) | [URSS Bajo el Árbol](https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY) | [Ciclo Vol\. I](https://open.spotify.com/album/3yFhGVb5lE3KHRg4jHUoIh) | 3:19 |
 | 101 | [¿Quién Dice?](https://open.spotify.com/track/0Zm3QBqMm2qSUobgnGqQ9j) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [¿Quién Dice?](https://open.spotify.com/album/4qUj8ySTvQOhP8RAAhmK2Z) | 3:58 |
 | 102 | [No Me Provoques](https://open.spotify.com/track/1SMw2ZiOmzU9xogXlBS4Nq) | [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [No Me Provoques](https://open.spotify.com/album/7etvFe4PKI8GYRNVsAIcND) | 4:36 |
 | 103 | [Regresarás](https://open.spotify.com/track/0lD44zmd6jcYsxwZZJkqBY) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Redes Sociales](https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE) | 3:05 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 117 | [Góndola \- Live Session](https://open.spotify.com/track/1dOYmzJmvUTOAShmw6pT7V) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o), [Ana Rizo](https://open.spotify.com/artist/3jD6zAJRKQkylpOsaAVCiz) | [Góndola](https://open.spotify.com/album/4ETJicMeq2u0te2o6JxBdY) | 5:40 |
 | 118 | [El Ruido](https://open.spotify.com/track/6YJLHnSvofGO8vvKC8Bps0) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [El Ruido](https://open.spotify.com/album/0P4JYnPhEPPdSmFq1jxObl) | 2:57 |
 
-Snapshot ID: `MTY3MTEzMzYwOCwwMDAwMDAwMDVlMGNmNzFiMmUzMmNkMzRmMmUzOTEzYWUyN2VkMmZk`
+Snapshot ID: `MTY3MTEzMzYwOCwwMDAwMDAwMGFlZGIyMTQ5Y2IzMTQ0N2Q2ZGFiZDIwNTllODdjZTM5`

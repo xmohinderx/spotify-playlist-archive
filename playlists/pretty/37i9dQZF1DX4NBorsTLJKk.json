@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 28904,
+  "num_followers": 28910,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM0NzE5NywwMDAwMDAwMDA1M2U0ZmIxMjQwNDY1MWU3YzJjM2E5MTRkYmExNTNm",
+  "snapshot_id": "MTY2MjM0NzE5NywwMDAwMDAwMGYzN2U1OWVjZDY5NjBkM2Q3ZjRlNGE2YjA2NTVhYjY1",
   "tracks": [
     {
       "added_at": "2022-09-05 03:06:37",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "Hormone Boys",
-        "url": "https://open.spotify.com/album/7FDNFIWHR4WyIBzqwZpaGD"
-      },
-      "artists": [
-        {
-          "name": "Hormone Boys",
-          "url": "https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl"
-        }
-      ],
-      "duration_ms": 249022,
-      "name": "\u50be\u96e8",
-      "url": "https://open.spotify.com/track/2XyEyfd1d02fCeLG56gRSh"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
         "name": "\u4eca\u591c\u6709\u96e8",
         "url": "https://open.spotify.com/album/1ucCSWqRAywVSKjoweIALk"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 288742,
       "name": "\u4eca\u591c\u6709\u96e8",
       "url": "https://open.spotify.com/track/5hbY9CFK7GNcP28Es36E2c"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
+        "name": "Hormone Boys",
+        "url": "https://open.spotify.com/album/7FDNFIWHR4WyIBzqwZpaGD"
+      },
+      "artists": [
+        {
+          "name": "Hormone Boys",
+          "url": "https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl"
+        }
+      ],
+      "duration_ms": 249022,
+      "name": "\u50be\u96e8",
+      "url": "https://open.spotify.com/track/2XyEyfd1d02fCeLG56gRSh"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
+        "name": "\u85cd\u8272\u96e8",
+        "url": "https://open.spotify.com/album/0rxL1PxAXQ5bG4ay0V1viU"
+      },
+      "artists": [
+        {
+          "name": "Landy Wen",
+          "url": "https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj"
+        }
+      ],
+      "duration_ms": 295480,
+      "name": "\u85cd\u8272\u96e8",
+      "url": "https://open.spotify.com/track/7nS59WO3gYTDOMM0l4p6sf"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
         "name": "\u4f60\u8d70\u4e4b\u540e\u7684\u96e8\u5b63",
         "url": "https://open.spotify.com/album/798EbbqlF0r7qH8UVifiFK"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 222773,
       "name": "\u96e8\u7720",
       "url": "https://open.spotify.com/track/0OHFcsAAtCgTiZTRsFSsQo"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
-        "name": "\u85cd\u8272\u96e8",
-        "url": "https://open.spotify.com/album/0rxL1PxAXQ5bG4ay0V1viU"
-      },
-      "artists": [
-        {
-          "name": "Landy Wen",
-          "url": "https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj"
-        }
-      ],
-      "duration_ms": 295480,
-      "name": "\u85cd\u8272\u96e8",
-      "url": "https://open.spotify.com/track/7nS59WO3gYTDOMM0l4p6sf"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "\u96e8\u5929\u3002\u65e5\u8a18",
-        "url": "https://open.spotify.com/album/4BxdNZfGVvZsdse48Ieyd8"
+        "name": "When I Leave Taipei",
+        "url": "https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp"
       },
       "artists": [
         {
-          "name": "PiA",
-          "url": "https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD"
+          "name": "\u912d\u8208",
+          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
         }
       ],
-      "duration_ms": 219115,
-      "name": "\u540c\u4e00\u500b\u4e0b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3hfhrCKA37Rq0wEPR8F8H6"
+      "duration_ms": 274212,
+      "name": "Rain in Taipei",
+      "url": "https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "When I Leave Taipei",
-        "url": "https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp"
+        "name": "\u96e8\u5929\u3002\u65e5\u8a18",
+        "url": "https://open.spotify.com/album/4BxdNZfGVvZsdse48Ieyd8"
       },
       "artists": [
         {
-          "name": "\u912d\u8208",
-          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
+          "name": "PiA",
+          "url": "https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD"
         }
       ],
-      "duration_ms": 274212,
-      "name": "Rain in Taipei",
-      "url": "https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN"
+      "duration_ms": 219115,
+      "name": "\u540c\u4e00\u500b\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3hfhrCKA37Rq0wEPR8F8H6"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "\u9a55\u50b2\u5730\u611b\u8457",
-        "url": "https://open.spotify.com/album/3V6FTadVjrWzNFAI8qAcsS"
-      },
-      "artists": [
-        {
-          "name": "\u6162\u6162\u8aaa",
-          "url": "https://open.spotify.com/artist/0E0uWMihe8T7CfDO37S3QU"
-        }
-      ],
-      "duration_ms": 243673,
-      "name": "\u8a0e\u53ad\u4e0b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/7dx5uaLYo8PQluXRPnRk4P"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
         "name": "\u5c0f\u4e11/\u82f1\u96c4",
         "url": "https://open.spotify.com/album/5aAAO9mFJV5Y9BWhquOcHY"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
+        "name": "\u9a55\u50b2\u5730\u611b\u8457",
+        "url": "https://open.spotify.com/album/3V6FTadVjrWzNFAI8qAcsS"
+      },
+      "artists": [
+        {
+          "name": "\u6162\u6162\u8aaa",
+          "url": "https://open.spotify.com/artist/0E0uWMihe8T7CfDO37S3QU"
+        }
+      ],
+      "duration_ms": 243673,
+      "name": "\u8a0e\u53ad\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/7dx5uaLYo8PQluXRPnRk4P"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
         "name": "\u9673\u7dba\u8c9e \u7cbe\u9078",
         "url": "https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 215280,
       "name": "\u96e8\u5929\u7684\u5c3e\u5df4 - \u6eec\u5c3e\u5c0f\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
+        "name": "\u7a81\u7136\u4e00\u573a\u96e8",
+        "url": "https://open.spotify.com/album/3cfXd6xNIskHNmubJ1JQmn"
+      },
+      "artists": [
+        {
+          "name": "\u84dd\u5fc3\u7fbd",
+          "url": "https://open.spotify.com/artist/5IUx51U4VsEk4wGQvZQcf2"
+        }
+      ],
+      "duration_ms": 230697,
+      "name": "\u7a81\u7136\u4e00\u573a\u96e8",
+      "url": "https://open.spotify.com/track/7zOZPHSLMkDanv4yMe6Pzm"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -1127,6 +1143,22 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
+        "name": "\u5929\u6c14:\u6674",
+        "url": "https://open.spotify.com/album/26muN1evthL1MGdvrrNqrI"
+      },
+      "artists": [
+        {
+          "name": "Sunnee\u694a\u82b8\u6674",
+          "url": "https://open.spotify.com/artist/07Qt0KlMf6vpPVXuY5Qrhj"
+        }
+      ],
+      "duration_ms": 238795,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/2jwmfurLSs8Se187151YEG"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
         "name": "\u96e8\u4f60",
         "url": "https://open.spotify.com/album/15kyCeWOWRYoO49SUu5SmC"
       },
@@ -1143,22 +1175,6 @@
       "duration_ms": 183092,
       "name": "\u96e8\u4f60",
       "url": "https://open.spotify.com/track/49Wr8GLOfs9lviBkR9rbQH"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
-        "name": "\u5929\u6c14:\u6674",
-        "url": "https://open.spotify.com/album/26muN1evthL1MGdvrrNqrI"
-      },
-      "artists": [
-        {
-          "name": "Sunnee\u694a\u82b8\u6674",
-          "url": "https://open.spotify.com/artist/07Qt0KlMf6vpPVXuY5Qrhj"
-        }
-      ],
-      "duration_ms": 238795,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/2jwmfurLSs8Se187151YEG"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -1207,22 +1223,6 @@
       "duration_ms": 326440,
       "name": "\u591a\u96e8\u7684\u57ce\u5e02 - 2020",
       "url": "https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
-        "name": "\u6d77\u6d0b\u97f3\u6a02\u5275\u4f5c\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/3lgDIJPRUSsSgim5cBZ5mE"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5efa\u5e74",
-          "url": "https://open.spotify.com/artist/1UAZlkup3OPkbEYiH8tlbi"
-        }
-      ],
-      "duration_ms": 369586,
-      "name": "\u96e8\u8207\u4f60",
-      "url": "https://open.spotify.com/track/01BQfSbNd3LflgSiPXizkO"
     }
   ],
   "unique_name": "\u96e8\u4e2d\u65cb\u5f8b",

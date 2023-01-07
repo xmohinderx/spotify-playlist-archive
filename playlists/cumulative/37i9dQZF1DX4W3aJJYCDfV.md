@@ -2,7 +2,7 @@
 
 ### [New Music Friday UK](https://open.spotify.com/playlist/37i9dQZF1DX4W3aJJYCDfV)
 
-> Brand new music from Joesef \(pictured\), Sugababes and more!
+> Brand new music from Joesef \(pictured\), Popcaan x Drake, Sugababes and more!
 
 1,138 songs - 2 day 13 hr 45 min
 
@@ -1016,7 +1016,7 @@
 | [Today \(can't help but cry\)](https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Today \(can't help but cry\)](https://open.spotify.com/album/71HtRi6nvIXWQgrgnfz0kb) | 4:12 | 2022-12-16 | 2022-12-24 |
 | [Together](https://open.spotify.com/track/06z7jpfrhxPSQ4QXnklazv) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [HALINA](https://open.spotify.com/artist/0PfUZvZ6c8KPCq3BSKiIpp) | [When Life Presents Obstacle](https://open.spotify.com/album/7ffQYP9KLpPkr73BW4hR8r) | 3:14 | 2022-11-25 | 2022-12-02 |
 | [Together](https://open.spotify.com/track/4LhtIcv5Yoldfyhs3v193Y) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Together](https://open.spotify.com/album/2DhXsskXfwb6qZAywoIQWe) | 3:00 | 2022-11-18 | 2022-11-25 |
-| [Told you its wasn't enough](https://open.spotify.com/track/4rWyX6fhdyMqrvILFpPJqg) | [Kasper Fell](https://open.spotify.com/artist/0tRQbTZtuy2UDAqIzZgpbW) | [Told you its wasn't enough](https://open.spotify.com/album/4Jts3r4OnIwfdLjrRZv4aB) | 2:26 | 2023-01-06 |  |
+| [Told you its wasn't enough](https://open.spotify.com/track/4rWyX6fhdyMqrvILFpPJqg) | [Kasper Fell](https://open.spotify.com/artist/0tRQbTZtuy2UDAqIzZgpbW) | [Told you its wasn't enough](https://open.spotify.com/album/4Jts3r4OnIwfdLjrRZv4aB) | 2:26 | 2023-01-06 | 2023-01-07 |
 | [Tomorrow](https://open.spotify.com/track/00dgUA0PXiJrJqfcMxVHo8) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4), [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Tomorrow](https://open.spotify.com/album/53AONo5RSYVsKnmUUUofeL) | 2:59 | 2022-11-25 | 2022-12-02 |
 | [tongue tied](https://open.spotify.com/track/6bToVHJb1xlAG3pvlL5dXr) | [Vaelin](https://open.spotify.com/artist/0sYFhK15CsSuSWijrR9TAB) | [tongue tied](https://open.spotify.com/album/3qCloSKFWB1ypaCRAp24oL) | 2:00 | 2022-11-04 | 2022-11-11 |
 | [Too Soon](https://open.spotify.com/track/2Z4cUmPtcnVIy5xePHDJNm) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Too Soon](https://open.spotify.com/album/0wAJCFyKF469MmWahI9bf5) | 3:10 | 2022-11-04 | 2022-11-05 |

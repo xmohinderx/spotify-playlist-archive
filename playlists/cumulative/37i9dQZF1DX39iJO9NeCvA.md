@@ -4,7 +4,7 @@
 
 > Listen to soundtracks from SF anime series "TRIGUN"./ 世界中から愛される名作SF「トライガン」TVアニメ＆劇場版サントラが遂にSpotifyに到着！© 内藤泰弘/少年画報社・トライガン製作委員会
 
-30 songs - 1 hr 39 min
+31 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [snatch!snatch!snatch!](https://open.spotify.com/track/7KG0iTQojPBMdi0ZgSM2Lx) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 2:16 | 2021-05-26 |  |
 | [Sound Life \~ LEM](https://open.spotify.com/track/7slEiXsz2Km5PhNgoPbKye) | [AJA](https://open.spotify.com/artist/5u5RIHJRSfFYkhlWzNWxJU) | [トライガン TRIGUN THE FIRST DONUTS](https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h) | 5:23 | 2021-05-26 |  |
 | [the Stampede](https://open.spotify.com/track/7aHWxlBj7OyMN3INPWyQnQ) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 1:20 | 2021-05-26 |  |
+| [TOMBI](https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [TOMBI](https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF) | 3:26 | 2023-01-06 |  |
 | [Unhappy Song](https://open.spotify.com/track/4qgw4QfoK7FWpwqzVMZj5Q) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 2:47 | 2021-05-26 |  |
 | [you've blown it over the sands](https://open.spotify.com/track/57hyjxTe2HKiujEV7vpMC4) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 1:52 | 2021-05-26 |  |
 | [トマクン](https://open.spotify.com/track/6qC9EuTHWb6G5yNSBTnEZR) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 3:09 | 2021-05-26 |  |

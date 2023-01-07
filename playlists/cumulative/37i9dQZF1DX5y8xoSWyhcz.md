@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. bestfriend on the cover.
 
-1,002 songs - 2 day 3 hr 27 min
+1,003 songs - 2 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Color Palette](https://open.spotify.com/track/0BD07BDyj2yzdo2TeITJNH) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Color Palette](https://open.spotify.com/album/6Oamn4DFP3vMzADj1ksWAa) | 3:33 | 2021-01-09 | 2021-02-19 |
 | [Colorado](https://open.spotify.com/track/41WtQo9j7WR72VuAgN0LNb) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [The Longest Year: Part One](https://open.spotify.com/album/386y4A9x4YzDEUODlsNix9) | 1:58 | 2020-10-29\* | 2020-11-14 |
 | [COLORS](https://open.spotify.com/track/7vtw03hfTf7tTYwjvjYC5h) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [COLORS](https://open.spotify.com/album/22t7uvZWa4PoPT2lD0DSmG) | 3:18 | 2022-04-08 |  |
-| [Come Around](https://open.spotify.com/track/4UsWjHgX1TBmBv9CiVjcSR) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6tWDOvv8CoaWYBdnP11RBn) | 3:38 | 2022-08-12 |  |
+| [Come Around](https://open.spotify.com/track/4UsWjHgX1TBmBv9CiVjcSR) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6tWDOvv8CoaWYBdnP11RBn) | 3:38 | 2022-08-12 | 2023-01-07 |
+| [Come Around](https://open.spotify.com/track/5FhBSeLyAPLGoCWOjQXH6F) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6GzwDlQLCtbtXO1F5jpqTi) | 3:38 | 2023-01-06 |  |
 | [Comfort Edge](https://open.spotify.com/track/2ZsxWqm5XzcUGRJRHKMgui) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/1ixBdfxbLKDnkRLfpNJgir) | 3:43 | 2020-10-29\* | 2020-11-11 |
 | [Compare Myself](https://open.spotify.com/track/4KLcQpDco4VnbW0MpDchyB) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Compare Myself](https://open.spotify.com/album/6Pwad6L8kQot9BFjtcS1N6) | 3:31 | 2020-10-29\* | 2021-01-09 |
 | [Congratulations](https://open.spotify.com/track/1e84sSryVQN4yDjGqQNPuR) | [Maya Malkin](https://open.spotify.com/artist/4E7h9iuJDTrjAtpd0cnIRJ) | [Congratulations](https://open.spotify.com/album/4HMlI1tb5IN7Dpd5nkzJiW) | 2:56 | 2021-04-10 | 2021-07-31 |

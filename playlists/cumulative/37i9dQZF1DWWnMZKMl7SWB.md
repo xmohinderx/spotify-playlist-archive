@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-304 songs - 19 hr 37 min
+305 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1am in nyc](https://open.spotify.com/track/0e53hMy1c4e7bLZh5iRsFi) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:24 | 2022-04-12 | 2022-10-13 |
 | [1am in nyc](https://open.spotify.com/track/2g9j3O0YzzeqXqliKaqFZD) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/3SEeS3WVZhevxaJKnHe3GU) | 2:24 | 2022-09-09 |  |
 | [1am in nyc](https://open.spotify.com/track/5BIwDSCZB1DVt7CJJn6UAa) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [1am in nyc](https://open.spotify.com/album/3wImABsinR6BGpjMt9XUGn) | 2:24 | 2022-04-12 | 2022-07-29 |
+| [2day](https://open.spotify.com/track/1dQFJczFI9rVXbDXvavD03) | [crackle n bop](https://open.spotify.com/artist/7geWyYxsW6YdSKLBjB6mir) | [2day](https://open.spotify.com/album/5j9RWutbmSJQ8bHo9bOlL7) | 1:49 | 2023-01-06 |  |
 | [40 Love](https://open.spotify.com/track/3HCoyY47D7po1xC1y7HsBU) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [40 Love](https://open.spotify.com/album/69geYIK32L6nCd4Btqdeh6) | 3:00 | 2022-04-12 |  |
 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 | 2022-04-12 |  |
 | [A Bird's Call](https://open.spotify.com/track/4kPl0xCLmy0ArJbjJ8A2at) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/4QUmKlw1ciSpgCHvbSVNYb) | 3:02 | 2022-04-12 | 2022-07-29 |

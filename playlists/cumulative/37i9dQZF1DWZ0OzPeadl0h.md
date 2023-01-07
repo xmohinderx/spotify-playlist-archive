@@ -4,7 +4,7 @@
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-178 songs - 11 hr 36 min
+179 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,8 +153,9 @@
 | [Sweetheart](https://open.spotify.com/track/4jS9nPrMnpS2wBkMDzXouC) | [Juliana Daugherty](https://open.spotify.com/artist/6VcBxr42x3G6zWOZILLDAQ) | [Light](https://open.spotify.com/album/4ZDJoEqOgUx62rjBP1uxmV) | 3:39 | 2021-10-22 | 2022-07-29 |
 | [Tairm](https://open.spotify.com/track/4czoofCcgJuI9bHgjIhPna) | [WHɎTE](https://open.spotify.com/artist/6wGrithJfN04WF1BWRQUvm) | [Tairm](https://open.spotify.com/album/7jMaGUjZ76YBSs3Yqxm4VD) | 5:10 | 2021-10-22 |  |
 | [Tapestry](https://open.spotify.com/track/1GkkMgDas91jmc6614MkGf) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Tapestry](https://open.spotify.com/album/3FQVZyz9XxFKcyIpxcZtWF) | 3:49 | 2021-10-22 |  |
-| [Tayrona \(feat\. Wilsen\)](https://open.spotify.com/track/2Sxt4EK2LAElVzvMl6POvI) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ) | [Tayrona \(feat\. Wilsen\)](https://open.spotify.com/album/6lvPAszkUIE6rLddZ3cVBs) | 3:19 | 2021-10-22 |  |
+| [Tayrona \(feat\. Wilsen\)](https://open.spotify.com/track/2Sxt4EK2LAElVzvMl6POvI) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ) | [Tayrona \(feat\. Wilsen\)](https://open.spotify.com/album/6lvPAszkUIE6rLddZ3cVBs) | 3:19 | 2021-10-22 | 2023-01-07 |
 | [Tayrona \(feat\. Wilsen\) \[Henry Green Rework\]](https://open.spotify.com/track/4PgKJq4xGJt7KBRxgV96ZU) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Tayrona \(feat\. Wilsen\) \[Henry Green Rework\]](https://open.spotify.com/album/2YvoUeZyhKk0fR4oYdh00c) | 3:27 | 2021-10-22 | 2022-06-15 |
+| [Tayrona \- feat\. Wilsen](https://open.spotify.com/track/5gLoLe0c3VRr3I9NyPuXdC) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ) | [Tayrona EP](https://open.spotify.com/album/2uSzewIo6qfL1tckQjYf6n) | 3:19 | 2021-10-22 |  |
 | [Tethered](https://open.spotify.com/track/4knHKWetkNFiYHbsGqHljq) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Vessels](https://open.spotify.com/album/4VrBpjOk4RZGtZd2LzJkns) | 3:26 | 2021-10-22 |  |
 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 | 2021-10-22 |  |
 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 | 2021-11-17 |  |

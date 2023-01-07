@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA) | 2:51 | 2022-11-10 | 2023-01-06 |
+| [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA) | 2:51 | 2022-11-10 |  |
 | [2009](https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [2009](https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d) | 3:11 | 2022-02-07 |  |
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2021-12-20 | 2022-06-15 |
 | [32](https://open.spotify.com/track/2sYl3t3Rrnrs7mDbDHnIPg) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [32](https://open.spotify.com/album/3pm0elSt5GTx5OJAw0Wrfx) | 4:41 | 2022-03-14 | 2022-11-11 |
@@ -195,7 +195,7 @@
 | [Split In Two](https://open.spotify.com/track/2hFBaF0pqujZAStfrOEqIh) | [Stuck Out](https://open.spotify.com/artist/64Q80rDAedUbxhgMAJzyjI) | [Split In Two](https://open.spotify.com/album/6iGEygjKxyNc6E44PeZ8Kh) | 3:32 | 2022-07-18 | 2022-08-26 |
 | [St\. Girlfriend](https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [St\. Girlfriend](https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w) | 2:27 | 2022-07-04 | 2022-08-26 |
 | [Summer Fling](https://open.spotify.com/track/4TTxKf21Dips2BWk32usFf) | [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Summer Fling](https://open.spotify.com/album/5hUxUuJHwqBJVbOD201gfN) | 3:36 | 2021-12-20 | 2022-03-01 |
-| [Sunsign](https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Sunsign](https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf) | 3:47 | 2022-10-06 |  |
+| [Sunsign](https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Sunsign](https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf) | 3:47 | 2022-10-06 | 2023-01-07 |
 | [Super 8](https://open.spotify.com/track/5o89wZBm3klAcMufTGeYBJ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Super 8](https://open.spotify.com/album/4M8Sr36dkdDyThOJ1DcUG3) | 2:38 | 2021-12-20 | 2022-04-05 |
 | [Sway](https://open.spotify.com/track/2pXlMS6bZTBfUNCa5CruJR) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Hello, It's You](https://open.spotify.com/album/5zFhG4Xnxmz6kJeygmWGSg) | 2:55 | 2021-12-20 | 2022-07-29 |
 | [Sway](https://open.spotify.com/track/5NZ86YaW48jgWG0QoEujpw) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Hello, It's You](https://open.spotify.com/album/504ZsEVhEpWC0S4ZRZxdoK) | 2:55 | 2022-07-18 | 2022-10-14 |

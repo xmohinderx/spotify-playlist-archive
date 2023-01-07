@@ -2,7 +2,7 @@
 
 ### [The Classical Takeover: Roger Eno](https://open.spotify.com/playlist/37i9dQZF1DWXtBjoO4Thyy)
 
-> Roger Eno continues The Classical Takeover with his all\-time favourite tunes.
+> Roger Eno continues The Classical Takeover with his selection of "Warm Music for a Cold Season"
 
 541 songs - 1 day 21 hr 5 min
 

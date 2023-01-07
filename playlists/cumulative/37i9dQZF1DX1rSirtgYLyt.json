@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/51Q8xb6yKqRdETYMUDj9mo"
+      },
+      "artists": [
+        {
+          "name": "Bonny B.",
+          "url": "https://open.spotify.com/artist/0awWK2CDOk4vhdtqs6WlOG"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429077,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0JCiStjQ3LqDn6Ijni8wFf"
+    },
+    {
+      "album": {
         "name": "Live +",
         "url": "https://open.spotify.com/album/5LTErKR4sVxrANiPNLcYI8"
       },
@@ -1087,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "Azules",
+        "url": "https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf"
+      },
+      "artists": [
+        {
+          "name": "Louise Phelan",
+          "url": "https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc"
+        },
+        {
+          "name": "Octavio Herrero",
+          "url": "https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "I'm a Woman",
+      "url": "https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8"
+    },
+    {
+      "album": {
         "name": "All Blues'd Up: Songs of Bob Dylan",
         "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
       },
@@ -1525,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "Taxman",
+        "url": "https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee"
+      },
+      "artists": [
+        {
+          "name": "Teresa James",
+          "url": "https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206815,
+      "name": "Taxman",
+      "url": "https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI"
+    },
+    {
+      "album": {
         "name": "All Time Favorites: Lou Ann Barton",
         "url": "https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ"
       },
@@ -1608,7 +1666,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 183840,
       "name": "Tom Cat Blues",
       "url": "https://open.spotify.com/track/69LGgafa9setHOHVyPQyJK"

@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-266 songs - 10 hr 25 min
+268 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Chance](https://open.spotify.com/track/1FPqkuTb743SfNFyDGwh1d) | [Side Sledge](https://open.spotify.com/artist/04ZyJQLsMY92swDhrrSqGe) | [Chance](https://open.spotify.com/album/4MaBzgmtaK2k7QOr9cFs5g) | 3:43 | 2022-05-27 |  |
 | [Chazzed](https://open.spotify.com/track/2h8saMMTJWqD01ZKzkLqdi) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Longings](https://open.spotify.com/album/304bggytiHFgGxQr93ftkm) | 2:17 | 2022-05-27 |  |
 | [Check It](https://open.spotify.com/track/6C94TkFvFvfzKfgUZeIW7R) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Fly Footage](https://open.spotify.com/album/7ENKoGVELyvs5Jndq3O9hT) | 2:19 | 2022-08-19 |  |
+| [Chen](https://open.spotify.com/track/0Y7igTuXHLFO41mnaShhLw) | [JimmieLuv](https://open.spotify.com/artist/2E3vr1mH5nTjLRPDRdUcO2) | [Chen](https://open.spotify.com/album/5l2P8YxW3MQ4s1n95V5voL) | 2:25 | 2023-01-06 |  |
 | [Chill Balcony](https://open.spotify.com/track/03PhAyp5FFUPMb68QCrAst) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Lucie Cravero](https://open.spotify.com/artist/2e0eTUckm1xVdKFHmjSlrT) | [Chill Balcony](https://open.spotify.com/album/1d2AZ7N81CHVJRx5haZ9Cd) | 2:24 | 2022-10-14 |  |
 | [chrome](https://open.spotify.com/track/409mSIlqx7ZKfWhPzFzRhL) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [chrome](https://open.spotify.com/album/1A2lg20TBi2x4eVUVIBIoi) | 2:22 | 2022-12-09 |  |
 | [City Lights](https://open.spotify.com/track/2hU0KZRPVZ1z7AZga7PXup) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [City Lights](https://open.spotify.com/album/1i3HkR1ygBKfTvBU3dm0s3) | 1:53 | 2022-09-09 |  |
@@ -130,6 +131,7 @@
 | [laidback paradise](https://open.spotify.com/track/5vMQj2BQeVHxwnouYx2AfR) | [Rushee](https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw) | [laidback paradise](https://open.spotify.com/album/6fGWUQo5V8HnrWppbPPYbe) | 3:21 | 2022-05-27 |  |
 | [Lasting Friendships](https://open.spotify.com/track/1GVnU4t7lZP96JiQjiL98r) | [Silk Surgeon](https://open.spotify.com/artist/43o413mKchb010kYQuLcyI) | [Lasting Friendships](https://open.spotify.com/album/6xhxC2JdPDkcvgGb318RiD) | 1:56 | 2022-06-24 | 2022-07-08 |
 | [Leaks](https://open.spotify.com/track/7LrHklAwWYsUNoFAwWDkDp) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Leaks](https://open.spotify.com/album/1YF3DE75jwhTCNwEYl2CsP) | 2:51 | 2022-07-29 | 2022-09-30 |
+| [leave the lights on](https://open.spotify.com/track/7d5KOapwEiUVGxa9fGOD8a) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [leave the lights on](https://open.spotify.com/album/7sh2RAqZITfrhnAOhoTKmi) | 2:12 | 2023-01-06 |  |
 | [Let's Downgrade!](https://open.spotify.com/track/3xIjrwRT9LFeMjKAO9NPGy) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Let's Downgrade!](https://open.spotify.com/album/1L1VolV9sQvMotcKQ9JJC3) | 2:21 | 2022-06-24 |  |
 | [Limitless Romance](https://open.spotify.com/track/2MTYZm8JCYRyPvO1wXq9fl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/7a7ggcxcyypfeusCE9LARB) | 2:25 | 2022-05-27 | 2022-11-20 |
 | [Limitless Romance](https://open.spotify.com/track/2mcHRbi6QDzFMyU3MqpysB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/6M1TTWauVFCg2mIvPDmvXf) | 2:25 | 2022-11-11 | 2022-12-14 |

@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Teenage Priest
 
-759 songs - 1 day 19 hr 26 min
+760 songs - 1 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Ben Zaidi's Blues.](https://open.spotify.com/track/0XNkyRJljDqKrNnj13k8Sm) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [Ben Zaidi's Blues.](https://open.spotify.com/album/2DnDKPt9XSd4w2z3AqnRCW) | 4:52 | 2021-08-13 | 2022-04-29 |
 | [Best Years](https://open.spotify.com/track/11y5uf7mmoN8UQbihHDpH0) | [Woz](https://open.spotify.com/artist/1UVFvU6lo3ciTTyil9yHJp) | [At the Gulf](https://open.spotify.com/album/4lVaI68Xbzh5CPZA3EX5Rb) | 2:54 | 2022-11-11 | 2022-12-15 |
 | [Bet You Know](https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Bet You Know](https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd) | 3:18 | 2021-06-02 | 2022-03-22 |
-| [Better](https://open.spotify.com/track/0ZeeEP48byhbODGptCqhjt) | [Bunk Buddy](https://open.spotify.com/artist/2v1a1xAEi5PEzzW1fJerGg) | [Better](https://open.spotify.com/album/08u1lOOEqeG1CMuL2YDSbf) | 5:34 | 2022-12-24 |  |
+| [Better](https://open.spotify.com/track/0ZeeEP48byhbODGptCqhjt) | [Bunk Buddy](https://open.spotify.com/artist/2v1a1xAEi5PEzzW1fJerGg) | [Better](https://open.spotify.com/album/08u1lOOEqeG1CMuL2YDSbf) | 5:34 | 2022-12-22 |  |
 | [Better Distractions](https://open.spotify.com/track/4sPh466Pk3l706g10DO1FO) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Better Distractions](https://open.spotify.com/album/1JskWQrQLVLDi6jpT7Nqcd) | 4:09 | 2021-03-05 | 2022-04-29 |
 | [Better Luck](https://open.spotify.com/track/04utFXqgGdGYpBqzl7q3oG) | [Beachtape](https://open.spotify.com/artist/731xbI3Me3lWV8e1JOZMGU) | [Better Luck](https://open.spotify.com/album/053LYPTGDusO20Cj2H6lYu) | 3:19 | 2022-12-02 | 2022-12-15 |
 | [Big Deal](https://open.spotify.com/track/6VoTmWBrfQmxhiLa7mOn46) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Big Deal](https://open.spotify.com/album/65i206bnePOdrNTfc2kw1g) | 4:18 | 2021-05-14 | 2022-04-19 |
@@ -550,6 +550,7 @@
 | [Righter](https://open.spotify.com/track/7aX7tlZXkjTfR2fTPtk5uN) | [Julianna Zachariou](https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO) | [Righter](https://open.spotify.com/album/7p0eKTOpxUkB2SxWDJJ2Nu) | 3:56 | 2022-07-08 | 2022-08-27 |
 | [Rip Curl Sweatshirt](https://open.spotify.com/track/0OAGQp7hptybZ6vfjAshRL) | [Trestles](https://open.spotify.com/artist/7hmPErlX3ndzdXcrg8WblE) | [Rip Curl Sweatshirt](https://open.spotify.com/album/18RLd7dXVIW73t3LW7L3AK) | 3:20 | 2022-05-09 | 2022-07-09 |
 | [Risk](https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Teen Tapes \(For Performing Your Own Stunts\)](https://open.spotify.com/album/22tHTROvyyl2EsO5iUodJj) | 2:49 | 2022-04-15 | 2022-04-30 |
+| [River](https://open.spotify.com/track/6GIGtQZq4wKWlDM8wUfS6c) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [River / Happy Xmas \(War Is Over\)](https://open.spotify.com/album/6pr4v7NJt54lnLjDMwiOy1) | 4:00 | 2023-01-06 |  |
 | [River](https://open.spotify.com/track/3HEhC2ZJYWBX8EtVHOnIdr) | [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E), [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [River](https://open.spotify.com/album/4l0KCP3KC7tCeSfdzBQqb0) | 4:31 | 2022-10-07 | 2022-12-15 |
 | [Ronnie](https://open.spotify.com/track/4qYfXg9G99RdC9ztNR8vQo) | [Tchotchke](https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG) | [Tchotchke](https://open.spotify.com/album/0hIl9YXPRu5ZlqakOREbna) | 2:58 | 2022-07-29 | 2022-10-15 |
 | [Room](https://open.spotify.com/track/0qyIfrncrrZQlx2jaffhYm) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Room](https://open.spotify.com/album/2eOU1jfnTXVVH14YJRkqz9) | 3:30 | 2021-03-05 | 2022-04-29 |
@@ -684,7 +685,7 @@
 | [Ticking Bomb](https://open.spotify.com/track/7KCqSmpnDXwuhHgaMZ5wli) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Chameleon](https://open.spotify.com/album/0ciwiJcDpW1mrYiu3ZMBIV) | 2:18 | 2022-12-02 |  |
 | [Tightrope](https://open.spotify.com/track/7aJxfa4BHhXR9mfexEbLEc) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Tightrope](https://open.spotify.com/album/5dOHA7hURlAbccdgpxmhP7) | 3:20 | 2022-12-09 | 2022-12-15 |
 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 | 2022-11-17 |  |
-| [Time of Your Life](https://open.spotify.com/track/6QvZeQylq5VDMkBx4Uvb0f) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Time of Your Life](https://open.spotify.com/album/1817WuNlDWoq89RhEofTXA) | 2:55 | 2022-11-11 |  |
+| [Time of Your Life](https://open.spotify.com/track/6QvZeQylq5VDMkBx4Uvb0f) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Time of Your Life](https://open.spotify.com/album/1817WuNlDWoq89RhEofTXA) | 2:55 | 2022-11-11 | 2023-01-07 |
 | [Time to Melt](https://open.spotify.com/track/49csj8JI9bpJ0aFBeRGmpN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Time to Melt](https://open.spotify.com/album/0kPkiCZNV7EY487616MHDt) | 3:51 | 2021-09-17 | 2022-04-29 |
 | [Time Walk](https://open.spotify.com/track/3sU3dsN3etkC0Teh3IZU9S) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Everything](https://open.spotify.com/album/0O5kzFuZOVnamq7gpSVmqU) | 1:33 | 2022-04-29 | 2022-05-20 |
 | [to Perth, before the border closes](https://open.spotify.com/track/6WI8bktnr5LEmOCwGpmNSv) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [to Perth, before the border closes](https://open.spotify.com/album/3Pkzz94sEJxDI7fY0uZFcm) | 2:56 | 2021-03-05 | 2022-04-29 |

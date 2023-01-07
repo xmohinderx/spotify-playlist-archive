@@ -4,7 +4,7 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-112 songs - 5 hr 40 min
+114 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Lately I've Been Wondering](https://open.spotify.com/track/0NQEzguxVbjYvVeveED6s3) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [If I'm Gonna See You](https://open.spotify.com/album/11uXDArfb3fe5ortxBZTN3) | 4:02 | 2022-05-13 |  |
 | [Let Me in](https://open.spotify.com/track/2xCrfVj6YtPcov8kuW3hU8) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [If I'm Gonna See You](https://open.spotify.com/album/11uXDArfb3fe5ortxBZTN3) | 3:01 | 2022-05-13 |  |
 | [let the reins go](https://open.spotify.com/track/6edZwX23WcUDbKx9VOxC1Z) | [flower water](https://open.spotify.com/artist/2q0V4ngQ2LJ3gVS5lVW5Ww) | [kind of wind](https://open.spotify.com/album/47Pzq0DT4akwlF9DowYtc6) | 3:15 | 2022-05-13 |  |
+| [lone cowboy](https://open.spotify.com/track/5UZdpqf1F4fvDqvGYC2sRt) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [lone cowboy](https://open.spotify.com/album/3q7mTrEO8fhmbdh64N1km3) | 2:35 | 2023-01-06 |  |
 | [Madrigal](https://open.spotify.com/track/7HacRe0qGc3KeVeCRVcIFN) | [Felipe Pérez Santiago](https://open.spotify.com/artist/4FfFH7PoQpP9wuDaUkrdrw) | [Humedal](https://open.spotify.com/album/3aZ7Q5otwzpaHcPXpKLiS2) | 2:27 | 2022-05-13 |  |
 | [Masterpiece](https://open.spotify.com/track/6Z4zjDo2ZhH3dF2ArneHlY) | [Boreal Monkey](https://open.spotify.com/artist/7hrUxPY5NyS5eTyuYCvhw1) | [BM](https://open.spotify.com/album/377VpIuyZnkPBNzNZds4EA) | 3:09 | 2022-05-13 |  |
 | [Mente Libre](https://open.spotify.com/track/2Hd0NIYAMRez3FfjWfkFXv) | [La Perezosa](https://open.spotify.com/artist/68au8jhsM1K0frNuPzcKWI) | [Mente Libre](https://open.spotify.com/album/0pdbiXji6KDN7fsCKgYalt) | 3:47 | 2022-05-13 |  |
@@ -70,6 +71,7 @@
 | [More Reeds](https://open.spotify.com/track/03aNql8dZHY63kfd7A7c1m) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Away](https://open.spotify.com/album/4KGsOpuWVrfI5DinD34VOF) | 3:26 | 2022-07-15 |  |
 | [More Reeds](https://open.spotify.com/track/5CXoWgCOmJN7czdwNowOYk) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Away](https://open.spotify.com/album/4Zzjrtt6012pdMZkw1R7mA) | 3:26 | 2022-05-13 | 2022-07-29 |
 | [New World](https://open.spotify.com/track/1C1XqIYvEoQWXzXQnxIYlP) | [Jeff Gardenbaum](https://open.spotify.com/artist/0jexu3jhxqUlfX2fiW63TW) | [New World](https://open.spotify.com/album/2bNHNDvSrrBVJgr62xhZlj) | 3:21 | 2022-05-13 |  |
+| [No Wonder](https://open.spotify.com/track/68bPNGdjaLmXDxv80kKs8H) | [Mondbery](https://open.spotify.com/artist/3Ao4LdOPmNHIsDq8Y5gTmh) | [No Wonder](https://open.spotify.com/album/1AyHHEzGeR5jaM9c4qt8hw) | 2:27 | 2023-01-06 |  |
 | [Oceans](https://open.spotify.com/track/4o53OVOjtOEkmh0UPDyuke) | [A Clear Path](https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI) | [Oceans](https://open.spotify.com/album/3O8OlFYpzITLxAzi7hxtBV) | 2:16 | 2022-08-19 |  |
 | [Off\-the\-grid](https://open.spotify.com/track/1a47PzbWf3RBhPAbjK5RgY) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [Off\-the\-grid](https://open.spotify.com/album/2MYrltn860rph6b6Qx4ypm) | 2:33 | 2022-12-23 |  |
 | [Ojitos Lindos \- Guitar](https://open.spotify.com/track/4s7C3sOQuOmSiDDIuKCPuM) | [FOCUS MODE](https://open.spotify.com/artist/78kusWUesOzmpCfw9l4tMp) | [Me Porto Bonito & Ojitos Lindos \(Guitar\)](https://open.spotify.com/album/3yE21Ydk1bfddhHrevDCaO) | 4:44 | 2022-10-28 |  |

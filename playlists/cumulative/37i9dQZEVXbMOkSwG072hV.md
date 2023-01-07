@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-943 songs - 2 day 0 hr 29 min
+944 songs - 2 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [25 É Natal, 31 É Ano Novo \(feat\. MC GW\)](https://open.spotify.com/track/0qdmtPBXo9maD7z8YYWA1i) | [Barca Na Batida](https://open.spotify.com/artist/1Bg1sE2gUJKKP3m6betC2Z), [Luanzinho do Recife](https://open.spotify.com/artist/16U5nhRND5RH4wYyvhIPBe), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [25 É Natal, 31 É Ano Novo](https://open.spotify.com/album/5wryKJCOHnnnTBSrXG8oIB) | 2:40 | 2022-12-26 | 2023-01-02 |
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-11-06 | 2022-11-11 |
 | [29](https://open.spotify.com/track/0REv856zadB0e8IM1brlwr) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 2:43 | 2022-09-14 | 2022-09-28 |
-| [31.12](https://open.spotify.com/track/5OnLTl50NWpwZbY6OdAw2B) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Os Anjos Cantam](https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt) | 4:23 | 2023-01-04 |  |
+| [31.12](https://open.spotify.com/track/5OnLTl50NWpwZbY6OdAw2B) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Os Anjos Cantam](https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt) | 4:23 | 2023-01-04 | 2023-01-07 |
 | [7 Ligações](https://open.spotify.com/track/5TafECxsAuQHec0pbCetnW) | [vaqueiro desmantelado](https://open.spotify.com/artist/60k7um8B3hK7IID8qIZfQs), [Edu Matuto](https://open.spotify.com/artist/0ETDS7UgEhnskP0MD5i7AL) | [7 Ligações](https://open.spotify.com/album/0evvuV0Q3BZKfLNwxJIRTL) | 2:49 | 2022-12-28 |  |
 | [A Caminho do Bega](https://open.spotify.com/track/1JIKO27MqvSpjrnUCT6fLC) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [MC DOM LP](https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W), [Mc L3](https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna) | [A Caminho do Bega](https://open.spotify.com/album/3MNPKL9eM0VsPsd1oc5FQ2) | 1:59 | 2022-09-16 | 2022-09-18 |
 | [A Coleção](https://open.spotify.com/track/5Ezk6ZDIQ5BguYF8kzZmdi) | [OUHBOY JUA](https://open.spotify.com/artist/7evJI9jaJ082JPpu7arMaZ) | [A Coleção](https://open.spotify.com/album/4jaJYOs7gzbsUoucGZJb0e) | 1:51 | 2022-05-09 | 2023-01-04 |
@@ -85,6 +85,7 @@
 | [AUTOMOTIVO GOSTOSINHO \- PIUI TICTAC X DESCE COM A PERERECA](https://open.spotify.com/track/4BwhGkcKozX7fDokjTsWO1) | [dj fury](https://open.spotify.com/artist/31F57cAEyyEHY2coP5Q6DV), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [AUTOMOTIVO GOSTOSINHO \- PIUI TICTAC X DESCE COM A PERERECA](https://open.spotify.com/album/6dTvhV3deIaVpF8kjEPavw) | 2:43 | 2022-02-26 | 2022-04-06 |
 | [Automotivo Psicodélico](https://open.spotify.com/track/21MpJobn6OAP7pAQUifw9R) | [DJ Phell 011](https://open.spotify.com/artist/5vTDMCWCA8ezL7Im5QUryt) | [Automotivo Psicodélico](https://open.spotify.com/album/57DTtEecsPTaWkwPgHsCXS) | 2:03 | 2022-05-31 | 2022-06-22 |
 | [Automotivo Sai da Caverna Sua Puta](https://open.spotify.com/track/76WTyJ79nzVKp5MV09hdGI) | [Nissan](https://open.spotify.com/artist/275xwlbMrpXaBaMTb03eNe) | [Automotivo Sai da Caverna Sua Puta](https://open.spotify.com/album/3Rdd5AtfUsnYO5TaxWzpay) | 2:39 | 2022-08-16 | 2022-09-06 |
+| [Automotivo Super Mario World 2](https://open.spotify.com/track/6dv8l2ZCxRmKsCArAK0j2R) | [DJ NK3](https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD) | [Automotivo Super Mario World 2](https://open.spotify.com/album/2leq7fs9EsFx7mGGxjgVwf) | 2:18 | 2023-01-06 |  |
 | [Automotivo Toma Sequência De Rock N Roll](https://open.spotify.com/track/0hNUd87zdA3Tv3nA2U7ao1) | [DJ Marcão 019](https://open.spotify.com/artist/6faIprX4PUHAlDbC4SQt8v), [Mc Jl o Unico](https://open.spotify.com/artist/3vLsNyfzPpGWdfWcoKKvDV), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [Automotivo Toma Sequência De Rock N Roll](https://open.spotify.com/album/1mHNOPXrjNLAqqkKE8Drd1) | 3:22 | 2022-01-28 | 2022-03-02 |
 | [Ayrton Senna \- Tema da Vitória](https://open.spotify.com/track/5Y7B3yOdbXxsPr6pIoYH3G) | [Eduardo Souto Neto](https://open.spotify.com/artist/02qiHBtcRQB6vmHzNhqGtS) | [Ayrton Senna \- Tema da Vitória](https://open.spotify.com/album/6nP9epwhXDf3rBkPFB0gg0) | 4:54 | 2022-11-25 | 2022-12-03 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-09-14 | 2022-10-19 |

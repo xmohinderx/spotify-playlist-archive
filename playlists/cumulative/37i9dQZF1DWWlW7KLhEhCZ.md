@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Moreir4, RaplhTHeKiD
 
-470 songs - 21 hr 55 min
+471 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Química](https://open.spotify.com/track/2i6THMdWOd8mqwwqy7zpS8) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND) | [Química](https://open.spotify.com/album/7BWeDHNTI6AQavJ6FcNugj) | 2:29 | 2022-08-12 | 2022-08-27 |
 | [Rei da Putaria](https://open.spotify.com/track/1c5hVcfNxNbIGActcUGGo6) | [Zarashi](https://open.spotify.com/artist/3lCUTSwNW2iz8tFRnKLsYE), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [Rei da Putaria](https://open.spotify.com/album/3ANKb8aMArg4cBBGLzfZ9C) | 2:56 | 2022-04-29 | 2022-05-28 |
 | [Relembrar](https://open.spotify.com/track/5TneCFvf6UpI9izLpvagFi) | [Vitinho Ferrari](https://open.spotify.com/artist/62Hped8KMeSwPABlhpcqst) | [Relembrar](https://open.spotify.com/album/22vfWb2e3Msb5PabcWukn5) | 2:09 | 2022-04-29 | 2022-05-07 |
+| [Renascer](https://open.spotify.com/track/3Gz2djkbK2Jdw4YkYxx6Jm) | [Draco75](https://open.spotify.com/artist/6zJ93Qsu3Lw3poY2BzaWvB) | [Mobile](https://open.spotify.com/album/5kMACxrsVtOv8DEGlQFSE4) | 2:09 | 2023-01-06 |  |
 | [Resignar](https://open.spotify.com/track/0cP0H3mezxubJHdDCUEMX4) | [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Resignar](https://open.spotify.com/album/4KxorWZ9Pe5rxsKtp0yRIe) | 2:48 | 2022-09-02 | 2022-10-08 |
 | [Responsabilidade](https://open.spotify.com/track/6XNIp0e5J4FdPc40PrweX2) | [unk vibes](https://open.spotify.com/artist/3B3ZLe7qjMrnxalhkZ532q), [Saik](https://open.spotify.com/artist/7iuE46CfcOHz9oFxkcy8SH) | [Responsabilidade](https://open.spotify.com/album/6vEnK5zK9JPGS7Qz3aEq3C) | 2:12 | 2022-06-10 | 2022-06-25 |
 | [REVERSE](https://open.spotify.com/track/6EVxMejp12otEEADDqwNbs) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [REVERSE](https://open.spotify.com/album/1YQJnUtRI7utiKvLx8H76m) | 2:56 | 2022-10-21 | 2022-12-17 |

@@ -4,19 +4,23 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 7,747 likes - 10 songs - 34 min 50 sec
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 7,755 likes - 14 songs - 43 min 8 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 |
-| 2 | [Haffmilch Holiday](https://open.spotify.com/track/5OCByq3qCD9NCocgMWMbAe) | [Decisive Pink](https://open.spotify.com/artist/2gimLFOH1mSmd8EAjmyQEC), [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx), [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Haffmilch Holiday](https://open.spotify.com/album/5oTPM0gYh3jwYQswWWdfV1) | 4:15 |
-| 3 | [Silver Spoon](https://open.spotify.com/track/49YklTcgJkK3wjTkNtX2ff) | [Faim](https://open.spotify.com/artist/2SKeAT5LxxwHV11Ekf0ZaF) | [Silver Spoon](https://open.spotify.com/album/2MGHNIebQdEMtVmz8ayF04) | 2:01 |
-| 4 | [FLEEK](https://open.spotify.com/track/2BQMGNScdPTSB7OdZiwE0U) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [FLEEK](https://open.spotify.com/album/4QDkFgUYaGqqB7m079sRuS) | 2:30 |
-| 5 | [Car Keys \(Gregg Turkington Remix\)](https://open.spotify.com/track/2C7Zot6L1px2Fi3SfXtJch) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj), [Gregg Turkington](https://open.spotify.com/artist/3obBKxZTOzPV65MAJfTAgz) | [Car Keys \(Gregg Turkington Remix\)](https://open.spotify.com/album/1Q0SfnJ4uAHsaU0oKOoS12) | 2:45 |
-| 6 | [Amen](https://open.spotify.com/track/3yoN7JjdF5O8APXBrOiMmI) | [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6) | [Amen](https://open.spotify.com/album/3iE0rhLf9H6PHnUbWpDjBA) | 3:20 |
-| 7 | [Def Sup](https://open.spotify.com/track/1DRqf0go0AwVm3PsTiSPQw) | [R\. Ring](https://open.spotify.com/artist/2HQmhfnFYW0UOHOsit8gjL) | [Def Sup](https://open.spotify.com/album/3TPgksyzKzCRUiSqDWOB48) | 3:34 |
-| 8 | [3,2,1 Starve! \(Why Do I Still Look The Same?\)](https://open.spotify.com/track/3vANjwVLItV53VZnJqgFCY) | [Hey, Ily](https://open.spotify.com/artist/73XtH9MpvvvcUxQxYEAX15) | [Friend Group From Hell](https://open.spotify.com/album/5tlX5GtM5L2uq3MZ44r5tI) | 4:04 |
-| 9 | [Baby Steps](https://open.spotify.com/track/6tdaPu8xDrBsQLV1Jfj1cF) | [XL LIFE](https://open.spotify.com/artist/6ql3PKpzPtJITCzZBebyaV), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Baby Steps](https://open.spotify.com/album/3WmyWjZ6EujeH4iaaKcW9G) | 4:22 |
-| 10 | [Plagiarizer](https://open.spotify.com/track/0sZr4ETXXInxKZeNHQdz52) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [You Haven't Missed Much](https://open.spotify.com/album/7MZw0rg127xSEM1CXDkIIh) | 2:03 |
+| 1 | [Jerking Off the Sky](https://open.spotify.com/track/23cIrjvUP0QPSOoHu0exnd) | [Fireworks](https://open.spotify.com/artist/2FcxTTXQKgTdJzTeACMlVU) | [Higher Lonely Power](https://open.spotify.com/album/1U9DSxX8DJFNPQApFYa6ik) | 5:32 |
+| 2 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 |
+| 3 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 |
+| 4 | [Floaters](https://open.spotify.com/track/4APXbljQtrikFNdx1beyiq) | [Jeff Markey](https://open.spotify.com/artist/6fkEKZ4rqPiXr6HTQGa3Df), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Sports & Leisure](https://open.spotify.com/album/5liIEV6VzlwmhUxTAloKwO) | 1:25 |
+| 5 | [Panopticom \- Bright Side Mix](https://open.spotify.com/track/0DpMQVZpl0bsIlFbm5CS7V) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Panopticom \(Bright Side Mix\)](https://open.spotify.com/album/3vMQQGbY67Sj77bD6dT8zt) | 5:13 |
+| 6 | [Principia](https://open.spotify.com/track/0Sx1pEglkDrGs4IEFyA7X5) | [En Attendant Ana](https://open.spotify.com/artist/7mKMQWOBVDivOhswm33WDL) | [Principia](https://open.spotify.com/album/7tJv2mLtR5TkxS4iNWDUmg) | 3:22 |
+| 7 | [Ballerina](https://open.spotify.com/track/7bwDGSNqKrM9nJD52KgTx0) | [MOLLY](https://open.spotify.com/artist/2ueChRFdpz3p8qhU9CJfY6) | [Ballerina](https://open.spotify.com/album/63FvofXcoHVDG43Xcd1W5o) | 4:09 |
+| 8 | [SO HARD TO TELL](https://open.spotify.com/track/6t9Z0pVZOeGnjsp5JDYGQY) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [SO HARD TO TELL](https://open.spotify.com/album/1xXzkgC4BLs5RELfhh0pqC) | 3:05 |
+| 9 | [Familia Finito](https://open.spotify.com/track/6efk4XQySFHObUildXzh6e) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Familia Finito](https://open.spotify.com/album/2NsPZAEAUb7jCoHSuVTA5z) | 1:27 |
+| 10 | [Opus](https://open.spotify.com/track/0LbbB8de2HQZdkJWoRrIAr) | [Faim](https://open.spotify.com/artist/2SKeAT5LxxwHV11Ekf0ZaF) | [Opus](https://open.spotify.com/album/4J1oUMTtUiowv7ovhjLMyt) | 3:07 |
+| 11 | [One at a Time](https://open.spotify.com/track/10M684gmSjBMcHNvG3VvpN) | [Lisel](https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3) | [One at a Time](https://open.spotify.com/album/5r6M5AjhnsRtmbSGbr1pVv) | 3:02 |
+| 12 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 |
+| 13 | [Let's Talk About It](https://open.spotify.com/track/7ndcbnVmqORhDBMA0VPt4W) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Let's Talk About It](https://open.spotify.com/album/0J0aCszy6epzsN60DXaR2k) | 2:44 |
+| 14 | [As 4 Me](https://open.spotify.com/track/23RtJlE0olKSntUnYMiGbg) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Beware of the Monkey](https://open.spotify.com/album/52743dknIjnsCqQrKSIX5r) | 1:43 |
 
-Snapshot ID: `NDkyMCxiMDk3NjlmM2U2MWJhMTBjYmM3NDA2ZDM0OTIzNTBkMGI0MGE1MDBi`
+Snapshot ID: `NDkzNSw5NjQ0NTQxZWUxZDQ1OWY5Y2ZkNzRhMmRkNWZjOWY0ZDQ3MDFjNzkx`

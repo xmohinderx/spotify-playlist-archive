@@ -2,7 +2,7 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça os hits do momento do pop BR! Foto: Giulia Be
+> Ouça os hits do momento do pop BR! Foto: Vivi
 
 159 songs - 7 hr 26 min
 

@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "january",
+        "url": "https://open.spotify.com/album/45CIHuXt5fZk19GQB9Iz8x"
+      },
+      "artists": [
+        {
+          "name": "ILIVEHERE.",
+          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305390,
+      "name": "january",
+      "url": "https://open.spotify.com/track/3gVpzDOglGzYT889bHF4Bs"
+    },
+    {
+      "album": {
         "name": "Great Heights, Great Falls",
         "url": "https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl"
       },

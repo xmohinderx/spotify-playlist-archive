@@ -4,7 +4,7 @@
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-112 songs - 6 hr 42 min
+117 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Rustling with Fabric](https://open.spotify.com/track/5VVoF5oct26FhdrmyDhfB9) | [Chloe C ASMR](https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q) | [A Deep Ear Massage](https://open.spotify.com/album/0VChj0yICJTZk7Fer3bqiv) | 3:33 | 2022-05-13 |  |
 | [Scotch Tape](https://open.spotify.com/track/7agAvFih8WVi3rroAqN8s5) | [Ximena ASMR](https://open.spotify.com/artist/767AHUMRiN6uuhJu9xNw8C) | [ASMR Triggers](https://open.spotify.com/album/5K8Ffdpr6gavOMgcJqBAnt) | 2:44 | 2022-07-14 |  |
 | [Scrapper on a Mic](https://open.spotify.com/track/2pJZwcJO1MPcOrFaUHFlo8) | [My ASMR Room](https://open.spotify.com/artist/74ewzpfsEL70CLM2hU9K4B) | [Yummy ASMR](https://open.spotify.com/album/3PKQMXqfzyjCiLr1HdLKZH) | 4:14 | 2022-11-25 |  |
+| [Scratching a Card](https://open.spotify.com/track/0MgP3681rNbxL7neLDGt2c) | [Davina Rosa ASMR](https://open.spotify.com/artist/6AmNSVceuMYWCT8KWaKJvY) | [ASMR Trigger 3](https://open.spotify.com/album/1i4UcukSMDjYdDkWz0HXL7) | 2:09 | 2023-01-06 |  |
 | [Scratching a Pillow](https://open.spotify.com/track/3JsVbnqmvLOcS2gT9ENlO5) | [Chloe C ASMR](https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q) | [Crinkling ASMR Sounds](https://open.spotify.com/album/7MMGOEd854ZMgXcE8Ze0si) | 4:18 | 2022-10-14 |  |
 | [Scratching a Wicker](https://open.spotify.com/track/2NAFsQWqbRbLk8mgRYCeeF) | [ASMR Billy](https://open.spotify.com/artist/7zThNsQGpD1QW6XvXTlEAC) | [Fuzzy ASMR](https://open.spotify.com/album/7ywRVJCqW8bD2w9tfNJuY8) | 4:33 | 2022-11-25 |  |
 | [Scratching the Microphone](https://open.spotify.com/track/1rHiHWJ5mhs12utUo5GvtS) | [Loopy L ASMR](https://open.spotify.com/artist/17K0bjKxdVQtIpcUCQomq2) | [Yummy Yummy ASMR](https://open.spotify.com/album/7lyq6PBepna9gTxmKhRcZV) | 4:31 | 2021-11-12 |  |
@@ -105,9 +106,13 @@
 | [Sorting Post\-It Notes](https://open.spotify.com/track/2ISApjFJwLFclJhzF4HpPq) | [ASMR Annie](https://open.spotify.com/artist/1ZedNTpPsouWPQyV2JtlPp) | [ASMR Office](https://open.spotify.com/album/2ohEemVvo6bmu8mnRPuKYf) | 4:03 | 2021-11-12 |  |
 | [Submerged](https://open.spotify.com/track/4YfiDiFR8Rcqp2u0YvArgI) | [ASMR Maryjleeee](https://open.spotify.com/artist/77I1f0nKgi3EnrypDsGupj) | [Sleep Triggers, Vol\. I](https://open.spotify.com/album/5sP0NOaCWlbfAzy6uIRFI5) | 5:32 | 2021-11-12 |  |
 | [Tape Sounds ASMR](https://open.spotify.com/track/7kEo5KbhWZC36IryCBSpNu) | [Oxford Deluxe ASMR](https://open.spotify.com/artist/3tQuxvtO69sbAZgkbrWMmv) | [Soothing ASMR Triggers](https://open.spotify.com/album/4Jyv1kYzSiyUk1IozTT1Zj) | 3:11 | 2022-07-14 |  |
+| [Tapping an Acoustic Guitar](https://open.spotify.com/track/0nqRwBvpjltWFYMtoks4Z8) | [Ximena ASMR](https://open.spotify.com/artist/767AHUMRiN6uuhJu9xNw8C) | [Tapping Triggers](https://open.spotify.com/album/79CPjwbFCfa1KeZPce4Pu1) | 2:03 | 2023-01-06 |  |
 | [Tapping ASMR aerosol](https://open.spotify.com/track/0ybRKHesiU6m6Ut5cBowrC) | [Ezequiel Calvo](https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K) | [Tapping ASMR](https://open.spotify.com/album/6NFYxi0HDPL3PmdkZ5cEFm) | 2:24 | 2021-11-12 |  |
 | [Tapping Bamboo](https://open.spotify.com/track/3FO0f0CFFbiMwo9SByoWx6) | [Soothing ASMR](https://open.spotify.com/artist/2oPDJNuOJSvgNOYZmD0C4D) | [Gentle Triggers 2](https://open.spotify.com/album/5F1SdOGfkjDGjvhMCDwQ8i) | 4:22 | 2022-07-14 |  |
+| [Tapping Cardboard](https://open.spotify.com/track/77qUz5rMqvGpou3SMSMl92) | [ASMR Gemma](https://open.spotify.com/artist/6w9qZHndDCsJ8ctlPAVinf) | [Slime and Shake Triggers](https://open.spotify.com/album/4PK3YilJl5yGEgtDraRoqj) | 2:04 | 2023-01-06 |  |
+| [Tapping Hard Foam Fast](https://open.spotify.com/track/05NU7RkOVJV72mBj22rHQV) | [Ximena ASMR](https://open.spotify.com/artist/767AHUMRiN6uuhJu9xNw8C) | [Tapping Triggers](https://open.spotify.com/album/79CPjwbFCfa1KeZPce4Pu1) | 2:05 | 2023-01-06 |  |
 | [Tapping Metal](https://open.spotify.com/track/2qhjNstlY6in76yV7rBhpJ) | [Olivia Summers ASMR](https://open.spotify.com/artist/6hZW1BKAuxGzz5oH33VlM8) | [Tapping ASMR](https://open.spotify.com/album/0E4C9wG3763Immr0CBTuz0) | 3:25 | 2022-07-14 |  |
+| [Tearing Paper](https://open.spotify.com/track/12Xux8G6bXk2CyQX8lXeqT) | [Arnie Svensson](https://open.spotify.com/artist/2c4t7MVOhTKEfz9tqIOrQa) | [Crease It](https://open.spotify.com/album/0c5feArn8yG3Q729h0hLY7) | 3:20 | 2023-01-06 |  |
 | [Tingly Brain Massage Mic Scratching To Make You Sleep Pt.1](https://open.spotify.com/track/0ZNXC3AVaLkvwZqnmFKKvP) | [LottieLoves ASMR](https://open.spotify.com/artist/0sk7f25GprxAl1ioXQ71tf) | [Tingly Brain Massage Mic Scratching To Make You Sleep](https://open.spotify.com/album/501J1YJHJvjKRqs47VvFqo) | 4:27 | 2021-11-12 |  |
 | [Tingly Glove and Lotion Sounds, Pt\. 2](https://open.spotify.com/track/7wWroPtmrMy3ccDU3GoyNd) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Tingly Glove and Lotion Sounds for Sleep](https://open.spotify.com/album/0QCmcnG0xQTGdL2UVvirqO) | 4:39 | 2021-11-12 |  |
 | [Tiny Box Of Matches ASMR](https://open.spotify.com/track/1GLZwKLcdX45FRKRgv042x) | [Oxford Deluxe ASMR](https://open.spotify.com/artist/3tQuxvtO69sbAZgkbrWMmv) | [Soothing ASMR Triggers](https://open.spotify.com/album/4Jyv1kYzSiyUk1IozTT1Zj) | 2:31 | 2021-11-12 |  |

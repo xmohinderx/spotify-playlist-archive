@@ -4,37 +4,21 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,083 likes - 28 songs - 1 hr 36 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,082 likes - 12 songs - 51 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [That's What I Do](https://open.spotify.com/track/7siekpIcog3iz3etiVCz0I) | [Kelsey Coockson](https://open.spotify.com/artist/4QxfuL0xABUsbLfiRuIRAO) | [The Me You Knew](https://open.spotify.com/album/2fzYnI4xfHGOiyNQtcwb9e) | 2:26 |
-| 2 | [Hadley's Hope](https://open.spotify.com/track/06VhlPlfmvRRwFkjxbpTiu) | [The Secret Chord](https://open.spotify.com/artist/7IwPA900fE1BCS9LaI8Wq1) | [Hadley's Hope](https://open.spotify.com/album/5BnxMKYOYHcwY8h8qeUsvm) | 3:23 |
-| 3 | [Mil Horas](https://open.spotify.com/track/6EyXPqvVbPs3rpJjBllazU) | [Bruno Borlone](https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo) | [Mil Horas](https://open.spotify.com/album/28kNsqBFoIItYeoxifHhtt) | 2:06 |
-| 4 | [Kill My Mood](https://open.spotify.com/track/2PXzrUBcCqrfMpuP1HRuoP) | [Tanaka](https://open.spotify.com/artist/2jKPaC2ezYgEFsMBScc1mH) | [Kill My Mood](https://open.spotify.com/album/2V5O5aEXOvEMr4ib0jahOI) | 3:42 |
-| 5 | [Desire Path](https://open.spotify.com/track/0cDLx3oruW9yyVVHub4LW5) | [mallow](https://open.spotify.com/artist/6EFxtGf2IVFbgb8x8MBEwD) | [Desire Path](https://open.spotify.com/album/6q4t6NNkKYwNMWqYnIshmc) | 2:35 |
-| 6 | [Graveyard](https://open.spotify.com/track/5cUByDHZUZm7HyeJ1ALkVM) | [SUNDOWN](https://open.spotify.com/artist/2IbqCQzZK61hhDGusimGum) | [Graveyard](https://open.spotify.com/album/2Deof4a2wIdGVG0DWAMezC) | 2:15 |
-| 7 | [Ik zou iets willen zeggen](https://open.spotify.com/track/5xnKi7AA2XY0oj1t6aXljJ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Ik zou iets willen zeggen](https://open.spotify.com/album/5QpPrVWPuqnY7EnIboBkQI) | 3:48 |
-| 8 | [Frid På Jorden](https://open.spotify.com/track/5nc9GHk7IEscLiqp8BSX59) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3) | [Frid På Jorden](https://open.spotify.com/album/4hQRMyGjgTMHAfJbaVV8oj) | 3:48 |
-| 9 | [O2H](https://open.spotify.com/track/6qefvXMLCtQZb3yDjY0vgq) | [Dano Heriban](https://open.spotify.com/artist/6qZYWZp8N68KGaTTTV8IKu), [Kamila Heribanová](https://open.spotify.com/artist/00ldKRJapTLv2W3vySjqpy) | [O2H](https://open.spotify.com/album/2kfbPWfCU1pcyVJBL3SIg2) | 3:28 |
-| 10 | [Nocturno](https://open.spotify.com/track/29a8aJtmrpGWN3bg9yU3Gf) | [Tony de María](https://open.spotify.com/artist/7psy0gN2JqC3OooGgXyuj6) | [Nocturno](https://open.spotify.com/album/7zHvvEFdA3cP6qJkvVL0cS) | 2:31 |
-| 11 | [Gitana](https://open.spotify.com/track/64z63Fh8Uv6ofeUzZFTuqW) | [Washi](https://open.spotify.com/artist/30wVewgKVVJax51E71I0Mc), [Fonnky](https://open.spotify.com/artist/2DLbsK4zNGRn8FzZ4EsPop) | [Gitana](https://open.spotify.com/album/0qCeOBlalOlSbZ06h6SDrg) | 2:54 |
-| 12 | [pow!](https://open.spotify.com/track/3Ve8Ao9S1KI0w7x4mQxReF) | [good boys](https://open.spotify.com/artist/79hIs89TAEz3EhIuYAJ4bU) | [pow!](https://open.spotify.com/album/5837vBc6WlVER5lA4Hp3tx) | 3:44 |
-| 13 | [Dynamite](https://open.spotify.com/track/6fagNopUpvGJNhpib0WjPa) | [Dada Dada DJ](https://open.spotify.com/artist/0L2GPkparCAwimQVJd6uOo) | [Dynamite](https://open.spotify.com/album/6NQRzAlf0ApzOyLQVYCUUs) | 2:47 |
-| 14 | [Don't Need Your Love](https://open.spotify.com/track/76U5p6vKgSQS5wqndXYQL9) | [Oaxy](https://open.spotify.com/artist/0LPdM6NBXK5eI9udxnzgLD) | [Don't Need Your Love](https://open.spotify.com/album/2YetaaJmkYwFhzFG8A6imD) | 4:37 |
-| 15 | [Follow your path](https://open.spotify.com/track/0iN9GcKA6zcROM0rZoSk1U) | [Legends of Andalor](https://open.spotify.com/artist/17UJf1rkJHEmkMGyJ3RxQO) | [Follow your path](https://open.spotify.com/album/1FPsHpSzcYuBQydcIx8qxp) | 5:20 |
-| 16 | [Filth](https://open.spotify.com/track/6gmX2mMWjGti45ckWvK0v1) | [The Nuts](https://open.spotify.com/artist/3nxD29FqllUKVvd2e2kmhj) | [Filth](https://open.spotify.com/album/4xIQDwkvJQ9hswGgtVLzth) | 2:37 |
-| 17 | [Hey Girl](https://open.spotify.com/track/1x6xTe6450qHVdvQoELm7d) | [Tuesday Wife](https://open.spotify.com/artist/1amlgDUUlPvVxbT2rdHf2q) | [Potential Disappointment](https://open.spotify.com/album/29TYDqRCWcu5qeeSRwSqvY) | 2:25 |
-| 18 | [Lucky Charm](https://open.spotify.com/track/1rG38M9fdwKt2iPUQiSyAG) | [Chris Forrest & The Big Mercy](https://open.spotify.com/artist/0z8JNAFneDEX0wWuXQSwS3) | [Lucky Charm](https://open.spotify.com/album/2dm4LTUhnbAtnhhWIkmzy4) | 4:14 |
-| 19 | [Burn](https://open.spotify.com/track/1Hd1ClDD3oVxiVuIaQseXA) | [Vender](https://open.spotify.com/artist/03pLqKTSojkZZHpVGXOlxH) | [Burn](https://open.spotify.com/album/0racgjccT1pWN5ytDLq1f8) | 3:38 |
-| 20 | [Blue eyes](https://open.spotify.com/track/629fzR3slCVVXywNlQeodq) | [Luka Radikovic](https://open.spotify.com/artist/6c5if53z6z9TKgjnof0OmI) | [Blue eyes](https://open.spotify.com/album/6QQbCwwq7Trtj1OJxHRH3T) | 2:02 |
-| 21 | [Alla faller vi dit någon gång](https://open.spotify.com/track/1N3hhlzLDvVosIdMRlC6GI) | [Simon Martinz](https://open.spotify.com/artist/6X7cZFVqRz59AHoX5FfxbE) | [Alla faller vi dit någon gång](https://open.spotify.com/album/4fyPKFEfH5Ke9fgJSSGjmn) | 5:26 |
-| 22 | [I mitt blod](https://open.spotify.com/track/7sDXViyBfOoQlLmclJomtp) | [Azca](https://open.spotify.com/artist/10LMwkxzagpzGajKL7vTcr) | [I mitt blod](https://open.spotify.com/album/3UwkvGCvLRtpZuhu3ZjdU2) | 3:26 |
-| 23 | [Lonely Hearts Keep Running](https://open.spotify.com/track/1FrYytDwc7Kl0imnCHGczo) | [Nick Saxton](https://open.spotify.com/artist/1IQFRknkqARckUe3I3wC03) | [Lonely Hearts Keep Running](https://open.spotify.com/album/5rf5nfVZ41TzgkUxfg4ZNq) | 3:49 |
-| 24 | [Liian hauras](https://open.spotify.com/track/5YikiOGlbOWeM8oSVyQIW6) | [Tams](https://open.spotify.com/artist/4dViQ7ArMCqM7xZx9TddSs) | [Liian hauras](https://open.spotify.com/album/6qAHhk1DJN7rb6LLzhvmY7) | 4:15 |
-| 25 | [Na Presença do Rei](https://open.spotify.com/track/15ivGAozsuqviPEvRD5QAM) | [Wagner Freire](https://open.spotify.com/artist/3WAPhtJI1g67gAFmsep3r3) | [Na Presença do Rei](https://open.spotify.com/album/7kfbcEucQVGQxhSi4Dyyak) | 5:18 |
-| 26 | [One Star](https://open.spotify.com/track/5VWqxo9Qm50oWVsp7aIXcD) | [Stefan Nordlander](https://open.spotify.com/artist/4IMMPpHjlP3lvby54wNZ6d) | [One Star](https://open.spotify.com/album/1bLXyRXk6rMEjnzGAwlBHU) | 3:17 |
-| 27 | [Recuerdame](https://open.spotify.com/track/0rfTt7xsHkPVkNJXwvSZMT) | [Sam Castillo](https://open.spotify.com/artist/3MneKrQJqRUYKFNpyN2WbM) | [Recuerdame](https://open.spotify.com/album/0YZNBnkeRXMk4buFbgsrHa) | 3:11 |
-| 28 | [Party Down the Chimney](https://open.spotify.com/track/0iMFxDt5YuKel6An1RHrHQ) | [Hiphopmcdougal](https://open.spotify.com/artist/6vYPkZ6YPXqWPB8RH7Iws7) | [Party Down the Chimney](https://open.spotify.com/album/2c7jTQ2nGIxSiiVCMiSylB) | 2:58 |
+| 1 | [Lära mig](https://open.spotify.com/track/5v6xS4pj397S4Bk7mDNIXU) | [Eric Gadd](https://open.spotify.com/artist/0NANKIINMQ9u4DYD5YqM0L) | [Vykort från 2000\-talet](https://open.spotify.com/album/1BcV94MZWT4h5EhZDkTfq0) | 3:12 |
+| 2 | [Lyckan Lyser \(I krigarsjäl\)](https://open.spotify.com/track/6oiRmAhIKIhvy2Rk5uqYFO) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3) | [Lyckan Lyser \(I krigarsjäl\)](https://open.spotify.com/album/3u1phPAh2MMgveDYqWOgPl) | 3:04 |
+| 3 | [Kvinna Från Tellus](https://open.spotify.com/track/60ZIWtasRpjReg3Hsn7QPv) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3) | [Kvinna Från Tellus](https://open.spotify.com/album/2QXY6MpCoMT0JUvLOOPoK9) | 3:36 |
+| 4 | [Quoi qu'il arrive](https://open.spotify.com/track/1Kd4cDoRqYWRt0GfD8Mwd3) | [Sami Aziz](https://open.spotify.com/artist/2YhcZjVKCx5xkHhvA5FPZ5) | [Quoi qu'il arrive](https://open.spotify.com/album/7meS5o5KkIUoD9Vc7z4le1) | 2:50 |
+| 5 | [Whisper Louder](https://open.spotify.com/track/7bVl7fben5lFm95BtD4q9w) | [Pickup & Run](https://open.spotify.com/artist/320RO2RScfsapPorRQUrCa) | [Struck](https://open.spotify.com/album/7H9CulJCX5FVDtcviuTf8F) | 3:18 |
+| 6 | [Apple of my eye](https://open.spotify.com/track/1KclXSli238yyewXagRAUg) | [Diipak](https://open.spotify.com/artist/69HVuXkzYoSd53hLgc1rn0) | [Apple of my eye](https://open.spotify.com/album/6DTseB3yAYecXTa961SkeM) | 2:05 |
+| 7 | [My My](https://open.spotify.com/track/34kUinENu5KfXw5hGjr2qL) | [Pickup & Run](https://open.spotify.com/artist/320RO2RScfsapPorRQUrCa) | [My My](https://open.spotify.com/album/6rz6VILmdB23mOEDgCAvDK) | 2:34 |
+| 8 | [Estaciones Portenas: III\. Otono Porteno](https://open.spotify.com/track/00Qg9TB4o9MOHAhdcx3MI6) | [Markus Yiangou](https://open.spotify.com/artist/6tvTTpraljNDMkGwl4wPa3) | [Estaciones Portenas: III\. Otono Porteno](https://open.spotify.com/album/57MDuPRVYLZRE3spWooMGG) | 5:49 |
+| 9 | [Almost Infamous](https://open.spotify.com/track/39rB3HH5phZnXlzHCP1423) | [A Handful of Samie](https://open.spotify.com/artist/4YYJcKeMhC1IiQSGV1UFaG) | [Sidelined](https://open.spotify.com/album/2ejEJI341ivRziYG5DYqoY) | 4:01 |
+| 10 | [GIVE IT](https://open.spotify.com/track/5SoMVVjm4KGheDQxytIfj9) | [ALPHADOGG](https://open.spotify.com/artist/2jz0WVAN1oWOAqiZ5NDvGH) | [GIVE IT](https://open.spotify.com/album/5V1R6cp7Lz0xUuPRtWoxv5) | 5:22 |
+| 11 | [Enea's Song](https://open.spotify.com/track/7CUoUsFb2Z1tyIBL1WDddE) | [Joe Murphy](https://open.spotify.com/artist/1ef3Hci2lLaPRMUpIoDbfh) | [Enea's Song](https://open.spotify.com/album/4YtyZ4FBCOTjZu1bgyoktM) | 5:29 |
+| 12 | [Another Simple Piece](https://open.spotify.com/track/4O7hpxDa2GM3NGd3MAx7uD) | [Philip Teale](https://open.spotify.com/artist/2LOJCmTE451qciJEBjGqqi) | [Another Simple Piece](https://open.spotify.com/album/0SEbGLy9orItBwf8Gr0hWI) | 9:42 |
 
-Snapshot ID: `NzA1LDk4MTY1ODk3NDcxMWFhZmRjMjJiOGUwZGE0YjRmODExZTBkNTdjOTU=`
+Snapshot ID: `NzA3LDgzNTNiMzEyY2I5ODViYWFkMjEwYTM2OTMzNjYzOTRlZjRiODgxNTY=`

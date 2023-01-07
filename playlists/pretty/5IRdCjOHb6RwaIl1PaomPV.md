@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Eartheater Trinity \(Deluxe\), plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,460 likes - 62 songs - 3 hr 32 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,457 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 14 | [All Night \(Garage Version\)](https://open.spotify.com/track/0pp5J5USoRAqy8gpkLQjPB) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [All Night](https://open.spotify.com/album/3NxVZjPxy8UgDGC3DT541A) | 6:16 |
 | 15 | [沒關係 it’s okay!!](https://open.spotify.com/track/122EWWcqtd2vN1iiT560bO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [沒關係 it’s okay!!](https://open.spotify.com/album/5w3yXSuQASET0SIpfmH43X) | 3:11 |
 | 16 | [Nieve \- Nick León Remix](https://open.spotify.com/track/6mOQBI05n2UgeFgmW8Jcdb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Nieve \(Remixes\)](https://open.spotify.com/album/4smxiuT4f7lMI4j2TDmhzr) | 3:30 |
-| 17 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
+| 17 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/6lx1oSxA9vR67eRlAOIxFT) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
 | 18 | [Look \- All Night Mix](https://open.spotify.com/track/21968f5xcqq01zWyipJ2FV) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Look \(All Night Mix\)](https://open.spotify.com/album/0X7UabUgIpoV9CfQwkCn7o) | 2:42 |
 | 19 | [STITCH + LILO](https://open.spotify.com/track/67tt80M2gQ6NgouaZXLKId) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [FAST TRAX 3](https://open.spotify.com/album/4Wu3A2zAzOPrws6F9QLxqq) | 1:42 |
 | 20 | [LA LANCHA](https://open.spotify.com/track/2lgqoVwr6NU9UKMXu1C1Mg) | [INVT](https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D) | [MÁXIMA VELOCIDAD](https://open.spotify.com/album/1579nMoiD6fjVA4QdkMwOt) | 4:45 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 61 | [Abril Lluvias Mil](https://open.spotify.com/track/78hDkXsJQWstlrlzPlMBA5) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [♡](https://open.spotify.com/album/2VyYH4z9IR5IBSc3To5cQ0) | 5:01 |
 | 62 | [Wanna Play House? \- Dub Version](https://open.spotify.com/track/48bEUZhhmxzXOGeuccfGc9) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Wanna Play House?](https://open.spotify.com/album/3prtz2DOF45x0INlLIHx1d) | 5:51 |
 
-Snapshot ID: `NjIzNyxhZTFiYjM2ZTQyNmFjNDZkNjE1NGNmNTJiZDAxZGM3NWRkMTRlZjMz`
+Snapshot ID: `NjIzOSxjMTE0MGJkNzdiYzI3YjdjNGNiODcxMGI1MWRiYmJjY2NjMzI5MDQ1`

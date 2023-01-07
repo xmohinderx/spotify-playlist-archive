@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "Chitaki",
+        "url": "https://open.spotify.com/album/1pTjbJK5jXQ458VW7GAqFs"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195127,
+      "name": "Chitaki",
+      "url": "https://open.spotify.com/track/5jCOopYA0S9mw18va3dRgU"
+    },
+    {
+      "album": {
         "name": "Chochea",
         "url": "https://open.spotify.com/album/0x5yL8jchQm4ijPnkia1ih"
       },
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 223373,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/4GIfPrNdScX8VS7uL931G4"
@@ -1537,6 +1555,28 @@
     },
     {
       "album": {
+        "name": "The Kid You Know",
+        "url": "https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Abbah",
+          "url": "https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252857,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5POWdKYIuBfd2KvSPUtwIK"
+    },
+    {
+      "album": {
         "name": "Love (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw"
       },
@@ -2074,7 +2114,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 190967,
       "name": "My Life",
       "url": "https://open.spotify.com/track/4iww8XAglV8mbENbyBvrpb"

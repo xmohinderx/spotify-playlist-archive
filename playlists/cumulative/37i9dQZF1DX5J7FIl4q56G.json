@@ -17369,6 +17369,28 @@
     },
     {
       "album": {
+        "name": "Grave of the Fireflies",
+        "url": "https://open.spotify.com/album/105WE9fhnByBKZe0E4wyqG"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia",
+          "url": "https://open.spotify.com/artist/63MmxZVbkrXRTyOZm3BCZe"
+        },
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295013,
+      "name": "Grave of the Fireflies",
+      "url": "https://open.spotify.com/track/4HMj40gmhWLGqHk0YNzu0M"
+    },
+    {
+      "album": {
         "name": "Grave Troopers",
         "url": "https://open.spotify.com/album/1Fpr8iZrUd9dfouGZRp0s7"
       },

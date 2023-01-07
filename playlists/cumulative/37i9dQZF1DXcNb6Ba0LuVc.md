@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-398 songs - 15 hr 28 min
+400 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Jazzy Conscience](https://open.spotify.com/track/1fwiNplwwbDWodDUHiUHdU) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:25 | 2021-11-11 | 2022-06-03 |
 | [jazzy gyal](https://open.spotify.com/track/0uban5XYHLYwQQIOPLpwEZ) | [beosound](https://open.spotify.com/artist/5PxwgwToqzdaFKSQhYVDre) | [straight no chaser](https://open.spotify.com/album/56xRWuR1WApF2n8IItVVQX) | 1:33 | 2021-11-11 | 2022-05-20 |
 | [Jellyfish Chute](https://open.spotify.com/track/75JhYhGyekZtPgDyLbyRqS) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Flakes](https://open.spotify.com/album/45WTdqbH4bvvR8yZm5ykWL) | 2:41 | 2021-11-11 | 2022-10-29 |
+| [journey](https://open.spotify.com/track/6DSf9cKxl9MS4hz4WjdBeq) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [journey](https://open.spotify.com/album/6NLbTUBuC5hrvX9qnT1k4P) | 2:20 | 2023-01-06 |  |
 | [JoyFi](https://open.spotify.com/track/0AP7eRpjD4RjFreT8Uoa9C) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [JoyFi](https://open.spotify.com/album/3d92BCcJGSmWNAxSgWVSLt) | 2:32 | 2022-05-20 | 2022-09-03 |
 | [Jukebox Dim](https://open.spotify.com/track/7CzwNHiknbQ5p7IinDOYwU) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Jukebox Dim](https://open.spotify.com/album/4Gva1pmVpFx1clyfOUw5Oz) | 2:18 | 2021-11-11 |  |
 | [Just Chillin](https://open.spotify.com/track/6T1zioLOmigDyfB3wyX2x6) | [Johnny Everly](https://open.spotify.com/artist/7oln2CG62XuWwTnfd8FzH9) | [Just Chillin](https://open.spotify.com/album/5v9OaK3DHoTq4CgWBIGJkL) | 2:12 | 2022-07-01 |  |
@@ -393,6 +394,7 @@
 | [Warmer Nights](https://open.spotify.com/track/0nGWIqSxMU7jlkDTZoHDlE) | [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V), [Merlin Szy](https://open.spotify.com/artist/57hLwzyiBKkX3LVNrmpiON) | [Synergy](https://open.spotify.com/album/7ovvwcyMA3s7550V3kUAIb) | 2:31 | 2022-04-15 |  |
 | [Wasser Light](https://open.spotify.com/track/0UOf1ZcsrHG2GHpCuOaWwh) | [Wyl](https://open.spotify.com/artist/0WfdC8rfPxrkSrNSCaC4xU), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Lukas Wilmsmeyer](https://open.spotify.com/artist/3LYMmlImII8FtmGZvZxdvv) | [Wasser Light & Oceania](https://open.spotify.com/album/2cELdSNVgZS5OygdU1xjUx) | 3:09 | 2021-11-11 | 2022-04-08 |
 | [Watching you](https://open.spotify.com/track/1ymq7zaXe9cnJCLgOsFMtC) | [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Watching you](https://open.spotify.com/album/0rb3PGeI8IU4mv1rl1ScPA) | 2:24 | 2022-10-28 |  |
+| [We're Good](https://open.spotify.com/track/5GoZxgzRXD0avZgrsxRLK0) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF), [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [We're Good](https://open.spotify.com/album/6PNCW6KH4htmb6SwHODEsg) | 2:47 | 2023-01-06 |  |
 | [Wednesday](https://open.spotify.com/track/5HuWX6GZ5s9cOYVSv3Pi0j) | [Mike Angello](https://open.spotify.com/artist/7hwyKGEnB8408LB3SwfMM8) | [Hysteria](https://open.spotify.com/album/576XK15YhFQ8aTccc3pEom) | 1:16 | 2021-11-11 | 2022-06-10 |
 | [Wee Hours](https://open.spotify.com/track/1AmusTPVvkxMo7pTKrGWoE) | [Sobremesa](https://open.spotify.com/artist/7DiPStuVRz0u4HiOj3A5NQ), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Wee Hours](https://open.spotify.com/album/4TEuU29433mJOyxdLjclhv) | 2:32 | 2021-11-11 | 2022-05-27 |
 | [Weekend Slide](https://open.spotify.com/track/7ugkcHNMy9tjov6VMmLoKg) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Weekend Slide](https://open.spotify.com/album/2T8PKVKz0yyfqVG2PZZY74) | 2:28 | 2022-03-21 |  |

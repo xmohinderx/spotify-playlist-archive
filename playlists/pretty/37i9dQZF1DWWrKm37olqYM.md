@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Don3ydon
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,466 likes - 68 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,487 likes - 68 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Microdosing \- Mixed](https://open.spotify.com/track/2uXHNaXg2U6Xxj4TSvMTtb) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing \(Mixed\)](https://open.spotify.com/album/3v8HcN24urZPBDqLrCkPMg) | 2:38 |
-| 2 | [Ah Bah, Pt\. 2](https://open.spotify.com/track/3ucRUYoKZe1KuObvcE9RwF) | [Donn3ydon](https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv), [D STURDY](https://open.spotify.com/artist/4ca91BWVgdWAOiATQiMoxl) | [Ah Bah, Pt\. 2](https://open.spotify.com/album/2hY16oXVooiBh1D646rlao) | 1:39 |
+| 2 | [Ah Bah, Pt\. 2](https://open.spotify.com/track/3ucRUYoKZe1KuObvcE9RwF) | [Donn3ydon](https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv), [D STURDY](https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr) | [Ah Bah, Pt\. 2](https://open.spotify.com/album/2hY16oXVooiBh1D646rlao) | 1:39 |
 | 3 | [GO AWFF](https://open.spotify.com/track/4mavsLIM2B5ZOrR5ob2xhZ) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Ernest Third](https://open.spotify.com/artist/1hISYBYZizLjUwbo3i2cK1) | [GO AWFF](https://open.spotify.com/album/69qJrlH9dK4UC1rATaULAW) | 2:51 |
 | 4 | [For The Night \[Baltimore Club Mix\]](https://open.spotify.com/track/7JKxy5aQ7Qi2YpmQbM6Nqe) | [Bandingo YGNE](https://open.spotify.com/artist/4WChwgMrLJSFKqAbfYA4Es) | [For The Night \[Baltimore Club Mix\]](https://open.spotify.com/album/7xzo3XciHyJa9EPgIrSPMw) | 2:04 |
 | 5 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 |

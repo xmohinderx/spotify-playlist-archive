@@ -1,6 +1,6 @@
 {
   "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Kamau",
-  "num_followers": 36847,
+  "num_followers": 36880,
   "original_name": "Boom Rap",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "MTY3Mjk3NDA2MCwwMDAwMDAwMDIxOWZlMDdiOGQzMmExNThmN2IyNWM2OGMxNDhkYmRh",
   "tracks": [
+    {
+      "added_at": "2023-01-06 03:01:00",
+      "album": {
+        "name": "DoisTr\u00eas",
+        "url": "https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4"
+      },
+      "artists": [
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        }
+      ],
+      "duration_ms": 75453,
+      "name": "DoisTr\u00eas",
+      "url": "https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l"
+    },
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {

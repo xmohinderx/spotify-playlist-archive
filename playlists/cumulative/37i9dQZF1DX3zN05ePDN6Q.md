@@ -4,7 +4,7 @@
 
 > Tem rap nacional tem boom bap na área\. Foto: Kamau
 
-239 songs - 13 hr 28 min
+240 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Desavento](https://open.spotify.com/track/2S44kcVUvjd8xy2ndatosj) | [Ingles](https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI), [Valada](https://open.spotify.com/artist/54pqoIRMifMNNc69yNzToB) | [Desavento](https://open.spotify.com/album/56ZIX9QNRoqVY1Nb02yDXY) | 3:13 | 2022-07-01 |  |
 | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/track/7mAo5yR1WdnLwBMxJ8pBGC) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/album/6fFZz6sTLJe51S3w7IPxpg) | 2:54 | 2022-03-25 |  |
 | [Dizzabafo](https://open.spotify.com/track/792Kwq7leRnzTZ2ZhG6xw6) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizzabafo](https://open.spotify.com/album/5WaspzNsol7Zq7j1lUluH3) | 3:42 | 2022-09-30 |  |
+| [DoisTrês](https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [DoisTrês](https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4) | 1:15 | 2023-01-06 |  |
 | [Dono do Lugar](https://open.spotify.com/track/2KKdaKLGxj24vEYnaQudPD) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Bandido Fi Di Crente](https://open.spotify.com/album/1Y7CKJAjoXkIdbiXeCwFt1) | 2:35 | 2022-03-18 | 2022-04-02 |
 | [DUJEITO Q DA](https://open.spotify.com/track/4OW2bMqaWGqH83ojBaHeYt) | [Pete Mcee](https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB), [Noshugah](https://open.spotify.com/artist/39y7fxAAQUe9SJotuSRsCs) | [DUJEITO Q DA](https://open.spotify.com/album/2geHCPma65x6DlqQnYir1V) | 1:53 | 2022-05-27 | 2022-06-11 |
 | [Dá um Tempo](https://open.spotify.com/track/3djugyrrA5PzsLBlwWJ7ro) | [PrimeiraMente](https://open.spotify.com/artist/3ljiSwQJmAVQVOXirjA2RT), [Lucas Gali](https://open.spotify.com/artist/3K0d3wFUuuzWb3o6tEqRlm) | [Dá um Tempo](https://open.spotify.com/album/1mpJQs5lSy9pHOVi3ZkwmX) | 3:43 | 2022-05-27 | 2022-07-09 |

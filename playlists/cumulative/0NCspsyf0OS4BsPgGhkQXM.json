@@ -11073,6 +11073,32 @@
     },
     {
       "album": {
+        "name": "Stride",
+        "url": "https://open.spotify.com/album/75yDcpgSrrT93p81MsIZNK"
+      },
+      "artists": [
+        {
+          "name": "Lenny",
+          "url": "https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU"
+        },
+        {
+          "name": "Dabow",
+          "url": "https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X"
+        },
+        {
+          "name": "SL!DE",
+          "url": "https://open.spotify.com/artist/1lKzr6x82kX0Rb7t3Slskc"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Stride",
+      "url": "https://open.spotify.com/track/3B0iuYopEr5FxexDivlAUt"
+    },
+    {
+      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/4x9hFPLf32q0J3kMHpOFLy"
       },

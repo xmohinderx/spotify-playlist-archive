@@ -4,11 +4,11 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-330 songs - 15 hr 47 min
+331 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Different Ways](https://open.spotify.com/track/0qQYLDf5A6ezcYaYYAnhDI) | [Soleia](https://open.spotify.com/artist/5hD3baa7qYspuXyB859Eml) | [Ups and Downs](https://open.spotify.com/album/2Qgmkjkmj2ojKATQ8hSDvc) | 2:32 | 2020-10-20\* |  |
+| [100 Different Ways](https://open.spotify.com/track/0qQYLDf5A6ezcYaYYAnhDI) | [Soleia](https://open.spotify.com/artist/5hD3baa7qYspuXyB859Eml) | [Ups and Downs](https://open.spotify.com/album/2Qgmkjkmj2ojKATQ8hSDvc) | 2:32 | 2020-10-20\* | 2023-01-07 |
 | [A new day](https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [A new day](https://open.spotify.com/album/6PaweQ9HpdnCbZyYDMAwrc) | 2:40 | 2020-10-20\* |  |
 | [A Presence Felt](https://open.spotify.com/track/1Uli6hijxurqXnmkNCZuyK) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [The Crossing](https://open.spotify.com/album/5o7ZYBKSmXLLm9mIHIqJUc) | 3:04 | 2022-07-22 |  |
 | [A Presence Felt](https://open.spotify.com/track/1nhuTS6xotWZima4bQJUvX) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [The Crossing](https://open.spotify.com/album/5PdN1hbgdNfgEKFG5nsq24) | 3:04 | 2020-10-20\* | 2022-07-29 |
@@ -57,7 +57,7 @@
 | [Centered](https://open.spotify.com/track/2tSUPdYj7CcdiQHrHgqmjZ) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Centered](https://open.spotify.com/album/6EUZkB98CMFqyKQ1KsdJ8s) | 3:03 | 2020-10-20\* |  |
 | [Circles](https://open.spotify.com/track/7g1G4ZwhXwaet50TftCAd9) | [Hannah Ziem](https://open.spotify.com/artist/1bdRW1L4YCIpq5BHPuIN6o) | [Circles](https://open.spotify.com/album/52SA4H2aQcljM4NOqE5aSr) | 2:45 | 2020-10-20\* |  |
 | [Circular Again](https://open.spotify.com/track/1K4JORhE9W021L84RJLlp6) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Phases](https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk) | 2:22 | 2020-10-20\* |  |
-| [Clarity](https://open.spotify.com/track/7mgX4lCdmvSN2lacmXAlSK) | [Blue is Blue](https://open.spotify.com/artist/1AjRe7I3aEcgXocpQuDUK0) | [Clarity](https://open.spotify.com/album/5uyfMS2E2lulhGql8Zp7kV) | 4:29 | 2020-10-20\* |  |
+| [Clarity](https://open.spotify.com/track/7mgX4lCdmvSN2lacmXAlSK) | [Blue is Blue](https://open.spotify.com/artist/1AjRe7I3aEcgXocpQuDUK0) | [Clarity](https://open.spotify.com/album/5uyfMS2E2lulhGql8Zp7kV) | 4:29 | 2020-10-20\* | 2023-01-07 |
 | [Clear Sky](https://open.spotify.com/track/0sStz9SBt5DOF7CynqUUwa) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 3:10 | 2020-10-20\* | 2022-08-13 |
 | [Clouds](https://open.spotify.com/track/7j68H7loivh4FnKBeldoyv) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Mind Control](https://open.spotify.com/album/2Y4SV3mhthTzA2ZqFZ8OAH) | 1:45 | 2020-10-20\* |  |
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2021-06-16 |  |
@@ -67,7 +67,7 @@
 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 | 2022-03-08 |  |
 | [Correlations](https://open.spotify.com/track/5VQ6RUbuDjdMILBdbu2XKT) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Correlations](https://open.spotify.com/album/2Ubsv78lTeniCvoeO0eBmg) | 2:27 | 2022-11-11 |  |
 | [Cosa Succede Se](https://open.spotify.com/track/00Z7iLsR10x9y00gAZ2Nx3) | [Lucio Francesco](https://open.spotify.com/artist/6SmEyMlUWcw5nzD9YmCCRN) | [Pensieri](https://open.spotify.com/album/12vugt6x4fyG5Uz1enF7zP) | 3:03 | 2020-10-20\* |  |
-| [Cosmonova](https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:31 | 2020-10-20\* |  |
+| [Cosmonova](https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:31 | 2020-10-20\* | 2023-01-07 |
 | [Counting Days](https://open.spotify.com/track/6ICbjz9nRT7tRGDrkabqc6) | [Twilight Time](https://open.spotify.com/artist/3TMpH9YDPUAnGeC5oEtq21) | [Counting Days](https://open.spotify.com/album/6XuscYT9AD9Q45AbvswZVA) | 2:37 | 2022-11-11 |  |
 | [Curiosity](https://open.spotify.com/track/3WEdWvAScE1EcBfErseQnC) | [Beau Projet](https://open.spotify.com/artist/5bLGj9jAzmBqGwjB2UbjOC) | [Curiosity](https://open.spotify.com/album/5FbnGcGNWnjufAuOrXss3k) | 2:35 | 2020-10-20\* |  |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2020-10-20\* |  |
@@ -103,7 +103,7 @@
 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 | 2021-04-15 |  |
 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 | 2021-10-09 |  |
 | [Fairy Glen](https://open.spotify.com/track/5wqIlPSJHeUZn34gcS7KQR) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Fairy Glen](https://open.spotify.com/album/14uqXEsb5bqZu7dI2yYlQf) | 2:49 | 2020-10-20\* |  |
-| [Far Fetched Sleep](https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv) | [Millie S](https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj) | [Far Fetched Sleep](https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX) | 3:09 | 2020-11-28 |  |
+| [Far Fetched Sleep](https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv) | [Millie S](https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj) | [Far Fetched Sleep](https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX) | 3:09 | 2020-11-28 | 2023-01-07 |
 | [Feather](https://open.spotify.com/track/2AQtxqUEmqd5mVUFD2UC61) | [Art Decorum](https://open.spotify.com/artist/2VDTrLjZH9fCcf0lhHY3jb) | [Feather](https://open.spotify.com/album/4da6ESxj0O2SlJGLewnxmS) | 3:05 | 2020-10-20\* |  |
 | [feather](https://open.spotify.com/track/0lFk8GCAu5gbxNCxPGuoOU) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [at peace](https://open.spotify.com/album/1PvZfkyXrVL9jPs4QioLUw) | 2:50 | 2020-10-20\* |  |
 | [Feathers](https://open.spotify.com/track/5HZAPlw5Ff3ORJrPUdYJb9) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Feathers](https://open.spotify.com/album/2gkSH8Qh6khQjmlZpRxeUw) | 1:43 | 2020-10-20\* |  |
@@ -167,7 +167,7 @@
 | [Lost in the Clouds](https://open.spotify.com/track/199TOFLcLwoW2knx6OTC0l) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Lost in the Clouds](https://open.spotify.com/album/3mhywEiUU6EzcWUdLHB45y) | 3:24 | 2020-10-20\* |  |
 | [Lucerne](https://open.spotify.com/track/023i4Phiw266d2OaRbudOg) | [Lorah Weber](https://open.spotify.com/artist/6KPIG4JnXUCcKZPGD8aE5R) | [Lucerne](https://open.spotify.com/album/5SvO1rgtXSxI44z0M53if2) | 3:17 | 2020-12-25 |  |
 | [Lugnet](https://open.spotify.com/track/40T7pP27hzRoZVHofuExIg) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Lugnet](https://open.spotify.com/album/0TQ8638U9nAIBFCzoCO5nZ) | 2:39 | 2020-10-20\* | 2022-08-13 |
-| [Lullaby](https://open.spotify.com/track/1UfLZIqSN1TGpe8UdPZ6Cg) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Lullaby](https://open.spotify.com/album/4fmQ6qrS7CxiZWXpsdTt4b) | 1:41 | 2020-10-20\* |  |
+| [Lullaby](https://open.spotify.com/track/1UfLZIqSN1TGpe8UdPZ6Cg) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Lullaby](https://open.spotify.com/album/4fmQ6qrS7CxiZWXpsdTt4b) | 1:41 | 2020-10-20\* | 2023-01-07 |
 | [Maroon Lake](https://open.spotify.com/track/4Ck1myMt261ophVYeSOC84) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [Outings](https://open.spotify.com/album/79gZ4wm7D1GfdC0yNWrKvL) | 2:50 | 2020-10-20\* |  |
 | [Meaning](https://open.spotify.com/track/1M2bdpwWkekhMWIlVFmd3e) | [Arpeggiated Motives](https://open.spotify.com/artist/2vJaUyXZAIBV2sKiznI4kH) | [First Temple](https://open.spotify.com/album/2gzsnt28uMDKwAnSle9veo) | 3:39 | 2020-10-20\* | 2022-08-13 |
 | [Merak](https://open.spotify.com/track/4saUR7QV5oTnzqj9XaZJFp) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Merak](https://open.spotify.com/album/3C3x7kYNc1rQdTC35wNNDX) | 2:48 | 2020-10-20\* |  |
@@ -196,7 +196,7 @@
 | [Night Odyssey](https://open.spotify.com/track/4Ug76OZs6b1euMLGiun4Ru) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Luna](https://open.spotify.com/album/72liyoGwQ6zcfuRvvMls5t) | 2:48 | 2022-11-11 |  |
 | [Noctiphany](https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Noctiphany](https://open.spotify.com/album/7lfk1JKUKGhYCt0oPn5spO) | 3:01 | 2020-10-20\* | 2022-08-13 |
 | [Nocturne in Green](https://open.spotify.com/track/56nl0PcICHCOoVazhLQEFb) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 4:03 | 2020-10-20\* | 2021-06-16 |
-| [North Haven](https://open.spotify.com/track/4UTzl5xz40YYzut1y3EBYi) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [North Haven](https://open.spotify.com/album/0ai2noQFlGW1Fx57amRNls) | 3:44 | 2020-10-20\* |  |
+| [North Haven](https://open.spotify.com/track/4UTzl5xz40YYzut1y3EBYi) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [North Haven](https://open.spotify.com/album/0ai2noQFlGW1Fx57amRNls) | 3:44 | 2020-10-20\* | 2023-01-07 |
 | [Nosce Te Ipsum](https://open.spotify.com/track/2g2R5NSv8samoXVcj0NUeS) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Nosce Te Ipsum](https://open.spotify.com/album/2bbrUDGtRUsjw2n0PfFPTN) | 2:56 | 2020-10-20\* |  |
 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 | 2020-10-20\* |  |
 | [Ocean Deep](https://open.spotify.com/track/7uHM2BSftyHsPLIOGB9oY7) | [MAVALA](https://open.spotify.com/artist/7v6MC0U94altKRU8VGL0j8) | [Ocean Deep](https://open.spotify.com/album/341k8e5u1rQ6xuDPqOIc2u) | 2:35 | 2020-10-20\* |  |
@@ -216,7 +216,7 @@
 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 | 2020-10-20\* | 2022-02-04 |
 | [Persistent](https://open.spotify.com/track/1YRE1YKj2UIRdq2zT8PLNY) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Freestone](https://open.spotify.com/album/2lHrgdlTaEKof6m5rKoNmC) | 3:30 | 2020-10-20\* |  |
 | [Phenomena](https://open.spotify.com/track/1Naf16ekAHVTzYhhxoZCnQ) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Phenomena](https://open.spotify.com/album/1AozXJPuscfZsKrpaxpIhm) | 2:46 | 2020-10-20\* |  |
-| [Philpot Lane](https://open.spotify.com/track/5yMw8o7NMvsH53vLq6c4J4) | [Leo Lloyd](https://open.spotify.com/artist/04g1XS0AyNotqspQmYwuA9) | [Philpot Lane](https://open.spotify.com/album/3cwT9A52EAY5b3VaePF1gY) | 1:31 | 2020-10-20\* |  |
+| [Philpot Lane](https://open.spotify.com/track/5yMw8o7NMvsH53vLq6c4J4) | [Leo Lloyd](https://open.spotify.com/artist/04g1XS0AyNotqspQmYwuA9) | [Philpot Lane](https://open.spotify.com/album/3cwT9A52EAY5b3VaePF1gY) | 1:31 | 2020-10-20\* | 2023-01-07 |
 | [Phosphenes](https://open.spotify.com/track/7zCXE5rdGmk2YzsSWuhO8I) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Phosphenes](https://open.spotify.com/album/5gjWfsOxuWUuxt63LiuuAh) | 3:00 | 2020-10-20\* |  |
 | [Pisces](https://open.spotify.com/track/1Ff9bSqXJkerZyKfBtLUNw) | [Agaton Simon](https://open.spotify.com/artist/7h78jsrgSU8wxZnXAdzMlZ) | [Pisces](https://open.spotify.com/album/0uJZ0SfKEnNr45JmoNY3Zt) | 2:07 | 2020-10-20\* |  |
 | [Pleasant Night](https://open.spotify.com/track/4Clx0IJw9sNHo7qkeIaa4n) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Pleasant Night](https://open.spotify.com/album/151QBUe2SdenWxX7rODmDv) | 3:03 | 2020-10-20\* | 2022-02-04 |
@@ -332,6 +332,7 @@
 | [Where The Street End](https://open.spotify.com/track/4hc6B7G97DoU45u5lYsoZ8) | [Alpine Sun](https://open.spotify.com/artist/5FivdXVNbUZheGS5gTb9WE) | [Weightless Sorrows](https://open.spotify.com/album/0XhPFxCMNU3aCQqrDnk3pT) | 3:02 | 2020-10-20\* |  |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2020-10-20\* |  |
 | [Winding Trails](https://open.spotify.com/track/5X3hvz25Pyqgtj1jF3HX4V) | [Cara Wolff](https://open.spotify.com/artist/4awzT4TfiIuWgss8saWodD) | [Winding Trails](https://open.spotify.com/album/6pVYhysoA5VGngRzATX4bo) | 2:02 | 2020-10-20\* |  |
+| [Winter Hideaway](https://open.spotify.com/track/7xP42oGDgsbySKzKH2750d) | [Thomas Erwin](https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm) | [Winter Hideaway](https://open.spotify.com/album/0KygdGPgmuaOMhBRX5BAdE) | 2:10 | 2023-01-06 |  |
 | [Wishes](https://open.spotify.com/track/7giuPZOPDPkpNOeVjC56rm) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Higher States](https://open.spotify.com/album/2RcXr9Wzd3mjH3P8ghQsjZ) | 3:04 | 2020-10-20\* |  |
 | [With Certainty of Tides](https://open.spotify.com/track/7yMAAx3OV7LeczNbAERMDt) | [Bryan Colbert](https://open.spotify.com/artist/3mwhMQ3EM94LX73AVoqxwb) | [Theme from Happiness](https://open.spotify.com/album/72OQYr68g2A56mJJHaqa8H) | 2:13 | 2020-10-20\* |  |
 | [Woods](https://open.spotify.com/track/5in0ezyUreA4p4XgBd5dJX) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Woods](https://open.spotify.com/album/2z34IdP8fG0NBbSCjEbwdP) | 3:04 | 2020-10-20\* |  |

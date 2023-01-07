@@ -1,33 +1,13 @@
 {
   "description": "Only the best in South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw\">Spoegwolf</a>",
-  "num_followers": 11685,
+  "num_followers": 11690,
   "original_name": "SA Rock Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0MTU0MCwwMDAwMDAwMGNiZDc2NDA1OWU2YjQ3MDFhM2E5ODhhNDQ1OGRiNjJk",
+  "snapshot_id": "MTY3Mjk5MTM4MCwwMDAwMDAwMDZmY2EwNGU3YzBiOGJkYzU2MzU1MGRlZWY5Y2VjOThm",
   "tracks": [
-    {
-      "added_at": "2022-12-08 21:59:00",
-      "album": {
-        "name": "Dryf",
-        "url": "https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        },
-        {
-          "name": "Jodi Jantjies",
-          "url": "https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG"
-        }
-      ],
-      "duration_ms": 273475,
-      "name": "Erika Way",
-      "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
-    },
     {
       "added_at": "2022-11-21 09:26:29",
       "album": {
@@ -71,6 +51,46 @@
     {
       "added_at": "2022-12-08 21:59:00",
       "album": {
+        "name": "Dryf",
+        "url": "https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        },
+        {
+          "name": "Jodi Jantjies",
+          "url": "https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG"
+        }
+      ],
+      "duration_ms": 273475,
+      "name": "Erika Way",
+      "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
+    },
+    {
+      "added_at": "2022-11-17 21:59:00",
+      "album": {
+        "name": "Toe Roep Ek Jou Naam Velvet Blohm",
+        "url": "https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi"
+      },
+      "artists": [
+        {
+          "name": "Jan Blohm",
+          "url": "https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW"
+        },
+        {
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "Toe Roep Ek Jou Naam",
+      "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
         "name": "Cherry Glitter",
         "url": "https://open.spotify.com/album/7EqFfWWUmsqSI0csBwIasf"
       },
@@ -101,24 +121,20 @@
       "url": "https://open.spotify.com/track/0dfdQeAFmqYU73QISETk7K"
     },
     {
-      "added_at": "2022-11-17 21:59:00",
+      "added_at": "2023-01-06 07:49:40",
       "album": {
-        "name": "Toe Roep Ek Jou Naam Velvet Blohm",
-        "url": "https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi"
+        "name": "Lonely Boy Heart",
+        "url": "https://open.spotify.com/album/2fZYS7lZt0PjkRjgfUe5Nf"
       },
       "artists": [
         {
-          "name": "Jan Blohm",
-          "url": "https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW"
-        },
-        {
-          "name": "Ryno Velvet",
-          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+          "name": "Steve Tissiman",
+          "url": "https://open.spotify.com/artist/7ebybXjJ5EhyGVt7fhM5fJ"
         }
       ],
-      "duration_ms": 225160,
-      "name": "Toe Roep Ek Jou Naam",
-      "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
+      "duration_ms": 172800,
+      "name": "Lonely Boy Heart",
+      "url": "https://open.spotify.com/track/0oMAe0kUbEvzBDfiNtk6AP"
     },
     {
       "added_at": "2022-12-15 21:59:00",
@@ -203,22 +219,6 @@
       "duration_ms": 442888,
       "name": "Socks On Astroturf",
       "url": "https://open.spotify.com/track/5gtDFsmSgRX9wWYNjVFUer"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
-        "name": "Towerkop",
-        "url": "https://open.spotify.com/album/2WlM9UWueQZ0beAQSbjRKx"
-      },
-      "artists": [
-        {
-          "name": "Frans Karoo",
-          "url": "https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Towerkop",
-      "url": "https://open.spotify.com/track/0lxm6E9GTyQ8hJXxnR5hZb"
     },
     {
       "added_at": "2022-08-04 21:59:00",
@@ -367,6 +367,22 @@
       "duration_ms": 225911,
       "name": "Skemer",
       "url": "https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA"
+    },
+    {
+      "added_at": "2022-11-17 21:59:00",
+      "album": {
+        "name": "Towerkop",
+        "url": "https://open.spotify.com/album/2WlM9UWueQZ0beAQSbjRKx"
+      },
+      "artists": [
+        {
+          "name": "Frans Karoo",
+          "url": "https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Towerkop",
+      "url": "https://open.spotify.com/track/0lxm6E9GTyQ8hJXxnR5hZb"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -595,22 +611,6 @@
       "duration_ms": 205626,
       "name": "Nothing Feels Good Without You",
       "url": "https://open.spotify.com/track/0ldL6b3ZxXX5hcAntTHsi6"
-    },
-    {
-      "added_at": "2022-04-07 21:59:00",
-      "album": {
-        "name": "Man Down",
-        "url": "https://open.spotify.com/album/6yPesYP8A3zZWXKpc1s8PV"
-      },
-      "artists": [
-        {
-          "name": "FUZIGISH",
-          "url": "https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Man Down",
-      "url": "https://open.spotify.com/track/6LvcACjtwZr8d8Rjyz3Jw3"
     },
     {
       "added_at": "2022-08-04 21:59:00",

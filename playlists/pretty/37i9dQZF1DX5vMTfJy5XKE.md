@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,376 likes - 166 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,276 likes - 166 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 97 | [Blue Christmas](https://open.spotify.com/track/1KOcD6gU6G3aI8bj3mDmgl) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Blue Christmas](https://open.spotify.com/album/6r1K4pY3QjCpQsiznP1nWO) | 3:49 |
 | 98 | [Very Merry Christmas](https://open.spotify.com/track/4W0AMs5hHgRXC8gNgWriDc) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Very Merry Christmas](https://open.spotify.com/album/6vSn9jm97EwAL2BBfAYt4D) | 2:28 |
 | 99 | [Bells Will Be Ringing \(Please Come Home For Christmas\)](https://open.spotify.com/track/5i6xGtlDQu0QJ2zk5nIplx) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Bells Will Be Ringing \(Please Come Home For Christmas\)](https://open.spotify.com/album/1stSQNVamMpXqqy8ihJvhw) | 4:00 |
-| 100 | [12 Nights](https://open.spotify.com/track/0OK1DcLTmAx9R2bO5FOWDX) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/5Ykgv5ZADfbU5WgwZkWYIJ) | 4:07 |
+| 100 | [12 Nights](https://open.spotify.com/track/2k5F4391ld0tzQCZf6vV7h) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 4:07 |
 | 101 | [Sleigh Ride](https://open.spotify.com/track/2IwNukSM5QpvnzmLuyKExn) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: CHRISTMAS](https://open.spotify.com/album/1q0OMD6wW0RuA8FxgWMZh8) | 3:49 |
 | 102 | [The Magic of Christmas \- Tinsel Version](https://open.spotify.com/track/0FvhX8S6ppDtyXvyBIVJJF) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [The Magic of Christmas \(Tinsel Version\)](https://open.spotify.com/album/7FJoLfJdwSzPwn90sxP7ET) | 3:37 |
 | 103 | [Meet Me Under the Mistletoe](https://open.spotify.com/track/2P5G4Z0LEaZeuKyAIdoab0) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Meet Me Under the Mistletoe](https://open.spotify.com/album/2EGPFLNRc3M1IJX1q2sqdE) | 2:53 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 165 | [Last Christmas](https://open.spotify.com/track/2ADlV7RigsZc3Lo6kzGczk) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Last Christmas](https://open.spotify.com/album/6gWCpXtACkNTSchRJtD3oo) | 2:48 |
 | 166 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
 
-Snapshot ID: `MTY3MTYzODUxMCwwMDAwMDAwMDg4ZTdjYzgzMzU4Mjk3YjFmZGIxMmZhMThjMzFhYjVl`
+Snapshot ID: `MTY3MTYzODUxMCwwMDAwMDAwMDdlNTQ3MDBkMmViM2U4NDZlZmM5OTE5Y2U5Y2I1NmYz`

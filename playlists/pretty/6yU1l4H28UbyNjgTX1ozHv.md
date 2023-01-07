@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 9,069 likes - 118 songs - 6 hr 29 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 9,070 likes - 118 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heal the World \- Acoustic](https://open.spotify.com/track/3xcIbxd1AJveTfs8ehX6Pb) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Heal the World \(Acoustic\)](https://open.spotify.com/album/6L1r7oNw89x4Sed9Ebxqnk) | 3:58 |
 | 2 | [Walking On Sunshine](https://open.spotify.com/track/1O91HwI2LMA8RglnZ2hbNH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Walking On Sunshine](https://open.spotify.com/album/2xDMfqErOWYK71uDc4FvVE) | 2:31 |
 | 3 | [Just the Two of Us \- Acoustic](https://open.spotify.com/track/4k77p0LNt3affQXC48hQuL) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Just the Two of Us \(Acoustic\)](https://open.spotify.com/album/5ZnOMhHHkpweib0MIYENDw) | 2:28 |
-| 4 | [I Say a Little Prayer \- Acoustic](https://open.spotify.com/track/2WEkCMNRYPjbd2FLgPGF9X) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [I Say a Little Prayer \(Acoustic\)](https://open.spotify.com/album/2i4NA7UAPKB98sVypxJJr8) | 2:06 |
+| 4 | [Go Your Own Way \- Acoustic](https://open.spotify.com/track/7xwjFFd7k4SbDktySZRfLy) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw), [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Go Your Own Way \(Acoustic\)](https://open.spotify.com/album/2tQwErCmn4sCP9pm1A41CM) | 3:01 |
 | 5 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 |
 | 6 | [You're My Best Friend \- Acoustic](https://open.spotify.com/track/4HcNBjBC8a6DVd2pwh0B8R) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [You're My Best Friend \(Acoustic\)](https://open.spotify.com/album/4HUf5kBKh15Y3LviPVSDX2) | 2:27 |
 | 7 | [Three Little Birds \- Acoustic](https://open.spotify.com/track/7CSKKB5I9mmE3gl5HXcoR8) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Three Little Birds \(Acoustic\)](https://open.spotify.com/album/1ub9a49YbbCbmJOlcoPSjl) | 2:24 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 43 | [Stuck In A Moment You Can't Get Out Of \- Acoustic Version / Remastered 2020](https://open.spotify.com/track/4qxXipoHUokPaPX1YWs47q) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can’t Leave Behind](https://open.spotify.com/album/42zp9yVG4N0SpcejLPoko5) | 3:44 |
 | 44 | [Careless Whisper \- Acoustic](https://open.spotify.com/track/56cdkBJabIgi2gynwG8XHL) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Careless Whisper \(Acoustic\)](https://open.spotify.com/album/3kXTkygRasSbX7ckz534Ei) | 3:24 |
 | 45 | [Let Her Go \- Acoustic](https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:26 |
-| 46 | [I Only Want to Be With You \- Acoustic](https://open.spotify.com/track/7FwXCHczHaCuLoneBque7B) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I Only Want to Be With You \(Acoustic\)](https://open.spotify.com/album/0oSKcdd3xTEP3H0qR0oQbf) | 2:10 |
+| 46 | [All I Have to Do Is Dream \- Acoustic](https://open.spotify.com/track/1ZInn6dKkIyQv8YFDgmsBD) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [All I Have to Do Is Dream \(Acoustic\)](https://open.spotify.com/album/0kG9UJ3SqUt8vAq7g9jRcs) | 2:12 |
 | 47 | [Paradise \- Acoustic Version](https://open.spotify.com/track/5IaTbmfClU9YmW9vjZr86l) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Paradise \(Acoustic Version\)](https://open.spotify.com/album/4w20E4lMmjWmApwDb7Iie6) | 3:40 |
 | 48 | [Stand By Me \- Acoustic](https://open.spotify.com/track/3EwflvIjTsj1geph4V1rj5) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Stand By Me \(Acoustic\)](https://open.spotify.com/album/4YBuNLaJI4MAHEeaobswnV) | 2:53 |
 | 49 | [Rather Be](https://open.spotify.com/track/0Z0gcy8fZUhsyPCgrPJwHo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/5og5ncNgq9dH4JBauZyCBs) | 4:07 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 117 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nicholas Cloud](https://open.spotify.com/artist/13i070mBPykWRF84H8Ht3Q), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
 | 118 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 |
 
-Snapshot ID: `Nzg3LGFiNDc4NDQyOGFmNDA1NzU2YTFmNjVmYTc2MmNkZjdjZmFiYWRkMDg=`
+Snapshot ID: `NzkxLDg4ZDIwNzNhNWNiMThmODlkMjEwZDE2MTU0ZWZhOGJkYjBlMDY1MGQ=`

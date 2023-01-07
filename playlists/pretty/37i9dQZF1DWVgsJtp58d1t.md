@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The first This is Frequency of 2023\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,615 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,759 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 15 | [RISKY](https://open.spotify.com/track/6lRPCX37cioYwZItkUpAtl) | [SONNY](https://open.spotify.com/artist/3KDKJ7Z0kgJrQS1CH43PM4) | [RISKY](https://open.spotify.com/album/09iik9pLTXIQPV7bBnFvut) | 2:39 |
 | 16 | [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 |
 | 17 | [Chit Chat](https://open.spotify.com/track/4r9GyHViUSb8iVXQsJc8U5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Coke Boys 6](https://open.spotify.com/album/70415SlsGN0hrHDbOkhT8Z) | 2:33 |
-| 18 | [First Time](https://open.spotify.com/track/2LWeSrNPOceNtiGecWLLoe) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 3:04 |
+| 18 | [First Time](https://open.spotify.com/track/2LWeSrNPOceNtiGecWLLoe) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 3:05 |
 | 19 | [Thru The Week](https://open.spotify.com/track/2hKPymvrEGzloa4dShEMkw) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Thru The Week](https://open.spotify.com/album/2gUrIbJA00fdERuqhLEKit) | 2:50 |
 | 20 | [Money Got Vert](https://open.spotify.com/track/05dezC2AGFdLPYLYWEMUjK) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [Money Got Vert](https://open.spotify.com/album/799RCLrfBpIzZ2wVT7mV2N) | 2:13 |
 | 21 | [Maliah](https://open.spotify.com/track/1YJY4AwL1ZruD6Lbyp4pKd) | [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Maliah](https://open.spotify.com/album/4KBQsNgEFgJ9DTsOQ2JPMc) | 2:52 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 57 | [Remember](https://open.spotify.com/track/5cpPjEmhQeBbn5EpicMZ47) | [Goonew](https://open.spotify.com/artist/3YqwRvYhfxmCFYIfvxaCAa) | [Remember](https://open.spotify.com/album/36toHSOA9XUG4ox5Lb2sul) | 1:42 |
 | 58 | [2 Days](https://open.spotify.com/track/5q2v8qdCdDOBBhyMGz9HwK) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [itsfreelife](https://open.spotify.com/artist/1w1ypyPHEzBCfruxcA6SOa) | [2 Days](https://open.spotify.com/album/7AppB7YXQfbsspL8dsTheq) | 2:22 |
 | 59 | [Drag and Drop](https://open.spotify.com/track/7H9v8JzM7cGNunh3EXxGYk) | [Auxxk](https://open.spotify.com/artist/2SVrysB8sFET2DutqpqCj5) | [Drag and Drop](https://open.spotify.com/album/1R8FdqC0RkCnFp7KichgGQ) | 1:06 |
-| 60 | [Ah Bah, Pt\. 2](https://open.spotify.com/track/3ucRUYoKZe1KuObvcE9RwF) | [Donn3ydon](https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv), [D STURDY](https://open.spotify.com/artist/4ca91BWVgdWAOiATQiMoxl) | [Ah Bah, Pt\. 2](https://open.spotify.com/album/2hY16oXVooiBh1D646rlao) | 1:39 |
+| 60 | [Ah Bah, Pt\. 2](https://open.spotify.com/track/3ucRUYoKZe1KuObvcE9RwF) | [Donn3ydon](https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv), [D STURDY](https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr) | [Ah Bah, Pt\. 2](https://open.spotify.com/album/2hY16oXVooiBh1D646rlao) | 1:39 |
 | 61 | [GO AWFF](https://open.spotify.com/track/4mavsLIM2B5ZOrR5ob2xhZ) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Ernest Third](https://open.spotify.com/artist/1hISYBYZizLjUwbo3i2cK1) | [GO AWFF](https://open.spotify.com/album/69qJrlH9dK4UC1rATaULAW) | 2:51 |
 | 62 | [Microdosing \- Mixed](https://open.spotify.com/track/2uXHNaXg2U6Xxj4TSvMTtb) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing \(Mixed\)](https://open.spotify.com/album/3v8HcN24urZPBDqLrCkPMg) | 2:38 |
 | 63 | [GLT](https://open.spotify.com/track/0Y4eghWig8D94PKAxlvjJR) | [Joezy](https://open.spotify.com/artist/2Ul7X0Z6ScgBTI67iDAMIr) | [Lo\-Fi Wi\-Fi](https://open.spotify.com/album/2LHcnp0LOkoz2WUPBmPThz) | 3:15 |

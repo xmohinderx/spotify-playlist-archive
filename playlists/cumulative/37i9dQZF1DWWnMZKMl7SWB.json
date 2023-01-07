@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "2day",
+        "url": "https://open.spotify.com/album/5j9RWutbmSJQ8bHo9bOlL7"
+      },
+      "artists": [
+        {
+          "name": "crackle n bop",
+          "url": "https://open.spotify.com/artist/7geWyYxsW6YdSKLBjB6mir"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109367,
+      "name": "2day",
+      "url": "https://open.spotify.com/track/1dQFJczFI9rVXbDXvavD03"
+    },
+    {
+      "album": {
         "name": "40 Love",
         "url": "https://open.spotify.com/album/69geYIK32L6nCd4Btqdeh6"
       },

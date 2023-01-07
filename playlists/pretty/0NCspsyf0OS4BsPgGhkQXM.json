@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist - cover featuring  <a href=\"https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ\">INZO </a>.",
-  "num_followers": 2033737,
+  "num_followers": 2033730,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI4MjAsZmM3MGNjMTBkMDVmNDRkNGIwYzU4M2U2ZjZhOGViOWYwNjBiMDE5Nw==",
+  "snapshot_id": "MTI4MjEsMDJiMjc1MThmMjZlYTE4NmIyNThiMDlkZDg4YWExZjcxM2I1MzFiZA==",
   "tracks": [
     {
       "added_at": "2023-01-05 22:30:07",
@@ -27,6 +27,30 @@
       "duration_ms": 219000,
       "name": "Spaces On The Wall",
       "url": "https://open.spotify.com/track/7bUCPDWMMsdhpwrNiGRu3w"
+    },
+    {
+      "added_at": "2023-01-06 15:48:04",
+      "album": {
+        "name": "Stride",
+        "url": "https://open.spotify.com/album/75yDcpgSrrT93p81MsIZNK"
+      },
+      "artists": [
+        {
+          "name": "Lenny",
+          "url": "https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU"
+        },
+        {
+          "name": "Dabow",
+          "url": "https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X"
+        },
+        {
+          "name": "SL!DE",
+          "url": "https://open.spotify.com/artist/1lKzr6x82kX0Rb7t3Slskc"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Stride",
+      "url": "https://open.spotify.com/track/3B0iuYopEr5FxexDivlAUt"
     },
     {
       "added_at": "2022-12-26 16:16:21",

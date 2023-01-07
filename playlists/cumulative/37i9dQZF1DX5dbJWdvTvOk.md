@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-178 songs - 8 hr 22 min
+179 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Don't Be Shy](https://open.spotify.com/track/5RmX0yhb5eeLI9QUawpnHp) | [Jennifer Pérez](https://open.spotify.com/artist/6TbznI0U93j8IuSXoJ4bOz) | [Don't Be Shy](https://open.spotify.com/album/3CbgkGlLHbAvU8I8L9IBcu) | 3:53 | 2022-07-15 | 2022-10-29 |
 | [Don't Save Me Yet](https://open.spotify.com/track/190uB2WD7451d6MIm8ftJd) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Don't Save Me Yet](https://open.spotify.com/album/6CWY13gXDB3SDFjdMt4YLN) | 3:06 | 2022-07-15 |  |
 | [Downhill](https://open.spotify.com/track/06v6Jm0odFC4lb0aSd54Nf) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Downhill](https://open.spotify.com/album/6cLUWw3Mmiw58EcRy1NSgX) | 5:01 | 2022-07-15 |  |
+| [Día Fácil](https://open.spotify.com/track/3Yz1SZXphecIMZcKjdtqFL) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Día Fácil](https://open.spotify.com/album/18idEnRzxpLkVIZv8ETBAb) | 3:01 | 2023-01-06 |  |
 | [Eclipse](https://open.spotify.com/track/4xOX662co6Ryxqez1fgJbY) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Deep End](https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba) | 1:54 | 2022-07-15 |  |
 | [El Antiguo Camino](https://open.spotify.com/track/6c7m8DqA9iH8R1PrA3DzVn) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [El Antiguo Camino](https://open.spotify.com/album/092tdrmx3Ot8b75qGeZg0q) | 2:36 | 2022-10-28 |  |
 | [El Raval](https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [El Raval](https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4) | 3:07 | 2022-07-15 | 2022-07-29 |

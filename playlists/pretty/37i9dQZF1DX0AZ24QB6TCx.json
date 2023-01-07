@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 279259,
+  "num_followers": 279419,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMTQwNSwwMDAwMDAwMDU3MTU2NmY4OTBhMzQ4MTBhMTEyYzQ3ZWY5YmRjZDY3",
+  "snapshot_id": "MTY3MTIxMTQwNSwwMDAwMDAwMDUzNDk2MjRkN2QxYjY3YTYzMTkzYjI2NzU1MGRmZjlk",
   "tracks": [
     {
       "added_at": "2022-12-16 17:23:24",
@@ -119,6 +119,26 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 279573,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
         "name": "Tell Me (feat. Hero Baldwin)",
         "url": "https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque"
       },
@@ -139,26 +159,6 @@
       "duration_ms": 203522,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 279573,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
     },
     {
       "added_at": "2022-12-16 17:23:24",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "In The Morning - Edit",
+      "url": "https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3"
+        "name": "Finja",
+        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
       },
       "artists": [
         {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
         }
       ],
-      "duration_ms": 223906,
-      "name": "In The Morning - Edit",
-      "url": "https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp"
+      "duration_ms": 218226,
+      "name": "Finja",
+      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
     },
     {
       "added_at": "2022-12-16 17:23:24",
@@ -823,22 +839,6 @@
       "duration_ms": 200389,
       "name": "Tacken",
       "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
-        "name": "Finja",
-        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
-      },
-      "artists": [
-        {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
-        }
-      ],
-      "duration_ms": 218226,
-      "name": "Finja",
-      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
     },
     {
       "added_at": "2022-12-16 17:23:24",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X"
-      },
-      "artists": [
-        {
-          "name": "Effemar",
-          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
-        }
-      ],
-      "duration_ms": 192972,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
         "name": "I Won't Be",
         "url": "https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 213437,
       "name": "Just To Hear You Say",
       "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X"
+      },
+      "artists": [
+        {
+          "name": "Effemar",
+          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
+        }
+      ],
+      "duration_ms": 192972,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD"
     },
     {
       "added_at": "2022-12-16 17:23:24",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 352240,
-      "name": "Love We Found",
-      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
         "name": "False Gods EP (Short Edits)",
         "url": "https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 214122,
       "name": "Get Down - Short Edit",
       "url": "https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 352240,
+      "name": "Love We Found",
+      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
     }
   ],
   "unique_name": "Afterhours",

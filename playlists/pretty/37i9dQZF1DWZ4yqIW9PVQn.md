@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,884 likes - 108 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,887 likes - 108 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 23 | [Smile Box](https://open.spotify.com/track/5irBjW7OeN6YAoR9ZUjLtD) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Smile Box](https://open.spotify.com/album/65EYy7wGPTDN7w2tcBfmug) | 3:26 |
 | 24 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
 | 25 | [Lonely](https://open.spotify.com/track/1YxgbUp2GqNycTSES1CI5S) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lonely](https://open.spotify.com/album/2ULPVwHdhW5QJq6S0J6jDk) | 3:30 |
-| 26 | [Whatever For U](https://open.spotify.com/track/2wksPuFyaVZ9poakwOVFZe) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Fake Red](https://open.spotify.com/album/5Jm3aKAPJFPOeVyDSbhajf) | 2:56 |
+| 26 | [Whatever for u](https://open.spotify.com/track/2SPimOLQV6DBRiCA3IQ1sY) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Fake Red](https://open.spotify.com/album/2c3TcGj1cwJHDtdFwyz0jW) | 2:56 |
 | 27 | [Don't Know \(Prod\. CLAZZI\)](https://open.spotify.com/track/7i2G1Vhqgzb7P0qbYkgy7j) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:31 |
 | 28 | [falling flowers \(With Yebit\)](https://open.spotify.com/track/0sJnL9WUIl5BmuRPYDuELE) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6iHKlPIButEGe8ckLpjgbM) | 3:14 |
 | 29 | [Will You Come to Me Again?](https://open.spotify.com/track/2wIopE9bCR0s9X0pUgUYbn) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Will You Come To Me Again?](https://open.spotify.com/album/34RT4wrhuXyVzGodWuUYbU) | 3:35 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 107 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 108 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 |
 
-Snapshot ID: `MTY2NzQ2NzYyMCwwMDAwMDAwMDI5MGIwOWM1NWM1ZmQ2MTFmZjVmYzY1ZWFhOWM3MmYw`
+Snapshot ID: `MTY2NzQ2NzYyMCwwMDAwMDAwMDk5NDRlZmRhM2E2MDA0YTJkNDAwMDUzM2U4ZGQzY2Qz`

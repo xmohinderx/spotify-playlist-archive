@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQzNzE3OSwwMDAwMDAwMDcxNGI5MWFlZTdiYzJjYTg4NmExNTlhMDVkODNiNmYx",
+  "snapshot_id": "MTY3MTQzNzE3OSwwMDAwMDAwMGIxZGQxYjc1OThmZGZkNGQxMDUxNDQ2NDRhZmQ5NDUx",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:32",
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
-      "added_at": "2023-01-06 07:38:30",
+      "added_at": "2023-01-07 01:29:46",
       "album": {
         "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
@@ -419,22 +419,6 @@
       "duration_ms": 175493,
       "name": "Lover",
       "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "ETERNITY",
-        "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
-      },
-      "artists": [
-        {
-          "name": "msftz",
-          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "2080",
-      "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -455,6 +439,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "ETERNITY",
+        "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
+      },
+      "artists": [
+        {
+          "name": "msftz",
+          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "2080",
+      "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "MERRY GO ROUND",
         "url": "https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "sleeplessness",
         "url": "https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 293395,
       "name": "sleeplessness",
       "url": "https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Song of the rain",
-        "url": "https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn"
-      },
-      "artists": [
-        {
-          "name": "Bambiroyalprince",
-          "url": "https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa"
-        }
-      ],
-      "duration_ms": 214556,
-      "name": "Song of the rain",
-      "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 265000,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "Song of the rain",
+        "url": "https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn"
+      },
+      "artists": [
+        {
+          "name": "Bambiroyalprince",
+          "url": "https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa"
+        }
+      ],
+      "duration_ms": 214556,
+      "name": "Song of the rain",
+      "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
     },
     {
       "added_at": "2022-09-05 15:56:32",

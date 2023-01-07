@@ -4,7 +4,7 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-115 songs - 7 hr 4 min
+116 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Vague Hope](https://open.spotify.com/track/4aGsNc3T9qlk1y9MFBnJs8) | [DALIE](https://open.spotify.com/artist/2l6ZqfOMnjK1q6B5DGxjhn) | [Vague Hope](https://open.spotify.com/album/6DDSlFpCeZyn0Zam7OFE0k) | 3:21 | 2022-07-04 |  |
 | [Water](https://open.spotify.com/track/2l26SisqsxD0MCZoarxlL3) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [22522](https://open.spotify.com/album/52uiwubDec4Tmm5B2sQu1w) | 3:41 | 2022-07-04 |  |
 | [What day do you live?](https://open.spotify.com/track/2rccS92aHoL4TfGR9wK8B5) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY) | [What day do you live?](https://open.spotify.com/album/6E9VOi0CYUduyLiIzuiMnY) | 5:14 | 2022-07-04 |  |
-| [Whatever For U](https://open.spotify.com/track/2wksPuFyaVZ9poakwOVFZe) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Fake Red](https://open.spotify.com/album/5Jm3aKAPJFPOeVyDSbhajf) | 2:56 | 2022-07-04 |  |
+| [Whatever for u](https://open.spotify.com/track/2SPimOLQV6DBRiCA3IQ1sY) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Fake Red](https://open.spotify.com/album/2c3TcGj1cwJHDtdFwyz0jW) | 2:56 | 2022-11-03 |  |
+| [Whatever For U](https://open.spotify.com/track/2wksPuFyaVZ9poakwOVFZe) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Fake Red](https://open.spotify.com/album/5Jm3aKAPJFPOeVyDSbhajf) | 2:56 | 2022-07-04 | 2023-01-07 |
 | [Will You Come to Me Again?](https://open.spotify.com/track/2wIopE9bCR0s9X0pUgUYbn) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Will You Come To Me Again?](https://open.spotify.com/album/34RT4wrhuXyVzGodWuUYbU) | 3:35 | 2022-11-01 |  |
 | [Wind](https://open.spotify.com/track/1MLKahekaOgX0kGbv7i9A0) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [ha:f](https://open.spotify.com/album/7ue0IQUNPL3rWUlVpBHFys) | 2:52 | 2022-07-04 |  |
 | [가을의 노래](https://open.spotify.com/track/12nu4dBkgX93WL3YCF6nxE) | [신아람](https://open.spotify.com/artist/5NGCTgi9l4G8gOcC47rPkL), [Hong Seok Min](https://open.spotify.com/artist/2VpKDKyOB4dO68biiJJAsk) | [가을의 노래](https://open.spotify.com/album/7FQMu96J8WH2TivNsULX9z) | 4:01 | 2022-07-04 |  |

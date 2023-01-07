@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 48454,
+  "num_followers": 48481,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY3Mzk5MiwwMDAwMDAwMGI1ZWIwMmNmYTQzOGNhMjdmYjdjOWI5YjIyYTQwZDgx",
+  "snapshot_id": "MTY2ODY3Mzk5MiwwMDAwMDAwMDljOGUyMjQ5ZGY0OTViOWY4ZjQwMDY4NGZmYzE1YmY2",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Every Day a Dream",
+      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "The Crossing",
-        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
+        "name": "Honest Man",
+        "url": "https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2"
       },
       "artists": [
         {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Every Day a Dream",
-      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
+      "duration_ms": 325145,
+      "name": "Honest Man",
+      "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -819,22 +835,6 @@
       "duration_ms": 220613,
       "name": "These Eyes",
       "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Honest Man",
-        "url": "https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 325145,
-      "name": "Honest Man",
-      "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Make the Road By Walking",
-        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 198786,
-      "name": "Montego Sunset",
-      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "The SunRoom",
         "url": "https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 213192,
       "name": "Blue Magic (Waikiki)",
       "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Make the Road By Walking",
+        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "Montego Sunset",
+      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
         }
       ],
-      "duration_ms": 199520,
-      "name": "Positivity",
-      "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
+      "duration_ms": 195320,
+      "name": "Soul Revolution",
+      "url": "https://open.spotify.com/track/1ldNwFMKUtCUsYeazPwjq7"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Soul Revolution",
-      "url": "https://open.spotify.com/track/1ldNwFMKUtCUsYeazPwjq7"
+      "duration_ms": 199520,
+      "name": "Positivity",
+      "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
     },
     {
       "added_at": "2022-01-05 09:24:56",

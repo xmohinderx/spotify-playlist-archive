@@ -4,13 +4,14 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-365 songs - 19 hr 10 min
+366 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Christmas\) Stay With Me](https://open.spotify.com/track/5r74NPQSY8to7C0RdsUIS4) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [\(Christmas\) Stay With Me](https://open.spotify.com/album/5fB1YuQPu279DL3Fc2iKrb) | 4:05 | 2022-11-11 |  |
 | [\(Everybody’s Waitin’ For\) The Man With The Bag](https://open.spotify.com/track/4erjTiN8cQOBt7vSk7xP1k) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv), [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [A Very Darren Crissmas](https://open.spotify.com/album/25CNxbRl0AtnFE05COz6NC) | 2:51 | 2021-12-24 | 2022-11-05 |
-| [12 Nights](https://open.spotify.com/track/0OK1DcLTmAx9R2bO5FOWDX) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/5Ykgv5ZADfbU5WgwZkWYIJ) | 4:07 | 2022-11-11 |  |
+| [12 Nights](https://open.spotify.com/track/0OK1DcLTmAx9R2bO5FOWDX) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/5Ykgv5ZADfbU5WgwZkWYIJ) | 4:07 | 2022-11-11 | 2023-01-07 |
+| [12 Nights](https://open.spotify.com/track/2k5F4391ld0tzQCZf6vV7h) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 4:07 | 2022-11-11 |  |
 | [2000 Miles](https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [2000 Miles](https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4) | 2:46 | 2021-12-24 | 2022-11-12 |
 | [25 de Diciembre](https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [25 de Diciembre](https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY) | 2:58 | 2022-12-09 |  |
 | [A Christmas To Remember](https://open.spotify.com/track/6hvBmhDifLf4D2c7un98hi) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [A Christmas To Remember](https://open.spotify.com/album/5GpxJmTGJTOUhXFh9EM3zU) | 3:30 | 2021-12-24 | 2022-10-24 |

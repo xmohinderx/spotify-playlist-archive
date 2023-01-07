@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-128 songs - 10 hr 13 min
+129 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Nocturnal Lady](https://open.spotify.com/track/0Hdzza1KQrGEzwVPtipMOq) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Nocturnal Lady](https://open.spotify.com/album/6Itkkv2vYKEZLJ4XBXPwLe) | 5:04 | 2021-10-15 | 2022-07-22 |
 | [Not Long Now](https://open.spotify.com/track/1OXRsNCso4znIoOrFGfJN5) | [Native Cruise](https://open.spotify.com/artist/7wmtRLIGKfnqzKBsGaVrAN) | [Human Nature EP](https://open.spotify.com/album/24U4WTZtCAjR7w3dcH4Wct) | 5:14 | 2021-10-15 | 2022-07-28 |
 | [Notforyou \(Jacana People Remix\)](https://open.spotify.com/track/76vBiX6QGPQxB58FcC6OxW) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Blue Coat, Red Dress Remixed, Pt\. 1](https://open.spotify.com/album/0tPHt8iFGIkpiW6Ao1U5lS) | 3:49 | 2021-10-15 | 2022-07-04 |
+| [Obvs](https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 3:51 | 2022-07-20 |  |
 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 | 2021-10-15 | 2022-07-21 |
 | [On My Mind](https://open.spotify.com/track/0Ret48IIcgcQdB54orjZKS) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [On My Mind](https://open.spotify.com/album/7G1JFppuNI2Q0kSe2W2AkB) | 3:26 | 2021-10-15 | 2022-07-29 |
 | [One Last Time](https://open.spotify.com/track/3Rxehh3XVSFaKtLscJd3SM) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [All Visible Objects](https://open.spotify.com/album/7lYli0df1ql7AZCWNnUJuM) | 5:33 | 2021-10-15 | 2022-07-29 |
@@ -116,7 +117,7 @@
 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 | 2022-07-20 |  |
 | [Take Me There](https://open.spotify.com/track/4AjynDSkuGn4EZXjy5YYL4) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Take Me There](https://open.spotify.com/album/5BBKnHnAIuhup9rSQE3bYW) | 3:15 | 2021-10-15 | 2022-07-29 |
 | [Talking with Myself '98 \(Canny Remix\)](https://open.spotify.com/track/1mqgumZf8MUmNsy9tIWWI3) | [Electribe 101](https://open.spotify.com/artist/03E0TlGIGYR5G3vzkjGrtv) | [Talking With Myself \- Remixes](https://open.spotify.com/album/16vvi1guYbBkEhfqhbiSdF) | 7:03 | 2021-10-15 | 2022-07-24 |
-| [The Child](https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [You My Baby And I](https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U) | 4:34 | 2022-07-20 |  |
+| [The Child](https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [You My Baby And I](https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U) | 4:34 | 2022-07-20 | 2023-01-07 |
 | [The Message](https://open.spotify.com/track/3HszkoBsOy2VLTcznQ64qR) | [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [The Message](https://open.spotify.com/album/6vlFjrvRtqxXnKpSiNwzc1) | 4:06 | 2021-10-15 | 2022-07-29 |
 | [The Path](https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [The Path](https://open.spotify.com/album/0ElCHdddUAPJfRmNe7eWyo) | 3:12 | 2021-10-15 |  |
 | [The Sea](https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2) | 5:48 | 2022-07-20 |  |

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Airglow",
+        "url": "https://open.spotify.com/album/5eiuYQuowBrhyX2WIEYxxa"
+      },
+      "artists": [
+        {
+          "name": "Hibiscus",
+          "url": "https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130547,
+      "name": "Airglow",
+      "url": "https://open.spotify.com/track/3leeQGS5ZOJRXrQ8I2juxI"
+    },
+    {
+      "album": {
         "name": "All Now",
         "url": "https://open.spotify.com/album/1qKCsPWmjirPcP8ZHaevgP"
       },
@@ -452,7 +470,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 196375,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
@@ -2236,7 +2254,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 196369,
       "name": "Happy Days",
       "url": "https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj"
@@ -4925,6 +4943,24 @@
     },
     {
       "album": {
+        "name": "soaked up",
+        "url": "https://open.spotify.com/album/5cWvZvvqzz6SwVU7MEGk56"
+      },
+      "artists": [
+        {
+          "name": "metricity",
+          "url": "https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161922,
+      "name": "soaked up",
+      "url": "https://open.spotify.com/track/7uJm5b3FwhvXSAhNCht3Ma"
+    },
+    {
+      "album": {
         "name": "Solar Sun",
         "url": "https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh"
       },
@@ -5304,6 +5340,24 @@
       "duration_ms": 188293,
       "name": "sunique",
       "url": "https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/6EZZq0ZMxuB0mE1OVb3VPy"
+      },
+      "artists": [
+        {
+          "name": "Part2",
+          "url": "https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175246,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5PMBsw2yDBmYJtAlz4G8FM"
     },
     {
       "album": {

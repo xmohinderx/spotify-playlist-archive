@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. bestfriend on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,733 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,763 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 100 | [Waves Break](https://open.spotify.com/track/6mUS9fWrw2KZ1xbHSemUVi) | [TITUS BANK](https://open.spotify.com/artist/6lO31QP9bo8C3ay6IxkIol) | [Hopeless & Romantic](https://open.spotify.com/album/1Xoq1m0xx3ZWEFLVm9epWz) | 2:57 |
 | 101 | [Bento Box](https://open.spotify.com/track/1tUdhJYNkVlIeeww7m33DJ) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Bento Box](https://open.spotify.com/album/09etgwlYWXr867yvh6AwEi) | 3:25 |
 | 102 | [Scissors](https://open.spotify.com/track/7DaFmydulTDDndxR7q4ZGt) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Scissors](https://open.spotify.com/album/3Q7ztq5q819kn2aqdGzGVh) | 2:37 |
-| 103 | [Come Around](https://open.spotify.com/track/4UsWjHgX1TBmBv9CiVjcSR) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6tWDOvv8CoaWYBdnP11RBn) | 3:38 |
+| 103 | [Come Around](https://open.spotify.com/track/5FhBSeLyAPLGoCWOjQXH6F) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6GzwDlQLCtbtXO1F5jpqTi) | 3:38 |
 | 104 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 |
 | 105 | [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 |
 | 106 | [Silver Lining](https://open.spotify.com/track/4tw3eWyL5mzal4LbQUCjkB) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Wish](https://open.spotify.com/album/1Qoflw9wKOPA9FLF1BBaFL) | 3:39 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 |
 | 125 | [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGZhOWY3ZmQ3YjJmNWI5ZDkzZjk4ZTU5NzIyNmRlNmIz`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGQ1ODYwMDE2NWNmZWJmMzEyNzhkYjU3MDAzNTM4M2Yx`

@@ -4,7 +4,7 @@
 
 > Para ahogar las penas en el fondo de una botella.
 
-295 songs - 15 hr 46 min
+296 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 | 2022-06-08 |  |
 | [La Última Farra](https://open.spotify.com/track/2L6cUuy1HmQsMom6wt4whx) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [La Última Farra](https://open.spotify.com/album/6ekaLfVBMJwwpCf9JLQoWX) | 2:52 | 2022-06-08 | 2022-07-28 |
 | [Las Locuras Mías](https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Las Locuras Mías](https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P) | 3:45 | 2022-06-08 |  |
-| [Llévame](https://open.spotify.com/track/1a91PUm4WW8jJazGLPYD3S) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Freddo Lucky Bossi](https://open.spotify.com/artist/0Xo0oBux0dHBchnwne2ajY) | [Llévame](https://open.spotify.com/album/1XrUa5IWX7jWwDLjRnF6Yq) | 3:45 | 2022-06-08 |  |
+| [Llévame](https://open.spotify.com/track/1a91PUm4WW8jJazGLPYD3S) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Freddo Lucky Bossi](https://open.spotify.com/artist/0Xo0oBux0dHBchnwne2ajY) | [Llévame](https://open.spotify.com/album/1XrUa5IWX7jWwDLjRnF6Yq) | 3:45 | 2022-06-08 | 2023-01-07 |
 | [Lo Que Va a Ser para Uno](https://open.spotify.com/track/3Y1GJGneNldJlwxsSFRqNM) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/1Boj3OklpAJEVqarl7EVnw) | 3:30 | 2022-06-08 | 2022-07-29 |
 | [Lo Tengo Todo](https://open.spotify.com/track/7aGWLCLMjG2U6RpPh2g0cP) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Lo Tengo Todo](https://open.spotify.com/album/1HpSh7Vk9sh3JHW7eSNNGF) | 2:44 | 2022-06-08 | 2022-07-26 |
 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 | 2022-06-08 | 2022-12-31 |
@@ -169,6 +169,7 @@
 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 | 2022-06-08 | 2022-12-31 |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 | 2022-06-08 |  |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/1661eebjAHPCx0oBrGyuUp) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Antología \(80 Clásicos\)](https://open.spotify.com/album/66EaV8mdSJpXgZKtdF0DeG) | 3:45 | 2022-06-08 | 2022-07-29 |
+| [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 | 2022-12-30 |  |
 | [Mi Pasión Recordaras](https://open.spotify.com/track/3ewCNnIQmHB8gh8zvwRMKQ) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [Los Inolvidables de Apia](https://open.spotify.com/artist/5M6A7BlORhTtf2B2lEsu6l) | [Grandes Éxitos de Luis Alberto Posada Con los Inolvidables de Apia](https://open.spotify.com/album/6QLtJEtHHAkmH0Tn7zhW4c) | 3:25 | 2022-06-08 | 2022-07-29 |
 | [Mi Renuncia](https://open.spotify.com/track/7em1GCdeDU60h5r6WUlEIU) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [Que Sea un Motivo \(30 Años de Vida Artística\)](https://open.spotify.com/album/5aKg3XbB8O5OJ95PnCOs8B) | 3:20 | 2022-06-08 | 2022-07-29 |
 | [Mi Venganza](https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/4GrlF2rRb3Xg9o4aPPKOik) | 3:11 | 2022-06-08 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Dani Torres en portada.",
-  "num_followers": 55201,
+  "num_followers": 55199,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MjUzNSwwMDAwMDAwMGE3YTc2NmMzMWVlNDk4YWQxOGRjMTRiMmY3OGQwNTQ0",
+  "snapshot_id": "MTY3MTY0MjUzNSwwMDAwMDAwMGE0NDljOGFjNTYzM2ViNzcxODI1YmYyZTVjZjc1NmQ4",
   "tracks": [
     {
       "added_at": "2022-11-25 02:28:29",
@@ -995,26 +995,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Mal Acompa\u00f1ada",
-        "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
-      },
-      "artists": [
-        {
-          "name": "Martinez",
-          "url": "https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy"
-        },
-        {
-          "name": "Philip Ariaz",
-          "url": "https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC"
-        }
-      ],
-      "duration_ms": 201496,
-      "name": "Mal Acompa\u00f1ada",
-      "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Loco Demente",
         "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 196744,
       "name": "14",
       "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Mal Acompa\u00f1ada",
+        "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
+      },
+      "artists": [
+        {
+          "name": "Martinez",
+          "url": "https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy"
+        },
+        {
+          "name": "Philip Ariaz",
+          "url": "https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC"
+        }
+      ],
+      "duration_ms": 201496,
+      "name": "Mal Acompa\u00f1ada",
+      "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
     },
     {
       "added_at": "2022-09-29 23:31:37",

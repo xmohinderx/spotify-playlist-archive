@@ -4,7 +4,7 @@
 
 > 2023
 
-750 songs - 1 day 9 hr 15 min
+751 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,7 @@
 | [Pa](https://open.spotify.com/track/2XwjPhT5TWQopTEhupQjjk) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [Ca Va/Pa](https://open.spotify.com/album/0YqOBA39Otp1yUfrTqGRPo) | 2:46 | 2022-06-17 | 2022-08-19 |
 | [Paid](https://open.spotify.com/track/34XVB9D18VEseJbDan1H5m) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:16 | 2022-10-13 | 2022-10-18 |
 | [Paid](https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 2:16 | 2022-10-13 | 2022-10-28 |
-| [Paigons](https://open.spotify.com/track/74JPRkbRTcqdXyxAVk55MP) | [Ayye STK](https://open.spotify.com/artist/7wVWirIn26xtZENqXnTG7b) | [Paigons](https://open.spotify.com/album/2C5QyamRkL1LUzfawdMGlZ) | 2:21 | 2022-12-08 |  |
+| [Paigons](https://open.spotify.com/track/74JPRkbRTcqdXyxAVk55MP) | [Ayye STK](https://open.spotify.com/artist/7wVWirIn26xtZENqXnTG7b) | [Paigons](https://open.spotify.com/album/2C5QyamRkL1LUzfawdMGlZ) | 2:21 | 2022-12-08 | 2023-01-07 |
 | [PAIN BABY](https://open.spotify.com/track/2VneLFgPiLNPVlFZMqiY5Z) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:58 | 2022-05-05 | 2022-05-13 |
 | [PAKET](https://open.spotify.com/track/7LtgVT3e9MfQo5AWnakby2) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD 2](https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy) | 2:58 | 2022-06-09 | 2022-09-09 |
 | [Paljetter](https://open.spotify.com/track/1mhKQx5uP7LIzJC6kx5AEj) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2), [Nader](https://open.spotify.com/artist/7l1XppnaWcSLWRWPCJosTh) | [Paljetter](https://open.spotify.com/album/1zYzcpxhsnQM7GujflCr7v) | 3:03 | 2022-05-26 | 2022-06-10 |
@@ -689,6 +689,7 @@
 | [Tänk lite](https://open.spotify.com/track/0lbKDnUwHjdaHJy1pEVubl) | [RAHIMIC](https://open.spotify.com/artist/4rSe5VVdZX6GOPCcMYT7ZM) | [Tänk lite](https://open.spotify.com/album/3NCqRiZBi1309PIMH8l1cC) | 2:24 | 2022-06-17 | 2022-08-26 |
 | [Umbrella](https://open.spotify.com/track/2NxGqx9mDpTzXQJtbYguwi) | [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [Umbrella](https://open.spotify.com/album/3tVqsIxWjX7ZzahPgEAQeE) | 2:17 | 2022-06-22 | 2022-09-09 |
 | [Unika](https://open.spotify.com/track/41rrroAlXa1YNTsgTIIaKN) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Modo Banja](https://open.spotify.com/artist/0RNweHFk8drHYKryYRpeB3), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Unika](https://open.spotify.com/album/2s3cn1M8aB87jPMQWA1Q9J) | 2:45 | 2022-04-07 | 2022-05-13 |
+| [UTE PÅ JAKT](https://open.spotify.com/track/3XDKCULgNxH5s6WdgZge2G) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [UTE PÅ JAKT](https://open.spotify.com/album/1lyWpBbEUphXWN2KmlVFqx) | 2:01 | 2023-01-06 |  |
 | [Utfixaren](https://open.spotify.com/track/2aCBagDBEXAVniQytt59BV) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [Utfixaren](https://open.spotify.com/album/2UsHx6TASGmf0AJ5zj96uc) | 1:57 | 2022-10-06 | 2022-10-19 |
 | [V12](https://open.spotify.com/track/6jpdmZj65fT9jX9izk2B6n) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Sista spåret](https://open.spotify.com/album/0lLwGxUaltYfowzEzvNnEd) | 2:48 | 2022-03-25 | 2022-06-03 |
 | [v3 \(vaksam\)](https://open.spotify.com/track/4D3cw3uqArtyxnWL5sMU13) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn) | [six v's](https://open.spotify.com/album/0mU4EvBcX5idj4UWW6TNE7) | 2:36 | 2022-06-23 | 2022-07-08 |

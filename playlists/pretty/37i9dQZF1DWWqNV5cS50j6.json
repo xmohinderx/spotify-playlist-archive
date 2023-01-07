@@ -1,12 +1,12 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 684379,
+  "num_followers": 684592,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjg0MzgzNCwwMDAwMDAwMGRkNjkwMmM4YTI0MDA5M2RkNjY3ODk1YzM2M2I1Y2Vl",
+  "snapshot_id": "MTY3MzAyMDAwMCwwMDAwMDAwMDFjZGE4YjIzODZiNTdjMTQ5MDM0NGRkNGIzY2NjNGQ2",
   "tracks": [
     {
       "added_at": "2022-11-30 19:41:15",
@@ -455,22 +455,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "spend the money (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
+        "name": "TROJAN HORSE",
+        "url": "https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB"
       },
       "artists": [
         {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "SEBASTIAN PAUL",
+          "url": "https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF"
         }
       ],
-      "duration_ms": 199669,
-      "name": "spend the money (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
+      "duration_ms": 266393,
+      "name": "TROJAN HORSE",
+      "url": "https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -491,18 +487,42 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "TROJAN HORSE",
-        "url": "https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB"
+        "name": "spend the money (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
       },
       "artists": [
         {
-          "name": "SEBASTIAN PAUL",
-          "url": "https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF"
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 266393,
-      "name": "TROJAN HORSE",
-      "url": "https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML"
+      "duration_ms": 199669,
+      "name": "spend the money (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
+    },
+    {
+      "added_at": "2023-01-04 14:50:34",
+      "album": {
+        "name": "Mamacita (feat. A$AP Rocky)",
+        "url": "https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0"
+      },
+      "artists": [
+        {
+          "name": "Smooky MarGielaa",
+          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 185749,
+      "name": "Mamacita (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -539,26 +559,6 @@
       "duration_ms": 175416,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
-    },
-    {
-      "added_at": "2023-01-04 14:50:34",
-      "album": {
-        "name": "Mamacita (feat. A$AP Rocky)",
-        "url": "https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0"
-      },
-      "artists": [
-        {
-          "name": "Smooky MarGielaa",
-          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 185749,
-      "name": "Mamacita (feat. A$AP Rocky)",
-      "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Eye Tell (!)",
-        "url": "https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        }
-      ],
-      "duration_ms": 130692,
-      "name": "Eye Tell (!)",
-      "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Sundays",
@@ -811,6 +795,22 @@
       "duration_ms": 109866,
       "name": "Sundays",
       "url": "https://open.spotify.com/track/0troHdGkx1ORKsnR8Kehht"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Eye Tell (!)",
+        "url": "https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 130692,
+      "name": "Eye Tell (!)",
+      "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -947,26 +947,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "DIRT (feat. JPEGMAFIA)",
-        "url": "https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF"
-      },
-      "artists": [
-        {
-          "name": "Y2K",
-          "url": "https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx"
-        },
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 238324,
-      "name": "DIRT (feat. JPEGMAFIA)",
-      "url": "https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "IDC",
         "url": "https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz"
       },
@@ -983,6 +963,42 @@
       "duration_ms": 112666,
       "name": "IDC",
       "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
+    },
+    {
+      "added_at": "2023-01-06 15:46:40",
+      "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+      },
+      "artists": [
+        {
+          "name": "KALI",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        }
+      ],
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "DIRT (feat. JPEGMAFIA)",
+        "url": "https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF"
+      },
+      "artists": [
+        {
+          "name": "Y2K",
+          "url": "https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 238324,
+      "name": "DIRT (feat. JPEGMAFIA)",
+      "url": "https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Made Your Mama Cry",
-        "url": "https://open.spotify.com/album/5lTDpM1X4vqQIFD7jLP17c"
-      },
-      "artists": [
-        {
-          "name": "Nana Lourdes",
-          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
-        }
-      ],
-      "duration_ms": 158451,
-      "name": "Made Your Mama Cry",
-      "url": "https://open.spotify.com/track/3GROKC4eYt3KVWN3AyMCwL"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "MAKER'S DESIGN",
         "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
       },
@@ -1401,6 +1401,22 @@
       "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
     },
     {
+      "added_at": "2023-01-06 15:46:40",
+      "album": {
+        "name": "Made Your Mama Cry",
+        "url": "https://open.spotify.com/album/5lTDpM1X4vqQIFD7jLP17c"
+      },
+      "artists": [
+        {
+          "name": "Nana Lourdes",
+          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
+        }
+      ],
+      "duration_ms": 158451,
+      "name": "Made Your Mama Cry",
+      "url": "https://open.spotify.com/track/3GROKC4eYt3KVWN3AyMCwL"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "Cold Blood",
@@ -1415,6 +1431,22 @@
       "duration_ms": 164610,
       "name": "Cold Blood",
       "url": "https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "boythots",
+        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 137844,
+      "name": "boythots",
+      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1445,22 +1477,6 @@
       "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "boythots",
-        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 137844,
-      "name": "boythots",
-      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
-    },
-    {
       "added_at": "2022-12-08 15:20:00",
       "album": {
         "name": "HARRISONBORTS 2022",
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "GTFO",
-        "url": "https://open.spotify.com/album/5hAPhhrqcSGlLHW3uNgJof"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 200920,
-      "name": "GTFO",
-      "url": "https://open.spotify.com/track/01nSzyIB57M50XlmuGGqjE"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "until my heart stops beating",
         "url": "https://open.spotify.com/album/3w2ZKhoHP7cg7ypyy7sSW6"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 204608,
       "name": "until my heart stops beating",
       "url": "https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "GTFO",
+        "url": "https://open.spotify.com/album/5hAPhhrqcSGlLHW3uNgJof"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 200920,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/01nSzyIB57M50XlmuGGqjE"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p"
-      },
-      "artists": [
-        {
-          "name": "Mosie",
-          "url": "https://open.spotify.com/artist/6HGNvZKlT5TO7y4aJbDHql"
-        }
-      ],
-      "duration_ms": 234230,
-      "name": "Oh! Frenchy",
-      "url": "https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Griffith Park",
         "url": "https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel"
       },
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Doja Cat",
-        "url": "https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol"
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p"
       },
       "artists": [
         {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+          "name": "Mosie",
+          "url": "https://open.spotify.com/artist/6HGNvZKlT5TO7y4aJbDHql"
         }
       ],
-      "duration_ms": 160397,
-      "name": "Doja Cat",
-      "url": "https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg"
+      "duration_ms": 234230,
+      "name": "Oh! Frenchy",
+      "url": "https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "post spring, self destruction",
-        "url": "https://open.spotify.com/album/3pIwZl4Z1jKi9Je3lMh3Rd"
+        "name": "Doja Cat",
+        "url": "https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol"
       },
       "artists": [
         {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        },
-        {
-          "name": "Tom The Mail Man",
-          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
         }
       ],
-      "duration_ms": 174193,
-      "name": "overpaid (feat. Tom The Mail Man)",
-      "url": "https://open.spotify.com/track/2LVeGtvlH8VwDJTP8EHeek"
+      "duration_ms": 160397,
+      "name": "Doja Cat",
+      "url": "https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg"
     }
   ],
   "unique_name": "anti pop",

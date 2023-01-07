@@ -1,12 +1,12 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 40649,
+  "num_followers": 40658,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1MTMwNSwwMDAwMDAwMGM5OGU5ZjMwYWQ3YTE3OTcyMjVmODViOTMxYmZlZjg1",
+  "snapshot_id": "MTY3MTU1MTMwNSwwMDAwMDAwMGE0N2Y5YTcyYjY1M2ExZTVjN2E1M2JmMjYwOTcyMDkw",
   "tracks": [
     {
       "added_at": "2022-12-20 15:48:25",
@@ -756,38 +756,6 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 146760,
-      "name": "\u306a\u3044\u3057\u3087\u306e\u30d7\u30ec\u30bc\u30f3\u30c8\u30d5\u30a9\u30fc\u30e6\u30fc!",
-      "url": "https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "\u72ac\u7cfb\u7537\u5b50\u7559\u5b88\u756a\u4e2d",
-      "url": "https://open.spotify.com/track/3mHxAkv73HkKcFCxRKHKOx"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
       "duration_ms": 229226,
       "name": "\u5e0c\u671b\u306e\u30c1\u30e5\u30fc\u3057\u3088\u3063",
       "url": "https://open.spotify.com/track/13itvOxVMK2kmSTc3RQKu0"
@@ -820,15 +788,15 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 201186,
-      "name": "\u9752\u6625\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8 - Christmas Version",
-      "url": "https://open.spotify.com/track/1XEATRA9P0Eb2RuBARo0P7"
+      "duration_ms": 236533,
+      "name": "\u72ac\u7cfb\u7537\u5b50\u7559\u5b88\u756a\u4e2d",
+      "url": "https://open.spotify.com/track/3mHxAkv73HkKcFCxRKHKOx"
     },
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "STAY PROUD",
-        "url": "https://open.spotify.com/album/1D0ihD3YqJxtn8gYwENqUW"
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
       },
       "artists": [
         {
@@ -836,9 +804,25 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 289713,
-      "name": "STAY PROUD",
-      "url": "https://open.spotify.com/track/6YR3O2J3sArbxFGRgWuDDn"
+      "duration_ms": 146760,
+      "name": "\u306a\u3044\u3057\u3087\u306e\u30d7\u30ec\u30bc\u30f3\u30c8\u30d5\u30a9\u30fc\u30e6\u30fc!",
+      "url": "https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "\u9752\u6625\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8 - Christmas Version",
+      "url": "https://open.spotify.com/track/1XEATRA9P0Eb2RuBARo0P7"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -855,6 +839,22 @@
       "duration_ms": 142426,
       "name": "\u8f9b\u3044\u3084\u5acc",
       "url": "https://open.spotify.com/track/0Yce7K4Gd8F1Ir2DqJVfkU"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "STAY PROUD",
+        "url": "https://open.spotify.com/album/1D0ihD3YqJxtn8gYwENqUW"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 289713,
+      "name": "STAY PROUD",
+      "url": "https://open.spotify.com/track/6YR3O2J3sArbxFGRgWuDDn"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -887,6 +887,22 @@
       "duration_ms": 252733,
       "name": "Ready Go!!",
       "url": "https://open.spotify.com/track/6tegIQ47QKtO7ihE5ypMyN"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "\u9739\u9742",
+      "url": "https://open.spotify.com/track/71E8i4jYbgiYvEmj9zOAuX"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -932,25 +948,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 208733,
-      "name": "\u9739\u9742",
-      "url": "https://open.spotify.com/track/71E8i4jYbgiYvEmj9zOAuX"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
-        "name": "Strawberry Prince",
-        "url": "https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "Very",
-      "url": "https://open.spotify.com/track/6ET6x9liuhqDx4cIGXk7aX"
+      "duration_ms": 259920,
+      "name": "FROG MAN",
+      "url": "https://open.spotify.com/track/26KL0IASrWq7D3tsf3mYVO"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -971,8 +971,8 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+        "name": "Strawberry Prince",
+        "url": "https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 259920,
-      "name": "FROG MAN",
-      "url": "https://open.spotify.com/track/26KL0IASrWq7D3tsf3mYVO"
+      "duration_ms": 186680,
+      "name": "Very",
+      "url": "https://open.spotify.com/track/6ET6x9liuhqDx4cIGXk7aX"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "Strawberry Prince",
-        "url": "https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "STRIKE the PRISON!!",
-      "url": "https://open.spotify.com/track/3Fv1HdrHzaREMva5Lqin8T"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
         "name": "Here We Go!!",
         "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 194200,
       "name": "\u30e8\u30a2\u30b1\u30a4\u30ed",
       "url": "https://open.spotify.com/track/03QMOcvxXRRQuk4glPBBij"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "Strawberry Prince",
+        "url": "https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "STRIKE the PRISON!!",
+      "url": "https://open.spotify.com/track/3Fv1HdrHzaREMva5Lqin8T"
     },
     {
       "added_at": "2022-12-20 15:48:25",

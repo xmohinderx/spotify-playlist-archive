@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-307 songs - 17 hr 43 min
+308 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Eucalipto](https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Eucalipto](https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27) | 2:40 | 2021-12-09 |  |
 | [Evaluna](https://open.spotify.com/track/0RlmVqnKUjxxDx8cZ3VQm8) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Evaluna](https://open.spotify.com/album/5gC3NrSJCCB2MDmEVoHivD) | 3:20 | 2021-12-09 | 2022-06-17 |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 | 2021-12-09 |  |
+| [Facendo L'Amore](https://open.spotify.com/track/2Q9yKgwemkOyR3bAeCfPcx) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Un Día A La Vez](https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ) | 2:45 | 2022-12-30 |  |
 | [Fica Tudo Bem](https://open.spotify.com/track/5c4Yrl4GzS8vc4Mzq1LUFD) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Fica Tudo Bem](https://open.spotify.com/album/5FX7kbaIQ8wTCKLyQaH5Lb) | 2:47 | 2022-04-07 | 2022-10-28 |
 | [Fin de Semana \- Acústico](https://open.spotify.com/track/0elyc56ZNt08SLbg6m3y0B) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Fin de Semana \(Acústico\)](https://open.spotify.com/album/2sDPTOHNSGI8rNW1dp7LE9) | 2:30 | 2021-12-09 |  |
 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 | 2021-12-09 |  |
@@ -233,7 +234,7 @@
 | [Pellízquenme](https://open.spotify.com/track/01GkH9n3MLf606vcWddYl9) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [1995](https://open.spotify.com/album/0PKs87i37uUK6kuDWnWCYg) | 3:23 | 2022-05-14 |  |
 | [Pelo Rojo](https://open.spotify.com/track/0qIMvQqkARENwEmau3CnRW) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Pelo Rojo](https://open.spotify.com/album/2V1QKcqfCa0jzkACA6PcLe) | 3:30 | 2021-12-09 | 2022-07-24 |
 | [Piensa en Mí](https://open.spotify.com/track/5tjWzp9GGEvAlLFRs1X9Gi) | [Cheo](https://open.spotify.com/artist/1WiBb0a97UEVV2Dz4RhJ74), [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Piensa en Mí](https://open.spotify.com/album/5JSMMDCaa0XQLPVNykJQnH) | 2:26 | 2022-04-07 | 2022-04-20 |
-| [Por Ti](https://open.spotify.com/track/1vJg0bCR0zESD3fgUcKnwb) | [Lucía Fernanda](https://open.spotify.com/artist/75xX5rWpgqwJmIPSsCVe9A), [Rocco S](https://open.spotify.com/artist/5SQjmqdfpyXNNsc9aCBrwx) | [Por Ti](https://open.spotify.com/album/6uFCl5fPaP6UmP1cW8nNtQ) | 2:42 | 2021-12-09 |  |
+| [Por Ti](https://open.spotify.com/track/1vJg0bCR0zESD3fgUcKnwb) | [Lucía Fernanda](https://open.spotify.com/artist/75xX5rWpgqwJmIPSsCVe9A), [Rocco S](https://open.spotify.com/artist/5SQjmqdfpyXNNsc9aCBrwx) | [Por Ti](https://open.spotify.com/album/6uFCl5fPaP6UmP1cW8nNtQ) | 2:42 | 2021-12-09 | 2023-01-07 |
 | [Por Verte Llegar](https://open.spotify.com/track/6p6kREqbuJLlZiv86td57b) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Todo Da Vueltas](https://open.spotify.com/album/3japeSKHpX7ialXmToKWhX) | 3:32 | 2021-12-09 | 2022-07-29 |
 | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt) | 2:55 | 2021-12-09 |  |
 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 | 2021-12-09 |  |

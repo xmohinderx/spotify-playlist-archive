@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 24506,
+  "num_followers": 24521,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDE4OWIxN2MzYjc3YjlmYTI4OTJiOWYzMjUyYmUwMjA2",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDE4NTE1OGIwNTRiNjBjMjNiMzk5MjU4NDhiZjc3MmJm",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -703,6 +703,22 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
+        "name": "Give Me Your Love",
+        "url": "https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR"
+      },
+      "artists": [
+        {
+          "name": "Fame",
+          "url": "https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "Give Me Your Love",
+      "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
         "name": "La Dolce Vita",
         "url": "https://open.spotify.com/album/0CXSCEO8p04h1FRxFUGsIl"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 173346,
       "name": "Busy Doin' Nothin'",
       "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Give Me Your Love",
-        "url": "https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR"
-      },
-      "artists": [
-        {
-          "name": "Fame",
-          "url": "https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "Give Me Your Love",
-      "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -815,6 +815,22 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
+        "name": "(\u00c5h) N\u00e4r ni tar saken i egna h\u00e4nder",
+        "url": "https://open.spotify.com/album/4gkvAo6QefcyNnTkNf9vaz"
+      },
+      "artists": [
+        {
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "(\u00c5h) N\u00e4r ni tar saken i egna h\u00e4nder",
+      "url": "https://open.spotify.com/track/4WXnFwrGkrGYzwCImeuob6"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
         "name": "Lasse Holm",
         "url": "https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ"
       },
@@ -831,26 +847,6 @@
       "duration_ms": 169783,
       "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
       "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "La voix du nord",
-        "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
-      },
-      "artists": [
-        {
-          "name": "Malena Ernman",
-          "url": "https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo"
-        },
-        {
-          "name": "Fredrik Kempe",
-          "url": "https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "La Voix",
-      "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
     }
   ],
   "unique_name": "Schlagerfest",

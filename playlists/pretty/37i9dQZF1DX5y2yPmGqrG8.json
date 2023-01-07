@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 298432,
+  "num_followers": 298507,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjg0NjgxMywwMDAwMDAwMGQxNzc1OGZlM2E2YjgxYzMxYmFmOWZjYmE2ZDQxZGZi",
+  "snapshot_id": "MTY3Mjg0NjgxMywwMDAwMDAwMDA2YWI0OTZiYjQ5ODA3NDkyYTYxNjI0MzNmMDI4Y2U3",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
     },
     {
-      "added_at": "2023-01-06 07:03:50",
+      "added_at": "2023-01-07 01:20:04",
       "album": {
         "name": "Ambient 23",
         "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
     },
     {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 136040,
-      "name": "Melancholia VI",
-      "url": "https://open.spotify.com/track/28UNXRcOSy94CWFehAPV6u"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Angel's Flight",
@@ -587,6 +571,22 @@
       "duration_ms": 352357,
       "name": "Angel's Flight",
       "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
+    },
+    {
+      "added_at": "2022-10-14 04:40:55",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 136040,
+      "name": "Melancholia VI",
+      "url": "https://open.spotify.com/track/28UNXRcOSy94CWFehAPV6u"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -609,6 +609,22 @@
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
     },
     {
+      "added_at": "2022-10-14 04:40:55",
+      "album": {
+        "name": "Gelis",
+        "url": "https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l"
+      },
+      "artists": [
+        {
+          "name": "Flako",
+          "url": "https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Gelis",
+      "url": "https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS"
+    },
+    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Night Owl",
@@ -627,22 +643,6 @@
       "duration_ms": 376082,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
-    },
-    {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
-        "name": "Gelis",
-        "url": "https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l"
-      },
-      "artists": [
-        {
-          "name": "Flako",
-          "url": "https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Gelis",
-      "url": "https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 143080,
-      "name": "Requiem for CS70 and Strings",
-      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
-    },
-    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "Persona",
@@ -755,6 +739,22 @@
       "duration_ms": 351948,
       "name": "Untravel",
       "url": "https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Requiem for CS70 and Strings",
+      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -837,20 +837,20 @@
       "url": "https://open.spotify.com/track/4854p5c2onuInjU13Kwj4o"
     },
     {
-      "added_at": "2022-09-03 03:47:55",
+      "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+        "name": "Life Of",
+        "url": "https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC"
       },
       "artists": [
         {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+          "name": "Steve Tibbetts",
+          "url": "https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y"
         }
       ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+      "duration_ms": 99400,
+      "name": "Bloodwork",
+      "url": "https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64"
     }
   ],
   "unique_name": "Deep Listening",

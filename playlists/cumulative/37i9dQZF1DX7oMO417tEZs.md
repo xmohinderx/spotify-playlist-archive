@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: Lous and The Yakuza
 
-622 songs - 1 day 10 hr 28 min
+623 songs - 1 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Happy Lonely Boy](https://open.spotify.com/track/5pEsbKaHJ0IrCiaGulBFBp) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Happy Lonely Boy](https://open.spotify.com/album/0E8tk6z5nzJUZAfKsC6Wck) | 2:15 | 2022-07-08 | 2022-08-20 |
 | [Hard To Get](https://open.spotify.com/track/3nWHCAvvHeKmKIhJplifaG) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Hard To Get](https://open.spotify.com/album/4UhwElBwXmYA17Ce01hhQ7) | 6:09 | 2022-10-28 | 2022-11-26 |
 | [Harder](https://open.spotify.com/track/44CcUcYAGQK8K0COHDxRp3) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Harder](https://open.spotify.com/album/55oOzcwcxC5qylaV88sxzh) | 3:05 | 2022-05-20 | 2022-07-23 |
-| [Harder \(with Busta Rhymes\)](https://open.spotify.com/track/0YA8QupyhYiJWDFvqzejpW) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Harder \(with Busta Rhymes\)](https://open.spotify.com/album/2gZMrf6Lp70Ue3zuhWtTjR) | 3:35 | 2022-08-12 |  |
+| [Harder \(with Busta Rhymes\)](https://open.spotify.com/track/0YA8QupyhYiJWDFvqzejpW) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Harder \(with Busta Rhymes\)](https://open.spotify.com/album/2gZMrf6Lp70Ue3zuhWtTjR) | 3:35 | 2022-08-12 | 2023-01-07 |
 | [Harvest Moon – Vandelux Remix](https://open.spotify.com/track/3OcV9XXExOdsVHYXSjSGNd) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Harvest Moon \(Vandelux Remix\)](https://open.spotify.com/album/7JOnm7NqCfCxJ9LCdaZXqB) | 4:34 | 2022-09-09 | 2022-12-03 |
 | [Head Space Freestyle](https://open.spotify.com/track/6gAjaV0vxSuKVw6DIuplvP) | [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Temia](https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa) | [Head Space Freestyle](https://open.spotify.com/album/4pNVj7o6u8ol0UmQlHzJJa) | 1:49 | 2022-04-29 | 2022-06-04 |
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-02-25 | 2022-04-29 |
@@ -507,6 +507,7 @@
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-05-20 |
 | [Smooth](https://open.spotify.com/track/4fI6dj7tYo7THZE5EJwPHZ) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Smooth](https://open.spotify.com/album/78vpDD60PJ8zJx19YP5qcj) | 2:17 | 2022-04-01 | 2022-05-20 |
 | [So Cold](https://open.spotify.com/track/3AGnYRalqtBdpc8Md213bE) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD) | [So Cold](https://open.spotify.com/album/3wb432aGuYLtx7yEkkrE6Z) | 4:14 | 2022-05-27 | 2022-06-18 |
+| [SO HARD TO TELL](https://open.spotify.com/track/6t9Z0pVZOeGnjsp5JDYGQY) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [SO HARD TO TELL](https://open.spotify.com/album/1xXzkgC4BLs5RELfhh0pqC) | 3:05 | 2023-01-06 |  |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-18 | 2022-04-23 |
 | [SOHO HOUSE \(feat\. Hello O'shay\)](https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [MEMO](https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT) | 4:28 | 2022-07-08 | 2022-10-22 |
 | [solitude/martini on mars](https://open.spotify.com/track/7oCmZ0X7rg3CXh2YcpW4GQ) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter](https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij) | 3:15 | 2022-07-29 | 2022-11-19 |

@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127143,
+  "num_followers": 127147,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzg4NCxkMGMzMjVkZjJhYjViYTAyMDYyZWVjNTkwMzc3YmFiMGFlNDkwYWQy",
+  "snapshot_id": "Mzg4OCxkY2U3ZGNiZjhkNzFmYTNhMmZjNDQ1ZTg0NDhhNDZmNjQyYzEzMjA2",
   "tracks": [
+    {
+      "added_at": "2023-01-06 17:50:31",
+      "album": {
+        "name": "Breathe Me Back To Life",
+        "url": "https://open.spotify.com/album/5qcMz7TUHmkGN8gXQLOAT3"
+      },
+      "artists": [
+        {
+          "name": "Stonebank",
+          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
+        },
+        {
+          "name": "Lena Sue",
+          "url": "https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30"
+        }
+      ],
+      "duration_ms": 146829,
+      "name": "Breathe Me Back To Life",
+      "url": "https://open.spotify.com/track/0EI9hyJzyEOeRqQzQyitQ9"
+    },
+    {
+      "added_at": "2023-01-06 17:50:20",
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0RrkXtaPZqAAJnU4fGZ4Y8"
+      },
+      "artists": [
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
+        },
+        {
+          "name": "Cloudcage",
+          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/7JKzCzNua4DT4lBMPrchUI"
+    },
     {
       "added_at": "2023-01-05 17:53:56",
       "album": {
@@ -1091,38 +1131,6 @@
       "duration_ms": 204500,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/1WnSUyG5FQwIwWYMzMTkRS"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "SLEEPER / SICKO",
-        "url": "https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY"
-      },
-      "artists": [
-        {
-          "name": "Godlands",
-          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "SLEEPER",
-      "url": "https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "SLEEPER / SICKO",
-        "url": "https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY"
-      },
-      "artists": [
-        {
-          "name": "Godlands",
-          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "SICKO",
-      "url": "https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-135 songs - 10 hr 18 min
+136 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Tombstone Moondancer](https://open.spotify.com/track/1u5vczu5TwLXBD1Jkv08vp) | [Maximikiz](https://open.spotify.com/artist/0YlEZ0L8FwH6HMXW5jf4JC) | [Tombstone Moondancer](https://open.spotify.com/album/3ikwIBOPITN3FPGnV2seaR) | 3:21 | 2022-04-04 |  |
 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 | 2022-04-04 |  |
 | [Videsh](https://open.spotify.com/track/45Doom4iSv6Z9NqPRFYAFd) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Shareer aur Aatma](https://open.spotify.com/album/4xykJYaWo23DQ0su2Z0F5t) | 3:45 | 2022-04-04 |  |
+| [Waves of Calm](https://open.spotify.com/track/7zgQw1P7vppFiqXuqlC8m3) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Waves of Calm](https://open.spotify.com/album/74aRdPsxFsBnZZeim5Ypid) | 2:51 | 2023-01-06 |  |
 | [Wonders Of Life](https://open.spotify.com/track/1PsDI5FHsxXGCXBdmJiok6) | [Stewart Copeland](https://open.spotify.com/artist/4XVxeuUkJRiCYJYdqRpwab), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Rasika Shekar](https://open.spotify.com/artist/48fjKSjR2LHWFz7ZbL90mH), [Sumarani](https://open.spotify.com/artist/3LsUKxdEnzmOXkWC2klKgj), [Raveolution Strings](https://open.spotify.com/artist/0IeQWuBouDPdJIiRmEozNw), [Manoj George](https://open.spotify.com/artist/7b3jF2mThRQLXsmry90nal), [Vanil Veigas](https://open.spotify.com/artist/4ZjjKxlq2OpIU6dMUBgd0k), [Keerthy Narayan](https://open.spotify.com/artist/6GrC7F7E1ItO0dbbiGJiZ6), [Alexis D'Souza](https://open.spotify.com/artist/0B5BN6iOxXQ6GE9flPduxP), [Prajot D'Sa](https://open.spotify.com/artist/6LTJa6nvQBaceF1oNiTi7r) | [Divine Tides](https://open.spotify.com/album/1uoQRw1DTkKOg6n5u3uVyP) | 4:15 | 2022-04-04 |  |
 | [Your Daily Practice: Yoga](https://open.spotify.com/track/3TJu7LDVWY1WoYxVuClXtD) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Your Daily Practice: Yoga](https://open.spotify.com/album/0AWIN3YskVXIa36vcNTQex) | 5:04 | 2022-04-04 | 2022-10-13 |
 | [Your Daily Practice: Yoga](https://open.spotify.com/track/7qrYHP8c8pmHUbgtk8LBGs) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Your Daily Practice: Yoga](https://open.spotify.com/album/5ZYUi8YTn1mabqL9QjUAD0) | 5:04 | 2022-10-08 |  |

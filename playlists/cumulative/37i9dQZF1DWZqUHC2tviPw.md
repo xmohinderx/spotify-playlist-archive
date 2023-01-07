@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-179 songs - 8 hr 7 min
+181 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [AJ](https://open.spotify.com/track/2pcIABO9SnBqK7YvxayTUg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [AJ](https://open.spotify.com/album/1sKGSWZLv9meMtIAChg2pU) | 2:21 | 2021-11-11 |  |
 | [All the Frogs](https://open.spotify.com/track/5Zxcm8La3J8yCyPA4FpzAe) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 2:03 | 2021-11-11 |  |
 | [ALONE](https://open.spotify.com/track/0sufKKoOv3vi1oghbBtY0L) | [ZERIUS](https://open.spotify.com/artist/5BbcAuQREj8NxK6EG1dnmc), [MRJay](https://open.spotify.com/artist/24PhFqIM2MOH9oAVnPzfRe) | [ALONE](https://open.spotify.com/album/476Hp48mzF4ZHOKnDFy91u) | 2:58 | 2022-04-08 |  |
+| [Apolitikio](https://open.spotify.com/track/7gnP8uPbqEzAMNcJLTq6FU) | [Sardos97](https://open.spotify.com/artist/119BqJ7qRURlIOb22caU5W) | [Unreleased 2002\-2022 Vol.2](https://open.spotify.com/album/3pRq2E9J7ifJ7Zf7YJ2N0D) | 2:22 | 2023-01-06 |  |
 | [Ares](https://open.spotify.com/track/70eKN516JGgd1dt5zdlRbb) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Ares](https://open.spotify.com/album/7FezwNt76ZTj0OebKoBEZ0) | 2:59 | 2021-11-11 |  |
 | [Arian](https://open.spotify.com/track/0qOKwBICWzPtScjJjuLLkv) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Arian](https://open.spotify.com/album/32w458f4xQdJZp3rjLsFnR) | 1:52 | 2021-11-11 |  |
 | [Astro](https://open.spotify.com/track/0VsvnEFxG5lZFFIeplTGy2) | [Jaller Beats](https://open.spotify.com/artist/5j2hqWZ2KnbaqKP3uRQwHH) | [Astro](https://open.spotify.com/album/1XUbFBBvHil1CD0PjGQU7I) | 2:13 | 2021-11-11 | 2022-07-15 |
@@ -74,6 +75,7 @@
 | [Homemade Punch](https://open.spotify.com/track/6m9L4Fu2D80SuKUfZXkE13) | [Confetti Grenade](https://open.spotify.com/artist/74c5pQ1acFkasOeOsTSt7M) | [Homemade Punch](https://open.spotify.com/album/2LjxFbBzurlXQH8kQzVr0i) | 2:12 | 2022-12-09 |  |
 | [Hometown](https://open.spotify.com/track/7nX4292m7E2yXft3H1aDp5) | [Manonesque](https://open.spotify.com/artist/1QJoPaMpPM8VAYEFzKJSLG) | [Hometown](https://open.spotify.com/album/5YDHV478MEMicxIVbePEdy) | 2:05 | 2021-11-11 |  |
 | [Hovercraft](https://open.spotify.com/track/0KMR1u19KzGTtRxc6N7FCZ) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Joke's On Us](https://open.spotify.com/album/1Luifp19S1RPreTk3D3vur) | 2:30 | 2021-11-11 | 2022-10-14 |
+| [Hunch](https://open.spotify.com/track/0Ha38zN6QMVjRKTbJYhjZ9) | [Azucares](https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC) | [Hunch / Qwuan](https://open.spotify.com/album/3VLPMI6Fx93tcU3FjuhtGJ) | 2:41 | 2023-01-06 |  |
 | [I Wanna Say Something](https://open.spotify.com/track/5fWRBWN2TkGGnYXvZrPjgK) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [You Can Not Lie](https://open.spotify.com/album/1FWE6gq1DJFypvb8u3BVwr) | 2:07 | 2022-05-13 | 2022-07-15 |
 | [I Won](https://open.spotify.com/track/0FwGhS0DqxoIztkWFeKHfq) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Lunchbox](https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO) | 3:14 | 2022-04-08 |  |
 | [I'm Not Playing](https://open.spotify.com/track/4oa60HzymQDK5T67GLwuRc) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Giggin](https://open.spotify.com/album/5MCf2Q4N6Jolv1vOmMCpTO) | 2:17 | 2022-12-23 |  |

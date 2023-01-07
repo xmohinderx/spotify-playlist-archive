@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Toquinho
 
-367 songs - 22 hr 11 min
+368 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Boca Em Brasa](https://open.spotify.com/track/3aVuw6UoTE477BrOO8aJCP) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Da Gente](https://open.spotify.com/album/4mh0jxKZs3CchYrtJyMByM) | 3:11 | 2022-03-21 | 2022-04-16 |
 | [Bola de Sabão](https://open.spotify.com/track/0Wr2aRTg74el3e98NKu8Zs) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Carnaval de Sofá](https://open.spotify.com/album/6ne5ijX7ThpjEdy3y3GZBk) | 3:06 | 2022-02-11 | 2022-04-02 |
 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 | 2021-12-24 | 2022-08-12 |
+| [Bora Sair?](https://open.spotify.com/track/506J1q9NiGKHlhXdH4ZhV5) | [Malu Guedelha](https://open.spotify.com/artist/0tD5oJ59qOMoYOWI8ovvpH) | [Livre](https://open.spotify.com/album/7rwZcdvrRgDkz3Jm9aiP8T) | 4:47 | 2023-01-06 |  |
 | [Bédi Beat \(Acústico\)](https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Bédi Beat \(Acústico\)](https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo) | 4:35 | 2021-12-24 |  |
 | [Cais](https://open.spotify.com/track/2zrxBTZUGR1vhViLmRGtRw) | [Zé Nigro](https://open.spotify.com/artist/2gPKUWOiCVJK5v1yJUHTpj), [Alessandra Leão](https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno) | [Cais](https://open.spotify.com/album/2X55OfvXSptynsrQWYq9Oz) | 2:38 | 2022-02-11 | 2022-03-01 |
 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 | 2021-12-24 |  |

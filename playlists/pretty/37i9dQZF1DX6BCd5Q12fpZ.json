@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 59437,
+  "num_followers": 59445,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDA4OWFlMDdkOWMwMjZlZmNiYWVkYTQ4Nzc4MmMwMThi",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMGMwMDU0NzMzNWE2ZjU4NWJmNTFjMzYwYjE0MzhiNDdh",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "Wings Of Love",
+        "url": "https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5"
+      },
+      "artists": [
+        {
+          "name": "Br\u00f8drene Olsen",
+          "url": "https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "Fly on the Wings of Love",
+      "url": "https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "Ooh Aah...Just a Little Bit (Eurovision Version)",
         "url": "https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 181989,
       "name": "Rise Like A Phoenix",
       "url": "https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Wings Of Love",
-        "url": "https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5"
-      },
-      "artists": [
-        {
-          "name": "Br\u00f8drene Olsen",
-          "url": "https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri"
-        }
-      ],
-      "duration_ms": 185066,
-      "name": "Fly on the Wings of Love",
-      "url": "https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -991,38 +991,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/1UAZLLyBwoQB9T5CIG0VSE"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Fr\u00e4mling",
-      "url": "https://open.spotify.com/track/1FndLKa7Gs9S8WKVZuq4RL"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Menq Enq Mer Sarere",
-        "url": "https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8"
-      },
-      "artists": [
-        {
-          "name": "Inga & Anush",
-          "url": "https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Jan-Jan",
-      "url": "https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "This Gig Almost Got Me Killed",
         "url": "https://open.spotify.com/album/2iOWFL3Nvw6HEhXfSxFe2K"
       },
@@ -1055,6 +1023,38 @@
       "duration_ms": 207594,
       "name": "Glorious - Video Edit",
       "url": "https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Menq Enq Mer Sarere",
+        "url": "https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8"
+      },
+      "artists": [
+        {
+          "name": "Inga & Anush",
+          "url": "https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Jan-Jan",
+      "url": "https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/1UAZLLyBwoQB9T5CIG0VSE"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Fr\u00e4mling",
+      "url": "https://open.spotify.com/track/1FndLKa7Gs9S8WKVZuq4RL"
     },
     {
       "added_at": "2022-05-16 13:21:08",

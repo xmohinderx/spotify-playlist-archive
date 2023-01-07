@@ -2,7 +2,7 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=EGSmQqizQz687lXSsBxLdg">Omagoqa</a>
+> It's not just about the music, it's about the culture\. Cover: <br/>Mampintsha
 
 86 songs - 7 hr 41 min
 

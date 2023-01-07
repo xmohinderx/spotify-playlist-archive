@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 5663,
+  "num_followers": 5677,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDdiMzhiMDU3YjUyYzczZDMyZWRkMmNhZjI3MDFhODJm",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGNjMDc4NDk5M2QzMmE5ODYzODkzNTczMjU2MDZkM2Jk",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Kulanjan",
-        "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM"
-        },
-        {
-          "name": "Toumani Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
-        }
-      ],
-      "duration_ms": 329866,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Seya",
         "url": "https://open.spotify.com/album/1nEaABF2RBrAzbX0akAyk6"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 397706,
       "name": "Alghafiat",
       "url": "https://open.spotify.com/track/2XNNxHozxIxvJ6gUnjWjt3"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Kulanjan",
+        "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "duration_ms": 329866,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -471,22 +471,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Mogoya",
-        "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
+        "name": "Tassili (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN"
       },
       "artists": [
         {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
-        },
-        {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he"
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
         }
       ],
-      "duration_ms": 311266,
-      "name": "Yere faga",
-      "url": "https://open.spotify.com/track/2TdpGmTV28dk9XPJhHq1h1"
+      "duration_ms": 253453,
+      "name": "Tenere Taqhim Tossam",
+      "url": "https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -507,18 +503,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Tassili (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN"
+        "name": "Mogoya",
+        "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
       },
       "artists": [
         {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        },
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he"
         }
       ],
-      "duration_ms": 253453,
-      "name": "Tenere Taqhim Tossam",
-      "url": "https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf"
+      "duration_ms": 311266,
+      "name": "Yere faga",
+      "url": "https://open.spotify.com/track/2TdpGmTV28dk9XPJhHq1h1"
     },
     {
       "added_at": "2020-12-01 05:01:00",

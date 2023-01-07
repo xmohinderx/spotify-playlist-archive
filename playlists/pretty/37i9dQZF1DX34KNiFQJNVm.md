@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Thiaguinho, Matheus Fernandes, Thiago Aquino com Mari Fernandez e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,815,421 likes - 46 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,815,857 likes - 48 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 36 | [Na Postura](https://open.spotify.com/track/7rxe600usm0YEsatPi6ed2) | [Mc Vetão](https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5), [Mc Neguinho do Corte](https://open.spotify.com/artist/5pA8pFAscsP7ZMqzEkXlVr), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Na Postura](https://open.spotify.com/album/0YJDsdXlsvhu4uNLp1JjsQ) | 2:32 |
 | 37 | [Mansão](https://open.spotify.com/track/6qEpRTwMng2D4OiB3SfVne) | [Pocinno](https://open.spotify.com/artist/71jxfnyWB1z0h4ZI5R29xb), [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m) | [Mansão](https://open.spotify.com/album/3qA1tUjGJ21LFv7rTZf9TJ) | 3:01 |
 | 38 | [Vamo Pra Praia](https://open.spotify.com/track/0aiQJXRsKCHZKpSlZQDOqd) | [DOM7NICO](https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv) | [O Melhor Da Vida](https://open.spotify.com/album/1kyr3LSz194Gd27mexeF33) | 3:03 |
-| 39 | [Girassol](https://open.spotify.com/track/26comn1fbkVTg3HuuYU4w3) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I) | [Girassol](https://open.spotify.com/album/7poqNacyVe3hPkzyPtugdD) | 2:26 |
-| 40 | [Opção](https://open.spotify.com/track/1B9uKs7x8MrqgsdSpkusUA) | [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p), [Amorim Mc](https://open.spotify.com/artist/5VlPsFoM4vJZ3F9LYQe5W1) | [Opção](https://open.spotify.com/album/4AC1ys90qOKnmjlMLOTivG) | 2:51 |
-| 41 | [Feel It Like](https://open.spotify.com/track/6YKH2TU9ZamXP0ISCC4ytN) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [VOCOD](https://open.spotify.com/artist/2aRFBbI4HfPPaGkWBxWYea), [TARS.](https://open.spotify.com/artist/0Dp54NlNysfSJ0FO2nlTGo) | [Feel It Like](https://open.spotify.com/album/3zleXNmcDUkT80gWc3adlx) | 2:34 |
-| 42 | [Ilusão](https://open.spotify.com/track/4d58gtu8qVdDDcrbBDuK3R) | [Mc Branquinha](https://open.spotify.com/artist/4MgxRxXLgmdcrfWXjutvd9) | [Ilusão](https://open.spotify.com/album/7LVbR2arJJ5VmDqVzqJdHR) | 3:01 |
-| 43 | [Last Night](https://open.spotify.com/track/4DTAIggf9g0165WITMns8A) | [Holt 88](https://open.spotify.com/artist/5YjvMkjdrBGdoegUvgu4pu) | [Tricky Freak](https://open.spotify.com/album/0ltG1bnpLNEtuzgUgxb8jD) | 3:30 |
-| 44 | [So](https://open.spotify.com/track/0fXxObanxDxlTGIiVcFsEP) | [Edson Faiolli](https://open.spotify.com/artist/5zQqfkTJNj7rodrMI0UjU5), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [So](https://open.spotify.com/album/5TGX4MIzi1AtrtyZe0xSHV) | 2:50 |
-| 45 | [Fica](https://open.spotify.com/track/1yXlbmn6Z9rah8jBDDzeXM) | [Gaby Vieira](https://open.spotify.com/artist/4TNPkjInqABKIIhWwjbusg), [Dany Bala](https://open.spotify.com/artist/4cQ6t2SYfuOGQmyeXZQSkg) | [Fica](https://open.spotify.com/album/3IdHcXLnoYMzJnWI1gLsYk) | 3:04 |
-| 46 | [Encaixa](https://open.spotify.com/track/2JLYMF5YQY1dNjg1R8xuuc) | [Lukkaz](https://open.spotify.com/artist/6Hcrl8PSzkTrUNYCQxdrBO) | [Encaixa](https://open.spotify.com/album/1bHpgQTdkrZ0jUrbg89WqX) | 2:12 |
+| 39 | [DoisTrês](https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [DoisTrês](https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4) | 1:15 |
+| 40 | [Girassol](https://open.spotify.com/track/26comn1fbkVTg3HuuYU4w3) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I) | [Girassol](https://open.spotify.com/album/7poqNacyVe3hPkzyPtugdD) | 2:26 |
+| 41 | [Opção](https://open.spotify.com/track/1B9uKs7x8MrqgsdSpkusUA) | [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p), [Amorim Mc](https://open.spotify.com/artist/5VlPsFoM4vJZ3F9LYQe5W1) | [Opção](https://open.spotify.com/album/4AC1ys90qOKnmjlMLOTivG) | 2:51 |
+| 42 | [Feel It Like](https://open.spotify.com/track/6YKH2TU9ZamXP0ISCC4ytN) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [VOCOD](https://open.spotify.com/artist/2aRFBbI4HfPPaGkWBxWYea), [TARS.](https://open.spotify.com/artist/0Dp54NlNysfSJ0FO2nlTGo) | [Feel It Like](https://open.spotify.com/album/3zleXNmcDUkT80gWc3adlx) | 2:34 |
+| 43 | [Ilusão](https://open.spotify.com/track/4d58gtu8qVdDDcrbBDuK3R) | [Mc Branquinha](https://open.spotify.com/artist/4MgxRxXLgmdcrfWXjutvd9) | [Ilusão](https://open.spotify.com/album/7LVbR2arJJ5VmDqVzqJdHR) | 3:01 |
+| 44 | [Last Night](https://open.spotify.com/track/4DTAIggf9g0165WITMns8A) | [Holt 88](https://open.spotify.com/artist/5YjvMkjdrBGdoegUvgu4pu) | [Tricky Freak](https://open.spotify.com/album/0ltG1bnpLNEtuzgUgxb8jD) | 3:30 |
+| 45 | [So](https://open.spotify.com/track/0fXxObanxDxlTGIiVcFsEP) | [Edson Faiolli](https://open.spotify.com/artist/5zQqfkTJNj7rodrMI0UjU5), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [So](https://open.spotify.com/album/5TGX4MIzi1AtrtyZe0xSHV) | 2:50 |
+| 46 | [Pode Se Chegar](https://open.spotify.com/track/0m2txmgdJBsQ1eHQkfwwPv) | [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs) | [Pode Se Chegar](https://open.spotify.com/album/6CDUSxBtz64cQA2O9jvs5c) | 2:19 |
+| 47 | [Fica](https://open.spotify.com/track/1yXlbmn6Z9rah8jBDDzeXM) | [Gaby Vieira](https://open.spotify.com/artist/4TNPkjInqABKIIhWwjbusg), [Dany Bala](https://open.spotify.com/artist/4cQ6t2SYfuOGQmyeXZQSkg) | [Fica](https://open.spotify.com/album/3IdHcXLnoYMzJnWI1gLsYk) | 3:04 |
+| 48 | [Encaixa](https://open.spotify.com/track/2JLYMF5YQY1dNjg1R8xuuc) | [Lukkaz](https://open.spotify.com/artist/6Hcrl8PSzkTrUNYCQxdrBO) | [Encaixa](https://open.spotify.com/album/1bHpgQTdkrZ0jUrbg89WqX) | 2:12 |
 
 Snapshot ID: `MTY3Mjk3NDA2MCwwMDAwMDAwMGE4MGI1YjhhY2NmMTA1NWYzY2E5ZTdmN2RjNmExMDkw`

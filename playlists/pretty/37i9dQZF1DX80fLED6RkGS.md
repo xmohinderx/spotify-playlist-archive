@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=6FaHJ3sJRZ\-8aikGhceCow">Boutross </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,634 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,675 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 2 | [Miondoko](https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar) | [Rico Gang](https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [Sababisha](https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q) | 3:04 |
 | 3 | [Nasikia Wah](https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q), [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G) | [Nasikia Wah](https://open.spotify.com/album/3UWUoIRvsWuCBGEU03xNoh) | 3:39 |
 | 4 | [Kuna Kuna](https://open.spotify.com/track/53vfuY2r8Eg1jRMkjY62QZ) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Thee Exit Band](https://open.spotify.com/artist/5tCS32hMdQWpx8gJJsR673) | [Kuna Kuna](https://open.spotify.com/album/6SfLFCTyZ9Os3uYxhZg8iT) | 3:32 |
-| 5 | [Ni Wetu](https://open.spotify.com/track/2N8nINhWcu3CPYAXCgaQRF) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Ni Wetu](https://open.spotify.com/album/5NXk2vlt6UaURtbY2Gda3o) | 3:01 |
-| 6 | [DANCEHALLING](https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [DANCEHALLING](https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc) | 2:24 |
-| 7 | [Bure Kabisa](https://open.spotify.com/track/4Yla7sZf5R0CRmzlSIrVKD) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q) | [Ghetto Genius](https://open.spotify.com/album/2QijZ5nkbcTtWg7XYv8fMx) | 3:35 |
-| 8 | [Dai Dai](https://open.spotify.com/track/4BlBFQR8SjwtHpsuJIMoFu) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Shekina Karen](https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl) | [Dai Dai](https://open.spotify.com/album/3kTpDX8OQWsQ9mRuPwFyoK) | 2:34 |
-| 9 | [KISHASH](https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [KISHASH](https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b) | 2:39 |
+| 5 | [DANCEHALLING](https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [DANCEHALLING](https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc) | 2:24 |
+| 6 | [Ni Wetu](https://open.spotify.com/track/2N8nINhWcu3CPYAXCgaQRF) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Ni Wetu](https://open.spotify.com/album/5NXk2vlt6UaURtbY2Gda3o) | 3:01 |
+| 7 | [KISHASH](https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [KISHASH](https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b) | 2:39 |
+| 8 | [Bure Kabisa](https://open.spotify.com/track/4Yla7sZf5R0CRmzlSIrVKD) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q) | [Ghetto Genius](https://open.spotify.com/album/2QijZ5nkbcTtWg7XYv8fMx) | 3:35 |
+| 9 | [Dai Dai](https://open.spotify.com/track/4BlBFQR8SjwtHpsuJIMoFu) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Shekina Karen](https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl) | [Dai Dai](https://open.spotify.com/album/3kTpDX8OQWsQ9mRuPwFyoK) | 2:34 |
 | 10 | [Kanairo Dating](https://open.spotify.com/track/61yhVznYvsruXvl71ld3ig) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Kanairo Dating](https://open.spotify.com/album/0OH5okIVBbVDxhUfxdjt5J) | 3:41 |
 | 11 | [Dala Wa](https://open.spotify.com/track/3vwCLR1fyjeMCkPFfnfnHL) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Kamwana](https://open.spotify.com/artist/4CUMYYAed2LFHyCTLb4caq), [Veryl Mkali Wao](https://open.spotify.com/artist/4htwtJq9AaxSbpVnA9yopl) | [Dala Wa](https://open.spotify.com/album/5w7xl4ONKgqcsGBXXUcjxd) | 3:36 |
 | 12 | [WANJAPI 2](https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [WANJAPI 2](https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40) | 3:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 79 | [BIZZ NI BIZZ](https://open.spotify.com/track/2aHwfcPILQmSLOTHHfQqiY) | [Ethic](https://open.spotify.com/artist/1WQ1lasaBi46OgC1kSMvqz) | [BIZZ NI BIZZ](https://open.spotify.com/album/6pBjx6fARnklsLoPDBErLF) | 3:52 |
 | 80 | [Mzimbiting](https://open.spotify.com/track/0uDiCG0PNkRNc32AjTDDQj) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Guzman](https://open.spotify.com/artist/4Hk4PlFIhLwmCITL73SKTN), [Micharazo](https://open.spotify.com/artist/4Cky4RSgVV5QtGfC6XQ9sO), [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Mzimbiting](https://open.spotify.com/album/2DUDOGsH1uGyo0asT4Jjzt) | 3:44 |
 
-Snapshot ID: `MTY3MDU2MjgxMCwwMDAwMDAwMDI5Y2I4Zjc0MjFhYzc1NDMxNDI4YjhhMzJlNjA4NmRm`
+Snapshot ID: `MTY3MzAwNjAxNywwMDAwMDAwMDUzYTkyOWY2NzhhMmYyM2Q0NDBmNGQ5Mzk4MTkwMWI2`

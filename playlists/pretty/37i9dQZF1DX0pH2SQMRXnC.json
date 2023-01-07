@@ -1,12 +1,12 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1140914,
+  "num_followers": 1141453,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjcwMDQwMCwwMDAwMDAwMDg5OTg5N2JjN2VhOTE5YmFiMjAzMGViZjU4MDM2NWYx",
+  "snapshot_id": "MTY3MjcwMDQwMCwwMDAwMDAwMGY2YjEwNmM4YmM5OThlMTdjMGU2YzE2Mzc1N2ZiZjFj",
   "tracks": [
     {
       "added_at": "2023-01-02 23:00:00",
@@ -670,6 +670,14 @@
         {
           "name": "TNT",
           "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
         }
       ],
       "duration_ms": 160212,
@@ -911,22 +919,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "We Rule The Night",
-        "url": "https://open.spotify.com/album/7dTraFnFY6BGZFZtjMwBxs"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        }
-      ],
-      "duration_ms": 295646,
-      "name": "Hurricane - Radio Edit",
-      "url": "https://open.spotify.com/track/3kLqJ09xramYW9I9gAXTWl"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Country Roads",
         "url": "https://open.spotify.com/album/5oZGGyO9tPtYKOkLi2rxkf"
       },
@@ -943,6 +935,22 @@
       "duration_ms": 173687,
       "name": "Country Roads",
       "url": "https://open.spotify.com/track/6wwAp1Cmkcwc7tlrP9U2X9"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "We Rule The Night",
+        "url": "https://open.spotify.com/album/7dTraFnFY6BGZFZtjMwBxs"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "duration_ms": 295646,
+      "name": "Hurricane - Radio Edit",
+      "url": "https://open.spotify.com/track/3kLqJ09xramYW9I9gAXTWl"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -1059,42 +1067,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "The Calling (Da Tweekaz Remix)",
-        "url": "https://open.spotify.com/album/7LT1ZlmIgH54ntff4MbIls"
-      },
-      "artists": [
-        {
-          "name": "TheFatRat",
-          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
-        },
-        {
-          "name": "Laura Brehm",
-          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
-        }
-      ],
-      "duration_ms": 228285,
-      "name": "The Calling (Da Tweekaz Remix)",
-      "url": "https://open.spotify.com/track/4aRwjepcGUhXP5MLOncvdT"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Rise Again (Defqon.1 2022 Closing Theme)",
-        "url": "https://open.spotify.com/album/1eO3xCCiCtzPmeuEwJUTbH"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 237057,
-      "name": "Rise Again (Defqon.1 2022 Closing Theme)",
-      "url": "https://open.spotify.com/track/5U8ciuvj0LDMk9h66NhwzR"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Dance With The Devil",
         "url": "https://open.spotify.com/album/2OgkWxZ9dl8en3NBbNmyzs"
       },
@@ -1119,6 +1091,26 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "The Calling (Da Tweekaz Remix)",
+        "url": "https://open.spotify.com/album/7LT1ZlmIgH54ntff4MbIls"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        },
+        {
+          "name": "Laura Brehm",
+          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+        }
+      ],
+      "duration_ms": 228285,
+      "name": "The Calling (Da Tweekaz Remix)",
+      "url": "https://open.spotify.com/track/4aRwjepcGUhXP5MLOncvdT"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "Dragonborn part 3 (Oceans Apart) [feat. Sian Evans]",
         "url": "https://open.spotify.com/album/2l97HApmO6hOSm2bTQTnks"
       },
@@ -1135,6 +1127,22 @@
       "duration_ms": 210163,
       "name": "Dragonborn part 3 (Oceans Apart)",
       "url": "https://open.spotify.com/track/6c0vdY5EZOx8g95uWcp3uI"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Rise Again (Defqon.1 2022 Closing Theme)",
+        "url": "https://open.spotify.com/album/1eO3xCCiCtzPmeuEwJUTbH"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 237057,
+      "name": "Rise Again (Defqon.1 2022 Closing Theme)",
+      "url": "https://open.spotify.com/track/5U8ciuvj0LDMk9h66NhwzR"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -1231,6 +1239,30 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "We Rule The Night",
+        "url": "https://open.spotify.com/album/7dTraFnFY6BGZFZtjMwBxs"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Endymion",
+          "url": "https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        }
+      ],
+      "duration_ms": 241531,
+      "name": "Run From Reality",
+      "url": "https://open.spotify.com/track/6XAjjeQkt52pLVFaIk6gNi"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "WASABI",
         "url": "https://open.spotify.com/album/16MDhqsXhO0ECKRhpzV7QW"
       },
@@ -1311,8 +1343,8 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "We Rule The Night",
-        "url": "https://open.spotify.com/album/7dTraFnFY6BGZFZtjMwBxs"
+        "name": "Fight Fire With Fire",
+        "url": "https://open.spotify.com/album/5eRNQuSYx92bP7kol91kJD"
       },
       "artists": [
         {
@@ -1320,17 +1352,69 @@
           "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
         },
         {
-          "name": "Endymion",
-          "url": "https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj"
-        },
-        {
           "name": "LePrince",
           "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
         }
       ],
-      "duration_ms": 241531,
-      "name": "Run From Reality",
-      "url": "https://open.spotify.com/track/6XAjjeQkt52pLVFaIk6gNi"
+      "duration_ms": 235919,
+      "name": "Fight Fire With Fire",
+      "url": "https://open.spotify.com/track/6CfSkSgeS4qR7EucYNfpIY"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Sinners Paradise",
+        "url": "https://open.spotify.com/album/0nTyKpGROZA2uxwUoHUGtZ"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "duration_ms": 207012,
+      "name": "Sinners Paradise",
+      "url": "https://open.spotify.com/track/3zpOfaD3mZDnobX66g8hx6"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Like A Lion",
+        "url": "https://open.spotify.com/album/6KdB1uh7yYtDq5VKnja2ui"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 199740,
+      "name": "Like A Lion",
+      "url": "https://open.spotify.com/track/2kxeK97qaeEnpwIJDPYCQG"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/3tDF74RCFMmoNcvFptOXxW"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Project X",
+      "url": "https://open.spotify.com/track/7q2EWEolm4VaE1qAnl7c1W"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -1359,62 +1443,6 @@
       "duration_ms": 216376,
       "name": "By The Sword",
       "url": "https://open.spotify.com/track/07B46HFSAMauWkHwp5n50P"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Like A Lion",
-        "url": "https://open.spotify.com/album/6KdB1uh7yYtDq5VKnja2ui"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        }
-      ],
-      "duration_ms": 199740,
-      "name": "Like A Lion",
-      "url": "https://open.spotify.com/track/2kxeK97qaeEnpwIJDPYCQG"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Sinners Paradise",
-        "url": "https://open.spotify.com/album/0nTyKpGROZA2uxwUoHUGtZ"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        },
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        }
-      ],
-      "duration_ms": 207012,
-      "name": "Sinners Paradise",
-      "url": "https://open.spotify.com/track/3zpOfaD3mZDnobX66g8hx6"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/3tDF74RCFMmoNcvFptOXxW"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Project X",
-      "url": "https://open.spotify.com/track/7q2EWEolm4VaE1qAnl7c1W"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -1463,66 +1491,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Million Dreams",
-        "url": "https://open.spotify.com/album/4CQAuIBhVkHcn21rZTOx8a"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        },
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        }
-      ],
-      "duration_ms": 188008,
-      "name": "Million Dreams",
-      "url": "https://open.spotify.com/track/0yHP5chOwBC6BUWXPIxQcc"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Fight Fire With Fire",
-        "url": "https://open.spotify.com/album/5eRNQuSYx92bP7kol91kJD"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        },
-        {
-          "name": "LePrince",
-          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
-        }
-      ],
-      "duration_ms": 235919,
-      "name": "Fight Fire With Fire",
-      "url": "https://open.spotify.com/track/6CfSkSgeS4qR7EucYNfpIY"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Intents HighScore (Official Intents Festival 2022 Anthem)",
-        "url": "https://open.spotify.com/album/1ILd8VjhR9VV89Z5i8RAuO"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 261182,
-      "name": "Intents HighScore (Official Intents Festival 2022 Anthem)",
-      "url": "https://open.spotify.com/track/7f8sMzOd2e5eHfiTqThjtQ"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Renaissance Of Rave",
         "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
       },
@@ -1543,18 +1511,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Drift Away (Numa Numa Yay)",
-        "url": "https://open.spotify.com/album/634u94Ov4HnrF8mXT88Mt2"
+        "name": "Million Dreams",
+        "url": "https://open.spotify.com/album/4CQAuIBhVkHcn21rZTOx8a"
       },
       "artists": [
         {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
         }
       ],
-      "duration_ms": 172422,
-      "name": "Drift Away (Numa Numa Yay)",
-      "url": "https://open.spotify.com/track/5FvdZ8gbPKr6qfen05303Q"
+      "duration_ms": 188008,
+      "name": "Million Dreams",
+      "url": "https://open.spotify.com/track/0yHP5chOwBC6BUWXPIxQcc"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -1571,6 +1543,22 @@
       "duration_ms": 174504,
       "name": "Summer Is Magic",
       "url": "https://open.spotify.com/track/4fGMjp3k7d7OAx6y9zAIDN"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Drift Away (Numa Numa Yay)",
+        "url": "https://open.spotify.com/album/634u94Ov4HnrF8mXT88Mt2"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "duration_ms": 172422,
+      "name": "Drift Away (Numa Numa Yay)",
+      "url": "https://open.spotify.com/track/5FvdZ8gbPKr6qfen05303Q"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -1603,6 +1591,26 @@
       "duration_ms": 316800,
       "name": "Primal Energy - Defqon.1 2020 Anthem",
       "url": "https://open.spotify.com/track/4WCjWUQGf66gxE6Re95Brp"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Intents HighScore (Official Intents Festival 2022 Anthem)",
+        "url": "https://open.spotify.com/album/1ILd8VjhR9VV89Z5i8RAuO"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 261182,
+      "name": "Intents HighScore (Official Intents Festival 2022 Anthem)",
+      "url": "https://open.spotify.com/track/7f8sMzOd2e5eHfiTqThjtQ"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -1699,22 +1707,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/2uJIyCqmlx44HWXmU7Q1iY"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 174603,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/3FNx300XZ4FRDRYO7KlxNH"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/22Evsh5AjJ8kERYZ4gUtl7"
       },
@@ -1731,6 +1723,22 @@
       "duration_ms": 179200,
       "name": "Angels & Demons",
       "url": "https://open.spotify.com/track/0YVx5YZIgfYHzlq19hqDeE"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2uJIyCqmlx44HWXmU7Q1iY"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 174603,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/3FNx300XZ4FRDRYO7KlxNH"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -2035,26 +2043,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/6YrVDZf2M8qLSOC4eichYG"
-      },
-      "artists": [
-        {
-          "name": "Deetox",
-          "url": "https://open.spotify.com/artist/0g6dKn3203m8rAtAyjIdZl"
-        },
-        {
-          "name": "Elyn",
-          "url": "https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl"
-        }
-      ],
-      "duration_ms": 216004,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/39vX6ttgqvy1NOo6DrMMa1"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Shine A Light",
         "url": "https://open.spotify.com/album/0Lwh23vnViC5aJSqsNIcaZ"
       },
@@ -2095,6 +2083,26 @@
       "duration_ms": 144020,
       "name": "Superstring - Aftershock Remix",
       "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/6YrVDZf2M8qLSOC4eichYG"
+      },
+      "artists": [
+        {
+          "name": "Deetox",
+          "url": "https://open.spotify.com/artist/0g6dKn3203m8rAtAyjIdZl"
+        },
+        {
+          "name": "Elyn",
+          "url": "https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl"
+        }
+      ],
+      "duration_ms": 216004,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/39vX6ttgqvy1NOo6DrMMa1"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -2335,22 +2343,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Sensory",
-        "url": "https://open.spotify.com/album/0VNM27SXVAJ2Dd3J39XvuB"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 214597,
-      "name": "Sensory",
-      "url": "https://open.spotify.com/track/74gECA67oUmYxdqTPNf93n"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "HALO",
         "url": "https://open.spotify.com/album/0CdsPSUAFyI58HXxgQFLax"
       },
@@ -2363,6 +2355,22 @@
       "duration_ms": 188991,
       "name": "HALO",
       "url": "https://open.spotify.com/track/4R7k9w4XBSYSUhlmXFr4xm"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Sensory",
+        "url": "https://open.spotify.com/album/0VNM27SXVAJ2Dd3J39XvuB"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 214597,
+      "name": "Sensory",
+      "url": "https://open.spotify.com/track/74gECA67oUmYxdqTPNf93n"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -2755,22 +2763,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Summer Rave",
-        "url": "https://open.spotify.com/album/2V5D7QtQjgQVqR9KK76b6t"
-      },
-      "artists": [
-        {
-          "name": "ZIGGY X",
-          "url": "https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83"
-        }
-      ],
-      "duration_ms": 161129,
-      "name": "Summer Rave",
-      "url": "https://open.spotify.com/track/0FVUfX7nw1bNQGBLTpTwX5"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "See You",
         "url": "https://open.spotify.com/album/5Y6ldf67fe8DGh71d1HTLp"
       },
@@ -2795,26 +2787,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Children Of Drums (Headhunterz Remix)",
-        "url": "https://open.spotify.com/album/2xTalVoSbGKciNMHDwmMG5"
-      },
-      "artists": [
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        },
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Children Of Drums - Headhunterz Remix",
-      "url": "https://open.spotify.com/track/35Z0mpi564mEOdEBJc0Kqc"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
         "url": "https://open.spotify.com/album/0YzBhIvuaOqtdBsVjmNnDq"
       },
@@ -2831,6 +2803,42 @@
       "duration_ms": 288000,
       "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
       "url": "https://open.spotify.com/track/1VtGStey2iPgtZSLHU6sf0"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Summer Rave",
+        "url": "https://open.spotify.com/album/2V5D7QtQjgQVqR9KK76b6t"
+      },
+      "artists": [
+        {
+          "name": "ZIGGY X",
+          "url": "https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83"
+        }
+      ],
+      "duration_ms": 161129,
+      "name": "Summer Rave",
+      "url": "https://open.spotify.com/track/0FVUfX7nw1bNQGBLTpTwX5"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Children Of Drums (Headhunterz Remix)",
+        "url": "https://open.spotify.com/album/2xTalVoSbGKciNMHDwmMG5"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Children Of Drums - Headhunterz Remix",
+      "url": "https://open.spotify.com/track/35Z0mpi564mEOdEBJc0Kqc"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -2963,22 +2971,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/7rOhx7pN6AsM9cBhCuUgPn"
-      },
-      "artists": [
-        {
-          "name": "Zatox",
-          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/0dbttB5xr4M0Q1lQQXfAwI"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Everybody Dance Now",
         "url": "https://open.spotify.com/album/1eypUs5ufFH95SbyMMW7kP"
       },
@@ -2991,6 +2983,22 @@
       "duration_ms": 206900,
       "name": "Everybody Dance Now",
       "url": "https://open.spotify.com/track/2KhdaSCtP7AXW4x9WypfxU"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/7rOhx7pN6AsM9cBhCuUgPn"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/0dbttB5xr4M0Q1lQQXfAwI"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3035,26 +3043,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "WARHORN (E1: To War We Go)",
-        "url": "https://open.spotify.com/album/2Sf193pKD4kRf6LUVCdP2Q"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "WARHORN (E1: To War We Go)",
-      "url": "https://open.spotify.com/track/68jxUXJE9kZPHiEvXEIfPF"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Shake The Ground (feat. Noubya)",
         "url": "https://open.spotify.com/album/7u8dP8O8M7D1nRwZRFbTGW"
       },
@@ -3071,6 +3059,26 @@
       "duration_ms": 213200,
       "name": "Shake The Ground",
       "url": "https://open.spotify.com/track/26aTIeF87ZP7IprFP3vqbi"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "WARHORN (E1: To War We Go)",
+        "url": "https://open.spotify.com/album/2Sf193pKD4kRf6LUVCdP2Q"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "WARHORN (E1: To War We Go)",
+      "url": "https://open.spotify.com/track/68jxUXJE9kZPHiEvXEIfPF"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3151,26 +3159,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Faith Of This World (Original Mix)",
-        "url": "https://open.spotify.com/album/66FezURQqWeQTcoxvAlOeE"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "B-Front",
-          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
-        }
-      ],
-      "duration_ms": 242616,
-      "name": "Faith Of This World - Original Mix",
-      "url": "https://open.spotify.com/track/3l0zz7lo8PPlXryowB0254"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/1s2toip8G6lKmOXyhVQjJq"
       },
@@ -3187,6 +3175,26 @@
       "duration_ms": 225200,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/6RQHcctUFF6GW5ReHXWO1h"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Faith Of This World (Original Mix)",
+        "url": "https://open.spotify.com/album/66FezURQqWeQTcoxvAlOeE"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        }
+      ],
+      "duration_ms": 242616,
+      "name": "Faith Of This World - Original Mix",
+      "url": "https://open.spotify.com/track/3l0zz7lo8PPlXryowB0254"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3239,22 +3247,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Sovereign",
-        "url": "https://open.spotify.com/album/2GGvTjOL9lfhS2GP1nlVU1"
-      },
-      "artists": [
-        {
-          "name": "Synthsoldier",
-          "url": "https://open.spotify.com/artist/2aYw1VignY89UokpxjuibF"
-        }
-      ],
-      "duration_ms": 246580,
-      "name": "Sovereign",
-      "url": "https://open.spotify.com/track/40GSkhPzazW2eKTynjMPcg"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Killer",
         "url": "https://open.spotify.com/album/1hM1dZvmgVxLpO9Ddw518d"
       },
@@ -3271,6 +3263,22 @@
       "duration_ms": 229940,
       "name": "Killer",
       "url": "https://open.spotify.com/track/6jOnJuuHrAo8TER3UhfVsN"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Sovereign",
+        "url": "https://open.spotify.com/album/2GGvTjOL9lfhS2GP1nlVU1"
+      },
+      "artists": [
+        {
+          "name": "Synthsoldier",
+          "url": "https://open.spotify.com/artist/2aYw1VignY89UokpxjuibF"
+        }
+      ],
+      "duration_ms": 246580,
+      "name": "Sovereign",
+      "url": "https://open.spotify.com/track/40GSkhPzazW2eKTynjMPcg"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3307,6 +3315,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/6ZwW3ENnDYQqafmExvEhuy"
+      },
+      "artists": [
+        {
+          "name": "D.E.Q",
+          "url": "https://open.spotify.com/artist/3mXpRUSYRFdu2uJvEPpN9o"
+        }
+      ],
+      "duration_ms": 201804,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/0ZFbjz111lD5ZmCweY4iV9"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "The Enemy (You Cannot See)",
         "url": "https://open.spotify.com/album/7jY1wXUZGXB6Y4pnOWESDl"
       },
@@ -3323,22 +3347,6 @@
       "duration_ms": 192000,
       "name": "The Enemy (You Cannot See)",
       "url": "https://open.spotify.com/track/0GAIAbeS07Run8u9BOtT3P"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Still Alive",
-        "url": "https://open.spotify.com/album/6ZwW3ENnDYQqafmExvEhuy"
-      },
-      "artists": [
-        {
-          "name": "D.E.Q",
-          "url": "https://open.spotify.com/artist/3mXpRUSYRFdu2uJvEPpN9o"
-        }
-      ],
-      "duration_ms": 201804,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/0ZFbjz111lD5ZmCweY4iV9"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3423,30 +3431,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Edge Of The Unknown",
-        "url": "https://open.spotify.com/album/13mS26sOAVYfngzLevsf82"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        },
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 258946,
-      "name": "Edge of The Unknown",
-      "url": "https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "The World Is Yours",
         "url": "https://open.spotify.com/album/6dMYkQVJniC1DHCZoQPA3d"
       },
@@ -3471,6 +3455,30 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "Edge Of The Unknown",
+        "url": "https://open.spotify.com/album/13mS26sOAVYfngzLevsf82"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 258946,
+      "name": "Edge of The Unknown",
+      "url": "https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "F.O.O.L.",
         "url": "https://open.spotify.com/album/6LF2nUkqmDjMNBwpQEwt0z"
       },
@@ -3491,26 +3499,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Embracing The Madness",
-        "url": "https://open.spotify.com/album/0v8D68fi3xWxB6SeocDTtK"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        },
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 196896,
-      "name": "Embracing The Madness",
-      "url": "https://open.spotify.com/track/31zOoImZZMK5rlmiO4NiYL"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Freaky",
         "url": "https://open.spotify.com/album/4TtC0lDNUVHwq8UG85RTVO"
       },
@@ -3527,6 +3515,26 @@
       "duration_ms": 208700,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/2fd3xKY5HZZKaS9Ynvynb1"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Embracing The Madness",
+        "url": "https://open.spotify.com/album/0v8D68fi3xWxB6SeocDTtK"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 196896,
+      "name": "Embracing The Madness",
+      "url": "https://open.spotify.com/track/31zOoImZZMK5rlmiO4NiYL"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3635,6 +3643,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "Bodyshock",
+        "url": "https://open.spotify.com/album/2OJvGNMr2cyJAYyf5IMtj7"
+      },
+      "artists": [
+        {
+          "name": "Mandy",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        }
+      ],
+      "duration_ms": 178717,
+      "name": "Bodyshock",
+      "url": "https://open.spotify.com/track/5OJCdGZbGPWPLqxQrEf1tS"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5md4CGNUmLhLhtHYrJCbHA"
       },
@@ -3655,22 +3679,6 @@
       "duration_ms": 254117,
       "name": "Home",
       "url": "https://open.spotify.com/track/57nbwxwiq9szIHvdnaikKo"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Bodyshock",
-        "url": "https://open.spotify.com/album/2OJvGNMr2cyJAYyf5IMtj7"
-      },
-      "artists": [
-        {
-          "name": "Mandy",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
-        }
-      ],
-      "duration_ms": 178717,
-      "name": "Bodyshock",
-      "url": "https://open.spotify.com/track/5OJCdGZbGPWPLqxQrEf1tS"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3703,6 +3711,26 @@
       "duration_ms": 175496,
       "name": "Keep It Up",
       "url": "https://open.spotify.com/track/2qD7jGzVXhPKr5zAv8CysM"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/789OzvbySYuX2piZXUo4bU"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "duration_ms": 212322,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3743,26 +3771,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/789OzvbySYuX2piZXUo4bU"
-      },
-      "artists": [
-        {
-          "name": "Devin Wild",
-          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
-        },
-        {
-          "name": "Nathalie Blue",
-          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
-        }
-      ],
-      "duration_ms": 212322,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Watch Us Die",
         "url": "https://open.spotify.com/album/20VqjNmHRnP4YgoutY2VvY"
       },
@@ -3779,22 +3787,6 @@
       "duration_ms": 196162,
       "name": "Watch Us Die",
       "url": "https://open.spotify.com/track/74as9DvHT2hAWpbbw4ewWA"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Fiyah",
-        "url": "https://open.spotify.com/album/1alAvEcUDpAS7YSW5zgOWb"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Fiyah",
-      "url": "https://open.spotify.com/track/63ZeusTUWqJAlKi799WFjO"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3819,6 +3811,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "Fiyah",
+        "url": "https://open.spotify.com/album/1alAvEcUDpAS7YSW5zgOWb"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Fiyah",
+      "url": "https://open.spotify.com/track/63ZeusTUWqJAlKi799WFjO"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/4bN61KgB2gz5X3re39tTWV"
       },
@@ -3839,6 +3847,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "TMY",
+        "url": "https://open.spotify.com/album/2FyJr0euIQ706Yk2zzNcnK"
+      },
+      "artists": [
+        {
+          "name": "Scabtik",
+          "url": "https://open.spotify.com/artist/6mRyTGlFH3JnDgukiZnQ3O"
+        }
+      ],
+      "duration_ms": 159998,
+      "name": "TMY",
+      "url": "https://open.spotify.com/track/3bVYgzFGeFpgX3kMeGjIEc"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "Snatch",
         "url": "https://open.spotify.com/album/0msKhN4mG47SotMWEqzqoo"
       },
@@ -3851,26 +3875,6 @@
       "duration_ms": 181846,
       "name": "Snatch",
       "url": "https://open.spotify.com/track/0yTzy8hWBrN0rLlM7oUF7L"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/54RxgovSsO3SFo7PlOAM3e"
-      },
-      "artists": [
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        },
-        {
-          "name": "Frontliner",
-          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
-        }
-      ],
-      "duration_ms": 186412,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/5hEsHqgfsjKNwManuyyIup"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3895,18 +3899,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "TMY",
-        "url": "https://open.spotify.com/album/2FyJr0euIQ706Yk2zzNcnK"
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/54RxgovSsO3SFo7PlOAM3e"
       },
       "artists": [
         {
-          "name": "Scabtik",
-          "url": "https://open.spotify.com/artist/6mRyTGlFH3JnDgukiZnQ3O"
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
         }
       ],
-      "duration_ms": 159998,
-      "name": "TMY",
-      "url": "https://open.spotify.com/track/3bVYgzFGeFpgX3kMeGjIEc"
+      "duration_ms": 186412,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/5hEsHqgfsjKNwManuyyIup"
     },
     {
       "added_at": "2023-01-02 23:00:00",

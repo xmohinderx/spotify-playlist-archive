@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 327818,
+  "num_followers": 327988,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDQxNTA1NmExNmNjMzVhMjMzOTJlNmRmOTNkYWUzZjVk",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDhhNzI5YTBhYzEwY2E5NzhjNmZkNWYzNDkxMDdmZTIx",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -431,26 +431,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Incontenible Es Tu Amor",
-        "url": "https://open.spotify.com/album/3US7xplIUPp647q67nCMS0"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        },
-        {
-          "name": "Omar Rodriguez Music",
-          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
-        }
-      ],
-      "duration_ms": 333217,
-      "name": "El Gran Yo Soy feat. Omar Rodr\u00edguez Music",
-      "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
         "url": "https://open.spotify.com/album/6zc2WKK1KdSM1E35DXPOit"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 438519,
       "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
       "url": "https://open.spotify.com/track/22H9y1qkAXg4jhrXM3xo3U"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Incontenible Es Tu Amor",
+        "url": "https://open.spotify.com/album/3US7xplIUPp647q67nCMS0"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        },
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        }
+      ],
+      "duration_ms": 333217,
+      "name": "El Gran Yo Soy feat. Omar Rodr\u00edguez Music",
+      "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
     },
     {
       "added_at": "2021-05-21 19:19:27",

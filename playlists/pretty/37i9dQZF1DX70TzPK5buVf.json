@@ -1,12 +1,12 @@
 {
   "description": "Funk to these good ol' funky soul classics!",
-  "num_followers": 783843,
+  "num_followers": 783988,
   "original_name": "Funk Outta Here",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMjI2OCwwMDAwMDAwMGYxYzA3NGRmMDk4ODBlMWNkNmU5NzMwZTljOWYwNzVl",
+  "snapshot_id": "MTY3MzAyMTAwNSwwMDAwMDAwMGJhOTEwNTZjMjk3MzMzMGZlMzIyODA4ODZiNGZhNGYw",
   "tracks": [
     {
       "added_at": "2020-05-08 09:11:07",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
-        "name": "Controversy",
-        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 435333,
-      "name": "Controversy",
-      "url": "https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS"
-    },
-    {
-      "added_at": "2020-05-08 09:11:07",
-      "album": {
         "name": "AWB",
         "url": "https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 282080,
       "name": "Funkin' for Jamaica",
       "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
+    },
+    {
+      "added_at": "2020-05-08 09:11:07",
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 435333,
+      "name": "Controversy",
+      "url": "https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS"
     },
     {
       "added_at": "2020-04-15 02:39:51",

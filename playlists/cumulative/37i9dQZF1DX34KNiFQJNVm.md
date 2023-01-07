@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Thiaguinho, Matheus Fernandes, Thiago Aquino com Mari Fernandez e muito mais!
 
-4,465 songs - 9 day 14 hr 21 min
+4,467 songs - 9 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1178,6 +1178,7 @@
 | [Dois Pedaços](https://open.spotify.com/track/7DNgJ4zCFLctFGZ9EPuPK5) | [Sudario](https://open.spotify.com/artist/6lzcI2dGSaJ7NbEFNooqXu) | [Dois Pedaços](https://open.spotify.com/album/1teDpfucR71TLCUAD7Erco) | 3:28 | 2022-12-23 | 2022-12-31 |
 | [Dois Solteiros \- Ao Vivo](https://open.spotify.com/track/67QIBaj2rDU9khHzAxEhrz) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Dois Solteiros \(Ao Vivo\)](https://open.spotify.com/album/5eJxShLobfpoMDECNJDbiY) | 2:39 | 2022-07-01 | 2022-07-09 |
 | [Dois Sóis](https://open.spotify.com/track/1a3QsSmEfjrh7Td5UtVYn7) | [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX) | [Dois Sóis](https://open.spotify.com/album/5xgzzzXFpaNky59cV0kCXf) | 3:16 | 2022-06-03 | 2022-06-11 |
+| [DoisTrês](https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [DoisTrês](https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4) | 1:15 | 2023-01-06 |  |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-22 | 2022-07-30 |
 | [Dolce](https://open.spotify.com/track/37qPzPVOfxSDI7QOF2oZFB) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Ley De Gravedad](https://open.spotify.com/album/21wimzvehpbiBmJS0upDr6) | 2:53 | 2022-03-11 | 2022-03-18 |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-15 | 2022-07-23 |
@@ -3098,6 +3099,7 @@
 | [Pode Maltratar \- Ao Vivo](https://open.spotify.com/track/6ey9OOtVwdRFk7nW914RMH) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Acredite \(Ao Vivo\)](https://open.spotify.com/album/2QpdRn5ixgb4ZnZVq7FUVL) | 2:47 | 2022-12-02 | 2022-12-10 |
 | [Pode Ou Não Pode \- Ao Vivo](https://open.spotify.com/track/62AIC4uNX2yBAxHgBuFpF6) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Pode Ou Não Pode \(Ao Vivo\)](https://open.spotify.com/album/1bzuFiHuGKGz2tHFGU30lr) | 2:51 | 2022-11-11 | 2022-11-19 |
 | [Pode Parar \(Ao Vivo\)](https://open.spotify.com/track/70eXh7zzWolEWs0X05mL40) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Pode Parar \(Ao Vivo\)](https://open.spotify.com/album/41gmULd3H7o8rlzyZdCRxd) | 3:10 | 2022-11-11 | 2022-11-19 |
+| [Pode Se Chegar](https://open.spotify.com/track/0m2txmgdJBsQ1eHQkfwwPv) | [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs) | [Pode Se Chegar](https://open.spotify.com/album/6CDUSxBtz64cQA2O9jvs5c) | 2:19 | 2023-01-06 |  |
 | [poderia ser pior](https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [poderia ser pior](https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O) | 2:52 | 2022-05-27 | 2022-06-04 |
 | [Poema de Bandido](https://open.spotify.com/track/3acnLLEy0gxbSLntwi50FL) | [ike](https://open.spotify.com/artist/0S1SWWzZUhJk8CsjLI9YuN), [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny) | [Poema de Bandido](https://open.spotify.com/album/3mjtCOmiFcnPDYpcAVeb2M) | 3:22 | 2022-08-19 | 2022-08-27 |
 | [Poesia Acústica 12 \- Pra Sempre](https://open.spotify.com/track/4can6ssapSsRCEbZZfYL8K) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Poesia Acústica 12 \- Pra Sempre](https://open.spotify.com/album/34N8rLUMtF7t2uDA4sHtKr) | 7:52 | 2022-02-25 | 2022-03-05 |

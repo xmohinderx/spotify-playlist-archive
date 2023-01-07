@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-136 songs - 9 hr 27 min
+138 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Gentle Whales of the Deep \(80\-88 Hz\)](https://open.spotify.com/track/60OkaddPGoz4Wx3NkTgpnn) | [Abeo Abara](https://open.spotify.com/artist/0BIybKZiOMOMdUmCKZsY0O) | [Gentle Whales of the Deep \(80\-88 Hz\)](https://open.spotify.com/album/0Li6vZK0i0e1wkTK8Xo24R) | 2:32 | 2022-11-11 |  |
 | [Geometric \- Version 2](https://open.spotify.com/track/5SnPJfIBhEMN8V8a5hyBJi) | [Atmoda](https://open.spotify.com/artist/09MhmAWoBHWYVo2RyKlcYw) | [Geometric](https://open.spotify.com/album/6L1cljzvurPjMM11yhel01) | 2:57 | 2022-08-19 |  |
 | [Havasu](https://open.spotify.com/track/66V97mH6dRUB1O4KsK328B) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Havasu](https://open.spotify.com/album/51OEnFQxXRMJBemtp0qSLV) | 3:12 | 2022-08-05 |  |
+| [Hills](https://open.spotify.com/track/6rMM5c330kAz3wKRmH4IRn) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Hills](https://open.spotify.com/album/4jgjzmK773C6q9NGVAtD0l) | 2:33 | 2023-01-06 |  |
 | [Homesick](https://open.spotify.com/track/1KAjfOhwtBDkhhGhDH27Z0) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Homesick](https://open.spotify.com/album/6IoxzKrzEWprrw1yUN9Da1) | 2:16 | 2022-10-14 |  |
 | [I'm Not Sure We Belong](https://open.spotify.com/track/0rSmtDpnf2x4s1Hgnbdv15) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC) | [Mysterious Shapes and Remembered Rhythms](https://open.spotify.com/album/0Hq25reNy7WC2ubWOoKwjP) | 10:29 | 2022-12-20 |  |
 | [Ikigai](https://open.spotify.com/track/3JTxj4orzPrDjQFKBM2QAN) | [Le Motel](https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd) | [Ikigai](https://open.spotify.com/album/1O3jxw1VI6uYIT7BRrLpBi) | 4:55 | 2022-08-05 |  |
@@ -100,6 +101,7 @@
 | [otsukimi \(moon viewing\)](https://open.spotify.com/track/4b2oGauzFfbbsCmsS4ehxK) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [otsukimi \(moon viewing\)](https://open.spotify.com/album/4w8BVPuYdZtKyGkQJqhlxh) | 3:21 | 2022-09-30 |  |
 | [Out of Space](https://open.spotify.com/track/06zuEMpJ8wXtgaYNMM6dvF) | [Andrew Land](https://open.spotify.com/artist/20DtfXEcnCgoWY9b35nPXk) | [Comfort in Ignorance](https://open.spotify.com/album/3JC9H1wm2xeOIf2ZkOK7LO) | 5:46 | 2022-08-05 |  |
 | [Pacific Dreams](https://open.spotify.com/track/13wWc3pKPzBVmpX6YinHXe) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Pacific Dreams](https://open.spotify.com/album/3ulMrPlS5JtEWM0LVR3L58) | 3:17 | 2022-09-30 |  |
+| [Peelu](https://open.spotify.com/track/24rMsc1O0qk3JaP005qzX7) | [Wate Way](https://open.spotify.com/artist/2FlrdMztVZTJ9Df7qeGMvR) | [Peelu](https://open.spotify.com/album/2cW30hRFY564QirLitGmqM) | 3:24 | 2023-01-06 |  |
 | [Permafrost](https://open.spotify.com/track/45PBjkgUpbwfK4ffF3yOOE) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Dead Air](https://open.spotify.com/album/24Aqg4RHtwrkml6eQwG7u7) | 4:07 | 2022-08-19 |  |
 | [Pléiades](https://open.spotify.com/track/2GqEEY3T2Oevy0hc9XVVsX) | [Domy Castellano](https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO) | [Pléiades](https://open.spotify.com/album/7ijZlAget4sYjZtSk1Wt59) | 4:02 | 2022-08-05 |  |
 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 | 2022-08-05 |  |

@@ -1,148 +1,260 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10463,
+  "num_followers": 10466,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjQ3MCw2MTY0ZWU3YWNkYjNhZmEwMTlmZjZmOGI5MDJhODhlMzFkM2Q1MmYx",
+  "snapshot_id": "MjQ3MixlYWM3NjJjZGY0YTQ3ZDFkOTg0M2EwMzEzM2U1NWE4YmJmZTI4NDQ2",
   "tracks": [
     {
-      "added_at": "2022-12-30 10:08:12",
+      "added_at": "2023-01-06 08:11:52",
       "album": {
-        "name": "BAD TIME GOOD TIME",
-        "url": "https://open.spotify.com/album/41DUptL82OsBL8A1nNHUKE"
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/2xl4YF1t2nMHIooLxeipdx"
       },
       "artists": [
         {
-          "name": "Laura Marano",
-          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
-        }
-      ],
-      "duration_ms": 194501,
-      "name": "BAD TIME GOOD TIME",
-      "url": "https://open.spotify.com/track/4Hl8wmrubcVKUVqC3OagaP"
-    },
-    {
-      "added_at": "2022-12-30 10:08:12",
-      "album": {
-        "name": "Drown Us Out",
-        "url": "https://open.spotify.com/album/7cVVLx6eUOcKPU9dKs7axq"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 196089,
-      "name": "Drown Us Out",
-      "url": "https://open.spotify.com/track/7Jfz5QUZE8T6ZRrNfAO04V"
-    },
-    {
-      "added_at": "2022-12-30 10:08:12",
-      "album": {
-        "name": "You Know I'm No Good",
-        "url": "https://open.spotify.com/album/4XBLNYOCbyRZBRcyI0A1Bh"
-      },
-      "artists": [
-        {
-          "name": "The Haunt",
-          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+          "name": "Pascal Letoublon",
+          "url": "https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a"
         },
         {
-          "name": "DYLYN",
-          "url": "https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses"
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
         }
       ],
-      "duration_ms": 184972,
-      "name": "You Know I'm No Good",
-      "url": "https://open.spotify.com/track/1ldziXsMfXPgE0Yb7jGivM"
+      "duration_ms": 172133,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ"
     },
     {
-      "added_at": "2022-12-30 10:08:12",
+      "added_at": "2023-01-06 08:11:52",
       "album": {
-        "name": "Happy Birthday!",
-        "url": "https://open.spotify.com/album/3H423tiQDa9vhLs8DizhF7"
+        "name": "Yummy (with Stefflon Don)",
+        "url": "https://open.spotify.com/album/15gVZQfXliOi80uCa4fbxc"
       },
       "artists": [
         {
-          "name": "Stalking Gia",
-          "url": "https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY"
-        }
-      ],
-      "duration_ms": 155935,
-      "name": "Happy Birthday!",
-      "url": "https://open.spotify.com/track/4ODk3dsfaU05R0XZfUeECB"
-    },
-    {
-      "added_at": "2022-12-30 10:08:12",
-      "album": {
-        "name": "Head Held High",
-        "url": "https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre"
-      },
-      "artists": [
-        {
-          "name": "SERA",
-          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
-        }
-      ],
-      "duration_ms": 196220,
-      "name": "Head Held High",
-      "url": "https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd"
-    },
-    {
-      "added_at": "2022-12-30 10:08:12",
-      "album": {
-        "name": "TUKI",
-        "url": "https://open.spotify.com/album/26z9OtSE7kqWDvR1u1Briv"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mart\u00edn",
-          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
-        }
-      ],
-      "duration_ms": 153753,
-      "name": "TUKI",
-      "url": "https://open.spotify.com/track/4XMFcpYgm58mW2OK1MfR9z"
-    },
-    {
-      "added_at": "2022-12-30 10:08:12",
-      "album": {
-        "name": "See You In My Dreams",
-        "url": "https://open.spotify.com/album/1pKVuSFvPP17CaqkSekcLQ"
-      },
-      "artists": [
-        {
-          "name": "Kat Leon",
-          "url": "https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF"
-        }
-      ],
-      "duration_ms": 214411,
-      "name": "See You In My Dreams",
-      "url": "https://open.spotify.com/track/5yqsHTPNMjiZP8LO7ZgnDY"
-    },
-    {
-      "added_at": "2022-12-30 10:08:12",
-      "album": {
-        "name": "Stranger Things",
-        "url": "https://open.spotify.com/album/45J2ukiJfU3WrFz01sBgk1"
-      },
-      "artists": [
-        {
-          "name": "Alex Ender",
-          "url": "https://open.spotify.com/artist/4tVEnDtBhp4mjGvkgXlp1d"
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
         },
         {
-          "name": "Salta",
-          "url": "https://open.spotify.com/artist/6u0Si1eLLr4jtzX2ZTQIFj"
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 136250,
-      "name": "Stranger Things",
-      "url": "https://open.spotify.com/track/64AEcuPgXGM5eJ2v6zX64u"
+      "duration_ms": 171600,
+      "name": "Yummy (with Stefflon Don)",
+      "url": "https://open.spotify.com/track/5eJEXMXxTNUcFva4uQ4yUU"
+    },
+    {
+      "added_at": "2023-01-06 08:11:52",
+      "album": {
+        "name": "Somewhere in Between",
+        "url": "https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 156475,
+      "name": "Somewhere in Between",
+      "url": "https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG"
+    },
+    {
+      "added_at": "2023-01-06 08:11:52",
+      "album": {
+        "name": "I THINK I LIKE IT (Enzie Freestyle)",
+        "url": "https://open.spotify.com/album/3Q2cMeipAyb6XinVyIEzPV"
+      },
+      "artists": [
+        {
+          "name": "Enzie",
+          "url": "https://open.spotify.com/artist/1Nyf5ek8EareOccnKFgxb6"
+        }
+      ],
+      "duration_ms": 201759,
+      "name": "I THINK I LIKE IT (Enzie Freestyle)",
+      "url": "https://open.spotify.com/track/681UFhXQrcINDS1NUmSZyA"
+    },
+    {
+      "added_at": "2023-01-06 08:11:52",
+      "album": {
+        "name": "Saviour (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/2ndsizr5UFo7aaffUJ0TYQ"
+      },
+      "artists": [
+        {
+          "name": "HRRTZ",
+          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 203232,
+      "name": "Saviour (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/5FJ9IYNOtp4YcnO5XFL5J7"
+    },
+    {
+      "added_at": "2023-01-06 08:11:52",
+      "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/5SZEcW1rHZN0RkrBRVfy0V"
+      },
+      "artists": [
+        {
+          "name": "PINES",
+          "url": "https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ"
+        }
+      ],
+      "duration_ms": 206131,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7HbHoXIwEu95K4ZRbCBXTW"
+    },
+    {
+      "added_at": "2023-01-06 08:11:52",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/3qVqJaNTwXt7wKfoiodAif"
+      },
+      "artists": [
+        {
+          "name": "Dava",
+          "url": "https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5QgGskSF5QeTPl99cg9KFz"
+    },
+    {
+      "added_at": "2023-01-06 08:11:52",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 195262,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK"
+    },
+    {
+      "added_at": "2023-01-06 08:11:52",
+      "album": {
+        "name": "I Want Your Sex",
+        "url": "https://open.spotify.com/album/7CcE3Eoh6Dgd9k8BMMeGin"
+      },
+      "artists": [
+        {
+          "name": "Raissa",
+          "url": "https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "I Want Your Sex",
+      "url": "https://open.spotify.com/track/4ktiAkz6PcWG8FOjd6bKZy"
+    },
+    {
+      "added_at": "2023-01-06 08:11:52",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        }
+      ],
+      "duration_ms": 198803,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r"
+    },
+    {
+      "added_at": "2023-01-06 08:11:52",
+      "album": {
+        "name": "Djabuganydji Bama (NERVE REMIX)",
+        "url": "https://open.spotify.com/album/66BHY62FENAPwNe38pfFBh"
+      },
+      "artists": [
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        },
+        {
+          "name": "KDA Crew",
+          "url": "https://open.spotify.com/artist/5W70OHqfaGNzpLkCCSShFY"
+        },
+        {
+          "name": "Desert Pea Media",
+          "url": "https://open.spotify.com/artist/4o0vFBJUhSlBthmrwnHMLN"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Djabuganydji Bama - NERVE REMIX",
+      "url": "https://open.spotify.com/track/6RGUXlSA1e2v0eep9UNpg9"
+    },
+    {
+      "added_at": "2023-01-06 08:11:52",
+      "album": {
+        "name": "Ready For Love",
+        "url": "https://open.spotify.com/album/3fdX4GNc1HOTNBZkMgPZN3"
+      },
+      "artists": [
+        {
+          "name": "Daniel Oliver",
+          "url": "https://open.spotify.com/artist/2FyzKl4ovdJ1w81l0hNfFz"
+        }
+      ],
+      "duration_ms": 243281,
+      "name": "Ready For Love",
+      "url": "https://open.spotify.com/track/3iRRpHxIgGK45t2ZBD4hN3"
+    },
+    {
+      "added_at": "2023-01-06 08:11:52",
+      "album": {
+        "name": "Waste Your Time",
+        "url": "https://open.spotify.com/album/3kHS8CGLGuXyJKZQnAeqzx"
+      },
+      "artists": [
+        {
+          "name": "Hannah Stow",
+          "url": "https://open.spotify.com/artist/3MOHWFXUVdM0hrHdZrQrhv"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Waste Your Time",
+      "url": "https://open.spotify.com/track/4ut8O6xD0AMURSPrU5NrIY"
+    },
+    {
+      "added_at": "2023-01-06 08:11:52",
+      "album": {
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

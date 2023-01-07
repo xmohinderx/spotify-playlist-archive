@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-239 songs - 10 hr 28 min
+243 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,12 +168,14 @@
 | [Pillow Hymn](https://open.spotify.com/track/2Etxnz6V6sZTsgaa8W6w7g) | [Laurent Ruaud](https://open.spotify.com/artist/0vCWZOklQJPdWDIMiYwP6z) | [Pillow Hymn](https://open.spotify.com/album/740VMPcRZ0LCxILPwzsPXy) | 1:29 | 2022-12-09 |  |
 | [Plain Sight](https://open.spotify.com/track/1juq7X9kZkBQN7cDo7xHW8) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Plain Sight](https://open.spotify.com/album/5uef4kiFCm6nkNiqO6LoxT) | 2:07 | 2022-06-17 |  |
 | [Poem No\. 5](https://open.spotify.com/track/4LEyo5Sftmy9wDZzueIvay) | [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Poem No\. 5](https://open.spotify.com/album/5m91k8wrHbFwEDlwPNgik2) | 1:33 | 2022-06-17 | 2022-09-03 |
+| [Por Cierto](https://open.spotify.com/track/6GxkZ3N4wZ8vasrQ32WeGx) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Por Cierto](https://open.spotify.com/album/1l2eYMCekxAnbam8PHtbwA) | 2:28 | 2023-01-06 |  |
 | [Port Blair](https://open.spotify.com/track/1jMovOA0kIWC73Xio4pdXT) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Port Blair](https://open.spotify.com/album/1URrRnZNIpkpRRVGcOJszd) | 2:34 | 2022-10-07 |  |
 | [Porte moi](https://open.spotify.com/track/4A6k2vAHalGrOKobg3yxna) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Porte moi](https://open.spotify.com/album/24kciXvVVsVoNmEm1qRv8z) | 2:10 | 2022-12-09 |  |
 | [Porto Salvo](https://open.spotify.com/track/09Z2QZNcoyz6hxQPfGSwd4) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Ericeira](https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG) | 2:54 | 2022-06-17 |  |
 | [Prelude No\. 22](https://open.spotify.com/track/5GQMvgcBHqQmiz3ZsU2apw) | [Arnaud Dumond](https://open.spotify.com/artist/1BbOqTsLJ2L0VAnT0PVVRL) | [Prelude No\. 22](https://open.spotify.com/album/6vz3YMF0T9VYiYqCbGWjNL) | 2:16 | 2022-11-18 |  |
 | [Preludio, Op\. 26](https://open.spotify.com/track/7phkF9WGZC8CoPKrQdv24D) | [Ernesto García de León](https://open.spotify.com/artist/7khoscfcFr6vJQCBWxXAEn), [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse) | [Preludio, Op\. 26](https://open.spotify.com/album/0qwyKk8uTrRO8Y4DpO4mNp) | 2:54 | 2022-06-17 |  |
 | [Puebla](https://open.spotify.com/track/3Y4U0GPZScSt7hbMRv2sjL) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Puebla](https://open.spotify.com/album/469GshT2XvtLtp85DunWrE) | 3:00 | 2022-06-17 |  |
+| [Puigmal](https://open.spotify.com/track/4SG34NU780HN7JrcLeEEEi) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Open Waters](https://open.spotify.com/album/2EpNqhccApxUDtlgGcg9AT) | 2:19 | 2023-01-06 |  |
 | [Put Some Coins In My Guitar Case](https://open.spotify.com/track/1VKSVewoEeEZSWGMmIHqJp) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Put Some Coins In My Guitar Case](https://open.spotify.com/album/7fmKjvUk9dVpPdaYgSu3TV) | 3:33 | 2022-10-28 |  |
 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 | 2022-06-17 |  |
 | [Recoleta](https://open.spotify.com/track/73zIzfUjH01NR5verF5qLQ) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Valsa e Vinho](https://open.spotify.com/album/0LNkP579n9idgfPSrTObSV) | 2:35 | 2022-06-17 |  |
@@ -186,6 +188,7 @@
 | [Roots](https://open.spotify.com/track/315o2fMorxv0Ds6zE8KJoo) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Roots](https://open.spotify.com/album/44ysmHkHLWluf64LGdFUpD) | 3:13 | 2022-06-17 | 2022-12-24 |
 | [Rosales](https://open.spotify.com/track/2LLDiGysmlUcfzuvjruvOM) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Rosales](https://open.spotify.com/album/1b3lqDesHJ4gKr3WawAHrm) | 4:41 | 2022-12-09 |  |
 | [Rosarium](https://open.spotify.com/track/3EGgZKSXFfD9YdbZ2Zvzf9) | [Twan Bracco Gartner](https://open.spotify.com/artist/2HfAA8YkWctZYQia5wFa6C) | [Rosarium](https://open.spotify.com/album/3tHJOtzuJHpngvUnvsHBXL) | 2:25 | 2022-06-17 | 2022-12-24 |
+| [Rubato](https://open.spotify.com/track/1rlL61WUGjlWdhB5cjbWg8) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Rubato](https://open.spotify.com/album/1MTGlmAkxdb0hueMtV3TLA) | 1:44 | 2023-01-06 |  |
 | [Sage](https://open.spotify.com/track/3XsO2i5UGNZfSiyd3sGJ1Y) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [Sage](https://open.spotify.com/album/29Yl3TO5JAkkkoiqf8iEOd) | 2:43 | 2022-08-05 |  |
 | [Salzburger Traum](https://open.spotify.com/track/5tkLBbZH27EVS0OZoYxrtf) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Lange Sommernächte](https://open.spotify.com/album/35b7Gi5InlL6W1mhnBZj5q) | 3:44 | 2022-10-14 |  |
 | [San Sebastian](https://open.spotify.com/track/0QcnlPfVyTyuBEVZeumOUV) | [Henry Auguste](https://open.spotify.com/artist/7BYBlt9RAGjzI4QG0ZapUh) | [San Sebastian](https://open.spotify.com/album/0ov4xgE4lpfucMLPm4twXP) | 1:52 | 2022-06-17 |  |
@@ -223,6 +226,7 @@
 | [Today Tomorrow Forever](https://open.spotify.com/track/72qwDpWA4CbHe3J00wT2zu) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Today Tomorrow Forever](https://open.spotify.com/album/57ormTTFRD4IzjobtB49RC) | 3:25 | 2022-10-14 |  |
 | [Too Gentle](https://open.spotify.com/track/3r5UkhK0ydSW0A4h6XRJ58) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Too Gentle](https://open.spotify.com/album/1CKO9HAhmY9vr5obHxWJkK) | 1:41 | 2022-06-17 |  |
 | [Toque Suave](https://open.spotify.com/track/1fGMb8mMRfE81obtzM8K8p) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Toque Suave](https://open.spotify.com/album/76YZGj9oQn2KWzRdcuS4Y9) | 2:34 | 2022-08-05 |  |
+| [Tot Morgen](https://open.spotify.com/track/2W0sCLz5wGHBYLBKkN3kp2) | [Jeroen Willemsen](https://open.spotify.com/artist/0zfMuidAGSx94M7j1kxmlY) | [Tot Morgen](https://open.spotify.com/album/5HhOtrIeijnW3WQxdHS13A) | 1:53 | 2023-01-06 |  |
 | [Traditional: Danny Boy](https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5) | [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Danny Boy](https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6) | 3:32 | 2022-11-18 |  |
 | [Tranquility](https://open.spotify.com/track/0TACgDNHOuXWhcxAU3dKKz) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Tranquility](https://open.spotify.com/album/1HDfO5DAyhOr1HjHBApgvS) | 2:25 | 2022-06-17 |  |
 | [Traveling Home](https://open.spotify.com/track/6UpA9GfzGPuny8IzZHu3ce) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Traveling Home](https://open.spotify.com/album/42UuqeNyhpaG8Le833PpRX) | 3:13 | 2022-10-07 |  |

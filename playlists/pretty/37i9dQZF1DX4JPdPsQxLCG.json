@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49605,
+  "num_followers": 49607,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMGQxODgzOWJkZWRkYjQ1MDM1NDA5Njg1NjFkYjY4YmI0",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDcwYzI5OTFmNWFmYjVjNDU5Njg5ZjQ2OTQxYzdmMzFl",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Akimbo Alogo",
-        "url": "https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO"
-      },
-      "artists": [
-        {
-          "name": "Kim Mitchell",
-          "url": "https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Go For Soda",
-      "url": "https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Bring Me Your Love (Special Edition)",
         "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 248000,
       "name": "Sleeping Sickness",
       "url": "https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Akimbo Alogo",
+        "url": "https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO"
+      },
+      "artists": [
+        {
+          "name": "Kim Mitchell",
+          "url": "https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Go For Soda",
+      "url": "https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Waiting For A Miracle",
-        "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
+        "name": "The Thin Red Line (Deluxe)",
+        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
       },
       "artists": [
         {
-          "name": "Bruce Cockburn",
-          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+          "name": "Glass Tiger",
+          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
         }
       ],
-      "duration_ms": 223826,
-      "name": "Wondering Where The Lions Are",
-      "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
+      "duration_ms": 248200,
+      "name": "Don't Forget Me (When I'm Gone)",
+      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Thin Red Line (Deluxe)",
-        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
-      },
-      "artists": [
-        {
-          "name": "Glass Tiger",
-          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Don't Forget Me (When I'm Gone)",
-      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 305413,
       "name": "Comin' Home",
       "url": "https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Waiting For A Miracle",
+        "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Wondering Where The Lions Are",
+      "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Union",
-        "url": "https://open.spotify.com/album/2he1XlHeLAuHY8UUVrbiAa"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/6q9aea43X2EpPGCT5QFDat"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Nature Of The Beast",
         "url": "https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 235560,
       "name": "Just Between You And Me",
       "url": "https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "The Union",
+        "url": "https://open.spotify.com/album/2he1XlHeLAuHY8UUVrbiAa"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/6q9aea43X2EpPGCT5QFDat"
     },
     {
       "added_at": "2022-09-13 21:55:44",

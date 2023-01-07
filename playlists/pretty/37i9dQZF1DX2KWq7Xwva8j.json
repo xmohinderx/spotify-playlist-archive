@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Judeline",
-  "num_followers": 20415,
+  "num_followers": 20420,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYzMDY4MywwMDAwMDAwMDE0NDkzOWVkMjY5MjRlYTBmNDJjNGFjZTViZDE1ODU0",
+  "snapshot_id": "MTY3MTYzMDY4MywwMDAwMDAwMGM2N2IyNDJkOGM5NWM0M2ZiM2NlOTNlY2ZjZGViNDBi",
   "tracks": [
     {
       "added_at": "2022-12-21 13:50:37",
@@ -48,8 +48,8 @@
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "Wall S",
+          "url": "https://open.spotify.com/artist/20AWUAbALjo3XHSebLDAkL"
         },
         {
           "name": "Funzo & Baby Loud",
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq"
     },
     {
-      "added_at": "2023-01-06 06:39:39",
+      "added_at": "2023-01-07 01:13:43",
       "album": {
         "name": "Desastre de persona",
         "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
@@ -683,22 +683,18 @@
     {
       "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "Quiero Bailar",
-        "url": "https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g"
+        "name": "Roma No Es Amor",
+        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
       },
       "artists": [
         {
-          "name": "Elena Torres",
-          "url": "https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV"
-        },
-        {
-          "name": "MPV",
-          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
         }
       ],
-      "duration_ms": 172384,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY"
+      "duration_ms": 193243,
+      "name": "Roma No Es Amor",
+      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
       "added_at": "2022-12-21 13:50:37",
@@ -723,38 +719,38 @@
     {
       "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "Roma No Es Amor",
-        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+        "name": "Quiero Bailar",
+        "url": "https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g"
       },
       "artists": [
         {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+          "name": "Elena Torres",
+          "url": "https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV"
+        },
+        {
+          "name": "MPV",
+          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
         }
       ],
-      "duration_ms": 193243,
-      "name": "Roma No Es Amor",
-      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
+      "duration_ms": 172384,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY"
     },
     {
       "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "friki",
-        "url": "https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK"
+        "name": "scenario!",
+        "url": "https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL"
       },
       "artists": [
         {
-          "name": "valverdina",
-          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
-        },
-        {
-          "name": "Pavlo Tambien",
-          "url": "https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3"
+          "name": "Ghouljaboy",
+          "url": "https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d"
         }
       ],
-      "duration_ms": 131871,
-      "name": "friki",
-      "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
+      "duration_ms": 194166,
+      "name": "scenario!",
+      "url": "https://open.spotify.com/track/3thdka0EjolLblroJXiE3U"
     },
     {
       "added_at": "2022-12-21 13:50:37",
@@ -775,18 +771,22 @@
     {
       "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "scenario!",
-        "url": "https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL"
+        "name": "friki",
+        "url": "https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK"
       },
       "artists": [
         {
-          "name": "Ghouljaboy",
-          "url": "https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d"
+          "name": "valverdina",
+          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
+        },
+        {
+          "name": "Pavlo Tambien",
+          "url": "https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3"
         }
       ],
-      "duration_ms": 194166,
-      "name": "scenario!",
-      "url": "https://open.spotify.com/track/3thdka0EjolLblroJXiE3U"
+      "duration_ms": 131871,
+      "name": "friki",
+      "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
     },
     {
       "added_at": "2022-12-21 13:50:37",

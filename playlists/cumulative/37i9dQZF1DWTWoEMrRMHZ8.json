@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Livre",
+        "url": "https://open.spotify.com/album/7rwZcdvrRgDkz3Jm9aiP8T"
+      },
+      "artists": [
+        {
+          "name": "Malu Guedelha",
+          "url": "https://open.spotify.com/artist/0tD5oJ59qOMoYOWI8ovvpH"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287500,
+      "name": "Bora Sair?",
+      "url": "https://open.spotify.com/track/506J1q9NiGKHlhXdH4ZhV5"
+    },
+    {
+      "album": {
         "name": "B\u00e9di Beat (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
       },

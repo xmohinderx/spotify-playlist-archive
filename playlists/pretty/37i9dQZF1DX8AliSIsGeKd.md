@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Giorgia Angiuli
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,896 likes - 78 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,008 likes - 78 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

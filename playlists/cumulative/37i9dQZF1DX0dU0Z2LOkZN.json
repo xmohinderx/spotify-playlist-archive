@@ -3287,6 +3287,32 @@
     },
     {
       "album": {
+        "name": "Luv Devotion",
+        "url": "https://open.spotify.com/album/7fW9dK8OIBPrLGzaVi984h"
+      },
+      "artists": [
+        {
+          "name": "Yoann Garel",
+          "url": "https://open.spotify.com/artist/2RRf9tUE1EcvP4W4v9Hi4B"
+        },
+        {
+          "name": "Aphrow",
+          "url": "https://open.spotify.com/artist/5r6e4n1Ux36kMlRJSqeMPr"
+        },
+        {
+          "name": "Damien Fleau",
+          "url": "https://open.spotify.com/artist/2hBiKiDOmotLf0fHDRHWW7"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160439,
+      "name": "Luv Devotion",
+      "url": "https://open.spotify.com/track/65kAFxRITQjqQ6W97zALHJ"
+    },
+    {
+      "album": {
         "name": "Mad Summer",
         "url": "https://open.spotify.com/album/19mCcLU4lQXBCqg2XRrDF9"
       },
@@ -4514,6 +4540,24 @@
       "duration_ms": 147042,
       "name": "Queens",
       "url": "https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ"
+    },
+    {
+      "album": {
+        "name": "Rea(L)ove",
+        "url": "https://open.spotify.com/album/6PWdS6cfkAQqf0GEA2IQE5"
+      },
+      "artists": [
+        {
+          "name": "athena",
+          "url": "https://open.spotify.com/artist/5LCmX0zahE0VcaMNHxLJqm"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164375,
+      "name": "Rea(L)ove",
+      "url": "https://open.spotify.com/track/6Pl77sVaKa2PrLsTSoVntF"
     },
     {
       "album": {

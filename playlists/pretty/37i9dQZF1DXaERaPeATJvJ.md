@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Merayakan 21 tahun The Brandals bersama kumpulan katalog mereka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,079 likes - 101 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,093 likes - 101 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

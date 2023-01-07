@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Korea in 2022\. \(Cover: Evelyn Hahn\(에이블린 한\)\) 2022년 Fresh Finds Korea를 빛낸 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,038 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,062 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 41 | [You're beautiful](https://open.spotify.com/track/3SoUZV3dDDYrChBZ1VRYVS) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [You're beautiful](https://open.spotify.com/album/1zWA5tyCpjbqeFbL6Ly6n8) | 3:03 |
 | 42 | [Rendezvous \(feat\. TRADE L\)](https://open.spotify.com/track/1axAbXUG7vykPn955VvirP) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [Shawty](https://open.spotify.com/album/6xaHkl43S64AJiTFrVIoJs) | 2:35 |
 | 43 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 |
-| 44 | [Hollywood Movie Star \(feat\. HIZY\)](https://open.spotify.com/track/5JR36qwodNP2jeLpETl0Li) | [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f), [Hizy](https://open.spotify.com/artist/5njwz2XXduKqMXmRmQ3NVx) | [Hollywood Movie Star \(feat\. HIZY\)](https://open.spotify.com/album/7yBQQYld2TGIehRcO9quHC) | 3:40 |
+| 44 | [Hollywood Movie Star \(feat\. HIZY\)](https://open.spotify.com/track/5JR36qwodNP2jeLpETl0Li) | [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f), [HIZY](https://open.spotify.com/artist/5njwz2XXduKqMXmRmQ3NVx) | [Hollywood Movie Star \(feat\. HIZY\)](https://open.spotify.com/album/7yBQQYld2TGIehRcO9quHC) | 3:40 |
 | 45 | [Fall](https://open.spotify.com/track/2WJqRdmgxOdZfiwu5ijidu) | [Dabin Yu](https://open.spotify.com/artist/0bDXcnhvDXxvYWU7GAZddx) | [Fall](https://open.spotify.com/album/6KAmcxnUmLURU1LVfLwceT) | 3:08 |
 | 46 | [Bullseye](https://open.spotify.com/track/72klky41z2aZ5ft5YAxlDy) | [Jeong Jia](https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3) | [Bullseye](https://open.spotify.com/album/4K9A9hREpor7KTRbriaF7C) | 4:05 |
 | 47 | [Malibu Orange](https://open.spotify.com/track/2wX4QSaOA7OZf40vrOQdDy) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Recycle](https://open.spotify.com/album/3PILBpS1ZR68SzffLwlFcr) | 2:23 |

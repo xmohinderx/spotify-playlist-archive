@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Analog Girl in a Digital World",
+        "url": "https://open.spotify.com/album/1ZQa3tm2ZtyZ4Eu9O7T5R4"
+      },
+      "artists": [
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375106,
+      "name": "Analog Girl in a Digital World",
+      "url": "https://open.spotify.com/track/6X8aDvIO7W9HAIguFwudes"
+    },
+    {
+      "album": {
         "name": "Angels Cry EP",
         "url": "https://open.spotify.com/album/731e2r70VONXBsHhyhq1Uz"
       },
@@ -684,6 +702,24 @@
       "duration_ms": 204378,
       "name": "Asteroid",
       "url": "https://open.spotify.com/track/7lTNfb6jHu6cIiu84xfATB"
+    },
+    {
+      "album": {
+        "name": "Astro",
+        "url": "https://open.spotify.com/album/2cycEA0V7igfgdPSDcvBxn"
+      },
+      "artists": [
+        {
+          "name": "Mario Ochoa",
+          "url": "https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382556,
+      "name": "Astro",
+      "url": "https://open.spotify.com/track/0MFAMDEBZi6TbwNM0gZIcq"
     },
     {
       "album": {
@@ -1026,6 +1062,24 @@
       "duration_ms": 479181,
       "name": "Butoh",
       "url": "https://open.spotify.com/track/3uXQWCbqjtgOzSK5TuZZg4"
+    },
+    {
+      "album": {
+        "name": "Cabroncete",
+        "url": "https://open.spotify.com/album/2mMHq4hPrc3a7Es0iRHnxW"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225109,
+      "name": "Cabroncete",
+      "url": "https://open.spotify.com/track/1xPm1Gy46lvDV3WHOm2ndy"
     },
     {
       "album": {
@@ -2188,7 +2242,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 386363,
       "name": "Dust2",
       "url": "https://open.spotify.com/track/73TeOQxZq4VMxooPmZ4KEr"
@@ -2318,7 +2372,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 253242,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
@@ -2502,7 +2556,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 260000,
       "name": "False Love",
       "url": "https://open.spotify.com/track/5VOlgrZaSeoGPAZxOjmHiO"
@@ -2956,7 +3010,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 284651,
       "name": "Gilgamesh",
       "url": "https://open.spotify.com/track/7vmXmhia1MFqu8t3IAYOkP"
@@ -5379,6 +5433,24 @@
     },
     {
       "album": {
+        "name": "Pulchra",
+        "url": "https://open.spotify.com/album/0ihSHBFI9OEuwPg4dqyi14"
+      },
+      "artists": [
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254769,
+      "name": "Pulchra",
+      "url": "https://open.spotify.com/track/63mFPNs3UaFmBB55YiW0it"
+    },
+    {
+      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/2POEND23KcLg9y4zzPSSuO"
       },
@@ -7055,6 +7127,24 @@
     },
     {
       "album": {
+        "name": "The Sound of the Underground",
+        "url": "https://open.spotify.com/album/6PwbVy486OaTTLnVUMtYYI"
+      },
+      "artists": [
+        {
+          "name": "Tom Wax",
+          "url": "https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456984,
+      "name": "The Sound of the Underground",
+      "url": "https://open.spotify.com/track/173zfO8W0VXRZwbfiCPnxr"
+    },
+    {
+      "album": {
         "name": "Goldener Strom Remixes 1",
         "url": "https://open.spotify.com/album/2Oa9B5Rlku6LgDvKahNhSj"
       },
@@ -7200,7 +7290,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 288671,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"

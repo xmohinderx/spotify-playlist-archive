@@ -4,7 +4,7 @@
 
 > The best in house music
 
-283 songs - 20 hr 49 min
+284 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Let the Sun Shine \- Purple Disco Machine Remix](https://open.spotify.com/track/1W02hcbdwd4do45YJqSlED) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Let the Sun Shine \(Purple Disco Machine Remix\)](https://open.spotify.com/album/6UhfjhKAcnH61ZGR9zZNFh) | 2:46 | 2022-04-20 |  |
 | [Levante](https://open.spotify.com/track/6Pf7har3IRGctriYzbanjM) | [Qubiko](https://open.spotify.com/artist/7GklfVLAXAgRjh6Y0yOgMq), [Miki Sax](https://open.spotify.com/artist/3cAeOoTvF23n4F59GgpvZM) | [Levante](https://open.spotify.com/album/6HQMIkx3pO5qAAhRmw5vcR) | 5:56 | 2022-04-14 | 2022-07-29 |
 | [Life](https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Life](https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b) | 2:50 | 2022-09-15 |  |
-| [Life So Bright](https://open.spotify.com/track/2t0LqsZpeBXUkhLUneynjA) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Life So Bright EP](https://open.spotify.com/album/6Opq0kA0g15ql0eEz51VAo) | 5:06 | 2022-10-27 |  |
+| [Life So Bright](https://open.spotify.com/track/2t0LqsZpeBXUkhLUneynjA) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Life So Bright EP](https://open.spotify.com/album/6Opq0kA0g15ql0eEz51VAo) | 5:06 | 2022-10-27 | 2023-01-07 |
 | [Lights Go Down \(with SIDEPIECE\)](https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G) | 3:03 | 2022-04-20 |  |
 | [Like I Used To](https://open.spotify.com/track/2SMqAHurJ7vtu16DSQojou) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Like I Used To](https://open.spotify.com/album/6rEWmgcCkLgFmfdh0gJt1M) | 2:58 | 2022-12-01 |  |
 | [Like It Is \- Mixed](https://open.spotify.com/track/5ReLOUboXvaOVariwEJnl3) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Defected In The House Radio Show Episode 041 \(hosted by Sam Divine\)](https://open.spotify.com/album/21vNE48kEQUwOIDNfG8Ihm) | 4:22 | 2022-04-14 |  |
@@ -251,6 +251,7 @@
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-04-14 |  |
 | [Talamanca \- Vintage Culture Remix](https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talamanca \(Vintage Culture Remix\)](https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd) | 3:10 | 2022-04-14 |  |
 | [TALI](https://open.spotify.com/track/51pEVxPCc5ZlAm5Y47Kuhg) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [TALI](https://open.spotify.com/album/2xjaexaUErg3fBhqoRRzKS) | 6:31 | 2022-04-26 | 2022-07-29 |
+| [TALI](https://open.spotify.com/track/5wkTldxaE77e8W5zZW8fR5) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [EXPO Series 001](https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW) | 6:31 | 2022-12-22 |  |
 | [Tell You What It Is](https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is](https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu) | 3:07 | 2022-05-12 | 2022-06-03 |
 | [Tell You What It Is \- Shermanology SoulTec Mix](https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is \(Shermanology SoulTec Mix\)](https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV) | 3:39 | 2022-06-02 |  |
 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 | 2022-04-14 |  |

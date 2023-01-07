@@ -4,7 +4,7 @@
 
 > Get your body right with this workout twerkout
 
-182 songs - 8 hr 0 min
+183 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [ABC](https://open.spotify.com/track/4GJxR7QdKAi0uTfPXwQ9LC) | [Kayykilo](https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG) | [ABC](https://open.spotify.com/album/7cLNX0Y7s9pRfbEo9Zw1Eo) | 2:31 | 2021-09-03 | 2022-03-05 |
 | [ABOW](https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [ABOW](https://open.spotify.com/album/6ZfGwuyfS3jUQpZ2L0sx7b) | 2:14 | 2022-06-03 |  |
 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI) | 3:04 | 2022-09-23 | 2022-10-08 |
+| [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 | 2023-01-06 |  |
 | [Ass For Days](https://open.spotify.com/track/4xsLRqemrXE402nb3GHUVj) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Life In Plastic 3](https://open.spotify.com/album/1dBsWvtX0Ji3sMHKjvjEyR) | 2:44 | 2022-09-23 |  |
 | [Bad Lil Bish \(feat\. Baby Tate & Black Boe\)](https://open.spotify.com/track/4lGOfJV1sweO6v2uvgxnbW) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Black Boe](https://open.spotify.com/artist/0H6CjdCp9GMNoFgMVALJOk) | [Bad Lil Bish \(feat\. Baby Tate & Black Boe\)](https://open.spotify.com/album/77qun7itMkQ3JzH7t3rzwY) | 3:09 | 2022-08-05 | 2022-08-20 |
 | [BAFWM](https://open.spotify.com/track/47q42DLArt5uwS8oQso7Yy) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Redemption](https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er) | 2:47 | 2022-07-15 |  |
@@ -127,7 +128,7 @@
 | [PTPOM \- Shemix](https://open.spotify.com/track/5q146DLWV5OJTK0Uch3p5C) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [PTPOM \(Shemix\)](https://open.spotify.com/album/1vnwE0JjXVAvPLvtjkvuym) | 2:02 | 2022-03-11 | 2022-07-02 |
 | [RBT](https://open.spotify.com/track/6pK0FMFD0Q0GtsiZ5laA8W) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF) | [Down In The Valley \(Mixtape\)](https://open.spotify.com/album/7nxBJnr6HvLAf5MNxh1nm5) | 2:58 | 2022-11-11 | 2022-12-08 |
 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 | 2022-08-26 |  |
-| [Real Freak](https://open.spotify.com/track/6ThKqlrpzhNKuTLTlhTgl9) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [Real Freak](https://open.spotify.com/album/3U6P2BvHZCOuUIl80VQCgq) | 2:47 | 2022-12-02 |  |
+| [Real Freak](https://open.spotify.com/track/6ThKqlrpzhNKuTLTlhTgl9) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [Real Freak](https://open.spotify.com/album/3U6P2BvHZCOuUIl80VQCgq) | 2:47 | 2022-12-02 | 2023-01-07 |
 | [Rich Bitch Party](https://open.spotify.com/track/5dU9pSiLUj1m8MFKzihk8z) | [Mellow Rackz](https://open.spotify.com/artist/3celDTSIsfH8ks4YQ68B5w) | [Rich Bitch Party](https://open.spotify.com/album/1eW1Dl7aGNbz6cx464ydRz) | 2:32 | 2022-10-14 | 2022-11-12 |
 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 | 2021-09-03 | 2022-02-05 |
 | [Said Sum \(feat\. City Girls & DaBaby\) \- Remix](https://open.spotify.com/track/7HbnX1fxCAoPa7nRVFSEFW) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Said Sum \(feat\. City Girls & DaBaby\) \[Remix\]](https://open.spotify.com/album/3ASomU3vEiJkQDJEtIKTlD) | 2:57 | 2021-09-03 | 2022-02-05 |

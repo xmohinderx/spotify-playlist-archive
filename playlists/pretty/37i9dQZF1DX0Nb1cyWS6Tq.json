@@ -1,12 +1,12 @@
 {
   "description": "Release The Bats! Siouxsie and the Banshees on the cover.",
-  "num_followers": 518046,
+  "num_followers": 518452,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4NjEzNiwwMDAwMDAwMDE3M2Y1MzJkMzM0MzMzMDBjNGU3OTAwOGIxNDM0Mjlm",
+  "snapshot_id": "MTY3Mjk4NjEzNiwwMDAwMDAwMGYzYjg4YjRkY2ZlN2VhNmZkYWJjYWQyNzhhNWIwMjkz",
   "tracks": [
     {
       "added_at": "2022-11-28 15:12:32",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/3DBGxdFyynAak3dRiy54Jv"
-      },
-      "artists": [
-        {
-          "name": "Clan of Xymox",
-          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
-        }
-      ],
-      "duration_ms": 353160,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "The Nephilim",
         "url": "https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 340626,
       "name": "Moonchild",
       "url": "https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3DBGxdFyynAak3dRiy54Jv"
+      },
+      "artists": [
+        {
+          "name": "Clan of Xymox",
+          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
+        }
+      ],
+      "duration_ms": 353160,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy"
     },
     {
       "added_at": "2022-03-30 01:50:22",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Is Nothing Sacred?",
-        "url": "https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8"
-      },
-      "artists": [
-        {
-          "name": "Lords Of The New Church",
-          "url": "https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "The Best Of Gene Loves Jezebel - Voodoo Dollies",
         "url": "https://open.spotify.com/album/0dyidFH3g6JfRNNfhjilf4"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 286773,
       "name": "Break the Chain",
       "url": "https://open.spotify.com/track/4pzso9h6xrYcthbQHdaeOq"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Is Nothing Sacred?",
+        "url": "https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8"
+      },
+      "artists": [
+        {
+          "name": "Lords Of The New Church",
+          "url": "https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
     },
     {
       "added_at": "2021-10-15 04:04:50",

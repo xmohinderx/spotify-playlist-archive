@@ -923,6 +923,28 @@
     },
     {
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6K3Rrv6q0SWdYHeho5DqdM"
+      },
+      "artists": [
+        {
+          "name": "Czarina Frost",
+          "url": "https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q"
+        },
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92343,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2sagi6LnzbTNFRMuhrW683"
+    },
+    {
+      "album": {
         "name": "Hushed Premonition",
         "url": "https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ"
       },

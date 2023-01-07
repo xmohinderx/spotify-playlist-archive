@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 247577,
+  "num_followers": 247593,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDYwZDNjZDc4ODI3ZjkxODk5ODI0ZTc4ODRjMWU5ZTJm",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGE1OThlYmFhYmU0NDc4NTFhZWIzNGM2YzcyMjQ2MzI5",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 182827,
+      "name": "Something American",
+      "url": "https://open.spotify.com/track/0SjWmoYajBMXHeh3DWZf9s"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Bullseye",
         "url": "https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 182827,
-      "name": "Something American",
-      "url": "https://open.spotify.com/track/0SjWmoYajBMXHeh3DWZf9s"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -623,6 +623,22 @@
       "duration_ms": 194942,
       "name": "Party Dress",
       "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 170391,
+      "name": "Cathedral",
+      "url": "https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -707,18 +723,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
       "artists": [
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 170391,
-      "name": "Cathedral",
-      "url": "https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT"
+      "duration_ms": 188615,
+      "name": "Mortals",
+      "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -735,22 +751,6 @@
       "duration_ms": 252291,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 188615,
-      "name": "Mortals",
-      "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 229501,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The World We Built",
         "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 257173,
       "name": "Capable",
       "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 229501,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
-        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 182062,
-      "name": "Boxing Day Blues",
-      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Unmoved (A Black Woman Truth)",
-        "url": "https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3"
+        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
       },
       "artists": [
         {
-          "name": "Ayoni",
-          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 256451,
-      "name": "Unmoved (A Black Woman Truth)",
-      "url": "https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51"
+      "duration_ms": 182062,
+      "name": "Boxing Day Blues",
+      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 213607,
       "name": "Fear & Force",
       "url": "https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Unmoved (A Black Woman Truth)",
+        "url": "https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3"
+      },
+      "artists": [
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "duration_ms": 256451,
+      "name": "Unmoved (A Black Woman Truth)",
+      "url": "https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Ready Reckoner",
-        "url": "https://open.spotify.com/album/6AIIp8Sg3vWyxpyoPc4Cfl"
-      },
-      "artists": [
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 258141,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/2RZKkkakd9ULBy58ffOAG4"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "It's Infinite",
         "url": "https://open.spotify.com/album/2xTzkPIjEuzHgLFxC1SnRC"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 174465,
       "name": "It's Infinite",
       "url": "https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Ready Reckoner",
+        "url": "https://open.spotify.com/album/6AIIp8Sg3vWyxpyoPc4Cfl"
+      },
+      "artists": [
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "duration_ms": 258141,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2RZKkkakd9ULBy58ffOAG4"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/3cHUgy2YScaImqEk8ovZBz"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "The Man I'll Never Find (Piano Version)",
-        "url": "https://open.spotify.com/album/3CVhK0IZWbHi1s2JXW8zu2"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 221135,
-      "name": "The Man I'll Never Find - Piano Version",
-      "url": "https://open.spotify.com/track/70DCnj3cDWbVil403EvDi5"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Montibello Memories",
@@ -1387,6 +1371,22 @@
       "duration_ms": 231413,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "The Man I'll Never Find (Piano Version)",
+        "url": "https://open.spotify.com/album/3CVhK0IZWbHi1s2JXW8zu2"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 221135,
+      "name": "The Man I'll Never Find - Piano Version",
+      "url": "https://open.spotify.com/track/70DCnj3cDWbVil403EvDi5"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Meet Me on the Edge of Our Ruin",
-        "url": "https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L"
-      },
-      "artists": [
-        {
-          "name": "Nina June",
-          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "World on Fire",
-      "url": "https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "I Don't Want To Let You Down b/w All Over Again",
         "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 242893,
       "name": "I Don't Want to Let You Down",
       "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Meet Me on the Edge of Our Ruin",
+        "url": "https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L"
+      },
+      "artists": [
+        {
+          "name": "Nina June",
+          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "This Is What Our Love Looks Like Now",
-        "url": "https://open.spotify.com/album/1W073g3rJsTWsNWZgE6Drh"
-      },
-      "artists": [
-        {
-          "name": "Ainslie Wills",
-          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
-        }
-      ],
-      "duration_ms": 243242,
-      "name": "This Is What Our Love Looks Like Now",
-      "url": "https://open.spotify.com/track/1nMTCm7jq5UOUW4tP8JDix"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Aldous Harding",
         "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 338639,
       "name": "Stop Your Tears",
       "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "This Is What Our Love Looks Like Now",
+        "url": "https://open.spotify.com/album/1W073g3rJsTWsNWZgE6Drh"
+      },
+      "artists": [
+        {
+          "name": "Ainslie Wills",
+          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
+        }
+      ],
+      "duration_ms": 243242,
+      "name": "This Is What Our Love Looks Like Now",
+      "url": "https://open.spotify.com/track/1nMTCm7jq5UOUW4tP8JDix"
     },
     {
       "added_at": "2022-09-16 04:00:00",

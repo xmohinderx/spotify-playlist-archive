@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 829231,
+  "num_followers": 829269,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA3MDYxMywwMDAwMDAwMGMwNjA5M2I3ZWZkM2M5ZjAwYWEzNjM0OGUwYzU1NTMz",
+  "snapshot_id": "MTY2OTA3MDYxMywwMDAwMDAwMDllMDEzMGE2N2YxNjY0NjEyYjEyYTYxOTVmNTNhODI4",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+        "name": "White Water",
+        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
         }
       ],
-      "duration_ms": 385653,
-      "name": "God Turn Me Into a Flower",
-      "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
+      "duration_ms": 233391,
+      "name": "White Water",
+      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -201,20 +201,20 @@
       "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "White Water",
-        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 233391,
-      "name": "White Water",
-      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
+      "duration_ms": 385653,
+      "name": "God Turn Me Into a Flower",
+      "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Far Out Dust",
-        "url": "https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv"
-      },
-      "artists": [
-        {
-          "name": "Talos",
-          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "To Each His Own",
-      "url": "https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "The Kingfisher",
         "url": "https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 289970,
       "name": "Old Now",
       "url": "https://open.spotify.com/track/3IVALWwWuGL5p3W6cPtjDH"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Far Out Dust",
+        "url": "https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv"
+      },
+      "artists": [
+        {
+          "name": "Talos",
+          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "To Each His Own",
+      "url": "https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ"
-      },
-      "artists": [
-        {
-          "name": "Jake Houlsby",
-          "url": "https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3"
-        }
-      ],
-      "duration_ms": 218346,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Holding On, Holding Out",
         "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 218760,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ"
+      },
+      "artists": [
+        {
+          "name": "Jake Houlsby",
+          "url": "https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Melatonin (Unplugged)",
-        "url": "https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 325280,
-      "name": "Melatonin (Unplugged)",
-      "url": "https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Arc - Stripped",
         "url": "https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 206669,
       "name": "Arc - Stripped",
       "url": "https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Melatonin (Unplugged)",
+        "url": "https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 325280,
+      "name": "Melatonin (Unplugged)",
+      "url": "https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Orbit",
-        "url": "https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 233238,
-      "name": "Society",
-      "url": "https://open.spotify.com/track/5BQZpjCcPmFSeLzTh48Zfc"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/0vthbGW16gu7KsSkEeVDIh"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 230257,
       "name": "The Dark - Sparse",
       "url": "https://open.spotify.com/track/6YpN6gfY8qGre9z8XRmTwM"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 233238,
+      "name": "Society",
+      "url": "https://open.spotify.com/track/5BQZpjCcPmFSeLzTh48Zfc"
     },
     {
       "added_at": "2022-11-11 05:00:00",

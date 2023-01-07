@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-307 songs - 15 hr 28 min
+313 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Côte d'Azur](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Côte d'Azur](https://open.spotify.com/album/1SIIMxqsHJjFesEaSu6WYO) | 2:31 | 2022-07-01 |  |
 | [Daft Kids](https://open.spotify.com/track/4nJvbH8x3yugwGtF2S0xfX) | [Sonaya](https://open.spotify.com/artist/6RUxinrtMPQKQElph9PaN9) | [Daft Kids](https://open.spotify.com/album/0sjg0cUWNvvaha0TvksAZW) | 2:54 | 2022-12-09 |  |
 | [Danger Zone](https://open.spotify.com/track/48gfj7REhcvZjASWAPEo68) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Danger Zone](https://open.spotify.com/album/2AFI0lCU0ILKZW9Plkno6n) | 2:52 | 2019-10-04 | 2022-02-12 |
+| [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 | 2023-01-06 |  |
 | [DayNight](https://open.spotify.com/track/2avFBTHnq0gF9Rd1M0Rrs9) | [Togo Bao](https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn) | [DayNight](https://open.spotify.com/album/1BE0wCj8cXgr2N6q1ozNhV) | 2:43 | 2022-09-16 |  |
 | [Deep Mind](https://open.spotify.com/track/4ZS6culUlDvYvLGgIsEyy2) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [Deep Mind](https://open.spotify.com/album/0qtGM2MhLj7A8v3BUpbOz2) | 2:39 | 2022-07-22 |  |
 | [departure](https://open.spotify.com/track/3VtNgwrW7ZpnPjXfnkXBTh) | [luv.fi](https://open.spotify.com/artist/2u6hFkHXuIM5BIG1Dp7r2N) | [departure](https://open.spotify.com/album/5rwZIBeQdCg8X7NabbmJbF) | 2:04 | 2021-10-12 | 2022-02-12 |
@@ -129,6 +130,7 @@
 | [Hydralove](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Hydralove](https://open.spotify.com/album/555BCXEOB1b412Bs6PhxrX) | 3:26 | 2022-02-11 |  |
 | [I and Love](https://open.spotify.com/track/0GFBdfj09IKlRucWbvOITu) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [I and Love](https://open.spotify.com/album/254L0w6tz1JkfmmYNCuX4t) | 4:01 | 2021-10-12 | 2022-02-12 |
 | [I Get It Now](https://open.spotify.com/track/0SUdzNOCx48qEV8f0xViwm) | [Fjord](https://open.spotify.com/artist/4YksGBCsBc8cPbQPyHDefV) | [Textures](https://open.spotify.com/album/1cQO1urPQ3cZ3OmkOC5zHf) | 3:27 | 2019-10-04 | 2022-02-12 |
+| [i need myspace](https://open.spotify.com/track/3chffdXDrx8jsT3hpCnbAA) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [i need myspace](https://open.spotify.com/album/03x5kDCaUWMProXLgV0suf) | 2:17 | 2023-01-06 |  |
 | [I Wish We Had More Time](https://open.spotify.com/track/71F5R77kgxulxZTtgzli7j) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Outside My Window](https://open.spotify.com/album/4LbymBMUIVzLVYePiouiVh) | 4:28 | 2022-08-19 |  |
 | [Illusions](https://open.spotify.com/track/190gn9RjC9PkJVpMKkBLMe) | [Liquid Lasso](https://open.spotify.com/artist/5W6TvKu7TeFtdU9CTf7UOe) | [Illusions](https://open.spotify.com/album/11VRjUkzZb8gefEPxFnjdU) | 3:19 | 2022-02-11 |  |
 | [Immortal](https://open.spotify.com/track/6aju9nXf2qF3Lexo6iYoFJ) | [MaTa](https://open.spotify.com/artist/4VXVu0C94fy1xLwfTTb7fr) | [Immortal](https://open.spotify.com/album/4R2XKRYpevbMhFwMG8YvyF) | 6:18 | 2022-06-17 | 2022-07-29 |
@@ -146,6 +148,7 @@
 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 | 2021-10-26 | 2022-02-12 |
 | [Lemon Chill](https://open.spotify.com/track/68ftFeFDbVK08MUF1NyMAI) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Lemon Chill](https://open.spotify.com/album/0JusNbO9M4ZAvvnmdMoU19) | 2:12 | 2022-11-25 |  |
 | [Lifeless Major](https://open.spotify.com/track/7n9n0v33mqEMniNMTmxv1J) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Lifeless Major](https://open.spotify.com/album/2lV37OXeIK3GBP5vTAevLp) | 2:46 | 2022-07-01 | 2022-09-09 |
+| [Like Water or Something](https://open.spotify.com/track/3CpHAioFSmxDt28X7ej1cn) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Like Water or Something](https://open.spotify.com/album/2fPKWllQ8xqcWoIcx5poI8) | 2:37 | 2023-01-06 |  |
 | [Living Inside Your Love](https://open.spotify.com/track/2nRdWUhn7dEJbOSv9zrhMF) | [Monumental Men](https://open.spotify.com/artist/1g086QeJJCdi3HfyfpU22A) | [Living Inside Your Love](https://open.spotify.com/album/28BKM9sQYJudVEiVecxKT5) | 4:04 | 2019-10-04 | 2022-02-12 |
 | [Living Quarters](https://open.spotify.com/track/1ogoiiimWF8xDwZCIrc9AT) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Living Quarters](https://open.spotify.com/album/2rFeIx7pisAIFKwdy1rTYI) | 2:21 | 2021-10-26 | 2022-02-12 |
 | [Lost and sound](https://open.spotify.com/track/4deG32OdrRCNIRRqlltdUJ) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Lost and sound](https://open.spotify.com/album/7bkBU9Rvrt4dpy3juyV3bU) | 2:58 | 2022-08-19 |  |
@@ -174,6 +177,7 @@
 | [Morning Nest](https://open.spotify.com/track/3rtHobBSvIk3x1euimZgDs) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Morning Nest](https://open.spotify.com/album/7GLDA8ZhendRL0oaHjk1ky) | 2:58 | 2022-11-25 |  |
 | [Mountain Peak, Sea Deep](https://open.spotify.com/track/3dGcfSthwIfEFo8BKoWKH9) | [Pheeyownah](https://open.spotify.com/artist/3uHNiWNGDKPU2dIA7Q7en9) | [Under the Dock](https://open.spotify.com/album/1Um1uJ7I1UYchG6FSZZneG) | 4:02 | 2019-10-04 | 2022-02-12 |
 | [Mousha](https://open.spotify.com/track/0Uvr2G0WF4J3jntnkF04MS) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Mousha](https://open.spotify.com/album/30der8NDHj0j2DpViZT706) | 2:57 | 2022-11-25 |  |
+| [Mugen](https://open.spotify.com/track/3BMc9lZNLfgOlQBnKk0Ivp) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Mugen](https://open.spotify.com/album/1pnXudcL2xzG8mLhHzJ1B0) | 2:52 | 2023-01-06 |  |
 | [My Desert](https://open.spotify.com/track/6A6VvlEjLnN48BPkw8AhKC) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [My Desert](https://open.spotify.com/album/4Iey1mzYZ0GoovJxQa08ho) | 2:58 | 2022-08-19 |  |
 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 | 2022-02-11 |  |
 | [Nevada](https://open.spotify.com/track/3gCskbRL90fyXnTg6kNaUu) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Late Sun](https://open.spotify.com/album/1JGBUKbvb8xKBddvKP0ASW) | 6:03 | 2022-02-12 | 2022-07-15 |
@@ -200,6 +204,7 @@
 | [Peyote](https://open.spotify.com/track/2UogGmSbe5uiGVJSoe3PcS) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Peyote](https://open.spotify.com/album/0Z90edv3cnFePD7TkayWkb) | 3:48 | 2022-02-11 |  |
 | [Pinch Punch](https://open.spotify.com/track/1gmfpLdj099PQIZ8S9tz94) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Pinch Punch](https://open.spotify.com/album/6rO4FmexBBwdyqXMRwYUAT) | 2:55 | 2022-07-29 | 2022-10-07 |
 | [pineapple waves](https://open.spotify.com/track/2btm5MeHs3WXbrtSgwJB6G) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [pineapple waves](https://open.spotify.com/album/4BeopPdPOtdd4TSSV3elTh) | 3:20 | 2022-10-14 |  |
+| [Poet Bio](https://open.spotify.com/track/6TTjXl7QKKvvMAGviSfUKo) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Poet Bio](https://open.spotify.com/album/07BExc9NedKtIqUAMCcjcp) | 3:12 | 2023-01-06 |  |
 | [Quay](https://open.spotify.com/track/66HmKYuvJH82x9zQKFvSAX) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Quay](https://open.spotify.com/album/2Yssd99I6S8ljrnkjRqj6V) | 2:48 | 2022-02-11 |  |
 | [Radio Head](https://open.spotify.com/track/465eA0AbmDTORT39flcRfZ) | [Bell Chenko](https://open.spotify.com/artist/5saowJ1itYDsVZG8Bp6pPo) | [Radio Head](https://open.spotify.com/album/0qQRICDc4ARCQBqLeMhFfm) | 2:06 | 2021-10-12 | 2022-02-12 |
 | [Rays](https://open.spotify.com/track/6LwT74KmtNPUn1JZ8Hqkl6) | [Ikson](https://open.spotify.com/artist/0oaw4MsauBh5lIEBWqhi1r) | [Rays](https://open.spotify.com/album/1wLHNGtDdEMAbXuRvJ0za1) | 2:00 | 2019-10-04 | 2022-02-12 |
@@ -315,5 +320,6 @@
 | [Your Natural Habitat](https://open.spotify.com/track/0BtL71vjDETUmWLeeTRNp4) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Your Natural Habitat](https://open.spotify.com/album/6UHGex0qEDRlIc4dbLB0IG) | 3:06 | 2022-02-11 |  |
 | [Your Type](https://open.spotify.com/track/2opemWX71oebOvol9at15T) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [Your Type](https://open.spotify.com/album/3CpL725jrZokuSmI7KMtLH) | 2:09 | 2022-02-11 |  |
 | [Zellos](https://open.spotify.com/track/5adfcYLs3LlZicwHg4dhRG) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Zellos](https://open.spotify.com/album/6csN1zLPLXVW04XWd2E611) | 2:08 | 2022-09-02 |  |
+| [Zero](https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Zero](https://open.spotify.com/album/6tCuCuKVgdtf6JtoyyNes7) | 2:02 | 2023-01-06 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

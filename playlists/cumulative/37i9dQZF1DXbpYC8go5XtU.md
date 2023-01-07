@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-171 songs - 14 hr 8 min
+172 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Inpour](https://open.spotify.com/track/4lShevCVGTcmaE51KyB87e) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Darkest Place](https://open.spotify.com/album/6Os8YfXapiTML5ZJIXmVfp) | 4:29 | 2021-12-22 |  |
 | [Into The Blue](https://open.spotify.com/track/3QYlpiYbm1tzXa0yKvKvo6) | [Low Altitude](https://open.spotify.com/artist/0e8l4k008v3EwUopLVq2hq) | [Waves](https://open.spotify.com/album/0LY7LfnH8SE6f1hOVwTKNf) | 3:54 | 2022-05-18 |  |
 | [Japanese Meditation](https://open.spotify.com/track/4OG6VAfkY5Z2ZiDsitnjDs) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 3:00 | 2021-12-22 |  |
+| [Kannon](https://open.spotify.com/track/4vxVU7azXS6qfpR1iIG15I) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5), [takayama naoko](https://open.spotify.com/artist/1RtPxS3LU1mjAvSZDgnEJL) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:55 | 2023-01-06 |  |
 | [Kono Yoni Yomeri \(Sono 2\)](https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kakashi](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb) | 2:20 | 2021-12-22 | 2022-08-13 |
 | [kuu](https://open.spotify.com/track/1VO2yoOecJkqHJp3PjjSVY) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 3:38 | 2021-12-22 |  |
 | [La Casería \- San Fernando](https://open.spotify.com/track/3WTUTbkGr8b9QDMXfDHYq9) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [El Rumor del Oleaje](https://open.spotify.com/album/6UWkNTJn8noJLP583jRbDe) | 4:48 | 2021-12-22 |  |
