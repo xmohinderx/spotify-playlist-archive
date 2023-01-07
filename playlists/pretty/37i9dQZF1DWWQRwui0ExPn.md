@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > The chillest beats to help you relax, study, code, and focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,869,833 likes - 1,000 songs - 1 day 13 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,870,704 likes - 1,000 songs - 1 day 13 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

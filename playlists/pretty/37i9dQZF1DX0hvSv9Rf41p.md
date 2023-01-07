@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with SLANDER, Alison Wonderland & Said The Sky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,410 likes - 138 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,526 likes - 138 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

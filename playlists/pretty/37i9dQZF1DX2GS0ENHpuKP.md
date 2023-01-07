@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,869 likes - 55 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,937 likes - 55 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 24 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 |
 | 25 | [You Can't Change A Man](https://open.spotify.com/track/1dR7rHSrmfcnih3Bi9yorZ) | [Christy Essien](https://open.spotify.com/artist/23zDrpDFGx3aBQPhd0R9cA) | [One Understanding](https://open.spotify.com/album/7res8aOcsEM7TRkFMOPaW6) | 4:01 |
 | 26 | [Vesuvio](https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:41 |
-| 27 | [Danse Cette Zik](https://open.spotify.com/track/51PXrjioD9DjjGs8QBdHEp) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [DANSE CETTE ZIK](https://open.spotify.com/album/4LdWqDu7mPZS8wHwAtRpoT) | 4:19 |
+| 27 | [Danse Cette Zik](https://open.spotify.com/track/0JSDjKJ1VJwmRwW35I3OYH) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [Danse Cette Zik](https://open.spotify.com/album/3dMQYdTraNEoCBKUC34Uyt) | 4:19 |
 | 28 | [Se Tu Vuoi](https://open.spotify.com/track/0YDc4kVUW7J0Yr908XFEUa) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Canto Per Te](https://open.spotify.com/album/2T4GTTm7POJdcUfRKn4EC1) | 3:40 |
 | 29 | [Ain't Nobody \- 12" Mix](https://open.spotify.com/track/17I5HiscSrsUwXAYyXF5K1) | [Yvonne Archer](https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa) | [Ain't Nobody](https://open.spotify.com/album/2xDAafZy4pUEuyuSawKTku) | 7:18 |
 | 30 | [Sweetest Taboo](https://open.spotify.com/track/79kE710OjFvgXocQfYMe6k) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A), [Soca](https://open.spotify.com/artist/2dNe50mudMBf2mKTuVYtHh) | [Sweetest Taboo](https://open.spotify.com/album/7KsKCoTPPN5wvuh6WuDIzy) | 6:45 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 54 | [Il Vecchiaccio](https://open.spotify.com/track/7ozKNLwCWp6dIHR1li1Cbr) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le Mie Canzoni](https://open.spotify.com/album/3GmdCYyuxQpTmIq4kBlfrJ) | 3:45 |
 | 55 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 
-Snapshot ID: `MTY1ODIxOTQ1OSwwMDAwMDAwMGVjNTEyN2U4NWFkNDk1ODlkMmFmOGE0ZTAwYWIzNDc1`
+Snapshot ID: `MTY1ODIxOTQ1OSwwMDAwMDAwMDc3ZjRlMzIyZmM0OWQzODAxYTc1MTJiMTYzNDRhY2Nl`

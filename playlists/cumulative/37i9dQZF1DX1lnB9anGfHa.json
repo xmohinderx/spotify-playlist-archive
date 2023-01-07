@@ -502,7 +502,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 217931,
       "name": "Blue Pale Darling",
       "url": "https://open.spotify.com/track/1bLdmy4TCk58RVJFTE6t59"
@@ -928,6 +928,24 @@
       "duration_ms": 279573,
       "name": "Fimmine Fimmine",
       "url": "https://open.spotify.com/track/7xqIXSb4H99NLZbZ15Uoac"
+    },
+    {
+      "album": {
+        "name": "Good Grounds",
+        "url": "https://open.spotify.com/album/4NnMcBS50RFGzf2Fe49qvO"
+      },
+      "artists": [
+        {
+          "name": "Fallwander",
+          "url": "https://open.spotify.com/artist/2WcqiTkQbwFH3hHZ0Xrfl9"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305973,
+      "name": "Good Grounds",
+      "url": "https://open.spotify.com/track/6PWkv2o1eN0zwCjv84RgtL"
     },
     {
       "album": {

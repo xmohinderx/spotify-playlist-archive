@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,426 likes - 106 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,442 likes - 106 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 59 | [Hatar Mig](https://open.spotify.com/track/74qj4bZZiTopR8gkA94u7Z) | [Alex Lew](https://open.spotify.com/artist/3mmGQd4PxDhJX8wCnN8lzr) | [Hatar Mig](https://open.spotify.com/album/21jaFB8zKEIF3h9vTfY856) | 2:00 |
 | 60 | [STJÄRNOR](https://open.spotify.com/track/6o3iCtGPMu0DW8TJzh2GsR) | [Tim Jiu](https://open.spotify.com/artist/59FsP1MSPmasTb80gQU12I) | [STJÄRNOR](https://open.spotify.com/album/1Pp038H6GljO2uy9OGJupE) | 3:29 |
 | 61 | [Chit Chat](https://open.spotify.com/track/4r9GyHViUSb8iVXQsJc8U5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Coke Boys 6](https://open.spotify.com/album/70415SlsGN0hrHDbOkhT8Z) | 2:33 |
-| 62 | [Win For Losin](https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Win For Losin](https://open.spotify.com/album/4QyUbGbGyn1725sRukfZ9P) | 1:55 |
+| 62 | [Win For Losin](https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Win For Losin](https://open.spotify.com/album/4QyUbGbGyn1725sRukfZ9P) | 1:56 |
 | 63 | [ERFARENHET](https://open.spotify.com/track/1icjAG5RLWhvVusSOQTmd0) | [Faaraz](https://open.spotify.com/artist/2zpahapCe7MuUavqMGVmFM) | [ERFARENHET](https://open.spotify.com/album/79dogxy2fch9eAflfP39Eu) | 3:13 |
 | 64 | [Vem e hon](https://open.spotify.com/track/0iIPP1fRRYBzdjPnwcqGoQ) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Vem e hon](https://open.spotify.com/album/0qz3dm5mwtPhvDKp2zZBPg) | 2:24 |
 | 65 | [STEPPIN](https://open.spotify.com/track/1ETqDb1k2z9r0u9UuwjyhR) | [Ivan Blanco](https://open.spotify.com/artist/40saQJFj066c1IuNLQAShf), [JLN](https://open.spotify.com/artist/7CulXDYP40xUKlDHNbz7dr) | [STEPPIN](https://open.spotify.com/album/76vvJ6jrrWNaAUn0KM9OpZ) | 3:42 |

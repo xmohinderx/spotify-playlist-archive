@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-121 songs - 7 hr 45 min
+122 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [I wish I can be Rich](https://open.spotify.com/track/4U2I8Fi2kN6TFpGogWkghW) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/612xHundAqZJb5bIZusjyC) | 3:46 | 2021-08-19 | 2022-10-05 |
 | [I wish I can be Rich](https://open.spotify.com/track/7FxEJu7QhAzT3MTE6e1FZn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/5EJh5oud3icqeswaDukDp7) | 3:46 | 2022-06-01 |  |
 | [ifyoulovesomeone](https://open.spotify.com/track/4eECknCDvsXWYyacuycw4J) | [Su San](https://open.spotify.com/artist/141YMyiz2ugK1AxTXDkUdx) | [ifyoulovesomeone](https://open.spotify.com/album/2Kva6Kzzr5m8k70U4dQA0r) | 3:26 | 2021-08-19 |  |
-| [Impressions](https://open.spotify.com/track/12ZNnAQqvmJmT1wGXkzKCd) | [Kemrie](https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp) | [Impressions](https://open.spotify.com/album/1reOkkyChSAu1w9aWvhJCE) | 4:40 | 2021-08-19 |  |
+| [Impressions](https://open.spotify.com/track/039KCeBrprEJiYqqt33diP) | [Kemrie](https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp) | [Impressions](https://open.spotify.com/album/2Ney0TSRz1uChEDF2nROh2) | 4:40 | 2022-06-01 |  |
+| [Impressions](https://open.spotify.com/track/12ZNnAQqvmJmT1wGXkzKCd) | [Kemrie](https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp) | [Impressions](https://open.spotify.com/album/1reOkkyChSAu1w9aWvhJCE) | 4:40 | 2021-08-19 | 2023-01-07 |
 | [In my hand](https://open.spotify.com/track/3cjTqH0FJghhtaheWNkNv7) | [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Violet Sun](https://open.spotify.com/album/5yfMZ1JBzHx1Nt4VYb824M) | 4:21 | 2021-08-19 |  |
 | [Inside Out](https://open.spotify.com/track/7sG2bWi2eDtvX9vX8yC1Gn) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Charlee](https://open.spotify.com/artist/6qaQDRYp95AylkA1FnEI3Q) | [Inside Out](https://open.spotify.com/album/7mgjbCQ1gzFbASVLgD8YbV) | 3:53 | 2021-08-19 |  |
 | [It's Happening Again](https://open.spotify.com/track/5uE0ggArLjnpwVPEXc36Hx) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 4:20 | 2022-06-01 |  |

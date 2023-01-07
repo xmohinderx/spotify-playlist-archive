@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Danse Cette Zik",
+        "url": "https://open.spotify.com/album/3dMQYdTraNEoCBKUC34Uyt"
+      },
+      "artists": [
+        {
+          "name": "Parbleu",
+          "url": "https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259193,
+      "name": "Danse Cette Zik",
+      "url": "https://open.spotify.com/track/0JSDjKJ1VJwmRwW35I3OYH"
+    },
+    {
+      "album": {
         "name": "DANSE CETTE ZIK",
         "url": "https://open.spotify.com/album/4LdWqDu7mPZS8wHwAtRpoT"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 259193,
       "name": "Danse Cette Zik",
       "url": "https://open.spotify.com/track/51PXrjioD9DjjGs8QBdHEp"

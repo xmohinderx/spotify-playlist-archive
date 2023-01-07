@@ -4,7 +4,7 @@
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-272 songs - 13 hr 15 min
+273 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Akudama](https://open.spotify.com/track/3coeo9H305LiuDbXXn9ANe) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [A Quiet Place to Die](https://open.spotify.com/album/5lhJd031Bu6j42O8wnXWIc) | 2:37 | 2022-04-28 |  |
 | [alone](https://open.spotify.com/track/4DOQULDZcy6W3mNKtuAZpz) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [alone](https://open.spotify.com/album/6io6hr34sIRqIuyqvvO2LT) | 2:34 | 2022-07-28 | 2023-01-06 |
 | [Alpha](https://open.spotify.com/track/34suMP5fG78QH2hnM0RaG1) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44) | [Alpha](https://open.spotify.com/album/6RaQu9rUDZhkwV0wE9SINC) | 4:07 | 2022-02-15 |  |
+| [Alucard](https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo) | [Manny Force](https://open.spotify.com/artist/2Jv94ffHaw54qIhVAQp7KU), [Gravity in Space](https://open.spotify.com/artist/3R4wOxBYTNKIw48JzCFLIZ), [ONIEIGHT](https://open.spotify.com/artist/5rVuLxCcmw7Wu7rZljefdq) | [Alucard](https://open.spotify.com/album/7mgmq6iPdy9wU5Fq400Ho2) | 2:08 | 2023-01-07 |  |
 | [Anavar](https://open.spotify.com/track/4C2R8S3ml3ySAhCdknVJUg) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Anavar](https://open.spotify.com/album/0308pmZBknBPgx0LxON0P9) | 2:38 | 2022-01-29 |  |
 | [ANUBIS](https://open.spotify.com/track/4MAchystlBBEC4oRUL0MhH) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Netuh](https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG) | [ANUBIS](https://open.spotify.com/album/3N8ejH1nfopZNW9xDihd6Y) | 1:55 | 2022-08-17 |  |
 | [Apaonye Asolsin \- Hardstyle Remix](https://open.spotify.com/track/6qFHexlcrU7vFaI0DaNCO5) | [Tooz](https://open.spotify.com/artist/4CxFjw8gtxkYR5LKv3a6kN), [visioner.](https://open.spotify.com/artist/5CtxnpzYVtlwYM3JeO06tL) | [Apaonye Asolsin](https://open.spotify.com/album/4Y8q9lNTJDM9fEcQGL14Yy) | 2:06 | 2022-07-20 |  |
@@ -250,7 +251,7 @@
 | [We Are the Reason You Run and Hide](https://open.spotify.com/track/6cVi4NQqX4cT8TQLkSzgxK) | [Hatred City](https://open.spotify.com/artist/65jFZpzCwgyhmI0HPswalI) | [We Are the Reason You Run and Hide](https://open.spotify.com/album/1pnLhbXbP112zOzDQubXoV) | 3:28 | 2022-10-02 |  |
 | [Winstrol](https://open.spotify.com/track/1IzkTqD1Ua8MVrwOnjpaX1) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU) | [Winstrol](https://open.spotify.com/album/6CaXxp5CIgHlEChFRNlbKU) | 2:12 | 2022-02-19 |  |
 | [Ya Tebya ne otdam!](https://open.spotify.com/track/0fOukrzq6Bk4kQdzKjVaot) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [Ya Tebya ne otdam!](https://open.spotify.com/album/6WXpBCYdhp7zq7IbnuNCMR) | 3:41 | 2022-05-27 |  |
-| [You Say Run Hardstyle](https://open.spotify.com/track/36b1CvA95dO0U7PfWJnH4T) | [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU), [AniLifts](https://open.spotify.com/artist/3u5NpLsIdNfTcvOTRGD5CR) | [You Say Run Hardstyle](https://open.spotify.com/album/3RIj3ubbPK214b2U1JLxAd) | 3:47 | 2022-08-05 |  |
+| [You Say Run Hardstyle](https://open.spotify.com/track/36b1CvA95dO0U7PfWJnH4T) | [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU), [AniLifts](https://open.spotify.com/artist/3u5NpLsIdNfTcvOTRGD5CR) | [You Say Run Hardstyle](https://open.spotify.com/album/3RIj3ubbPK214b2U1JLxAd) | 3:47 | 2022-08-05 | 2023-01-07 |
 | [You're On My Mind Broe](https://open.spotify.com/track/3Owunpwpt5OauLUJKz3rtS) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [You're On My Mind Broe](https://open.spotify.com/album/0BcTCRkpyqIIzpFmP9hWV5) | 2:04 | 2022-01-29 |  |
 | [You're Strong](https://open.spotify.com/track/3ZCryqczHKSEudiYgclL1c) | [Bern\-AT & WARLEX](https://open.spotify.com/artist/4fNQc6qV93iAsDV4kxeQAf), [Nandex](https://open.spotify.com/artist/4f9zOeY7ihDyxMzJCIZ4Mz) | [You're Strong](https://open.spotify.com/album/26ulLMpS4SPKt2TDxyaPal) | 3:10 | 2022-09-29 |  |
 | [young](https://open.spotify.com/track/2QXKdZg3CjYjkCrvnPvRPK) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [young](https://open.spotify.com/album/28G5LmWVodKOwLNnXNDbAG) | 2:20 | 2022-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Thunivu
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,778 likes - 78 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,274 likes - 78 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 13 | [Vaa Vaathi](https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p) | 3:45 |
 | 14 | [Soul Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/5xqK2eth6i7xgH2Ov817H5) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Soul Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/4vlynRz37CoL7nCGHHCNU9) | 2:07 |
 | 15 | [Enga Dha Pogudu \- From "Vindhya Victim Verdict"](https://open.spotify.com/track/6eA10WsIk6UHOyoSCaWWXD) | [Roja Aditya](https://open.spotify.com/artist/5IbORRK6Vvd6hTC77FyNRs), [Allen Sebastian](https://open.spotify.com/artist/4pEiP3Hm8QhdSTEBhbQXat), [Uday Raghav](https://open.spotify.com/artist/52n4psCwZu23tRRzcJaPud) | [Enga Dha Pogudu \(From "Vindhya Victim Verdict"\)](https://open.spotify.com/album/4AnBAhpp8gtYa8W4Rn6CyN) | 3:13 |
-| 16 | [Koyililea](https://open.spotify.com/track/0GjNO7x53rO6rINcllgKWO) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Srikanth Deva](https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh) | [Koyililea](https://open.spotify.com/album/4zZhy7fBd6ZNlJGi3LO8uA) | 3:38 |
+| 16 | [Koyililea \- From "Kattil"](https://open.spotify.com/track/0GjNO7x53rO6rINcllgKWO) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Srikanth Deva](https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh), [Kaviperarasu Vairamuthu](https://open.spotify.com/artist/25dYuqQNx4m7hK0YQTGEFj) | [Koyililea \(From "Kattil"\)](https://open.spotify.com/album/4zZhy7fBd6ZNlJGi3LO8uA) | 3:38 |
 | 17 | [Kanamae](https://open.spotify.com/track/3mVUCktOTdWzrvCmy381GL) | [Madley Blues](https://open.spotify.com/artist/4eDJl1hQIas8ywRYS1C55F), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Story of Things \(Original Series Soundtrack\)](https://open.spotify.com/album/0fVXpzXUJxh6tq7mZlO4lS) | 4:07 |
 | 18 | [Muthuvel Pandian Theme \(From "Jailer"\)](https://open.spotify.com/track/6Y4it0x4uP5rI0lv05ymk1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Muthuvel Pandian Theme \(From "Jailer"\)](https://open.spotify.com/album/610ByI4AyDj3TdrMDZbKWS) | 1:43 |
 | 19 | [Zoom Boom Doom Pathaan](https://open.spotify.com/track/3ktsYOpVAmAqoj4FhL64TU) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Pathaan \- Tamil](https://open.spotify.com/album/6F4MQdnwoPa8VlEG1J2G9f) | 3:28 |

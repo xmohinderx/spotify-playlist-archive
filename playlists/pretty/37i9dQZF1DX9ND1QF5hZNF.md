@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,970 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,031 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Time For Reason](https://open.spotify.com/track/4s7QgMMyMlol6ccHoSwyyQ) | [Xad](https://open.spotify.com/artist/60fosQLJjKs0sFcKEYKdzG), [Joel Stewart](https://open.spotify.com/artist/7qrGrDelmmUat3cPpHtUW0) | [Time For Reason](https://open.spotify.com/album/2QfLANVm2mt6wsX041LGhw) | 3:32 |
+| 1 | [Time For Reason](https://open.spotify.com/track/4s7QgMMyMlol6ccHoSwyyQ) | [Xad](https://open.spotify.com/artist/60fosQLJjKs0sFcKEYKdzG), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [Time For Reason](https://open.spotify.com/album/2QfLANVm2mt6wsX041LGhw) | 3:32 |
 | 2 | [City of Love](https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Nounours](https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46) | [City of Love](https://open.spotify.com/album/6VBal2Bi7nsqo6RnXsdqBt) | 2:59 |
 | 3 | [Leave a Smile](https://open.spotify.com/track/2Qp0s8Qr7CMynidI7925H2) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Leave a Smile](https://open.spotify.com/album/4PdWkqJdqKB3arKBSI3qkx) | 2:27 |
 | 4 | [The Way It Is](https://open.spotify.com/track/6pSNRgtbbqRYgpwkVQqi3Z) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [The Way It Is](https://open.spotify.com/album/6eryNpfVWsLGm36OeISOaY) | 3:10 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 42 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 |
 | 43 | [A Part Of You](https://open.spotify.com/track/3PjBLeVb8w5LXwJr8LBm0u) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [6115 Orange St](https://open.spotify.com/album/1MHdrpxvqlnV9cvqg2OhQn) | 2:47 |
 | 44 | [Jungle](https://open.spotify.com/track/5f4ZzMG8zZXYXjBwLmd0aq) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Jungle](https://open.spotify.com/album/5wWAu59EvtfplSILL5S2mi) | 3:04 |
-| 45 | [Don't Hold Me Down](https://open.spotify.com/track/6ip3MZyHMvVJT5VUGmddVX) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy), [Joel Stewart](https://open.spotify.com/artist/7qrGrDelmmUat3cPpHtUW0) | [Don't Hold Me Down](https://open.spotify.com/album/0gC58oCJxmvZUaoGfuBiA2) | 3:07 |
+| 45 | [Don't Hold Me Down](https://open.spotify.com/track/6ip3MZyHMvVJT5VUGmddVX) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [Don't Hold Me Down](https://open.spotify.com/album/0gC58oCJxmvZUaoGfuBiA2) | 3:07 |
 | 46 | [Silhouette](https://open.spotify.com/track/5XflWKyyLrg3HlvjlDn6Rk) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Silhouette](https://open.spotify.com/album/6G0qk1KLeqf5L9deBa6uo8) | 3:33 |
 | 47 | [Hey Maria \- Elderbrook Remix](https://open.spotify.com/track/7v7teR4FtyiZzkc1tX2a4V) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Hey Maria \- EP](https://open.spotify.com/album/4zb7p3vznnnhJaihdKtxR6) | 3:33 |
 | 48 | [Missing U](https://open.spotify.com/track/0vzWDHKtEUfbvyVZTiFg4r) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Aukoustics](https://open.spotify.com/artist/3o8z3AHOZOxmmb2IKqRxiT) | [Missing U](https://open.spotify.com/album/7foipjFR7Z4BTl4V3zEnHY) | 3:01 |

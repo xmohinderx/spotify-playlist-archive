@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 121474,
+  "num_followers": 121485,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MzA1OCwwMDAwMDAwMDRhNDQwOWY3YmY0MDUyOTZjNGUxNGM0MTQ1YTViMTA1",
+  "snapshot_id": "MTY3MzA2MjgzMSwwMDAwMDAwMDZkY2VhODViMGM2ZDY0MDNiNjk3OGMxMTVmZGFlZDg5",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -129,6 +129,26 @@
       "url": "https://open.spotify.com/track/3ZUUCeA2W2CN17DZIbM7ef"
     },
     {
+      "added_at": "2023-01-07 03:40:31",
+      "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
+    },
+    {
       "added_at": "2022-08-18 23:29:09",
       "album": {
         "name": "Estaci\u00f3n Esperanza",
@@ -169,22 +189,6 @@
       "url": "https://open.spotify.com/track/6wdkhuxxLOebJK8scPd9LX"
     },
     {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "el cielo no es de nadie",
-        "url": "https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 221953,
-      "name": "el cielo no es de nadie - Edit",
-      "url": "https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy"
-    },
-    {
       "added_at": "2022-12-21 17:17:38",
       "album": {
         "name": "Catalog Number Sta122",
@@ -199,6 +203,22 @@
       "duration_ms": 149869,
       "name": "10",
       "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "el cielo no es de nadie",
+        "url": "https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 221953,
+      "name": "el cielo no es de nadie - Edit",
+      "url": "https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -235,6 +255,26 @@
       "duration_ms": 347073,
       "name": "No Puedo Funcionar",
       "url": "https://open.spotify.com/track/5ovjlgDlwy3fDfAWDh1Pki"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Bemb\u00e9",
+        "url": "https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Machiran",
+          "url": "https://open.spotify.com/artist/2G9YVfs6LKoJeFnGj4K3yx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Bemb\u00e9",
+      "url": "https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -331,26 +371,6 @@
       "duration_ms": 95321,
       "name": "BADTRIP",
       "url": "https://open.spotify.com/track/59qoO6Zv3pKUIVaYZCeG7U"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Bemb\u00e9",
-        "url": "https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV"
-      },
-      "artists": [
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        },
-        {
-          "name": "Machiran",
-          "url": "https://open.spotify.com/artist/2G9YVfs6LKoJeFnGj4K3yx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Bemb\u00e9",
-      "url": "https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -911,22 +931,6 @@
       "duration_ms": 500869,
       "name": "Pieles",
       "url": "https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Mala Hierba",
-        "url": "https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Mala Hierba",
-      "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

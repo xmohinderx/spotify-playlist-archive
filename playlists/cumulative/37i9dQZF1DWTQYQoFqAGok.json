@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+    },
+    {
+      "album": {
         "name": "Leo Acosta",
         "url": "https://open.spotify.com/album/2Jw8nBazEtaVJ4B7SS9khX"
       },
@@ -622,7 +640,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 393786,
       "name": "La Cigarra",
       "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
@@ -1034,7 +1052,7 @@
           "url": "https://open.spotify.com/artist/6yBn06PNNg00t9Ac2VZrod"
         }
       ],
-      "date_added": "2022-12-02",
+      "date_added": "2022-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 470697,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: slchld
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,446 likes - 86 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,559 likes - 86 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 24 | [float](https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana \(deluxe\)](https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS) | 3:37 |
 | 25 | [SIDEWAYS](https://open.spotify.com/track/5IhciPDXGz7MGrHKJwexjr) | [ki mi](https://open.spotify.com/artist/4d39hDGApIZV3x5obwnVpZ), [Kinsan](https://open.spotify.com/artist/36W2yCB3Ay3GUKkP52ZXfz) | [SIDEWAYS](https://open.spotify.com/album/5joS2rXWzVhtXiBk4DOkJL) | 1:21 |
 | 26 | [Feathers](https://open.spotify.com/track/4DHB29tTCeEf2f0BlS8Nn4) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Feathers](https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui) | 3:55 |
-| 27 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 |
+| 27 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 |
 | 28 | [lovey dovey](https://open.spotify.com/track/7nWo2o7BNTKfBP80yqicdw) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Quiet](https://open.spotify.com/artist/5OuYv7kVl0ozFp6F30KUBa) | [lovey dovey](https://open.spotify.com/album/0THgeP4c72At0kZGkhEvqn) | 3:02 |
 | 29 | [Honey Filled Skies](https://open.spotify.com/track/7bz3qPnazPPEJMj2XtNVEd) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [BUD](https://open.spotify.com/album/3iHi5YiyGr5Q0ExbRWwWy1) | 3:10 |
 | 30 | [Your Sadness](https://open.spotify.com/track/7jAwJRWO4SLmu7JGFmhl07) | [Jeong Jia](https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3) | [Your Sadness](https://open.spotify.com/album/0whU1PMy78jJL1uaO7cGx5) | 3:20 |

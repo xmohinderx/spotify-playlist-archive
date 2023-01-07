@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-172 songs - 14 hr 11 min
+176 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Dawn](https://open.spotify.com/track/2CtGXLSiPIJiGCwcqlp6oT) | [The Green Kingdom](https://open.spotify.com/artist/4EOmRRSrO3mMPt9W4knkJO) | [Residence on Earth](https://open.spotify.com/album/2E93vwKg4VcQZaN8fBKaWB) | 2:48 | 2021-12-22 |  |
 | [Deep Blue](https://open.spotify.com/track/66XGxK7oj3XzAkhVbqSYpb) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Deep Blue](https://open.spotify.com/album/0iqpQ0FHOu8oFzmRyFuVtZ) | 3:15 | 2022-08-17 |  |
 | [Deep into the Forest](https://open.spotify.com/track/31sRH2Vd8KGFIDh9iGUDYu) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Deep into the Forest](https://open.spotify.com/album/1TMbC7L4WVsVwQGqI4ynhe) | 3:42 | 2022-04-08 |  |
-| [Deep Slope](https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/6Odd0pQof21z3lkmu1ncZz) | 6:43 | 2021-12-22 |  |
+| [Deep Slope](https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/6Odd0pQof21z3lkmu1ncZz) | 6:43 | 2021-12-22 | 2023-01-07 |
+| [Deep Slope](https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N) | 6:43 | 2023-01-06 |  |
 | [Departure \(The Soul Longs for Freedom\)](https://open.spotify.com/track/72FZCwQOO0M7WZBEM4azIH) | [Charlie Roscoe](https://open.spotify.com/artist/56YgRdEzNaXYkaaoFXB4q1) | [Luminessence](https://open.spotify.com/album/6H1SJeFEtNGELRydkjyKwt) | 7:20 | 2021-12-22 |  |
 | [Destiny](https://open.spotify.com/track/1crOmVyAzM4rNDc6uMHW5l) | [Strolle](https://open.spotify.com/artist/18Ow08CDayCv7wzb6jATnr) | [Destiny](https://open.spotify.com/album/69tdHQnMuEn3JELYRGhFRi) | 2:51 | 2022-07-08 |  |
 | [Duniskwalgunyi](https://open.spotify.com/track/6t6XS68MFIj8UPu9NPJCgn) | [Isaac Helsen](https://open.spotify.com/artist/01xVhqpSuHMXiHWwby8ySK) | [Remnants Series](https://open.spotify.com/album/2MXjXBNtnGLctV5n0tXGBv) | 7:21 | 2021-12-22 |  |
@@ -67,7 +68,8 @@
 | [Japanese Meditation](https://open.spotify.com/track/4OG6VAfkY5Z2ZiDsitnjDs) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 3:00 | 2021-12-22 |  |
 | [Kannon](https://open.spotify.com/track/4vxVU7azXS6qfpR1iIG15I) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5), [takayama naoko](https://open.spotify.com/artist/1RtPxS3LU1mjAvSZDgnEJL) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:55 | 2023-01-06 |  |
 | [Kono Yoni Yomeri \(Sono 2\)](https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kakashi](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb) | 2:20 | 2021-12-22 | 2022-08-13 |
-| [kuu](https://open.spotify.com/track/1VO2yoOecJkqHJp3PjjSVY) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 3:38 | 2021-12-22 |  |
+| [kuu](https://open.spotify.com/track/1VO2yoOecJkqHJp3PjjSVY) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 3:38 | 2021-12-22 | 2023-01-07 |
+| [kuu](https://open.spotify.com/track/06c0yjJ78cozS24dwcz36m) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [kuuhaku](https://open.spotify.com/album/0ZHJiCd9Bf425S6NmcLg8d) | 3:41 | 2023-01-06 |  |
 | [La Casería \- San Fernando](https://open.spotify.com/track/3WTUTbkGr8b9QDMXfDHYq9) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [El Rumor del Oleaje](https://open.spotify.com/album/6UWkNTJn8noJLP583jRbDe) | 4:48 | 2021-12-22 |  |
 | [Lala](https://open.spotify.com/track/4JgzCPYTI3nodpapScNAyQ) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Royal Blue](https://open.spotify.com/album/6pmKXb63Osnj2DnCy0lb2z) | 4:07 | 2021-12-22 |  |
 | [Leaves Breathing](https://open.spotify.com/track/04b4ZyKr2YbUGruDUWG3wa) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Leaves Breathing](https://open.spotify.com/album/0c9RZQfZNbk4TdqJFQDbT5) | 3:18 | 2022-04-08 |  |
@@ -141,7 +143,8 @@
 | [Spring Water](https://open.spotify.com/track/3OfS5vttcBFITgwFSs9pab) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Draw a Sleeps](https://open.spotify.com/album/2YQT0iwuaoSWLy1z0D9jrp) | 5:45 | 2021-12-22 |  |
 | [Squamish](https://open.spotify.com/track/0WdAgLZNLbCPLXrbSsUctg) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Squamish](https://open.spotify.com/album/09oraBzbbYJmPtCReztBe6) | 2:13 | 2022-04-08 |  |
 | [Stasis Sounds for Long\-Distance Space Travel \(Extended Hypersleep Program 2 \- Cave\)](https://open.spotify.com/track/2n6X2tLzZwprQOeyvDPpvJ) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Stasis Sounds for Long\-Distance Space Travel](https://open.spotify.com/album/36SQ8Aokc2yMPcRhtmytN3) | 10:29 | 2021-12-22 |  |
-| [Still Can't Believe It](https://open.spotify.com/track/2dwgDe9pLWHpvN9P5EfJck) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 6:36 | 2021-12-22 |  |
+| [Still Can't Believe It](https://open.spotify.com/track/2dwgDe9pLWHpvN9P5EfJck) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 6:36 | 2021-12-22 | 2023-01-07 |
+| [Still Can't Believe It](https://open.spotify.com/track/4w6rWET91A9I60yxIIj7JK) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Still Can't Believe It](https://open.spotify.com/album/6aAsZCWURrnpmOdEgS6kqm) | 6:36 | 2023-01-06 |  |
 | [Submerged](https://open.spotify.com/track/0bXpbgKZkhqwybPJRWnmsh) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Submerged](https://open.spotify.com/album/5Jl7bueg0pYDWJHwyZ0hNE) | 3:09 | 2022-05-06 |  |
 | [Sunfloating](https://open.spotify.com/track/3P6VlV6UjMr5qg78tzzU9P) | [Mount Shrine](https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr) | [Southeast Limits](https://open.spotify.com/album/12EWdR1T4nbITFaL5pmXUe) | 5:55 | 2022-05-18 |  |
 | [Swan and Morning Dews](https://open.spotify.com/track/2Ox800jaDGqxFW1KoDYE3N) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Stories](https://open.spotify.com/album/6bOC2AtibqcjwP1OOHHOTD) | 4:16 | 2021-12-22 |  |
@@ -161,7 +164,8 @@
 | [Und](https://open.spotify.com/track/0Zseawrdx3aB2JJp0UbknM) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:24 | 2021-12-22 |  |
 | [Under The Thunder](https://open.spotify.com/track/4L7K2qGigEOYYfAtpgIswc) | [Now Unlimited](https://open.spotify.com/artist/1D1sQVMQGI56YYpFMeO7xS) | [Euphoric Forest](https://open.spotify.com/album/6HrO27BUeHUoFvTKNljTcr) | 2:00 | 2022-11-11 |  |
 | [Vienna](https://open.spotify.com/track/2CZm12Kpg0i9o5h07ZEgNb) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 2:11 | 2021-12-22 |  |
-| [Watching](https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 5:06 | 2021-12-22 |  |
+| [Watching](https://open.spotify.com/track/7qkQx9OPb79y6wEUCLF4ZK) | [Korosassu](https://open.spotify.com/artist/6qPn1ijyT49nZV6xjylFAx) | [Watching](https://open.spotify.com/album/2UV9tLIX2ggRee6dFlZWH5) | 5:06 | 2023-01-06 |  |
+| [Watching](https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 5:06 | 2021-12-22 | 2023-01-07 |
 | [Water Ambience](https://open.spotify.com/track/4zdG6S7zNU9NGZo46xbokP) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Water Ambience](https://open.spotify.com/album/7F649VWGjzdAhj7KzXtopc) | 2:37 | 2022-12-20 |  |
 | [Welcome to the Four Seasons](https://open.spotify.com/track/6peg5yFyQ1sCwT8zZ9bQwg) | [Martin Glass](https://open.spotify.com/artist/4Icvm8wrj4Btq3O7FHJJZd) | [The Pacific Visions of Martin Glass](https://open.spotify.com/album/1u45eCsl1EhMCVpOzNW8Si) | 1:46 | 2021-12-22 |  |
 | [What If](https://open.spotify.com/track/6Ze6f6eCLCSbxuTHtwyC68) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [What If](https://open.spotify.com/album/3LbiSkkcnKQHE8l69UpMFr) | 3:14 | 2021-12-22 |  |

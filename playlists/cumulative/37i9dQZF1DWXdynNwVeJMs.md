@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-135 songs - 11 hr 27 min
+136 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Coyote](https://open.spotify.com/track/66mWwSt6h5CyMKJ5Dhpy9d) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Coyote](https://open.spotify.com/album/5AfBjTPLFSaZkWKwFd7O02) | 3:46 | 2022-09-08 | 2022-09-30 |
 | [Cumulus](https://open.spotify.com/track/0pDMECDdo0SkE81fqc4k54) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Cumulus](https://open.spotify.com/album/30IhEm1ph91v5nezDuIU2u) | 4:46 | 2022-09-08 | 2022-09-25 |
 | [Cumulus](https://open.spotify.com/track/5uFYKPsV8x6D2swS6IXcWC) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 4:46 | 2022-09-15 |  |
-| [Dag Na Naamdag](https://open.spotify.com/track/5HGH0McByz0hX2JCnY70iu) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Dag Na Naamdag](https://open.spotify.com/album/7fsFzSqZ6awZxuoWgS8Byw) | 4:45 | 2022-12-06 |  |
+| [Dag Na Naamdag](https://open.spotify.com/track/5HGH0McByz0hX2JCnY70iu) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Dag Na Naamdag](https://open.spotify.com/album/7fsFzSqZ6awZxuoWgS8Byw) | 4:45 | 2022-12-06 | 2023-01-07 |
+| [Dag Na Naamdag](https://open.spotify.com/track/5exLlipto9rztxYRRZxdJS) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Smooch](https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL) | 4:45 | 2022-12-16 |  |
 | [Dance Around Bullets](https://open.spotify.com/track/0GcI5TyFE4U1ChPIvKmWnH) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Dance Around Bullets](https://open.spotify.com/album/3ygEejH0fJ962lx8mVtpOy) | 5:21 | 2022-09-08 |  |
 | [Dark Days](https://open.spotify.com/track/05spsFQqhEvEUcfIxf5Ewp) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Dark Days](https://open.spotify.com/album/3CLAV70LJPGP4OZhyTdmyb) | 5:46 | 2022-09-08 |  |
 | [Deep Dive Down](https://open.spotify.com/track/7JI4thi0ETxiNzVPlBAZXg) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz) | [Magma](https://open.spotify.com/album/28VtIxXxSnHaQFKCnKN0P5) | 7:27 | 2022-09-08 |  |

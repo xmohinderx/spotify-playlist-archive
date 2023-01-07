@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-471 songs - 1 day 20 hr 27 min
+472 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 | 2021-10-06 |  |
 | [Akal Ki](https://open.spotify.com/track/3sUtDNoHKdFV4WXShozY22) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Akal Ki](https://open.spotify.com/album/2nx8t6zpzR9stTOrBgKDsl) | 4:04 | 2021-10-06 | 2022-07-25 |
 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 | 2021-10-06 | 2022-07-28 |
-| [amb23 \- 2](https://open.spotify.com/track/3CTqW27qR4vdZXxykgfiWW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Ambient 23](https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ) | 9:06 | 2023-01-05 |  |
+| [amb23 \- 2](https://open.spotify.com/track/3CTqW27qR4vdZXxykgfiWW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Ambient 23](https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ) | 9:06 | 2023-01-04 |  |
 | [Amour&Armor](https://open.spotify.com/track/0ZKOHpz4fpYyYE7pKxzVQr) | [Spivak](https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx) | [Rare Backwards](https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8) | 3:13 | 2022-03-30 | 2022-07-01 |
 | [Anda Þinn Guð](https://open.spotify.com/track/6AbdsXV8w696nVhgiWjLZk) | [Högni](https://open.spotify.com/artist/3HAGb8WLuYRre506Dr8oJm), [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Anda Þinn Guð](https://open.spotify.com/album/3OD6HhjwQLSP7LOYCqnGmY) | 1:59 | 2022-10-28 | 2022-11-25 |
 | [Angel's Flight](https://open.spotify.com/track/1tCPxwo9ll7rxCxaEBq06f) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/0qZ6LUWpJC4lrQrEDoUeHH) | 5:52 | 2021-10-06 | 2022-07-23 |
@@ -69,7 +69,7 @@
 | [Black Is The Color Of My True Love's Hair](https://open.spotify.com/track/35HX8z7O4MaVVrT40YEujJ) | [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Bass Desires](https://open.spotify.com/album/3ENSb9BRGFVzNinQh8cFhg) | 7:07 | 2021-10-06 | 2022-04-14 |
 | [Blanket](https://open.spotify.com/track/4YRst0OXQoPEGMbrz4iwUX) | [7038634357](https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO) | [Permanest](https://open.spotify.com/album/73MXFAuug7MDjBPpt6yAhe) | 2:37 | 2022-03-30 | 2022-07-13 |
 | [Blob on the Lawn](https://open.spotify.com/track/104LLrwbK0zPPtfvFKddp3) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/64TzDB3gO5C0NVlvuSQQpB) | 2:52 | 2022-03-11 | 2022-07-22 |
-| [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 | 2021-10-06 |  |
+| [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 | 2021-10-06 | 2023-01-07 |
 | [Blue Ice Cave](https://open.spotify.com/track/6e4JrbtTPhWWDlbnRWey8F) | [Lektromonk](https://open.spotify.com/artist/47anoF4IxhwqttTUhvIfuO) | [Blue Ice Cave](https://open.spotify.com/album/25TFCFVn3NhLcmzxgBmXM2) | 3:15 | 2022-02-18 | 2022-07-27 |
 | [Blue Surround](https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Infinite Echo](https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4) | 3:08 | 2022-11-10 | 2023-01-01 |
 | [Border of Mind](https://open.spotify.com/track/5leVwcmopsoOVCVjKeZrnl) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Border of Mind](https://open.spotify.com/album/68lHjTeBd91IIFkGiBgIve) | 5:53 | 2021-10-06 | 2022-07-21 |
@@ -177,6 +177,7 @@
 | [G303](https://open.spotify.com/track/2GRIzdua1CF9g7Kbwr9znw) | [Jacek Sienkiewicz](https://open.spotify.com/artist/5rmOkK7yIwlt5NAJDElVgu) | [Krasz](https://open.spotify.com/album/6q6jFy6zI7GZaHKltHbiLH) | 4:51 | 2022-01-12 | 2022-05-21 |
 | [Garden](https://open.spotify.com/track/4ITPubj0RkBFfsAA1WGCUl) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [The Sun is Parallel](https://open.spotify.com/album/3WEskLTX6RJBwSl9e8HTjZ) | 4:25 | 2022-11-25 |  |
 | [Gelis](https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS) | [Flako](https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm) | [Gelis](https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l) | 3:08 | 2022-10-14 |  |
+| [Geomancy](https://open.spotify.com/track/5uV5f0B9eYzoN5kkpd63KX) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [Bajascillators](https://open.spotify.com/album/6NAiGqHITefAfPFaDc46Zx) | 14:30 | 2023-01-07 |  |
 | [Gerne](https://open.spotify.com/track/3AAajry6nvnDqyd2Nnw0Rl) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Wahre Liebe](https://open.spotify.com/album/3TRqBRv1Dc7vgQLaRcWHDC) | 3:15 | 2021-10-06 | 2022-07-27 |
 | [Getting Out](https://open.spotify.com/track/7K7fHCGFgeX1ipUbvf7gwj) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 2:53 | 2021-10-06 | 2022-07-21 |
 | [Golden Times 1](https://open.spotify.com/track/1PNAf8Ab2wH6iURHmVLpho) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Spells](https://open.spotify.com/album/2VT721v3oyoK0Axq2IZXj0) | 8:37 | 2021-10-06 | 2022-04-08 |

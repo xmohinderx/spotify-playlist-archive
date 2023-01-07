@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: MOTi
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,711 likes - 111 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,719 likes - 111 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 8 | [Another Love](https://open.spotify.com/track/7HbHoXIwEu95K4ZRbCBXTW) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ) | [Another Love](https://open.spotify.com/album/5SZEcW1rHZN0RkrBRVfy0V) | 3:26 |
 | 9 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 |
 | 10 | [All I Want](https://open.spotify.com/track/6SaH8aff4xhejjujgoezUQ) | [Adrian Swish](https://open.spotify.com/artist/7BVbyQxv5u5jJ0lYjoElYD) | [All I Want](https://open.spotify.com/album/2qwzZ46e2yTh7JKjFBGujQ) | 3:25 |
-| 11 | [Terrified \(feat\. Veronica Bravo\)](https://open.spotify.com/track/4T6WQMYb39CuNTFKGFhICG) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [Mave](https://open.spotify.com/artist/4k3qibqlspQSwEDhmA5NL7), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Terrified \(feat\. Veronica Bravo\)](https://open.spotify.com/album/4byYu9N0B0CPi08S9SvD3W) | 2:24 |
+| 11 | [Terrified \(feat\. Veronica Bravo\)](https://open.spotify.com/track/4T6WQMYb39CuNTFKGFhICG) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [MAVE](https://open.spotify.com/artist/7q40OKKMzEDdR1L3b0YR3e), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Terrified \(feat\. Veronica Bravo\)](https://open.spotify.com/album/4byYu9N0B0CPi08S9SvD3W) | 2:24 |
 | 12 | [Picture](https://open.spotify.com/track/1sAyfWbmgrT7HganHgLSYQ) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Picture](https://open.spotify.com/album/5Y86auMfgcbLbCKFfVh4hq) | 3:27 |
 | 13 | [Way Back](https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Way Back](https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54) | 1:59 |
 | 14 | [La Danse](https://open.spotify.com/track/0NkOrQXPqhUe7tIfjenEIi) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [La Danse](https://open.spotify.com/album/7A6UFmhuy01DsjNIMckhPl) | 4:08 |

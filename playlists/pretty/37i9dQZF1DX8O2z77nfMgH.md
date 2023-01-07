@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Standly
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,446 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,486 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 25 | [Quererte Bonito](https://open.spotify.com/track/6vapxebrtWD9kzR6sxmkug) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [RIKO](https://open.spotify.com/artist/3bX0TAwah1a1TNlsJgOgP7) | [Quererte Bonito](https://open.spotify.com/album/3ZYr8iuP2UPxLqcnT2YayP) | 2:35 |
 | 26 | [beso francés](https://open.spotify.com/track/3i2DjDgANCP3DjG0WxGNG5) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [beso francés](https://open.spotify.com/album/6HQv2j8lOELD9K7s240BwP) | 2:38 |
 | 27 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 |
-| 28 | [Calavera](https://open.spotify.com/track/65MY5BBpK8DVDiXe5XmQm0) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Awesome Pierre](https://open.spotify.com/artist/2IlkzkYDuYr853yLaUykVa) | [Calavera](https://open.spotify.com/album/5LJohchCwSt9WdEF7H2A9K) | 2:38 |
+| 28 | [Calavera](https://open.spotify.com/track/65MY5BBpK8DVDiXe5XmQm0) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Calavera](https://open.spotify.com/album/5LJohchCwSt9WdEF7H2A9K) | 2:38 |
 | 29 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 |
 | 30 | [Q Tú Sabe Hacer](https://open.spotify.com/track/0lWEevE2ROqxSk4EMqW5tO) | [Estro Pascal](https://open.spotify.com/artist/5oPmEYoBA6Z5flhejZDjas), [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Q Tú Sabe Hacer](https://open.spotify.com/album/78ESxEEX432YpafWb1yrpm) | 3:09 |
 | 31 | [antídoto](https://open.spotify.com/track/76WhhOuq2FLhzA9g90tKEG) | [D\. Krugga](https://open.spotify.com/artist/4x65cIPX0RvYoK1zmQgQXH) | [antídoto](https://open.spotify.com/album/7LTfZVq7KYAesuz68KxhNs) | 2:54 |

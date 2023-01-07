@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Esperanza Spalding & Fred Hersch
 
-[Spotify](https://open.spotify.com/user/spotify) - 857,345 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 857,483 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 75 | [Astagjol](https://open.spotify.com/track/1gOhMwo22VlzROpoGZLmTW) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Kim Åge Furuhaug](https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu) | [Kim Åge Furuhaug](https://open.spotify.com/album/1ppNYlnMGMrfXh2eFJ1vmv) | 3:22 |
 | 76 | [The Path of Most Resistance](https://open.spotify.com/track/65qXRjqb5xYRIr5AcSeFPm) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [The Path of Most Resistance](https://open.spotify.com/album/2TnQd8ft8eUGGBUoPWMhUq) | 5:39 |
 | 77 | [Tell Me Again](https://open.spotify.com/track/2xIEpgK13ZMbpbPKzhPc2m) | [Tivon Pennicott](https://open.spotify.com/artist/3LDls2CFYVVqX9BUKnklCa) | [Tell Me Again](https://open.spotify.com/album/3YNGboatgpsdvZ5dwY5A7f) | 3:31 |
-| 78 | [Changing Earth](https://open.spotify.com/track/2qcNwE8poqBYjjqgypWvte) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Changing Earth](https://open.spotify.com/album/7ItHCzSTvv8rxUN1S7NpZW) | 6:27 |
+| 78 | [Changing Earth](https://open.spotify.com/track/0AaYGFqY18LiA6BCl7qdc5) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Changing Earth](https://open.spotify.com/album/0REJ2l75YDq5TBBtm79gJ3) | 6:27 |
 | 79 | [Bag Lady](https://open.spotify.com/track/2oW1N8R52n0f3Iwe0HtMFC) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Diana Dzhabbar](https://open.spotify.com/artist/3PekYiJU6uWvDKASwJpvYR) | [Bag Lady](https://open.spotify.com/album/3o3ChnWY8L64Wa7aoQAC8W) | 4:47 |
 | 80 | [Black Alchemy/Hall of Mirrors](https://open.spotify.com/track/36tF6eoNw42PF9KsHV25wg) | [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [maassai](https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV), [Samora Pinderhughes](https://open.spotify.com/artist/6Of92bKNSsFuoNkF4nQ6Za) | [Black Alchemy/Hall of Mirrors](https://open.spotify.com/album/07wjW4FpbYbRCuIAxZVclK) | 6:00 |
 | 81 | [Winter Wanderland](https://open.spotify.com/track/38SDSOUseCfC96TFYYxxjC) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Winter Wanderland](https://open.spotify.com/album/1pJwZhrbnagouc088GiL9y) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Lokum](https://open.spotify.com/track/1LhXwBdUdkN20igjixRGmy) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2) | [Lokum](https://open.spotify.com/album/13WbmvW5c2LWLczF2Fygxf) | 4:26 |
 | 100 | [The Gardens](https://open.spotify.com/track/5zcL9e7Dw1DgzUCqGD846y) | [Garrett Saracho](https://open.spotify.com/artist/2SXkZQ9Q60ce935l5eGwud), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Garrett Saracho JID015](https://open.spotify.com/album/4F3BmDvJNjZ9iD86J7YyWW) | 6:02 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDc4YTA3M2VhNzNjMTUxMmMwZTkzN2NiYTI3ZjljY2Fm`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGQwNWM2NzhlNzMxYjliNjEwNmE3YjZlM2U0MDVkZDA4`

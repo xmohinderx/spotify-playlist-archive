@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,855 likes - 147 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,040 likes - 147 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 70 | [Peaches](https://open.spotify.com/track/0nlXkB2jHLgy8q4h8T4Hiv) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr) | 3:16 |
 | 71 | [Mrs\. Robinson \(Bossa version\)](https://open.spotify.com/track/7l9PKjqqr8QaOUm3sO7wxr) | [Marcelo Rezende](https://open.spotify.com/artist/6m7M8rcbb3UGiXNLo65axU) | [Relaxing Bossa Lounge 5](https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ) | 4:35 |
 | 72 | [I'm a Believer](https://open.spotify.com/track/0yTBvCPbMVxYvvWnpoy8ow) | [Beatriz e Lucas](https://open.spotify.com/artist/1LxQpviFYCwIWmtrF6ovDF) | [I'm a Believer](https://open.spotify.com/album/3F26BIDMg3sjA0FIRyTBw5) | 3:30 |
-| 73 | [Tainted Love](https://open.spotify.com/track/6k0LUyHvtjq9iVYln8FZun) | [Diana Martinez](https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 5:05 |
+| 73 | [Tainted Love](https://open.spotify.com/track/2oRy6hcs9wQzQtYWDK5HzT) | [Diana Martinez](https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 5:05 |
 | 74 | [Watermelon Sugar](https://open.spotify.com/track/1Rj6CJd8ZFH5oz4SUm0LD5) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf), [Daniela Maia](https://open.spotify.com/artist/3ajvG2YMqaRBAO6qOMHnNT) | [Best of Bossa Lounge \(Millenium Edition\)](https://open.spotify.com/album/1jP8363d7EK6QHKYq8eZhX) | 3:21 |
 | 75 | [Sá Marina](https://open.spotify.com/track/4as7MF2MShkdnjOqukNB2y) | [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [Sá Marina](https://open.spotify.com/album/6NmDSsaTQLYSxv4E0Ewt77) | 3:30 |
 | 76 | [Self Control](https://open.spotify.com/track/4zbdRytE8NuhnVQLkSJhOE) | [Starburkes & The Tea Leaf](https://open.spotify.com/artist/2KPb8cUs99PY1FVmlgev0x) | [Acoustic Coffee House](https://open.spotify.com/album/4jrVgcZN7Q3voamIhYi3gb) | 3:35 |
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 138 | [Night Fever](https://open.spotify.com/track/3d5jcWXViAq15tAFYq4jHG) | [Banda Do Sul](https://open.spotify.com/artist/1HfyFtXcke6aZDFJlQA2p6), [Nastascha](https://open.spotify.com/artist/1WvoeuMkcQTsrTRu7yk84f) | [Bossa N' Disco](https://open.spotify.com/album/33wAEyfeK20Z28mDCxxRpK) | 3:27 |
 | 139 | [Like A Virgin \(Bossa Version\)](https://open.spotify.com/track/4B5SsTcDjP1Jfa9CFbsOOb) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Relaxing Bossa Lounge 3](https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o) | 3:50 |
 | 140 | [No Woman, No Cry](https://open.spotify.com/track/501YlAetaUihOReeVjAJq1) | [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7), [Astrud C](https://open.spotify.com/artist/0NK0MNkLVmoTRc6wKP7Bb0), [moana](https://open.spotify.com/artist/444nnv3ACMwwt0N2eiI9fs) | [Bossa n' Marley](https://open.spotify.com/album/7IEYnDhRLDixYADs3fSEC0) | 4:45 |
-| 141 | [Careless Whisper](https://open.spotify.com/track/4uTeVyCIvptw95iGjb6Jfz) | [Costa Azul Quartet](https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK), [Stephenie Coker](https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 5:53 |
+| 141 | [Careless Whisper \(feat\. Stephenie Coker\)](https://open.spotify.com/track/78igxfQCKcsgQ1yeV0Vmpz) | [Costa Azul Quartet](https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK), [Stephenie Coker](https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 5:53 |
 | 142 | [Wonderwall](https://open.spotify.com/track/5prVNiMkpcCPPNXNcWPEeb) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 4:20 |
 | 143 | [Rock Your Baby](https://open.spotify.com/track/7roBdSNPAnwycHCv66dwXM) | [Amazonics](https://open.spotify.com/artist/6GB5ciGInIXxCbTrqdgz1W), [Mayla Da Viola](https://open.spotify.com/artist/3GIjlMHdT0MFbIjMb8aUdN) | [Bossa N' Disco](https://open.spotify.com/album/33wAEyfeK20Z28mDCxxRpK) | 3:25 |
 | 144 | [Shape of You](https://open.spotify.com/track/3FGjZhoaqR83UViLXk4boR) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 3:34 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 146 | [Don't Speak](https://open.spotify.com/track/16FVLMp4wNmVe471RB36He) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 4:13 |
 | 147 | [Señorita](https://open.spotify.com/track/7oJXhK3Dq8VpiOoRxWxpD0) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Señorita](https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi) | 3:10 |
 
-Snapshot ID: `MTY3Mjc1ODMyNiwwMDAwMDAwMDk4OGJjYTQwYjE1YmU2MjEzNWI1OTQyNzBhNGRiNmQx`
+Snapshot ID: `MTY3Mjc1ODMyNiwwMDAwMDAwMDU2YzQxMWUyM2JlZmY5YjVjOWQ1NmU2MTg4NWJlODhk`

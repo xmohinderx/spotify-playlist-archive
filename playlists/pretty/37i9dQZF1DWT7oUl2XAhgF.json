@@ -1,6 +1,6 @@
 {
   "description": "A new take on a classic sound. Cover: Lee Fields",
-  "num_followers": 171154,
+  "num_followers": 171401,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
@@ -550,6 +550,10 @@
         {
           "name": "Durand Jones & The Indications",
           "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
       "duration_ms": 276600,
@@ -979,7 +983,7 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Cruisin' To The Parque feat. Y La Bamba",
+        "name": "Cruisin' To The Parque",
         "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
       },
       "artists": [
@@ -988,12 +992,16 @@
           "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
         },
         {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        },
+        {
           "name": "Y La Bamba",
           "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
         }
       ],
       "duration_ms": 215204,
-      "name": "Cruisin' to the Parque feat. Y La Bamba",
+      "name": "Cruisin' to the Parque",
       "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
     },
     {
@@ -1106,6 +1114,10 @@
         {
           "name": "Durand Jones & The Indications",
           "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         }
       ],
       "duration_ms": 229403,

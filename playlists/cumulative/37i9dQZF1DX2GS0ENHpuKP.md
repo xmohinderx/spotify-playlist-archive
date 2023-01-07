@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-55 songs - 4 hr 44 min
+56 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Chipko Chipko](https://open.spotify.com/track/1yoeR20kVrBySHAAVcej4o) | [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf) | [Naya Beat Volume 1: South Asian Dance and Electronic Music 1983\-1992](https://open.spotify.com/album/3zslYkDdWDDm0Cq6oAG8tm) | 6:14 | 2022-07-19 |  |
 | [Colourful Environment](https://open.spotify.com/track/3Bmljb02L5xw4pAmzh3F00) | [Gboyega Adelaja](https://open.spotify.com/artist/3jJGeMBACa8l2IQQ2X13A5) | [Colourful Environment](https://open.spotify.com/album/7IW7Y0nWBskOvpwk75MQlV) | 5:19 | 2022-07-19 |  |
 | [Cosmic Sounds](https://open.spotify.com/track/4OiN37qE1wHFRBobO5eveW) | [N'draman Blintch](https://open.spotify.com/artist/6fXkGRg0VOSFulEpv7cWQV) | [Cosmic Sounds \(Hi Track \- Self Destruction\)](https://open.spotify.com/album/1aJ6Oao8t9P3y7Ty0kwqYc) | 11:16 | 2022-07-19 |  |
-| [Danse Cette Zik](https://open.spotify.com/track/51PXrjioD9DjjGs8QBdHEp) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [DANSE CETTE ZIK](https://open.spotify.com/album/4LdWqDu7mPZS8wHwAtRpoT) | 4:19 | 2022-07-19 |  |
+| [Danse Cette Zik](https://open.spotify.com/track/0JSDjKJ1VJwmRwW35I3OYH) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [Danse Cette Zik](https://open.spotify.com/album/3dMQYdTraNEoCBKUC34Uyt) | 4:19 | 2022-07-19 |  |
+| [Danse Cette Zik](https://open.spotify.com/track/51PXrjioD9DjjGs8QBdHEp) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [DANSE CETTE ZIK](https://open.spotify.com/album/4LdWqDu7mPZS8wHwAtRpoT) | 4:19 | 2022-07-19 | 2023-01-07 |
 | [El Fen](https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [El Fen / Casbah](https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs) | 4:39 | 2022-07-19 |  |
 | [Erotic Delight](https://open.spotify.com/track/4nPXbB4vUCX5VMICAKGlvF) | [Witch](https://open.spotify.com/artist/5sRPCgjvseLhVvE1nJYaN8) | [Kuomboka](https://open.spotify.com/album/1BbEMko1TnuTZJlsjTlQji) | 5:31 | 2022-07-19 |  |
 | [Femmes Pays Douces](https://open.spotify.com/track/7kOyqLYMy9H8nHWrlzYSbI) | [Raphaël Toiné](https://open.spotify.com/artist/2ddBIV2qOCQfX4lVnNZSJh) | [Ce Ta Ou / Sud Africa Révolution](https://open.spotify.com/album/2LVxgI3pFsT9qh0Di2xbx4) | 5:41 | 2022-07-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Muerejoven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,336 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,374 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 83 | [Al Carajo](https://open.spotify.com/track/0aknicrrnbPQdPVZu5Gqcl) | [Z\-K](https://open.spotify.com/artist/3jiJNFG8hFkUJIdT7lmZkt), [Sank](https://open.spotify.com/artist/32LjNiBb4gbeytSXy4hBGB) | [Al Carajo](https://open.spotify.com/album/2j71a8nlO5czcb23AYaP9d) | 3:31 |
 | 84 | [Runaway](https://open.spotify.com/track/1W7z3gxk8bWS4p1GAkFnVL) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Runaway](https://open.spotify.com/album/79hULYKlcPDuCB7O3GLjs4) | 2:31 |
 | 85 | [POETA](https://open.spotify.com/track/6T1ZiqhOYwePlT1YGPOm6j) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [POETA](https://open.spotify.com/album/3ffWWsRb6uUZqmH7VTARsm) | 2:51 |
-| 86 | [Demonio](https://open.spotify.com/track/7IDJdXLiEDKW3cG41vqZhE) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Demonio](https://open.spotify.com/album/7zWmthUc2FUoNalblzLd1S) | 2:13 |
+| 86 | [Demonio](https://open.spotify.com/track/34K2jtmYkGnicpR7fnOdxW) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm), [Alan Escobar](https://open.spotify.com/artist/3VCCXzM23StRTfxowf5S9B) | [Demonio](https://open.spotify.com/album/15wErgTl6tdKdTRdgIEVX9) | 2:13 |
 | 87 | [Og's](https://open.spotify.com/track/540CZIkFru9cSkIP2OddbM) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [Nucleo Aka Tintasucia](https://open.spotify.com/artist/3aiHWojYZp0ySEtBhywttr), [CNO Kingteam](https://open.spotify.com/artist/7KGCGu8VphRwOg7I9b7Mqy) | [Og's](https://open.spotify.com/album/1hDgmwh08twCyCLCwdicM1) | 4:39 |
 | 88 | [Pantera](https://open.spotify.com/track/7i1wr4Fzh4cOuhiRIIX3sD) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Pantera](https://open.spotify.com/album/1EFkCCNdP5occ9EDKPiNi5) | 2:46 |
 | 89 | [Fvck System](https://open.spotify.com/track/3RVvV3cuJbIM71mGA3IICB) | [N.G.O](https://open.spotify.com/artist/5rje84AB7dr3j1tQukbuzT), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Keis](https://open.spotify.com/artist/0JHeK4aFzFxGpXRe49Ilkx) | [Fvck System](https://open.spotify.com/album/7o9AjD3fLc2FYuoGMLQnIo) | 4:01 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 100 | [Caos](https://open.spotify.com/track/1rNHgKTcZ82mJPuoJ0ANsY) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Caos](https://open.spotify.com/album/4hAizxabFq0T6Li3YG7bTX) | 2:02 |
 | 101 | [Disciplina](https://open.spotify.com/track/7kL7d77orEOY6oZZMSjk0J) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Ambición y Disciplina](https://open.spotify.com/album/6byABFFo15jmymFmdBR8zb) | 3:32 |
 
-Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMGYwNWRiNTVlMTdmMWI4YTUyYzEzOTY1MjE3MzJiMzM1`
+Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMGEyM2U2ZDA3YTZmZTg5MjgwYTkxYjFjNDAzMjk1NWZi`

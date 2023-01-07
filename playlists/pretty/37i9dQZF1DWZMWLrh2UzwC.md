@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\.  Cover: Aina Abdul
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,196 likes - 57 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,211 likes - 57 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 13 | [最好的我 \(feat\. OHMYMEITING\)](https://open.spotify.com/track/2rdfJvWyows3X6w0HrVV0r) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb), [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [最好的我 \(feat\. OHMYMEITING\)](https://open.spotify.com/album/1xOeud7asRU3JQ5SRMhs2u) | 2:58 |
 | 14 | [Peanut Butter Crackers](https://open.spotify.com/track/1tmAIKhQAH2EuMiKWZkKvT) | [Astronauts](https://open.spotify.com/artist/2d4PRxsiDtfcXVv9WKs7Ci), [Lukpeach](https://open.spotify.com/artist/61uCmA6xLc4E7zuns8HyJK) | [Peanut Butter Crackers](https://open.spotify.com/album/3RwPpkRKx7nLWfjwvPHlrj) | 2:38 |
 | 15 | [轻盈风影](https://open.spotify.com/track/6ScuH6KhZzqTAdsM7hNkXL) | [Miss Lou](https://open.spotify.com/artist/4d9Kpr4Q9VIn3DkREGx2rJ) | [轻盈风影](https://open.spotify.com/album/5aoHJyasXGzQFQyNOyYvrw) | 2:54 |
-| 16 | [Imagine \(feat\. Jackson Wang & Tablo\)](https://open.spotify.com/track/5dREBNCLW6fqkY3y3KYRBq) | [boytoy](https://open.spotify.com/artist/06zgs9qixZMQVu8gthU5Du), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Imagine](https://open.spotify.com/album/70DJv18tilsaym8dGXCMiV) | 2:32 |
+| 16 | [Imagine \(feat\. Jackson Wang & Tablo\)](https://open.spotify.com/track/5dREBNCLW6fqkY3y3KYRBq) | [BOYTOY](https://open.spotify.com/artist/06zgs9qixZMQVu8gthU5Du), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Imagine](https://open.spotify.com/album/70DJv18tilsaym8dGXCMiV) | 2:32 |
 | 17 | [bayou](https://open.spotify.com/track/4b4qQm1jizKxQOmHzdUJIR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [bayou](https://open.spotify.com/album/6JUOEOgX7p42TQyvczGMKm) | 3:49 |
 | 18 | [Madness](https://open.spotify.com/track/7n21DchMhEHga46iMecQHW) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [INCENSE](https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z) | 2:57 |
 | 19 | [Ponytail \(Feat\. Sik\-K\)](https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Ponytail](https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0) | 3:25 |

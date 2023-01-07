@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,426 likes - 144 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,490 likes - 144 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. For Tracy Hyde on cover!
 
-245 songs - 17 hr 7 min
+246 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Reel](https://open.spotify.com/track/1SHkhQfzSnMFOAYlrJjVKA) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Reel](https://open.spotify.com/album/2RPg4cyOfekuhu7driK1jl) | 4:40 | 2021-10-19 | 2022-07-29 |
 | [Runner](https://open.spotify.com/track/0RQxFgbBERaBh9S2GEzXrk) | [Young Prisms](https://open.spotify.com/artist/62Xs9S1gahH6vGEJ24qdkK) | [In Between](https://open.spotify.com/album/01wXcpwki6IvQo0ViDDig1) | 4:33 | 2021-10-19 |  |
 | [Runner](https://open.spotify.com/track/1fItLBpR6V1T1DY1gtx9ph) | [Young Prisms](https://open.spotify.com/artist/62Xs9S1gahH6vGEJ24qdkK) | [In Between](https://open.spotify.com/album/3pMstoTsGwr3br5VWi30GD) | 4:33 | 2021-10-19 | 2022-07-29 |
-| [S.W.I.M.](https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Forever](https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ) | 6:45 | 2021-10-19 |  |
+| [S.W.I.M.](https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Forever](https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ) | 6:45 | 2021-10-19 | 2023-01-07 |
 | [Sapphire](https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Spiritual Instinct](https://open.spotify.com/album/6o13o3tlmwPYFnlIrVoRhh) | 5:00 | 2021-10-19 |  |
 | [Saved For Summer](https://open.spotify.com/track/1vdGnzQYnZniAsJngfkIFP) | [SRSQ](https://open.spotify.com/artist/7oTWrSAsrqQnBE1LRUBZPE) | [Saved For Summer](https://open.spotify.com/album/0vzA5mPgaRnHycfywhbTNS) | 5:19 | 2022-08-19 | 2022-09-29 |
 | [Seven of Cups](https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Fairy Rust](https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7) | 3:53 | 2022-08-03 | 2022-12-16 |
@@ -239,6 +239,7 @@
 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 | 2021-10-19 |  |
 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 | 2021-10-19 | 2022-07-29 |
 | [Vertigo Flowers](https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 3:24 | 2021-10-19 |  |
+| [Verónica Pass \- Sally Shapiro Mix](https://open.spotify.com/track/5rxBNUTNVBatfbDcBhjRXG) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu), [Sally Shapiro](https://open.spotify.com/artist/0Guuvi7P0R6ZuX2DeL1m9M) | [Verónica Pass](https://open.spotify.com/album/5bqgcc97DxAORtjTBfrXwP) | 4:49 | 2023-01-07 |  |
 | [Violet Blue](https://open.spotify.com/track/5h592bSBKLYagMFHZFhmiO) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Violet Blue](https://open.spotify.com/album/57HFG0erzR0TqzULOVI3X4) | 4:24 | 2021-10-19 | 2022-08-04 |
 | [Violet Blue](https://open.spotify.com/track/6rnrsEZeAMsSl7biIauLSt) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Violet Blue](https://open.spotify.com/album/6IPvQyKAQR7Ijmhwkd8oN4) | 4:24 | 2021-10-19 | 2022-07-29 |
 | [Wait Up](https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE) | [Gloomer](https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas) | [Wait Up](https://open.spotify.com/album/4ZVhySJ3eOpZtRVcg2MPDR) | 2:53 | 2022-08-31 | 2022-09-29 |

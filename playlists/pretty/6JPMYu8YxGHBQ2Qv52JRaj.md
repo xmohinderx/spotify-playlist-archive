@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6JPMYu8YxGHBQ2Qv52JRaj.md) - [plain]
 
 > Updated at least once a month..\. cover image \- https:&\#x2F;&\#x2F;bit.ly&\#x2F;3uiJD6B
 
-[Maciej Pędzich](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 15 songs - 56 min 6 sec
+[Maciej Pędzich](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 18 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,5 +23,8 @@ pretty - [cumulative](/playlists/cumulative/6JPMYu8YxGHBQ2Qv52JRaj.md) - [plain]
 | 13 | [Dizzy Riddim](https://open.spotify.com/track/3lgypgTV7ZhfPAlokdWUJp) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Top Boy / Dizzy Riddim](https://open.spotify.com/album/6AfugETSwLMYHA7v4gr2hY) | 3:39 |
 | 14 | [Banzai](https://open.spotify.com/track/5lERF7OCLtnZthQFVGpENu) | [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx), [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1) | [Banzai](https://open.spotify.com/album/7EJ32w2WaTjkRI4GHHsWtK) | 4:22 |
 | 15 | [Fire](https://open.spotify.com/track/0LDW3Qy3H2GpdCrP6s46vY) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Fire](https://open.spotify.com/album/45SWnIErRPEMOmH5yIJkMp) | 3:33 |
+| 16 | [DNA \- Radio Edit](https://open.spotify.com/track/0Mi76WDwxBL0IoHvkFovRP) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Stereohype Rising, Vol\. 1](https://open.spotify.com/album/2Sed8MSB9soQRUhIcLWhk2) | 2:58 |
+| 17 | [Spicy Mama](https://open.spotify.com/track/0kpzKk6bHcFYtmNXx2fflc) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [The Mandala](https://open.spotify.com/album/7eHBRdPMWBgp7lWQxTpj0q) | 3:09 |
+| 18 | [Shutdown](https://open.spotify.com/track/4eUuY3G6yQwMqZtVQlbEsW) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shutdown](https://open.spotify.com/album/4ZQoniqkWM5cCB1ZuXteb0) | 2:52 |
 
-Snapshot ID: `MzE5LDUwYTEzNzdkNGY3MTI5YmNkZjgyZjMzZDIzYzUxMWNmYTVmYWIzYmY=`
+Snapshot ID: `MzIyLDgxMTc3MjEwMjdiOWViMjdkNzhhYmQ5MmU4ZjFmMjdmZjQyZDBiOTY=`

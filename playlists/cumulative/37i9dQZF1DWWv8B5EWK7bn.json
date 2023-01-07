@@ -737,6 +737,28 @@
     },
     {
       "album": {
+        "name": "Death in a Constellation",
+        "url": "https://open.spotify.com/album/4noSmDY9LL8oRSCXaHti9A"
+      },
+      "artists": [
+        {
+          "name": "R. Missing",
+          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+        },
+        {
+          "name": "Levingtquatre",
+          "url": "https://open.spotify.com/artist/1mksa9q8wjMTdaOzxtoOlA"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269013,
+      "name": "Death in a Constellation",
+      "url": "https://open.spotify.com/track/72x6VhwpNjHOvo5OM4iKbe"
+    },
+    {
+      "album": {
         "name": "Se Ve Desde Aqu\u00ed",
         "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
       },
@@ -1008,6 +1030,28 @@
       "duration_ms": 222000,
       "name": "Dust It Off",
       "url": "https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe"
+    },
+    {
+      "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/20NAtKWWeyYn9QIzOejT0Y"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Sonic Boom",
+          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288746,
+      "name": "Edge of the Edge",
+      "url": "https://open.spotify.com/track/4NbOlTgtufOpRVd7h1fsyA"
     },
     {
       "album": {
@@ -1832,7 +1876,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 172402,
       "name": "Joyas",
       "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
@@ -2647,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Painted The Room",
+        "url": "https://open.spotify.com/album/3c6Pgmn56EIAVFH3PtXyUL"
+      },
+      "artists": [
+        {
+          "name": "Rozi Plain",
+          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253013,
+      "name": "Painted the Room",
+      "url": "https://open.spotify.com/track/3iTYtpdS8JqWluLm92kuRH"
+    },
+    {
+      "album": {
         "name": "Peak",
         "url": "https://open.spotify.com/album/20qgeY3lDZer4rY0Al8uKp"
       },
@@ -2850,7 +2912,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 278000,
       "name": "Ritual in Transfigured Time",
       "url": "https://open.spotify.com/track/5c1WARTmXsU40hCFsh2nWp"
@@ -3300,7 +3362,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 180000,
       "name": "So Clear",
       "url": "https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP"
@@ -3416,7 +3478,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 170750,
       "name": "Sue Me",
       "url": "https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy"
@@ -3626,6 +3688,24 @@
       "duration_ms": 244390,
       "name": "The Universe Is Always Right",
       "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+    },
+    {
+      "album": {
+        "name": "INNIT",
+        "url": "https://open.spotify.com/album/6SvKfVNfxNQA7YtoNJClAw"
+      },
+      "artists": [
+        {
+          "name": "SCUDFM",
+          "url": "https://open.spotify.com/artist/32ick7QrmuMlgsV3i6IXGT"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249585,
+      "name": "Theme from SCUD",
+      "url": "https://open.spotify.com/track/1atsnzNJRSTmmyg99h3k7D"
     },
     {
       "album": {

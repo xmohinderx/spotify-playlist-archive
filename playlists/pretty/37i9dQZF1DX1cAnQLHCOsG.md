@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 
 > Pa' las posadas y las fiestas, canciones navideñas con sazón mexa\. Chiquis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,886 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,883 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

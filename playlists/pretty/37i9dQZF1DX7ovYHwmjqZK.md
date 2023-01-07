@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,426 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,545 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 97 | [Chuvas De Verão \- Remastered 2006](https://open.spotify.com/track/3qhFhiaQrfkejwjSFqjfmR) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetano Veloso \- 1969](https://open.spotify.com/album/1piwOhCQ92jysdChq3IRz9) | 2:48 |
 | 98 | [Garra \- Ao vivo](https://open.spotify.com/track/2sc5q8Zd8kpvJ3hAJJmBwG) | [Dani Gurgel](https://open.spotify.com/artist/2j5N97IBFhpmtZ7n7qTLZw), [Debora Gurgel](https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT), [Thiago Rabello](https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB), [Sidiel Vieira](https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50) | [Garra](https://open.spotify.com/album/1CiGUeRx6a1yAvLwB0l3w2) | 3:48 |
 | 99 | [Eu Sambo Mesmo](https://open.spotify.com/track/3AqxAq1Z6lZ4BkdvFtEGDH) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: A Night of Music](https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6) | 4:08 |
-| 100 | [Samba de la rosa](https://open.spotify.com/track/05EhwPCpHvYCOrRnUpGyXW) | [Maria Escobar](https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Samba de la rosa](https://open.spotify.com/album/4HPZx1e4aEifXZj7XjuWts) | 2:50 |
+| 100 | [Samba da rosa](https://open.spotify.com/track/7qAyUR61yrl6XV31iAJWlp) | [Maria Escobar](https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Fuerza Extraña](https://open.spotify.com/album/5jUhMOLnof9gojepRuXc0o) | 2:50 |
 
-Snapshot ID: `MTY2NTcxODA5MCwwMDAwMDAwMDBlNzNmNThiNDBmNTM2Njc4NTdmODBjMGVkODZlNDgy`
+Snapshot ID: `MTY2NTcxODA5MCwwMDAwMDAwMDA4NjRmODg0NWZiMDExMWQwNjM3MWZjYzZiMzdiNGY2`

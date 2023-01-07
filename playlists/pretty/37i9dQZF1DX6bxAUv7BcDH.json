@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 48,
+  "num_followers": 49,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMGVlZDM3ZWNlNTc4NjE1OTAwNGQzMmZmNDUwN2VhMzEw",
+  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMDVmNzQ5NDYxNTIxNmFmMDVlMDg2OTg1ZjE1MmZlMWNl",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -503,22 +487,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Clapton Chronicles: The Best of Eric Clapton",
-        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
       },
@@ -547,6 +515,22 @@
       "duration_ms": 246400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -743,6 +727,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "An American Tail",
         "url": "https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 151626,
       "name": "The Battle Of New Orleans",
       "url": "https://open.spotify.com/track/0dwpdcQkeZqpuoAPYD49N3"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -1047,6 +1031,22 @@
       "duration_ms": 126933,
       "name": "Days Of Wine And Roses - REMASTERED",
       "url": "https://open.spotify.com/track/2sWRC12vYVTHjdTD2WOE4v"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Theme of Exodus (From \"Exodus\" Soundtrack)",
+        "url": "https://open.spotify.com/album/5micc2oKvQQYFUlUcsVtF0"
+      },
+      "artists": [
+        {
+          "name": "Ernest Gold",
+          "url": "https://open.spotify.com/artist/41SzGMVZclC44YTVneXHlE"
+        }
+      ],
+      "duration_ms": 892203,
+      "name": "Theme of Exodus - From \"Exodus\" Soundtrack",
+      "url": "https://open.spotify.com/track/7A7Bak9REa9pRZzohssUPi"
     }
   ],
   "unique_name": "#SpotifyTBT: Song of the Year",

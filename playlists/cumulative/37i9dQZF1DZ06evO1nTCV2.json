@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239103,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/58D6qBdHSRzRklrlyH81H8"
+    },
+    {
+      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -340,7 +358,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 318653,
       "name": "Blue Sky Blues",
       "url": "https://open.spotify.com/track/4uNBtQq2SUcdnp2BK83TiV"

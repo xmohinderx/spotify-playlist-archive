@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > I think my life might be better if I lived in Colorado? Cover: Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,446,300 likes - 150 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,446,417 likes - 150 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

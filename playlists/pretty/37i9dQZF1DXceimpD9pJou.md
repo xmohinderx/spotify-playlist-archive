@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:  Madiel Lara
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,793 likes - 73 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,854 likes - 73 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

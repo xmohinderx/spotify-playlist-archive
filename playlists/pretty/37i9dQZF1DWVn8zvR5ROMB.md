@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Tyler Hubbard, Old Dominion, Shania Twain and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,978 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,113 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 25 | [Arm's Reach](https://open.spotify.com/track/2g6wdZ7fRaPAgGxQ4MG18v) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [We're Young, Alright](https://open.spotify.com/album/553gGSVuHart0wIB6lEC0n) | 4:00 |
 | 26 | [All Over Again](https://open.spotify.com/track/3s4o3XB5d5QzGkbXVPte1M) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [All Over Again](https://open.spotify.com/album/6IlRlVjQybLXkQDmc2p035) | 3:24 |
 | 27 | [Love Her Like I Would](https://open.spotify.com/track/0eUrwt9ZGuqNsh6b9DKA1m) | [Patrick Carpenter](https://open.spotify.com/artist/3qjBUGzo0sTwv10dVDRayp) | [Love Her Like I Would](https://open.spotify.com/album/6z0H4nk0zKmjBSo7ZToomu) | 3:15 |
-| 28 | [Sweetest Lullaby](https://open.spotify.com/track/7nBryMR0GzLYxaU4sEqwia) | [Travis Atreo](https://open.spotify.com/artist/58xmt13Xf7RsThzGOM1aKh), [Justin Cho](https://open.spotify.com/artist/6sXiEqlpkadZZKdxU51NlB) | [Sweetest Lullaby](https://open.spotify.com/album/3AnqxwDUIXKniteezaBLwB) | 3:27 |
+| 28 | [Sweetest Lullaby](https://open.spotify.com/track/7nBryMR0GzLYxaU4sEqwia) | [Travis Atreo](https://open.spotify.com/artist/58xmt13Xf7RsThzGOM1aKh) | [Sweetest Lullaby](https://open.spotify.com/album/3AnqxwDUIXKniteezaBLwB) | 3:27 |
 | 29 | [Old Money](https://open.spotify.com/track/64iT1c1cfQjeT3PHONYJus) | [Avenue 65](https://open.spotify.com/artist/62JYW1sSp82xRlxoiLKHAW) | [Old Money](https://open.spotify.com/album/6Rl2qvaG6AOOmAhPrpCIO0) | 3:26 |
 | 30 | [Homegrown Country](https://open.spotify.com/track/68cfpvaCLcWXUF2sQCRg0Z) | [Aaron Carter](https://open.spotify.com/artist/2u4LEjb4nRFlIPNqR14MnR) | [Homegrown Country](https://open.spotify.com/album/4BgoyuQ7xAk9GXXlKhYgXQ) | 3:12 |
 

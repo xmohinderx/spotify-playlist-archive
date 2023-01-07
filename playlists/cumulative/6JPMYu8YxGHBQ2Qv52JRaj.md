@@ -4,7 +4,7 @@
 
 > Updated at least once a month..\. cover image \- https:&\#x2F;&\#x2F;bit.ly&\#x2F;3uiJD6B
 
-157 songs - 9 hr 13 min
+160 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dirty Talk](https://open.spotify.com/track/4aNRTn0uGJxYc4NuBwAeJw) | [MRK](https://open.spotify.com/artist/6T9ZJFLqMVxRcmKBO1Rnsb), [BANG GANG](https://open.spotify.com/artist/7aPPbUpKzN9L7LqC26ZZVd) | [Dirty Talk](https://open.spotify.com/album/41j60tqnsDBd4VgIxN3C6u) | 2:32 | 2022-10-21 | 2022-11-25 |
 | [Disco Tool \(OOTORO Remix\)](https://open.spotify.com/track/3PRDDXSbPUZ1qTa0JkXvgt) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [Disco Tool \(Remixes\)](https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG) | 3:08 | 2022-07-19 | 2022-07-30 |
 | [Dizzy Riddim](https://open.spotify.com/track/3lgypgTV7ZhfPAlokdWUJp) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Top Boy / Dizzy Riddim](https://open.spotify.com/album/6AfugETSwLMYHA7v4gr2hY) | 3:39 | 2022-12-25 |  |
+| [DNA \- Radio Edit](https://open.spotify.com/track/0Mi76WDwxBL0IoHvkFovRP) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Stereohype Rising, Vol\. 1](https://open.spotify.com/album/2Sed8MSB9soQRUhIcLWhk2) | 2:58 | 2023-01-07 |  |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-07-29 | 2022-08-13 |
 | [Drop It](https://open.spotify.com/track/0CyrNTcFLUqcEzO4jx1I6O) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Drop It](https://open.spotify.com/album/78miEQ02KsHuz0bRIjxzRA) | 3:12 | 2022-08-12 | 2022-08-27 |
 | [Drop The Top](https://open.spotify.com/track/1hYhtilcZAOXEIG4GuolxY) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Drop The Top](https://open.spotify.com/album/0VA36eUPG0iME35swH0PhQ) | 2:45 | 2022-07-01 | 2022-07-20 |
@@ -131,9 +132,11 @@
 | [Screamer](https://open.spotify.com/track/6Y99os6uaE64HDEH82owVT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Screamer](https://open.spotify.com/album/0tQhOKPoPSWEqhItm3DaO4) | 4:00 | 2022-07-29 | 2022-08-13 |
 | [Sex](https://open.spotify.com/track/0XZXSuxjKdACl5YMf4bAO0) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [NRG, Vol\. 2](https://open.spotify.com/album/6T6SDMNF1LWI4N0gPxFrJ2) | 3:30 | 2022-07-01 | 2022-07-20 |
 | [Shut You Down](https://open.spotify.com/track/5kyUaw4Qy7ZYXQtT8NIZ6D) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Shut You Down](https://open.spotify.com/album/52ztWOsuMQ2KmcK4X0vHLz) | 2:48 | 2022-09-18 | 2022-10-03 |
+| [Shutdown](https://open.spotify.com/track/4eUuY3G6yQwMqZtVQlbEsW) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shutdown](https://open.spotify.com/album/4ZQoniqkWM5cCB1ZuXteb0) | 2:52 | 2023-01-07 |  |
 | [Sinking](https://open.spotify.com/track/7FQpAFyAyYaQV3cVJ2Ce0x) | [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J) | [Sinking EP](https://open.spotify.com/album/0Bf0loZ2fNv7DEEgbl2Gri) | 5:41 | 2022-07-19 | 2022-07-30 |
 | [Skandal](https://open.spotify.com/track/5bPi6LAI7JfyjIIFzNA56d) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Skandal](https://open.spotify.com/album/7rhdGC3zlyzgANmxuSqY1y) | 2:49 | 2022-08-12 | 2022-08-27 |
 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 | 2022-07-01 | 2022-07-20 |
+| [Spicy Mama](https://open.spotify.com/track/0kpzKk6bHcFYtmNXx2fflc) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [The Mandala](https://open.spotify.com/album/7eHBRdPMWBgp7lWQxTpj0q) | 3:09 | 2023-01-07 |  |
 | [Stand Up](https://open.spotify.com/track/4hlyuPfRskhNv9iyFSjAZF) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [Stand Up](https://open.spotify.com/album/7JWaghH84EEqeUbOcB2jz8) | 3:47 | 2022-07-01 | 2022-07-20 |
 | [Straight Ballin’](https://open.spotify.com/track/2iMyo9Nu43d8jTUFclBKc4) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [Straight Ballin’](https://open.spotify.com/album/4nnPAHKfJl4kUDnuVMthFF) | 2:02 | 2022-07-19 | 2022-07-30 |
 | [Strip Club](https://open.spotify.com/track/3zKQlZFdwRw5RQKZ8S8WgW) | [The Schmidt](https://open.spotify.com/artist/7F0azW5NhgPjfwozhEryK5), [D\-Tek](https://open.spotify.com/artist/0Ss5Mgh4yOBheewjYwTJ7p) | [Strip Club](https://open.spotify.com/album/3hd1XTMb5Z3tdl5OZ1atc7) | 3:01 | 2022-09-18 | 2022-10-03 |

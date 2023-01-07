@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2339014,
+  "num_followers": 2339483,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgxMzg3MCwwMDAwMDAwMDMyYzI4NWZiZTNmYTE2M2Q3MWRlNmRiMDM1NDczODM1",
+  "snapshot_id": "MTY3MjgxMzg3MCwwMDAwMDAwMDVlNTJkMzQxNTlhZTczOWExY2IzOTQxZDRhMzgwZjdk",
   "tracks": [
     {
       "added_at": "2023-01-04 06:31:10",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Hale",
-        "url": "https://open.spotify.com/album/472GgeFZaCdRLcL3cT0IAn"
-      },
-      "artists": [
-        {
-          "name": "Hale",
-          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
-        }
-      ],
-      "duration_ms": 291357,
-      "name": "The Day You Said Goodnight",
-      "url": "https://open.spotify.com/track/0HZ3OUVrGHxttD2EuHqRm3"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
         "name": "Fuchsiang Pag-Ibig",
         "url": "https://open.spotify.com/album/08SEZDvRXrrNs1C2y73MLi"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 306466,
       "name": "Ikaw Lamang",
       "url": "https://open.spotify.com/track/2v5VIWMjZxeiG52KckiXxS"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Bigotilyo",
+        "url": "https://open.spotify.com/album/0kV35wyXIJKk04VRG0DdF4"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/3OpGUlDmRUXh0NkIYWoIlD"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Bigotilyo",
-        "url": "https://open.spotify.com/album/0kV35wyXIJKk04VRG0DdF4"
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
       },
       "artists": [
         {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
         }
       ],
-      "duration_ms": 168493,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/3OpGUlDmRUXh0NkIYWoIlD"
+      "duration_ms": 349713,
+      "name": "Mundo",
+      "url": "https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -215,38 +215,6 @@
       "duration_ms": 318814,
       "name": "Kathang Isip",
       "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
-      },
-      "artists": [
-        {
-          "name": "IV Of Spades",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 349713,
-      "name": "Mundo",
-      "url": "https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Strike Whilst the Iron Is Hot",
-        "url": "https://open.spotify.com/album/0S0yaR1MiuHfyAZPAtChVc"
-      },
-      "artists": [
-        {
-          "name": "Orange & Lemons",
-          "url": "https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Hanggang Kailan - Umuwi Ka Na Baby",
-      "url": "https://open.spotify.com/track/5UhpceEr5XmbVwyoIUIRnh"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -335,22 +303,6 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
         "name": "Buruguduystunstugudunstuy",
         "url": "https://open.spotify.com/album/29tJR2oXdGAFHMQkcgPUmn"
       },
@@ -379,6 +331,22 @@
       "duration_ms": 253013,
       "name": "Tell Me Where It Hurts",
       "url": "https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -435,38 +403,6 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "TJ Monterde",
-        "url": "https://open.spotify.com/album/01f1BJjxsFyuX580Fk8Gjk"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Dating Tayo",
-      "url": "https://open.spotify.com/track/267RumTt5KeLBGl2KWxBL0"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
         "name": "G9",
         "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
       },
@@ -495,6 +431,22 @@
       "duration_ms": 273200,
       "name": "214",
       "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -567,42 +519,6 @@
       "duration_ms": 253360,
       "name": "Sa'yo",
       "url": "https://open.spotify.com/track/3WLDRtRzbKDNZW5AZaAvk0"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk"
-      },
-      "artists": [
-        {
-          "name": "Imago",
-          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
-        }
-      ],
-      "duration_ms": 243653,
-      "name": "Sundo",
-      "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Romantico",
-        "url": "https://open.spotify.com/album/0HYAcVSUVkfxzHKgHu6DqR"
-      },
-      "artists": [
-        {
-          "name": "Kamikazee",
-          "url": "https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A"
-        },
-        {
-          "name": "Kyla",
-          "url": "https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S"
-        }
-      ],
-      "duration_ms": 295413,
-      "name": "Huling Sayaw",
-      "url": "https://open.spotify.com/track/7L8GQLm6e7cGoMMUAgWCVp"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -691,22 +607,6 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Buwan",
-        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 343446,
-      "name": "Buwan",
-      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
         "name": "Langit. Luha.",
         "url": "https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA"
       },
@@ -719,6 +619,22 @@
       "duration_ms": 241029,
       "name": "Pasensya Ka Na",
       "url": "https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Buwan",
+        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 343446,
+      "name": "Buwan",
+      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -847,6 +763,106 @@
       "duration_ms": 379804,
       "name": "Nang Dumating Ka",
       "url": "https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Maybe This Time (From \"Maybe This Time\")",
+        "url": "https://open.spotify.com/album/0BGReR0ClYIme8zAabt53h"
+      },
+      "artists": [
+        {
+          "name": "Sarah Geronimo",
+          "url": "https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48"
+        }
+      ],
+      "duration_ms": 255608,
+      "name": "Maybe This Time - From \"Maybe This Time\"",
+      "url": "https://open.spotify.com/track/0Dljpp52vCmtXi0E94qjfo"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/41S3W52qwH0oEKOx9ByH5t"
+      },
+      "artists": [
+        {
+          "name": "Jericho Rosales",
+          "url": "https://open.spotify.com/artist/3RpJ6OyOnaXRFRXSirgQa6"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Pusong Ligaw",
+      "url": "https://open.spotify.com/track/14pj36HKHd6c72njvGVPWU"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Nina",
+        "url": "https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Pauwi Nako",
+        "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
+      },
+      "artists": [
+        {
+          "name": "PDL",
+          "url": "https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Jnske",
+          "url": "https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU"
+        },
+        {
+          "name": "Bullet D",
+          "url": "https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "duration_ms": 341573,
+      "name": "Pauwi Nako",
+      "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "She's Dating the Gangster (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NfAzxHZ4diQArSqZMTJHc"
+      },
+      "artists": [
+        {
+          "name": "Angeline Quinto",
+          "url": "https://open.spotify.com/artist/7DW4ijH3n36QN0RlC0n649"
+        }
+      ],
+      "duration_ms": 240065,
+      "name": "Till I Met You",
+      "url": "https://open.spotify.com/track/0JzwzRDkwZr8s1WRfNgUqA"
     }
   ],
   "unique_name": "OPM Favorites",

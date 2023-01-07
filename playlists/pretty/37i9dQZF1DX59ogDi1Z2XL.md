@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Connor Price
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,813 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,911 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 11 | [STAY THE COURSE](https://open.spotify.com/track/5Xrh2U2VBJzshkQUiS1Y4H) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [SKIP THE SMALL TALK](https://open.spotify.com/album/68tbunurVY6SbXp7TW8dMG) | 2:15 |
 | 12 | [EVO I](https://open.spotify.com/track/16IQmx31tBP8luOYiyLE4W) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY 1.0](https://open.spotify.com/album/5VG8UYwd5izn2TQPX8fvBn) | 1:52 |
 | 13 | [Yalla](https://open.spotify.com/track/1LOSAg9eiaXNXX88lE1h0p) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g), [Jordac Y.I.C](https://open.spotify.com/artist/6Wc8l3bPkvwLLMdpDfaMfa) | [Yalla](https://open.spotify.com/album/4pLBmafmQQlwKlWHEK3dsb) | 3:31 |
-| 14 | [100 Degrees \- Remix](https://open.spotify.com/track/1LFIM4jVBBS58eGPAGFOH2) | [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [100 Degrees](https://open.spotify.com/album/3QK3CffzqhQRrDpqgB98HG) | 3:19 |
+| 14 | [100 Degrees \- Remix](https://open.spotify.com/track/1LFIM4jVBBS58eGPAGFOH2) | [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [100 Degrees \(Remix\)](https://open.spotify.com/album/3QK3CffzqhQRrDpqgB98HG) | 3:19 |
 | 15 | [Fenty](https://open.spotify.com/track/2jhrlYw2rUsrCtBuIa9Zc5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fenty](https://open.spotify.com/album/7EsSmzg4lNubNUIzEjsV4v) | 2:58 |
 | 16 | [Y?](https://open.spotify.com/track/2Mytg2OcqnK15ZfmGx9PqB) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Y?](https://open.spotify.com/album/0Fj5OIXKBxaf86Epw3SKUo) | 2:23 |
 | 17 | [Blood In The Snow](https://open.spotify.com/track/5XmULO33Z6lQ0u4Q922YJ9) | [Boyscoutsam](https://open.spotify.com/artist/6mzQSW98vK1vHNearVSG0c) | [Blood In The Snow](https://open.spotify.com/album/0hDgVuPmMcMi9t73GEompQ) | 2:46 |

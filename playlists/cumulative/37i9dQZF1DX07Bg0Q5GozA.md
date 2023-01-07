@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Moglii, Mulay
 
-158 songs - 12 hr 53 min
+159 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Jump \(Original Mix\)](https://open.spotify.com/track/1kIu9zpYtWjgrLlsactlna) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 4:22 | 2022-12-30 | 2023-01-02 |
 | [Junk Sick \(I'm on the run\)](https://open.spotify.com/track/7GU2eDRZXYv1yAjF156ptF) | [The Delta Riggs](https://open.spotify.com/artist/1wWcqWYBaZeSYC0aAfh3qy) | [Junk Sick \(I'm on the run\)](https://open.spotify.com/album/3FLF7tU7Rc4CUSeY6D4XJ0) | 1:40 | 2022-12-15 |  |
 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 | 2022-12-15 |  |
-| [Kiss \- Konstantin Sibold & Colyn Alternative Edit](https://open.spotify.com/track/2xoqcZ8vR9eH3bOsUeg8r6) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Kiss \(Colyn & Konstantin Sibold Remix\)](https://open.spotify.com/album/04IxzyKjiLFRXO6Pi15osR) | 7:33 | 2022-12-15 |  |
+| [Kiss \- Konstantin Sibold & Colyn Alternative Edit](https://open.spotify.com/track/2xoqcZ8vR9eH3bOsUeg8r6) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Kiss \(Colyn & Konstantin Sibold Remix\)](https://open.spotify.com/album/04IxzyKjiLFRXO6Pi15osR) | 7:33 | 2022-12-15 | 2023-01-07 |
+| [Kiss \- Konstantin Sibold & Colyn Alternative Edit](https://open.spotify.com/track/52tHzOpQApOba7kNJ4oc1q) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Kiss \(Remixes\)](https://open.spotify.com/album/3CxfNJpBzofF6KRMuAYa5x) | 7:33 | 2023-01-05 |  |
 | [Koca Bir Saçmalık](https://open.spotify.com/track/5KDsV9BS4b68kATRBo5DBO) | [Jakuzi](https://open.spotify.com/artist/0xeyL5pfnTtx7LGpqLo4PG) | [Fantezi Müzik](https://open.spotify.com/album/6bI6pxat8HAtwkQcXXEkge) | 4:12 | 2022-12-15 |  |
 | [La Danse Heureuse \- Edit](https://open.spotify.com/track/6oF0ZOAKaMxlRVYYHPGgiH) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [La Danse Heureuse \(Edit\)](https://open.spotify.com/album/29E6YSbwlIx8nyI7wjFaJb) | 3:27 | 2022-12-15 | 2023-01-06 |
 | [Life Itself \- Roosevelt Remix](https://open.spotify.com/track/1AvbBhiwQoz9Zpg1lXF2JM) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Life Itself \(Roosevelt Remix\)](https://open.spotify.com/album/2uzP9YkKRRWtrrGJVHoxCX) | 6:25 | 2022-12-30 | 2023-01-02 |

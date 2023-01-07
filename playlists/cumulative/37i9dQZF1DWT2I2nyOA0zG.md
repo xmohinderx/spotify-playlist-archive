@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-162 songs - 9 hr 20 min
+163 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Oh Baby](https://open.spotify.com/track/4B3vGD3jkhQkd3uBDxWa13) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [AMAZON The EP](https://open.spotify.com/album/5ksFU23cyIYHAQYCwEWSGD) | 2:24 | 2021-11-11 | 2022-03-18 |
 | [Ojuju](https://open.spotify.com/track/1JvW2HjzFdEcaFrpsEeq0e) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Ojuju](https://open.spotify.com/album/1cYo9eumR211el6QbRzW2m) | 3:07 | 2021-10-11 | 2022-07-29 |
 | [Ojuju](https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Eclipse](https://open.spotify.com/album/0yHslhvyRmnhOCUIYzNE5i) | 3:07 | 2021-10-11 |  |
-| [Olorun Maje](https://open.spotify.com/track/6PMAkS0V1IMh6pndxR8A6E) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Olorun Maje](https://open.spotify.com/album/3lS0aB3MgFWB9t5NEcALlc) | 2:41 | 2022-11-04 |  |
+| [Olorun Maje](https://open.spotify.com/track/63asnqY4DG3bbdew7ioJBE) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Phase One](https://open.spotify.com/album/4jeLU9uhpa3D4qG7lWzyVT) | 2:41 | 2022-11-04 |  |
+| [Olorun Maje](https://open.spotify.com/track/6PMAkS0V1IMh6pndxR8A6E) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Olorun Maje](https://open.spotify.com/album/3lS0aB3MgFWB9t5NEcALlc) | 2:41 | 2022-11-04 | 2023-01-07 |
 | [OMG](https://open.spotify.com/track/5mHJrT793MaOfEf3pHM7cN) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon) | [OMG](https://open.spotify.com/album/4RGIttt0mc1TFsYSvigowx) | 3:02 | 2022-03-24 | 2022-04-29 |
 | [One Last Time](https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt) | [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [One Last Time](https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6) | 3:47 | 2022-02-24 | 2022-12-02 |
 | [Oshe \(feat\. The Cavemen.\)](https://open.spotify.com/track/4upQnh3K5k1xbVOr97fdG7) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:38 | 2021-11-18 |  |

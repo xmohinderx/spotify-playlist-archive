@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,532 likes - 344 songs - 20 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,858 likes - 344 songs - 20 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

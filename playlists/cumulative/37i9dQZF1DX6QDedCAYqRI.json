@@ -874,6 +874,24 @@
     {
       "album": {
         "name": "Impressions",
+        "url": "https://open.spotify.com/album/2Ney0TSRz1uChEDF2nROh2"
+      },
+      "artists": [
+        {
+          "name": "Kemrie",
+          "url": "https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280131,
+      "name": "Impressions",
+      "url": "https://open.spotify.com/track/039KCeBrprEJiYqqt33diP"
+    },
+    {
+      "album": {
+        "name": "Impressions",
         "url": "https://open.spotify.com/album/1reOkkyChSAu1w9aWvhJCE"
       },
       "artists": [
@@ -884,7 +902,7 @@
       ],
       "date_added": "2021-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 280131,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/12ZNnAQqvmJmT1wGXkzKCd"

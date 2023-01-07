@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,923 songs - 4 day 14 hr 50 min
+1,924 songs - 4 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Be Afraid](https://open.spotify.com/track/4YtvmIkKHaSBOv1VPmZf6p) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:19 | 2021-11-18 |  |
 | [Be Afraid](https://open.spotify.com/track/6mLHg0qv2fwy2O1PGkKCe7) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Be Afraid](https://open.spotify.com/album/7LZ8Zy7HpsQZ7IJIR0cMle) | 3:19 | 2020-08-20 | 2021-03-29 |
 | [Be Gone](https://open.spotify.com/track/4QwAm5hrGrIMmSIRIHfDTi) | [Bryan Porter Hinkley](https://open.spotify.com/artist/0cNva7xyY9xAycPvxivruV), [Tim Hall](https://open.spotify.com/artist/6oXJ7P410Y0HA5seK7DclJ) | [Be Gone](https://open.spotify.com/album/1nvZ00PxECbomw2JVDJDLn) | 3:05 | 2022-09-30 | 2022-10-18 |
+| [Be Here](https://open.spotify.com/track/6oTjXMTSuNsG20BIQNq54c) | [Brooklynn Skye](https://open.spotify.com/artist/6AS8KgX4AzNWwndC6MPNzo) | [Be Here](https://open.spotify.com/album/3hHY7KSJ0x31k81dESj04G) | 4:08 | 2023-01-07 |  |
 | [Be Here Today](https://open.spotify.com/track/17UX0BrzW5HfzePPXqmKMA) | [Nic Wander](https://open.spotify.com/artist/02IUrnNQtdPIYGYv0qxaFu), [Stay 4 Breakfast](https://open.spotify.com/artist/6D8H90CQOOCrB5f9GtH4Pp), [Jackie Myers](https://open.spotify.com/artist/6xeEJ313xoRLF4doLFW2ML) | [Be Here Today](https://open.spotify.com/album/4ZatS6ZsoDZ6ld9s9Ey3Xq) | 3:44 | 2022-12-30 |  |
 | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC) | 3:27 | 2020-08-20 |  |
 | [Be Somebody](https://open.spotify.com/track/6kirY3kuVdwk2slX1XFIrq) | [Arctik7](https://open.spotify.com/artist/18UgMQWIVVLtOHuPP4LX8o) | [Be Somebody](https://open.spotify.com/album/5OUCUKzS1E4K762PCtp2Ly) | 4:01 | 2020-06-18 | 2020-07-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Moglii, Mulay
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,429 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,458 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 43 | [Clara \(the night is dark\)](https://open.spotify.com/track/1ftsPnNZSEc3gZAVzbtWsI) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:38 |
 | 44 | [6am](https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [6am](https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm) | 3:41 |
 | 45 | [Dancing Ain't Enough](https://open.spotify.com/track/2AFtuddFzafFChO3RDnB51) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo), [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [Dancing Ain't Enough](https://open.spotify.com/album/2yOmqnThwnhPd3QPsefWWq) | 3:27 |
-| 46 | [Kiss \- Konstantin Sibold & Colyn Alternative Edit](https://open.spotify.com/track/2xoqcZ8vR9eH3bOsUeg8r6) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Kiss \(Colyn & Konstantin Sibold Remix\)](https://open.spotify.com/album/04IxzyKjiLFRXO6Pi15osR) | 7:33 |
+| 46 | [Kiss \- Konstantin Sibold & Colyn Alternative Edit](https://open.spotify.com/track/52tHzOpQApOba7kNJ4oc1q) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Kiss \(Remixes\)](https://open.spotify.com/album/3CxfNJpBzofF6KRMuAYa5x) | 7:33 |
 | 47 | [One \- Seth Troxler Remix](https://open.spotify.com/track/3IuBoswJW21ChJiKQ29QLX) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [In Amber \(Remixes\)](https://open.spotify.com/album/2N8vs3qJN6EyqAA6SJ3EIC) | 6:08 |
 | 48 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 |
 | 49 | [PULSE](https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [PULSE](https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 |
 | 75 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 |
 
-Snapshot ID: `MTY3Mjk1OTYwMCwwMDAwMDAwMGJmMTBjN2U2ZTJjZDNmMDJjZGU2NjM3ZjQwMjhjNTc1`
+Snapshot ID: `MTY3Mjk1OTYwMCwwMDAwMDAwMDIyMGE4MTYxMDJmMWU5N2QyMTQ4YmE0YTMyOTEwNjdj`

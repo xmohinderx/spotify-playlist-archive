@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,891 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,993 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 5 | [Lokisla](https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Harryson](https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm), [EL PERROTE WZ](https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Lokisla](https://open.spotify.com/album/6tQmUnaSJ4TkqvdfujoYIZ) | 4:24 |
 | 6 | [Hay Santo](https://open.spotify.com/track/1MUJMUO1dywCGUsYYOUFnH) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Jonatan Burlon](https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM) | [Hay Santo](https://open.spotify.com/album/2jlvqgwdqIpqpuYGv1JdJ2) | 3:27 |
 | 7 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 |
-| 8 | [Lo Rafaguie](https://open.spotify.com/track/6oB33MiHmxDTMVLoPX5dv7) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Lo Rafaguie](https://open.spotify.com/album/0PNfohwBm4XqbY83CA39BV) | 2:21 |
+| 8 | [Lo Rafaguie](https://open.spotify.com/track/6oB33MiHmxDTMVLoPX5dv7) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Lo Rafaguie](https://open.spotify.com/album/0PNfohwBm4XqbY83CA39BV) | 2:21 |
 | 9 | [Zuculento](https://open.spotify.com/track/7zmJxjG9P9if2WRBnNl81o) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Young Gatillo](https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [D´Flow Aka La Maldad](https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG) | [Zuculento](https://open.spotify.com/album/1scppHxJtrQhNHdi5HM9od) | 2:47 |
 | 10 | [Davirito](https://open.spotify.com/track/5aB65kxjdKGNBTVcZKMNvF) | [El Domi Blanco](https://open.spotify.com/artist/2lYYTh54aFc39yR3J8rcZ0), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Davirito](https://open.spotify.com/album/2ZKxqH2FMNtMEQQGo0tKkP) | 2:27 |
 | 11 | [Guanguan](https://open.spotify.com/track/4qGfvoFPX3DmooDxvM9kTs) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV) | [Guanguan](https://open.spotify.com/album/0vPaYmSaXflyKSRqcOEwKc) | 2:49 |

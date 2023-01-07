@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,937 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,940 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Solace In Solitude](https://open.spotify.com/track/1lc91yToT1IMkmcJ6TzFXd) | [Profound Observer](https://open.spotify.com/artist/0dvxvZTqgUjgROTCBoF4NR) | [Solace In Solitude](https://open.spotify.com/album/6ciVgd0syuPG2hOzA3wu6P) | 5:48 |
 | 2 | [Out The Light](https://open.spotify.com/track/0RLbMwI4Yxl9HPe42lxRd7) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Out The Light](https://open.spotify.com/album/4bpokh1FHd4HtG6sHYQM7w) | 3:52 |
-| 3 | [Dag Na Naamdag](https://open.spotify.com/track/5HGH0McByz0hX2JCnY70iu) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Dag Na Naamdag](https://open.spotify.com/album/7fsFzSqZ6awZxuoWgS8Byw) | 4:45 |
+| 3 | [Dag Na Naamdag](https://open.spotify.com/track/5exLlipto9rztxYRRZxdJS) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Smooch](https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL) | 4:45 |
 | 4 | [Alice](https://open.spotify.com/track/7IKA8BGPhbUlypRWFAHmXv) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:47 |
 | 5 | [Pickles](https://open.spotify.com/track/4Lu7Igq9s2nQ0af1RGqNfo) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Mixmaster Menno](https://open.spotify.com/artist/11sBV4HVBIdqHEV8oMOQIS) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 5:03 |
 | 6 | [How We'll Meet Tonight ?](https://open.spotify.com/track/3ao50dH6fEGQXKgZBlpQL1) | [WITVROUW](https://open.spotify.com/artist/2VkgYHdG7g57sHOZpEAy8x) | [WITVROUW](https://open.spotify.com/album/6oupqzhjk5i8ZZR7ISlgvd) | 7:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 99 | [Dolmuş](https://open.spotify.com/track/4zISl7UaVHs68agKCD0mQx) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Ekera EP](https://open.spotify.com/album/1pejB5j0hRJdIeenNSHiAX) | 5:52 |
 | 100 | [Grace Moment](https://open.spotify.com/track/7yzK4kdMW47v6CZUlScqFS) | [LG Jazz Collective](https://open.spotify.com/artist/4541P7mUvHtvsCPzy3Kg3F), [Guillaume Vierset](https://open.spotify.com/artist/00xZYrjS24ctWf6NcTEouF), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Laurent Barbier](https://open.spotify.com/artist/0QCzBAzR6DtGNvcO3suNK1), [Igor Gehenot](https://open.spotify.com/artist/4ucTplSqtePlPxNywuOf6p), [Félix Zurstrassen](https://open.spotify.com/artist/46btcyGzJKO2Y24kOhelTP), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [New Feel](https://open.spotify.com/album/2db4S9KTfkAEh5Wkhff0wH) | 6:52 |
 
-Snapshot ID: `MTY3MTE5ODAzOSwwMDAwMDAwMDcxYTExNGM2NGJkZDY1NjIxMDRmYzhiOTY3NDA1YzNh`
+Snapshot ID: `MTY3MTE5ODAzOSwwMDAwMDAwMDNiNzdkY2IzZDQzNDBkYzI3ZDY0MDZhMTQ0NjVmMDc2`

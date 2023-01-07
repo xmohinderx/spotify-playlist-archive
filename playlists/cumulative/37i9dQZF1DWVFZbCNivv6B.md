@@ -4,7 +4,7 @@
 
 > Hip\-hop mexicano, rimas de la calle, en voz de Aczino y Yoiker.
 
-249 songs - 14 hr 52 min
+250 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Dime por Que](https://open.spotify.com/track/2ZwfVs3itgHUgfmQpeQSuM) | [La Bestia](https://open.spotify.com/artist/2I8hlGzbnZKwkCg1EicEdG), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Dime por Que](https://open.spotify.com/album/1bCige5dbCB7PDqCKNc2Wd) | 3:04 | 2022-03-11 | 2022-04-29 |
 | [Dios y La Muerte](https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Dios y La Muerte](https://open.spotify.com/album/1R8MDUqb1IWHf8ilwNQRGe) | 2:52 | 2022-03-25 | 2022-05-07 |
 | [Don Quijote](https://open.spotify.com/track/76IsXl3qjqwdi0i5T7JlYj) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Don Quijote](https://open.spotify.com/album/1kaqwJoaGilRwKnrJ5wjv6) | 2:42 | 2022-03-04 |  |
-| [El Día de Nuestra Suerte](https://open.spotify.com/track/3mRNhbCKWupqs2F6VwFUMu) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [El Día de Nuestra Suerte](https://open.spotify.com/album/1OX990RQ1SpGmMyDFVUKoK) | 4:01 | 2022-09-02 |  |
+| [El Día de Nuestra Suerte](https://open.spotify.com/track/3mRNhbCKWupqs2F6VwFUMu) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [El Día de Nuestra Suerte](https://open.spotify.com/album/1OX990RQ1SpGmMyDFVUKoK) | 4:01 | 2022-09-02 | 2023-01-07 |
 | [El G.O.A.T.](https://open.spotify.com/track/0gsXBDtQMWBJPpl58X2fNO) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [El G.O.A.T.](https://open.spotify.com/album/1qI8dDPrB4jO8JmfPigBBC) | 4:15 | 2022-03-29 | 2022-11-19 |
 | [El Hood de los 27](https://open.spotify.com/track/1cXMm24SEr2PzJkq5uairg) | [Jony Beltran](https://open.spotify.com/artist/7nN4ORhj5Mi3tgU9IwQrFv), [ALWAYZ BROKEN](https://open.spotify.com/artist/3Tr2fGGPA0lil0SoaRd5vV) | [El Hood de los 27](https://open.spotify.com/album/2ve0b51md3YWkcn7is9BcT) | 2:57 | 2022-05-13 | 2022-06-04 |
 | [El Más Bravo](https://open.spotify.com/track/1QQ6K5mb0giE4PrY9t46Rm) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [El Más Bravo](https://open.spotify.com/album/2WqwLDhHE0t1by83OFH6Ny) | 3:06 | 2022-07-29 |  |
@@ -118,6 +118,7 @@
 | [Lalo](https://open.spotify.com/track/7odIaBva786qcMRWMFOMyN) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9), [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm) | [Lalo](https://open.spotify.com/album/0OAnSKzxYVmBomnWpOpNaV) | 3:45 | 2022-04-22 | 2022-06-26 |
 | [Las Teclas del Piano](https://open.spotify.com/track/5nLVYMDn2Lnw9pSmNfG1bG) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Las Teclas del Piano](https://open.spotify.com/album/1S6vf8czPjIQvTdArSHHDb) | 3:03 | 2022-04-29 |  |
 | [Lejos de Ti](https://open.spotify.com/track/5B26ba8DVAD18tstVEwcOW) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Lejos de Ti](https://open.spotify.com/album/1dWLpH4Z7QFzSTyjEM5WIi) | 3:40 | 2022-08-12 | 2022-12-17 |
+| [Lick \(Remix\)](https://open.spotify.com/track/54kYF5NYsTBs1XDTh0czQ4) | [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo), [Phul King Fu](https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3) | [Lick \(Remix\)](https://open.spotify.com/album/4es9EtTbWRJEyKwJLNGu8N) | 2:19 | 2023-01-07 |  |
 | [Llamada Perdida](https://open.spotify.com/track/77fKFQdg5ZRrjHbFtA044x) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Llamada Perdida](https://open.spotify.com/album/52xAByT5B6D2veb96DzSaa) | 3:38 | 2022-05-20 | 2022-10-15 |
 | [Llegue Pa Hacer Billetes](https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Oregel](https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO) | [Llegue Pa Hacer Billetes](https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt) | 3:31 | 2022-03-04 | 2022-10-08 |
 | [Llevo La Cuenta](https://open.spotify.com/track/6YyQLStdLZXICZ6ktWcmrd) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Neblinna](https://open.spotify.com/artist/7H0rcOJgD1nrdMrH9cdHmL) | [Llevo La Cuenta](https://open.spotify.com/album/6dXeVFktqkG6Eqt1GssH5w) | 3:03 | 2022-01-28 | 2022-03-26 |

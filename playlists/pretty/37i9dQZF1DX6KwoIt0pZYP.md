@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,253 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,371 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [bayou](https://open.spotify.com/track/4b4qQm1jizKxQOmHzdUJIR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [bayou](https://open.spotify.com/album/6JUOEOgX7p42TQyvczGMKm) | 3:49 |
 | 2 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
-| 3 | [Imagine \(feat\. Jackson Wang & Tablo\)](https://open.spotify.com/track/5dREBNCLW6fqkY3y3KYRBq) | [boytoy](https://open.spotify.com/artist/06zgs9qixZMQVu8gthU5Du), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Imagine](https://open.spotify.com/album/70DJv18tilsaym8dGXCMiV) | 2:32 |
+| 3 | [Imagine \(feat\. Jackson Wang & Tablo\)](https://open.spotify.com/track/5dREBNCLW6fqkY3y3KYRBq) | [BOYTOY](https://open.spotify.com/artist/06zgs9qixZMQVu8gthU5Du), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Imagine](https://open.spotify.com/album/70DJv18tilsaym8dGXCMiV) | 2:32 |
 | 4 | [Who Is It](https://open.spotify.com/track/6rjEtr5eXC89xTntU4PLfo) | [Lady Owl](https://open.spotify.com/artist/2EYRLiZZ9961wOJ823Sl6b) | [Who Is It](https://open.spotify.com/album/1Txsqze4gWVZIbV6zopjkK) | 3:21 |
 | 5 | [I Lost Me](https://open.spotify.com/track/0Q0CLCNClkMzKPZblMowcR) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [I Lost Me](https://open.spotify.com/album/4rDpW6sX82tXfGn3KIFJtl) | 3:19 |
 | 6 | [Orbit](https://open.spotify.com/track/7uRqQozkua10mFoPQSwdX4) | [VVYND](https://open.spotify.com/artist/0hDWNMM9BA6hluuxoqDWwQ) | [Orbit](https://open.spotify.com/album/2FdM9kSUb3x6JH9oB89UEa) | 4:43 |

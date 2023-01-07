@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Esperanza Spalding & Fred Hersch
 
-657 songs - 2 day 5 hr 7 min
+658 songs - 2 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Catá Surf](https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:55 | 2022-09-30 |  |
 | [Chacha Rom](https://open.spotify.com/track/3WWObGMpYifG6nwvQslmK8) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Chacha Rom](https://open.spotify.com/album/6hRtnGFtIzAlYh05Ehog4h) | 3:23 | 2022-03-18 | 2022-04-02 |
 | [Chandler](https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Chandler](https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8) | 3:41 | 2022-02-03 | 2022-05-07 |
-| [Changing Earth](https://open.spotify.com/track/2qcNwE8poqBYjjqgypWvte) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Changing Earth](https://open.spotify.com/album/7ItHCzSTvv8rxUN1S7NpZW) | 6:27 | 2022-11-11 |  |
+| [Changing Earth](https://open.spotify.com/track/0AaYGFqY18LiA6BCl7qdc5) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Changing Earth](https://open.spotify.com/album/0REJ2l75YDq5TBBtm79gJ3) | 6:27 | 2022-11-11 |  |
+| [Changing Earth](https://open.spotify.com/track/2qcNwE8poqBYjjqgypWvte) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Changing Earth](https://open.spotify.com/album/7ItHCzSTvv8rxUN1S7NpZW) | 6:27 | 2022-11-11 | 2023-01-07 |
 | [Chavez](https://open.spotify.com/track/0WWAz4f7p3q8ylSvt4hvVg) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Chavez](https://open.spotify.com/album/5yWMgkCnQelnExswN2RquW) | 4:19 | 2022-09-02 |  |
 | [Cheek to Cheek](https://open.spotify.com/track/5ayqfSRFRADRSG7rQYNhMg) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [Massimo Farao Plays the Great Jazz American Composers: Irving Berlin, Vol\. 2](https://open.spotify.com/album/7vFpTujOKVHFRIjom3BPlx) | 5:46 | 2022-10-28 | 2022-11-05 |
 | [Chem Dawg](https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Stimuli](https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt) | 2:24 | 2022-04-12 | 2022-06-18 |

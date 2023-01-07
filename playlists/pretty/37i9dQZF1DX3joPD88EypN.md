@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,243 likes - 100 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,282 likes - 100 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 90 | [9](https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu) | [Agnas Bros](https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp) | [Lycka till med musiken](https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL) | 9:04 |
 | 91 | [Svevende](https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Bobo Stenson Quartet](https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE) | [Jan Garbarek: Works](https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX) | 4:59 |
 | 92 | [Michelle](https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt) | [Olga Konkova](https://open.spotify.com/artist/30PGbIpb4NPhCSqtuGhUtS), [Carl Morten Iversen](https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq) | [Going with the Flow](https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC) | 8:51 |
-| 93 | [På gjensyn](https://open.spotify.com/track/3iix1vmZ38BObrSRUTUNbF) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ), [Jonas Kilmork Vemøy](https://open.spotify.com/artist/2V4iZGTDOkqbimRsSwIRe7) | [På gjensyn](https://open.spotify.com/album/3apCEklyPqvaDBKHSQ0B2W) | 6:07 |
+| 93 | [På gjensyn](https://open.spotify.com/track/3iix1vmZ38BObrSRUTUNbF) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ), [Jonas Kilmork Vemøy](https://open.spotify.com/artist/2V4iZGTDOkqbimRsSwIRe7) | [På gjensyn](https://open.spotify.com/album/3apCEklyPqvaDBKHSQ0B2W) | 6:07 |
 | 94 | [Polska efter Gil](https://open.spotify.com/track/1ZUlYNUVyJuzeVlSRBHOYj) | [Thomas Tidholm](https://open.spotify.com/artist/546D8gpuMz5DBN0i1V9vAx), [Jonas Knutsson](https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa) | [Orsa by Night](https://open.spotify.com/album/3ZBMz2uOIHTPBp4lyQY6Vg) | 3:32 |
 | 95 | [C Moll Maj](https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb) | [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Fredrik Ljungkvist](https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh) | [Parish](https://open.spotify.com/album/3qndY4buaSQpCck6szBaEA) | 5:52 |
 | 96 | [I Kirken](https://open.spotify.com/track/7sEygfTquCCu3h5wGsMJeF) | [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Bagland](https://open.spotify.com/artist/2keQ0ZJ8qgOTJte7PPBRzn) | [Cirkel](https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY) | 4:29 |

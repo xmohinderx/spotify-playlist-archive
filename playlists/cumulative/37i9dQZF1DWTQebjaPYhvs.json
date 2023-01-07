@@ -2084,7 +2084,7 @@
     {
       "album": {
         "name": "After the Fire",
-        "url": "https://open.spotify.com/album/7Cu0ei3sULRRyK21741f3H"
+        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
       },
       "artists": [
         {
@@ -2095,6 +2095,24 @@
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179295,
+      "name": "One Good Decision",
+      "url": "https://open.spotify.com/track/14vBZAB9XM4dk043qV4c7G"
+    },
+    {
+      "album": {
+        "name": "After the Fire",
+        "url": "https://open.spotify.com/album/7Cu0ei3sULRRyK21741f3H"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
       "duration_ms": 179295,
       "name": "One Good Decision",
       "url": "https://open.spotify.com/track/2DQOL9yHgq9OLTUhyHPKm3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,082 likes - 12 songs - 51 min 7 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,084 likes - 12 songs - 51 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 8 | [Estaciones Portenas: III\. Otono Porteno](https://open.spotify.com/track/00Qg9TB4o9MOHAhdcx3MI6) | [Markus Yiangou](https://open.spotify.com/artist/6tvTTpraljNDMkGwl4wPa3) | [Estaciones Portenas: III\. Otono Porteno](https://open.spotify.com/album/57MDuPRVYLZRE3spWooMGG) | 5:49 |
 | 9 | [Almost Infamous](https://open.spotify.com/track/39rB3HH5phZnXlzHCP1423) | [A Handful of Samie](https://open.spotify.com/artist/4YYJcKeMhC1IiQSGV1UFaG) | [Sidelined](https://open.spotify.com/album/2ejEJI341ivRziYG5DYqoY) | 4:01 |
 | 10 | [GIVE IT](https://open.spotify.com/track/5SoMVVjm4KGheDQxytIfj9) | [ALPHADOGG](https://open.spotify.com/artist/2jz0WVAN1oWOAqiZ5NDvGH) | [GIVE IT](https://open.spotify.com/album/5V1R6cp7Lz0xUuPRtWoxv5) | 5:22 |
-| 11 | [Enea's Song](https://open.spotify.com/track/7CUoUsFb2Z1tyIBL1WDddE) | [Joe Murphy](https://open.spotify.com/artist/1ef3Hci2lLaPRMUpIoDbfh) | [Enea's Song](https://open.spotify.com/album/4YtyZ4FBCOTjZu1bgyoktM) | 5:29 |
+| 11 | [Enea's Song](https://open.spotify.com/track/7CUoUsFb2Z1tyIBL1WDddE) | [Joe Murphy](https://open.spotify.com/artist/0Yv1IwvWKVvYs1RCClAEs7) | [Enea's Song](https://open.spotify.com/album/4YtyZ4FBCOTjZu1bgyoktM) | 5:29 |
 | 12 | [Another Simple Piece](https://open.spotify.com/track/4O7hpxDa2GM3NGd3MAx7uD) | [Philip Teale](https://open.spotify.com/artist/2LOJCmTE451qciJEBjGqqi) | [Another Simple Piece](https://open.spotify.com/album/0SEbGLy9orItBwf8Gr0hWI) | 9:42 |
 
 Snapshot ID: `NzA3LDgzNTNiMzEyY2I5ODViYWFkMjEwYTM2OTMzNjYzOTRlZjRiODgxNTY=`

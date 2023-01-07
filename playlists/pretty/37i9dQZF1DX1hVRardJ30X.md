@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Alejandro Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,232 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,294 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 22 | [Consuelo](https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Consuelo](https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO) | 2:44 |
 | 23 | [Rabia \- live desde el baño](https://open.spotify.com/track/6q95mECCjlhtEDU8RTEQXE) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Rabia \(live desde el baño\)](https://open.spotify.com/album/1tOcozkhnsQK5WUmsmCfEP) | 4:35 |
 | 24 | [Inevitable](https://open.spotify.com/track/4uo1iT4uJGQuFkRg4u6pxy) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Lennex](https://open.spotify.com/artist/6RkIbkZ0l0eVN3SGqr1aHy) | [Inevitable](https://open.spotify.com/album/2zXK4ehjncv8rG32D2aYVG) | 2:06 |
-| 25 | [Calavera](https://open.spotify.com/track/65MY5BBpK8DVDiXe5XmQm0) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Awesome Pierre](https://open.spotify.com/artist/2IlkzkYDuYr853yLaUykVa) | [Calavera](https://open.spotify.com/album/5LJohchCwSt9WdEF7H2A9K) | 2:38 |
+| 25 | [Calavera](https://open.spotify.com/track/65MY5BBpK8DVDiXe5XmQm0) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Calavera](https://open.spotify.com/album/5LJohchCwSt9WdEF7H2A9K) | 2:38 |
 | 26 | [Otro Millón](https://open.spotify.com/track/2j0CA3TrxQ78vAVMTBdcNV) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Otro Millón](https://open.spotify.com/album/0CNz1mTF0VWhhUdPF2ZEHf) | 2:36 |
 | 27 | [Ingrata](https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Ingrata](https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b) | 3:34 |
 | 28 | [PR Sessions \#4](https://open.spotify.com/track/6dYUROj5Z5EV6PNOPUprhF) | [Panchito Records](https://open.spotify.com/artist/6U1nvY2YuhmVZ96Af8K6qb), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [PR Sessions \#4](https://open.spotify.com/album/4Ru3IxuOccecbtIEvDxMEF) | 2:28 |

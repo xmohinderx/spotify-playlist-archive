@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-252 songs - 20 hr 30 min
+253 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2021-11-12 | 2022-06-18 |
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2021-11-12 | 2022-11-26 |
 | [Caballerango](https://open.spotify.com/track/5k8NaRExvqn0ob1MrvU8Kf) | [Dorotheo](https://open.spotify.com/artist/7Bqd6UDHfc6xlAC4nOmITW) | [Caballerango](https://open.spotify.com/album/1X3BkJvSoJehqCpxpb3B6V) | 4:25 | 2021-11-12 | 2022-07-29 |
+| [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 | 2023-01-07 |  |
 | [Cardboard Pile](https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Cardboard Pile](https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x) | 4:06 | 2022-04-12 | 2022-07-29 |
 | [Catatumbo Lightnings](https://open.spotify.com/track/4oxgLPTh8G6keUBjmMm6ey) | [Marie Byrd Land Band](https://open.spotify.com/artist/1qfKVN8ef3WUy7OU08YvYu) | [Lost Lands](https://open.spotify.com/album/00WN8FG1ICNDQlK3kvF1KV) | 4:15 | 2021-11-12 | 2022-07-24 |
 | [Changing Faces](https://open.spotify.com/track/329NblipbfswPVKLsA8ljD) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr) | [Panoramas](https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW) | 4:30 | 2021-11-12 | 2022-07-25 |
@@ -259,6 +260,6 @@
 | [Yègellé Tezeta](https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 3:14 | 2021-11-12 |  |
 | [Zeppelin](https://open.spotify.com/track/2pKX8ad4udW2XIbka2P3fe) | [Aladin Fox](https://open.spotify.com/artist/1vl07Fu7VoBoAQQwtg490l) | [Aladin Fox](https://open.spotify.com/album/39ubZMkaMKwvNTnPLkmArp) | 2:33 | 2022-07-01 | 2022-08-04 |
 | [Çarşambayı Sel Aldı](https://open.spotify.com/track/4Rvx92J5G9D840uqgZiLvD) | [Mustafa Özkent](https://open.spotify.com/artist/7AIG5iIr8bQomw1pGrwZZ4) | [Mustafa Özkent Ve Orkestrası Gençlik İle El Ele](https://open.spotify.com/album/3bnqPaNk1lbje5XwhZuPwz) | 2:18 | 2021-11-12 | 2022-07-25 |
-| [新常態](https://open.spotify.com/track/1MEWYQi6lFbpsvwrFrAGSn) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [新常態](https://open.spotify.com/album/0gJn9nbQwbyKyRTQ7mrFN5) | 2:49 | 2022-11-25 |  |
+| [新常態](https://open.spotify.com/track/1MEWYQi6lFbpsvwrFrAGSn) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [新常態](https://open.spotify.com/album/0gJn9nbQwbyKyRTQ7mrFN5) | 2:49 | 2022-11-25 | 2023-01-07 |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

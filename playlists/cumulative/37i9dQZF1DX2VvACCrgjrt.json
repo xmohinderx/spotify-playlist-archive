@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 140481,
       "name": "dashstar* - VIP",
       "url": "https://open.spotify.com/track/0zXiTthYKCfvfwixJdn92o"
@@ -2406,6 +2406,24 @@
       "duration_ms": 161250,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/2rERUk5OXyi7VClesHrjHO"
+    },
+    {
+      "album": {
+        "name": "First Come First Serve",
+        "url": "https://open.spotify.com/album/7Ckl7E8xJBToX27jtyCG6B"
+      },
+      "artists": [
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153095,
+      "name": "First Come First Serve",
+      "url": "https://open.spotify.com/track/0MbPkhaP4qBbq1c4SHpJJJ"
     },
     {
       "album": {

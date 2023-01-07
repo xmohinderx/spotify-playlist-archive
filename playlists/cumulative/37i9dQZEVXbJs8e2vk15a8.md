@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-692 songs - 1 day 14 hr 35 min
+693 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,7 @@
 | [Malibu](https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Malibu](https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV) | 2:40 | 2022-12-07 | 2022-12-28 |
 | [Mama, Mamá \- Live](https://open.spotify.com/track/4ZLzNRSDGs92UMTbVCuFCQ) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nocheros En Vivo En El Teatro Colon](https://open.spotify.com/album/5c5rnMWFpAT7DBJqmMRa4H) | 4:20 | 2022-05-10 | 2022-05-16 |
 | [Mambito de Barrio](https://open.spotify.com/track/2LaGVeFsDC3vh4ZwQxk49S) | [La Fixapilar](https://open.spotify.com/artist/7xoejOm41TzsFey5bcHFCm), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [Mambito de Barrio](https://open.spotify.com/album/3liRGQdRxIkZO5oeQ9Pfl4) | 2:40 | 2022-06-14 | 2022-07-16 |
-| [Mami](https://open.spotify.com/track/1tXVug1wyAf0shcMwutc1E) | [3L J0RD4N 23](https://open.spotify.com/artist/0VfQFqNU4JGZR0RHBjREZ9) | [Mami](https://open.spotify.com/album/287WdQN5UXDU8EzSJ4EnNF) | 2:42 | 2023-01-03 |  |
+| [Mami](https://open.spotify.com/track/1tXVug1wyAf0shcMwutc1E) | [3L J0RD4N 23](https://open.spotify.com/artist/0VfQFqNU4JGZR0RHBjREZ9) | [Mami](https://open.spotify.com/album/287WdQN5UXDU8EzSJ4EnNF) | 2:42 | 2023-01-03 | 2023-01-07 |
 | [Mandame Tu Ubi](https://open.spotify.com/track/7wGy7XfvDC7PRNtMQkHVuN) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Mandame Tu Ubi](https://open.spotify.com/album/45WA13uv01wbAKWnRtUTKJ) | 1:59 | 2022-12-27 |  |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-04-15 | 2022-04-27 |
 | [MARIMBA GRINGA](https://open.spotify.com/track/7KI6CvvTqXCuENTM6xJ3dX) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [MARIMBA GRINGA](https://open.spotify.com/album/3nF9LhqFqL6EL1HnwTxWlS) | 3:05 | 2022-05-17 | 2022-05-25 |
@@ -612,7 +612,8 @@
 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 | 2022-10-04 | 2022-10-09 |
 | [This Is Halloween](https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI) | [Disney Characters](https://open.spotify.com/artist/6utdPEv71mR0DnGp74cJIz) | [Nightmare Before Christmas](https://open.spotify.com/album/2qmppQg4IgJRMFbWuwQLw7) | 3:16 | 2022-10-30 | 2022-11-09 |
 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 | 2022-05-08 | 2022-05-10 |
-| [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2022-09-28 |  |
+| [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2022-09-28 | 2023-01-07 |
+| [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-01-07 |  |
 | [Titles](https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:33 | 2022-05-22 | 2022-05-28 |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-05-31 | 2022-08-15 |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-04-15 | 2022-05-19 |
@@ -655,7 +656,7 @@
 | [V16](https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz) | 1:59 | 2022-07-13 | 2022-09-24 |
 | [V16](https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/3n9q8bCGPtABazor6UhzlG) | 1:59 | 2022-09-23 | 2022-10-02 |
 | [V16](https://open.spotify.com/track/2QX7eHuJcD64acIvmBQeC7) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/0AOhyCpui1osblqrN7ilok) | 1:59 | 2022-09-12 | 2022-09-18 |
-| [Valores del West](https://open.spotify.com/track/2Sew64sMxc38FtKHXVkkne) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Foking](https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm) | [Valores del West](https://open.spotify.com/album/7CPPXRgCWXWTEWX2FEgTSM) | 3:22 | 2022-12-29 | 2023-01-07 |
+| [Valores del West](https://open.spotify.com/track/2Sew64sMxc38FtKHXVkkne) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Foking](https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm) | [Valores del West](https://open.spotify.com/album/7CPPXRgCWXWTEWX2FEgTSM) | 3:22 | 2022-12-29 |  |
 | [Vegas \(I Wanna Ride\)](https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5) | [Joseline Hernandez](https://open.spotify.com/artist/2PRMdXcZ3cQu57agSO2zDn) | [Vegas \(I Wanna Ride\)](https://open.spotify.com/album/0Jjnv5tSd8p8HW7PCwSiHa) | 3:40 | 2022-05-08 | 2022-06-01 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-07-02 | 2022-07-07 |
 | [VENENO](https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:33 | 2022-12-20 | 2022-12-28 |

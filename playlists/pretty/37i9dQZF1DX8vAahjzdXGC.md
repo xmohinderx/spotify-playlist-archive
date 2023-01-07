@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Soegi Bornean
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,986 likes - 53 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,989 likes - 53 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 11 | [Glass](https://open.spotify.com/track/3kw6y6iKeyVX2JUqwdp7cj) | [Chriselda](https://open.spotify.com/artist/2U9rPOlR5Osiq6sRuL0dSr) | [Glass](https://open.spotify.com/album/3Jf9qj802fXyKNLhFr6oQs) | 3:48 |
 | 12 | [Jika Dia](https://open.spotify.com/track/04un5sP1aQs3AzZxBIOdIs) | [Flavio Zaviera](https://open.spotify.com/artist/2OKFdBQsZWBBFH6mSqO0D9) | [Jika Dia](https://open.spotify.com/album/3Fqu3KeAE4UupO6oTwiV36) | 3:36 |
 | 13 | [Hancur Hatiku](https://open.spotify.com/track/7H79DeRXKgB36PSsrk13zl) | [Athalia Aubry](https://open.spotify.com/artist/1nvjmdA4ykPbBaugEyzYB3) | [Athalia Aubry](https://open.spotify.com/album/7bg22SPoGKHe71kPmqPT1v) | 4:10 |
-| 14 | [Imagine \(feat\. Jackson Wang & Tablo\)](https://open.spotify.com/track/5dREBNCLW6fqkY3y3KYRBq) | [boytoy](https://open.spotify.com/artist/06zgs9qixZMQVu8gthU5Du), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Imagine](https://open.spotify.com/album/70DJv18tilsaym8dGXCMiV) | 2:32 |
+| 14 | [Imagine \(feat\. Jackson Wang & Tablo\)](https://open.spotify.com/track/5dREBNCLW6fqkY3y3KYRBq) | [BOYTOY](https://open.spotify.com/artist/06zgs9qixZMQVu8gthU5Du), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Imagine](https://open.spotify.com/album/70DJv18tilsaym8dGXCMiV) | 2:32 |
 | 15 | [bayou](https://open.spotify.com/track/4b4qQm1jizKxQOmHzdUJIR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [bayou](https://open.spotify.com/album/6JUOEOgX7p42TQyvczGMKm) | 3:49 |
 | 16 | [Madness](https://open.spotify.com/track/7n21DchMhEHga46iMecQHW) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [INCENSE](https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z) | 2:57 |
 | 17 | [Ponytail \(Feat\. Sik\-K\)](https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Ponytail](https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0) | 3:25 |

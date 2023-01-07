@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 370039,
+  "num_followers": 370548,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQyOTgzNywwMDAwMDAwMDJlNzY0MzYwZGU2Y2JjZjQ3MDUyYzMxZGJkMGU1ZmFm",
+  "snapshot_id": "MTY2MTQyOTgzNywwMDAwMDAwMDU3MTAxYzAzYzRhZmYxZjI3ODJmMDdkODE0ZDI2NTJh",
   "tracks": [
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 202661,
+      "name": "Not Nice",
+      "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/1dRkctmEH6bGNEo3m8nVal"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 206106,
       "name": "Trick Me - Club Mix",
       "url": "https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "PARTYNEXTDOOR 3 (P3)",
-        "url": "https://open.spotify.com/album/7wuiHCscUN4WZV4jdLEFHt"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 202661,
-      "name": "Not Nice",
-      "url": "https://open.spotify.com/track/1nepx6kDPFlkhUaSYaorbc"
     },
     {
       "added_at": "2022-08-02 10:25:51",

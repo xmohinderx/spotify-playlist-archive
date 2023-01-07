@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring French Montana, Real Boston Richey and more\. Cover: Youngboy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,187 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,333 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 13 | [WOP](https://open.spotify.com/track/0M0pqpXxzPDstdL7ESgrTr) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [WOP](https://open.spotify.com/album/1bdrnZV4O1Oa455LLV2pug) | 3:22 |
 | 14 | [Neighborhood Trapstars](https://open.spotify.com/track/7zXZQEkHUclAqRTJXLIip4) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Neighborhood Trapstars](https://open.spotify.com/album/1MiESrjwiTznQNnptHeaDD) | 2:33 |
 | 15 | [Groovy](https://open.spotify.com/track/6lO1vt2ipUxh1bmxK8cR2s) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Groovy](https://open.spotify.com/album/2OeKQdJREBGjuX94QL0MfY) | 3:10 |
-| 16 | [Win For Losin](https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Win For Losin](https://open.spotify.com/album/4QyUbGbGyn1725sRukfZ9P) | 1:55 |
+| 16 | [Win For Losin](https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Win For Losin](https://open.spotify.com/album/4QyUbGbGyn1725sRukfZ9P) | 1:56 |
 | 17 | [Bruce lee \(feat\. Xhulooo\)](https://open.spotify.com/track/1gCqbCM6zZG8gapl5yF3bs) | [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [ONLY ONE](https://open.spotify.com/album/5qocotft3C4USMvQA7Jgge) | 2:28 |
 | 18 | [Don't Love Me Now \(feat\. charlieonnafriday\)](https://open.spotify.com/track/1uWHol8i8GaYEDFq2MsH1p) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Don't Love Me Now \(feat\. charlieonnafriday\)](https://open.spotify.com/album/0pXAMS6EMJqb8mKIvQhxKd) | 2:02 |
 | 19 | [Pull Up \(feat\. Brezay\)](https://open.spotify.com/track/3sgs88draqbNzrvKZYmcJW) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g), [Brezay](https://open.spotify.com/artist/1KRxSx5j4fjxss8cqhMWud) | [Pull Up \(feat\. Brezay\)](https://open.spotify.com/album/5w8jRxeZBOyKGc8bTkAFdC) | 2:27 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 22 | [\#NeverDrinkingAgain](https://open.spotify.com/track/6V6qKLDO7jSA4Vh6tDfScL) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [\#NeverDrinkingAgain](https://open.spotify.com/album/0LTBVBoCdL2FSGJIPvqKc8) | 3:01 |
 | 23 | [Love For The Streets](https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Paper Route Frank](https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S) | 3:06 |
 | 24 | [2016](https://open.spotify.com/track/1tpUBwq7Osr0rmiMqbF6Cn) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Same Ole Bizzy](https://open.spotify.com/album/0mhAJL1Zjj4kctvZm1TnYs) | 2:42 |
-| 25 | [On Site](https://open.spotify.com/track/307uhx5f7E58E7VyRVcQ3l) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [On Site](https://open.spotify.com/album/3cmKBck5FWFNrJbgtyVQLn) | 3:08 |
+| 25 | [On Site](https://open.spotify.com/track/307uhx5f7E58E7VyRVcQ3l) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [On Site](https://open.spotify.com/album/3cmKBck5FWFNrJbgtyVQLn) | 3:09 |
 | 26 | [Back Flippin](https://open.spotify.com/track/112f64x3xitpDPHfr98T01) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Back Flippin](https://open.spotify.com/album/3GvwZRsUVRxwjdBW1B05VY) | 2:22 |
 | 27 | [Score Or Die](https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs) | [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG) | [Score Or Die](https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8) | 2:43 |
 | 28 | [No More Friends](https://open.spotify.com/track/2kMuUWfsueRPYWxyaTSHd8) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [No More Friends](https://open.spotify.com/album/1SFwQzKhMvB5rPmXpeRvYl) | 2:01 |

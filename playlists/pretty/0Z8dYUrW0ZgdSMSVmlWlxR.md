@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 44,837 likes - 271 songs - 13 hr 14 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 44,913 likes - 271 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 11 | [TECHNO KILLA](https://open.spotify.com/track/5kr9HU28PSpkmQZ6z9Z1Mx) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [TECHNO KILLA](https://open.spotify.com/album/5SLohcmYkWYidTWBEY2XmW) | 2:10 |
 | 12 | [Akudama](https://open.spotify.com/track/3coeo9H305LiuDbXXn9ANe) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [A Quiet Place to Die](https://open.spotify.com/album/5lhJd031Bu6j42O8wnXWIc) | 2:37 |
 | 13 | [depression](https://open.spotify.com/track/1CQ1zKCOIxzBwYbzgmoedT) | [Tatli](https://open.spotify.com/artist/0Nn1YLqJpJVzJ5B21JWpLA) | [depression](https://open.spotify.com/album/6A1Tef2LbeQMTacqqRb4YL) | 2:19 |
-| 14 | [You Say Run Hardstyle](https://open.spotify.com/track/36b1CvA95dO0U7PfWJnH4T) | [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU), [AniLifts](https://open.spotify.com/artist/3u5NpLsIdNfTcvOTRGD5CR) | [You Say Run Hardstyle](https://open.spotify.com/album/3RIj3ubbPK214b2U1JLxAd) | 3:47 |
-| 15 | [MANTIS](https://open.spotify.com/track/0g3ngZIy6cinQ2YIVtxw3p) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [MANTIS](https://open.spotify.com/album/3Ogtpz0hNARPSfCjgcZ0Nz) | 1:56 |
-| 16 | [BANKAI SHUNSUI X KISUKE \(PHONK\)](https://open.spotify.com/track/4wmpTWw8iNpSaY4IQ1CUyo) | [Icykiddo](https://open.spotify.com/artist/5YLACC1ibBKtmZjBY0RP0S) | [BANKAI SHUNSUI X KISUKE \(PHONK\)](https://open.spotify.com/album/517ALtIg1FJ9Dtc0lnQv47) | 3:12 |
-| 17 | [EGO DEATH](https://open.spotify.com/track/40V52HOWmhTvAZYB5eE6gy) | [Kill AZYN](https://open.spotify.com/artist/0T0eVH9e9gmiV612cqUA3y) | [EGO DEATH](https://open.spotify.com/album/6CgeVgtXhMRr2I0eafirhj) | 1:13 |
-| 18 | [Ya Tebya ne otdam!](https://open.spotify.com/track/0fOukrzq6Bk4kQdzKjVaot) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [Ya Tebya ne otdam!](https://open.spotify.com/album/6WXpBCYdhp7zq7IbnuNCMR) | 3:41 |
+| 14 | [BANKAI SHUNSUI X KISUKE \(PHONK\)](https://open.spotify.com/track/4wmpTWw8iNpSaY4IQ1CUyo) | [Icykiddo](https://open.spotify.com/artist/5YLACC1ibBKtmZjBY0RP0S) | [BANKAI SHUNSUI X KISUKE \(PHONK\)](https://open.spotify.com/album/517ALtIg1FJ9Dtc0lnQv47) | 3:12 |
+| 15 | [EGO DEATH](https://open.spotify.com/track/40V52HOWmhTvAZYB5eE6gy) | [Kill AZYN](https://open.spotify.com/artist/0T0eVH9e9gmiV612cqUA3y) | [EGO DEATH](https://open.spotify.com/album/6CgeVgtXhMRr2I0eafirhj) | 1:13 |
+| 16 | [Ya Tebya ne otdam!](https://open.spotify.com/track/0fOukrzq6Bk4kQdzKjVaot) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [Ya Tebya ne otdam!](https://open.spotify.com/album/6WXpBCYdhp7zq7IbnuNCMR) | 3:41 |
+| 17 | [MANTIS](https://open.spotify.com/track/0g3ngZIy6cinQ2YIVtxw3p) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [MANTIS](https://open.spotify.com/album/3Ogtpz0hNARPSfCjgcZ0Nz) | 1:56 |
+| 18 | [Alucard](https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo) | [Manny Force](https://open.spotify.com/artist/2Jv94ffHaw54qIhVAQp7KU), [Gravity in Space](https://open.spotify.com/artist/3R4wOxBYTNKIw48JzCFLIZ), [ONIEIGHT](https://open.spotify.com/artist/5rVuLxCcmw7Wu7rZljefdq) | [Alucard](https://open.spotify.com/album/7mgmq6iPdy9wU5Fq400Ho2) | 2:08 |
 | 19 | [BUTCHER](https://open.spotify.com/track/41gTOrNwEzYbAy3bvdOcIY) | [CURSEDEVIL](https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt), [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [BUTCHER](https://open.spotify.com/album/7MVI1AMHeV7f4h09n6ImAP) | 2:21 |
 | 20 | [Hueco Mundo](https://open.spotify.com/track/4T1G8crupaEsEa0EaBVcBW) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [Hueco Mundo](https://open.spotify.com/album/6QEfOqH7eba2ONFv86xcEo) | 2:19 |
 | 21 | [骸Attack!!](https://open.spotify.com/track/61h5b9EVrcZWg1Fnc1DC88) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX) | [GREATEST SHITS](https://open.spotify.com/album/0irA7x2SBgb2PbCUhK5tMK) | 3:53 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 270 | [ADSR](https://open.spotify.com/track/0CBw2LuhpttdZJs2ICrnlS) | [Jigokü](https://open.spotify.com/artist/5GjXaxXdUpnbmqp5woEoNn) | [ADSR](https://open.spotify.com/album/5EkbfMQqa0QKBIZ1P3ZXd3) | 3:57 |
 | 271 | [Just Dance \(Nightcore\)](https://open.spotify.com/track/4mhq2n7c3pRzUIByyZTWHb) | [Syrex](https://open.spotify.com/artist/1LpsDU7OK8dBh49zmydzft) | [Nightcore Gaming Music Vol\. 3](https://open.spotify.com/album/1dB3iy9PJsjzFqpVUPmzQO) | 2:19 |
 
-Snapshot ID: `MzY3OCxhZGVjYjYxZTZkZjI1MWUyZmJmYTc1ODQ5ZmIwMmQzZDdkMzA5Njky`
+Snapshot ID: `MzY4NCwzMzExMDcyMjgxODA0YmVlMjEyYzlmMWNkMjY2NTA0OGZiZjg5NzM5`

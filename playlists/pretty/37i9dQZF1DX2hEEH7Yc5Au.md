@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 陳忻玥 \(Vicky Chen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,659 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,684 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 9 | [一周的朋友 \- 電影《一周的朋友》主題曲](https://open.spotify.com/track/4YROtR4blPL5jWPlha52fJ) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [一周的朋友 \(電影《一周的朋友》主題曲\)](https://open.spotify.com/album/2Ef4YcXyvgMRJRul0Rx8YA) | 4:34 |
 | 10 | [最好的時光](https://open.spotify.com/track/0eFRk9wgFPxg6iXhDjvGAo) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:55 |
 | 11 | [明月光](https://open.spotify.com/track/7BsWm9wrOfjqyV6ojsCilJ) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [明月光](https://open.spotify.com/album/6GA4tIWoZVVcs3ZlKi0jnf) | 4:23 |
-| 12 | [​After After Party](https://open.spotify.com/track/28QjNM7gRwDSsliaQYrC6c) | [傻子與白痴](https://open.spotify.com/artist/4rk0xYl7t3XftIQQedJjK4), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [​After After Party](https://open.spotify.com/album/5HygB9de8IN8RX2HTfwZfK) | 4:21 |
+| 12 | [​After After Party](https://open.spotify.com/track/28QjNM7gRwDSsliaQYrC6c) | [傻子與白痴](https://open.spotify.com/artist/4rk0xYl7t3XftIQQedJjK4), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [​After After Party](https://open.spotify.com/album/5HygB9de8IN8RX2HTfwZfK) | 4:20 |
 | 13 | [想和你看五月的晚霞](https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:53 |
 | 14 | [夢中的情話](https://open.spotify.com/track/0mDynC7lAwQyeXevpyDwhV) | [Jody Chiang](https://open.spotify.com/artist/3jPL2UtbCi2DuvuK2dolR6), [A\-do](https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz) | [紅線](https://open.spotify.com/album/7crq4vPVpF4L8WZNxShgul) | 4:49 |
 | 15 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 |

@@ -4,7 +4,7 @@
 
 > 150%
 
-139 songs - 5 hr 52 min
+140 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2022-06-09 |  |
 | [Gangsta \(Kehlani\) \- Sped Up Version](https://open.spotify.com/track/4Z7ZOrHtlgn9kXw68c0pMo) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Gangsta \(Kehlani\) \[Sped Up Version\]](https://open.spotify.com/album/1L1jza2QSImCzOkQq7f5mO) | 2:12 | 2022-09-21 |  |
 | [GigaChad Theme \(Phonk House Version\) \- Sped Up](https://open.spotify.com/track/23Ax0HD24WJH0GALIsqZ8H) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\) \[Sped Up\]](https://open.spotify.com/album/6Jefxs4gSTv2abmn3TbqWK) | 2:02 | 2022-10-25 |  |
-| [Gilded Lily \- Sped Up](https://open.spotify.com/track/5fqusHbZRDZrLikLiFwWTq) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt) | 3:12 | 2022-10-31 |  |
+| [Gilded Lily \- Sped Up](https://open.spotify.com/track/0M6urYKXizSJgtuipqmctu) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:12 | 2022-11-15 |  |
+| [Gilded Lily \- Sped Up](https://open.spotify.com/track/5fqusHbZRDZrLikLiFwWTq) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt) | 3:12 | 2022-10-31 | 2023-01-07 |
 | [girls like me don't cry \(sped up\)](https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 2:44 | 2022-12-16 |  |
 | [go \- Higher & Faster](https://open.spotify.com/track/3KQfm7tt72I1Bv0umREOvi) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go \(Higher & Faster\)](https://open.spotify.com/album/4AYcD9XP7uY260D49LoQU6) | 2:51 | 2022-06-09 | 2022-08-23 |
 | [go \- Higher & Faster](https://open.spotify.com/track/4wOcRUtnpp75EEYUPkRPeY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 2:51 | 2022-06-24 | 2022-12-14 |
