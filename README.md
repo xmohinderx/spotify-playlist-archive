@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5399\)
+## Playlists \(5400\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -1772,6 +1772,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Golden Era Focus](/playlists/pretty/37i9dQZF1DX45qfzFXwcta.md)
 - [Golden Ghazals](/playlists/pretty/37i9dQZF1DXdsiL9gD4vAA.md)
 - [Golden Instrumentals](/playlists/pretty/37i9dQZF1DXdlhitnpe6FT.md)
+- [Gomigli deişik amogus](/playlists/pretty/4A3rC4WqAr1Mk5TI21QGkm.md)
 - [Gone Abroad](/playlists/pretty/37i9dQZF1DXcd9T7p9UGiW.md)
 - [Good Father](/playlists/pretty/37i9dQZF1DX3RkXiUJ5aMs.md)
 - [Good Feeling 00s](/playlists/pretty/37i9dQZF1DX21sNa02ZMU9.md)
