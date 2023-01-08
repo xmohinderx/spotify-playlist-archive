@@ -4,7 +4,7 @@
 
 > We hear you.
 
-529 songs - 1 day 2 hr 13 min
+530 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 | 2022-05-25 | 2022-10-15 |
 | [Black Dress](https://open.spotify.com/track/5zB8z2lhlHDEADHqgIkNYo) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Black Dress](https://open.spotify.com/album/2v8YgVuGZY0k00k0Q8mfZE) | 2:32 | 2021-06-25 | 2022-05-24 |
 | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/track/1x6xmj2HRJDYJB94sgzkpp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/album/3t7PD8kmLJdX3rLGwxmwT1) | 2:21 | 2021-11-19 | 2022-07-29 |
+| [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 | 2023-01-06 |  |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-09-20 | 2022-05-21 |
 | [Breadcrumbs](https://open.spotify.com/track/3XIsyH2KHrcPCkE8wkcKX6) | [Andy Leon](https://open.spotify.com/artist/7lzWd2qQhkOvuCBsLM6GAo) | [Breadcrumbs](https://open.spotify.com/album/2MoenbLVlkYVDvc2gOXipG) | 4:08 | 2021-04-02 | 2022-04-21 |
 | [Brittle](https://open.spotify.com/track/3hnj2130ThmuKOthw825PD) | [Char Chris](https://open.spotify.com/artist/3dhWzpDCZToKwpdCMgasCW) | [Brittle](https://open.spotify.com/album/2dmoj3b4sXYIjODIXpgJB9) | 3:41 | 2021-04-02 | 2022-04-15 |
@@ -472,7 +473,7 @@
 | [Thoughts of the Night](https://open.spotify.com/track/1eDV0CBLI89ANm4p2hRves) | [INNR CIRCLE](https://open.spotify.com/artist/1k39NA9nBk3NZac0fPLw6F) | [Thoughts of the Night](https://open.spotify.com/album/025znHoZ9jaKZpSw24DwG9) | 3:52 | 2021-04-02 | 2022-04-21 |
 | [Threatening Each Other re: Capitalism](https://open.spotify.com/track/4lUVbiWiti2F0oOU8SqV1u) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Threatening Each Other re: Capitalism](https://open.spotify.com/album/4ktz8o1d44KMsltBIBzu8L) | 4:43 | 2021-09-10 | 2022-04-18 |
 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 | 2021-10-26 | 2022-10-15 |
-| [Tired](https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Tired](https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c) | 2:58 | 2021-04-02 |  |
+| [Tired](https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Tired](https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c) | 2:58 | 2021-04-02 | 2023-01-08 |
 | [To Make It Right](https://open.spotify.com/track/5e6fMSlENiMCn2yjxLHaw8) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [To Make It Right](https://open.spotify.com/album/2pxZDLAGJirJs2uEaPtCnL) | 1:58 | 2021-04-02 | 2022-07-19 |
 | [Too Late](https://open.spotify.com/track/5vqKyzcuj8815NYVLpEwhS) | [Vict Molina](https://open.spotify.com/artist/6VeAG6Xgo3t6l93p4wc0Re), [Laeland](https://open.spotify.com/artist/1X6AU9VgQPke2P4ES0EhJ3), [Nuxe](https://open.spotify.com/artist/5Sq2960LCdGIniRjmbmT6G) | [Too Late](https://open.spotify.com/album/49lutvrXHIsAlb2rjwwIZN) | 1:55 | 2021-04-02 | 2022-04-07 |
 | [Touch](https://open.spotify.com/track/4g2WiijzSKzH8PApKDbadN) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: II](https://open.spotify.com/album/4mVqE0sAXMG9DpfWxxLhsh) | 4:16 | 2022-05-25 |  |

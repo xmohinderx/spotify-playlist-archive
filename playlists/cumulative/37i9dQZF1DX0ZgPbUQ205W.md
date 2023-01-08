@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-261 songs - 19 hr 28 min
+262 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Psalm](https://open.spotify.com/track/2VvQcH8wowZ1ik70hdUcfF) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:10 | 2021-12-17 | 2022-10-08 |
 | [Purplebright](https://open.spotify.com/track/31HbP5dQ4HFCFNwXT6RoD9) | [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107) | [Snow Catches on Her Eyelashes](https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec) | 2:50 | 2021-12-17 | 2022-02-18 |
 | [Questions in a World of Blue](https://open.spotify.com/track/5BQcGyihNd07qVOSNZ1nWi) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg), [Christian Weber](https://open.spotify.com/artist/6p18gAI7K7nuCFyqbqJcmZ) | [Nachtfahrten \(with Eric Schaefer & Christian Weber\)](https://open.spotify.com/album/7DfL5qAJsMe7DqO5qlJov5) | 3:05 | 2022-05-25 | 2022-09-22 |
-| [Remembrance IV](https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m) | [Ketil Bjørnstad](https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Remembrance](https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC) | 4:13 | 2021-12-17 |  |
+| [Remembrance IV](https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m) | [Ketil Bjørnstad](https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Remembrance](https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC) | 4:13 | 2021-12-17 | 2023-01-08 |
 | [Reminiscence](https://open.spotify.com/track/1oPvlSxxRR7hojrjO5T9bB) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 7:03 | 2022-09-15 |  |
 | [Reverie](https://open.spotify.com/track/6I6eOUiJKzFbZ52WY3shok) | [Digo](https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH) | [Reverie](https://open.spotify.com/album/7oJKCITP96nT9aDuGOsQFw) | 7:31 | 2021-12-17 | 2022-05-04 |
 | [Richter Sonntag](https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1) | [Nils Berg Cinemascope](https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3) | [We Seem to Be Drifting Apart](https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2) | 2:46 | 2021-12-17 | 2022-11-11 |
@@ -203,6 +203,7 @@
 | [Sound Flower](https://open.spotify.com/track/6ihL2LDx69EHKQQgtWRvLd) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 5:55 | 2022-05-26 | 2022-10-08 |
 | [Space Wales](https://open.spotify.com/track/75xI0ZJzkULqWgDlSMOxmG) | [Petter Rylén](https://open.spotify.com/artist/6NEDpDwNHfds11P15WZu7c) | [Space Wales](https://open.spotify.com/album/4DhBbkOPIrXBILOiz9irUB) | 4:24 | 2021-12-17 | 2022-09-09 |
 | [Steps from the Nightingale](https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Steps from the Nightingale](https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA) | 2:34 | 2022-12-01 |  |
+| [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-05 |  |
 | [Stream](https://open.spotify.com/track/4fSd7w77XMrJhz1C5VOscJ) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 7:03 | 2022-09-15 |  |
 | [Strong](https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF) | [Marco Locurcio](https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4) | [Strong](https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s) | 4:23 | 2022-02-24 |  |
 | [Surrender](https://open.spotify.com/track/7lyyZLvFmPSVNXOcAlyNOa) | [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107) | [Dream Logic](https://open.spotify.com/album/1RfjUvp5cxnQwYw2X8WEEr) | 4:21 | 2021-12-17 |  |

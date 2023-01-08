@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT?si=plY\-6c4iRY\-EbVvV9p\_K6A&nd=1">Yaya Bey.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,707 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,706 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

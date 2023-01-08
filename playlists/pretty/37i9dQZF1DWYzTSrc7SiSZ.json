@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 642105,
+  "num_followers": 642132,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA0MTQ0NCwwMDAwMDAwMDU0NDNhOTk2ZWY5MDY2ZmIyMDcxMDlmODI0ZDUyMGQ0",
+  "snapshot_id": "MTY3MzA0MTQ0NCwwMDAwMDAwMDNiZDg2YTk5NTk4NDk4NjJmNzQ0ODM4NGY5OGE1MWI2",
   "tracks": [
     {
       "added_at": "2023-01-06 21:44:04",
@@ -59,6 +59,26 @@
     {
       "added_at": "2023-01-06 21:44:04",
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 144351,
+      "name": "Un Beso en Madrid",
+      "url": "https://open.spotify.com/track/351dqwRVsCDniedG9soXSf"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
       },
@@ -107,26 +127,6 @@
       "duration_ms": 200062,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/5VUhMAjIfD0NHRckqsE4e3"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 144351,
-      "name": "Un Beso en Madrid",
-      "url": "https://open.spotify.com/track/351dqwRVsCDniedG9soXSf"
     },
     {
       "added_at": "2023-01-06 21:44:04",
@@ -575,6 +575,38 @@
     {
       "added_at": "2023-01-06 21:44:04",
       "album": {
+        "name": "VELOZzzz",
+        "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "VELOZzzz",
+      "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
+      },
+      "artists": [
+        {
+          "name": "Las Alas",
+          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
+        }
+      ],
+      "duration_ms": 153564,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
         "name": "Delorean",
         "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
       },
@@ -603,38 +635,6 @@
       "duration_ms": 126984,
       "name": "Cafeliko",
       "url": "https://open.spotify.com/track/0mzvDQW1IgLuXAwD5YMN6i"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
-      },
-      "artists": [
-        {
-          "name": "Las Alas",
-          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
-        }
-      ],
-      "duration_ms": 153564,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
-        "name": "VELOZzzz",
-        "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "VELOZzzz",
-      "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
     },
     {
       "added_at": "2023-01-06 21:44:04",
@@ -935,6 +935,26 @@
     {
       "added_at": "2023-01-06 21:44:04",
       "album": {
+        "name": "Intenciones",
+        "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 163600,
+      "name": "Intenciones",
+      "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
         "name": "Amiga M\u00eda",
         "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 221322,
       "name": "Bolitas",
       "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
-        "name": "Intenciones",
-        "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 163600,
-      "name": "Intenciones",
-      "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
     },
     {
       "added_at": "2023-01-06 21:44:04",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-01-06 21:44:04",
       "album": {
-        "name": "dosextra\u00f1os",
-        "url": "https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E"
-      },
-      "artists": [
-        {
-          "name": "Jeudy Garc\u00eda",
-          "url": "https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz"
-        }
-      ],
-      "duration_ms": 227244,
-      "name": "dosextra\u00f1os",
-      "url": "https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
         "name": "beat relajado para estudiar",
         "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 250160,
       "name": "beat relajado para estudiar",
       "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
+        "name": "dosextra\u00f1os",
+        "url": "https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E"
+      },
+      "artists": [
+        {
+          "name": "Jeudy Garc\u00eda",
+          "url": "https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz"
+        }
+      ],
+      "duration_ms": 227244,
+      "name": "dosextra\u00f1os",
+      "url": "https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV"
     },
     {
       "added_at": "2023-01-06 21:44:04",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-01-06 21:44:04",
       "album": {
+        "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
+        "url": "https://open.spotify.com/album/6mLHr5VJvRSzQIHCCH0FIh"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
+      "url": "https://open.spotify.com/track/2toa7OfO590nOAZxWMO3cB"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
         "name": "no est\u00e1s",
         "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 197910,
       "name": "Ya",
       "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
-        "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
-        "url": "https://open.spotify.com/album/6mLHr5VJvRSzQIHCCH0FIh"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
-      "url": "https://open.spotify.com/track/2toa7OfO590nOAZxWMO3cB"
     },
     {
       "added_at": "2023-01-06 21:44:04",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-01-06 21:44:04",
       "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
       },
@@ -1347,6 +1363,22 @@
       "duration_ms": 187649,
       "name": "M\u00e1s",
       "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2023-01-06 21:44:04",
@@ -1367,38 +1399,6 @@
       "duration_ms": 192000,
       "name": "Quieres de mi",
       "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2023-01-06 21:44:04",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-01-06 21:44:04",
       "album": {
-        "name": "7 de febrero",
-        "url": "https://open.spotify.com/album/0zxVXD6oNCN1u6JxljLQfo"
-      },
-      "artists": [
-        {
-          "name": "Yara",
-          "url": "https://open.spotify.com/artist/4Yy7BNU597L8XTM2qjwgPv"
-        },
-        {
-          "name": "Yorkinson",
-          "url": "https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK"
-        }
-      ],
-      "duration_ms": 193953,
-      "name": "7 de febrero",
-      "url": "https://open.spotify.com/track/3pT3Hel5mso2yNefImHIwb"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
+        "name": "7 de febrero",
+        "url": "https://open.spotify.com/album/0zxVXD6oNCN1u6JxljLQfo"
+      },
+      "artists": [
+        {
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/4Yy7BNU597L8XTM2qjwgPv"
+        },
+        {
+          "name": "Yorkinson",
+          "url": "https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK"
+        }
+      ],
+      "duration_ms": 193953,
+      "name": "7 de febrero",
+      "url": "https://open.spotify.com/track/3pT3Hel5mso2yNefImHIwb"
     },
     {
       "added_at": "2023-01-06 21:44:04",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-01-06 21:44:04",
       "album": {
-        "name": "GOTEO",
-        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 230540,
-      "name": "MI TODO",
-      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
         "name": "Dime la verdad",
         "url": "https://open.spotify.com/album/2UysmvX5GsuNXZ3oTs1YrC"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2023-01-06 21:44:04",
       "album": {
+        "name": "GOTEO",
+        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 230540,
+      "name": "MI TODO",
+      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
         "name": "Verano, por siempre",
         "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
       },
@@ -1623,26 +1623,6 @@
       "duration_ms": 164601,
       "name": "habl\u00e9 con ella ayer",
       "url": "https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
-        "name": "Ll\u00e9vate",
-        "url": "https://open.spotify.com/album/50o7453bYYgKKkbr4CreN3"
-      },
-      "artists": [
-        {
-          "name": "Juan Rached",
-          "url": "https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 170487,
-      "name": "Ll\u00e9vate",
-      "url": "https://open.spotify.com/track/6cpGWvX109d5I9Cx13sPMy"
     },
     {
       "added_at": "2023-01-06 21:44:04",
@@ -1667,34 +1647,22 @@
     {
       "added_at": "2023-01-06 21:44:04",
       "album": {
-        "name": "duermo sin pijama",
-        "url": "https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y"
+        "name": "Ll\u00e9vate",
+        "url": "https://open.spotify.com/album/50o7453bYYgKKkbr4CreN3"
       },
       "artists": [
         {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "duermo sin pijama",
-      "url": "https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
-        "name": "Qu\u00edtame",
-        "url": "https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8"
-      },
-      "artists": [
+          "name": "Juan Rached",
+          "url": "https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM"
+        },
         {
-          "name": "Michi",
-          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
         }
       ],
-      "duration_ms": 163013,
-      "name": "Qu\u00edtame",
-      "url": "https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa"
+      "duration_ms": 170487,
+      "name": "Ll\u00e9vate",
+      "url": "https://open.spotify.com/track/6cpGWvX109d5I9Cx13sPMy"
     },
     {
       "added_at": "2023-01-06 21:44:04",
@@ -1715,6 +1683,22 @@
     {
       "added_at": "2023-01-06 21:44:04",
       "album": {
+        "name": "Qu\u00edtame",
+        "url": "https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Qu\u00edtame",
+      "url": "https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
         "name": "UH",
         "url": "https://open.spotify.com/album/0LjCQQ74typX73FWjVt2vK"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 210883,
       "name": "UH",
       "url": "https://open.spotify.com/track/7uLfFqojP6ysCuyWCOhZhJ"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
+        "name": "No Te Pude Soltar",
+        "url": "https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 164683,
+      "name": "No Te Pude Soltar",
+      "url": "https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8"
     },
     {
       "added_at": "2023-01-06 21:44:04",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-01-06 21:44:04",
       "album": {
-        "name": "No Te Pude Soltar",
-        "url": "https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 164683,
-      "name": "No Te Pude Soltar",
-      "url": "https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8"
-    },
-    {
-      "added_at": "2023-01-06 21:44:04",
-      "album": {
         "name": "if you let me",
         "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 160909,
       "name": "if you let me",
       "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
+    },
+    {
+      "added_at": "2023-01-06 21:44:04",
+      "album": {
+        "name": "duermo sin pijama",
+        "url": "https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "duermo sin pijama",
+      "url": "https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH"
     },
     {
       "added_at": "2023-01-06 21:44:04",

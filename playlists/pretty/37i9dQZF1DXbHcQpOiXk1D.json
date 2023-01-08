@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 273750,
+  "num_followers": 273764,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAwMTc1NCwwMDAwMDAwMGQ1ZGFlYzIyZjk0NjU2NTBlZmY2ODM1NzRjZWUxOWVl",
+  "snapshot_id": "MTY3MzAwMTc1NCwwMDAwMDAwMDhhNGY0MmUyOWJjMDYwNzM4ODBkMzllNzc5YWNkOTYx",
   "tracks": [
     {
       "added_at": "2023-01-06 10:42:34",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-01-06 10:42:34",
       "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 389240,
-      "name": "Feet Down South",
-      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
-    },
-    {
-      "added_at": "2023-01-06 10:42:34",
-      "album": {
         "name": "Motherland Journey",
         "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
       },
@@ -447,22 +431,18 @@
     {
       "added_at": "2023-01-06 10:42:34",
       "album": {
-        "name": "Beggin' Man",
-        "url": "https://open.spotify.com/album/3ruRVM6PyTJ0uwBXkxoQD3"
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
       },
       "artists": [
         {
-          "name": "Evil Genius",
-          "url": "https://open.spotify.com/artist/60BHUa95k7tplx1kHjHfhF"
-        },
-        {
-          "name": "Isaac Waddington",
-          "url": "https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH"
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
         }
       ],
-      "duration_ms": 202901,
-      "name": "Beggin' Man",
-      "url": "https://open.spotify.com/track/5xb5LmpDzZqvthEfwX7uwU"
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -487,6 +467,26 @@
     {
       "added_at": "2023-01-06 10:42:34",
       "album": {
+        "name": "Beggin' Man",
+        "url": "https://open.spotify.com/album/3ruRVM6PyTJ0uwBXkxoQD3"
+      },
+      "artists": [
+        {
+          "name": "Evil Genius",
+          "url": "https://open.spotify.com/artist/60BHUa95k7tplx1kHjHfhF"
+        },
+        {
+          "name": "Isaac Waddington",
+          "url": "https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH"
+        }
+      ],
+      "duration_ms": 202901,
+      "name": "Beggin' Man",
+      "url": "https://open.spotify.com/track/5xb5LmpDzZqvthEfwX7uwU"
+    },
+    {
+      "added_at": "2023-01-06 10:42:34",
+      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
       },
@@ -499,22 +499,6 @@
       "duration_ms": 280800,
       "name": "Monument",
       "url": "https://open.spotify.com/track/3kwHyKwVFLMMGsnJlv35bQ"
-    },
-    {
-      "added_at": "2023-01-06 10:42:34",
-      "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 338506,
-      "name": "War Dance",
-      "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -539,6 +523,22 @@
       "duration_ms": 110869,
       "name": "The Duke",
       "url": "https://open.spotify.com/track/6Sn8gX7ls3ub1mKEpvBD5S"
+    },
+    {
+      "added_at": "2023-01-06 10:42:34",
+      "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 338506,
+      "name": "War Dance",
+      "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -659,6 +659,26 @@
     {
       "added_at": "2023-01-06 10:42:34",
       "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Life Goes On (feat. Sampa the Great)",
+      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
+    },
+    {
+      "added_at": "2023-01-06 10:42:34",
+      "album": {
         "name": "Hold On, Pt.2",
         "url": "https://open.spotify.com/album/0BLXLsiAc8aebSCoHwXzYo"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 251428,
       "name": "Red and Green - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/50wdgAA4XTOMPD4DZFwv5Y"
-    },
-    {
-      "added_at": "2023-01-06 10:42:34",
-      "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Life Goes On (feat. Sampa the Great)",
-      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -775,8 +775,24 @@
     {
       "added_at": "2023-01-06 10:42:34",
       "album": {
-        "name": "Berlin 1 (Rework)",
-        "url": "https://open.spotify.com/album/0EEWlwUdioPbc0vDHfKIRj"
+        "name": "Dough",
+        "url": "https://open.spotify.com/album/66x9bHZiWLtKOjSHy1vltw"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "duration_ms": 151602,
+      "name": "Dough",
+      "url": "https://open.spotify.com/track/0jODRjsDMDrnRVwRpMS4SI"
+    },
+    {
+      "added_at": "2023-01-06 10:42:34",
+      "album": {
+        "name": "(Why You So) Green With Envy",
+        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
       },
       "artists": [
         {
@@ -784,13 +800,13 @@
           "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
         },
         {
-          "name": "Louis VI",
-          "url": "https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV"
+          "name": "Oscar #Worldpeace",
+          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
         }
       ],
-      "duration_ms": 185625,
-      "name": "Berlin 1 - Rework",
-      "url": "https://open.spotify.com/track/4m3dbiaVg1DIUAHlx4X2A1"
+      "duration_ms": 292306,
+      "name": "(Why You So) Green With Envy",
+      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-01-06 10:42:34",
       "album": {
-        "name": "Dough",
-        "url": "https://open.spotify.com/album/66x9bHZiWLtKOjSHy1vltw"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        }
-      ],
-      "duration_ms": 151602,
-      "name": "Dough",
-      "url": "https://open.spotify.com/track/0jODRjsDMDrnRVwRpMS4SI"
-    },
-    {
-      "added_at": "2023-01-06 10:42:34",
-      "album": {
         "name": "Honey For Wounds (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bEHvwq0E9SVwBuy4G0Cnk"
       },
@@ -875,26 +875,6 @@
       "duration_ms": 352692,
       "name": "The Antidote Is in the Poison",
       "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
-    },
-    {
-      "added_at": "2023-01-06 10:42:34",
-      "album": {
-        "name": "(Why You So) Green With Envy",
-        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        },
-        {
-          "name": "Oscar #Worldpeace",
-          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "(Why You So) Green With Envy",
-      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -959,6 +939,26 @@
       "duration_ms": 320253,
       "name": "Cristo Redentor",
       "url": "https://open.spotify.com/track/3EdjA9lVqxP4iRDpEs2H6Q"
+    },
+    {
+      "added_at": "2023-01-06 10:42:34",
+      "album": {
+        "name": "Berlin 1 (Rework)",
+        "url": "https://open.spotify.com/album/0EEWlwUdioPbc0vDHfKIRj"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Louis VI",
+          "url": "https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Berlin 1 - Rework",
+      "url": "https://open.spotify.com/track/4m3dbiaVg1DIUAHlx4X2A1"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-06 10:42:34",
       "album": {
-        "name": "piano joint",
-        "url": "https://open.spotify.com/album/6u4j6qb1hdzYthdbgyZWYG"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "piano joint",
-      "url": "https://open.spotify.com/track/24UxJRpZ9bhdg49QayFbcP"
-    },
-    {
-      "added_at": "2023-01-06 10:42:34",
-      "album": {
         "name": "Consortium",
         "url": "https://open.spotify.com/album/4OKkAZ6kcuyzpK7KAQVePP"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 306012,
       "name": "Consortium",
       "url": "https://open.spotify.com/track/0hC7mPGowDqVgvgJJhYuOw"
+    },
+    {
+      "added_at": "2023-01-06 10:42:34",
+      "album": {
+        "name": "piano joint",
+        "url": "https://open.spotify.com/album/6u4j6qb1hdzYthdbgyZWYG"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        }
+      ],
+      "duration_ms": 175706,
+      "name": "piano joint",
+      "url": "https://open.spotify.com/track/24UxJRpZ9bhdg49QayFbcP"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-01-06 10:42:34",
       "album": {
-        "name": "Next Spring",
-        "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
-      },
-      "artists": [
-        {
-          "name": "B-ahwe",
-          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
-        }
-      ],
-      "duration_ms": 224322,
-      "name": "Next Spring",
-      "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
-    },
-    {
-      "added_at": "2023-01-06 10:42:34",
-      "album": {
         "name": "Take Flight",
         "url": "https://open.spotify.com/album/1XWQCrHuszOJyjdcnbTUdH"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-01-06 10:42:34",
       "album": {
-        "name": "Invisible Things",
-        "url": "https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6"
+        "name": "Next Spring",
+        "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
       },
       "artists": [
         {
-          "name": "Aurora Dee Raynes",
-          "url": "https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg"
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
         }
       ],
-      "duration_ms": 209509,
-      "name": "Crazy That You Love",
-      "url": "https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw"
+      "duration_ms": 224322,
+      "name": "Next Spring",
+      "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -1203,6 +1187,22 @@
       "duration_ms": 288933,
       "name": "Through The Noise (Chant No. 2)",
       "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
+    },
+    {
+      "added_at": "2023-01-06 10:42:34",
+      "album": {
+        "name": "Invisible Things",
+        "url": "https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6"
+      },
+      "artists": [
+        {
+          "name": "Aurora Dee Raynes",
+          "url": "https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg"
+        }
+      ],
+      "duration_ms": 209509,
+      "name": "Crazy That You Love",
+      "url": "https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2023-01-06 10:42:34",
       "album": {
-        "name": "Discover We Can Fly",
-        "url": "https://open.spotify.com/album/45x8hmroklLHxA2jOi5KWT"
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT"
       },
       "artists": [
         {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
         }
       ],
-      "duration_ms": 222787,
-      "name": "Discover We Can Fly",
-      "url": "https://open.spotify.com/track/5BEpmQY6P40WFDamYFeoUH"
+      "duration_ms": 252000,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -1275,22 +1279,18 @@
     {
       "added_at": "2023-01-06 10:42:34",
       "album": {
-        "name": "Clashing Colours",
-        "url": "https://open.spotify.com/album/4mkPcQDRD7pWVgY2cy8hmp"
+        "name": "Discover We Can Fly",
+        "url": "https://open.spotify.com/album/45x8hmroklLHxA2jOi5KWT"
       },
       "artists": [
         {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
-        },
-        {
-          "name": "Moses Boyd",
-          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 284928,
-      "name": "Clashing Colours",
-      "url": "https://open.spotify.com/track/1WSNR8LyG3QTWAA1MaRsCq"
+      "duration_ms": 222787,
+      "name": "Discover We Can Fly",
+      "url": "https://open.spotify.com/track/5BEpmQY6P40WFDamYFeoUH"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-01-06 10:42:34",
       "album": {
+        "name": "Clashing Colours",
+        "url": "https://open.spotify.com/album/4mkPcQDRD7pWVgY2cy8hmp"
+      },
+      "artists": [
+        {
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+        },
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        }
+      ],
+      "duration_ms": 284928,
+      "name": "Clashing Colours",
+      "url": "https://open.spotify.com/track/1WSNR8LyG3QTWAA1MaRsCq"
+    },
+    {
+      "added_at": "2023-01-06 10:42:34",
+      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
       },
@@ -1331,42 +1351,6 @@
       "duration_ms": 496546,
       "name": "Warm Data",
       "url": "https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc"
-    },
-    {
-      "added_at": "2023-01-06 10:42:34",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT"
-      },
-      "artists": [
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"
-    },
-    {
-      "added_at": "2023-01-06 10:42:34",
-      "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 355493,
-      "name": "Ego Killah",
-      "url": "https://open.spotify.com/track/2PK9U7mNneWb55trrTP3S5"
     },
     {
       "added_at": "2023-01-06 10:42:34",
@@ -1387,6 +1371,22 @@
       "duration_ms": 231758,
       "name": "Falling Fast",
       "url": "https://open.spotify.com/track/2YIzh2AjR9d1A0fEZ2M66b"
+    },
+    {
+      "added_at": "2023-01-06 10:42:34",
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 355493,
+      "name": "Ego Killah",
+      "url": "https://open.spotify.com/track/2PK9U7mNneWb55trrTP3S5"
     }
   ],
   "unique_name": "Jazz UK",

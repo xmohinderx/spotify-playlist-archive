@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 9890,
+  "num_followers": 9896,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkzNjQ2NSwwMDAwMDAwMDYyYzk1MWZjYzVhMTQ3Y2EyOGI4NTFjZjIyOGFmODVl",
+  "snapshot_id": "MTY3MDkzNjQ2NSwwMDAwMDAwMDkzZGY5YWQ1Y2NmNTIyMjE0ZjU5YWFhM2VmZmRlYjY3",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Better Days / Wetin Dey",
-        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
-        }
-      ],
-      "duration_ms": 187424,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 160000,
       "name": "Your Love (Mogbe)",
       "url": "https://open.spotify.com/track/6WDgwgR3fAu9UfLXz1iHCz"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Better Days / Wetin Dey",
+        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+        }
+      ],
+      "duration_ms": 187424,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX"
     },
     {
       "added_at": "2022-08-18 23:00:00",

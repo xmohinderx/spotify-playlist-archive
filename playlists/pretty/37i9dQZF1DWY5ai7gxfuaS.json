@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Bring Me The Horizon",
-  "num_followers": 206913,
+  "num_followers": 206976,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTczNiwwMDAwMDAwMGNhMWVhYTQzYmM4OTZhMWJmZjIwNjI4ZWRjNTYzNTUz",
+  "snapshot_id": "MTY2ODczNTczNiwwMDAwMDAwMDU1MzRlYTc5ZDUyM2QxMmYzNGNjMThjMGYwYjQ5NWUx",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Whispers of Your Death",
-        "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Whispers of Your Death",
-      "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "An Investigation Into Perceived Heaviness",
         "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 235500,
       "name": "Heaviness",
       "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Whispers of Your Death",
+        "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Whispers of Your Death",
+      "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Touch the Corpse",
         "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 166948,
       "name": "Touch the Corpse",
       "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
-      },
-      "artists": [
-        {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "The Weight That Holds Me Here",
         "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 186502,
       "name": "With You",
       "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "The Future Says Thank You",
-        "url": "https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg"
-      },
-      "artists": [
-        {
-          "name": "Ithaca",
-          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
-        }
-      ],
-      "duration_ms": 218503,
-      "name": "The Future Says Thank You",
-      "url": "https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Synopsis",
         "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 202804,
       "name": "Synopsis",
       "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "The Future Says Thank You",
+        "url": "https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg"
+      },
+      "artists": [
+        {
+          "name": "Ithaca",
+          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
+        }
+      ],
+      "duration_ms": 218503,
+      "name": "The Future Says Thank You",
+      "url": "https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "ABYSS",
-        "url": "https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo"
-      },
-      "artists": [
-        {
-          "name": "Mimi Barks",
-          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
-        }
-      ],
-      "duration_ms": 151911,
-      "name": "ABYSS",
-      "url": "https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "LOVE, DEATH and DECAY",
         "url": "https://open.spotify.com/album/3uOaDRKRilIlyyv06e38ho"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 291400,
       "name": "Zone Out",
       "url": "https://open.spotify.com/track/2qQ1siA0oNdASlmQO4Sp9d"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "ABYSS",
+        "url": "https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo"
+      },
+      "artists": [
+        {
+          "name": "Mimi Barks",
+          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
+        }
+      ],
+      "duration_ms": 151911,
+      "name": "ABYSS",
+      "url": "https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "WHATS UP?",
+        "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
+      },
+      "artists": [
+        {
+          "name": "BVDLVD",
+          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "WHATS UP?",
+      "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Kings Today",
         "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "WHATS UP?",
-        "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
+        "name": "EUGH!",
+        "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
       },
       "artists": [
         {
-          "name": "BVDLVD",
-          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
+          "name": "SPIIRAL",
+          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
         }
       ],
-      "duration_ms": 168160,
-      "name": "WHATS UP?",
-      "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
+      "duration_ms": 82926,
+      "name": "EUGH!",
+      "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1327,22 +1343,6 @@
       "duration_ms": 257199,
       "name": "Embers\u00f3lyom - Kal\u00e1ka",
       "url": "https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "EUGH!",
-        "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
-      },
-      "artists": [
-        {
-          "name": "SPIIRAL",
-          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
-        }
-      ],
-      "duration_ms": 82926,
-      "name": "EUGH!",
-      "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
     }
   ],
   "unique_name": "Alternative Metal",

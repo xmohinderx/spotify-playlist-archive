@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-415 songs - 23 hr 16 min
+416 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 | 2022-06-27 |  |
 | [Disaster Party](https://open.spotify.com/track/0tZQkiMamZC9PVKeIDtvTP) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [Disaster Party](https://open.spotify.com/album/3PUNh3goCvfGWs0ipKSUkS) | 3:01 | 2021-03-10 | 2022-07-30 |
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2021-06-25 | 2022-05-04 |
+| [Do It Like You Do](https://open.spotify.com/track/0GZtNyHp1cImFX8E6qK9nQ) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [D.I.L.Y.D.](https://open.spotify.com/album/0iRbnjEonkAjlawEngtE3M) | 3:19 | 2022-10-07 |  |
 | [Do It Like You Do](https://open.spotify.com/track/69LmDU9Ykb2ffpDDisnf1w) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [D.I.L.Y.D.](https://open.spotify.com/album/5UvMqJ7iarMJtztwBUG6UL) | 3:19 | 2022-06-27 | 2022-12-25 |
 | [Do It Like You Do](https://open.spotify.com/track/7FOgj5HLQd9LXGKXot1RhA) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Do It Like You Do](https://open.spotify.com/album/0VFrisQgRs71gyFCbtAhCu) | 3:19 | 2021-03-10 | 2022-07-28 |
 | [Do You Really Wanna Know?](https://open.spotify.com/track/43oSsb5boERcpfiuDJR3Kq) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Do You Really Wanna Know?](https://open.spotify.com/album/1gSZbzpl3w3wp2Lc4sl3l8) | 2:58 | 2021-03-10 |  |
@@ -350,7 +351,7 @@
 | [Surefire](https://open.spotify.com/track/3CxBGLrVRt9sanlpCcpOMf) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Surefire](https://open.spotify.com/album/7Gp6tjO66qmd1OmSXPEBis) | 4:00 | 2021-03-10 | 2022-07-29 |
 | [Surefire](https://open.spotify.com/track/6iWvETAILWAYOdm2DioSEF) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 4:01 | 2022-06-27 | 2022-11-09 |
 | [Surefire](https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 4:01 | 2022-10-07 |  |
-| [Survive](https://open.spotify.com/track/7eTMM3SZwTia2MZgR1MRtQ) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Night Drive](https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3) | 2:17 | 2022-03-09 |  |
+| [Survive](https://open.spotify.com/track/7eTMM3SZwTia2MZgR1MRtQ) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Night Drive](https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3) | 2:17 | 2022-03-09 | 2023-01-08 |
 | [Sway](https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Sway](https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD) | 2:16 | 2022-06-27 |  |
 | [Sweet Disaster](https://open.spotify.com/track/1cCF6PzZddhyJgYjN8w5qu) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Sweet Disaster](https://open.spotify.com/album/0zwgTEEMeWgAYOZRRNToC7) | 3:25 | 2022-03-11 | 2022-04-20 |
 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2022-05-27 |  |

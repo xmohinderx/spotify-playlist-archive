@@ -4,7 +4,7 @@
 
 > get lost in the  a e s t h e t i c
 
-412 songs - 22 hr 58 min
+413 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Heat of the Night](https://open.spotify.com/track/0XsgXfG9q008DLdpCUMmeZ) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Eccodroid](https://open.spotify.com/artist/5JTPEjc9JfEu5tGuLdwvQj), [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3) | [Heat of the Night](https://open.spotify.com/album/6B5R3MI94ZLV94uZWl7pSg) | 2:19 | 2021-12-08 | 2022-07-20 |
 | [Heathrow](https://open.spotify.com/track/2rdh7qYQmaUQSOyjpsQpZy) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [Mine on the Street](https://open.spotify.com/album/5g1FwC5d7jc047UHwpqBgk) | 2:24 | 2021-12-08 | 2022-07-27 |
 | [Hibiscus Pacific](https://open.spotify.com/track/212guZJYmzASElwy8HmVKx) | [Greeen Linez](https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14) | [Things That Fade](https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV) | 4:11 | 2022-01-26 |  |
+| [High Walking](https://open.spotify.com/track/5B333Z3ohyKTlY1d4GaI6w) | [Trushinitas](https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI) | [2018](https://open.spotify.com/album/2IMkTi57ahtTjLQjlY8jQ8) | 2:08 | 2022-09-11 |  |
 | [High Walking](https://open.spotify.com/track/6dXHQs1NZveylAvBdKagU3) | [Trushinitas](https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI) | [2018](https://open.spotify.com/album/0azJKQH9MvjyddULlm2Roc) | 2:08 | 2022-02-27 | 2022-04-18 |
 | [Holding On](https://open.spotify.com/track/2TcwS9p7WCxNtr8bsrzHKk) | [Yuni Wa](https://open.spotify.com/artist/4RhG0qGKMzfWNdi4OM6obG) | [Holding On](https://open.spotify.com/album/6z3d6pZwZOrtquT8pMR3AP) | 4:05 | 2021-12-08 | 2022-07-29 |
 | [Home and Office](https://open.spotify.com/track/7nLSB0ZrbuHY9gRYJKv9W5) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Mercurius FM](https://open.spotify.com/artist/4vaCfb7Q90IqXw3U77tAje), [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3) | [Home and Office](https://open.spotify.com/album/0Ulc2WfQQRLRd58E6xra7M) | 2:33 | 2022-08-12 | 2022-10-11 |
@@ -178,7 +179,7 @@
 | [In the Sea \- 3d Blast Remix](https://open.spotify.com/track/6LviX9tGguv6BHT2D7iNpE) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa), [3d Blast](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [In the Sea \(3d Blast Remix\)](https://open.spotify.com/album/5Q0HlgsqpSO7kUIqOIS9FW) | 4:00 | 2022-02-27 | 2022-07-29 |
 | [in water](https://open.spotify.com/track/0obfqHC5mTgpry5g7pKKJ1) | [Oracle FM](https://open.spotify.com/artist/31DUbrXaZQE3myF3c4KNSL) | [in water](https://open.spotify.com/album/3xaoeCuDoT8UY173rtDlq6) | 2:57 | 2021-12-08 | 2022-07-21 |
 | [Instance](https://open.spotify.com/track/0LKFMuPJ5AbBtpC1JA1h9Z) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Reflection Plane](https://open.spotify.com/album/5drH29DpqokNHxftcmPzPd) | 3:31 | 2022-08-12 | 2022-09-12 |
-| [Instance](https://open.spotify.com/track/3hQMvun87AnD0vROU4PGw2) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Instance](https://open.spotify.com/album/43PH4FXWlHY9IKQb05hT8c) | 3:32 | 2022-09-11 |  |
+| [Instance](https://open.spotify.com/track/3hQMvun87AnD0vROU4PGw2) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Instance](https://open.spotify.com/album/43PH4FXWlHY9IKQb05hT8c) | 3:32 | 2022-09-11 | 2023-01-08 |
 | [Instance](https://open.spotify.com/track/5To2o7kM1z1bYY43nz4VNH) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Instance](https://open.spotify.com/album/3kaESmmHCAEf3OnqxGehGk) | 3:32 | 2022-04-11 | 2022-07-28 |
 | [Intercontinental](https://open.spotify.com/track/6bfuLXMhr4jpG2og7eZWpH) | [Lost Traveler ロスト](https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD) | [Intercontinental](https://open.spotify.com/album/7zgV7O9KcT8ZymRfHFGxa3) | 4:13 | 2022-08-12 | 2022-10-09 |
 | [Intro \- Delux Edition](https://open.spotify.com/track/3heMM4Og51NfVR8bWwueF1) | [FUNKYSENPAI](https://open.spotify.com/artist/73D3brznPfF6gHusQdHHVq) | [We Are Future Funk \(Delux Edition\)](https://open.spotify.com/album/7K6BsYBzlmd9NiUtAl4gLZ) | 3:00 | 2022-09-11 | 2022-12-03 |

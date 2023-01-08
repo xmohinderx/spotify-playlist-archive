@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: slchld
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,559 likes - 86 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,588 likes - 86 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

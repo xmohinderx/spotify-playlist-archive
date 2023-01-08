@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > y’all already know who i am
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,707 likes - 588 songs - 1 day 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,854 likes - 588 songs - 1 day 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

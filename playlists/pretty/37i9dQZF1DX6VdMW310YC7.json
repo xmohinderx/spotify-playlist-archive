@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3520671,
+  "num_followers": 3520769,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGJkMGY2YjE3YzU0ZDdkZjAyNjNlMzliZjAwNDlkODA0",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDIxNDU1OGFiMjM1NzU0MGZkODY4M2MzMzQwMTRkMzAz",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -231,26 +231,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA"
       },
       "artists": [
         {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        },
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        },
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
         }
       ],
-      "duration_ms": 243176,
-      "name": "Demons - Massane Remix",
-      "url": "https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7"
+      "duration_ms": 220000,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -279,18 +271,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA"
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ"
       },
       "artists": [
         {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        },
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q"
+      "duration_ms": 243176,
+      "name": "Demons - Massane Remix",
+      "url": "https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Heartaches",
+        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 207627,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Losing Ground",
         "url": "https://open.spotify.com/album/2CLaKRjhzUhuIu8tLysXZq"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 273048,
       "name": "Losing Ground",
       "url": "https://open.spotify.com/track/7mXcMycQqLHzo60E7WkvvG"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Heartaches",
-        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Don\u2019t Worry",
+        "url": "https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 276961,
+      "name": "Don\u2019t Worry",
+      "url": "https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "The Last Dinosaur",
         "url": "https://open.spotify.com/album/6deCJtdK5ZWJnbTLQypO6U"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Don\u2019t Worry",
-        "url": "https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 276961,
-      "name": "Don\u2019t Worry",
-      "url": "https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Wishing Well / Cimmerian",
         "url": "https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 216198,
       "name": "Cimmerian",
       "url": "https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Tears In Paradise",
+        "url": "https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Another You",
+      "url": "https://open.spotify.com/track/0GZ6PpNaMiViu3J0MDZztp"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "The Night Air Was Cool",
-        "url": "https://open.spotify.com/album/6UiEPndYAwqGf0dB6ob2KF"
-      },
-      "artists": [
-        {
-          "name": "ATTLAS",
-          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
-        }
-      ],
-      "duration_ms": 286940,
-      "name": "The Night Air Was Cool",
-      "url": "https://open.spotify.com/track/3GNCq0cqUr7kQ4lGaa0TVx"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Red Lights (EMBRZ Remix)",
         "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
       },
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Tears In Paradise",
-        "url": "https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE"
+        "name": "The Night Air Was Cool",
+        "url": "https://open.spotify.com/album/6UiEPndYAwqGf0dB6ob2KF"
       },
       "artists": [
         {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+          "name": "ATTLAS",
+          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
         }
       ],
-      "duration_ms": 169180,
-      "name": "Another You",
-      "url": "https://open.spotify.com/track/0GZ6PpNaMiViu3J0MDZztp"
+      "duration_ms": 286940,
+      "name": "The Night Air Was Cool",
+      "url": "https://open.spotify.com/track/3GNCq0cqUr7kQ4lGaa0TVx"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "The Color of Nothing",
+        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
+      },
+      "artists": [
+        {
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Fruit&Sun",
+      "url": "https://open.spotify.com/track/69cmKJCT4thXR1qT1g34w7"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
         "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 400130,
       "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
       "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "The Color of Nothing",
-        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
-      },
-      "artists": [
-        {
-          "name": "ford.",
-          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Fruit&Sun",
-      "url": "https://open.spotify.com/track/69cmKJCT4thXR1qT1g34w7"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1655,22 +1655,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Everything We Had To Leave Behind",
-        "url": "https://open.spotify.com/album/4hcWdQQ4VLiAsRuaYy7Xo8"
+        "name": "Don't Wanna Leave",
+        "url": "https://open.spotify.com/album/7jlKfBppsAB1382hyfSQ1l"
       },
       "artists": [
         {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+          "name": "Arinity",
+          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
         },
         {
-          "name": "Joseph Aquilina",
-          "url": "https://open.spotify.com/artist/4v9F9cfOW1bf3yP09JaNeO"
+          "name": "Robertson",
+          "url": "https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums"
         }
       ],
-      "duration_ms": 264523,
-      "name": "1000 More Suns",
-      "url": "https://open.spotify.com/track/7bPzk1B12yFWpnbzZIQGhm"
+      "duration_ms": 196731,
+      "name": "Don't Wanna Leave",
+      "url": "https://open.spotify.com/track/4T6eni3G9laFNvFmyMAynb"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1699,22 +1699,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Don't Wanna Leave",
-        "url": "https://open.spotify.com/album/7jlKfBppsAB1382hyfSQ1l"
+        "name": "Everything We Had To Leave Behind",
+        "url": "https://open.spotify.com/album/4hcWdQQ4VLiAsRuaYy7Xo8"
       },
       "artists": [
         {
-          "name": "Arinity",
-          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
         },
         {
-          "name": "Robertson",
-          "url": "https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums"
+          "name": "Joseph Aquilina",
+          "url": "https://open.spotify.com/artist/4v9F9cfOW1bf3yP09JaNeO"
         }
       ],
-      "duration_ms": 196731,
-      "name": "Don't Wanna Leave",
-      "url": "https://open.spotify.com/track/4T6eni3G9laFNvFmyMAynb"
+      "duration_ms": 264523,
+      "name": "1000 More Suns",
+      "url": "https://open.spotify.com/track/7bPzk1B12yFWpnbzZIQGhm"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Inner Voice (Remix)",
+        "url": "https://open.spotify.com/album/2r9aJdO7ilhJp04rBAIu4D"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        },
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 188810,
+      "name": "Inner Voice - Remix",
+      "url": "https://open.spotify.com/track/7b7P7eFfdRTRdaRIMyEpGh"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Temporary Love",
         "url": "https://open.spotify.com/album/4rR6MzkvCQw8P72RKJu7en"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 273679,
       "name": "Manila Palm",
       "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Inner Voice (Remix)",
-        "url": "https://open.spotify.com/album/2r9aJdO7ilhJp04rBAIu4D"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        },
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 188810,
-      "name": "Inner Voice - Remix",
-      "url": "https://open.spotify.com/track/7b7P7eFfdRTRdaRIMyEpGh"
     }
   ],
   "unique_name": "Chill Tracks",

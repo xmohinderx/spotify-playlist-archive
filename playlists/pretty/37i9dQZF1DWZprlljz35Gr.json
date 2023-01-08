@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 5783,
+  "num_followers": 5786,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDY2MzczMGMyYzFhZTFlMWNkMjJlNjE3NjI4YTRhYmE0",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDAyNmJjMDY5YmViMjU3YzkzYzQyNWUyNmEyM2E2ZTY3",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -429,38 +429,6 @@
       "url": "https://open.spotify.com/track/5aurQvInAVl4pdWzCXvlWM"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Prehistoric Rhythm",
-        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
-      },
-      "artists": [
-        {
-          "name": "MY BABY",
-          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
-        }
-      ],
-      "duration_ms": 398110,
-      "name": "Electrified",
-      "url": "https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 268226,
-      "name": "Shuck Dub",
-      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
-    },
-    {
       "added_at": "2021-07-02 04:01:00",
       "album": {
         "name": "Black Blood",
@@ -483,6 +451,38 @@
       "duration_ms": 146468,
       "name": "Black Blood",
       "url": "https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 268226,
+      "name": "Shuck Dub",
+      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Prehistoric Rhythm",
+        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
+      },
+      "artists": [
+        {
+          "name": "MY BABY",
+          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
+        }
+      ],
+      "duration_ms": 398110,
+      "name": "Electrified",
+      "url": "https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
     },
     {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Dirty Blues",
+        "url": "https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb"
+      },
+      "artists": [
+        {
+          "name": "Riff Kitten",
+          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
+        }
+      ],
+      "duration_ms": 166574,
+      "name": "Dirty Blues",
+      "url": "https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Prehistoric Rhythm",
@@ -603,22 +619,6 @@
       "duration_ms": 178800,
       "name": "Please Don't Stay",
       "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Dirty Blues",
-        "url": "https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb"
-      },
-      "artists": [
-        {
-          "name": "Riff Kitten",
-          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
-        }
-      ],
-      "duration_ms": 166574,
-      "name": "Dirty Blues",
-      "url": "https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Citizens of Boomtown (Deluxe)",
-        "url": "https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm"
-      },
-      "artists": [
-        {
-          "name": "The Boomtown Rats",
-          "url": "https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9"
-        }
-      ],
-      "duration_ms": 361306,
-      "name": "K.I.S.S. - Remix",
-      "url": "https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "High Vibe Remixes, Vol. 1",
@@ -835,6 +819,22 @@
       "duration_ms": 229110,
       "name": "Love Me - KR3TURE Remix",
       "url": "https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Citizens of Boomtown (Deluxe)",
+        "url": "https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm"
+      },
+      "artists": [
+        {
+          "name": "The Boomtown Rats",
+          "url": "https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9"
+        }
+      ],
+      "duration_ms": 361306,
+      "name": "K.I.S.S. - Remix",
+      "url": "https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ"
     },
     {
       "added_at": "2022-04-01 04:02:00",

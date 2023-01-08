@@ -41,6 +41,48 @@
     },
     {
       "album": {
+        "name": "A Perfect Christmas",
+        "url": "https://open.spotify.com/album/72IHWQDmLazRyLnj3COTw6"
+      },
+      "artists": [
+        {
+          "name": "Tatak Pinoy All-Stars",
+          "url": "https://open.spotify.com/artist/7vwlQ7XElRyPMJQGUXBz4O"
+        },
+        {
+          "name": "Jose Mari Chan",
+          "url": "https://open.spotify.com/artist/1EHAbA1GMYOfkh9ds9eNfS"
+        },
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        },
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        },
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        },
+        {
+          "name": "Julie Anne San Jose",
+          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
+        },
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283620,
+      "name": "A Perfect Christmas",
+      "url": "https://open.spotify.com/track/40e90Ye17dSJhqcV2DrKOo"
+    },
+    {
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/1aifvRID8WVENI4KDyCx27"
       },
@@ -76,7 +118,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 283620,
       "name": "A Perfect Christmas - Recorded at OnQ Studios, Manila",
       "url": "https://open.spotify.com/track/7n7mTiptQT1iNa7rMhcZS8"

@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-375 songs - 21 hr 7 min
+376 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [No Promises \- Acoustic](https://open.spotify.com/track/19ARiO0qpUHkhRZIjlCIki) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Deluxe\)](https://open.spotify.com/album/3HGsy50RgeXR4iUwfc0MgD) | 3:52 | 2022-04-22 | 2022-11-14 |
 | [No Promises \- Acoustic](https://open.spotify.com/track/1LKxHaLu3RG4xWO0DXZ8OU) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Deluxe\)](https://open.spotify.com/album/1MI6gNg0plcEOgs8aezsjH) | 3:52 | 2021-03-12 | 2022-07-29 |
 | [No Promises \- Acoustic](https://open.spotify.com/track/4gd5QOwPhztB74FW28S93P) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Deluxe\)](https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S) | 3:52 | 2022-04-22 |  |
-| [Nothin' On You](https://open.spotify.com/track/5kxQ0VfrNTuQ6i63802U11) | [Kajiwara](https://open.spotify.com/artist/0KyM33SIqUSuaOam1QrWIo) | [By Popular Demand, Vol\. 2](https://open.spotify.com/album/1Yv4mQTshB88IeYlQMinVY) | 4:03 | 2021-03-12 |  |
+| [Nothin' On You](https://open.spotify.com/track/5kxQ0VfrNTuQ6i63802U11) | [Kajiwara](https://open.spotify.com/artist/0KyM33SIqUSuaOam1QrWIo) | [By Popular Demand, Vol\. 2](https://open.spotify.com/album/1Yv4mQTshB88IeYlQMinVY) | 4:03 | 2021-03-12 | 2023-01-08 |
+| [Nothin' On You](https://open.spotify.com/track/62q1hnohI2uDDZDtsnqWah) | [Kajiwara](https://open.spotify.com/artist/0KyM33SIqUSuaOam1QrWIo) | [By Popular Demand, Vol\. 2](https://open.spotify.com/album/36GxxUcP4g5cL3Kdfi5xAG) | 4:03 | 2022-12-29 |  |
 | [Novocaine \- Acoustic](https://open.spotify.com/track/1KZu4lCJJ4eCBUm9GgqHIL) | [TigerSwan](https://open.spotify.com/artist/2S0zyCV2F3fecOxuKHzM3i) | [Novocaine \(Acoustic\)](https://open.spotify.com/album/3YeIPHSRWUD5hDEJaB7oOZ) | 2:52 | 2021-03-12 |  |
 | [Ol' Sweet Day](https://open.spotify.com/track/3wXHHCV4A7KsoTlHZWVZPd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM) | 2:58 | 2022-04-22 |  |
 | [Ol' Sweet Day](https://open.spotify.com/track/5FJGb4bs2Y4BbiX59zXksH) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/24DUTosxSiZ6X1h1jMMmKX) | 2:58 | 2021-03-12 | 2022-07-29 |

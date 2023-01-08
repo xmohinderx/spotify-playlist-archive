@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 23809,
+  "num_followers": 23830,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk2MzIwMCwwMDAwMDAwMGJlODFlZmY1MzJmMzEyYzVmMGI1NjI0M2E5NTc5NDVh",
+  "snapshot_id": "MTY3Mjk2MzIwMCwwMDAwMDAwMGYwMjBhNjJlMzhkMDEzOGJiYzg3YjZmM2YzZGM2NDcx",
   "tracks": [
     {
       "added_at": "2023-01-06 00:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-01-06 00:00:00",
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/2ouErWVGuO47sxiOTbGl6p"
+      },
+      "artists": [
+        {
+          "name": "Carla Prata",
+          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
+        }
+      ],
+      "duration_ms": 160406,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/1TsJalUMdjzsuWK844ycbd"
+    },
+    {
+      "added_at": "2023-01-06 00:00:00",
+      "album": {
         "name": "BAE",
         "url": "https://open.spotify.com/album/3vdrJJMUftuYgEnOB4seca"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2023-01-06 00:00:00",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/2ouErWVGuO47sxiOTbGl6p"
-      },
-      "artists": [
-        {
-          "name": "Carla Prata",
-          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
-        }
-      ],
-      "duration_ms": 160406,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/1TsJalUMdjzsuWK844ycbd"
-    },
-    {
-      "added_at": "2023-01-06 00:00:00",
-      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/1kkh8UFijujeCRn91kAKDH"
       },
@@ -907,6 +907,26 @@
       "duration_ms": 147692,
       "name": "3AM",
       "url": "https://open.spotify.com/track/1hyewEko9M8kAQqNWxU5jY"
+    },
+    {
+      "added_at": "2023-01-06 00:00:00",
+      "album": {
+        "name": "Ver\u00e3o Azul",
+        "url": "https://open.spotify.com/album/3mDUg1qAUPoEEKJRh1FPMs"
+      },
+      "artists": [
+        {
+          "name": "D'ZRT",
+          "url": "https://open.spotify.com/artist/2Td4hZ8FWidGoeKhu7c73I"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 282411,
+      "name": "Ver\u00e3o Azul - Encore Sessions",
+      "url": "https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL"
     },
     {
       "added_at": "2023-01-06 00:00:00",
@@ -1031,26 +1051,6 @@
       "duration_ms": 185078,
       "name": "Lean",
       "url": "https://open.spotify.com/track/6tfaKwxYh25nFT5hbOA4cd"
-    },
-    {
-      "added_at": "2023-01-06 00:00:00",
-      "album": {
-        "name": "Sai Tenta\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6Lf391zTzvrZ0XEKZb3Z0k"
-      },
-      "artists": [
-        {
-          "name": "Weyda Mumia",
-          "url": "https://open.spotify.com/artist/5q8HFT2ItgzYkBimz2gKpn"
-        },
-        {
-          "name": "Edsong",
-          "url": "https://open.spotify.com/artist/3sr1yJlIkFap6eDUfpvGp5"
-        }
-      ],
-      "duration_ms": 201665,
-      "name": "Sai Tenta\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0F8tCc9fcUXysAdTrr44b1"
     }
   ],
   "unique_name": "Seda",

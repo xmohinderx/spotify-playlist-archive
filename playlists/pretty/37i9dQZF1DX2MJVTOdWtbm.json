@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
-  "num_followers": 103024,
+  "num_followers": 103026,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQzMTAwNSwwMDAwMDAwMDczYWUxN2ZmODJlN2M5ZDRiMjgzMDIzOTNlYzRlY2Y2",
+  "snapshot_id": "MTY3MjQzMTAwNSwwMDAwMDAwMDE4YjlmMTc0ZWVjMDI4ZGNjMTNmMGU0MTM1MGY5OTlm",
   "tracks": [
     {
       "added_at": "2022-12-30 18:14:14",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-12-30 18:14:14",
       "album": {
+        "name": "sola",
+        "url": "https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 186664,
+      "name": "sola",
+      "url": "https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX"
+    },
+    {
+      "added_at": "2022-12-30 18:14:14",
+      "album": {
         "name": "VAIV\u00c9N",
         "url": "https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 218823,
       "name": "VAIV\u00c9N",
       "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
-    },
-    {
-      "added_at": "2022-12-30 18:14:14",
-      "album": {
-        "name": "sola",
-        "url": "https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc"
-      },
-      "artists": [
-        {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
-        }
-      ],
-      "duration_ms": 186664,
-      "name": "sola",
-      "url": "https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX"
     },
     {
       "added_at": "2022-12-30 18:14:14",

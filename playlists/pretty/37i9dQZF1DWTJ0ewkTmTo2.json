@@ -1,12 +1,12 @@
 {
   "description": "Get ready to sing your hearts out with these family friendly road trip classics.",
-  "num_followers": 471013,
+  "num_followers": 471093,
   "original_name": "Family Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1MDczNSwwMDAwMDAwMDc0ZDA5MWIzOWFlN2Y4NzVlMWYwMmY0Y2U5NWQzMjg1",
+  "snapshot_id": "MTY2MDc1MDczNSwwMDAwMDAwMDdkZTU3Njk0NzY5N2VlNTg4ZWNjNTA5OGQ5NTJiZWY0",
   "tracks": [
     {
       "added_at": "2022-08-17 15:38:55",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-08-17 15:38:55",
       "album": {
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 147306,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
+    },
+    {
+      "added_at": "2022-08-17 15:38:55",
+      "album": {
         "name": "Broadway",
         "url": "https://open.spotify.com/album/3qqiudxVW3GmigrTHRUcLf"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 194466,
       "name": "Greased Lightnin'",
       "url": "https://open.spotify.com/track/0hq5mE9kYU4Sy2PpdZwGol"
-    },
-    {
-      "added_at": "2022-08-17 15:38:55",
-      "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 147306,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
     },
     {
       "added_at": "2022-08-17 15:38:55",

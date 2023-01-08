@@ -4,7 +4,7 @@
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-136 songs - 6 hr 55 min
+137 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Beat Dem Bad](https://open.spotify.com/track/16zJKw4xLkC6ssjawLYsQj) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Beat Dem Bad](https://open.spotify.com/album/1INQWVJOhCcOZHmLC7srG1) | 2:24 | 2020-09-25 |  |
 | [Behave Pun It](https://open.spotify.com/track/24zgCIu6PzdJD3hRl5LQzw) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Various Artists](https://open.spotify.com/album/2FcCwRLv72qMLjNoDzfauM) | 2:53 | 2020-09-25 | 2022-07-22 |
 | [Behave Pun It](https://open.spotify.com/track/56AjWZnckGDACRkOOQSYIz) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0), [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [Rich Again Riddim](https://open.spotify.com/album/1r9y31DgkTYfBh7z7xhJh3) | 2:51 | 2022-02-24 | 2022-11-12 |
+| [Bend Yuh Back](https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK) | [Bend Yuh Back](https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P) | 2:34 | 2022-02-24 |  |
 | [Bend Yuh Back](https://open.spotify.com/track/4DZSF4iDjtUZa9ODwI8JhF) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK) | [Caribé Rosé Riddim](https://open.spotify.com/album/5g7vAyBYjKR59SHWDm4jgl) | 2:34 | 2020-09-25 | 2022-07-29 |
 | [Bend Yuh Back](https://open.spotify.com/track/6d9GMNNJpGEjrH8OFDGEXN) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK) | [Bend Yuh Back](https://open.spotify.com/album/46tZ8IWlrpYgB9EDCa3Rfb) | 2:34 | 2022-02-24 | 2022-12-19 |
 | [Boom Bang](https://open.spotify.com/track/6gFQb0VIN3ucwjmOkyGYrH) | [Jus D](https://open.spotify.com/artist/6k1Y2g99ykUYvY6NnW9Rlh) | [Other Side](https://open.spotify.com/album/2LVRaPCxqMF64kET557Qqj) | 3:11 | 2020-09-25 | 2022-11-13 |
@@ -101,7 +102,7 @@
 | [Shots \(One for Di Road\)](https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:17 | 2022-02-24 |  |
 | [Shots \(One for di Road\)](https://open.spotify.com/track/7n6PtQ8QVddd66KQmdRnx8) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O) | [Baila Riddim](https://open.spotify.com/album/0fhlC4Bp0yWFry5VPZmM9o) | 2:17 | 2020-09-25 | 2022-07-29 |
 | [Skill & Steady](https://open.spotify.com/track/65dhZDMJ4eifxYqJjERBFW) | [Kevyn V](https://open.spotify.com/artist/3Ny44fCQVoy3gEwdyMqAUu), [DancehallRulerz](https://open.spotify.com/artist/7vKTly2ufzt1vPBUKvuuDh), [2Fik](https://open.spotify.com/artist/3TmucDSfk9ChMNebAXrYyO), [Dj Tades](https://open.spotify.com/artist/1zkwng6zki0lHoikDdfsHf) | [Skill & Steady](https://open.spotify.com/album/4hOYiwVEgniVVhVSC1Sflg) | 2:38 | 2020-09-25 | 2022-12-22 |
-| [Soak Me Good](https://open.spotify.com/track/0IC3SSV31lfYGQ6thjYcoP) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [The Jakson Bay Project](https://open.spotify.com/album/2Bsph4DDOen4CEGpesiBhl) | 3:19 | 2022-02-24 |  |
+| [Soak Me Good](https://open.spotify.com/track/0IC3SSV31lfYGQ6thjYcoP) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [The Jakson Bay Project](https://open.spotify.com/album/2Bsph4DDOen4CEGpesiBhl) | 3:19 | 2022-02-24 | 2023-01-08 |
 | [Soak Me Good](https://open.spotify.com/track/4b3AroQUoiU1rGvGlcg4DD) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [The Jakson Bay Project](https://open.spotify.com/album/2ply17SkT3hRJLs5kGh99c) | 3:19 | 2020-09-25 | 2022-07-27 |
 | [Splinters](https://open.spotify.com/track/5QaUy0q3xCIRtjdtV28WxR) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [The 2:00AM Project](https://open.spotify.com/album/20XQxBrkD07fk55JehBpjq) | 3:35 | 2020-09-25 | 2022-10-06 |
 | [Splinters](https://open.spotify.com/track/7MCzy3nV8UfPbuRC5vzQpU) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [The 2:00AM Project](https://open.spotify.com/album/01S0wyD4Pp8NjLPtbRWTEr) | 3:35 | 2022-02-24 | 2022-11-13 |

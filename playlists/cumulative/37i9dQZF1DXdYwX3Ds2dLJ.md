@@ -4,7 +4,7 @@
 
 > Querencia is here !
 
-109 songs - 5 hr 54 min
+110 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Remind of You](https://open.spotify.com/track/5eMcOpk3WrWKCw8Ttw9i0a) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/4FO6zeenyyhew9sB4ErG9z) | 4:03 | 2021-11-29 | 2022-07-29 |
 | [Roller Coaster](https://open.spotify.com/track/4xTqgN4ej7EHMd0gWXJdrI) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/4FO6zeenyyhew9sB4ErG9z) | 3:32 | 2021-11-29 | 2022-07-29 |
 | [Roller Coaster](https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:32 | 2022-07-11 |  |
-| [RUN](https://open.spotify.com/track/0pAwtPm7uIMxXlmyvMaZ5g) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [RUN](https://open.spotify.com/album/0yJV3VXMUvWWQGt27lojCu) | 2:56 | 2021-11-29 |  |
+| [RUN](https://open.spotify.com/track/0avAEHS9V6lDcZ5yUgU6sT) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [RUN](https://open.spotify.com/album/48A6N9jopPaR7RtwMiQysL) | 2:56 | 2022-10-22 |  |
+| [RUN](https://open.spotify.com/track/0pAwtPm7uIMxXlmyvMaZ5g) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [RUN](https://open.spotify.com/album/0yJV3VXMUvWWQGt27lojCu) | 2:56 | 2021-11-29 | 2023-01-08 |
 | [RUN](https://open.spotify.com/track/5EI1PqfGKGTk746tL2rqft) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [RUN](https://open.spotify.com/album/1A4uz12sqJwbiAOSyiKMVz) | 2:56 | 2022-07-11 | 2023-01-01 |
 | [Snapping](https://open.spotify.com/track/4IOxk5ep5ONrdlL0ZIy64v) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 3:33 | 2022-07-11 |  |
 | [Snapping](https://open.spotify.com/track/7JCi89HGiURxFpr6NITY7q) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:33 | 2021-11-29 | 2022-07-29 |

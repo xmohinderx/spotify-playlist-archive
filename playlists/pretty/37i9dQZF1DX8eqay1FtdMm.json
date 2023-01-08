@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover: Yerin Baek(\ubc31\uc608\ub9b0)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 310169,
+  "num_followers": 310178,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjYzNzk4NiwwMDAwMDAwMDZhZTQ5NDVmNjgyMjJjY2Q3NGViYzM5NDNmYWUwMTY0",
+  "snapshot_id": "MTY3MjYzNzk4NiwwMDAwMDAwMDMxN2E3ZDZjYjA5OWU3Mzk1MWU0ZTE4YjY5YmJlZjMx",
   "tracks": [
     {
       "added_at": "2023-01-02 05:39:46",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
+        "name": "Love, Yerin",
+        "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
         "name": "Way - SM STATION",
         "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 238853,
       "name": "Way",
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
-        "name": "Love, Yerin",
-        "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "Solo Christmas",
-        "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Solo Christmas",
-      "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
         "name": "I'M",
         "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 238252,
       "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
+        "name": "#tb",
+        "url": "https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Hongbi",
+          "url": "https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "#tb",
+      "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1135,22 +1135,22 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "#tb",
-        "url": "https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp"
+        "name": "Solo Christmas",
+        "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
       },
       "artists": [
         {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         },
         {
-          "name": "Hongbi",
-          "url": "https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN"
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 275200,
-      "name": "#tb",
-      "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
+      "duration_ms": 216146,
+      "name": "Solo Christmas",
+      "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1183,22 +1183,6 @@
       "duration_ms": 246293,
       "name": "\ub108\ub97c \uc704\ud574",
       "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Soju Hanjan",
-      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1247,6 +1231,22 @@
       "duration_ms": 212146,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Soju Hanjan",
+      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "My Favorite Winter",
-      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
         "name": "I Can't Help It",
         "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 224480,
       "name": "I Can't Help It (Prod. Jungkey)",
       "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
+        "name": "Faith OST",
+        "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 267937,
+      "name": "Walking Slowly",
+      "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1495,18 +1495,34 @@
     {
       "added_at": "2023-01-02 05:39:46",
       "album": {
-        "name": "Faith OST",
-        "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
       },
       "artists": [
         {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
         }
       ],
-      "duration_ms": 267937,
-      "name": "Walking Slowly",
-      "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
+      "duration_ms": 229386,
+      "name": "My Favorite Winter",
+      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
+    },
+    {
+      "added_at": "2023-01-02 05:39:46",
+      "album": {
+        "name": "Bad Influence",
+        "url": "https://open.spotify.com/album/64UpaMQNLdwF1JD0JDaWor"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Bad Influence",
+      "url": "https://open.spotify.com/track/5IfWm7ztpJW3Up9pTLAAUc"
     },
     {
       "added_at": "2023-01-02 05:39:46",
@@ -1543,22 +1559,6 @@
       "duration_ms": 246320,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
-    },
-    {
-      "added_at": "2023-01-02 05:39:46",
-      "album": {
-        "name": "Bad Influence",
-        "url": "https://open.spotify.com/album/64UpaMQNLdwF1JD0JDaWor"
-      },
-      "artists": [
-        {
-          "name": "Bernard Park",
-          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Bad Influence",
-      "url": "https://open.spotify.com/track/5IfWm7ztpJW3Up9pTLAAUc"
     },
     {
       "added_at": "2023-01-02 05:39:46",

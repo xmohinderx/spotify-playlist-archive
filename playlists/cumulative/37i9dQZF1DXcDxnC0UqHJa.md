@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-227 songs - 14 hr 39 min
+228 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [i'm not okay](https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [i'm not okay](https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa) | 2:54 | 2021-12-13 | 2022-07-26 |
 | [I'm on Fire](https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 3:12 | 2021-12-13 |  |
 | [If I Needed You](https://open.spotify.com/track/0llpbPQLATUggJkRkZovL9) | [Matthew Barber & Jill Barber](https://open.spotify.com/artist/368ITj3nE0l1DrS8Gkg20T) | [The Family Album](https://open.spotify.com/album/449bkc35qyRId5JYy8JNeI) | 4:22 | 2021-12-13 | 2022-06-24 |
-| [If I Were A Carpenter](https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW) | [Ramblin' Jack Elliott](https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b) | [Young Brigham](https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO) | 5:04 | 2021-12-13 |  |
+| [If I Were A Carpenter](https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW) | [Ramblin' Jack Elliott](https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b) | [Young Brigham](https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO) | 5:04 | 2021-12-13 | 2023-01-08 |
 | [If It Makes You Happy](https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:15 | 2021-12-13 | 2022-07-29 |
 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 | 2022-06-03 |  |
 | [If You Could Read My Mind](https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [If You Could Read My Mind](https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4) | 3:17 | 2021-12-13 |  |
@@ -235,5 +235,6 @@
 | [You Can Call Me Al](https://open.spotify.com/track/5ByfgksA7N2f70dnuFABTE) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [You Can Call Me Al](https://open.spotify.com/album/2cfSqRUVoq2Q8Ds0upCXM4) | 4:13 | 2021-12-13 | 2022-07-29 |
 | [You Don't Know How It Feels](https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [You Don't Know How It Feels](https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX) | 3:42 | 2021-12-13 |  |
 | [You Turn Me On, I'm A Radio](https://open.spotify.com/track/2TUSsSw38J1S1BHI78XMYT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [You Turn Me On, I'm A Radio](https://open.spotify.com/album/3POZ1VNpAUcGhfKbjVjUcQ) | 3:21 | 2021-12-13 | 2022-07-29 |
+| [You Turn Me On, I'm a Radio \- Acoustic](https://open.spotify.com/track/0mdOBageiouWrzRnQTCkJH) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4) | 3:21 | 2022-10-14 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

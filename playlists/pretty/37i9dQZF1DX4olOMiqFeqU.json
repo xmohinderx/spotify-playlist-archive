@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2339483,
+  "num_followers": 2339550,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgxMzg3MCwwMDAwMDAwMDVlNTJkMzQxNTlhZTczOWExY2IzOTQxZDRhMzgwZjdk",
+  "snapshot_id": "MTY3MjgxMzg3MCwwMDAwMDAwMDE2NTA1NjNmMGM4ZmIzNmEyODA2MTJlZDFjYWIxOWYz",
   "tracks": [
     {
       "added_at": "2023-01-04 06:31:10",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Sa Susunod na Habang Buhay",
-        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 288189,
-      "name": "Sa Susunod na Habang Buhay",
-      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
         "name": "Capacities",
         "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
       },
@@ -107,34 +91,50 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Fuchsiang Pag-Ibig",
-        "url": "https://open.spotify.com/album/08SEZDvRXrrNs1C2y73MLi"
+        "name": "Sa Susunod na Habang Buhay",
+        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
       },
       "artists": [
         {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 306466,
-      "name": "Ikaw Lamang",
-      "url": "https://open.spotify.com/track/2v5VIWMjZxeiG52KckiXxS"
+      "duration_ms": 288189,
+      "name": "Sa Susunod na Habang Buhay",
+      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
     },
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Bigotilyo",
-        "url": "https://open.spotify.com/album/0kV35wyXIJKk04VRG0DdF4"
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
       },
       "artists": [
         {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
         }
       ],
-      "duration_ms": 168493,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/3OpGUlDmRUXh0NkIYWoIlD"
+      "duration_ms": 349713,
+      "name": "Mundo",
+      "url": "https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Materyal",
+        "url": "https://open.spotify.com/album/7MCYCgE6fQHYkhj29FHRcY"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Nadarang",
+      "url": "https://open.spotify.com/track/6LJ1p1h5EcMK4VPeCLDSoF"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
+        "name": "Pa-umaga",
+        "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
       },
       "artists": [
         {
-          "name": "IV Of Spades",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
         }
       ],
-      "duration_ms": 349713,
-      "name": "Mundo",
-      "url": "https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8"
+      "duration_ms": 189019,
+      "name": "Pa-umaga",
+      "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -219,54 +219,6 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Materyal",
-        "url": "https://open.spotify.com/album/7MCYCgE6fQHYkhj29FHRcY"
-      },
-      "artists": [
-        {
-          "name": "Shanti Dope",
-          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Nadarang",
-      "url": "https://open.spotify.com/track/6LJ1p1h5EcMK4VPeCLDSoF"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Pa-umaga",
-        "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
-      },
-      "artists": [
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 189019,
-      "name": "Pa-umaga",
-      "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Noon Time Show",
-        "url": "https://open.spotify.com/album/6WzFODPnZ5SW1qTvTELSxW"
-      },
-      "artists": [
-        {
-          "name": "The Itchyworms",
-          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
-        }
-      ],
-      "duration_ms": 364106,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/6mQzZ2aRnKSNgckAehBgwD"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
         "name": "I Need You More Today",
         "url": "https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj"
       },
@@ -303,18 +255,18 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Buruguduystunstugudunstuy",
-        "url": "https://open.spotify.com/album/29tJR2oXdGAFHMQkcgPUmn"
+        "name": "Noon Time Show",
+        "url": "https://open.spotify.com/album/6WzFODPnZ5SW1qTvTELSxW"
       },
       "artists": [
         {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+          "name": "The Itchyworms",
+          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Harana",
-      "url": "https://open.spotify.com/track/3gyEt1vswIEbpQqBs18Lha"
+      "duration_ms": 364106,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/6mQzZ2aRnKSNgckAehBgwD"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -331,22 +283,6 @@
       "duration_ms": 253013,
       "name": "Tell Me Where It Hurts",
       "url": "https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -403,6 +339,22 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
         "name": "G9",
         "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
       },
@@ -431,22 +383,6 @@
       "duration_ms": 273200,
       "name": "214",
       "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -503,6 +439,22 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -607,22 +559,6 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Langit. Luha.",
-        "url": "https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA"
-      },
-      "artists": [
-        {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
-        }
-      ],
-      "duration_ms": 241029,
-      "name": "Pasensya Ka Na",
-      "url": "https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
         "name": "Buwan",
         "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
       },
@@ -655,6 +591,22 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
+        "name": "Umaga",
+        "url": "https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "duration_ms": 303937,
+      "name": "Hindi Tayo Pwede",
+      "url": "https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
         "name": "Sid & Aya (Not a Love Story) [Original Movie Soundtrack]",
         "url": "https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U"
       },
@@ -667,6 +619,22 @@
       "duration_ms": 260599,
       "name": "Di Na Muli",
       "url": "https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Langit. Luha.",
+        "url": "https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 241029,
+      "name": "Pasensya Ka Na",
+      "url": "https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -687,22 +655,6 @@
       "duration_ms": 242453,
       "name": "Ipagpatawad Mo",
       "url": "https://open.spotify.com/track/3On64r714N7t1Q4KuqMYlO"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Umaga",
-        "url": "https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N"
-      },
-      "artists": [
-        {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
-        }
-      ],
-      "duration_ms": 303937,
-      "name": "Hindi Tayo Pwede",
-      "url": "https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -863,6 +815,54 @@
       "duration_ms": 240065,
       "name": "Till I Met You",
       "url": "https://open.spotify.com/track/0JzwzRDkwZr8s1WRfNgUqA"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/472GgeFZaCdRLcL3cT0IAn"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 235952,
+      "name": "Kahit Pa",
+      "url": "https://open.spotify.com/track/2VNjWwKlOWU5qqKa5EquLW"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "It Might Be You (Theme from Everyday I Love You)",
+        "url": "https://open.spotify.com/album/0obyXODEHnssLgwFovpusL"
+      },
+      "artists": [
+        {
+          "name": "Michael Pangilinan",
+          "url": "https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV"
+        }
+      ],
+      "duration_ms": 252969,
+      "name": "It Might Be You - Theme from Everyday I Love You",
+      "url": "https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/2DIpgoeZAbwk3wF1qSDj8v"
+      },
+      "artists": [
+        {
+          "name": "Eraserheads",
+          "url": "https://open.spotify.com/artist/7374lH6kwx9uQATYQ9H3Cp"
+        }
+      ],
+      "duration_ms": 450333,
+      "name": "Ang Huling El Bimbo",
+      "url": "https://open.spotify.com/track/21LMl54FIe7J5oOoZzgeiQ"
     }
   ],
   "unique_name": "OPM Favorites",

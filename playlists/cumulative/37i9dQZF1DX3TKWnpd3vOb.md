@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Pettinellis
 
-219 songs - 14 hr 1 min
+220 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Fuego y Mar](https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Fuego y Mar](https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ) | 3:44 | 2022-04-08 |  |
 | [Fuegos de Artificio 2.0](https://open.spotify.com/track/5CX7s2RUcpCwZg9XWTR5qM) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3) | [Fuegos de Artificio 2.0](https://open.spotify.com/album/4apeFsL6k0TlfFVJi90zQz) | 2:44 | 2022-04-08 | 2022-07-19 |
 | [Fuerzas Que Retroceden](https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Fuerzas Que Retroceden](https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE) | 3:51 | 2022-09-05 |  |
+| [Goces](https://open.spotify.com/track/489fxbPaExjr7hfYNCwH5y) | [Parálisis del Sueño](https://open.spotify.com/artist/56cwA6ldbu5N2mB1MDApQo) | [Goces](https://open.spotify.com/album/1aCs9dSByl1i9SAXmtMOGf) | 2:01 | 2023-01-06 |  |
 | [Gol de Caszely](https://open.spotify.com/track/4G5BUwn7bk6GmxwZ2PNnlj) | [Daniel Guerrero](https://open.spotify.com/artist/46DjlImkqCqoPI8bQFfGma) | [Gol de Caszely](https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj) | 3:48 | 2022-04-08 |  |
 | [Gris](https://open.spotify.com/track/3Rt94RtEaG0Er5fuq9mHRe) | [Carga4](https://open.spotify.com/artist/7oLFGxYGGi5T5iHABngpBM) | [Gris](https://open.spotify.com/album/06S8bPjcB55y7YomGYHVCm) | 3:32 | 2022-04-08 |  |
 | [Hacia una Nueva Dimensión](https://open.spotify.com/track/12jmlcbiaDefKxYcoZ69uc) | [Implos](https://open.spotify.com/artist/56YpnBaRqcv4nmiNmwV6k6) | [Hacia una Nueva Dimensión](https://open.spotify.com/album/1ozLu3pQzjBDO0WGdsDvke) | 4:58 | 2022-04-08 | 2022-07-19 |
@@ -156,7 +157,7 @@
 | [Otoño](https://open.spotify.com/track/5682y6zWXiNg0TocWPCnRN) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Otoño](https://open.spotify.com/album/6MSOXs9G4BcYGwFnQ0BcfI) | 2:33 | 2022-04-08 | 2022-12-26 |
 | [Parte 2](https://open.spotify.com/track/6jHDDFc8CPGjjo3rsubBwC) | [Azotea Bulnes](https://open.spotify.com/artist/0pQb15WbZCDXx5Ou5GxAxF), [rrropet](https://open.spotify.com/artist/6ak6X5gg1hO5QzlKEmFeUO) | [Parte 2](https://open.spotify.com/album/6SZlCR1OAOrTn2hPY0bdjj) | 3:52 | 2022-04-08 | 2022-07-25 |
 | [Pienso en Ti](https://open.spotify.com/track/2h0cTU9fOCtf0aibqHIRWJ) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Pienso en Ti](https://open.spotify.com/album/0IUvvOWKFGYHQUzS7VC4Ow) | 4:25 | 2022-04-08 | 2022-12-17 |
-| [Policía Loca](https://open.spotify.com/track/5XiCtLCLCv9pycjDaQTug1) | [Radio Veneno](https://open.spotify.com/artist/5iZe17DQj9sY3ME8rXFrfI) | [Policía Loca](https://open.spotify.com/album/090MnaImdhok2B2OXv6gwF) | 3:12 | 2022-04-08 |  |
+| [Policía Loca](https://open.spotify.com/track/5XiCtLCLCv9pycjDaQTug1) | [Radio Veneno](https://open.spotify.com/artist/5iZe17DQj9sY3ME8rXFrfI) | [Policía Loca](https://open.spotify.com/album/090MnaImdhok2B2OXv6gwF) | 3:12 | 2022-04-08 | 2023-01-08 |
 | [Post Mortem](https://open.spotify.com/track/55kLNgLK4Jxo5iBApjJVz8) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Post Mortem](https://open.spotify.com/album/2xP895xgdDobkJEasc3jEY) | 4:01 | 2022-04-08 |  |
 | [Primavera Loka](https://open.spotify.com/track/0upepgbjktdFmTKIrsdxhx) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW), [Matahembra](https://open.spotify.com/artist/3SxWpsYyoAaE1guHbd0lfW) | [Primavera Loka](https://open.spotify.com/album/3PHLBfXv8wlQXh7y3JDWmc) | 5:34 | 2022-04-08 |  |
 | [Privado](https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx) | [Café en Saturno](https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T) | [Privado](https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG) | 4:41 | 2022-04-08 |  |

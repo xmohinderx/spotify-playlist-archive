@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3LZZPxNDGDFVSIPqf4JuEf">Ice Spice</a>
 
-859 songs - 1 day 14 hr 56 min
+860 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,8 @@
 | [Mountains \(with Fivio Foreign & Young M.A\)](https://open.spotify.com/track/5DeONcxxhHSBnmODMadT5l) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:48 | 2022-04-15 | 2022-06-04 |
 | [Move](https://open.spotify.com/track/0oqfoEgagq4SI3tqcuiD1g) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj), [City James](https://open.spotify.com/artist/3ozF8iFAzukd7ZyWuPDOKd) | [Turtle Crossing](https://open.spotify.com/album/1IjVN39eXQyaxgG6wVJYQA) | 2:40 | 2022-05-20 | 2022-07-02 |
 | [MR MEMPHIS MASSACRE](https://open.spotify.com/track/0D6uigxXyrqHiFh6lTN7q5) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [MEMPHIS MASSACRE III](https://open.spotify.com/album/6zpMySpRlvtUlFhl3TkZ7k) | 2:51 | 2022-10-28 | 2022-12-31 |
-| [Mr\. CBFW \(feat\. G Herbo\)](https://open.spotify.com/track/3olMRANIDgoV0UlCKsnn0C) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Drill Season](https://open.spotify.com/album/7LM5hMPyfvz6XE6iChpxlf) | 2:43 | 2022-11-18 |  |
+| [Mr\. CBFW \(feat\. G Herbo\)](https://open.spotify.com/track/21VQqg9k0znNBQczrhvTIf) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Drill Season \(Extended\)](https://open.spotify.com/album/6daSSJZ16r6AH9gj8bZbWG) | 2:43 | 2022-11-18 |  |
+| [Mr\. CBFW \(feat\. G Herbo\)](https://open.spotify.com/track/3olMRANIDgoV0UlCKsnn0C) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Drill Season](https://open.spotify.com/album/7LM5hMPyfvz6XE6iChpxlf) | 2:43 | 2022-11-18 | 2023-01-08 |
 | [Mr\. Hanky](https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mr\. Hanky](https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu) | 2:22 | 2023-01-06 |  |
 | [Mud Brothers](https://open.spotify.com/track/1E6xPYt9FyvkMnDeyVHLby) | [lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Slimelife Shawty](https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf) | [Mud Brothers](https://open.spotify.com/album/42uCYsRhcqIsEmL3anu3FH) | 2:46 | 2022-01-21 | 2022-03-12 |
 | [Mudbaby \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/4RCQPrRcIH7jFBJ8khMQn3) | [D3szn](https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Mudbaby \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4ZIqCkN9QsLsYUPZKYxhjQ) | 2:24 | 2022-04-29 | 2022-06-18 |

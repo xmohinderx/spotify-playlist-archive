@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-305 songs - 1 day 4 hr 31 min
+306 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [It's Always You](https://open.spotify.com/track/6w4GCn9Tg8iJLUZlN3fxB7) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker My Ideal](https://open.spotify.com/album/2rdeJjByPHjFzKgMXg3JwC) | 3:31 | 2020-05-02\* | 2021-09-01 |
 | [January](https://open.spotify.com/track/3bPNIOqP9KeWX0Z6SpM4qC) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 8:38 | 2020-05-02\* | 2022-07-26 |
 | [January](https://open.spotify.com/track/6O84d53YeV1buAGecAxoRA) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 8:38 | 2022-09-08 | 2022-10-08 |
+| [Just Go Ahead](https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA) | [Federica Lorusso](https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ) | [Outside Introspections](https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf) | 5:09 | 2023-01-05 |  |
 | [Kandaiki](https://open.spotify.com/track/3jzerzfM8lLFej7MAry7qG) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Animalia](https://open.spotify.com/album/4y83vqVrHDM6ZVK9oyOjhG) | 5:15 | 2020-05-11 | 2021-08-19 |
 | [Khmer](https://open.spotify.com/track/5VXs7VjhKyExWRE9pAFagq) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Khmer](https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6) | 4:59 | 2020-06-12 | 2021-05-28 |
 | [Kiss From A Rose](https://open.spotify.com/track/72vt5HsXp8V9R6Xu3CABi1) | [Julia Hülsmann Trio](https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG) | [The End Of A Summer](https://open.spotify.com/album/7cyyk6fFk21dJwK2m8nItZ) | 4:05 | 2020-05-02\* | 2021-05-28 |
@@ -156,7 +157,7 @@
 | [Let Us Not Forget To Be Kind](https://open.spotify.com/track/6dxX3lE5atGmus7Cax42fL) | [Anthony Fung](https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W), [Roni Eytan](https://open.spotify.com/artist/6AQpvrd4EM7xY2dWW0QAn6) | [What Does it Mean to be Free?](https://open.spotify.com/album/6qFrQ3lMRdKrBwvcIKQQCX) | 5:38 | 2022-05-05 |  |
 | [Life And Death](https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG) | [Into The Silence](https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD) | 9:18 | 2020-05-02\* | 2022-12-30 |
 | [Lina](https://open.spotify.com/track/2fYcpbTFptY9uRcaY56NRu) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Nadi](https://open.spotify.com/album/3kvzs5jLHsGyDZnz5oAaA4) | 5:38 | 2020-05-02\* | 2021-09-17 |
-| [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 | 2022-07-21 |  |
+| [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 | 2022-07-21 | 2023-01-08 |
 | [Longing](https://open.spotify.com/track/67sVPIVxFU882Z6HpdBjXZ) | [Lukas Wögler Quartett](https://open.spotify.com/artist/5cbn5mT0NrBpqJN0Uad4Nn) | [Alba](https://open.spotify.com/album/3FErjLj1EnVocxXwa6WkBZ) | 8:21 | 2022-09-22 | 2022-11-22 |
 | [Mankind to Earth](https://open.spotify.com/track/5W4WLKjKt4rVmyQV8CsCZ2) | [Giulio Gentile](https://open.spotify.com/artist/5dDXTI6O0vQfGOWQkHDUa9), [Pietro Pancella](https://open.spotify.com/artist/2uLDDucEurdu6oS7ZIUkmj), [Michele Santoleri](https://open.spotify.com/artist/0LPDkCFv1nMPT5GqDlwxKH) | [Mankind to Earth](https://open.spotify.com/album/3gVD9Plwh4a4ajwRFKB73J) | 8:53 | 2022-02-24 | 2023-01-03 |
 | [Mara](https://open.spotify.com/track/32wlGWGlQ2KfNb7bn3nvzI) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Mara](https://open.spotify.com/album/5kBqpDDko6Dc387RYaTCU0) | 5:08 | 2020-05-02\* | 2022-04-17 |

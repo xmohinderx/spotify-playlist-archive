@@ -1,12 +1,12 @@
 {
   "description": "Eclectic indie love songs from throughout the years. Delicate lyrics that say it best.",
-  "num_followers": 183466,
+  "num_followers": 183521,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU5NzQ2OSwwMDAwMDAwMDQwZGM1YjU1YWFiMDdlOWQ3ODRiYmVlMmJjNzZiOTk4",
+  "snapshot_id": "MTY2NTU5NzQ2OSwwMDAwMDAwMDFkZGNhYTVmNDczMjJmMzFlZDQ4YzFjZDVjZTY1MThm",
   "tracks": [
     {
       "added_at": "2022-10-12 17:57:49",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-10-12 17:57:49",
       "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 250668,
-      "name": "Til Kingdom Come",
-      "url": "https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n"
-    },
-    {
-      "added_at": "2022-10-12 17:57:49",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 148866,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
+    },
+    {
+      "added_at": "2022-10-12 17:57:49",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 250668,
+      "name": "Til Kingdom Come",
+      "url": "https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n"
     },
     {
       "added_at": "2022-10-12 17:57:49",

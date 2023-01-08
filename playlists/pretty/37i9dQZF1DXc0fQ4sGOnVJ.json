@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 146175,
+  "num_followers": 146179,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDBmMjIwYTJjYjVhNmViYTI0ZmEzMDFkMWE3ZTk0NDVh",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGQwNmIzOWM0ODJmYWYzZjU3MDkyNWU2YTU2ZjNiMDY0",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -295,42 +295,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "If She Ain't Country (Remix)",
-        "url": "https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr"
-      },
-      "artists": [
-        {
-          "name": "Justin Champagne",
-          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 176989,
-      "name": "If She Ain't Country - Remix",
-      "url": "https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/5lTeytt3nJN1hz8bZAiegJ"
-      },
-      "artists": [
-        {
-          "name": "Jesslee",
-          "url": "https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1"
-        }
-      ],
-      "duration_ms": 184166,
-      "name": "Ammunition",
-      "url": "https://open.spotify.com/track/5z4lIzved0Jy9AJcwb44uS"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Blacked Out",
         "url": "https://open.spotify.com/album/4F2ntJClTmxq4oP82MuMV2"
       },
@@ -375,6 +339,42 @@
       "duration_ms": 489360,
       "name": "Outback (Extended Remix)",
       "url": "https://open.spotify.com/track/5ycmDZVfvCFRIwALkTFwbb"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/5lTeytt3nJN1hz8bZAiegJ"
+      },
+      "artists": [
+        {
+          "name": "Jesslee",
+          "url": "https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1"
+        }
+      ],
+      "duration_ms": 184166,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/5z4lIzved0Jy9AJcwb44uS"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "If She Ain't Country (Remix)",
+        "url": "https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr"
+      },
+      "artists": [
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 176989,
+      "name": "If She Ain't Country - Remix",
+      "url": "https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Halfway To Heaven (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "Dirt Road Anthem (Revisited)",
-      "url": "https://open.spotify.com/track/13KyJdVV5uKFdwwkJiK7Vc"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Outlaw In Me",
         "url": "https://open.spotify.com/album/0Jwr7HyNF4D7v6xK1o8vfw"
       },
@@ -1115,6 +1095,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Halfway To Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "Dirt Road Anthem (Revisited)",
+      "url": "https://open.spotify.com/track/13KyJdVV5uKFdwwkJiK7Vc"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Time to Get Right",
         "url": "https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB"
       },
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Country or Not",
+        "url": "https://open.spotify.com/album/5LMGybLSOAs73pIvUTebbc"
+      },
+      "artists": [
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "DJ Cliffy D",
+          "url": "https://open.spotify.com/artist/7oClwfAmFyiRWSCkdOU71P"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "Country or Not",
+      "url": "https://open.spotify.com/track/3e0p5d45BgBSUXbxQx643y"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Deep Creek",
         "url": "https://open.spotify.com/album/56nF5vr56IXqttefq8N6GX"
       },
@@ -1339,22 +1359,6 @@
       "duration_ms": 220595,
       "name": "Mustang on Mud Tires",
       "url": "https://open.spotify.com/track/3QkxCzzUXEGjqNlXeB0fMy"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Mud Digger 5",
-        "url": "https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl"
-      },
-      "artists": [
-        {
-          "name": "Gunnar & The Grizzly Boys",
-          "url": "https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "Standard American",
-      "url": "https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1403,6 +1407,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Mud Digger 5",
+        "url": "https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl"
+      },
+      "artists": [
+        {
+          "name": "Gunnar & The Grizzly Boys",
+          "url": "https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "Standard American",
+      "url": "https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Lethal",
         "url": "https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci"
       },
@@ -1439,22 +1459,6 @@
       "duration_ms": 282462,
       "name": "Redneck Rich",
       "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Dirt Road Revival",
-        "url": "https://open.spotify.com/album/69xqGT8TBqJ1ewk8LnCJMk"
-      },
-      "artists": [
-        {
-          "name": "Charlie Farley",
-          "url": "https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk"
-        }
-      ],
-      "duration_ms": 194064,
-      "name": "Southern Boy",
-      "url": "https://open.spotify.com/track/27cntMbTvzUyvklZB6bSXP"
     }
   ],
   "unique_name": "Field Party",

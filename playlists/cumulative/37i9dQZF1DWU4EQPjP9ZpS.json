@@ -2926,6 +2926,24 @@
     {
       "album": {
         "name": "2018",
+        "url": "https://open.spotify.com/album/2IMkTi57ahtTjLQjlY8jQ8"
+      },
+      "artists": [
+        {
+          "name": "Trushinitas",
+          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128673,
+      "name": "High Walking",
+      "url": "https://open.spotify.com/track/5B333Z3ohyKTlY1d4GaI6w"
+    },
+    {
+      "album": {
+        "name": "2018",
         "url": "https://open.spotify.com/album/0azJKQH9MvjyddULlm2Roc"
       },
       "artists": [
@@ -3288,7 +3306,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 212910,
       "name": "Instance",
       "url": "https://open.spotify.com/track/3hQMvun87AnD0vROU4PGw2"

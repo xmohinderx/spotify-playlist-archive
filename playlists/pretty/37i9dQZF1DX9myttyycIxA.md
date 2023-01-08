@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Teenage Priest
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,728 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,750 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 26 | [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 |
 | 27 | [When You Know You Know](https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:08 |
 | 28 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 |
-| 29 | [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [Ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 |
-| 30 | [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 |
+| 29 | [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 |
+| 30 | [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [Ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 |
 | 31 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
 | 32 | [Speeding 72](https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:58 |
 | 33 | [Forgetting Delaney](https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Forgetting Delaney](https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI) | 2:32 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 37 | [Knocking on Wood](https://open.spotify.com/track/49ELYuuZE5HllYscrW7ZtB) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Knocking on Wood](https://open.spotify.com/album/2TR4wew45TemGUpSbMZOuz) | 4:11 |
 | 38 | [Fallout](https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Fallout](https://open.spotify.com/album/5xEDC9B8ohUyuoovW86zzX) | 4:36 |
 | 39 | [Miracles](https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:16 |
-| 40 | [Abalone](https://open.spotify.com/track/4OGBU3agg96CA483Q280FP) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Abalone](https://open.spotify.com/album/00V1SgynYEv6OjsLOUo5mT) | 2:06 |
-| 41 | [Aftershook](https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 3:25 |
+| 40 | [Aftershook](https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 3:25 |
+| 41 | [Abalone](https://open.spotify.com/track/4OGBU3agg96CA483Q280FP) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Abalone](https://open.spotify.com/album/00V1SgynYEv6OjsLOUo5mT) | 2:06 |
 | 42 | [Keep It Average](https://open.spotify.com/track/1XzzByAlOg45CFjTKONinS) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [Keep It Average](https://open.spotify.com/album/17HqzoG2vfT71L68dAmMLC) | 3:13 |
 | 43 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 |
 | 44 | [You are my House](https://open.spotify.com/track/5OP4YDqfuksol3eFGxhgvr) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Quiet the Room](https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE) | 3:08 |
@@ -64,29 +64,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 54 | [Bounds](https://open.spotify.com/track/3u2gVMfuOJWi4MF8mh4nof) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Bounds](https://open.spotify.com/album/2GmeIjqLRMB2wpn0z5hLd9) | 3:27 |
 | 55 | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf) | 2:33 |
 | 56 | [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 |
-| 57 | [‎vacation](https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎vacation](https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz) | 3:50 |
-| 58 | [Bull Believer](https://open.spotify.com/track/6wYlN6ikOUsS0PQEI4XJMl) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bull Believer](https://open.spotify.com/album/7snO1rfm1c5QndkfgQVsFb) | 8:30 |
+| 57 | [Bull Believer](https://open.spotify.com/track/6wYlN6ikOUsS0PQEI4XJMl) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bull Believer](https://open.spotify.com/album/7snO1rfm1c5QndkfgQVsFb) | 8:30 |
+| 58 | [‎vacation](https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎vacation](https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz) | 3:50 |
 | 59 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 |
 | 60 | [Spiderweb](https://open.spotify.com/track/4jUA8bO0BppkejDTUVidVR) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [When The Wind Forgets Your Name](https://open.spotify.com/album/4mI5F5FT88NKoCaW9CdaIN) | 5:23 |
 | 61 | [insomniac](https://open.spotify.com/track/7ErCpZ3lV1Hb4VulM0yc6R) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/46B1KESuQU3KveXeKzMCPE) | 3:04 |
 | 62 | [making out at the cemetery](https://open.spotify.com/track/6dKxNezVre0MtpWtvrQnLS) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [making out at the cemetery](https://open.spotify.com/album/4svnzibfqU4IMugrAwPn5s) | 2:30 |
-| 63 | [Someone to Love](https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:56 |
-| 64 | [How It Ends](https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/31x43z5gF8ZJZnpfXFrN24) | 3:07 |
-| 65 | [Leap Day](https://open.spotify.com/track/5nBj7IUAzB42XV5ZIpQws5) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [Leap Day](https://open.spotify.com/album/5bIvA0LQnYPoZNpqJAKlFw) | 2:16 |
+| 63 | [Leap Day](https://open.spotify.com/track/5nBj7IUAzB42XV5ZIpQws5) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [Leap Day](https://open.spotify.com/album/5bIvA0LQnYPoZNpqJAKlFw) | 2:16 |
+| 64 | [Someone to Love](https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:56 |
+| 65 | [How It Ends](https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/31x43z5gF8ZJZnpfXFrN24) | 3:07 |
 | 66 | [Motorbike](https://open.spotify.com/track/2JMB5piiHlzUWqvnPfuVCO) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:21 |
 | 67 | [Space Cowboy](https://open.spotify.com/track/3039eQZmZy2PVsHyyOf78m) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Space Cowboy](https://open.spotify.com/album/7mVUxn3M8ExqlRZOWRiLVq) | 4:06 |
 | 68 | [WASTELAND](https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WASTELAND](https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14) | 3:59 |
-| 69 | [You Know](https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Suburbia](https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI) | 3:17 |
-| 70 | [Low Era](https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 4:14 |
-| 71 | [Dog Song 2](https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Hayday](https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt) | 2:10 |
+| 69 | [Low Era](https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 4:14 |
+| 70 | [Dog Song 2](https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Hayday](https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt) | 2:10 |
+| 71 | [You Know](https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Suburbia](https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI) | 3:17 |
 | 72 | [ILY2](https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k) | 3:45 |
 | 73 | [Boy Next Door](https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi) | [Test Subjects](https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB) | [Study](https://open.spotify.com/album/0RzFyC16Ob2wCszOUvH0EQ) | 3:39 |
 | 74 | [Sandra](https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Sandra](https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi) | 3:54 |
 | 75 | [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 |
 | 76 | [Sepsis](https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs) | 3:46 |
 | 77 | [how would you know](https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [how would you know](https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr) | 2:57 |
-| 78 | [Eyes](https://open.spotify.com/track/3SSXUmJovq6rivUE81Smvs) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Oldies & Goldies](https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt) | 3:41 |
-| 79 | [French Blonde](https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [French Blonde](https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z) | 4:26 |
+| 78 | [French Blonde](https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [French Blonde](https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z) | 4:26 |
+| 79 | [Eyes](https://open.spotify.com/track/3SSXUmJovq6rivUE81Smvs) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Oldies & Goldies](https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt) | 3:41 |
 | 80 | [Contingency Song](https://open.spotify.com/track/1P9hAqqF31tXHr58dwv860) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Contingency Song](https://open.spotify.com/album/2Vlh2FhevwagFT6TICYYmU) | 6:31 |
 | 81 | [Control Theory](https://open.spotify.com/track/5Kre0cCwtaS43DCuq7VOd3) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Control Theory](https://open.spotify.com/album/0pTqApEaeKpZkskygWIXdf) | 1:59 |
 | 82 | [Ur Name on a Grain of Rice \- demo](https://open.spotify.com/track/5hbXAAIUJTpubHbaeroIzG) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Ur Name on a Grain of Rice \(demo\)](https://open.spotify.com/album/3OyhwGUgCnFAbD3sgZlkhu) | 4:30 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 96 | [Hush](https://open.spotify.com/track/6QvNcedB1Y7nYJXZ3txTIL) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Hush](https://open.spotify.com/album/3eQ0X8bC4GexeleVPfdsXM) | 4:42 |
 | 97 | [One Day](https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6) | [FredAtlast](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55) | [One Day](https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU) | 4:27 |
 | 98 | [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 |
-| 99 | [Breaking Up](https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Breaking Up](https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b) | 3:03 |
-| 100 | [National Team](https://open.spotify.com/track/7xuuu097llYHPptd42QxOV) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [National Team](https://open.spotify.com/album/0ebH6G0lKJ32rdd6lmvsHQ) | 3:33 |
+| 99 | [National Team](https://open.spotify.com/track/7xuuu097llYHPptd42QxOV) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [National Team](https://open.spotify.com/album/0ebH6G0lKJ32rdd6lmvsHQ) | 3:33 |
+| 100 | [Breaking Up](https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Breaking Up](https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b) | 3:03 |
 
-Snapshot ID: `MTY3MzAwMTQ4MCwwMDAwMDAwMGU5YTVhOTdjNDM2Y2VkNGExYjU5OGZlNDNlZTFiMzU2`
+Snapshot ID: `MTY3MzAwMTQ4MCwwMDAwMDAwMDBhNTA4MjM2OTM0N2I5YTRlYjhlZTZkM2Y0N2FiM2Zh`

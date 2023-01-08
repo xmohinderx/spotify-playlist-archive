@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5502613,
+  "num_followers": 5501461,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcwMjkzNywwMDAwMDAwMGRmYjFmYzIxNGViNmI2M2I0ZDc2OTQ3MjhmODEwZDUy",
+  "snapshot_id": "MTY3MTcwMjkzNywwMDAwMDAwMGQyY2QwMmExZDM1YzkzNGEyYTA3MGViYTJlYTYyMGMz",
   "tracks": [
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1086,15 +1086,11 @@
         {
           "name": "Ariana Grande",
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Liz Gillies",
-          "url": "https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB"
         }
       ],
-      "duration_ms": 170933,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb"
+      "duration_ms": 203653,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1234,11 +1230,15 @@
         {
           "name": "Ariana Grande",
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Liz Gillies",
+          "url": "https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB"
         }
       ],
-      "duration_ms": 203653,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ"
+      "duration_ms": 170933,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb"
     },
     {
       "added_at": "2022-12-22 09:55:37",

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA\" > Odumodublvck </a> ",
-  "num_followers": 14108,
+  "num_followers": 14120,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1NzczOSwwMDAwMDAwMDE3NmNkNjIzYTllYjhiNzYwMzExMWYzZmEzZmYxOWQ1",
+  "snapshot_id": "MTY3MTM1NzczOSwwMDAwMDAwMGEzODFkYTQ2NTJjYzgyNDU0YjAwZWVkYTQyYTdhNjBm",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Shakara",
-        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Shakara",
-      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Green With Envy",
         "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 216013,
       "name": "Who's True",
       "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Shakara",
+        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Shakara",
+      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -813,24 +813,24 @@
       "url": "https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf"
     },
     {
-      "added_at": "2022-12-02 04:54:11",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Naira to Pounds",
-        "url": "https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr"
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
       "artists": [
         {
-          "name": "Zoro",
-          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
         }
       ],
-      "duration_ms": 171535,
-      "name": "Naira to Pounds",
-      "url": "https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1"
+      "duration_ms": 208163,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL"
     },
     {
       "added_at": "2022-10-28 12:56:05",
@@ -885,6 +885,26 @@
       "url": "https://open.spotify.com/track/3V71i8LUdPxuwEizJ9EYNM"
     },
     {
+      "added_at": "2022-12-02 04:54:11",
+      "album": {
+        "name": "Naira to Pounds",
+        "url": "https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr"
+      },
+      "artists": [
+        {
+          "name": "Zoro",
+          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 171535,
+      "name": "Naira to Pounds",
+      "url": "https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1"
+    },
+    {
       "added_at": "2022-06-23 23:00:00",
       "album": {
         "name": "LITTLE & LEGENDARY",
@@ -899,26 +919,6 @@
       "duration_ms": 147428,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 208163,
-      "name": "Culture",
-      "url": "https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL"
     },
     {
       "added_at": "2022-08-12 05:06:58",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Alaye Toh Se Gogo",
-        "url": "https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a"
-      },
-      "artists": [
-        {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Alaye Toh Se Gogo",
-      "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
-    },
-    {
       "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Monica",
@@ -1083,6 +1067,22 @@
       "duration_ms": 128450,
       "name": "Monica",
       "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Alaye Toh Se Gogo",
+        "url": "https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a"
+      },
+      "artists": [
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Alaye Toh Se Gogo",
+      "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Moving Mad",
-        "url": "https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        }
-      ],
-      "duration_ms": 142894,
-      "name": "Moving Mad",
-      "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Symbiosis",
@@ -1199,6 +1183,42 @@
       "duration_ms": 249286,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Omo X 100",
+        "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
+      },
+      "artists": [
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 126750,
+      "name": "Omo X 100",
+      "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Moving Mad",
+        "url": "https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "duration_ms": 142894,
+      "name": "Moving Mad",
+      "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1223,6 +1243,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Cram",
+        "url": "https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "duration_ms": 174658,
+      "name": "Cram",
+      "url": "https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/68p8Jpj5aTeZHeyEVpApJA"
       },
@@ -1239,42 +1275,6 @@
       "duration_ms": 194000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1b8F3ZCFhasUrh8nvDgADz"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Omo X 100",
-        "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
-      },
-      "artists": [
-        {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 126750,
-      "name": "Omo X 100",
-      "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Cram",
-        "url": "https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 174658,
-      "name": "Cram",
-      "url": "https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6"
     },
     {
       "added_at": "2022-11-18 11:40:22",
@@ -1369,24 +1369,20 @@
       "url": "https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2KiZjho3dmMgLVNm0Ja1Pb"
+        "name": "Suliya",
+        "url": "https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm"
       },
       "artists": [
         {
-          "name": "Skaa",
-          "url": "https://open.spotify.com/artist/5Z1pJHnETn6fqC37KYfi3Z"
-        },
-        {
-          "name": "Payper Corleone",
-          "url": "https://open.spotify.com/artist/5pNye0bGTXUivn8zdEBIfj"
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
         }
       ],
-      "duration_ms": 196657,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4LknxxjOhHOSD1114p2xWD"
+      "duration_ms": 131500,
+      "name": "Suliya",
+      "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
     }
   ],
   "unique_name": "Naija Bars ",

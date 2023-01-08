@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk2NzkxMiwwMDAwMDAwMDBlZDJjOTUxMDBmNmE2YjNmMmJkMDhmODZkMjA5NTMz",
+  "snapshot_id": "MTY3Mjk2NzkxMiwwMDAwMDAwMDc2ZjM4NTEzMDY2NmI1N2Y5YmYxODlhYzhhZDBlODMy",
   "tracks": [
     {
       "added_at": "2022-12-15 15:09:50",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D"
     },
     {
-      "added_at": "2023-01-07 19:43:42",
+      "added_at": "2023-01-08 01:06:48",
       "album": {
         "name": "last wave",
         "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-12-15 15:09:50",
       "album": {
+        "name": "Carol",
+        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
+      },
+      "artists": [
+        {
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
+    },
+    {
+      "added_at": "2022-12-15 15:09:50",
+      "album": {
         "name": "Easy Feet",
         "url": "https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2022-12-15 15:09:50",
       "album": {
-        "name": "Carol",
-        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
+        "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
       },
       "artists": [
         {
-          "name": "ord minami",
-          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
         }
       ],
-      "duration_ms": 158769,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
+      "duration_ms": 90383,
+      "name": "That's Just Me",
+      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
     },
     {
       "added_at": "2022-12-15 15:09:50",
@@ -915,22 +931,6 @@
     {
       "added_at": "2022-12-15 15:09:50",
       "album": {
-        "name": "That's Just Me",
-        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
-      },
-      "artists": [
-        {
-          "name": "Ameba",
-          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
-        }
-      ],
-      "duration_ms": 90383,
-      "name": "That's Just Me",
-      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
-    },
-    {
-      "added_at": "2022-12-15 15:09:50",
-      "album": {
         "name": "Main Source (Instrumentals)",
         "url": "https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG"
       },
@@ -943,38 +943,6 @@
       "duration_ms": 178773,
       "name": "Sewin' Love - Instrumental",
       "url": "https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl"
-    },
-    {
-      "added_at": "2022-12-15 15:09:50",
-      "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
-    },
-    {
-      "added_at": "2022-12-15 15:09:50",
-      "album": {
-        "name": "Beats On Boat: Hazy Year",
-        "url": "https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U"
-      },
-      "artists": [
-        {
-          "name": "Hazy Year",
-          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
-        }
-      ],
-      "duration_ms": 167926,
-      "name": "Notes",
-      "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
     },
     {
       "added_at": "2022-12-15 15:09:50",
@@ -999,6 +967,22 @@
     {
       "added_at": "2022-12-15 15:09:50",
       "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+    },
+    {
+      "added_at": "2022-12-15 15:09:50",
+      "album": {
         "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
         "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 243693,
       "name": "Sometimes - Remix Instrumental",
       "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
+    },
+    {
+      "added_at": "2022-12-15 15:09:50",
+      "album": {
+        "name": "Beats On Boat: Hazy Year",
+        "url": "https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U"
+      },
+      "artists": [
+        {
+          "name": "Hazy Year",
+          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
+        }
+      ],
+      "duration_ms": 167926,
+      "name": "Notes",
+      "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
     },
     {
       "added_at": "2022-12-15 15:09:50",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-12-15 15:09:50",
       "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd"
+      },
+      "artists": [
+        {
+          "name": "Epifania",
+          "url": "https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b"
+        }
+      ],
+      "duration_ms": 88000,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB"
+    },
+    {
+      "added_at": "2022-12-15 15:09:50",
+      "album": {
         "name": "The Scenic Route",
         "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
       },
@@ -1171,38 +1187,6 @@
     {
       "added_at": "2022-12-15 15:09:50",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd"
-      },
-      "artists": [
-        {
-          "name": "Epifania",
-          "url": "https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b"
-        }
-      ],
-      "duration_ms": 88000,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB"
-    },
-    {
-      "added_at": "2022-12-15 15:09:50",
-      "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
-      },
-      "artists": [
-        {
-          "name": "Robert de Boron",
-          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
-    },
-    {
-      "added_at": "2022-12-15 15:09:50",
-      "album": {
         "name": "February: A Rest in Beats Tribute to the Sounds of Nujabes",
         "url": "https://open.spotify.com/album/6bJFsauZZ1IfdOhQekv7x2"
       },
@@ -1219,22 +1203,18 @@
     {
       "added_at": "2022-12-15 15:09:50",
       "album": {
-        "name": "Origami Skizzen",
-        "url": "https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF"
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
       },
       "artists": [
         {
-          "name": "Midan",
-          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
-        },
-        {
-          "name": "AHNAMUSICA",
-          "url": "https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h"
+          "name": "Robert de Boron",
+          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
         }
       ],
-      "duration_ms": 152156,
-      "name": "Jazz Neko",
-      "url": "https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda"
+      "duration_ms": 201000,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
     },
     {
       "added_at": "2022-12-15 15:09:50",
@@ -1259,18 +1239,22 @@
     {
       "added_at": "2022-12-15 15:09:50",
       "album": {
-        "name": "Bubble Beat",
-        "url": "https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u"
+        "name": "Origami Skizzen",
+        "url": "https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF"
       },
       "artists": [
         {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        },
+        {
+          "name": "AHNAMUSICA",
+          "url": "https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h"
         }
       ],
-      "duration_ms": 207529,
-      "name": "Bubble Beat",
-      "url": "https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3"
+      "duration_ms": 152156,
+      "name": "Jazz Neko",
+      "url": "https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda"
     },
     {
       "added_at": "2022-12-15 15:09:50",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2022-12-15 15:09:50",
       "album": {
+        "name": "Bubble Beat",
+        "url": "https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "Bubble Beat",
+      "url": "https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3"
+    },
+    {
+      "added_at": "2022-12-15 15:09:50",
+      "album": {
         "name": "Silently Beats",
         "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
       },
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-12-15 15:09:50",
       "album": {
-        "name": "Life After Dennison (Instrumentals)",
-        "url": "https://open.spotify.com/album/7yyrASe6ss185AT0ucT35n"
+        "name": "Camberwell",
+        "url": "https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y"
       },
       "artists": [
         {
-          "name": "Funky DL",
-          "url": "https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5"
+          "name": "Khutko",
+          "url": "https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ"
         }
       ],
-      "duration_ms": 210346,
-      "name": "Fanatic - Instrumental",
-      "url": "https://open.spotify.com/track/6WMHFhxkozjDKYX9ILRiB0"
+      "duration_ms": 133333,
+      "name": "Camberwell",
+      "url": "https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3"
     },
     {
       "added_at": "2022-12-15 15:09:50",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-12-15 15:09:50",
       "album": {
+        "name": "Life After Dennison (Instrumentals)",
+        "url": "https://open.spotify.com/album/7yyrASe6ss185AT0ucT35n"
+      },
+      "artists": [
+        {
+          "name": "Funky DL",
+          "url": "https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Fanatic - Instrumental",
+      "url": "https://open.spotify.com/track/6WMHFhxkozjDKYX9ILRiB0"
+    },
+    {
+      "added_at": "2022-12-15 15:09:50",
+      "album": {
         "name": "Tiny Grains of Guilt",
         "url": "https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 124044,
       "name": "Tiny Grains of Guilt",
       "url": "https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ"
-    },
-    {
-      "added_at": "2022-12-15 15:09:50",
-      "album": {
-        "name": "Camberwell",
-        "url": "https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y"
-      },
-      "artists": [
-        {
-          "name": "Khutko",
-          "url": "https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Camberwell",
-      "url": "https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3"
     },
     {
       "added_at": "2022-12-15 15:09:50",

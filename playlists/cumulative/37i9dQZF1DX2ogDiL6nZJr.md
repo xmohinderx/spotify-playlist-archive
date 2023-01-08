@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-265 songs - 16 hr 32 min
+266 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [How Lucky](https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm) | 3:23 | 2022-07-21 |  |
 | [I Am Ok](https://open.spotify.com/track/0CALfQ4ck5wJoiRfpaZboM) | [Lea Porcelain](https://open.spotify.com/artist/4HsBBgi3DDsy0w29W5yevl) | [I Am Ok](https://open.spotify.com/album/2geP5eBKVViSIukUx6IleE) | 4:00 | 2021-12-09 | 2022-07-29 |
 | [I Don't Wanna Lose](https://open.spotify.com/track/1o3QC3SiP40iupA6hzx4EH) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/1TDcYaDlJPVDJWfNjS8LM9) | 3:20 | 2022-04-14 | 2022-04-21 |
-| [I Don't Wanna Lose](https://open.spotify.com/track/2gec0tIWMvB4vhhV09SwQY) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb) | 3:20 | 2022-11-09 |  |
+| [I Don't Wanna Lose](https://open.spotify.com/track/2gec0tIWMvB4vhhV09SwQY) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb) | 3:20 | 2022-11-09 | 2023-01-08 |
 | [I Still Wonder](https://open.spotify.com/track/6mbRrRkDUWtS3Z0m2TPNTD) | [Kids Of Adelaide](https://open.spotify.com/artist/1n4X5jW8nSlsTGqk6rAZF2) | [I Still Wonder](https://open.spotify.com/album/6EEkLtJxWLMWXA99bZNV45) | 4:37 | 2022-04-14 | 2022-04-21 |
 | [I'm Around](https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [I'm Around](https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj) | 4:31 | 2022-07-21 |  |
 | [I'm Around \(feat\. Ariel Posen\)](https://open.spotify.com/track/6YEuH4oOA1T7zhfM57Y4dw) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [I'm Around \(feat\. Ariel Posen\)](https://open.spotify.com/album/1VbqbeqMBeHFdBQHRQhoae) | 4:31 | 2022-01-21 | 2022-07-27 |
@@ -240,6 +240,7 @@
 | [Tender love](https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [I Need Space](https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY) | 3:23 | 2022-07-21 |  |
 | [Tender Love](https://open.spotify.com/track/6IDxzMPyrbvusWD0YgpsrN) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Tender Love](https://open.spotify.com/album/4mXQJ6TvnAisEYMJ0LllLI) | 3:23 | 2021-12-09 | 2022-07-29 |
 | [Tenderfoot](https://open.spotify.com/track/2EuXTlhlCKGtbXlGG0jE9Y) | [The Day](https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN) | [Tenderfoot](https://open.spotify.com/album/2ciwng9Z5XB98NKBPMcnik) | 2:08 | 2021-12-09 | 2022-11-20 |
+| [Tenderfoot](https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N) | [The Day](https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN) | [Tenderfoot](https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV) | 2:08 | 2022-11-17 |  |
 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 | 2022-07-21 |  |
 | [The Barrel \- Radio Edit](https://open.spotify.com/track/3HJGY8vPq6zI8mEDl6a6K4) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/266my6GRmoIUzp0eSEJX6Q) | 3:39 | 2021-12-09 | 2022-07-29 |
 | [The Beauty & The Pain](https://open.spotify.com/track/7vWab560TZxP2mtOHq7Tc3) | [Kids of Adelaide](https://open.spotify.com/artist/1n4X5jW8nSlsTGqk6rAZF2) | [The Beauty & The Pain](https://open.spotify.com/album/0UGhyu6woshbDtYGfuaYcc) | 4:02 | 2022-05-26 | 2022-07-29 |

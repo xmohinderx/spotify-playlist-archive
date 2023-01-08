@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Michael Bolton",
-  "num_followers": 256397,
+  "num_followers": 256482,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI1Njg0OSwwMDAwMDAwMDA5NzQwNGEzY2Q0ZWYwNDhjZmE4OTM1MjlkYmNmZDZl",
+  "snapshot_id": "MTY3MjI1Njg0OSwwMDAwMDAwMGU1MGEwMjFkZjM3NzBlYWY0MzU1MTI3OTM1YzA0ZDJm",
   "tracks": [
     {
       "added_at": "2022-12-28 19:47:29",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 266266,
       "name": "Endless Love - From \"The Endless Love\" Soundtrack",
       "url": "https://open.spotify.com/track/0FGxAEMIE5GhyFqFMHRWaO"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC"
     },
     {
       "added_at": "2022-12-28 19:47:29",

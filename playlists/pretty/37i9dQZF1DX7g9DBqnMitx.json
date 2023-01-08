@@ -1,12 +1,12 @@
 {
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
-  "num_followers": 50268,
+  "num_followers": 50277,
   "original_name": "Bandes Originales & Pop Corn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMDJmMGE1ODJhMThlMjJkNzU0MWRmZjcyNWRkMTBmZDQx",
+  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMGE0M2FjNjFjOTM0ZDIwZDQ4MTViYmRmZThiOWVlNzcy",
   "tracks": [
     {
       "added_at": "2022-09-07 09:54:53",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
     },
     {
-      "added_at": "2023-01-07 19:29:24",
+      "added_at": "2023-01-08 01:26:27",
       "album": {
         "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Dr. Seuss' The Grinch (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 108986,
-      "name": "You're A Mean One, Mr. Grinch",
-      "url": "https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Dr. Seuss' The Grinch (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 108986,
+      "name": "You're A Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5"
     },
     {
-      "added_at": "2023-01-07 19:29:24",
+      "added_at": "2023-01-08 01:26:27",
       "album": {
         "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
         "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2"
     },
     {
-      "added_at": "2023-01-07 19:29:24",
+      "added_at": "2023-01-08 01:26:27",
       "album": {
         "name": "Red Rose Speedway (Archive Collection)",
         "url": "https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy"
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Ghostbusters (Original Motion Picture Soundtrack) [2016]",
-        "url": "https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Tuyo (Narcos Theme) [A Netflix Original Series Soundtrack]",
         "url": "https://open.spotify.com/album/3GelLDk6XCrXCT4ok0jjGU"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 89293,
       "name": "Tuyo (Narcos Theme) - A Netflix Original Series Soundtrack",
       "url": "https://open.spotify.com/track/6Dc2tCivms1s2X9myWe4ni"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Ghostbusters (Original Motion Picture Soundtrack) [2016]",
+        "url": "https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN"
     },
     {
-      "added_at": "2023-01-07 19:29:24",
+      "added_at": "2023-01-08 01:26:27",
       "album": {
         "name": "The Spy Who Loved Me",
         "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "Love Is A Losing Game - Live At The Mercury Music Awards",
-      "url": "https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "The Youth Of Today",
         "url": "https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 204222,
       "name": "Pass The Dutchie",
       "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 152093,
+      "name": "Love Is A Losing Game - Live At The Mercury Music Awards",
+      "url": "https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Soundtrack From Twin Peaks",
-        "url": "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX"
-      },
-      "artists": [
-        {
-          "name": "Angelo Badalamenti",
-          "url": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
-        }
-      ],
-      "duration_ms": 310013,
-      "name": "Twin Peaks Theme - Instrumental",
-      "url": "https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Requiem for a Dream / OST",
         "url": "https://open.spotify.com/album/7Jkv05qDgXZynnNaYcxY5W"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 170240,
       "name": "Gonna Fly Now",
       "url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Soundtrack From Twin Peaks",
+        "url": "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX"
+      },
+      "artists": [
+        {
+          "name": "Angelo Badalamenti",
+          "url": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
+        }
+      ],
+      "duration_ms": 310013,
+      "name": "Twin Peaks Theme - Instrumental",
+      "url": "https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1293,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
     },
     {
-      "added_at": "2023-01-07 19:29:24",
+      "added_at": "2023-01-08 01:26:27",
       "album": {
         "name": "Let Me Sing and I'm Happy",
         "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Profumo di donna (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1RyXyJsE1zj3ijEai61Vff"
-      },
-      "artists": [
-        {
-          "name": "Armando Trovajoli",
-          "url": "https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0"
-        }
-      ],
-      "duration_ms": 217186,
-      "name": "Che Vuole Questa Musica Stasera",
-      "url": "https://open.spotify.com/track/6wrptu9SlLfq8bE6C86kEX"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 288000,
       "name": "Rachel's Song",
       "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Profumo di donna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1RyXyJsE1zj3ijEai61Vff"
+      },
+      "artists": [
+        {
+          "name": "Armando Trovajoli",
+          "url": "https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "Che Vuole Questa Musica Stasera",
+      "url": "https://open.spotify.com/track/6wrptu9SlLfq8bE6C86kEX"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1553,6 +1553,22 @@
       "url": "https://open.spotify.com/track/1SbsbLsUMnAKWHx1zAV6ER"
     },
     {
+      "added_at": "2023-01-08 01:26:27",
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio De Andr\u00e9",
+          "url": "https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/7bUsesodBH1tITKTFXWK9k"
+    },
+    {
       "added_at": "2022-09-07 09:54:53",
       "album": {
         "name": "The Virgin Suicides (Original Motion Picture Score)",
@@ -1567,22 +1583,6 @@
       "duration_ms": 161500,
       "name": "Highschool Lover",
       "url": "https://open.spotify.com/track/366QpkppDb9f5TVamPSpgH"
-    },
-    {
-      "added_at": "2023-01-07 19:29:24",
-      "album": {
-        "name": "Volume 1",
-        "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio De Andr\u00e9",
-          "url": "https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "Spiritual",
-      "url": "https://open.spotify.com/track/7bUsesodBH1tITKTFXWK9k"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The Danish Girl (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4oCncE7KIofq3NDgZRXpop"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Desplat",
-          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
-        }
-      ],
-      "duration_ms": 130933,
-      "name": "The Danish Girl",
-      "url": "https://open.spotify.com/track/02gNzeeffcCXtx9qL39qHj"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 258973,
       "name": "Meet Me in the Morning",
       "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "The Danish Girl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oCncE7KIofq3NDgZRXpop"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "duration_ms": 130933,
+      "name": "The Danish Girl",
+      "url": "https://open.spotify.com/track/02gNzeeffcCXtx9qL39qHj"
     },
     {
       "added_at": "2022-09-07 09:54:53",

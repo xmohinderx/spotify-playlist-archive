@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Mecánico
 
-300 songs - 18 hr 20 min
+301 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Prohibido](https://open.spotify.com/track/7lxDfpa4rg908BuGv6sMQc) | [Futuralgia](https://open.spotify.com/artist/7E8546nHdwMid6Z7IUVHVW) | [Prohibido](https://open.spotify.com/album/4yC80pHcbHTa4FkPsyIxfu) | 3:31 | 2022-04-15 | 2022-07-27 |
 | [Provenza](https://open.spotify.com/track/74EyCgYnEH3ARfgpLh0Cdq) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Provenza](https://open.spotify.com/album/67ihyeAL1wwakz5tBP2rLo) | 3:49 | 2022-12-09 |  |
 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 | 2022-04-15 | 2022-12-10 |
-| [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 | 2022-09-02 |  |
+| [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 | 2022-09-02 | 2023-01-08 |
 | [Quisiera Estar en Tu Lugar](https://open.spotify.com/track/3uHnLozqOnPoYumF7Qhp3K) | [Quinal](https://open.spotify.com/artist/5dxqPUdOChFnQ4VbZjGymp) | [Quisiera Estar en Tu Lugar](https://open.spotify.com/album/0FsIho6nfb5OGDBaaUZ1OM) | 3:39 | 2022-04-15 | 2022-07-29 |
 | [Quitapena](https://open.spotify.com/track/0jEt1GNSNyxrx86DrLdlF7) | [Gael](https://open.spotify.com/artist/7rms6jz7l3NGmiR0T5lRve) | [Quitapena](https://open.spotify.com/album/4DuTv5kQOIfV2aAKsn2LTF) | 3:03 | 2022-04-15 | 2022-07-28 |
 | [Reclame](https://open.spotify.com/track/28otbmrZCYNiRcoKnzesac) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Reclame](https://open.spotify.com/album/36Yzr88w2cyYr4dVP0DQNN) | 3:27 | 2022-04-15 | 2022-07-28 |
@@ -303,6 +303,7 @@
 | [XAT \(Juanita La O Remix\)](https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Refresco](https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b) | 3:17 | 2022-04-15 |  |
 | [Y Vuelve a Pensar en Ti](https://open.spotify.com/track/1l8LkNw2Mh0eLLlaab7Xij) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Y Vuelve a Pensar en Ti](https://open.spotify.com/album/0DJWl4maPeqSR4QmiDCeWW) | 4:40 | 2022-04-15 | 2022-07-20 |
 | [Ya Hablamos de Esto](https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ), [Amelia](https://open.spotify.com/artist/5ww5jJ8UVQ7jxFQBfN7VoQ) | [Ya Hablamos de Esto](https://open.spotify.com/album/1sCAPYU44MdvDr6YSj9J6f) | 3:22 | 2022-04-15 | 2022-12-14 |
+| [Ya No Te Quiero](https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Ya No Te Quiero](https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy) | 3:17 | 2023-01-06 |  |
 | [yacaré](https://open.spotify.com/track/1wkZWufiSU6fzf1FJslCVg) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [yacaré](https://open.spotify.com/album/01p29H8LIv6DlF6BbEi7QH) | 4:03 | 2022-04-15 | 2022-07-28 |
 | [Yo creí que eras mi amiga](https://open.spotify.com/track/5mnoWxEzuW4b4gr9D4GRGq) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Yo creí que eras mi amiga](https://open.spotify.com/album/2dL6rtGKwUC4dy7iKFNzng) | 3:30 | 2022-04-15 | 2022-07-28 |
 | [Yoga](https://open.spotify.com/track/4kb6So7DrduOe9CDGL8bBn) | [Lomberr](https://open.spotify.com/artist/0Tfp8FQQcN3bRpFI5J70Rz) | [Yoga](https://open.spotify.com/album/4Uu7NdF0t7f2hnMDMNYpN5) | 7:23 | 2022-06-10 | 2022-07-29 |

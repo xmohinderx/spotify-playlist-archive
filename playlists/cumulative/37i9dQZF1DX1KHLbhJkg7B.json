@@ -2980,6 +2980,24 @@
     {
       "album": {
         "name": "Make Me Want To",
+        "url": "https://open.spotify.com/album/0yeIgCIOOONw8YBtZCFzu9"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/4zBfFrS00t3HNpW50Q2lew"
+    },
+    {
+      "album": {
+        "name": "Make Me Want To",
         "url": "https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU"
       },
       "artists": [
@@ -5126,7 +5144,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 240224,
       "name": "Wide Open Spaces - Spotify Singles",
       "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"

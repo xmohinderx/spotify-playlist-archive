@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene. Cover: Lucy from Cyberpunk: Edgerunners",
-  "num_followers": 297863,
+  "num_followers": 298532,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAzMDEzMCwwMDAwMDAwMDdkMzUzMzgzOTAyYWUxNmQ4Yzk5MDUyYjE3ZGUzMWM2",
+  "snapshot_id": "MTY3MzAzMDEzMCwwMDAwMDAwMDk4NWVmNGYzNmZmZjVjZGQzMTFkMDQ2MTAwYzM0ZmU0",
   "tracks": [
     {
       "added_at": "2022-11-29 21:06:35",
@@ -165,22 +165,6 @@
       "url": "https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca"
     },
     {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 141505,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a"
-    },
-    {
       "added_at": "2022-11-21 16:30:34",
       "album": {
         "name": "SPIT IN MY FACE!",
@@ -195,6 +179,22 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 141505,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
-        "name": "- TRAGEDY +",
-        "url": "https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "GOSHA",
-      "url": "https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
         "name": "Shakira!",
         "url": "https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 149577,
       "name": "Shakira!",
       "url": "https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "- TRAGEDY +",
+        "url": "https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "GOSHA",
+      "url": "https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy"
     },
     {
       "added_at": "2022-11-29 21:08:32",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
-        "name": "This fffire",
-        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "This fffire - New Version",
-      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
         "name": "The Rumbling",
         "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 220799,
       "name": "The Rumbling",
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "This fffire",
+        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "This fffire - New Version",
+      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -1261,24 +1261,20 @@
       "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
     },
     {
-      "added_at": "2022-11-10 18:57:08",
+      "added_at": "2023-01-03 14:48:33",
       "album": {
-        "name": "OLIVIA",
-        "url": "https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV"
+        "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d"
       },
       "artists": [
         {
-          "name": "Softwilly",
-          "url": "https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc"
-        },
-        {
-          "name": "Yung Kage",
-          "url": "https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT"
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 143587,
-      "name": "OLIVIA",
-      "url": "https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY"
+      "duration_ms": 228960,
+      "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f",
+      "url": "https://open.spotify.com/track/1rgncjmlpHMP3DBhpagyVb"
     },
     {
       "added_at": "2022-11-10 18:57:08",

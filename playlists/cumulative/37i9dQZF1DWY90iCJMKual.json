@@ -184,6 +184,24 @@
     {
       "album": {
         "name": "cherry soda",
+        "url": "https://open.spotify.com/album/1T3Qwd52WDENjeUMxbysZg"
+      },
+      "artists": [
+        {
+          "name": "TALA",
+          "url": "https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "cherry soda",
+      "url": "https://open.spotify.com/track/3Ge1rIdxXfPqnC6AzJlHsz"
+    },
+    {
+      "album": {
+        "name": "cherry soda",
         "url": "https://open.spotify.com/album/5uW4MpBBGO9yYeBTcBFdjx"
       },
       "artists": [
@@ -194,7 +212,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 215514,
       "name": "cherry soda",
       "url": "https://open.spotify.com/track/6wLYxlMsuGoARoRhDy52y3"

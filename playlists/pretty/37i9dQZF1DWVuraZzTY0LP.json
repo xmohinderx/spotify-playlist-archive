@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 304688,
+  "num_followers": 304745,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYyMDQ5OCwwMDAwMDAwMGRjNmI3OGM2MGRiMDg5NzYzZDU2MzY2NDE2OTRhOTUz",
+  "snapshot_id": "MTY3MDYyMDQ5OCwwMDAwMDAwMGZlZjcyZjRiYTQyNzcyODMzZmY2NzMwMzU4ZjNjMTc1",
   "tracks": [
     {
       "added_at": "2022-12-09 19:42:20",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-12-09 19:42:20",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/31HPnd8Ss99acJ0MrHBQvu"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 194096,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/44Y47AT30lSl5iPMZr6o83"
-    },
-    {
-      "added_at": "2022-12-09 19:42:20",
-      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 183906,
       "name": "Theworstthing",
       "url": "https://open.spotify.com/track/0EvZksFiDpboeG4UVaIvJa"
+    },
+    {
+      "added_at": "2022-12-09 19:42:20",
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/31HPnd8Ss99acJ0MrHBQvu"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 194096,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/44Y47AT30lSl5iPMZr6o83"
     },
     {
       "added_at": "2022-12-09 19:42:20",

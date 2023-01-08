@@ -4,7 +4,7 @@
 
 > Prendete con tu lista favorita de Dembow\. Foto: El Alfa
 
-314 songs - 17 hr 36 min
+315 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Caco Pelao](https://open.spotify.com/track/6OjgtPe2y5cPtXbSQoIgGW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Exitos Vol\. 1](https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU) | 3:25 | 2021-12-10 | 2022-07-26 |
 | [Abanico](https://open.spotify.com/track/71pehRVEU19NHe07v0ZM7C) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Exitos del Dembow](https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0) | 3:17 | 2021-12-10 | 2022-07-24 |
 | [Abuso](https://open.spotify.com/track/4BG7Q2r5rJayqJhPur6KRs) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Exitos Vol\. 1](https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU) | 3:26 | 2021-12-10 | 2022-07-27 |
-| [Acelera](https://open.spotify.com/track/1G1Jk034FuLw7JsaymjIWU) | [Principe Baru](https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR) | [Acelera](https://open.spotify.com/album/7zrOgGlWwDcozHw6W9jQmo) | 3:26 | 2022-11-21 |  |
+| [Acelera](https://open.spotify.com/track/1G1Jk034FuLw7JsaymjIWU) | [Principe Baru](https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR) | [Acelera](https://open.spotify.com/album/7zrOgGlWwDcozHw6W9jQmo) | 3:26 | 2022-11-21 | 2023-01-08 |
 | [Acelera](https://open.spotify.com/track/2yjLqfyOLbWo79YTDyuwil) | [Principe Baru](https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR) | [Acelera](https://open.spotify.com/album/328BeGimTlRxOcaif0YAhF) | 3:26 | 2021-12-10 | 2022-07-23 |
 | [Alta Gama \- Remix](https://open.spotify.com/track/6TwsIdQN849P72oTt0XbjJ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Alta Gama \(Remix\)](https://open.spotify.com/album/2tHgaFBDtWi0r8Mz3WOnKk) | 3:10 | 2021-12-10 |  |
 | [Amaneci Contento](https://open.spotify.com/track/7LYul65sg4QXvejKlzqN4t) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Exito, Vol 1](https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai) | 3:59 | 2022-05-28 |  |
@@ -95,6 +95,7 @@
 | [El Que No Salta Es Paco \- Remix](https://open.spotify.com/track/5WXnRHsxuuTKVzEbLT1Lnn) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo), [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Tracy McGrady](https://open.spotify.com/artist/1hIultpwJP5CAVoT4qeNGH) | [El Que No Salta Es Paco \(Remix\)](https://open.spotify.com/album/1JQPIPt2Ml2ALdzYUNMfLc) | 4:08 | 2022-05-28 |  |
 | [El Que No Salte Es Paco \- Remix](https://open.spotify.com/track/0at0i3IClvCu98zKz7SHt0) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo), [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Tracy McGrady](https://open.spotify.com/artist/1hIultpwJP5CAVoT4qeNGH) | [El Que No Salta Es Paco \(Remix\)](https://open.spotify.com/album/0588LFDqNIJ5wjhnMA710h) | 4:08 | 2021-12-10 | 2022-07-27 |
 | [El Rockanyor \(Tres Pasito\)](https://open.spotify.com/track/4uCGDy0y8s3U5Q3NU4O9NQ) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Exitos del Dembow](https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0) | 3:11 | 2021-12-10 | 2022-07-29 |
+| [El Rockanyor \(Tres Pasito\)](https://open.spotify.com/track/1wsYUJMv8TXexAmCZsXrwd) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [El Rockanyor \(Tres Pasito\)](https://open.spotify.com/album/3XEqQJT2AzTJncYtdUMbc2) | 3:11 | 2022-11-25 |  |
 | [El Singon](https://open.spotify.com/track/28xnJnYvEiZdVrH3eM8AC0) | [AtuedadVaSegui](https://open.spotify.com/artist/1kTa0rRHqFrg6sKpf6l5ta), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [El Singon](https://open.spotify.com/album/4lNzX8T26wYmDYVvWweXo4) | 1:57 | 2021-12-10 | 2022-07-29 |
 | [El Sonido del 15 \- El 15](https://open.spotify.com/track/5Fg33MF8ZnXCt2gw3z8KjP) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [To' el Mundo Sabe Quien Eh el Loco Ya](https://open.spotify.com/album/6hU1yaGT7y5ZkyHAQw5aQS) | 2:53 | 2022-01-04 | 2022-07-27 |
 | [El Teke Teke](https://open.spotify.com/track/6Ah5uf9j6dnFJrjcv9pYNH) | [Los Teke Teke](https://open.spotify.com/artist/2aFsWgI7uUdQlJtR1OF5wl) | [Internacional](https://open.spotify.com/album/3t9aUi2GtTY22w1OM56mSO) | 3:00 | 2021-12-10 | 2022-07-29 |

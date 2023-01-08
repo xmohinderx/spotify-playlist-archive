@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 322401,
+  "num_followers": 322448,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDJiNDExMTg0NGQ4M2IyNGRmYTM3YTIyZjVhMzRjMmNj",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDc3Nzc4MTY4ODhhODY0M2VhYjk0YTE1N2ViYTA4MjRl",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
     },
     {
-      "added_at": "2020-11-20 05:02:00",
-      "album": {
-        "name": "Demon Kitty Rag (Electro Swing Version)",
-        "url": "https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ"
-      },
-      "artists": [
-        {
-          "name": "Tori & Dean",
-          "url": "https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX"
-        }
-      ],
-      "duration_ms": 215031,
-      "name": "Demon Kitty Rag - Electro Swing Version",
-      "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Back in Time",
@@ -635,6 +619,22 @@
       "duration_ms": 198666,
       "name": "Back in Time",
       "url": "https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz"
+    },
+    {
+      "added_at": "2020-11-20 05:02:00",
+      "album": {
+        "name": "Demon Kitty Rag (Electro Swing Version)",
+        "url": "https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ"
+      },
+      "artists": [
+        {
+          "name": "Tori & Dean",
+          "url": "https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX"
+        }
+      ],
+      "duration_ms": 215031,
+      "name": "Demon Kitty Rag - Electro Swing Version",
+      "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "The Good Old Days",
-        "url": "https://open.spotify.com/album/0g4RooAJphJMSLPVHcD4BY"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Breakfast",
-          "url": "https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Good Old Days",
-      "url": "https://open.spotify.com/track/5Rt5BHMHFhGko7v8JObIID"
-    },
-    {
       "added_at": "2021-04-16 04:01:00",
       "album": {
         "name": "Don't Stop",
@@ -967,6 +951,22 @@
       "duration_ms": 182608,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "The Good Old Days",
+        "url": "https://open.spotify.com/album/0g4RooAJphJMSLPVHcD4BY"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Breakfast",
+          "url": "https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "The Good Old Days",
+      "url": "https://open.spotify.com/track/5Rt5BHMHFhGko7v8JObIID"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1129,26 +1129,6 @@
       "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
     },
     {
-      "added_at": "2022-11-07 16:43:23",
-      "album": {
-        "name": "Watch Your Tongue",
-        "url": "https://open.spotify.com/album/0VlRMNxmBvdI1wF3LV16Z4"
-      },
-      "artists": [
-        {
-          "name": "Pisk",
-          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
-        },
-        {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
-        }
-      ],
-      "duration_ms": 178320,
-      "name": "Watch Your Tongue",
-      "url": "https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "The Electric Swing Circus - Remixed Vol. 1",
@@ -1167,6 +1147,26 @@
       "duration_ms": 224588,
       "name": "Mr Magpie - Jamie Berry Remix",
       "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
+    },
+    {
+      "added_at": "2022-11-07 16:43:23",
+      "album": {
+        "name": "Watch Your Tongue",
+        "url": "https://open.spotify.com/album/0VlRMNxmBvdI1wF3LV16Z4"
+      },
+      "artists": [
+        {
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+        },
+        {
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+        }
+      ],
+      "duration_ms": 178320,
+      "name": "Watch Your Tongue",
+      "url": "https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N"
     },
     {
       "added_at": "2020-10-30 09:06:04",

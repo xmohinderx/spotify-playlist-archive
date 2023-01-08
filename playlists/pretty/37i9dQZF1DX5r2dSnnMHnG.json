@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQzNzE5NSwwMDAwMDAwMGNlYWM3MjIzMjM2ZTkyZDU3NDE5MGZlYTA2NGVmNWU5",
+  "snapshot_id": "MTY3MTQzNzE5NSwwMDAwMDAwMDE2ZWQyOWRmNjkxNTliMDg3NDg0N2M0YmE5NmQxNThj",
   "tracks": [
     {
       "added_at": "2022-12-19 08:06:35",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-12-19 08:06:35",
       "album": {
-        "name": "Love Has a Limit",
-        "url": "https://open.spotify.com/album/5J5EecYNgw7EPECkCdTuRQ"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "amin",
-          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
-        }
-      ],
-      "duration_ms": 161392,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/6FsaC7mLYpqmLOEu9nEI1M"
-    },
-    {
-      "added_at": "2022-12-19 08:06:35",
-      "album": {
         "name": "Thinking of you",
         "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 193514,
       "name": "Thinking of you (Feat. Lee Yu Bin)",
       "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
+    },
+    {
+      "added_at": "2022-12-19 08:06:35",
+      "album": {
+        "name": "Love Has a Limit",
+        "url": "https://open.spotify.com/album/5J5EecYNgw7EPECkCdTuRQ"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+        }
+      ],
+      "duration_ms": 161392,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6FsaC7mLYpqmLOEu9nEI1M"
     },
     {
       "added_at": "2022-12-19 08:06:35",

@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene\. Cover: Lucy from Cyberpunk: Edgerunners
 
-163 songs - 7 hr 15 min
+164 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 | 2022-05-25 |  |
 | [OKAY SHAWTY](https://open.spotify.com/track/3qsR1pTGoshzapShuYm0ns) | [Kwe the Artist](https://open.spotify.com/artist/1QduOP354RYyRRGRuvYPD2) | [OKAY SHAWTY](https://open.spotify.com/album/2vtizplVpMIp3cguwoT7nA) | 1:46 | 2022-06-01 | 2022-07-29 |
 | [OKE](https://open.spotify.com/track/6Qah1RanKHrrv7iYoqjNKM) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [OKE](https://open.spotify.com/album/2yZNGTY9G1WABteaesNDRR) | 2:26 | 2022-10-07 | 2022-11-13 |
-| [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 | 2022-05-25 |  |
+| [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 | 2022-05-25 | 2023-01-08 |
 | [Paris](https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 1:51 | 2022-05-25 |  |
 | [Phantom Troupe \- Remix](https://open.spotify.com/track/07Pv7QJd4kFRyusSSlJODo) | [Shofu](https://open.spotify.com/artist/6Mt5Jv5qiHPyCmnaLbr6Rz), [Token Black](https://open.spotify.com/artist/7o4jUmg3xAzo6IYUawh2YE), [954mari](https://open.spotify.com/artist/4B6My3qCkyAX7n3qzUZONc), [OmarCameUp](https://open.spotify.com/artist/5p9aalXlIMSGKmey78Ah5v), [Dedboii Kez](https://open.spotify.com/artist/6IZOq4fC3vRZvcMdnqME9h), [PE$O PETE](https://open.spotify.com/artist/6VZiS2VunvxmraSXYGLBZv), [Ham Sandwich](https://open.spotify.com/artist/10IrmnIj8FmleJotGxwTRX), [TUCK2SHARP](https://open.spotify.com/artist/7hn7cmaQByxy38U1vGCPE8), [Ty Wild](https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm), [G.Yee](https://open.spotify.com/artist/1dmJ1ESL5MHZAEtLqXYd6t), [BlackLynk](https://open.spotify.com/artist/46ZR1UUZY1GAt4DmlQbZs4), [VI Seconds](https://open.spotify.com/artist/7l7jyhyCooS3qKlBhZLIiG), [ShueTube](https://open.spotify.com/artist/7BmPVzemtO9g4azCeM37Sk), [Tanukes](https://open.spotify.com/artist/4UVz2mDQK34FFq5V5cBZ5l) | [Phantom Troupe \(Remix\)](https://open.spotify.com/album/0ZzUopArm41ddN0orm3j7a) | 7:02 | 2022-05-25 | 2022-07-28 |
 | [PLASTIC ART](https://open.spotify.com/track/0uwdULpmQ5vB62NN0duw8S) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [KALEIDOSCOPE](https://open.spotify.com/album/1ZyR3m6dXdqBHb96BrtlSZ) | 2:14 | 2022-05-25 | 2022-07-29 |
@@ -163,6 +163,7 @@
 | [Zoom!](https://open.spotify.com/track/1Vv93qCC50ckZdeXh7Etln) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Zoom!](https://open.spotify.com/album/10WMv6j9OpkTHVafzM3JSx) | 2:07 | 2022-06-10 |  |
 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 | 2022-05-25 |  |
 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 | 2022-05-25 |  |
+| [ギターと孤独と蒼い惑星](https://open.spotify.com/track/1rgncjmlpHMP3DBhpagyVb) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:48 | 2023-01-03 |  |
 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 | 2022-07-08 |  |
 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 | 2022-07-08 |  |
 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 | 2022-07-08 | 2023-01-06 |

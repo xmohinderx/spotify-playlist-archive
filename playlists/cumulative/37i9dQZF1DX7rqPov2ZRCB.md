@@ -4,7 +4,7 @@
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-245 songs - 18 hr 52 min
+246 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Abrete](https://open.spotify.com/track/18uSijEt6xcpnRnd6mnzGd) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt), [Martin Elias](https://open.spotify.com/artist/4w6suuqH0FKKYAwFK2GfkP) | [Abrete](https://open.spotify.com/album/5C3lLZkbzYvUOFj6LQl6O7) | 4:54 | 2019-09-09 | 2022-07-13 |
 | [Adan y Eva](https://open.spotify.com/track/3PTwz9B9JQX97CZQDXD3xl) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Tatico Henríquez](https://open.spotify.com/album/0JD61srO8ptHAXAghonKen) | 2:43 | 2019-09-09 | 2022-11-25 |
 | [Adan y Eva](https://open.spotify.com/track/0RJs8drfEtEtUWy5Ujwbup) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Grandes Exitos](https://open.spotify.com/album/6s3CqsbYOpa4nUuiguAUIN) | 2:43 | 2019-09-09 | 2022-07-20 |
+| [Adán y Eva](https://open.spotify.com/track/4HLRak2Wxe2X2HndXYQ7pS) | [Tatico Henríquez](https://open.spotify.com/artist/1nEsnDQcktK5SB4ZKAezYM) | [La Cuestión](https://open.spotify.com/album/4UBjoC0P9jWZ5CndQhPFVD) | 2:44 | 2019-09-09 |  |
 | [Ah Vas A Seguir](https://open.spotify.com/track/76iBvpmKIhyGujiLOH8lua) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Merengue Party Vol\. 2](https://open.spotify.com/album/2ZrtjCxnJAFwIXbrct78sZ) | 4:39 | 2019-09-09 | 2022-07-24 |
 | [Al Que Le Pique](https://open.spotify.com/track/3rHdsROdo2VVY3NUoQihT2) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [1](https://open.spotify.com/album/6ewQaPepdmwT139inGJBJ9) | 7:47 | 2019-09-09 |  |
 | [Altagracia](https://open.spotify.com/track/5WkiuLjNc1WF3IfcxfBoYW) | [Tatico Henriquez Y Sus Muchachos](https://open.spotify.com/artist/4Pva9KTs5FoQl4TuyZZ3Mm) | [Homenaje A Tatico Henriquez](https://open.spotify.com/album/4p5kDQmlTSPGwIgZTEpCSJ) | 2:52 | 2019-09-09 | 2022-06-08 |
@@ -149,7 +150,7 @@
 | [La Mecedora](https://open.spotify.com/track/4gud2okz9KBcDUjVGw36sD) | [Tatico Henriquez Y Sus Muchachos](https://open.spotify.com/artist/4Pva9KTs5FoQl4TuyZZ3Mm) | [Homenaje A Tatico Henríquez](https://open.spotify.com/album/6wpHAV5jdgysuRBal7lYvu) | 2:54 | 2019-09-09 |  |
 | [La Mecedora](https://open.spotify.com/track/4mAsDw8MeRo6szWdtvJmlQ) | [Tatico Henriquez Y Sus Muchachos](https://open.spotify.com/artist/4Pva9KTs5FoQl4TuyZZ3Mm) | [Homenaje A Tatico Henriquez](https://open.spotify.com/album/4p5kDQmlTSPGwIgZTEpCSJ) | 2:54 | 2019-09-09 | 2022-07-29 |
 | [La Muerte De Martín](https://open.spotify.com/track/6dRqfRIFbxbu65vsjCUXeI) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 5:20 | 2019-09-09 |  |
-| [La Parrandera](https://open.spotify.com/track/4oAR1btdXP6IhFC34AFgWg) | [Nixon Roman](https://open.spotify.com/artist/2By9kmzFJJJDiyK3LKwZ0Y), [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO), [Raul Roman](https://open.spotify.com/artist/407htV3vsmPBNcLRQyjKe9), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Parrandera](https://open.spotify.com/album/4HAyzehYlrZYIcUdQVAKKZ) | 10:56 | 2019-09-09 |  |
+| [La Parrandera](https://open.spotify.com/track/4oAR1btdXP6IhFC34AFgWg) | [Nixon Roman](https://open.spotify.com/artist/2By9kmzFJJJDiyK3LKwZ0Y), [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO), [Raul Roman](https://open.spotify.com/artist/407htV3vsmPBNcLRQyjKe9), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Parrandera](https://open.spotify.com/album/4HAyzehYlrZYIcUdQVAKKZ) | 10:56 | 2019-09-09 | 2023-01-08 |
 | [La Pava](https://open.spotify.com/track/24LhlltPQjE5EMCmRTWQzt) | [Tatico](https://open.spotify.com/artist/06szOvix5Fvf3lGkERzGI4) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 2:51 | 2019-09-09 | 2022-07-27 |
 | [La Pava](https://open.spotify.com/track/6EYmqkj3o78oX29YF5FOyl) | [Tatico](https://open.spotify.com/artist/06szOvix5Fvf3lGkERzGI4) | [Sabor Criollo \(Música Típica\)](https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy) | 2:51 | 2019-09-09 | 2022-07-12 |
 | [La Pava](https://open.spotify.com/track/7dwqCe1TRY8pUG3HIgjzdm) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Consagración de Cariño](https://open.spotify.com/album/4eUT2dtQUXBoBF0GxhTxFE) | 2:51 | 2019-09-09 | 2022-11-25 |

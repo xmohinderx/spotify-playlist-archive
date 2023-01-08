@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-179 songs - 9 hr 50 min
+180 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Rosa](https://open.spotify.com/track/6pK1CAuGhitqP65KqoH2XA) | [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST) | [Rosa](https://open.spotify.com/album/1iTGKobhKkFNgDgHnpj6ho) | 3:30 | 2022-12-02 | 2022-12-21 |
 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 | 2022-07-07 |  |
 | [Rubi](https://open.spotify.com/track/4aStXzYiJWQvdspHEn6GJN) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Midas](https://open.spotify.com/artist/6bLqHfd3myOdJyC4z6Blhj) | [Rubi](https://open.spotify.com/album/5GZRN9j6B5N7Gk5jtvaRtM) | 3:43 | 2022-09-29 | 2022-11-25 |
-| [Sai Tentação](https://open.spotify.com/track/0F8tCc9fcUXysAdTrr44b1) | [Weyda Mumia](https://open.spotify.com/artist/5q8HFT2ItgzYkBimz2gKpn), [Edsong](https://open.spotify.com/artist/3sr1yJlIkFap6eDUfpvGp5) | [Sai Tentação](https://open.spotify.com/album/6Lf391zTzvrZ0XEKZb3Z0k) | 3:21 | 2023-01-06 |  |
+| [Sai Tentação](https://open.spotify.com/track/0F8tCc9fcUXysAdTrr44b1) | [Weyda Mumia](https://open.spotify.com/artist/5q8HFT2ItgzYkBimz2gKpn), [Edsong](https://open.spotify.com/artist/3sr1yJlIkFap6eDUfpvGp5) | [Sai Tentação](https://open.spotify.com/album/6Lf391zTzvrZ0XEKZb3Z0k) | 3:21 | 2023-01-06 | 2023-01-08 |
 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 | 2022-07-07 |  |
 | [Saudade](https://open.spotify.com/track/3OS9HqgLoWRd8JQWiSogyo) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/6sNUelgfRXdVV76YIOuGzY) | 5:06 | 2022-07-07 | 2022-07-29 |
 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 | 2022-07-21 |  |
@@ -179,6 +179,7 @@
 | [Tuesday: Procrastinar](https://open.spotify.com/track/2DjWrLCGdic0K5tl5bXffg) | [Alkinoos](https://open.spotify.com/artist/1tUvSyqscXOmXVYu40hCv0) | [Week](https://open.spotify.com/album/5PlTGcP8Wp4S29t08wzTDj) | 2:59 | 2022-08-18 | 2022-08-22 |
 | [UP](https://open.spotify.com/track/50etRztTYtGrwhUi0MV7JX) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [UP](https://open.spotify.com/album/79gzyakOLwnxmy7mWW4MZi) | 2:37 | 2022-10-27 | 2022-11-25 |
 | [Vai Dar](https://open.spotify.com/track/0YMXAPod9hwWwtDDejqI0C) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Vai Dar](https://open.spotify.com/album/4OE14bnybnjUzvgT2tjQ2j) | 3:05 | 2022-07-07 | 2022-10-14 |
+| [Verão Azul \- Encore Sessions](https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL) | [D'ZRT](https://open.spotify.com/artist/2Td4hZ8FWidGoeKhu7c73I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Verão Azul](https://open.spotify.com/album/3mDUg1qAUPoEEKJRh1FPMs) | 4:42 | 2023-01-06 |  |
 | [Viciado](https://open.spotify.com/track/2utfCVxSXEWN711XL58Ci7) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Viciado](https://open.spotify.com/album/19PSSc9iyYbYaal7ePUG6W) | 3:23 | 2022-12-02 | 2022-12-24 |
 | [Vivenda](https://open.spotify.com/track/5vnzyBc5JZ1Z7VZJcf4ap6) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Vivenda](https://open.spotify.com/album/2aA6KxWFPth5qoD1AHNflH) | 3:11 | 2022-12-23 |  |
 | [Volta](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Volta](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 | 2022-07-07 |  |

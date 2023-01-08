@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,692 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,699 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 50 | [Vírgula](https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:11 |
 | 51 | [Reunião Dos Cria](https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Miatã](https://open.spotify.com/artist/40OkyQ4ZTOm2VzUBgsRfRG), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Reunião Dos Cria](https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5) | 3:48 |
 | 52 | [Avião](https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Avião](https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf) | 2:19 |
-| 53 | [Clima Diferente](https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Clima Diferente](https://open.spotify.com/album/6U49HmBuI0HTotwONu75ig) | 3:30 |
-| 54 | [Ak Forty Seven](https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Ak Forty Seven](https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3) | 2:52 |
+| 53 | [Ak Forty Seven](https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Ak Forty Seven](https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3) | 2:52 |
+| 54 | [Clima Diferente](https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Clima Diferente](https://open.spotify.com/album/6U49HmBuI0HTotwONu75ig) | 3:30 |
 | 55 | [Jordan](https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jordan](https://open.spotify.com/album/6zhfMgOecZi8lRQ43CO3jL) | 3:10 |
 | 56 | [21](https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9) | [21](https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO) | 3:35 |
 | 57 | [C Walk 2](https://open.spotify.com/track/0CeaAvEotqd1vxT25x2oQ2) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [C Walk 2](https://open.spotify.com/album/1acftUORHmGwfl2HMP2ZUH) | 3:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Maleta](https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Maleta](https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD) | 4:07 |
 | 60 | [RJ Mais Que Atlanta](https://open.spotify.com/track/65iZrNUeKYgiQXSYvVQVWQ) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs) | [RJ Mais Que Atlanta](https://open.spotify.com/album/3fkbibWGlHrHzaaoJ6MXq1) | 3:04 |
 
-Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMGJlMjk5YTg3YWMwNGZjYjA3OTdkZTUwNWM4ZDY0OWM5`
+Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMDcyNWIwNzAwNzIyN2Q4N2E4ZjRkMDk0Zjc2ZDEzOGQw`

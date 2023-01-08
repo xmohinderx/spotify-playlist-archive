@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,069 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,090 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 78 | [One Way](https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk) | [Bloodfire](https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7) | [One Way](https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM) | 3:20 |
 | 79 | [Buried Alive](https://open.spotify.com/track/6En1mnKQHujsveLdnkPRon) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Buried Alive](https://open.spotify.com/album/7kH4AAUjyQYDmmCeohXyxa) | 3:15 |
 | 80 | [Rave Machine](https://open.spotify.com/track/7quuryt7S7Ix5Xr51GC3Ng) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Rave Machine](https://open.spotify.com/album/1PrEgszhMvGe9PiLdPywWu) | 3:48 |
-| 81 | [Demolition Hardcore](https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Demolition Hardcore](https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8) | 3:20 |
-| 82 | [Forged In Fury](https://open.spotify.com/track/74QKmn0vjBHL4SJ2WXPnhJ) | [Neroz](https://open.spotify.com/artist/76WqyxPmL1KmO2up8jbYOC), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Forged In Fury](https://open.spotify.com/album/1QVTiTTs4oZvU4lL7qLAnv) | 3:58 |
-| 83 | [Franse Beuker](https://open.spotify.com/track/5ViJfFeCmWETxaW29QLMgr) | [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [Franse Beuker](https://open.spotify.com/album/2vnG9faqmtBUruIewFguvc) | 2:33 |
-| 84 | [Fvcking One](https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY) | [Edwar](https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC), [Sidekick](https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co) | [Fvcking One](https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj) | 3:33 |
+| 81 | [Forged In Fury](https://open.spotify.com/track/74QKmn0vjBHL4SJ2WXPnhJ) | [Neroz](https://open.spotify.com/artist/76WqyxPmL1KmO2up8jbYOC), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Forged In Fury](https://open.spotify.com/album/1QVTiTTs4oZvU4lL7qLAnv) | 3:58 |
+| 82 | [Demolition Hardcore](https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Demolition Hardcore](https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8) | 3:20 |
+| 83 | [Fvcking One](https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY) | [Edwar](https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC), [Sidekick](https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co) | [Fvcking One](https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj) | 3:33 |
+| 84 | [Franse Beuker](https://open.spotify.com/track/5ViJfFeCmWETxaW29QLMgr) | [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [Franse Beuker](https://open.spotify.com/album/2vnG9faqmtBUruIewFguvc) | 2:33 |
 | 85 | [The Sound Flow](https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Promo](https://open.spotify.com/artist/6CG5i0dfyqWIOrqFY60ooq) | [The Sound Flow](https://open.spotify.com/album/3iqIKphcsHVZa5B0Soy0cH) | 4:25 |
 | 86 | [Story of My Life](https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc) | [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Story of My Life](https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c) | 4:05 |
 | 87 | [Omega \- Live Edit](https://open.spotify.com/track/0zC6ICRWrAEDFbyyi0crJ4) | [Ncrypta](https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Omega \(Live Edit\)](https://open.spotify.com/album/6TYuQciQswy9WLmtBwmBYo) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Sick And Tired](https://open.spotify.com/track/1K13dIVI2xSsqZQlPuKvq2) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Sick And Tired](https://open.spotify.com/album/16kkNx668sjZceOu4LeK6d) | 3:12 |
 | 100 | [Bang Bang](https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Bang Bang](https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG) | 4:54 |
 
-Snapshot ID: `MTY3MTc1MDAwMCwwMDAwMDAwMDhmZjE4ODZiMDZjZjQ2MWI2OGYzMTNkMmZmZTMyNDc2`
+Snapshot ID: `MTY3MTc1MDAwMCwwMDAwMDAwMDE5NGE1NzQzZDAwOWNhNTI0ODExMWE0Yjc3ZTU1Mjc1`

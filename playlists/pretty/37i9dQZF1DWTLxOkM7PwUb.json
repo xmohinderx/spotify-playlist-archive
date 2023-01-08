@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 3207,
+  "num_followers": 3233,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMGNhOTQ2NWRiOTE0YmNjNTg3Zjk0ZTFlOGM3YWI5ZGM4",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMGQyZWE5ZDk1MDRlMjhhZTBjN2FlYzM5Zjg1NWY1MzRl",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1615,18 +1615,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Trend",
-        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG"
       },
       "artists": [
         {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        },
+        {
+          "name": "KYOTTO",
+          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
         }
       ],
-      "duration_ms": 233146,
-      "name": "Ella busca",
-      "url": "https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj"
+      "duration_ms": 271743,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1647,22 +1651,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG"
+        "name": "Trend",
+        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
       },
       "artists": [
         {
-          "name": "Tobi",
-          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
-        },
-        {
-          "name": "KYOTTO",
-          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
         }
       ],
-      "duration_ms": 271743,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ"
+      "duration_ms": 233146,
+      "name": "Ella busca",
+      "url": "https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj"
     },
     {
       "added_at": "2022-12-09 03:00:00",

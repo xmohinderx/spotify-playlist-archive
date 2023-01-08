@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 2691,
+  "num_followers": 2699,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDQ3MDNhYzQxNGIyYWQzYmUwNmMwMjQ3YjIwMWQ5Njhj",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGYzOGEyNTdjMTVhYWYzZmQ0NTQyNTA3YmJkMDBiYTZl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -227,6 +227,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Moon Boy",
+        "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 226220,
+      "name": "You're Mines Still (feat. Drake)",
+      "url": "https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/6PMuXABPVPf11EgTxrjroO"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 310906,
       "name": "All Day",
       "url": "https://open.spotify.com/track/79reBHqpRoWXaQbjBBY3UC"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Moon Boy",
-        "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 226220,
-      "name": "You're Mines Still (feat. Drake)",
-      "url": "https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r"
     },
     {
       "added_at": "2022-10-01 16:00:00",

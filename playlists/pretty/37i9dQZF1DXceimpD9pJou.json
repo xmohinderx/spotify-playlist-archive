@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Madiel Lara",
-  "num_followers": 114854,
+  "num_followers": 114860,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MzM1NywwMDAwMDAwMGI5N2ZhYjJlZDRlYWYzMjI5MjdmODU4MDAxNWQzOGZl",
+  "snapshot_id": "MTY3Mjk4MzM1NywwMDAwMDAwMDEwMWJlOGM2OTRhYjE1YTMwYTEzNThmNWNlNWUxYTAy",
   "tracks": [
     {
       "added_at": "2023-01-06 05:35:57",
@@ -331,6 +331,26 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
+        "name": "Adoraci\u00f3n Vol. 1",
+        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n",
+          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
+        },
+        {
+          "name": "Elena Witt-Guerra",
+          "url": "https://open.spotify.com/artist/4zESLvdxWtqZP4qbQIO6ka"
+        }
+      ],
+      "duration_ms": 278789,
+      "name": "Dame De Beber",
+      "url": "https://open.spotify.com/track/4wfgyTSPuSLezpBiAji1jB"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
         "name": "En Ti Yo Esperar\u00e9 (What I'm Waiting For) (feat. TWICE)",
         "url": "https://open.spotify.com/album/6ZvTJaNoL6G3G9IEmqVBOU"
       },
@@ -351,22 +371,18 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Adoraci\u00f3n Vol. 1",
-        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/5gThgZJB0mCkrYljBOEour"
       },
       "artists": [
         {
-          "name": "Adoraci\u00f3n",
-          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
-        },
-        {
-          "name": "Elena Witt-Guerra",
-          "url": "https://open.spotify.com/artist/4zESLvdxWtqZP4qbQIO6ka"
+          "name": "Dariann Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
         }
       ],
-      "duration_ms": 278789,
-      "name": "Dame De Beber",
-      "url": "https://open.spotify.com/track/4wfgyTSPuSLezpBiAji1jB"
+      "duration_ms": 261250,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/3VFOh655IwOLgcz9AePHVv"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -399,22 +415,6 @@
       "duration_ms": 316650,
       "name": "Te Necesito (Remix)",
       "url": "https://open.spotify.com/track/21fY89VrTRDdgavfv5jm9u"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/5gThgZJB0mCkrYljBOEour"
-      },
-      "artists": [
-        {
-          "name": "Dariann Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
-        }
-      ],
-      "duration_ms": 261250,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/3VFOh655IwOLgcz9AePHVv"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Amor, Amor, Amor",
-        "url": "https://open.spotify.com/album/46brTenNVzpBIXcJNTlQjk"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Amor, Amor, Amor - En vivo",
-      "url": "https://open.spotify.com/track/47GvCA8LGKu7oVyPRFpZ39"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "Dios Es la Vuelta",
         "url": "https://open.spotify.com/album/33fM34n6OZE12cOKUlJm9M"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
+        "name": "Amor, Amor, Amor",
+        "url": "https://open.spotify.com/album/46brTenNVzpBIXcJNTlQjk"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Amor, Amor, Amor - En vivo",
+      "url": "https://open.spotify.com/track/47GvCA8LGKu7oVyPRFpZ39"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
         "name": "Esperar\u00e9 en ti SE\u00d1OR",
         "url": "https://open.spotify.com/album/6CtANcQxXO50tsmMzzah6W"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 313222,
       "name": "Esperar\u00e9 en ti SE\u00d1OR",
       "url": "https://open.spotify.com/track/4HtKWZ8bJUUiGMrPnamtys"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
-        "name": "Paso a Paso",
-        "url": "https://open.spotify.com/album/5Egmn32rISYg4tJ9SVOW2K"
-      },
-      "artists": [
-        {
-          "name": "Deluz",
-          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
-        }
-      ],
-      "duration_ms": 211272,
-      "name": "Paso a Paso",
-      "url": "https://open.spotify.com/track/5o9iPNwRsPcBgCzVg9QTHz"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -723,6 +707,22 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
+        "name": "Paso a Paso",
+        "url": "https://open.spotify.com/album/5Egmn32rISYg4tJ9SVOW2K"
+      },
+      "artists": [
+        {
+          "name": "Deluz",
+          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
+        }
+      ],
+      "duration_ms": 211272,
+      "name": "Paso a Paso",
+      "url": "https://open.spotify.com/track/5o9iPNwRsPcBgCzVg9QTHz"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
         "name": "En el estudio con Manny Montes Vol. 4",
         "url": "https://open.spotify.com/album/7HIGaVBJlUaRxYt8dyXVCP"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Le\u00f3n de Jud\u00e1",
-        "url": "https://open.spotify.com/album/1ZDes0m61OifCgx2n3C7JC"
-      },
-      "artists": [
-        {
-          "name": "Dahaira",
-          "url": "https://open.spotify.com/artist/3nIeDI9YmzJ4iWAoerBQVR"
-        }
-      ],
-      "duration_ms": 479008,
-      "name": "Le\u00f3n de Jud\u00e1",
-      "url": "https://open.spotify.com/track/4GZOCkDM55gP41pVmbp6VX"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "Yo Estuve Ah\u00ed",
         "url": "https://open.spotify.com/album/0eprlNkzjreuIsZedYIX0q"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 197498,
       "name": "Yo estuve ah\u00ed",
       "url": "https://open.spotify.com/track/4Ii7OHbeWtFqoCjrGgxnJn"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Le\u00f3n de Jud\u00e1",
+        "url": "https://open.spotify.com/album/1ZDes0m61OifCgx2n3C7JC"
+      },
+      "artists": [
+        {
+          "name": "Dahaira",
+          "url": "https://open.spotify.com/artist/3nIeDI9YmzJ4iWAoerBQVR"
+        }
+      ],
+      "duration_ms": 479008,
+      "name": "Le\u00f3n de Jud\u00e1",
+      "url": "https://open.spotify.com/track/4GZOCkDM55gP41pVmbp6VX"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
+        "name": "rosa de amor",
+        "url": "https://open.spotify.com/album/2ldKE839o8afQK7gKk7joL"
+      },
+      "artists": [
+        {
+          "name": "Strings And Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 204458,
+      "name": "rosa de amor",
+      "url": "https://open.spotify.com/track/0gNmsJQAUzYulBFCGknFF9"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
         "name": "Prendio",
         "url": "https://open.spotify.com/album/2hvgQGdaaADwSomkDxOLcD"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 162203,
       "name": "Prendio",
       "url": "https://open.spotify.com/track/0AFZ3q755SUhvquX6EVpnJ"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
-        "name": "rosa de amor",
-        "url": "https://open.spotify.com/album/2ldKE839o8afQK7gKk7joL"
-      },
-      "artists": [
-        {
-          "name": "Strings And Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 204458,
-      "name": "rosa de amor",
-      "url": "https://open.spotify.com/track/0gNmsJQAUzYulBFCGknFF9"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Hola Jes\u00fas",
-        "url": "https://open.spotify.com/album/0vLrM4pHTB8LPehombeId8"
-      },
-      "artists": [
-        {
-          "name": "Estaci\u00f3n Cero",
-          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
-        },
-        {
-          "name": "Amanda Vernon",
-          "url": "https://open.spotify.com/artist/6U5LavdtWNIZcVmpbOxjWc"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Hola Jes\u00fas",
-      "url": "https://open.spotify.com/track/3swBmzPIbpIiEXWHJ02M2i"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "Sal y Vive",
         "url": "https://open.spotify.com/album/63BZaXHHoVRVlvbBjkRPKk"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 298012,
       "name": "Sal y Vive",
       "url": "https://open.spotify.com/track/05ROv3uLNok7qSb2xE08lB"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Hola Jes\u00fas",
+        "url": "https://open.spotify.com/album/0vLrM4pHTB8LPehombeId8"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        },
+        {
+          "name": "Amanda Vernon",
+          "url": "https://open.spotify.com/artist/6U5LavdtWNIZcVmpbOxjWc"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Hola Jes\u00fas",
+      "url": "https://open.spotify.com/track/3swBmzPIbpIiEXWHJ02M2i"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/63tnhdXRB8Eq0vLIJtx0rw"
+      },
+      "artists": [
+        {
+          "name": "Luz y Vida Music",
+          "url": "https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v"
+        },
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        }
+      ],
+      "duration_ms": 184187,
+      "name": "Por Siempre",
+      "url": "https://open.spotify.com/track/4sFFHBhmAiWWldw7PP2rYj"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
         "name": "Vas a Llegar",
         "url": "https://open.spotify.com/album/2t3q3LbGj450g9brgSwUVF"
       },
@@ -1263,22 +1283,22 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/63tnhdXRB8Eq0vLIJtx0rw"
+        "name": "Como La Primera Vez",
+        "url": "https://open.spotify.com/album/7BDyAirumPg7KMrqisowb2"
       },
       "artists": [
         {
-          "name": "Luz y Vida Music",
-          "url": "https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v"
+          "name": "Kelly Granada",
+          "url": "https://open.spotify.com/artist/1MaVeo6ERKO0KjvqW6KJgI"
         },
         {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+          "name": "Luis Campos",
+          "url": "https://open.spotify.com/artist/43GeSwEPl4PapusCzWkKFP"
         }
       ],
-      "duration_ms": 184187,
-      "name": "Por Siempre",
-      "url": "https://open.spotify.com/track/4sFFHBhmAiWWldw7PP2rYj"
+      "duration_ms": 357580,
+      "name": "Como La Primera Vez",
+      "url": "https://open.spotify.com/track/70Fm48HLOpS3WlGXtLC5dp"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -1299,26 +1319,6 @@
       "duration_ms": 182769,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6VIw4fwvDXfKGiNmpjcuth"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
-        "name": "Como La Primera Vez",
-        "url": "https://open.spotify.com/album/7BDyAirumPg7KMrqisowb2"
-      },
-      "artists": [
-        {
-          "name": "Kelly Granada",
-          "url": "https://open.spotify.com/artist/1MaVeo6ERKO0KjvqW6KJgI"
-        },
-        {
-          "name": "Luis Campos",
-          "url": "https://open.spotify.com/artist/43GeSwEPl4PapusCzWkKFP"
-        }
-      ],
-      "duration_ms": 357580,
-      "name": "Como La Primera Vez",
-      "url": "https://open.spotify.com/track/70Fm48HLOpS3WlGXtLC5dp"
     },
     {
       "added_at": "2023-01-06 05:35:57",

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-513 songs - 1 day 13 hr 4 min
+514 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Bringin' On The Heartbreak](https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:33 | 2020-12-08 |  |
 | [Bullet The Blue Sky](https://open.spotify.com/track/12w7q5JN7tf22TzQtQiiBN) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:31 | 2020-12-08 |  |
 | [Burn in Hell](https://open.spotify.com/track/1aVChMRP6I3ViAIlnW3WYS) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 4:43 | 2020-12-08 |  |
-| [California Girls](https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Crazy from the Heat](https://open.spotify.com/album/2CLt8z7ozftRAx6I37C7rE) | 2:51 | 2020-12-08 |  |
+| [California Girls](https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Crazy from the Heat](https://open.spotify.com/album/2CLt8z7ozftRAx6I37C7rE) | 2:51 | 2020-12-08 | 2023-01-08 |
 | [Can't Happen Here](https://open.spotify.com/track/6c6PblxgdrYEULpt65p8tO) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:57 | 2020-12-08 | 2022-07-29 |
 | [Can'tcha Say \(You Believe In Me\) / Still In Love](https://open.spotify.com/track/7bMo7aljgbqpiOMSkwgkEN) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Third Stage](https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv) | 5:12 | 2020-12-08 | 2022-07-27 |
 | [Cat People \(Putting Out Fire\) \- 2018 Remaster](https://open.spotify.com/track/25ceFvWSaI3zoy9hhNYDqu) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 5:09 | 2020-12-08 | 2022-11-13 |
@@ -74,6 +74,7 @@
 | [Chilly Down](https://open.spotify.com/track/33cnHvf25gRxFkKI9LaSbA) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Labyrinth \(From The Original Soundtrack Of The Jim Henson Film\)](https://open.spotify.com/album/6cvdkUIC4IdBypl9L5Ae74) | 3:45 | 2020-12-08 | 2022-07-21 |
 | [China Girl](https://open.spotify.com/track/228eUJ7kzAROZJjERsd6Ef) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 3:34 | 2020-12-08 | 2022-07-13 |
 | [China White \- 2015 Remaster](https://open.spotify.com/track/6WrEVf2zlhQH2e6yvKCviG) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG) | 6:59 | 2020-12-08 | 2022-07-22 |
+| [Chloe Dancer/Crown Of Thorns](https://open.spotify.com/track/7rBMZvgeWnOTHWUh3Pvw51) | [Mother Love Bone](https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0) | [Mother Love Bone](https://open.spotify.com/album/5ohJawP6UajQ6ZIjWxnvM6) | 8:22 | 2020-12-08 |  |
 | [Chloe Dancer/Crown Of Thorns](https://open.spotify.com/track/6u5PNKpwoJrMEnCY0hTkAi) | [Mother Love Bone](https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0) | [Mother Love Bone](https://open.spotify.com/album/24UTTxVO1B0956xXWmtpab) | 8:22 | 2020-12-08 | 2022-07-29 |
 | [Closedown \- Remastered 2010](https://open.spotify.com/track/5QQ1xEicGlqmohDyieelbp) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 4:18 | 2020-12-08 | 2022-05-25 |
 | [Comin' Under Fire](https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 4:14 | 2020-12-08 | 2022-07-28 |

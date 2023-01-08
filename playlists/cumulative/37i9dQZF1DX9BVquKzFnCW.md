@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-182 songs - 16 hr 16 min
+183 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Manhattan](https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Brass/Trio](https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon) | 4:30 | 2022-02-23 |  |
 | [March On Selma \- Digitally Remastered](https://open.spotify.com/track/2hLe29doIBzGuNI0uTyAHV) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Down With It](https://open.spotify.com/album/1iuAU2WlRUkQzNd7iquQBG) | 6:15 | 2022-02-23 | 2022-07-29 |
 | [March On Selma \- Remastered](https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Down With It](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 6:16 | 2022-06-22 |  |
+| [Melody For C](https://open.spotify.com/track/5333J0hIUJoXfb2S7bRsaW) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Leapin' And Lopin'](https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm) | 7:45 | 2023-01-04 |  |
 | [Midnight Blue](https://open.spotify.com/track/025YhFIfBdUp5CNSXRCLUL) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 4:04 | 2022-02-23 | 2022-10-07 |
 | [Moon River](https://open.spotify.com/track/1xHgQN5A8a7iNi9AHxm6wl) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Masterjazz: Vince Guaraldi Trio](https://open.spotify.com/album/38HIowIbOOjNVilz8MqIam) | 5:21 | 2022-02-23 | 2022-06-10 |
 | [Moonlight In Vermont \- Live At The Pershing, Chicago, 1958](https://open.spotify.com/track/68oYY9hUduyqbKZpOUi4Iq) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Ahmad Jamal At The Pershing: But Not For Me](https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY) | 3:10 | 2022-04-13 | 2022-10-07 |
@@ -136,7 +137,7 @@
 | [Sandino](https://open.spotify.com/track/6RHr4ChhpvM4XKRy31xS5W) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Etudes](https://open.spotify.com/album/6Y7tgGIv5fI0EQZbOxL45s) | 4:47 | 2022-06-22 | 2022-12-20 |
 | [Sandino](https://open.spotify.com/track/1BYDZ6y1kfTEIj0OizAll6) | [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Etudes](https://open.spotify.com/album/3K5vMOi2CazUGFqKgBgy0R) | 4:47 | 2022-02-23 | 2022-07-29 |
 | [Satin Doll](https://open.spotify.com/track/08KRFHK8w57Js5GZZjamll) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 5:39 | 2022-02-23 | 2022-09-15 |
-| [Shiny Stockings](https://open.spotify.com/track/3lul9ssgcVYSo7ivts4vPb) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:20 | 2023-01-04 |  |
+| [Shiny Stockings](https://open.spotify.com/track/3lul9ssgcVYSo7ivts4vPb) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:20 | 2023-01-04 | 2023-01-08 |
 | [Silver's Serenade \- 20\-Bit Remastering/1997](https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Finest](https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE) | 9:21 | 2022-09-15 |  |
 | [Smoke Rings](https://open.spotify.com/track/6dAM2fTUmBreL0biKXbBPY) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:41 | 2022-02-23 | 2022-10-07 |
 | [Social Call](https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Gigi Gryce](https://open.spotify.com/artist/60pVDktf5EH4d3IxkHozpa) | [When Farmer Met Gryce](https://open.spotify.com/album/2ztfNhKe4VD2diiLMkR19a) | 6:05 | 2022-09-15 |  |
