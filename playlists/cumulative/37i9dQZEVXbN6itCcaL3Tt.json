@@ -7860,7 +7860,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 162935,
       "name": "Jakie To Uczucie?",
       "url": "https://open.spotify.com/track/1SDoIIjDCFjJuglM7qbIqf"
@@ -8982,7 +8982,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -17525,6 +17525,24 @@
     },
     {
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+    },
+    {
+      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
@@ -18892,7 +18910,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 169560,
       "name": "TURYSTA",
       "url": "https://open.spotify.com/track/1P0ONzmEfswDiIJsP4xNA9"

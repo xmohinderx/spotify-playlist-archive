@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 
 > Take it easy with these laid back tracks from the eighties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,939 likes - 80 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,206,238 likes - 80 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 27 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
 | 28 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
 | 29 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 |
-| 30 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 |
-| 31 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
+| 30 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
+| 31 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 |
 | 32 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:41 |
 | 33 | [Words \- Original Version 1983](https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD) | [F.R\. David](https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn) | [Words](https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo) | 3:29 |
 | 34 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 41 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 |
 | 42 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
 | 43 | [If You Don't Know Me by Now \- 2008 Remaster](https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [A New Flame \(Expanded Version\)](https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew) | 3:24 |
-| 44 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
-| 45 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
+| 44 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
+| 45 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
 | 46 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
 | 47 | [Waiting for a Girl like You](https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:52 |
 | 48 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 72 | [Nikita](https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:43 |
 | 73 | [Slave To Love](https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Boys And Girls](https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2) | 4:26 |
 | 74 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 |
-| 75 | [Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM) | [Black](https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 4:47 |
-| 76 | [The Whole of the Moon \- 2004 Remaster](https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [This Is the Sea \(Deluxe Version\)](https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh) | 5:02 |
+| 75 | [The Whole of the Moon \- 2004 Remaster](https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [This Is the Sea \(Deluxe Version\)](https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh) | 5:02 |
+| 76 | [Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM) | [Black](https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 4:47 |
 | 77 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 |
 | 78 | [Woman In Chains](https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [The Seeds Of Love](https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO) | 6:31 |
 | 79 | [Valerie](https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Talking Back To The Night](https://open.spotify.com/album/6zpu2C7qPjXrhv5cyuLNZn) | 4:06 |
 | 80 | [The River](https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 5:01 |
 
-Snapshot ID: `MTY0MjUwNzAxMCwwMDAwMDAwMDllN2NhNjU1MzE0YTgxNDMyZjZjNzQzNWJkNGM0Yjdi`
+Snapshot ID: `MTY0MjUwNzAxMCwwMDAwMDAwMGNjODk0N2NiZmRmZjkxN2VlMmE0ZWE5MmZiZTkyNTIx`

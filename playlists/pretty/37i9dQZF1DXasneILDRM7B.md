@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: Fall Out Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,003 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,553 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,23 +50,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 40 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 |
 | 41 | [Want You Bad](https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:22 |
 | 42 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 |
-| 43 | [Monsters \(feat\. blackbear\)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:54 |
-| 44 | [Gives You Hell](https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) | 3:33 |
+| 43 | [Gives You Hell](https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) | 3:33 |
+| 44 | [Monsters \(feat\. blackbear\)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:54 |
 | 45 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 |
 | 46 | [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF) | 3:13 |
 | 47 | [MakeDamnSure](https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:28 |
 | 48 | [Ignorance](https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:38 |
-| 49 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
-| 50 | [Feeling This](https://open.spotify.com/track/26AYR77170U49cMcXB7aRV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:52 |
-| 51 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
+| 49 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
+| 50 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
+| 51 | [Feeling This](https://open.spotify.com/track/26AYR77170U49cMcXB7aRV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:52 |
 | 52 | [All I Want](https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:22 |
 | 53 | [The Ballad of Mona Lisa](https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:46 |
 | 54 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
 | 55 | [What You Make It](https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:57 |
 | 56 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 |
-| 57 | [American Idiot](https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(Deluxe\)](https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g) | 2:54 |
+| 57 | [Swing, Swing](https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR) | 3:53 |
 | 58 | [That's What You Get](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:40 |
-| 59 | [Swing, Swing](https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR) | 3:53 |
+| 59 | [American Idiot](https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(Deluxe\)](https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g) | 2:54 |
 | 60 | [Turbulent](https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:42 |
 | 61 | [This Is Gospel](https://open.spotify.com/track/3yZQk5PC52CCmT4ZaTIKvv) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:07 |
 | 62 | [Weightless](https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [Where I Belong \(feat\. We The Kings\)](https://open.spotify.com/track/6XbmIuDxm4gWpVYoGg5DQX) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Where I Belong \(feat\. We The Kings\)](https://open.spotify.com/album/4m7sJnkRPKWdyNa87dxCER) | 3:10 |
 | 100 | [Kiss Me](https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 2:55 |
 
-Snapshot ID: `MTY3Mjg0MDY4NSwwMDAwMDAwMGEyMDZjYjRmMzMxMmIzMTY4MTg2OWEwYTczYmVmODQ5`
+Snapshot ID: `MTY3Mjg0MDY4NSwwMDAwMDAwMDRiZjkzZjFlZDU2MTk4ZjgzYTY2ODM0M2QxYTk5MDM1`

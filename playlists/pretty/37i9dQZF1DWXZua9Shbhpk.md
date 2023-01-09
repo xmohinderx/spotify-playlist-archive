@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZua9Shbhpk.md) - [plain]
 
 > The best mix of hip hop, pop, country, dance and classic anthems for the game day warm\-up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,832 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,834 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZua9Shbhpk.md) - [plain]
 | 13 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 |
 | 14 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 15 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 |
-| 16 | [20 Min](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2 \(Deluxe\)](https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP) | 3:40 |
-| 17 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
+| 16 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
+| 17 | [20 Min](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2 \(Deluxe\)](https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP) | 3:40 |
 | 18 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
 | 19 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 |
 | 20 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZua9Shbhpk.md) - [plain]
 | 47 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 |
 | 48 | [Pop Out \(feat\. Lil Tjay\)](https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Die A Legend](https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w) | 2:46 |
 | 49 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 |
-| 50 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 |
+| 50 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
 
-Snapshot ID: `MTY2MjE0NjUyMSwwMDAwMDAwMDQzNDg5OTY1MmU3NTE2MTgzYzc2OTRmYTEwZGIwMmVl`
+Snapshot ID: `MTY2MjE0NjUyMSwwMDAwMDAwMGM5YzM0ZTRhOWFjMmU1OGVmOWIxZjg2YmQ0ZDU4MWEy`

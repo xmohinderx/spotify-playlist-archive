@@ -68,7 +68,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 205464,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/7vmI0ZeIjndCcohHfJex0m"
@@ -448,6 +448,28 @@
       "duration_ms": 213750,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/0qwPUvS4Eofc19Uw2IDodG"
+    },
+    {
+      "album": {
+        "name": "Harmony (Stadiumx Remix)",
+        "url": "https://open.spotify.com/album/166oI2CSmmp0Wk4IaVbNrU"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325645,
+      "name": "Harmony - Extended Stadiumx Remix",
+      "url": "https://open.spotify.com/track/11SwOkvwTXlCfprgPCA5yP"
     },
     {
       "album": {

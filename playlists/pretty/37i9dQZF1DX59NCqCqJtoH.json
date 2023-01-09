@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1090842,
+  "num_followers": 1091652,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMDc5ODlkYTI4YTNkYzBjYzU1MmVjNTc0MWU5MTZmZTEy",
+  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMDg5NzIzOWEwZGNkMWJlNDNlODY1MzY4YzI4YjBkY2Fi",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "whore",
+        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "whore",
+      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Demons and Monsters",
         "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 235035,
       "name": "Pancakes for Dinner",
       "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "whore",
-        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "whore",
-      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Home for the Summer",
-        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 155271,
-      "name": "Home for the Summer",
-      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Violets",
         "url": "https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 115263,
       "name": "Violets",
       "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Home for the Summer",
+        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 155271,
+      "name": "Home for the Summer",
+      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Forever & Always",
-        "url": "https://open.spotify.com/album/06EYDifphG99Y4dmF44pwe"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 249704,
-      "name": "Forever & Always",
-      "url": "https://open.spotify.com/track/2keT649m2xIywngAVJHsuC"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 303066,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Forever & Always",
+        "url": "https://open.spotify.com/album/06EYDifphG99Y4dmF44pwe"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Forever & Always",
+      "url": "https://open.spotify.com/track/2keT649m2xIywngAVJHsuC"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 193005,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
-    },
-    {
       "added_at": "2023-01-06 06:05:00",
       "album": {
         "name": "Maya",
@@ -1371,6 +1355,22 @@
       "duration_ms": 207955,
       "name": "Maya",
       "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 193005,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1485,20 +1485,20 @@
       "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2023-01-06 06:05:00",
       "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 239700,
-      "name": "Emerald Eyes",
-      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
+      "duration_ms": 214768,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1515,6 +1515,22 @@
       "duration_ms": 158714,
       "name": "Smile in the Face of the Devil",
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 239700,
+      "name": "Emerald Eyes",
+      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1649,40 +1665,20 @@
       "url": "https://open.spotify.com/track/1Sl3gcmaeiU3vOMPpeM98V"
     },
     {
-      "added_at": "2023-01-06 06:05:00",
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 214768,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Tell Me About You (feat. Mishaal)",
-        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
       "artists": [
         {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Tell Me About You (feat. Mishaal)",
-      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+      "duration_ms": 197513,
+      "name": "Sorry for Me",
+      "url": "https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN"
     },
     {
       "added_at": "2022-11-11 05:00:00",

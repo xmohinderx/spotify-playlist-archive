@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,709 likes - 60 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,803 likes - 60 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 41 | [Dust My Broom](https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 3:35 |
 | 42 | [I Can't Quit You Baby](https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 3:39 |
 | 43 | [Blue Jean Blues](https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rancho Texicano: The Very Best of ZZ Top](https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k) | 4:39 |
-| 44 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
-| 45 | [Better Day](https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Brownie McGhee and Sonny Terry Sing](https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv) | 3:04 |
+| 44 | [Better Day](https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Brownie McGhee and Sonny Terry Sing](https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv) | 3:04 |
+| 45 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
 | 46 | [I Got the Blues](https://open.spotify.com/track/67sHV5ccX8EreM66hq6cbv) | [Big Bill Broonzy](https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX), [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [Presenting...The Best of the Blues](https://open.spotify.com/album/1WoedhOKJqDgArNSthegCO) | 2:55 |
 | 47 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 |
 | 48 | [So Easy To Love You](https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15) | [Magic Slim & The Teardrops](https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat) | [Chicago Blues Session Volume 3](https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8) | 7:22 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 56 | [I Don't Know What You've Got](https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 4:49 |
 | 57 | [Celebrated Walkin' Blues](https://open.spotify.com/track/4oNnxT1kVOAcAYkt8gxXAS) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 8:51 |
 | 58 | [Trouble In Mind](https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 4:38 |
-| 59 | [Uncloudy Day](https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Faith And Grace: A Family Journey 1953\-1976](https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI) | 2:57 |
-| 60 | [Barefoot In Heaven](https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:30 |
+| 59 | [Barefoot In Heaven](https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:30 |
+| 60 | [Uncloudy Day](https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Faith And Grace: A Family Journey 1953\-1976](https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI) | 2:57 |
 
-Snapshot ID: `MTY2ODE3MzAyOCwwMDAwMDAwMGQ5M2NiOTMxNzMxNzNhMGQ4NjgxMWU0NDIzMjc2MjBm`
+Snapshot ID: `MTY2ODE3MzAyOCwwMDAwMDAwMDZiZDYwZDdlNGIxYmEyYzAyMWIxYmI2YjI4MWQ2Yjk2`

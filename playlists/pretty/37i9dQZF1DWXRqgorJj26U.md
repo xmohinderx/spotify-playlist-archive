@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,166,686 likes - 200 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,170,724 likes - 200 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

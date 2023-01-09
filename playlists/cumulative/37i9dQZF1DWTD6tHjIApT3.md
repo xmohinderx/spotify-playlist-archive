@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-1,003 songs - 2 day 17 hr 53 min
+1,004 songs - 2 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [HAZAMA](https://open.spotify.com/track/64D4uYDRULTmYmz9OLipnK) | [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P), [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl) | [We Others](https://open.spotify.com/album/1UHQ2oHDvgg1acpJrMb6Dz) | 2:10 | 2022-07-26 | 2022-08-03 |
 | [Heart](https://open.spotify.com/track/0A1zyQkMLZqETVisk1a2Mv) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Heart](https://open.spotify.com/album/0k1jeFWtwtUvwGRDVVc3BJ) | 4:31 | 2022-08-16 | 2022-08-20 |
 | [Heart](https://open.spotify.com/track/5Telaq6UCXw3kG6nepeLp1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:31 | 2022-08-18 | 2022-10-26 |
+| [heart notes](https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [heart notes](https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ) | 4:17 | 2023-01-05 |  |
 | [Hello Love](https://open.spotify.com/track/4SCVAJvm7EDqVTCEymv9QA) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [HELLO LOVE](https://open.spotify.com/album/7JoYjx7EGwAnMltBIYJMPx) | 4:23 | 2022-05-29 | 2022-07-27 |
 | [Here for You](https://open.spotify.com/track/3zVN21stLWCwU5dpWFehiz) | [Emi Meyer](https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn) | [Here for You](https://open.spotify.com/album/0vdreEoFoUTnQX8jwNj5B8) | 3:30 | 2022-06-07 | 2022-06-18 |
 | [High Five](https://open.spotify.com/track/1bFGGcm9ttACXufVIAoJVV) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [High Five](https://open.spotify.com/album/0tbxmJoW2zvNON0TKj2tPv) | 3:13 | 2022-05-29 | 2022-11-04 |
@@ -969,7 +970,7 @@
 | [袖のキルト](https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [袖のキルト](https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT) | 4:15 | 2022-05-29 | 2022-12-20 |
 | [貴方に会いたいのに](https://open.spotify.com/track/5kgk5e6TUEaBfzjL94gjVw) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [貴方に会いたいのに](https://open.spotify.com/album/7h7zICpmhMCrMXHtFmfgTa) | 5:13 | 2022-08-23 | 2022-09-07 |
 | [超天獄](https://open.spotify.com/track/0rT5dClklXHjNPKFy970ZV) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [超天獄](https://open.spotify.com/album/1bQdf81b8Akd262qhyd1xo) | 4:29 | 2022-10-11 | 2022-10-19 |
-| [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 | 2022-11-29 |  |
+| [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 | 2022-11-29 | 2023-01-09 |
 | [足跡](https://open.spotify.com/track/16P5cDsDA2vUx6EjNogPUT) | [reche](https://open.spotify.com/artist/4sJCsXNYmUMeumUKVz4Abm) | [足跡](https://open.spotify.com/album/2xlgboypO1pl82slbNFsLf) | 4:19 | 2023-01-03 |  |
 | [踊る踊る夜](https://open.spotify.com/track/4zGteIpeyU3LFtvUuQAY7Q) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [踊る踊る夜](https://open.spotify.com/album/1mOqAXdQyRDzNdYmVL92nD) | 2:57 | 2022-05-31 | 2022-07-28 |
 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 | 2022-05-31 | 2022-09-30 |

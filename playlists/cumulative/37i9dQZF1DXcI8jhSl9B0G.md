@@ -4,7 +4,7 @@
 
 > Tunes for sun drenched days and balmy nights.
 
-110 songs - 6 hr 37 min
+111 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Stoney Creek](https://open.spotify.com/track/0ik7YpGVcjTkXBrUv4SaqR) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Jan Juc Moon](https://open.spotify.com/album/0zXonPXtpDEb32sy6PkTsw) | 4:37 | 2021-11-30 |  |
 | [Stuck On You](https://open.spotify.com/track/0PhMtgBpYKemULdfS6fGlc) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Stuck On You](https://open.spotify.com/album/6Jz3C9PFo33X5wkx5mBEvT) | 3:57 | 2021-11-30 | 2022-09-20 |
 | [Stuck On You](https://open.spotify.com/track/5DkxnItpcG9oqpdwORiZzN) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Paradise Down the Road](https://open.spotify.com/album/2a0TNEB0ljsokVLeCqWONF) | 3:57 | 2021-11-30 | 2022-12-01 |
-| [Sunday Morning](https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Sunday Morning](https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L) | 3:52 | 2021-11-30 |  |
+| [Sunday Morning](https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Sunday Morning](https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L) | 3:52 | 2021-11-30 | 2023-01-09 |
 | [Take Me Home](https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 4:54 | 2022-11-30 |  |
 | [Tattoos](https://open.spotify.com/track/2FVVu9NYYJcsJZyludnA5p) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Slow Mornings](https://open.spotify.com/album/4klmewvkTrB4zj1NuRohTZ) | 3:35 | 2021-11-30 | 2022-12-01 |
 | [TATTOOS](https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 2:41 | 2022-11-30 |  |
@@ -107,6 +107,7 @@
 | [Tell Me What You Dream About](https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Tell Me What You Dream About](https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo) | 3:17 | 2022-11-30 |  |
 | [The Coffee Song](https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Summer Nights](https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j) | 3:08 | 2022-11-30 |  |
 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 | 2021-11-30 | 2022-12-01 |
+| [The Sweetest Days](https://open.spotify.com/track/4uKbNHTS478jijU1okANjz) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [The Sweetest Days](https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE) | 3:34 | 2022-12-15 |  |
 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 | 2022-11-30 |  |
 | [Think About You](https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:43 | 2022-11-30 |  |
 | [This City \- Acoustic](https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City \(Acoustic\)](https://open.spotify.com/album/7I1apkSOmeAPBcbShwxlUx) | 3:26 | 2022-11-30 |  |

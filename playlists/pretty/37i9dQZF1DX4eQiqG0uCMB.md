@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,503 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,531 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 14 | [Smoke and Chill](https://open.spotify.com/track/2WNOKpzXTlT1tEGZmzZWYY) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Smoke and Chill](https://open.spotify.com/album/1bLSbLzbJyNMYTF5L5lkXS) | 2:53 |
 | 15 | [Smooth Criminal](https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Smooth Criminal](https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE) | 2:31 |
 | 16 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 |
-| 17 | [Confession](https://open.spotify.com/track/4ucXeGcKKzubgHb932T6sl) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Confession](https://open.spotify.com/album/2j6o2L4cimT1ufEDoymvTF) | 3:08 |
-| 18 | [Again](https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Realms](https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j) | 2:36 |
+| 17 | [Again](https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Realms](https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j) | 2:36 |
+| 18 | [Confession](https://open.spotify.com/track/4ucXeGcKKzubgHb932T6sl) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Confession](https://open.spotify.com/album/2j6o2L4cimT1ufEDoymvTF) | 3:08 |
 | 19 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
 | 20 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 | 21 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 |
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 31 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 |
 | 32 | [Peru \- Acoustic](https://open.spotify.com/track/6RAFf0mJ498F0GzrFZ1ZsS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru \(Acoustic\)](https://open.spotify.com/album/636MfmRIE3pXhXzk8rVsFC) | 2:52 |
 | 33 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 |
-| 34 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
+| 34 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 |
 | 35 | [Live Life](https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:41 |
 | 36 | [No Dey Form](https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [No Dey Form](https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV) | 2:20 |
 | 37 | [King](https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:45 |
-| 38 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 |
+| 38 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
 | 39 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 |
 | 40 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 |
 | 41 | [Wait For You \(feat\. Oxlade\)](https://open.spotify.com/track/1OgoSHtTZyMJt3ns3e5Lui) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [THENIGHTISYOUNG.](https://open.spotify.com/album/4np0ohQb06VAAitOpk3Rt4) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 49 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 |
 | 50 | [In Love](https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [In Love](https://open.spotify.com/album/4hjN43fijAskri1B3EXFej) | 3:20 |
 
-Snapshot ID: `MTY2OTk1NjgxMiwwMDAwMDAwMGMyZjZmNTVlNDIxMDVlYTUyNmMyN2I2NGVjY2ZkYWZl`
+Snapshot ID: `MTY2OTk1NjgxMiwwMDAwMDAwMDdmOGZmZWIxNzM4ODI1NzQwODliY2Y5ZmY2ZjM0NWJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Hang ten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,489 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,694 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 28 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 |
 | 29 | [Panama](https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 3:18 |
 | 30 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 |
-| 31 | [After the Moment](https://open.spotify.com/track/6OONiDEd0JW4K5wcWxnRX7) | [Craft Spells](https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ) | [Idle Labor](https://open.spotify.com/album/3BTFGccaSVYAHsgBTOL423) | 4:00 |
-| 32 | [French Press](https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The French Press](https://open.spotify.com/album/5k0144ExDJZEx03Pp7VeNn) | 5:26 |
-| 33 | [What a Pleasure](https://open.spotify.com/track/3FwuOIr8dkrzdAOMUM6sOe) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [What a Pleasure](https://open.spotify.com/album/4BfZ2aZSNDlXFx15lgHGcO) | 2:32 |
+| 31 | [French Press](https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The French Press](https://open.spotify.com/album/5k0144ExDJZEx03Pp7VeNn) | 5:26 |
+| 32 | [What a Pleasure](https://open.spotify.com/track/3FwuOIr8dkrzdAOMUM6sOe) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [What a Pleasure](https://open.spotify.com/album/4BfZ2aZSNDlXFx15lgHGcO) | 2:32 |
+| 33 | [After the Moment](https://open.spotify.com/track/6OONiDEd0JW4K5wcWxnRX7) | [Craft Spells](https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ) | [Idle Labor](https://open.spotify.com/album/3BTFGccaSVYAHsgBTOL423) | 4:00 |
 | 34 | [Avant Gardener](https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej) | 5:12 |
 | 35 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 |
 | 36 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 49 | [daydreams](https://open.spotify.com/track/6KdNWhoB9bpgYyfoFuhMPz) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [daydreams](https://open.spotify.com/album/4u90ynQDviPV7DKt2Lg749) | 2:14 |
 | 50 | [Taking up Space](https://open.spotify.com/track/2l0KF9ywMxglacqb7Nb6H0) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp) | 3:37 |
 
-Snapshot ID: `MTY2OTc1MDgxNywwMDAwMDAwMDhlMDUwOTEyMDc2ZDIxMDRhZWQyZmM5MjY1Zjc4MjAy`
+Snapshot ID: `MTY2OTc1MDgxNywwMDAwMDAwMDRkYmI2Yzg2OTQ5ODVhMjNmMjNhZmJiYmE5NTYwNmJm`

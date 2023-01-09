@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ?si=rywj2DAARMi5opK1c\-oHnQ"> Naira Marley </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,791 likes - 79 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,922 likes - 79 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 59 | [Pounds & Dollars](https://open.spotify.com/track/43o9i6vgfaTD5LDKlcIpav) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 3:24 |
 | 60 | [Running](https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Running](https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP) | 3:34 |
 | 61 | [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 |
-| 62 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 |
-| 63 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 |
+| 62 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 |
+| 63 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 |
 | 64 | [Southy Love](https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Rum & Boogie](https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC) | 3:30 |
 | 65 | [Move](https://open.spotify.com/track/6g8Ztyoym7VNLEzl8alsJK) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Move](https://open.spotify.com/album/3Nt7p3GrkB4QeT1AKONY8U) | 2:30 |
 | 66 | [Picanto](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [Picanto](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 78 | [Kilo](https://open.spotify.com/track/1iM0xHlmZPGZ8gdbPXtUgN) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Kilo](https://open.spotify.com/album/3otG6QLpT1X30PORPPkBfu) | 2:12 |
 | 79 | [Vanilla Bottega](https://open.spotify.com/track/7pb3dKlebKOzVzT7fy9fJ7) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Vanilla Bottega](https://open.spotify.com/album/32p2Amv0Oerle8TTOtL7Em) | 3:07 |
 
-Snapshot ID: `MTY3MTczMzUzMSwwMDAwMDAwMDk5MWY3YTYwM2IzZGY0YWQyNzY5NDE4MzlkNzVmYmFl`
+Snapshot ID: `MTY3MTczMzUzMSwwMDAwMDAwMDZjM2UzMjhkMDExYjhjY2MyNTU3YWVkMzMyMTJmNjg2`

@@ -4,7 +4,7 @@
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 27 min
+52 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Crazy Rock Night](https://open.spotify.com/track/2x8BxxeHZbKJhxNVoi2koU) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 4:10 | 2022-12-20 |  |
 | [Crescent Lullaby](https://open.spotify.com/track/16o8ITScy3QsF24fgDHgF3) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:47 | 2022-10-13 |  |
 | [DEAD or CALL MY NAME](https://open.spotify.com/track/0r0YGLm7BJdbDvMKb01PSu) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:51 | 2022-10-13 |  |
+| [Dear Doze Days](https://open.spotify.com/track/1WTDRPZjyt8OvhB1hXGdwh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/13qVL16kWobXvuJjRYLJf2) | 4:21 | 2023-01-08 |  |
 | [Dear My Distance](https://open.spotify.com/track/2Hskil6dTjYz6bHF0WUIw9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 4:05 | 2022-06-09 |  |
 | [Desire Again](https://open.spotify.com/track/54a0azbxaptJ2rHofB7OzD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:00 | 2022-06-09 |  |
 | [Desire Again Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:58 | 2022-06-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,965 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,003 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 16 | [Song I Believe In](https://open.spotify.com/track/1KXWD5G4e4mBHl4kqrQgx0) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy) | [Song I Believe In](https://open.spotify.com/album/3Pxyz1unwIXl0kh2M2Dehv) | 3:15 |
 | 17 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 |
 | 18 | [Why Do I Keep You?](https://open.spotify.com/track/2um6ATuxaGkWk1o1LsrX66) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Why Do I Keep You?](https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH) | 4:00 |
-| 19 | [Love You By Myself](https://open.spotify.com/track/5sO4jLYdMpXIYf2dokSlSw) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Love You By Myself](https://open.spotify.com/album/70rRSR5tt1GdkQFLDmrFmj) | 3:01 |
-| 20 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 |
+| 19 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 |
+| 20 | [Love You By Myself](https://open.spotify.com/track/5sO4jLYdMpXIYf2dokSlSw) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Love You By Myself](https://open.spotify.com/album/70rRSR5tt1GdkQFLDmrFmj) | 3:01 |
 | 21 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 |
 | 22 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 |
 | 23 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 37 | [Bleak Sublime](https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2) | 3:51 |
 | 38 | [Back In The Game](https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:28 |
 | 39 | [Mirror Dance](https://open.spotify.com/track/6wkEVMI1r7p1GbWWVts8kv) | [Dame Dearest](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Mirror Dance](https://open.spotify.com/album/6nALYgw7hvos7748RSFf7V) | 3:03 |
-| 40 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
-| 41 | [Be Alright](https://open.spotify.com/track/7xo4uV0Cv226hBBXMXQFqS) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Be Alright](https://open.spotify.com/album/2rNcAT9JKo5g9KZ3RbOvXU) | 3:34 |
+| 40 | [Be Alright](https://open.spotify.com/track/7xo4uV0Cv226hBBXMXQFqS) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Be Alright](https://open.spotify.com/album/2rNcAT9JKo5g9KZ3RbOvXU) | 3:34 |
+| 41 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
 | 42 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 |
 | 43 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 |
 | 44 | [Like You](https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Like You](https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs) | 3:50 |
@@ -58,17 +58,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 48 | [Distant Shouts](https://open.spotify.com/track/5tz21jP1zSzw7Ke5EaR78P) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Distant Shouts](https://open.spotify.com/album/2mUurk1uS8I9v7dcNJFOCY) | 3:10 |
 | 49 | [Is That True?](https://open.spotify.com/track/7ktkeXuvYXobpsOahNhJgT) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Is That True?](https://open.spotify.com/album/05XRy1OIW1ZScKXlevm4wS) | 4:09 |
 | 50 | [Rain](https://open.spotify.com/track/1yY6W3JfpkwaOTTtE2iNvo) | [Deco](https://open.spotify.com/artist/4U4MBT2YEXlNEYKEIinJoc) | [Rain](https://open.spotify.com/album/0leJivQY7JFPZMvefb3Hlr) | 3:23 |
-| 51 | [Mott St](https://open.spotify.com/track/05v8laWO5qGrmLxwDBoowM) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/4bh3QrfPzT6TshaW2AqdSE) | 2:55 |
-| 52 | [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 |
+| 51 | [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 |
+| 52 | [Mott St](https://open.spotify.com/track/05v8laWO5qGrmLxwDBoowM) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/4bh3QrfPzT6TshaW2AqdSE) | 2:55 |
 | 53 | [strange love](https://open.spotify.com/track/2qEu3k0PN2FzXP32h8aa6m) | [byelian](https://open.spotify.com/artist/7ow8DBsuPdfjt83fdeDRzn) | [strange love](https://open.spotify.com/album/58rxRlN5yLTcZVSoBKYhlJ) | 3:44 |
 | 54 | [Strawberry](https://open.spotify.com/track/6y5kt39E6zh272WSGReg3p) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Seashell Cassette](https://open.spotify.com/album/2is1JGLmcYbojlQAZENVYL) | 2:42 |
 | 55 | [Se Eu Acordar](https://open.spotify.com/track/6W5NgyZX9fv8GdXTvEh4R5) | [João Não](https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC), [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [Se Eu Acordar](https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2) | 2:30 |
 | 56 | [Mi Amor](https://open.spotify.com/track/43LaVZm8uQN9RIj2j5JxCn) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Mi Amor](https://open.spotify.com/album/4qHKbdVCVJXbhXKrt2m1mE) | 2:38 |
 | 57 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
 | 58 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
-| 59 | [Baby You’re the One I Need](https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Baby You’re the One I Need](https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6) | 2:43 |
-| 60 | [Enemy](https://open.spotify.com/track/2DvqIw0ToR8GriSbvlA4Ws) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 3:42 |
-| 61 | [Preacher](https://open.spotify.com/track/4QFFhLBBvMyb6USdMYV6eN) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:17 |
+| 59 | [Preacher](https://open.spotify.com/track/4QFFhLBBvMyb6USdMYV6eN) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:17 |
+| 60 | [Baby You’re the One I Need](https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Baby You’re the One I Need](https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6) | 2:43 |
+| 61 | [Enemy](https://open.spotify.com/track/2DvqIw0ToR8GriSbvlA4Ws) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 3:42 |
 | 62 | [Allure](https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Enjoy Your Stay](https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk) | 3:10 |
 | 63 | [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 |
 | 64 | [Congratulations](https://open.spotify.com/track/2PvIxtvyws88h6LRmS5Bcc) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [The Year of February](https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 74 | [melody wo koshiraeru](https://open.spotify.com/track/0w0BvlCBmvpo2C6IrgWCPy) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Soulbabies](https://open.spotify.com/album/4v6OaKJ1i0f9rNxAktNzCV) | 4:10 |
 | 75 | [Tajiharu Samba](https://open.spotify.com/track/4btSl2loLADohlFJAEaHIS) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [BAILEFUNK KAKEKO](https://open.spotify.com/artist/16AcJe0AnxrvpdJOy8IPXu) | [5000 trillion per hour](https://open.spotify.com/album/4mlm9EFYJlXKysgOBbmWqI) | 3:13 |
 
-Snapshot ID: `MTY2OTgyNTc2NSwwMDAwMDAwMGI1MDAwMTg2MGIxMDE2ODk2OGFkOTliM2U5MDA4MWU3`
+Snapshot ID: `MTY2OTgyNTc2NSwwMDAwMDAwMDJkZGFlNWIwMDMzZjc4YjRjYjdlYTJiNDVlZGQ0ZDMz`

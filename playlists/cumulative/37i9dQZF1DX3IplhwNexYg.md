@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Nilüfer Yanya
 
-338 songs - 19 hr 5 min
+339 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 | 2022-09-29 |  |
 | [Iron Lung](https://open.spotify.com/track/2XpOjMiHSOCfEPfvtZoqW9) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Wrong Girl, Honey](https://open.spotify.com/album/5TZUx1zHRakzdtq7kPY7oJ) | 3:01 | 2021-03-09 | 2022-01-17 |
 | [It Was Nothing](https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [It Was Nothing](https://open.spotify.com/album/4uWLMdBNWqt1kZU1nkZtv5) | 3:29 | 2022-08-18 |  |
+| [It's My Birthday](https://open.spotify.com/track/6tw9U0hTxMl6q7IMRkyeMJ) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [It's My Birthday](https://open.spotify.com/album/1V3nahHw2dEpUrHv6Ce9cI) | 2:50 | 2022-11-25 |  |
 | [It's Permanent](https://open.spotify.com/track/5ytqjKYVYjVcA03MTBArnY) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [It's Permanent](https://open.spotify.com/album/5aCdRpmrMXr901O3WGFnKM) | 3:32 | 2021-10-29 | 2022-07-29 |
 | [It's Permanent](https://open.spotify.com/track/7xb85Q1Wy969N6nkcJRWqX) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [It's Permanent](https://open.spotify.com/album/1SUPtafQuEviIXihO8mQmt) | 3:32 | 2022-04-01 | 2022-08-19 |
 | [It's The Future, Baby](https://open.spotify.com/track/1Y469w0ZRL0eglfzRsa4XH) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/2YgxYVjrIzeQvB7tu6a5B4) | 3:44 | 2022-08-18 | 2022-10-07 |
@@ -251,7 +252,7 @@
 | [Read Receipts](https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [At Least I'm Free](https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP) | 3:36 | 2022-08-18 |  |
 | [Remains](https://open.spotify.com/track/3Wn9UtA4Ij8HLtDLvmpaUi) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Tired of Liberty](https://open.spotify.com/album/3aHcCiEzSVklnAgGhl86K9) | 4:07 | 2022-09-01 | 2022-11-18 |
 | [rid of me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-09-22 | 2022-12-17 |
-| [rid of me](https://open.spotify.com/track/42rzGiopJljAAAPqS9zEnx) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS \(Deluxe Edition\)](https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP) | 3:37 | 2022-12-24 |  |
+| [rid of me](https://open.spotify.com/track/42rzGiopJljAAAPqS9zEnx) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS \(Deluxe Edition\)](https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP) | 3:37 | 2022-12-24 | 2023-01-09 |
 | [Roadkill](https://open.spotify.com/track/5o0KFn33JBbKfoVXUkD1sd) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/0j5QJZWlMGIcd0tmFQXs63) | 3:25 | 2021-06-25 | 2022-08-19 |
 | [Rockstar](https://open.spotify.com/track/0MfFiBddXSbI73TLpjjMV3) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/7A1taOMSajIBn3qCW0OYBg) | 3:09 | 2022-02-28 | 2022-08-19 |
 | [Roll The Dice](https://open.spotify.com/track/2q7RE1Csj30DPOXqO4sWqO) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Roll The Dice](https://open.spotify.com/album/4ujPS7j4S1xyRS4ZQh4VgN) | 3:14 | 2022-03-10 | 2022-09-23 |

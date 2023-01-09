@@ -4,7 +4,7 @@
 
 > Indie folk that defined the 2010s.
 
-251 songs - 16 hr 57 min
+252 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Dry Food](https://open.spotify.com/track/0tmN80qulLdyHOZDBS2gzV) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Dry Food](https://open.spotify.com/album/4rWLFXifUm2KAo2vDHSG2v) | 4:28 | 2022-02-04 | 2022-06-30 |
 | [Emmylou](https://open.spotify.com/track/5yQrOvXWli8C7R6j56rowR) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/5Wblz3wiSHrbGB9FdLBJmt) | 4:18 | 2022-02-04 |  |
 | [Ends of the Earth](https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:44 | 2022-02-04 | 2023-01-05 |
+| [Ends of the Earth](https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:44 | 2022-02-04 |  |
 | [Even the Darkness Has Arms](https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 3:50 | 2022-02-04 |  |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 4:22 | 2022-02-04 | 2022-07-29 |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 | 2022-02-04 |  |
@@ -200,7 +201,7 @@
 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 | 2022-02-04 |  |
 | [Sinking Ship](https://open.spotify.com/track/1kYeZHJpBpbGQPlF9jznCs) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Expectations](https://open.spotify.com/album/1RYP4jpaZn8uKR2HLSPLWm) | 4:07 | 2022-02-04 | 2022-07-29 |
 | [Sisyphus](https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 4:07 | 2022-02-04 |  |
-| [Small Hands](https://open.spotify.com/track/40jiZBsr1W3SG15AGU9227) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Dear](https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ) | 3:00 | 2022-02-04 |  |
+| [Small Hands](https://open.spotify.com/track/40jiZBsr1W3SG15AGU9227) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Dear](https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ) | 3:00 | 2022-02-04 | 2023-01-09 |
 | [Soft Skin](https://open.spotify.com/track/4nj7VRfoYCAG9dRTeAVNk5) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Made the Harbor \(10 Year Anniversary Edition\)](https://open.spotify.com/album/4hp4UYS7aP9FO8cjI7WMHn) | 2:03 | 2022-02-04 | 2022-07-05 |
 | [Song for Zula](https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 6:10 | 2022-02-04 |  |
 | [Song for Zula](https://open.spotify.com/track/6h4V0fuWElsTFaPg2tQIoL) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/1lCaYGVwy25AGVzuNUU1rD) | 6:10 | 2022-02-04 | 2022-07-29 |

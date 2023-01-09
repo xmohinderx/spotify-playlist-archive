@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Bukis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,941 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,208 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 39 | [Nuestra Canción](https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:23 |
 | 40 | [Amor Sin Palabras](https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 3:13 |
 | 41 | [Un Dolor](https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Los Yonic's](https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt) | 3:12 |
-| 42 | [Nubes De Algodón](https://open.spotify.com/track/6ix0BzodvL1XYM4tvWLIwn) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Entre Nubes](https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc) | 3:20 |
-| 43 | [Par De Anillos](https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei) | 3:14 |
+| 42 | [Par De Anillos](https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei) | 3:14 |
+| 43 | [Nubes De Algodón](https://open.spotify.com/track/6ix0BzodvL1XYM4tvWLIwn) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Entre Nubes](https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc) | 3:20 |
 | 44 | [Y Tú Con Él](https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Para Ti](https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM) | 3:37 |
 | 45 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje Y Tierno](https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K) | 2:20 |
-| 46 | [Pídeme La Luna](https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR) | [Los Carlos](https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq) | [En La Luna](https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase) | 3:12 |
-| 47 | [Tiernas Mentiras](https://open.spotify.com/track/2jDBun83BgJpfWL498OSIT) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Tiernas Mentiras](https://open.spotify.com/album/2XARbtGZQ4t7oTVlxjOww3) | 3:15 |
+| 46 | [Tiernas Mentiras](https://open.spotify.com/track/2jDBun83BgJpfWL498OSIT) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Tiernas Mentiras](https://open.spotify.com/album/2XARbtGZQ4t7oTVlxjOww3) | 3:15 |
+| 47 | [Pídeme La Luna](https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR) | [Los Carlos](https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq) | [En La Luna](https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase) | 3:12 |
 | 48 | [Un Millon de Rosas](https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:29 |
 | 49 | [Soy Yo](https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Éxitos De Oro](https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9) | 3:33 |
 | 50 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 79 | [Contigo O Sin Ti](https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Contigo O Sin Ti](https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ) | 3:38 |
 | 80 | [Separados](https://open.spotify.com/track/1ndFCNYYgQaN6PXOeT4QGN) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:12 |
 | 81 | [Dos Enamorados](https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [20 Aniversario](https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi) | 3:41 |
-| 82 | [Melodia Desencadenada](https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf) | [Pegasso Del Pollo Estevan](https://open.spotify.com/artist/5LV71PI4m3FgZLmvxPb8on) | [Soy El Mismo](https://open.spotify.com/album/3BvXrTvzMYqZNz4hnqXSvj) | 3:40 |
-| 83 | [Muchacha Triste](https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ) | [Caramelo](https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX) | 4:04 |
+| 82 | [Muchacha Triste](https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ) | [Caramelo](https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX) | 4:04 |
+| 83 | [Melodia Desencadenada](https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf) | [Pegasso Del Pollo Estevan](https://open.spotify.com/artist/5LV71PI4m3FgZLmvxPb8on) | [Soy El Mismo](https://open.spotify.com/album/3BvXrTvzMYqZNz4hnqXSvj) | 3:40 |
 | 84 | [Dame un Beso y Dime Adiós](https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mas Romantico De Ayer Con Los Mas Romanticos De Hoy](https://open.spotify.com/album/3It5f5lrSbIRS97VcFfJZc) | 3:38 |
 | 85 | [Hay Otro Amor En Tu Lugar](https://open.spotify.com/track/4sGuUITG73yQwLliCuibQv) | [El Golpe](https://open.spotify.com/artist/3evCl0XUunm8x6MBd7MSnD) | [Morir Contigo](https://open.spotify.com/album/1o45pgbPbUoZsLltuRVUYR) | 2:29 |
 | 86 | [Que No Quede Huella](https://open.spotify.com/track/0gHwAu8QyzRDzbQ540RTRg) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Que No Quede Huella](https://open.spotify.com/album/7wKNGBwWNMq7pb0bNFOaed) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 99 | [Ven Porque Te Necesito \- Remastered](https://open.spotify.com/track/3DgShLY5XAFKfzM4R5ChLO) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Los Temerarios Esencial](https://open.spotify.com/album/61lnwjC4AW60dWT4hpqjf8) | 2:57 |
 | 100 | [Tiernas Mentiras](https://open.spotify.com/track/6YjOZqhnGjY73u8cY1p4gl) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 |
 
-Snapshot ID: `MTY0NzQ3NjM4NywwMDAwMDAwMGQ5M2U5MmY4NGFmOWMwMjcyYjkwM2IzY2E4OThmMTZk`
+Snapshot ID: `MTY0NzQ3NjM4NywwMDAwMDAwMDIzYzk3ZTY5Nzg3ZTFmZmNkOTkwMTAwM2VjZDY0NDE0`

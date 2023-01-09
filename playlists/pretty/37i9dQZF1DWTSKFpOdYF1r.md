@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: The Cramps
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,674 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,094 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 13 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
 | 14 | [White Wedding \- Pt\. 1](https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 4:12 |
 | 15 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
-| 16 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 |
-| 17 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
+| 16 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
+| 17 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 |
 | 18 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
 | 19 | [Modern Love \- 2018 Remaster](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 4:48 |
 | 20 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 31 | [Enjoy the Silence](https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Violator \| The 12" Singles](https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT) | 4:17 |
 | 32 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 |
 | 33 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 |
-| 34 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
-| 35 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 |
-| 36 | [Talking In Your Sleep](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:55 |
-| 37 | [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 |
+| 34 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 |
+| 35 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
+| 36 | [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 |
+| 37 | [Talking In Your Sleep](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:55 |
 | 38 | [Monkey Gone to Heaven](https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:55 |
 | 39 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
 | 40 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 77 | [I Melt With You \- Rerecorded](https://open.spotify.com/track/78ocJAEFOYKVjYgXZ8fggD) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [Pillow Lips](https://open.spotify.com/album/6u6RKwjKjNbfSBMDgg83sv) | 3:55 |
 | 78 | [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 |
 | 79 | [Walls Come Tumbling Down](https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b) | [The Style Council](https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN) | [Our Favourite Shop](https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa) | 3:24 |
-| 80 | [Play for Today \- 2006 Remaster](https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/2KWHRfKSRpgsxNGIl2nQva) | 3:40 |
+| 80 | [The Cutter](https://open.spotify.com/track/617ahruubznvqzv7Nas3QX) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Porcupine \(Expanded; 2004 Remaster\)](https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC) | 3:52 |
 
-Snapshot ID: `MTY3MDk2MDkxNCwwMDAwMDAwMDZjYjQzMzQyMWYxNGExYTU4NjQ5NjczOThhMTg5NDA1`
+Snapshot ID: `MTY3MDk2MDkxNCwwMDAwMDAwMDU4NjgyNGQ3ODVkZTQzNWVhOGE5NjM3MmZiYTg2ZDIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,538 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,563 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 20 | [Flipside](https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Flipside](https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg) | 3:11 |
 | 21 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 |
 | 22 | [Pick Up Your Feelings](https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:49 |
-| 23 | [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 |
-| 24 | [Portra 400](https://open.spotify.com/track/7cMBZ7xDUb25N1We6DyoPk) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 2:56 |
+| 23 | [Portra 400](https://open.spotify.com/track/7cMBZ7xDUb25N1We6DyoPk) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 2:56 |
+| 24 | [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 |
 | 25 | [Whenever You're Ready](https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whenever You're Ready](https://open.spotify.com/album/5oU1HkdGTZ9aKz9FFdiawe) | 3:25 |
 | 26 | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/track/0X4OaqRlKPYdIFL2LZECHv) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/album/3uc0BBMDWAkDwxunNXZtJx) | 2:55 |
 | 27 | [Say Yeah](https://open.spotify.com/track/1GDCzlN4snSHiYxxvO9Fhg) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Say Yeah](https://open.spotify.com/album/5hxuMubkHyZOW92dceGg3i) | 2:47 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 29 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 |
 | 30 | [Nobody](https://open.spotify.com/track/4JcpyXOyQkefawjp9fpL8s) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Care Package](https://open.spotify.com/album/0bMaD8l0WCJLMz3CteLiYZ) | 3:29 |
 | 31 | [Out the Way](https://open.spotify.com/track/0sS74W9MTGGJkhAnT8JsR8) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out the Way](https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ) | 2:35 |
-| 32 | [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 |
-| 33 | [November \(feat\. Hak Baker\)](https://open.spotify.com/track/6QKFXwI5cQ8D4xl6os8T1J) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [November \(feat\. Hak Baker\)](https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v) | 3:15 |
+| 32 | [November \(feat\. Hak Baker\)](https://open.spotify.com/track/6QKFXwI5cQ8D4xl6os8T1J) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [November \(feat\. Hak Baker\)](https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v) | 3:15 |
+| 33 | [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 |
 | 34 | [In My Mind](https://open.spotify.com/track/4B1aimZXPZL7PoU6KN33wP) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 3:34 |
 | 35 | [MIA \(feat\. Kaash Paige\)](https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [MIA](https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s) | 2:57 |
 | 36 | [Syrup](https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Syrup](https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4) | 2:25 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 47 | [Buss A 9](https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:20 |
 | 48 | [Anger](https://open.spotify.com/track/5UJ0nJKwbBfYbnPyCfRlaD) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:18 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGNmZTVjMmY0Zjc2MzBhNjUwNWE2MGM1OTJmY2QwZTdk`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGM3MTQ1YzFkOWQzZDkyYjllZGYyMDUyY2ZhMzRlN2E3`

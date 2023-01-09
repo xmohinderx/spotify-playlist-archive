@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 11013,
+  "num_followers": 11050,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY1NjAyOSwwMDAwMDAwMGM2NGM1MDY3Zjg5YWNlMmI0MDg3ZThmMDdhMTViNmEw",
+  "snapshot_id": "MTY3MTY1NjAyOSwwMDAwMDAwMGIyNGEzMDE5NWE3ZTkxMjJjOGZkMzhlYmI1NzJmYzU1",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -195,22 +195,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Sea Island",
-        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 405573,
-      "name": "Angle of List",
-      "url": "https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Tower of Silence",
         "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 177255,
       "name": "Claudia, Wilhelm R And Me",
       "url": "https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sea Island",
+        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 405573,
+      "name": "Angle of List",
+      "url": "https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf"
     },
     {
       "added_at": "2022-12-21 20:53:49",
@@ -321,6 +321,30 @@
       "url": "https://open.spotify.com/track/5JVtVJFun3pgNdDlUQlkOm"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "FRKWYS Vol. 15: serenitatem",
+        "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        },
+        {
+          "name": "Satsuki Shibano",
+          "url": "https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c"
+        }
+      ],
+      "duration_ms": 431502,
+      "name": "Stratum",
+      "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
+    },
+    {
       "added_at": "2021-11-25 22:14:03",
       "album": {
         "name": "Haut",
@@ -371,22 +395,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI"
-      },
-      "artists": [
-        {
-          "name": "Wilson Tanner",
-          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
-        }
-      ],
-      "duration_ms": 130986,
-      "name": "My Gull",
-      "url": "https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Shortwave Ruins",
         "url": "https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM"
       },
@@ -403,26 +411,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "FRKWYS Vol. 15: serenitatem",
-        "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
+        "name": "II",
+        "url": "https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI"
       },
       "artists": [
         {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        },
-        {
-          "name": "Yoshio Ojima",
-          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
-        },
-        {
-          "name": "Satsuki Shibano",
-          "url": "https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c"
+          "name": "Wilson Tanner",
+          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
         }
       ],
-      "duration_ms": 431502,
-      "name": "Stratum",
-      "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
+      "duration_ms": 130986,
+      "name": "My Gull",
+      "url": "https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Flying to America",
-        "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
-      },
-      "artists": [
-        {
-          "name": "Marco Parisi",
-          "url": "https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu"
-        }
-      ],
-      "duration_ms": 468500,
-      "name": "Flying to America",
-      "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Tumblers from the Vault",
         "url": "https://open.spotify.com/album/0FLZUvSQsrqysS3QQIJ3Zb"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 313746,
       "name": "Hollywood Dream Trip",
       "url": "https://open.spotify.com/track/4Yz4rj3kcByr4j1f5e6SAt"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Flying to America",
+        "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
+      },
+      "artists": [
+        {
+          "name": "Marco Parisi",
+          "url": "https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu"
+        }
+      ],
+      "duration_ms": 468500,
+      "name": "Flying to America",
+      "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
     },
     {
       "added_at": "2022-03-16 01:06:51",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Omprovo",
-      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Trans-Millenia Music",
         "url": "https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 278533,
       "name": "Virgin Ice",
       "url": "https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Omprovo",
+      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -951,6 +951,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 425495,
+      "name": "The Blue of Distance",
+      "url": "https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Comme Un Seul Narcisse",
         "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 261565,
       "name": "ME",
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "The Blue of Distance",
-        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 425495,
-      "name": "The Blue of Distance",
-      "url": "https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6"
     },
     {
       "added_at": "2021-10-20 18:30:26",

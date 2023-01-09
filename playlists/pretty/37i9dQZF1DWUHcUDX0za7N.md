@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA" > Odumodublvck </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,120 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,159 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 66 | [Ikebe](https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0) | [DJ Madengo](https://open.spotify.com/artist/0tfwCQAV8i4yWS9ZEPZ1QF), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Ikebe](https://open.spotify.com/album/4Aqq7G5GPVE3yuqfcAfVek) | 3:09 |
 | 67 | [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 |
 | 68 | [Rap Jesu](https://open.spotify.com/track/7j8WXEaW42vHouOocKCiF9) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [Rap Jesu](https://open.spotify.com/album/3HZNv2fC4NLUhfev4bES8w) | 2:31 |
-| 69 | [Crown Of Clay](https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Crown Of Clay](https://open.spotify.com/album/1BNLf5GAPux7uFO3bP5TGL) | 3:25 |
-| 70 | [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 |
+| 69 | [Awolowo](https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 2:48 |
+| 70 | [Crown Of Clay](https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Crown Of Clay](https://open.spotify.com/album/1BNLf5GAPux7uFO3bP5TGL) | 3:25 |
 
-Snapshot ID: `MTY3MTM1NzczOSwwMDAwMDAwMGEzODFkYTQ2NTJjYzgyNDU0YjAwZWVkYTQyYTdhNjBm`
+Snapshot ID: `MTY3MTM1NzczOSwwMDAwMDAwMDU3Mzc1MDdiMWYyMmMwZThjYTU2OTIzODQxNTQxZWY1`

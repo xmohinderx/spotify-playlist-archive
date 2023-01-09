@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Ab\-Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,578 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,693 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 11 | [BUCKET](https://open.spotify.com/track/4BvKJxXLY9pJPMvh14ixhw) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 3:05 |
 | 12 | [Savior](https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:44 |
 | 13 | [Shootouts In Soho \(feat\. A$AP Rocky & Stove God Cooks\)](https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 3:29 |
-| 14 | [Ghetto Reporter](https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:36 |
+| 14 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 |
 | 15 | [Note To Self](https://open.spotify.com/track/3d7aL2Z4Ovrwei3wevMEIt) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Note To Self](https://open.spotify.com/album/6cRRJmCi1WIvTSEBmrjj6j) | 2:24 |
-| 16 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 |
-| 17 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 |
+| 16 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 |
+| 17 | [Brand New 911](https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 2:58 |
 | 18 | [pg baby \- Remix](https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [pg baby \(Remix\)](https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R) | 4:09 |
-| 19 | [Brand New 911](https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 2:58 |
+| 19 | [Ghetto Reporter](https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:36 |
 | 20 | [Francis Ford Coppola](https://open.spotify.com/track/0wGatt1VN1O7Mt5gwx7lzj) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Francis Ford Coppola](https://open.spotify.com/album/5niKVfj2vTA0RSCIDZ35PN) | 2:19 |
 | 21 | [Never Freestyle](https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Never Freestyle](https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH) | 4:26 |
 | 22 | [Al Pacino](https://open.spotify.com/track/4QqCwUVo0YDB4FZPkxQxOc) | [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Al Pacino](https://open.spotify.com/album/4c7QeDvdFGVHfe4Q4igrO3) | 2:25 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 46 | [Mannequin](https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Mannequin](https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW) | 3:54 |
 | 47 | [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 |
 | 48 | [Jaguar](https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Cocodrillo Turbo](https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c) | 2:55 |
-| 49 | [Fast Life](https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z) | [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Fast Life](https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on) | 1:57 |
-| 50 | [Theme For The People](https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino III](https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h) | 1:56 |
+| 49 | [Theme For The People](https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino III](https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h) | 1:56 |
+| 50 | [Fast Life](https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z) | [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Fast Life](https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on) | 1:57 |
 
-Snapshot ID: `MTY3MTI0MDQ2MywwMDAwMDAwMDM2ZTUyNDRkMWYxYjViNzMxOWEwMDdiODVhZjYxMThj`
+Snapshot ID: `MTY3MTI0MDQ2MywwMDAwMDAwMDZlNGM2YmQ2YjVkZDJhNzhjN2Y1YjQyZGY1ZDBmNjky`

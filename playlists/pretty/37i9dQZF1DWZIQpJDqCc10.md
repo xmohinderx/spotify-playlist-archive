@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > A selection of the greatest alternative love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,582 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,071 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 21 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
 | 22 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
 | 23 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 |
-| 24 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
-| 25 | [Stubborn Love](https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:39 |
+| 24 | [Stubborn Love](https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:39 |
+| 25 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
 | 26 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 |
 | 27 | [Shades Of Cool](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:42 |
-| 28 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 |
-| 29 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 |
+| 28 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 |
+| 29 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 |
 | 30 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
 | 31 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 |
 | 32 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 42 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 43 | [I'll Be Your Mirror](https://open.spotify.com/track/4PINSJIlBWsnVeveicq1S8) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:14 |
 | 44 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 |
-| 45 | [Crossfire](https://open.spotify.com/track/6S8r0pRxRUy3OF3UUtNjdN) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Flamingo](https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK) | 4:16 |
-| 46 | [You And I](https://open.spotify.com/track/7aohwSiTDju51QmC54AUba) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 2:28 |
+| 45 | [You And I](https://open.spotify.com/track/7aohwSiTDju51QmC54AUba) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 2:28 |
+| 46 | [Crossfire](https://open.spotify.com/track/6S8r0pRxRUy3OF3UUtNjdN) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Flamingo](https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK) | 4:16 |
 | 47 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
 | 48 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 |
 | 49 | [Simple Song](https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 79 | [Silent Sigh](https://open.spotify.com/track/70wcWw5mdlri2oh6RjNUFO) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [About A Boy Soundtrack](https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx) | 4:44 |
 | 80 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 |
 
-Snapshot ID: `MTY3MDg2MzA4MywwMDAwMDAwMGJmMDQ3MmFhMGNlMjY2MWVlMGY0NjhmY2ZlZTIwMDAy`
+Snapshot ID: `MTY3MDg2MzA4MywwMDAwMDAwMGJhYTk0Y2Q3M2Y5YTM4MDVlOTQyNTM5ZjEzNTdmMTAx`

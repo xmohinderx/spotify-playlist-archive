@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,327,989 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,331,240 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 89 | [Find a Way](https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Love Movement](https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2) | 3:23 |
 | 90 | [Tonight's Da Night](https://open.spotify.com/track/67mtN6BlsJR0LVyzvNZnGt) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Whut? Thee Album](https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF) | 3:21 |
 | 91 | [Gettin' It \(feat\. Parliament Funkadelic\)](https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [Parliament Funkadelic](https://open.spotify.com/artist/6XswoC68grx55in1WQnJ7E) | [Gettin' It \(Album Number Ten\)](https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH) | 5:41 |
-| 92 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 |
-| 93 | [Mass Appeal](https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 3:41 |
+| 92 | [Mass Appeal](https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 3:41 |
+| 93 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 |
 | 94 | [Doin' It](https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 4:53 |
 | 95 | [Bring The Pain](https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Tical](https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf) | 3:09 |
 | 96 | [Invocation](https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [One Day It'll All Make Sense](https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 99 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 100 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
 
-Snapshot ID: `MTY3MTYyNTY1MSwwMDAwMDAwMDI0N2NiNzMxOTg4NTM5N2U1YjdjZDYyMTdkMGQxNGI1`
+Snapshot ID: `MTY3MTYyNTY1MSwwMDAwMDAwMDE1ZTdjZDhmYTllZWI5NDg4ZGQ1NmYzNjNhYzY5YzQ2`

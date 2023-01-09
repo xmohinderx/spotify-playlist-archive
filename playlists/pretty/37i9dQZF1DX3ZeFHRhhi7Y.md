@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: LE SSERAFIM\(르세라핌\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 967,474 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 968,388 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 81 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 |
 | 82 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 |
 | 83 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 |
-| 84 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 |
-| 85 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 |
+| 84 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 |
+| 85 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 |
 | 86 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
 | 87 | [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 |
 | 88 | [Secret Story of the Swan](https://open.spotify.com/track/7G6WuVZuTbF6JcnA9wOvsD) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [Oneiric Diary](https://open.spotify.com/album/1XuKR0Qguy1b0Vne8hv5Pd) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 99 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 |
 | 100 | [VISION](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Follow us\]](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) | 3:09 |
 
-Snapshot ID: `MTY3MjcyMTM5NCwwMDAwMDAwMGY5MjUxODE2YjdiYjY2NjQ1N2RkZTg1ZjRkNmEyY2Y3`
+Snapshot ID: `MTY3MjcyMTM5NCwwMDAwMDAwMDBlYTcyNzI3NzJiNTgzZGVkZjM3MmZlNmExM2E5YjZj`

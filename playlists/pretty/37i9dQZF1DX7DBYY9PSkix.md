@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 
 > Music to get your heart started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,284 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,361 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 64 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 |
 | 65 | [Good Vibes](https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 2:45 |
 | 66 | [Kinfolks](https://open.spotify.com/track/52lGuLAkIVbm4LZkSf9nj0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:01 |
-| 67 | [Down To One](https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:41 |
-| 68 | [Ain't Worth the Whiskey](https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:11 |
+| 67 | [Ain't Worth the Whiskey](https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:11 |
+| 68 | [Down To One](https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:41 |
 | 69 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 |
 | 70 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 |
 | 71 | [Love Ain't](https://open.spotify.com/track/6uVzeU47Qzg0rrMneP5BNg) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Ain't](https://open.spotify.com/album/5EINVVHmix3Yvu6ruZC1L0) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 74 | [Where It's At](https://open.spotify.com/track/4whYDpJ5XVQpmvecbEHP5Q) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Where It's At](https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477) | 3:24 |
 | 75 | [I Was On a Boat That Day](https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [I Was On a Boat That Day](https://open.spotify.com/album/5l1k8aONEjrNP0SFdcrL6J) | 2:58 |
 
-Snapshot ID: `MTY3MjE3MzMxOSwwMDAwMDAwMGQ4ZDc5ODE3MGM4YzVkZmIzZmYzZDM0Zjk3ZWQ0MGYy`
+Snapshot ID: `MTY3MjE3MzMxOSwwMDAwMDAwMDVjZTBjMzkyMTA4Yzc3OGZhZDE1NzY3YjM2ZjQ4ZTIw`

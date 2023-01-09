@@ -7182,7 +7182,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 186038,
       "name": "Goo Goo Muck",
       "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
@@ -16408,7 +16408,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -18768,7 +18768,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 84817,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD"
@@ -20242,6 +20242,32 @@
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "album": {
+        "name": "Enquiring Minds",
+        "url": "https://open.spotify.com/album/0kRFAheUcIc0opxL2gjnHE"
+      },
+      "artists": [
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        },
+        {
+          "name": "DJ Paul",
+          "url": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266506,
+      "name": "Where Dem Dollas At (feat. DJ Paul & Juicy J)",
+      "url": "https://open.spotify.com/track/18AWpfDOjZvW8VlUkw52st"
     },
     {
       "album": {

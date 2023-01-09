@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,018 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,445 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,18 +54,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 44 | [This Guy's In Love With You](https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 3:43 |
 | 45 | [Mr Bojangles](https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 3:17 |
 | 46 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 |
-| 47 | [You Make Me Feel so Young](https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:05 |
-| 48 | [Stompin At The Savoy](https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [B\. G\. In Hi Fi](https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct) | 3:15 |
+| 47 | [Stompin At The Savoy](https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [B\. G\. In Hi Fi](https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct) | 3:15 |
+| 48 | [You Make Me Feel so Young](https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:05 |
 | 49 | [I Could Write a Book](https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:27 |
 | 50 | ['S Wonderful](https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 2:50 |
-| 51 | [Night And Day](https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:06 |
+| 51 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Someone To Watch Over Me](https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r) | 3:35 |
 | 52 | [It Had to Be You](https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 2:44 |
 | 53 | [Mad About The Boy](https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 2 \(1950\-1952\)](https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6) | 3:02 |
 | 54 | [Have You Met Miss Jones?](https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:34 |
 | 55 | [Stardust](https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:14 |
 | 56 | [Chances Are \(with Ray Conniff & His Orchestra\)](https://open.spotify.com/track/6sAcECONsANle5n0rnP2at) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Johnny's Greatest Hits](https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1) | 3:02 |
 | 57 | [The Good Life](https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [I Wanna Be Around](https://open.spotify.com/album/11KbbI91LeZUkXALWALytD) | 2:14 |
-| 58 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Someone To Watch Over Me](https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r) | 3:35 |
+| 58 | [Night And Day](https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:06 |
 | 59 | [My Kind Of Girl](https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K) | [Buddy Greco](https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ) | [16 Most Requested Songs](https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb) | 2:40 |
 | 60 | [Ain't We Got Fun](https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Jump For Joy](https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz) | 2:13 |
 | 61 | [Moonglow](https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Begin The Beguine](https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 99 | [I've Got The World On A String](https://open.spotify.com/track/2bksvLO7cIYbVxe6HcSS8Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:12 |
 | 100 | [First Time Ever I Saw Your Face](https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r) | 3:22 |
 
-Snapshot ID: `MTY3MjY3Mzg2NSwwMDAwMDAwMGJmMzk5ZDM2ZDQyMzA3OGI4OTQ4M2M3YThjY2Y4NWNj`
+Snapshot ID: `MTY3MjY3Mzg2NSwwMDAwMDAwMDYwZjAxNjA5N2JhZjI0ZDc1ZDA4ZTk0NzhlYzg5M2Uy`

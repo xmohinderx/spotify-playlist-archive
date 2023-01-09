@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 35497,
+  "num_followers": 35529,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMGIxYmU2ZmQxMTEyOWRiMGI1YzllMjU2ZjMwZjMxMDVi",
+  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDg2YzJmOTgwY2ZmNWQ4MDFiNDYwNzY3MGE4MDI0YjNh",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -199,6 +199,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Reign Of Fire",
+        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
+      },
+      "artists": [
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "That Day Will Come",
+      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "My Woman, My Everything (feat. Wandecoal) - Single",
         "url": "https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 233717,
       "name": "My Woman, My Everything (feat. Wandecoal)",
       "url": "https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Reign Of Fire",
-        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
-      },
-      "artists": [
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "That Day Will Come",
-      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
     },
     {
       "added_at": "2020-10-19 09:02:25",

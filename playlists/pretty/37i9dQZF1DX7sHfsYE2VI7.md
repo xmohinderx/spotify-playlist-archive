@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,676 likes - 70 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,713 likes - 70 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 52 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
 | 53 | [Lights & Music](https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt) | 4:37 |
 | 54 | [One Too Many Mornings](https://open.spotify.com/track/0lOzGDHcPlUB1ZvXMWQ0Oh) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Exit Planet Dust](https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg) | 4:13 |
-| 55 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
-| 56 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
+| 55 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
+| 56 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
 | 57 | [Let Me Go](https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:13 |
 | 58 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
 | 59 | [Hearts On Fire](https://open.spotify.com/track/0pAisVoZ7Gybjvm0q7AoVu) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt) | 4:52 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 67 | [In The Bath](https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:41 |
 | 68 | [Missing \- 2013 Remaster](https://open.spotify.com/track/79dD64QT2l64W12VkPGjvZ) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Amplified Heart \(Deluxe Edition\)](https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2) | 4:07 |
 | 69 | [Never Come Back](https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 5:05 |
-| 70 | [With You Forever](https://open.spotify.com/track/3wRSZvxk09S0Tvuwg1L69N) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [PNAU](https://open.spotify.com/album/6BtdVFxMhcOb0gkD53KogE) | 3:34 |
+| 70 | [So Com Voce](https://open.spotify.com/track/4720QgLxfScGStvX9YcGkA) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Mirror Conspiracy](https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe) | 2:47 |
 
-Snapshot ID: `MTY0NjAxMzk1OCwwMDAwMDAwMDIxOWIxOGNiZDQxZGNhNjk5MTJlOWUzNDRjNThmNjQy`
+Snapshot ID: `MTY0NjAxMzk1OCwwMDAwMDAwMDRhZjUyNDQwY2M5MmQ4YzA4ODQ2MGU4MWQzODE5NTIy`

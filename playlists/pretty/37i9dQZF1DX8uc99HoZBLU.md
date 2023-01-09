@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 
 > for those who appreciate a curated mood 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,771 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,326 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 9 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 |
 | 10 | [7 Weeks & 3 Days](https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Over You](https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58) | 3:14 |
 | 11 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
-| 12 | [Special](https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:38 |
+| 12 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 |
 | 13 | [First Of The Year](https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [First Of The Year](https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86) | 2:50 |
-| 14 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 |
+| 14 | [Special](https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:38 |
 | 15 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 |
 | 16 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
 | 17 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 24 | [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 |
 | 25 | [Old Love](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love](https://open.spotify.com/album/6mKwqGY2IS3qSs3mgs30A5) | 4:09 |
 | 26 | [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 |
-| 27 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
+| 27 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 28 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 |
-| 29 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
+| 29 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
 | 30 | [I Hope to Be Around \(Live\)](https://open.spotify.com/track/1EOC47ETkQCedpxemcJpal) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Forever Live Sessions](https://open.spotify.com/album/4p73PcjJvWer7WDYXcGetn) | 3:46 |
 | 31 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
 | 32 | [Vanilla Tobacco](https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Vanilla Tobacco](https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR) | 2:48 |
 | 33 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 34 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
-| 35 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
-| 36 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
+| 35 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
+| 36 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
 | 37 | [Bubble Gum](https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bubble Gum](https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2) | 2:55 |
 | 38 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 |
 | 39 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 |
@@ -64,16 +64,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 54 | [N Side](https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:44 |
 | 55 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 |
 | 56 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 |
-| 57 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
-| 58 | [Lover Is a Day](https://open.spotify.com/track/1ucnuV88gFTfR3BalmznDk) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [wannabewithu](https://open.spotify.com/album/1rQys03txxThcRZLofLlHY) | 7:36 |
+| 57 | [Lover Is a Day](https://open.spotify.com/track/1ucnuV88gFTfR3BalmznDk) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [wannabewithu](https://open.spotify.com/album/1rQys03txxThcRZLofLlHY) | 7:36 |
+| 58 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
 | 59 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 |
 | 60 | [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 |
 | 61 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |
 | 62 | [Dancing in My Room](https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Dancing in My Room](https://open.spotify.com/album/3t1MvGhT6LU3fOIp3KMrta) | 3:00 |
 | 63 | [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 |
 | 64 | [Pretty Girl](https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Pretty Girl](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9) | 2:58 |
-| 65 | [Lo Que Siento](https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Lo Que Siento](https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC) | 5:12 |
-| 66 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
+| 65 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
+| 66 | [Lo Que Siento](https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Lo Que Siento](https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC) | 5:12 |
 | 67 | [Loverboy](https://open.spotify.com/track/0qXP5fMhxGzxALOkXYUxfP) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Helios](https://open.spotify.com/album/4uObGgFhiUjJNrj298b500) | 3:44 |
 | 68 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 |
 | 69 | [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 74 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 |
 | 75 | [I'll Keep You Safe](https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [I'll Keep You Safe](https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX) | 3:05 |
 
-Snapshot ID: `MTY3Mjk0MjI4MiwwMDAwMDAwMDJlNGM0MGY5MGI2NzA2YmFmNDhhMjc3ZTU0NzA1YmRm`
+Snapshot ID: `MTY3Mjk0MjI4MiwwMDAwMDAwMGQ3YzFlOTA2ODJiY2I0YTdmNWM5N2M0ZDY1OGJiNDcz`

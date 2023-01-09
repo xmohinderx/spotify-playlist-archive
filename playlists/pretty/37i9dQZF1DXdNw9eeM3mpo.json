@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Aut\u00e9nticos Decadentes y Andrea Echeverri en portada.",
-  "num_followers": 410203,
+  "num_followers": 410255,
   "original_name": "skad'ak\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1ODE0MywwMDAwMDAwMGE0ODAxYTBjOTVhMmZhNWZiZmE3ZjgzNjNjZDEyZWYw",
+  "snapshot_id": "MTY3MTE1ODE0MywwMDAwMDAwMGI1OWY2NzYzZjExN2Q1NGZhMzY1MmU1ZWUyOTBjOTc4",
   "tracks": [
     {
       "added_at": "2022-12-16 02:35:42",
@@ -511,22 +511,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Chanchos Amigos",
-        "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Jorge Serrano",
-          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 262066,
-      "name": "Quereme As\u00ed",
-      "url": "https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw"
+      "duration_ms": 272640,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -547,18 +543,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+        "name": "Chanchos Amigos",
+        "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Jorge Serrano",
+          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
         }
       ],
-      "duration_ms": 272640,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
+      "duration_ms": 262066,
+      "name": "Quereme As\u00ed",
+      "url": "https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Sue\u00f1os de Carpa",
-        "url": "https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x"
-      },
-      "artists": [
-        {
-          "name": "EXILIOS",
-          "url": "https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE"
-        }
-      ],
-      "duration_ms": 247980,
-      "name": "Bicolor",
-      "url": "https://open.spotify.com/track/7N2I37ulF3GCOVwuR69umI"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Coraz\u00f3n de Chileno [Canciones para Alentar a la Roja] - EP",
         "url": "https://open.spotify.com/album/2ALuHHVcNfUTLnQVB08MXW"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 226306,
       "name": "El crack",
       "url": "https://open.spotify.com/track/3UUtewTLgASbX6afOBHAeQ"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Sue\u00f1os de Carpa",
+        "url": "https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x"
+      },
+      "artists": [
+        {
+          "name": "EXILIOS",
+          "url": "https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE"
+        }
+      ],
+      "duration_ms": 247980,
+      "name": "Bicolor",
+      "url": "https://open.spotify.com/track/7N2I37ulF3GCOVwuR69umI"
     },
     {
       "added_at": "2021-12-21 17:00:46",

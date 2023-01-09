@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,645 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,091 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 68 | [Marked for Death](https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Marked for Death](https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4) | 3:39 |
 | 69 | [Sane](https://open.spotify.com/track/7fW3FdTNVNe5PixRIEQ6Pc) | [Fear of Men](https://open.spotify.com/artist/0CRpYpI1sFle7hwVWdLOEd) | [Fall Forever](https://open.spotify.com/album/7hPVqeniaW7KBITPBam9If) | 4:42 |
 | 70 | [Depraved](https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2) | 3:53 |
-| 71 | [Esmerelda](https://open.spotify.com/track/5kFTqniUPljjMVCP37xRyd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Burgh Island EP](https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5) | 4:44 |
-| 72 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 |
+| 71 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 |
+| 72 | [Esmerelda](https://open.spotify.com/track/5kFTqniUPljjMVCP37xRyd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Burgh Island EP](https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5) | 4:44 |
 | 73 | [Goodbye \(with Soap & Skin\)](https://open.spotify.com/track/6BJXuY0lY0EUtSDCgkYnqE) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot), [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [The Devil's Walk](https://open.spotify.com/album/5EHvg6pPmS7wBzcCjXZIs3) | 4:29 |
 | 74 | [Angel of Small Death and the Codeine Scene](https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Take Me to Church EP](https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY) | 3:38 |
 | 75 | [Drifting on a Summer's Night](https://open.spotify.com/track/3e3X9Tzj7gHczvldaW4x3u) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Yarrow](https://open.spotify.com/album/7eQA5w0dxrdbTUPjh6L8cH) | 2:54 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 93 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 |
 | 94 | [Why'd You Make Me Cry](https://open.spotify.com/track/2fgpYCWp31JJlplZ7MRANG) | [Odina](https://open.spotify.com/artist/2D0wm8aDnVrcljPwg2GM75) | [Why'd You Make Me Cry](https://open.spotify.com/album/2TG55es15dmqG0aOtE5Wml) | 3:40 |
 | 95 | [Farm](https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK) | 4:43 |
-| 96 | [Habit](https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Gabrielle Shonk](https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco) | 4:09 |
-| 97 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 |
+| 96 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 |
+| 97 | [Habit](https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Gabrielle Shonk](https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco) | 4:09 |
 | 98 | [Stretch Your Eyes \- Radio Edit](https://open.spotify.com/track/2As5LUjQxNyXAcQWBUimY2) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Stretch Your Eyes \(Radio Edit\)](https://open.spotify.com/album/7zjJtvfDH72QlMgAfBeuhc) | 4:07 |
 | 99 | [Never Want to Be In Love](https://open.spotify.com/track/0KPNkGhDgIpS9wVFi7AiUP) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Never Want to Be In Love](https://open.spotify.com/album/6UJegFNaAiOqZBaTSBtEaQ) | 3:33 |
 | 100 | [Smile](https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV) | 6:02 |
 
-Snapshot ID: `MTY3Mjc2MzI1NywwMDAwMDAwMDVlNTU4MGVmM2Q1MTg5YWZjNDNjOGYzZmI4MGY3ZGIw`
+Snapshot ID: `MTY3Mjc2MzI1NywwMDAwMDAwMGM4YmU5MTBlNmRlNGE1MmRlNTkyOTI5NTY2ODY3MjIx`

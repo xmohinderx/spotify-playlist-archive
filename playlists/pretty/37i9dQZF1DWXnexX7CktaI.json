@@ -1,12 +1,12 @@
 {
   "description": "All the jams. Cover: Miguel",
-  "num_followers": 1917127,
+  "num_followers": 1918094,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQzODIyMywwMDAwMDAwMGVkM2FjZTgxYjZlYmJlZWVjNDRkYjIwZTgxMThmMTRi",
+  "snapshot_id": "MTY3MDQzODIyMywwMDAwMDAwMDRiNjcyNGY1OWE4MWU2NWZjZTVlMDEzYzFlODg2YzRl",
   "tracks": [
     {
       "added_at": "2022-08-03 15:25:39",
@@ -597,26 +597,6 @@
       "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
     },
     {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 201787,
-      "name": "Nights Like This (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
-    },
-    {
       "added_at": "2022-07-30 03:46:43",
       "album": {
         "name": "An Evening With Silk Sonic",
@@ -647,6 +627,26 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 201787,
+      "name": "Nights Like This (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
     },
     {
       "added_at": "2022-07-30 03:34:52",

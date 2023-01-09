@@ -1,12 +1,12 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 684853,
+  "num_followers": 685117,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyMDAwMCwwMDAwMDAwMDk4ODAwZTIwODRlYmI5ZTNhNmE2NjQ0ODcxNTMxNzVl",
+  "snapshot_id": "MTY3MzAyMDAwMCwwMDAwMDAwMDkxNWZkNTljMDhiNDgwODgzYTFiZDk0NGFiZGU5ZWZm",
   "tracks": [
     {
       "added_at": "2022-11-30 19:41:15",
@@ -417,6 +417,26 @@
       "url": "https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s"
     },
     {
+      "added_at": "2023-01-04 14:50:34",
+      "album": {
+        "name": "Mamacita (feat. A$AP Rocky)",
+        "url": "https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0"
+      },
+      "artists": [
+        {
+          "name": "Smooky MarGielaa",
+          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 185749,
+      "name": "Mamacita (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "VIVID",
@@ -453,26 +473,6 @@
       "url": "https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS"
     },
     {
-      "added_at": "2023-01-04 14:50:34",
-      "album": {
-        "name": "Mamacita (feat. A$AP Rocky)",
-        "url": "https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0"
-      },
-      "artists": [
-        {
-          "name": "Smooky MarGielaa",
-          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 185749,
-      "name": "Mamacita (feat. A$AP Rocky)",
-      "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
-    },
-    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "Baby Queen",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "ZIG ZAGGING",
+        "url": "https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB"
+      },
+      "artists": [
+        {
+          "name": "Asha Imuno",
+          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "ZIG ZAGGING",
+      "url": "https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "spend the money (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 199669,
       "name": "spend the money (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "ZIG ZAGGING",
-        "url": "https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB"
-      },
-      "artists": [
-        {
-          "name": "Asha Imuno",
-          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "ZIG ZAGGING",
-      "url": "https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "lemon sorbet",
-        "url": "https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd"
-      },
-      "artists": [
-        {
-          "name": "SASH",
-          "url": "https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ"
-        }
-      ],
-      "duration_ms": 151048,
-      "name": "lemon sorbet",
-      "url": "https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 165485,
       "name": "Dance",
       "url": "https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "lemon sorbet",
+        "url": "https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd"
+      },
+      "artists": [
+        {
+          "name": "SASH",
+          "url": "https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ"
+        }
+      ],
+      "duration_ms": 151048,
+      "name": "lemon sorbet",
+      "url": "https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "PORN ACTING*",
-      "url": "https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "PORN ACTING*",
+      "url": "https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "I Did Drugs For You",
         "url": "https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 192592,
       "name": "I Did Drugs For You",
       "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
+    },
+    {
+      "added_at": "2022-12-14 20:26:31",
+      "album": {
+        "name": "Extrovert",
+        "url": "https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic"
+      },
+      "artists": [
+        {
+          "name": "Monjola",
+          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
+        }
+      ],
+      "duration_ms": 186856,
+      "name": "Extrovert",
+      "url": "https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1333,22 +1349,6 @@
       "url": "https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy"
     },
     {
-      "added_at": "2022-12-14 20:26:31",
-      "album": {
-        "name": "Extrovert",
-        "url": "https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic"
-      },
-      "artists": [
-        {
-          "name": "Monjola",
-          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
-        }
-      ],
-      "duration_ms": 186856,
-      "name": "Extrovert",
-      "url": "https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739"
-    },
-    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "About A Boy",
@@ -1363,22 +1363,6 @@
       "duration_ms": 167500,
       "name": "Would It Kill You At All",
       "url": "https://open.spotify.com/track/0MFpii15OtF6euR17upS7S"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 179060,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1399,6 +1383,22 @@
       "duration_ms": 186531,
       "name": "THE SEASON (feat. PawPaw Rod)",
       "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 179060,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm"
     },
     {
       "added_at": "2023-01-06 15:46:40",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "rave",
+        "url": "https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 170310,
+      "name": "ihy",
+      "url": "https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "Off The Drugs",
         "url": "https://open.spotify.com/album/1NjXy9akXwlUfk74r2owE1"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "rave",
-        "url": "https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 170310,
-      "name": "ihy",
-      "url": "https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Mixtape",
         "url": "https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 116782,
       "name": "Mastodon Matador",
       "url": "https://open.spotify.com/track/0LMnm18zZKMlRe59xxA3o3"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Griffith Park",
+        "url": "https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel"
+      },
+      "artists": [
+        {
+          "name": "Carter Ace",
+          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Griffith Park",
+      "url": "https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1627,22 +1643,6 @@
       "duration_ms": 130804,
       "name": "Great Taste",
       "url": "https://open.spotify.com/track/70Qehf0lZ352N1rPDC7Frc"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Griffith Park",
-        "url": "https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel"
-      },
-      "artists": [
-        {
-          "name": "Carter Ace",
-          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Griffith Park",
-      "url": "https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z"
     },
     {
       "added_at": "2022-11-30 19:41:15",

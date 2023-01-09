@@ -4,7 +4,7 @@
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-70 songs - 4 hr 3 min
+71 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,10 @@
 | [Dragon Roost Island \(from "The Legend of Zelda: Wind Waker"\)](https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:20 | 2021-07-28 |  |
 | [Eleanor Rigby \- Instrumental](https://open.spotify.com/track/7ME99GPDI0U0nGIGqzaJ1t) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 2:27 | 2021-07-28 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/0q9BEc2ph335v37QaqHSNq) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 4:12 | 2021-07-28 |  |
+| [Firework](https://open.spotify.com/track/6HFlSRjB6k4uOU1tNJ2Wc9) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:51 | 2021-07-28 |  |
 | [Gerudo Valley \(from "The Legend of Zelda: Ocarina of Time"\)](https://open.spotify.com/track/1Tj2GsPM4kfI5FXU1ODvTk) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:33 | 2021-07-28 |  |
 | [Get Lucky](https://open.spotify.com/track/2bDhqkRWUpEVXHFJzJ780i) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 4:01 | 2021-07-28 |  |
-| [Guardia Millenial Fair \(from "Chrono Trigger"\)](https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:12 | 2021-07-28 |  |
+| [Guardia Millenial Fair \(from "Chrono Trigger"\)](https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:12 | 2021-07-28 | 2023-01-09 |
 | [Happy](https://open.spotify.com/track/7oJceYpwUTWEpWWuR88G9z) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:57 | 2021-07-28 |  |
 | [Have You Ever Seen the Rain](https://open.spotify.com/track/0OMpwg10761Hr1EvwzTGbl) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 2:45 | 2021-07-28 |  |
 | [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 | 2021-07-28 | 2022-12-22 |

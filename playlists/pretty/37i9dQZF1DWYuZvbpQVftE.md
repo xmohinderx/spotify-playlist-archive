@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,488 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,527 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 21 | [With A Little Bit Of Luck \- Instrumental](https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 6:02 |
 | 22 | [Star Song](https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Latin Side Of Vince Guaraldi](https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4) | 3:36 |
 | 23 | [Walkin' Shoes](https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:30 |
-| 24 | [Thou Swell](https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn) | [Hampton Hawes](https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK) | [Four!](https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz) | 4:54 |
-| 25 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
+| 24 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
+| 25 | [Thou Swell](https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn) | [Hampton Hawes](https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK) | [Four!](https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz) | 4:54 |
 | 26 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 |
 | 27 | [Stockholm Sweetnin'](https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [This Is How I Feel About Jazz](https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk) | 5:40 |
 | 28 | [Blue Steel](https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf) | [Shelly Manne and His Men](https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF) | [Son Of Gunn!!](https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 49 | [Willie Nillie](https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS) | [Maynard Ferguson](https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw) | [Verve Jazz Masters 52: Maynard Ferguson](https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI) | 3:05 |
 | 50 | [Moon Tan](https://open.spotify.com/track/3vJ8Cik37ahoPCs1WyJEfh) | [Bobby Scott](https://open.spotify.com/artist/43B662mnCJQuYtIRACBHKD) | [East Coast Jazz, Vol\. 1 \(Remastered 2013\)](https://open.spotify.com/album/3Y8mMZZSCCC5S41t0URMnZ) | 3:47 |
 
-Snapshot ID: `MTY3Mjg0MTI0OCwwMDAwMDAwMDYzOTk1YjQxNTNkYjU4NDk2NzNjNGI1NjJlYWIyYTBk`
+Snapshot ID: `MTY3Mjg0MTI0OCwwMDAwMDAwMDY5N2U3Yzk1YmVlY2YyOTk2OWJjOWIwMTNmYmFkZGZl`

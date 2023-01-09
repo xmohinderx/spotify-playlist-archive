@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,554 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,566 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 2 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
 | 3 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 |
 | 4 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
-| 5 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
-| 6 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 |
+| 5 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 |
+| 6 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
 | 7 | [Falling Down \- Bonus Track](https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:16 |
 | 8 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
 | 9 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 49 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 |
 | 50 | [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 |
 
-Snapshot ID: `MTY3MjYzODUzOSwwMDAwMDAwMDVlYmJlZDczOGJmY2YxYmJiZWFlYzM0NmY2ZTliOWIz`
+Snapshot ID: `MTY3MjYzODUzOSwwMDAwMDAwMDUwMmYzMGZmMTRmMjBkODk3Njk4ZDRkNDlkMjdmYTJh`

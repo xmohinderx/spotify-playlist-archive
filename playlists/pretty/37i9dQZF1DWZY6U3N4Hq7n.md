@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,715 likes - 80 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,853 likes - 80 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,24 +56,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 46 | [Super Trouper](https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:12 |
 | 47 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:35 |
 | 48 | [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 |
-| 49 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 |
-| 50 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
+| 49 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
+| 50 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 |
 | 51 | [West End Girls \- 2018 Remaster](https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 4:45 |
 | 52 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
 | 53 | [Owner of a Lonely Heart](https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [90125 \(Deluxe Version\)](https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz) | 4:28 |
 | 54 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
 | 55 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
-| 56 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
-| 57 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
-| 58 | [Juke Box Hero](https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:19 |
-| 59 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
-| 60 | [I Think We're Alone Now](https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [Tiffany](https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C) | 3:48 |
+| 56 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
+| 57 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
+| 58 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
+| 59 | [I Think We're Alone Now](https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [Tiffany](https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C) | 3:48 |
+| 60 | [Juke Box Hero](https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:19 |
 | 61 | [Kids In America](https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [Kim Wilde](https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf) | 3:25 |
 | 62 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 63 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB), [Felly](https://open.spotify.com/artist/1pvibpCqTQG4mnbZ7vVSDj) | [Best Of](https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL) | 3:35 |
-| 64 | [Together Forever](https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:25 |
-| 65 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 |
-| 66 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
+| 64 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
+| 65 | [Together Forever](https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:25 |
+| 66 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 |
 | 67 | [Don't Leave Me This Way \(with Sarah Jane Morris\)](https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT), [Sarah Jane Morris](https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o) | [Communards](https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3) | 4:31 |
 | 68 | [Girls Just Want to Have Fun](https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 3:58 |
 | 69 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 79 | [Bust A Move](https://open.spotify.com/track/3IeCYkdKI55mNMl2o4vX0k) | [Young MC](https://open.spotify.com/artist/5n30a5V4ftXNMHCHChmK2h) | [Stone Cold Rhymin'](https://open.spotify.com/album/5epYkQqWldhYysHIH9mrmE) | 4:23 |
 | 80 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 |
 
-Snapshot ID: `MTY0MDE4OTgwMywwMDAwMDAwMDdiNGFlYjQxOTI4MTA4YTBjZmJlYmVjM2U2MTJmMDdm`
+Snapshot ID: `MTY0MDE4OTgwMywwMDAwMDAwMGNhYTdhZjY4MmVhMmNiNTBlNTE1ZDI0NTQ3NmI3ZGY0`

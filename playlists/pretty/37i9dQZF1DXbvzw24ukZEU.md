@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,501 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,607 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 | 30 | [Loca \- Remix](https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Loca Remix](https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ) | 5:46 |
 | 31 | [Escápate Conmigo \(feat\. Ozuna\)](https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Victory](https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k) | 3:52 |
 | 32 | [HP](https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:04 |
-| 33 | [Ahora Me Llama](https://open.spotify.com/track/0alSPoUfrGb0RdVVG4Lf3n) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Unstoppable](https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR) | 3:55 |
-| 34 | [Toda Remix \- Remix](https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Toda Remix](https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618) | 6:07 |
-| 35 | [Passion Whine](https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:33 |
+| 33 | [Toda Remix \- Remix](https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Toda Remix](https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618) | 6:07 |
+| 34 | [Passion Whine](https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:33 |
+| 35 | [Ahora Me Llama](https://open.spotify.com/track/0alSPoUfrGb0RdVVG4Lf3n) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Unstoppable](https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR) | 3:55 |
 | 36 | [Puntos Suspensivos](https://open.spotify.com/track/04cd1MHVq1D8v1nuTZoCdv) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:06 |
 | 37 | [Un Año](https://open.spotify.com/track/2vrpcQNg6itmgVZWsNjWe0) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 2:43 |
 | 38 | [Verte Ir](https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR) | [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Verte Ir](https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 | 49 | [El Perdedor](https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:26 |
 | 50 | [Deja vu](https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:16 |
 
-Snapshot ID: `MTY2MTkzMDU4MiwwMDAwMDAwMGEwMzRmZmE2ZmM2YTFhM2MyMjM1NTFkZWFhNzMzM2Nl`
+Snapshot ID: `MTY2MTkzMDU4MiwwMDAwMDAwMDZkNDdmMWZmZDYxY2M1M2IzYmVjZGQwMDY1ZDk0OTcw`

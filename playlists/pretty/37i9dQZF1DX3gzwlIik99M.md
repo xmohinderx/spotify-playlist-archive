@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,722 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,747 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 8 | [El Pibe Tigre](https://open.spotify.com/track/70VfAhsPWCKIXO9yc1rKQN) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [Mundo Guanaco](https://open.spotify.com/album/4okfUbvoV7c301lu9qKbeP) | 4:03 |
 | 9 | [Desperate Cry](https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 6:41 |
 | 10 | [Acido](https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [El Mar De Las Almas](https://open.spotify.com/album/52tcNhROdl0187orh4tB3N) | 3:43 |
-| 11 | [Los Rockeros Van al Infierno](https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX) | [Barón Rojo](https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF) | [Grandes Exitos](https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN) | 4:19 |
-| 12 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
+| 11 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
+| 12 | [Los Rockeros Van al Infierno](https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX) | [Barón Rojo](https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF) | [Grandes Exitos](https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN) | 4:19 |
 | 13 | [El Infierno de Dante](https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK) | [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [El Llamado de la Hembra](https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa) | 4:35 |
 | 14 | [La Culpa Al Viento](https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr) | [Los Antiguos](https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91) | [Madera Prohibida](https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb) | 5:11 |
 | 15 | [El nuevo camino del hombre](https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:29 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 39 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
 | 40 | [Esquizofrenia](https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9) | [Khafra](https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo) | [Khafra](https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO) | 3:02 |
 | 41 | [Discord](https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8) | [Black Overdrive](https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB) | [Discord](https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm) | 3:12 |
-| 42 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
-| 43 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
-| 44 | [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 |
-| 45 | [Guerrero Del Arco Iris](https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 5:04 |
+| 42 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
+| 43 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
+| 44 | [Guerrero Del Arco Iris](https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 5:04 |
+| 45 | [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 |
 | 46 | [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 |
 | 47 | [Éxodo](https://open.spotify.com/track/2nv6Rz0mTEAL96uyRM114Q) | [Masacre](https://open.spotify.com/artist/6ybTIsR4n37yT6UspaRR7m) | [Muerte Verdadera Muerte](https://open.spotify.com/album/1MFmNLxH0oGUXDx8EwE9nE) | 4:09 |
 | 48 | [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 |
 | 49 | [Oídos Sordos](https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL) | [Lethal Creation](https://open.spotify.com/artist/4AhluimFPLNnran1jD354B) | [Tierras Muertas](https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q) | 5:09 |
 | 50 | [Reinará el Caos](https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Legiones](https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf) | 6:14 |
 
-Snapshot ID: `MTYwMzUxMDczMSwwMDAwMDAwMDE0ODI4ZDJmMjliZjNiZTk2NjE1MjhkMGEwODljNmMw`
+Snapshot ID: `MTYwMzUxMDczMSwwMDAwMDAwMDIyZjJkNmYxZWYyYThlMDYwNjI5YjhkZDFlNjg0MzQw`

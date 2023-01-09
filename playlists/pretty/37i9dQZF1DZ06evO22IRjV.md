@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,753 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,759 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 26 | [Answer](https://open.spotify.com/track/0lDEkAEv0QuxJGZ1nn4JIx) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [アイル](https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg) | 4:39 |
 | 27 | [燈](https://open.spotify.com/track/5U5ZUDFkEDbErnxGUISDI5) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [燈](https://open.spotify.com/album/61xd3iE3CxUoBoswb7xrZ5) | 3:52 |
 | 28 | [贈る言葉 \(single version\)](https://open.spotify.com/track/4MYNEFBZXSUViahKeSAVaa) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:12 |
-| 29 | [INNOSENSE](https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [INNOSENSE Special Edition](https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV) | 4:02 |
-| 30 | [GLORY DAYS](https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [26 a Go Go !!!](https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs) | 3:45 |
-| 31 | [PENDULUM](https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [TRIBALYTHM](https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar) | 4:12 |
+| 29 | [GLORY DAYS](https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [26 a Go Go !!!](https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs) | 3:45 |
+| 30 | [INNOSENSE](https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [INNOSENSE Special Edition](https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV) | 4:02 |
+| 31 | [CALLING](https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:34 |
 | 32 | [United Sparrows](https://open.spotify.com/track/49KkIt4ilha2JSCkeUI0eR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/3eF5AwP5KQ7us5cHudHttS) | 3:39 |
-| 33 | [CALLING](https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:34 |
+| 33 | [PENDULUM](https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [TRIBALYTHM](https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar) | 4:12 |
 | 34 | [Hey!!!](https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [BLACK & WHITE](https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF) | 3:42 |
 | 35 | [流星](https://open.spotify.com/track/1eTKBnh7Kczg3hggOcnf6v) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:16 |
 | 36 | [DAYS 〜EUREKA OPENING MIX〜](https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DAYS](https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY) | 1:31 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 44 | [虹の空 \-Album Ver\-](https://open.spotify.com/track/2s6rDhIa7l0UKvZGMOkSNs) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 4:44 |
 | 45 | [Realize](https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Golden Coast](https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB) | 3:33 |
 | 46 | [ありがとう](https://open.spotify.com/track/3qMQ7fdeXHUoMLF2l1zK5o) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [アイル](https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg) | 5:29 |
-| 47 | [音色](https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [音色 / Break it down](https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm) | 4:38 |
-| 48 | [モメント](https://open.spotify.com/track/1PpedV5nWpHk2R23ARixX9) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE \(Complete Edition\)](https://open.spotify.com/album/4PepWTYHniNNHAM5kbSk0Q) | 3:58 |
-| 49 | [光追いかけて](https://open.spotify.com/track/6StfWg4HEWGZfuMcfmHoyg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:02 |
+| 47 | [モメント](https://open.spotify.com/track/1PpedV5nWpHk2R23ARixX9) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE \(Complete Edition\)](https://open.spotify.com/album/4PepWTYHniNNHAM5kbSk0Q) | 3:58 |
+| 48 | [光追いかけて](https://open.spotify.com/track/6StfWg4HEWGZfuMcfmHoyg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:02 |
+| 49 | [音色](https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [音色 / Break it down](https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm) | 4:38 |
 | 50 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
 
-Snapshot ID: `Mjc4ODUwNDcsMDAwMDAwMDA4NGFhNzI2MjEzZDZjYjliY2U3MDliYmFiYWIxNTE5ZQ==`
+Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDBiZGU5Mjg5MmU5NGI3NjU4YzA0MWFlMTMxODJjYzdjOA==`

@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 808055,
+  "num_followers": 808665,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4NDQwOCwwMDAwMDAwMDFjMjFlZjAwOTQyYThiNzEwODg3MzBlMzI0YzUwNGI3",
+  "snapshot_id": "MTY2MzY4NDQwOCwwMDAwMDAwMDFjMGFkMzgxODNjN2JiNDYxOGY4MjA3Mzk5NjBiYzEx",
   "tracks": [
     {
       "added_at": "2022-08-25 19:21:22",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
         "name": "Cold Heart (Acoustic)",
         "url": "https://open.spotify.com/album/78pahaG6oQu93YqFLVYGEv"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 195373,
       "name": "Cold Heart - Acoustic",
       "url": "https://open.spotify.com/track/0k6LV1ohcK2hlNPwu1nVw9"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "1973 - Acoustic",
-      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 201136,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "1973 - Acoustic",
+      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA"
+      },
+      "artists": [
+        {
+          "name": "The Hound + The Fox",
+          "url": "https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us"
+        }
+      ],
+      "duration_ms": 221712,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
         "name": "Human Nature (Acoustic)",
         "url": "https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 227763,
       "name": "Human Nature - Acoustic",
       "url": "https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA"
-      },
-      "artists": [
-        {
-          "name": "The Hound + The Fox",
-          "url": "https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us"
-        }
-      ],
-      "duration_ms": 221712,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "All The Little Lights (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 266626,
-      "name": "Let Her Go - Acoustic",
-      "url": "https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
         "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 225053,
       "name": "Wild World - Acoustic Version",
       "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "All The Little Lights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 266626,
+      "name": "Let Her Go - Acoustic",
+      "url": "https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "I'm the One (Acoustic)",
-        "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
-      },
-      "artists": [
-        {
-          "name": "Sunset & Highland",
-          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
-        }
-      ],
-      "duration_ms": 233488,
-      "name": "I'm the One - Acoustic",
-      "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Acoustic In Nashville - Bootleg No. 2",
         "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 269946,
       "name": "How to Save a Life - Live in Nashville, TN - December 2006",
       "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "I'm the One (Acoustic)",
+        "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
+      },
+      "artists": [
+        {
+          "name": "Sunset & Highland",
+          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
+        }
+      ],
+      "duration_ms": 233488,
+      "name": "I'm the One - Acoustic",
+      "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU"
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC"
       },
       "artists": [
         {
-          "name": "Tore",
-          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
+          "name": "The Freed",
+          "url": "https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8"
         }
       ],
-      "duration_ms": 245780,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F"
+      "duration_ms": 204230,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU"
       },
       "artists": [
         {
-          "name": "The Freed",
-          "url": "https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8"
+          "name": "Tore",
+          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
         }
       ],
-      "duration_ms": 204230,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l"
+      "duration_ms": 245780,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Lot To Learn",
-        "url": "https://open.spotify.com/album/1a3QdHnxI3svymN9NZyyxl"
-      },
-      "artists": [
-        {
-          "name": "Vivid Color",
-          "url": "https://open.spotify.com/artist/4qXCADLD9pMWPUkOBCLQ9H"
-        }
-      ],
-      "duration_ms": 226470,
-      "name": "Lot To Learn",
-      "url": "https://open.spotify.com/track/1AJRWM34yxnAxhF9TEK0Zj"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Send My Love (To Your New Lover) [Live]",
         "url": "https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 225033,
       "name": "Send My Love (To Your New Lover) - Live",
       "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Lot To Learn",
+        "url": "https://open.spotify.com/album/1a3QdHnxI3svymN9NZyyxl"
+      },
+      "artists": [
+        {
+          "name": "Vivid Color",
+          "url": "https://open.spotify.com/artist/4qXCADLD9pMWPUkOBCLQ9H"
+        }
+      ],
+      "duration_ms": 226470,
+      "name": "Lot To Learn",
+      "url": "https://open.spotify.com/track/1AJRWM34yxnAxhF9TEK0Zj"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/7HgbXbnUrEjp4KIAW1Xoxe"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 128669,
-      "name": "What A Wonderful World",
-      "url": "https://open.spotify.com/track/12UdH0FWimJb2mM0CXT2QQ"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 174837,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/7HgbXbnUrEjp4KIAW1Xoxe"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 128669,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/12UdH0FWimJb2mM0CXT2QQ"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/7bwd4cmXcxV1tcv391C1IX"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 201683,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Derivatives",
         "url": "https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 160733,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/7bwd4cmXcxV1tcv391C1IX"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 201683,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA"
-      },
-      "artists": [
-        {
-          "name": "Anna Elizabeth Laube",
-          "url": "https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Kiss From A Rose",
         "url": "https://open.spotify.com/album/6A8hlKALPC8Pg1tyRLsx7z"
       },
@@ -2311,6 +2295,38 @@
       "duration_ms": 271800,
       "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
       "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA"
+      },
+      "artists": [
+        {
+          "name": "Anna Elizabeth Laube",
+          "url": "https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "High and Dry",
+        "url": "https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 249752,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2347,22 +2363,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "High and Dry",
-        "url": "https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 249752,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Chained To The Rhythm",
         "url": "https://open.spotify.com/album/0bpEFgySwiqBSeqoxoujy9"
       },
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "I Can't Make You Love Me / Immigrant Song",
-        "url": "https://open.spotify.com/album/6zYzeVQ573REqkd2sqodBv"
-      },
-      "artists": [
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 291046,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/6ZDGNoguJ64rxp0dfm60y0"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Hello (Adele Cover)",
         "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 230225,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "I Can't Make You Love Me / Immigrant Song",
+        "url": "https://open.spotify.com/album/6zYzeVQ573REqkd2sqodBv"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 291046,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/6ZDGNoguJ64rxp0dfm60y0"
     },
     {
       "added_at": "2022-08-25 19:21:22",

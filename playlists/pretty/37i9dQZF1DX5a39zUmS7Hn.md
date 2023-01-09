@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 
 > New music and timeless tracks from legends only\. Cover: The Specials
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,367 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,636 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 14 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
 | 15 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 |
 | 16 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
-| 17 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
-| 18 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 |
+| 17 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 |
+| 18 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
 | 19 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
 | 20 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
 | 21 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 49 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
 | 50 | [Waste A Moment](https://open.spotify.com/track/5LlsD7LdSMkGV4Iu0a2Zq0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:03 |
 | 51 | [The Shape I'm Takin'](https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Shape I'm Takin'](https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp) | 3:35 |
-| 52 | [Songbird \- 2004 Remaster](https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:20 |
-| 53 | [Live Forever \- Remastered](https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:36 |
+| 52 | [Live Forever \- Remastered](https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:36 |
+| 53 | [Songbird \- 2004 Remaster](https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:20 |
 | 54 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
 | 55 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 |
 | 56 | [Ashes to Ashes \- 2017 Remaster](https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 4:26 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 68 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
 | 69 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
 | 70 | [Beguiled](https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Beguiled](https://open.spotify.com/album/582taizXGzfl1ALsX6Busl) | 3:58 |
-| 71 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
-| 72 | [Babies](https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:04 |
-| 73 | [Angel](https://open.spotify.com/track/0QenQiXnBs7s9fBWGluD17) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Angel](https://open.spotify.com/album/05wdcnTRK6d5tzQxCPTY3c) | 4:23 |
-| 74 | [Bat Out of Hell](https://open.spotify.com/track/3mCeeoBvTTpg8Xy2Wuvirw) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 9:50 |
+| 71 | [Babies](https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:04 |
+| 72 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
+| 73 | [Bat Out of Hell](https://open.spotify.com/track/3mCeeoBvTTpg8Xy2Wuvirw) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 9:50 |
+| 74 | [Angel](https://open.spotify.com/track/0QenQiXnBs7s9fBWGluD17) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Angel](https://open.spotify.com/album/05wdcnTRK6d5tzQxCPTY3c) | 4:23 |
 | 75 | [That's Entertainment](https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 3:32 |
 | 76 | [The Guns of Brixton \- Remastered](https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:12 |
 | 77 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 79 | [Stand By Me \- Remastered](https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:55 |
 | 80 | [Love Spreads](https://open.spotify.com/track/6JvEXmRh3l2acBzvqavgT9) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Second Coming](https://open.spotify.com/album/3DE7aixVSE6DZ6ALYIztT0) | 5:47 |
 
-Snapshot ID: `MTY3Mjg3NDY3NiwwMDAwMDAwMDUwMDMzMmFjZTYwODc1MWRhODZkYzU2MjQ3OGIxMWI0`
+Snapshot ID: `MTY3Mjg3NDY3NiwwMDAwMDAwMGNkNDYxOTE3OTA1MDU5ZDRmYjRhMGYxNjZlZjMwZGMz`

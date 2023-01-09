@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1424026,
+  "num_followers": 1424656,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMDA1MDIwNWNhOTMxMTRkOWY3OGIxNDA1NmUyNmE5Y2Y5",
+  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMGY1NTY0ZGMzNzQ4M2M0YWJiMzRhMGMxOTZhNThkY2Fk",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -779,6 +779,30 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Ready For More",
+        "url": "https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Two Are",
+          "url": "https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD"
+        },
+        {
+          "name": "Alar",
+          "url": "https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a"
+        }
+      ],
+      "duration_ms": 247991,
+      "name": "Ready For More",
+      "url": "https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
       },
@@ -819,30 +843,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Ready For More",
-        "url": "https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm"
-      },
-      "artists": [
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        },
-        {
-          "name": "Two Are",
-          "url": "https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD"
-        },
-        {
-          "name": "Alar",
-          "url": "https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a"
-        }
-      ],
-      "duration_ms": 247991,
-      "name": "Ready For More",
-      "url": "https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "The World You See",
         "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
       },
@@ -863,26 +863,6 @@
       "duration_ms": 217515,
       "name": "The World You See",
       "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Show Me A Sign",
-        "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 223283,
-      "name": "Show Me A Sign (with MKLA)",
-      "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -911,26 +891,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Skyscrapers (Hi-Lo Remix)",
-        "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
+        "name": "Show Me A Sign",
+        "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
       },
       "artists": [
         {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         },
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
         }
       ],
-      "duration_ms": 296368,
-      "name": "Skyscrapers - Hi-Lo Remix",
-      "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
+      "duration_ms": 223283,
+      "name": "Show Me A Sign (with MKLA)",
+      "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -951,6 +927,30 @@
       "duration_ms": 205161,
       "name": "Elements Of A New Life",
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Skyscrapers (Hi-Lo Remix)",
+        "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 296368,
+      "name": "Skyscrapers - Hi-Lo Remix",
+      "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Offshore",
         "url": "https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 199680,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1153,7 +1153,7 @@
       "url": "https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y"
     },
     {
-      "added_at": "2023-01-08 01:02:15",
+      "added_at": "2023-01-09 00:45:47",
       "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
@@ -1175,22 +1175,6 @@
       "duration_ms": 189102,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Fibonacci",
-        "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 188483,
-      "name": "Fibonacci",
-      "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1231,6 +1215,22 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Fibonacci",
+        "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 188483,
+      "name": "Fibonacci",
+      "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Thermal / Oblivion",
-        "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Club Vibes Part 02",
@@ -1367,22 +1351,54 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "LINE IN THE SAND",
-        "url": "https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk"
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
       },
       "artists": [
         {
-          "name": "KILL SCRIPT",
-          "url": "https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
         }
       ],
-      "duration_ms": 305078,
-      "name": "LINE IN THE SAND",
-      "url": "https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO"
+      "duration_ms": 311280,
+      "name": "False Reactions",
+      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Thermal / Oblivion",
+        "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Should Have Seen It Coming",
+        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "AETHO",
+          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
+        }
+      ],
+      "duration_ms": 238072,
+      "name": "Should Have Seen It Coming",
+      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1407,38 +1423,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+        "name": "LINE IN THE SAND",
+        "url": "https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk"
       },
       "artists": [
         {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "False Reactions",
-      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Should Have Seen It Coming",
-        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+          "name": "KILL SCRIPT",
+          "url": "https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH"
         },
         {
-          "name": "AETHO",
-          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
         }
       ],
-      "duration_ms": 238072,
-      "name": "Should Have Seen It Coming",
-      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
+      "duration_ms": 305078,
+      "name": "LINE IN THE SAND",
+      "url": "https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Feel Again, Pt. 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Feel Again",
-      "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Close My Eyes",
         "url": "https://open.spotify.com/album/3NPt95B03k5zZptWmquiJu"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 222580,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/2eQfD774357Ymh9NzCl5T2"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1833,6 +1833,22 @@
       "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 231739,
+      "name": "Playing Chess",
+      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
+    },
+    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Follow You Anywhere",
@@ -1851,22 +1867,6 @@
       "duration_ms": 244982,
       "name": "Follow You Anywhere",
       "url": "https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 231739,
-      "name": "Playing Chess",
-      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
     },
     {
       "added_at": "2022-07-01 11:37:35",

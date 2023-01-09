@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,874 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,870 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 50 | [Latest Trends](https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Latest Trends](https://open.spotify.com/album/0vkahJN8SNXT05PgGc46nu) | 2:38 |
 | 51 | [Attentat](https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:14 |
 | 52 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 |
-| 53 | [∞ LOVE \(feat\. Guè\)](https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:38 |
-| 54 | [Masterpiece](https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Masterpiece](https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby) | 3:01 |
+| 53 | [Masterpiece](https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Masterpiece](https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby) | 3:01 |
+| 54 | [∞ LOVE \(feat\. Guè\)](https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:38 |
 | 55 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 |
 | 56 | [Tyler Herro](https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tyler Herro](https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe) | 2:36 |
 | 57 | [Coco \(feat\. DaBaby\)](https://open.spotify.com/track/6MGRweoLPBAaPcXTMpMWsA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 79 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
 | 80 | [Non è Easy](https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Non è Easy](https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP) | 2:44 |
 
-Snapshot ID: `MTY2ODAwNTYyNywwMDAwMDAwMDhkYjAxYjU0NWM3YWZkMzA4Mzc2MGNhYjlhZjlhZTUx`
+Snapshot ID: `MTY2ODAwNTYyNywwMDAwMDAwMDE5MTJkYTI5YTQxYjZkN2Q5MmM2ZmZlYzBhMGI2MWFh`

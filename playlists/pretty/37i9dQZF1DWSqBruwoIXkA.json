@@ -1,12 +1,12 @@
 {
   "description": "Somehow heartbreak feels good in a place like this. Cover: Taylor Swift",
-  "num_followers": 1351971,
+  "num_followers": 1354238,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGI1ODVhMjIyYWZlMTlkODNlOGY5ZGU4MzNmMjRkNDkw",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGI2NDhlOTBjZmFmYTYwMDAzMDY4YzBiN2E2ZGVhMWE1",
   "tracks": [
     {
       "added_at": "2023-01-04 16:45:50",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
+        "name": "I'll Be Waiting",
+        "url": "https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 172547,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
         "name": "you broke me first",
         "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "I'll Be Waiting",
-        "url": "https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR"
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 172547,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
+      "duration_ms": 198370,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "THE END OF EVERYTHING",
-        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "July",
-      "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 203384,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "THE END OF EVERYTHING",
+        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
+        "name": "Moral of the Story",
+        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 201083,
+      "name": "Moral of the Story",
+      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "Moral of the Story",
-        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201083,
-      "name": "Moral of the Story",
-      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "you'd never know",
-        "url": "https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 185321,
-      "name": "you'd never know",
-      "url": "https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "Keep Your Head Up Princess",
         "url": "https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 225680,
       "name": "A Little Bit Yours",
       "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "you'd never know",
+        "url": "https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 185321,
+      "name": "you'd never know",
+      "url": "https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 211837,
       "name": "Best Days",
       "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -2159,18 +2159,18 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "Venting to Strangers",
-        "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
+        "name": "i wish u knew",
+        "url": "https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll"
       },
       "artists": [
         {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
         }
       ],
-      "duration_ms": 152437,
-      "name": "Venting to Strangers",
-      "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
+      "duration_ms": 193429,
+      "name": "i wish u knew",
+      "url": "https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -2195,18 +2195,18 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "i wish u knew",
-        "url": "https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll"
+        "name": "Venting to Strangers",
+        "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
       },
       "artists": [
         {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
         }
       ],
-      "duration_ms": 193429,
-      "name": "i wish u knew",
-      "url": "https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH"
+      "duration_ms": 152437,
+      "name": "Venting to Strangers",
+      "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6"
-      },
-      "artists": [
-        {
-          "name": "JESSIA",
-          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
-        }
-      ],
-      "duration_ms": 197867,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "almost happy",
         "url": "https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 137897,
       "name": "almost happy",
       "url": "https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "duration_ms": 197867,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "Always Love",
-        "url": "https://open.spotify.com/album/6jvytXvGQ8DWZYXcL1rYba"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Always Love",
-      "url": "https://open.spotify.com/track/02TtDZcUvEJGFJSJ6fTMfn"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "georgia got colder",
         "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 195400,
       "name": "broken",
       "url": "https://open.spotify.com/track/44siIYlT1dMRQysOVjEvdF"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "Always Love",
+        "url": "https://open.spotify.com/album/6jvytXvGQ8DWZYXcL1rYba"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Always Love",
+      "url": "https://open.spotify.com/track/02TtDZcUvEJGFJSJ6fTMfn"
     },
     {
       "added_at": "2023-01-04 16:45:50",

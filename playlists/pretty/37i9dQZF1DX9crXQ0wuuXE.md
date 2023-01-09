@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: The Lumineers
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,956 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,185 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 65 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
 | 66 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 67 | [Wildfire](https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 5:29 |
-| 68 | [I Was Born To Love You](https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 4:11 |
-| 69 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
+| 68 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
+| 69 | [I Was Born To Love You](https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 4:11 |
 | 70 | [All Is Well](https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [You and Me for Now](https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4) | 4:16 |
-| 71 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
-| 72 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
+| 71 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
+| 72 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
 | 73 | [Bright Star](https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6) | 3:10 |
-| 74 | [Love is All](https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco) | 4:15 |
+| 74 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
 | 75 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
-| 76 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
+| 76 | [Love is All](https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco) | 4:15 |
 | 77 | [Colder Heavens](https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens EP](https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ) | 4:33 |
 | 78 | [When U Love Somebody](https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Mouthfuls](https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2) | 4:31 |
 | 79 | [The Weary Kind](https://open.spotify.com/track/5uqQQtXsY2HJLbPVPwcz6C) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Junky Star](https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x) | 4:18 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 91 | [Wait so Long](https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Palomino](https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62) | 3:26 |
 | 92 | [White Blank Page](https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:14 |
 | 93 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 |
-| 94 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 |
-| 95 | [Shake](https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:01 |
+| 94 | [Shake](https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:01 |
+| 95 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 |
 | 96 | [House of Stone](https://open.spotify.com/track/1wTEU95kyZFCj5d6cUIysf) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side of Jordan](https://open.spotify.com/album/6rYA2Dt9kUfW5HJR1ayNnZ) | 3:16 |
 | 97 | [Letter to Madeline](https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 4:29 |
 | 98 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 99 | [Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [The Recordings of the Middle East](https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ) | 5:26 |
 | 100 | [Chinese Translation](https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv) | 3:58 |
 
-Snapshot ID: `MTY0NzA0MjE5MCwwMDAwMDAwMDBmZGE5NDE4MDY2ZDU0MmU3ZGFkZjI5ZWY0NmUxZTEz`
+Snapshot ID: `MTY0NzA0MjE5MCwwMDAwMDAwMDIzNWQ4NjZiNjQ3OTZiMTZkZTg3OWU2OTBmMDBjZGJk`

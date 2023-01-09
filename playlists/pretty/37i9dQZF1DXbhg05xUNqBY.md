@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,282 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,564 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 23 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 |
 | 24 | [Christ The Lord Is with Me \(with Amanda Lindsey Cook & Wonder Grace Gretzinger\)](https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Wonder Grace Gretzinger](https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:26 |
 | 25 | [LEAVE ME \(feat\. J Moss\)](https://open.spotify.com/track/7riV735cTp56roHAg7fN1v) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [TWO UP TWO DOWN](https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ) | 3:30 |
-| 26 | [Goodness of God \- Acoustic](https://open.spotify.com/track/3xKktg3qTh1ovCnLqQc7us) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Goodness of God \(Acoustic\)](https://open.spotify.com/album/4Z3vUTENWAm8P8TNnD9vyZ) | 4:03 |
-| 27 | [Peace \- Acoustic](https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 5:07 |
+| 26 | [Peace \- Acoustic](https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 5:07 |
+| 27 | [Goodness of God \- Acoustic](https://open.spotify.com/track/3xKktg3qTh1ovCnLqQc7us) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Goodness of God \(Acoustic\)](https://open.spotify.com/album/4Z3vUTENWAm8P8TNnD9vyZ) | 4:03 |
 | 28 | [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 |
 | 29 | [When I Say Amen](https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh) | [Rachel Wammack](https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR) | [When I Say Amen](https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ) | 3:28 |
 | 30 | [The Gospel is Rest](https://open.spotify.com/track/4s6Dhz3qSe4ziHCVQ0UvtA) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [The Gospel is Rest](https://open.spotify.com/album/1RhdDdWVI5VF1vFuAbqs2Q) | 4:40 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 55 | [Belovedness](https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Belovedness](https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m) | 3:42 |
 | 56 | [Ever Closer](https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ever Closer](https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc) | 3:52 |
 | 57 | [Graves Into Gardens \- Acoustic](https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Graves Into Gardens \(Acoustic\)](https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF) | 4:38 |
-| 58 | [Providence](https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Providence](https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN) | 6:18 |
-| 59 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
+| 58 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
+| 59 | [Providence](https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Providence](https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN) | 6:18 |
 | 60 | [If I Had Stayed](https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J) | 2:11 |
 | 61 | [No Hopeless Soul \- Unplugged](https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [No Hopeless Soul](https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk) | 3:13 |
 | 62 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 69 | [Whisper \(Acoustic\)](https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY) | [Stillman](https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH) | [Whisper \(Acoustic Sessions\)](https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT) | 4:27 |
 | 70 | [Show Me What It Means](https://open.spotify.com/track/7rA6eHljnanyoQ5QyHWQrv) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Show Me What It Means](https://open.spotify.com/album/0WJ9VhlvVj1U0QADkAz02d) | 4:30 |
 
-Snapshot ID: `MTYzNTY0NDEyNiwwMDAwMDAwMGUxMTBlZDJjMmUyYzgxZGMyYTUwMTMzMzc2OGIyNGVi`
+Snapshot ID: `MTYzNTY0NDEyNiwwMDAwMDAwMDU2MTExZDdiMDYwYmJlNWFjMDY3NDU2YWJjOWM1YWUy`

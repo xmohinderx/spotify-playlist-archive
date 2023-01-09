@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,662 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,655 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 45 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/4oA28gyvU6PMCH9nAGP2z1) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Christmas with Mahalia](https://open.spotify.com/album/0MXMxhg7CR3TMsvlnwWJT0) | 3:24 |
 | 46 | [Love's Holiday](https://open.spotify.com/track/1CLKbZfiNy5LoSOsJtOE4c) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Men Of Standard](https://open.spotify.com/artist/1DXIt1yDO207SmcSFAVEeS), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn) | [Hello Christmas](https://open.spotify.com/album/3UjtKsPzVAjSrI4R3jr1Ly) | 5:21 |
 | 47 | [Deck The Halls](https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [A Soulful Holiday](https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT) | 4:08 |
-| 48 | [I’ll Be Home For Christmas](https://open.spotify.com/track/2pcA8F0cSYeMhXCHqBxBoX) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Matt Jones Orchestra](https://open.spotify.com/artist/2lwFaWIs8Nd2COGdxMYeVf) | [A J Holiday](https://open.spotify.com/album/7nYI4O4KW5oXYITzggtu6M) | 3:08 |
-| 49 | [Noel](https://open.spotify.com/track/1vcmDhNzB2BnmciwE6H6f7) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Christmas Best](https://open.spotify.com/album/058tFyVjMZg2AvSfuRpaDR) | 2:40 |
-| 50 | [Follow That Star](https://open.spotify.com/track/6GlITLVkUAH2XsVNuUWeLj) | [Renwick Duesbury](https://open.spotify.com/artist/7GyRgZVKAKXs8RZKz4Omn4) | [Follow That Star](https://open.spotify.com/album/4H2iB9EQCZD4Zl031kB8ML) | 2:37 |
-| 51 | [O Holy Night \(feat\. P\-Tempo\) \- Amapiano](https://open.spotify.com/track/5aGam7phUVA2qOXIdUpG9W) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [O Holy Night](https://open.spotify.com/album/0WNoCFIT8mVFyFuhe1iEaL) | 6:09 |
+| 48 | [Noel](https://open.spotify.com/track/1vcmDhNzB2BnmciwE6H6f7) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Christmas Best](https://open.spotify.com/album/058tFyVjMZg2AvSfuRpaDR) | 2:40 |
+| 49 | [I’ll Be Home For Christmas](https://open.spotify.com/track/2pcA8F0cSYeMhXCHqBxBoX) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Matt Jones Orchestra](https://open.spotify.com/artist/2lwFaWIs8Nd2COGdxMYeVf) | [A J Holiday](https://open.spotify.com/album/7nYI4O4KW5oXYITzggtu6M) | 3:08 |
+| 50 | [O Holy Night \(feat\. P\-Tempo\) \- Amapiano](https://open.spotify.com/track/5aGam7phUVA2qOXIdUpG9W) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [O Holy Night](https://open.spotify.com/album/0WNoCFIT8mVFyFuhe1iEaL) | 6:09 |
+| 51 | [Follow That Star](https://open.spotify.com/track/6GlITLVkUAH2XsVNuUWeLj) | [Renwick Duesbury](https://open.spotify.com/artist/7GyRgZVKAKXs8RZKz4Omn4) | [Follow That Star](https://open.spotify.com/album/4H2iB9EQCZD4Zl031kB8ML) | 2:37 |
 | 52 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/4DEyCl5t6wuxLZnUBQss8N) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 4:24 |
 | 53 | [Agnus Dei](https://open.spotify.com/track/5ebTabNcIlDSVJ4uylOcX3) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Psalms, Hymns & Spiritual Songs](https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On) | 3:39 |
 | 54 | [Sweet Little Jesus Boy](https://open.spotify.com/track/7lOXKKbn55lAJuTQIRopL1) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [He Is Christmas](https://open.spotify.com/album/7vW35sxN7K0ZxTscxFpCDR) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 99 | [Christmas Is](https://open.spotify.com/track/27Eci1q6LObKgx6wL0u0tM) | [Babbie Mason](https://open.spotify.com/artist/50D6dchvbbHfDJJrPc31Lw) | [Comfort and Joy](https://open.spotify.com/album/0awWnYlgaVcJ9KWQdYcis1) | 3:50 |
 | 100 | [The First Noel](https://open.spotify.com/track/3j4soLmqnjVevHHTUpnbJT) | [Virtue](https://open.spotify.com/artist/3YXPy18rDwhGJdBjnpYGpa) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:24 |
 
-Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMGJmYjAxOWFhOGVmZmVlODNiYmIzNmQwMTM1NjgyYjFl`
+Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMDNkZDg3NmE1NWE2MTBkNmJkNGU4YzkzMjc1YmVjMzE1`

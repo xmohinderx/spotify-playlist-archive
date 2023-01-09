@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,672 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,751 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,21 +55,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 45 | [Amenábar](https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:11 |
 | 46 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
 | 47 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
-| 48 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 |
-| 49 | [Suéltate](https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD) | [Daniel Craft](https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb) | [Dimittas](https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ) | 2:47 |
+| 48 | [Suéltate](https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD) | [Daniel Craft](https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb) | [Dimittas](https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ) | 2:47 |
+| 49 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 |
 | 50 | [Nadie Nos Entiende](https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2) | 3:37 |
 | 51 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
 | 52 | [Diez Pasos Hacia Ti \- En Vivo](https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Vivo Desde Tu Nostalgia](https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed) | 3:44 |
-| 53 | [Corazón Usado](https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Isabel Aladro](https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607) | [Corazón Usado](https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz) | 3:52 |
-| 54 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
+| 53 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
+| 54 | [Corazón Usado](https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Isabel Aladro](https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607) | [Corazón Usado](https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz) | 3:52 |
 | 55 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 |
-| 56 | [Lagrimón](https://open.spotify.com/track/2jXkchCKJP645dRwqohTLz) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre](https://open.spotify.com/album/15yeAN5L3PVuz0LkvOrwmL) | 3:43 |
-| 57 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 |
+| 56 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 |
+| 57 | [Lagrimón](https://open.spotify.com/track/2jXkchCKJP645dRwqohTLz) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre](https://open.spotify.com/album/15yeAN5L3PVuz0LkvOrwmL) | 3:43 |
 | 58 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
 | 59 | [NTDDP](https://open.spotify.com/track/2qcwhO9GA5CgOtgtvWW0Wa) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [NTDDP](https://open.spotify.com/album/0VO1hYeausUaErYssR77vQ) | 2:56 |
 | 60 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
-| 61 | [Una Canción Para Los Dos](https://open.spotify.com/track/7qr0qTJuOw83eg3CXQP2Xi) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Una Canción Para Los Dos](https://open.spotify.com/album/3m9KP8yiPs0em8Jndtn2i1) | 2:33 |
-| 62 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
+| 61 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
+| 62 | [Una Canción Para Los Dos](https://open.spotify.com/track/7qr0qTJuOw83eg3CXQP2Xi) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Una Canción Para Los Dos](https://open.spotify.com/album/3m9KP8yiPs0em8Jndtn2i1) | 2:33 |
 | 63 | [El Mejor Lugar](https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [El Mejor Lugar](https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme) | 2:55 |
 | 64 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
 | 65 | [Para la Eternidad](https://open.spotify.com/track/7irtPPH6Jdb4n8dh2DRCFy) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [45 RPM](https://open.spotify.com/album/7A8QtKKDMM2Rs91Sq5fcfr) | 4:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 74 | [La Luna](https://open.spotify.com/track/2V0S6dvMHkjtif1rOQqtzA) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [La Luna](https://open.spotify.com/album/306wF31Hp5LNVkxfhDLOiV) | 3:10 |
 | 75 | [Miedo](https://open.spotify.com/track/5GJl5QdhQ7ZrYuTamGnPBj) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Miedo](https://open.spotify.com/album/7GnOZrSoKrxbEiTvYG0ri8) | 3:20 |
 
-Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMDZhYWZmNDY1ZjUwOGM5ODUyYmI0YzI2OGMzZTQ5NTk4`
+Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMGZhZDFjMTdjMDMxZmQwZjM4Njk4YWU2MzgxMTM3ZjI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,107,214 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,108,331 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 25 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 |
 | 26 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 |
 | 27 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 |
-| 28 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 |
-| 29 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 |
+| 28 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 |
+| 29 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 |
 | 30 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 |
 | 31 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
 | 32 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 49 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 |
 | 50 | [On Me](https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [On Me](https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO) | 2:15 |
 
-Snapshot ID: `MTY2ODQzNzI2NSwwMDAwMDAwMGIwZmJhOGI1M2RmMDRhNzRlOGNmMjg5YzFmMjFmZjAy`
+Snapshot ID: `MTY2ODQzNzI2NSwwMDAwMDAwMGJhNmFhMTBhMTJiZWM0NzY4YTM5ZjI2NzQ1NDVkNWE0`

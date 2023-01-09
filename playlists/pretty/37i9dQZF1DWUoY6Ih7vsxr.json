@@ -1,12 +1,12 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 176355,
+  "num_followers": 176601,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDM1MzI3NywwMDAwMDAwMDQ5MDk4OTEyY2Q3NDI5YmQ0NWNlOTdlMzNjOWEyM2Jl",
+  "snapshot_id": "MTY1MDM1MzI3NywwMDAwMDAwMDdlNTdhNGZjM2Y0YWRjYjAyZmI1NzU2ZmYzYjUxOTAw",
   "tracks": [
     {
       "added_at": "2022-04-19 07:27:57",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "MIROTIC - The 4th Album",
-        "url": "https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln"
-      },
-      "artists": [
-        {
-          "name": "TVXQ!",
-          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "MIROTIC",
-      "url": "https://open.spotify.com/track/4BZhUnXvXYRQJPClr0hhIC"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
         "name": "So Hot",
         "url": "https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 217120,
       "name": "Tell Me - Rap Version",
       "url": "https://open.spotify.com/track/0j4amgyatouEP4Ox3qDrYk"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
+        "name": "MIROTIC - The 4th Album",
+        "url": "https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln"
+      },
+      "artists": [
+        {
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "MIROTIC",
+      "url": "https://open.spotify.com/track/4BZhUnXvXYRQJPClr0hhIC"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "KARA 1st",
-        "url": "https://open.spotify.com/album/0JbzuxsVq0fLuuHy841PMZ"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Rock U",
-      "url": "https://open.spotify.com/track/3Ul9cvsm5KTGNvO5SAYH97"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
         "name": "New Challenge",
         "url": "https://open.spotify.com/album/7to9h7fVE0VSyks3yz8kUA"
       },
@@ -1071,18 +1055,34 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/0ODnOMPVDNZki1DMnh6hwh"
+        "name": "KARA 1st",
+        "url": "https://open.spotify.com/album/0JbzuxsVq0fLuuHy841PMZ"
       },
       "artists": [
         {
-          "name": "After School",
-          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
         }
       ],
-      "duration_ms": 198243,
-      "name": "DIVA",
-      "url": "https://open.spotify.com/track/7AAyzxwoFaL55IJMJVn2Oh"
+      "duration_ms": 211360,
+      "name": "Rock U",
+      "url": "https://open.spotify.com/track/3Ul9cvsm5KTGNvO5SAYH97"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
+        "name": "Hello - SHINee The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/3IC82yhFJAPw2jbSfMBzBy"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 233986,
+      "name": "LUCIFER",
+      "url": "https://open.spotify.com/track/48239f9arCavZ0KjdEk3Zd"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "Hello - SHINee The 2nd Album Repackage",
-        "url": "https://open.spotify.com/album/3IC82yhFJAPw2jbSfMBzBy"
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/0ODnOMPVDNZki1DMnh6hwh"
       },
       "artists": [
         {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+          "name": "After School",
+          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
         }
       ],
-      "duration_ms": 233986,
-      "name": "LUCIFER",
-      "url": "https://open.spotify.com/track/48239f9arCavZ0KjdEk3Zd"
+      "duration_ms": 198243,
+      "name": "DIVA",
+      "url": "https://open.spotify.com/track/7AAyzxwoFaL55IJMJVn2Oh"
     },
     {
       "added_at": "2022-04-19 07:27:57",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 
 > Nighttime is the right time for these party hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,993 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,019 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 |
+| 1 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
 | 2 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 |
-| 3 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
+| 3 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 |
 | 4 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
 | 5 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
 | 6 | [hole in the bottle](https://open.spotify.com/track/2yySWxfeRN2QRZnFMnYMQl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:35 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 30 | [1, 2 Many](https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:00 |
 | 31 | [Heartache On The Dance Floor](https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:25 |
 | 32 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
-| 33 | [Tequila](https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:16 |
-| 34 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
+| 33 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
+| 34 | [Tequila](https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:16 |
 | 35 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
 | 36 | [Crazy Girl](https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:20 |
 | 37 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 99 | [Long Hot Summer](https://open.spotify.com/track/3PY88239tYBnAv5LQoU2oY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 4:33 |
 | 100 | [I Was On a Boat That Day](https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 2:58 |
 
-Snapshot ID: `MTY2MjQ4MDg2MCwwMDAwMDAwMGVkZGVjNTE4M2MwMjA4NjIzYmY1YThiZDczNzVhYzli`
+Snapshot ID: `MTY2MjQ4MDg2MCwwMDAwMDAwMGYzZGNjNzJmODhhYTkxNGZjNDUzYzA4M2FkOTBiMGM0`

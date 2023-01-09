@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,895 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,362 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 13 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 |
 | 14 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 |
 | 15 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
-| 16 | [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 |
-| 17 | [Lazuli](https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 5:01 |
+| 16 | [Lazuli](https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 5:01 |
+| 17 | [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 |
 | 18 | [For Love](https://open.spotify.com/track/3KiKpbpJp9QKuTZb9ocfJi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 3:29 |
 | 19 | [Kick The Tragedy](https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Delaware](https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp) | 8:55 |
 | 20 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 49 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
 | 50 | [Nearer Than Heaven](https://open.spotify.com/track/1jVlXUiM48CQaQup6899a8) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:28 |
 
-Snapshot ID: `MTY2MDAwNDkyMiwwMDAwMDAwMDJhZTAwODEyNzE3MTIyZTgzNjEyNTE3YTE4ZmNmYjdi`
+Snapshot ID: `MTY2MDAwNDkyMiwwMDAwMDAwMDAyYWNiOWUyOTM2NmNmODIxMzk0MDZlN2MwMjBhY2Zk`

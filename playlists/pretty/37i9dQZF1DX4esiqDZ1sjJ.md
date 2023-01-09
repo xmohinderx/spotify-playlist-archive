@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 
 > Release your inner jock with these badass jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,507 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,757 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 27 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
 | 28 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 |
 | 29 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
-| 30 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
-| 31 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 |
+| 30 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 |
+| 31 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
 | 32 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
 | 33 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:34 |
 | 34 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 50 | [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 |
 | 51 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 |
 | 52 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
-| 53 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
-| 54 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
+| 53 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
+| 54 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
 | 55 | [Get Low](https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Kings Of Crunk](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) | 5:34 |
 | 56 | [Insane in the Brain](https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 3:28 |
 | 57 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 65 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition Of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 |
 | 66 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 67 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 |
-| 68 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 |
-| 69 | [Headstrong](https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Trapt](https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk) | 4:45 |
+| 68 | [Headstrong](https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Trapt](https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk) | 4:45 |
+| 69 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 |
 | 70 | [Fast Lane](https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Hell: The Sequel \(Deluxe\)](https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P) | 4:09 |
 | 71 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
 | 72 | [Jumpman](https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:25 |
 | 73 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 |
-| 74 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 |
-| 75 | [Right Thurr](https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:10 |
+| 74 | [Right Thurr](https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:10 |
+| 75 | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/12PNcnMsjsZ3eHm62t8hiy) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Victory](https://open.spotify.com/album/1yX1ZzW6TBvQ1qeNpbiONH) | 3:52 |
 
-Snapshot ID: `MTY3MDAzODczMiwwMDAwMDAwMGViZTBkYzc4MmUwYmMxZDIzY2NhMjE2MzNmMzM4ZGQx`
+Snapshot ID: `MTY3MDAzODczMiwwMDAwMDAwMGJkOTM3YWM3NmI4MGFjZGJhNzczZjBhY2FlZDc4MGE3`

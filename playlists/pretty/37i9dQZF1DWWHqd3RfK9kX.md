@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 
 > Il sound giusto per creare in cucina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,576 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,590 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 7 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
 | 8 | [Já Sei Namorar \- 2004 Digital Remaster](https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 3:16 |
 | 9 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:05 |
-| 10 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 |
-| 11 | [\(What A\) Wonderful World](https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:09 |
+| 10 | [\(What A\) Wonderful World](https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:09 |
+| 11 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 |
 | 12 | [Bossa For Sol](https://open.spotify.com/track/5i8wZCyQ2DQT7RiUUVeHfF) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Traveler](https://open.spotify.com/album/5sI1NOyb5qvkUHaZTxYDYo) | 2:46 |
 | 13 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 |
 | 14 | [Mais Que Nada](https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Foursider](https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0) | 2:39 |
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 52 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 |
 | 53 | [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 |
 | 54 | [You Can Get It If You Really Want](https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK) | 2:42 |
-| 55 | [Saudade Vem Correndo](https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:39 |
-| 56 | [Amor em Jacumã](https://open.spotify.com/track/0LbDTSA6QB9nA3Wjtkbx9N) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/78k0Tn5KyFMcPdTIAHqKh8) | 3:34 |
+| 55 | [Amor em Jacumã](https://open.spotify.com/track/0LbDTSA6QB9nA3Wjtkbx9N) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/78k0Tn5KyFMcPdTIAHqKh8) | 3:34 |
+| 56 | [Saudade Vem Correndo](https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:39 |
 | 57 | [A Rã](https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Blue Note Trip 7: Birds / Beats](https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF) | 2:15 |
 | 58 | [Lonely Teardrops](https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Lonely Teardrops](https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT) | 2:46 |
-| 59 | [Beggin' \- 2007 Remaster](https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Jersey Beat: The Music Of Frankie Valli and The Four Seasons](https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg) | 2:48 |
-| 60 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 |
-| 61 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 |
+| 59 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 |
+| 60 | [Beggin' \- 2007 Remaster](https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Jersey Beat: The Music Of Frankie Valli and The Four Seasons](https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg) | 2:48 |
+| 61 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 |
 | 62 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 |
 | 63 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
 | 64 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 79 | [Vem Menina](https://open.spotify.com/track/61iZqGREvoZdAKs6vcancM) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/4NQdOnSf8y9kapTUZJsxYq) | 4:19 |
 | 80 | [Smells Like Teen Spirit](https://open.spotify.com/track/6RHy322Av13zA6TDy1luMu) | [Setenta](https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg) | [Latin Piece of Soul](https://open.spotify.com/album/4MyYzH7E0gpryzun66ebxl) | 3:06 |
 
-Snapshot ID: `MTYwNTAzNDA0MiwwMDAwMDAwMDAyNzhiNDNhZmFhODk1NDExNmIyZmRiZjM5YzBhMDU1`
+Snapshot ID: `MTYwNTAzNDA0MiwwMDAwMDAwMDhiNDM3YTg5ZTE2ZGQ2YTI2ZGFhZGIyODgyODk2ZWI0`

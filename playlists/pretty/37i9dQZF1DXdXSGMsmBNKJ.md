@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXSGMsmBNKJ.md) - [plain]
 
 > Listen to the soundtracks of JTBC's drama The Interest of Love\. \(JTBC 드라마 사랑의 이해의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,333 likes - 9 songs - 30 min 41 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,750 likes - 9 songs - 30 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

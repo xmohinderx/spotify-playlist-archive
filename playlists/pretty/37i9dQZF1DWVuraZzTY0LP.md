@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,745 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,899 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 22 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 |
 | 23 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 |
 | 24 | [Cosmic Girl \- Remastered](https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:04 |
-| 25 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 |
-| 26 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 |
+| 25 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 |
+| 26 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 |
 | 27 | [Deja Vu](https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:24 |
 | 28 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 |
 | 29 | [Everybody's Changing](https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:35 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 50 | [Hey!](https://open.spotify.com/track/4f3M1o9elhV6gma79EoVRp) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Jaibol](https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM) | 4:17 |
 | 51 | [Sin Señal](https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:39 |
 | 52 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 |
-| 53 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 |
-| 54 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
-| 55 | [Dying Breed](https://open.spotify.com/track/0SieiDcGvj8cZ0K4hcT3Zd) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 4:06 |
-| 56 | [Bonnie Hill](https://open.spotify.com/track/4R77PNllrdwsvTRTx66BQn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 3:11 |
+| 53 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
+| 54 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 |
+| 55 | [Bonnie Hill](https://open.spotify.com/track/4R77PNllrdwsvTRTx66BQn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 3:11 |
+| 56 | [Dying Breed](https://open.spotify.com/track/0SieiDcGvj8cZ0K4hcT3Zd) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 4:06 |
 | 57 | [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 |
 | 58 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
 | 59 | [SKR](https://open.spotify.com/track/4UShyGW0d8C8j8npDZ8img) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [SKR](https://open.spotify.com/album/5lat79fNUWI7gyQlx6yFka) | 5:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 69 | [Blowback](https://open.spotify.com/track/7aZ1Grktl7RBHLwxem7DE7) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 3:59 |
 | 70 | [Truth](https://open.spotify.com/track/5bJmbfuFolaCYncb9jt8Ea) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 2:51 |
 
-Snapshot ID: `MTY3MDYyMDQ5OCwwMDAwMDAwMGZlZjcyZjRiYTQyNzcyODMzZmY2NzMwMzU4ZjNjMTc1`
+Snapshot ID: `MTY3MDYyMDQ5OCwwMDAwMDAwMDQzNWMxYTZhMjkyMzRiZjYzMGY2MDY3MjQ4ZWRhMjZk`

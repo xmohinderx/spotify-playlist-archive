@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-176 songs - 14 hr 14 min
+178 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Fugative of a Narrative](https://open.spotify.com/track/321eSRbte3iwQNRQUzUTep) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Jonas Colstrup](https://open.spotify.com/artist/5ZRR9BnCZ89uKNgkvnwCJ2) | [The Shadow Play \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pq4x7PVkJSbfxnOiiawgD) | 1:35 | 2022-03-30 | 2022-06-20 |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2022-03-17 | 2023-01-07 |
 | [Grat](https://open.spotify.com/track/3C7ln1fvOInfVLWe1uOWso) | [Daniel O'Rhys](https://open.spotify.com/artist/4eb20k06iiAcR95q6sp8RD) | [The Winterstein Suite](https://open.spotify.com/album/6npZLJ2zQD5TnSRRdimKFN) | 4:39 | 2022-03-17 | 2022-07-27 |
-| [hajimari](https://open.spotify.com/track/5WkGXpwLvGVXj9atfU9yli) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [5:00 a.m.](https://open.spotify.com/album/4wFBDp13YkDNFbUwluDWZ4) | 3:08 | 2023-01-06 |  |
+| [hajimari](https://open.spotify.com/track/5WkGXpwLvGVXj9atfU9yli) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [5:00 a.m.](https://open.spotify.com/album/4wFBDp13YkDNFbUwluDWZ4) | 3:08 | 2023-01-06 | 2023-01-09 |
 | [Haze](https://open.spotify.com/track/6UJ0KvITqhY27liXdg9lrh) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [Haze](https://open.spotify.com/album/5WM84Dwbzex3zgFjqjR9Iu) | 2:08 | 2022-08-19 |  |
 | [I Hold Dearly \(For Miles\)](https://open.spotify.com/track/215BxshjyTy3SRuaeb4KBE) | [Fuubutsushi](https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj) | [Natsukashii](https://open.spotify.com/album/10gqYl87tFtJOpp3wkJfEc) | 5:17 | 2022-03-17 | 2023-01-07 |
 | [I Know We Promised](https://open.spotify.com/track/5KUYsVRILcXhs2C5mwe8O5) | [ANQUETIL](https://open.spotify.com/artist/3yfN35BfrYCb1nRojr9k2O) | [I Know We Promised](https://open.spotify.com/album/1utZ4FvOpJto27aOpa7EBo) | 3:02 | 2022-03-17 | 2022-07-29 |
@@ -80,8 +80,10 @@
 | [Iniss](https://open.spotify.com/track/6iKmkAjS7frYZsAgTZA7tw) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Drifting](https://open.spotify.com/album/0TR3j5R8ecFuefaB6xgAi4) | 7:20 | 2022-05-18 | 2022-07-22 |
 | [Intorno allo schermo](https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Fermarsi](https://open.spotify.com/album/0NH403g4GLkOnVeLf3yorf) | 20:54 | 2022-03-17 |  |
 | [Iris \- Single Version](https://open.spotify.com/track/0soNRvT5MhKnVGkwyDCqZ8) | [Billow Observatory](https://open.spotify.com/artist/2LylAbvBw2df3S9oO62du5) | [Iris](https://open.spotify.com/album/3UHUdqGQmAZR88r3FqeWRs) | 3:50 | 2022-09-20 |  |
+| [Kin](https://open.spotify.com/track/4bZrS7VPjRUU2yNEQH7d7Z) | [Twinsleep](https://open.spotify.com/artist/2aazoAGOaOkD1grRMVYVBh), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt), [Maxy Dutcher](https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf) | [Kin](https://open.spotify.com/album/6E8E0zZwCssyoFKMaA84Hn) | 5:25 | 2023-01-06 |  |
 | [Klass \- Robot Koch Rework](https://open.spotify.com/track/6QcorNxAJIo0IXFVI0JMg1) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Klass \(Robot Koch Rework\)](https://open.spotify.com/album/5NGRqqdsVWcFGZq4GqWytD) | 6:08 | 2022-03-17 |  |
 | [Knowledge](https://open.spotify.com/track/2LEqtjDn1k4ZI7xwgheNI7) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Sphere](https://open.spotify.com/album/7LqeayMSLKMDHFkGkk5TTM) | 4:54 | 2022-05-18 |  |
+| [Kuware Uta \- Intro](https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:09 | 2023-01-06 |  |
 | [La tristeza de una ciudad](https://open.spotify.com/track/5RhexhsWN9cboUH9Qo1EuK) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Honne \(本 音\)](https://open.spotify.com/album/3UAS7VNUKdxLx6GB1Gabpw) | 4:15 | 2022-03-17 | 2022-07-29 |
 | [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-03-17 |  |
 | [Last Letter Home](https://open.spotify.com/track/1ycAQSRVLp3I0lnSmpAUDH) | [Bahrambient](https://open.spotify.com/artist/15y9zAEE8UaiSmdmbG6gja), [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj) | [Last Letter Home](https://open.spotify.com/album/0AMC9ASZwuoeH7CHc3XpAl) | 3:44 | 2022-11-11 |  |
@@ -145,7 +147,7 @@
 | [Spring Consolation](https://open.spotify.com/track/7eB3y89enbULLgbXi3aN62) | [Jessica Gallo](https://open.spotify.com/artist/0AUXT7h44snL3V6J0jBame), [Kenji Azuma](https://open.spotify.com/artist/0mXX3f6gHD2LPwHv6n5E2D) | [Spring Consolation](https://open.spotify.com/album/5lRJRm17mkKZvZMyBgKetr) | 4:15 | 2022-06-24 |  |
 | [Staccato](https://open.spotify.com/track/0v3OSsEGDTL2ZYHnkjur0A) | [Oli Bayston](https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H) | [Bomani](https://open.spotify.com/album/0nUNrbg1HfP1COqD1AdR84) | 4:06 | 2022-03-17 | 2022-10-13 |
 | [Staccato](https://open.spotify.com/track/6vMCdvEtcQXr1N8N02P6FB) | [Oli Bayston](https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H) | [Bomani](https://open.spotify.com/album/5mplZY05CkadQTzuyGpxXI) | 4:06 | 2023-01-06 |  |
-| [Station Eleven](https://open.spotify.com/track/3Cbku8vEs4oRi8kLvRKeOu) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 3:23 | 2022-05-06 |  |
+| [Station Eleven](https://open.spotify.com/track/3Cbku8vEs4oRi8kLvRKeOu) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 3:23 | 2022-05-06 | 2023-01-09 |
 | [Stay](https://open.spotify.com/track/53iV2DuzwR68Rj4uoxTehG) | [Tobias Karlehag](https://open.spotify.com/artist/4KYmWSInEJtjY7enJBcaDj) | [Process](https://open.spotify.com/album/0DjXpY7UWQCQZsVdQKiyaG) | 7:43 | 2022-03-17 | 2022-07-29 |
 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 | 2022-03-17 |  |
 | [Suminoe](https://open.spotify.com/track/0Pbeav2sgosdvx22DB33kK) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Suminoe / Sobo](https://open.spotify.com/album/4TVhsrCAAfc2GGeGnNgdST) | 3:06 | 2022-05-18 | 2022-07-27 |

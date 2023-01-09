@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 659993,
+  "num_followers": 660199,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGU1MzVkMGQ5NjI2NDI5OGExYzQwOTRiZmQyOTJkOThi",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDhlN2I0Y2QyNWRmYTA1ODI1MjU2M2M2ZTIwNmUzYjcx",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 248280,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Every Breath You Take (feat. Liza Anne)",
         "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 248280,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
       },
       "artists": [
         {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
         }
       ],
-      "duration_ms": 285719,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -779,6 +763,22 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 285719,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "I Can Help",
-        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 218225,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Lennon Bermuda",
         "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 143547,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "I Can Help",
+        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 218225,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 215843,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 185755,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 215843,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Anthem +3",
+        "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 345773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 230813,
       "name": "Unchained Melody (feat. The Chapin Sisters)",
       "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Anthem +3",
-        "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 345773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "(500) Days of Summer (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132493,
-      "name": "Please, Please, Please, Let Me Get What I Want",
-      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "More Than a Woman",
         "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 224666,
       "name": "More Than a Woman",
       "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "(500) Days of Summer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132493,
+      "name": "Please, Please, Please, Let Me Get What I Want",
+      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Covers Collection",
+        "url": "https://open.spotify.com/album/5OTpUpu29iF7pSyT108wXy"
+      },
+      "artists": [
+        {
+          "name": "POP ETC",
+          "url": "https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL"
+        }
+      ],
+      "duration_ms": 200432,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/0M1eB7j2ahf7EIThdecGI0"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "What's Going On (Sun Session)",
         "url": "https://open.spotify.com/album/16OIoTMV0UuQtArAhL64Cx"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 180000,
       "name": "The Times They Are A-Changin\u2019 - Performance Version",
       "url": "https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Covers Collection",
-        "url": "https://open.spotify.com/album/5OTpUpu29iF7pSyT108wXy"
-      },
-      "artists": [
-        {
-          "name": "POP ETC",
-          "url": "https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL"
-        }
-      ],
-      "duration_ms": 200432,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/0M1eB7j2ahf7EIThdecGI0"
     },
     {
       "added_at": "2022-09-30 04:00:00",

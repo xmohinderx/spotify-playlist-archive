@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > 2014 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,244 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,322 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 66 | [Awake](https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:43 |
 | 67 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F) | 2:50 |
 | 68 | [A Dream of You and Me](https://open.spotify.com/track/44GeTdr7MktZDqNUkLaj5h) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc) | 3:59 |
-| 69 | [Someone New](https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:41 |
-| 70 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
+| 69 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
+| 70 | [Someone New](https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:41 |
 | 71 | [Peaches](https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:45 |
 | 72 | [Never Catch Me](https://open.spotify.com/track/6CTG85NJI1Wm60pxTSRNwL) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [You're Dead!](https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj) | 3:54 |
 | 73 | [She Treats Me Well](https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:17 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 82 | [Girls Chase Boys](https://open.spotify.com/track/3tInTDUq8wdIMw5ftohmqJ) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Lights Out](https://open.spotify.com/album/20vMfB4zgelkULugladUD3) | 3:41 |
 | 83 | [Small Things](https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:43 |
 | 84 | [Every Other Freckle](https://open.spotify.com/track/6BVBkKpZK09NmifUMZqj1z) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 3:36 |
-| 85 | [Tongues](https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [KOPPS](https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK) | [How Do You Feel Now?](https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR) | 3:54 |
-| 86 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
+| 85 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
+| 86 | [Tongues](https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [KOPPS](https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK) | [How Do You Feel Now?](https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR) | 3:54 |
 | 87 | [Talk Is Cheap](https://open.spotify.com/track/7jJsme36M90Cn6aYYC2l3t) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 3:38 |
 | 88 | [Do You](https://open.spotify.com/track/08a6PhXyXeN3lv1DCKW9qY) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [They Want My Soul](https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma) | 3:32 |
 | 89 | [Adult Diversion](https://open.spotify.com/track/0otn0qLAM0yAXHNSiRsHwq) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 99 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
 | 100 | [Don't Wanna Be Your Girl](https://open.spotify.com/track/3JBB92odunFru2gOvI91x9) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Wet](https://open.spotify.com/album/6mmsKRts1C4XuRJChx0Pyx) | 2:54 |
 
-Snapshot ID: `MTY0MDE4MDc1MCwwMDAwMDAwMDNhZTdhN2NiZjhjNDk4NzdjNjUzNTIwNTY4MmE3YzBl`
+Snapshot ID: `MTY0MDE4MDc1MCwwMDAwMDAwMGRjNDMzZWNkNjEzOTAzZjcwYjg5MzcyZDNjY2ZmNzhi`

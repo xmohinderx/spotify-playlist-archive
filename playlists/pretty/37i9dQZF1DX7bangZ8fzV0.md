@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6?si=p9dZjX6fSu6o7ycwpmwk7Q">Marissa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,570 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,646 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

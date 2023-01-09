@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 169095,
+  "num_followers": 168923,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2Mjk5MiwwMDAwMDAwMGE1MmVlMmI5ZDcyZWRmMzk1N2UwNWQwZWFlYWVlMmRl",
+  "snapshot_id": "MTY3MTc2Mjk5MiwwMDAwMDAwMGE3MjEyZjg5NzAwMWE3MDUxMmE3YTFiZDEzM2Q3NzZi",
   "tracks": [
     {
       "added_at": "2022-12-23 02:36:32",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Christmas Party",
-        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132453,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "I Can't Handle Change",
         "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 135693,
       "name": "Christmas Kids",
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Christmas Party",
+        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132453,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "This Warm December, A Brushfire Holiday Vol. 2",
-        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Christmas Must Be Tonight",
-      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Day After Tomorrow",
         "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 365141,
       "name": "Day After Tomorrow",
       "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "This Warm December, A Brushfire Holiday Vol. 2",
+        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Christmas Must Be Tonight",
+      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+        "name": "If We Make It Through December",
+        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
       },
       "artists": [
         {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+      "duration_ms": 179074,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -631,18 +631,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "If We Make It Through December",
-        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
         }
       ],
-      "duration_ms": 179074,
-      "name": "If We Make It Through December",
-      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/5P6ipsN2cYH8Bp2DokqkHf"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6KktzUnQSJZC3iZSwj812R"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "HARK!",
         "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Rise Up Shepherd",
-        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/5P6ipsN2cYH8Bp2DokqkHf"
       },
       "artists": [
         {
-          "name": "Twin Bandit",
-          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 147134,
-      "name": "Rise Up Shepherd",
-      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
+      "duration_ms": 179368,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6KktzUnQSJZC3iZSwj812R"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -807,6 +791,22 @@
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Rise Up Shepherd",
+        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
+      },
+      "artists": [
+        {
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        }
+      ],
+      "duration_ms": 147134,
+      "name": "Rise Up Shepherd",
+      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -971,6 +971,26 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
+        "name": "LIFE ON EARTH (with Preservation Hall Jazz Band)",
+        "url": "https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "duration_ms": 380480,
+      "name": "LIFE ON EARTH - with Preservation Hall Jazz Band",
+      "url": "https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
         "name": "Linus n' Lucy (Theme from Peanuts)",
         "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
       },
@@ -1035,26 +1055,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "LIFE ON EARTH (with Preservation Hall Jazz Band)",
-        "url": "https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        },
-        {
-          "name": "Preservation Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
-        }
-      ],
-      "duration_ms": 380480,
-      "name": "LIFE ON EARTH - with Preservation Hall Jazz Band",
-      "url": "https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Little Saint Nick",
-        "url": "https://open.spotify.com/album/2GgkAxTD7WvusQFB3iEwBP"
-      },
-      "artists": [
-        {
-          "name": "Best Coast",
-          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
-        }
-      ],
-      "duration_ms": 135506,
-      "name": "Little Saint Nick",
-      "url": "https://open.spotify.com/track/1YgtNMaefny7I9KJPa577i"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Transatlanticism (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 246373,
       "name": "The New Year",
       "url": "https://open.spotify.com/track/4Y2cR1AEADE6FyNVnuaWhZ"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Little Saint Nick",
+        "url": "https://open.spotify.com/album/2GgkAxTD7WvusQFB3iEwBP"
+      },
+      "artists": [
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
+        }
+      ],
+      "duration_ms": 135506,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/1YgtNMaefny7I9KJPa577i"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "HARK!",
-        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Christmas In April",
-      "url": "https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Boxing Day Blues (Revisited)",
         "url": "https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 167346,
       "name": "Boxing Day Blues (Revisited)",
       "url": "https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "HARK!",
+        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Christmas In April",
+      "url": "https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty"
     },
     {
       "added_at": "2022-12-23 02:36:32",

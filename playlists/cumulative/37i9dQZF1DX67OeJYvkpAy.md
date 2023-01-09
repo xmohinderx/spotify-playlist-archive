@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Kay9ine
 
-162 songs - 7 hr 49 min
+165 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Have You Ever Heard A Love Song On Drill?](https://open.spotify.com/track/7x19JpxcxilHUPLbrWdpDW) | [Isong](https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z) | [Have You Ever Heard A Love Song On Drill?](https://open.spotify.com/album/0ZkZLnALuAYzd70tjy0Y9R) | 4:05 | 2022-04-05 | 2022-07-29 |
 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 | 2022-05-10 |  |
 | [High \(All The Time\)](https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5) | [RhyRab](https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS) | [High \(All The Time\)](https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr) | 2:40 | 2022-04-05 |  |
-| [High on Love](https://open.spotify.com/track/2zZUvshFMhGN6QmnOUqMJI) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [High on Love](https://open.spotify.com/album/5DJTixdrcHHAbzbnYzCE26) | 3:01 | 2022-08-02 |  |
+| [High on Love](https://open.spotify.com/track/2zZUvshFMhGN6QmnOUqMJI) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [High on Love](https://open.spotify.com/album/5DJTixdrcHHAbzbnYzCE26) | 3:01 | 2022-08-02 | 2023-01-09 |
+| [High On Love](https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E) | 3:01 | 2022-08-02 |  |
 | [High On Love](https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [High On Love](https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo) | 3:01 | 2022-04-05 | 2022-12-14 |
 | [Hoods Hottest](https://open.spotify.com/track/1ZX0LUTVpuh8YzbQe7WbvU) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Hoods Hottest](https://open.spotify.com/album/0NQw8iZDOn5TWIR6NUdsgC) | 3:07 | 2022-04-05 | 2022-11-25 |
 | [Hoods Hottest](https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Hoods Hottest](https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2) | 3:07 | 2022-08-02 |  |
@@ -77,7 +78,8 @@
 | [i don't like it, you're not the same](https://open.spotify.com/track/3qN62DlOJoIMWFGPVxilxU) | [meynus](https://open.spotify.com/artist/2h36lqLlhIyJt4UpCJrLG5) | [i don't like it, you're not the same](https://open.spotify.com/album/47oqNsOixeb9efyV6J86ku) | 1:37 | 2022-04-05 | 2022-08-18 |
 | [i don't like it, you're not the same](https://open.spotify.com/track/6OXJL2HaygePLxP2ICvVh0) | [meynus](https://open.spotify.com/artist/2h36lqLlhIyJt4UpCJrLG5) | [i don't like it, you're not the same](https://open.spotify.com/album/5vlCaAYiVdrp7RvDoEjBW6) | 1:37 | 2022-08-02 |  |
 | [I Thought I'd Die In Your Arms](https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Thought I'd Die In Your Arms](https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA) | 2:56 | 2022-04-05 | 2022-12-30 |
-| [I Thought I'd Die In Your Arms](https://open.spotify.com/track/6Us2o4FMWMwRdWfSCUsWvv) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Thought I'd Die In Your Arms](https://open.spotify.com/album/1faQu8qGIL4XNZHno11AuF) | 2:56 | 2022-08-02 |  |
+| [I Thought I'd Die In Your Arms](https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E) | 2:56 | 2022-08-02 |  |
+| [I Thought I'd Die In Your Arms](https://open.spotify.com/track/6Us2o4FMWMwRdWfSCUsWvv) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Thought I'd Die In Your Arms](https://open.spotify.com/album/1faQu8qGIL4XNZHno11AuF) | 2:56 | 2022-08-02 | 2023-01-09 |
 | [I Wanna Start My Life Again](https://open.spotify.com/track/0KooKH1oKoOho3w9kyG9PP) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Wanna Start My Life Again](https://open.spotify.com/album/2ZKJfUIWwVZL2dYYrRXetk) | 2:30 | 2022-08-02 |  |
 | [I Wanna Start My Life Again](https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Wanna Start My Life Again](https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO) | 2:30 | 2022-05-24 | 2022-12-21 |
 | [If I Die Young](https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX) | 3:09 | 2022-04-26 | 2022-12-19 |
@@ -133,8 +135,9 @@
 | [Reference](https://open.spotify.com/track/3ujWwlBBHka38mAH2y4Wi5) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Reference](https://open.spotify.com/album/06Rb0Vb7h44PVlWCZIVrCS) | 2:49 | 2022-04-05 | 2022-05-11 |
 | [Role Model](https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Home For Winter](https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR) | 3:19 | 2022-04-05 |  |
 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabio G](https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 | 2022-05-24 |  |
+| [She Comes & Goes](https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E) | 3:19 | 2022-08-02 |  |
 | [She Comes & Goes](https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [She Comes & Goes](https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp) | 3:19 | 2022-04-05 | 2022-12-24 |
-| [She Comes & Goes](https://open.spotify.com/track/64ouLp8HmGoKawnFAmcGeR) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [She Comes & Goes](https://open.spotify.com/album/0jsWbLeChDHLiQVyqI3jUY) | 3:19 | 2022-08-02 |  |
+| [She Comes & Goes](https://open.spotify.com/track/64ouLp8HmGoKawnFAmcGeR) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [She Comes & Goes](https://open.spotify.com/album/0jsWbLeChDHLiQVyqI3jUY) | 3:19 | 2022-08-02 | 2023-01-09 |
 | [Shippūden](https://open.spotify.com/track/6fGEfSUTyHgQZTiIbRoffC) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Shippūden](https://open.spotify.com/album/461qPAmmmkQD1GgIMYmC9F) | 2:59 | 2022-04-05 |  |
 | [Someone Else](https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Someone Else](https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1) | 3:25 | 2022-04-05 |  |
 | [Soulja](https://open.spotify.com/track/6ilDAH3APXX7JI5funRb0j) | [Oso Wavey Jay](https://open.spotify.com/artist/31fqY4DqVQUe4mMcb4D52B) | [Soulja](https://open.spotify.com/album/4SZpwbJn6xMYkGLL6g1e4Z) | 3:28 | 2022-04-05 | 2022-05-11 |

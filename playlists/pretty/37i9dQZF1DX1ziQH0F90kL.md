@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ziQH0F90kL.md) - [plain]
 
 > The Reggaeton hits of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,845 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,965 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ziQH0F90kL.md) - [plain]
 | 40 | [Tu Príncipe](https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:25 |
 | 41 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 |
 | 42 | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x) | 4:30 |
-| 43 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 |
-| 44 | [Salió El Sol](https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 5:15 |
+| 43 | [Salió El Sol](https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 5:15 |
+| 44 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 |
 | 45 | [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 |
 | 46 | [Ella Quiere Beber \- Remix](https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Ella Quiere Beber \(Remix\)](https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG) | 3:39 |
 | 47 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ziQH0F90kL.md) - [plain]
 | 99 | [Quiero Bailar](https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva Platinum Edition](https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e) | 3:04 |
 | 100 | [Aventura](https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 2:50 |
 
-Snapshot ID: `MTY3MjQyNTk1OSwwMDAwMDAwMDU4NDJkYmRjNDcwOTlmZjM5ZWRiMDAwZTY4ZGFiOWQ3`
+Snapshot ID: `MTY3MjQyNTk1OSwwMDAwMDAwMGVlMzkyOGQwNmE3ZDljMTEwMWQwYjNhZDQ4ZTdmZjRm`

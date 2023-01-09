@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,237 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,328 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,23 +35,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 25 | [Elevation](https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:46 |
 | 26 | [Bad \- Edit](https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 5:49 |
 | 27 | [Running To Stand Still](https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:17 |
-| 28 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:05 |
+| 28 | [Who's Gonna Ride Your Wild Horses](https://open.spotify.com/track/4SzIZFruLhiAzhuMtAhIRt) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 5:16 |
 | 29 | [Walk On](https://open.spotify.com/track/3pUWV5hvXsI9diJ9TeNeCh) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:56 |
-| 30 | [Who's Gonna Ride Your Wild Horses](https://open.spotify.com/track/4SzIZFruLhiAzhuMtAhIRt) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 5:16 |
+| 30 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:05 |
 | 31 | [Song For Someone](https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 3:46 |
 | 32 | [In God's Country](https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 2:56 |
-| 33 | [The Unforgettable Fire \- Remastered 2009](https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 4:54 |
-| 34 | [Even Better Than The Real Thing](https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 3:41 |
-| 35 | [Summer Of Love](https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:24 |
-| 36 | [October \- Remastered 2008](https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 2:21 |
-| 37 | [Everlasting Love](https://open.spotify.com/track/2e3kaO7DTPQ7kZJ6wGwcLo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980\-1990 & B\-Sides](https://open.spotify.com/album/205bQLiKXCiUIt3HKlcBUb) | 3:19 |
-| 38 | [Until The End Of The World](https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:38 |
+| 33 | [Even Better Than The Real Thing](https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 3:41 |
+| 34 | [The Unforgettable Fire \- Remastered 2009](https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 4:54 |
+| 35 | [October \- Remastered 2008](https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 2:21 |
+| 36 | [Summer Of Love](https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:24 |
+| 37 | [Until The End Of The World](https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:38 |
+| 38 | [Everlasting Love](https://open.spotify.com/track/2e3kaO7DTPQ7kZJ6wGwcLo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980\-1990 & B\-Sides](https://open.spotify.com/album/205bQLiKXCiUIt3HKlcBUb) | 3:19 |
 | 39 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:31 |
 | 40 | [Out Of Control \- Remastered 2008](https://open.spotify.com/track/7dni8dPFeedwSTX8hqcC3s) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 4:14 |
-| 41 | [Staring At The Sun](https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 4:36 |
-| 42 | [The Fly](https://open.spotify.com/track/4nBln1vXTHnJzXvNgvXyIA) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:29 |
-| 43 | [Magnificent](https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 5:24 |
-| 44 | [You’re The Best Thing About Me](https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:45 |
+| 41 | [The Fly](https://open.spotify.com/track/4nBln1vXTHnJzXvNgvXyIA) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:29 |
+| 42 | [Staring At The Sun](https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 4:36 |
+| 43 | [You’re The Best Thing About Me](https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:45 |
+| 44 | [Magnificent](https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 5:24 |
 | 45 | [Bullet The Blue Sky \- Remastered 2007](https://open.spotify.com/track/1C6Tmo58WMtnAPdxYz9qCz) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:31 |
 | 46 | [Invisible \- \(RED\) Edit](https://open.spotify.com/track/1zU1hssVqbyepuLza1qmgO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Invisible \- \(RED\) Edit](https://open.spotify.com/album/6aGUWIKg6BA37SB3gwOAUZ) | 3:46 |
 | 47 | [Iris \(Hold Me Close\)](https://open.spotify.com/track/7kbQE1Xbyf7kvcn4DVICiR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence](https://open.spotify.com/album/7DY6v8qiyQcsTCqUWjH7pS) | 5:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [Kite](https://open.spotify.com/track/4Wjaa3vx2BiLGF01AZMlHb) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:24 |
 | 50 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 |
 
-Snapshot ID: `Mjc4ODUwNDcsMDAwMDAwMDA1YTJlOTM5N2FlYjQxMDE1NThjMGZjYzBjZjY0MDU2Mg==`
+Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA5OGYxYTMyZDhhOWVlNzZiZDlkODc0ZTMzZmQ0NjZmNQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Lebih dari sekedar kopi, ini kumpulan lagu akustik dalam negeri favoritmu.",
-  "num_followers": 533233,
+  "num_followers": 533444,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjkwNzM3MSwwMDAwMDAwMGM5ZjVmM2U1NDFlYWNkY2VhY2RlZTZhODVhMWE2MzMw",
+  "snapshot_id": "MTY3MjkwNzM3MSwwMDAwMDAwMDgzZjk2NWQwYWZkZmM2MzhjZjg2MmQ0YjUyYWNmZTcz",
   "tracks": [
     {
       "added_at": "2023-01-05 08:29:31",
@@ -799,18 +799,22 @@
     {
       "added_at": "2023-01-05 08:29:31",
       "album": {
-        "name": "Perspektif Bodoh, Vol. 2",
-        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/4BrYZTc42JRwe1QuHIPapy"
       },
       "artists": [
         {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+          "name": "Petra Sihombing",
+          "url": "https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW"
+        },
+        {
+          "name": "Ben Sihombing",
+          "url": "https://open.spotify.com/artist/0B8iRRv1YpDoxhcn2lMFs1"
         }
       ],
-      "duration_ms": 308349,
-      "name": "Pegang Tanganku",
-      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
+      "duration_ms": 229120,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/6NkUP6IeLnH6Yaw2wcNHzO"
     },
     {
       "added_at": "2023-01-05 08:29:31",
@@ -831,22 +835,18 @@
     {
       "added_at": "2023-01-05 08:29:31",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/4BrYZTc42JRwe1QuHIPapy"
+        "name": "Perspektif Bodoh, Vol. 2",
+        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
       },
       "artists": [
         {
-          "name": "Petra Sihombing",
-          "url": "https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW"
-        },
-        {
-          "name": "Ben Sihombing",
-          "url": "https://open.spotify.com/artist/0B8iRRv1YpDoxhcn2lMFs1"
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
         }
       ],
-      "duration_ms": 229120,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/6NkUP6IeLnH6Yaw2wcNHzO"
+      "duration_ms": 308349,
+      "name": "Pegang Tanganku",
+      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
     },
     {
       "added_at": "2023-01-05 08:29:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,819 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,840 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 31 | [The day was beautiful](https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The day was beautiful](https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF) | 3:55 |
 | 32 | [Living in the same time](https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 1st\. Living in the same time by Naul](https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC) | 4:10 |
 | 33 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 |
-| 34 | [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 |
-| 35 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
+| 34 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
+| 35 | [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 |
 | 36 | [Into My Heart](https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Encounter \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u) | 3:19 |
 | 37 | [The Hardest Part](https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [The Hardest Part](https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY) | 4:18 |
 | 38 | [How You Been](https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 2:58 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 46 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 |
 | 47 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 |
 | 48 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
-| 49 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 |
+| 49 | [Feel Better](https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Things I Loved Most 2](https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf) | 3:30 |
 | 50 | [Dimly](https://open.spotify.com/track/1Pnek7frHF95HQewENySXW) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Bloody Heart, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es) | 3:32 |
 
-Snapshot ID: `MTY3MjA0Njg0MSwwMDAwMDAwMDNjYzA3MjJlMWIzYzA5ZDNkZDE3OTFlODdiNzk5MWQ2`
+Snapshot ID: `MTY3MjA0Njg0MSwwMDAwMDAwMDEyNDMyNzU5MzhlYzAyNWM2YmI2NThmYTg1YmJjMmE5`

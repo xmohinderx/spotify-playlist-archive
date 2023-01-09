@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,958 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,079 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,25 +29,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 19 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 |
 | 20 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
 | 21 | [Flume](https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:39 |
-| 22 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
-| 23 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
+| 22 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
+| 23 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
 | 24 | [Lost in My Mind](https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:19 |
 | 25 | [Nantes](https://open.spotify.com/track/1WBSFlSLyOZnSa8fj7a5yC) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Flying Club Cup](https://open.spotify.com/album/71udkw2yxFqNK4SNSYcCce) | 3:50 |
 | 26 | [Re: Stacks](https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 6:41 |
 | 27 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
 | 28 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
 | 29 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
-| 30 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
-| 31 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
-| 32 | [Chicago](https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 6:04 |
+| 30 | [Chicago](https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 6:04 |
+| 31 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
+| 32 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
 | 33 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 |
 | 34 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
-| 35 | [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 |
-| 36 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
+| 35 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
+| 36 | [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 |
 | 37 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
 | 38 | [Elephant Gun](https://open.spotify.com/track/5loVmc3MmtYGsTw12eDgcU) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 5:45 |
-| 39 | [Civilian](https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS) | 3:40 |
-| 40 | [When U Love Somebody](https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Mouthfuls](https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2) | 4:31 |
+| 39 | [When U Love Somebody](https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Mouthfuls](https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2) | 4:31 |
+| 40 | [Civilian](https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS) | 3:40 |
 | 41 | [I'd Rather Dance With You](https://open.spotify.com/track/4hGOhC87bn7JBdYykOJJvJ) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:29 |
 | 42 | [9 Crimes](https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 3:39 |
 | 43 | [Special Death](https://open.spotify.com/track/1Y7SunUEcwxyev6VtXRnZd) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Advisory Committee](https://open.spotify.com/album/4PFZFBAC72pNx0PuJaBNui) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 99 | [We Both Go Down Together](https://open.spotify.com/track/0U7XzVIAzoavQQ7DS94KYp) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Picaresque](https://open.spotify.com/album/1ofGOFzgt22AGMi9yQIOMq) | 3:04 |
 | 100 | [Rooks](https://open.spotify.com/track/2UZnNDCLZHMWR0LCEzFxBB) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Rook](https://open.spotify.com/album/5pYcP11SaCxYKqUAXeBIu2) | 3:21 |
 
-Snapshot ID: `MTY1MDkxNjQ0MiwwMDAwMDAwMDkwZjgwMmE1YjIzYzEzOWYxMDdiOWYxZDFjZTU3NTU4`
+Snapshot ID: `MTY1MDkxNjQ0MiwwMDAwMDAwMDEzNzBhMGFiM2U3NWQzY2EyOTA1ZWQ2OTE4MzI3ZjU0`

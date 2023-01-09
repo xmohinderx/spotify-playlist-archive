@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1980s.",
-  "num_followers": 9947471,
+  "num_followers": 9949331,
   "original_name": "All Out 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjMwMjg4MywwMDAwMDAwMDlmZGQ5Yzg4NWI0NDhkMmNmNjRlNDU4OGE2MDZiZDM5",
+  "snapshot_id": "MTY3MjMwMjg4MywwMDAwMDAwMDdkYWU4ZTI2YjgxOWVhMDQ1NGNlMWI4Zjc4YzZhOWZh",
   "tracks": [
     {
       "added_at": "2022-11-30 00:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 258040,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 258040,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295515,
-      "name": "With Or Without You - Remastered",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You - Remastered",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
         "name": "Dare!",
         "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 236920,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 264333,
-      "name": "Right Here Waiting",
-      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
         }
       ],
-      "duration_ms": 365466,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+      "duration_ms": 264333,
+      "name": "Right Here Waiting",
+      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -1039,6 +1023,22 @@
       "duration_ms": 294720,
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 365466,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
         "name": "Ghost In The Machine (Remastered 2003)",
         "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "Crowded House",
-        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
         "name": "True Blue (Reissue)",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 242733,
       "name": "La Isla Bonita",
       "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
+        "name": "Crowded House",
+        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 183733,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 332506,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
         "name": "Celebrate!",
         "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
       },
@@ -1811,22 +1795,6 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 264906,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
         "name": "American Fool",
         "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
@@ -1839,6 +1807,22 @@
       "duration_ms": 254493,
       "name": "Jack & Diane",
       "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 264906,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -1875,6 +1859,22 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "The Traveling Wilburys, Vol. 1",
-        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
       },
       "artists": [
         {
-          "name": "Traveling Wilburys",
-          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
         }
       ],
-      "duration_ms": 209520,
-      "name": "End Of The Line",
-      "url": "https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE"
+      "duration_ms": 332506,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
         "name": "War (Remastered)",
         "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 279440,
       "name": "Sunday Bloody Sunday - Remastered 2008",
       "url": "https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 218960,
       "name": "Hurts So Good",
       "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2022-11-30 00:00:00",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2022-11-30 00:00:00",
+      "album": {
         "name": "La Folie",
         "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
       },
@@ -2387,34 +2403,18 @@
     {
       "added_at": "2022-11-30 00:00:00",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
         }
       ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2022-11-30 00:00:00",
-      "album": {
-        "name": "Double Fantasy Stripped Down",
-        "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Woman - Remastered 2010",
-      "url": "https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3"
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     }
   ],
   "unique_name": "All Out 80s",

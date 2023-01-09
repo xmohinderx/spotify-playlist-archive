@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,493 likes - 150 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,522 likes - 150 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 87 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
 | 88 | [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 |
 | 89 | [PTT \(Paint The Town\)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 |
-| 90 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 |
+| 90 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 |
 | 91 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 |
-| 92 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 |
+| 92 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 |
 | 93 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 |
 | 94 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
 | 95 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
 | 96 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 |
 | 97 | [Blueming](https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 3:37 |
-| 98 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 |
-| 99 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix of Stray Kids](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
+| 98 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix of Stray Kids](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
+| 99 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 |
 | 100 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 |
 | 101 | [Secret Story of the Swan](https://open.spotify.com/track/7G6WuVZuTbF6JcnA9wOvsD) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [Oneiric Diary](https://open.spotify.com/album/1XuKR0Qguy1b0Vne8hv5Pd) | 3:12 |
 | 102 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
@@ -140,12 +140,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 130 | [Dingga](https://open.spotify.com/track/0bDYceyQd1jnJO4sK47YxU) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Dingga](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) | 2:59 |
 | 131 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 |
 | 132 | [Complex \(Feat\. ZICO\)](https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [FIVE SENSES](https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP) | 3:15 |
-| 133 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 |
-| 134 | [Dolphin](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 2:56 |
+| 133 | [Dolphin](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 2:56 |
+| 134 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 |
 | 135 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 |
 | 136 | [Don't Call Me](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:40 |
-| 137 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
-| 138 | [GOOD BOY](https://open.spotify.com/track/52mglSL6bdbrg9zig7nazP) | [GD X TAEYANG](https://open.spotify.com/artist/3HJVw8aEtFqoc3raJVE8am) | [GOOD BOY](https://open.spotify.com/album/2rhq834A24z7ucY39moYdb) | 4:05 |
+| 137 | [GOOD BOY](https://open.spotify.com/track/52mglSL6bdbrg9zig7nazP) | [GD X TAEYANG](https://open.spotify.com/artist/3HJVw8aEtFqoc3raJVE8am) | [GOOD BOY](https://open.spotify.com/album/2rhq834A24z7ucY39moYdb) | 4:05 |
+| 138 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
 | 139 | [Dream of You \(with R3HAB\)](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:12 |
 | 140 | [GLASSY](https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [GLASSY](https://open.spotify.com/album/2WCMmZ8vXBnkVp97PzLeoA) | 3:09 |
 | 141 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 145 | [Anymore](https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:17 |
 | 146 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 |
 | 147 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 |
-| 148 | [Running](https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib) | 3:29 |
+| 148 | [Lil’ Touch](https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8) | [Girls' Generation\-Oh!GG](https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb) | [Lil' Touch \- The 1st Single](https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA) | 3:09 |
 | 149 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 |
-| 150 | [Lil’ Touch](https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8) | [Girls' Generation\-Oh!GG](https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb) | [Lil' Touch \- The 1st Single](https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA) | 3:09 |
+| 150 | [Running](https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib) | 3:29 |
 
-Snapshot ID: `MTY3MjcyMTUwMSwwMDAwMDAwMDI0Nzk0YWUzZDZiMjlhNGFiMmY0NmY5OTlkOGJjMTIw`
+Snapshot ID: `MTY3MjcyMTUwMSwwMDAwMDAwMDcxMWM1YjkxYzg3OWNhZTg5ZmZkMjdiN2Q1YjRlNzQx`

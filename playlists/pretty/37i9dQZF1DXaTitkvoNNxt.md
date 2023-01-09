@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 
 > Songs from the last decade that will make you sing and dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,436,381 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,436,362 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 | 63 | [Mirrors](https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 8:04 |
 | 64 | [I Took A Pill In Ibiza \- Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 3:17 |
 | 65 | [Hotline Bling](https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:27 |
-| 66 | [Glad You Came](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:17 |
-| 67 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 |
+| 66 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 |
+| 67 | [Glad You Came](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:17 |
 | 68 | [Whistle](https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:44 |
 | 69 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 |
 | 70 | [Feel This Moment \(feat\. Christina Aguilera\)](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:49 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 | 84 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 |
 | 85 | [Piece Of Your Heart](https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD) | 2:32 |
 | 86 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 |
-| 87 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
-| 88 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 |
+| 87 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 |
+| 88 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
 | 89 | [Stitches](https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:26 |
 | 90 | [My House](https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:12 |
 | 91 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 | 99 | [Problem](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:13 |
 | 100 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
 
-Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMDg2ZDc5MmYwNTdhNWNlMWZiMjU2ZTNlYWM1ZmRmNjQx`
+Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMDc5NDNmZDI4NGY2YjY4OGUzNWQxMjVjZWQwMjNjNDY3`

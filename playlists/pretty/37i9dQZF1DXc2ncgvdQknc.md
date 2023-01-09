@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2ncgvdQknc.md) - [plain]
 
 > All 10s, all ballads\. Cover: Adele
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,629 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,763 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2ncgvdQknc.md) - [plain]
 | 26 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 |
 | 27 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 |
 | 28 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 |
-| 29 | [Without Me](https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Without Me](https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm) | 3:21 |
-| 30 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 |
+| 29 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 |
+| 30 | [Without Me](https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Without Me](https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm) | 3:21 |
 | 31 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
 | 32 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 |
 | 33 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2ncgvdQknc.md) - [plain]
 | 49 | [Give Me Love](https://open.spotify.com/track/0SuG9kyzGRpDqrCWtgD6Lq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 8:46 |
 | 50 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 |
 
-Snapshot ID: `MTY1MjIxNTU2NCwwMDAwMDAwMDc5MDRlNDUxMWE2ODNlZjk0ZjUwNWZiYmIyNjZlZTQ2`
+Snapshot ID: `MTY1MjIxNTU2NCwwMDAwMDAwMDM4YTkzMTM5YzdlZjAxNzhlZGMxNDI3OTg1MTkzYjA5`

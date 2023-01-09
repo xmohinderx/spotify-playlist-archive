@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS!! Cover: HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,040 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,364 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 40 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
 | 41 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/59lRASvykN3UQstK839tep) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:49 |
 | 42 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 |
-| 43 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 |
-| 44 | [Let the Rain Come Down](https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:19 |
-| 45 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 |
+| 43 | [Let the Rain Come Down](https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:19 |
+| 44 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 |
+| 45 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 |
 | 46 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 |
 | 47 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
 | 48 | [LOSER](https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [LOSER](https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq) | 3:14 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 80 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 |
 | 81 | [Year to Be Young 1994](https://open.spotify.com/track/189qLE479B11BbwQlOFxQO) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Year to Be Young 1994](https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA) | 3:20 |
 | 82 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 |
-| 83 | [To Whom ...](https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [To Whom ...](https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs) | 3:38 |
-| 84 | [Train](https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl) | [Manny Blu](https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA) | [Train](https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ) | 2:57 |
+| 83 | [Train](https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl) | [Manny Blu](https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA) | [Train](https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ) | 2:57 |
+| 84 | [To Whom ...](https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [To Whom ...](https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs) | 3:38 |
 | 85 | [These Old Boots](https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [These Old Boots](https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym) | 3:26 |
 | 86 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 |
 | 87 | [My Ex Came Over](https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [My Ex Came Over](https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13) | 2:55 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 92 | [Right or Wrong](https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [For the Birds](https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx) | 4:14 |
 | 93 | [Black Magic Lady](https://open.spotify.com/track/1jaypNwHJdFs9q9IvPMLjl) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Black Magic Lady](https://open.spotify.com/album/4TEphoROa5MStn7cVNEGMc) | 4:47 |
 | 94 | [Labels](https://open.spotify.com/track/6oX6Z8IRcQoE5c1huBv4hU) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 3:04 |
-| 95 | [Huckleberry](https://open.spotify.com/track/5sRNw5nGGirWXvxECIxpSX) | [Daniel Lee](https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj) | [Huckleberry](https://open.spotify.com/album/1iaC7rKb2xgcf0ZpuPRsdJ) | 3:50 |
-| 96 | [Payback \(feat\. The Cadillac Three\)](https://open.spotify.com/track/0MDFaaKSyNrt4aZtJvqirX) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:27 |
+| 95 | [Payback \(feat\. The Cadillac Three\)](https://open.spotify.com/track/0MDFaaKSyNrt4aZtJvqirX) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:27 |
+| 96 | [Huckleberry](https://open.spotify.com/track/5sRNw5nGGirWXvxECIxpSX) | [Daniel Lee](https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj) | [Huckleberry](https://open.spotify.com/album/1iaC7rKb2xgcf0ZpuPRsdJ) | 3:50 |
 | 97 | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv) | 3:15 |
 | 98 | [Sound of the South](https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ) | [Kaleb Austin](https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD) | [Sound of the South](https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn) | 4:03 |
-| 99 | [Dodge Out Of Hell](https://open.spotify.com/track/1JV425vD0dWil9boakNIHf) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Dodge Out Of Hell](https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt) | 3:12 |
+| 99 | [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 |
 | 100 | [You Hear Georgia](https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey) | 4:05 |
 
-Snapshot ID: `MTY3MjY5NTY4NCwwMDAwMDAwMDA3NzRkMGJjM2RkZTRjNzliNDg0MTlhOTYzYzliNTY0`
+Snapshot ID: `MTY3MjY5NTY4NCwwMDAwMDAwMDlmNWEwZjljYjc0OWU1YmFkMTM3YjdjYmY4MjFiNmEz`

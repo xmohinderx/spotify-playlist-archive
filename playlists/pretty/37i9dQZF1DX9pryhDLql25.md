@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > Gather your friends for the cherished ritual that is brunch\. If not for the pomo irony, then for the endless hibiscus lavender mimosas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,149 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,155 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 14 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
 | 15 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 |
 | 16 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
-| 17 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 |
-| 18 | [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 |
+| 17 | [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 |
+| 18 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 |
 | 19 | [Changes](https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Spirit Moves](https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5) | 2:41 |
 | 20 | [Goodbye Earl](https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:18 |
 | 21 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 74 | [Hands on You](https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Sparrow](https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu) | 3:52 |
 | 75 | [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 |
 
-Snapshot ID: `MTY3Mjc2Njk2OCwwMDAwMDAwMGIyNDBlMDdkYTg4OTVlYmI0MTQwZTlkNDkxOGZiNzY2`
+Snapshot ID: `MTY3Mjc2Njk2OCwwMDAwMDAwMDJkM2RlNDFlNDlkNWU0YmVmOWM1NDY2YzYyODhkZmZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,879 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,901 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 37 | [Los Angeles](https://open.spotify.com/track/5DQFjLWTW7AGqaPLdeXCTz) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [The Freelancer's Blues](https://open.spotify.com/album/4UxVJzE5iHPxl2mBWlEqC1) | 4:37 |
 | 38 | [Riding For The Feeling](https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 6:05 |
 | 39 | [Letting Go](https://open.spotify.com/track/2sYKMfMLXwmK6idbtpxYTD) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 3:24 |
-| 40 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 |
-| 41 | [Miller's Cave](https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:49 |
+| 40 | [Miller's Cave](https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:49 |
+| 41 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 |
 | 42 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
 | 43 | [Los Chicos Tristes](https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Chicos Tristes](https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa) | 3:49 |
 | 44 | [We Shouldn't Talk About It \(feat\. Emily Gimble\)](https://open.spotify.com/track/1ZN4HXmebT3dxEfpT83q25) | [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2), [Emily Gimble](https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK) | [Plus de Sauce](https://open.spotify.com/album/329yK2nEn3owPZOdYcFHvQ) | 2:26 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 72 | [Lonesome City](https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy) | [The Black Canyon Gang](https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe) | [Wayfaring Strangers: Cosmic American Music](https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB) | 3:34 |
 | 73 | [Oh, Sister \[Feat\. Courtney Marie Andrews\]](https://open.spotify.com/track/4DNWkjZlBuGgSmNnqOVBeN) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Oh, Sister \[Feat\. Courtney Marie Andrews\]](https://open.spotify.com/album/3xXjZu3KT8TFfb9ObBmx9P) | 3:40 |
 | 74 | [Happy Birthday, Baby](https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:45 |
-| 75 | [Let it Roll](https://open.spotify.com/track/78CNAJZ7Cx1nUjyPoOPU03) | [Sam Doores](https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj) | [Sam Doores](https://open.spotify.com/album/1SrA1hRiA8P3eKcsE5daLt) | 3:58 |
+| 75 | [Isn’t It](https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Isn’t It](https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC) | 2:04 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDJmYmE1ODI2ZmFkOTUxYTU5OTdkMTEyZmEwNzg0NTVl`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGFiNWY0MzQzNWYzMjkxMmY5MjQ5NTk5NjQ1YmE5Yjky`

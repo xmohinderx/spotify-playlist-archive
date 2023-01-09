@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,724 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,932,183 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 26 | [Spend It](https://open.spotify.com/track/67r21HpmhEPrnP4HWxnCPw) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Spend It](https://open.spotify.com/album/3F1AGZ1Fk12cbw4aVfPS5J) | 3:20 |
 | 27 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
 | 28 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 |
-| 29 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) | 3:03 |
+| 29 | [Vegas](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) | 3:03 |
 | 30 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 |
 | 31 | [Privileged Rappers](https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:40 |
 | 32 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 |

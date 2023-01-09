@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-172 songs - 10 hr 25 min
+173 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Whole Again](https://open.spotify.com/track/5vQPUsti44KFsm1xOrhKHj) | [Juis de Fora](https://open.spotify.com/artist/46BKARTr4WbL2apQKFZ4kt), [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Whole Again](https://open.spotify.com/album/3Lifjzuc8bU1yBhnAJPVCC) | 2:41 | 2021-12-09 |  |
 | [Wicked Game \- Bossa Nova Version](https://open.spotify.com/track/3kYKtUPRQd4ZO9A3UhmxAX) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Wicked Game \(Bossa Nova Version\)](https://open.spotify.com/album/6YbT952JxSplB2O1e7keyG) | 2:49 | 2021-12-09 |  |
 | [With Or Without You \(Bossa Version\)](https://open.spotify.com/track/7yly7CFogmyVG0Q0PBu5cP) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 3:32 | 2021-12-09 |  |
-| [Wonderwall](https://open.spotify.com/track/5prVNiMkpcCPPNXNcWPEeb) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 4:20 | 2021-12-09 |  |
+| [Wonderwall](https://open.spotify.com/track/2YeJSReOgLqnx0tex1RhEw) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 4:20 | 2023-01-03 |  |
+| [Wonderwall](https://open.spotify.com/track/5prVNiMkpcCPPNXNcWPEeb) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 4:20 | 2021-12-09 | 2023-01-09 |
 | [You Give Me Something \(Bossa Version\)](https://open.spotify.com/track/4H39zVSTrnXomaInIgfpDY) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Relaxing Bossa Lounge 3](https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o) | 3:22 | 2021-12-09 |  |
 | [You´re The Sunshine Of My Life \(Bossa Version\)](https://open.spotify.com/track/7srEWzdPORw4bj3ymCvm4h) | [Dudu Braga](https://open.spotify.com/artist/3ZwqQ2XrPNiYRomLoN94n7) | [Relaxing Bossa Lounge](https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw) | 3:36 | 2021-12-09 |  |
 | [You´ve Got A Friend \(Bossa Version\)](https://open.spotify.com/track/72d2qNpo39PRtwMWS9m2nq) | [Tahta Menezes](https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 4:15 | 2021-12-09 |  |

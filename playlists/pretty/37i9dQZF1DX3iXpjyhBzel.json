@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Bruna Karla",
-  "num_followers": 883739,
+  "num_followers": 883977,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMzMyOSwwMDAwMDAwMDg0ZWM4MmEzMTJjODcwOTUzNTdlY2UxZGE2ZmMxZTIx",
+  "snapshot_id": "MTY3MTIxMzMyOSwwMDAwMDAwMGIxMDE4OWUzMmUzNWM3NGY3MDhjZDI0YzhiOWE5MTUw",
   "tracks": [
     {
       "added_at": "2022-12-16 17:55:29",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-12-16 17:55:29",
       "album": {
+        "name": "Vai Ter Vida A\u00ed",
+        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 270512,
+      "name": "Vai Ter Vida A\u00ed",
+      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
+    },
+    {
+      "added_at": "2022-12-16 17:55:29",
+      "album": {
         "name": "Seu Amor Me Persegue (Studio)",
         "url": "https://open.spotify.com/album/2C2DPyXztvrrDzgKEdCAXI"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 445970,
       "name": "Seu Amor Me Persegue (Studio)",
       "url": "https://open.spotify.com/track/7D5SHB5Qr6otVfXUh0jveD"
-    },
-    {
-      "added_at": "2022-12-16 17:55:29",
-      "album": {
-        "name": "Vai Ter Vida A\u00ed",
-        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 270512,
-      "name": "Vai Ter Vida A\u00ed",
-      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
     },
     {
       "added_at": "2022-12-16 17:55:29",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-12-16 17:55:29",
       "album": {
+        "name": "O Deus dos Pequeninos",
+        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "O Deus dos Pequeninos",
+      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
+    },
+    {
+      "added_at": "2022-12-16 17:55:29",
+      "album": {
         "name": "Teu Toque (Ao Vivo)",
         "url": "https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD"
       },
@@ -1263,42 +1279,6 @@
       "duration_ms": 453930,
       "name": "Teu Toque - Ao Vivo",
       "url": "https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2"
-    },
-    {
-      "added_at": "2022-12-16 17:55:29",
-      "album": {
-        "name": "Tu E\u0301s Fiel",
-        "url": "https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        },
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        }
-      ],
-      "duration_ms": 301276,
-      "name": "Tu E\u0301s Fiel",
-      "url": "https://open.spotify.com/track/0rYFCbRb25YpQ7fx2Gnr6v"
-    },
-    {
-      "added_at": "2022-12-16 17:55:29",
-      "album": {
-        "name": "O Deus dos Pequeninos",
-        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "O Deus dos Pequeninos",
-      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
     },
     {
       "added_at": "2022-12-16 17:55:29",
@@ -1323,6 +1303,26 @@
       "duration_ms": 601544,
       "name": "Para Ti Eu Vou - Ao Vivo",
       "url": "https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi"
+    },
+    {
+      "added_at": "2022-12-16 17:55:29",
+      "album": {
+        "name": "Tu E\u0301s Fiel",
+        "url": "https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "duration_ms": 301276,
+      "name": "Tu E\u0301s Fiel",
+      "url": "https://open.spotify.com/track/0rYFCbRb25YpQ7fx2Gnr6v"
     },
     {
       "added_at": "2022-12-16 17:55:29",

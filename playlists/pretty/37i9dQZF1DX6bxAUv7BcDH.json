@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 14,
+  "num_followers": 6,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMDVmNzQ5NDYxNTIxNmFmMDVlMDg2OTg1ZjE1MmZlMWNl",
+  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMDYxNGNmYjdlYTUxNjYyNWY2ZDhlZDI4NmY3NjY0ZDgz",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Sailing / Poor Shirley (Digital 45)",
+        "url": "https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 255453,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "What Kind Of Fool Am I & Other Show Stoppers",
         "url": "https://open.spotify.com/album/52FNvUtEGZv8HoeT8V7E0H"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 126933,
       "name": "Days Of Wine And Roses - REMASTERED",
       "url": "https://open.spotify.com/track/2sWRC12vYVTHjdTD2WOE4v"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Theme of Exodus (From \"Exodus\" Soundtrack)",
-        "url": "https://open.spotify.com/album/5micc2oKvQQYFUlUcsVtF0"
-      },
-      "artists": [
-        {
-          "name": "Ernest Gold",
-          "url": "https://open.spotify.com/artist/41SzGMVZclC44YTVneXHlE"
-        }
-      ],
-      "duration_ms": 892203,
-      "name": "Theme of Exodus - From \"Exodus\" Soundtrack",
-      "url": "https://open.spotify.com/track/7A7Bak9REa9pRZzohssUPi"
     }
   ],
   "unique_name": "#SpotifyTBT: Song of the Year",

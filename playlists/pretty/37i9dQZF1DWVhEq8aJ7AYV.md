@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,766 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,802 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 52 | [Calle 24](https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2015](https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy) | 3:14 |
 | 53 | [Hey Lupe](https://open.spotify.com/track/1U0KCm09KsWCZjuEqQhctq) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Rock en Espanol, Vol\. 1](https://open.spotify.com/album/1i5umb6OsQrLPqWA84vKql) | 3:19 |
 | 54 | [La Viuda Negra](https://open.spotify.com/track/0vlcfidir85v3y6ths4HWZ) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Sonido Bestia](https://open.spotify.com/album/3X31PsiKoR8dBnc9wrQCIc) | 3:06 |
-| 55 | [Mar de Caca](https://open.spotify.com/track/5WxA2mR2wBnPXOvpRFkOXk) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [¡Puedes o No Puedes!](https://open.spotify.com/album/2Sdc8wuXkFxcNyZ9jjdqNL) | 3:34 |
-| 56 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
+| 55 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
+| 56 | [Mar de Caca](https://open.spotify.com/track/5WxA2mR2wBnPXOvpRFkOXk) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [¡Puedes o No Puedes!](https://open.spotify.com/album/2Sdc8wuXkFxcNyZ9jjdqNL) | 3:34 |
 | 57 | [Peyoteando Con Ayahuasca](https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 3:06 |
 | 58 | [Tiki Surf](https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 1:56 |
 | 59 | [It's Monster Surfing Time](https://open.spotify.com/track/70FzFTP41ewLArLpyO8YKZ) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6) | 2:11 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 63 | [Whirlpool](https://open.spotify.com/track/4uUyxCK28787qPada57VMI) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:06 |
 | 64 | [Surfs You Right!](https://open.spotify.com/track/3RB3YqLO7eV8VDogl73bLg) | [Laika & The Cosmonauts](https://open.spotify.com/artist/6UmSNX1sClVl8rYnig3t9i) | [Cosmopolis 1988\-2008](https://open.spotify.com/album/6bqafutEdknOXRTPcdGuLC) | 1:59 |
 | 65 | [Bandidos](https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:05 |
-| 66 | [Miradas de Amor](https://open.spotify.com/track/4V69bmJHHOcWctu9BroqW0) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/0eyG4OGP4qQdEAI7jchSgv) | 2:58 |
-| 67 | [Pintor](https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad) | [Hawaii Samurai](https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK) | [The Octopus Incident? \(This Was the Day That Engulfed the Space in Terror\)](https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0) | 2:38 |
+| 66 | [Pintor](https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad) | [Hawaii Samurai](https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK) | [The Octopus Incident? \(This Was the Day That Engulfed the Space in Terror\)](https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0) | 2:38 |
+| 67 | [Miradas de Amor](https://open.spotify.com/track/4V69bmJHHOcWctu9BroqW0) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/0eyG4OGP4qQdEAI7jchSgv) | 2:58 |
 | 68 | [Return Of The Death Ray](https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Organ Grinder](https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR) | 2:00 |
 | 69 | [New Siberia](https://open.spotify.com/track/0hv5S1haHiCCKYTMCgUYIO) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Jet Set](https://open.spotify.com/album/1RUYkeLXYBbSxSjwDkL04D) | 3:29 |
 | 70 | [The Last Wave](https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 74 | [Swan's Lake](https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Guitars In Orbit](https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc) | 2:03 |
 | 75 | [La Chica Rockabilly](https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Abulon](https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:55 |
 
-Snapshot ID: `MTY2MDg3MTY2MywwMDAwMDAwMDY3MGVlNGVhZjg3NmIwNWFkYjdiMWExOGUzMzZlMmRl`
+Snapshot ID: `MTY2MDg3MTY2MywwMDAwMDAwMGM5MTY2MzVmNDgwOWRmNjgxYTU3MjRiNDg4NWQ1YzNi`

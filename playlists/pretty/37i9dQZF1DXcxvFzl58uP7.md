@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,262 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,838 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 36 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 |
 | 37 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 |
 | 38 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 |
-| 39 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 |
-| 40 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
+| 39 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
+| 40 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 |
 | 41 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 |
 | 42 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
 | 43 | [Cooks](https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Cooks](https://open.spotify.com/album/6P5uQurlsYMrmOgGRd3xpz) | 2:54 |
@@ -73,17 +73,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 63 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
 | 64 | [Brand New](https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Brand New](https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP) | 2:36 |
 | 65 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
-| 66 | [Cloud 9](https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Cloud 9](https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq) | 2:22 |
-| 67 | [Rare](https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Moonlight/Rare](https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv) | 3:04 |
+| 66 | [Rare](https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Moonlight/Rare](https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv) | 3:04 |
+| 67 | [Cloud 9](https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Cloud 9](https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq) | 2:22 |
 | 68 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 |
 | 69 | [You Say I'm in Love](https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [You Say I'm in Love](https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN) | 2:56 |
 | 70 | [Spiracle](https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 2:59 |
 | 71 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:03 |
 | 72 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
 | 73 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
-| 74 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
-| 75 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 |
-| 76 | [Talk to You](https://open.spotify.com/track/6suxUONtPxkEPL3JHGX9SX) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:34 |
+| 74 | [Talk to You](https://open.spotify.com/track/6suxUONtPxkEPL3JHGX9SX) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:34 |
+| 75 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
+| 76 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 |
 | 77 | [All Your Love](https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [All Your Love](https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6) | 2:55 |
 | 78 | [Mystery](https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Mystery](https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5) | 2:57 |
 | 79 | [That I Miss You](https://open.spotify.com/track/1qja4itnsquIxIofomg2PE) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/53ksH4ivfT1cNJYe2ZJYvb) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 99 | [Honeycomb](https://open.spotify.com/track/2NFlLmWIusCPE5yrBUgRXO) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Honeycomb](https://open.spotify.com/album/7hEIQU3XSx8m7J58zZxL3C) | 2:54 |
 | 100 | [Six Speed](https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Six Speed](https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9) | 2:00 |
 
-Snapshot ID: `MTY3MzAwNTA4MCwwMDAwMDAwMDU1M2VkMzNlYjBiYmZiMGQ4NzYyYTY4NWE5YTM3MDA0`
+Snapshot ID: `MTY3MzAwNTA4MCwwMDAwMDAwMDU4OGViNWQxMTZkZjE2NjE4MDQ0NzEyMjNhMDIyNDBl`

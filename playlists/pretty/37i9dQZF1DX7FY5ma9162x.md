@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 
 > The tracks you can put on repeat all day\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,131 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,496 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 | 88 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 |
 | 89 | [Time Machine](https://open.spotify.com/track/37S1u9dpiGeBO80Lk9msLy) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:42 |
 | 90 | [raw](https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 3:06 |
-| 91 | [Secret \(feat\. Summer Walker\)](https://open.spotify.com/track/67lKDoCZbRCJDa4RT68eme) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Secret \(feat\. Summer Walker\)](https://open.spotify.com/album/5wZsPqpKY7l4dpmRSrDm1Q) | 3:30 |
-| 92 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
-| 93 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 |
-| 94 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
-| 95 | [Do I Ever \(feat\. Chris Brown\)](https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Still FWM](https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO) | 3:10 |
-| 96 | [No Fuss](https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [No Fuss](https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA) | 3:10 |
-| 97 | [Just For Me \(with SZA\) \- Space Jam: A New Legacy](https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Just For Me \(Space Jam: A New Legacy\)](https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh) | 3:37 |
-| 98 | [BELIEVE IT](https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:03 |
+| 91 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
+| 92 | [Secret \(feat\. Summer Walker\)](https://open.spotify.com/track/67lKDoCZbRCJDa4RT68eme) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Secret \(feat\. Summer Walker\)](https://open.spotify.com/album/5wZsPqpKY7l4dpmRSrDm1Q) | 3:30 |
+| 93 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
+| 94 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 |
+| 95 | [BELIEVE IT](https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:03 |
+| 96 | [Do I Ever \(feat\. Chris Brown\)](https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Still FWM](https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO) | 3:10 |
+| 97 | [No Fuss](https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [No Fuss](https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA) | 3:10 |
+| 98 | [Just For Me \(with SZA\) \- Space Jam: A New Legacy](https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Just For Me \(Space Jam: A New Legacy\)](https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh) | 3:37 |
 | 99 | [Nothing Feels Better](https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Nothing Feels Better](https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw) | 2:37 |
 | 100 | [Baddest](https://open.spotify.com/track/2CDVqsGGkf2v1tMETt3fq5) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Baddest](https://open.spotify.com/album/3ERp6sI91Flu5Onq9me2pV) | 3:22 |
 
-Snapshot ID: `MTY3Mjk4MTI2MCwwMDAwMDAwMGY4NmVlZmVlZWRhYzdmNmY0NTVhOGI5ZmZhZWViNzE4`
+Snapshot ID: `MTY3Mjk4MTI2MCwwMDAwMDAwMDJkZWI1ZmI0ZmIxOWRiMThlNDk4MzFjMTdmMGJiNzhl`

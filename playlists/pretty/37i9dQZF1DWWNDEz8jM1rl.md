@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,508 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,577 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,20 +22,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 12 | [Una Señal](https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C) | [Banda Alternativa](https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Alegría y Gozo 2020](https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx) | 3:49 |
 | 13 | [Todo Se Lo Debo a El](https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 4:32 |
 | 14 | [Tengo Victoria](https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [De La a a La Z](https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt) | 3:07 |
-| 15 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 |
+| 15 | [Soy Tu Padre](https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:54 |
 | 16 | [Mi Maestro](https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Acceso Total Tour Edition](https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP) | 4:09 |
-| 17 | [Soy Tu Padre](https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:54 |
+| 17 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 |
 | 18 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
 | 19 | [Dame Tus Ojos \(feat\. Laurie Colón\)](https://open.spotify.com/track/3jPaLIbWPyfS5GZluhxh4D) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1), [Laurie Colon](https://open.spotify.com/artist/3D3ZmxtOiCz4n6UJf9k1R7) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 4:10 |
 | 20 | [Largo Viaje](https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 3:29 |
 | 21 | [Conmigo](https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Conmigo](https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs) | 2:50 |
-| 22 | [Paz En La Tormenta](https://open.spotify.com/track/0vEQ3fQREP0tIObiMfuScP) | [Ander](https://open.spotify.com/artist/5twxq8MG0kp3dWPN1UKMCm) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:45 |
-| 23 | [Vivo por Cristo](https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d) | [Redimidos](https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7) | [Contigo Todo Es Posible](https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2) | 4:05 |
+| 22 | [Vivo por Cristo](https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d) | [Redimidos](https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7) | [Contigo Todo Es Posible](https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2) | 4:05 |
+| 23 | [Paz En La Tormenta](https://open.spotify.com/track/0vEQ3fQREP0tIObiMfuScP) | [Ander](https://open.spotify.com/artist/5twxq8MG0kp3dWPN1UKMCm) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:45 |
 | 24 | [Rumbarengue](https://open.spotify.com/track/4h689d9SNdQ5WbrYcsGtG4) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [De Todo Un Poco](https://open.spotify.com/album/0HpcxLjTaZ65MM7auMqwdb) | 3:30 |
 | 25 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
-| 26 | [Dependo de Ti](https://open.spotify.com/track/6V6BQzogQ4WtHBtGKYpCZ8) | [Daniel Sierra](https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Dependo de Ti](https://open.spotify.com/album/651OlbSCsMTaxCRqVgGkIG) | 3:15 |
-| 27 | [Ante Tus Pies](https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2) | [Pablo Caldarelli](https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Ante Tus Pies](https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3) | 3:32 |
-| 28 | [Mi Fe](https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat) | 3:56 |
+| 26 | [Ante Tus Pies](https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2) | [Pablo Caldarelli](https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Ante Tus Pies](https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3) | 3:32 |
+| 27 | [Mi Fe](https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat) | 3:56 |
+| 28 | [Dependo de Ti](https://open.spotify.com/track/6V6BQzogQ4WtHBtGKYpCZ8) | [Daniel Sierra](https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Dependo de Ti](https://open.spotify.com/album/651OlbSCsMTaxCRqVgGkIG) | 3:15 |
 | 29 | [Estoy Contento](https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Traigo Alabanza](https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c) | 4:11 |
 | 30 | [Fue Por Ti](https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax) | [Raza For Christ](https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW) | [Nonstop](https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA) | 3:14 |
 | 31 | [Eternamente Amor](https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Fragmentos Do Céu](https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 49 | [Un adorador](https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:19 |
 | 50 | [Forever Endless Love](https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragments Of Heaven](https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug) | 4:02 |
 
-Snapshot ID: `MTYwMDQwNTMyMCwwMDAwMDAwMGQ1ZWM0YmZjYTc0NmYwMmI1MzcyNTA0MTNjOWY3OWU3`
+Snapshot ID: `MTYwMDQwNTMyMCwwMDAwMDAwMDA4OTA5YjI0ZDIyZjM3NTg0ZGJhM2ZlYTE3MDBiYmFj`

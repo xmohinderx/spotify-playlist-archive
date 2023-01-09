@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Architects
 
-585 songs - 2 day 2 hr 43 min
+587 songs - 2 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Clairvoyant](https://open.spotify.com/track/0Ey64fhfqXKfdDohWzPZJm) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/4GbvTCSu1Kehnr9Xq334u7) | 7:37 | 2022-07-13 |  |
 | [Clairvoyant](https://open.spotify.com/track/39v9F4fMRSvpYPx9AOg9WW) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/5xBtUANwVKmjYKgPzdMPcP) | 7:37 | 2022-07-13 | 2022-07-28 |
 | [Cloaked](https://open.spotify.com/track/2GIEbKn7RURChEwZooy7TU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Cloaked](https://open.spotify.com/album/5y8d5e1d4Gs2fCD6ZBRIId) | 3:54 | 2021-12-17 | 2023-01-05 |
+| [Cloud 9](https://open.spotify.com/track/3RH9ske33VIz7R576PYMtT) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [I'd Rather Be Asleep](https://open.spotify.com/album/7l6W4a5eEiIsUHUojAimkp) | 3:16 | 2023-01-06 |  |
 | [Cloud 9](https://open.spotify.com/track/6grBntnvJiVqgqqbmeq9iU) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [Cloud 9](https://open.spotify.com/album/3XdE4xEWmjv7ZckfOoVqAX) | 3:16 | 2022-03-18 | 2022-12-30 |
 | [Cloud Cascade](https://open.spotify.com/track/6pgdUH7dRJlH5ITa1YeAem) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Cloud Cascade](https://open.spotify.com/album/2q9o2kY9qyIov8f3eCKzFy) | 4:09 | 2022-07-13 |  |
 | [Cold Arrival](https://open.spotify.com/track/6AjvfDGxXe2RcSOx3nxWTY) | [Once Human](https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ) | [Cold Arrival](https://open.spotify.com/album/0LLGVNzbjaRTyjIJsiOTmh) | 4:07 | 2021-12-17 | 2022-07-29 |
@@ -499,7 +500,7 @@
 | [The Quartz Grave](https://open.spotify.com/track/6XHpv3Ll4amR9EwrMeYm50) | [V3ctors](https://open.spotify.com/artist/6cRxCrWwfxBaBKBJW1WOI8) | [Amarna, Pt\. 1](https://open.spotify.com/album/1LPdLI78lK9xttgvopL1P5) | 4:19 | 2022-07-13 | 2022-07-25 |
 | [The Rat & The Snake](https://open.spotify.com/track/6I1HQ1fAggIDm17CXJo6aq) | [Ghost Iris](https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka), [Tyler Shelton](https://open.spotify.com/artist/05te9cG7cEF5EuxU9JqnCk) | [Apple of Discord](https://open.spotify.com/album/71AN4Bro8X57lLN90tfelX) | 4:06 | 2022-07-13 |  |
 | [The Regress](https://open.spotify.com/track/0MA6RvZ7cIJLVkREkEJmvX) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Lena Scissorhands](https://open.spotify.com/artist/5FEXEjkn7RZM0XycCEkSvP) | [The Regress](https://open.spotify.com/album/5Yxr8ohf1xJPXlIAwbkODu) | 4:52 | 2021-12-17 |  |
-| [The Riven Heart](https://open.spotify.com/track/09QwbIVHfMelQeaCbvIt18) | [Kryn](https://open.spotify.com/artist/4OUkgSJQkianAfCIzM5Y9L) | [The Riven Heart](https://open.spotify.com/album/6JkhAVwtVIextjGF1nOjo5) | 5:57 | 2021-12-17 |  |
+| [The Riven Heart](https://open.spotify.com/track/09QwbIVHfMelQeaCbvIt18) | [Kryn](https://open.spotify.com/artist/4OUkgSJQkianAfCIzM5Y9L) | [The Riven Heart](https://open.spotify.com/album/6JkhAVwtVIextjGF1nOjo5) | 5:57 | 2021-12-17 | 2023-01-09 |
 | [The Same Asylum As Before](https://open.spotify.com/track/1QNwjDbxhWPtdevy7ZTXAg) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [To The Bone](https://open.spotify.com/album/37lL4QxxvHJ3SxFH2KtkDD) | 5:14 | 2021-12-17 | 2022-01-29 |
 | [The Secret Pt\. 1](https://open.spotify.com/track/6D6NRfGV84J0S8IgpDTWxQ) | [DGM](https://open.spotify.com/artist/5Rq2C3wWiwL3NqjutXMt8e) | [The Secret Pt.1](https://open.spotify.com/album/2eh7y0C8ALvLBB1bAXoorh) | 8:24 | 2021-12-17 | 2022-01-28 |
 | [The Shadow](https://open.spotify.com/track/6rLASbKbKCPQjB5WrkOpCx) | [Toothgrinder](https://open.spotify.com/artist/03YfzFNcD7l9uskxK7WaPP) | [Phantom Amour](https://open.spotify.com/album/67qrET1eCDywwoPECD5trm) | 4:01 | 2021-12-17 | 2022-01-29 |
@@ -525,7 +526,7 @@
 | [Three Bridges](https://open.spotify.com/track/7IwuxtmnfC5rjxmk49it95) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Three Bridges](https://open.spotify.com/album/3vb21L1QoverZCitHOoOhq) | 8:45 | 2021-12-17 | 2022-07-29 |
 | [Through the Depths \(Single Edit\)](https://open.spotify.com/track/5C0736WNhxPThhiAiXysUk) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Through the Depths](https://open.spotify.com/album/0Jdbzsh0TxdSzyJFkskOhl) | 4:55 | 2021-12-17 | 2022-07-29 |
 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 | 2022-04-29 |  |
-| [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-03-01 |  |
+| [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-03-01 | 2023-01-09 |
 | [Total](https://open.spotify.com/track/6RBwhxL28i63ZwluSirl9d) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/5Urcd0CgxOwChJzrJnanIo) | 4:24 | 2022-03-25 |  |
 | [Transcend](https://open.spotify.com/track/0BPlqGBFXNrgO7H3H4SB6T) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss), [Vitaly Machunsky](https://open.spotify.com/artist/4mXWfRVvpyFuXhPeUcGKXK) | [Transcend](https://open.spotify.com/album/0sqwBRnSwTe1zoO2dYnhxC) | 5:25 | 2022-01-07 | 2022-07-26 |
 | [Tsitsushka](https://open.spotify.com/track/50oIQfiIQbNnDyhkI0S3sB) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Tsitsushka](https://open.spotify.com/album/313qBhwyl3mlW91CCBIKf2) | 5:38 | 2021-12-17 | 2022-07-29 |
@@ -584,6 +585,7 @@
 | [WHISPERS](https://open.spotify.com/track/1TLXsoGr3IbYKKGIpPwWjY) | [City of Souls](https://open.spotify.com/artist/6DStZfBhFNFfMKsWcyYTEt) | [SYNÆSTHESIA](https://open.spotify.com/album/6DAOHWhROvKnNsNtokAWj1) | 3:47 | 2021-12-17 | 2022-06-20 |
 | [White Nile](https://open.spotify.com/track/52cwidOKr1iSZU20Jqx4wB) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [White Nile](https://open.spotify.com/album/0GAeqCTzESd8aqYJ20NQ3R) | 3:49 | 2021-12-17 | 2022-11-05 |
 | [White Nile](https://open.spotify.com/track/6YnTThmosnud2DLTbXikPF) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [Angel Or Alien](https://open.spotify.com/album/0CGsQ5hgvU2wPrmcz6h7YZ) | 3:49 | 2022-10-28 |  |
+| [White Water](https://open.spotify.com/track/4lALBBj0EvYHn6T5rlYqYT) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [I'd Rather Be Asleep](https://open.spotify.com/album/7l6W4a5eEiIsUHUojAimkp) | 3:34 | 2023-01-06 |  |
 | [White Water](https://open.spotify.com/track/5NmreSAnQcInIfyxspnoFX) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [White Water](https://open.spotify.com/album/4cOJWEpRMY7x35u3imB92y) | 3:34 | 2022-04-22 | 2022-12-30 |
 | [Why Do I Care](https://open.spotify.com/track/0jjAghbDie2a2cETSDl1ky) | [Torrential Rain](https://open.spotify.com/artist/76QqWxJTkOJLTe99MkSEom) | [Why Do I Care](https://open.spotify.com/album/6Ukl77GQ4tlcOS2Na2lQ6q) | 5:00 | 2021-12-31 |  |
 | [Within the Sphere](https://open.spotify.com/track/1f4BjsMcz7zR7HHtDXlNEC) | [Paralydium](https://open.spotify.com/artist/65X6T9OJ2gXGpkc1DgrYgR) | [Within the Sphere](https://open.spotify.com/album/7FICWjTaVxI1T1sy4ae37L) | 5:15 | 2021-12-17 | 2022-07-11 |

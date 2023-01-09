@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: NewJeans
 
-456 songs - 1 day 1 hr 12 min
+457 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [CHILLIN](https://open.spotify.com/track/3EfwJBSA0uvCH7DgPnMcl6) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [RIDE](https://open.spotify.com/album/615GQfWbnnV04urJ2wBvGk) | 3:13 | 2022-11-08 | 2022-11-16 |
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-03-01 | 2022-04-13 |
 | [Chocolate \- Japanese Ver.](https://open.spotify.com/track/4Wfwahl7IC8iHwPAM3di7Z) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Chocolate \(Japanese Ver.\)](https://open.spotify.com/album/6qIiU9PzJzMuQVJRIoAO9a) | 2:53 | 2021-12-23 | 2022-01-15 |
+| [Choices](https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Choices](https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI) | 3:21 | 2023-01-08 |  |
 | [Christmas EveL](https://open.spotify.com/track/266QhbDtB6QapuIYRBaLFe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 2:58 | 2021-12-23 | 2022-02-02 |
 | [Color of Love](https://open.spotify.com/track/7fTTAOlLFkIjnWUtpYhx1W) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Bloom](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) | 3:07 | 2022-04-05 | 2022-06-24 |
 | [coNEXTion \(Age of Light\)](https://open.spotify.com/track/27vGornenTX2Vrzg9nOyBA) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [coNEXTion \(Age of Light\) \- SM STATION : NCT LAB](https://open.spotify.com/album/4Q1QbnNAgUGq4glyv7dAXn) | 3:46 | 2022-03-20 | 2022-06-21 |

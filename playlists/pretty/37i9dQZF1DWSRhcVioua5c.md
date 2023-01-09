@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,054 likes - 90 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,132 likes - 90 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 70 | [Tu respuesta \- Zamba](https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA) | [Valeria Lopez Vila](https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA) | [Tu respuesta](https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto) | 3:42 |
 | 71 | [Que Tiene de Malo Eso](https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Que Tiene de Malo Eso](https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw) | 2:46 |
 | 72 | [Flor Palida](https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Sebastian Llapur](https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 4:28 |
-| 73 | [No Dejare de Amarte](https://open.spotify.com/track/6xLJsgn7TFJmzmhaoTPOcp) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Fe](https://open.spotify.com/album/3ecNmYNuN7GXoCP064taCu) | 4:08 |
-| 74 | [Ella](https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Ella](https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J) | 3:05 |
-| 75 | [Quisiera](https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 4:09 |
+| 73 | [Quisiera](https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 4:09 |
+| 74 | [No Dejare de Amarte](https://open.spotify.com/track/6xLJsgn7TFJmzmhaoTPOcp) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Fe](https://open.spotify.com/album/3ecNmYNuN7GXoCP064taCu) | 4:08 |
+| 75 | [Ella](https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Ella](https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J) | 3:05 |
 | 76 | [Cerca del Sol](https://open.spotify.com/track/4KEm7GdjGYMpGdDrrwr5K2) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Cerca del Sol](https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5) | 3:37 |
 | 77 | [Para Que Nunca Me Dejes](https://open.spotify.com/track/3h6h3alpLmhiI9U7DdODhp) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Somos](https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3) | 2:59 |
 | 78 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 84 | [Corazon Sin Tiempo](https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Corazon Sin Tiempo](https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I) | 3:37 |
 | 85 | [Te Olvidé](https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Te Olvidé](https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU) | 3:00 |
 | 86 | [Mil Momentos \- En Vivo](https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT) | [Guitarreros](https://open.spotify.com/artist/7Ky9MAWbIE0z5VtPSNiMvd) | [Mil Momentos \(En Vivo\)](https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT) | 3:35 |
-| 87 | [Tan Lejos de Mi](https://open.spotify.com/track/1ryLI4hIaYrhhUnJsGNyru) | [Ricardo Palavecino](https://open.spotify.com/artist/0Fb3MQOrO8SlKdeVtMB75H) | [Coplas Viajeras](https://open.spotify.com/album/4qJQXvSgPdJz3crYm4t0uO) | 4:06 |
-| 88 | [Volver A Verte](https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Volver A Verte](https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4) | 2:16 |
+| 87 | [Volver A Verte](https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Volver A Verte](https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4) | 2:16 |
+| 88 | [Tan Lejos de Mi](https://open.spotify.com/track/1ryLI4hIaYrhhUnJsGNyru) | [Ricardo Palavecino](https://open.spotify.com/artist/0Fb3MQOrO8SlKdeVtMB75H) | [Coplas Viajeras](https://open.spotify.com/album/4qJQXvSgPdJz3crYm4t0uO) | 4:06 |
 | 89 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
 | 90 | [Amarte Sin Piedad](https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Amarte Sin Piedad](https://open.spotify.com/album/62i9o08soByC7ONFYj67IB) | 3:31 |
 
-Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMDM2MzlkZDY1YjAzNzVhODg2NWJjMDM1OTIxZDNhYTcx`
+Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMGZkYTUxNmFkN2MxMDlmM2U5NWZiM2I2ZjgyNzBiYmE1`

@@ -139,24 +139,6 @@
     },
     {
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "date_added": "2022-07-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
-    },
-    {
-      "album": {
         "name": "A-O-K",
         "url": "https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR"
       },
@@ -280,6 +262,24 @@
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {
@@ -930,7 +930,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
@@ -4484,7 +4484,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 274506,
       "name": "The Loneliest Time (feat. Rufus Wainwright)",
       "url": "https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi"

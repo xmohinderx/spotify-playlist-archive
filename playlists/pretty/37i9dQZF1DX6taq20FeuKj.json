@@ -1,12 +1,12 @@
 {
   "description": "Get your gaming session going with this epic rap mix.",
-  "num_followers": 2013089,
+  "num_followers": 2013334,
   "original_name": "Power Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAyMDkyNiwwMDAwMDAwMDJkODJlMmUwYjAyMzE3ZjJlYWJjNGM0ZjM1Mzc2YzE2",
+  "snapshot_id": "MTY3MDAyMDkyNiwwMDAwMDAwMDY5MGYxZGJmMjQxYWY1MDBmODg4NGVjNzQ5MWVkYzQ1",
   "tracks": [
     {
       "added_at": "2022-11-02 01:50:57",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Laugh Now Cry Later (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 261492,
-      "name": "Laugh Now Cry Later (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Die Lit",
         "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 153800,
       "name": "Shoota (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -975,18 +975,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
       "artists": [
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 181812,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl"
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1007,22 +1011,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "family ties (with Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 252069,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+      "duration_ms": 181812,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 181929,
-      "name": "We Paid (feat. 42 Dugg)",
-      "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 227555,
       "name": "Dance Now (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 181929,
+      "name": "We Paid (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "AT.LONG.LAST.A$AP",
         "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
       },
@@ -1807,6 +1791,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Shotta Flow (Feat. Blueface) [Remix]",
         "url": "https://open.spotify.com/album/0lDRXaECpMSYYCsTYRDulh"
       },
@@ -1855,30 +1855,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
-        "url": "https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH"
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
       },
       "artists": [
         {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 229670,
-      "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
-      "url": "https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH"
+      "duration_ms": 163320,
+      "name": "Suge",
+      "url": "https://open.spotify.com/track/2gwkD6igEhQbDQegRCcdoB"
     }
   ],
   "unique_name": "Power Gaming",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 
 > hairbrush as a microphone type songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,201 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,202 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 | 35 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
 | 36 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
 | 37 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 |
-| 38 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
-| 39 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
+| 38 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
+| 39 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
 | 40 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
 | 41 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 |
 | 42 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:58 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 | 58 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 59 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 |
 | 60 | [Sorry Not Sorry](https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 3:23 |
-| 61 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 |
-| 62 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
-| 63 | [Issues](https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:56 |
-| 64 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 |
+| 61 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
+| 62 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 |
+| 63 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 |
+| 64 | [Issues](https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:56 |
 | 65 | [Shout Out to My Ex](https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:06 |
 | 66 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 |
 | 67 | [i'm so tired...](https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 | 74 | [You Know I'm No Good](https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:17 |
 | 75 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 |
 
-Snapshot ID: `MTYxNTQ4MTg1NiwwMDAwMDAwMGJhMmE2ZjdkYjc0YWYyODQzMTliMGJjYmQxNWM2ZWJj`
+Snapshot ID: `MTYxNTQ4MTg1NiwwMDAwMDAwMDM0MzVhZDUyMjk5NTk5YjYzMDU4ODQ2OTQ2M2ZjMjVi`

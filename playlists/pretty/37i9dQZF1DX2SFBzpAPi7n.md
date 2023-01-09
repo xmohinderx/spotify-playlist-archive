@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Nell\(넬\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,833 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,915 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 29 | [Scream](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 |
 | 30 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
 | 31 | [누군가 필요해 I Need Somebody](https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:38 |
-| 32 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:31 |
-| 33 | [Spark](https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:37 |
-| 34 | [내일, 오늘 Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 |
-| 35 | [Where the sea sleeps](https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 4:17 |
+| 32 | [Spark](https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:37 |
+| 33 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:31 |
+| 34 | [She's In The Rain](https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV) | 3:57 |
+| 35 | [내일, 오늘 Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 |
 | 36 | [I Loved You](https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:54 |
-| 37 | [She's In The Rain](https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV) | 3:57 |
+| 37 | [Where the sea sleeps](https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 4:17 |
 | 38 | [Deja Vu](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:44 |
-| 39 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 |
-| 40 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 |
-| 41 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
-| 42 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |
-| 43 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 |
+| 39 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 |
+| 40 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 |
+| 41 | [sorry](https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk) | 3:35 |
+| 42 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 |
+| 43 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 | 44 | [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 |
 | 45 | [Sweet Chaos](https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:47 |
-| 46 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 |
-| 47 | [Comes and Goes](https://open.spotify.com/track/0Nld5ohgWfoPueMEtYNbgE) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [22](https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw) | 3:48 |
-| 48 | [sorry](https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk) | 3:35 |
+| 46 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |
+| 47 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 |
+| 48 | [RED](https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl) | 2:56 |
 | 49 | [Adrenaline](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [VINCENZO \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) | 3:26 |
 | 50 | [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 |
 
-Snapshot ID: `MTY3Mjk5NTk4MSwwMDAwMDAwMGM1N2Y3YWVlMDAwODE2NDI1Y2VhYWJmZGMwZDM4MWE3`
+Snapshot ID: `MTY3Mjk5NTk4MSwwMDAwMDAwMDYyZjc3MjUxYjY5YjcwYjkxMTEwMmY0ZjZiNThmM2E0`

@@ -4,7 +4,7 @@
 
 > Hol dir dein Lieblingscafé nach Hause.
 
-197 songs - 12 hr 47 min
+198 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2022-08-18 |  |
 | [Early Morning Coffee Cups](https://open.spotify.com/track/04TvtzVrd7FufnY5KJLXzO) | [Jaimi Faulkner](https://open.spotify.com/artist/1J6JaPeWiuT4oEa4oiEALf) | [Early Morning Coffee Cups](https://open.spotify.com/album/31ijpN3FryTPMy3RYdsjsw) | 3:19 | 2022-08-18 | 2022-11-13 |
 | [Ends of the Earth](https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:44 | 2022-08-18 | 2023-01-05 |
+| [Ends of the Earth](https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:44 | 2022-08-18 |  |
 | [Even the Darkness Has Arms](https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 3:50 | 2022-08-18 |  |
 | [Fallen so Young](https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Fallen so Young](https://open.spotify.com/album/7BlVUDoAnsDbZHwIYT2S74) | 3:52 | 2022-08-18 |  |
 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 | 2022-08-18 |  |
@@ -73,7 +74,7 @@
 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 | 2022-08-18 | 2022-11-13 |
 | [Home Is Where the Heart Hurts \(From " About a Girl " \) \- Radio Version](https://open.spotify.com/track/40BtgHQcQf7TRy6atS76lD) | [Nick & June](https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl) | [Home Is Where the Heart Hurts \(From " About a Girl " \) \[Radio Version\]](https://open.spotify.com/album/4KZNUgrWdQ79z093g5leev) | 3:31 | 2022-08-18 | 2022-11-13 |
 | [Homesick](https://open.spotify.com/track/0WeqauIUZSjsupDGXsXWsP) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:13 | 2022-08-18 |  |
-| [I Am the Moon](https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Darkest Darks, Lightest Lights](https://open.spotify.com/album/15fTepGOPHDgjR18E9vt4y) | 3:18 | 2022-08-18 |  |
+| [I Am the Moon](https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Darkest Darks, Lightest Lights](https://open.spotify.com/album/15fTepGOPHDgjR18E9vt4y) | 3:18 | 2022-08-18 | 2023-01-09 |
 | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M) | 3:32 | 2022-08-18 |  |
 | [I Was Just Leaving](https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [I Was Just Leaving](https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW) | 2:58 | 2022-08-18 | 2022-11-13 |
 | [I Will Be Happy and Hopefully You Will Be Too](https://open.spotify.com/track/2Pml521aaHZf3b0S2f4no8) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Resolute](https://open.spotify.com/album/4Oa3qOkIi0vhp18XgoB7Ii) | 3:20 | 2022-08-18 | 2022-11-13 |

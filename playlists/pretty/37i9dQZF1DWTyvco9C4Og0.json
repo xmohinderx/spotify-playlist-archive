@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Yuridia en portada.",
-  "num_followers": 846747,
+  "num_followers": 847078,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4NDgwMCwwMDAwMDAwMDMzYmM0ZTQ5YTE3MDMyMzE2Njc1NDhjYWE1YTM1OGQ0",
+  "snapshot_id": "MTY3Mjk4NDgwMCwwMDAwMDAwMDc1ZGQ5ODE3OGU4ZDk3ZjA5NWVkZTA0OGU5ZTE1YjFi",
   "tracks": [
     {
       "added_at": "2022-03-04 06:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2022-03-04 06:00:00",
-      "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2022-10-24 19:26:48",
@@ -59,6 +43,22 @@
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
+    },
+    {
+      "added_at": "2022-03-04 06:00:00",
+      "album": {
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -143,6 +143,26 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
         "name": "Mi Persona Preferida",
         "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 186653,
       "name": "Seremos",
       "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
-    },
-    {
-      "added_at": "2022-07-15 05:00:00",
-      "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -197,24 +197,24 @@
       "url": "https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb"
     },
     {
-      "added_at": "2022-01-25 16:44:28",
+      "added_at": "2022-07-15 05:00:00",
       "album": {
-        "name": "La Sinverg\u00fcenza",
-        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 198529,
-      "name": "La Sinverg\u00fcenza",
-      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -247,6 +247,22 @@
       "duration_ms": 273008,
       "name": "Secreto De Amor",
       "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -301,22 +317,6 @@
       "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
     },
     {
-      "added_at": "2022-06-17 05:00:00",
-      "album": {
-        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 228187,
-      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
-    },
-    {
       "added_at": "2022-01-25 16:44:28",
       "album": {
         "name": "Duele",
@@ -337,20 +337,20 @@
       "url": "https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE"
     },
     {
-      "added_at": "2022-01-25 16:44:28",
+      "added_at": "2022-06-17 05:00:00",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 199320,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
+      "duration_ms": 228187,
+      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -387,6 +387,42 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
+        "name": "AYAYAY! (S\u00faper Deluxe)",
+        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Dime C\u00f3mo Quieres",
+      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Rancher\u00edsimo, Vol. 2",
+        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -419,22 +455,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Rancher\u00edsimo, Vol. 2",
-        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 177194,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
-        "name": "AYAYAY! (S\u00faper Deluxe)",
-        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Dime C\u00f3mo Quieres",
-      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        }
-      ],
-      "duration_ms": 114369,
-      "name": "Me Sacaron Del Tenampa",
-      "url": "https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 252440,
       "name": "La Gran Se\u00f1ora",
       "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 187986,
+      "name": "Si Te Falta Alguien",
+      "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 187986,
-      "name": "Si Te Falta Alguien",
-      "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
+      "duration_ms": 114369,
+      "name": "Me Sacaron Del Tenampa",
+      "url": "https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -645,6 +645,22 @@
       "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
     },
     {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
+    },
+    {
       "added_at": "2022-03-04 06:00:00",
       "album": {
         "name": "Otro Perdedor",
@@ -663,22 +679,6 @@
       "duration_ms": 250368,
       "name": "Otro Perdedor",
       "url": "https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
     },
     {
       "added_at": "2022-06-17 05:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
+        "name": "Usted No Me Olvida",
+        "url": "https://open.spotify.com/album/5QKHBEpO54bTRj2PC8A0h6"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "duration_ms": 193137,
+      "name": "Usted No Me Olvida",
+      "url": "https://open.spotify.com/track/3GUqkrdLefqJmxVvN5Vgpv"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
         "name": "Lo Mejor De Lucha Villa",
         "url": "https://open.spotify.com/album/05yE3cp9cIYw1aJjE8ybgs"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 206800,
       "name": "La Muerte del Palomo",
       "url": "https://open.spotify.com/track/29jt9wuHaMVwQhw4M5X4R9"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
-        "name": "Usted No Me Olvida",
-        "url": "https://open.spotify.com/album/5QKHBEpO54bTRj2PC8A0h6"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Guiller",
-          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
-        }
-      ],
-      "duration_ms": 193137,
-      "name": "Usted No Me Olvida",
-      "url": "https://open.spotify.com/track/3GUqkrdLefqJmxVvN5Vgpv"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM"
     },
     {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
-    },
-    {
       "added_at": "2022-06-17 05:00:00",
       "album": {
         "name": "Las de Mi Apa",
@@ -1595,22 +1579,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Desde Que Llegaste",
-        "url": "https://open.spotify.com/album/2pj6a8DjAlEYpndmS85YVa"
-      },
-      "artists": [
-        {
-          "name": "Chay\u00edn Rubio",
-          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Desde Que Llegaste",
-      "url": "https://open.spotify.com/track/2Eg0Cg1vWx6URPbEAuUJIh"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "Siempre Estoy Pensando En Ti",
         "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
@@ -1636,9 +1604,25 @@
           "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 135733,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Desde Que Llegaste",
+        "url": "https://open.spotify.com/album/2pj6a8DjAlEYpndmS85YVa"
+      },
+      "artists": [
+        {
+          "name": "Chay\u00edn Rubio",
+          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Desde Que Llegaste",
+      "url": "https://open.spotify.com/track/2Eg0Cg1vWx6URPbEAuUJIh"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1691,6 +1675,22 @@
       "duration_ms": 195976,
       "name": "Cucurrucucu Paloma",
       "url": "https://open.spotify.com/track/5VTlMAQ0x9EdDyehNQor8D"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 135733,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
     }
   ],
   "unique_name": "Leyendas del Mariachi",

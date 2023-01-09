@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,155 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,170 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 43 | [Lovely](https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Lovely](https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ) | 2:56 |
 | 44 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 |
 | 45 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 |
-| 46 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 |
-| 47 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
+| 46 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
+| 47 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 |
 | 48 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
 | 49 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
 | 50 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
 
-Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDJmZDk3OGViNmY5NDFkODI3ODI1OGJkN2Q4ZjlmNTdl`
+Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDE4MWJmZDQyZjY5NzJiZDJjM2UwMWY3NTBhMzNlNjRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,222 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,213 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 20 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 |
 | 21 | [Diamonds](https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds](https://open.spotify.com/album/2IAyprsfyoPBGDvbLjgsN5) | 3:33 |
 | 22 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 |
-| 23 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 |
-| 24 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 23 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 24 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 |
 | 25 | [Something to Someone](https://open.spotify.com/track/56U84FLjFgsEY6NZvuxa3U) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 |
 | 26 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 |
 | 27 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
 | 28 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
-| 29 | [Stranger](https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:44 |
-| 30 | [Fly As Me](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:39 |
-| 31 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
+| 29 | [Fly As Me](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:39 |
+| 30 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
+| 31 | [Stranger](https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:44 |
 | 32 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 |
 | 33 | [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 |
 | 34 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 49 | [Broke](https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Broke](https://open.spotify.com/album/7EFpevvrKa2TjXTFSaVR1z) | 3:27 |
 | 50 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 |
 
-Snapshot ID: `MTY2OTk1NzI2MCwwMDAwMDAwMDc4ZGJmZDg4NmQ1ODgzZDg4Yjg0NzkwZTM0ZmYxZWU3`
+Snapshot ID: `MTY2OTk1NzI2MCwwMDAwMDAwMDk5Y2ZhYTk3MzY0YTU2MDM1ZDIwOWU5Yjk3NGUyYWY2`

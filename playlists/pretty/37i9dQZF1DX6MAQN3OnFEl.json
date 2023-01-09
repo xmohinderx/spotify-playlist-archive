@@ -1,12 +1,12 @@
 {
   "description": "that's hot",
-  "num_followers": 304623,
+  "num_followers": 305100,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyMjAyNywwMDAwMDAwMDdhZDRjMGRhYjY5ZTQxOTQ1YWM4NTM3ODg5MjllNGRi",
+  "snapshot_id": "MTY3MjQyMjAyNywwMDAwMDAwMGNjMjMzZTk2NjFlODc5NGVhZTA1MjUyNGQxNjE4ODlk",
   "tracks": [
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "The Madding Crowd",
-        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
+        "name": "The Neptunes Present... Clones",
+        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
       },
       "artists": [
         {
-          "name": "Nine Days",
-          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Absolutely (Story of a Girl) - Radio Mix",
-      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
+      "duration_ms": 236506,
+      "name": "Frontin' (feat. Jay-Z) - Club Mix",
+      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1323,22 +1327,18 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "The Neptunes Present... Clones",
-        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
+        "name": "The Madding Crowd",
+        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Nine Days",
+          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
         }
       ],
-      "duration_ms": 236506,
-      "name": "Frontin' (feat. Jay-Z) - Club Mix",
-      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
+      "duration_ms": 189333,
+      "name": "Absolutely (Story of a Girl) - Radio Mix",
+      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
     },
     {
       "added_at": "2022-03-26 14:30:45",

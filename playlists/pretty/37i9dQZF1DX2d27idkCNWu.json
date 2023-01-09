@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 256839,
+  "num_followers": 256878,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk3NDAwMCwwMDAwMDAwMDEwY2Y0Y2Q3OWRlNTk2YjI4MDE2ODM1ZThkZDE0ODgy",
+  "snapshot_id": "MTY3Mjk3NDAwMCwwMDAwMDAwMDliOGM3MDE3OTQyMjdkNGNkMmI2N2Y2NzRjZTVjY2Y1",
   "tracks": [
     {
       "added_at": "2023-01-06 03:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Live from Spotify London",
-        "url": "https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Viva La Vida - Live from Spotify London",
-      "url": "https://open.spotify.com/track/6qt0IWS8y6yGR6gNTEmQzj"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -283,6 +267,42 @@
       "duration_ms": 265652,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Live from Spotify London",
+        "url": "https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Viva La Vida - Live from Spotify London",
+      "url": "https://open.spotify.com/track/6qt0IWS8y6yGR6gNTEmQzj"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "I'm Good (Blue) [Acoustic]",
+        "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 138024,
+      "name": "I'm Good (Blue) - Acoustic",
+      "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -319,22 +339,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 149451,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "Arcade (Acoustic Version)",
         "url": "https://open.spotify.com/album/3xiJB41twLQIbwMmv6N9Jz"
       },
@@ -347,6 +351,22 @@
       "duration_ms": 199237,
       "name": "Arcade - Acoustic Version",
       "url": "https://open.spotify.com/track/5e5XSjfqBk4mgRnQR1vu8Z"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 149451,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -411,26 +431,6 @@
       "duration_ms": 249535,
       "name": "Grenade - Acoustic",
       "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "I'm Good (Blue) [Acoustic]",
-        "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 138024,
-      "name": "I'm Good (Blue) - Acoustic",
-      "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "You Learn - Live / Unplugged",
+      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "Human Nature (Acoustic)",
         "url": "https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 227763,
       "name": "Human Nature - Acoustic",
       "url": "https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "You Learn - Live / Unplugged",
-      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Acoustic In Nashville - Bootleg No. 2",
-        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
       },
       "artists": [
         {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
         }
       ],
-      "duration_ms": 269946,
-      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
-      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
+      "duration_ms": 191953,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
+        "name": "Acoustic In Nashville - Bootleg No. 2",
+        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
       },
       "artists": [
         {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 191953,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
+      "duration_ms": 269946,
+      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
+      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -959,6 +959,34 @@
       "duration_ms": 208504,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Bad Memories (Acoustic)",
+        "url": "https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 141330,
+      "name": "Bad Memories - Acoustic",
+      "url": "https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1155,34 +1183,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Bad Memories (Acoustic)",
-        "url": "https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 141330,
-      "name": "Bad Memories - Acoustic",
-      "url": "https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
+        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 312800,
+      "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
+      "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "Love Me Now (feat. FAST BOY) [Acoustic]",
         "url": "https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 215240,
       "name": "Sun Will Shine - Acoustic Version",
       "url": "https://open.spotify.com/track/7a5w6S1iiQT6x1AWBVGMHv"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
-        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 312800,
-      "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
-      "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Ver\u00e3o Ac\u00fastico",
-        "url": "https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 183093,
       "name": "Us - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Ver\u00e3o Ac\u00fastico",
+        "url": "https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o"
     },
     {
       "added_at": "2023-01-06 03:00:00",

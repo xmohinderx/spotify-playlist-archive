@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 499045,
+  "num_followers": 499399,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGYzMzhkOWEyY2RjYzUxYTIxMDI4YTBiZDIwNGVjMTk1",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGI1NWNkMmQ0MzM1NTFhNTk2MzgxODU1NGViYmY3ODVi",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 204179,
-      "name": "Tornado Warnings",
-      "url": "https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "girls like me don't cry",
         "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 213640,
       "name": "girls like me don't cry",
       "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 204179,
+      "name": "Tornado Warnings",
+      "url": "https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Can't Do Better",
-        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 188616,
-      "name": "Can't Do Better",
-      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 199426,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Can't Do Better",
+        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 188616,
+      "name": "Can't Do Better",
+      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "All You Had To Do Was Stay",
+      "url": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "I'm Not Dead Yet",
         "url": "https://open.spotify.com/album/1yMUi2EXhNKenf6rHEu7AT"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 202202,
       "name": "the older you get, the less you cry",
       "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "All You Had To Do Was Stay",
-      "url": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Not Sad Anymore",
-        "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 195563,
-      "name": "Not Sad Anymore",
-      "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Half Written Story",
         "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 216083,
       "name": "I Love You's",
       "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Not Sad Anymore",
+        "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 195563,
+      "name": "Not Sad Anymore",
+      "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 133897,
-      "name": "24",
-      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Body Talk Pt. 1",
         "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 285973,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 133897,
+      "name": "24",
+      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
     },
     {
       "added_at": "2023-01-06 05:00:00",

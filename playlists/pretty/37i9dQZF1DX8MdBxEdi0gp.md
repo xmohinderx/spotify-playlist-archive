@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,262 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,330 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 68 | [De Mi Enamórate](https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 3:30 |
 | 69 | [Llamarada](https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C) | 3:19 |
 | 70 | [La Historia de Tommy](https://open.spotify.com/track/1LZZNt7iehSyCtsBvEk4EZ) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Grandes Éxitos Vol.2](https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN) | 2:40 |
-| 71 | [En Mi Viejo San Juan](https://open.spotify.com/track/3Cd9Lzxyqarjifb1T76W68) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl) | 2:53 |
-| 72 | [A Tu Recuerdo](https://open.spotify.com/track/0ZHoRUV1mugmRfG16MnBwP) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Lo Más Romántico De](https://open.spotify.com/album/4dy1PD7aN1of2Stl7WPwiJ) | 3:21 |
+| 71 | [A Tu Recuerdo](https://open.spotify.com/track/0ZHoRUV1mugmRfG16MnBwP) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Lo Más Romántico De](https://open.spotify.com/album/4dy1PD7aN1of2Stl7WPwiJ) | 3:21 |
+| 72 | [En Mi Viejo San Juan](https://open.spotify.com/track/3Cd9Lzxyqarjifb1T76W68) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl) | 2:53 |
 | 73 | [Mary Es Mi Amor](https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Esencial](https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj) | 3:12 |
 | 74 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
 | 75 | [Nunca digas](https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 99 | [Una Lágrima \(Una Lacrima\)](https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY) | [Estela Nuñez](https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0) | [Estela Nuñez..\. Sus Primeras E Inolvidables Grabaciones](https://open.spotify.com/album/2bPx9BRaxKsSAiYPzYaode) | 3:53 |
 | 100 | [Fue un Placer Conocerte](https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 3:00 |
 
-Snapshot ID: `MTY3MjQyNjM5NiwwMDAwMDAwMDE4ZjQ1MDI3MGM4N2FlNjE5MzJiN2Q0OGRlNTVlZWZl`
+Snapshot ID: `MTY3MjQyNjM5NiwwMDAwMDAwMDFmYWY1ZDY4MTg5ZWVjMDFlMDQ4MmRhZGEyZWEyNTZi`

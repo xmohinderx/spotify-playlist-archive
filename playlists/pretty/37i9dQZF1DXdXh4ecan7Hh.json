@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Breland. ",
-  "num_followers": 110217,
+  "num_followers": 110227,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwNzg1NywwMDAwMDAwMGVhNTEwMjQwZmRhNTk4MTk3NDVkM2E5NTE4YWE3NWY4",
+  "snapshot_id": "MTY2NjgwNzg1NywwMDAwMDAwMGQxNzRhODI4ZjdiZmNlOWZlZDhiZDRhZjY3YTVjZGIw",
   "tracks": [
     {
       "added_at": "2022-10-26 18:10:57",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-10-26 18:10:57",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
-    },
-    {
-      "added_at": "2022-10-26 18:10:57",
-      "album": {
         "name": "Smalltown Boy (Spotify Singles)",
         "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 317729,
       "name": "Smalltown Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
+    },
+    {
+      "added_at": "2022-10-26 18:10:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2022-10-26 18:10:57",

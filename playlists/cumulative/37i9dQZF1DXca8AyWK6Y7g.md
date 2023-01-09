@@ -4,7 +4,7 @@
 
 > I think my life might be better if I lived in Colorado? Cover: Reneé Rapp
 
-1,457 songs - 3 day 2 hr 31 min
+1,458 songs - 3 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Flying](https://open.spotify.com/track/28IEay5ppQw0PtZiBAkfUK) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Flying](https://open.spotify.com/album/6MAUGRgUwKMzw55LI6JXcQ) | 3:18 | 2022-08-19 | 2022-09-24 |
 | [FMF!](https://open.spotify.com/track/2Zfz6a8l5kVFevqnJ7p0nN) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Everything I Wish I Told You](https://open.spotify.com/album/4f1Qlmf19NGCYXxYR7kACp) | 3:01 | 2021-02-27 | 2021-11-05 |
 | [Focus](https://open.spotify.com/track/0s3oOo43gTBnU1lUOfXnd9) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Focus](https://open.spotify.com/album/0bPD3raLMo6oDb7en7D4Sp) | 3:24 | 2020-04-15 | 2021-11-08 |
+| [Fool](https://open.spotify.com/track/5QgGskSF5QeTPl99cg9KFz) | [Dava](https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu) | [Fool](https://open.spotify.com/album/3qVqJaNTwXt7wKfoiodAif) | 2:34 | 2023-01-09 |  |
 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2021-04-10 | 2022-06-09 |
 | [For My Friends](https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [For My Friends](https://open.spotify.com/album/7hfIFmFhdPoLzeeDGPaYAw) | 3:35 | 2022-03-18 | 2022-06-07 |
 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 | 2022-10-28 | 2022-12-10 |
@@ -1072,7 +1073,7 @@
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-25 | 2022-08-20 |
 | [Sad Love](https://open.spotify.com/track/68UkVdPxJFZDz5Dtz2nGsb) | [Whitney Woerz](https://open.spotify.com/artist/10BwHZCTlNF44mgOBrMec3) | [Sad Love](https://open.spotify.com/album/0LdcazWtgzYxZfwbbEFoXK) | 3:37 | 2022-06-24 | 2022-07-04 |
 | [Sad Song](https://open.spotify.com/track/0fjdTZFuBkKxpm9tQ8q8qD) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Sad Song](https://open.spotify.com/album/3Drj0EVrIr6D4OSiuGbB20) | 2:55 | 2020-06-12 | 2020-06-13 |
-| [saddest happy girl](https://open.spotify.com/track/01dhiSuKRdWMCvT6snLTkw) | [Stalking Gia](https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY) | [saddest happy girl](https://open.spotify.com/album/7y5gcNMgfvn7LhAFOdvT4z) | 2:27 | 2022-08-26 |  |
+| [saddest happy girl](https://open.spotify.com/track/01dhiSuKRdWMCvT6snLTkw) | [Stalking Gia](https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY) | [saddest happy girl](https://open.spotify.com/album/7y5gcNMgfvn7LhAFOdvT4z) | 2:27 | 2022-08-26 | 2023-01-09 |
 | [Salir](https://open.spotify.com/track/4BPPnB4QD4eXI251VjifTL) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Salir](https://open.spotify.com/album/3yTS8NyDJBjuyM5WtLX6Nl) | 2:58 | 2021-10-10 | 2021-10-11 |
 | [Saltines & Gingerale](https://open.spotify.com/track/4fywIRWZFKQWBUwSBrQ271) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [Saltines & Gingerale](https://open.spotify.com/album/7GGxMJrXmbPMnQ03uuJBa5) | 2:34 | 2021-07-16 | 2022-01-29 |
 | [SAME DAMN SONG](https://open.spotify.com/track/1ocrDvt7PiRJC9OoSQNLHf) | [Brendan Bennett](https://open.spotify.com/artist/0lpU3HUAjN8AdjApUJ2ykI) | [SAME DAMN SONG](https://open.spotify.com/album/4BcgMBYOSYiICH7gdyv8Ga) | 2:22 | 2021-03-07 | 2021-11-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckE9NhZZgv4.md) - [plain]
 
 > Let's make this a day and night to remember.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,390 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,412 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,21 +77,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckE9NhZZgv4.md) - [plain]
 | 67 | [Buy U a Drank \(Shawty Snappin'\) \(feat\. Yung Joc\)](https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj) | [Epiphany \(Expanded Edition\)](https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h) | 3:47 |
 | 68 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 |
 | 69 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
-| 70 | [All About That Bass](https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:07 |
-| 71 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 |
+| 70 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 |
+| 71 | [All About That Bass](https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:07 |
 | 72 | [Girlfriend](https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:36 |
 | 73 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 |
 | 74 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 4:17 |
-| 75 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 |
-| 76 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
-| 77 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 |
-| 78 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
-| 79 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
-| 80 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
+| 75 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
+| 76 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 |
+| 77 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
+| 78 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 |
+| 79 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
+| 80 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
 | 81 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
 | 82 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
-| 83 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
-| 84 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 |
+| 83 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 |
+| 84 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
 | 85 | [Pony](https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:11 |
 | 86 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 |
 | 87 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckE9NhZZgv4.md) - [plain]
 | 99 | [Singles You Up](https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:02 |
 | 100 | [California Gurls](https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:54 |
 
-Snapshot ID: `MTY3MjI1OTAyMywwMDAwMDAwMDBmMzBmMDVkMTUyYmRmNjIwNThjMTY1YmJkMjQ5ZDA5`
+Snapshot ID: `MTY3MjI1OTAyMywwMDAwMDAwMDgyYTAyYTQ1YjEzNjM3NThiNmQwOWRiZjRlZDFhOGI1`

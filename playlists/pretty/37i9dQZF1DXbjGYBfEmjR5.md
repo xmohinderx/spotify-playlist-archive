@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,924 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,072 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 56 | [Sailor Saturn](https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [SAILORWAVE III](https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V) | 2:44 |
 | 57 | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt) | 4:00 |
 | 58 | [Sunset](https://open.spotify.com/track/0rVZXO2gmrENbl7MRfa2h9) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [Metro City](https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv) | 2:40 |
-| 59 | [Mode](https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1) | [Remember](https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o) | 3:52 |
-| 60 | [Funk Dust](https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV) | [K/92](https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl) | [Dusty Shelves](https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf) | 2:12 |
+| 59 | [Funk Dust](https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV) | [K/92](https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl) | [Dusty Shelves](https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf) | 2:12 |
+| 60 | [Mode](https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1) | [Remember](https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o) | 3:52 |
 | 61 | [Together](https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [City Lights](https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc) | 4:08 |
 | 62 | [C'est La Vie](https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg) | [Lando Burch](https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX) | [Saturn St.](https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW) | 2:37 |
 | 63 | [Orca Adventure DX](https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Orca Adventure DX](https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7) | 2:51 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 73 | [The Way U Make Me Feel](https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Cyber Love](https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT) | 2:29 |
 | 74 | [You Can't Run](https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [You Can't Run](https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf) | 3:21 |
 | 75 | [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 |
-| 76 | [Hide & Seek](https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Muse](https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH) | 2:44 |
-| 77 | [Virtual World](https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Virtual World](https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm) | 4:05 |
+| 76 | [Virtual World](https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Virtual World](https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm) | 4:05 |
+| 77 | [Hide & Seek](https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Muse](https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH) | 2:44 |
 | 78 | [Hot Chance](https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Sexy Times \(3rd Anniversary Edition\)](https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd) | 3:45 |
 | 79 | [La Musique](https://open.spotify.com/track/7iyb4S0aR3dmvRTNn6dHKo) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Era](https://open.spotify.com/album/26pAoDv2hi7pjc6vcuIkiz) | 3:11 |
 | 80 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 89 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
 | 90 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
 | 91 | [Lynx](https://open.spotify.com/track/524FkjRzQa1CWYCpKrb6wV) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Lynx](https://open.spotify.com/album/4BCVAAm5eV08IVm2yISDN3) | 4:05 |
-| 92 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
-| 93 | [This Is Just a Test](https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf) | [UniBe@t](https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg) | [This Is Just a Test](https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8) | 6:03 |
-| 94 | [First Season](https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [First Season](https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj) | 4:55 |
-| 95 | [What You Need](https://open.spotify.com/track/31GGop5dcxgwHupVB7RRyi) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Bae 5](https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM) | 2:41 |
+| 92 | [First Season](https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [First Season](https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj) | 4:55 |
+| 93 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
+| 94 | [What You Need](https://open.spotify.com/track/31GGop5dcxgwHupVB7RRyi) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Bae 5](https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM) | 2:41 |
+| 95 | [This Is Just a Test](https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf) | [UniBe@t](https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg) | [This Is Just a Test](https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8) | 6:03 |
 | 96 | [Funk Express](https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl) | [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Back By Popular Demand](https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2) | 1:50 |
 | 97 | [Show Me Your Moves](https://open.spotify.com/track/25uEVnvqRFy1q6aQ7Dvr3a) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Nautical Nonsense](https://open.spotify.com/album/3YbRlq4I7RN3UNTO8hNwAm) | 2:33 |
-| 98 | [Stellae](https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Stellae](https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k) | 3:50 |
-| 99 | [Answer](https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst) | [Pop Up!](https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi) | [Notilde Tapes, Vol\. 1](https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg) | 3:50 |
+| 98 | [Answer](https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst) | [Pop Up!](https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi) | [Notilde Tapes, Vol\. 1](https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg) | 3:50 |
+| 99 | [Stellae](https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Stellae](https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k) | 3:50 |
 | 100 | [Dancefloor Sneakers](https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [Beaches](https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y) | 2:08 |
 
-Snapshot ID: `MTY2NzU0MDI1MCwwMDAwMDAwMGIwZDdjNTQ3MTEyM2M4M2Y1ZDE1NjhiYjRmY2FhNWZl`
+Snapshot ID: `MTY2NzU0MDI1MCwwMDAwMDAwMDQ2ZjdkNmMzN2Y3ZTJiODMwZDVhMTlhZWIzODVhNTkz`

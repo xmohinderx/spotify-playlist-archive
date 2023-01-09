@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXb9I5xoXLjp.md) - [plain]
 
 > In the mood for some romance?
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,865 likes - 65 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,460 likes - 65 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXb9I5xoXLjp.md) - [plain]
 | 3 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
 | 4 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 |
 | 5 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
-| 6 | [\(I've Had\) The Time Of My Life](https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best Of Bill Medley](https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr) | 4:49 |
+| 6 | [\(I've Had\) The Time Of My Life](https://open.spotify.com/track/7LtQBRDDEbA8LU5ug1WcpM) | [Bill Medley & Jennifer Warnes](https://open.spotify.com/artist/474704VWtghgra0b3Xru8V) | [Hits Of The 80s \(100 Songs\)](https://open.spotify.com/album/5uJ3FfBJ9CdGcEcCZZxiCr) | 4:49 |
 | 7 | [\(I Can't Help\) Falling In Love With You](https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Promises And Lies](https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d) | 3:27 |
 | 8 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
 | 9 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXb9I5xoXLjp.md) - [plain]
 | 64 | [Lovin' You](https://open.spotify.com/track/4twhYPDyCP6ICeW3TtQVxP) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:23 |
 | 65 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
 
-Snapshot ID: `MTY1MzkxNzQzOCwwMDAwMDAwMGU1NTk0NzAyYWZmYWRmYjIwYzNiMjkyNmE2ZDdiYmMz`
+Snapshot ID: `MTY1MzkxNzQzOCwwMDAwMDAwMDFhZjFkZmZjNWU4Yjg2NzFkODZmYzRjNGQ0ZjZiOTQ5`

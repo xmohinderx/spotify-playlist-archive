@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,837 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,520 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 36 | [Mesin Waktu](https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Mesin Waktu](https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy) | 4:22 |
 | 37 | [Akhir Tak Bahagia](https://open.spotify.com/track/0BYoWATcndOBcsCfKdTKRx) | [Misellia](https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn) | [Akhir Tak Bahagia](https://open.spotify.com/album/7zv0LcKjGlAUiTXQJzqhSY) | 3:05 |
 | 38 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
-| 39 | [Menjadi Dia](https://open.spotify.com/track/3Z0K4sFU1fOiBOe7Nf3kix) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:49 |
-| 40 | [Muak](https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Muak](https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq) | 4:24 |
+| 39 | [Muak](https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Muak](https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq) | 4:24 |
+| 40 | [Menjadi Dia](https://open.spotify.com/track/3Z0K4sFU1fOiBOe7Nf3kix) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:49 |
 | 41 | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/track/7As3vd7OvJwyGUsZfNtHce) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo) | 3:52 |
 | 42 | [I Love You but I'm Letting Go](https://open.spotify.com/track/01beCqR9wsVnwzkAJZyTqq) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk The Talk](https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU) | 3:40 |
 | 43 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 45 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
 | 46 | [Dan...](https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:48 |
 | 47 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 |
-| 48 | [Hampa](https://open.spotify.com/track/6bE0o9hYUPYlokZIH79oM0) | [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Keseimbangan](https://open.spotify.com/album/2NHhFC00ygRbtB3BeO8bKo) | 4:58 |
-| 49 | [Orang Yang Sama](https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Orang Yang Sama](https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P) | 4:28 |
+| 48 | [Orang Yang Sama](https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Orang Yang Sama](https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P) | 4:28 |
+| 49 | [Hampa](https://open.spotify.com/track/6bE0o9hYUPYlokZIH79oM0) | [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Keseimbangan](https://open.spotify.com/album/2NHhFC00ygRbtB3BeO8bKo) | 4:58 |
 | 50 | [Risalah Hati](https://open.spotify.com/track/0cc9lgdfHqeS8t9BzbFFmj) | [Dewa](https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w) | [Bintang Lima](https://open.spotify.com/album/3LRdN6TlxSk6DJqpSWwdFQ) | 4:52 |
 
-Snapshot ID: `MTY3MDM5NzI3MSwwMDAwMDAwMGNlZjMzY2ZhMTdhZmIyMDdkNzc5MmJlNWU3YzVmOTY2`
+Snapshot ID: `MTY3MDM5NzI3MSwwMDAwMDAwMDU3OWE4Y2E4ZDA1NmZlM2RmMjZiNTg3MDg2ZGExMjY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: CCOLA\(꼴라\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,761 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,899 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 16 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 |
 | 17 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 18 | [Winter 눈](https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX) | 3:52 |
-| 19 | [When It Snows](https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [FROM : X](https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn) | 2:51 |
-| 20 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
+| 19 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
+| 20 | [When It Snows](https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [FROM : X](https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn) | 2:51 |
 | 21 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 |
 | 22 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 |
 | 23 | [No One Told Me Why](https://open.spotify.com/track/1z9iPDRjp1fZUoisaJiTcA) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [1](https://open.spotify.com/album/4IBGLlaW7yGfCRCrHj03Vx) | 3:43 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 38 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 |
 | 39 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 |
 | 40 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 |
-| 41 | [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 |
-| 42 | [RAL 9002](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |
+| 41 | [RAL 9002](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |
+| 42 | [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 |
 | 43 | [Don't be sad](https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc) | 3:30 |
 | 44 | [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 |
-| 45 | [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 2:38 |
-| 46 | [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 |
+| 45 | [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 |
+| 46 | [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 2:38 |
 | 47 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 |
 | 48 | [Do You Think Of Me?](https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? \(4.4\)](https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V) | 3:16 |
 | 49 | [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 |
 | 50 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 |
 
-Snapshot ID: `MTY3MjgyMjAwMCwwMDAwMDAwMDk5MTNjYTZjMWE4YjRkMjAyZDFiYTg3Y2JmOTMxZWY1`
+Snapshot ID: `MTY3MjgyMjAwMCwwMDAwMDAwMGQzMTk1Y2U3OWE2ZmYxNDlhYzNkM2I0ZDkwZTZkYjBk`

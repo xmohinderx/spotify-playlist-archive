@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > q q eh birimbola?
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,906 likes - 70 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,775 likes - 70 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 4 | [Na Rebolada](https://open.spotify.com/track/7v3BTjWrmUYjaGiVHVVhCK) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM), [Thamirys](https://open.spotify.com/artist/3P1msOpSX2q616eW8UewYU) | [Na Rebolada](https://open.spotify.com/album/5BFgoR7RFXpcH5pHQBPu7x) | 1:51 |
 | 5 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 |
 | 6 | [Na Movimentação \(feat\. Faixa Rosa\)](https://open.spotify.com/track/2zpiccjPSl315SqthyDf9j) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Theus Costa](https://open.spotify.com/artist/4qNZfaBcaNA2Q2a9danTGP), [MC Bruna Alves](https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg), [Faixa Rosa](https://open.spotify.com/artist/0JrZ7I50iqRoiPc60m8ony) | [Na Movimentação \(feat\. Faixa Rosa\)](https://open.spotify.com/album/3jgOss4rmnFU1b6R8o3iIG) | 1:56 |
-| 7 | [EU BEM QUE TE AVISEI \- TU EMPINOU ELE PEI](https://open.spotify.com/track/0E0OENqh3jaZ4VpDFTOLGj) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ ABDO](https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw), [CLUB DA DZ7](https://open.spotify.com/artist/0OYVtrqGQ97ub2QGLNbOql) | [EU BEM QUE TE AVISEI \- TU EMPINOU ELE PEI](https://open.spotify.com/album/3lPLg51Y7BDPRB4n8pLnNC) | 2:38 |
+| 7 | [Eu Bem Que Te Avisei \- Tu Empinou Ele Pei](https://open.spotify.com/track/6pojmlhRI1fBUNg0pZSA9M) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ ABDO](https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw), [CLUB DA DZ7](https://open.spotify.com/artist/0OYVtrqGQ97ub2QGLNbOql) | [Eu Bem Que Te Avisei \- Tu Empinou Ele Pei](https://open.spotify.com/album/3agQ7dEMi2JOATLApERs3N) | 2:38 |
 | 8 | [Vou Morar no Cabaré](https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [Dj Wesley Gonzaga](https://open.spotify.com/artist/4mRdkoKoBtNFo5sDAgQlgi) | [Vou Morar no Cabaré](https://open.spotify.com/album/7Hyki9fAsyJ04V1lkMMGH6) | 1:45 |
 | 9 | [Botadinha Saliente](https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Botadinha Saliente](https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG) | 2:38 |
 | 10 | [Mec Mec 2](https://open.spotify.com/track/1aQyW6u67mcf9qzbd98jgS) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP) | [Mec Mec 2](https://open.spotify.com/album/5zEM4yWm6l51Uub97Xcpry) | 1:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 69 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 | 70 | [Desculpa Doutor](https://open.spotify.com/track/18CO6ODntZqzMxOxigBps4) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [Desculpa Doutor](https://open.spotify.com/album/4gcVNBmXEvJs9JRg3gAtUw) | 2:52 |
 
-Snapshot ID: `MTY3MzAxMzA1OCwwMDAwMDAwMGFjZWRlYjQxM2EwNjVmYTY0YTYyYzhmNWRiZjFiYzA0`
+Snapshot ID: `MTY3MzAxMzA1OCwwMDAwMDAwMDYxZmMxMjk4YjhiZGIwMTMxMDFhM2Q3OTRmM2Y3ZGI4`

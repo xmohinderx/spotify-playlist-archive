@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,907 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,017 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 10 | [I Need Air \(feat\. Angela Hunte\)](https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Angela Hunte](https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:16 |
 | 11 | [It Makes You Forget \(Itgehane\) \- Edit](https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 3:56 |
 | 12 | [Ya Kidding](https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e) | 3:58 |
-| 13 | [Panic Room](https://open.spotify.com/track/3MkuFR7t25mu7Iscp6GGiV) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Panic Room](https://open.spotify.com/album/0I1FZLxw8XWEwQMLMAlTkp) | 3:34 |
-| 14 | [Liquid Spirit \- Claptone Remix](https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Liquid Spirit \(Claptone Remix\)](https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2) | 6:23 |
+| 13 | [Liquid Spirit \- Claptone Remix](https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Liquid Spirit \(Claptone Remix\)](https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2) | 6:23 |
+| 14 | [Panic Room](https://open.spotify.com/track/3MkuFR7t25mu7Iscp6GGiV) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Panic Room](https://open.spotify.com/album/0I1FZLxw8XWEwQMLMAlTkp) | 3:34 |
 | 15 | [Rinse & Repeat](https://open.spotify.com/track/5oYYYDhyPFPXjAn4TzymOC) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Rinse & Repeat](https://open.spotify.com/album/0mjQLxpw5AdIxWI4Jqpenn) | 2:32 |
 | 16 | [Need U \(100%\) \(feat\. A\*M\*E\) \- Radio Edit](https://open.spotify.com/track/5zdkUzguZYAfBH9fnWn3Zl) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Need U \(100%\) \(feat\. A\*M\*E\) \[Remixes\]](https://open.spotify.com/album/3kiROSu1UpNbBPlewWu3f6) | 2:54 |
 | 17 | [Tidal Wave](https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alpines](https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX) | [Torus](https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d) | 3:48 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 40 | [I Loved You \(feat\. Melissa Steel\)](https://open.spotify.com/track/4KuS9s0fuqLznp9AJTqTm7) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Melissa Steel](https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf) | [I Loved You \(feat\. Melissa Steel\)](https://open.spotify.com/album/7onuwN1E6MPBFMbG4WAOoS) | 3:04 |
 | 41 | [Grey](https://open.spotify.com/track/1tNxprI7wf87blRuXUyEvC) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Speicher 93](https://open.spotify.com/album/3ynaPdzABzDYa71e6RSagL) | 4:53 |
 | 42 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 |
-| 43 | [We Do What We Want](https://open.spotify.com/track/18DjkS5pjqCBROtTVH4GK6) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [We Do What We Want](https://open.spotify.com/album/5DLu0Cem636nRBXkqhjDIh) | 8:25 |
-| 44 | [I Need A Painkiller](https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Butter Rush](https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo) | [I Need A Painkiller \(Armand Van Helden Vs\. Butter Rush\)](https://open.spotify.com/album/0dTCxYvPkt9AbZ3oqHI2CJ) | 3:15 |
+| 43 | [I Need A Painkiller](https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Butter Rush](https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo) | [I Need A Painkiller \(Armand Van Helden Vs\. Butter Rush\)](https://open.spotify.com/album/0dTCxYvPkt9AbZ3oqHI2CJ) | 3:15 |
+| 44 | [We Do What We Want](https://open.spotify.com/track/18DjkS5pjqCBROtTVH4GK6) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [We Do What We Want](https://open.spotify.com/album/5DLu0Cem636nRBXkqhjDIh) | 8:25 |
 | 45 | [Coma Cat](https://open.spotify.com/track/48gv7cE3Fs4DNNSgWkbu1f) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Coma Cat](https://open.spotify.com/album/6nw5kO6PPxOI2RzuNX7Bya) | 2:57 |
 | 46 | [Solitary Daze](https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Solitary Daze](https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM) | 7:43 |
 | 47 | [Just](https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Just EP](https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25) | 6:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Control](https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Mystery Machine](https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj) | 3:48 |
 | 50 | [The Jam](https://open.spotify.com/track/3eEStD7Va1vlaN5NBEbQmf) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [The Jam](https://open.spotify.com/album/6wpCBPI0iVsZFycthRIXSH) | 3:12 |
 
-Snapshot ID: `MTY0MzI3ODQzNSwwMDAwMDAwMGMzNzFiYzk2ZTkxNjNiZmVjYjkwNDU1YjY1OWY1NGRk`
+Snapshot ID: `MTY0MzI3ODQzNSwwMDAwMDAwMDM5NTI3ZTE2Zjg1NDIxYTA0ZmUxNWQ0ZGZjZDdlMGJm`

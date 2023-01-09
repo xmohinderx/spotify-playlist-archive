@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,972 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,054 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 27 | [Quitate La Máscara](https://open.spotify.com/track/7AhoOwG8qWE5RK7GS1XA6w) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 4:30 |
 | 28 | [Mi Gente](https://open.spotify.com/track/7epwpv5eX5E5rJLOKMBKS4) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 5:26 |
 | 29 | [El Negro Bembón](https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Baile Con Cortijo](https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o) | 3:00 |
-| 30 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
-| 31 | [Señor Sereno \- Live](https://open.spotify.com/track/4tzLQ79qkaQj9nQexQilon) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Oportunidad](https://open.spotify.com/album/4YnL0cm0xt3zoqqsLi9lVv) | 5:31 |
+| 30 | [Señor Sereno \- Live](https://open.spotify.com/track/4tzLQ79qkaQj9nQexQilon) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Oportunidad](https://open.spotify.com/album/4YnL0cm0xt3zoqqsLi9lVv) | 5:31 |
+| 31 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
 | 32 | [Richie's Jala Jala](https://open.spotify.com/track/5168U0L9JW0QWszjyrBogt) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 5:07 |
 | 33 | [Agua De Clavelito](https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY) | 6:22 |
 | 34 | [El Pito \(I'll Never Go Back To Georgia\)](https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 5:33 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 44 | [Jibaro Soy](https://open.spotify.com/track/26KRkeRDHUH73zwgohnoDv) | [Rapphy Levitt Orquesta La Selecta](https://open.spotify.com/artist/2iKZL4iDwGCUUqZcG5okOg) | [Jibaro Soy..\. Dg1236](https://open.spotify.com/album/3QoLk4smlcw55snXcRwGTP) | 5:01 |
 | 45 | [Siempre Seré Guajiro](https://open.spotify.com/track/2PQMhXmBx5h2jDsgZYHTfx) | [William Millan](https://open.spotify.com/artist/2RYP0CUL9ezyuVt13yMzVj), [Saoco](https://open.spotify.com/artist/5w8CzZs1645N7nVRmbVdF1) | [Siempre Seré Guajiro](https://open.spotify.com/album/5a7isqzKSbZ8ugfrqq8d8d) | 5:27 |
 | 46 | [Mala Suerte](https://open.spotify.com/track/3aYEabwDHrlSSReJd6m9bR) | [The Lebron Brothers Orchestra](https://open.spotify.com/artist/6zb5tBPPvk4nRXW33IqztD) | [Psychedelic Goes Latin](https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC) | 3:10 |
-| 47 | [Ojalá Te Vaya Bonito](https://open.spotify.com/track/6UrQqgQIqVsp63Dfgc9UCZ) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [Serie Sensacional Tropical Willie Rosario](https://open.spotify.com/album/7fCLBnwndU22MSF2IHRcC5) | 6:26 |
-| 48 | [Qué Pena](https://open.spotify.com/track/2BiPX58VlbUBfiu7hlbomO) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Qué Pena](https://open.spotify.com/album/5JtBd2d34ueQOa0VHr13I5) | 4:55 |
+| 47 | [Qué Pena](https://open.spotify.com/track/2BiPX58VlbUBfiu7hlbomO) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Qué Pena](https://open.spotify.com/album/5JtBd2d34ueQOa0VHr13I5) | 4:55 |
+| 48 | [Ojalá Te Vaya Bonito](https://open.spotify.com/track/6UrQqgQIqVsp63Dfgc9UCZ) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [Serie Sensacional Tropical Willie Rosario](https://open.spotify.com/album/7fCLBnwndU22MSF2IHRcC5) | 6:26 |
 | 49 | [Anacaona](https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Ponte Duro The Fania All Stars Story](https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv) | 7:17 |
 | 50 | [Popurrí Navideño / Estrella De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen María / La Tierra Mía](https://open.spotify.com/track/4b6c7ugOlWaVBUmCElgImW) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 3:36 |
 
-Snapshot ID: `MTY0NTIwMDE5NSwwMDAwMDAwMDZiOWRkYThmMmNkZmI1NDQzNGExMTNlYzRmNTAzMmZi`
+Snapshot ID: `MTY0NTIwMDE5NSwwMDAwMDAwMDc2OWE1ZDMzYjU4MTk5NjUxZjUyYzlkOWRjZDhlMzhk`

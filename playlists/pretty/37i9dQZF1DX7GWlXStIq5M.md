@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Hip Hop nacional e gringo para acompanhar gamers e gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,951 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,949 likes - 90 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 87 | [Kallidade](https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I) | [Kallidade](https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs) | 2:39 |
 | 88 | [Pipa Voada \(feat\. Emicida\)](https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:05 |
 | 89 | [Hot Shower](https://open.spotify.com/track/00ko9WaS4jOX1kEk3gvHjf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 3:45 |
-| 90 | [Poesia Acústica \- Paris](https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Poesia Acústica \- Paris](https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS) | 7:00 |
+| 90 | [Balão](https://open.spotify.com/track/4QFzCjkQl2c7wrzVrOu2sz) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Celebridade](https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa) | 4:13 |
 
-Snapshot ID: `MTYwMzIyNTQxOSwwMDAwMDAwMGI0YWM2NzlkOGVjZTNiNjVhNDkxZjE5YmYyZjA1YzRk`
+Snapshot ID: `MTYwMzIyNTQxOSwwMDAwMDAwMGRmN2UwZDZmNTMwYzBlOTk0N2I3ZjFiYTBkMDY5NTc2`

@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 130827,
+  "num_followers": 130966,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2NDA1OSwwMDAwMDAwMDQzYjgxYjA4NzRkNDFkMWNmZjA5OWQyNGRhZDMzZmY1",
+  "snapshot_id": "MTY3MzA2NDA1OSwwMDAwMDAwMDliMzc2MGJkMTdlZDBkNGYyZWY3ZDE2YjUzMDMyNzJl",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/4NbOlTgtufOpRVd7h1fsyA"
     },
     {
-      "added_at": "2022-08-02 14:49:54",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 215296,
-      "name": "No tiempo",
-      "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
-    },
-    {
       "added_at": "2022-01-14 00:51:04",
       "album": {
         "name": "Warm Chris",
@@ -223,6 +207,22 @@
       "duration_ms": 217066,
       "name": "Lawn",
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
+      "added_at": "2022-08-02 14:49:54",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 215296,
+      "name": "No tiempo",
+      "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
     },
     {
       "added_at": "2023-01-03 03:58:37",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B"
     },
     {
-      "added_at": "2022-09-29 00:42:15",
-      "album": {
-        "name": "Blood Be Fluid",
-        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
-      },
-      "artists": [
-        {
-          "name": "Julia Romana",
-          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
-        }
-      ],
-      "duration_ms": 227276,
-      "name": "Blood Be Fluid",
-      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
-    },
-    {
       "added_at": "2022-08-31 04:34:22",
       "album": {
         "name": "If I Were A Butterfly",
@@ -327,6 +311,22 @@
       "duration_ms": 311948,
       "name": "If I Were A Butterfly - Single Version",
       "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
+    },
+    {
+      "added_at": "2022-09-29 00:42:15",
+      "album": {
+        "name": "Blood Be Fluid",
+        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
+      },
+      "artists": [
+        {
+          "name": "Julia Romana",
+          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
+        }
+      ],
+      "duration_ms": 227276,
+      "name": "Blood Be Fluid",
+      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
     },
     {
       "added_at": "2022-02-04 15:20:01",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
     },
     {
-      "added_at": "2022-07-19 04:00:00",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 187307,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Designer",
@@ -379,6 +363,22 @@
       "duration_ms": 317453,
       "name": "Zoo Eyes",
       "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
+    },
+    {
+      "added_at": "2022-07-19 04:00:00",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 187307,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
       "added_at": "2022-09-12 20:09:14",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
-      "added_at": "2022-08-31 05:00:32",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
-    },
-    {
       "added_at": "2022-09-21 00:47:37",
       "album": {
         "name": "The world within our bedrooms",
@@ -459,6 +443,22 @@
       "duration_ms": 153746,
       "name": "Frame Of Reference",
       "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -485,20 +485,20 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-08-31 05:00:32",
       "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
       },
       "artists": [
         {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
         }
       ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
       "added_at": "2023-01-04 00:57:30",
@@ -533,26 +533,6 @@
       "url": "https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX"
     },
     {
-      "added_at": "2022-11-17 22:51:20",
-      "album": {
-        "name": "Starry Nights",
-        "url": "https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Neal Francis",
-          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
-        }
-      ],
-      "duration_ms": 205067,
-      "name": "Starry Nights",
-      "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
-    },
-    {
       "added_at": "2022-08-13 00:53:45",
       "album": {
         "name": "Go On",
@@ -571,6 +551,26 @@
       "duration_ms": 286640,
       "name": "Go On",
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
+    },
+    {
+      "added_at": "2022-11-17 22:51:20",
+      "album": {
+        "name": "Starry Nights",
+        "url": "https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 205067,
+      "name": "Starry Nights",
+      "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
     },
     {
       "added_at": "2022-09-06 17:57:02",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
-      "added_at": "2022-10-27 22:17:21",
-      "album": {
-        "name": "Se Ve Desde Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 408057,
-      "name": "Desde el Cielo",
-      "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
-    },
-    {
       "added_at": "2023-01-03 01:09:50",
       "album": {
         "name": "Time Skiffs",
@@ -819,6 +803,22 @@
       "duration_ms": 405773,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci"
+    },
+    {
+      "added_at": "2022-10-27 22:17:21",
+      "album": {
+        "name": "Se Ve Desde Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 408057,
+      "name": "Desde el Cielo",
+      "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
     },
     {
       "added_at": "2022-09-29 00:57:24",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
-      "added_at": "2022-01-20 01:49:28",
-      "album": {
-        "name": "Shadow in the Frame",
-        "url": "https://open.spotify.com/album/4SIzipBgkpqyvKpGJJkbJ6"
-      },
-      "artists": [
-        {
-          "name": "Daniel Rossen",
-          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
-        }
-      ],
-      "duration_ms": 316769,
-      "name": "Shadow in the Frame",
-      "url": "https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN"
-    },
-    {
       "added_at": "2023-01-02 19:44:34",
       "album": {
         "name": "CODE",
@@ -1019,6 +1003,22 @@
       "duration_ms": 255264,
       "name": "CODE",
       "url": "https://open.spotify.com/track/0ykQscPscfZzjQkRqRettF"
+    },
+    {
+      "added_at": "2022-01-20 01:49:28",
+      "album": {
+        "name": "Shadow in the Frame",
+        "url": "https://open.spotify.com/album/4SIzipBgkpqyvKpGJJkbJ6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
+        }
+      ],
+      "duration_ms": 316769,
+      "name": "Shadow in the Frame",
+      "url": "https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1257,28 +1257,20 @@
       "url": "https://open.spotify.com/track/32x4NRfnM2b5sqBGsuGCfG"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-09-30 04:04:59",
       "album": {
-        "name": "Hildegard",
-        "url": "https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
       },
       "artists": [
         {
-          "name": "Hildegard",
-          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
-        },
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+          "name": "Perera Elsewhere",
+          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
         }
       ],
-      "duration_ms": 186544,
-      "name": "Jour 3",
-      "url": "https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V"
+      "duration_ms": 237999,
+      "name": "Travel Lite",
+      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1313,36 +1305,28 @@
       "url": "https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
+        "name": "Hildegard",
+        "url": "https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV"
       },
       "artists": [
         {
-          "name": "Perera Elsewhere",
-          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
-        }
-      ],
-      "duration_ms": 237999,
-      "name": "Travel Lite",
-      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
-    },
-    {
-      "added_at": "2022-01-21 20:15:30",
-      "album": {
-        "name": "Feedback Loop",
-        "url": "https://open.spotify.com/album/204n8zYF4t6GYr7atvFvsE"
-      },
-      "artists": [
+          "name": "Hildegard",
+          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
+        },
         {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
         }
       ],
-      "duration_ms": 188873,
-      "name": "Feedback Loop",
-      "url": "https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC"
+      "duration_ms": 186544,
+      "name": "Jour 3",
+      "url": "https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1365,6 +1349,22 @@
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
+      "added_at": "2022-01-21 20:15:30",
+      "album": {
+        "name": "Feedback Loop",
+        "url": "https://open.spotify.com/album/204n8zYF4t6GYr7atvFvsE"
+      },
+      "artists": [
+        {
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+        }
+      ],
+      "duration_ms": 188873,
+      "name": "Feedback Loop",
+      "url": "https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Rivers That You Cannot See",
@@ -1379,6 +1379,22 @@
       "duration_ms": 235093,
       "name": "Rivers That You Cannot See",
       "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
+    },
+    {
+      "added_at": "2022-03-11 04:34:08",
+      "album": {
+        "name": "P.O.N",
+        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "duration_ms": 174518,
+      "name": "Hasta Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
     },
     {
       "added_at": "2022-01-11 00:08:03",
@@ -1405,20 +1421,20 @@
       "url": "https://open.spotify.com/track/4HTssxgiSfzBgJz0OpGflP"
     },
     {
-      "added_at": "2022-03-11 04:34:08",
+      "added_at": "2023-01-03 23:48:36",
       "album": {
-        "name": "P.O.N",
-        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
       },
       "artists": [
         {
-          "name": "TOGITO",
-          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
         }
       ],
-      "duration_ms": 174518,
-      "name": "Hasta Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -1437,22 +1453,6 @@
       "url": "https://open.spotify.com/track/45Gj8HBuOtMjooXu3pLEOt"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
-      },
-      "artists": [
-        {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
-        }
-      ],
-      "duration_ms": 316413,
-      "name": "Big Appetite",
-      "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
-    },
-    {
       "added_at": "2022-09-21 02:36:16",
       "album": {
         "name": "Face The Music",
@@ -1467,6 +1467,22 @@
       "duration_ms": 460945,
       "name": "Face The Music",
       "url": "https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+      },
+      "artists": [
+        {
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+        }
+      ],
+      "duration_ms": 316413,
+      "name": "Big Appetite",
+      "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1539,22 +1555,6 @@
       "duration_ms": 256440,
       "name": "Adkrog (feat. Gareth Jones)",
       "url": "https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C"
-    },
-    {
-      "added_at": "2023-01-03 23:48:36",
-      "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2022-08-25 19:38:46",

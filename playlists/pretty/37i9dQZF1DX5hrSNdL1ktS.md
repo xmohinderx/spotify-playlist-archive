@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Dani Torres en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,204 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,203 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 26 | [Las Gatas](https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Las Gatas](https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n) | 2:26 |
 | 27 | [Salvaje](https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2) | [Salvaje](https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb) | 2:57 |
 | 28 | [B\-Day](https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh) | 4:08 |
-| 29 | [Tas Clara](https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tas Clara](https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc) | 3:50 |
-| 30 | [Se Siente Bien](https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Gitana Kamp](https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps) | [Gitana Kamp, Vol\. I](https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2) | 2:26 |
+| 29 | [Se Siente Bien](https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Gitana Kamp](https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps) | [Gitana Kamp, Vol\. I](https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2) | 2:26 |
+| 30 | [Tas Clara](https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tas Clara](https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc) | 3:50 |
 | 31 | [GYAL](https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ) | [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Birat Bitz](https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b) | [ICE BLUE](https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU) | 2:54 |
 | 32 | [LA PUERTA](https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [LA PUERTA](https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj) | 3:03 |
 | 33 | [Dm](https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Dm](https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA) | 3:03 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 47 | [SESENTAYNUEVE](https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [SESENTAYNUEVE](https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET) | 2:02 |
 | 48 | [LUZ APAGÁ](https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [ANA SOCLASH](https://open.spotify.com/artist/1Ki6CexnSiRGBidWxa97Bs) | [LUZ APAGÁ](https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0) | 2:57 |
 | 49 | [La Duda](https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H) | [La Duda](https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm) | 3:21 |
-| 50 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 |
-| 51 | [Mal Acompañada](https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy), [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Mal Acompañada](https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G) | 3:21 |
+| 50 | [Mal Acompañada](https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy), [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Mal Acompañada](https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G) | 3:21 |
+| 51 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 |
 | 52 | [Loco Demente](https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Loco Demente](https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv) | 3:38 |
 | 53 | [La Cura](https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [La Cura](https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH) | 2:30 |
 | 54 | [14](https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso) | [14](https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI) | 3:16 |
 | 55 | [DEJA VU](https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [DEJA VU](https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe) | 2:51 |
 
-Snapshot ID: `MTY3MTY0MjUzNSwwMDAwMDAwMGE3YTc2NmMzMWVlNDk4YWQxOGRjMTRiMmY3OGQwNTQ0`
+Snapshot ID: `MTY3MTY0MjUzNSwwMDAwMDAwMDMxOGViMTFkNDFlOTVmMzBmNzRhMDIzYjcyNGIwZTMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 
 > Ritmo latino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,036 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,464 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 | 43 | [mariposas](https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [mariposas](https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH) | 2:34 |
 | 44 | [Hawái](https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:19 |
 | 45 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 |
-| 46 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
-| 47 | [Ley Seca](https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:23 |
+| 46 | [Ley Seca](https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:23 |
+| 47 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
 | 48 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
 | 49 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 |
 | 50 | [Luces De Neón](https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Luces De Neón](https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS) | 3:39 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 | 68 | [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:29 |
 | 69 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 |
 | 70 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
-| 71 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 |
-| 72 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 |
+| 71 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 |
+| 72 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 |
 | 73 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 |
 | 74 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 |
 | 75 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 |
 
-Snapshot ID: `MTY3MTQ3NjU5MSwwMDAwMDAwMDliZWE1YzQ5ZWQyOTgxZDdjMjM5YmI5NjY4MjhiMGQ5`
+Snapshot ID: `MTY3MTQ3NjU5MSwwMDAwMDAwMDQ2ZDMzNjk0NDE1Yjk3OWYxZDhkM2FiYjExYThlMTFm`

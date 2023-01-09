@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fklOIFLGHF.md) - [plain]
 
 > Rock sin vueltas\. Foto: EMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,544 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,575 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fklOIFLGHF.md) - [plain]
 | 44 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 |
 | 45 | [You Really Got Me](https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:14 |
 | 46 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
-| 47 | [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 |
+| 47 | [A las Nueve](https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:27 |
 | 48 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
-| 49 | [A las Nueve](https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:27 |
+| 49 | [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 |
 | 50 | [Kashmir \- Remaster](https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 8:37 |
 | 51 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 |
 | 52 | [Somebody to Love](https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:54 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fklOIFLGHF.md) - [plain]
 | 62 | [Lo malo de ser bueno](https://open.spotify.com/track/7xB3hSztVbX6xFvQqEGKud) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Porfiado](https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6) | 4:02 |
 | 63 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:50 |
 | 64 | [Me Gusta](https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:49 |
-| 65 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
-| 66 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 |
+| 65 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 |
+| 66 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
 | 67 | [Un Poco de Amor Francés](https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:26 |
 | 68 | [Ella Dijo](https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Sistema Nervioso Central](https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4) | 4:44 |
 | 69 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fklOIFLGHF.md) - [plain]
 | 83 | [Madrugada](https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:41 |
 | 84 | [Smoke on the Water](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 5:42 |
 | 85 | [De Nada Sirve](https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:57 |
-| 86 | [Paint It, Black \- Mono](https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones In Mono \(Remastered 2016\)](https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv) | 3:24 |
-| 87 | [Tan Solo](https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK) | 4:00 |
+| 86 | [Tan Solo](https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK) | 4:00 |
+| 87 | [Paint It, Black \- Mono](https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones In Mono \(Remastered 2016\)](https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv) | 3:24 |
 | 88 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
 | 89 | [Tarea Fina](https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:43 |
 | 90 | [Un Pacto \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fklOIFLGHF.md) - [plain]
 | 99 | [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 |
 | 100 | [Como Olvidarme](https://open.spotify.com/track/4BoHTlFIrDSrPNp768Tyek) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:48 |
 
-Snapshot ID: `MTY3MTE1OTYwMCwwMDAwMDAwMGQwOTZmZjlhZmFlNmRkN2UzOGZhMWE3NDVlM2Y1YWM2`
+Snapshot ID: `MTY3MTE1OTYwMCwwMDAwMDAwMDU3ZmZiMDI1MmE1N2U0ZTU5MzI0OWQ0ZmY2YTQ5Yzgx`

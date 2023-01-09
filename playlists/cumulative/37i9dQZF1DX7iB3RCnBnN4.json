@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Every song with over 1 billion streams on Spotify. Cover: Billie Eilish",
+  "description": "Every song with over 1 billion streams on Spotify. Cover: The Weeknd & Ariana Grande",
   "name": "BILLIONS CLUB",
   "tracks": [
     {
@@ -1790,7 +1790,7 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "date_added": "2023-01-05",
+      "date_added": "2023-01-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 331560,
@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 235545,
       "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
       "url": "https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk"
@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 217925,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/0h1W19pS59KtEd7aDzF58i"
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 244440,
       "name": "Into You",
       "url": "https://open.spotify.com/track/49gRYU6hBWgSH2JVixGkJq"
@@ -5011,6 +5011,28 @@
     },
     {
       "album": {
+        "name": "Save Your Tears (Remix)",
+        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "Save Your Tears (with Ariana Grande) (Remix)",
+      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -5448,7 +5470,7 @@
           "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "date_added": "2023-01-05",
+      "date_added": "2023-01-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209273,
@@ -6894,7 +6916,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 199849,
       "name": "What Lovers Do (feat. SZA)",
       "url": "https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF"

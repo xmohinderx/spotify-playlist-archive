@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,647 likes - 75 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,715 likes - 75 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,20 +68,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 58 | [Show Me \- Instrumental](https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 3:41 |
 | 59 | [Afternoon in Paris](https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The Wonderful World Of Jazz](https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh) | 9:58 |
 | 60 | [Just A\-Sittin' And A\-Rockin' \- Live At The Village Vanguard, New York / 1959](https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1) | [Kenny Burrell Trio](https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU) | [A Night At The Vanguard](https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra) | 4:20 |
-| 61 | [I'm Glad There Is You \- Remaster/2004](https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:14 |
+| 61 | [You Go to My Head](https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [The Teddy Charles Tentet](https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh) | 4:25 |
 | 62 | [The Queen's Fancy](https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 3:12 |
-| 63 | [You Go to My Head](https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [The Teddy Charles Tentet](https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh) | 4:25 |
+| 63 | [I'm Glad There Is You \- Remaster/2004](https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:14 |
 | 64 | [Fishin' Around](https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Subconscious\-Lee](https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe) | 3:44 |
 | 65 | [Life Is a Ball](https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [4 to Go!](https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ) | 5:31 |
 | 66 | [Solar](https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Bird Feathers \(Remastered\)](https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM) | 5:52 |
 | 67 | [On A Riff](https://open.spotify.com/track/2YukMgAWfr4Ew8oONiNLdP) | [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa) | [Plays Andre Hodeir](https://open.spotify.com/album/0s69Ld833Q6OtOtkbRD45O) | 2:55 |
 | 68 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
-| 69 | [Nancy](https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ) | 6:06 |
-| 70 | [Angel Eyes](https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3) | [Dave Pell's Jazz Octet](https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM) | [A Pell Of A Time](https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11) | 5:38 |
+| 69 | [Angel Eyes](https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3) | [Dave Pell's Jazz Octet](https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM) | [A Pell Of A Time](https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11) | 5:38 |
+| 70 | [Nancy](https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ) | 6:06 |
 | 71 | [Too Marvelous For Words](https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Quartets \(Remastered\)](https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg) | 2:53 |
 | 72 | [Sunflower](https://open.spotify.com/track/7EzUxzOUcq6HocnqSUr8JT) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Very Cool](https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6) | 8:05 |
 | 73 | [Venus De Milo](https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 3:12 |
 | 74 | [Miles Ahead](https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:29 |
 | 75 | [Deception](https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:48 |
 
-Snapshot ID: `MTY2Mzc0NTkxOCwwMDAwMDAwMDQyMmFmNDM5OGQ0NGEyOTI2MGQ0NTZiMWRhYzkxMDNk`
+Snapshot ID: `MTY2Mzc0NTkxOCwwMDAwMDAwMDc4MmVlODE5OWM1MzUyYTljM2RmM2EyY2Q5N2I4NjE2`

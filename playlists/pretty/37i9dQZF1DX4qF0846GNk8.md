@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر!  <br/> الغلاف: حسن شاكوش و حمو بيكا
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,204 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,334 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

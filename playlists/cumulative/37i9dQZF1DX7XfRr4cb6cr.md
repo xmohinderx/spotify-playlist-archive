@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-191 songs - 17 hr 12 min
+192 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Little One](https://open.spotify.com/track/4ZWOPkS0VXZ00g4ZLxiHO6) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Feelings](https://open.spotify.com/album/7bpTt6OXLkmtTJm51VxtYw) | 2:22 | 2022-01-28 |  |
 | [Ljusdal](https://open.spotify.com/track/7H6PFuHnGNkoEOwWgwGkuo) | [Marko Nyberg](https://open.spotify.com/artist/5qd3TA4AmPNW90byfRefks) | [Ingrid EP](https://open.spotify.com/album/5WGM2nY7EKogs7tOTnebHi) | 5:08 | 2022-12-30 |  |
 | [Ljusdal](https://open.spotify.com/track/7xr2Gkl3u6gOVa11PPBr1J) | [Marko Nyberg](https://open.spotify.com/artist/5qd3TA4AmPNW90byfRefks) | [Ingrid EP](https://open.spotify.com/album/5795LZIYAuces2kT5rXibb) | 5:08 | 2022-02-04 | 2022-07-29 |
-| [Loneliness of Earth \(Varg´s Ursviken version\)](https://open.spotify.com/track/4uJiT3ZeO7jgMgPxBRh6zG) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Loneliness of Earth \(Varg´s Ursviken Version\)](https://open.spotify.com/album/1GUm0mjbKPrBbMrTSFPTYo) | 5:06 | 2022-01-21 |  |
+| [Loneliness of Earth \(Varg´s Ursviken version\)](https://open.spotify.com/track/4uJiT3ZeO7jgMgPxBRh6zG) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Loneliness of Earth \(Varg´s Ursviken Version\)](https://open.spotify.com/album/1GUm0mjbKPrBbMrTSFPTYo) | 5:06 | 2022-01-21 | 2023-01-09 |
 | [Low Smoulder](https://open.spotify.com/track/7d8ZJaA8vvqu3FoIhGZ73V) | [William Ryan Fritch](https://open.spotify.com/artist/4uKt0y4zMxjivxkjDsT3gl) | [Low Smoulder / Canary](https://open.spotify.com/album/3bUoijDzf8zWf0KfYF1OA1) | 6:26 | 2022-01-21 |  |
 | [Luna](https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [Luna](https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l) | 6:06 | 2022-03-11 |  |
 | [Långt under noll](https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0) | [Snufmumriko](https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn) | [Radio Mnemosyne](https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y) | 6:22 | 2022-03-04 | 2022-07-28 |
@@ -186,6 +186,7 @@
 | [Unearth](https://open.spotify.com/track/6Xi8YlrC0eGYuyjnJHWUVR) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Fallen](https://open.spotify.com/album/52thnHxyMTyY56yHm8i6Sx) | 5:57 | 2022-01-21 |  |
 | [Untitled, Saturday](https://open.spotify.com/track/1yAG81LXyetlG4yrmowDGn) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [deer meadow](https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr) | [In a Sad Red Dusk, We Were Finally Leaving](https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR) | 4:52 | 2022-01-28 | 2022-07-29 |
 | [Vaara](https://open.spotify.com/track/7saUM4eE5H2Ai6c4Ot6Q47) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Vaara](https://open.spotify.com/album/58BzF0qi2u7FwZlTRsKcG7) | 5:09 | 2022-01-21 |  |
+| [Vanished](https://open.spotify.com/track/5eP0rdHSybIF4XU9tJalxU) | [Mayumi Masuya](https://open.spotify.com/artist/2c4dh6oAFivRgqb0CfOknz), [Sounds M](https://open.spotify.com/artist/2NaVCoohbahnm2WjNXW8Gn) | [Dusk to Dawn](https://open.spotify.com/album/3H37eb0yDPh3cSA6LOILx1) | 3:15 | 2022-12-30 |  |
 | [Vanished](https://open.spotify.com/track/2L5heX1aiNXS90ddDcEmx1) | [Sounds M](https://open.spotify.com/artist/2NaVCoohbahnm2WjNXW8Gn) | [Vanished](https://open.spotify.com/album/5Bx2FSekEMhJX6J6jrNOis) | 3:15 | 2022-02-25 | 2022-12-30 |
 | [Vi är överallt](https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG) | [Orphan Ann](https://open.spotify.com/artist/633FjCdzULVbn0CjE820vK) | [The Practice Of Surrender](https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL) | 5:00 | 2022-01-21 |  |
 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 | 2022-01-21 | 2022-07-29 |

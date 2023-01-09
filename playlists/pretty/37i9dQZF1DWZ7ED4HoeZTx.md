@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,119 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,556 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 14 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 |
 | 15 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 |
 | 16 | [ODDTAXI](https://open.spotify.com/track/4bMo9lJmh3jNTzfmfQ1YcL) | [スカートとPUNPEE](https://open.spotify.com/artist/2c1PTv8do7xhzgK6rKBf5A), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ODDTAXI](https://open.spotify.com/album/3xvfQSF7SX9lk4OC1wwOTS) | 3:23 |
-| 17 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 |
+| 17 | [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 |
 | 18 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 |
 | 19 | [Let There Be Light Again](https://open.spotify.com/track/0YCz0CKKxSx1Ezk0HsYnHI) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/2T9PfTuP5ovbfpM7wv6nez) | 3:47 |
 | 20 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 |
-| 21 | [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 |
+| 21 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 |
 | 22 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 |
 | 23 | [Clair de Lune, L\. 32](https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Martin Jones](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) | [Debussy: Clair De Lune and Other Piano Favourites](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) | 4:28 |
 | 24 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 49 | [Next to you \- from Parasyte](https://open.spotify.com/track/3iVvQHWCLGjfY3iFEwV9lO) | [Ken Arai](https://open.spotify.com/artist/5zGGIlGJXnwLcbniSyoc7w), [NSZX](https://open.spotify.com/artist/2DvKwWmzK5CPUBSRCWtZCy) | [Next to you \(from Parasyte\)](https://open.spotify.com/album/3GWLbX2NoKUi2wv6IKJ5z3) | 3:33 |
 | 50 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
 
-Snapshot ID: `MTY3MjkzMDgwMCwwMDAwMDAwMDEyZDUxZjA1NjYxN2NhM2UwOGMyNDAxY2M3YTFlOTNm`
+Snapshot ID: `MTY3MjkzMDgwMCwwMDAwMDAwMDI2OGMzZDUzNWVkNTVjMWM1MzNmYjhkNjg1ZGQyNTBl`

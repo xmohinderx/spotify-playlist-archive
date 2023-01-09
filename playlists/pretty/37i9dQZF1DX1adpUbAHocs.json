@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 653940,
+  "num_followers": 654057,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2MTc0NywwMDAwMDAwMGRjMDY1M2JhYTdhOWVlZTMyMjc0Y2M1NWNmODZhNThm",
+  "snapshot_id": "MTY3Mjc2MTc0NywwMDAwMDAwMDdkNzg5ZTIzMWUzNmZkOWY1ZmJjNTdlMzk0Mzc5MmMx",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "A Deeper Understanding",
-        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 330760,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/59P1nrdEImkAKa1nyW9X2e"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "A Deeper Understanding",
+        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 330760,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/59P1nrdEImkAKa1nyW9X2e"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
-      },
-      "artists": [
-        {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 280293,
       "name": "Song In My Head",
       "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "to Perth, before the border closes",
+        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "to Perth, before the border closes",
+      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 212142,
       "name": "Devil I Know",
       "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "to Perth, before the border closes",
-        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "to Perth, before the border closes",
-      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Nude Party",
-        "url": "https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q"
-      },
-      "artists": [
-        {
-          "name": "The Nude Party",
-          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Chevrolet Van",
-      "url": "https://open.spotify.com/track/5QpkOt3hpNf4zns6FJ7JRH"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 215493,
       "name": "Now is the Time",
       "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "The Nude Party",
+        "url": "https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q"
+      },
+      "artists": [
+        {
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Chevrolet Van",
+      "url": "https://open.spotify.com/track/5QpkOt3hpNf4zns6FJ7JRH"
     },
     {
       "added_at": "2022-10-14 04:00:00",

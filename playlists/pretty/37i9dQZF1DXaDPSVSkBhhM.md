@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,528 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,541 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 20 | [Vamos Otra Vez](https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [120 Km/Hr.](https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM) | 3:41 |
 | 21 | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG) | [Andrés Canalla](https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob) | 3:43 |
 | 22 | [Fantasmas](https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW) | [Aurum](https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB) | [Fantasmas](https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ) | 3:36 |
-| 23 | [Quemando Cartas](https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Entre La Guerra Y El Amor](https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV) | 3:05 |
-| 24 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A) | 3:34 |
+| 23 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A) | 3:34 |
+| 24 | [Quemando Cartas](https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Entre La Guerra Y El Amor](https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV) | 3:05 |
 | 25 | [Confesión](https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Gran Blanco](https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf) | 3:23 |
 | 26 | [Bacardí](https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu) | [Pet Friendly](https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW) | [Bacardí](https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G) | 2:31 |
 | 27 | [Tennessecito](https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Mejores Tiempos](https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 49 | [Nunca Me Voy a Ir](https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss), [Niza Buenrostro](https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9) | [Nunca Me Voy a Ir](https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS) | 2:31 |
 | 50 | [Antes](https://open.spotify.com/track/1rZPLX3l9i3nOzPuyw5uTa) | [Celofán](https://open.spotify.com/artist/6lxn2RanNHWxoWRHLTLunm) | [Split](https://open.spotify.com/album/2w1Xt3HBQq6qIDZEZWk4CE) | 3:19 |
 
-Snapshot ID: `MTY3MTY0MzM2MiwwMDAwMDAwMDkyODFkMjczNGJmODM1NDkyMmZlOTE5M2FiOGE3N2Y3`
+Snapshot ID: `MTY3MTY0MzM2MiwwMDAwMDAwMGY4MGQzNjkxYTllOTEwMWY0ODk4MTEwNGUzMWMyYmQ2`

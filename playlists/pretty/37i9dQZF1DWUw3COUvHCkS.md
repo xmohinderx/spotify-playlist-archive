@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 
 > What breaking up in the 2000s sounded like\. Cover: The Fray
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,378 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,574 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 30 | [Far Away](https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 3:58 |
 | 31 | [Wonderwall](https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 4:18 |
 | 32 | [Lips Of An Angel](https://open.spotify.com/track/40LQiUUUKXVGyNs09lHVjW) | [Hinder](https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY) | [Extreme Behavior](https://open.spotify.com/album/2SmDuZSWtjukp9gkG2mcBQ) | 4:21 |
-| 33 | [Look After You](https://open.spotify.com/track/5l6hpyTGBK0LAAxgPnqTQL) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:26 |
-| 34 | [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 3:47 |
+| 33 | [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 3:47 |
+| 34 | [Look After You](https://open.spotify.com/track/5l6hpyTGBK0LAAxgPnqTQL) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:26 |
 | 35 | [Chasing Pavements](https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:30 |
 | 36 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 |
 | 37 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 65 | [Over You](https://open.spotify.com/track/2R5uY1gbIKzGB1yAOH067s) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 3:24 |
 | 66 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 |
 | 67 | [Vindicated](https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Dusk And Summer](https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U) | 3:21 |
-| 68 | [It Ends Tonight](https://open.spotify.com/track/1FMHNVeJ9s1x1l1WlaRs2I) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 4:04 |
-| 69 | [Unwell \- 2007 Remaster](https://open.spotify.com/track/0PXWpNBYg52gABrn1qL1bD) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Exile on Mainstream](https://open.spotify.com/album/0oFlNGmGpsFvvhBgnNPirh) | 3:57 |
+| 68 | [Unwell \- 2007 Remaster](https://open.spotify.com/track/0PXWpNBYg52gABrn1qL1bD) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Exile on Mainstream](https://open.spotify.com/album/0oFlNGmGpsFvvhBgnNPirh) | 3:57 |
+| 69 | [It Ends Tonight](https://open.spotify.com/track/1FMHNVeJ9s1x1l1WlaRs2I) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 4:04 |
 | 70 | [Pictures Of You](https://open.spotify.com/track/4bfyeYgNLENrwLRRSKXfM3) | [The Last Goodnight](https://open.spotify.com/artist/4UrGiQXrpB2CmzVGVFtH5E) | [Poison Kiss](https://open.spotify.com/album/3MOMO36PjOCsTjRgN7D7IE) | 3:09 |
 | 71 | [Don't Tell Me](https://open.spotify.com/track/0dEQaNYfp5G7Sflek2Qnde) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:22 |
 | 72 | [Dare You To Move](https://open.spotify.com/track/4x3381mYJqptPqT6OKUfmu) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Learning To Breathe](https://open.spotify.com/album/4rpXUpnO39yG7ETyugzzIs) | 4:07 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 90 | [Nothing Left to Lose](https://open.spotify.com/track/23MG7PAYUQp0esP2dzWHWj) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose](https://open.spotify.com/album/6QhRwIZzTZ2ShlXVZsVfbM) | 4:23 |
 | 91 | [Into Your Arms](https://open.spotify.com/track/3skPCcteHhoPV6GkzxVl2p) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Can't Stop Won't Stop](https://open.spotify.com/album/0bxAg2688N46MOhGVHxRFJ) | 3:59 |
 | 92 | [Closing Time](https://open.spotify.com/track/6liaHE9iHh23PLVvw7lK8V) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Feeling Strangely Fine \(20th Anniversary Edition\)](https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T) | 4:33 |
-| 93 | [Someone's Watching Over Me](https://open.spotify.com/track/1wkl1b5DQZrVkFlp6qNNmu) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/51K6Op3c6XouBYKThO8OL6) | 4:11 |
-| 94 | [Screaming Infidelities](https://open.spotify.com/track/1VViTGNqiNV8zwe3b3tE09) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [The Places You Have Come to Fear the Most](https://open.spotify.com/album/2b6f60fUMb0wSWWyFXBLfv) | 3:46 |
+| 93 | [Screaming Infidelities](https://open.spotify.com/track/1VViTGNqiNV8zwe3b3tE09) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [The Places You Have Come to Fear the Most](https://open.spotify.com/album/2b6f60fUMb0wSWWyFXBLfv) | 3:46 |
+| 94 | [Someone's Watching Over Me](https://open.spotify.com/track/1wkl1b5DQZrVkFlp6qNNmu) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/51K6Op3c6XouBYKThO8OL6) | 4:11 |
 | 95 | [Samson](https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:09 |
 | 96 | [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 |
 | 97 | [Untitled \(How Could This Happen to Me?\)](https://open.spotify.com/track/3eRLKD1Lgc2OrYGxRxX62s) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any](https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 99 | [The First Cut Is The Deepest](https://open.spotify.com/track/0wyOnrfGOlDdWHdIybLr4n) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The First Cut Is The Deepest](https://open.spotify.com/album/1L0XnWcJWHrsDtRP9XeUYG) | 3:46 |
 | 100 | [Where I Stood](https://open.spotify.com/track/76CYHISAJBBjQr0vgP9mrC) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [On a Clear Night](https://open.spotify.com/album/5g8Z9GwurUdRCm6SToBqvW) | 4:17 |
 
-Snapshot ID: `MTY0MDk3NzI1MCwwMDAwMDAwMDgzMGZlNzI5NzhmMDViYzE0NjNkOWZlYTRiNzI0M2Yz`
+Snapshot ID: `MTY0MDk3NzI1MCwwMDAwMDAwMGE1NWJkNGE3MTU2MDgwNTFhZjM3YTdhOWI4YzNkMzVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,723 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,849 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 28 | [Rat Race](https://open.spotify.com/track/40WVjx6iopjm9jbRLgWUno) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Too Much Too Young](https://open.spotify.com/album/1fQdhVhPHskHwwMYkJqPwB) | 3:09 |
 | 29 | [We Will Fall Together](https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Somewhere in the Between](https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg) | 4:49 |
 | 30 | [All Outta Angst](https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:52 |
-| 31 | [The Rascal King](https://open.spotify.com/track/13BRH2RILNifFRNTXbLUka) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 2:46 |
-| 32 | [Johnny Quest Thinks We're Sellouts](https://open.spotify.com/track/3Sl62Dyoh3wI3gLIJSypnb) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Losing Streak](https://open.spotify.com/album/5cpnq6VX4FCWQJpm2tA8np) | 2:49 |
+| 31 | [Johnny Quest Thinks We're Sellouts](https://open.spotify.com/track/3Sl62Dyoh3wI3gLIJSypnb) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Losing Streak](https://open.spotify.com/album/5cpnq6VX4FCWQJpm2tA8np) | 2:49 |
+| 32 | [The Rascal King](https://open.spotify.com/track/13BRH2RILNifFRNTXbLUka) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 2:46 |
 | 33 | [Pressure Drop](https://open.spotify.com/track/2EISedV2npKMtvygkykV2r) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Sweet and Dandy](https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s) | 2:56 |
 | 34 | [9mm And A Three Piece Suit](https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 1:56 |
 | 35 | [Mr\. Smiley](https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude \(2010 Re\-Issue\)](https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b) | 2:46 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 47 | [Out All Night](https://open.spotify.com/track/5GG2T4nFuS1L5xb9U3iJ8G) | [The Pietasters](https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn) | [Willis](https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY) | 3:16 |
 | 48 | [All in Stride](https://open.spotify.com/track/49sLiyg8IcSEmtucGbSVdO) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7), [Passafire](https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ) | [Beast From The East](https://open.spotify.com/album/6qbGXpKlWDMpvFlTmbmyOh) | 4:08 |
 | 49 | [Social Drinker](https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Message to the World](https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3) | 3:03 |
-| 50 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 |
-| 51 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
+| 50 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
+| 51 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 |
 | 52 | [One More Minute](https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [A Passage In Time \(Explicit Version\)](https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE) | 6:28 |
 | 53 | [Unstoppable](https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Unstoppable](https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS) | 3:08 |
 | 54 | [Lie to Me](https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:38 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 83 | [Ruby Cumulous](https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | [Gemini, Her Majesty](https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF) | 4:51 |
 | 84 | [You Can't Have All of Me](https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Life Sucks..\. Let's Dance!](https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy) | 2:44 |
 | 85 | [Let's Do Rock Steady](https://open.spotify.com/track/0FkBWszH9H2y7TxH899416) | [The Bodysnatchers](https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV) | [Let's Do Rock Steady](https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO) | 2:54 |
-| 86 | [Things Change](https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61) | 2:48 |
-| 87 | [House Of Fun](https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:00 |
+| 86 | [House Of Fun](https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:00 |
+| 87 | [Things Change](https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61) | 2:48 |
 | 88 | [Tighten Up](https://open.spotify.com/track/7boUsKJeBJHznBCEwYU9hw) | [The Untouchables](https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 2:39 |
 | 89 | [Beatdown Generation](https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Beatdown Generation](https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud) | 3:14 |
 | 90 | [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Lip Up Fatty](https://open.spotify.com/track/2V5tv4ZwtNTgAp4MCwNOXb) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Viva La Ska Revolution](https://open.spotify.com/album/7Ix9aOmnkTwAIQomGB4ATh) | 2:46 |
 | 100 | [Hey Road](https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Kosmopoliturbo](https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP) | 3:49 |
 
-Snapshot ID: `MTY3MDYxMTUzOSwwMDAwMDAwMGEyOGM4ODU4NDQ3NzMyMWNkODUwMTFjMWVjYmU2NGZj`
+Snapshot ID: `MTY3MDYxMTUzOSwwMDAwMDAwMDk4YWRiODc4NDk4OTZiOWQ4MThkYWMwYWI2YjYxNThj`

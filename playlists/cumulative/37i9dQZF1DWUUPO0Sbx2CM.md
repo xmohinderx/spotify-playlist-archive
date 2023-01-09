@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-246 songs - 13 hr 49 min
+247 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 | 2021-10-31 | 2022-12-06 |
 | [Bigger](https://open.spotify.com/track/0LBzNdxVmIuQ6ooIHSYEud) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [No Greater Love](https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg) | 3:21 | 2021-10-31 | 2022-07-27 |
 | [Bigger Story](https://open.spotify.com/track/012DUuLdefLSpuOvf3StFg) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Bigger Story](https://open.spotify.com/album/29nMOkMn9xImaQuisSbqJ8) | 3:06 | 2021-10-31 | 2022-07-29 |
+| [Bigger Story](https://open.spotify.com/track/13HkQZltEHWmzmn8D2nWpc) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Bigger Story](https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw) | 3:06 | 2021-10-31 |  |
 | [Boundaries](https://open.spotify.com/track/6zLNRDotJGdEPuF1U0A6RP) | [SoulBox](https://open.spotify.com/artist/27gv2YK8R06j3h6NMAJFvD) | [Boundaries](https://open.spotify.com/album/30i1uRGryZeao36QjA1uuC) | 3:59 | 2021-10-31 | 2022-07-29 |
 | [Brave](https://open.spotify.com/track/7t7DIWoyU902Qn5YNaKG84) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Brave](https://open.spotify.com/album/349EARcBXYKZmwZklH2jGL) | 3:32 | 2021-10-31 | 2022-06-27 |
 | [Breathe](https://open.spotify.com/track/2WpZBx0ajYCNnv2EXwNnOA) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Breathe](https://open.spotify.com/album/3fJXmLyfziwzMKkcdgMaqk) | 3:30 | 2021-10-31 | 2022-07-23 |
@@ -243,7 +244,7 @@
 | [Without You](https://open.spotify.com/track/1cscp6VyUW7xxk5miGbtN1) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 3:41 | 2021-10-31 |  |
 | [Without You](https://open.spotify.com/track/3SA2Ao8KCeGGAL4AjmI3nx) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Without You](https://open.spotify.com/album/43A7XIVa5atx6NunUajkcd) | 3:41 | 2021-10-31 | 2022-07-28 |
 | [Without You \- Abe Parker Remix](https://open.spotify.com/track/4zSnb8fvewyGGV1U4R9Dx0) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Without You](https://open.spotify.com/album/1zF2M4uUPg8qrKDzOkOYJy) | 3:47 | 2021-10-31 | 2022-08-31 |
-| [Won't He Do It \(Remix\)](https://open.spotify.com/track/2r4Lz9fx64cblkTiTIXdU9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:31 | 2021-10-31 |  |
+| [Won't He Do It \(Remix\)](https://open.spotify.com/track/2r4Lz9fx64cblkTiTIXdU9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:31 | 2021-10-31 | 2023-01-09 |
 | [Working On It](https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:13 | 2021-10-31 |  |
 | [Worry](https://open.spotify.com/track/4qzoaJGCnbwe8S8tDt0Ndz) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Worry](https://open.spotify.com/album/43ojYDCvq2qfmzx82dU6R9) | 3:07 | 2021-10-31 |  |
 | [WTSOTLI \- LAEL Remix](https://open.spotify.com/track/2SWYkkjug4DxuMlO8ozWku) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [WTSOTLI \(LAEL Remix\)](https://open.spotify.com/album/40OaSIYsxjAz2JthcpNVsG) | 3:00 | 2021-10-31 | 2022-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,265 likes - 90 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,327 likes - 90 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,19 +56,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 46 | [Imagining My Man](https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 5:51 |
 | 47 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
 | 48 | [As It Is](https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 3:04 |
-| 49 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
-| 50 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
+| 49 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
+| 50 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
 | 51 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
 | 52 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 |
 | 53 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
-| 54 | [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 |
-| 55 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
-| 56 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
+| 54 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
+| 55 | [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 |
+| 56 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
 | 57 | [Nebraska \- Acoustic](https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4) | 3:48 |
 | 58 | [Turn Out the Lights](https://open.spotify.com/track/4lZ0S6jbJbeOmkfFXfDNxl) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 3:23 |
 | 59 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 |
-| 60 | [Great Divide](https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 4:01 |
-| 61 | [Nice and Quiet](https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine \(Deluxe\)](https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB) | 3:51 |
+| 60 | [Nice and Quiet](https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine \(Deluxe\)](https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB) | 3:51 |
+| 61 | [Great Divide](https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 4:01 |
 | 62 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
 | 63 | [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 3:11 |
 | 64 | [Fall](https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 2:59 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 89 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 |
 | 90 | [Misunderstood](https://open.spotify.com/track/0NjexykT4mTFDYGnGLFFby) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 3:18 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDU2YWZjNWQ4YTE5N2ZkMTA4NDcyMjhiM2NkN2UyNWZi`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDc5NjFhMzk3NDM0NjdiZWIyYzY0Y2UzNTg1OGFiMGQx`

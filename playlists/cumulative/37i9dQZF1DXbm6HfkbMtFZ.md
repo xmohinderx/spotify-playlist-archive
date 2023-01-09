@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-470 songs - 1 day 4 hr 27 min
+471 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Can I Get Love?](https://open.spotify.com/track/2ENA14ETkUwPr3NWvXXfp6) | [HIGH HØØPS](https://open.spotify.com/artist/4awgEb2pQYbDOC6OFuPy9x) | [Can I Get Love?](https://open.spotify.com/album/5nUb3VOgK76Sn8bGT6vmC2) | 3:33 | 2021-12-16 | 2022-04-20 |
 | [Can You Get To That](https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 2:49 | 2022-07-26 |  |
 | [Can You Get to That](https://open.spotify.com/track/2liDEMyPVzDDLXKUnyiznA) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/5p9GTYAPSgc5C1ck9ZbnMk) | 2:51 | 2022-03-30 | 2022-04-20 |
-| [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2021-12-16 |  |
+| [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2021-12-16 | 2023-01-09 |
 | [Canta](https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik) | 4:35 | 2021-12-16 | 2022-07-24 |
 | [Carl Sagan](https://open.spotify.com/track/24GCf1A4pOTEDDcBponpjn) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Pennied Days](https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ) | 3:52 | 2022-09-26 | 2022-11-14 |
 | [Casio](https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:54 | 2022-03-30 |  |
@@ -131,6 +131,7 @@
 | [Evan Finds the Third Room](https://open.spotify.com/track/07wztBYwMThbAVW4ahWMuD) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/5u103bJ7EsNUAyL9eMACo5) | 4:00 | 2022-03-30 | 2022-04-15 |
 | [Evan Finds the Third Room](https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:00 | 2022-07-26 | 2022-10-04 |
 | [Ever Again](https://open.spotify.com/track/2DKhAFWadzNtGTb9ZM98zB) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/7rtmaF7HH7OeBI4iIJpMw3) | 4:24 | 2022-03-30 | 2022-04-16 |
+| [Everything Is Just a Mess](https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o) | 4:43 | 2023-01-07 |  |
 | [Everything Is Just a Mess](https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH) | 4:43 | 2021-12-16 | 2023-01-03 |
 | [Fabulous](https://open.spotify.com/track/6dov3Ax5pz8B5YbBwWNhy4) | [NAMPA](https://open.spotify.com/artist/5bGBs7LJETZ8ekBWYaiXMl) | [Fabulous](https://open.spotify.com/album/6hzqI78MYznyy1ilLVWrHJ) | 2:37 | 2022-03-30 | 2022-04-21 |
 | [Falls on me](https://open.spotify.com/track/6XCPk5sf3HGD2oNQK0JY6n) | [Sylvie](https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ), [Marina Allen](https://open.spotify.com/artist/7DT89nkTjnPsXUijqIxgCu) | [Falls on me](https://open.spotify.com/album/6N1oaF48796YmM9S1gWn0o) | 4:58 | 2022-02-23 | 2022-07-29 |

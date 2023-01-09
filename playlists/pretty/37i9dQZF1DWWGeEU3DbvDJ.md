@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 24 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 |
 | 25 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
 | 26 | [Astronaut In The Ocean](https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA) | 2:12 |
-| 27 | [Already Dead](https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:51 |
-| 28 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 |
+| 27 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 |
+| 28 | [Already Dead](https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:51 |
 | 29 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 |
 | 30 | [Chlorine](https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 5:24 |
 | 31 | [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 49 | [RAPSTAR](https://open.spotify.com/track/3YZ5gPYspB2jNZ0KvUvv0m) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:45 |
 | 50 | [Amazing Grace](https://open.spotify.com/track/0i67q5f6SBh6QvDgJV4f1v) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 2:56 |
 
-Snapshot ID: `MTY1MjE4ODc3MiwwMDAwMDAwMDM0NzJlZmQ2YTAyZThiZmQ3MjE1M2VhNjA0M2MxODRh`
+Snapshot ID: `MTY1MjE4ODc3MiwwMDAwMDAwMGFkZTQyOTNlYjQ4MDI1ZGUzZTFkOTM4OGMwMGE2ZDk1`

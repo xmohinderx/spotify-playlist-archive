@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,031,683 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,747 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 81 | [Always With Me](https://open.spotify.com/track/2ToMES33dQe8kiTPSjTdZH) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Always With Me](https://open.spotify.com/album/0DeaiadTeALAqCCUW4Lv5Y) | 4:23 |
 | 82 | [Love Letter](https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt) | 3:33 |
 | 83 | [Be Alright](https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Be Alright](https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr) | 3:13 |
-| 84 | [Social Drinker](https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Message to the World](https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3) | 3:03 |
-| 85 | [Everyday People \(Remix with B\-Real & G.Love\)](https://open.spotify.com/track/6pReUhCfnH5qxdjsG6vlig) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Everyday People \(Remix with B\-Real & G\. Love\)](https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz) | 3:45 |
+| 84 | [Everyday People \(Remix with B\-Real & G.Love\)](https://open.spotify.com/track/6pReUhCfnH5qxdjsG6vlig) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Everyday People \(Remix with B\-Real & G\. Love\)](https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz) | 3:45 |
+| 85 | [Social Drinker](https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Message to the World](https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3) | 3:03 |
 | 86 | [Catching Lightning](https://open.spotify.com/track/5BMlzRHulVFs4r9wUv1mJB) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 3:16 |
 | 87 | [Love Her Anyways](https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Prologue](https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo) | 3:06 |
 | 88 | [Lemonade](https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE) | [Adam Friedman](https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Lemonade](https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr) | 2:51 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 96 | [Space and Time](https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:34 |
 | 97 | [Kingdom \(with The Movement\)](https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ) | [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Kingdom \(with The Movement\)](https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL) | 4:42 |
 | 98 | [Ride \- Edit](https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9) | 3:40 |
-| 99 | [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 |
-| 100 | [Let It All Out](https://open.spotify.com/track/4kFJNoQNvBcJDenyQc5Rk3) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bret Bollinger](https://open.spotify.com/artist/2dmKeby7UGSfbbxX5y5aAu), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Let It All Out](https://open.spotify.com/album/5Vbzak4krkKEs6ECqfKaTl) | 4:35 |
+| 99 | [Let It All Out](https://open.spotify.com/track/4kFJNoQNvBcJDenyQc5Rk3) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bret Bollinger](https://open.spotify.com/artist/2dmKeby7UGSfbbxX5y5aAu), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Let It All Out](https://open.spotify.com/album/5Vbzak4krkKEs6ECqfKaTl) | 4:35 |
+| 100 | [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 |
 
-Snapshot ID: `MTY2ODcxNTAxOSwwMDAwMDAwMGM1M2NmMGQwMmE3MGUwOGQ1YTAxZTc3YjMxZTU3NDlk`
+Snapshot ID: `MTY2ODcxNTAxOSwwMDAwMDAwMGVjOGRkMmRmMzRiODNhYTY2NmJjNjc0OTViOTQ0M2Ez`

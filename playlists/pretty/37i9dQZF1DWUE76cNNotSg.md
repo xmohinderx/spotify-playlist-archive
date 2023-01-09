@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,721 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,984 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,17 +40,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 30 | [Luv Is Not Enough](https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Clear Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Luv Is Not Enough \(Remixes\)](https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa) | 3:17 |
 | 31 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 |
 | 32 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 |
-| 33 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 |
-| 34 | [Where Angels Fear To Tread](https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Moonlight](https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn) | 3:45 |
-| 35 | [Right Down the Line](https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Right Down the Line](https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI) | 4:27 |
-| 36 | [Zanzibar](https://open.spotify.com/track/0czEIxZg628LnldJfm7usx) | [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [Zanzibar](https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW) | 3:48 |
+| 33 | [Zanzibar](https://open.spotify.com/track/0czEIxZg628LnldJfm7usx) | [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [Zanzibar](https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW) | 3:48 |
+| 34 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 |
+| 35 | [Where Angels Fear To Tread](https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Moonlight](https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn) | 3:45 |
+| 36 | [Right Down the Line](https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Right Down the Line](https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI) | 4:27 |
 | 37 | [Up To Something](https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:32 |
 | 38 | [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 |
 | 39 | [Pizza Guy](https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790) | 5:49 |
 | 40 | [Chika \(scared\)](https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Chika \(scared\)](https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z) | 2:48 |
 | 41 | [Tuesday](https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Tuesday](https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG) | 3:11 |
-| 42 | [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 |
-| 43 | [Too Late](https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc) | 4:12 |
+| 42 | [Too Late](https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc) | 4:12 |
+| 43 | [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 |
 | 44 | [Summer Days \- Roosevelt Remix](https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 3:28 |
 | 45 | [We Stayed Up All Night](https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC) | 4:25 |
 | 46 | [I Wanna Go](https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio) | [About A Feeling](https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX) | 4:07 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 75 | [Drift](https://open.spotify.com/track/7nF0GGmgvZ0ViSocnGr2zZ) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Home For Now](https://open.spotify.com/album/5C08sWlLMLwp1QWfPZH9Yo) | 3:42 |
 | 76 | [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 |
 | 77 | [Truth](https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 3:48 |
-| 78 | [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 |
-| 79 | [Living The Life](https://open.spotify.com/track/0U4BsTlcGsdLldHE7wnniA) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Finding Sounds](https://open.spotify.com/album/4rq5ZRLwtLjCWqKveXQ6Nn) | 3:38 |
+| 78 | [Living The Life](https://open.spotify.com/track/0U4BsTlcGsdLldHE7wnniA) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Finding Sounds](https://open.spotify.com/album/4rq5ZRLwtLjCWqKveXQ6Nn) | 3:38 |
+| 79 | [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 |
 | 80 | [Kinda Lovely](https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Low Season](https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe) | 3:57 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDlhNWMzNTg3MGE2MjE0NzhjMDQ3NjkyOGU1NzE5MDRl`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDA4ZThiZDZjZTJhYzdmNzBmYmY1OTQ2MGYyNDljNWQ1`

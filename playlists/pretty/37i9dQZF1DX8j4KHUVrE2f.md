@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 
 > Take a trip down memory lane with these noughties classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,621 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,712 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 | 46 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
 | 47 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 |
 | 48 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 |
-| 49 | [Feel](https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:23 |
-| 50 | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Lazarus](https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg) | 3:31 |
+| 49 | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Lazarus](https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg) | 3:31 |
+| 50 | [Feel](https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:23 |
 | 51 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 |
 | 52 | [Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:29 |
 | 53 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 | 59 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
 | 60 | [The Lazy Song](https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:09 |
 | 61 | [You Know I'm No Good](https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:17 |
-| 62 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
-| 63 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
+| 62 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
+| 63 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
 | 64 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
 | 65 | [Unfaithful](https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:46 |
 | 66 | [Who Knew](https://open.spotify.com/track/2hns6Dv29Yrg68AVTJiAyA) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [I'm Not Dead](https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq) | 3:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 | 79 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 |
 | 80 | [California King Bed](https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:11 |
 
-Snapshot ID: `MTY0MjUwNjE5OSwwMDAwMDAwMGIyZTYwY2M0NzZjNmMwNDNkOTg3ZmE2YTUwZjA3ODcw`
+Snapshot ID: `MTY0MjUwNjE5OSwwMDAwMDAwMDFlNDk0YmU5ZjY1YmM4NjIwMzAwYzVhNDlkNjNlNjI2`

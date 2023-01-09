@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest FIFA tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,745 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,282 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 45 | [Black & Gold](https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Black & Gold](https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7) | 4:34 |
 | 46 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 |
 | 47 | [High And Low](https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 3:44 |
-| 48 | [Gold Guns Girls](https://open.spotify.com/track/6JhUq57XpJeNMxboI4Ne3S) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:05 |
-| 49 | [We Used To Be Friends](https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 3:19 |
+| 48 | [We Used To Be Friends](https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 3:19 |
+| 49 | [Gold Guns Girls](https://open.spotify.com/track/6JhUq57XpJeNMxboI4Ne3S) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:05 |
 | 50 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
 | 51 | [Tearing Me Up](https://open.spotify.com/track/6NDt5z8GKIHub37hBQ4x18) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Days Gone By](https://open.spotify.com/album/0u3Rl4KquP15smujFrgGz4) | 7:50 |
 | 52 | [Levanta e Anda](https://open.spotify.com/track/0JSux25Te5HYMSr2D64d02) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 2:30 |
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 66 | [The Rockafeller Skank](https://open.spotify.com/track/7mCQK9YB25WZw1saUjfL4e) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/7G7cCHgQKbDD6zvwDQZyJu) | 6:53 |
 | 67 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
 | 68 | [Wreckin' Bar \(Ra Ra Ra\)](https://open.spotify.com/track/1K5vb3Yu4F8yMaHggtdpDY) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 1:21 |
-| 69 | [Scatter](https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:44 |
-| 70 | [Paddling Out](https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy To You](https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF) | 3:37 |
+| 69 | [Paddling Out](https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy To You](https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF) | 3:37 |
+| 70 | [Scatter](https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:44 |
 | 71 | [Shine A Light](https://open.spotify.com/track/2nZco160YsPJdiTPq396aq) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [BANNERS](https://open.spotify.com/album/3jA8ouJG0XT2E9uoEzh0j7) | 3:45 |
 | 72 | [White City](https://open.spotify.com/track/2FPVYeyKBKSNUUKrg4L0rk) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [White City](https://open.spotify.com/album/3xm5CfmCOizd2OT4BrQtqX) | 3:06 |
 | 73 | [Sorte Grande](https://open.spotify.com/track/2IXiZtz7EVJpsyZwoxBy6K) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Clube Carnavalesco Inocentes Em Progresso](https://open.spotify.com/album/0BWWqqGqH5z11TnBjI60X4) | 3:48 |
 | 74 | [Walk](https://open.spotify.com/track/6D3g26uM2CmNVUhPWWNsBS) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Love + War](https://open.spotify.com/album/3tm171q3WGV3Xj2lwbhHMr) | 3:34 |
-| 75 | [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 |
-| 76 | [Conqueror](https://open.spotify.com/track/1Wd08LgZT0LsmZ0KIJmUfL) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:27 |
+| 75 | [Conqueror](https://open.spotify.com/track/1Wd08LgZT0LsmZ0KIJmUfL) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:27 |
+| 76 | [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 |
 | 77 | [Guten Tag](https://open.spotify.com/track/5YVAa5A1w987AIeCn6I0UI) | [Wir Sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Die Reklamation](https://open.spotify.com/album/3q6f8bwF1ZWxTGvS0veYi3) | 3:35 |
 | 78 | [Fa\-Fa\-Fa](https://open.spotify.com/track/69jJtkqDBuF3n6yPnAvRjK) | [Datarock](https://open.spotify.com/artist/4foARo5aSfuIuDLupoxK4k) | [Datarock Datarock](https://open.spotify.com/album/1qwNBiFcleOs6H6sPWnywJ) | 5:08 |
 | 79 | [Water \(with Mahalia\)](https://open.spotify.com/track/6I15UB0IPWQhJNJEPQ1gLE) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ) | [Water](https://open.spotify.com/album/4XcNB4VTSkl2cKVRci10Z4) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 99 | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/track/4dc1G54hSmSL5HQuQvRNA1) | [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [A Little Deeper](https://open.spotify.com/album/4hF66CtQgAPU6LzedAQi4V) | 3:39 |
 | 100 | [Magrela Fever](https://open.spotify.com/track/0yV3VUsztavBnG7iKjs06T) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [JapanPopShow](https://open.spotify.com/album/2Hs9YfmASINO0UlHPVqjgb) | 4:11 |
 
-Snapshot ID: `MTY2Nzg0NDAwMCwwMDAwMDAwMGY0ODY5YjcxNDA0ZDI4MzMxYjM2MDJkMWU1ODViNGU0`
+Snapshot ID: `MTY2Nzg0NDAwMCwwMDAwMDAwMDVmNWU5NjRjMTk0OWQwNTAyYWEwNjBjMTRlZTQ5YjNl`

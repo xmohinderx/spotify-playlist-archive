@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Lush Rimbaugh",
+        "url": "https://open.spotify.com/album/2BvxQyy7BGWLErMN3KuXeY"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206480,
+      "name": "Lush Rimbaugh",
+      "url": "https://open.spotify.com/track/3M3e3C2iMMFV6hn9r1VYuL"
+    },
+    {
+      "album": {
         "name": "M1SERY_SYNDROME (feat. Buddy Nielsen)",
         "url": "https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn"
       },

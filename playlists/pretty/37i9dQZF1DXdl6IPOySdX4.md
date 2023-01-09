@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,802 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,393 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 26 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 |
 | 27 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 |
 | 28 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 |
-| 29 | [You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:33 |
-| 30 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 |
+| 29 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 |
+| 30 | [You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:33 |
 | 31 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 32 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 |
 | 33 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 76 | [Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:22 |
 | 77 | [Fantasy](https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:28 |
 | 78 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 |
-| 79 | [She](https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:02 |
-| 80 | [Champagne & Sunshine](https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Tarro](https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj) | [Champagne & Sunshine](https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg) | 3:16 |
+| 79 | [Champagne & Sunshine](https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Tarro](https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj) | [Champagne & Sunshine](https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg) | 3:16 |
+| 80 | [She](https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:02 |
 | 81 | [Pretty Little Fears \(feat\. J\. Cole\)](https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [East Atlanta Love Letter](https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2) | 4:00 |
 | 82 | [BABYDOLL](https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u) | 3:16 |
 | 83 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 92 | [Heartburn](https://open.spotify.com/track/3tjfbu0G0PPy8UjhxfxVIe) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Heartburn](https://open.spotify.com/album/4RfO9aZPT2i4U2Wi1ERfOP) | 3:26 |
 | 93 | [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 |
 | 94 | [WFM](https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:16 |
-| 95 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 |
+| 95 | [Loveeeeeee Song](https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 4:16 |
 | 96 | [Fuck The World \(Summer in London\)](https://open.spotify.com/track/2CzUlaKN1mvb0szagSR3ux) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 3:56 |
-| 97 | [Loveeeeeee Song](https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 4:16 |
+| 97 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 |
 | 98 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 |
 | 99 | [SOMEBODY](https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:44 |
 | 100 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDlhYWE2ZDJjZjY2MzQ4ZWM4NDliMGRiZGU3ZWRmNmVh`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDY2MjZkMjBlMWRlM2E2YTYxZDFkNDdkNzg1ZmI2Mjgw`

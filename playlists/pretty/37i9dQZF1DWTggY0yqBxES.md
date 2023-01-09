@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Duckwrth
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,458 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,888 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 25 | [Never Freestyle](https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Never Freestyle](https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH) | 4:26 |
 | 26 | [Super Saiyan](https://open.spotify.com/track/2GkjleoffoARDsF0Wv7SS3) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 2:43 |
 | 27 | [pg baby \- Remix](https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [pg baby \(Remix\)](https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R) | 4:09 |
-| 28 | [RZA](https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:12 |
-| 29 | [Snake](https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:24 |
+| 28 | [Snake](https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:24 |
+| 29 | [RZA](https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:12 |
 | 30 | [For The Squadron](https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [For The Squadron](https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI) | 3:08 |
 | 31 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 32 | [HOT PLANET](https://open.spotify.com/track/5DgL7Iz88RjLTYv0llQREe) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD, HBU?](https://open.spotify.com/album/2uu0WGNU7qSTfhhEMcY3aM) | 3:23 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 47 | [Basement](https://open.spotify.com/track/6UECeLTI315ypdwrOMdu0N) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:13 |
 | 48 | [Meaningless](https://open.spotify.com/track/3iXr4JLYecnraGnwGBFHPr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:36 |
 | 49 | [Y?](https://open.spotify.com/track/2Mytg2OcqnK15ZfmGx9PqB) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Y?](https://open.spotify.com/album/0Fj5OIXKBxaf86Epw3SKUo) | 2:23 |
-| 50 | [Late 2 \(feat\. Trippie Redd\)](https://open.spotify.com/track/0nFICJke1mmsKDQDKfJ14o) | [Cayo](https://open.spotify.com/artist/1MEkNy8o7kUgle1Yrru6MH), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Late 2 \(feat\. Trippie Redd\)](https://open.spotify.com/album/5JjVLWwBIpzvNwPsOgyBj2) | 2:24 |
+| 50 | [SOHO HOUSE \(feat\. Hello O'shay\)](https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [MEMO](https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT) | 4:28 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGM3NGI3YWZjNTc4OWQwZGU0NWQxZGUzN2Q0NWIyNmRk`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGIxOTI2OThkYzNiZjkzNGExNWEwOTZlMmMxYzQwMzZj`

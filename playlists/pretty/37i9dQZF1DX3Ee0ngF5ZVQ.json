@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randall King",
-  "num_followers": 395082,
+  "num_followers": 395208,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDJmY2QwYTM2ZjlhZTVkMWIxN2I4YjFhYzhkZWQ4ODc3",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGE4YzY2ZjE0NDRmMTE2ZTdkYTIzYmNlYTFkYmMwYzk3",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Breaking News",
-        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 220234,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "The Highway Kind",
         "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 182090,
       "name": "Real Damn Good",
       "url": "https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Breaking News",
+        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 220234,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "The Highway Kind",
-        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
+        "name": "Different Now",
+        "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
         }
       ],
-      "duration_ms": 239763,
-      "name": "The Highway Kind",
-      "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
+      "duration_ms": 189009,
+      "name": "Different Now",
+      "url": "https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Different Now",
-        "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
       },
       "artists": [
         {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         }
       ],
-      "duration_ms": 189009,
-      "name": "Different Now",
-      "url": "https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR"
+      "duration_ms": 239763,
+      "name": "The Highway Kind",
+      "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -655,38 +655,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "But Me",
-        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
-      },
-      "artists": [
-        {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "But Me",
-      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Warning Label",
-        "url": "https://open.spotify.com/album/4VUenncoqrnFbiO6R8lRxA"
-      },
-      "artists": [
-        {
-          "name": "Morgan Ashley",
-          "url": "https://open.spotify.com/artist/1367lWMUHMwzcnvgdFEVJu"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Warning Label",
-      "url": "https://open.spotify.com/track/2MQZttVGYDyTEcCXVTdWa7"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "That Drink (feat. Neal McCoy)",
         "url": "https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F"
       },
@@ -707,18 +675,50 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
+        "name": "Warning Label",
+        "url": "https://open.spotify.com/album/4VUenncoqrnFbiO6R8lRxA"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Morgan Ashley",
+          "url": "https://open.spotify.com/artist/1367lWMUHMwzcnvgdFEVJu"
         }
       ],
-      "duration_ms": 217720,
-      "name": "Telling on My Heart",
-      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
+      "duration_ms": 222500,
+      "name": "Warning Label",
+      "url": "https://open.spotify.com/track/2MQZttVGYDyTEcCXVTdWa7"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "But Me",
+        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
+      },
+      "artists": [
+        {
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "But Me",
+      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Baby Don't",
+        "url": "https://open.spotify.com/album/5GrCqh0RekK6OMylsM5B36"
+      },
+      "artists": [
+        {
+          "name": "Amanda Kate Ferris",
+          "url": "https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49"
+        }
+      ],
+      "duration_ms": 183763,
+      "name": "Baby Don't",
+      "url": "https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Baby Don't",
-        "url": "https://open.spotify.com/album/5GrCqh0RekK6OMylsM5B36"
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
       },
       "artists": [
         {
-          "name": "Amanda Kate Ferris",
-          "url": "https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 183763,
-      "name": "Baby Don't",
-      "url": "https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G"
+      "duration_ms": 217720,
+      "name": "Telling on My Heart",
+      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "'Til I See You Again",
-        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
+        "name": "She Goes Home (Dirty Breakup Song)",
+        "url": "https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6"
       },
       "artists": [
         {
-          "name": "Catie Offerman",
-          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
         }
       ],
-      "duration_ms": 211515,
-      "name": "'Til I See You Again",
-      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
+      "duration_ms": 199666,
+      "name": "She Goes Home (Dirty Breakup Song)",
+      "url": "https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -831,22 +831,6 @@
       "duration_ms": 171045,
       "name": "Girls Like Me",
       "url": "https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "She Goes Home (Dirty Breakup Song)",
-        "url": "https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6"
-      },
-      "artists": [
-        {
-          "name": "Grant Gilbert",
-          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "She Goes Home (Dirty Breakup Song)",
-      "url": "https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -879,6 +863,22 @@
       "duration_ms": 180453,
       "name": "Built Different",
       "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "'Til I See You Again",
+        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "duration_ms": 211515,
+      "name": "'Til I See You Again",
+      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Haunted House",
-        "url": "https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD"
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
       },
       "artists": [
         {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
         }
       ],
-      "duration_ms": 272666,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX"
+      "duration_ms": 224894,
+      "name": "I Just Want You",
+      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "FREE",
-        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD"
       },
       "artists": [
         {
-          "name": "Chad Cooke Band",
-          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
         }
       ],
-      "duration_ms": 224894,
-      "name": "I Just Want You",
-      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
+      "duration_ms": 272666,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Somewhere Between the Secret and the Truth",
-        "url": "https://open.spotify.com/album/542S5ZarJgZcBbyLXYSpzj"
+        "name": "Baby Do",
+        "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
       },
       "artists": [
         {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 228813,
-      "name": "Honky Tonk Roll",
-      "url": "https://open.spotify.com/track/4nTBZTi0GQqzX5zbCgCxV8"
+      "duration_ms": 208392,
+      "name": "Baby Do",
+      "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Baby Do",
-        "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
+        "name": "Somewhere Between the Secret and the Truth",
+        "url": "https://open.spotify.com/album/542S5ZarJgZcBbyLXYSpzj"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 208392,
-      "name": "Baby Do",
-      "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
+      "duration_ms": 228813,
+      "name": "Honky Tonk Roll",
+      "url": "https://open.spotify.com/track/4nTBZTi0GQqzX5zbCgCxV8"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1307,70 +1307,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Know That by Now",
-        "url": "https://open.spotify.com/album/6tZ6olAlfKCuB3ZWr741LC"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 241929,
-      "name": "Know That by Now",
-      "url": "https://open.spotify.com/track/1yL8k3wylADawLh7T5BzbO"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Cowboys Don't Change",
-        "url": "https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K"
-      },
-      "artists": [
-        {
-          "name": "Rachel LaRen",
-          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
-        }
-      ],
-      "duration_ms": 212670,
-      "name": "Darlin'",
-      "url": "https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Fair Weather Cowboy",
-        "url": "https://open.spotify.com/album/54FwkC0pz1pFU9IfFajgqI"
-      },
-      "artists": [
-        {
-          "name": "Carson Jeffrey",
-          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
-        }
-      ],
-      "duration_ms": 203156,
-      "name": "Desert Rose",
-      "url": "https://open.spotify.com/track/6EmGsOMMtMTri9jgFRefQl"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Whiskey Miss Me",
-        "url": "https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kay",
-          "url": "https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc"
-        }
-      ],
-      "duration_ms": 180162,
-      "name": "Whiskey Miss Me",
-      "url": "https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Bad Days Better",
         "url": "https://open.spotify.com/album/0cI9YhCkHa1JcxbhyY8mBX"
       },
@@ -1391,6 +1327,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Cowboys Don't Change",
+        "url": "https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K"
+      },
+      "artists": [
+        {
+          "name": "Rachel LaRen",
+          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
+        }
+      ],
+      "duration_ms": 212670,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Baker Hotel",
         "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
       },
@@ -1403,6 +1355,38 @@
       "duration_ms": 276280,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Whiskey Miss Me",
+        "url": "https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kay",
+          "url": "https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc"
+        }
+      ],
+      "duration_ms": 180162,
+      "name": "Whiskey Miss Me",
+      "url": "https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Know That by Now",
+        "url": "https://open.spotify.com/album/6tZ6olAlfKCuB3ZWr741LC"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 241929,
+      "name": "Know That by Now",
+      "url": "https://open.spotify.com/track/1yL8k3wylADawLh7T5BzbO"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Keep Up With A Cowgirl",
-        "url": "https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg"
+        "name": "Fair Weather Cowboy",
+        "url": "https://open.spotify.com/album/54FwkC0pz1pFU9IfFajgqI"
       },
       "artists": [
         {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+          "name": "Carson Jeffrey",
+          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
         }
       ],
-      "duration_ms": 213759,
-      "name": "Keep up with a Cowgirl",
-      "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
+      "duration_ms": 203156,
+      "name": "Desert Rose",
+      "url": "https://open.spotify.com/track/6EmGsOMMtMTri9jgFRefQl"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Keep Up With A Cowgirl",
+        "url": "https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg"
+      },
+      "artists": [
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "duration_ms": 213759,
+      "name": "Keep up with a Cowgirl",
+      "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "S\u00d5L Sessions",
         "url": "https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6"
       },
@@ -1471,38 +1471,6 @@
       "duration_ms": 266783,
       "name": "With You",
       "url": "https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Get A Dog",
-        "url": "https://open.spotify.com/album/27GYFiztdGdz4Mh1zNiVgD"
-      },
-      "artists": [
-        {
-          "name": "Catie Offerman",
-          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
-        }
-      ],
-      "duration_ms": 198998,
-      "name": "Get A Dog",
-      "url": "https://open.spotify.com/track/4ojft2o33N13eHRlci1G4Z"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "It Wasn\u2019t Love",
-        "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
-      },
-      "artists": [
-        {
-          "name": "Larissa Boyd",
-          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "It Wasn\u2019t Love",
-      "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1523,6 +1491,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "It Wasn\u2019t Love",
+        "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
+      },
+      "artists": [
+        {
+          "name": "Larissa Boyd",
+          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "It Wasn\u2019t Love",
+      "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Once in a Blue Moon",
         "url": "https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 187216,
       "name": "Once in a Blue Moon",
       "url": "https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Get A Dog",
+        "url": "https://open.spotify.com/album/27GYFiztdGdz4Mh1zNiVgD"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "duration_ms": 198998,
+      "name": "Get A Dog",
+      "url": "https://open.spotify.com/track/4ojft2o33N13eHRlci1G4Z"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Sound of Rain",
-        "url": "https://open.spotify.com/album/26lISXeKn8Lh59mPRQ2wDY"
+        "name": "Laci Kaye Booth",
+        "url": "https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79"
       },
       "artists": [
         {
-          "name": "Mason Lively",
-          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
         }
       ],
-      "duration_ms": 197729,
-      "name": "Sound of Rain",
-      "url": "https://open.spotify.com/track/1i63IAjJXD2HsFozWGfU8e"
+      "duration_ms": 192680,
+      "name": "Shuffle",
+      "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
     }
   ],
   "unique_name": "Texas Country Now",

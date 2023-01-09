@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,486 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,490 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 26 | [Tres Por Una](https://open.spotify.com/track/7961JijxsrpZXUzWkquseT) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Cesáreo Sánchez](https://open.spotify.com/artist/6swcGvbGZVTU3bXVWlOGif), [Salomon Robles](https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu) | [Ni Amores Ni Deudas](https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY) | 3:04 |
 | 27 | [Mudo Por Tu Amor](https://open.spotify.com/track/0zItQwc6k71g0smaBjrng1) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:20 |
 | 28 | [Corazon Viejo](https://open.spotify.com/track/4Fhyw5yQh0AFOLz8JTGZvy) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 3:05 |
-| 29 | [Mi Sacrificio](https://open.spotify.com/track/2uUK1y1A53rggDtfqZ1AQ0) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Ni Tu Amigo Ni Tu Amante](https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ) | 2:33 |
-| 30 | [Corazón Vació](https://open.spotify.com/track/1xb1n8lg8FkLkt8mxcRuVX) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:42 |
-| 31 | [Soy Yo](https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:29 |
+| 29 | [Soy Yo](https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:29 |
+| 30 | [Mi Sacrificio](https://open.spotify.com/track/2uUK1y1A53rggDtfqZ1AQ0) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Ni Tu Amigo Ni Tu Amante](https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ) | 2:33 |
+| 31 | [Corazón Vació](https://open.spotify.com/track/1xb1n8lg8FkLkt8mxcRuVX) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:42 |
 | 32 | [Ultimo Amor, Ultimo Dueño](https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:56 |
 | 33 | [Solo Y Triste](https://open.spotify.com/track/2GNsqriWKJlqCaMCvfTW9H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:20 |
 | 34 | [Aprendí Contigo](https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 49 | [Tres Veces Te Engañé](https://open.spotify.com/track/4FmlFs00vJVtRSNQddCQyJ) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Íconos 25 Éxitos](https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP) | 3:14 |
 | 50 | [Trigueñita De Ojos Negros](https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:38 |
 
-Snapshot ID: `Mjc4ODUwNDcsMDAwMDAwMDA1ZjM4NGRjNWJkOTExMzc5MTgwNjc3MmNjZGIwMmQzNw==`
+Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDBjMmRlMTBjOTA5ZDQ5NzVkNTgxYmEwZjQ5NTc5Njg3NA==`

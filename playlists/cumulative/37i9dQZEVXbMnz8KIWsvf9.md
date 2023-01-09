@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-532 songs - 1 day 7 hr 6 min
+533 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [17](https://open.spotify.com/track/4cxB2603ulZZjod5FwmWy1) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [17](https://open.spotify.com/album/1hmpvMQD6vOAf4dpT67jsP) | 3:30 | 2022-09-30 | 2022-11-17 |
 | [17 นาที](https://open.spotify.com/track/1CfKHIQhgKrUMAkj4VwI4J) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [17 นาที](https://open.spotify.com/album/5SJUJTC3angIZd2p8kmBUR) | 3:35 | 2022-02-19 | 2022-07-23 |
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2021-03-27\* | 2021-06-09 |
-| [= \(Equal Sign\)](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:54 | 2022-07-16 | 2022-07-21 |
+| [= \(Equal Sign\)](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:54 | 2022-07-16 |  |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-03 | 2022-04-06 |
 | [aenergy](https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 2:27 | 2021-10-07 | 2021-10-08 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-23 | 2022-10-23 |
@@ -33,7 +33,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-01-03 |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-19 |  |
 | [Arcade](https://open.spotify.com/track/4T9hw59r85ZkesNoYWQIJg) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-29 | 2022-03-31 |
-| [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 |  |
+| [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 | 2023-01-09 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-08-01 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-17 | 2022-05-28 |
 | [At My Worst](https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:50 | 2021-03-27\* | 2021-11-13 |
@@ -217,7 +217,7 @@
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2021-07-26 | 2021-12-04 |
 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2021-09-13 | 2021-09-14 |
 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 | 2021-10-07 | 2021-10-08 |
-| [Lucky](https://open.spotify.com/track/7MQ5qQZkeVI4eBOYEXm75v) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [Where You Wanna Go](https://open.spotify.com/album/2ZTIEsWdfacwU4xcEpq8vB) | 3:03 | 2023-01-07 |  |
+| [Lucky](https://open.spotify.com/track/7MQ5qQZkeVI4eBOYEXm75v) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [Where You Wanna Go](https://open.spotify.com/album/2ZTIEsWdfacwU4xcEpq8vB) | 3:03 | 2023-01-07 | 2023-01-09 |
 | [Luxury](https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Luxury](https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk) | 4:06 | 2022-06-15 | 2022-10-25 |
 | [Magic Carpet Ride](https://open.spotify.com/track/6F2wRUS8oe71Hs9O58dMKb) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:38 | 2021-09-19 | 2021-09-20 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-03-25 | 2022-03-27 |
@@ -504,6 +504,7 @@
 | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/19KNYtZF0xP7VCIItvGSJZ) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\) \[feat\. MILLI\]](https://open.spotify.com/album/1aO65qDUbY2vJWXYzHP2vj) | 3:39 | 2021-04-30 | 2021-11-27 |
 | [เมะ](https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เมะ](https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw) | 3:06 | 2021-08-21 | 2022-08-07 |
 | [เลือกคนที่เขารักเรา](https://open.spotify.com/track/62cOB2rHLifRe73H85MhNz) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:46 | 2021-03-27\* | 2021-03-27 |
+| [เลือดกรุ๊ปบี](https://open.spotify.com/track/4CdW5KKyIjrpx6Hz981dUt) | [CHRRISSA](https://open.spotify.com/artist/3eK3fsbCi7wc4hThk9wSZO) | [เลือดกรุ๊ปบี](https://open.spotify.com/album/3yxeQVMGenKeriJbIjZyD7) | 4:49 | 2023-01-08 |  |
 | [เวลาเธอยิ้ม](https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 3:47 | 2022-08-29 | 2022-11-16 |
 | [เสแสร้ง \(Pretend\)](https://open.spotify.com/track/3imt8APLtyXVGsLZM362nA) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [Moon](https://open.spotify.com/artist/0AEFDYdJjix0o8cZ1lnrNb) | [เสแสร้ง \(Pretend\) \[Feat\. MOON\]](https://open.spotify.com/album/6X0fYVQVcGJmu7SaKJMzYR) | 3:43 | 2022-03-20 | 2022-09-06 |
 | [เอาปากกามาวง](https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เอาปากกามาวง](https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm) | 3:24 | 2021-12-01 | 2022-06-10 |

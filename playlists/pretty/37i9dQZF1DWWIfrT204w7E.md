@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,999 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,101 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 30 | [Sanctioned](https://open.spotify.com/track/1kxT1ORd40GZyw8KvITwAU) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Sanctioned](https://open.spotify.com/album/4gq9eIEzk67n3IHgMMu5gK) | 2:08 |
 | 31 | [In The UK](https://open.spotify.com/track/7kWXW1tYyE2cOR11TPkKT7) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [In The UK](https://open.spotify.com/album/7ueX2aPzPqbryfJKHnJPTh) | 3:03 |
 | 32 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 |
-| 33 | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 |
+| 33 | [Pisces](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 |
 | 34 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 |
 | 35 | [Suburban, Pt\. 2](https://open.spotify.com/track/7rWLqeQJabrK7FbY8X0TyI) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Growth & Development](https://open.spotify.com/album/2toa1qSFYevlVwt9LOG5id) | 3:10 |
 | 36 | [Deep End Freestyle](https://open.spotify.com/track/2AlYncTpVHKwHb55F9lF6O) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sleepy Hallow Presents: Sleepy For President](https://open.spotify.com/album/3P7EIeXmzJQNT1xs4Q6Xzd) | 1:55 |

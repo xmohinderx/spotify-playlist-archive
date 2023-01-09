@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-421 songs - 1 day 7 hr 59 min
+422 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Backlash](https://open.spotify.com/track/49Q63qqwDXwAp6LKus8jnI) | [Ago](https://open.spotify.com/artist/5tGHJC8P1yydPdtYx1tgQ2) | [Backlash EP](https://open.spotify.com/album/2gjT5uClcEUwj77oh8199t) | 4:09 | 2022-07-08 |  |
 | [Backwash](https://open.spotify.com/track/15SoHKEM5qdF9Lq57OzmVo) | [Sweepa](https://open.spotify.com/artist/0mfu0QSlPDMgCNNskqdDDY) | [Boundaries LP](https://open.spotify.com/album/20iyt2C0h9YeGB07pul8GG) | 5:15 | 2022-02-17 | 2022-04-09 |
 | [Bad](https://open.spotify.com/track/1Je8Jq5NozpiNImetc9pLg) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mark Ernestus](https://open.spotify.com/artist/4PJXLZh1FKCCiNlGy8vrel) | [Bad / Badder](https://open.spotify.com/album/3C78Rv1NmTIt02NpNbGwkN) | 6:30 | 2022-02-17 | 2022-07-02 |
-| [Bad Trip](https://open.spotify.com/track/0sfYFm39WVEmvzBkEiP8p8) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Bad Trip / Rolling Skies](https://open.spotify.com/album/7vXcbxCeFD9Ig8YyxFldko) | 4:39 | 2022-02-17 |  |
+| [Bad Trip](https://open.spotify.com/track/0sfYFm39WVEmvzBkEiP8p8) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Bad Trip / Rolling Skies](https://open.spotify.com/album/7vXcbxCeFD9Ig8YyxFldko) | 4:39 | 2022-02-17 | 2023-01-09 |
 | [Balaclava](https://open.spotify.com/track/1eAkkYLE0xkfwp0kXVX38R) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Balaclava](https://open.spotify.com/album/3dXuQqB5pNyH2GweiRzTDp) | 3:17 | 2022-09-09 |  |
 | [Banada](https://open.spotify.com/track/0ieeUcJFXbm3XqWKVeZxRQ) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Banada](https://open.spotify.com/album/0GX8LRuYKACQErKXtVfoyc) | 3:52 | 2022-11-04 | 2022-12-19 |
 | [Bass Drama](https://open.spotify.com/track/02xFanXMNa1oVWdDZicssi) | [Hubwar](https://open.spotify.com/artist/5nR6SzYpEXdbRHRAJIO4aZ) | [Creatures](https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n) | 4:20 | 2022-02-17 |  |
@@ -252,6 +252,7 @@
 | [Nu Era Dub](https://open.spotify.com/track/0oUaAYfRfEZTgPBtV75oOJ) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Nu Era Dub](https://open.spotify.com/album/49GSDSjry8dLRKU5xrTiTc) | 4:46 | 2022-02-17 | 2022-07-29 |
 | [Nu Era Dub](https://open.spotify.com/track/6mD3RkOwL0sBjCAD8ky0uu) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Nu Era Dub](https://open.spotify.com/album/41IFclO5dnmbX31dgbpkaG) | 4:46 | 2022-07-08 | 2022-10-08 |
 | [Numina](https://open.spotify.com/track/4Iy2mgBnJz9ijL1NbsP2nI) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [Numina EP](https://open.spotify.com/album/1hNrdlz2tHVMBJVvF5EpzW) | 5:43 | 2022-02-17 | 2022-07-30 |
+| [Obelisk \- Mystic State Remix](https://open.spotify.com/track/2L0WyZxjtS0geQdWg2JMrm) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7), [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Obelisk \(Mystic State Remix\)](https://open.spotify.com/album/6PnAg7cPFSh97eLm6K52GU) | 5:08 | 2023-01-06 |  |
 | [Objectivity](https://open.spotify.com/track/6ktq5DOVX9h2dqvg9Ok582) | [Cubicle](https://open.spotify.com/artist/2nTs9cTorG1oHERKfYmbdS) | [Certified Organic 2: Part 2](https://open.spotify.com/album/2YWQ8Zl0r01grHetDr3KZq) | 4:17 | 2022-02-17 | 2022-07-29 |
 | [Obstacles](https://open.spotify.com/track/0qxcrxQYorvcuFeefFtuq6) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD) | [Obstacles](https://open.spotify.com/album/3k4NrjqrsxhTqueiAbS21F) | 5:03 | 2022-02-17 | 2022-12-13 |
 | [Old & New](https://open.spotify.com/track/0TvSuQHGGyVODHyJ2GzYSF) | [Teffa](https://open.spotify.com/artist/3w8EiOMwnAuuWfPmX5kRqb) | [Old & New EP](https://open.spotify.com/album/2OHPsDdQ0pIWfly7ZWg3XJ) | 3:41 | 2022-02-17 |  |

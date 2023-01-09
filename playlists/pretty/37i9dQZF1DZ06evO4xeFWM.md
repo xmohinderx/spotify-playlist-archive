@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,645 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,662 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 31 | [Revolution](https://open.spotify.com/track/69c48S8phNtQZuM8ksaObz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Revolution](https://open.spotify.com/album/58mZEgMHwabU4Z5S2ggjCx) | 3:03 |
 | 32 | [Bad Blood](https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:32 |
 | 33 | [Stay Awake?](https://open.spotify.com/track/5RBOGco5lrq7mCF4PiiPZI) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:07 |
-| 34 | [Can’t Fight This Feeling](https://open.spotify.com/track/6lYNtepnbJVzR0tAxj2lW7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Can’t Fight This Feeling](https://open.spotify.com/album/4GA0xqV2mfFmup90U0aOlu) | 3:18 |
-| 35 | [Grip](https://open.spotify.com/track/3gicyfiEVMGONgzygpWjNT) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Grip](https://open.spotify.com/album/1TwCR17ZsRgWTo00mmlzqq) | 3:18 |
+| 34 | [Grip](https://open.spotify.com/track/3gicyfiEVMGONgzygpWjNT) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Grip](https://open.spotify.com/album/1TwCR17ZsRgWTo00mmlzqq) | 3:18 |
+| 35 | [Can’t Fight This Feeling](https://open.spotify.com/track/6lYNtepnbJVzR0tAxj2lW7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Can’t Fight This Feeling](https://open.spotify.com/album/4GA0xqV2mfFmup90U0aOlu) | 3:18 |
 | 36 | [Laura Palmer](https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:06 |
 | 37 | [Family Ties](https://open.spotify.com/track/1HZfTE8QCq1adwblnuo9Uw) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 2:46 |
 | 38 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 51 | [Pompeii \- Audien Remix](https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Pompeii \(Audien Remix\)](https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU) | 5:52 |
 | 52 | [No One’s Here To Sleep](https://open.spotify.com/track/0txjdg6j38GxiWzfH2Skpg) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 4:32 |
 
-Snapshot ID: `Mjc4ODUwNDcsMDAwMDAwMDAxOTkyMDY0Y2Y3YjFiY2RkNmMxZDlhOWY1ZDI1YjJhZQ==`
+Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDBkYzQyMWY3ZjNlYzBlZWFkNjRiZGNiNjVhMzA1MDcwZA==`

@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-235 songs - 14 hr 47 min
+237 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 | 2022-06-16 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Make You Feel My Love](https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx) | 3:32 | 2022-10-17 | 2022-11-13 |
 | [Mala](https://open.spotify.com/track/3iLFTlc0gJN5UbPwPEdK22) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Mala](https://open.spotify.com/album/3zjmCPVSGMbtL0iPKS4Vh7) | 2:54 | 2021-11-19 | 2022-07-29 |
+| [Malay Mo](https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Malay Mo, Tayo](https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj) | 4:34 | 2022-10-17 |  |
 | [Malay Mo, Tayo](https://open.spotify.com/track/0cMcFcm3YvB8o1yKkYNv0a) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Malay Mo, Tayo](https://open.spotify.com/album/401eCisGwwn6mkEi5A21Iw) | 4:34 | 2021-11-19 | 2023-01-08 |
 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 | 2021-11-19 |  |
 | [Media Tinta](https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t) | [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Media Tinta](https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2) | 3:54 | 2021-11-19 |  |
@@ -153,7 +154,7 @@
 | [Photo of My Mind](https://open.spotify.com/track/6SOw5YcoAXoKphG5iPzXEz) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/1FqkBTEnhrkGzu934rDADs) | 4:32 | 2021-11-19 | 2022-07-29 |
 | [Photo of My Mind](https://open.spotify.com/track/6ySOgvVNAx7qfWQjAuygwU) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/7DDssx4nZHYShZUSGEoMom) | 4:32 | 2022-06-16 |  |
 | [Piccola Stella](https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Colpa Delle Favole](https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy) | 3:52 | 2021-11-19 |  |
-| [Pindirai](https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy) | [Garry Mapanzure](https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm) | [Sushi Season \(The First\)](https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst) | 4:03 | 2021-11-19 |  |
+| [Pindirai](https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy) | [Garry Mapanzure](https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm) | [Sushi Season \(The First\)](https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst) | 4:03 | 2021-11-19 | 2023-01-09 |
 | [Primera Cita \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 4:18 | 2021-11-19 |  |
 | [Read All About It, Pt\. III](https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe) | 4:43 | 2021-11-19 | 2022-07-28 |
 | [Read All About It, Pt\. III](https://open.spotify.com/track/1U0bhf79qQt8ozR25aXMtH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/6vAgHrX0THw3dFEpk1Cjt3) | 4:43 | 2022-06-16 |  |
@@ -166,7 +167,7 @@
 | [Sei Lá](https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Sei Lá](https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj) | 3:22 | 2021-11-19 |  |
 | [Sick](https://open.spotify.com/track/0PNe1yHadbi9T3hWSVn1VT) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [SICK](https://open.spotify.com/album/1xZL1jkPq4gjt116V9GrYL) | 3:59 | 2022-06-16 |  |
 | [Sick](https://open.spotify.com/track/5iPUaIFK1NW6gzPxxm32Ds) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [Sick](https://open.spotify.com/album/6TTWmDPxy1IDIl6MB1ENOY) | 3:59 | 2021-11-19 | 2022-07-29 |
-| [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 | 2021-11-19 |  |
+| [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 | 2021-11-19 | 2023-01-09 |
 | [Simula](https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS) | [Aicelle Santos](https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp), [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Simula](https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn) | 4:25 | 2021-11-19 |  |
 | [Sobreviviendo](https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Hacia Adentro](https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL) | 4:03 | 2022-06-16 |  |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-11-19 |  |
@@ -213,6 +214,7 @@
 | [You Are The Reason](https://open.spotify.com/track/03KooGt49z9fEvWjcrtD74) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lovebirds](https://open.spotify.com/album/0fuFsHfdlZIsK0tEVyLzgg) | 3:24 | 2022-10-17 | 2022-11-14 |
 | [You Are The Reason](https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [You Are The Reason](https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U) | 3:24 | 2021-11-19 | 2022-07-29 |
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2022-06-16 |  |
+| [Your Song \(My One and Only You\)](https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk) | [Julie Anne San Jose](https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy) | [Breakthrough](https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi) | 3:43 | 2022-10-17 |  |
 | [Your Song \- My One and Only You](https://open.spotify.com/track/311a0P87ZiMjjCaoQSZEfh) | [Julie Anne San Jose](https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy) | [Your Song \(My One and Only You\)](https://open.spotify.com/album/3mNbu0ZXCMNFS6308EQ4qU) | 3:42 | 2021-11-19 | 2023-01-08 |
 | [Zina](https://open.spotify.com/track/2eSAXnpJSYIJ7QyTErLvOb) | [Ayoub Maach](https://open.spotify.com/artist/6lNP6HiSpWcr1NpO3MLcXj), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Ali B](https://open.spotify.com/artist/5quv5QEyL2XAloebaau69m) | [Zina](https://open.spotify.com/album/3kA2KEC5ZNn7O5DPB25TLD) | 2:28 | 2021-11-19 | 2022-07-29 |
 | [Zina](https://open.spotify.com/track/7nPK9IbFaBZ698nz8oy5BV) | [Ayoub Maach](https://open.spotify.com/artist/6lNP6HiSpWcr1NpO3MLcXj), [Kes](https://open.spotify.com/artist/1lMqPztKuO3DBB64uGJGr0), [Ali B](https://open.spotify.com/artist/5quv5QEyL2XAloebaau69m) | [Zina](https://open.spotify.com/album/4tOUBy2cTlm0bliEb6ZeiU) | 2:28 | 2022-06-16 |  |

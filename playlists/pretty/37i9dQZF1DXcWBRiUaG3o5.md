@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,642 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330,621 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 58 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
 | 59 | [symbol](https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:49 |
 | 60 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 |
-| 61 | [Mother Song](https://open.spotify.com/track/7BAKX6s6fXzAJhzzsxGYW2) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Jericho](https://open.spotify.com/album/4GMmnvoe8QZMYK97JDCna2) | 2:53 |
-| 62 | [Fickle Heart](https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0) | 3:21 |
+| 61 | [Fickle Heart](https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0) | 3:21 |
+| 62 | [Mother Song](https://open.spotify.com/track/7BAKX6s6fXzAJhzzsxGYW2) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Jericho](https://open.spotify.com/album/4GMmnvoe8QZMYK97JDCna2) | 2:53 |
 | 63 | [Under Dusk](https://open.spotify.com/track/3TbH823KFCLfwo8elqPtpj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Enna Blake](https://open.spotify.com/artist/3qIZ7QSE210xVDfAHDpXmb) | [Under Dusk](https://open.spotify.com/album/6P2il2hKvAhUel4zPM0Dpp) | 3:39 |
 | 64 | [Wake Me](https://open.spotify.com/track/6pOiBHK2mMiSNnPsYNGsEc) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/10BngwMbchdQ5W3LN4tFuk) | 5:31 |
 | 65 | [La Lune](https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [La Lune](https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 99 | [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 |
 | 100 | [Long Lost Century](https://open.spotify.com/track/4D33fdArlhQK9NcGTx3EOD) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Gems and Bones](https://open.spotify.com/album/1HgGpS6VNeQs1R0V3o8TNC) | 4:16 |
 
-Snapshot ID: `MTY1MDA0MTgwOSwwMDAwMDAwMDdkMTg2ODU3NzU1OWFkMmQzZDdkOTQwM2MwNzc2YTBk`
+Snapshot ID: `MTY1MDA0MTgwOSwwMDAwMDAwMGY0YzQ0MDFlZGRjODc4YjlmMTI4MjhiZjI4ZmIzYjlj`

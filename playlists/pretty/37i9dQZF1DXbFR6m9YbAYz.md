@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 
 > Country tracks to pump up your gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,053 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,273 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 30 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
 | 31 | [This Damn Song](https://open.spotify.com/track/7s9bJQK8sr8yDyOAHn8miR) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [This Damn Song](https://open.spotify.com/album/4KFp8O0ruq7DsaEbU57eNs) | 4:40 |
 | 32 | [This Bar](https://open.spotify.com/track/075qcpR3BnxD5CWUIx1HTr) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:05 |
-| 33 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 |
-| 34 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 |
+| 33 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 |
+| 34 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 |
 | 35 | [The Way I Talk](https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:28 |
 | 36 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:50 |
 | 37 | [Me and My Kind](https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cowboy Like Me](https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj) | 2:36 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 62 | [Rich](https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:28 |
 | 63 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
 | 64 | [JACK](https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JACK](https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc) | 2:48 |
-| 65 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
-| 66 | [Homegrown](https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:25 |
+| 65 | [Homegrown](https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:25 |
+| 66 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
 | 67 | [The Git Up](https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj) | 3:20 |
 | 68 | [What Was I Thinkin'](https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Dierks Bentley](https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ) | 4:20 |
 | 69 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 74 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 |
 | 75 | [Kick The Dust Up](https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 3:10 |
 
-Snapshot ID: `MTY3MDI4MTUxMywwMDAwMDAwMDczM2NmMzhlZTEzYTIyOWZlNTk3NmEwMTlmYTgzZjVl`
+Snapshot ID: `MTY3MDI4MTUxMywwMDAwMDAwMDY2NGNiMjlmOThjNGQ1MzI3MTUzZDdlNjZiMWZkNzY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Alex Hoyer en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,026 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,114 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 18 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 |
 | 19 | [Tu Peor Pesadilla](https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:21 |
 | 20 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 |
-| 21 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 |
-| 22 | [Crayola](https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI) | [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Crayola](https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3) | 2:30 |
+| 21 | [Crayola](https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI) | [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Crayola](https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3) | 2:30 |
+| 22 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 |
 | 23 | [Tírame Un Hello](https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Tírame Un Hello](https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g) | 2:49 |
 | 24 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
 | 25 | [No Puede Ser \- con Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(con Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 37 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 |
 | 38 | [Solo Quédate en Silencio](https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Giovanna Grigio](https://open.spotify.com/artist/3xp09DOSzWRRJlxzWzomrh), [Alejandro Puente](https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 3:22 |
 | 39 | [CHTM](https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [CHTM](https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f) | 3:09 |
-| 40 | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k) | 3:49 |
-| 41 | [Chihiro](https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Chihiro](https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y) | 3:39 |
-| 42 | [Mi Película](https://open.spotify.com/track/4Gd65mnCu829bBJL4lb5Bb) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Mi Película](https://open.spotify.com/album/3gqhmbNm30Dw3qoiJd7B8e) | 2:23 |
-| 43 | [TERMINAMOS](https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [TERMINAMOS](https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu) | 2:37 |
-| 44 | [Que PASE y YA](https://open.spotify.com/track/5znAcI91hov7U28bpvycXr) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Que PASE y YA](https://open.spotify.com/album/66N9ddJ34olVxzsztDFaC4) | 2:26 |
+| 40 | [Que PASE y YA](https://open.spotify.com/track/5znAcI91hov7U28bpvycXr) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Que PASE y YA](https://open.spotify.com/album/66N9ddJ34olVxzsztDFaC4) | 2:26 |
+| 41 | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k) | 3:49 |
+| 42 | [Chihiro](https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Chihiro](https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y) | 3:39 |
+| 43 | [Mi Película](https://open.spotify.com/track/4Gd65mnCu829bBJL4lb5Bb) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Mi Película](https://open.spotify.com/album/3gqhmbNm30Dw3qoiJd7B8e) | 2:23 |
+| 44 | [TERMINAMOS](https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [TERMINAMOS](https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu) | 2:37 |
 | 45 | [Tus Besos](https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Tus Besos](https://open.spotify.com/album/5S9MvHxcWp1l7fwhxm0r42) | 3:02 |
 | 46 | [Pasos de Gigante](https://open.spotify.com/track/6DlhPEHyYrrZCs9rTIz6ho) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Pasos de Gigante](https://open.spotify.com/album/2hHyswHGfr2UQ1jdVUlMsP) | 3:41 |
 | 47 | [VELOZzzz](https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [VELOZzzz](https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [Siempre Tú](https://open.spotify.com/track/6LUouQmwcFQQgjkL4jsxUh) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Siempre Tú](https://open.spotify.com/album/3ipgL8vCJtnSTJl8irREqr) | 3:14 |
 | 50 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 |
 
-Snapshot ID: `MTY3MTQ3NzA3MywwMDAwMDAwMDQ0OGNlYWIwODZjZmE4MjdmYzgyZjMyOTY5Y2I1N2Zk`
+Snapshot ID: `MTY3MTQ3NzA3MywwMDAwMDAwMDg2ZGUwMzdmMWRjZjM1Zjc0ZGIzZmZiYjlhZGJmZDI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 
 > Bonitas, orgullosas y empoderadas, así somos las señoras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,934 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,262 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 17 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
 | 18 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
 | 19 | [¡Corre!](https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro?](https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq) | 4:48 |
-| 20 | [Tan enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
-| 21 | [¿Y cómo es él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
+| 20 | [¿Y cómo es él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
+| 21 | [Tan enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
 | 22 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 |
 | 23 | [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 |
 | 24 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 30 | [Te He Prometido](https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Canta Trovador](https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8) | 3:07 |
 | 31 | [Tengo Todo Excepto a Ti](https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:32 |
 | 32 | [Te amo](https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Voy](https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR) | 3:53 |
-| 33 | [Si la Ves \(feat\. Sin Bandera\)](https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 4:08 |
-| 34 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
+| 33 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
+| 34 | [Si la Ves \(feat\. Sin Bandera\)](https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 4:08 |
 | 35 | [Tanto](https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:39 |
 | 36 | [Víveme](https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Escucha](https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL) | 3:56 |
 | 37 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 68 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 |
 | 69 | [Mi error, mi fantasía](https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:48 |
 | 70 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
-| 71 | [La mujer que bota fuego \(feat\. Natalia Jiménez\)](https://open.spotify.com/track/6w6EINTodc8j0TWtrWHdm2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [La mujer que bota fuego \(feat\. Natalia Jiménez\)](https://open.spotify.com/album/78LoJthaoIuMaRNZGduMdh) | 4:04 |
-| 72 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
+| 71 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
+| 72 | [La mujer que bota fuego \(feat\. Natalia Jiménez\)](https://open.spotify.com/track/6w6EINTodc8j0TWtrWHdm2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [La mujer que bota fuego \(feat\. Natalia Jiménez\)](https://open.spotify.com/album/78LoJthaoIuMaRNZGduMdh) | 4:04 |
 | 73 | [Remolino](https://open.spotify.com/track/0ACbLwjYUehkGVVFYKPYNQ) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 4:10 |
 | 74 | [Tal Vez Quizas](https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:34 |
 | 75 | [Bazar](https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:29 |
 
-Snapshot ID: `MTY3Mjk4NjM1MCwwMDAwMDAwMDcyYjQ1YWE4YWZhY2U5ZmE3MDdjNmZmYTlhMGUxOWFi`
+Snapshot ID: `MTY3Mjk4NjM1MCwwMDAwMDAwMGI2NjcwNzA3MDZjMzg2YmEwMWQ2ZThmNTQwY2ZhYmMz`

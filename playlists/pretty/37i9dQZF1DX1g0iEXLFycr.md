@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,193 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,146 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 28 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:34 |
 | 29 | [Problem](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:13 |
 | 30 | [Douha \(Mali Mali\) \(Edit\)](https://open.spotify.com/track/1supkf9D4Obm2yTHqug3m8) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Douha \(Mali Mali\)](https://open.spotify.com/album/7MnQlAenFwY2m2TAgni2py) | 2:51 |
-| 31 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
-| 32 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
+| 31 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
+| 32 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
 | 33 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
 | 34 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 |
 | 35 | [No Judgement](https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [No Judgement](https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T) | 2:56 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 58 | [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 |
 | 59 | [You Gotta Be](https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [I Ain't Movin'](https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU) | 4:05 |
 | 60 | [Freedom! '90 \- Remastered](https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:30 |
-| 61 | [I Will Never Let You Down](https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [I Will Never Let You Down](https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD) | 3:23 |
-| 62 | [Let's Hear It for the Boy \- From "Footloose" Original Soundtrack](https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Let's Hear It for the Boy \(Expanded Edition\)](https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u) | 4:22 |
+| 61 | [Let's Hear It for the Boy \- From "Footloose" Original Soundtrack](https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Let's Hear It for the Boy \(Expanded Edition\)](https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u) | 4:22 |
+| 62 | [I Will Never Let You Down](https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [I Will Never Let You Down](https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD) | 3:23 |
 | 63 | [Ugly Heart](https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [G.R.L.](https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF) | 3:18 |
 | 64 | [Sweet Lovin' \- Radio Edit](https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:22 |
 | 65 | [Superstar \(feat\. Matthew Santos\)](https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:49 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 85 | [Praise You](https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 5:23 |
 | 86 | [I Wanna Feel](https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [I Wanna Feel](https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3) | 3:06 |
 | 87 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
-| 88 | [When I Was A Youngster](https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Stereo Typical](https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp) | 2:55 |
-| 89 | [Place Your Hands](https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO) | [Reef](https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO) | [Together \- The Best Of](https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq) | 3:37 |
+| 88 | [Place Your Hands](https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO) | [Reef](https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO) | [Together \- The Best Of](https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq) | 3:37 |
+| 89 | [When I Was A Youngster](https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Stereo Typical](https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp) | 2:55 |
 | 90 | [Anywhere](https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Anywhere](https://open.spotify.com/album/5D7wyvS4OM7u1PvEH2k3FO) | 3:25 |
 | 91 | [Sax](https://open.spotify.com/track/20dJUFrfY0TBZ7HHhJgjsg) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Sax](https://open.spotify.com/album/5rywm2MmNo44XiEXaVyMJ8) | 3:56 |
 | 92 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 99 | [No Worries](https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs) | 3:29 |
 | 100 | [Bright Idea](https://open.spotify.com/track/1zy1Rc0OFMaLOXjQkp14Ae) | [Orson](https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ) | [Bright Idea](https://open.spotify.com/album/1hkpfGagWyjViaKQlkwrnG) | 4:14 |
 
-Snapshot ID: `MTU5ODU0NDYyNSwwMDAwMDAwMDNmN2RhMTUzZmFmNjhlYzE1NGM0M2JmZjUwZDhhMzYw`
+Snapshot ID: `MTU5ODU0NDYyNSwwMDAwMDAwMDNlMzFlODQzNTE1NzI5Zjk2MzI0NDgyYWE5OGFkNjc0`

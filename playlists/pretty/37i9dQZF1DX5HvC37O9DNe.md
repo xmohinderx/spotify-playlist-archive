@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 
 > Semplicemente noi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,981 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,028 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 | 52 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 |
 | 53 | [MUJER](https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV) | 2:41 |
 | 54 | [!ly \(feat\. Coez\)](https://open.spotify.com/track/1E1nbIsPDO1PdtQwsAKKF3) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:26 |
-| 55 | [Ricordi](https://open.spotify.com/track/6Tj82tvIsDmfMTskuomuEq) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Ricordi](https://open.spotify.com/album/4HTHn74exsZ0i3bClrCFef) | 3:22 |
-| 56 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 |
-| 57 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 |
-| 58 | [Back To You \- From 13 Reasons Why – Season 2 Soundtrack](https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Back To You \(From 13 Reasons Why – Season 2 Soundtrack\)](https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO) | 3:27 |
-| 59 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 |
-| 60 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 |
+| 55 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 |
+| 56 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 |
+| 57 | [Ricordi](https://open.spotify.com/track/6Tj82tvIsDmfMTskuomuEq) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Ricordi](https://open.spotify.com/album/4HTHn74exsZ0i3bClrCFef) | 3:22 |
+| 58 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 |
+| 59 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 |
+| 60 | [Back To You \- From 13 Reasons Why – Season 2 Soundtrack](https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Back To You \(From 13 Reasons Why – Season 2 Soundtrack\)](https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO) | 3:27 |
 | 61 | [i'm so tired...](https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:42 |
 | 62 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 |
 | 63 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 | 74 | [Monster \(Shawn Mendes & Justin Bieber\)](https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Monster](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) | 2:58 |
 | 75 | [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 |
 
-Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMDhlMTA3NGMwNDI0OGU5YmNjNWRkYmQwYTE0MzE1NWVi`
+Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMGM1MzAyOTY0OWQ1ZTZjMzM0MGNhMjk2ZGYxZjA4YmQw`

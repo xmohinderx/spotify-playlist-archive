@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 48529,
+  "num_followers": 48577,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY3Mzk5MiwwMDAwMDAwMDgxYTA1MmViNWQ0MjA2N2ZlY2ZlZjE4M2I0ZWRjMDFk",
+  "snapshot_id": "MTY2ODY3Mzk5MiwwMDAwMDAwMGUzMjYwODQ2M2I3NGZlZmNjMGEzNTlhYWY3NDFlNjEz",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Where I Wanna Be",
         "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 243733,
       "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
       "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "L.A.B",
-        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 280600,
-      "name": "Ain't No Use",
-      "url": "https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Young Sick Camellia",
         "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 290422,
       "name": "GotItBad",
       "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "L.A.B",
+        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 280600,
+      "name": "Ain't No Use",
+      "url": "https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
-      },
-      "artists": [
-        {
-          "name": "Remy Shand",
-          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "L.A.B",
         "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 258200,
       "name": "Starry Eyes",
       "url": "https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
+      },
+      "artists": [
+        {
+          "name": "Remy Shand",
+          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -687,18 +687,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+        "name": "A Weird Kinda Wonderful",
+        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
       },
       "artists": [
         {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
         }
       ],
-      "duration_ms": 415742,
-      "name": "...Til the Cops Come Knockin' - Remastered 2021",
-      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
+      "duration_ms": 311453,
+      "name": "Can't Change Me",
+      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "A Weird Kinda Wonderful",
-        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
       },
       "artists": [
         {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
         }
       ],
-      "duration_ms": 311453,
-      "name": "Can't Change Me",
-      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
+      "duration_ms": 415742,
+      "name": "...Til the Cops Come Knockin' - Remastered 2021",
+      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -747,6 +747,26 @@
       "duration_ms": 293400,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
+      },
+      "artists": [
+        {
+          "name": "Wantigga",
+          "url": "https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF"
+        },
+        {
+          "name": "JAEL",
+          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
+        }
+      ],
+      "duration_ms": 212116,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -787,26 +807,6 @@
       "duration_ms": 233000,
       "name": "Every Day a Dream",
       "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Take You There",
-        "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
-      },
-      "artists": [
-        {
-          "name": "Wantigga",
-          "url": "https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF"
-        },
-        {
-          "name": "JAEL",
-          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
-        }
-      ],
-      "duration_ms": 212116,
-      "name": "Take You There",
-      "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Make the Road By Walking",
+        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "Montego Sunset",
+      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "The SunRoom",
         "url": "https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 213192,
       "name": "Blue Magic (Waikiki)",
       "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Make the Road By Walking",
-        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 198786,
-      "name": "Montego Sunset",
-      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Bags & Suitcases",
+        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Take From Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 269706,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Bags & Suitcases",
-        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
     },
     {
       "added_at": "2022-11-17 08:32:10",

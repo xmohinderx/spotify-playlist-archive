@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. For Tracy Hyde on cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,377 likes - 108 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,425 likes - 108 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 26 | [Chinatown](https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Gemini](https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W) | 3:18 |
 | 27 | [In Your Room](https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 9:26 |
 | 28 | [For the Kill](https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Odes to the Void](https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS) | 3:28 |
-| 29 | [At It Again](https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 2:03 |
+| 29 | [Beautiful World](https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ) | 5:20 |
 | 30 | [Gyoninzaka in Spring](https://open.spotify.com/track/4UqlQWqFdxCrGFo2axMVW8) | [東京酒吐座\(Tokyo Shoegazer\)](https://open.spotify.com/artist/0dzZimiT5lEvERCEXHdaTX) | [Gyoninzaka in the Four Seasons](https://open.spotify.com/album/4ssNmWRnW42GJPCwi6MvD0) | 5:40 |
 | 31 | [Out of Mind](https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:08 |
 | 32 | [Leave](https://open.spotify.com/track/6yjtcpFf9dLgflkS52PYNa) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Distressor](https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2) | 4:13 |
-| 33 | [Beautiful World](https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ) | 5:20 |
+| 33 | [At It Again](https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 2:03 |
 | 34 | [Holy Forest](https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Everything Else Matters](https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL) | 4:08 |
 | 35 | [Famine Asylum](https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:10 |
 | 36 | [Glow](https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Aurora](https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd) | 4:02 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 49 | [Strawberry Cream](https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF) | [Oeil](https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7) | [Urban Twilight \(Remaster\)](https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI) | 3:50 |
 | 50 | [nine gates](https://open.spotify.com/track/3MkPh2Smg59XnROkCrIpqu) | [Kuragari](https://open.spotify.com/artist/5O8QZKwlWrs7Z7AoQ1tmtA) | [never used](https://open.spotify.com/album/7Mgl8ZGSDdjzbvfzC14xLX) | 4:34 |
 | 51 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 |
-| 52 | [Strawberry](https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt) | 3:29 |
-| 53 | [Chihiro](https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 4:00 |
+| 52 | [Chihiro](https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 4:00 |
+| 53 | [Strawberry](https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt) | 3:29 |
 | 54 | [Out of Line](https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Out of Line](https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo) | 2:11 |
 | 55 | [Handsome Man](https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 2:28 |
 | 56 | [Too Wild](https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4) | [Seasurfer](https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw) | [Too Wild](https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ) | 4:35 |
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 62 | [OUTLAW69](https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ) | [Blush Response](https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj), [Warm](https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I) | [Blush Response & Warm](https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn) | 3:56 |
 | 63 | [Making Room](https://open.spotify.com/track/2CoP6BbpUoMmTfks7WeDHX) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 3:46 |
 | 64 | [Kaleidoscope](https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB) | 2:05 |
-| 65 | [Drag Me into the Woods](https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Spells](https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC) | 6:27 |
-| 66 | [Press](https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 3:31 |
-| 67 | [Frame Of Reference](https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:33 |
-| 68 | [Breakbeats](https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83) | [Pasteboard](https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9) | [Glitter](https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS) | 3:10 |
+| 65 | [Press](https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 3:31 |
+| 66 | [Drag Me into the Woods](https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Spells](https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC) | 6:27 |
+| 67 | [Breakbeats](https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83) | [Pasteboard](https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9) | [Glitter](https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS) | 3:10 |
+| 68 | [Frame Of Reference](https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:33 |
 | 69 | [Thursday](https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0) | [Asobi Seksu](https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62) | [Citrus](https://open.spotify.com/album/3i8QvhKyRoIQmkyACiHsye) | 4:17 |
 | 70 | [Keen on Boys](https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV) | 4:53 |
 | 71 | [Last Night's Haze](https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV) | [Star Horse](https://open.spotify.com/artist/1zC23cF77Lj7ukFsy19nor) | [Devour](https://open.spotify.com/album/6xhZzuX1veVEVGCTxsLMaM) | 3:29 |
@@ -100,11 +100,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 90 | [Cannibal Capital](https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Famously Alive](https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw) | 4:24 |
 | 91 | [atonement](https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [What Kind of Blue Are You?](https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF) | 3:51 |
 | 92 | [Dance AM](https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 4:32 |
-| 93 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 |
+| 93 | [Yeah](https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb) | [TRPP](https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D) | [TRPP](https://open.spotify.com/album/4MCb03enJHRY5ovHpoHWQT) | 2:30 |
 | 94 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 |
-| 95 | [Subway Station Revelation](https://open.spotify.com/track/64QIWtRAivYJpEiikswr7K) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Subway Station Revelation](https://open.spotify.com/album/3xGvbbfdc5oiEKlzh4co04) | 4:14 |
+| 95 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 |
 | 96 | [Lemonade Beauty](https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Auras](https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq) | 4:08 |
-| 97 | [Yeah](https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb) | [TRPP](https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D) | [TRPP](https://open.spotify.com/album/4MCb03enJHRY5ovHpoHWQT) | 2:30 |
+| 97 | [Subway Station Revelation](https://open.spotify.com/track/64QIWtRAivYJpEiikswr7K) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Subway Station Revelation](https://open.spotify.com/album/3xGvbbfdc5oiEKlzh4co04) | 4:14 |
 | 98 | [crasher](https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw) | 4:07 |
 | 99 | [Drift](https://open.spotify.com/track/61iCA0ReZHTA7f8ZaKZyEg) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Aurora](https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd) | 4:07 |
 | 100 | [Firefly](https://open.spotify.com/track/5Fmk7akgjEpRI4vvu7CQ2m) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1), [Stella Tran](https://open.spotify.com/artist/3yETcd6deerTsw8RJDqW01) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:25 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 107 | [Emerald Bells](https://open.spotify.com/track/3tnb5ow33RaHdKxus52XSq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 3:36 |
 | 108 | [Pretend to Be Here](https://open.spotify.com/track/0yDvw3DK4JVV8VR1S7aQRZ) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Nature Heart Software](https://open.spotify.com/album/25NpVtdgL29klIrre3mion) | 3:37 |
 
-Snapshot ID: `MTY3MzA2NjM3OSwwMDAwMDAwMDA3MzhhMGViZTU5NTMzYTdhOTYwYTkyYmI4MWY2ZjIz`
+Snapshot ID: `MTY3MzA2NjM3OSwwMDAwMDAwMGU0YjY4YzNhMjMwMGNkY2YyZDA5ZjkzMmJiZDY4YjAw`

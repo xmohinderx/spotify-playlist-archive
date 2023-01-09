@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" /Aqoursの「みんなで叶える物語」を彩ってきた名曲の数々がここに。▶︎「Love Live！」<a href="spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF">Here</a> ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,152 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,164 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 25 | [HAPPY PARTY TRAIN](https://open.spotify.com/track/4juoJEZlwHSbIcD1W5Bdem) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [HAPPY PARTY TRAIN](https://open.spotify.com/album/6zH0oHuUABxdehCjSfNEVF) | 4:37 |
 | 26 | [DROPOUT!?](https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 3:56 |
 | 27 | [決めたよHand in Hand](https://open.spotify.com/track/5Tebv0qRKNlFXlxd0TiYAy) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [決めたよHand in Hand/ダイスキだったらダイジョウブ!](https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL) | 4:26 |
-| 28 | [PURE PHRASE](https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo) | [桜内梨子 \(CV.逢田梨香子\) from Aqours](https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r) | [LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album 〜Pianoforte Monologue〜](https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb) | 5:10 |
+| 28 | [Shiny Racers](https://open.spotify.com/track/1j28e7BX7hmf0VSiemwKPT) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Ohara Mari First Solo Concert Album \~New winding road\~](https://open.spotify.com/album/2UdasDJ8U93U0sTVD1FGSv) | 3:37 |
 | 29 | [Shadow gate to love](https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 4:05 |
 | 30 | [G線上のシンデレラ](https://open.spotify.com/track/1q8HSZgkbK1AAs32TjBiW6) | [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6), [黒澤ダイヤ \(CV.小宮有紗\)](https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb), [小原鞠莉 \(CV.鈴木愛奈\)](https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:16 |
-| 31 | [Shiny Racers](https://open.spotify.com/track/1j28e7BX7hmf0VSiemwKPT) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Ohara Mari First Solo Concert Album \~New winding road\~](https://open.spotify.com/album/2UdasDJ8U93U0sTVD1FGSv) | 3:37 |
+| 31 | [PURE PHRASE](https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo) | [桜内梨子 \(CV.逢田梨香子\) from Aqours](https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r) | [LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album 〜Pianoforte Monologue〜](https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb) | 5:10 |
 | 32 | [元気全開DAY! DAY! DAY!](https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [元気全開DAY! DAY! DAY!](https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt) | 3:59 |
 | 33 | [夏の終わりの雨音が](https://open.spotify.com/track/4YKBQ79ioNaMJJlXpCK74l) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6) | [デュオトリオコレクション \(VOL.1 〜SUMMER VACATION〜\)](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 5:21 |
 | 34 | [Lonely Snow Planet](https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 49 | [Braveheart Coaster](https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [Braveheart Coaster](https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn) | 4:26 |
 | 50 | [地元愛♡満タン☆サマーライフ](https://open.spotify.com/track/4e8YOAhIclDTz2ffTYycZ1) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB), [津島善子 \(CV.小林愛香\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY) | [デュオトリオコレクション \(VOL.1 〜SUMMER VACATION〜\)](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:45 |
 
-Snapshot ID: `MTY2NzkzMDUwMSwwMDAwMDAwMDRlYjQ3NWRjYTk4ODcxNDkwMTY3MzU4NzA3NDExZmRh`
+Snapshot ID: `MTY2NzkzMDUwMSwwMDAwMDAwMDZlMDlmZTU1YmY4YTRhOWZiZWU2YjI5OGYwMDA1NjIy`

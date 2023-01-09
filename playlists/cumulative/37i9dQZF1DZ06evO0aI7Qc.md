@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 58 min
+77 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [El De La S](https://open.spotify.com/track/2EJ690TBn8abbcqJiml4X9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:22 | 2022-06-01 | 2023-01-03 |
 | [El Del Palenque](https://open.spotify.com/track/6LWj1Vkb8eAtvGm4kAc2bD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Del Palenque](https://open.spotify.com/album/4yWgittlnciR60xapf9IYH) | 3:23 | 2022-12-26 |  |
 | [El Dinero No Me Cambia \- En Vivo](https://open.spotify.com/track/20PIire7LH4Wjkc6zVHbAS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Dinero No Me Cambia \(En Vivo\)](https://open.spotify.com/album/5iVAYE7Ra3Avw3ygesMP2Z) | 3:16 | 2022-07-26 |  |
+| [El Doble R](https://open.spotify.com/track/516mMyMpgX5AvGZ773buQd) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Doble R](https://open.spotify.com/album/0qitEBP6yqG4OJNw4NjR7a) | 2:41 | 2023-01-08 |  |
 | [El Gabito \(En Vivo\)](https://open.spotify.com/track/2KlWJQJY4iQ0wacmBrBFdj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gabito \(En Vivo\)](https://open.spotify.com/album/1oWBe0hMfCUMrr1PgH4mDo) | 3:17 | 2022-06-01 | 2022-10-13 |
 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 | 2022-10-24 |  |
 | [El Gordo](https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gordo](https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA) | 2:46 | 2022-06-01 |  |
@@ -49,7 +50,7 @@
 | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/album/5yZka2dPlS6Vgh6e0fL9v1) | 3:35 | 2022-06-16 |  |
 | [En Phoenix Ruleteamos](https://open.spotify.com/track/4u5OPcN6zuLd9hJGB1PPjM) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Phoenix Ruleteamos](https://open.spotify.com/album/2Kjrnq2AqljOmHQPTzwT4t) | 3:55 | 2022-06-01 | 2022-11-17 |
 | [Equipo RR](https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Equipo RR](https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5) | 2:39 | 2022-09-03 |  |
-| [Equipo RR](https://open.spotify.com/track/14C4FsfMkXf4dmqKF2apqG) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:56 | 2022-08-07 |  |
+| [Equipo RR](https://open.spotify.com/track/14C4FsfMkXf4dmqKF2apqG) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:56 | 2022-08-07 | 2023-01-09 |
 | [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2022-10-06 |  |
 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 | 2022-06-01 |  |
 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 | 2022-06-01 |  |

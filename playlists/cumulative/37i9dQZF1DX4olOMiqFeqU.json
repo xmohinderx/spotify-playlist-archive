@@ -164,7 +164,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 364106,
       "name": "Beer",
       "url": "https://open.spotify.com/track/6mQzZ2aRnKSNgckAehBgwD"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 235952,
       "name": "Kahit Pa",
       "url": "https://open.spotify.com/track/2VNjWwKlOWU5qqKa5EquLW"
@@ -814,6 +814,24 @@
       "duration_ms": 256572,
       "name": "KLWKN",
       "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
+    },
+    {
+      "album": {
+        "name": "Kung Alam Mo Lang",
+        "url": "https://open.spotify.com/album/54hm1RYQZwy4tZokG4YhGf"
+      },
+      "artists": [
+        {
+          "name": "Bandang Lapis",
+          "url": "https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256311,
+      "name": "Kung Alam Mo Lang",
+      "url": "https://open.spotify.com/track/2OwTNSBOspDlAWDcv37GIW"
     },
     {
       "album": {
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 232960,
       "name": "Nadarang",
       "url": "https://open.spotify.com/track/6LJ1p1h5EcMK4VPeCLDSoF"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 275906,
       "name": "So Slow",
       "url": "https://open.spotify.com/track/5tg4Rr2rArQJKiH2hcaJph"
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 207786,
       "name": "The Way You Look at Me",
       "url": "https://open.spotify.com/track/1C3wg8sCIPqpNQx0wAL4DC"

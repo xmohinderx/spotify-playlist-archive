@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 
 > Pura música fresca para vibrar en cualquier momento de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,487 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,721 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 11 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 |
 | 12 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 |
 | 13 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
-| 14 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 |
+| 14 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 |
 | 15 | [Continental](https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Continental](https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME) | 3:24 |
 | 16 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 |
 | 17 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
-| 18 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 |
-| 19 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 |
+| 18 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 |
+| 19 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 |
 | 20 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
 | 21 | [ULALA \(OOH LA LA\)](https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [ULALA \(OOH LA LA\)](https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP) | 3:08 |
 | 22 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 44 | [DON'T YOU WORRY](https://open.spotify.com/track/0YJW8OXw8G1xDfkzaID3vv) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [ELEVATION](https://open.spotify.com/album/1jH4f6N9caSeq3VwwtTHLn) | 3:14 |
 | 45 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 |
 | 46 | [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 |
-| 47 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 |
-| 48 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
+| 47 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
+| 48 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 |
 | 49 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 |
 | 50 | [Buenos Días](https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Buenos Días](https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv) | 3:19 |
 | 51 | [Obsessed \(with Charlie Puth & Shenseea\)](https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:46 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 64 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 |
 | 65 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 |
 
-Snapshot ID: `MTY3MzA2MTg0NiwwMDAwMDAwMGVlYmYyYjQxYzE5YzhhZDJiOTkzZDMzNWY3MTFhMTg2`
+Snapshot ID: `MTY3MzA2MTg0NiwwMDAwMDAwMDY4ZGM5NDU4ODNkNWM0MjJkYjM0ZWFiYWQyODk2ZGNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,843 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,098 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 56 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 |
 | 57 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
 | 58 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 |
-| 59 | [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 |
-| 60 | [Likey](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicetagram](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) | 3:27 |
+| 59 | [Likey](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicetagram](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) | 3:27 |
+| 60 | [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 |
 | 61 | [PTT \(Paint The Town\)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 |
 | 62 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 |
 | 63 | [PING PONG](https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 2:38 |
-| 64 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 |
-| 65 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 |
+| 64 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 |
+| 65 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 |
 | 66 | [All I Wanna Do](https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:29 |
 | 67 | [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 |
 | 68 | [FIESTA](https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:37 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 89 | [gogobebe](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:15 |
 | 90 | [Ring Ding Dong](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [2009, Year Of Us \- The Third Mini Album](https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC) | 3:53 |
 | 91 | [닐리리맘보](https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [BLOCKBUSTER](https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6) | 3:27 |
-| 92 | [Test Me](https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Hello, world!](https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27) | 3:19 |
-| 93 | [We Fresh](https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TROUBLESHOOTER](https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7) | 3:15 |
+| 92 | [We Fresh](https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TROUBLESHOOTER](https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7) | 3:15 |
+| 93 | [Test Me](https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Hello, world!](https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27) | 3:19 |
 | 94 | [Haru Haru](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 4:16 |
 | 95 | [Do It Like This](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : FIND OUT](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) | 3:12 |
 | 96 | [딱 좋아\(Just right\)](https://open.spotify.com/track/4ER58qECydWokIsgqtysWu) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Just right](https://open.spotify.com/album/4159syQKTGC1JSJN4xBScv) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 99 | [DUMB DUMB](https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:27 |
 | 100 | [Going Dumb \(with Stray Kids\)](https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:49 |
 
-Snapshot ID: `MTY3MjIxNjQyNCwwMDAwMDAwMDU4Yzc1NTc1MTRjMDdjNmQzMmQ1NDI4NzZiMTFjOTRl`
+Snapshot ID: `MTY3MjIxNjQyNCwwMDAwMDAwMGJjMDc4NjY0ODIxNjYzZjc5ODg4YjliOGRlODA0ZWEw`

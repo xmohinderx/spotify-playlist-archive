@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: Mingginyu\(밍기뉴\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,788 likes - 52 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,908 likes - 52 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 40 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 |
 | 41 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 |
 | 42 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 |
-| 43 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 |
+| 43 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
 | 44 | [It's Love](https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 |
-| 45 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
+| 45 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 |
 | 46 | [with you](https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Tofu Personified Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX) | 3:29 |
 | 47 | [Starlight](https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG) | 4:33 |
 | 48 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
 | 49 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
-| 50 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 |
-| 51 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 |
+| 50 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 |
+| 51 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 |
 | 52 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 
-Snapshot ID: `MTY3MjcyODU4NCwwMDAwMDAwMDNjYzFmNzk3MGM5MmI3MDQyN2E1YjQyY2ZkN2Q4NzM0`
+Snapshot ID: `MTY3MjcyODU4NCwwMDAwMDAwMGZmYjgxMThlMWM0MWNhMDhiODFiOWUxMTBiZmIxZTVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Welcome to Post\-Hardcore's pantheon\. Cover: Glassjaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,767 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,028 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 43 | [Stare At The Sun](https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:23 |
 | 44 | [Things That Rhyme With Orange](https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 3:24 |
 | 45 | [Rookie](https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX) | 4:13 |
-| 46 | [A Box Full of Sharp Objects](https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:56 |
-| 47 | [Note to Self](https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 3:53 |
+| 46 | [Note to Self](https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 3:53 |
+| 47 | [A Box Full of Sharp Objects](https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:56 |
 | 48 | [Deadbolt](https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Illusion of Safety](https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc) | 3:00 |
 | 49 | [Accidents](https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:09 |
 | 50 | [The Thespian](https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [The Emptiness](https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg) | 3:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 74 | [3rd Measurement in C](https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:38 |
 | 75 | [Vices](https://open.spotify.com/track/4rxQv4w7R3LQlKVHRHW8Hi) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Liam Cormier](https://open.spotify.com/artist/5IrAy16J58yAZf42VLRa5m) | [A Shipwreck In The Sand \(Bonus Track Version\)](https://open.spotify.com/album/05OgjuvYwliwjcFq6EFWSA) | 3:16 |
 
-Snapshot ID: `MTY3MjI0NDg3MCwwMDAwMDAwMDk3ZmVkZjMxMDliODVlZTU4MWU1NWZhNTI1YjEwYmJk`
+Snapshot ID: `MTY3MjI0NDg3MCwwMDAwMDAwMDkwZTliZTUzYjYyYTZhYzE4ZjQwOTBiNDE4NTk3OTA3`

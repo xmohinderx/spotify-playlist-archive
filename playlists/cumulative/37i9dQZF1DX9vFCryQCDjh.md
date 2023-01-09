@@ -4,7 +4,7 @@
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-104 songs - 6 hr 35 min
+105 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,12 +101,13 @@
 | [야야야](https://open.spotify.com/track/3tdjYReotb6TUeDNUl3bRV) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby Vox Ⅱ](https://open.spotify.com/album/49DaLjXDOJTaSoYa4fCXoD) | 3:50 | 2021-03-11 |  |
 | [어느 째즈바...](https://open.spotify.com/track/1u2GIyfP9dKfkpLiCsYNJx) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [NEW SENSATION](https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD) | 4:13 | 2021-03-11 |  |
 | [여름 안에서](https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Rhythm Light Beat Black](https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI) | 4:31 | 2021-03-11 |  |
-| [왼손잡이](https://open.spotify.com/track/6CxKEnUDyLNPVC4IBE1L4Z) | [Panic](https://open.spotify.com/artist/13bWD4s098qRgPVlHcbgCU) | [Panic](https://open.spotify.com/album/7pKdoYutb9dlj1eFaVbHFg) | 2:30 | 2021-03-11 |  |
+| [왼손잡이](https://open.spotify.com/track/6CxKEnUDyLNPVC4IBE1L4Z) | [Panic](https://open.spotify.com/artist/13bWD4s098qRgPVlHcbgCU) | [Panic](https://open.spotify.com/album/7pKdoYutb9dlj1eFaVbHFg) | 2:30 | 2021-03-11 | 2023-01-09 |
 | [우리는](https://open.spotify.com/track/7bON6VDJ5ndO6EAxCrjVj2) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Deuxism](https://open.spotify.com/album/5Q5YrEMnQmNxtivzl4j8hM) | 3:33 | 2021-03-11 |  |
 | [운명](https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:45 | 2021-03-11 |  |
 | [이밤이지나면](https://open.spotify.com/track/2bAMoEukdKb0Rk4u6IcUM3) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [임재범1집](https://open.spotify.com/album/5bRAb4iY8eF180lWtfsd2n) | 4:10 | 2021-03-11 |  |
 | [일과 이분의 일](https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi) | [황혜영](https://open.spotify.com/artist/3H7vH6RdckUBg6Xxra9I0b), [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [투유 프로젝트 \- 슈가맨 Pt.33](https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL) | 3:57 | 2021-03-11 |  |
 | [정](https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu) | [YTC](https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7) | [1집\-정](https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU) | 3:50 | 2021-03-11 |  |
+| [천상유애\(天上有愛\)](https://open.spotify.com/track/1rt7I7ey93hoq1ZIqvNYey) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [Reincarnation Of The Legend](https://open.spotify.com/album/4Ib5I5ggf99Lbtt3jjJ74r) | 4:19 | 2021-03-11 |  |
 | [칵테일 사랑](https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB), [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:33 | 2021-03-11 |  |
 | [타인](https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx) | [YTC](https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7) | [2nd Album](https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC) | 4:10 | 2021-03-11 |  |
 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 | 2021-03-11 |  |

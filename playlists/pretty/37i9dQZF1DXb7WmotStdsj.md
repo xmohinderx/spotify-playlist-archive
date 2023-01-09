@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,591 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,763 likes - 60 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 |
-| 2 | [Rani Nbet Hay](https://open.spotify.com/track/6Y4bRkSHNbjyUetAvix8sd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Rani Nbet Hay](https://open.spotify.com/album/5PX8lRCsHDj1Q6L5RKzmoa) | 6:58 |
-| 3 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 |
+| 1 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 |
+| 2 | [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 |
+| 3 | [Rani Nbet Hay](https://open.spotify.com/track/6Y4bRkSHNbjyUetAvix8sd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Rani Nbet Hay](https://open.spotify.com/album/5PX8lRCsHDj1Q6L5RKzmoa) | 6:58 |
 | 4 | [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 |
 | 5 | [Galbi Ndirleh 3asas](https://open.spotify.com/track/2o9EZRu4Mx5GMFnJi9WpIC) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Ndirleh 3asas](https://open.spotify.com/album/37pvma3AHWm2qQUjh9tA2g) | 2:53 |
 | 6 | [Min Djebti D Lcourage](https://open.spotify.com/track/2ysMp68ms8pxhKb0Fnk602) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Min Djebti Del Courage](https://open.spotify.com/album/4xUcTd7wXrV177y1qT6zNt) | 4:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 |
 | 60 | [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 |
 
-Snapshot ID: `MTY3Mjk5Njk0NCwwMDAwMDAwMDVjYzkxOTVkY2ZiZTJiN2NjNjlkZmIwNWFjZjY0MWFj`
+Snapshot ID: `MTY3MzE4NDE4NCwwMDAwMDAwMDYzNzU0NzFlOTM3Nzc4YTMyMjk2OTg1ZWE4MGEzMDA2`

@@ -1,15 +1,15 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Whitney Houston",
-  "num_followers": 492862,
+  "num_followers": 493048,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMjQwOSwwMDAwMDAwMDE2ZTBjMWJmYzQwMjQ4MmU2MGIyZDQzY2U3ODIzMzc1",
+  "snapshot_id": "MTY3MTIxMjQwOSwwMDAwMDAwMDNiMTA2MDAzMmFlYTE0NTYzZGIwN2M4NDgzMTM4NDQ5",
   "tracks": [
     {
-      "added_at": "2023-01-08 00:45:24",
+      "added_at": "2023-01-09 00:53:55",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
     },
     {
-      "added_at": "2023-01-08 00:45:24",
+      "added_at": "2023-01-09 00:53:55",
       "album": {
         "name": "What I Didn't Tell You",
         "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "At Your Best (You Are Love)",
-      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "Mr. Big Stuff",
         "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
       },
@@ -669,7 +653,23 @@
       "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
     },
     {
-      "added_at": "2023-01-08 00:45:24",
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "At Your Best (You Are Love)",
+      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
+    },
+    {
+      "added_at": "2023-01-09 00:53:55",
       "album": {
         "name": "The Hurtbook",
         "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
-      "added_at": "2023-01-08 00:45:24",
+      "added_at": "2023-01-09 00:53:55",
       "album": {
         "name": "The Lead",
         "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"

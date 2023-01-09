@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,530 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,623 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 58 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
 | 59 | [Empty Throne \- Acoustic](https://open.spotify.com/track/6ENH2r9VtuBrPmAV5R7t1f) | [Alazka](https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7) | [Empty Throne \(Acoustic\)](https://open.spotify.com/album/5Oad5COo5IwNpeqDsWedmg) | 4:55 |
 | 60 | [“sometimes you meet the right people at the wrong times” \- Revisited](https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [When the Dust Settles](https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U) | 3:08 |
-| 61 | [Hunnie](https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [All Out](https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm) | 3:35 |
-| 62 | [Right Here \(Acoustic\)](https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc) | [Chase Your Words](https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC) | [Right Here \(Acoustic\)](https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr) | 3:49 |
+| 61 | [Right Here \(Acoustic\)](https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc) | [Chase Your Words](https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC) | [Right Here \(Acoustic\)](https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr) | 3:49 |
+| 62 | [Hunnie](https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [All Out](https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm) | 3:35 |
 | 63 | [10 Am](https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:34 |
 | 64 | [sleepwalking](https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U) | [sleepwalking](https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI) | 3:35 |
 | 65 | [Dial Tones \- Acoustic Version](https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After \(Deluxe Edition\)](https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4) | 3:24 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 69 | [A Wasted Hymn \- Acoustic](https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [A Wasted Hymn \(Acoustic\)](https://open.spotify.com/album/7KRlYg5KtNGgxtOlFmtmFg) | 4:05 |
 | 70 | [I'll Be a Mess Without You](https://open.spotify.com/track/1tEHryc3JtijgvhpXetnSm) | [Chief State](https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5) | [I'll Be a Mess Without You](https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z) | 4:37 |
 | 71 | [Teeth](https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Teeth](https://open.spotify.com/album/5AxRjl0PvsKU9FTGuIZkDx) | 3:28 |
-| 72 | [Losing Sleep](https://open.spotify.com/track/4prBT2FQAEMMXUXn40pwRf) | [Hazel](https://open.spotify.com/artist/5Ls4sckgFadMXSnhQCOEvX) | [Losing Sleep](https://open.spotify.com/album/3haT6irm5636PSIscDmtWp) | 3:57 |
+| 72 | [Last To Know \- From Exile](https://open.spotify.com/track/6M8Vmvrr4URtl1WFO5YTN6) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [From Exile](https://open.spotify.com/album/4NA26Wy1s046SpVs6VYij9) | 3:59 |
 | 73 | [Still Dreaming \(Acoustic\)](https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Redux: The First 10 Years](https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l) | 4:16 |
-| 74 | [Last To Know \- From Exile](https://open.spotify.com/track/6M8Vmvrr4URtl1WFO5YTN6) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [From Exile](https://open.spotify.com/album/4NA26Wy1s046SpVs6VYij9) | 3:59 |
+| 74 | [Losing Sleep](https://open.spotify.com/track/4prBT2FQAEMMXUXn40pwRf) | [Hazel](https://open.spotify.com/artist/5Ls4sckgFadMXSnhQCOEvX) | [Losing Sleep](https://open.spotify.com/album/3haT6irm5636PSIscDmtWp) | 3:57 |
 | 75 | [Pavement \(Acoustic\)](https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP) | 4:00 |
 
-Snapshot ID: `MTY0OTA4NDYzMywwMDAwMDAwMGY2MTdmMjBkMWNjOTMxOWJlZDRiYWQ2OTc3NmUyNDM2`
+Snapshot ID: `MTY0OTA4NDYzMywwMDAwMDAwMDU2ODdiZWE0NWZhMDFjODJmOTAyMjY2ZTZhZWM3Mjlk`

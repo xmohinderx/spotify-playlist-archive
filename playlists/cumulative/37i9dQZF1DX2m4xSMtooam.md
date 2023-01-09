@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-183 songs - 11 hr 49 min
+184 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 | 2022-10-11 | 2022-11-16 |
 | [Favela](https://open.spotify.com/track/4TtDDJT3b9ardn5stlCc2u) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba](https://open.spotify.com/album/1cHjqGzxfwssPgyD6IYW28) | 4:00 | 2022-05-13 | 2022-07-29 |
 | [Favela \- Remastered](https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 4:00 | 2022-06-28 |  |
-| [Felicidade](https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Double Rainbow](https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH) | 4:44 | 2022-08-17 |  |
+| [Felicidade](https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Double Rainbow](https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH) | 4:44 | 2022-08-17 | 2023-01-09 |
 | [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 | 2022-05-13 |  |
 | [Fotografia](https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Meets Gustav Lundgren](https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt) | 3:50 | 2022-05-13 |  |
 | [Fragile](https://open.spotify.com/track/4QyG5ATNtJcpTUNkmsyggh) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Dear Soulmate](https://open.spotify.com/album/5VFaoS9iAQKQruM5V3VEYH) | 4:01 | 2022-08-11 | 2022-08-31 |
@@ -178,7 +178,7 @@
 | [Voce Vai Ver](https://open.spotify.com/track/6TYGxl1FiKz2R9BosMN4WM) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 4:52 | 2022-05-13 | 2022-08-19 |
 | [Você E Eu](https://open.spotify.com/track/1HelEYnBkNyyd6PDSkx7sQ) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS) | [Pure Bossa Nova](https://open.spotify.com/album/3XTOfPQyZpHtHRYkNWGfxn) | 1:00 | 2022-06-10 | 2022-07-28 |
 | [Você e Eu \(You and Me\)](https://open.spotify.com/track/4v5PKC5rvQwb33NWX82UH8) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS) | [Bossa Nova Carlos Lyra](https://open.spotify.com/album/6SkCc0AyioogFxwJwYZUZl) | 1:03 | 2022-06-28 | 2022-12-04 |
-| [Waters of March](https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 3:40 | 2022-05-13 | 2023-01-04 |
+| [Waters of March](https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 3:40 | 2022-05-13 |  |
 | [Wave](https://open.spotify.com/track/7i325B6qZFdkne07FRsWlk) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/6QvzomkvvLBVo8Mmsy4bEh) | 2:54 | 2022-05-13 | 2022-07-29 |
 | [Wave](https://open.spotify.com/track/2hXBS8q9rGMovfG1S8FB4F) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:56 | 2022-06-28 |  |
 | [Wave](https://open.spotify.com/track/74WrcYUQjTFhOecnV2ZwVo) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Nova \- This Is Jazz \# 29](https://open.spotify.com/album/0ZjoVVcivTAErI32AUtwOW) | 6:16 | 2022-08-16 | 2022-11-13 |
@@ -188,7 +188,8 @@
 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 | 2022-06-28 |  |
 | [Água de Beber](https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 2:36 | 2022-05-13 |  |
 | [Águas De Março](https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Tom Jobim E Amigos](https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M) | 3:32 | 2022-05-13 | 2022-07-29 |
-| [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 | 2022-06-28 |  |
+| [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 | 2022-06-28 | 2023-01-09 |
+| [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 | 2023-01-05 |  |
 | [Águas De Março](https://open.spotify.com/track/3PzD3zi0UeNw3dTYGbAZCy) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 3:34 | 2022-11-11 | 2022-11-14 |
 | [Águas de Março](https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 3:01 | 2022-05-13 |  |
 

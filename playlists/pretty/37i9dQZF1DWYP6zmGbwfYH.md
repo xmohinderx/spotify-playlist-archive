@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 
 > El icuiricui, el matalacachimba y el ruletero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,789 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,065 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 21 | [Te Va A Doler](https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:52 |
 | 22 | [Más Allá Del Sol](https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:43 |
 | 23 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 |
-| 24 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 3:58 |
-| 25 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:46 |
-| 26 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
+| 24 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
+| 25 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 3:58 |
+| 26 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:46 |
 | 27 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 |
 | 28 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 |
 | 29 | [Vete Ya](https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:37 |
@@ -58,16 +58,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 48 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 |
 | 49 | [Cómo Estás Tú](https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 2:57 |
 | 50 | [Amor Regresa](https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:33 |
-| 51 | [Suavemente Amor](https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:54 |
-| 52 | [Un Desengaño](https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:34 |
+| 51 | [Un Desengaño](https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:34 |
+| 52 | [Suavemente Amor](https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:54 |
 | 53 | [Amor Prohibido](https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Por El Amor](https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX) | 3:49 |
 | 54 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
 | 55 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
 | 56 | [Acepto Mi Derrota](https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 4:08 |
 | 57 | [Amor Limosnero](https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 3:40 |
-| 58 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 |
+| 58 | [Enhorabuena](https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Te Voy A Amar](https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC) | 3:14 |
 | 59 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
-| 60 | [Enhorabuena](https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Te Voy A Amar](https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC) | 3:14 |
+| 60 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 |
 | 61 | [Supe Perder](https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:57 |
 | 62 | [Él Soy Yo](https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 |
 | 63 | [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 |
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 76 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk) | [Sonora Siguaray](https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv) | [De Mil Maneras](https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8) | 4:06 |
 | 77 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 |
 | 78 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Volveré A Conquistarte](https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf) | 3:56 |
-| 79 | [Morena](https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Los Felinos](https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI) | 3:46 |
-| 80 | [Como La Flor \- Remastered](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
+| 79 | [Como La Flor \- Remastered](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
+| 80 | [Morena](https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Los Felinos](https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI) | 3:46 |
 | 81 | [Si Supieras](https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Exitos Originales](https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy) | 5:10 |
 | 82 | [Enamorado De Un Fantasma](https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Enamorado De Un Fantasma](https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d) | 4:29 |
 | 83 | [Si No La Tengo](https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk) | [Diablos Locos](https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY) | [15 Grandes](https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj) | 5:08 |
-| 84 | [En Realidad](https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Antología, Vol\. 1](https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2) | 3:41 |
-| 85 | [El Peor De Tus Antojos](https://open.spotify.com/track/4MFs5bLy5EN32UKhongd7M) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:29 |
+| 84 | [El Peor De Tus Antojos](https://open.spotify.com/track/4MFs5bLy5EN32UKhongd7M) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:29 |
+| 85 | [En Realidad](https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Antología, Vol\. 1](https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2) | 3:41 |
 | 86 | [Como Decirte Adios](https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:27 |
 | 87 | [Rosas Rojas](https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Verano De Amor](https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5) | 3:30 |
 | 88 | [Nadie](https://open.spotify.com/track/78Lv54mlazogTRDzzFXk03) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mi Vida En Vida](https://open.spotify.com/album/6D6J6D5iAAwZq3zx7aTl6t) | 3:41 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 124 | [Déjenme llorar \- Con banda](https://open.spotify.com/track/6MpWEoDk1S8oJJaEga4DiP) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Con Banda](https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5) | 2:37 |
 | 125 | [Abrazame y Perdoname](https://open.spotify.com/track/0w8yx6IabNOKltsP6ABqcM) | [La Apuesta](https://open.spotify.com/artist/4fO3o7bcYWTiLssCXfGIkQ) | [10 Exitos de Oro](https://open.spotify.com/album/23phgbGY34TFIZ4HgyP1Z8) | 4:02 |
 
-Snapshot ID: `MTY1OTk5NDM4OCwwMDAwMDAwMDk0MDUzMTZlNzEyYjM4YmZhYWNkNTIwZTc0OTc1ZjFm`
+Snapshot ID: `MTY1OTk5NDM4OCwwMDAwMDAwMDA5NzUxMzM4OTk4NjBiY2M4Njc2OGQwNjllYzY4YjA2`

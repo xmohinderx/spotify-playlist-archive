@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,622 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,618 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 27 | [Postcards from Italy](https://open.spotify.com/track/7H0UxIN751StFi2tznmHlg) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/4yP7cyoeE3F6EyJPZ9v47V) | 4:17 |
 | 28 | [Wave of Mutilation \- UK Surf](https://open.spotify.com/track/3UDa3HRIwS4scBYom5K0zl) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle 25: B\-Sides, Peel Sessions And Demos](https://open.spotify.com/album/65X4N0kyi2BEk2YR0ndoAz) | 3:00 |
 | 29 | [I Think Of You](https://open.spotify.com/track/1cXXHKH2kMDmtOEK73q6sf) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 3:25 |
-| 30 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
-| 31 | [This Must Be The Place](https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Sing Into My Mouth](https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl) | 3:32 |
+| 30 | [This Must Be The Place](https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Sing Into My Mouth](https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl) | 3:32 |
+| 31 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
 | 32 | [All My Days](https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU) | 4:57 |
 | 33 | [The Wolves \(Act I and II\)](https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 5:22 |
 | 34 | [Coming Down](https://open.spotify.com/track/62o5ETvaR1U8CqxVYancy4) | [Dum Dum Girls](https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS) | [Only in Dreams](https://open.spotify.com/album/5AeNEoouOMNiWvDwpKzVml) | 6:29 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 56 | [Kathleen](https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Hello Starling](https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg) | 4:08 |
 | 57 | [Oliver James](https://open.spotify.com/track/0ksHQqgNvM8IBmOfXOh5qt) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 3:23 |
 | 58 | [Hot Dreams](https://open.spotify.com/track/3kpRgTtMnArQ5Gay0JxElf) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Hot Dreams](https://open.spotify.com/album/2U1BUKvsYIkUik7xEhAP0C) | 4:53 |
-| 59 | [The Upswing](https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs) | 4:59 |
-| 60 | [Dusty Trails](https://open.spotify.com/track/1nKQHAv7zGcDoGJGqB0qFk) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief \(Expanded Edition\)](https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj) | 4:24 |
+| 59 | [Dusty Trails](https://open.spotify.com/track/1nKQHAv7zGcDoGJGqB0qFk) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief \(Expanded Edition\)](https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj) | 4:24 |
+| 60 | [The Upswing](https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs) | 4:59 |
 | 61 | [Middle Names](https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 3:28 |
 | 62 | [Can't Take You With Me](https://open.spotify.com/track/0sWuU0uDypaZ5rwUGqSKtS) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:10 |
 | 63 | [The Healing Day](https://open.spotify.com/track/4oObNo6gbtVdFmC9SVPGHF) | [Bill Fay](https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1) | [Life Is People](https://open.spotify.com/album/4OPjodaA5Uo5DReCKIp1rb) | 5:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 69 | [When the Day Comes](https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:26 |
 | 70 | [Dry Your Eyes](https://open.spotify.com/track/2xwwhTueFfnCVRLXvja1Gu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/5wrVAAdcCRz1MaL5J7LIyk) | 4:12 |
 
-Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMGE4NzQ4ZmFiOWNlMDE4ZWU2NGNmNTIxZDQ2ZTFjYzZh`
+Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMDNkZjJmNzJhMzE3NDRjYWM4ZWQzZTgzZDkzYTJhY2Iw`

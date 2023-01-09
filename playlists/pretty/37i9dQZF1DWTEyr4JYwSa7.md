@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,901 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,880 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 75 | [Noël sur la 40](https://open.spotify.com/track/6qFElyl2Eidg58D6FYWvrU) | [Funambule](https://open.spotify.com/artist/6XwCy7IIhLGlzxdjyNH4LE) | [Noël sur la 40](https://open.spotify.com/album/3AbtsGf9hJCS5ibXhqqduU) | 2:48 |
 | 76 | [Vive le vent](https://open.spotify.com/track/4V9Af9RIbI5V9KjiiFtWqx) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 2:18 |
 | 77 | [O Holy Night](https://open.spotify.com/track/2Ykid5zsdq57bc9km6fDub) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [A Very Special Christmas 3](https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45) | 4:28 |
-| 78 | [Marie\-Noël](https://open.spotify.com/track/7416vFT1GFAiB5SCfwreB8) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Robert Charlebois](https://open.spotify.com/album/72BjupmR4TFq32qnJp3Pct) | 2:29 |
-| 79 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
-| 80 | [River](https://open.spotify.com/track/3yLCQ4GRSFlg3GmwlYQlzX) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Wintersong](https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ) | 4:02 |
-| 81 | [Christmas Day](https://open.spotify.com/track/15Du9zZKEO923xPiJqj35d) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Greatest Hits](https://open.spotify.com/album/3sHCnKzDBCJrAwdYw0nfvB) | 4:02 |
+| 78 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
+| 79 | [Marie\-Noël](https://open.spotify.com/track/7416vFT1GFAiB5SCfwreB8) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Robert Charlebois](https://open.spotify.com/album/72BjupmR4TFq32qnJp3Pct) | 2:29 |
+| 80 | [Christmas Day](https://open.spotify.com/track/15Du9zZKEO923xPiJqj35d) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Greatest Hits](https://open.spotify.com/album/3sHCnKzDBCJrAwdYw0nfvB) | 4:02 |
+| 81 | [River](https://open.spotify.com/track/3yLCQ4GRSFlg3GmwlYQlzX) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Wintersong](https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ) | 4:02 |
 | 82 | [Christmas Eve](https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:21 |
 | 83 | [I Met an Angel \(on Christmas Day\)](https://open.spotify.com/track/6PiOlFSX06npr0YXexWkrg) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:19 |
 | 84 | [Le Père Noël C't'un Québécois](https://open.spotify.com/track/7adJp4379R1irkezIA3zjd) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [Noël à Jérusalem](https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Noël avec Jireh Gospel Choir](https://open.spotify.com/album/3nR7D8rkYHXIQG80R3EpFf) | 3:53 |
 | 100 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
 
-Snapshot ID: `MTY3MTc1MTc0OCwwMDAwMDAwMGM0YjQ3NzlkMTgyOWI2MzA4NTI4ZTExMmQ1NTk5YWUz`
+Snapshot ID: `MTY3MTc1MTc0OCwwMDAwMDAwMDUxNGIxZWVhNGEyM2I0ODBiODYyZmM1OTAyMDRlYjVl`

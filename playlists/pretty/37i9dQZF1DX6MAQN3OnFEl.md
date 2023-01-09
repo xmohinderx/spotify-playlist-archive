@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 
 > that's hot
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,623 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,100 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 73 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 | 74 | [I Wish](https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA) | 4:09 |
 | 75 | [U + Ur Hand](https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [I'm Not Dead](https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq) | 3:34 |
-| 76 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
+| 76 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
 | 77 | [Don't Cha](https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 4:32 |
-| 78 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
+| 78 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
 | 79 | [Leave \(Get Out\)](https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo](https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp) | 4:02 |
 | 80 | [Whole Again](https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Right Now](https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW) | 3:05 |
 | 81 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 99 | [Come Clean](https://open.spotify.com/track/2TZ1apxMDlubCGMsOxcTbT) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Metamorphosis](https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs) | 3:34 |
 | 100 | [What Is Love \- Radio Edit](https://open.spotify.com/track/1d2O0FAl7OrNNu7Ed3bGrK) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(Reloaded\)](https://open.spotify.com/album/0kcpCxlI4CDvbYSBkumV6M) | 2:56 |
 
-Snapshot ID: `MTY3MjQyMjAyNywwMDAwMDAwMDdhZDRjMGRhYjY5ZTQxOTQ1YWM4NTM3ODg5MjllNGRi`
+Snapshot ID: `MTY3MjQyMjAyNywwMDAwMDAwMGNjMjMzZTk2NjFlODc5NGVhZTA1MjUyNGQxNjE4ODlk`

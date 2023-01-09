@@ -4,7 +4,7 @@
 
 > L'autoroute des tubes français !
 
-80 songs - 4 hr 46 min
+81 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Gigi l'amoroso](https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 7:28 | 2022-12-07 |  |
 | [Il est où le bonheur](https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [L'attrape\-rêves](https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI) | 4:10 | 2022-12-07 |  |
 | [Il suffira d'un signe](https://open.spotify.com/track/0xt1kT5tYW6BkwqGdOyUbA) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [A l'envers](https://open.spotify.com/album/6gVpnC0Dvjuv1XOVPnkGr6) | 5:49 | 2022-12-07 |  |
+| [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 | 2022-12-07 |  |
 | [Je veux](https://open.spotify.com/track/734dz1YaFITwawPpM25fSt) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Zaz](https://open.spotify.com/album/6MuoqipFgorIZEYwGWEFAU) | 3:35 | 2022-12-07 |  |
 | [Je vous trouve un charme fou \- En duo avec Gaëtan Roussel](https://open.spotify.com/track/0C2yaSWVgCUiiqPyYxSOkd) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Il suffit d'y croire \(Version deluxe\)](https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ) | 2:52 | 2022-12-07 |  |
 | [Jimmy](https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N) | [Cats On Trees](https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B), [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Cats On Trees \(Deluxe Edition\)](https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y) | 2:56 | 2022-12-07 |  |
@@ -69,7 +70,7 @@
 | [Prière païenne](https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:09 | 2022-12-07 |  |
 | [Que Dieu me pardonne](https://open.spotify.com/track/0hHNjDAThUngWzegMB4YYU) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Amigo](https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ) | 3:31 | 2022-12-07 |  |
 | [Rockollection](https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:10 | 2022-12-07 |  |
-| [Saint Claude \(Version Française\)](https://open.spotify.com/track/5Ai8XBxieq1CR263UdhGdF) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine](https://open.spotify.com/album/326nKcn9e238BwduPDzld7) | 3:59 | 2022-12-07 |  |
+| [Saint Claude \(Version Française\)](https://open.spotify.com/track/5Ai8XBxieq1CR263UdhGdF) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine](https://open.spotify.com/album/326nKcn9e238BwduPDzld7) | 3:59 | 2022-12-07 | 2023-01-09 |
 | [Serre\-moi](https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:49 | 2022-12-07 |  |
 | [Seul](https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 4:41 | 2022-12-07 |  |
 | [Sur la route](https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr) | [De Palmas](https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI) | [la derniere annee](https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4) | 3:41 | 2022-12-07 |  |

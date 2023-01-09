@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-177 songs - 9 hr 7 min
+178 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 | 2022-11-18 | 2022-12-09 |
 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 | 2022-06-16 |  |
 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 | 2022-06-08 | 2022-09-11 |
+| [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-11-04 |  |
 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 | 2022-06-08 |  |
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 | 2022-07-08 | 2022-11-26 |
 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 | 2022-08-18 |  |
@@ -174,7 +175,7 @@
 | [Uptown Girl](https://open.spotify.com/track/6Dcg4JEZgSS4YOeSpu4S76) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Uptown Girl](https://open.spotify.com/album/6Z7llQEJK2H6PRxK5gOIYs) | 2:34 | 2022-09-30 | 2022-10-31 |
 | [Vawulence](https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Vawulence](https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq) | 3:10 | 2022-11-25 | 2022-12-09 |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2022-06-08 |  |
-| [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 | 2022-06-16 |  |
+| [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 | 2022-06-16 | 2023-01-09 |
 | [We Outside](https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [We Outside](https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe) | 2:35 | 2022-08-25 | 2022-09-29 |
 | [WeWe](https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 2:53 | 2022-07-04 |  |
 | [WITH YOU](https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [WITH YOU](https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u) | 3:12 | 2022-06-08 | 2022-08-25 |

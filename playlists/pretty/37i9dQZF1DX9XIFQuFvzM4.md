@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,522,043 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,522,628 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 46 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 |
 | 47 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
 | 48 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
-| 49 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 |
-| 50 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
+| 49 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
+| 50 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 |
 | 51 | [Hallelujah, I Love Her So](https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:35 |
 | 52 | [Build Me Up Buttercup](https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [From the Foundations \(Expanded Edition\)](https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc) | 2:57 |
 | 53 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 60 | [Try a Little Tenderness](https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Complete & Unbelievable: The Otis Redding Dictionary of Soul](https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y) | 3:21 |
 | 61 | [Take Me to the River](https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Explores Your Mind](https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q) | 3:45 |
 | 62 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 |
-| 63 | [No Particular Place To Go](https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:43 |
-| 64 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
-| 65 | [Chain of Fools](https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:47 |
+| 63 | [Chain of Fools](https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:47 |
+| 64 | [No Particular Place To Go](https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:43 |
+| 65 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
 | 66 | [It Takes Two](https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK) | 2:57 |
 | 67 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:05 |
 | 68 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 86 | [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 |
 | 87 | [Sure Don't Miss You](https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 2:54 |
 | 88 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
-| 89 | [Need Your Love](https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 2:57 |
-| 90 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
+| 89 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
+| 90 | [Need Your Love](https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 2:57 |
 | 91 | [Son of a Preacher Man](https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Girl's in Love with You](https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5) | 3:19 |
 | 92 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 |
 | 93 | [Come See About Me](https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 99 | [Smooth Sailin'](https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:03 |
 | 100 | [You And Me](https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec) | [Penny & The Quarters](https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC) | [Penny & the Quarters EP](https://open.spotify.com/album/6zmwrJVYFvWE4xOVFBP04V) | 2:40 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGVmZmIwNmQxNTJiNmM4NmU3NzA4MmQ3MzkxY2VhMzMw`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDQ5MWE0YzMwYWY4YWRkZGQ3M2RlYWE4ZjJkYmM2ZmZi`

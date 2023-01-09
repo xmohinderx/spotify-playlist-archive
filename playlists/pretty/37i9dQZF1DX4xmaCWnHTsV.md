@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 
 > Classic rockabilly and early rock 'n' roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,889 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,902 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 11 | [Matchbox](https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:07 |
 | 12 | [Shake, Rattle And Roll](https://open.spotify.com/track/5z2Gef9D3UgRquZXe7UUW4) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rock Around The Clock](https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK) | 2:29 |
 | 13 | [Mona Lisa](https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH) | [Carl Mann](https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT) | [Like, Mann: Carl Mann Sings](https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ) | 2:26 |
-| 14 | [Flyin' Saucers Rock & Roll](https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Flyin' Saucers Rock & Roll / I Want You Baby](https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS) | 2:02 |
-| 15 | [The Train Kept A Rollin'](https://open.spotify.com/track/7s8spWIA65WP6vG18bXDP1) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Johnny Burnette And The Rock 'N Roll Trio](https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM) | 2:19 |
+| 14 | [The Train Kept A Rollin'](https://open.spotify.com/track/7s8spWIA65WP6vG18bXDP1) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Johnny Burnette And The Rock 'N Roll Trio](https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM) | 2:19 |
+| 15 | [Flyin' Saucers Rock & Roll](https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Flyin' Saucers Rock & Roll / I Want You Baby](https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS) | 2:02 |
 | 16 | [Fujiyama Mama \- Remastered](https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:14 |
 | 17 | [Rock Around With Ollie Vee \- Alternate Version](https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:18 |
 | 18 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 21 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
 | 22 | [Hold Me, Hug Me, Rock Me](https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:15 |
 | 23 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
-| 24 | [Red Hot](https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Sun Records Sound of Billy Lee Riley \(20 Rockabilly Originals\)](https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk) | 2:29 |
-| 25 | [Rock Billy Boogie](https://open.spotify.com/track/4NazHwfKb4e9WSkFM2OC52) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Johnny Burnette And The Rock 'N Roll Trio](https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM) | 2:36 |
+| 24 | [Rock Billy Boogie](https://open.spotify.com/track/4NazHwfKb4e9WSkFM2OC52) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Johnny Burnette And The Rock 'N Roll Trio](https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM) | 2:36 |
+| 25 | [Red Hot](https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Sun Records Sound of Billy Lee Riley \(20 Rockabilly Originals\)](https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk) | 2:29 |
 | 26 | [Mean, Mean Man \- Remastered](https://open.spotify.com/track/1Ssb9hQz8ha0oHGdsFsQ8N) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:13 |
 | 27 | [Jungle Rock](https://open.spotify.com/track/0XSHcO8JNMSA8kXvppB5bS) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Jungle Rock](https://open.spotify.com/album/21kqXS5qnYmFwDFZ9buKHb) | 2:48 |
 | 28 | [Believe What You Say \- Remastered](https://open.spotify.com/track/2Cr8d39cOPBWzmVKwcjmmP) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:05 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 43 | [Bottle to the Baby](https://open.spotify.com/track/2ImE4dNfy18hhApS7EwrLG) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [Gone Gone Gone](https://open.spotify.com/album/7iLVv44iKgW07pWKyFJP2t) | 2:24 |
 | 44 | [Flip flop Mama](https://open.spotify.com/track/2opuQE3MDx92ujXUPqdFcb) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Memphis Rockabilly King](https://open.spotify.com/album/2g6NmIa73CKjuMzQmzREBB) | 2:08 |
 | 45 | [Drugstore Rock'N'Roll](https://open.spotify.com/track/7HUv0He4tAmmWBDyYfyOwa) | [Janis Martin](https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq) | [We Love You To Pieces](https://open.spotify.com/album/2u2Cu8Rh1SFHSQdpLljS6n) | 2:09 |
-| 46 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/16Wwp6SO1YyL91OYzl58bN) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Most Wanted](https://open.spotify.com/album/2Dxq9S41i1QJDximYXxDW4) | 2:15 |
-| 47 | [Hip Shakin' Mama](https://open.spotify.com/track/5cyBAPXn49iasSiD3s5pkQ) | [Jackie Lee Cochran](https://open.spotify.com/artist/78sRQCQyiHMZPGr0KnKwFU) | [Jack the Cat](https://open.spotify.com/album/7aWRApTcoSElob5X4XiJFq) | 1:52 |
+| 46 | [Hip Shakin' Mama](https://open.spotify.com/track/5cyBAPXn49iasSiD3s5pkQ) | [Jackie Lee Cochran](https://open.spotify.com/artist/78sRQCQyiHMZPGr0KnKwFU) | [Jack the Cat](https://open.spotify.com/album/7aWRApTcoSElob5X4XiJFq) | 1:52 |
+| 47 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/16Wwp6SO1YyL91OYzl58bN) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Most Wanted](https://open.spotify.com/album/2Dxq9S41i1QJDximYXxDW4) | 2:15 |
 | 48 | [Pink Thunderbird](https://open.spotify.com/track/3NenvURev5mcCecxsUoWI2) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:32 |
 | 49 | [Get with It](https://open.spotify.com/track/16GMlvbWHeWXHYzJCVtD6d) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN), [Jody & Jerry](https://open.spotify.com/artist/60vvMCwC7lmGNhzcY4393t) | [Meteor Rockabilly & Hillbilly Recordings](https://open.spotify.com/album/2rQOB86QUXGmEHjWvduZbm) | 2:04 |
 | 50 | [I Need A Man](https://open.spotify.com/track/3vk6HvWYYlzwXaPxijyV2K) | [Barbara Pittman](https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2) | [The Legendary Sun Classics](https://open.spotify.com/album/5U0whF1wDL149JzbCCeVjI) | 2:53 |
 
-Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDQ3MTU5YWM1NzBmYTA3YzM0YWI3NmQ0MmZmNzYwYTJk`
+Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMGMyMjQwMWJjNzY4YmQwZTM4M2VkY2I5MzU2MTMzOWU0`

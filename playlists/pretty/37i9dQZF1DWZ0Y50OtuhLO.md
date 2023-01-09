@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 
 > Ana & Saff bring you the soundtrack to being to best version of you! \#NYE2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,618 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,611 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 | 36 | [Kiss My \(Uh Oh\)](https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:56 |
 | 37 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 |
 | 38 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 |
-| 39 | [Sweet Lies](https://open.spotify.com/track/1ciemDCppxQbYhXzqMoBV0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Sweet Lies](https://open.spotify.com/album/0Uf9BYVnE9KkSZMPSf4RJN) | 2:01 |
-| 40 | [Ayy Ladies \(feat\. Tyga\)](https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:31 |
+| 39 | [Ayy Ladies \(feat\. Tyga\)](https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:31 |
+| 40 | [Sweet Lies](https://open.spotify.com/track/1ciemDCppxQbYhXzqMoBV0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Sweet Lies](https://open.spotify.com/album/0Uf9BYVnE9KkSZMPSf4RJN) | 2:01 |
 | 41 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 |
 | 42 | [Don't Forget My Love](https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:19 |
 | 43 | [BIG MAD](https://open.spotify.com/track/0bspC5fLlWgwCM6Rx1YUIh) | [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [BIG MAD](https://open.spotify.com/album/0iVTOa2qX5dH97F287gKl4) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 | 49 | [On My Mind](https://open.spotify.com/track/27alispkWlF2rkQdjVmEfz) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [On My Mind](https://open.spotify.com/album/27sZmJ1EGInKWupuQSJBAq) | 2:45 |
 | 50 | [Still Sleepless](https://open.spotify.com/track/7iQt37BiWTwLDdjeQdTa5P) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless \(Ekko & Sidetrack Remix\)](https://open.spotify.com/album/3B5O9docVLoUE5SNqf2dNj) | 2:42 |
 
-Snapshot ID: `MTY3MjE4NTg0OCwwMDAwMDAwMDJmNWVjOTNlNDBmNTEzNThlNGIzNjQ3NzRlNzIxOTY2`
+Snapshot ID: `MTY3MjE4NTg0OCwwMDAwMDAwMDQzYTg1NmI0ZjJiMTM3YzBlYWMzM2FlNDkwYmYzOGRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 
 > A fun library of country hits to pass on to the next generation!
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,085 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,361 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 29 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 |
 | 30 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
 | 31 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
-| 32 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
-| 33 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 |
+| 32 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 |
+| 33 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
 | 34 | [Jesus, Take the Wheel](https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:46 |
 | 35 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
 | 36 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 55 | [Watching You](https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:55 |
 | 56 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
 | 57 | [Thank God I'm a Country Boy](https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:13 |
-| 58 | [Life's a Dance](https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 3:08 |
-| 59 | [Rhinestone Cowboy](https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Rhinestone Cowboy \(Expanded Edition\)](https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky) | 3:14 |
+| 58 | [Rhinestone Cowboy](https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Rhinestone Cowboy \(Expanded Edition\)](https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky) | 3:14 |
+| 59 | [Life's a Dance](https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 3:08 |
 | 60 | [Deeper Than the Holler](https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Old 8 x 10](https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh) | 3:39 |
 | 61 | [I Hope You Dance](https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [I Hope You Dance](https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv) | 4:54 |
 | 62 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 |
@@ -80,17 +80,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 70 | [You're Gonna Miss This](https://open.spotify.com/track/7Efs0OIW6zgQyH7ehKZYpN) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [American Man: Greatest Hits Vol\. II](https://open.spotify.com/album/3Ayxk9tKhpAE9gffRUWfDi) | 3:44 |
 | 71 | [Redneck Yacht Club](https://open.spotify.com/track/4etE2X6t7GmyiuYLIdI8H5) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [My Kind Of Livin'](https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl) | 3:50 |
 | 72 | [Teach Your Children](https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:53 |
-| 73 | [Tim McGraw](https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:52 |
-| 74 | [I'm Alright](https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:19 |
+| 73 | [I'm Alright](https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:19 |
+| 74 | [Tim McGraw](https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:52 |
 | 75 | [King Of The Road](https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Golden Hits](https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM) | 2:27 |
 | 76 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
 | 77 | [Love Without End, Amen](https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Livin' It Up](https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO) | 3:07 |
 | 78 | [Wichita Lineman \- Remastered 2001](https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Wichita Lineman \(Remastered\)](https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE) | 3:06 |
 | 79 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
-| 80 | [Bye\-Bye](https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:20 |
-| 81 | [International Harvester](https://open.spotify.com/track/0Ta3jOf8m9yCSWMVwd8Qlf) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Little Bit Of Life](https://open.spotify.com/album/1xG8gT4MixyJTNlvvXbU4F) | 3:48 |
-| 82 | [If I Could Make a Living](https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [If I Could Make a Living](https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF) | 2:13 |
-| 83 | [Make It Sweet](https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:07 |
+| 80 | [International Harvester](https://open.spotify.com/track/0Ta3jOf8m9yCSWMVwd8Qlf) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Little Bit Of Life](https://open.spotify.com/album/1xG8gT4MixyJTNlvvXbU4F) | 3:48 |
+| 81 | [If I Could Make a Living](https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [If I Could Make a Living](https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF) | 2:13 |
+| 82 | [Make It Sweet](https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:07 |
+| 83 | [Bye\-Bye](https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:20 |
 | 84 | [Tulsa Time](https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Expressions](https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W) | 3:15 |
 | 85 | [Nothin' To Lose](https://open.spotify.com/track/7oiCqfE8Wjk8wf0pFTgL2H) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [Josh Gracin](https://open.spotify.com/album/1V4qP0BJJBZsY2LOkcfwE0) | 2:36 |
 | 86 | [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Coal Miner's Daughter](https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 99 | [I Loved Her First](https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f) | 3:32 |
 | 100 | [How Forever Feels](https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:08 |
 
-Snapshot ID: `MTYzODgwNjA0OCwwMDAwMDAwMGFlZDU5YjA2YjEyMDA5OWQ1OGY5Y2VhYzQ0OGQxZDg1`
+Snapshot ID: `MTYzODgwNjA0OCwwMDAwMDAwMGZiZTBkMTA4YzkzNTZhMGIwMzA4NjUzYWIwMjU2NzBh`

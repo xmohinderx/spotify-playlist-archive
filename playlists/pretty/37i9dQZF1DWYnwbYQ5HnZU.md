@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > Spotify country fan favorites\. Artist: Miranda Lambert
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,076,713 likes - 95 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,077,490 likes - 95 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 48 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
 | 49 | [Just the Way](https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:13 |
 | 50 | [What’s Your Country Song](https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:51 |
-| 51 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 |
-| 52 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
+| 51 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
+| 52 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 |
 | 53 | [Homegrown](https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:25 |
 | 54 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 |
 | 55 | [Picture \(feat\. Sheryl Crow\)](https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cocky](https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r) | 4:58 |
 | 56 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 |
-| 57 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
-| 58 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
+| 57 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
+| 58 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
 | 59 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 |
 | 60 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 |
 | 61 | [The House That Built Me](https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:56 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 94 | [If You're Going Through Hell \(Before The Devil Even Knows\)](https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:36 |
 | 95 | [Austin](https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton](https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8) | 3:50 |
 
-Snapshot ID: `MTY3Mjc4MzQ1NywwMDAwMDAwMGM5YjE2M2QxZjljMzMwNjcxMmZhNzExMzA3OWZjMTI2`
+Snapshot ID: `MTY3Mjc4MzQ1NywwMDAwMDAwMGZiMWI0YzkwMWU3YmY5OWJjM2U5MDM0NzMzM2E4YTk1`

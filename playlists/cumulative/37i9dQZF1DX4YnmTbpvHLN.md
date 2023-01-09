@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-246 songs - 16 hr 25 min
+247 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-06-29 |  |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-08 |  |
 | [Embracable You](https://open.spotify.com/track/2vc6aQG10jrwwi2VGXXcfl) | [Red Stairs Jazz Quartet](https://open.spotify.com/artist/7Aw4wL0AJtfh0yQDQgaBjS) | [Easy Living](https://open.spotify.com/album/063dLcnFERUaDqum86A5eF) | 2:34 | 2022-06-29 |  |
-| [Embraceable You](https://open.spotify.com/track/0TBwVpOEEwPDExkKPtnzef) | [Purple Patch Band](https://open.spotify.com/artist/0UOvMzVudGhlmOfu2aUBzK) | [Cheek to Cheek](https://open.spotify.com/album/4n1JQHYkpLpScpxqehAYT1) | 5:05 | 2022-06-29 |  |
+| [Embraceable You](https://open.spotify.com/track/0TBwVpOEEwPDExkKPtnzef) | [Purple Patch Band](https://open.spotify.com/artist/0UOvMzVudGhlmOfu2aUBzK) | [Cheek to Cheek](https://open.spotify.com/album/4n1JQHYkpLpScpxqehAYT1) | 5:05 | 2022-06-29 | 2023-01-09 |
 | [Estrellita](https://open.spotify.com/track/230SRIeY6sOIr0jhks11Xz) | [Christian Warner Band](https://open.spotify.com/artist/33v9UFXH7pCXb4kmEz91SF) | [Estrellita](https://open.spotify.com/album/5nam9UDpTq9AqnwtSSBUdj) | 4:52 | 2022-06-29 | 2022-11-13 |
 | [Ev'rytime We Say Goodbye](https://open.spotify.com/track/6gbFiQFCNFB3py3W7TtpbP) | [Charlie Wilder Band](https://open.spotify.com/artist/6UYNORrztDMx6aNjhzwJTV) | [Ev'rytime We Say Goodbye](https://open.spotify.com/album/1Up43SfdvFghh3BAE1yBgG) | 4:15 | 2022-06-29 |  |
 | [Evans](https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Evans](https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX) | 4:08 | 2022-06-29 |  |
@@ -143,6 +143,7 @@
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-10-13 |  |
 | [Love Waiting Endlessly](https://open.spotify.com/track/4LqPbk7Mcm48KciBUa88sM) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Common View](https://open.spotify.com/album/0MKZB0Q3tyrI0jtacgtQZF) | 4:35 | 2022-06-29 | 2022-11-27 |
 | [Love Will Last Forever](https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Love Will Last Forever](https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa) | 3:35 | 2022-08-31 |  |
+| [Low In The Sky](https://open.spotify.com/track/64IxUrxbv4r5Mwxxez5IV2) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Low In The Sky](https://open.spotify.com/album/3zuk8Y55rA8Dc5BuW7tVJu) | 3:49 | 2023-01-05 |  |
 | [Lower East Side](https://open.spotify.com/track/2B4zWGcQq19hdbRLTHWInd) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Lower East Side](https://open.spotify.com/album/7JBbttbLCeStXO31U0hkE4) | 3:52 | 2022-06-29 |  |
 | [Lucky To Be Me](https://open.spotify.com/track/4mTBd1yNfpjivl5lHorkiw) | [Ten Thirty Trio](https://open.spotify.com/artist/5bMQvYFq5ic1QxUDaGPyeb) | [Lucky To Be Me](https://open.spotify.com/album/2SlisjeQUgoA3qCocBRzcp) | 3:43 | 2022-06-29 | 2022-12-13 |
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-29 |  |

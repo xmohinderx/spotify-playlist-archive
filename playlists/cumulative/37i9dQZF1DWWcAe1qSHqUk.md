@@ -4,7 +4,7 @@
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-99 songs - 6 hr 30 min
+100 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [When I'm 64](https://open.spotify.com/track/3J5HOK2P66j1S7pjMV99w8) | [Grazyna Auguscik](https://open.spotify.com/artist/3miAXkP8aIGDA3OKydtBNQ), [Paulinho Garcia](https://open.spotify.com/artist/43Q9oS0K3TSjq7fU3yi4rD), [Heitor Garcia](https://open.spotify.com/artist/2j8zk6kqtHS1yvPZpDzhtx), [Brett Benteler](https://open.spotify.com/artist/197YboJZQFinGtaHG53zUF), [Steve Eisen](https://open.spotify.com/artist/4wSnxqNo9DjIkb2WwwDk7c) | [The Beatles Nova](https://open.spotify.com/album/50DPfVGnhbQdLMy5tKQEAR) | 3:03 | 2022-09-12 | 2022-12-27 |
 | [Why Try to Change Me Now](https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Best Is Yet to Come \- The Songs of Cy Coleman](https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p) | 5:16 | 2022-09-12 |  |
 | [You're Mine, You!](https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:18 | 2022-09-12 |  |
-| [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 | 2022-09-12 |  |
+| [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 | 2022-09-12 | 2023-01-09 |
+| [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 | 2022-12-26 |  |
 | [Águas De Março](https://open.spotify.com/track/3PzD3zi0UeNw3dTYGbAZCy) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 3:34 | 2022-10-31 | 2022-11-14 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

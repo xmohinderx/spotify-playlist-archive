@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 24835,
+  "num_followers": 24921,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyOTMzNywwMDAwMDAwMDZkN2NhNDk5NTI3ZDM0OGU4ZTBlNmQ0NzkzYzY2ZGY1",
+  "snapshot_id": "MTY3MzAyOTMzNywwMDAwMDAwMDI0ZDg1YmJjZWQ2Y2JiOTE4ZjBhMDgzZDIwYWVhM2Zh",
   "tracks": [
     {
       "added_at": "2023-01-06 18:22:17",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-01-06 18:22:17",
       "album": {
-        "name": "Mick Taylor",
-        "url": "https://open.spotify.com/album/23c6z3f6XvBXKR4UqSnqne"
-      },
-      "artists": [
-        {
-          "name": "Mick Taylor",
-          "url": "https://open.spotify.com/artist/4tkgLX1wdWoOu2lyeQNYAi"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Slow Blues",
-      "url": "https://open.spotify.com/track/451DmtsIrqVod8SD5tpXcU"
-    },
-    {
-      "added_at": "2023-01-06 18:22:17",
-      "album": {
         "name": "Stand Back!",
         "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 201000,
       "name": "Christo Redemptor",
       "url": "https://open.spotify.com/track/2KmDMUum37jq4TFaHXD3JY"
+    },
+    {
+      "added_at": "2023-01-06 18:22:17",
+      "album": {
+        "name": "Mick Taylor",
+        "url": "https://open.spotify.com/album/23c6z3f6XvBXKR4UqSnqne"
+      },
+      "artists": [
+        {
+          "name": "Mick Taylor",
+          "url": "https://open.spotify.com/artist/4tkgLX1wdWoOu2lyeQNYAi"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Slow Blues",
+      "url": "https://open.spotify.com/track/451DmtsIrqVod8SD5tpXcU"
     },
     {
       "added_at": "2023-01-06 18:22:17",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-06 18:22:17",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
-      },
-      "artists": [
-        {
-          "name": "Brian Grey",
-          "url": "https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS"
-        }
-      ],
-      "duration_ms": 259846,
-      "name": "Part Time Blues",
-      "url": "https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW"
-    },
-    {
-      "added_at": "2023-01-06 18:22:17",
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 500586,
       "name": "Overall Junction",
       "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
+    },
+    {
+      "added_at": "2023-01-06 18:22:17",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
+      },
+      "artists": [
+        {
+          "name": "Brian Grey",
+          "url": "https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS"
+        }
+      ],
+      "duration_ms": 259846,
+      "name": "Part Time Blues",
+      "url": "https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW"
     },
     {
       "added_at": "2023-01-06 18:22:17",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-01-06 18:22:17",
       "album": {
+        "name": "Don't Be Late",
+        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
+      },
+      "artists": [
+        {
+          "name": "Serenity State of Mind",
+          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
+        }
+      ],
+      "duration_ms": 166436,
+      "name": "Don't Be Late",
+      "url": "https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu"
+    },
+    {
+      "added_at": "2023-01-06 18:22:17",
+      "album": {
         "name": "Second Album",
         "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
       },
@@ -691,38 +707,6 @@
     {
       "added_at": "2023-01-06 18:22:17",
       "album": {
-        "name": "Don't Be Late",
-        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
-      },
-      "artists": [
-        {
-          "name": "Serenity State of Mind",
-          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
-        }
-      ],
-      "duration_ms": 166436,
-      "name": "Don't Be Late",
-      "url": "https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu"
-    },
-    {
-      "added_at": "2023-01-06 18:22:17",
-      "album": {
-        "name": "All Kinds Of Blues",
-        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
-      },
-      "artists": [
-        {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Frankie And Johnny Boogie",
-      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
-    },
-    {
-      "added_at": "2023-01-06 18:22:17",
-      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 418493,
       "name": "Albert's Shuffle - 2002 Remix w/o Horns",
       "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
+    },
+    {
+      "added_at": "2023-01-06 18:22:17",
+      "album": {
+        "name": "All Kinds Of Blues",
+        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
+      },
+      "artists": [
+        {
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Frankie And Johnny Boogie",
+      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
     },
     {
       "added_at": "2023-01-06 18:22:17",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-06 18:22:17",
       "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 276933,
-      "name": "Screamin'",
-      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
-    },
-    {
-      "added_at": "2023-01-06 18:22:17",
-      "album": {
         "name": "Sweet Emma",
         "url": "https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 341854,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT"
+    },
+    {
+      "added_at": "2023-01-06 18:22:17",
+      "album": {
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "Screamin'",
+      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
     },
     {
       "added_at": "2023-01-06 18:22:17",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-06 18:22:17",
       "album": {
-        "name": "Blueprint (Remastered 2017)",
-        "url": "https://open.spotify.com/album/31Sza8aKnWhwkUtcBdQfML"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 170441,
-      "name": "Unmilitary Two-Step",
-      "url": "https://open.spotify.com/track/6rkKAYvMwrYUK2Ub1CARFL"
-    },
-    {
-      "added_at": "2023-01-06 18:22:17",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 171640,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
+    },
+    {
+      "added_at": "2023-01-06 18:22:17",
+      "album": {
+        "name": "Blueprint (Remastered 2017)",
+        "url": "https://open.spotify.com/album/31Sza8aKnWhwkUtcBdQfML"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 170441,
+      "name": "Unmilitary Two-Step",
+      "url": "https://open.spotify.com/track/6rkKAYvMwrYUK2Ub1CARFL"
     },
     {
       "added_at": "2023-01-06 18:22:17",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-06 18:22:17",
       "album": {
-        "name": "I Feel Like Goin' On",
-        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        }
-      ],
-      "duration_ms": 393666,
-      "name": "Little Johnny Lee",
-      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
-    },
-    {
-      "added_at": "2023-01-06 18:22:17",
-      "album": {
         "name": "Alone With Yourself",
         "url": "https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 233382,
       "name": "Alone With Yourself",
       "url": "https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII"
+    },
+    {
+      "added_at": "2023-01-06 18:22:17",
+      "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "duration_ms": 393666,
+      "name": "Little Johnny Lee",
+      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
     },
     {
       "added_at": "2023-01-06 18:22:17",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-01-06 18:22:17",
       "album": {
-        "name": "Country, Blues & More",
-        "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
-      },
-      "artists": [
-        {
-          "name": "Paul Lenart",
-          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
-        },
-        {
-          "name": "Duke Levine",
-          "url": "https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh"
-        }
-      ],
-      "duration_ms": 133481,
-      "name": "Blue Dreamer",
-      "url": "https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU"
-    },
-    {
-      "added_at": "2023-01-06 18:22:17",
-      "album": {
         "name": "Boedo's Blues",
         "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
       },
@@ -1175,18 +1155,22 @@
     {
       "added_at": "2023-01-06 18:22:17",
       "album": {
-        "name": "I Feel Like Goin' On",
-        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+        "name": "Country, Blues & More",
+        "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
       },
       "artists": [
         {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+          "name": "Paul Lenart",
+          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
+        },
+        {
+          "name": "Duke Levine",
+          "url": "https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh"
         }
       ],
-      "duration_ms": 509106,
-      "name": "Blues For Otis Rush",
-      "url": "https://open.spotify.com/track/67BXudHoNp6ReHBJcDXOgY"
+      "duration_ms": 133481,
+      "name": "Blue Dreamer",
+      "url": "https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU"
     },
     {
       "added_at": "2023-01-06 18:22:17",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2023-01-06 18:22:17",
       "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "duration_ms": 509106,
+      "name": "Blues For Otis Rush",
+      "url": "https://open.spotify.com/track/67BXudHoNp6ReHBJcDXOgY"
+    },
+    {
+      "added_at": "2023-01-06 18:22:17",
+      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-01-06 18:22:17",
       "album": {
-        "name": "Essential Rhythm Beds",
-        "url": "https://open.spotify.com/album/5KiG9omZSUHrZts9DvsCqw"
-      },
-      "artists": [
-        {
-          "name": "Paul Lenart",
-          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
-        }
-      ],
-      "duration_ms": 108600,
-      "name": "Clarksdale Blues",
-      "url": "https://open.spotify.com/track/7wg8Mdx3dy93WqPOOsmSPx"
-    },
-    {
-      "added_at": "2023-01-06 18:22:17",
-      "album": {
         "name": "The Peacock Recordings: 1949-1959",
         "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
       },
@@ -1303,22 +1287,6 @@
     {
       "added_at": "2023-01-06 18:22:17",
       "album": {
-        "name": "R&B from the Marquee / At the Cavern (Remastered)",
-        "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
-      },
-      "artists": [
-        {
-          "name": "Alexis Korner's Blues Incorporated",
-          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
-        }
-      ],
-      "duration_ms": 150465,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
-    },
-    {
-      "added_at": "2023-01-06 18:22:17",
-      "album": {
         "name": "Music For Mad Men - Robust Blues",
         "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
       },
@@ -1331,6 +1299,38 @@
       "duration_ms": 139413,
       "name": "Jukebox Shuffle",
       "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
+    },
+    {
+      "added_at": "2023-01-06 18:22:17",
+      "album": {
+        "name": "Essential Rhythm Beds",
+        "url": "https://open.spotify.com/album/5KiG9omZSUHrZts9DvsCqw"
+      },
+      "artists": [
+        {
+          "name": "Paul Lenart",
+          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
+        }
+      ],
+      "duration_ms": 108600,
+      "name": "Clarksdale Blues",
+      "url": "https://open.spotify.com/track/7wg8Mdx3dy93WqPOOsmSPx"
+    },
+    {
+      "added_at": "2023-01-06 18:22:17",
+      "album": {
+        "name": "R&B from the Marquee / At the Cavern (Remastered)",
+        "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
+      },
+      "artists": [
+        {
+          "name": "Alexis Korner's Blues Incorporated",
+          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
+        }
+      ],
+      "duration_ms": 150465,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
     },
     {
       "added_at": "2023-01-06 18:22:17",

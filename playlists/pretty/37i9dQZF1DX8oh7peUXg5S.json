@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
-  "num_followers": 269990,
+  "num_followers": 270205,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDdjYjBjMzBjMjUzMGE1ZDljODcwMDdhOTdkMzU5Mjc3",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDNjOGQzNGNmMTEwZjIwNWU1Y2VhNDllMzg3N2U4NmNh",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Vestida De Nit",
-        "url": "https://open.spotify.com/album/3N1e8LMjed69YN7GNrGfWA"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 158230,
-      "name": "Mechita",
-      "url": "https://open.spotify.com/track/3GADIvwz2JHNq0d6bHfZFG"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 256839,
       "name": "Al alba",
       "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Vestida De Nit",
+        "url": "https://open.spotify.com/album/3N1e8LMjed69YN7GNrGfWA"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 158230,
+      "name": "Mechita",
+      "url": "https://open.spotify.com/track/3GADIvwz2JHNq0d6bHfZFG"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "La Mas Completa Coleccion",
+        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 274906,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Amor del Bo",
         "url": "https://open.spotify.com/album/6KAvzHl4HH1C8SX8iuIHZA"
       },
@@ -1715,18 +1731,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "La Mas Completa Coleccion",
-        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
+        "name": "Manifiesto",
+        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
       },
       "artists": [
         {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+          "name": "Victor Jara",
+          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
         }
       ],
-      "duration_ms": 274906,
-      "name": "El Amor De Mi Vida",
-      "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
+      "duration_ms": 269133,
+      "name": "Manifiesto",
+      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1747,22 +1763,6 @@
       "duration_ms": 250302,
       "name": "Conviene Saber (feat. Rozal\u00e9n)",
       "url": "https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Manifiesto",
-        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
-      },
-      "artists": [
-        {
-          "name": "Victor Jara",
-          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Manifiesto",
-      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
     },
     {
       "added_at": "2022-12-22 23:00:00",

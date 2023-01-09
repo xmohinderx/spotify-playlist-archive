@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 102426,
+  "num_followers": 102670,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMGQ5MzBhN2MwN2I1OTUxZmY1MTM3NTQ1OWIyOGU5Mjhl",
+  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDY3MjEzY2Y0Y2QzMmFmMzhlMDM4YjlhYjYxOWU5YWU3",
   "tracks": [
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Lump",
+      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
         "name": "The Soft Bulletin",
         "url": "https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 188146,
       "name": "Can't Hardly Wait - 2008 Remaster",
       "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
-        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
-        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
-      },
-      "artists": [
-        {
-          "name": "The Presidents Of The United States Of America",
-          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Lump",
-      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "American Water",
-        "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
-      },
-      "artists": [
-        {
-          "name": "Silver Jews",
-          "url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Random Rules",
-      "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Refried Ectoplasm [Switched On Volume 2]",
         "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 215825,
       "name": "French Disko",
       "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "American Water",
+        "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
+      },
+      "artists": [
+        {
+          "name": "Silver Jews",
+          "url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Random Rules",
+      "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Spiderland",
-        "url": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8"
-      },
-      "artists": [
-        {
-          "name": "Slint",
-          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
-        }
-      ],
-      "duration_ms": 355533,
-      "name": "Breadcrumb Trail",
-      "url": "https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Cure for Pain",
         "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 194093,
       "name": "Cure for Pain",
       "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Spiderland",
+        "url": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8"
+      },
+      "artists": [
+        {
+          "name": "Slint",
+          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
+        }
+      ],
+      "duration_ms": 355533,
+      "name": "Breadcrumb Trail",
+      "url": "https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d"
     },
     {
       "added_at": "2022-05-30 14:05:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > A mixtape for the perfect anime fight scene\. Cover: Lucy from Cyberpunk: Edgerunners
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,532 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,976 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 5 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
 | 6 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 |
 | 7 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 |
-| 8 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 |
+| 8 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
 | 9 | [Aces](https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf) | 2:02 |
-| 10 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
+| 10 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 |
 | 11 | [Stay With Me](https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Stay With Me](https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp) | 2:21 |
 | 12 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 |
 | 13 | [Paris](https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 1:51 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 49 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 |
 | 50 | [chinatown!](https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [chinatown!](https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N) | 2:25 |
 | 51 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 |
-| 52 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 |
-| 53 | [Princess Bubblegum](https://open.spotify.com/track/2O9KgUsmuon6Gycdmagc6t) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Princess Bubblegum](https://open.spotify.com/album/3pb0Q6sH9ZhxjOKvSVP5bE) | 1:35 |
+| 52 | [Princess Bubblegum](https://open.spotify.com/track/2O9KgUsmuon6Gycdmagc6t) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Princess Bubblegum](https://open.spotify.com/album/3pb0Q6sH9ZhxjOKvSVP5bE) | 1:35 |
+| 53 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 |
 | 54 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 |
 | 55 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 |
 | 56 | [The Law of Recognition](https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o) | [KYSLINGO](https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO) | [The Law of Recognition](https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB) | 2:09 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 67 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 |
 | 68 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
 | 69 | [Led](https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT) | [GOTOU寄生獣](https://open.spotify.com/artist/3lBMiwsMDQZItXes0VxBsJ), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Led](https://open.spotify.com/album/2RIYeR7qaek1c8BNIBsq0a) | 2:14 |
-| 70 | [She Bad](https://open.spotify.com/track/7yF19wC6msoj2cGUEtlm1S) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/4qfFCBcWN7Z1SJxZoEAXcT) | 1:45 |
-| 71 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
-| 72 | [Bars No Jutsu](https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae) | [Louis Capone](https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu) | [Bars No Jutsu](https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT) | 2:28 |
-| 73 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 |
+| 70 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
+| 71 | [Bars No Jutsu](https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae) | [Louis Capone](https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu) | [Bars No Jutsu](https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT) | 2:28 |
+| 72 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 |
+| 73 | [Naruto Bluebird Freestyle](https://open.spotify.com/track/0lVp0ajGZ2huxjV0LjnLI4) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Naruto Bluebird Freestyle](https://open.spotify.com/album/7keMCtMuSyvoRCnHnofyFz) | 1:42 |
 | 74 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/1rgncjmlpHMP3DBhpagyVb) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:48 |
-| 75 | [Naruto Bluebird Freestyle](https://open.spotify.com/track/0lVp0ajGZ2huxjV0LjnLI4) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Naruto Bluebird Freestyle](https://open.spotify.com/album/7keMCtMuSyvoRCnHnofyFz) | 1:42 |
+| 75 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
 
-Snapshot ID: `MTY3MzAzMDEzMCwwMDAwMDAwMDk4NWVmNGYzNmZmZjVjZGQzMTFkMDQ2MTAwYzM0ZmU0`
+Snapshot ID: `MTY3MzAzMDEzMCwwMDAwMDAwMGM4MTU5ZGVhOWYyNzk4N2JhYzcyZmE2YWYxZDMzNjE2`

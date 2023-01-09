@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Sometimes it's nice to be nice, you know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,621 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,795 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 5 | [I Was Neon](https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:02 |
 | 6 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 |
 | 7 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 |
-| 8 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 |
-| 9 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 |
+| 8 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 |
+| 9 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 |
 | 10 | [kill you](https://open.spotify.com/track/67zugn57NW0eFNM3DL4IxD) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [kill you](https://open.spotify.com/album/1nHCdR0VOXjVSv7ei3PD3x) | 3:07 |
 | 11 | [Australia](https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr) | 3:56 |
 | 12 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 38 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 |
 | 39 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
 | 40 | [I Don't Wanna Be Funny Anymore](https://open.spotify.com/track/7fmqJC1yi3tyys0l72F9Ya) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:43 |
-| 41 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
-| 42 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
-| 43 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
+| 41 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
+| 42 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
+| 43 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
 | 44 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 |
 | 45 | [So My Darling](https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling](https://open.spotify.com/album/1U269hAxxYxkknYfpeCVku) | 4:29 |
 | 46 | [Intertwined](https://open.spotify.com/track/5fML9iqXgkXu7hUOYlE1aB) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju) | 2:41 |
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 58 | [Motels](https://open.spotify.com/track/1V888fh2JLVzMElr1pEz6Z) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Motels](https://open.spotify.com/album/59ok1dIXKrSGEuyziyoyfO) | 3:23 |
 | 59 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/05qTeP4xG8KXoRhN2HdKjS) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/7MjceL6iPFM86qxxeWCVEz) | 4:37 |
 | 60 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
-| 61 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 |
-| 62 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
+| 61 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
+| 62 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 |
 | 63 | [Something To Talk About](https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [About A Boy Soundtrack](https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx) | 3:40 |
 | 64 | [Lavender](https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:11 |
 | 65 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 |
-| 66 | [Hysterical Us](https://open.spotify.com/track/0vMlVGJuREJk3c7vvObE5Z) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:55 |
-| 67 | [Hot & Heavy](https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Hot & Heavy](https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu) | 4:10 |
+| 66 | [Hot & Heavy](https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Hot & Heavy](https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu) | 4:10 |
+| 67 | [Hysterical Us](https://open.spotify.com/track/0vMlVGJuREJk3c7vvObE5Z) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:55 |
 | 68 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
 | 69 | [Craziest Things](https://open.spotify.com/track/4WTy2W1mrlM40lX9ybbp0q) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Home for Now](https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN) | 3:10 |
 | 70 | [The Boy With The Arab Strap](https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With The Arab Strap](https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7) | 5:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 79 | [Lucky](https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM) | 3:12 |
 | 80 | [French Navy](https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg) | 3:18 |
 
-Snapshot ID: `MTY2OTQyMzEyMywwMDAwMDAwMDdjNzdlNDM3NjE5NjIwOTkxYWJlZmJlZDQzNDMwMTUy`
+Snapshot ID: `MTY2OTQyMzEyMywwMDAwMDAwMGIyYzdjYWQwYzMyOTlkMmNkNWI3ZTk1M2Y1ZDI0ZjAx`

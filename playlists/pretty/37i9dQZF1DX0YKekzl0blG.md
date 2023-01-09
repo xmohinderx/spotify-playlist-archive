@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 
 > All the indelible tunes from the other side of the 00s\. Cover: Santigold
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,036 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,231 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,18 +27,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 17 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 |
 | 18 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
 | 19 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:18 |
-| 20 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 |
+| 20 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 |
 | 21 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
-| 22 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:44 |
-| 23 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 |
+| 22 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 |
+| 23 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:44 |
 | 24 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 |
 | 25 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
 | 26 | [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 |
 | 27 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 |
 | 28 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
 | 29 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
-| 30 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 |
-| 31 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 |
+| 30 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 |
+| 31 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 |
 | 32 | [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 |
 | 33 | [Sing](https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Invisible Band](https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ) | 3:48 |
 | 34 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 49 | [Dreaming of You](https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [The Coral](https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA) | 2:21 |
 | 50 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
 | 51 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 |
-| 52 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
-| 53 | [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 |
+| 52 | [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 |
+| 53 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
 | 54 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
 | 55 | [Obstacle 1](https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:11 |
 | 56 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 79 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
 | 80 | [Jenny Don't Be Hasty](https://open.spotify.com/track/3G3GZnfjmypPEdkItAofp8) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:27 |
 
-Snapshot ID: `MTY2ODcxNjEzMiwwMDAwMDAwMGUwY2NmNzBhNTE3OTAzMTYxOWQzMWYxNDA5YjY5MDY1`
+Snapshot ID: `MTY2ODcxNjEzMiwwMDAwMDAwMGMzMGM2MDM2YjIyYjdlYzQ5OGI1ZjBiZGZhYjliY2Jl`

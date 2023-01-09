@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,706 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,902 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,19 +76,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 66 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 |
 | 67 | [Survivor](https://open.spotify.com/track/1B0kLftVGJsZqJZGdHbAWZ) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker \(Deluxe Edition\)](https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N) | 3:52 |
 | 68 | [Best News Ever](https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac) | 2:59 |
-| 69 | [Fires](https://open.spotify.com/track/3rY3CMg06pvfMdqt04PgZU) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK) | 3:48 |
-| 70 | [God Is Good](https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [God Is Good](https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0) | 3:17 |
+| 69 | [God Is Good](https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [God Is Good](https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0) | 3:17 |
+| 70 | [Fires](https://open.spotify.com/track/3rY3CMg06pvfMdqt04PgZU) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK) | 3:48 |
 | 71 | [I Am Yours](https://open.spotify.com/track/5nUzRHDvRYqRcOlVWg67Di) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X) | 4:36 |
 | 72 | [Reason](https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:19 |
 | 73 | [Haven't Seen It Yet](https://open.spotify.com/track/1JVefYHGnKd8ZjyaqWmTpz) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 4:04 |
 | 74 | [For God Is With Us](https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [For God Is With Us](https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn) | 3:16 |
 | 75 | [Way Maker](https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Way Maker](https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx) | 4:02 |
-| 76 | [Weary Traveler](https://open.spotify.com/track/4GvaupCSw4gKdfP0h9H9AB) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK) | 3:20 |
-| 77 | [Mercy Is A Song](https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:45 |
-| 78 | [Same God](https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God](https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh) | 3:49 |
-| 79 | [Come To the Table](https://open.spotify.com/track/2gdSplXjHbjMMfLcwl3Nku) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Something Different \(Deluxe Version\)](https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr) | 4:15 |
-| 80 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 |
-| 81 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 |
+| 76 | [Mercy Is A Song](https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:45 |
+| 77 | [Same God](https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God](https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh) | 3:49 |
+| 78 | [Come To the Table](https://open.spotify.com/track/2gdSplXjHbjMMfLcwl3Nku) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Something Different \(Deluxe Version\)](https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr) | 4:15 |
+| 79 | [Weary Traveler](https://open.spotify.com/track/4GvaupCSw4gKdfP0h9H9AB) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK) | 3:20 |
+| 80 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 |
+| 81 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 |
 | 82 | [Look Up Child \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 3:34 |
 | 83 | [Wanted](https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:55 |
 | 84 | [Different](https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 99 | [Fear No More](https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More](https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ) | 3:12 |
 | 100 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 |
 
-Snapshot ID: `MTYzNDI5NzQ1MywwMDAwMDAwMDY2MDdlY2MzZDQ5N2RlOTY1YzA1ZDVhNmNkYmJmZjY2`
+Snapshot ID: `MTYzNDI5NzQ1MywwMDAwMDAwMGEyOTg1NzdiOWZjNDVmMmYzNTA1NTNmOGM1N2Q2NGYy`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Trueno & JID",
-  "num_followers": 457739,
+  "num_followers": 457794,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQzMTU1NywwMDAwMDAwMGQxMjExNWM4NjliZTAyZjljNDA2ZTc4ZjJiMDZkMDYx",
+  "snapshot_id": "MTY3MjQzMTU1NywwMDAwMDAwMDdjYmI2NGZjOWZjZDM3YTRlYWM0OGI1ZGIwYjkxNDc2",
   "tracks": [
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        }
+      ],
+      "duration_ms": 175142,
+      "name": "Seguimos Controlando",
+      "url": "https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
         "name": "Kachipun",
         "url": "https://open.spotify.com/album/55vu9TYS7vUdgBOp2Zo2CW"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 168080,
       "name": "Kachipun",
       "url": "https://open.spotify.com/track/0u6961dhguqEgq3U8e8GhF"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        }
-      ],
-      "duration_ms": 175142,
-      "name": "Seguimos Controlando",
-      "url": "https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1571,6 +1571,50 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
+        "name": "Perico",
+        "url": "https://open.spotify.com/album/5eTqqeddLq4MH4QmRRbCql"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Sinfonico",
+          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
+        }
+      ],
+      "duration_ms": 214700,
+      "name": "Perico",
+      "url": "https://open.spotify.com/track/57LGhr0kY4isaQdv301bg6"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
+        "name": "Fuma Fuma",
+        "url": "https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "Fuma Fuma",
+      "url": "https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
         "name": "On The Road (feat. Elpatron970, Felp 22)",
         "url": "https://open.spotify.com/album/2YSdNZSMUEkwSp0vWkuSYh"
       },
@@ -1603,26 +1647,6 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "Fuma Fuma",
-        "url": "https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "Fuma Fuma",
-      "url": "https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
         "name": "La Movie",
         "url": "https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss"
       },
@@ -1647,30 +1671,6 @@
       "duration_ms": 264776,
       "name": "La Movie",
       "url": "https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
-        "name": "Perico",
-        "url": "https://open.spotify.com/album/5eTqqeddLq4MH4QmRRbCql"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Sinfonico",
-          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
-        }
-      ],
-      "duration_ms": 214700,
-      "name": "Perico",
-      "url": "https://open.spotify.com/track/57LGhr0kY4isaQdv301bg6"
     },
     {
       "added_at": "2022-12-30 20:19:17",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
+        "name": "LA \u00daLTIMA VEZ QUE ME VISTE",
+        "url": "https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J"
+      },
+      "artists": [
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 233286,
+      "name": "XKITTLEZ (with Arcangel)",
+      "url": "https://open.spotify.com/track/0EeeiUfFGbKYyvIQcI9TGf"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
         "name": "RTJ CU4TRO",
         "url": "https://open.spotify.com/album/1ILVeBkzKVhwqn1ze1et9x"
       },
@@ -1963,26 +1983,6 @@
       "duration_ms": 265066,
       "name": "caminando en la nieve (feat. Akapellah, Apache & Pawmps) - Orestes Gomez & Nick Hook\u2019s Versi\u00f3n",
       "url": "https://open.spotify.com/track/3bErW9oonJmaElbaPfJPlg"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
-        "name": "LA \u00daLTIMA VEZ QUE ME VISTE",
-        "url": "https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J"
-      },
-      "artists": [
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 233286,
-      "name": "XKITTLEZ (with Arcangel)",
-      "url": "https://open.spotify.com/track/0EeeiUfFGbKYyvIQcI9TGf"
     },
     {
       "added_at": "2022-12-14 23:52:50",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Prende tu fiesta con m\u00fasica de ROSAL\u00cdA, y el mejor pop!",
-  "num_followers": 33519,
+  "num_followers": 33540,
   "original_name": "Fiesta Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQ1MTUyMCwwMDAwMDAwMDU2OWRkOTk3NTAwYzhkY2EwNWRlNzk5Yjk2MjFjNjgy",
+  "snapshot_id": "MTY3MjQ1MTUyMCwwMDAwMDAwMGEzMDhkMGI0ODE2M2ZmZTA5MGNjOTM5NjkxM2Y3YTc1",
   "tracks": [
     {
       "added_at": "2022-10-04 22:09:39",
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
-      "added_at": "2023-01-08 01:36:43",
+      "added_at": "2023-01-09 01:41:58",
       "album": {
         "name": "BLACKOUT",
         "url": "https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5"
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
+      "added_at": "2022-12-22 01:21:01",
+      "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
+    },
+    {
       "added_at": "2022-10-04 22:09:39",
       "album": {
         "name": "Celestial",
@@ -519,26 +535,6 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
-        "name": "Save Your Tears (Remix)",
-        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Save Your Tears (with Ariana Grande) (Remix)",
-      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -557,20 +553,24 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
-      "added_at": "2022-12-22 01:21:01",
+      "added_at": "2022-10-04 22:09:39",
       "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+        "name": "Save Your Tears (Remix)",
+        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
+      "duration_ms": 191013,
+      "name": "Save Your Tears (with Ariana Grande) (Remix)",
+      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 203807,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -795,26 +795,6 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
         "name": "Todo De Ti",
         "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
       "added_at": "2022-12-22 01:21:01",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 173710,
-      "name": "34+35",
-      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
         "name": "Sobrio",
         "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 201180,
       "name": "Sobrio",
       "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 173710,
+      "name": "34+35",
+      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 184104,
       "name": "Summer of Love (Shawn Mendes & Tainy)",
       "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 138293,
-      "name": "Get Into It (Yuh)",
-      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 138293,
+      "name": "Get Into It (Yuh)",
+      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
-        "name": "12x3",
-        "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "12x3",
-      "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
         "name": "Permission to Dance",
         "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
+        "name": "12x3",
+        "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2022-10-04 22:09:39",

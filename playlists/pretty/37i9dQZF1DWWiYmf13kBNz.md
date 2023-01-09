@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Feels like falling in love in the 50s
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,351 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,599 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,18 +28,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 18 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 |
 | 19 | [You're Nobody 'Til Somebody Loves You \- Remastered/1997](https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:13 |
 | 20 | [Lonesome Town](https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:14 |
-| 21 | [Ladyfingers](https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [Whipped Cream & Other Delights](https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP) | 2:44 |
+| 21 | [My Way \- 2008 Remastered](https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 4:36 |
 | 22 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 |
-| 23 | [My Way \- 2008 Remastered](https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 4:36 |
+| 23 | [Ladyfingers](https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [Whipped Cream & Other Delights](https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP) | 2:44 |
 | 24 | [La Vie en rose](https://open.spotify.com/track/3lAun9V0YdTlCSIEXPvfsY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 3:07 |
 | 25 | [Forever \- Single Version](https://open.spotify.com/track/5rWyKJMaTXL0TArnJ8IGts) | [The Little Dippers](https://open.spotify.com/artist/0cT2S58Ulp0BGro6KXAm56) | [Forever](https://open.spotify.com/album/7zV5IIfdqRHHRAUNkQ3aLX) | 2:23 |
 | 26 | [They Can't Take That Away From Me](https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:40 |
 | 27 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 |
-| 28 | [Call Me Irresponsible](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 |
-| 29 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 |
-| 30 | [You Go To My Head](https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 |
-| 31 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
-| 32 | [Love Is Here To Stay \- Remastered 1998](https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:42 |
+| 28 | [Love Is Here To Stay \- Remastered 1998](https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:42 |
+| 29 | [Call Me Irresponsible](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 |
+| 30 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 |
+| 31 | [You Go To My Head](https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 |
+| 32 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
 | 33 | [Danke Schoen](https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5) | [Wayne Newton](https://open.spotify.com/artist/5NX29TmuYrENlpvz6IgYMJ) | [Danke Schoen](https://open.spotify.com/album/3UGH64Cfac6rQQQvqiDZrT) | 2:35 |
 | 34 | [Nevertheless \(I'm In Love With You\) \- 1958 version](https://open.spotify.com/track/7s0ZliVrPsRNdDcTuTlBOJ) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [Great Hits](https://open.spotify.com/album/60kSCdFMEKAvxW982OgQpg) | 2:47 |
 | 35 | [Misty](https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 49 | [Time After Time](https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Great Ladies Of Song / Spotlight On Margaret Whiting](https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO) | 2:56 |
 | 50 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
 
-Snapshot ID: `MTY3MjI4OTExNiwwMDAwMDAwMDA0NDg3MjdlZWM5ZWMzNmJiZGIzN2QwY2UxMjAzNDgy`
+Snapshot ID: `MTY3MjI4OTExNiwwMDAwMDAwMGRkODhlYzY2ODBhMGU2MTE1ZmQzMjgzYzU1NDBlYmJk`

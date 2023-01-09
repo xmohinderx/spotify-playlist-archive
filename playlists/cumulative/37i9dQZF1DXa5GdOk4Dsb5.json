@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 284453,
       "name": "Mi Ex",
       "url": "https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy"
@@ -5254,6 +5254,24 @@
       "duration_ms": 201200,
       "name": "Una Llamada Perdida",
       "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
+    },
+    {
+      "album": {
+        "name": "Usted No Me Olvida",
+        "url": "https://open.spotify.com/album/5QKHBEpO54bTRj2PC8A0h6"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193137,
+      "name": "Usted No Me Olvida",
+      "url": "https://open.spotify.com/track/3GUqkrdLefqJmxVvN5Vgpv"
     },
     {
       "album": {

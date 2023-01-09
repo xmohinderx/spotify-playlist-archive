@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 
 > Country music to get you back to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,103,748 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,104,972 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 51 | [Bless The Broken Road](https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Feels Like Today](https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy) | 3:46 |
 | 52 | [One Of Them Girls](https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [One Of Them Girls](https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp) | 3:08 |
 | 53 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 |
-| 54 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 |
-| 55 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
+| 54 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
+| 55 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 |
 | 56 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
 | 57 | [Marry Me](https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:25 |
 | 58 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 65 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 |
 | 66 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 |
 | 67 | [Singles You Up](https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:02 |
-| 68 | [With You I Am](https://open.spotify.com/track/34SQ0QfLSR316d8KL2zkuZ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Gotta Be Me](https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD) | 3:40 |
-| 69 | [Small Town Boy](https://open.spotify.com/track/2YMhrXQYKkm4kXLcXKKd5z) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Current Mood](https://open.spotify.com/album/23cuZhPWDfX1uKD4qwuv7t) | 3:25 |
+| 68 | [Small Town Boy](https://open.spotify.com/track/2YMhrXQYKkm4kXLcXKKd5z) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Current Mood](https://open.spotify.com/album/23cuZhPWDfX1uKD4qwuv7t) | 3:25 |
+| 69 | [With You I Am](https://open.spotify.com/track/34SQ0QfLSR316d8KL2zkuZ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Gotta Be Me](https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD) | 3:40 |
 | 70 | [Save a Horse \(Ride a Cowboy\)](https://open.spotify.com/track/5s7m2xNZWgz5FqVSIvJcGA) | [Big & Rich](https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf) | [Horse of a Different Color](https://open.spotify.com/album/0mX8aXMM7nYOGUTGcTEeZH) | 3:20 |
 | 71 | [Hard To Love](https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:44 |
 | 72 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 79 | [Buy Me a Boat](https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Buy Me a Boat](https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0) | 2:59 |
 | 80 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
 
-Snapshot ID: `MTY1MjQxNDQwMCwwMDAwMDAwMDVjNzEyZWMxM2YyODJjMzA5OWRmYzAzM2EyZGJhNmUy`
+Snapshot ID: `MTY1MjQxNDQwMCwwMDAwMDAwMGE0ZjMzODRkMGE4MTY3MDBkYzQ0MzY0MGIwY2IyZmQ1`

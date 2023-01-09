@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,644 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,666 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 16 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 |
 | 17 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 18 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 |
-| 19 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
+| 19 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
 | 20 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
-| 21 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
+| 21 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
 | 22 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 |
 | 23 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 |
 | 24 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 31 | [Downtown](https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Downtown](https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt) | 3:13 |
 | 32 | [Count on Me](https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:17 |
 | 33 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 |
-| 34 | [Loser](https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:24 |
-| 35 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
+| 34 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
+| 35 | [Loser](https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:24 |
 | 36 | [GUY.exe](https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd) | [Future Friends](https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6) | 3:42 |
 | 37 | [If I Can't Have You](https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [If I Can't Have You](https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD) | 3:10 |
 | 38 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
 | 39 | [Skate](https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:23 |
 | 40 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
 | 41 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 |
-| 42 | [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 |
-| 43 | [Body Like A Back Road](https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 2:42 |
+| 42 | [Body Like A Back Road](https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 2:42 |
+| 43 | [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 |
 | 44 | [Beautiful Soul](https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S) | 3:34 |
 | 45 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 |
 | 46 | [BAILÉ CON MI EX](https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BAILÉ CON MI EX](https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 49 | [Mean It](https://open.spotify.com/track/6mXdCcFnPKQznj4CmMRmHC) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:52 |
 | 50 | [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 |
 
-Snapshot ID: `MTY3MjY0MTMyMCwwMDAwMDAwMGRhMmQ0MTZmODIyMTMzMjkzOGE2YjlhYzY1MWU5MWFm`
+Snapshot ID: `MTY3MzIyNjU2MywwMDAwMDAwMGYyNDJkNjgzZGUwMzhkOTdlMDcyMDJlNDMzYjhhMjVj`

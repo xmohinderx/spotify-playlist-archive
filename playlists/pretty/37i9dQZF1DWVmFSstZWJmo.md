@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Digital cameras, smudged eyeliner, house parties and electroclash.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,066 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,489 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

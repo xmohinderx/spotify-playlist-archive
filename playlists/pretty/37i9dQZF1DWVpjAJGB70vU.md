@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > Country that made country cool! Cover: Vince Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,432,853 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,433,792 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 62 | [You Win My Love](https://open.spotify.com/track/2lKA9bNdd4kAoeHiufa0aK) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:25 |
 | 63 | [That Ain't My Truck](https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR) | [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [A Thousand Memories](https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb) | 4:03 |
 | 64 | [No One Needs To Know](https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 3:03 |
-| 65 | [Hard Workin' Man](https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Hard Workin' Man](https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y) | 2:58 |
-| 66 | [Fast as You](https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [This Time](https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50) | 4:45 |
+| 65 | [Fast as You](https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [This Time](https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50) | 4:45 |
+| 66 | [Hard Workin' Man](https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Hard Workin' Man](https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y) | 2:58 |
 | 67 | [Tall, Tall Trees](https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [The Greatest Hits Collection](https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid) | 2:27 |
 | 68 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
 | 69 | [Pickup Man](https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Third Rock From The Sun](https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl) | 3:36 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 83 | [What's It to You](https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Clay Walker](https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt) | 2:46 |
 | 84 | [I'm in a Hurry \(And Don't Know Why\)](https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [American Pride](https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce) | 2:48 |
 | 85 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
-| 86 | [This Cowboy's Hat](https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo) | [Used To Want To Be A Cowboy](https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY) | 4:05 |
-| 87 | [Brand New Man](https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 2:58 |
+| 86 | [Brand New Man](https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 2:58 |
+| 87 | [This Cowboy's Hat](https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo) | [Used To Want To Be A Cowboy](https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY) | 4:05 |
 | 88 | [Take It Easy \- 2006 Remaster](https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Very Best of Travis Tritt](https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx) | 3:33 |
 | 89 | [I Told You So](https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:39 |
 | 90 | [Go Rest High On That Mountain](https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When Love Finds You](https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB) | 5:15 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 118 | [I Try to Think About Elvis](https://open.spotify.com/track/121ILFThNZH9Egncny7upu) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [When Fallen Angels Fly](https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9) | 2:49 |
 | 119 | [Then What?](https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Rumor Has It](https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt) | 3:03 |
 | 120 | [Ain't That Lonely Yet](https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [This Time](https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50) | 3:20 |
-| 121 | [Except for Monday](https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Something In Red](https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq) | 2:56 |
-| 122 | [Only Here For A Little While](https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Young Man](https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH) | 3:34 |
+| 121 | [Only Here For A Little While](https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Young Man](https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH) | 3:34 |
+| 122 | [Except for Monday](https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Something In Red](https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq) | 2:56 |
 | 123 | [Better Class of Losers](https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [High Lonesome](https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02) | 2:40 |
 | 124 | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7) | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz) | 2:35 |
 | 125 | [A Broken Wing](https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Evolution](https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP) | 3:35 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 145 | [I Left Something Turned On At Home](https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 3:08 |
 | 146 | [Bigger Than the Beatles](https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Life's So Funny](https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA) | 3:57 |
 | 147 | [What Part of No](https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Watch Me](https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87) | 2:44 |
-| 148 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 |
-| 149 | [How Your Love Makes Me Feel](https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Greatest Hits](https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX) | 4:05 |
+| 148 | [How Your Love Makes Me Feel](https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Greatest Hits](https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX) | 4:05 |
+| 149 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 |
 | 150 | [I Think About You](https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [I Think About You](https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu) | 3:26 |
 
-Snapshot ID: `MTY2MTk3MDg5MywwMDAwMDAwMDkxYTM3ZTVmN2FkYzdiOTI5YWQ3YTlkODg4YjEzMjAw`
+Snapshot ID: `MTY2MTk3MDg5MywwMDAwMDAwMDM5ZjdlYTdjNjQzMjkxOGQwNWUwOTc4NTk0MzFkODNm`

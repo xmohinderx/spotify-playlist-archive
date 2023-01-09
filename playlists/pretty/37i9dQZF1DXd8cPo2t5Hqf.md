@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,513 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,685 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 26 | [裏表ラバーズ \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:34 |
 | 27 | [からくりピエロ \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/0f6Z1Kbo3PzA1sTtoaBbqK) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:15 |
 | 28 | [Yumeyume](https://open.spotify.com/track/3pndrtylrcdsJkFhY5eqTX) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [DECO\*27 VOCALOID COLLECTION 2008\~2012](https://open.spotify.com/album/4iIqFpozjKLiWzHCtNsDY3) | 3:36 |
-| 29 | [Teo](https://open.spotify.com/track/0avbIGWVb4n7CcbomSEogt) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [The First Waltz](https://open.spotify.com/album/5pZ8vurC6h4uSCwkjCHnHz) | 3:30 |
-| 30 | [カンタレラ](https://open.spotify.com/track/5nvcwCiRhUMHPSSUZCUqbz) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [カンタレラ](https://open.spotify.com/album/3EqhWMBLgBl30dhOvLvn2K) | 2:59 |
+| 29 | [カンタレラ](https://open.spotify.com/track/5nvcwCiRhUMHPSSUZCUqbz) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [カンタレラ](https://open.spotify.com/album/3EqhWMBLgBl30dhOvLvn2K) | 2:59 |
+| 30 | [Teo](https://open.spotify.com/track/0avbIGWVb4n7CcbomSEogt) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [The First Waltz](https://open.spotify.com/album/5pZ8vurC6h4uSCwkjCHnHz) | 3:30 |
 | 31 | [どりーみんチュチュ](https://open.spotify.com/track/5so7F3hsNWmSpjyQ4dSr2W) | [Emon](https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j) | [どりーみんチュチュ](https://open.spotify.com/album/0gDKtnl12zIMnT40j7q4wF) | 4:22 |
 | 32 | [Negaposi\*Continues](https://open.spotify.com/track/3cSNJSsLzGC5J5xlpl96Hj) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [The Fantastic Diagram of Futuristic Playdreams](https://open.spotify.com/album/5LNJMGII3AZ67FeTJzZfQa) | 3:07 |
 | 33 | [愛の詩](https://open.spotify.com/track/3ceq5YHhGDru638Y3l1ZXB) | [LamazeP](https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e) | [I say love](https://open.spotify.com/album/42kGscuja5to2Ami9WcXY7) | 3:39 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 83 | [Last Night, Good Night](https://open.spotify.com/track/3rYSsIpkwI11kkBhAYvDSO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Package](https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu) | 6:20 |
 | 84 | [WORLD'S END UMBRELLA \- ORIGINAL](https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [花束と水葬](https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw) | 5:28 |
 | 85 | [Streaming Heart](https://open.spotify.com/track/28DyuhrsEP2mBlAVSTJPBg) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Conti New](https://open.spotify.com/album/2oSy4DbxYUqDp4sie8LvFw) | 2:58 |
-| 86 | [キャットフード \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2gNtSUrrJSgWgQUxsFKoxn) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 5:15 |
-| 87 | [1/6 \-out of the gravity\- \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/7aO5JsjJXsmVbmCqrrPZgS) | [vocaliodP\(noa\)](https://open.spotify.com/artist/7sSRpSgATx1LST4S5zy7Ca) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:20 |
+| 86 | [1/6 \-out of the gravity\- \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/7aO5JsjJXsmVbmCqrrPZgS) | [vocaliodP\(noa\)](https://open.spotify.com/artist/7sSRpSgATx1LST4S5zy7Ca) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:20 |
+| 87 | [キャットフード \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2gNtSUrrJSgWgQUxsFKoxn) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 5:15 |
 | 88 | [紅一葉](https://open.spotify.com/track/1rnEmMcOAdQckPj3mRDkmH) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [紅一葉](https://open.spotify.com/album/5iUqJLkuT2hV1xcWswJi7d) | 4:12 |
 | 89 | [moon](https://open.spotify.com/track/4EJhAyhkO1vToMNLM9RVIx) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [moon](https://open.spotify.com/album/5PDWbuNnJa04B3c9n9AwTd) | 5:35 |
 | 90 | [Ai Kotoba](https://open.spotify.com/track/5w8RYioPTG1IARJ35ka1MM) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Sou Ai Sei Ri Ron](https://open.spotify.com/album/3sWLH9nyphF2oJqTTeE6GT) | 4:24 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 94 | [Nice To Meet You, Mr\. Earthling](https://open.spotify.com/track/18WrQK5FPIQkOWc5fTtlG4) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [SHI\-BOU](https://open.spotify.com/album/5OU1Uy9GB4fnL6604OeV5b) | 3:58 |
 | 95 | [Change me](https://open.spotify.com/track/2ht6Zqpv2qshMK9xLdLU2J) | [shu\-t](https://open.spotify.com/artist/43Ry8UW7ASr2gHdD6hhTI4) | [in the BOX](https://open.spotify.com/album/2FoMuaPWntFNyIZl5XqJRW) | 4:50 |
 | 96 | [壊セ壊セ](https://open.spotify.com/track/06AJbMq7KMewWZmJuzuPgS) | [E.L.V.N](https://open.spotify.com/artist/219XzPMmtHGUDe8bJeWo6M) | [壊セ壊セ](https://open.spotify.com/album/1K6bz5XZya2k1t21LAUk5F) | 3:37 |
-| 97 | [アカツキアライヴァル](https://open.spotify.com/track/3BFnhJw3PvOhqMtRedHfL1) | [Last Note.](https://open.spotify.com/artist/2LMMds4dvScJB1JGwY42SJ) | [アカツキアライヴァル](https://open.spotify.com/album/5yQrGevT1pF8OXaw4br0dU) | 4:42 |
-| 98 | [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 |
+| 97 | [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 |
+| 98 | [アカツキアライヴァル](https://open.spotify.com/track/3BFnhJw3PvOhqMtRedHfL1) | [Last Note.](https://open.spotify.com/artist/2LMMds4dvScJB1JGwY42SJ) | [アカツキアライヴァル](https://open.spotify.com/album/5yQrGevT1pF8OXaw4br0dU) | 4:42 |
 | 99 | [E? Aa, Sou.](https://open.spotify.com/track/4laMKU1xcpbFdsX3LnA1Xb) | [Chouchou\-P](https://open.spotify.com/artist/13p1b6oCr8TusEButZxHZL) | [Exit Tunes Academy Best 3](https://open.spotify.com/album/67LlLI8CaW8avwTaoZDTHl) | 3:27 |
 | 100 | [MEGANE](https://open.spotify.com/track/5d1pbk01azByOstUjlVjxv) | [Ultra\-Noob](https://open.spotify.com/artist/53yMKP0uZAp87VXQqVP6jC) | [MEGANE](https://open.spotify.com/album/56dO5TuLKQlCzgp8vfLb16) | 5:08 |
 
-Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMDJjMTc0ODI0ZTAwYjcxNTIzZjFkM2Y4OGE0ODQ1N2Jk`
+Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMGQ5YzE1NWZlMjZmOTY0YTEwZGUxMmUzZjg1OTRlNjNl`

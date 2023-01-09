@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,622 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,686 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 13 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
 | 14 | [Mesquite Shade](https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 1:36 |
 | 15 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 |
-| 16 | [Better Day](https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Brownie McGhee and Sonny Terry Sing](https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv) | 3:04 |
-| 17 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 |
+| 16 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 |
+| 17 | [Better Day](https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Brownie McGhee and Sonny Terry Sing](https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv) | 3:04 |
 | 18 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 |
 | 19 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 |
 | 20 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 40 | [New Anthem](https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Mood](https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R) | 2:34 |
 | 41 | [Hemet Pine Singer](https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB) | [Will Stratton](https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR) | [Imaginational Anthem Vol\. 5](https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE) | 3:49 |
 | 42 | [Lonely Days](https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 2:32 |
-| 43 | [Natural West](https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5) | 5:03 |
-| 44 | [Alaska Blue](https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ) | [Barry Mcloughlin](https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d), [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ) | [Alaska Blue](https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq) | 2:53 |
+| 43 | [Alaska Blue](https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ) | [Barry Mcloughlin](https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d), [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ) | [Alaska Blue](https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq) | 2:53 |
+| 44 | [Natural West](https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5) | 5:03 |
 | 45 | [Focus \(Rosie's Theme\)](https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE) | [The Civil Wars & T Bone Burnett](https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME) | [A Place at the Table \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP) | 2:21 |
 | 46 | [Ghost Dance](https://open.spotify.com/track/6yWlIVjWD0BsSyYfI8nHML) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Time Flies](https://open.spotify.com/album/1Kdp3yonYFGMiBGyP7o6vG) | 3:33 |
 | 47 | [Sarah Anne](https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 49 | [Rondo in D \- On Southern Themes](https://open.spotify.com/track/1TIC8q2kyazBKXExaHySUr) | [Harry Taussig](https://open.spotify.com/artist/2vbPZ0xMZiXxUkR744bcoh) | [Fate Is Only Twice](https://open.spotify.com/album/6W8PmtEtz4GbBFBksE0xQC) | 4:47 |
 | 50 | [Trouble In Mind](https://open.spotify.com/track/0ESNFiz1ATKj4fQyqJHmhE) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Blowin' The Fuses](https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT) | 2:57 |
 
-Snapshot ID: `MTY3MzAyNTA3NywwMDAwMDAwMDdkMDFlYzI5ZWEzNzgwZDE3ZjE3NDU0Nzg1OTVlMzIy`
+Snapshot ID: `MTY3MzAyNTA3NywwMDAwMDAwMDkxYzcyYzBhYTliNDk3MWE4NzIxYTk4ZmM0ZmI2MTQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 
 > The perfect soundtrack recipe for a backyard barbecue!
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,180 likes - 120 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,424 likes - 120 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,16 +85,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 75 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 |
 | 76 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
 | 77 | [Write This Down](https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Always Never The Same](https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F) | 3:39 |
-| 78 | [Good Time](https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Good Time](https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh) | 5:06 |
-| 79 | [How Country Feels](https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:05 |
+| 78 | [How Country Feels](https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:05 |
+| 79 | [Good Time](https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Good Time](https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh) | 5:06 |
 | 80 | [The House That Built Me](https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:56 |
 | 81 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
 | 82 | [Unforgettable](https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 2:37 |
 | 83 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 |
-| 84 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 |
-| 85 | [No Hard Feelings](https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 3:11 |
-| 86 | [Family Tradition](https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Family Tradition](https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4) | 4:02 |
-| 87 | [Little Bitty](https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Everything I Love](https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW) | 2:38 |
+| 84 | [Little Bitty](https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Everything I Love](https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW) | 2:38 |
+| 85 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 |
+| 86 | [No Hard Feelings](https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 3:11 |
+| 87 | [Family Tradition](https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Family Tradition](https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4) | 4:02 |
 | 88 | [Beer Can’t Fix](https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:29 |
 | 89 | [Gunpowder & Lead](https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:11 |
 | 90 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 107 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 |
 | 108 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 |
 | 109 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
-| 110 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 |
-| 111 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
+| 110 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
+| 111 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 |
 | 112 | [When the Sun Goes Down](https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:50 |
 | 113 | [We Didn't Have Much](https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Straight Outta The Country](https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP) | 2:54 |
 | 114 | [Party Mode](https://open.spotify.com/track/31o5omf8dh0tNaSCdM6cu3) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 3:31 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 119 | [I'm Alright](https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:19 |
 | 120 | [Long Live](https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:33 |
 
-Snapshot ID: `MTY2MjE0NzMxNCwwMDAwMDAwMDI3ZDIxZWRmYzc5NGZjOWNlYjI2NDVjNDFkZWQ5ZGJk`
+Snapshot ID: `MTY2MjE0NzMxNCwwMDAwMDAwMDgyY2U0ZWU0ZmYxZDQ3YzhmMmZlYzcxMTY5ZWE5MmMy`

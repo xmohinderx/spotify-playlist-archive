@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Chief Keef",
-  "num_followers": 123290,
+  "num_followers": 123513,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGU4MmU1N2Q4MDg2NTczMjM2ZmQyNjEyODBjYTI0NGFi",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDQyZjQ3ZWM5N2ZkY2IyOTY1M2Y5ZTkwYWUxNTRjYjYw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -271,22 +271,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+        "name": "Jungle Rules",
+        "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         },
         {
           "name": "Swae Lee",
           "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 157560,
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
+      "duration_ms": 233901,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -307,22 +307,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Jungle Rules",
-        "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
       "artists": [
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         },
         {
           "name": "Swae Lee",
           "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 233901,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
+      "duration_ms": 157560,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 128156,
+      "name": "My Shit",
+      "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 180434,
       "name": "Ballin' (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Artist",
-        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 128156,
-      "name": "My Shit",
-      "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Broccoli",
-        "url": "https://open.spotify.com/album/4mchkmnzdTYIEAnw2FijA3"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 225205,
-      "name": "Broccoli",
-      "url": "https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "My Krazy Life",
         "url": "https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 235632,
       "name": "My Nigga",
       "url": "https://open.spotify.com/track/19OHDib8Jrqi3o2nm5lzdA"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Broccoli",
+        "url": "https://open.spotify.com/album/4mchkmnzdTYIEAnw2FijA3"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 225205,
+      "name": "Broccoli",
+      "url": "https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71"
     },
     {
       "added_at": "2022-12-16 05:00:00",

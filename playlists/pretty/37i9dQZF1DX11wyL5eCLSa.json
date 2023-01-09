@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Astronom\u00eda Interior en portada.",
-  "num_followers": 138338,
+  "num_followers": 138373,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA1NDk1NSwwMDAwMDAwMDkwMDZhNzBmYzg5Yzc3NzZhOWNmZDRjMzg4MDZlZDRk",
+  "snapshot_id": "MTY3MzA1NDk1NSwwMDAwMDAwMGYxZmZmNWUwMjc1MGJmZjhhYjUxNzI5N2Q4YzI3YWRj",
   "tracks": [
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1093,24 +1093,20 @@
       "url": "https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
+      "added_at": "2022-08-13 00:31:24",
       "album": {
-        "name": "Un Impulso",
-        "url": "https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib"
+        "name": "Amygdalae / IQ Test",
+        "url": "https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf"
       },
       "artists": [
         {
-          "name": "iiis",
-          "url": "https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D"
-        },
-        {
-          "name": "Florencia Quinteros",
-          "url": "https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW"
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
         }
       ],
-      "duration_ms": 233387,
-      "name": "Un Impulso",
-      "url": "https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw"
+      "duration_ms": 140117,
+      "name": "Amygdalae",
+      "url": "https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -1129,20 +1125,24 @@
       "url": "https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3"
     },
     {
-      "added_at": "2022-08-13 00:31:24",
+      "added_at": "2022-12-16 06:00:00",
       "album": {
-        "name": "Amygdalae / IQ Test",
-        "url": "https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf"
+        "name": "Un Impulso",
+        "url": "https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib"
       },
       "artists": [
         {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+          "name": "iiis",
+          "url": "https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D"
+        },
+        {
+          "name": "Florencia Quinteros",
+          "url": "https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW"
         }
       ],
-      "duration_ms": 140117,
-      "name": "Amygdalae",
-      "url": "https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz"
+      "duration_ms": 233387,
+      "name": "Un Impulso",
+      "url": "https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw"
     },
     {
       "added_at": "2022-07-22 17:47:39",

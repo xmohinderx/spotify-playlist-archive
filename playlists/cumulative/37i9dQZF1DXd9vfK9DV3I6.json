@@ -4358,28 +4358,6 @@
     {
       "album": {
         "name": "Riviera",
-        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
-      },
-      "artists": [
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "IV-IN",
-          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
-        }
-      ],
-      "date_added": "2022-06-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262641,
-      "name": "Vestido Preto",
-      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
-    },
-    {
-      "album": {
-        "name": "Riviera",
         "url": "https://open.spotify.com/album/1jl0dMITPG9dJx4KBsMbD9"
       },
       "artists": [
@@ -4394,6 +4372,28 @@
       "duration_ms": 262641,
       "name": "Vestido Preto",
       "url": "https://open.spotify.com/track/6xbeN3grl6kAKBSvgIOxOT"
+    },
+    {
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
+      },
+      "artists": [
+        {
+          "name": "IV-IN",
+          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262641,
+      "name": "Vestido Preto",
+      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
     },
     {
       "album": {

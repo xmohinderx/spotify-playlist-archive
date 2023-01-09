@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Lebih dari sekedar kopi, ini kumpulan lagu akustik dalam negeri favoritmu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,233 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,444 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 45 | [Sesuatu Di Jogja](https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [8 Tahun](https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28) | 4:47 |
 | 46 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 |
 | 47 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
-| 48 | [Pegang Tanganku](https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Perspektif Bodoh, Vol\. 2](https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1) | 5:08 |
+| 48 | [Mine](https://open.spotify.com/track/6NkUP6IeLnH6Yaw2wcNHzO) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW), [Ben Sihombing](https://open.spotify.com/artist/0B8iRRv1YpDoxhcn2lMFs1) | [Mine](https://open.spotify.com/album/4BrYZTc42JRwe1QuHIPapy) | 3:49 |
 | 49 | [Aku Tenang](https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Lelaku](https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1) | 3:49 |
-| 50 | [Mine](https://open.spotify.com/track/6NkUP6IeLnH6Yaw2wcNHzO) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW), [Ben Sihombing](https://open.spotify.com/artist/0B8iRRv1YpDoxhcn2lMFs1) | [Mine](https://open.spotify.com/album/4BrYZTc42JRwe1QuHIPapy) | 3:49 |
+| 50 | [Pegang Tanganku](https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Perspektif Bodoh, Vol\. 2](https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1) | 5:08 |
 | 51 | [Tolong](https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tolong](https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47) | 4:10 |
 | 52 | [Rasa Cinta Ini](https://open.spotify.com/track/14MjoIPXq5fzD842t0JoW7) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Rasa Cinta Ini](https://open.spotify.com/album/61WF65JIOXqQiYelyDttH6) | 4:01 |
 | 53 | [Rumpang](https://open.spotify.com/track/2TRGNVokPnC2a2oHg5iv1H) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rumpang](https://open.spotify.com/album/3StxBwbZwtipjzs3ZfldlJ) | 5:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 74 | [Kau Cantik Hari Ini](https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr) | [Lobow](https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib) | [Terus Bersinar](https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG) | 4:44 |
 | 75 | [Kusut](https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:20 |
 
-Snapshot ID: `MTY3MjkwNzM3MSwwMDAwMDAwMGM5ZjVmM2U1NDFlYWNkY2VhY2RlZTZhODVhMWE2MzMw`
+Snapshot ID: `MTY3MjkwNzM3MSwwMDAwMDAwMDgzZjk2NWQwYWZkZmM2MzhjZjg2MmQ0YjUyYWNmZTcz`

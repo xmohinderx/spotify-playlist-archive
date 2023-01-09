@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 38671,
+  "num_followers": 38674,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDU3ZjE5OWU2ZDRhMjdmMzg4MDFlMzI1MDVjOTU2YzNm",
+  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDUyYTU5MDI5MjA2YzJjNGUwMzM3NTk5Mzc2OTRhYWQ0",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -467,50 +467,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Tekkers Riddim",
-        "url": "https://open.spotify.com/album/3BtA05Srx1Fz46MVvcHI1X"
-      },
-      "artists": [
-        {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
-        },
-        {
-          "name": "Harry Shotta",
-          "url": "https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Tekkers Riddim (feat. Harry Shotta & Mr Traumatik)",
-      "url": "https://open.spotify.com/track/0qmQbxSIt10XDEw90Bqvhx"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        }
-      ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Spartanz (Bou Remix)",
         "url": "https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI"
       },
@@ -535,6 +491,50 @@
       "duration_ms": 222068,
       "name": "Spartanz - Bou Remix",
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Tekkers Riddim",
+        "url": "https://open.spotify.com/album/3BtA05Srx1Fz46MVvcHI1X"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        },
+        {
+          "name": "Harry Shotta",
+          "url": "https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Tekkers Riddim (feat. Harry Shotta & Mr Traumatik)",
+      "url": "https://open.spotify.com/track/0qmQbxSIt10XDEw90Bqvhx"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -679,38 +679,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Skillz",
-        "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
-      },
-      "artists": [
-        {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Nu Elementz",
-          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
-        },
-        {
-          "name": "MC Spyda",
-          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
-        }
-      ],
-      "duration_ms": 204621,
-      "name": "Skillz",
-      "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Transcend",
         "url": "https://open.spotify.com/album/5EE5Ix18HkEAFFD5ZHJtxz"
       },
@@ -743,6 +711,54 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Ultralight",
+        "url": "https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Ultralight",
+      "url": "https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Skillz",
+        "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Nu Elementz",
+          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 204621,
+      "name": "Skillz",
+      "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 237284,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Ultralight",
-        "url": "https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Ultralight",
-      "url": "https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -811,26 +811,34 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Do It Like Me",
-        "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
       },
       "artists": [
         {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "Complex",
-          "url": "https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
         }
       ],
-      "duration_ms": 204364,
-      "name": "Do It Like Me",
-      "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Kickons",
+        "url": "https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Kickons",
+      "url": "https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -883,38 +891,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Kickons",
-        "url": "https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 235862,
-      "name": "Kickons",
-      "url": "https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "VOID LP",
         "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 327945,
       "name": "Void",
       "url": "https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Do It Like Me",
+        "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Complex",
+          "url": "https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 204364,
+      "name": "Do It Like Me",
+      "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "VOID LP",
+        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "3 Dots",
         "url": "https://open.spotify.com/album/787GjxTZlFUiU6d0CzSPQt"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 224921,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2Qg7JVKS3s3XZN3E5td1C2"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "VOID LP",
-        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
     },
     {
       "added_at": "2022-08-12 16:34:51",

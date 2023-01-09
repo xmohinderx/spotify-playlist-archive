@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,746 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,964 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 24 | [Lungs \- Live](https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter, Houston, Texas](https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC) | 2:34 |
 | 25 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 |
 | 26 | [Bad Things](https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA) | 5:13 |
-| 27 | [Bilgewater](https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:46 |
-| 28 | [Heart Of My Own](https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH) | 3:49 |
+| 27 | [Heart Of My Own](https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH) | 3:49 |
+| 28 | [Bilgewater](https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:46 |
 | 29 | [Bad Things](https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Jace Everett](https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE) | 2:44 |
 | 30 | [Death Don't Have No Mercy](https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc) | [Delaney Davidson](https://open.spotify.com/artist/5gKjq94Zz8p953ddbd9bRP), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Sad But True](https://open.spotify.com/album/2Io6ybkhshdFUJhBgWQETk) | 2:08 |
 | 31 | [Barton Hollow](https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:25 |
@@ -77,13 +77,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 67 | [Down by the River](https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn) | [The Dirty River Boys](https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b) | [The Dirty River Boys](https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5) | 3:34 |
 | 68 | [Wrecks](https://open.spotify.com/track/6xuHJHoXYVjDUTCP63PEtF) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [More Primitive](https://open.spotify.com/album/46Txpy91R2fAPBLTEVpz82) | 4:45 |
 | 69 | [Thin Line](https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [Billy Jack](https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf) | 4:45 |
-| 70 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
-| 71 | [Nothing But The Water \(I\)](https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [Nothing But The Water](https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD) | 2:44 |
+| 70 | [Nothing But The Water \(I\)](https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [Nothing But The Water](https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD) | 2:44 |
+| 71 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
 | 72 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 |
 | 73 | [The Beast](https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [The Dark](https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v) | 3:00 |
 | 74 | [Fire in the Empire](https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Empire](https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d) | 3:37 |
-| 75 | [Chairkickers](https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:18 |
-| 76 | [Hell's Bells](https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5) | [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [Lions And Lambs](https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ) | 3:36 |
+| 75 | [Hell's Bells](https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5) | [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [Lions And Lambs](https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ) | 3:36 |
+| 76 | [Chairkickers](https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:18 |
 | 77 | [Long Time Travelin'](https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ) | 1:28 |
 | 78 | [Devils](https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [War Brides](https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb) | 2:24 |
 | 79 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 87 | [Crabapples](https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [A Mountain Is a Mouth](https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH) | 2:36 |
 | 88 | [My Church Is Black](https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ) | [Me And That Man](https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a) | [My Church Is Black](https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG) | 2:58 |
 | 89 | [The Devil Had A Hold Of Me](https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Hell Among The Yearlings](https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM) | 4:30 |
-| 90 | [I Am The Man Thomas](https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [I Am The Man Thomas](https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8) | 2:39 |
-| 91 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
+| 90 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
+| 91 | [I Am The Man Thomas](https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [I Am The Man Thomas](https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8) | 2:39 |
 | 92 | [Highway 9](https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z) | [Barnaby Bright](https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50) | [The Longest Day](https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81) | 4:30 |
 | 93 | [All The World Is Green \- Live](https://open.spotify.com/track/3vjbT3AQnw4iKXAs2Nb6Xn) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Blood Money \(Anniversary Edition\)](https://open.spotify.com/album/34jdCKLIC2rmMyACRTKZNG) | 4:52 |
-| 94 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 |
-| 95 | [Lay This Body Down](https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7) | [Lay This Body Down](https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1) | 4:47 |
+| 94 | [Lay This Body Down](https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7) | [Lay This Body Down](https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1) | 4:47 |
+| 95 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 |
 | 96 | [No Way Out but Down \(Alternate Version\)](https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9) | [Graham Lindsey](https://open.spotify.com/artist/1hFvZy3pBf5pOSmJULL4sG) | [Digging Up Birds: A Collection of Rarities & Others](https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD) | 3:08 |
 | 97 | [Ribbon](https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Ribbon](https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl) | 3:36 |
 | 98 | [Stolen Roses](https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR) | [Karen Elson](https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k) | [The Ghost Who Walks](https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1) | 3:07 |
 | 99 | [Bless Your Soul](https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bless Your Soul](https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB) | 3:32 |
 | 100 | [Sister Death](https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH) | [Look Homeward](https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH) | [Look Homeward](https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt) | 2:53 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDlkZjA5ZGZhMjE2YTZmMWZiYTU4MDNmMDUwM2RmMDUw`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDM5ZWRhYjUzN2RhMjRlODNlMmNiMjI0NzNjZmFkM2Nm`

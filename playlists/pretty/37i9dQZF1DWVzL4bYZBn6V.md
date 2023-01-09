@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,859 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,968 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 4 | [Goodbye](https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Goodbye](https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs) | 2:24 |
 | 5 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 |
 | 6 | [I Will Find](https://open.spotify.com/track/2bbfiUnH4CATlekDS1dxNr) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [I Will Find](https://open.spotify.com/album/1Lb2OTMflllFCVVSBH9G9O) | 3:44 |
-| 7 | [Nave Espacial \- Radio Edit](https://open.spotify.com/track/709F4UQ2uKplKvcD88xffa) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Nave Espacial](https://open.spotify.com/album/0BfPu5BTYxU4b81nh5TFLL) | 3:05 |
-| 8 | [Dreams \(feat\. Lanie Gardner\)](https://open.spotify.com/track/5ovAmYzYLeEmOX6P3bmlzV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(feat\. Lanie Gardner\)](https://open.spotify.com/album/4gj29oc0vz1qPuosvrkt8B) | 3:24 |
+| 7 | [Dreams \(feat\. Lanie Gardner\)](https://open.spotify.com/track/5ovAmYzYLeEmOX6P3bmlzV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(feat\. Lanie Gardner\)](https://open.spotify.com/album/4gj29oc0vz1qPuosvrkt8B) | 3:24 |
+| 8 | [Nave Espacial \- Radio Edit](https://open.spotify.com/track/709F4UQ2uKplKvcD88xffa) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Nave Espacial](https://open.spotify.com/album/0BfPu5BTYxU4b81nh5TFLL) | 3:05 |
 | 9 | [We Got That Cool \(feat\. Afrojack & Icona Pop\)](https://open.spotify.com/track/2cFK03sObtI6AK3QKeOT5g) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [We Got That Cool \(feat\. Afrojack & Icona Pop\)](https://open.spotify.com/album/1WowOfXnw3DlwgjyzlAU4Q) | 3:33 |
 | 10 | [Creep](https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79) | 2:41 |
 | 11 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 49 | [Anywhere](https://open.spotify.com/track/4LixDfUyJFL3OFyZqruBto) | [Cytrax](https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U), [Sebastian Mateo](https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus) | [Anywhere](https://open.spotify.com/album/6oMuOHFOSbSashSF1L4qgB) | 2:22 |
 | 50 | [Vampiro \(Pyura Remix\)](https://open.spotify.com/track/4XGyifnRty1FI3qQe8bhet) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Vampiro \(Pyura Remix\)](https://open.spotify.com/album/2IcmfBYtzX45pZmlo8yV0q) | 3:40 |
 
-Snapshot ID: `MTYxOTIxOTY3MywwMDAwMDAwMGJkZjQ1NzAyMTZlMmE3M2QyYjJjNjdhYmNmNmY5MWE3`
+Snapshot ID: `MTYxOTIxOTY3MywwMDAwMDAwMDRjYmNmYThiMGVlODUwNWYyYmQyZWFiMDI2MGMwYjM1`

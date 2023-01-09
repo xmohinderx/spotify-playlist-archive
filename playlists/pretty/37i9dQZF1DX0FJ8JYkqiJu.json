@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 361927,
+  "num_followers": 362006,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEwOTIwMSwwMDAwMDAwMDUxZTJkNDQ3ZDQyYzZiZDA2MTQ4MjgwYjg0MjdiMTZi",
+  "snapshot_id": "MTY3MTEwOTIwMSwwMDAwMDAwMDY3MWQ3NTBkNGU3OWZlYjQ2ZTQ2MmZhNGUwMDdhZmIy",
   "tracks": [
     {
       "added_at": "2022-12-15 13:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
         "name": "Chills / Cycles",
         "url": "https://open.spotify.com/album/3dCtNJ4gxGwvNoDmCd7XuQ"
       },
@@ -903,6 +919,22 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
+        "name": "Wake Up Call",
+        "url": "https://open.spotify.com/album/7xpPwin0MrpjMm1N2PeJKV"
+      },
+      "artists": [
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Wake Up Call",
+      "url": "https://open.spotify.com/track/2k85lEep46LiLCK95PFOts"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
         "name": "Amman",
         "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
       },
@@ -915,22 +947,6 @@
       "duration_ms": 208290,
       "name": "Amman",
       "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -951,22 +967,6 @@
       "duration_ms": 244878,
       "name": "Fade Into Black",
       "url": "https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
-        "name": "Wake Up Call",
-        "url": "https://open.spotify.com/album/7xpPwin0MrpjMm1N2PeJKV"
-      },
-      "artists": [
-        {
-          "name": "Mel Blue",
-          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Wake Up Call",
-      "url": "https://open.spotify.com/track/2k85lEep46LiLCK95PFOts"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 371087,
-      "name": "Stay Awhile",
-      "url": "https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "Ask",
         "url": "https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 254608,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/1nqu8ryQ6ma9vYFz64u68T"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 371087,
+      "name": "Stay Awhile",
+      "url": "https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml"
     },
     {
       "added_at": "2022-12-15 13:00:00",

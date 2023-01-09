@@ -1,12 +1,12 @@
 {
   "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 7672585,
+  "num_followers": 7675529,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMDU2ZDRlZmIzNjY1ZjliOGRiZTg1NTQ1NmY0NmIxN2Ni",
+  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMGU2Njk5OGE3MjU1ZDYzNTEwZWRhZThmYjk0MjNlM2U3",
   "tracks": [
     {
       "added_at": "2023-01-05 23:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 162797,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Hide & Seek",
-        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 208350,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Before You",
         "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 187940,
       "name": "Before You",
       "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 208350,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "This Love (Taylor\u2019s Version)",
         "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 156091,
       "name": "Moon",
       "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/1kP6tt24YPAb6MqTCzR2GG"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/7cbe94yjeFCvXZ0T7avjJS"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "go",
         "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 205280,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/1kP6tt24YPAb6MqTCzR2GG"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/7cbe94yjeFCvXZ0T7avjJS"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "WYD Now?",
-        "url": "https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "WYD Now?",
-      "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 210906,
       "name": "Livin It Up (with Post Malone & A$AP Rocky)",
       "url": "https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "WYD Now?",
+        "url": "https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "WYD Now?",
+      "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "How Could You",
-        "url": "https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "How Could You",
-      "url": "https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "How Could You",
+        "url": "https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "How Could You",
+      "url": "https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 146266,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "The Best Is Yet to Come",
         "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 166874,
       "name": "The Best Is Yet to Come",
       "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 146266,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Always Been You",
-        "url": "https://open.spotify.com/album/1VhOdgOjIARBn6SoNyeQDa"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 131824,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "chaotic",
         "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 178720,
       "name": "chaotic",
       "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/1VhOdgOjIARBn6SoNyeQDa"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 131824,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -2203,6 +2203,26 @@
       "duration_ms": 177152,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Trampoline (with ZAYN)",
+        "url": "https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB"
+      },
+      "artists": [
+        {
+          "name": "SHAED",
+          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "Trampoline (with ZAYN)",
+      "url": "https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -2243,26 +2263,6 @@
       "duration_ms": 206080,
       "name": "Eleven (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Trampoline (with ZAYN)",
-        "url": "https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB"
-      },
-      "artists": [
-        {
-          "name": "SHAED",
-          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
-        },
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Trampoline (with ZAYN)",
-      "url": "https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k"
     }
   ],
   "unique_name": "Chill Hits",

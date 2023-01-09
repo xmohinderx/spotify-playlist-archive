@@ -1,12 +1,12 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 576421,
+  "num_followers": 576508,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NjkzMywwMDAwMDAwMDQxODU1N2Y1ZDk0YTRkNDU4YmNiZDlkNWE2OTAzODBk",
+  "snapshot_id": "MTY3MTc2NjkzMywwMDAwMDAwMGVkN2MwNjBhNWZkN2VmYzY0YTk1ZjE3Yjk4YjAyYzA5",
   "tracks": [
     {
       "added_at": "2022-12-20 21:43:19",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-12-20 21:43:19",
       "album": {
-        "name": "Super Freaky Girl",
-        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
-    },
-    {
-      "added_at": "2022-12-20 21:43:19",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 215280,
       "name": "Circles",
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
+    },
+    {
+      "added_at": "2022-12-20 21:43:19",
+      "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
     },
     {
       "added_at": "2022-12-20 21:43:19",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-12-20 21:43:19",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
-    },
-    {
-      "added_at": "2022-12-20 21:43:19",
-      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2022-12-20 21:43:19",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 164952,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+      "duration_ms": 181026,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
     },
     {
       "added_at": "2022-12-20 21:43:19",
@@ -527,6 +511,22 @@
       "duration_ms": 187436,
       "name": "Sweet but Psycho",
       "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
+    },
+    {
+      "added_at": "2022-12-20 21:43:19",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 164952,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
     },
     {
       "added_at": "2022-12-20 21:43:19",
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
     },
     {
-      "added_at": "2023-01-08 01:28:00",
+      "added_at": "2023-01-09 01:02:00",
       "album": {
         "name": "MAMA.CITA (hasta la vista)",
         "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-12-20 21:43:19",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 201882,
-      "name": "pov",
-      "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
-    },
-    {
-      "added_at": "2022-12-20 21:43:19",
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
+    },
+    {
+      "added_at": "2022-12-20 21:43:19",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 201882,
+      "name": "pov",
+      "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
     },
     {
       "added_at": "2022-12-20 21:43:19",
@@ -1001,7 +1001,7 @@
         }
       ],
       "duration_ms": 173640,
-      "name": "A-O-K",
+      "name": "AOK",
       "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {

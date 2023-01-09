@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.",
-  "num_followers": 47516,
+  "num_followers": 47580,
   "original_name": "La Serenata",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjg3MjA3NSwwMDAwMDAwMDkwOGYzMzE5N2EwZDU0M2ViZWMyYWNhMzI4YmZkNzRm",
+  "snapshot_id": "MTY3Mjg3MjA3NSwwMDAwMDAwMDMyOGQ5YTNmZGE5NzgxZGMyYWM3ZGZmZmY4NTRiYTgw",
   "tracks": [
     {
       "added_at": "2023-01-04 22:41:14",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-01-04 22:41:14",
       "album": {
-        "name": "Sue\u00f1o Guajiro",
-        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
-      },
-      "artists": [
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Sue\u00f1o Guajiro",
-      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
-    },
-    {
-      "added_at": "2023-01-04 22:41:14",
-      "album": {
         "name": "Situaciones",
         "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
       },
@@ -443,34 +427,18 @@
     {
       "added_at": "2023-01-04 22:41:14",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
+        "name": "Sue\u00f1o Guajiro",
+        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
         }
       ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
-        "name": "Pegadito Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
+      "duration_ms": 183800,
+      "name": "Sue\u00f1o Guajiro",
+      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
     },
     {
       "added_at": "2023-01-04 22:41:14",
@@ -491,6 +459,38 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
+    },
+    {
+      "added_at": "2023-01-04 22:41:14",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Besos Y Copas",
-      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 150866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/47haQcqBOue2RAsVXER52f"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
     },
     {
       "added_at": "2021-12-29 23:46:57",

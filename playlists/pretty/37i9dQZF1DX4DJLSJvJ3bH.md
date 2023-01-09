@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,134 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,029 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 72 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 |
 | 73 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI) | 3:20 |
 | 74 | [The Twelve Days of Christmas](https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 4:00 |
-| 75 | [It Came Upon A Midnight Clear](https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:52 |
+| 75 | [A Child Is Born](https://open.spotify.com/track/3xp3vHkZmXXjuPN5TIZw9c) | [Sonny Magic Trio](https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3) | [A Child Is Born](https://open.spotify.com/album/1uTcIqbf4J8KDPYEl4AYXW) | 3:19 |
 | 76 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
-| 77 | [A Child Is Born](https://open.spotify.com/track/3xp3vHkZmXXjuPN5TIZw9c) | [Sonny Magic Trio](https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3) | [A Child Is Born](https://open.spotify.com/album/1uTcIqbf4J8KDPYEl4AYXW) | 3:19 |
+| 77 | [It Came Upon A Midnight Clear](https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:52 |
 | 78 | [When You Wish Upon a Star](https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [When You Wish Upon a Star](https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI) | 2:47 |
 | 79 | [Busy Santa](https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Busy Santa](https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD) | 3:20 |
 | 80 | [That Holiday Feeling](https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [The Merriest](https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 99 | [Christmas Bells](https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:43 |
 | 100 | [Silent Night](https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:24 |
 
-Snapshot ID: `MTY3MjczMjI0NiwwMDAwMDAwMDNkZDU2NjljZTdmN2YyMjM4ZjM5NTc3NTQ0OTcxNThj`
+Snapshot ID: `MTY3MjczMjI0NiwwMDAwMDAwMDQ3YzY3Yjk3MzM4ZTYwZTY3YTQwYTkwZjkxYjg2NDU0`

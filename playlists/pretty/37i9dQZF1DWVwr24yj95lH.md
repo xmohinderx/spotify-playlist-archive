@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Puddle of Mudd
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,726 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,057 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 90 | [Die Born](https://open.spotify.com/track/5yA7AoyGWSUoxALn0RxCfb) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New \(Red Album\)](https://open.spotify.com/album/36anDuZI1duEjJ1rXmKeHP) | 3:56 |
 | 91 | [So Far so Good](https://open.spotify.com/track/2RDfjb9H56uk2NPgzcgMyn) | [Thornley](https://open.spotify.com/artist/2GuMOJNCLkYdDGfgbJMP3v) | [Come Again](https://open.spotify.com/album/3rwSoS50vbg8oiz5YxbW09) | 3:21 |
 | 92 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
-| 93 | [Bulletproof Skin](https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/5oKTgRe1bSLIkZ39pwHqrj) | 4:25 |
-| 94 | [Just Go](https://open.spotify.com/track/45chhYFgWlUNobpEMq7PxP) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:50 |
+| 93 | [Just Go](https://open.spotify.com/track/45chhYFgWlUNobpEMq7PxP) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:50 |
+| 94 | [Bulletproof Skin](https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/5oKTgRe1bSLIkZ39pwHqrj) | 4:25 |
 | 95 | [No One](https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [13 Ways To Bleed Onstage](https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn) | 3:17 |
 | 96 | [Not An Addict](https://open.spotify.com/track/38TozZBUSqO5HA4ya6OxZr) | [K's Choice](https://open.spotify.com/artist/1lO13Grp3I1AsIbcACRWvv) | [10: 1993\-2003 \- Ten Years of K's Choice](https://open.spotify.com/album/7u5VdkpJuSXEWxNq4PdXJ2) | 4:48 |
 | 97 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 99 | [Stoned, Alone](https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:09 |
 | 100 | [Don't Wake Me](https://open.spotify.com/track/13heJXQpJsfROWJpNR22e0) | [Aranda](https://open.spotify.com/artist/6l0DPGloCYFvs6dM7Y8Wmw) | [Not The Same](https://open.spotify.com/album/5IUoKMmB607UsJmfzKhAhh) | 3:27 |
 
-Snapshot ID: `MTY3MjgyMjYzNSwwMDAwMDAwMDRhZmU0NDQ2YWQwOGQ2ZTBhZjgwODE5YzAyMTg2NWY3`
+Snapshot ID: `MTY3MjgyMjYzNSwwMDAwMDAwMDg0Njk4ZTQ3OTk5ZDRjZmQ3MDQxNzJjYWZmMTViNDdl`

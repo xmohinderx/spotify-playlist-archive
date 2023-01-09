@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-129 songs - 10 hr 20 min
+130 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [High And Dry](https://open.spotify.com/track/32MYjAA4HpI6il0dZ7pe8e) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv) | 4:54 | 2022-09-13 |  |
 | [High And Dry \- Live On The South Bank Show / 2014](https://open.spotify.com/track/0IOb6D22mnQIxsGo0db6lI) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 5:34 | 2022-09-13 |  |
 | [House of the Rising Sun](https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [House of the Rising Sun](https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof) | 3:45 | 2022-09-13 |  |
+| [How Deep Is Your Love](https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [How Deep Is Your Love](https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2) | 3:20 | 2022-12-29 |  |
 | [Human Nature \(Trio Extension\)](https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL) | [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Stephan Crump](https://open.spotify.com/artist/4nJDD9jIfsXuY93Kvx7bgT), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo) | [Accelerando](https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF) | 9:39 | 2022-09-13 | 2022-11-13 |
 | [I Got You \- I Feel Good](https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Joshua Redman](https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1) | 4:39 | 2022-09-13 |  |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Shine](https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac) | 4:52 | 2022-10-05 | 2022-10-09 |
@@ -75,7 +76,7 @@
 | [Imagine](https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [My Working Class Hero](https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf) | 4:42 | 2022-10-05 |  |
 | [Imagine](https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reimagined](https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq) | 3:35 | 2022-09-13 |  |
 | [Immigrant Song](https://open.spotify.com/track/6dx1sQaWu3Yul87HfddFeA) | [Obed Calvaire](https://open.spotify.com/artist/6LbNXRQZMLpMJ4E1S1d1Dm), [Bob Franceshini](https://open.spotify.com/artist/0gj84Qpcn2TU0vS4C1dqs9), [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J) | [Whole Lotta Love: The Music of Led Zeppelin](https://open.spotify.com/album/1v691IFSm1faUW5cTIhVfu) | 6:51 | 2022-10-11 | 2022-10-27 |
-| [In My Life](https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [What's It All About?](https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh) | 4:22 | 2022-09-27 |  |
+| [In My Life](https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [What's It All About?](https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh) | 4:22 | 2022-09-27 | 2023-01-09 |
 | [It's Alright Ma \(I'm Only Bleeding\)](https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu) | [Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat](https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP) | [Ships With Tattooed Sails](https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9) | 6:30 | 2022-10-11 | 2022-10-27 |
 | [Julia](https://open.spotify.com/track/1RTmc5oW1VmWUaUh80IZzo) | [The David Liebman Trio](https://open.spotify.com/artist/7ntUblw92fCVpMIjkM1TXh), [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn), [John Ruocco](https://open.spotify.com/artist/6tyFjAhvbV2tt8urz1THok), [Eric Ineke](https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx), [Marius Beets](https://open.spotify.com/artist/5OdTxtGUOXe9h3UhPti9pK) | [Lieb Plays the Beatles](https://open.spotify.com/album/2jSCnq7vrAR0DO3qLdKjEr) | 4:21 | 2022-10-11 | 2022-10-27 |
 | [Jump](https://open.spotify.com/track/6YdHo9aVSZ0bnkm9gMKDYz) | [Cassandra Beck](https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2) | [The Sexy EP](https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ) | 3:29 | 2022-09-13 |  |

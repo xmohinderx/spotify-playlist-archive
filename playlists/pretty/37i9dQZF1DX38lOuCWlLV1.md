@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 
 > Eclectic indie love songs from throughout the years\. Delicate lyrics that say it best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,521 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,715 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 44 | [Lovesong \- 2010 Remaster](https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 3:29 |
 | 45 | [Re: Stacks](https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 6:41 |
 | 46 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 |
-| 47 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
-| 48 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
+| 47 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
+| 48 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
 | 49 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 |
 | 50 | [Cosmic Love](https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:15 |
 | 51 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 61 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 |
 | 62 | [A Real Hero](https://open.spotify.com/track/6ei4QrpcciclGH593uHKo8) | [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b), [College](https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6) | [Innerworld \(Deluxe Edition\)](https://open.spotify.com/album/3xlj8UnItzJxDjn3kWezIK) | 4:27 |
 | 63 | [Daydreaming](https://open.spotify.com/track/1Rd5OVjqDAr5xC96MHt448) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 6:24 |
-| 64 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 |
-| 65 | [Orange Sky](https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 6:19 |
-| 66 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 |
+| 64 | [Orange Sky](https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 6:19 |
+| 65 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 |
+| 66 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 |
 | 67 | [Julia \(deep diving\)](https://open.spotify.com/track/4obJRBmV1AnO09jj03zIqk) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:34 |
 | 68 | [Sweet Tides](https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL) | 4:48 |
 | 69 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 |
-| 70 | [Oh My Love \- Remastered 2010](https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 2:48 |
-| 71 | [Kingdom Leader](https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Kingdom Leader – Single](https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX) | 3:34 |
-| 72 | [Transatlanticism](https://open.spotify.com/track/0DoACS30GwIY6qaFjCMMUz) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 7:55 |
-| 73 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 |
+| 70 | [Kingdom Leader](https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Kingdom Leader – Single](https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX) | 3:34 |
+| 71 | [Oh My Love \- Remastered 2010](https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 2:48 |
+| 72 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 |
+| 73 | [Transatlanticism](https://open.spotify.com/track/0DoACS30GwIY6qaFjCMMUz) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 7:55 |
 | 74 | [Such Great Heights](https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Around the Well](https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7) | 4:11 |
 | 75 | [Tobacco Sunburst](https://open.spotify.com/track/4pJEkzhZY84h8kmPkUhfwC) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 4:56 |
 
-Snapshot ID: `MTY2NTU5NzQ2OSwwMDAwMDAwMDFkZGNhYTVmNDczMjJmMzFlZDQ4YzFjZDVjZTY1MThm`
+Snapshot ID: `MTY2NTU5NzQ2OSwwMDAwMDAwMDQwZTM0NDkyNzZlYjIxNjE5MzY2MmEwMDJmNThjYjMx`

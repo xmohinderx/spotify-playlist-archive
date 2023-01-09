@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,892 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,001 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,19 +64,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 54 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 |
 | 55 | [friends](https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [friends](https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8) | 3:49 |
 | 56 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 |
-| 57 | [Christmas Is All Yours](https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Christmas Is All Yours](https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7) | 3:28 |
+| 57 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 |
 | 58 | [赤と青](https://open.spotify.com/track/6AsQ1wqbmYSRmc3S9mxbaj) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [赤と青](https://open.spotify.com/album/46J15A4lTJm1BtYxgA9ZoQ) | 3:13 |
-| 59 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 |
+| 59 | [Christmas Is All Yours](https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Christmas Is All Yours](https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7) | 3:28 |
 | 60 | [One Way My Love \- Neon Mix](https://open.spotify.com/track/6CLeUulXsPa2AyaiVKN9OY) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [One Way My Love \(Neon Mix\)](https://open.spotify.com/album/0N8WnVOavGjgjqNKpVmiop) | 3:18 |
 | 61 | [CHILLIN \(feat\. Daichi Yamamoto\)](https://open.spotify.com/track/41tQErMclr6VBRAIsjAuhj) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [CROWS](https://open.spotify.com/album/2D8HpOl0a3Bs2A1iAG0Zyd) | 2:50 |
-| 62 | [เปล่าเลย \- なんにも](https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN), [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Kaoru Hashimoto](https://open.spotify.com/artist/62B3QsAlRGtUsbV8gFuVPe) | [เปล่าเลย \(なんにも\)](https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9) | 2:36 |
+| 62 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
 | 63 | [Treasure](https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [SEASONS](https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao) | 4:01 |
-| 64 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
-| 65 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
+| 64 | [เปล่าเลย \- なんにも](https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN), [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Kaoru Hashimoto](https://open.spotify.com/artist/62B3QsAlRGtUsbV8gFuVPe) | [เปล่าเลย \(なんにも\)](https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9) | 2:36 |
+| 65 | [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 |
 | 66 | [WARUNORI](https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WARUNORI](https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz) | 4:19 |
-| 67 | [Let Me Feel It](https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 4:05 |
-| 68 | [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 |
-| 69 | [No Pressure](https://open.spotify.com/track/620i08CTZIo1K9ycN144lg) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [No Pressure](https://open.spotify.com/album/57ZF8cCdV6bjk1Eu9Po6oa) | 3:36 |
+| 67 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
+| 68 | [No Pressure](https://open.spotify.com/track/620i08CTZIo1K9ycN144lg) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [No Pressure](https://open.spotify.com/album/57ZF8cCdV6bjk1Eu9Po6oa) | 3:36 |
+| 69 | [Let Me Feel It](https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 4:05 |
 | 70 | [Sweet Sticky Thing\(feat\. mabanua, さらさ\)](https://open.spotify.com/track/1zyxIRfVUbmGO7wqDBstJE) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [さらさ](https://open.spotify.com/artist/2OuCDqVux2R8vD7z6sE7Tm) | [Sweet Sticky Thing\(feat\. mabanua, さらさ\)](https://open.spotify.com/album/30Yo1lmnPPt7egHTk6kIqR) | 4:20 |
 
-Snapshot ID: `MTY3MjkzMDgwMCwwMDAwMDAwMDljZmUxMTRjMTU4ODcwODM2ZGExYTYzZmRjZGQ2Nzcx`
+Snapshot ID: `MTY3MjkzMDgwMCwwMDAwMDAwMDBmNjIyZGU0ODU5ZWJjNzNlNDU4NzAwMDkyODc5NjIx`

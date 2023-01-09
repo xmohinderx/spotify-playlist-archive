@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,039 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,076 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 17 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
 | 18 | [I'm On Fire](https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm on Fire](https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI) | 2:38 |
 | 19 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
-| 20 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 |
-| 21 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
+| 20 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
+| 21 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 |
 | 22 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
 | 23 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 |
 | 24 | [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 39 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 |
 | 40 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 |
 | 41 | [God's Plan](https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [God's Plan](https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5) | 2:46 |
-| 42 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 |
-| 43 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Thank You For Being Here](https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq) | 2:05 |
+| 42 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Thank You For Being Here](https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq) | 2:05 |
+| 43 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 |
 | 44 | [Build Me Up Buttercup](https://open.spotify.com/track/5bt5mhA34P1Dncbik5EGeJ) | [Lara Anderson](https://open.spotify.com/artist/0ijXDXPqvo3fzBrGpVjpV4) | [Build Me Up Buttercup](https://open.spotify.com/album/75pu09lJh763j3ymMi9Fn5) | 2:55 |
 | 45 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 |
 | 46 | [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 59 | [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 |
 | 60 | [More Than This](https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Music From The Pen Gala 1983](https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg) | 3:31 |
 | 61 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 |
-| 62 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 |
-| 63 | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK) | 4:27 |
+| 62 | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK) | 4:27 |
+| 63 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 |
 | 64 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
 | 65 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
 | 66 | [Sweater Weather \(Acoustic\)](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Sweater Weather \(Acoustic\)](https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 74 | [Can't Take My Eyes Off You](https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq) | [Private Island](https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho) | [Can't Take My Eyes Off You / 3BadSoSad \- Edit](https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP) | 3:29 |
 | 75 | [Because The Night](https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw), [Nikki Flores](https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB) | [Horror Show](https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq) | 3:36 |
 
-Snapshot ID: `MTY3MTIyNzgyMSwwMDAwMDAwMGM4YzMzZDFmOTIxYjIwZWM0YWU2ZjViMWFiN2Q5M2I1`
+Snapshot ID: `MTY3MTIyNzgyMSwwMDAwMDAwMDg3ODkyYmUxNWU5NGEwOTAwNWI4YmMwYTBhNmNlMmY0`

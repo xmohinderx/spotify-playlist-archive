@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 
 > ¡De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,516 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,580 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 22 | [Mujeres Divinas](https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 3:13 |
 | 23 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 |
 | 24 | [Sabes Una Cosa](https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:20 |
-| 25 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 |
-| 26 | [De Uno y De Todos Los Modos \- Version Bolero](https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Situaciones](https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM) | 3:53 |
-| 27 | [Enloquecido](https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 3:32 |
+| 25 | [De Uno y De Todos Los Modos \- Version Bolero](https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Situaciones](https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM) | 3:53 |
+| 26 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 |
+| 27 | [Me Hace Tanto Bien](https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:51 |
 | 28 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Pegadito Al Corazón](https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7) | 2:56 |
-| 29 | [Me Hace Tanto Bien](https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:51 |
+| 29 | [Enloquecido](https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 3:32 |
 | 30 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
 | 31 | [Corazón Mágico](https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 3:13 |
 | 32 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 65 | [Si Nos Dejan](https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:24 |
 | 66 | [Tres Regalos](https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:55 |
 | 67 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 |
-| 68 | [Besos Y Copas](https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 2:58 |
-| 69 | [Historia de un Amor](https://open.spotify.com/track/47haQcqBOue2RAsVXER52f) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:30 |
+| 68 | [Historia de un Amor](https://open.spotify.com/track/47haQcqBOue2RAsVXER52f) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:30 |
+| 69 | [Besos Y Copas](https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 2:58 |
 | 70 | [Flor sin retoño](https://open.spotify.com/track/14B84dgQLpq7av8d62UdY9) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:08 |
 | 71 | [El Reloj](https://open.spotify.com/track/27u17peWruKyUe7RfBglZC) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:02 |
 | 72 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 74 | [Me Gustas Mucho](https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:04 |
 | 75 | [Sin Ti \- Remasterizado](https://open.spotify.com/track/5g494R0JcpjBuRkP9L1vrh) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:43 |
 
-Snapshot ID: `MTY3Mjg3MjA3NSwwMDAwMDAwMDkwOGYzMzE5N2EwZDU0M2ViZWMyYWNhMzI4YmZkNzRm`
+Snapshot ID: `MTY3Mjg3MjA3NSwwMDAwMDAwMDMyOGQ5YTNmZGE5NzgxZGMyYWM3ZGZmZmY4NTRiYTgw`

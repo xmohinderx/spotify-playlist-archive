@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,948 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,172 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 92 | [Party Like You](https://open.spotify.com/track/30tNJbzSwy4FGyOJu4cD86) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Bury Me In My Boots \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3UpMLqTSQhzYPunjM1oFYW) | 3:07 |
 | 93 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 |
 | 94 | [Dark Thoughts Ride](https://open.spotify.com/track/3lJgfrGHujVhRmU28KwQNa) | [Kevin Costner & Modern West](https://open.spotify.com/artist/3UKhW4CbRv9wZvfT5oodNH) | [Tales from Yellowstone](https://open.spotify.com/album/5vnnXCMIdQFJ2818PxJAt5) | 1:47 |
-| 95 | [Mamma Song](https://open.spotify.com/track/5EUXRdukDwEkNays7HQ3AB) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/5wSwd9cxD1Ii8yvgxUnyr3) | 4:19 |
+| 95 | [Mamma Song](https://open.spotify.com/track/0FHr4lDNfkrOd0oOAiJS1H) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW) | 4:19 |
 | 96 | [Cigarette](https://open.spotify.com/track/1MC0zx1YAB2OZrqaA9eRZ9) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Cigarette](https://open.spotify.com/album/0IpzRCBFjho1olTGa7haHu) | 3:34 |
 | 97 | [Good Corn Liquor](https://open.spotify.com/track/35tzV4obq7W6oOWjpDmbAG) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Reckless](https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z) | 3:39 |
 | 98 | [Caroline](https://open.spotify.com/track/7rwKNqgVO0OfdOLNSKfYR4) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx), [Belle Plaine](https://open.spotify.com/artist/5bCjjNx0wXytkKko9jlaLl) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 2:53 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 196 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 197 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MTY3Mjc5NDAwMCwwMDAwMDAwMDc3ODFjYWNlN2I2ZDM3MGIzYzA2OTUxZmQzNDgwMDBj`
+Snapshot ID: `MTY3Mjc5NDAwMCwwMDAwMDAwMDU4Mzg2NmFkOTc4OThhYjRhNDIzYzliMzgxMzA1MDAx`

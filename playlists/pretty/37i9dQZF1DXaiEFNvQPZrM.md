@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,539 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,993 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 55 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 |
 | 56 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |
 | 57 | [If I Could Make a Living](https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [If I Could Make a Living](https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF) | 2:13 |
-| 58 | [That Ain't My Truck](https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR) | [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [A Thousand Memories](https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb) | 4:03 |
-| 59 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
-| 60 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 |
+| 58 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 |
+| 59 | [That Ain't My Truck](https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR) | [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [A Thousand Memories](https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb) | 4:03 |
+| 60 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 61 | [Thinkin Bout Cheatin](https://open.spotify.com/track/35GoYj5urnSOCabDAKphBF) | [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Thinkin Bout Cheatin](https://open.spotify.com/album/4DQoCcBOoRZBsY2LsQJ0Wc) | 3:42 |
 | 62 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 |
 | 63 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 65 | [Don't Close Your Eyes](https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Don't Close Your Eyes](https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ) | 4:12 |
 | 66 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
 | 67 | [Country Again](https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:41 |
-| 68 | [On the Other Hand](https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 3:06 |
-| 69 | [Maybe It Was Memphis](https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Put Yourself In My Place](https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz) | 3:59 |
-| 70 | [Outskirts of Heaven](https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP) | 4:04 |
-| 71 | [One More Last Chance](https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:11 |
+| 68 | [Maybe It Was Memphis](https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Put Yourself In My Place](https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz) | 3:59 |
+| 69 | [On the Other Hand](https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 3:06 |
+| 70 | [One More Last Chance](https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:11 |
+| 71 | [Outskirts of Heaven](https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP) | 4:04 |
 | 72 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
 | 73 | [Queen Of My Double Wide Trailer](https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Haunted Heart](https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ) | 3:31 |
 | 74 | [Gone Country](https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 4:19 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 95 | [I May Hate Myself In The Morning](https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There's More Where That Came From](https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs) | 4:32 |
 | 96 | [Stealing Cinderella](https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Starting Now](https://open.spotify.com/album/3WyCVkjnQvHnS29LogStFV) | 4:02 |
 | 97 | [Hot Beer](https://open.spotify.com/track/5CawRA9RzdlvF8ladonjsl) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A](https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3) | 3:10 |
-| 98 | [Just Might Have Her Radio On](https://open.spotify.com/track/0vnCEYbnzh4g8peFJ6ZqKm) | [Trent Tomlinson](https://open.spotify.com/artist/1Zn69emN3uZsF6YwCrkgYp) | [Country Is My Rock](https://open.spotify.com/album/1dMtfygDergsiS0sep6KDL) | 3:38 |
+| 98 | [Little Miss Saturday Night](https://open.spotify.com/track/5MF7WqDx40eGewUkrPiigs) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Little Miss Saturday Night](https://open.spotify.com/album/2vJcuEOjHFf1aKFMvhDj6j) | 3:20 |
 | 99 | [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 |
-| 100 | [Little Miss Saturday Night](https://open.spotify.com/track/5MF7WqDx40eGewUkrPiigs) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Little Miss Saturday Night](https://open.spotify.com/album/2vJcuEOjHFf1aKFMvhDj6j) | 3:20 |
+| 100 | [Just Might Have Her Radio On](https://open.spotify.com/track/0vnCEYbnzh4g8peFJ6ZqKm) | [Trent Tomlinson](https://open.spotify.com/artist/1Zn69emN3uZsF6YwCrkgYp) | [Country Is My Rock](https://open.spotify.com/album/1dMtfygDergsiS0sep6KDL) | 3:38 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGE3NDk0ZjYyYWI4ZTU5Y2Q4OTRmNTI3YzFjZDZmNTM4`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGQ2NWYxM2Q3MzA0NzFhYjM5NDYzMTk3MjIyZmJmODVk`

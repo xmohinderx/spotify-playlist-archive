@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,602,677 likes - 85 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,602,947 likes - 85 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 23 | [You Make It Easy](https://open.spotify.com/track/6EGAfJaLUFzhS4zRBIEQ2J) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rearview Town](https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A) | 3:16 |
 | 24 | [Take My Name](https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 2:37 |
 | 25 | [What Ifs \(feat\. Lauren Alaina\)](https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:08 |
-| 26 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 |
+| 26 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
 | 27 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
-| 28 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
+| 28 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 |
 | 29 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 |
 | 30 | [Found It In You](https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It In You](https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI) | 3:03 |
 | 31 | [Millionaire](https://open.spotify.com/track/68JS5SFTnW5Yv9Vzw81Jf0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:30 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 56 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
 | 57 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 |
 | 58 | [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 |
-| 59 | [Then](https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 5:21 |
-| 60 | [No One Needs To Know](https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 3:03 |
+| 59 | [No One Needs To Know](https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 3:03 |
+| 60 | [Then](https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 5:21 |
 | 61 | [It's Your Love](https://open.spotify.com/track/503sFkc8Y2eyGnM6cu8kHm) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:47 |
 | 62 | [Before I Knew It](https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Twang](https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S) | 3:21 |
 | 63 | [Us](https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Us](https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb) | 3:03 |
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 68 | [Ocean](https://open.spotify.com/track/5G6Nf4Ytk3dzxnhfP2AhKR) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:30 |
 | 69 | [The Difference](https://open.spotify.com/track/1zQjzfgYp0ZDSsU1dxi5g8) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Two Thousand Miles](https://open.spotify.com/album/1k2268Pzqb4R3WTlLd6qDP) | 3:06 |
 | 70 | [Make Me Want To](https://open.spotify.com/track/0AYbVoeF03NYhM0fvKjAuU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 2:52 |
-| 71 | [Rich Man](https://open.spotify.com/track/3dHBL4qSyeTWWTde3blYOR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Rich Man](https://open.spotify.com/album/4NovVYzgePFkjllyvhoMfs) | 3:30 |
-| 72 | [Hell Of A View](https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View](https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW) | 2:55 |
+| 71 | [Hell Of A View](https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View](https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW) | 2:55 |
+| 72 | [Rich Man](https://open.spotify.com/track/3dHBL4qSyeTWWTde3blYOR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Rich Man](https://open.spotify.com/album/4NovVYzgePFkjllyvhoMfs) | 3:30 |
 | 73 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
-| 74 | [Parallel Line](https://open.spotify.com/track/567gPvGfxxKoZxDKqM9tEl) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 4:13 |
-| 75 | [Blessed](https://open.spotify.com/track/3hhSnbFhuGnXieFa1ql61R) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:34 |
+| 74 | [Blessed](https://open.spotify.com/track/3hhSnbFhuGnXieFa1ql61R) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:34 |
+| 75 | [Parallel Line](https://open.spotify.com/track/567gPvGfxxKoZxDKqM9tEl) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 4:13 |
 | 76 | [The Rest of Our Life](https://open.spotify.com/track/19P6cJstaoQJHtHW3HOGcg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Rest of Our Life](https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx) | 3:45 |
-| 77 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 |
-| 78 | [Born to Love You](https://open.spotify.com/track/77a5Eu7lC3tG0Sukt2O91U) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Hallelujah Nights](https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90) | 3:50 |
+| 77 | [Born to Love You](https://open.spotify.com/track/77a5Eu7lC3tG0Sukt2O91U) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Hallelujah Nights](https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90) | 3:50 |
+| 78 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 |
 | 79 | [Ran into You](https://open.spotify.com/track/33V8ZNvopdCm8BsEKzGXgM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ran into You](https://open.spotify.com/album/1oSlbBYaKeG0H5VPGTzICl) | 3:33 |
 | 80 | [Always Gonna Love You](https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:57 |
 | 81 | [Take Me Away](https://open.spotify.com/track/5UaJtNAZJcN9pWpIuVMnN2) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 3:44 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 84 | [Next To You, Next To Me](https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:25 |
 | 85 | [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDU1MGMxZjcxM2RiYzA2YzUzYzlhNmI2MGM2ZGE0ZmQ4`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDgzYThjYTBkOTNiNTI1ODU3NWM1ZmZkODY1ZmZkZmYw`

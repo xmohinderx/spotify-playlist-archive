@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,172 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,503 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 43 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
 | 44 | [Pounds & Dollars](https://open.spotify.com/track/43o9i6vgfaTD5LDKlcIpav) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 3:24 |
 | 45 | [We Outside](https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [We Outside](https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe) | 2:35 |
-| 46 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
-| 47 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 |
+| 46 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 |
+| 47 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
 | 48 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 |
 | 49 | [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 |
 | 50 | [Summer YoMuthi](https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summer Yomuthi](https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW) | 4:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 59 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 |
 | 60 | [Friday Night](https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Friday Night](https://open.spotify.com/album/1ZWld3Y1lv9rvkEivSpXMO) | 2:51 |
 
-Snapshot ID: `MTY3MTM1NzM0MCwwMDAwMDAwMDk3ZWI3NjUwNzUyNDFkMTk3Y2NhNjE3NGE4MzllMzY0`
+Snapshot ID: `MTY3MTM1NzM0MCwwMDAwMDAwMGQ2Zjg5NTczNDFmM2UyMDM3YjAzNWE0NjJmZjg0YzVh`

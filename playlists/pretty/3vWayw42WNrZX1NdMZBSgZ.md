@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Joel DELEÓN
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,637 likes - 383 songs - 20 hr 55 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,633 likes - 383 songs - 20 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 23 | [Abril](https://open.spotify.com/track/50o1XBmCMpoasw39taO8V1) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [4+1](https://open.spotify.com/album/2DvddMCiT9dskF1esH7vut) | 3:37 |
 | 24 | [Delincuente](https://open.spotify.com/track/16xxTZHVPcKi9R3hwY6k0y) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Delincuente](https://open.spotify.com/album/10Abca73iOgyBWR0EsZoDU) | 2:52 |
 | 25 | [Miami](https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 2:54 |
-| 26 | [911](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 |
+| 26 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 |
 | 27 | [Ch y la Pizza](https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ch y la Pizza](https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa) | 2:16 |
 | 28 | [Cargando Piedras](https://open.spotify.com/track/2UjPnCrGVhtnLGVfZ27jgc) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Cargando Piedras](https://open.spotify.com/album/2Z7e1CJ88hnq2tu47vK207) | 2:55 |
 | 29 | [Corazón Sin Cara \- 2.0](https://open.spotify.com/track/2KYJkrhsEOmyUgeFPCHvkD) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Corazón Sin Cara \(2.0\)](https://open.spotify.com/album/5HDywuzxDTbHC3FyKsv4bK) | 3:30 |

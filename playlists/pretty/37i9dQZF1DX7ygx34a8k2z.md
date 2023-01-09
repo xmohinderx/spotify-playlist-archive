@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,426 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,670 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 69 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 |
 | 70 | [Brick](https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 4:31 |
 | 71 | [Seether](https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:16 |
-| 72 | [Race for the Prize \- 2017 Remaster](https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [The Soft Bulletin](https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC) | 4:18 |
-| 73 | [Get It Together](https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 4:05 |
-| 74 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 |
-| 75 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
-| 76 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
-| 77 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 |
-| 78 | [Lump](https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:14 |
+| 72 | [Lump](https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:14 |
+| 73 | [Race for the Prize \- 2017 Remaster](https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [The Soft Bulletin](https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC) | 4:18 |
+| 74 | [Get It Together](https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 4:05 |
+| 75 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 |
+| 76 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
+| 77 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
+| 78 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 |
 | 79 | [You Can Have It All](https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:36 |
 | 80 | [Heroin Girl](https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 2:23 |
 | 81 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 85 | [A.M\. 180](https://open.spotify.com/track/60SskFg8mhPrzBLLZJ1BK7) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Under the Western Freeway](https://open.spotify.com/album/32xzfjENpVMzOCMAiiY1YA) | 3:20 |
 | 86 | [Jumping Fences](https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [Dusk at Cubist Castle](https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh) | 1:52 |
 | 87 | [Piano Fire](https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 2:43 |
-| 88 | [Random Rules](https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [American Water](https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc) | 3:58 |
-| 89 | [French Disko](https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY) | 3:35 |
+| 88 | [French Disko](https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY) | 3:35 |
+| 89 | [Random Rules](https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [American Water](https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc) | 3:58 |
 | 90 | [Son Of A Gun](https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8) | [The Vaselines](https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW) | [Enter The Vaselines \(Deluxe Edition\)](https://open.spotify.com/album/630p98oUEIBRflGJRRInCt) | 3:45 |
 | 91 | [Boxcar](https://open.spotify.com/track/43Jwg6NHpaYYJmGlPEdHol) | [Jawbreaker](https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV) | [24 Hour Revenge Therapy \(Remastered\)](https://open.spotify.com/album/3n1jTsW0E5gEsiftAFx3N6) | 1:55 |
 | 92 | [That's When I Reach For My Revolver](https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI) | [Mission Of Burma](https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6) | [Signals, Calls and Marches](https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo) | 3:53 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 95 | [Galileo](https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Rites Of Passage \(Expanded Edition\)](https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po) | 4:12 |
 | 96 | [Plainclothes Man](https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c) | [Heatmiser](https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo) | [Mic City Sons](https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL) | 3:28 |
 | 97 | [Strange](https://open.spotify.com/track/2TTAPkrGQQOZkaUTUlt21Q) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 3:19 |
-| 98 | [Breadcrumb Trail](https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 5:55 |
-| 99 | [Cure for Pain](https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:14 |
+| 98 | [Cure for Pain](https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:14 |
+| 99 | [Breadcrumb Trail](https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 5:55 |
 | 100 | [Shady Lane](https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners](https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h) | 3:50 |
 
-Snapshot ID: `MTY2NTAwMjI0MSwwMDAwMDAwMGQ5MzBhN2MwN2I1OTUxZmY1MTM3NTQ1OWIyOGU5Mjhl`
+Snapshot ID: `MTY2NTAwMjI0MSwwMDAwMDAwMDY3MjEzY2Y0Y2QzMmFmMzhlMDM4YjlhYjYxOWU5YWU3`

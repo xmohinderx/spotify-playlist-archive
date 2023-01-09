@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtmGxs4S4N7.md) - [plain]
 
 > Shout ¡Viva México! with these classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,070 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,441 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtmGxs4S4N7.md) - [plain]
 | 40 | [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 |
 | 41 | [El Mariachi Loco](https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [La Más Completa Colección](https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7) | 2:57 |
 | 42 | [Se Me Olvidó](https://open.spotify.com/track/5Xitt5a5uLQ1QtYdFxmi9e) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Se Me Olvidó](https://open.spotify.com/album/09WScwK7HlzuM0dXAdXaMy) | 2:39 |
-| 43 | [Bomboro Quiñá Quiñá \(with Rubén Albarrán\) \- En Vivo](https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 2:44 |
+| 43 | [Bomboro Quiñá Quiñá \(with Rubén Albarrán\)](https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 2:44 |
 | 44 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
 | 45 | [La Pistola y el Corazon](https://open.spotify.com/track/0113SDiIkRuKckSPmHuTvx) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Mexico and Mariachis](https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9) | 3:29 |
 | 46 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |

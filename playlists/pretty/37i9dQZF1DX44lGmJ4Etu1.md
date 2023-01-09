@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44lGmJ4Etu1.md) - [plain]
 
 > The Latin Pop hits of yesterday and today all in one place!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,591 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,638 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,14 +81,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44lGmJ4Etu1.md) - [plain]
 | 71 | [Para Siempre](https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:21 |
 | 72 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tattoo \(Remix with Camilo\)](https://open.spotify.com/album/3Na85E6foBKxAeoAojX427) | 3:42 |
 | 73 | [Mi primer millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
-| 74 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:21 |
-| 75 | [Destino](https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:00 |
+| 74 | [Destino](https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:00 |
+| 75 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:21 |
 | 76 | [Que Lo Nuestro Se Quede Nuestro](https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:42 |
 | 77 | [Tú No Eres Para Mi](https://open.spotify.com/track/3df4fSoW5zsdNi5Wf3K5RP) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Dos](https://open.spotify.com/album/1PKBHS23j0Hujx8C2sCbqo) | 3:25 |
 | 78 | [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 |
 | 79 | [La Boca](https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:26 |
-| 80 | [Un Siglo Sin Ti](https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:41 |
-| 81 | [Nada Fue Un Error](https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Coti](https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf) | 3:28 |
+| 80 | [Nada Fue Un Error](https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Coti](https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf) | 3:28 |
+| 81 | [Un Siglo Sin Ti](https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:41 |
 | 82 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
 | 83 | [Color Esperanza](https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 4:27 |
 | 84 | [Aunque no te pueda ver](https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:26 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44lGmJ4Etu1.md) - [plain]
 | 89 | [Desde Esa Noche \(feat\. Maluma\)](https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Latina](https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox) | 3:47 |
 | 90 | [Tan Enamorados](https://open.spotify.com/track/1yc7ERfIzFxPP1E0OFRvp0) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 2:56 |
 | 91 | [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/20NeR3CwuyGfRktTncKRU7) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [La cuarta hoja](https://open.spotify.com/album/2Iqhzdnwa1SlsTtqfQXWfn) | 3:53 |
-| 92 | [Otra Noche en L.A.](https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Otra Noche en L.A.](https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U) | 3:31 |
-| 93 | [La Cintura](https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Mar De Colores \(Versión Extendida\)](https://open.spotify.com/album/66IXFg1AukADK41CP0xANr) | 3:24 |
+| 92 | [La Cintura](https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Mar De Colores \(Versión Extendida\)](https://open.spotify.com/album/66IXFg1AukADK41CP0xANr) | 3:24 |
+| 93 | [Otra Noche en L.A.](https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Otra Noche en L.A.](https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U) | 3:31 |
 | 94 | [Me Voy Enamorando \- Remix](https://open.spotify.com/track/0SUukeNYkHMk8bxwgGQKJa) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arbise González](https://open.spotify.com/artist/15siq5yPjIUocpME8lz02m) | [Radio Universo](https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1) | 3:35 |
 | 95 | [Melancólicos Anónimos](https://open.spotify.com/track/1s4jVre4ZgBm3sVJP1NTrl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:19 |
 | 96 | [¿Qué Ha Pasao'?](https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sigo a Lo Mío](https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44lGmJ4Etu1.md) - [plain]
 | 99 | [A Quien Le Importa](https://open.spotify.com/track/0R5da1qbsZ8juxK3Dm8XCw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 3:45 |
 | 100 | [Arroyito](https://open.spotify.com/track/5gRcvozPg8roCPDrd1VBQS) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Gratitud](https://open.spotify.com/album/7enkpVoHsPr8ry7GSoZHi9) | 3:58 |
 
-Snapshot ID: `MTY3MjQyODQ0NSwwMDAwMDAwMGIxOGE3MDQ1ZjcyOTkwMThkYzhlMmU0OTBmNjdmOTc4`
+Snapshot ID: `MTY3MjQyODQ0NSwwMDAwMDAwMGMzYThhOTg1NzUzMTg4NmEyMzNiMGVjNjkzZDdiYTNk`

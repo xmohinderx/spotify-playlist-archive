@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,400 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,442 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 42 | [The Furthest Thing](https://open.spotify.com/track/6onpcMnD3eVbTq1B5th05E) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:54 |
 | 43 | [Dear Hate \(feat\. Vince Gill\)](https://open.spotify.com/track/7zOoHxDt1duHL8czY7o7ab) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Dear Hate \(feat\. Vince Gill\)](https://open.spotify.com/album/26mCA3BoItiaZyhxmmvPRl) | 3:40 |
 
-Snapshot ID: `Mjc4ODUwNDcsMDAwMDAwMDA2YmNkZTJkNGI3MjYwN2NiMTliOTkyNzc1NzgzYzQ5Nw==`
+Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA4YWY0ZTk2Mjg1OWFmYjUxNDQzYTU0ODE5ZmI0YzQxNQ==`

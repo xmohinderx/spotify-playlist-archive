@@ -1405,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Dragonflame",
+        "url": "https://open.spotify.com/album/5yV6JmK0w8b7BMt29lJ42k"
+      },
+      "artists": [
+        {
+          "name": "Kirara Magic",
+          "url": "https://open.spotify.com/artist/7IPe93LySFSStLX4J5j5Lr"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Dragonflame",
+      "url": "https://open.spotify.com/track/5YT0Pjym5S1kgZoUdOMZU3"
+    },
+    {
+      "album": {
         "name": "DREADED NOTE",
         "url": "https://open.spotify.com/album/3yhKVJspZP2p9T76PPQxTp"
       },
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 206250,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/3pUwFUuGgxrUwUaLFDlA8B"

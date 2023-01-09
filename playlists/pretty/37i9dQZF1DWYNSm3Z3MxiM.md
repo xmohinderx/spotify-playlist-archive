@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 
 > Anthems only\. For an extra rep, an extra set or an extra mile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,326 likes - 65 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,637 likes - 65 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 | 52 | [Slow Ride](https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Slow Ride / Save Your Loving \(For Me\)](https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq) | 3:52 |
 | 53 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
 | 54 | [Kashmir \- Remaster](https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 8:37 |
-| 55 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 |
-| 56 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
+| 55 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
+| 56 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 |
 | 57 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 |
 | 58 | [Renegade](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Pieces Of Eight](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) | 4:17 |
 | 59 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 | 64 | [Brown Sugar \- 2009 Remaster](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
 | 65 | [Gimme Three Steps](https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 4:27 |
 
-Snapshot ID: `MTY2MjU2MzQxMCwwMDAwMDAwMDU4NWQ0OTczNTE1YTYxZDU3ZTUyNmM1ZGRiNDgxMDUx`
+Snapshot ID: `MTY2MjU2MzQxMCwwMDAwMDAwMDlkNGVlZDczZGZhY2RmMjhiZDE1NmI0NjM3NGIwNDdk`

@@ -2,7 +2,7 @@
 
 ### [Mall Anthems](https://open.spotify.com/playlist/37i9dQZF1DX5QvuBqAhuBS)
 
-> The soundtrack to traipsing round the shops
+> The soundtrack to mall walking..\. once upon a time.
 
 50 songs - 3 hr 15 min
 

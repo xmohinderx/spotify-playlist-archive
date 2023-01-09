@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,152 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,153 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 9 | [O Rei Está Voltando](https://open.spotify.com/track/6kwrJVwxCqQaDqxLEWUFeN) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Raízes, Vol\. 2](https://open.spotify.com/album/7uYZsVg4IutCgA8jHRjpq7) | 5:06 |
 | 10 | [Redenção](https://open.spotify.com/track/1zqYwPjbHG9klWeR3Q28OG) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Viva](https://open.spotify.com/album/62xmf2as0ezc3sb0zj5Da0) | 4:35 |
 | 11 | [Emanuel](https://open.spotify.com/track/35iw6IUqq1E5k1h9P0xfhR) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [Emanuel](https://open.spotify.com/album/3fr0LeKrr6xCgzCoZlFCqi) | 4:39 |
-| 12 | [Aclame Ao Senhor](https://open.spotify.com/track/2htH5qQj7CihxAUifwvvWi) | [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Aclame Ao Sehnor](https://open.spotify.com/album/3bQ1jEclLAW8GtBFBa9Php) | 4:36 |
-| 13 | [A Face Adorada de Jesus](https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:37 |
+| 12 | [A Face Adorada de Jesus](https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:37 |
+| 13 | [Aclame Ao Senhor](https://open.spotify.com/track/2htH5qQj7CihxAUifwvvWi) | [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Aclame Ao Sehnor](https://open.spotify.com/album/3bQ1jEclLAW8GtBFBa9Php) | 4:36 |
 | 14 | [O Nome de Jesus \- Acústico Ao Vivo](https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Comunhão e Adoração 6 \(Acústico Ao Vivo\)](https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ) | 4:05 |
 | 15 | [Jesus, o Bom Amigo \- Ao Vivo](https://open.spotify.com/track/6igxgvU8TBqZIV3gqyAHoD) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Hinos Inesquecíveis \(Ao Vivo\)](https://open.spotify.com/album/69dbeC4BPdjqifvLHTMkdA) | 3:21 |
 | 16 | [Porque Ele Vive](https://open.spotify.com/track/7DK9ghk8bJnOD3PdzjV16f) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Porque Ele Vive \(Voz e Violão\)](https://open.spotify.com/album/5FITCXCCV96scIxzzeLBuI) | 3:55 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 42 | [Deus Emanuel](https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Deus Emanuel](https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi) | 5:13 |
 | 43 | [Noite de Paz](https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Jeanne Mascarenhas](https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J) | [Noite de Paz](https://open.spotify.com/album/385673vVXabsOzy5GjDQzn) | 4:01 |
 | 44 | [Noite Feliz \(Stille Nacht\)](https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 4:44 |
-| 45 | [Surgem Anjos Proclamando](https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Folk Christmas](https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX) | 2:51 |
-| 46 | [Apaixonado](https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa) | [Apaixonado](https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp) | 5:37 |
+| 45 | [Apaixonado](https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa) | [Apaixonado](https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp) | 5:37 |
+| 46 | [Surgem Anjos Proclamando](https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Folk Christmas](https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX) | 2:51 |
 | 47 | [Vinde Celebremos](https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Natal](https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR) | 3:22 |
 | 48 | [Busquem a Jesus](https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Busquem a Jesus](https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i) | 5:22 |
 | 49 | [No Humilde Presépio \(Away In a Manger\)](https://open.spotify.com/track/6FW7SRtspdfCTaTv4GM5j3) | [Trio Nascimento](https://open.spotify.com/artist/0nmfUUkYqGngUmVhJfGAFw) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 |
 | 50 | [Maravilhoso É / Rei dos Reis](https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Clássicos](https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7) | 3:40 |
 
-Snapshot ID: `MTY3MDU2NzE3NCwwMDAwMDAwMGIwYjVmM2JlYjBiNzllNjFmMjY4ZTFkNWY3NDM1ODFm`
+Snapshot ID: `MTY3MDU2NzE3NCwwMDAwMDAwMDI2ZjdjNzlmZDI2NjJhNjUyNWJjMzYxMzNmOGVhMTA1`

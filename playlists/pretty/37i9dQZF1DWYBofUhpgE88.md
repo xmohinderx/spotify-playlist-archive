@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 
 > La carica giusta per i tuoi allenamenti!
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,888 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,000 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 30 | [Pure Water \(with Migos\)](https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:12 |
 | 31 | [La Bellavita \(feat\. Jul\)](https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:14 |
 | 32 | [No Church In The Wild](https://open.spotify.com/track/3Osd3Yf8K73aj4ySn6LrvK) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 4:32 |
-| 33 | [How We Do](https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:55 |
-| 34 | [Black and Yellow](https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers](https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD) | 3:37 |
+| 33 | [Black and Yellow](https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers](https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD) | 3:37 |
+| 34 | [How We Do](https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:55 |
 | 35 | [What's The Difference](https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:04 |
 | 36 | [Blueberry Faygo](https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Certified Hitmaker](https://open.spotify.com/album/2a1AHCq835BXUcX1aTTWqQ) | 2:42 |
 | 37 | [BOP](https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:39 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 59 | [Hustlin'](https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 4:14 |
 | 60 | [MALA \(feat\. Lazza, Tony Effe, JVLI\)](https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:58 |
 | 61 | [Plaquette](https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Plaquette](https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY) | 2:38 |
-| 62 | [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 |
-| 63 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 |
+| 62 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 |
+| 63 | [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 |
 | 64 | [Barking](https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Blockbuster](https://open.spotify.com/album/5gHmCqjB4VVbYzaoxTokGA) | 3:24 |
 | 65 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 |
 | 66 | [Morto Mai](https://open.spotify.com/track/2Ri0436JKFUsd3B3xa2jCe) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Re Mida](https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk) | 2:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 69 | [KIKA](https://open.spotify.com/track/0IFMbLUK5ttPmXyK16qUQu) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [DUMMY BOY](https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd) | 2:16 |
 | 70 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
 
-Snapshot ID: `MTY3MDMxODc5NywwMDAwMDAwMDlkYzU3MWNiNjRkYzZmMGFjMDI0MzViYjNhOTE5MWFm`
+Snapshot ID: `MTY3MDMxODc5NywwMDAwMDAwMDc4YjFlNWQwMzRiMDE4YzUwYzA3YjM5MzcwNWJlNTQy`

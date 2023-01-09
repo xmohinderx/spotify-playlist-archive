@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,816 likes - 60 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,828 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 33 | [Olhares](https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Olhares](https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3) | 3:57 |
 | 34 | [Poetas no Topo 2](https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Ducon](https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP) | [Poetas no Topo 2](https://open.spotify.com/album/4Qnc9kgBCgCD4BAOlf8GHb) | 8:43 |
 | 35 | [Respeito É pra Quem Tem](https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:29 |
-| 36 | [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 |
-| 37 | [Wallpaper](https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Wallpaper](https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V) | 3:11 |
+| 36 | [Wallpaper](https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Wallpaper](https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V) | 3:11 |
+| 37 | [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 |
 | 38 | [Babylon By Gus](https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:16 |
 | 39 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
 | 40 | [Rap, Cerva, Erva e Muita Larica](https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Bonde da Madrugada pt\. 2](https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW) | 4:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 |
 | 60 | [Cantando pro Santo](https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Chorão](https://open.spotify.com/artist/5u3nOqtEJfhFUuPR9EjnkC) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 6:06 |
 
-Snapshot ID: `MTY3MTU3MDg3MCwwMDAwMDAwMDE1N2U1OWM2MDU4M2M3Y2FkYzIxYjQ5ODY2NGJjMjMx`
+Snapshot ID: `MTY3MTU3MDg3MCwwMDAwMDAwMDZlMmIxMjRlYmZlOThlNDg3OTVjZDgwNjQxNjg5MDUz`

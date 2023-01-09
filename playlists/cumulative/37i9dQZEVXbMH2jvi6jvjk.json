@@ -752,7 +752,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 512182,
       "name": "All In You",
       "url": "https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl"
@@ -10907,6 +10907,32 @@
     },
     {
       "album": {
+        "name": "JAGERMEISTER",
+        "url": "https://open.spotify.com/album/5Tk2uNjYtHL9V0uEhSQAYx"
+      },
+      "artists": [
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        },
+        {
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327416,
+      "name": "JAGERMEISTER",
+      "url": "https://open.spotify.com/track/3VBwoaePYGdOmG1YHgGOHi"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -11404,7 +11430,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 382328,
       "name": "Kancane",
       "url": "https://open.spotify.com/track/0dHswGoIHgWfHSraVv9mnq"
@@ -14576,7 +14602,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -16098,7 +16124,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 180853,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
@@ -19654,7 +19680,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 181840,
       "name": "Shirt",
       "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
@@ -21726,7 +21752,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
@@ -22650,7 +22676,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 382350,
       "name": "Thokoza",
       "url": "https://open.spotify.com/track/45O5O0Ppp8cpbPFymxS9L8"
@@ -24688,7 +24714,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 291428,
       "name": "Waga Bietjie",
       "url": "https://open.spotify.com/track/6Zt8YY9f4rr7gMJcCPkxbr"
@@ -25532,7 +25558,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

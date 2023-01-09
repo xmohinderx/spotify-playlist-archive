@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > Check out a Tiger JK & Yoon Mirae's interview as Clips! Also, check out the top 10 Korean hip\-hop songs selected by them at the top of the playlist\. \(타이거JK & 윤미래의 인터뷰를 Clips로 확인하세요! 그리고 그들이 선정한 한국힙합 10곡을 플레이리스트 최상단에서 확인하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,654 likes - 119 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,621 likes - 119 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee, Marc Anthony",
-  "num_followers": 2039854,
+  "num_followers": 2040187,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1OTE2MywwMDAwMDAwMDY3MGY4MGVkYWQ2MzczZmNiMDIyOWMzNTViNGZjMWU3",
+  "snapshot_id": "MTY2OTk1OTE2MywwMDAwMDAwMDIyY2I0NDRjYmQ0MmI3NmVkYzc4MDA3MmQ1MjlhMTVk",
   "tracks": [
     {
       "added_at": "2022-12-02 05:32:43",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2022-12-02 05:32:43",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
-        "name": "In Da Getto",
-        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "In Da Getto",
-      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
         "name": "Calma (Remix)",
         "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 238200,
       "name": "Calma - Remix",
       "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
+        "name": "In Da Getto",
+        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
     },
     {
       "added_at": "2022-12-02 05:32:43",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
-        "name": "Revelaci\u00f3n - EP",
-        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 186087,
-      "name": "Baila Conmigo (with Rauw Alejandro)",
-      "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 247493,
       "name": "Andas En Mi Cabeza",
       "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
+        "name": "Revelaci\u00f3n - EP",
+        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 186087,
+      "name": "Baila Conmigo (with Rauw Alejandro)",
+      "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
     },
     {
       "added_at": "2022-12-02 05:32:43",
@@ -1423,30 +1423,22 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
-        "name": "Ay Mi Dios",
-        "url": "https://open.spotify.com/album/5mL2ReCP9gU2mPnC3SKERE"
+        "name": "De Vuelta Pa' La Vuelta",
+        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
       "artists": [
         {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 252003,
-      "name": "Ay Mi Dios",
-      "url": "https://open.spotify.com/track/5Uel5PmPBZICA0TQTI912U"
+      "duration_ms": 231593,
+      "name": "De Vuelta Pa' La Vuelta",
+      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
     },
     {
       "added_at": "2022-12-02 05:32:43",
@@ -1499,22 +1491,30 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
-        "name": "De Vuelta Pa' La Vuelta",
-        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
+        "name": "Ay Mi Dios",
+        "url": "https://open.spotify.com/album/5mL2ReCP9gU2mPnC3SKERE"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
         },
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
         }
       ],
-      "duration_ms": 231593,
-      "name": "De Vuelta Pa' La Vuelta",
-      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+      "duration_ms": 252003,
+      "name": "Ay Mi Dios",
+      "url": "https://open.spotify.com/track/5Uel5PmPBZICA0TQTI912U"
     },
     {
       "added_at": "2022-12-02 05:32:43",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
         "name": "Nibiru",
         "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
       },
@@ -1679,6 +1695,22 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
+        "name": "Energ\u00eda",
+        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Ginza",
+      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG"
       },
@@ -1695,38 +1727,6 @@
       "duration_ms": 190570,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
-        "name": "Dura",
-        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Dura",
-      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
-        "name": "Energ\u00eda",
-        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Ginza",
-      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
     },
     {
       "added_at": "2022-12-02 05:32:43",
@@ -1911,6 +1911,46 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
+        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 159665,
+      "name": "Agua (with J Balvin)",
+      "url": "https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
+        "name": "DUELE EL CORAZON (feat. Wisin)",
+        "url": "https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "DUELE EL CORAZON (feat. Wisin)",
+      "url": "https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
         "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8"
       },
@@ -1947,46 +1987,6 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
-        "name": "DUELE EL CORAZON (feat. Wisin)",
-        "url": "https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "DUELE EL CORAZON (feat. Wisin)",
-      "url": "https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
-        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 159665,
-      "name": "Agua (with J Balvin)",
-      "url": "https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
         "name": "La T\u00f3xica",
         "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
       },
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
-      },
-      "artists": [
-        {
-          "name": "DLG",
-          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
-        }
-      ],
-      "duration_ms": 302320,
-      "name": "La Quiero A Morir",
-      "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 245120,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
+      },
+      "artists": [
+        {
+          "name": "DLG",
+          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
+        }
+      ],
+      "duration_ms": 302320,
+      "name": "La Quiero A Morir",
+      "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
     },
     {
       "added_at": "2022-12-02 05:32:43",

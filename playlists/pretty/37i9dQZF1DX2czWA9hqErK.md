@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,360 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,440 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 34 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 |
 | 35 | [The Outsider](https://open.spotify.com/track/13Y2OvFGijnHgFEGifRgEl) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Chaos In My Court](https://open.spotify.com/album/4dVCexXqcS9KDwdOXeUkSn) | 3:28 |
 | 36 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 |
-| 37 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 |
-| 38 | [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 |
+| 37 | [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 |
+| 38 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 |
 | 39 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 |
 | 40 | [drivers license \- Spotify Singles](https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 4:22 |
 | 41 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 55 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 |
 | 56 | [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 |
 | 57 | [Set Me Free](https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 4:02 |
-| 58 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
-| 59 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 |
+| 58 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 |
+| 59 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
 | 60 | [You Are Not Alone](https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [You Are Not Alone](https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx) | 2:45 |
 | 61 | [listen up \- Radio Edit](https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [listen up \(Radio Edit\)](https://open.spotify.com/album/7oK78X0LqZqzVpU4N7Rvz9) | 1:48 |
 | 62 | [Forget Me \- Spotify Singles](https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 3:49 |
@@ -86,11 +86,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 76 | [Last Call](https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:31 |
 | 77 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 |
 | 78 | [10 Summers](https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [10 Summers](https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx) | 2:40 |
-| 79 | [Die Of A Broken Heart](https://open.spotify.com/track/73AyFfVAuzl80enyZWtEcf) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Die Of A Broken Heart](https://open.spotify.com/album/1fIeFHSd2o4rDSb44aPUkc) | 3:26 |
-| 80 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
-| 81 | [Balance](https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Balance](https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn) | 3:34 |
-| 82 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 |
-| 83 | [You \- Live](https://open.spotify.com/track/2E5avcbynGtL6rVHQihEdR) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 3:01 |
+| 79 | [You \- Live](https://open.spotify.com/track/2E5avcbynGtL6rVHQihEdR) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 3:01 |
+| 80 | [Die Of A Broken Heart](https://open.spotify.com/track/73AyFfVAuzl80enyZWtEcf) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Die Of A Broken Heart](https://open.spotify.com/album/1fIeFHSd2o4rDSb44aPUkc) | 3:26 |
+| 81 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
+| 82 | [Balance](https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Balance](https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn) | 3:34 |
+| 83 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 |
 | 84 | [Favorite Part](https://open.spotify.com/track/4rRWJUXC3wjs5z217dwCUW) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 3:26 |
 | 85 | [my dear](https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC) | 2:12 |
 | 86 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 99 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 |
 | 100 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 
-Snapshot ID: `MTY3MTU2MTMxNSwwMDAwMDAwMDZmMzI4YTNhOTIzMWU4ZGUxN2JlYjA0NmVjNDNjYThm`
+Snapshot ID: `MTY3MTU2MTMxNSwwMDAwMDAwMDNkOTkxODhkY2I0NDVkZDQ1Nzk0MTk4MTA1YTQxNWYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las más poderosas y llegadoras de nuestra música! Al millón con Fuerza Regida & Grupo Frontera, al millón con La Reina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,026,549 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,031,223 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 | 7 | [En Paris](https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5) | [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [En Paris](https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR) | 2:42 |
 | 8 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 |
 | 9 | [Te Felicito](https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Felicito](https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7) | 3:44 |
-| 10 | [911](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 |
+| 10 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 |
 | 11 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 |
 | 12 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 |
 | 13 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,323 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,403 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 11 | [Baianá \- Pablo Fierro Radio Edit](https://open.spotify.com/track/0ehmor7tXN9ngqn1rbFIFy) | [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Baianá \(Pablo Fierro Edit\)](https://open.spotify.com/album/0M7U956nnVrNu8u1meGmi1) | 2:38 |
 | 12 | [Riu \- N'Dini Mix \- Mixed](https://open.spotify.com/track/4QC1hsySlFKAApSwVmsXIF) | [Millok](https://open.spotify.com/artist/3vlPIgO2pY4Xr0NT9JViF6), [Kingja](https://open.spotify.com/artist/3D28WlYwddq9DmCxVJ3QZ0) | [Inside the Dance, Vol\. 5 \(DJ Mix\)](https://open.spotify.com/album/1IZKFtAeDnMzVLxcCvfFJs) | 3:31 |
 | 13 | [Nemrut](https://open.spotify.com/track/29A54bY2rjNImKOxt7oKhs) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Nemrut](https://open.spotify.com/album/5ePCBpdTzxDvsD0Yv7zqwJ) | 6:40 |
-| 14 | [Deseo](https://open.spotify.com/track/6rFOtSw9gnD2j6aqBXLYJO) | [Achraf Kallel](https://open.spotify.com/artist/44gkRmKvHDRE3GI6GEj66B) | [Oriental Trip, Vol\. 2 \(Compiled by DJ Brahms\)](https://open.spotify.com/album/49LiarfWV5edUO3ZVy4vNm) | 5:48 |
+| 14 | [Deseo](https://open.spotify.com/track/6rFOtSw9gnD2j6aqBXLYJO) | [Achraf Kallel](https://open.spotify.com/artist/44gkRmKvHDRE3GI6GEj66B), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Oriental Trip, Vol\. 2 \(Compiled by DJ Brahms\)](https://open.spotify.com/album/49LiarfWV5edUO3ZVy4vNm) | 5:48 |
 | 15 | [Verte Triste](https://open.spotify.com/track/4PvM85aE1kiun9jG4m1apO) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Verte Triste](https://open.spotify.com/album/6gr5koVviqQjMMDehw6XDi) | 3:15 |
 | 16 | [Eldorado](https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Eldorado](https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc) | 6:21 |
 | 17 | [Holding On](https://open.spotify.com/track/0CXWOXXMMwBjiAQYZlJSQO) | [Frank & Tony](https://open.spotify.com/artist/45inHjnamn5uQuuRXOnnmN), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [The Early Years](https://open.spotify.com/album/3iDqTksxFpWpZiL7PeymTy) | 7:08 |

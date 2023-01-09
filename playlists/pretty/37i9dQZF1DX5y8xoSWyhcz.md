@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. bestfriend on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,813 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,847 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 6 | [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 |
 | 7 | [I Live In Patterns \(feat\. Alix Page\)](https://open.spotify.com/track/7LDHQfiTWtQ4VMJA1Cm7Vv) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc), [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [I Live In Patterns \(feat\. Alix Page\)](https://open.spotify.com/album/1F97dMZ1k8BwYp9H9bNswN) | 3:42 |
 | 8 | [WHEN WE WERE KIDS](https://open.spotify.com/track/08RcqKgGxRBnaqAsgm07DI) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [WHEN WE WERE KIDS](https://open.spotify.com/album/3umxF4s0UtsmJ1yOjDBICp) | 3:18 |
-| 9 | [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 |
+| 9 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 |
 | 10 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
 | 11 | [Break My Fall](https://open.spotify.com/track/3vWAeJGKEQGrvCKut2uMzy) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1at7bad2VMRKWewCs9yBgt) | 3:28 |
 | 12 | [Graffiti](https://open.spotify.com/track/1nbf58hrmgDkfathd8NwTD) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Violet](https://open.spotify.com/album/4tW1prOUVuxwZqBJ9kQEaB) | 3:08 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 |
 | 125 | [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGQ1ODYwMDE2NWNmZWJmMzEyNzhkYjU3MDAzNTM4M2Yx`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDllOTc3MTVmZTgyM2ExODRiYzI4ZWE5MTljYTVmZGRl`

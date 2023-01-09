@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-324 songs - 18 hr 52 min
+325 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Don't Need You](https://open.spotify.com/track/0se8mCFDYQohVqP6cFoToK) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Don't Need You](https://open.spotify.com/album/76yfAYufLuG6wYQRRnJTx5) | 3:17 | 2022-01-07 |  |
 | [Dracodraco](https://open.spotify.com/track/1989YquYFYsPa4PutqJunf) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Dracodraco](https://open.spotify.com/album/13YQaMzrLZziaj9PgpQppO) | 4:19 | 2022-01-07 |  |
 | [DRAG](https://open.spotify.com/track/1E7ziN1yrE18pJ55ech2XR) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [DRAG](https://open.spotify.com/album/6qItSBH2995bdjIe0qdoZx) | 3:15 | 2022-04-15 | 2022-07-28 |
+| [Dragonflame](https://open.spotify.com/track/5YT0Pjym5S1kgZoUdOMZU3) | [Kirara Magic](https://open.spotify.com/artist/7IPe93LySFSStLX4J5j5Lr) | [Dragonflame](https://open.spotify.com/album/5yV6JmK0w8b7BMt29lJ42k) | 3:18 | 2023-01-06 |  |
 | [DREADED NOTE](https://open.spotify.com/track/0ysOmEVVYJjenh64P5dN3l) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [DREADED NOTE](https://open.spotify.com/album/3yhKVJspZP2p9T76PPQxTp) | 3:19 | 2022-02-11 | 2022-07-16 |
 | [Dream Drop](https://open.spotify.com/track/4OFTfnxRCK5qfzLwCyf7I2) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Love Power A\-to\-Z](https://open.spotify.com/album/0CZO5xaavRYy16D5sB30S8) | 2:54 | 2022-07-14 | 2022-08-06 |
 | [Dream State](https://open.spotify.com/track/3EDw77uNVYQGAEtRiRfLCG) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Dream State](https://open.spotify.com/album/13kGJmiEER9cetocHPdYr7) | 3:26 | 2022-03-11 |  |
@@ -109,7 +110,7 @@
 | [Fire](https://open.spotify.com/track/76zmGyRffSW0aAThzbsZvi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Ethereal](https://open.spotify.com/album/4MVG42fEPbnV1Hm9kdDuzZ) | 3:41 | 2022-02-25 | 2022-07-29 |
 | [Flare](https://open.spotify.com/track/030SJMnWzEaAE7979A3NcW) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Mirrors](https://open.spotify.com/album/6rPIY9dx2jNh9VFsX86ErA) | 3:10 | 2022-01-07 | 2022-07-28 |
 | [Flash Drive](https://open.spotify.com/track/3gA35jxypCyQczOR5Tew9J) | [Wave Racer](https://open.spotify.com/artist/147jymD5t0TCXW0DbaXry0), [B▲BY](https://open.spotify.com/artist/5xJ32qIdXRe84ETWIv2RDA) | [Flash Drive](https://open.spotify.com/album/2eaTv2nNOFNPjmlPP21Fdg) | 3:23 | 2022-03-11 |  |
-| [Flashback](https://open.spotify.com/track/3pUwFUuGgxrUwUaLFDlA8B) | [Marc Antonix](https://open.spotify.com/artist/73hmgKy5dPtfbmkzOH7Uco), [Revaeon](https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC) | [Flashback](https://open.spotify.com/album/3SU1UJpZqk15qVlYO6VyWk) | 3:26 | 2022-10-07 |  |
+| [Flashback](https://open.spotify.com/track/3pUwFUuGgxrUwUaLFDlA8B) | [Marc Antonix](https://open.spotify.com/artist/73hmgKy5dPtfbmkzOH7Uco), [Revaeon](https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC) | [Flashback](https://open.spotify.com/album/3SU1UJpZqk15qVlYO6VyWk) | 3:26 | 2022-10-07 | 2023-01-09 |
 | [Flight](https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Flight](https://open.spotify.com/album/6mOUQ523znFWPykhV0uvfa) | 3:39 | 2022-03-11 |  |
 | [FOREVER 1 \- Matisse & Sadko Remix](https://open.spotify.com/track/5dJ6HlXlZw4MvIkH9293M5) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 3:33 | 2022-11-18 |  |
 | [Forever Till The End Of Time](https://open.spotify.com/track/4ZzKw1gXBYEhG65jKayPbC) | [Bby Eco](https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu) | [Forever Till The End Of Time](https://open.spotify.com/album/3Q5dfZXifl3WoG4irg5wqj) | 2:34 | 2022-01-07 | 2022-07-10 |

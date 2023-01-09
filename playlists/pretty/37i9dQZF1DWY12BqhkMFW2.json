@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 321641,
+  "num_followers": 321807,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDI5N2Q0YjRlMWYxZDkzOTJkYTNjZmRjMTIyY2JlY2Ez",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMGMyMjA4ZTAwZGU0OWU2ZTFkNTNmMmY5OTA5MmMxMjQ2",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 221969,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "My Heart",
         "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 222760,
       "name": "Knocks Me Off My Feet",
       "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 221969,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+        "url": "https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 215852,
+      "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+      "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "Ventriloquism",
         "url": "https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 373626,
       "name": "Lately",
       "url": "https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-        "url": "https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-      "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
     }
   ],
   "unique_name": "Soul Revived",

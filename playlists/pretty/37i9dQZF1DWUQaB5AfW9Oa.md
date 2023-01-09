@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 
 > Soul classics to keep you company in the kitchen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,004 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,061 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 | 34 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 |
 | 35 | [Hung Up On My Baby](https://open.spotify.com/track/7wEGeUzpPNnHKfOtSgYjG4) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Tough Guys](https://open.spotify.com/album/5QPYYcI8rmWC47nNAtOYj8) | 6:17 |
 | 36 | [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 |
-| 37 | [B\-A\-B\-Y](https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla](https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY) | 2:57 |
-| 38 | [Jimmy Mack](https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Watchout!](https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ) | 2:43 |
+| 37 | [Jimmy Mack](https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Watchout!](https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ) | 2:43 |
+| 38 | [B\-A\-B\-Y](https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla](https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY) | 2:57 |
 | 39 | [Chain Gang](https://open.spotify.com/track/7v1858htfU0srTDwhxeka8) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Swing Low](https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq) | 2:35 |
 | 40 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 |
 | 41 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 | 49 | [Keep On Loving You](https://open.spotify.com/track/1uU8KgP0ny5yxRzYuKaz3i) | [Four Mints](https://open.spotify.com/artist/5weBoY03qqqq9uFG136tti) | [Gently Down Your Stream](https://open.spotify.com/album/6G1wOj0Gkby9CMZOz2bGy1) | 3:26 |
 | 50 | [Lawdy Miss Clawdy](https://open.spotify.com/track/0Xwr2EmFyn4hPTnU4lBvRH) | [Lloyd Price](https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2) | [Lloyd Price Greatest Hits: The Original ABC\-Paramount Recordings](https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh) | 1:51 |
 
-Snapshot ID: `MTY0ODQ5ODkzNSwwMDAwMDAwMDU2NDQyZTk5NjBlMjQxMDIwZjE3MTM1ZmY3ODUyMzYx`
+Snapshot ID: `MTY0ODQ5ODkzNSwwMDAwMDAwMDYyMzUzYzRlMjRiMjk5OTRlYjNiMzYxMzAyMTlkNThk`

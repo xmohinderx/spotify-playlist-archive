@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 
 > ¡Vuelve el Cosquín Rock! 12 y 13 de Febrero, Aeródromo Santa María de Punilla, Córdoba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,702 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,725 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 47 | [Water](https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ) | 3:10 |
 | 48 | [Eres Para Mí](https://open.spotify.com/track/7ppEc3lFu3nudWCW5ypQGG) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [Eres Para Mí](https://open.spotify.com/album/7JuFM0b8eP6FGTVvyQMfNP) | 2:54 |
 | 49 | [Funeral](https://open.spotify.com/track/1ueLYdeuGMAwUiaezLDObD) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Funeral](https://open.spotify.com/album/3hykNzTPJLYxvNxY4gGvHk) | 3:41 |
-| 50 | [Potra](https://open.spotify.com/track/1DIBkKqsREnKgxpZ5RJjRf) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Nafta](https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl) | 4:17 |
-| 51 | [En Avenidas](https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:15 |
+| 50 | [En Avenidas](https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:15 |
+| 51 | [Potra](https://open.spotify.com/track/1DIBkKqsREnKgxpZ5RJjRf) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Nafta](https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl) | 4:17 |
 | 52 | [El Riesgo](https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:28 |
 | 53 | [International Love](https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:06 |
 | 54 | [Extranjero](https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Los Años Futuros](https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc) | 3:07 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 57 | [Amapola del 66](https://open.spotify.com/track/5gK8OkRTsm5bmDh3GGlRBA) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Amapola del 66](https://open.spotify.com/album/6folUtOTlV2d6FiczqCGYs) | 6:10 |
 | 58 | [Paranoia Pop](https://open.spotify.com/track/13WCGJKAWrgZgz6grLryE4) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:52 |
 | 59 | [Onliyu](https://open.spotify.com/track/1wkYvavzFjQgVudTRnofuB) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [El camino de la libertad](https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1) | 3:41 |
-| 60 | [Será \- En Vivo en el Luna Park](https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 2:52 |
-| 61 | [Delorean](https://open.spotify.com/track/7ytLrsD18C4jG5ib6LyED9) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Kid Munni](https://open.spotify.com/artist/2HBcNkdZk8JzGkqlc7RsIL) | [Delorean](https://open.spotify.com/album/6kMUWRb9fOyS8H2p3nehbH) | 2:29 |
+| 60 | [Delorean](https://open.spotify.com/track/7ytLrsD18C4jG5ib6LyED9) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Kid Munni](https://open.spotify.com/artist/2HBcNkdZk8JzGkqlc7RsIL) | [Delorean](https://open.spotify.com/album/6kMUWRb9fOyS8H2p3nehbH) | 2:29 |
+| 61 | [Será \- En Vivo en el Luna Park](https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 2:52 |
 | 62 | [Todas Esas Tardes](https://open.spotify.com/track/3LL4MggYG3ivfMbkkmmef4) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ANIM4LES](https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl) | 4:28 |
 | 63 | [Lindos Problemas](https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:57 |
 | 64 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 67 | [Aves Migratorias](https://open.spotify.com/track/5Y7Lt08Xc885tzG5kKTZ4u) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [¿Dónde Vas?](https://open.spotify.com/album/05R00CcrMgbTSOh8HZYcnZ) | 3:22 |
 | 68 | [Tráfico por Katmandú](https://open.spotify.com/track/4CP1f7aNCp3cJ3CKAl3XY0) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 4:17 |
 | 69 | [Detox](https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb) | 2:47 |
-| 70 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
-| 71 | [Somos \- MTV Unplugged](https://open.spotify.com/track/6rc7TBDJBpB4uemwZssWBr) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [La Bomba de Tiempo](https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 3:07 |
+| 70 | [Somos \- MTV Unplugged](https://open.spotify.com/track/6rc7TBDJBpB4uemwZssWBr) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [La Bomba de Tiempo](https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 3:07 |
+| 71 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
 | 72 | [Barón Rojo](https://open.spotify.com/track/49einNPAfEj7geS2yzV0xu) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:45 |
 | 73 | [Puedo Con Esto \- Fuera de Foco](https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Puedo Con Esto \(Fuera de Foco\)](https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id) | 3:54 |
 | 74 | [Partenaire](https://open.spotify.com/track/1qch36rOUF2ZDjLrsBF5LV) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 99 | [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 |
 | 100 | [Banda de Garage \- Antes \- Ferro 2014 en Vivo](https://open.spotify.com/track/6VeDyMhky3csClQ1jABaCB) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Qué Placer Verte Otra Vez \(Ferro 2014 En Vivo\)](https://open.spotify.com/album/2ZyM4nbcyK6UlPZfxdqQ0m) | 4:26 |
 
-Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMDUxYWY3Y2FjMzRkNzQ1ZTBhODU0YzM4OTg2MThiMzIy`
+Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMGQ3OTFlMjlkODlmMzJhZmFlMDcyNTNkYzg1MjQ0NTA0`

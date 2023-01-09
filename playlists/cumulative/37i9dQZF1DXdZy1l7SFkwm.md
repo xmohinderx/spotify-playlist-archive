@@ -4,7 +4,7 @@
 
 > El aderezo que te falta.
 
-192 songs - 10 hr 42 min
+193 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 | 2021-03-15 |  |
 | [Água de Beber](https://open.spotify.com/track/5Yzrf7ivq7TsXAunuNsUYe) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Hits tranquilos para el corazón](https://open.spotify.com/album/6mjAB6IGm2hwv8GcmcHzez) | 2:18 | 2021-03-15 | 2022-11-13 |
 | [Águas De Março](https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Tom Jobim E Amigos](https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M) | 3:32 | 2021-03-15 | 2022-07-29 |
-| [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 | 2021-03-15 |  |
+| [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 | 2021-03-15 | 2023-01-09 |
+| [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 | 2021-03-15 |  |
 | [Águas De Março](https://open.spotify.com/track/3PzD3zi0UeNw3dTYGbAZCy) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 3:34 | 2021-03-15 | 2022-11-14 |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,651 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,675 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 14 | [If I Can't Have You](https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:11 |
 | 15 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 |
 | 16 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 |
-| 17 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:42 |
-| 18 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 |
-| 19 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
+| 17 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
+| 18 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:42 |
+| 19 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 |
 | 20 | [I Like To Move It](https://open.spotify.com/track/4bAFo6r2ODMDoqM5YHV2gM) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \(Music From The Motion Picture\)](https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG) | 3:41 |
 | 21 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
 | 22 | [No se habla de Bruno](https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Daniela Sierra](https://open.spotify.com/artist/3nwgQnJvhaRxrpJ9o84t4f), [Juanse Diez](https://open.spotify.com/artist/2tZy2DfvQ3d8AkmNUZbxoK), [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY), [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Encanto \- Elenco](https://open.spotify.com/artist/52l7jN5e0g2n3IVOHulkA6) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 59 | [Desconocidos](https://open.spotify.com/track/18K0QPs7G0yPaDlz1W47bG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:26 |
 | 60 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 
-Snapshot ID: `MTY1NzU3NjkyOCwwMDAwMDAwMDUyODQwYmUwZTEzMGVlODIyYzFkYmQzMWFlNGMyYjFi`
+Snapshot ID: `MTY1NzU3NjkyOCwwMDAwMDAwMDhlOWUxMjc1ZTU0MTI3YjRiMDQxMDBmMjlhYmE4NWQz`

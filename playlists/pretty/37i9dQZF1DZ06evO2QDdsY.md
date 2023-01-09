@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,392 likes - 42 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,394 likes - 42 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 41 | [Within You \- Moon And Stars / Acoustic](https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 4:02 |
 | 42 | [Mad About the Girl](https://open.spotify.com/track/2bNDCbxCEPMa0qBzh26MEm) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Universal Love \- Wedding Songs Reimagined](https://open.spotify.com/album/1Roqqh9z76dk77g98fiR2E) | 3:11 |
 
-Snapshot ID: `Mjc4ODUwNDcsMDAwMDAwMDBmODczZGM1ZGNhMWZmNzJiYjk1NDczNTNmM2RhMGZlYg==`
+Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDAzNDQwN2YzYjdkZThhNGFhZmE0YzIxZTgyYTI5NGI3ZQ==`

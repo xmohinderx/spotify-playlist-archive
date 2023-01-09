@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 
 > Revive la época de los pantalones acampanados en compañía de mamá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,347 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,377 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 62 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 |
 | 63 | [Rock Lobster](https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 6:49 |
 | 64 | [Morir de Amor](https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 4:11 |
-| 65 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
-| 66 | [Endless Love \- From "The Endless Love" Soundtrack](https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:28 |
+| 65 | [Endless Love \- From "The Endless Love" Soundtrack](https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:28 |
+| 66 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
 | 67 | [Llorarás](https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 3:37 |
 | 68 | [Despues De Tanto](https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Vive](https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN) | 3:25 |
 | 69 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 74 | [Never Can Say Goodbye \- Single Version](https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Never Can Say Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u) | 2:59 |
 | 75 | [Esta Cobardía \- Remasterizado](https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o) | [Chiquetete](https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z) | [Eres Mía \(Remasterizado\)](https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj) | 3:39 |
 
-Snapshot ID: `MTYxOTU4NjE3NSwwMDAwMDAwMGI1M2NlY2RhM2JjZmQ3NTI2YTlkNzIyYTVmNWVmMTJm`
+Snapshot ID: `MTYxOTU4NjE3NSwwMDAwMDAwMGQxZThiZDhmMWM1YjI1M2E3NmQxOTgyNzkxYmIzYTZi`

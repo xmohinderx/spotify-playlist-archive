@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRAyj7EtEk1.md) - [plain]
 
 > Éxitos del Pop Latino para que los disfrute toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,634 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,646 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRAyj7EtEk1.md) - [plain]
 | 19 | [Échame La Culpa](https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 2:53 |
 | 20 | [Si Me Dices Que Sí](https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Si Me Dices Que Sí](https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV) | 3:31 |
 | 21 | [Mi Gente](https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 3:05 |
-| 22 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
-| 23 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 |
+| 22 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 |
+| 23 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
 | 24 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Cama Incendiada](https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa) | 4:32 |
 | 25 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 |
 | 26 | [De Los Besos Que Te Di](https://open.spotify.com/track/2ttoeuNKXixDHom5rRvowm) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [De Los Besos Que Te Di](https://open.spotify.com/album/7273WdaYjbonC99OSZ9Fey) | 2:47 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRAyj7EtEk1.md) - [plain]
 | 30 | [Odio Amarte](https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH](https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8) | 3:30 |
 | 31 | [Tutu](https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Tutu](https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q) | 2:58 |
 | 32 | [Desde Esa Noche \(feat\. Maluma\)](https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Latina](https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox) | 3:47 |
-| 33 | [Brillo](https://open.spotify.com/track/3vgiIJW3iSQRRvgYiW86i9) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 2:39 |
-| 34 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:26 |
+| 33 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:26 |
+| 34 | [Brillo](https://open.spotify.com/track/3vgiIJW3iSQRRvgYiW86i9) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 2:39 |
 | 35 | [Cuando Te Besé](https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 4:16 |
 | 36 | [100 Años](https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [30 de Febrero](https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph) | 3:05 |
 | 37 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRAyj7EtEk1.md) - [plain]
 | 49 | [Mi Nuevo Vicio](https://open.spotify.com/track/3p770TQzJS3rNUHlDGV54Q) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Deseo](https://open.spotify.com/album/6Wh6P7tuc6F0eewCvO8nuT) | 4:01 |
 | 50 | [Hey DJ \- Pop Version](https://open.spotify.com/track/2kAe8s00cKth2AfcLEbFi9) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Hey DJ \(Pop Version\)](https://open.spotify.com/album/5hHBkqV6gED9WKE6qr0DfP) | 3:06 |
 
-Snapshot ID: `MTY2MjM2NjYwMywwMDAwMDAwMGVhY2M5YjBhNzEyNjFhNGFkM2RkNDNjY2NlNTgxZWYz`
+Snapshot ID: `MTY2MjM2NjYwMywwMDAwMDAwMDZjYzE5YzlhYTYxNzhiMzUyMDYyMDUwNjhhZDFlZGI2`

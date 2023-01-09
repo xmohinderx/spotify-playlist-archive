@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 51536,
+  "num_followers": 51658,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1OTUwNiwwMDAwMDAwMDljNmYwZTc2OWFiMWM5ZmExYmUxNjQ1MTc0YjkzNTFi",
+  "snapshot_id": "MTY2Njg1OTUwNiwwMDAwMDAwMGUzNDQzNDMzMGQ3ZDQxNDViMmE0YzU3ZGVhYjNlZDQ0",
   "tracks": [
     {
       "added_at": "2022-10-27 08:31:46",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "One Flight Up (Remastered 2015)",
-        "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 451407,
-      "name": "Darn That Dream - Remastered 2015",
-      "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
         "name": "Blowing In From Chicago",
         "url": "https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 356746,
       "name": "Bo-Fill - Rudy Van Gelder 24Bit Mastering",
       "url": "https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
+        "name": "One Flight Up (Remastered 2015)",
+        "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 451407,
+      "name": "Darn That Dream - Remastered 2015",
+      "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "Opus De Funk",
-      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
         "name": "Wrapped Tight",
         "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 208906,
       "name": "Wrapped Tight",
       "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Opus De Funk",
+      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
+        "name": "The Magnificent Charlie Parker",
+        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 162805,
+      "name": "Au Privave - Take 3 Master",
+      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
         "name": "Pres & Teddy",
         "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "The Magnificent Charlie Parker",
-        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 162805,
-      "name": "Au Privave - Take 3 Master",
-      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
+      "duration_ms": 216693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1051,42 +1067,6 @@
       "duration_ms": 355546,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
-        "name": "Stan Getz & Bill Evans",
-        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 400560,
-      "name": "Funkallero",
-      "url": "https://open.spotify.com/track/265nuzhZ75CqbXvuQcDEvv"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1119,6 +1099,26 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 400560,
+      "name": "Funkallero",
+      "url": "https://open.spotify.com/track/265nuzhZ75CqbXvuQcDEvv"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
         "name": "The Turnaround",
         "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 308960,
       "name": "The Good Life - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
-        "name": "The Jazz Giants",
-        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 606026,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Further Definitions",
-        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
       "artists": [
         {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 250840,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB"
+      "duration_ms": 210533,
+      "name": "Walkin' Shoes",
+      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1203,34 +1187,34 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
       "artists": [
         {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 504866,
-      "name": "Hat And Beard",
-      "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
+      "duration_ms": 250840,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB"
     },
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+        "name": "The Jazz Giants",
+        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
         }
       ],
-      "duration_ms": 210533,
-      "name": "Walkin' Shoes",
-      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+      "duration_ms": 606026,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1247,6 +1231,22 @@
       "duration_ms": 494026,
       "name": "Somethin' Else - Remastered",
       "url": "https://open.spotify.com/track/1iXpq6uyves7dVGJ4MwGYr"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
+        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
+      },
+      "artists": [
+        {
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+        }
+      ],
+      "duration_ms": 504866,
+      "name": "Hat And Beard",
+      "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "The Blues And The Abstract Truth",
-        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 383400,
-      "name": "Yearnin'",
-      "url": "https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
         "name": "Speak No Evil",
         "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 354066,
       "name": "Fee-Fi-Fo-Fum - Remastered1998/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6lgkhf5XLGA2wvgFeTy2cq"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
+        "name": "The Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Yearnin'",
+      "url": "https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
         "name": "Third Season",
         "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 414360,
       "name": "Don't Cry, Just Sigh",
       "url": "https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "The Jimmy Giuffre 3",
-        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
         "name": "Our Man In Paris (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 417306,
       "name": "Stairway To The Stars - Rudy Van Gelder Edition / 2003 Remaster",
       "url": "https://open.spotify.com/track/3sO8hBPBMIpfWu7skmEKRD"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
+        "name": "The Jimmy Giuffre 3",
+        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
     },
     {
       "added_at": "2022-10-27 08:31:46",

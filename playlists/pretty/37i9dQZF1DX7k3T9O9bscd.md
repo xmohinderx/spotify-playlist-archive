@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,044 likes - 75 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,374 likes - 75 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 22 | [Shell Island](https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:23 |
 | 23 | [I'll Gladly Place Myself Below You](https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 5:12 |
 | 24 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
-| 25 | [Concorde](https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Moonlust](https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF) | 3:25 |
-| 26 | [Jumpin' Jack Flash](https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi) | [Ananda Shankar](https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ) | [Ananda Shankar \(US Internet Release\)](https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3) | 3:35 |
+| 25 | [Jumpin' Jack Flash](https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi) | [Ananda Shankar](https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ) | [Ananda Shankar \(US Internet Release\)](https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3) | 3:35 |
+| 26 | [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 |
 | 27 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 | 28 | [Interior People](https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy) | 5:15 |
-| 29 | [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 |
+| 29 | [Concorde](https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Moonlust](https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF) | 3:25 |
 | 30 | [Waves](https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX) | [Naxatras](https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71) | [Naxatras](https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv) | 7:20 |
 | 31 | [Spin](https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf) | 3:32 |
 | 32 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 50 | [Plea From The Soul](https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F) | [Phafner](https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci) | [Overdrive](https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5) | 5:29 |
 | 51 | [The Rat Catcher](https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ) | [Wucan](https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO) | [Reap the Storm](https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS) | 5:25 |
 | 52 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
-| 53 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
-| 54 | [Animal Noises](https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam) | [Here Lies Man](https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H) | [You Will Know Nothing](https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX) | 4:12 |
-| 55 | [Panic In Babylon](https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Aufheben](https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn) | 4:38 |
+| 53 | [Panic In Babylon](https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Aufheben](https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn) | 4:38 |
+| 54 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
+| 55 | [Animal Noises](https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam) | [Here Lies Man](https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H) | [You Will Know Nothing](https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX) | 4:12 |
 | 56 | [Todo Bien](https://open.spotify.com/track/6aKI6d7NkTPqHoElel3TnI) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB) | 4:33 |
 | 57 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
 | 58 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 71 | [Jukebox Babe](https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Jukebox Babe](https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV) | 6:24 |
 | 72 | [Black Kite](https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V) | [Yawning Man](https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe) | [The Revolt Against Tired Noises](https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa) | 5:21 |
 | 73 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 |
-| 74 | [Chasse à l'homme](https://open.spotify.com/track/30njO8xB8t4gUbocXczybe) | [Pierre Cavalli](https://open.spotify.com/artist/7z4lDD7ljn6w4SLFMrumey) | [Un soir chez Norris \(Evasion 1971\) \- Single](https://open.spotify.com/album/6R8dIZHRiJ3EwwBqKgk4Ce) | 2:11 |
-| 75 | [New Hope For The New Year](https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [Not Normal](https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx) | 9:01 |
+| 74 | [New Hope For The New Year](https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [Not Normal](https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx) | 9:01 |
+| 75 | [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 |
 
-Snapshot ID: `MTY3MzA2NDE5MiwwMDAwMDAwMDkzNzcyNTJmOGEyNWIxYTZiOWNlODEzNjNjNDgyMjRj`
+Snapshot ID: `MTY3MzA2NDE5MiwwMDAwMDAwMGZkNDNhMWQyZmQ1MGUzZTdkMDVkOGRhZGNhZDEwYjZh`

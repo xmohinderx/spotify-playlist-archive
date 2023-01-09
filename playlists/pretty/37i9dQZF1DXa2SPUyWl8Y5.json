@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 434850,
+  "num_followers": 435030,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NTcxMiwwMDAwMDAwMDEwN2U2NmU4ODkzOWU0YjJlOGZlZjI2ZDAzMTY5Mjhk",
+  "snapshot_id": "MTY2OTM4NTcxMiwwMDAwMDAwMDkzNWQyZjlmMzQ0OTViOWU4NDUzN2ZlOTExMzg2N2Fk",
   "tracks": [
     {
       "added_at": "2022-09-30 18:04:57",
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
     },
     {
-      "added_at": "2023-01-08 00:45:31",
+      "added_at": "2023-01-09 01:11:57",
       "album": {
         "name": "Biosph\u00e8re",
         "url": "https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
-      "added_at": "2023-01-08 00:45:31",
+      "added_at": "2023-01-09 01:11:57",
       "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
+        "name": "Allegri",
+        "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 322640,
+      "name": "Allegri",
+      "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
         "name": "Purple Days & Purple Nights",
         "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 269531,
       "name": "Purple Days",
       "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
-        "name": "Allegri",
-        "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 322640,
-      "name": "Allegri",
-      "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/1ZE6ebWHUSp2v6JAPpp8eS"
     },
     {
-      "added_at": "2023-01-08 00:45:31",
+      "added_at": "2023-01-09 01:11:57",
       "album": {
         "name": "Pulses",
         "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Gratitude (Extended Mixes)",
-        "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 356188,
-      "name": "Forsaken Dream - Extended Mix",
-      "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Pure Love EP",
         "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 393495,
       "name": "Life",
       "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Gratitude (Extended Mixes)",
+        "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 356188,
+      "name": "Forsaken Dream - Extended Mix",
+      "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
     },
     {
-      "added_at": "2023-01-08 00:45:31",
+      "added_at": "2023-01-09 01:11:57",
       "album": {
         "name": "Shaded",
         "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
@@ -747,38 +747,6 @@
       "duration_ms": 290731,
       "name": "Shaded",
       "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
-        "name": "Sense of Wonder",
-        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
-      },
-      "artists": [
-        {
-          "name": "Paradoks",
-          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
-        }
-      ],
-      "duration_ms": 241282,
-      "name": "Sense of Wonder",
-      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
-      },
-      "artists": [
-        {
-          "name": "GHEIST",
-          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
-        }
-      ],
-      "duration_ms": 377419,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -799,6 +767,38 @@
       "duration_ms": 408003,
       "name": "Boavista - Innellea Remix",
       "url": "https://open.spotify.com/track/2H66zNHEqwFckqVfxeFxIa"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
+      },
+      "artists": [
+        {
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
+        }
+      ],
+      "duration_ms": 377419,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Sense of Wonder",
+        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
+      },
+      "artists": [
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "duration_ms": 241282,
+      "name": "Sense of Wonder",
+      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -891,26 +891,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Loss/Bow To The Rain",
-        "url": "https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV"
-      },
-      "artists": [
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        },
-        {
-          "name": "Less Hate",
-          "url": "https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Loss",
-      "url": "https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Prelusion",
         "url": "https://open.spotify.com/album/3N6cm4FyrEgbMUKahWiatI"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 377919,
       "name": "Prelusion",
       "url": "https://open.spotify.com/track/6YJ9z4IInxfJWsjc6ADtV2"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Loss/Bow To The Rain",
+        "url": "https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV"
+      },
+      "artists": [
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "Less Hate",
+          "url": "https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Loss",
+      "url": "https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Landing in Halifax",
-        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
-      },
-      "artists": [
-        {
-          "name": "Passenger 10",
-          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Landing in Halifax",
-      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Fader",
         "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 284187,
       "name": "Revolt",
       "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Landing in Halifax",
+        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
+      },
+      "artists": [
+        {
+          "name": "Passenger 10",
+          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Landing in Halifax",
+      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY"
     },
     {
-      "added_at": "2023-01-08 00:45:31",
+      "added_at": "2023-01-09 01:11:57",
       "album": {
         "name": "Known",
         "url": "https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk"
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 414053,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "10 Years URSL - Reframed Future",
         "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 425437,
       "name": "Reframed Future",
       "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX"
+      },
+      "artists": [
+        {
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
+        }
+      ],
+      "duration_ms": 414053,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "duration_ms": 570543,
+      "name": "Red Planet",
+      "url": "https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
         "name": "La Napoule (Nathan Micay's Life in Every Breath Remix)",
         "url": "https://open.spotify.com/album/1IhIyCKQM9SIxc2CONztlE"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 447201,
       "name": "La Napoule - Nathan Micay's Life in Every Breath Remix",
       "url": "https://open.spotify.com/track/26BnoECfbkfmgw05VNMFGW"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 570543,
-      "name": "Red Planet",
-      "url": "https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1245,7 +1245,7 @@
       "url": "https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS"
     },
     {
-      "added_at": "2023-01-08 00:45:31",
+      "added_at": "2023-01-09 01:11:57",
       "album": {
         "name": "Night",
         "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"

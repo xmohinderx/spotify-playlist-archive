@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 958 likes - 164 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 960 likes - 164 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 136 | [Presión \(feat\. Cosculluela\)](https://open.spotify.com/track/1nh1GgmRGl0WEYtWCVlVQi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:05 |
 | 137 | [Si Te Vas \(feat\. Gocho\)](https://open.spotify.com/track/6OgwJotSzLwJ0CzwCJlJH5) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:55 |
 | 138 | [Amor Amor](https://open.spotify.com/track/2lOldevYazzMn8mXaOJZxh) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:17 |
-| 139 | [Prende](https://open.spotify.com/track/7y08Z9nFPI3tRy1itIogQh) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [O'Neill](https://open.spotify.com/artist/5PTM3njSX1y9zUA9AE50rY) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 5:02 |
-| 140 | [Que Importa](https://open.spotify.com/track/5xpaelrvdOBxwnxIO1FOQv) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:42 |
+| 139 | [Que Importa](https://open.spotify.com/track/5xpaelrvdOBxwnxIO1FOQv) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:42 |
+| 140 | [Prende](https://open.spotify.com/track/7y08Z9nFPI3tRy1itIogQh) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [O'Neill](https://open.spotify.com/artist/5PTM3njSX1y9zUA9AE50rY) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 5:02 |
 | 141 | [Noche De Carnaval](https://open.spotify.com/track/4R1ZTCkXn3kW823NJdvaMA) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 3:28 |
 | 142 | [YA NO ME MUERDO](https://open.spotify.com/track/5SXKLCnq8mv5CHpfT4GPlU) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:41 |
 | 143 | [PARTY DB](https://open.spotify.com/track/7iYClgHtw1gcmc0SN4YcAW) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Giovakartoons](https://open.spotify.com/artist/1hspTSkv6cudGz0WfUBGfG) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:57 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 163 | [Amanecer Contigo](https://open.spotify.com/track/1DzgxamWIUxbIvGzHNocFj) | [Tormenta](https://open.spotify.com/artist/5IxyAzEThg31lxtUWCcb2q) | [Bendiciones \(Deluxe Edition\)](https://open.spotify.com/album/0uj7i2QiUuSyi7STcjo9uZ) | 3:29 |
 | 164 | [No Body Like You](https://open.spotify.com/track/0pC44HyexlUgpwQ9BPzIx7) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Latinos de Corazón](https://open.spotify.com/album/7gCIvYTE49QuPO8aW746wo) | 3:56 |
 
-Snapshot ID: `Mjc4ODU2NjIsMDAwMDAwMDAxYzM4MjdkM2JhNzQ2NWRlYTUwMTMxNjNlMGYyNGQ5NQ==`
+Snapshot ID: `Mjc4ODcxMDIsMDAwMDAwMDA0YjBjYmQwZTljZDNiZGMzOTdjZTc4M2VjMGU4MGM5Mw==`

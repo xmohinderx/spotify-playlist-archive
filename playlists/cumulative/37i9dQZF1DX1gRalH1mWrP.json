@@ -263,24 +263,6 @@
     },
     {
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "date_added": "2022-07-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
-    },
-    {
-      "album": {
         "name": "A-O-K",
         "url": "https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR"
       },
@@ -938,6 +920,24 @@
       "duration_ms": 161746,
       "name": "Antisocial (with Travis Scott)",
       "url": "https://open.spotify.com/track/1DhRbox3xkceP64k3JeYfW"
+    },
+    {
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {

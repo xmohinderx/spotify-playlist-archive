@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 
 > Pa' las posadas y las fiestas, canciones navideñas con sazón mexa\. Chiquis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,882 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,873 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 | 30 | [Navidad En Mi Rancho](https://open.spotify.com/track/58poRvBpaSao6M24ZItrMq) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Momentos Inolvidables](https://open.spotify.com/album/4j52g8PEdpDLzznzt3lGUO) | 3:59 |
 | 31 | [Pero Llegó la Navidad](https://open.spotify.com/track/4QOpEXSTirD3wQH16osqXM) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Pero Llegó la Navidad](https://open.spotify.com/album/5RabM8YMqCDpi8mbCZ0BW2) | 4:26 |
 | 32 | [El Niño del Tambor \- Edición Especial](https://open.spotify.com/track/1C0Uip3Flj5zCvpUeKcLmF) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Navidad Con Angela \(Edición Especial\)](https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX) | 3:16 |
-| 33 | [Feliz Navidad](https://open.spotify.com/track/0Es2hHjYJqRPlQjMxm6sut) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 3:29 |
+| 33 | [Otra Cartita Más](https://open.spotify.com/track/1HP8HmI94NFtB4tmTWu713) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Otra Cartita Más](https://open.spotify.com/album/6LCtkeEP705FyPmllLI2c4) | 3:12 |
 | 34 | [Alrededor del Árbol de Navidad](https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Alrededor del Árbol de Navidad](https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m) | 2:04 |
-| 35 | [Mi Burrito Sabanero](https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Burrito Sabanero](https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2) | 2:58 |
-| 36 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 |
-| 37 | [Otra Cartita Más](https://open.spotify.com/track/1HP8HmI94NFtB4tmTWu713) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Otra Cartita Más](https://open.spotify.com/album/6LCtkeEP705FyPmllLI2c4) | 3:12 |
+| 35 | [Feliz Navidad](https://open.spotify.com/track/0Es2hHjYJqRPlQjMxm6sut) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 3:29 |
+| 36 | [Mi Burrito Sabanero](https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Burrito Sabanero](https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2) | 2:58 |
+| 37 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 |
 | 38 | [Rodolfo El Reno](https://open.spotify.com/track/37Q1Wd3pwUf5XyhDNqO70W) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Rodolfo El Reno](https://open.spotify.com/album/3TlEv9eHOPhTJqoh3Xn9aQ) | 3:27 |
 | 39 | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe) | 2:35 |
 | 40 | [Se Acerca Navidad](https://open.spotify.com/track/0SLJQuE1QvGq4Q2VWH43ZG) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Se Acerca Navidad](https://open.spotify.com/album/2QZTrlrTV3ipvIrWSChX2B) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 | 74 | [Blanca Navidad](https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:37 |
 | 75 | [Santa Claus Llegó a la Ciudad](https://open.spotify.com/track/0do4Mg3bOyd1SV17C37vBT) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Sonidos de la Navidad](https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps) | 2:15 |
 
-Snapshot ID: `MTY3MTc3MDM3NSwwMDAwMDAwMGI2MzFkMzhmZjk1ODU0NDBkNGZhMDUyODQ0MzM3NWEy`
+Snapshot ID: `MTY3MTc3MDM3NSwwMDAwMDAwMDY3OWY5MzRiNmZiNTlkN2FjNjVmOTE2NDkwOTE2M2Qx`

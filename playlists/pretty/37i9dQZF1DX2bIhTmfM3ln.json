@@ -1,12 +1,12 @@
 {
   "description": "West African love stories wrapped up in song",
-  "num_followers": 3267,
+  "num_followers": 3283,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1OTIxNSwwMDAwMDAwMGI0MjcxNzM3MWE2NTg5YzNiZDBiZjIxNTE3YmExMGU4",
+  "snapshot_id": "MTY3MTM1OTIxNSwwMDAwMDAwMDhjMzMyMzEwM2Y2OWQzZWJjYzlmODM2OGYxY2RjMmY0",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
     },
     {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "Last Last",
-        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
-    },
-    {
       "added_at": "2022-05-19 23:00:00",
       "album": {
         "name": "Monalisa",
@@ -275,6 +259,22 @@
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "added_at": "2022-07-13 06:25:58",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 189014,
-      "name": "Contour",
-      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
-    },
-    {
       "added_at": "2022-02-11 10:48:58",
       "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
@@ -991,6 +975,22 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 189014,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -1281,6 +1281,26 @@
       "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
     },
     {
+      "added_at": "2022-02-11 10:48:58",
+      "album": {
+        "name": "Rum & Boogie",
+        "url": "https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 210048,
+      "name": "Southy Love",
+      "url": "https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA"
+    },
+    {
       "added_at": "2022-12-02 04:55:36",
       "album": {
         "name": "Chapter X",
@@ -1325,26 +1345,6 @@
       "url": "https://open.spotify.com/track/6CKgZehueFBpT33CzhF5gD"
     },
     {
-      "added_at": "2022-02-11 10:48:58",
-      "album": {
-        "name": "Rum & Boogie",
-        "url": "https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 210048,
-      "name": "Southy Love",
-      "url": "https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA"
-    },
-    {
       "added_at": "2022-09-01 23:00:00",
       "album": {
         "name": "Eye to Eye",
@@ -1361,22 +1361,6 @@
       "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
-      "added_at": "2022-11-04 07:34:52",
-      "album": {
-        "name": "Things I Know",
-        "url": "https://open.spotify.com/album/14sM4pRzpj49fEn5PJEGUP"
-      },
-      "artists": [
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
-        }
-      ],
-      "duration_ms": 170457,
-      "name": "Things I Know",
-      "url": "https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb"
-    },
-    {
       "added_at": "2022-08-22 18:00:00",
       "album": {
         "name": "In My Mind - A COLORS SHOW",
@@ -1391,6 +1375,22 @@
       "duration_ms": 136800,
       "name": "In My Mind - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
+    },
+    {
+      "added_at": "2022-11-04 07:34:52",
+      "album": {
+        "name": "Things I Know",
+        "url": "https://open.spotify.com/album/14sM4pRzpj49fEn5PJEGUP"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "duration_ms": 170457,
+      "name": "Things I Know",
+      "url": "https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
-      "added_at": "2022-03-31 23:00:00",
-      "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 164557,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
-    },
-    {
       "added_at": "2022-09-30 06:55:26",
       "album": {
         "name": "Love (feat. Adekunle Gold)",
@@ -1519,6 +1503,26 @@
       "duration_ms": 188181,
       "name": "Love (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
+      },
+      "artists": [
+        {
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "The Love Song (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
     }
   ],
   "unique_name": "Lovin' Beats",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,938 likes - 75 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,053 likes - 75 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 6 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
 | 7 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 |
 | 8 | [Du hast](https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) | 3:54 |
-| 9 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
+| 9 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 |
 | 10 | [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 |
 | 11 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 |
 | 12 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 |
-| 13 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 |
+| 13 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
 | 14 | [Closer](https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 6:13 |
 | 15 | [Just](https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:54 |
 | 16 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 33 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
 | 34 | [Sunburn](https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:53 |
 | 35 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 |
-| 36 | [Serve The Servants](https://open.spotify.com/track/3w5Ekq9O8g0gGFEsT77Ydi) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:37 |
-| 37 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
+| 36 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
+| 37 | [Serve The Servants](https://open.spotify.com/track/3w5Ekq9O8g0gGFEsT77Ydi) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:37 |
 | 38 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
 | 39 | [Candy](https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Brick By Brick](https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8) | 4:13 |
 | 40 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 74 | [Bull In The Heather](https://open.spotify.com/track/6px1KhTqAfxdcF6A1JGSpx) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Experimental Jet Set, Trash And No Star](https://open.spotify.com/album/3O8NuSnjHy8wiBqbG6N4yO) | 3:04 |
 | 75 | [March Of The Pigs](https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 2:58 |
 
-Snapshot ID: `MTY0NzUzNDg2NCwwMDAwMDAwMDg4Yzc1MjdjYThmZjBiODBmZDJkM2UyNjEzY2Q0YWY5`
+Snapshot ID: `MTY0NzUzNDg2NCwwMDAwMDAwMDRjZmU2OThlYmVlNjkzYmJiNjcxYTZmMDYzODgwNDgx`

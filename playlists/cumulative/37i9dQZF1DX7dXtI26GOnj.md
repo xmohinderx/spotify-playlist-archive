@@ -4,7 +4,7 @@
 
 > Todo o calor latino está aqui! 🔥  foto: Karol G
 
-220 songs - 11 hr 40 min
+221 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Amor en Coma](https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Amor en Coma](https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2) | 3:19 | 2021-12-31 | 2022-11-11 |
 | [Amor Eu Rebolo](https://open.spotify.com/track/4GlQbdkQdO4jePUU0xTdi6) | [Igor Sales](https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw), [Tay Muniz](https://open.spotify.com/artist/3n8pTgEl0GfiE0jfZHsGFE), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Amor Eu Rebolo](https://open.spotify.com/album/6UQpmM724c1xzOycdV2ECs) | 2:29 | 2022-07-08 | 2022-08-06 |
 | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/track/1Z3Y8hQXKVaD0RY72CRt5E) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/album/3lGLYMe25ojYNWqfTpwyk2) | 3:03 | 2021-12-31 | 2022-06-25 |
-| [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-04-08 |  |
+| [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-04-08 | 2023-01-09 |
 | [Aquariana](https://open.spotify.com/track/73iqXVAZYZAUwgQshkzGI7) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc) | [Aquariana](https://open.spotify.com/album/4tqyyl0Mrz1blMDG8J2KwF) | 2:48 | 2022-02-11 | 2022-02-26 |
 | [ARRIBA 2](https://open.spotify.com/track/04NuKpoj3SsZxBmeZ6lLoE) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [4LIFE Collective](https://open.spotify.com/artist/5b0GvhvDm06xgOF2AuOyVn) | [ARRIBA 2](https://open.spotify.com/album/5ycrVCgMcmwRpOLNiVdLbN) | 1:53 | 2022-05-06 | 2022-05-20 |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2021-12-31 |  |
@@ -114,6 +114,7 @@
 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2022-05-06 |  |
 | [La Tóxica](https://open.spotify.com/track/5lwNIm2sP8ixUpCkeoO9G9) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [La Tóxica](https://open.spotify.com/album/6Wb4ju59AnNwUgPwKgwyqI) | 2:51 | 2022-01-14 | 2022-02-05 |
 | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 | 2022-12-09 |  |
+| [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-06 |  |
 | [Lejos Conmigo](https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Lejos Conmigo](https://open.spotify.com/album/1LofKMQ8ZnMIcghheAXVtM) | 2:55 | 2021-12-31 | 2022-07-09 |
 | [LEJOS DEL CIELO](https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LEJOS DEL CIELO](https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M) | 3:28 | 2022-11-11 |  |
 | [Levado](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 | 2022-10-15 |

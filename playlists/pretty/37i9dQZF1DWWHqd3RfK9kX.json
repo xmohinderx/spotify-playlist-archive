@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 20576,
+  "num_followers": 20590,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNTAzNDA0MiwwMDAwMDAwMDAyNzhiNDNhZmFhODk1NDExNmIyZmRiZjM5YzBhMDU1",
+  "snapshot_id": "MTYwNTAzNDA0MiwwMDAwMDAwMDhiNDM3YTg5ZTE2ZGQ2YTI2ZGFhZGIyODgyODk2ZWI0",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -167,6 +167,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "The Best of Sam Cooke",
+        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 129061,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "The Best of Sam Cooke",
-        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 129061,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -939,6 +939,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Sem Nostalgia",
+        "url": "https://open.spotify.com/album/78k0Tn5KyFMcPdTIAHqKh8"
+      },
+      "artists": [
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "Amor em Jacum\u00e3",
+      "url": "https://open.spotify.com/track/0LbDTSA6QB9nA3Wjtkbx9N"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 219093,
       "name": "Saudade Vem Correndo",
       "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Sem Nostalgia",
-        "url": "https://open.spotify.com/album/78k0Tn5KyFMcPdTIAHqKh8"
-      },
-      "artists": [
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "Amor em Jacum\u00e3",
-      "url": "https://open.spotify.com/track/0LbDTSA6QB9nA3Wjtkbx9N"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
         "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 267400,
       "name": "Wanna Be",
       "url": "https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2020-11-10 18:47:22",

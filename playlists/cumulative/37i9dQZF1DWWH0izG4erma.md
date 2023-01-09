@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!! Cover: HARDY
 
-207 songs - 12 hr 5 min
+208 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Die Rockin](https://open.spotify.com/track/6TIBQ6xqAEbcTDcnXJqgVT) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Die Rockin](https://open.spotify.com/album/67oVAfnRY3Qw1B4285CAOR) | 3:24 | 2021-11-01 | 2022-04-29 |
 | [Die Too Young](https://open.spotify.com/track/2VhtuodYYG5YZCWRMKWk5o) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Die Too Young](https://open.spotify.com/album/6VmV8giZGESZ25E0mZrKFU) | 3:46 | 2022-06-03 | 2022-07-09 |
 | [DLTGYD](https://open.spotify.com/track/474bbaCVDM80WEg9iSvkYb) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [DLTGYD](https://open.spotify.com/album/7FnG6OJfxnWf3YdYqt4jv9) | 4:30 | 2021-11-01 | 2022-01-29 |
-| [Dodge Out Of Hell](https://open.spotify.com/track/1JV425vD0dWil9boakNIHf) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Dodge Out Of Hell](https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt) | 3:12 | 2022-07-08 |  |
+| [Dodge Out Of Hell](https://open.spotify.com/track/1JV425vD0dWil9boakNIHf) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Dodge Out Of Hell](https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt) | 3:12 | 2022-07-08 | 2023-01-09 |
 | [Doghouse](https://open.spotify.com/track/2BqlDDr1IykiGe6JvlMCd5) | [Highway Natives](https://open.spotify.com/artist/4iVEbYjSOR58bq1BTYZnJ3) | [Doghouse](https://open.spotify.com/album/5FsoKIJS8g2erLSvmRQrnb) | 3:15 | 2022-03-25 | 2022-07-10 |
 | [Doin' Fine](https://open.spotify.com/track/4N16l8wn8N29P8mbTwjix3) | [Manny Blu](https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA) | [Doin' Fine](https://open.spotify.com/album/1MZVeLNshWOFIuz8VLv7Vn) | 2:58 | 2021-11-01 | 2022-01-22 |
 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 | 2021-11-01 |  |
@@ -128,6 +128,7 @@
 | [My Son](https://open.spotify.com/track/2boCkY7uQ3bIqkxPuiSja2) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Old Henry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kkXBo9F0PBrR6s2iNaT1c) | 3:17 | 2021-11-01 | 2022-01-22 |
 | [Never Change](https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Never Change](https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee) | 3:10 | 2021-11-12 |  |
 | [Never Go Home](https://open.spotify.com/track/3K3uXpgYfvX8jMHH51tsaY) | [Payton Howie](https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV) | [Never Go Home](https://open.spotify.com/album/3FwRXqtlSKysLuH8R94fYi) | 3:29 | 2021-11-01 | 2022-07-26 |
+| [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 | 2023-01-02 |  |
 | [Old School’s In](https://open.spotify.com/track/50wplGw8gfqUx04sZQOzve) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Common Ground](https://open.spotify.com/album/1JWulolmgjMc4BQAQ9RyNJ) | 3:53 | 2021-11-01 | 2022-08-27 |
 | [On the Run](https://open.spotify.com/track/4Kt1bb3fWGhgRsoRgZCAJ8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [On the Run](https://open.spotify.com/album/7GNCgw56WhQtEoAiQzny55) | 3:45 | 2021-11-01 | 2022-03-26 |
 | [One Hell of an Angel](https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [One Hell of an Angel](https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF) | 3:31 | 2022-08-26 |  |

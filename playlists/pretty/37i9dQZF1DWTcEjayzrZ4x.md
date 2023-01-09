@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,455 likes - 360 songs - 22 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,503 likes - 360 songs - 22 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -289,7 +289,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 279 | [Sometimes](https://open.spotify.com/track/5cSBt7nIxZ8oRhUmn5YbT0) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Sometimes](https://open.spotify.com/album/26YUzNz77yd2ca8gLBSqXT) | 3:03 |
 | 280 | [Blue](https://open.spotify.com/track/0x5Vl0VTQXx6zCBFcozDVI) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Blue](https://open.spotify.com/album/7HGWsC65uDBoClXacVVTGM) | 3:47 |
 | 281 | [Sun Souls](https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA) | [Tosh Rhann Band](https://open.spotify.com/artist/0VO3Qw7YVwTbXhBx6neI0e) | [Of Laughter and Warmth](https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc) | 2:38 |
-| 282 | [Have You Met Miss Jones?](https://open.spotify.com/track/1EI2LEt7o54SZhbxCJYrms) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz Volume: Oscar Peterson](https://open.spotify.com/album/5aAKiw6kJDNT2K5eXOW0WJ) | 4:10 |
+| 282 | [Have You Met Miss Jones?](https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 4:10 |
 | 283 | [Baby Mine](https://open.spotify.com/track/1GCnHc1M0smwc41jQQDfhc) | [Yaron Herman Trio](https://open.spotify.com/artist/0ZHBP592ndKCuNxhiKtgdI), [Yaron Herman](https://open.spotify.com/artist/0YbhcCKyhHD3llGKNtE9UJ) | [Follow the White Rabbit](https://open.spotify.com/album/5OCGFTXS1TWGk6d94pK4VM) | 4:26 |
 | 284 | [Ballad For Trane](https://open.spotify.com/track/6Iffg8hOfzhHOmpyZFdprO) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Ballad For Trane](https://open.spotify.com/album/6lzGCAfFHQA487O3mOGTIs) | 3:37 |
 | 285 | [We'll Be Together Again](https://open.spotify.com/track/61AfCvc8HNqukDiqgLs1yF) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [We'll Be Together Again](https://open.spotify.com/album/3lWvifGDuUhFsCyxg8ixPn) | 4:29 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 359 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 |
 | 360 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 |
 
-Snapshot ID: `MTY3Mjk1OTYwMCwwMDAwMDAwMDk1ODY5OWZjMWRmNmEzNDA2ODZhMWI3N2M4NTIxOWI5`
+Snapshot ID: `MTY3Mjk1OTYwMCwwMDAwMDAwMGQxNWVhZmY0ZjMwY2U0ODBlZTkwMzJkNTRlZjhmOGE5`

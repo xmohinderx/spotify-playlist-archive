@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Limi\-T 21
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,647 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,700 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 48 | [Llego El Real Remix](https://open.spotify.com/track/0vwDHIuKLryWpMjh1XsOsF) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Llego El Real Remix](https://open.spotify.com/album/0Fmk6OWP7ZPgLQNHXWSJV8) | 3:41 |
 | 49 | [Te Voy a Hacer Falta](https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:24 |
 | 50 | [Traigo Fuego](https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Puro Mambo](https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS) | 4:21 |
-| 51 | [Asesina](https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:46 |
-| 52 | [Kiliki Taka Ti](https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 6:40 |
+| 51 | [Kiliki Taka Ti](https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 6:40 |
+| 52 | [Asesina](https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:46 |
 | 53 | [Anoche Hablamos de Amor](https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:31 |
 | 54 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
 | 55 | [El Venao](https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P) | 4:52 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 88 | [Dile](https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 5:02 |
 | 89 | [Eras Así](https://open.spotify.com/track/19yfOVNBk5X0xNW9sAfkoB) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 3:47 |
 | 90 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
-| 91 | [No Vale la Pena Sufrir \- Pop Version](https://open.spotify.com/track/4f8zYSaFyVA3kd9Bdbk0kK) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [No Vale la Pena Sufrir \(Pop Version\)](https://open.spotify.com/album/6oCXgAq3JmEjDyz9XksiCW) | 2:45 |
-| 92 | [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 |
+| 91 | [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 |
+| 92 | [No Vale la Pena Sufrir \- Pop Version](https://open.spotify.com/track/4f8zYSaFyVA3kd9Bdbk0kK) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [No Vale la Pena Sufrir \(Pop Version\)](https://open.spotify.com/album/6oCXgAq3JmEjDyz9XksiCW) | 2:45 |
 | 93 | [Coqueta y Sabrosa](https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:37 |
 | 94 | [Dominicano de Pura Cepa](https://open.spotify.com/track/0HNUDkgeq44zX2kPXYyUZz) | [Kalimete](https://open.spotify.com/artist/0Vcb967TZdQLzpGd4OlWdw) | [Paso a Paso](https://open.spotify.com/album/5U4bRc3qJu9cK6KtVSVoX7) | 3:58 |
 | 95 | [Tú Eres Ajena](https://open.spotify.com/track/3y6oIGHyKQg6MZWNlJnRow) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Eddy Herrera](https://open.spotify.com/artist/2dHwYqYxsj7IEgGu6dxraM) | [El Disco Del Año Vol\. 53](https://open.spotify.com/album/0mKBMKcJDra8yVTcDaAQgK) | 4:33 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 97 | [El Ñeñeñe](https://open.spotify.com/track/4787qTzGcugYeibCV3AyRV) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [El Mandamás](https://open.spotify.com/album/5YXoMxJWEFmlC4ePKS0nh3) | 4:50 |
 | 98 | [No Llores Por Ella](https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [Con El Machete En La Mano](https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol) | 4:50 |
 | 99 | [No Me Veran Caer](https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M) | [Barbosa](https://open.spotify.com/artist/1ZTqusXWkfiTeOciFTpphG) | [No Me Veran Caer](https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8) | 3:42 |
-| 100 | [Me Miras Y Te Miro \- New Version](https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [22 Ultimate Merengue Hits 2002](https://open.spotify.com/album/0eTqDy2Pkmo7REdNrXBBGQ) | 2:51 |
+| 100 | [Ñangala Fuangala](https://open.spotify.com/track/2bkIe2K7qMJO7Ai5OVPdBI) | [Merenglass Grupo](https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA) | [Ñangala Fuangala](https://open.spotify.com/album/0k2ttHsnz3o8Xjt9Fi44sU) | 3:48 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGZiYTVhNDI4ZDFhMzEzZDY4N2JhZjZlODQ3ZDA3Yjgx`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGFhYzJiMjhlZjE1ZGU4OGJkN2MxM2JhYTdmYTIzYTY3`

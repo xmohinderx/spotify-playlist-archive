@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Nell\(넬\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-430 songs - 1 day 2 hr 31 min
+431 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 | 2022-09-30 | 2022-10-08 |
 | [Colors of](https://open.spotify.com/track/4mGo0G3WCny26CJRiCyXUU) | [Doorlesshouse](https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy) | [Colors of](https://open.spotify.com/album/6a3yd7PCqC4GYDJQlAWPb3) | 3:29 | 2022-08-01 | 2022-08-13 |
 | [Colors of You](https://open.spotify.com/track/35nhfxiAlFeNvKWTQUR5kp) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [In Dreams, In Dreams](https://open.spotify.com/album/4gqNvoIBouPkzQAAusZb6f) | 4:30 | 2022-07-08 | 2022-07-16 |
-| [Comes and Goes](https://open.spotify.com/track/0Nld5ohgWfoPueMEtYNbgE) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [22](https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw) | 3:48 | 2022-07-22 |  |
+| [Comes and Goes](https://open.spotify.com/track/0Nld5ohgWfoPueMEtYNbgE) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [22](https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw) | 3:48 | 2022-07-22 | 2023-01-09 |
 | [Consolation To You](https://open.spotify.com/track/7i0Z1ID0SxDW71oKO7JjK9) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [Consolation To You](https://open.spotify.com/album/7vI2dIKirgwRLqsxqtfANO) | 3:53 | 2022-09-05 | 2022-10-01 |
 | [Continent of Mu](https://open.spotify.com/track/4v2IhNJLpJ3DPVbTZoEO77) | [Oah!](https://open.spotify.com/artist/5SH8ZbsJIqONusEcizNep3) | [PANORAMA](https://open.spotify.com/album/1kVaKFcXxNM6LPkJlDVGCE) | 3:26 | 2022-09-30 | 2022-10-19 |
 | [Convey one's feelings](https://open.spotify.com/track/2nmTLVKaTTIOM2eElmBsbV) | [SOONHO](https://open.spotify.com/artist/2UqlLjKZ5xxvBO6tmYMAp4) | [Convey one's feelings](https://open.spotify.com/album/5yMDSynklNUmFbOCZTd78b) | 2:59 | 2022-06-09 | 2022-06-14 |
@@ -286,6 +286,7 @@
 | [RAIN STAR \*:・゚](https://open.spotify.com/track/5mY26LEMh6ImayiXo7KLQs) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [RAIN STAR](https://open.spotify.com/album/1YzGYed20Rhnid37X5Ejkl) | 3:07 | 2022-04-12 | 2022-07-28 |
 | [Raining stars](https://open.spotify.com/track/2voUndfedlslylT03gwHRP) | [Quinsha](https://open.spotify.com/artist/6AQMjoRG3y1h8aQAyNcd2A) | [Illusion](https://open.spotify.com/album/0utY4SKIxKsdQUD6oZQ8Kp) | 3:32 | 2022-05-11 | 2022-07-09 |
 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 | 2022-04-12 |  |
+| [RED](https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl) | 2:56 | 2023-01-06 |  |
 | [RED](https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) | 2:56 | 2022-07-22 | 2023-01-05 |
 | [RED](https://open.spotify.com/track/4Dy1Iav5ND9bJCHE090An9) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4CMscoZuaGi6UEDC2Wpdtk) | 2:56 | 2022-04-12 | 2022-07-29 |
 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 | 2022-06-23 | 2022-07-29 |

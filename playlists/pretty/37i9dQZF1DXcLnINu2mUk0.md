@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,830 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,895 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,20 +53,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 43 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
 | 44 | [Fe.](https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:34 |
 | 45 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
-| 46 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
-| 47 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 |
-| 48 | [Pretty](https://open.spotify.com/track/1TsJalUMdjzsuWK844ycbd) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [Pretty](https://open.spotify.com/album/2ouErWVGuO47sxiOTbGl6p) | 2:40 |
+| 46 | [Pretty](https://open.spotify.com/track/1TsJalUMdjzsuWK844ycbd) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [Pretty](https://open.spotify.com/album/2ouErWVGuO47sxiOTbGl6p) | 2:40 |
+| 47 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
+| 48 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 |
 | 49 | [BAE](https://open.spotify.com/track/7whAOEEZlRwbp0cLlCyICd) | [Luis Marvão](https://open.spotify.com/artist/0qKkgDdvYql0lH5OfWdPHS) | [BAE](https://open.spotify.com/album/3vdrJJMUftuYgEnOB4seca) | 3:20 |
 | 50 | [Licor](https://open.spotify.com/track/2sDi2QrFLpQEWbBNmE8Suc) | [Jaca](https://open.spotify.com/artist/2kMADMJ2Haa8p3x0Dj6SPH) | [Licor De Jaca](https://open.spotify.com/album/5TGbNOBIR8jdm5cVOYJcfK) | 3:26 |
 | 51 | [Vivenda](https://open.spotify.com/track/5vnzyBc5JZ1Z7VZJcf4ap6) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Vivenda](https://open.spotify.com/album/2aA6KxWFPth5qoD1AHNflH) | 3:11 |
-| 52 | [3AM](https://open.spotify.com/track/1hyewEko9M8kAQqNWxU5jY) | [Cairo](https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP) | [3AM](https://open.spotify.com/album/1kkh8UFijujeCRn91kAKDH) | 2:27 |
-| 53 | [Verão Azul \- Encore Sessions](https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL) | [D'ZRT](https://open.spotify.com/artist/2Td4hZ8FWidGoeKhu7c73I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Verão Azul](https://open.spotify.com/album/3mDUg1qAUPoEEKJRh1FPMs) | 4:42 |
+| 52 | [Verão Azul \- Encore Sessions](https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL) | [D'ZRT](https://open.spotify.com/artist/2Td4hZ8FWidGoeKhu7c73I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Verão Azul](https://open.spotify.com/album/3mDUg1qAUPoEEKJRh1FPMs) | 4:42 |
+| 53 | [3AM](https://open.spotify.com/track/1hyewEko9M8kAQqNWxU5jY) | [Cairo](https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP) | [3AM](https://open.spotify.com/album/1kkh8UFijujeCRn91kAKDH) | 2:27 |
 | 54 | [Céu No Quarto](https://open.spotify.com/track/7qocYaIQY1ToJnbK7pj8fN) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Céu No Quarto](https://open.spotify.com/album/1iQArK8itENXTXgexkZwDd) | 2:38 |
 | 55 | [Toxic](https://open.spotify.com/track/5y5whWaKrsHfPstxEvSRXo) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [Toxic](https://open.spotify.com/album/2sfSoDqx6QohDOVG7mmV0f) | 2:22 |
 | 56 | [Cupid](https://open.spotify.com/track/23WXbyhKyMT8dowZx3Bu7I) | [King Cizzy](https://open.spotify.com/artist/3ZTBddrm597Yp0BM5aLLUN) | [Cupid](https://open.spotify.com/album/4MUjU07dZASo1tDM1MDGY6) | 2:56 |
 | 57 | [DISPARA](https://open.spotify.com/track/6CXtClKJQvhErH0tLkY1S3) | [Pta](https://open.spotify.com/artist/3VIQzyoHE4thDQjYkR0AEA), [Bully Firmaloko](https://open.spotify.com/artist/3h2hZep6OzgSSo5Km4iWH9) | [DISPARA](https://open.spotify.com/album/5cvlEKE5tzK35WoF6DIqba) | 2:51 |
 | 58 | [mal\-me\-quer](https://open.spotify.com/track/6r1oBhMARlpEotia4lbhqo) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i) | [mal\-me\-quer](https://open.spotify.com/album/3ByBw1099rBcfs0QPqE1M8) | 1:47 |
-| 59 | [Coração de Prata](https://open.spotify.com/track/3kX8pwkuFxnCmzZAxP5VeR) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Coração de Prata](https://open.spotify.com/album/2dSNU471jKPFqhF2cmvey7) | 2:56 |
-| 60 | [Lean](https://open.spotify.com/track/6tfaKwxYh25nFT5hbOA4cd) | [Luxy](https://open.spotify.com/artist/6RiGCtMzCmL51X6svOnC4H), [sugar.mp3](https://open.spotify.com/artist/4xivi2yulyDFk5kmcptIr2), [ZéVi](https://open.spotify.com/artist/4qEFSJ8V6S175lG0pWKMwI) | [Lean](https://open.spotify.com/album/3J5HLdkjp96rs8VewgMrND) | 3:05 |
+| 59 | [Chance](https://open.spotify.com/track/1AClteNHhuIF4uGgPCHKhA) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi), [Juh](https://open.spotify.com/artist/5eviHRz2iMhA8NSTP176u8) | [Chance](https://open.spotify.com/album/0iSgo1smaFKzYKguM5Kws9) | 3:16 |
+| 60 | [Coração de Prata](https://open.spotify.com/track/3kX8pwkuFxnCmzZAxP5VeR) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Coração de Prata](https://open.spotify.com/album/2dSNU471jKPFqhF2cmvey7) | 2:56 |
 
-Snapshot ID: `MTY3Mjk2MzIwMCwwMDAwMDAwMGYwMjBhNjJlMzhkMDEzOGJiYzg3YjZmM2YzZGM2NDcx`
+Snapshot ID: `MTY3Mjk2MzIwMCwwMDAwMDAwMDA2ZDdjYjAxZmViNWVhNGQzNmZiOGU2ZGUwOWM4ZTdh`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Mauro Henrique
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,215 likes - 70 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,250 likes - 70 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ATEU](https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [ATEU](https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb) | 4:05 |
 | 2 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/5TJedk4fuUFoCy74qjIzlm) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP) | 6:22 |
 | 3 | [Estamos de Pé \- Ao Vivo](https://open.spotify.com/track/715slv9zyByop7EttlmTjQ) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Estamos de Pé \(Ao Vivo\)](https://open.spotify.com/album/6lXUIWSsJYF3slmnIatAuG) | 6:36 |
-| 4 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 |
-| 5 | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/track/6zuKUWd8WI64enPMwPBsmE) | [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/album/6gOZTR9GlaP1eOIBbvrT63) | 9:25 |
+| 4 | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/track/6zuKUWd8WI64enPMwPBsmE) | [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/album/6gOZTR9GlaP1eOIBbvrT63) | 9:25 |
+| 5 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 |
 | 6 | [HEREGE](https://open.spotify.com/track/5yZBk4qrWmgRGcWHtt74ot) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [HEREGE](https://open.spotify.com/album/1aZjMqH9pQ0RHhyjxOmEqv) | 4:09 |
 | 7 | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT) | 4:12 |
 | 8 | [Medley Leão de Judá \- Ao Vivo](https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 80's \(Ao Vivo\)](https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu) | 4:56 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 47 | [Meu Valor](https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Meu Valor](https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu) | 2:53 |
 | 48 | [Sempre Foi Deus](https://open.spotify.com/track/5aJiKvmw8KvEMhlxh3rTLj) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Sempre Foi Deus](https://open.spotify.com/album/7AFUISl2RmHPJFu3AGf1yX) | 3:25 |
 | 49 | [Louco \(feat\. PG\)](https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Louco \(feat\. PG\)](https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg) | 5:09 |
-| 50 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
-| 51 | [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 |
+| 50 | [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 |
+| 51 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
 | 52 | [Única Paz](https://open.spotify.com/track/28NSQr1LYImH2Avvk06oYV) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k), [Fruto Sagrado](https://open.spotify.com/artist/0tuvLFT4ZHTJ17rrBP0K5K) | [Única Paz](https://open.spotify.com/album/5nkSbqUiUnqxU6WGN0BHI3) | 4:39 |
-| 53 | [Lado a Lado](https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Lado a Lado](https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O) | 3:45 |
-| 54 | [Pura Luz](https://open.spotify.com/track/4ueM9Lm7cMB68qkveLIFG0) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Pura Luz](https://open.spotify.com/album/5dC3nxKgPPfZJD0ZJxTE5D) | 5:45 |
+| 53 | [Pura Luz](https://open.spotify.com/track/4ueM9Lm7cMB68qkveLIFG0) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Pura Luz](https://open.spotify.com/album/5dC3nxKgPPfZJD0ZJxTE5D) | 5:45 |
+| 54 | [Lado a Lado](https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Lado a Lado](https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O) | 3:45 |
 | 55 | [Não Há Variação](https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ) | [Redentto](https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj) | [Não Há Variação](https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr) | 4:25 |
 | 56 | [Mateus 6:6](https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [Mateus 6:6](https://open.spotify.com/album/68gKXAe1jppn328oF3ElLH) | 4:53 |
 | 57 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Essência](https://open.spotify.com/track/6NWnC1i5JJsuqcO94XkpzF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Essência](https://open.spotify.com/album/4o9nv6ts5TjlhYSQXMIxJ7) | 4:29 |
 | 70 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 |
 
-Snapshot ID: `MTY3MDU2NzA4MSwwMDAwMDAwMDEyMjE1MDBhNGFhNmMwNDRmYTRhYzAxZjk1MzM1NTUw`
+Snapshot ID: `MTY3MDU2NzA4MSwwMDAwMDAwMDFkNTM1YWYyYjI5NzdkYjgyNTkwYjU4NzdmMjcxZWU3`

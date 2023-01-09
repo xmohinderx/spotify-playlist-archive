@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,784 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,834 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 9 | [El Disgusto](https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Relampagueando \- En Memoria De Cornelio Reyna 25 Años Después](https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy) | 2:24 |
 | 10 | [Del Otro Lado del Portón](https://open.spotify.com/track/5lLSkpxhENaXxzeBBa8vYN) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [El Número 100](https://open.spotify.com/album/0QduY2R2maevRnHXuBFrBi) | 2:53 |
 | 11 | [Que Me Lleve El Diablo](https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 3:30 |
-| 12 | [Entiérrenme Cantando](https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 4:12 |
-| 13 | [Qué Casualidad \- En Vivo](https://open.spotify.com/track/6lZCAX3knOgcY1Qul2wHJu) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:38 |
+| 12 | [Qué Casualidad \- En Vivo](https://open.spotify.com/track/6lZCAX3knOgcY1Qul2wHJu) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:38 |
+| 13 | [Entiérrenme Cantando](https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 4:12 |
 | 14 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 |
 | 15 | [Chaparra De Mi Amor](https://open.spotify.com/track/6O520IZgFxvuPnBms0But5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [\(DE LA PELICULA\) DINASTIA DE LA MUERTE \(Grabación Original Remasterizada\)](https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs) | 3:09 |
-| 16 | [Recuérdame Y Ven A Mí](https://open.spotify.com/track/1P75JJKulGQaF4Xeeab8oa) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos Pesados De La Cantina](https://open.spotify.com/album/6e5tTNCr3N7p2gjyyN2Kwo) | 3:23 |
-| 17 | [La Vecina Me Puso El Dedo \- \(En Vivo\)](https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:50 |
+| 16 | [La Vecina Me Puso El Dedo \- \(En Vivo\)](https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:50 |
+| 17 | [Recuérdame Y Ven A Mí](https://open.spotify.com/track/1P75JJKulGQaF4Xeeab8oa) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos Pesados De La Cantina](https://open.spotify.com/album/6e5tTNCr3N7p2gjyyN2Kwo) | 3:23 |
 | 18 | [Un Puño De Tierra](https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:46 |
 | 19 | [Vestida De Color De Rosa](https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 3:05 |
 | 20 | [Corrido De Chito Cano](https://open.spotify.com/track/31cRUiuUfvpxAEYAXn1Qtq) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Los Mejores 15 Éxitos Norteños](https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [Atras De La Raya \- \(En Vivo\)](https://open.spotify.com/track/7AZLFXk4B3eA2Rp5nNcr8w) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:39 |
 | 50 | [Dos Monedas](https://open.spotify.com/track/4epespdttWqUpIk35qEoMY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:29 |
 
-Snapshot ID: `Mjc4ODUwNDcsMDAwMDAwMDA0NzY1OWQ0ZTM1YWQ4NTEwMWRjNDU0MWRkNDcyZTRiMg==`
+Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDBiYTgxOWI5MTg4NWYyYzgxNjkwZDA5MGIyZDkzZWRmYQ==`

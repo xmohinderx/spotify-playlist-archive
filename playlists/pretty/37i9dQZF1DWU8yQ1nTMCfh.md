@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del Rock en Español\. Cover: Wiplash
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,323 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,356 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 47 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
 | 48 | [d Bien a MaL](https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [d Bien a MaL](https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG) | 3:02 |
 | 49 | [¿Qué Pedo Contigo?](https://open.spotify.com/track/7thvuaGGKMjUBNz3mnVjPX) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Sobredosis RPDF](https://open.spotify.com/album/25dd3steypAu7tmyAydIbl) | 3:06 |
-| 50 | [Brutal](https://open.spotify.com/track/53A2Mrrj1EJmJIdfi7NFBu) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Brutal](https://open.spotify.com/album/4bMwAGWco8vww47fDYsD9T) | 2:43 |
+| 50 | [Inalacanzable](https://open.spotify.com/track/4l0QVLmd1kFzP9hA6L0mJV) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Cronopaisajes \- EP](https://open.spotify.com/album/2lTbNjxusc20TmIZ6DGfJo) | 3:08 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDg4MzFlNDFmNTk1MzBlMzFhOTA4ZTc5NzRkNzVlODMz`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGZiYWMyZmM4NGIyOTkzYjc5MTEyZjFmY2U0ZDc0ZmU0`

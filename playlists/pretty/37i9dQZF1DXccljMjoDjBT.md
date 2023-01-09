@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,660 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,940 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 54 | [Stop Draggin' My Heart Around \(with Tom Petty and The Heartbreakers\) \- 2016 Remaster](https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 4:04 |
 | 55 | [New York Minute](https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:35 |
 | 56 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
-| 57 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
-| 58 | [Wrapped Around Your Finger](https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:13 |
+| 57 | [Wrapped Around Your Finger](https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:13 |
+| 58 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
 | 59 | [Althea \- 2013 Remaster](https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Go to Heaven](https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT) | 6:52 |
 | 60 | [In My Dreams](https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Life As We Know It](https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok) | 4:30 |
 | 61 | [I Won't Hold You Back](https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 99 | [Danger List](https://open.spotify.com/track/45Ux5epL4Z3biyzUDDtA9N) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:29 |
 | 100 | [I Should Have Known Better](https://open.spotify.com/track/06Q8OSgrnDx0NNDf0oeOtd) | [Jim Diamond](https://open.spotify.com/artist/4MC3knlcFjcW7nt2hdn4Dk) | [The Best 80s Love Songs Album In The World...Ever!](https://open.spotify.com/album/7zNZ7yIrl8riW5m4FXiedC) | 3:38 |
 
-Snapshot ID: `MTY2ODcwMDM3NSwwMDAwMDAwMDY0MDc4OTQ4MDQzM2YzYmFkNjVkNWE3Y2Q3MTc4NTY1`
+Snapshot ID: `MTY2ODcwMDM3NSwwMDAwMDAwMDE2ZTA1ZDBmMDA5NzQ0MzE0MThiZWYyMjlmNWM2OWEx`

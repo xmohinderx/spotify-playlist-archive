@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vuelve el Cosqu\u00edn Rock! 12 y 13 de Febrero, Aer\u00f3dromo Santa Mar\u00eda de Punilla, C\u00f3rdoba.",
-  "num_followers": 24702,
+  "num_followers": 24725,
   "original_name": "Cosqu\u00edn Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMDUxYWY3Y2FjMzRkNzQ1ZTBhODU0YzM4OTg2MThiMzIy",
+  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMGQ3OTFlMjlkODlmMzJhZmFlMDcyNTNkYzg1MjQ0NTA0",
   "tracks": [
     {
       "added_at": "2022-02-07 20:34:45",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Nafta",
-        "url": "https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 257898,
-      "name": "Potra",
-      "url": "https://open.spotify.com/track/1DIBkKqsREnKgxpZ5RJjRf"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Ruli",
         "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 195306,
       "name": "En Avenidas",
       "url": "https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Nafta",
+        "url": "https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 257898,
+      "name": "Potra",
+      "url": "https://open.spotify.com/track/1DIBkKqsREnKgxpZ5RJjRf"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 172251,
-      "name": "Ser\u00e1 - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Delorean",
         "url": "https://open.spotify.com/album/6kMUWRb9fOyS8H2p3nehbH"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 149433,
       "name": "Delorean",
       "url": "https://open.spotify.com/track/7ytLrsD18C4jG5ib6LyED9"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 172251,
+      "name": "Ser\u00e1 - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Lavandina",
-        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 299192,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 187856,
       "name": "Somos - MTV Unplugged",
       "url": "https://open.spotify.com/track/6rc7TBDJBpB4uemwZssWBr"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Lavandina",
+        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 299192,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
     },
     {
       "added_at": "2022-02-07 20:34:45",

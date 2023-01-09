@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Loud",
-  "num_followers": 6450,
+  "num_followers": 6461,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMGQ1ODUzYzA5ZGEyNGU3MjhlYmNkNTI2YTJjNmZjYWFk",
+  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMGY0YzNkMmEyNzVmYWI4NTc1ZjU4ZTAyZGNmMDBkZTQz",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Free Cdf2",
+        "url": "https://open.spotify.com/album/1j1pDD3I8KnwFepYoybEnh"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Astral Drill",
+      "url": "https://open.spotify.com/track/3P2nTvpN0ehBz8etebwtam"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Ind\u00e9l\u00e9bile",
         "url": "https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 166835,
       "name": "Kr\u00e8ve",
       "url": "https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Free Cdf2",
-        "url": "https://open.spotify.com/album/1j1pDD3I8KnwFepYoybEnh"
-      },
-      "artists": [
-        {
-          "name": "Rowjay",
-          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Astral Drill",
-      "url": "https://open.spotify.com/track/3P2nTvpN0ehBz8etebwtam"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Bateaux Colombiens",
-        "url": "https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT"
-      },
-      "artists": [
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
-        }
-      ],
-      "duration_ms": 251495,
-      "name": "OuinOuin",
-      "url": "https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Fouette Saint-Patrick",
         "url": "https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 163459,
       "name": "Chill?",
       "url": "https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Bateaux Colombiens",
+        "url": "https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        }
+      ],
+      "duration_ms": 251495,
+      "name": "OuinOuin",
+      "url": "https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 171262,
+      "name": "G-code",
+      "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Encore Des Histoires De Trap",
         "url": "https://open.spotify.com/album/5f27f4CYjasBqMXVn6nbuw"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 219062,
       "name": "Dans L'trap",
       "url": "https://open.spotify.com/track/4ZaVq23ofISP4U9EChy7sN"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Cash Out",
-        "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 171262,
-      "name": "G-code",
-      "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Le sens des paroles",
+        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        }
+      ],
+      "duration_ms": 254396,
+      "name": "La famille",
+      "url": "https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 236657,
       "name": "Faya",
       "url": "https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Le sens des paroles",
-        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
-      },
-      "artists": [
-        {
-          "name": "Alaclair Ensemble",
-          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
-        }
-      ],
-      "duration_ms": 254396,
-      "name": "La famille",
-      "url": "https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1823,6 +1823,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Jungle Music",
+        "url": "https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ"
+      },
+      "artists": [
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "duration_ms": 265786,
+      "name": "D\u00e9coller",
+      "url": "https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "La Barquetterie",
         "url": "https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef"
       },
@@ -1855,26 +1875,6 @@
       "duration_ms": 262800,
       "name": "Fais ton shift",
       "url": "https://open.spotify.com/track/4rXzUQCQQSfa8pybnq5Wok"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Jungle Music",
-        "url": "https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ"
-      },
-      "artists": [
-        {
-          "name": "Farfadet",
-          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
-        },
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        }
-      ],
-      "duration_ms": 265786,
-      "name": "D\u00e9coller",
-      "url": "https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A"
     }
   ],
   "unique_name": "Les nouveaux classiques",

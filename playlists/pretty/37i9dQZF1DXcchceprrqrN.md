@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,534 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,678 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 28 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
 | 29 | [Pedestrian at Best](https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:50 |
 | 30 | [Hunned Bandz](https://open.spotify.com/track/0nJM3li3qU18Q7MJqzbZ4R) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Sundays](https://open.spotify.com/album/64TSZqQszg2OHzX5vYiqRP) | 2:48 |
-| 31 | [Jackie](https://open.spotify.com/track/1tEePg2AqDdRWLgYovr3yE) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/2Q02pptKl3XlbHJWtQmHmJ) | 2:56 |
-| 32 | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ) | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi) | 2:05 |
+| 31 | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ) | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi) | 2:05 |
+| 32 | [Jackie](https://open.spotify.com/track/1tEePg2AqDdRWLgYovr3yE) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/2Q02pptKl3XlbHJWtQmHmJ) | 2:56 |
 | 33 | [Control](https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Control](https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG) | 3:15 |
 | 34 | [The Same](https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 2:31 |
 | 35 | [Biohazard](https://open.spotify.com/track/1Dn8r3rLECHNSGCbajr9HX) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Two of Me](https://open.spotify.com/album/1dP6KuODHn23imSP4lYN4M) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 49 | [She Said](https://open.spotify.com/track/2azIROikp58zEAbcYYmLpH) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 2:53 |
 | 50 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 |
 
-Snapshot ID: `MTY2OTEzNTUyNCwwMDAwMDAwMDk3ZGEyMzQ2YzQzZDhjMWQxMjI1OTY3NGQ5MWVmOWY1`
+Snapshot ID: `MTY2OTEzNTUyNCwwMDAwMDAwMDAyYmNmZjM0ZjRkNTM2MWFjZmEyMjdlM2VhN2M2ODZk`

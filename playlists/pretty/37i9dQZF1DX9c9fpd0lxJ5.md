@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby:\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,377 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,394 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 43 | [PRONTO!](https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [PRONTO!](https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF) | 3:28 |
 | 44 | [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 |
 | 45 | [Story To Tell](https://open.spotify.com/track/7vEQ7hcDYobr5p4OkejYGK) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:15 |
-| 46 | [¿A Dónde Vas?](https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Miocarditis](https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j) | 3:40 |
-| 47 | [Chocolate y Nata](https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Chocolate y Nata](https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w) | 3:01 |
+| 46 | [Chocolate y Nata](https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Chocolate y Nata](https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w) | 3:01 |
+| 47 | [¿A Dónde Vas?](https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Miocarditis](https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j) | 3:40 |
 | 48 | [fantasies](https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [fantasies](https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3) | 3:03 |
 | 49 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 |
 | 50 | [A la Madrugada](https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 4:21 |
 | 51 | [Tumbado En El Jardín Viendo Atardecer](https://open.spotify.com/track/3CQ8mdIze27yCr4DNGas7f) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Tumbado En El Jardín Viendo Atardecer](https://open.spotify.com/album/3MMWQpliapfNub2AegCIYq) | 4:34 |
-| 52 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 |
-| 53 | [Get Lost In The Music](https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B) | 3:49 |
+| 52 | [Get Lost In The Music](https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B) | 3:49 |
+| 53 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 |
 | 54 | [Cool](https://open.spotify.com/track/0dauihENtfevnqjwnFPfgm) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Cool](https://open.spotify.com/album/60ollCR8TmOExAIxC6A5gK) | 3:44 |
 | 55 | [Copy Paste](https://open.spotify.com/track/4rF5XqE4UUVM1AtYV5wRfw) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Puro Teatro](https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P) | 3:01 |
 | 56 | [Nostalgia](https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nostalgia](https://open.spotify.com/album/056KBSR2KBMankHXTbizsL) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 99 | [Pausa](https://open.spotify.com/track/00ezOW7kOSRCnXYDUasfQm) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Gian Rojas](https://open.spotify.com/artist/5uHZUnYECoSfXNIlR76HOU) | [Pausa](https://open.spotify.com/album/3OSClJOjr54bInwJnKLZ93) | 3:52 |
 | 100 | [Patineta](https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Patineta](https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f) | 3:12 |
 
-Snapshot ID: `MTY3MjQzMDkwOCwwMDAwMDAwMDMxNDI5MmMwOTM1NWM4YTQ5MGZkYzJjYjg3OTIyY2M2`
+Snapshot ID: `MTY3MjQzMDkwOCwwMDAwMDAwMDcxMTJmN2UzZWNhMTYxMzU0OTA3OWFlYmVkYTY3Yzhh`

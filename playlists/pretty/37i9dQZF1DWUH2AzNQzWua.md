@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 
 > Instant classics from over the years loaded into one sweet mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,805,756 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,806,490 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

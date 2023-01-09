@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful French love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,267 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,319 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 70 | [Dis, quand reviendras\-tu ?](https://open.spotify.com/track/69VtPeUVg5gBtaPOZWxSHC) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII) | [Fanny Bloom](https://open.spotify.com/album/2AkUJJ4DUHVT9Wg8V7xO2P) | 3:50 |
 | 71 | [Les Aurores](https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Mara Tremblay](https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6) | 4:05 |
 | 72 | [Tu ne sauras jamais](https://open.spotify.com/track/255h1g53lT3LmG6djeescl) | [Ludovick Bourgeois](https://open.spotify.com/artist/0cv8lN7deJS8xeHJqPf4Ay) | [La Voix 5](https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW) | 4:07 |
-| 73 | [Quand on n’a que l’amour](https://open.spotify.com/track/3N36V5cm6DGRLSAZJec8sq) | [Cindy Daniel](https://open.spotify.com/artist/3E8tauvVeR2jBiDK4dwXyk) | [La Voix 5](https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW) | 3:35 |
-| 74 | [Chanson d'amour en sol standard](https://open.spotify.com/track/4jAgDuNmbaARi8zEQulw7v) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Mitan](https://open.spotify.com/album/4Zm0Sey2ULq1FS7YYaCQOB) | 5:36 |
+| 73 | [Chanson d'amour en sol standard](https://open.spotify.com/track/4jAgDuNmbaARi8zEQulw7v) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Mitan](https://open.spotify.com/album/4Zm0Sey2ULq1FS7YYaCQOB) | 5:36 |
+| 74 | [Quand on n’a que l’amour](https://open.spotify.com/track/3N36V5cm6DGRLSAZJec8sq) | [Cindy Daniel](https://open.spotify.com/artist/3E8tauvVeR2jBiDK4dwXyk) | [La Voix 5](https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW) | 3:35 |
 | 75 | [Ma préférence](https://open.spotify.com/track/28DzOSJv7d8NW96v0ZD804) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Limoilou \(Deluxe\)](https://open.spotify.com/album/32N6jwadyAwPmruhrGRB0J) | 2:49 |
 
-Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMGI0NTZmMzk1NzRmZGQxZDRkN2Q2MzA5NTkyMDQ2ZWNi`
+Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDdmYTA5NDg2ZDQ4ZjVmNmZmZDVjMGUzNDNmZTdhZTBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie Classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,529 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,742 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 45 | [Cycles of Existential Rhyme](https://open.spotify.com/track/6rpi77GqamZNoltbZ5ksdi) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Cycles of Existential Rhyme](https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3) | 4:15 |
 | 46 | [Explotar Contigo](https://open.spotify.com/track/4ZCRkqTO36YSyMEjQukC9s) | [TOURISTA](https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM) | [Colores Paganos](https://open.spotify.com/album/52qqkgnvRbNW9wW0VT3OgY) | 3:24 |
 | 47 | [Go Away](https://open.spotify.com/track/4xDovWrB1bJtRietj7JGGu) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 3:27 |
-| 48 | [Obra de Arte](https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 2:50 |
-| 49 | [La Crecida](https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Gratitud](https://open.spotify.com/album/4wojL8SZIhIi5DRxx7NYbN) | 4:32 |
+| 48 | [La Crecida](https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Gratitud](https://open.spotify.com/album/4wojL8SZIhIi5DRxx7NYbN) | 4:32 |
+| 49 | [Obra de Arte](https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 2:50 |
 | 50 | [Mi Fábrica de Baile](https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Baile de Magos](https://open.spotify.com/album/07GEY91tPdA08EVlRmqQ1f) | 4:25 |
 | 51 | [Suin Romanticon](https://open.spotify.com/track/50ikhv8M3yUnoNW9dUEXxy) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 3:08 |
 | 52 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 |
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 66 | [Latino & Proud](https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Raffolution](https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz) | 3:40 |
 | 67 | [Espero](https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:26 |
 | 68 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 |
-| 69 | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1) | 2:50 |
+| 69 | [Despues De Almuerzo Parte 3](https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica Para Despues De Almuerzo](https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP) | 3:15 |
 | 70 | [Métele](https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP I](https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1) | 4:08 |
-| 71 | [Despues De Almuerzo Parte 3](https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica Para Despues De Almuerzo](https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP) | 3:15 |
+| 71 | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1) | 2:50 |
 | 72 | [Holy Soul](https://open.spotify.com/track/3iRIduYS85sZeCE66yPODE) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Oom Velt](https://open.spotify.com/album/0SfbuytTzmQDEsN3mj2sM1) | 3:21 |
 | 73 | [Inercia](https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5) | [MKRNI](https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp) | [Canciones](https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR) | 3:54 |
 | 74 | [Toca Madera](https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [\#ponteelcasco](https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6) | 4:12 |
-| 75 | [En Mis Genes](https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW) | [Protistas](https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf) | [Nefertiti](https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh) | 4:02 |
-| 76 | [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 |
+| 75 | [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 |
+| 76 | [En Mis Genes](https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW) | [Protistas](https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf) | [Nefertiti](https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh) | 4:02 |
 | 77 | [Círculos](https://open.spotify.com/track/4q1ngjb83YMWqCyBWwgssI) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [Azul](https://open.spotify.com/album/4E3B6Ke1n9sna4pt84gpnd) | 3:12 |
 | 78 | [Gala](https://open.spotify.com/track/7wjqeF0W8zJcGJJtzRjKCG) | [424](https://open.spotify.com/artist/2GDqxAIoVhLMmtFP0NrUlA) | [Oro](https://open.spotify.com/album/1jpcKriEgL87byZ2wUY3Bs) | 3:09 |
 | 79 | [Sono](https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP I](https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 99 | [Play Your Game](https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Santa Cecilia](https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo) | 3:03 |
 | 100 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [The Acapulco Express](https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 |
 
-Snapshot ID: `MTY3MDk3NzgyMSwwMDAwMDAwMGUxOTRiZDVjNjUzOWUwNTQ0YmEyYzRhZjg3ZDQ5YjEw`
+Snapshot ID: `MTY3MDk3NzgyMSwwMDAwMDAwMGRlYzQyOGI0ZDMyZDRkZTM2YTYwNWZiYmE2YTliYjRl`

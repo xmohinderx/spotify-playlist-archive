@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,798 likes - 55 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,277 likes - 55 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 28 | [Won't Forget You \- Edit](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 |
 | 29 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
 | 30 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 |
-| 31 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 |
-| 32 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
+| 31 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
+| 32 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 |
 | 33 | [Clandestina \(feat\. Emma Peters\) \- Cocaina Remix](https://open.spotify.com/track/5x5jtuR4qWJzC6cDTgysez) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0), [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Clandestina \(feat\. Emma Peters\) \[Cocaina Remix\]](https://open.spotify.com/album/06IeiiR0ZXsBmrBxJ35t82) | 2:30 |
 | 34 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 |
 | 35 | [Atlante](https://open.spotify.com/track/0hKutS8fEyReGiXhkxhuNY) | [Celestial Inside](https://open.spotify.com/artist/0BTXnRCQgfV0mlIPftKTSQ), [Aris](https://open.spotify.com/artist/4K7NHFVYtbiSfPN6KOMuXN) | [Between Seas And Galaxies](https://open.spotify.com/album/6yhK1Vc3duTgu23uxPWP09) | 6:27 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 44 | [Sci\-Fi](https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sci\-Fi](https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu) | 3:18 |
 | 45 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 |
 | 46 | [Heartbeat](https://open.spotify.com/track/68Q6c22JNyLUlZYX4dE2tn) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Charmer](https://open.spotify.com/album/0OOjsSNzKmfzo1j6Z82PNG) | 5:29 |
-| 47 | [Shake It](https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/00SLXiSfueGVaPZSpNeqRa) | 2:47 |
-| 48 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 |
+| 47 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 |
+| 48 | [Shake It](https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/00SLXiSfueGVaPZSpNeqRa) | 2:47 |
 | 49 | [Gravity](https://open.spotify.com/track/1eV81a6H4xDdpi8r2C4tQT) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Laura Korinth](https://open.spotify.com/artist/060duYsbrXFx0FDnlhs72T) | [Gravity](https://open.spotify.com/album/1p3Tbckk09MaXRz3Tf4dRK) | 3:36 |
 | 50 | [Return to Oz \- ARTBAT Remix](https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Return to Oz \(ARTBAT Remix\)](https://open.spotify.com/album/4gzaCyT20sk6Xu6WzBlkpd) | 8:00 |
 | 51 | [Opus](https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Opus](https://open.spotify.com/album/2Kwbn1H4KMGZAe4MS6uDzU) | 9:03 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 54 | [El Sueno](https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [El Sueno](https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7) | 2:51 |
 | 55 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 |
 
-Snapshot ID: `MTY3Mjc5MTk2MSwwMDAwMDAwMGRhOGJiMjdjZDZiYTVjNjJlNTA2MzU5ZDhjOThmOGQx`
+Snapshot ID: `MTY3Mjc5MTk2MSwwMDAwMDAwMDgwYTAzZTgyYzIzZTk4OWFkMDA3NGZhNDFmZjBkMWMz`

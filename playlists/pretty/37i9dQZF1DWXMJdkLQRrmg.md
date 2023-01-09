@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged\. Cover: Wolf Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,490 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,596 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 17 | [If I Die Tomorrow](https://open.spotify.com/track/0VKpmchcyKYQ1ZalAKnfhT) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [If I Die Tomorrow](https://open.spotify.com/album/1c5GxvnVBWZQsTEODrZqpQ) | 2:59 |
 | 18 | [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP) | 3:57 |
 | 19 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
-| 20 | [Swing Life Away](https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:20 |
-| 21 | [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 |
+| 20 | [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 |
+| 21 | [Swing Life Away](https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:20 |
 | 22 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
 | 23 | [Anthem](https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem Of The Peaceful Army](https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX) | 4:41 |
 | 24 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 47 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
 | 48 | [bloody valentine \- Acoustic](https://open.spotify.com/track/4Uah1pyFsLEsw4eauJvuNF) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [bloody valentine \(Acoustic\)](https://open.spotify.com/album/6b3coyUziyxHqt8h5UiSkU) | 3:15 |
 | 49 | [Tuesday's Gone](https://open.spotify.com/track/3kjrWJMt1j9nl3favBZQIH) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC) | 9:05 |
-| 50 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
+| 50 | [Elderly Woman Behind the Counter in a Small Town \- Acoustic Version](https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [go](https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5) | 3:18 |
 
-Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDg4Nzk2OWY3MzkxNDVjMTFlOTk2N2M5ZjQzY2RlZmNl`
+Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDgzMGFiMmQ4MThjMDE2NmE5Y2NkM2I1ZjI1YTU0MmFl`

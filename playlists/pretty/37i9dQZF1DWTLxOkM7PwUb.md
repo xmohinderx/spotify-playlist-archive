@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,233 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,334 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 25 | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL) | 3:26 |
 | 26 | [Culpables](https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Culpables](https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w) | 3:46 |
 | 27 | [Percocet \- Remix](https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Percocet \(Remix\)](https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1) | 5:14 |
-| 28 | [Dime Cuantas Veces](https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Dime Cuantas Veces](https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd) | 3:33 |
+| 28 | [Como Estrellas](https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM) | 3:39 |
 | 29 | [Pero Ya No](https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:40 |
-| 30 | [Como Estrellas](https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM) | 3:39 |
+| 30 | [Dime Cuantas Veces](https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Dime Cuantas Veces](https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd) | 3:33 |
 | 31 | [Vete](https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Vete](https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn) | 3:02 |
 | 32 | [Arriba](https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Arriba](https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb) | 2:54 |
 | 33 | [Bipolar](https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bipolar](https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Mi Llamada](https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Taváres](https://open.spotify.com/artist/3fjQrf2I2ARKPtokE52RlM) | [Mi Llamada](https://open.spotify.com/album/6hGMmjLQGdQpnGPIk2UGO2) | 4:15 |
 | 100 | [Andan Buscándome](https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Andan Buscándome](https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0) | 3:57 |
 
-Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMGQyZWE5ZDk1MDRlMjhhZTBjN2FlYzM5Zjg1NWY1MzRl`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDVlNDczNWUxMDhjM2VkMmU4Y2NkMWEyY2VmNTdhNzIy`

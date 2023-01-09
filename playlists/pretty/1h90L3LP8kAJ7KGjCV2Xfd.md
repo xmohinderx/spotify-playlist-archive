@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 310,656 likes - 150 songs - 8 hr 33 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 310,625 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

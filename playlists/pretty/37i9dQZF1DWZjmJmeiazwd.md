@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,228 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,274 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 27 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
 | 28 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 |
 | 29 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 |
-| 30 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
+| 30 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
 | 31 | [Masterpiece](https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:26 |
-| 32 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
+| 32 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
 | 33 | [Separate Ways \(Worlds Apart\) \- Bryce Miller/Alloy Tracks Remix](https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt), [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Separate Ways \(Worlds Apart\) \[Bryce Miller/Alloy Tracks Remix\]](https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K) | 2:45 |
-| 34 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
-| 35 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
+| 34 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
+| 35 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 36 | [It's Been Awhile](https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:24 |
 | 37 | [All I Want](https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:22 |
 | 38 | [Sweetness](https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:40 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 49 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
 | 50 | [Tomorrow](https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:26 |
 | 51 | [No Good](https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:54 |
-| 52 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
-| 53 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
+| 52 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
+| 53 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
 | 54 | [Will Of The People](https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:18 |
 | 55 | [Tissues](https://open.spotify.com/track/5J1zn7OE12a0gFnjJc0Um6) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER) | 3:35 |
 | 56 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 73 | [Heaven Knows](https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going To Hell \(Deluxe Edition\)](https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4) | 3:44 |
 | 74 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
 | 75 | [Disease](https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease](https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF) | 3:48 |
-| 76 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 |
-| 77 | [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 |
+| 76 | [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 |
+| 77 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 |
 | 78 | [They Don't Want What We Want \(And They Don't Care\)](https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:15 |
 | 79 | [Ludens](https://open.spotify.com/track/2eZjO58Qe9og2xmyfw4qwJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [Ludens](https://open.spotify.com/album/4IojpVltvdlDvlQ6uC6iVW) | 4:40 |
 | 80 | [Talk to a Friend](https://open.spotify.com/track/6nqCVzh5uUc85E0Kctky9r) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [To Better Days](https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p) | 3:31 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 95 | [Come Around](https://open.spotify.com/track/6Mf8ozEDo35UcgKgKajrBY) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/4o6vvGb6VGYz725fP45kAx) | 3:30 |
 | 96 | [Dreams](https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 5:14 |
 | 97 | [Kiss This](https://open.spotify.com/track/3Zm5SMUA3JH98Aty7Zc0xr) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 2:57 |
-| 98 | [Antisocialist](https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:36 |
-| 99 | [Something to Believe In](https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:48 |
+| 98 | [Something to Believe In](https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:48 |
+| 99 | [Antisocialist](https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:36 |
 | 100 | [fake friend](https://open.spotify.com/track/6pO9pxKxrIHuTRqK7VLP8B) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Trauma Factory](https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY) | 2:49 |
 
-Snapshot ID: `MTY2OTc1MDg3NiwwMDAwMDAwMDMxYjJhZDdhNTlhZTMxM2EzNmVmMDc2MDgyZDk4ZDU4`
+Snapshot ID: `MTY2OTc1MDg3NiwwMDAwMDAwMDU0MWUwODQ4M2U3OWFmZTA3OWFhM2RlZmE5ZjFkNjYx`

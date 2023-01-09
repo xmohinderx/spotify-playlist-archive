@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,229 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,293 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 63 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 |
 | 64 | [shade of blue \(feat\. Rxseboy, Tia Tia & Shalfi\)](https://open.spotify.com/track/11JLypXfGVfs314vav1JAB) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS), [Shalfi](https://open.spotify.com/artist/6HJqFsXnlWehSwPu6s4BAO) | [surrounded by hounds and serpents](https://open.spotify.com/album/5iFPxq21dVb6E7RFjBSYvG) | 2:28 |
 | 65 | [friends](https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [friends](https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO) | 2:23 |
-| 66 | [Good Company](https://open.spotify.com/track/0bs4c6mFxhNMqQvOjv4vR3) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Company](https://open.spotify.com/album/2PgLWCDmJKChhZab33Pth9) | 2:37 |
-| 67 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 |
+| 66 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 |
+| 67 | [Good Company](https://open.spotify.com/track/0bs4c6mFxhNMqQvOjv4vR3) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Company](https://open.spotify.com/album/2PgLWCDmJKChhZab33Pth9) | 2:37 |
 | 68 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 |
 | 69 | [Naked](https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Naked](https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR) | 2:47 |
 | 70 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 79 | [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 |
 | 80 | [Slide All Night](https://open.spotify.com/track/1pou1vJsBUcH1y7UmFmDVp) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:55 |
 
-Snapshot ID: `MTY3Mjk2NjgzOCwwMDAwMDAwMDJmMzFkMjVkYWFiN2MwMDZlZGZlMjlkOGVhNzgwZDI2`
+Snapshot ID: `MTY3Mjk2NjgzOCwwMDAwMDAwMDJkOWRkOWRmNjgzNzc1YzRmZjQyNDljNGM4ODIwYzI2`

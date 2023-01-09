@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,497 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,529 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 9 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 10 | [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 |
 | 11 | [Everyone Falls in Love](https://open.spotify.com/track/6nGwWIh0ATJqK9cXbLqDw8) | [Tanto Metro & Devonte](https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd) | [Everyone Falls In Love](https://open.spotify.com/album/3D9Ac8ZaUdpT75shinyjTY) | 3:48 |
-| 12 | [My Woman, My Everything \(feat\. Wandecoal\)](https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [My Woman, My Everything \(feat\. Wandecoal\) \- Single](https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4) | 3:53 |
-| 13 | [That Day Will Come](https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Reign Of Fire](https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21) | 4:06 |
+| 12 | [That Day Will Come](https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Reign Of Fire](https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21) | 4:06 |
+| 13 | [My Woman, My Everything \(feat\. Wandecoal\)](https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [My Woman, My Everything \(feat\. Wandecoal\) \- Single](https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4) | 3:53 |
 | 14 | [No Cocaine](https://open.spotify.com/track/07QuKUTu5O40AibYYPx98I) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Escape From Babylon](https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD) | 4:14 |
 | 15 | [Superman](https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Contagious](https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx) | 4:22 |
 | 16 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 49 | [Note To Self \(Okay\) \[feat\. Chronixx\]](https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA) | [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Note To Self](https://open.spotify.com/album/4YmKbUsBwjYtCyzag1OpVV) | 4:04 |
 | 50 | [Put Down The Weapon \(feat\. Capleton\)](https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl) | [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Jah Love](https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG) | 4:01 |
 
-Snapshot ID: `MTYxMTkyNDgwNywwMDAwMDAwMGIxYmU2ZmQxMTEyOWRiMGI1YzllMjU2ZjMwZjMxMDVi`
+Snapshot ID: `MTYxMTkyNDgwNywwMDAwMDAwMDg2YzJmOTgwY2ZmNWQ4MDFiNDYwNzY3MGE4MDI0YjNh`

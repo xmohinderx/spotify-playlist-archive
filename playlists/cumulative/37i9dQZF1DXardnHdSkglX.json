@@ -3234,6 +3234,28 @@
     {
       "album": {
         "name": "Best of Bossa Lounge (International Version)",
+        "url": "https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow"
+      },
+      "artists": [
+        {
+          "name": "Bossanatics",
+          "url": "https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq"
+        },
+        {
+          "name": "Ana Costa",
+          "url": "https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260355,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/2YeJSReOgLqnx0tex1RhEw"
+    },
+    {
+      "album": {
+        "name": "Best of Bossa Lounge (International Version)",
         "url": "https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px"
       },
       "artists": [
@@ -3248,7 +3270,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 260355,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/5prVNiMkpcCPPNXNcWPEeb"

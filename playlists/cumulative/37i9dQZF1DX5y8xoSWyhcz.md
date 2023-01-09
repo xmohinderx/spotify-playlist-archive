@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. bestfriend on the cover.
 
-1,003 songs - 2 day 3 hr 30 min
+1,004 songs - 2 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -895,7 +895,8 @@
 | [This Is How I Lost My Friends](https://open.spotify.com/track/4qxSHyNGvEwrBgecEeYkb1) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [This Is How I Lost My Friends](https://open.spotify.com/album/0QULZ0JWjhooNF6t5yEaOx) | 3:08 | 2021-04-24 | 2021-09-11 |
 | [this is how you fall in love](https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [this is how you fall in love](https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW) | 2:54 | 2021-01-16 | 2021-02-13 |
 | [this is what having a crush feels like](https://open.spotify.com/track/68Ux98CKaDJl8kpm5trcux) | [Marina Lin](https://open.spotify.com/artist/56z9WF9quDfA4U6kcQrfQh) | [this is what having a crush feels like](https://open.spotify.com/album/3dt7Il8MbQHIxFTXee2WIz) | 2:46 | 2020-12-19 | 2021-01-06 |
-| [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2022-07-29 |  |
+| [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2022-07-29 | 2023-01-09 |
+| [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-01-06 |  |
 | [Those Eyes](https://open.spotify.com/track/5AbUJn9vjV9MZmSPl40V1V) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes Alternate Versions](https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB) | 3:40 | 2022-10-28 | 2022-11-14 |
 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 | 2022-08-12 |  |
 | [Tidal Wave](https://open.spotify.com/track/6batG48NWXXFdB9k6V2pK2) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Tidal Wave](https://open.spotify.com/album/5AVyDFH7uijN9sXikqMzIT) | 3:49 | 2022-06-10 |  |

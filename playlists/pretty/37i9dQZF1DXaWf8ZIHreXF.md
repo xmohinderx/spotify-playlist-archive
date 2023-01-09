@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 
 > The biggest dance floor bangers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,658 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,813 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 77 | [Post Malone \(feat\. RANI\)](https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:54 |
 | 78 | [You & Me \- Flume Remix](https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(The Remixes\)](https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB) | 4:42 |
 | 79 | [Sexy Bitch \(feat\. Akon\)](https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:15 |
-| 80 | [Save The World](https://open.spotify.com/track/65hRZOQkVjmBdusz1N7aOv) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Save The World](https://open.spotify.com/album/728voOLBbJUBgK2vooghcS) | 3:33 |
-| 81 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 |
+| 80 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 |
+| 81 | [Save The World](https://open.spotify.com/track/65hRZOQkVjmBdusz1N7aOv) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Save The World](https://open.spotify.com/album/728voOLBbJUBgK2vooghcS) | 3:33 |
 | 82 | [Say Something \- Zac Samuel Remix](https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Say Something](https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH) | 3:33 |
 | 83 | [Reload \- Radio Edit](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG) | 3:41 |
 | 84 | [Red Lights](https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:22 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 88 | [Easy Love](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:49 |
 | 89 | [Hideaway](https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 4:11 |
 | 90 | [Stay The Night \- Featuring Hayley Williams Of Paramore](https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Clarity \(Deluxe\)](https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy) | 3:37 |
-| 91 | [On & On](https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [On & On](https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn) | 2:27 |
-| 92 | [Sing Me to Sleep](https://open.spotify.com/track/1tfVpMI8G6EakZU4rEja4w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:07 |
+| 91 | [Sing Me to Sleep](https://open.spotify.com/track/1tfVpMI8G6EakZU4rEja4w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:07 |
+| 92 | [On & On](https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [On & On](https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn) | 2:27 |
 | 93 | [Tsunami](https://open.spotify.com/track/0vZCG0H9KhtU7K8MEUVAoV) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Tsunami](https://open.spotify.com/album/7p38vlEZaMNySKQVSSWUm8) | 3:56 |
 | 94 | [REMEDY](https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [REMEDY](https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe) | 3:10 |
 | 95 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 99 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 |
 | 100 | [\#SELFIE](https://open.spotify.com/track/1HOlb9rdNOmy9b1Fakicjo) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [\#SELFIE](https://open.spotify.com/album/3OeA4rJ9XJNAygyNyTc2sI) | 3:03 |
 
-Snapshot ID: `MTY2ODQxNzMxMCwwMDAwMDAwMDUzNzE5MTU4OTE3MWJjNzY3YWNiMmRiMDUwYThhYzhi`
+Snapshot ID: `MTY2ODQxNzMxMCwwMDAwMDAwMDk5MWIyOWM4NWJjNTVlYjVjNDM5YTYzMTUyMzMzZTE1`

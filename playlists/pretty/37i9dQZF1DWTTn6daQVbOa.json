@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s.",
-  "num_followers": 399909,
+  "num_followers": 400562,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDc3OTIwNSwwMDAwMDAwMDA2NTUzNmY4YmZlZjZiOTdmMDk0YmY5NGEzMzY5YWQw",
+  "snapshot_id": "MTY2NDc3OTIwNSwwMDAwMDAwMDYzMzM5NDJiYmIyMDY3ZTRkNmY1MmY0NWM1ZWU4OGYz",
   "tracks": [
     {
       "added_at": "2022-09-23 05:26:33",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "On the Waters",
-        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Make It with You",
-      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 179760,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "On the Waters",
+        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Make It with You",
+      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Rockin' Roll Baby",
+        "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 288440,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 181893,
       "name": "On And On",
       "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Rockin' Roll Baby",
-        "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 288440,
-      "name": "You Make Me Feel Brand New",
-      "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Closeup",
-        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "My Eyes Adored You",
-      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Poems, Prayers and Promises",
         "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 311893,
       "name": "Sunshine On My Shoulders",
       "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Closeup",
+        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "My Eyes Adored You",
+      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Michael Johnson Album",
-        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
-      },
-      "artists": [
-        {
-          "name": "Michael Johnson",
-          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Bluer Than Blue",
-      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "First Under The Wire (Remastered 2022)",
         "url": "https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp"
       },
@@ -1991,18 +1975,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "2 Hot!",
-        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
+        "name": "The Michael Johnson Album",
+        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
       },
       "artists": [
         {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+          "name": "Michael Johnson",
+          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
         }
       ],
-      "duration_ms": 345240,
-      "name": "Reunited",
-      "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
+      "duration_ms": 179666,
+      "name": "Bluer Than Blue",
+      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2023,6 +2007,22 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "2 Hot!",
+        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
+      },
+      "artists": [
+        {
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+        }
+      ],
+      "duration_ms": 345240,
+      "name": "Reunited",
+      "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Song Sung Blue",
+      "url": "https://open.spotify.com/track/57KfogSy3eKuk5JHLKwCJv"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Classic Masters",
         "url": "https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 256173,
       "name": "Dream Weaver",
       "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Song Sung Blue",
-      "url": "https://open.spotify.com/track/57KfogSy3eKuk5JHLKwCJv"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2265,22 +2265,6 @@
       "url": "https://open.spotify.com/track/5llfFWv1tH61nENrsjg3KZ"
     },
     {
-      "added_at": "2022-10-03 06:40:05",
-      "album": {
-        "name": "Do You Wanna Go Party",
-        "url": "https://open.spotify.com/album/1VyflnFsIEfcxPj4JgM5QR"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Please Don't Go - Single Version",
-      "url": "https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN"
-    },
-    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "Diana & Marvin",
@@ -2299,6 +2283,22 @@
       "duration_ms": 190440,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
+    },
+    {
+      "added_at": "2022-10-03 06:40:05",
+      "album": {
+        "name": "Do You Wanna Go Party",
+        "url": "https://open.spotify.com/album/1VyflnFsIEfcxPj4JgM5QR"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Please Don't Go - Single Version",
+      "url": "https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "Oh My Love - Remastered 2010",
-      "url": "https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "All The Great Love Songs",
         "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 217426,
       "name": "Three Times A Lady",
       "url": "https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "Oh My Love - Remastered 2010",
+      "url": "https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1"
     },
     {
       "added_at": "2022-09-23 05:26:33",

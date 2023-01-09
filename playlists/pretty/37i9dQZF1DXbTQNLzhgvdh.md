@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 
 > el amor es pico tres <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,694 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,788 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 54 | [Mi Vicio](https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Summer School Mixtape, Vol\. 1](https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU) | 3:14 |
 | 55 | [Lento](https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb) | 3:19 |
 | 56 | [Ella](https://open.spotify.com/track/66S2z95FN3nUAr9S1gUIsp) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Ella](https://open.spotify.com/album/4u2A6aHOyCOyG6yiCFM7rU) | 3:41 |
-| 57 | [Oficialmente en Soltería](https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Oficialmente en Soltería](https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe) | 2:02 |
-| 58 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
+| 57 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
+| 58 | [Oficialmente en Soltería](https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Oficialmente en Soltería](https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe) | 2:02 |
 | 59 | [Bésame Bonito \(Micro TDH Remix\)](https://open.spotify.com/track/4795j7G618M4FUwRl3wle8) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Bésame Bonito \(Micro TDH Remix\)](https://open.spotify.com/album/105IhpHlgEvL20sIp0CPnw) | 3:00 |
 | 60 | [Voy a Amarte](https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:23 |
 | 61 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 74 | [Maldito Romántico](https://open.spotify.com/track/00Lz6oOMNjlCthAaiQLsfr) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [444 Paradise "Encerrado, No Enterrado"](https://open.spotify.com/album/0SJjqErbyJDc46YKzV4ein) | 4:32 |
 | 75 | [Enamorado](https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe) | [Malandro Enamorado](https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA) | 3:36 |
 
-Snapshot ID: `MTY2NTc4NzQ3MSwwMDAwMDAwMDg2NmMwM2U1OWQ4OTdjYmJmMzQ4ZGJmMjQ2NzRjNDFm`
+Snapshot ID: `MTY2NTc4NzQ3MSwwMDAwMDAwMDQ0ZTkzMDdjMjg1MWYxM2JlNWU3NTA4YWNhZTcyYmY0`

@@ -1,12 +1,12 @@
 {
   "description": "The best uptempo pop for the workout girlies",
-  "num_followers": 1286667,
+  "num_followers": 1286990,
   "original_name": "Pumped Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGEyZDM1NTkwMGMzOWM3YmFmMjZmMGFkNTFhMTZhYmE5",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDhkNGQxNTI3Y2JiZDEyZjE4NmI4YjJlY2M4YzUyYWFk",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -47,26 +47,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
         "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Pink Friday (Complete Edition)",
         "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 200013,
       "name": "Super Bass",
       "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -719,6 +703,22 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1287,26 +1287,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Make You Say",
-        "url": "https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2"
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Make You Say",
-      "url": "https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV"
+      "duration_ms": 244453,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1331,18 +1323,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+        "name": "Make You Say",
+        "url": "https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
         }
       ],
-      "duration_ms": 244453,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
+      "duration_ms": 206000,
+      "name": "Make You Say",
+      "url": "https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV"
     },
     {
       "added_at": "2023-01-06 05:00:00",

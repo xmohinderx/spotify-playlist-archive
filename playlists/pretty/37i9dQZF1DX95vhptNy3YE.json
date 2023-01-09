@@ -1,12 +1,12 @@
 {
   "description": "Oruam e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 172646,
+  "num_followers": 172893,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAzMDczOCwwMDAwMDAwMGYxNzJlNjgxYzllNmRmZjBjZWU1OTBkM2FjNWQxZThl",
+  "snapshot_id": "MTY3MzAzMDczOCwwMDAwMDAwMDAzMDFmY2EzYjE1M2YwN2Y2NDljN2JlMDQ2YjU1OTAx",
   "tracks": [
     {
       "added_at": "2023-01-06 18:45:38",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2023-01-06 18:45:38",
       "album": {
+        "name": "O Dono do Lugar",
+        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 231893,
+      "name": "bode",
+      "url": "https://open.spotify.com/track/4VC3XmGu302imYYjIJuS9L"
+    },
+    {
+      "added_at": "2023-01-06 18:45:38",
+      "album": {
         "name": "PIX (feat. 4Genesis & Cax Camp)",
         "url": "https://open.spotify.com/album/34qA1ODM4HJ2pXMMUXDFUx"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 250200,
       "name": "PIX (feat. 4Genesis & Cax Camp)",
       "url": "https://open.spotify.com/track/5aw9n45WzW5VQ7XHyBFHkl"
-    },
-    {
-      "added_at": "2023-01-06 18:45:38",
-      "album": {
-        "name": "O Dono do Lugar",
-        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 231893,
-      "name": "bode",
-      "url": "https://open.spotify.com/track/4VC3XmGu302imYYjIJuS9L"
     },
     {
       "added_at": "2023-01-06 18:45:38",

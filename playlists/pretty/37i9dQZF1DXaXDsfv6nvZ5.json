@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 735646,
+  "num_followers": 735839,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDE4MGUxN2YyZDhkMWMwMjAzNDgzYjVhOGI0MGFiMzIy",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDhlZDk4ZjVhODMyMjVhYmJjOTU3ZjViMTI0MzllODUy",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "All Rise (Deluxe)",
-        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 363240,
-      "name": "Everything You Touch Is Gold",
-      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "My Way (25th Anniversary Edition)",
@@ -991,6 +975,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "All Rise (Deluxe)",
+        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 363240,
+      "name": "Everything You Touch Is Gold",
+      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
@@ -1003,26 +1003,6 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1043,6 +1023,26 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1169,6 +1169,22 @@
       "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "What A Difference She Made",
+        "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 175696,
+      "name": "What A Difference She Made",
+      "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
+    },
+    {
       "added_at": "2022-09-30 04:06:57",
       "album": {
         "name": "Make Me Say It Again, Girl",
@@ -1191,22 +1207,6 @@
       "duration_ms": 314424,
       "name": "Make Me Say It Again, Girl",
       "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "What A Difference She Made",
-        "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 175696,
-      "name": "What A Difference She Made",
-      "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
     },
     {
       "added_at": "2022-09-30 04:06:57",
@@ -1301,24 +1301,20 @@
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
+      "added_at": "2022-08-26 04:46:22",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
         }
       ],
-      "duration_ms": 173123,
-      "name": "Love (feat. Jazmine Sullivan)",
-      "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
+      "duration_ms": 204000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
     }
   ],
   "unique_name": "Soul Coffee",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,718 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,740 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Merecerte Hoy](https://open.spotify.com/track/4SaHMGZ6kbEtGkJISqy2VI) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 2:46 |
 | 51 | [Como Decía El Compa Ariel \- En Vivo](https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Como Decía El Compa Ariel \(En Vivo\)](https://open.spotify.com/album/2CCxv6n3BrljYorG3PwxZb) | 3:10 |
 
-Snapshot ID: `Mjc4ODUwNDcsMDAwMDAwMDAzMTAyOWQ2YTY2YzBlOTQxMGUxYWZmODhkZTAyNGEwMQ==`
+Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA5ZWYwZWEyY2I0Yzc0MmQwY2RjNDk2MTljYWFkYWZmOQ==`

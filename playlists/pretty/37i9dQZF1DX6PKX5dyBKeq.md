@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Potter Payper
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,249,543 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,738 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 20 | [Drift](https://open.spotify.com/track/0UPRakQPnFH6xM1IJ03NHN) | [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe), [Tim & Barry](https://open.spotify.com/artist/7MdhgOG14jdWpchQuE14Ce), [Lil Sykes](https://open.spotify.com/artist/5g5NVl2cgscKSaIr1IdjZL) | [NO TOSS GIVEN](https://open.spotify.com/album/5tqhYZEWC7HK9SE6A68HRp) | 3:28 |
 | 21 | [Memories](https://open.spotify.com/track/4E6KYlUY2wTVciZz9kwnBG) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Memories](https://open.spotify.com/album/12uP5xSHLn2XDHih2KozA1) | 3:26 |
 | 22 | [Don’t Like Drill \(feat\. Central Cee\)](https://open.spotify.com/track/6LIwF5yxLwnNfVohAwSWdC) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Respect The Come Up](https://open.spotify.com/album/1MLRMDDQlOdUPBUcpc7XmB) | 3:50 |
-| 23 | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 |
+| 23 | [Pisces](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 |
 | 24 | [Extra Sleeve](https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [The Last Whip II](https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ) | 3:35 |
 | 25 | [One Of A Kind](https://open.spotify.com/track/4SbhFbZdJMEPHABg4igsLn) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [One Of A Kind](https://open.spotify.com/album/1dIp8QkzrM97K9JHaTTjnQ) | 2:45 |
 | 26 | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe) | 2:34 |

@@ -4,7 +4,7 @@
 
 > Music that makes you feel like you're levitating\. Image credits: NASA
 
-242 songs - 15 hr 27 min
+243 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Easily](https://open.spotify.com/track/2k9N4caeCIJLOWwWwssrEM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:30 | 2021-12-16 | 2022-09-12 |
 | [Eden](https://open.spotify.com/track/0HT1eAEMR6igNDMpHvZNqU) | [Babel](https://open.spotify.com/artist/4qrLovyKfCeNbEdN0Tmx1Q) | [Yoga Horror](https://open.spotify.com/album/5Bynuoj2T6zEGdTDYhoSYQ) | 4:08 | 2022-03-11 | 2022-04-21 |
 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2022-01-28 | 2022-09-10 |
-| [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 | 2023-01-03 |  |
+| [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 | 2023-01-03 | 2023-01-09 |
 | [Eternal Sunshine](https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Eternal Sunshine](https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n) | 4:01 | 2022-02-11 | 2022-07-29 |
 | [Everything In Its Right Place](https://open.spotify.com/track/5AiNZnMDCWwujIENPj9PV9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 4:11 | 2021-12-16 | 2022-04-21 |
 | [Ex\-Factor](https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:26 | 2021-12-16 | 2022-04-19 |
@@ -82,6 +82,7 @@
 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 | 2022-01-12 |  |
 | [Ghost Town](https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 4:31 | 2021-12-16 | 2022-09-24 |
 | [Gilded Lily](https://open.spotify.com/track/1V27TTo9FI2sl8xzGr3sCg) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/5Wl4DJMOt13fs92ddL2v9Q) | 3:32 | 2022-10-24 | 2022-11-03 |
+| [Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:32 | 2022-11-11 |  |
 | [Gilded Lily](https://open.spotify.com/track/6PaWZ0PIMxx15YBgCohvXY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt) | 3:32 | 2022-11-04 | 2022-12-22 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-02-17 | 2022-03-17 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-07-01 |  |

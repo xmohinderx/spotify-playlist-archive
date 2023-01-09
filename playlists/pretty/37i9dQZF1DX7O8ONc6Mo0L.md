@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Kleber Lucas, Caetano Veloso
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,014 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,055 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 65 | [Nunca Te Deixarei \- Acústico](https://open.spotify.com/track/4GnEfHMHLZaoQU2UiWI3Ku) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Nunca Te Deixarei \(Acústico\)](https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55) | 3:21 |
 | 66 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 |
 | 67 | [Valeu a Pena: Releitura](https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Mari Marques](https://open.spotify.com/artist/6Fi2a2JgeYRENRKPCdXTwS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 3:54 |
-| 68 | [Até o Fim](https://open.spotify.com/track/5pYCKUDdBvxK8Zhxr4ywri) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Até o Fim](https://open.spotify.com/album/1adgtw24sgeeH5kEWz2Yyv) | 3:45 |
-| 69 | [Nova Canção](https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP) | [Felipe Valente](https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev) | [Nova Canção](https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq) | 3:26 |
+| 68 | [Nova Canção](https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP) | [Felipe Valente](https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev) | [Nova Canção](https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq) | 3:26 |
+| 69 | [Até o Fim](https://open.spotify.com/track/5pYCKUDdBvxK8Zhxr4ywri) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Até o Fim](https://open.spotify.com/album/1adgtw24sgeeH5kEWz2Yyv) | 3:45 |
 | 70 | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV) | 3:42 |
 | 71 | [Prossiga](https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Prossiga](https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1) | 5:07 |
 | 72 | [No Secreto](https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [No Secreto](https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K) | 6:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Amanheceu](https://open.spotify.com/track/2OFVWDZP3ikovgSWAzD4Dg) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb), [Elias Inácio](https://open.spotify.com/artist/0m3hCc4WOLzmHaXkBMg2ud) | [Amanheceu](https://open.spotify.com/album/7oJjbZCliayZ7kCBxR7GAe) | 3:58 |
 | 80 | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/track/5NWZfAvvjPkXxz00Vugg9q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM) | 4:31 |
 
-Snapshot ID: `MTY3MDE5ODQwMCwwMDAwMDAwMDE5ZmFlZjM0ODc2ZjBmMDZiMzIyYjMxMDMyZGIxNTcy`
+Snapshot ID: `MTY3MDE5ODQwMCwwMDAwMDAwMDkwMTIwOTIxNjlmNzM0ZDg5Yjk1NDU5NDA3NjFkZTlk`

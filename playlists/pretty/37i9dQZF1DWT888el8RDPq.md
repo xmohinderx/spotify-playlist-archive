@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 
 > ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,784 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,805 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 25 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 |
 | 26 | [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 |
 | 27 | [I'm Not Angry Anymore](https://open.spotify.com/track/1W2ScQrCGp5Ew9lnljMA3G) | [Cummrs](https://open.spotify.com/artist/6hZcFBnQjDX9OYBCXr4h4e) | [I'm Not Angry Anymore](https://open.spotify.com/album/1qYvYb5ffqNsI9FHoUUe7Q) | 1:04 |
-| 28 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 |
-| 29 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 |
+| 28 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 |
+| 29 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 |
 | 30 | [Horse Girl](https://open.spotify.com/track/6xaTMOrUsaTl96eGYZh6fB) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Wyoming](https://open.spotify.com/album/4h9sWVwjvC9z7Kv6c4ilXa) | 3:06 |
 | 31 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 |
 | 32 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 40 | [Rockstar](https://open.spotify.com/track/2OBm1U8uu9tq5w40QEIGAY) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Rockstar](https://open.spotify.com/album/6p6WyOh5Bd57KZiGNoY9Lx) | 3:02 |
 | 41 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 | 42 | [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 |
-| 43 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
-| 44 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 |
+| 43 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 |
+| 44 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
 | 45 | [Ticking Bomb](https://open.spotify.com/track/7KCqSmpnDXwuhHgaMZ5wli) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Chameleon](https://open.spotify.com/album/0ciwiJcDpW1mrYiu3ZMBIV) | 2:18 |
 | 46 | [Alors on danse \- Radio Edit](https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Cheese](https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80) | 3:26 |
 | 47 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 52 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 |
 | 53 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
 | 54 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 |
-| 55 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
+| 55 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
 | 56 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 |
-| 57 | [!ly \(feat\. Coez\)](https://open.spotify.com/track/1E1nbIsPDO1PdtQwsAKKF3) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:26 |
-| 58 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
+| 57 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
+| 58 | [!ly \(feat\. Coez\)](https://open.spotify.com/track/1E1nbIsPDO1PdtQwsAKKF3) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:26 |
 | 59 | [Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:22 |
 | 60 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 |
 | 61 | [Rover \(feat\. DTG\)](https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [Rover \(feat\. DTG\)](https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 74 | [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 |
 | 75 | [Me Myself & I](https://open.spotify.com/track/78Qk1m8zbvvvrmWH2M1yxT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:57 |
 
-Snapshot ID: `MTY3MTE5NjQ3NywwMDAwMDAwMDY1M2FhMDk0YjQyZGNhOTg0NDQ4YzgyOGU0MmFkNjVh`
+Snapshot ID: `MTY3MTE5NjQ3NywwMDAwMDAwMDU2ZjEyZDczZGRlYWJlZDUwZTZkOWZlOWRhNDE4M2Nj`

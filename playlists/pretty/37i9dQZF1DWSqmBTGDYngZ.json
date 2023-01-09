@@ -1,15 +1,15 @@
 {
   "description": "Make your shower more uplifting by singing along to these hits.",
-  "num_followers": 7073811,
+  "num_followers": 7076244,
   "original_name": "Songs to Sing in the Shower",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY3MzU5MSwwMDAwMDAwMDliYmM3NTBlZGVhNmUwNzc1NWI3NjYwMzkzYzYyNmMw",
+  "snapshot_id": "MTY3MjY3MzU5MSwwMDAwMDAwMGY0ZDRjOTlhNTJlMTgwNTcwMzcwZTJhNmJmZDMxY2Fi",
   "tracks": [
     {
-      "added_at": "2023-01-08 00:09:38",
+      "added_at": "2023-01-09 00:57:42",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
-      "added_at": "2023-01-08 00:09:38",
+      "added_at": "2023-01-09 00:57:42",
       "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
-      "added_at": "2023-01-08 00:09:38",
+      "added_at": "2023-01-09 00:57:42",
       "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "Livin' On A Prayer",
+      "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 244960,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 249293,
-      "name": "Livin' On A Prayer",
-      "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -351,26 +351,6 @@
       "duration_ms": 224000,
       "name": "Love On The Brain",
       "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
-        "name": "Memories...Do Not Open",
-        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -455,18 +435,22 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+        "name": "Memories...Do Not Open",
+        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
+      "duration_ms": 247160,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -483,6 +467,22 @@
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
-      "added_at": "2023-01-08 00:09:38",
+      "added_at": "2023-01-09 00:57:42",
       "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
-      "added_at": "2023-01-08 00:09:38",
+      "added_at": "2023-01-09 00:57:42",
       "album": {
         "name": "Shawn Mendes (Deluxe)",
         "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "You're The One That I Want - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "You're The One That I Want - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 295515,
-      "name": "With Or Without You - Remastered",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -1471,6 +1455,22 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You - Remastered",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Delirium (Deluxe)",
-        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 252534,
-      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
-      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 200733,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
+        "name": "Delirium (Deluxe)",
+        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 252534,
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -1795,42 +1795,6 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Scared to Be Lonely",
-        "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 220883,
-      "name": "Scared to Be Lonely",
-      "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 222091,
-      "name": "Grenade",
-      "url": "https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -1851,6 +1815,26 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
+        "name": "Scared to Be Lonely",
+        "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 220883,
+      "name": "Scared to Be Lonely",
+      "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
         "name": "California 37",
         "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 195973,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 222091,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Battleground (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
-      },
-      "artists": [
-        {
-          "name": "The Wanted",
-          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
-        }
-      ],
-      "duration_ms": 197935,
-      "name": "Glad You Came",
-      "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 271093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
+        "name": "Battleground (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
+      },
+      "artists": [
+        {
+          "name": "The Wanted",
+          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
+        }
+      ],
+      "duration_ms": 197935,
+      "name": "Glad You Came",
+      "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -1999,34 +1999,18 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2023-01-08 00:09:38",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -2047,18 +2031,34 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2023-01-09 00:57:42",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
         "name": "Hello, I Must Be Going! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 175746,
       "name": "You Can't Hurry Love - 2016 Remaster",
       "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
         "name": "B.o.B Presents: The Adventures of Bobby Ray",
         "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 268320,
       "name": "Nothin' on You (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 201660,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 241693,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 201660,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Take A Bow",
-      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
         "name": "Be Not Nobody",
         "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Take A Bow",
+      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -2631,22 +2631,18 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Making Mirrors",
-        "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
       "artists": [
         {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
         }
       ],
-      "duration_ms": 244973,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
+      "duration_ms": 296080,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -2667,18 +2663,22 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Knee Deep In The Hoopla",
-        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+        "name": "Making Mirrors",
+        "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
       "artists": [
         {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
         }
       ],
-      "duration_ms": 296080,
-      "name": "We Built This City",
-      "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
+      "duration_ms": 244973,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -2807,6 +2807,22 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -2823,22 +2839,6 @@
       "duration_ms": 196613,
       "name": "Perfect Strangers",
       "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -3055,6 +3055,22 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
         "name": "Starving",
         "url": "https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I"
       },
@@ -3079,54 +3095,6 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "Slow Hands",
-      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Last Friday Night (T.G.I.F.)",
-      "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
         "name": "Right Place Right Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5kU9rWhYr4MmPmaGYP5z4v"
       },
@@ -3147,18 +3115,34 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Sit Still, Look Pretty",
-        "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
       "artists": [
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 207761,
-      "name": "Sit Still, Look Pretty",
-      "url": "https://open.spotify.com/track/6ZtiywT2Qm50a1uR0jlY35"
+      "duration_ms": 230746,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -3175,6 +3159,22 @@
       "duration_ms": 243933,
       "name": "Take A Chance On Me",
       "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
+        "name": "Sit Still, Look Pretty",
+        "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Sit Still, Look Pretty",
+      "url": "https://open.spotify.com/track/6ZtiywT2Qm50a1uR0jlY35"
     },
     {
       "added_at": "2022-12-13 13:45:11",
@@ -3363,22 +3363,6 @@
     {
       "added_at": "2022-12-13 13:45:11",
       "album": {
-        "name": "Savage Garden",
-        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 277266,
-      "name": "Truly Madly Deeply",
-      "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
-    },
-    {
-      "added_at": "2022-12-13 13:45:11",
-      "album": {
         "name": "Footloose (15th Anniversary Collectors' Edition)",
         "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
       },
@@ -3391,6 +3375,22 @@
       "duration_ms": 226826,
       "name": "Footloose - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
+    },
+    {
+      "added_at": "2022-12-13 13:45:11",
+      "album": {
+        "name": "Savage Garden",
+        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "Truly Madly Deeply",
+      "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
     }
   ],
   "unique_name": "Songs to Sing in the Shower",

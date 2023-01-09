@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,417 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,465 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 36 | [Swing Sweet Pussycat](https://open.spotify.com/track/5EK0gbkVLrLtOvwXy7PWEW) | [The Atomic Fireballs](https://open.spotify.com/artist/3gv1hh37jyGKfyAjFvv7No) | [Torch This Place](https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L) | 3:09 |
 | 37 | [Oak Tree](https://open.spotify.com/track/6vpZcGzUsskAQg6ZerKDu9) | [Alien Fashion Show](https://open.spotify.com/artist/7ib7KxeL61amtEbPFGPk5P) | [Cool Thing](https://open.spotify.com/album/15CTW9TXXjTAKHutxmWXJg) | 4:28 |
 | 38 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
-| 39 | [Pink Elephant](https://open.spotify.com/track/5SMpDEyuUY8vKmWiQar4BF) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [rapid city muscle car](https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i) | 3:44 |
+| 39 | [Do The Pup](https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:10 |
 | 40 | [Swingin' At The Savoy](https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Jump For Joy](https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7) | 3:37 |
-| 41 | [Do The Pup](https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:10 |
+| 41 | [Pink Elephant](https://open.spotify.com/track/5SMpDEyuUY8vKmWiQar4BF) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [rapid city muscle car](https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i) | 3:44 |
 | 42 | [Simple Things](https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Spread a Little Happiness](https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7) | 2:44 |
 | 43 | [Sugar High](https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [Superhero Swinger Undercover](https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN) | 3:58 |
 | 44 | [Honey Pie](https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [Everybody's Talkin' 'Bout Miss Thing!](https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [Dirty Dog](https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [The Romper Room](https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4) | 3:28 |
 | 50 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
 
-Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMGQ5MDA4OGU0MWVhNTg4NDcyNDlmN2M4NWE1NGM5ZjNj`
+Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMDFhMzVmNjE4NmNjOGUyYWJhMGI2MDFhYTgxMmQxZWU3`

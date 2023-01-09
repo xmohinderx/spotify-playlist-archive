@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-199 songs - 11 hr 36 min
+200 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Hindenburg Lover](https://open.spotify.com/track/32RwADYaEBNw9QeXP4Tz1g) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 5:02 | 2022-07-22 |  |
 | [Hindenburg Lover](https://open.spotify.com/track/7c1oZvy31JERjS66gsmdQA) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hindenburg Lover](https://open.spotify.com/album/2tkYpQFA8vNXkRlBV9W7kc) | 5:02 | 2022-02-18 | 2022-07-29 |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-05 |  |
-| [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 | 2022-02-18 |  |
+| [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 | 2022-02-18 | 2023-01-09 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2022-12-08 |  |
 | [I Follow](https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [I Follow](https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6) | 2:49 | 2022-02-18 |  |
 | [I Still Love You](https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [I Still Love You](https://open.spotify.com/album/0CL2R1h6ovr4IcaXSqouYZ) | 2:55 | 2022-03-25 | 2022-06-04 |
@@ -184,6 +184,7 @@
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-08-12 |  |
 | [Until She’s Gone \(with Sebastian Yatra\)](https://open.spotify.com/track/0onGEXtVcTkj8j24w5jD92) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Until She's Gone / Tu Luz Quedó](https://open.spotify.com/album/4lRwzMaCoSZgkTUnTandBz) | 3:33 | 2022-04-08 | 2022-11-13 |
 | [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 | 2022-02-18 | 2022-03-26 |
+| [Wasted](https://open.spotify.com/track/1NOTidLDDPTeau4BWJ0vwX) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Wasted](https://open.spotify.com/album/5UgR4xPUCnuHS5F1wNNc3x) | 3:05 | 2023-01-06 |  |
 | [WDIA \(Would Do It Again\)](https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [WDIA \(Would Do It Again\)](https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB) | 3:11 | 2022-10-21 |  |
 | [Were You Watching?](https://open.spotify.com/track/3JDOa1mC1h2UJW9bGcZsVN) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Were You Watching?](https://open.spotify.com/album/69tUfttjbpSXWXUs2Tzcxd) | 5:16 | 2022-02-18 |  |
 | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7oBm8q8uAatiY2rJpRZtEl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/album/3XWD5ErRMHC6ssFJ0pXWOE) | 3:40 | 2022-02-18 | 2022-10-08 |

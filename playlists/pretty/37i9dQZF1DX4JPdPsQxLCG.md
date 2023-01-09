@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes to soundtrack your weekend\. Cover: The Tragically Hip
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,612 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,613 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 67 | [Superman's Dead](https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M) | 4:15 |
 | 68 | [Just Between You And Me](https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [Nature Of The Beast](https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6) | 3:55 |
 | 69 | [Mama](https://open.spotify.com/track/6q9aea43X2EpPGCT5QFDat) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [The Union](https://open.spotify.com/album/2he1XlHeLAuHY8UUVrbiAa) | 3:01 |
-| 70 | [American Psycho](https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu) | 3:24 |
-| 71 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 |
+| 70 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 |
+| 71 | [American Psycho](https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu) | 3:24 |
 | 72 | [Sweet Mountain River](https://open.spotify.com/track/2g2st70xvu7DYGlfVircnf) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Furiosity](https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER) | 3:49 |
 | 73 | [Fly At Night \(In The Morning We Land\)](https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K) | [Chilliwack](https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG) | [Dreams, Dreams, Dreams](https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI) | 4:53 |
 | 74 | [Not Ready to Go](https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd) | 3:03 |
 | 75 | [Share the Land](https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Share The Land](https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV) | 3:55 |
 
-Snapshot ID: `MTY2MzEwNjE0NCwwMDAwMDAwMDcwYzI5OTFmNWFmYjVjNDU5Njg5ZjQ2OTQxYzdmMzFl`
+Snapshot ID: `MTY2MzEwNjE0NCwwMDAwMDAwMGVhMjcyY2NmMzVlYzg5OWQyMzU3MDQ0NTgzYjhjMjdi`

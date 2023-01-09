@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era just for you. Los boleritos de hoy. Cover: Yoss Bones",
-  "num_followers": 56752,
+  "num_followers": 56859,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYwMDM1MiwwMDAwMDAwMDA3MWZiNzU5OTFlY2Y2NjNiZjQxMWIwYWU3OGM2ZjJm",
+  "snapshot_id": "MTY2MzYwMDM1MiwwMDAwMDAwMDhlNGE2NmFkY2UyNmM4ZDk0Njg2NmQ5ZDIxZjBiZjQy",
   "tracks": [
     {
       "added_at": "2022-09-19 15:12:32",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-19 15:12:32",
       "album": {
-        "name": "Conversaciones Ajenas en un Caf\u00e9",
-        "url": "https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 211156,
-      "name": "\u00bfA Qu\u00e9 Te Sabe el Caf\u00e9?",
-      "url": "https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ"
-    },
-    {
-      "added_at": "2022-09-19 15:12:32",
-      "album": {
         "name": "Lo Mismo Que Usted",
         "url": "https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 189900,
       "name": "Lo Mismo Que Usted",
       "url": "https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU"
+    },
+    {
+      "added_at": "2022-09-19 15:12:32",
+      "album": {
+        "name": "Conversaciones Ajenas en un Caf\u00e9",
+        "url": "https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 211156,
+      "name": "\u00bfA Qu\u00e9 Te Sabe el Caf\u00e9?",
+      "url": "https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ"
     },
     {
       "added_at": "2022-09-19 15:12:32",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-09-19 15:12:32",
       "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 172363,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx"
-    },
-    {
-      "added_at": "2022-09-19 15:12:32",
-      "album": {
         "name": "En las Noches",
         "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 239412,
       "name": "En las Noches",
       "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
+    },
+    {
+      "added_at": "2022-09-19 15:12:32",
+      "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx"
     },
     {
       "added_at": "2022-09-19 15:12:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,998 likes - 124 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,267 likes - 124 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

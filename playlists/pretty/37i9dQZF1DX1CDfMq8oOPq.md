@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Tássia Reis
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,824 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,862 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 41 | [Di Cantin](https://open.spotify.com/track/356CwzCo3A8DAePdSEA4u6) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [Manel Beats](https://open.spotify.com/artist/5IU9FllWIyNyECvitNqJ5j) | [VÊNUS 95](https://open.spotify.com/album/72ONRFXSWFtgf5QzZbKeuq) | 3:33 |
 | 42 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 |
 | 43 | [Drip do Gaza](https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Calado Beats](https://open.spotify.com/artist/0hOreiY25L5j8Li8HtBBSN) | [Drip do Gaza](https://open.spotify.com/album/416rvMJm3dpl5L6XB0L6q9) | 2:02 |
-| 44 | [Florescer](https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F) | [Mayarah Magalhães](https://open.spotify.com/artist/2FmV8Y424XsncsEO9ztY3p), [Blood Beatz](https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc) | [Florescer](https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x) | 4:48 |
-| 45 | [A Cuca](https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [A Cuca](https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK) | 3:18 |
-| 46 | [Oi, Prazer](https://open.spotify.com/track/4pCTXorg7BKc6SmjtQaEbG) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu) | [Oi, Prazer](https://open.spotify.com/album/3NhhBBKyHZNfILXQs5WwDQ) | 2:38 |
+| 44 | [Mute](https://open.spotify.com/track/0so4HfRx4F1Ffs1PXl04Hk) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [DJ Alex BNH](https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl) | [Mute](https://open.spotify.com/album/7DWW9bwIeodx2l7VVGXq2R) | 2:33 |
+| 45 | [Florescer](https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F) | [Mayarah Magalhães](https://open.spotify.com/artist/2FmV8Y424XsncsEO9ztY3p), [Blood Beatz](https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc) | [Florescer](https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x) | 4:48 |
+| 46 | [A Cuca](https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [A Cuca](https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK) | 3:18 |
 | 47 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 |
 | 48 | [Difere](https://open.spotify.com/track/6AgGeM4gmmSxWJeIblSa5G) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Marreta](https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J) | [Difere](https://open.spotify.com/album/1CqyxG4xsl7HoqBPGwWVhQ) | 2:12 |
 | 49 | [A Cara do Enquadro](https://open.spotify.com/track/1m519cv6g3gPO5JYuYV3al) | [Bia e Bella](https://open.spotify.com/artist/31Ji2zYJgTY2bgyUgxl2wW), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [A Cara do Enquadro](https://open.spotify.com/album/6NlI7bsdFuGsVVYmmWwoCk) | 2:46 |
-| 50 | [Mute](https://open.spotify.com/track/0so4HfRx4F1Ffs1PXl04Hk) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [DJ Alex BNH](https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl) | [Mute](https://open.spotify.com/album/7DWW9bwIeodx2l7VVGXq2R) | 2:33 |
+| 50 | [Oi, Prazer](https://open.spotify.com/track/4pCTXorg7BKc6SmjtQaEbG) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu) | [Oi, Prazer](https://open.spotify.com/album/3NhhBBKyHZNfILXQs5WwDQ) | 2:38 |
 
-Snapshot ID: `MTY3Mjk3NDA2MCwwMDAwMDAwMGVlYTE3Y2UxODcwNjY3MjY2MDViOWJmMDc0NGNlYmFh`
+Snapshot ID: `MTY3Mjk3NDA2MCwwMDAwMDAwMDdkMmE4MmZmMGQyNDVhNTg1NmIyMDZhMzA5M2Q3NTQz`

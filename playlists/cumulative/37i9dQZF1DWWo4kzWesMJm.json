@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Je Dis Aime",
+        "url": "https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav"
+      },
+      "artists": [
+        {
+          "name": "-M-",
+          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236600,
+      "name": "Je dis aime",
+      "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"
+    },
+    {
+      "album": {
         "name": "Zaz",
         "url": "https://open.spotify.com/album/6MuoqipFgorIZEYwGWEFAU"
       },
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 239554,
       "name": "Saint Claude (Version Fran\u00e7aise)",
       "url": "https://open.spotify.com/track/5Ai8XBxieq1CR263UdhGdF"

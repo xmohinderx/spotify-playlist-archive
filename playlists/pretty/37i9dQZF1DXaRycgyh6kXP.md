@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,121 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,286 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 9 | [People On Sunday](https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 |
 | 10 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 |
 | 11 | [Sais](https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Shadows](https://open.spotify.com/album/6pZmk1elg3IJx4rMiGPnXl) | 8:03 |
-| 12 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
-| 13 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
+| 12 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
+| 13 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
 | 14 | [20:17](https://open.spotify.com/track/7vbCfkJf89i4s745KbELgr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Trance Frendz](https://open.spotify.com/album/5yulSZK48ArdLPXWur0qik) | 5:54 |
 | 15 | [Music on My Teeth](https://open.spotify.com/track/167USRtGXTBWIUX48Bho1p) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 4:16 |
 | 16 | [An Ending, a Beginning](https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 2:08 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 38 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 39 | [Without](https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dual](https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc) | 3:49 |
 | 40 | [All the Way Down](https://open.spotify.com/track/6JT37WmQRQawN2By1ZQR0N) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO) | 4:28 |
-| 41 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 |
-| 42 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
+| 41 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
+| 42 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 |
 | 43 | [Jaded](https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Reality Testing](https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK) | 4:49 |
 | 44 | [So Many Details](https://open.spotify.com/track/2ws855WTXvwqRtHyvkFJSy) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX) | 4:45 |
 | 45 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 61 | [Eyes Be Closed](https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr) | 4:47 |
 | 62 | [Smokebelch II \(Beatless Mix\)](https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA) | 4:16 |
 | 63 | [Appeayl 2 U part 1](https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75) | [Gayngs](https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI) | [Appeayl 2 U](https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U) | 3:56 |
-| 64 | [Inspirit](https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 4:12 |
-| 65 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
+| 64 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
+| 65 | [Inspirit](https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 4:12 |
 | 66 | [Before I Move Off](https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:10 |
 | 67 | [Constant Reminder](https://open.spotify.com/track/2R1ie4gZr9VXwVQlqrdGNP) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/3HaeZlQ5SdtBwUPPGgkC99) | 1:30 |
 | 68 | [Kilika](https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV) | 4:44 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 74 | [Tommib Help Buss](https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Ultravisitor](https://open.spotify.com/album/2DgDJIt55XlfyHpep3CFKs) | 2:10 |
 | 75 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
 | 76 | [At Height](https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu) | 3:52 |
-| 77 | [The Way You Talk](https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:50 |
-| 78 | [FTLOG](https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [FTLOG](https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l) | 4:07 |
+| 77 | [FTLOG](https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [FTLOG](https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l) | 4:07 |
+| 78 | [The Way You Talk](https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:50 |
 | 79 | [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 |
 | 80 | [Shadows](https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT) | [Wagon Christ](https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy) | [Sorry I Make You Lush](https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR) | 4:26 |
 | 81 | [Natura Sophia](https://open.spotify.com/track/4fvdvPzBIy9FGGqrNCM0lT) | [Isaac Symonds](https://open.spotify.com/artist/7mvHnjqntcNNecYAHHbdM2), [Yaehsun](https://open.spotify.com/artist/2EzEflueqj8hSyiCNSTxbB) | [Natura Sophia](https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq) | 4:03 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 84 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
 | 85 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh) | 8:17 |
 | 86 | [I Think Of You](https://open.spotify.com/track/5qZhK2zu4yTO1kO1GJ25Gx) | [Little annie](https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN) | [Short And Sweet](https://open.spotify.com/album/1ygH5nRn8pj7x5ym1WOIWS) | 4:53 |
-| 87 | [Implosion\-Explosion](https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV) | 5:33 |
-| 88 | [acceptance](https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [acceptance](https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs) | 5:11 |
+| 87 | [acceptance](https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [acceptance](https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs) | 5:11 |
+| 88 | [Implosion\-Explosion](https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV) | 5:33 |
 | 89 | [Promise](https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9) | 3:29 |
 | 90 | [Together \- Rework](https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI) | [Tomos](https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y) | [Go / Together](https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw) | 8:06 |
 | 91 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 99 | [Water Music](https://open.spotify.com/track/6PN8bVP6kjAW6UwqileVWR) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Ultraviolet](https://open.spotify.com/album/0dfCsSXhtcdAyW7ODD4Aeu) | 6:29 |
 | 100 | [Core](https://open.spotify.com/track/0N1Wlo3BogRj4o1ObpGegv) | [LA Timpa](https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC) | [Equal Amounts Afraid](https://open.spotify.com/album/6NtQEro3xWLSkFwLuBOiIo) | 4:12 |
 
-Snapshot ID: `MTY0Mzg1NjIwNiwwMDAwMDAwMDQ1M2ZiZWQ0YjcwZjNjMTY3NjY5ODBmNDFmOTZhOTlk`
+Snapshot ID: `MTY0Mzg1NjIwNiwwMDAwMDAwMDEwZDQ3NzMyMWU2NTBiNTFhYjNiM2YwODAzZjViZWVl`

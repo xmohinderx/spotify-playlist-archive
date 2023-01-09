@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 2010s\. Cover: Flo Rida
 
-396 songs - 23 hr 23 min
+397 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/5xYC48nOppVemY6U5GRGTb) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:30 | 2021-03-22 | 2022-07-29 |
 | [Mi Gente](https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 3:05 | 2022-07-02 |  |
 | [Mi Gente](https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Mi Gente](https://open.spotify.com/album/57DmSe1xfynExe60QgpWU0) | 3:09 | 2021-03-22 | 2022-02-11 |
+| [MIA](https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:30 | 2022-07-02 |  |
 | [MIA \(feat\. Drake\)](https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MIA \(feat\. Drake\)](https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO) | 3:30 | 2022-07-02 | 2023-01-01 |
 | [Middle](https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:40 | 2022-07-02 |  |
 | [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 | 2021-09-08 | 2022-07-29 |
@@ -337,7 +338,7 @@
 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Taste \(feat\. Offset\)](https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR) | 3:52 | 2022-07-02 | 2022-12-28 |
 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2021-09-08 |  |
 | [Teenage Dream](https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:47 | 2021-09-08 | 2022-07-29 |
-| [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2022-07-02 |  |
+| [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2022-07-02 | 2023-01-09 |
 | [Telephone](https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 3:40 | 2021-12-22 |  |
 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2021-09-27 |  |
 | [That's What I Like \- Alan Walker Remix](https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [That's What I Like \(Alan Walker Remix\)](https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S) | 3:15 | 2021-03-22 | 2022-06-02 |

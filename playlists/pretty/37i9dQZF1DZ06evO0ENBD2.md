@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,543,633 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,544,750 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 31 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 4:49 |
 | 32 | [Ay\-Oh \- Live Aid](https://open.spotify.com/track/6Fl9MoM9BDk6vwbHqBBZeK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 0:41 |
 | 33 | [Breakthru \- Remastered 2011](https://open.spotify.com/track/5Nuxdf0f5PpaeaPm4jrhiE) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(2011 Remaster\)](https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V) | 4:08 |
-| 34 | [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP) | 2:48 |
-| 35 | [These Are The Days Of Our Lives \- 2011 Remaster](https://open.spotify.com/track/5js1JJOAkR5KwlifBpvHMN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:15 |
+| 34 | [These Are The Days Of Our Lives \- 2011 Remaster](https://open.spotify.com/track/5js1JJOAkR5KwlifBpvHMN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:15 |
+| 35 | [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP) | 2:48 |
 | 36 | [We Are The Champions \- Live Aid](https://open.spotify.com/track/4XaG9IpCXklOcuau1sIrUX) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:57 |
 | 37 | [It's A Hard Life \- Remastered 2011](https://open.spotify.com/track/34MoKBRdC9JDjcL4b4X1Ic) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 4:06 |
-| 38 | ['39 \- Remastered 2011](https://open.spotify.com/track/65NTcXUtOb27NHKQ4fAcw0) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:30 |
-| 39 | [Innuendo \- Remastered 2011](https://open.spotify.com/track/0BzhS74ByIVlyz8BedHaYi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 6:33 |
+| 38 | [Innuendo \- Remastered 2011](https://open.spotify.com/track/0BzhS74ByIVlyz8BedHaYi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 6:33 |
+| 39 | ['39 \- Remastered 2011](https://open.spotify.com/track/65NTcXUtOb27NHKQ4fAcw0) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:30 |
 | 40 | [Play The Game \- Remastered 2011](https://open.spotify.com/track/5p6xhgQCwzX0G9PadMU9GA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:32 |
 | 41 | [Spread Your Wings \- Remastered 2011](https://open.spotify.com/track/0nUCaKwNqO5whVAhEX1A1R) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 4:34 |
 | 42 | [Tie Your Mother Down \- Remastered 2011](https://open.spotify.com/track/4mLKx7zsUdyT4Ax7rI7KXu) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:47 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 50 | [Was It All Worth It \- Original Take](https://open.spotify.com/track/6BtSPaf9P8iaU6XSyJJKSL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/4wYe26p1N110qVsKVlb0rL) | 5:02 |
 | 51 | [Don't Try Suicide \- Remastered 2011](https://open.spotify.com/track/0V7AVcMTaQqLKzxVloxWHj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:52 |
 
-Snapshot ID: `Mjc4ODUwNDcsMDAwMDAwMDA3NThiYmI0NGNkMWUxZmU3YzgxMmI1NmEwODNiMTQzYg==`
+Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA3NGZlMWYxNmE3NGE1YzczZDMxOGU4ZWE0YTJhNTcyMg==`

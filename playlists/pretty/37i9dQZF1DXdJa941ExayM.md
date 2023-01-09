@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,832 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,004 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 26 | [Problem](https://open.spotify.com/track/0LYvntdyZiGuy6HvFp2kHF) | [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Problem](https://open.spotify.com/album/69vgQKuL4alaiEshd7my6c) | 2:57 |
 | 27 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 |
 | 28 | [Death of Me](https://open.spotify.com/track/3gKLO2vWVrUkFFCMgajasU) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Death of Me](https://open.spotify.com/album/0WWf5T9BGaeNOAnZWTdm74) | 2:40 |
-| 29 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
-| 30 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 |
+| 29 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 |
+| 30 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
 | 31 | [bored](https://open.spotify.com/track/5Y3JG4ksAoLnFyRxDvvwis) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:30 |
 | 32 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 |
 | 33 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 39 | [Play the Greatest Hits](https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:27 |
 | 40 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
 | 41 | [MOTHERFUCKER](https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [MOTHERFUCKER](https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt) | 1:02 |
-| 42 | [Leaders](https://open.spotify.com/track/4vABLb1SmE92opkxAyHSOS) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/2JfGV0vp2gyuFpLvaybxHd) | 2:28 |
-| 43 | [punk chick](https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [punk chick](https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p) | 3:08 |
-| 44 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 |
-| 45 | [Bet My Blood](https://open.spotify.com/track/3k148B0XDmtKhGjC2fBgND) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 2:59 |
-| 46 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 |
+| 42 | [punk chick](https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [punk chick](https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p) | 3:08 |
+| 43 | [Leaders](https://open.spotify.com/track/4vABLb1SmE92opkxAyHSOS) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/2JfGV0vp2gyuFpLvaybxHd) | 2:28 |
+| 44 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 |
+| 45 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 |
+| 46 | [Bet My Blood](https://open.spotify.com/track/3k148B0XDmtKhGjC2fBgND) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 2:59 |
 | 47 | [3 Pound Pints](https://open.spotify.com/track/5NBXebY5O7Q8EGXo6R7zoK) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [3 Pound Pints](https://open.spotify.com/album/6QQdto2JCrakFVK0PVhs13) | 2:10 |
 | 48 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 |
 | 49 | [Voodoo Magic](https://open.spotify.com/track/6y4iXEu64IYdEcNSV0ZH5R) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Voodoo Magic](https://open.spotify.com/album/6yLKy8bef0WCPhEv7UAL0Q) | 2:44 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 65 | [MINE](https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [MINE](https://open.spotify.com/album/71bI5cpUU3oudowoIkoGwU) | 2:02 |
 | 66 | [It's Permanent](https://open.spotify.com/track/23q1TXvVESU4qh8GckHvM0) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E) | 3:32 |
 | 67 | [Broken Homes](https://open.spotify.com/track/2QWniZuCkw3lfpcFlF9ddJ) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 4:18 |
-| 68 | [Hazmat Suit \(My Ass\)](https://open.spotify.com/track/62mhqqaxZF7Mm7U9zZs0G2) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Hazmat Suit \(My Ass\)](https://open.spotify.com/album/5HLaRNTY0Kk71653Rhnjww) | 3:00 |
-| 69 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
+| 68 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
+| 69 | [Hazmat Suit \(My Ass\)](https://open.spotify.com/track/62mhqqaxZF7Mm7U9zZs0G2) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Hazmat Suit \(My Ass\)](https://open.spotify.com/album/5HLaRNTY0Kk71653Rhnjww) | 3:00 |
 | 70 | [i wanna bite your face](https://open.spotify.com/track/0TmhK8MuZrWow9HUp6fH5c) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [grim value](https://open.spotify.com/album/63se1zqIgvcKzzOfqIbR8m) | 2:26 |
 | 71 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 |
 | 72 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 79 | [Car Crash](https://open.spotify.com/track/5dXIrAUNLOcN2mYkCSeO3k) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Car Crash](https://open.spotify.com/album/2F4bQLWNLz55akGbkwu7BB) | 3:53 |
 | 80 | [Drive in Mind](https://open.spotify.com/track/5VhkquQD3tsUvWGWYD80yf) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Drive in Mind](https://open.spotify.com/album/2yCxWTAQ6QhykPHyVshDhG) | 4:03 |
 
-Snapshot ID: `MTY3MDk1ODYwOSwwMDAwMDAwMDM2MjM4NGQxZTY4MmMyMWY3MTdkMWUwNWQyNDYyYWY1`
+Snapshot ID: `MTY3MDk1ODYwOSwwMDAwMDAwMGUyYWUwN2EzNWRiYjg4MTJmZmVkMjMyMTFjZGZlZmUz`

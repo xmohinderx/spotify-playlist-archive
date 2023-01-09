@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/keithpowers/">Keith Powers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,952 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,170 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 | 8 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
 | 9 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 |
 | 10 | [Count Me Out](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:43 |
-| 11 | [Lights Up](https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:52 |
-| 12 | [Rules](https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:07 |
+| 11 | [Rules](https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:07 |
+| 12 | [Lights Up](https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:52 |
 | 13 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 |
 | 14 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 |
 | 15 | [Wasted Times](https://open.spotify.com/track/7DKS0rX27cCEPsK0R6tFWS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 | 49 | [Terrified](https://open.spotify.com/track/6UKb1qcw5jqmoVeln2i3ZL) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 4:15 |
 | 50 | [Retrograde \(feat\. 6LACK & Lucky Daye\)](https://open.spotify.com/track/3v5WRAItrZgr5vCdW3vTmz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 3:40 |
 
-Snapshot ID: `MTY2NDc2OTYwMCwwMDAwMDAwMGFiNmU5MjNlYTg3NmYyYmE2Y2I5MjIwZjhhZTEzODE1`
+Snapshot ID: `MTY2NDc2OTYwMCwwMDAwMDAwMGNhYzhmNDc0NDU4OTdjM2NjYTdiOTAxZTI1ODUzMDQw`

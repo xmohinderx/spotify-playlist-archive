@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,867 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,973 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,16 +68,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 58 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 |
 | 59 | [Coffee](https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 4:28 |
 | 60 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 |
-| 61 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 |
-| 62 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G) | 3:35 |
+| 61 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G) | 3:35 |
+| 62 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 |
 | 63 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
 | 64 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
-| 65 | [I Wish I Never Met You](https://open.spotify.com/track/12l2XM75QCGVCXM37Ktxzs) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/5ZII0xlYQqaeLrnsflv5DU) | 3:31 |
-| 66 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
+| 65 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
+| 66 | [I Wish I Never Met You](https://open.spotify.com/track/12l2XM75QCGVCXM37Ktxzs) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/5ZII0xlYQqaeLrnsflv5DU) | 3:31 |
 | 67 | [Across the Universe](https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pleasantville \-Music From The Motion Picture](https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3) | 5:07 |
 | 68 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
-| 69 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
-| 70 | [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 |
+| 69 | [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 |
+| 70 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
 | 71 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
 | 72 | [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 6:57 |
 | 73 | [Under The Table](https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 99 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
 | 100 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
 
-Snapshot ID: `MTY0ODA2OTA4MywwMDAwMDAwMGFhNzNlM2UwNTZkOTY2ZDVjNjg5NjRlNTY1ZjhhOTA5`
+Snapshot ID: `MTY0ODA2OTA4MywwMDAwMDAwMDhmZjdmZGMzMzU2M2FjYTFiNjFlNGMwYjhlNjg5OWI2`

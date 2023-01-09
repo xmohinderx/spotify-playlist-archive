@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS2jhzRuNba.md) - [plain]
 
 > you know the vibe 🥥🌴👙🐚🦋🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,733 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,789 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS2jhzRuNba.md) - [plain]
 | 26 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 |
 | 27 | [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 |
 | 28 | [Lay All Your Love On Me](https://open.spotify.com/track/2245x0g1ft0HC7sf79zbYN) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [ABBA Gold](https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR) | 4:32 |
-| 29 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
+| 29 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
 | 30 | [Kokomo](https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 3:37 |
 | 31 | [More Than Friends](https://open.spotify.com/track/1Ph96WpdjNlwD6iKRE2Xa3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [More Than Friends](https://open.spotify.com/album/4enAteB9DBZD3W9jmAaYYc) | 3:03 |
 | 32 | [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 2:51 |
-| 33 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
+| 33 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
 | 34 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
 | 35 | [Butterflies](https://open.spotify.com/track/1e8OoeGOa2VbOqrBhYDliJ) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Butterflies](https://open.spotify.com/album/7m1b79R5MjeWFZbfu6hgIT) | 2:56 |
 | 36 | [Useless](https://open.spotify.com/track/7dJN4NWQuqCjWwIT3UwOps) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS2jhzRuNba.md) - [plain]
 | 79 | [Drew Barrymore](https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
 | 80 | [La Isla Bonita](https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue \(Reissue\)](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:02 |
 
-Snapshot ID: `MTY1NjYyMTU4NSwwMDAwMDAwMGIyMTA1NGI2Y2FmYzMxNWQzOTFmMmEwYzQzZTUzMjFh`
+Snapshot ID: `MTY1NjYyMTU4NSwwMDAwMDAwMDVjYTY2YmZiYTU2YWFlY2JlNDlmYjg1MGVkMjY2YjAy`

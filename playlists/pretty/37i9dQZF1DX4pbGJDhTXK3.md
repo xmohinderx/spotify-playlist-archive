@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,160 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,196 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 18 | [Moon Jocks n Prog Rocks](https://open.spotify.com/track/190sUkgX3sm1co7Qkd7SBX) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [Moon Jocks n Prog Rocks](https://open.spotify.com/album/1mAPYemEY9Bb5K3L0T0nT6) | 13:33 |
 | 19 | [how long is..\. cold pizza good for](https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Villa Amorini](https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG) | 5:59 |
 | 20 | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ) | 8:13 |
-| 21 | [Like A Petal But Not Really](https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs) | [Ugress](https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f) | [Like a Petal but Not Really](https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD) | 3:24 |
+| 21 | [Transit \- Radio Edit](https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu) | [Third Attempt](https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR) | [Transit](https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54) | 2:30 |
 | 22 | [Just Wanted To Know](https://open.spotify.com/track/7kYgRZwVlq9a3lvHGHunrb) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Just Wanted To Know](https://open.spotify.com/album/317kaEvPQsOSktJiZfG6mw) | 4:12 |
-| 23 | [Transit \- Radio Edit](https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu) | [Third Attempt](https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR) | [Transit](https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54) | 2:30 |
+| 23 | [Like A Petal But Not Really](https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs) | [Ugress](https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f) | [Like a Petal but Not Really](https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD) | 3:24 |
 | 24 | [Staying In](https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 3:54 |
 | 25 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 |
 | 26 | [A Man Called Anthony](https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv) | [Magnus International](https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE) | [Echo to Echo](https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec) | 4:15 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 32 | [Ok, Kjor Romskip \- Original Mix](https://open.spotify.com/track/1i7POakPGDR8Z7PJEGDp5P) | [Rune Lindbaek](https://open.spotify.com/artist/6SXxObLtqUzAjJGtMwgsbk) | [Sondag](https://open.spotify.com/album/1LdfVewFu5TLTgaxFCyABn) | 5:30 |
 | 33 | [Love in the Night](https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [CDIII](https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF) | 8:13 |
 | 34 | [The Walk](https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [The Walk](https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG) | 4:24 |
-| 35 | [Flott Flyt](https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 6:41 |
-| 36 | [Closing Shot](https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 8:23 |
+| 35 | [Closing Shot](https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 8:23 |
+| 36 | [Flott Flyt](https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 6:41 |
 | 37 | [Tea In The Desert](https://open.spotify.com/track/6ZtUV3S8sjh0OUaUBZZ9Ae) | [Bonada](https://open.spotify.com/artist/6sBWpQ5pWojqFXt62W1FwZ) | [Tea In The Desert](https://open.spotify.com/album/6MuABW95Vkd0xkyuan13lQ) | 3:30 |
 | 38 | [Kosmetisk](https://open.spotify.com/track/5Lx3mPW7NV7MCw31OofvV4) | [Magnus International](https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE) | [Kosmetisk](https://open.spotify.com/album/5Tsih38nrHZzQPHaLkwjc7) | 5:42 |
 | 39 | [A City So Convenient](https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [A City So Convenient](https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J) | 6:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [This Time \- Lindstrøm Remix](https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [This Time \(Lindstrøm Remix\)](https://open.spotify.com/album/3X6t27Kq0J2aK7nLFUe9bX) | 9:29 |
 | 50 | [Tidløs \- Kohib Remix](https://open.spotify.com/track/33ZKHbquD746iTaSk6y58k) | [Aggie Frost](https://open.spotify.com/artist/6KuOR1yUOE16fw6IwThbC0), [Kohib](https://open.spotify.com/artist/26oQRM3dr784QWCkxn38kw) | [Tidløs \(Remixes\)](https://open.spotify.com/album/44ShL59sThfH0kX2NhnKli) | 7:04 |
 
-Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMGI0MmRlNTU5NDNiOTBjZWFjNzAwNGU0YzQ5N2Q3YTc2`
+Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMDBjMmNhMzE5Y2JmNmVlMGE1MTVlNDBmY2VjYmYxOTM1`

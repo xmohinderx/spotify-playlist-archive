@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,227 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,433 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 44 | [Océanos \(Donde Mis Pies Pueden Fallar\) \- Live](https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 4:19 |
 | 45 | [Fierce \- Studio Version](https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Fierce \(Studio Version\)](https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW) | 3:42 |
 | 46 | [Se Nota En Tus Ojos](https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 4:16 |
-| 47 | [Incontrolable Amor](https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Incontrolable Amor](https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0) | 5:33 |
-| 48 | [Mi Roca](https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragmentos del Cielo](https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR) | 3:32 |
+| 47 | [Mi Roca](https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragmentos del Cielo](https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR) | 3:32 |
+| 48 | [Incontrolable Amor](https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Incontrolable Amor](https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0) | 5:33 |
 | 49 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
 | 50 | [Construiré Mi Vida](https://open.spotify.com/track/6GfDI3t6u8x0ELrbV315fT) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Construiré Mi Vida](https://open.spotify.com/album/3GQO2bUHJC7Gv29h4GNQm8) | 5:43 |
 | 51 | [El Cielo Gobierna](https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy) | 4:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Sobre Mí](https://open.spotify.com/track/5QINbr4C1Qufiqj0WOGF4V) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Sobre Mi](https://open.spotify.com/album/1CXlie7i26wGMJlpUXh2Pv) | 5:45 |
 | 75 | [Él Es Vida](https://open.spotify.com/track/2VmzoU0QqN8jLRbdSkxvao) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [No Puedo Callar](https://open.spotify.com/album/2ebN5IUSFeey8NJ2MQACla) | 4:31 |
 
-Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMGNkMWFkY2FkNzg3MWY3Nzg2ZTM4YTg1YjFkMDliNGU0`
+Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMDc0MWEwZTJmZTliMTMzZmRlMmI1NjM2MDI4OTMwMmMy`

@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Zoe Gotusso.",
-  "num_followers": 100546,
+  "num_followers": 100642,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGRkYWMyYTUxOTY2ZDU3MDY5MTViZWU4MDRkNGNiY2I2",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGUzM2NiZjdhMTBkY2VhODJiOWM2ZjcyODU4NDg3YThm",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "El Caminante",
-        "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 188769,
-      "name": "La Aguja",
-      "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "La Despedida (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "El Caminante",
+        "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 188769,
+      "name": "La Aguja",
+      "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Tu Casa",
-        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
-      },
-      "artists": [
-        {
-          "name": "Lola Membrillo",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Tu Casa",
-      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Mundo Nuevo",
         "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Tu Casa",
+        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
+      },
+      "artists": [
+        {
+          "name": "Lola Membrillo",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Tu Casa",
+      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Sana Sana",
         "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
       },
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
+      "duration_ms": 290250,
+      "name": "Tratar\u00e9",
+      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
       "artists": [
         {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 290250,
-      "name": "Tratar\u00e9",
-      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Moment\u00e1nea",
         "url": "https://open.spotify.com/album/2iX8rvlCGWePx3CYdg0P3a"
       },
@@ -1719,22 +1735,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Me Voy a Valpara\u00edso",
         "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
       },
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
-      },
-      "artists": [
-        {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Pasajeros",
-      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "La Sombra del Olvido",
         "url": "https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 171390,
       "name": "La Sombra del Olvido",
       "url": "https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
+      },
+      "artists": [
+        {
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Pasajeros",
+      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
     },
     {
       "added_at": "2023-01-06 05:00:00",

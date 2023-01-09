@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,353 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,462 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 17 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
 | 18 | [Sense of Home](https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U) | 4:25 |
 | 19 | [Our Remains](https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl) | 4:04 |
-| 20 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
-| 21 | [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 |
+| 20 | [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 |
+| 21 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
 | 22 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
 | 23 | [33 “GOD”](https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 3:33 |
 | 24 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 37 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 |
 | 38 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
 | 39 | [Old Now](https://open.spotify.com/track/3IVALWwWuGL5p3W6cPtjDH) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [The Kingfisher](https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf) | 4:49 |
-| 40 | [To Each His Own](https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:10 |
-| 41 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
+| 40 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
+| 41 | [To Each His Own](https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:10 |
 | 42 | [El Búho](https://open.spotify.com/track/4TtrTorJrVMEIprmQydrVv) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens EP](https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ) | 3:51 |
 | 43 | [Warm Foothills](https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 3:45 |
 | 44 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 53 | [Alabama Haint](https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Alabama Haint](https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg) | 3:02 |
 | 54 | [Bite](https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:32 |
 | 55 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
-| 56 | [Silvery](https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 3:52 |
-| 57 | [Do It All Again](https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Do It All Again](https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1) | 3:19 |
+| 56 | [Do It All Again](https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Do It All Again](https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1) | 3:19 |
+| 57 | [Silvery](https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 3:52 |
 | 58 | [You](https://open.spotify.com/track/6mwHS78L18Da6HRO4HNo0i) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 3:56 |
 | 59 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
 | 60 | [Seven Hours](https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:41 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 96 | [All That You Know](https://open.spotify.com/track/45dfUwQFVgKBi4aoPHi0Ie) | [Simon Herron](https://open.spotify.com/artist/4OFLcYqjZVL1Da9wRw0ur7) | [Demons](https://open.spotify.com/album/0F1lQyCTjW4fqDklftnmeW) | 3:28 |
 | 97 | [The Light Upon Us](https://open.spotify.com/track/69O18s28CWdA7ixXHBAKkh) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:49 |
 | 98 | [Marionette](https://open.spotify.com/track/059jgZN65g4cZY9pe7phoY) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Fragments EP](https://open.spotify.com/album/6MFubeEasrCBNKpo26Ddx9) | 4:48 |
-| 99 | [Something](https://open.spotify.com/track/0EDdio6SE4roZX2Wmofc7K) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Shift](https://open.spotify.com/album/2Xv1zWXNkd2aMGmqEpUjc0) | 3:22 |
-| 100 | [Up Here North](https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [Lake Jons](https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1) | 3:04 |
+| 99 | [Up Here North](https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [Lake Jons](https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1) | 3:04 |
+| 100 | [Something](https://open.spotify.com/track/0EDdio6SE4roZX2Wmofc7K) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Shift](https://open.spotify.com/album/2Xv1zWXNkd2aMGmqEpUjc0) | 3:22 |
 
-Snapshot ID: `MTY2OTA3MDYxMywwMDAwMDAwMDU0MGU5YmJlN2Q3OWRiYzkwY2Y0NzFlM2ViNTFlYmRh`
+Snapshot ID: `MTY2OTA3MDYxMywwMDAwMDAwMGQ5ZjRkZTVlMTBiMDJhYzRiMWFiOTUzYWZkMzkyYTI0`

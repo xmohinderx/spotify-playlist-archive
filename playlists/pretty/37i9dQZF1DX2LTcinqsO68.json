@@ -1,12 +1,12 @@
 {
   "description": "Like the old school sound of metal? Then you'll love this playlist! Cover: Iron Maiden",
-  "num_followers": 2399254,
+  "num_followers": 2399967,
   "original_name": "Old School Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkxMjQ3MiwwMDAwMDAwMDA0MGQyYjIyMzI1Y2Y3N2YyNzRjOTE3ZDlhNmVlOTY0",
+  "snapshot_id": "MTY2OTkxMjQ3MiwwMDAwMDAwMGQ2MjEyMGJjYzZkYTY2ZmVmZGFkZTM2OWFlN2NjMjQ2",
   "tracks": [
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Kings of Metal",
-        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
-      },
-      "artists": [
-        {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Kings of Metal",
-      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
         "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
         "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 254613,
       "name": "I Love It Loud - 2022 Remastered",
       "url": "https://open.spotify.com/track/600p5yFQWKHxqEvejm6GfN"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "Kings of Metal",
+        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Kings of Metal",
+      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
     },
     {
       "added_at": "2022-10-25 17:33:07",

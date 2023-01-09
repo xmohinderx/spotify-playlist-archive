@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,223 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,637 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 62 | [La Chiva Colgada](https://open.spotify.com/track/5FNHvNI40a4W9iSxTp2zDg) | [Los Tremendos Gavilanes](https://open.spotify.com/artist/61Wbko5X4nwMtHOWOcvWiw) | [Cielo Azul, Cielo Nublado](https://open.spotify.com/album/6N6zMYcJO4fIKeqMqRvuAL) | 3:15 |
 | 63 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
 | 64 | [La Carga Ladeada](https://open.spotify.com/track/2vFnXzihAFSKEMpnalM5WS) | [Los Broncos de Reynosa](https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS) | [15 Éxitos Originales Lo Mejor de los Broncos de Reynosa](https://open.spotify.com/album/4vqSHUgGUdXVEbMOywYiQA) | 3:55 |
-| 65 | [Un Cruzado en Palestina](https://open.spotify.com/track/3HWKUvYb8H47YIKOghzPcR) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:38 |
+| 65 | [Kilometro 1160](https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [20 Corridos Valientes](https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE) | 3:12 |
 | 66 | [Los Tequileros](https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos](https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS) | 3:38 |
-| 67 | [Corrido de Macario Leyva](https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Y Tragedias De La Frontera](https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM) | 3:41 |
-| 68 | [Kilometro 1160](https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [20 Corridos Valientes](https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE) | 3:12 |
+| 67 | [Un Cruzado en Palestina](https://open.spotify.com/track/3HWKUvYb8H47YIKOghzPcR) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:38 |
+| 68 | [Corrido de Macario Leyva](https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Y Tragedias De La Frontera](https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM) | 3:41 |
 | 69 | [La Jaula De Oro](https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jaula De Oro](https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO) | 2:42 |
 | 70 | [Tres Veces Mojado](https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 2:51 |
 | 71 | [Arturo Garza Trevino](https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 74 | [Sucedio en el Aguaje](https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Lupe Tijerina y Rosendo Cantu](https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 2:25 |
 | 75 | [El Corrido De La Amapola](https://open.spotify.com/track/3h1RRFYvik2RmsA1UNxHMo) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:09 |
 
-Snapshot ID: `MTY3MjQyMzUwOSwwMDAwMDAwMDJkZDRjNDlkZTg5ZmUwNTlkY2VkNTVjN2UzOGZjMjBk`
+Snapshot ID: `MTY3MjQyMzUwOSwwMDAwMDAwMGQ1ODk1ZjEzMTkxM2M5NGRhNjI0OGI2ZDA2NjQ2YjM1`

@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 54115,
+  "num_followers": 54183,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3ODk3NywwMDAwMDAwMDQ3NjVkYWM3ODcwODI1ODc3MTM1YmU0ZjYwM2IwZDk2",
+  "snapshot_id": "MTY2MzA3ODk3NywwMDAwMDAwMDI3NTYxNjg5MTJmMjk4MDM2ZjliMDI5MzAzODVkNWRi",
   "tracks": [
     {
       "added_at": "2022-09-13 14:22:57",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Ossit Helem",
-        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 365226,
-      "name": "Kellon Aanik Sa'alouni (Live)",
-      "url": "https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Top Wadie Essafi (The Voice of Lebanon)",
         "url": "https://open.spotify.com/album/3qTTXTSchXUVsTXBJDUpoo"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 361186,
       "name": "Allaylou ya Layla",
       "url": "https://open.spotify.com/track/0ZEYwnrYjPetRRjK5KJsPo"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Ossit Helem",
+        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 365226,
+      "name": "Kellon Aanik Sa'alouni (Live)",
+      "url": "https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd"
     },
     {
       "added_at": "2022-09-13 14:22:57",

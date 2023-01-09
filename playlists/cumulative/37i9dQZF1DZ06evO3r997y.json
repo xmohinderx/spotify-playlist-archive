@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Dear Doze Days",
+        "url": "https://open.spotify.com/album/13qVL16kWobXvuJjRYLJf2"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261306,
+      "name": "Dear Doze Days",
+      "url": "https://open.spotify.com/track/1WTDRPZjyt8OvhB1hXGdwh"
+    },
+    {
+      "album": {
         "name": "Style",
         "url": "https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P"
       },

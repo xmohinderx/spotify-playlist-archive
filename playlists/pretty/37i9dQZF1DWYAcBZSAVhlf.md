@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,877 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,191 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 14 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 |
 | 15 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
 | 16 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 |
-| 17 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
-| 18 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
+| 17 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
+| 18 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
 | 19 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 |
 | 20 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
 | 21 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 25 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 26 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
 | 27 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 |
-| 28 | [The Way You Make Me Feel \- 2012 Remaster](https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:58 |
-| 29 | [Got My Mind Set On You \- Remastered 2004](https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:54 |
+| 28 | [Got My Mind Set On You \- Remastered 2004](https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:54 |
+| 29 | [The Way You Make Me Feel \- 2012 Remaster](https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:58 |
 | 30 | [I'm So Excited](https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [So Excited! \(Expanded Edition\)](https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS) | 3:50 |
-| 31 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 |
-| 32 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 |
+| 31 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 |
+| 32 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 |
 | 33 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 34 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 |
 | 35 | [Cheri Cheri Lady](https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [Let's Talk About Love](https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr) | 3:46 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 95 | [Break My Stride](https://open.spotify.com/track/2ZqT3GcisHUBsEaqhLGHwU) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | ['80s Pop Hits](https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg) | 3:00 |
 | 96 | [Morning Train \(Nine to Five\) \- Edit](https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Take My Time](https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs) | 3:20 |
 | 97 | [The Edge of Heaven](https://open.spotify.com/track/5AhRNIjYPBleR1lfHphcrE) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Music From The Edge Of Heaven](https://open.spotify.com/album/099le4PQZ57X2LY9xVNOpc) | 4:30 |
-| 98 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 |
-| 99 | [A Night to Remember \- Single Version](https://open.spotify.com/track/3LDefGtx6L0wV6u8zckjUu) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night to Remember](https://open.spotify.com/album/3OYXhFsRdeQZHuFbL7amMc) | 3:31 |
+| 98 | [A Night to Remember \- Single Version](https://open.spotify.com/track/3LDefGtx6L0wV6u8zckjUu) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night to Remember](https://open.spotify.com/album/3OYXhFsRdeQZHuFbL7amMc) | 3:31 |
+| 99 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 |
 | 100 | [Making Your Mind Up](https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc) | [Bucks Fizz](https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX) | [Bucks Fizz](https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb) | 2:38 |
 
-Snapshot ID: `MTY3Mjc1ODM3NywwMDAwMDAwMDI4YjQ5ZDNjYjc2MWVkNmQ4MjIwMmQ4NDllOTg5ZTFi`
+Snapshot ID: `MTY3Mjc1ODM3NywwMDAwMDAwMDdmYTQzZDNjNGNjNTFlODNiZDRmZDFkM2VmZDQ1MWZh`

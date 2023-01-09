@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,231 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,519 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 70 | [Natural](https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Faruz Fit, Vol\. 1](https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL) | 3:24 |
 | 71 | [Solo Como Amigos](https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 4:33 |
 | 72 | [Minotauro](https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Minotauro](https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg) | 4:05 |
-| 73 | [G.P.S\. \- con Aleman](https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:48 |
-| 74 | [Love & Money](https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Love & Money](https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te) | 3:36 |
+| 73 | [Love & Money](https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Love & Money](https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te) | 3:36 |
+| 74 | [G.P.S\. \- con Aleman](https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:48 |
 | 75 | [Jamming Sin Fronteras](https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [César López](https://open.spotify.com/artist/5Ycbygh3IB5aqbNRcMYPkV), [Solo Soul](https://open.spotify.com/artist/0bmSH3V2XM6zNVDfmTwwJI) | [Jamming Sin Fronteras](https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ) | 4:10 |
 | 76 | [Pavos Reales \(con Hermano L, Shabu One Shant y Mcklopedia\)](https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Hermano L](https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1), [Shabu One Shant](https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [El Círculo \(Versión Exclusiva de Spotify\)](https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs) | 4:31 |
 | 77 | [Rolemos Otro](https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Yo Quiero Fumar \(I Wanna Get High\) \- Spanish Version](https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:46 |
 | 100 | [Fue un Placer](https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Henceforth](https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx) | 3:48 |
 
-Snapshot ID: `MTYzNzA5NDA5NywwMDAwMDAwMGFhMGYxOGI2ODcxNjVlZTBjZjZkOTdkNWVjYTIzMmM0`
+Snapshot ID: `MTYzNzA5NDA5NywwMDAwMDAwMDcxMTgwMmM5OGUzODZmMzRjNmI5MTA1YWMwOTQ3MDFl`

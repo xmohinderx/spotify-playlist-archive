@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con Feid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,768,458 likes - 101 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,769,334 likes - 101 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

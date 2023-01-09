@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 
 > All the jams\. Cover: Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,917,127 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918,094 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 | 32 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
 | 33 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
 | 34 | [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 |
-| 35 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 |
-| 36 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:09 |
+| 35 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:09 |
+| 36 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 |
 | 37 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 | 38 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
 | 39 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 | 49 | [Higher](https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 3:16 |
 | 50 | [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 |
 
-Snapshot ID: `MTY3MDQzODIyMywwMDAwMDAwMGVkM2FjZTgxYjZlYmJlZWVjNDRkYjIwZTgxMThmMTRi`
+Snapshot ID: `MTY3MDQzODIyMywwMDAwMDAwMDRiNjcyNGY1OWE4MWU2NWZjZTVlMDEzYzFlODg2YzRl`

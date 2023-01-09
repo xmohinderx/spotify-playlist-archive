@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 > Sapphic songs that defined your music taste as "yearning."
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,856 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,118 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,23 +53,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 43 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
 | 44 | [betty](https://open.spotify.com/track/5kI4eCXXzyuIUXjQra0Cxi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:54 |
 | 45 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
-| 46 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 |
-| 47 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
+| 46 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
+| 47 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 |
 | 48 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
 | 49 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 |
 | 50 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 |
 | 51 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
 | 52 | [Fear](https://open.spotify.com/track/4rHfpAN2CK3H6eRWd7j7E0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61) | 3:36 |
-| 53 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 |
-| 54 | [April Come She Will](https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 1:49 |
+| 53 | [April Come She Will](https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 1:49 |
+| 54 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 |
 | 55 | [You're All I Want](https://open.spotify.com/track/0EUw3ZK8Ti14t6R6FOP8Ty) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [You're All I Want](https://open.spotify.com/album/5lU2BUnMIIe6JcbqV9LXtS) | 4:24 |
 | 56 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 |
 | 57 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 |
 | 58 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 |
 | 59 | [Sarah](https://open.spotify.com/track/0Xmz2shisTG8peoqnFj5tu) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:56 |
 | 60 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
-| 61 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 |
-| 62 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 |
+| 61 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 |
+| 62 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 |
 | 63 | [Sunflower](https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN) | [Michele Leigh](https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A) | [Sunflower](https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk) | 2:45 |
 | 64 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
 | 65 | [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 74 | [Talia](https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Talia](https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF) | 3:27 |
 | 75 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
 
-Snapshot ID: `MTY3MzAyMjM3OCwwMDAwMDAwMDc1NGNkNGQwOTZiZjc2YTMzZGZmMDkxN2ViNzI4MWRi`
+Snapshot ID: `MTY3MzAyMjM3OCwwMDAwMDAwMDk5OTRmZDRhOGIyYzJmYjQyMDdmZDg1NzRhODFlZWRm`

@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: LA INDIA, Goyo.",
-  "num_followers": 533077,
+  "num_followers": 533169,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk0NTIyOSwwMDAwMDAwMGY1MzcyNzQ5YzI4ZGM5ZTM2MzU4NTc3YTNkNmNlYmMz",
+  "snapshot_id": "MTY3Mjk0NTIyOSwwMDAwMDAwMGVkNzFjNWVlMjQzZTFhOGU0M2RjYzE3OTEzYTIzYjgz",
   "tracks": [
     {
       "added_at": "2022-10-27 06:13:38",
@@ -763,18 +763,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
         }
       ],
-      "duration_ms": 216897,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
+      "duration_ms": 174297,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -795,22 +799,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
       },
       "artists": [
         {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 174297,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
+      "duration_ms": 216897,
+      "name": "Loter\u00eda",
+      "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Luis Figueroa",
-        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 189463,
-      "name": "Vienes",
-      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Nubes Negras",
         "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Luis Figueroa",
+        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 189463,
+      "name": "Vienes",
+      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Ag\u00fcita e Coco",
         "url": "https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 176759,
       "name": "Ag\u00fcita e Coco",
       "url": "https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Cartas Sobre La Mesa",
-        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 191081,
-      "name": "Cartas Sobre La Mesa",
-      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Cartas Sobre La Mesa",
+        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 191081,
+      "name": "Cartas Sobre La Mesa",
+      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Veterana",
         "url": "https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A"
       },
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Bachatica",
+        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
+      },
+      "artists": [
+        {
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        }
+      ],
+      "duration_ms": 196461,
+      "name": "Bachatica",
+      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Cuando Te Toco",
         "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 246759,
       "name": "Cuando Te Toco",
       "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Bachatica",
-        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
-      },
-      "artists": [
-        {
-          "name": "Leslie Grace",
-          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
-        }
-      ],
-      "duration_ms": 196461,
-      "name": "Bachatica",
-      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Rupelto Mena",
+        "url": "https://open.spotify.com/album/0kLLu0272oNXFZ1rYb9AN4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 289573,
+      "name": "Rupelto Mena",
+      "url": "https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Pa'mi",
         "url": "https://open.spotify.com/album/72FTTLV9T0i47Gix0xHbx1"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 229894,
       "name": "Pa'mi",
       "url": "https://open.spotify.com/track/6Wh5YfzT3jlTIlCD32lgfr"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Rupelto Mena",
-        "url": "https://open.spotify.com/album/0kLLu0272oNXFZ1rYb9AN4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 289573,
-      "name": "Rupelto Mena",
-      "url": "https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf"
     },
     {
       "added_at": "2022-10-27 06:13:38",

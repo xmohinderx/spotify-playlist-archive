@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 
 > The champs are here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,057 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,291 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 | 37 | [Broke In A Minute](https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:12 |
 | 38 | [Noticed](https://open.spotify.com/track/7zLYKWcXnYeHHWidalz7rj) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Northsbest \(Extended\)](https://open.spotify.com/album/6lggWd5q9Rh66OkDE1eNDr) | 2:45 |
 | 39 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 |
-| 40 | [Ramen & OJ](https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ramen & OJ](https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ) | 3:38 |
-| 41 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
+| 40 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
+| 41 | [Ramen & OJ](https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ramen & OJ](https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ) | 3:38 |
 | 42 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 | 43 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 |
 | 44 | [Dreams and Nightmares](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:50 |
 | 45 | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \- Remix](https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \[Remix\]](https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22) | 3:47 |
 | 46 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
-| 47 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 |
-| 48 | [G.O.M.D](https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 5:01 |
+| 47 | [G.O.M.D](https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 5:01 |
+| 48 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 |
 | 49 | [We Paid \(feat\. 42 Dugg\)](https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 3:01 |
 | 50 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGQ2M2RhOGRlNTZkNWMxN2I2ZDAwODg3MDIxYWY1ZTEz`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGI3ZDEzNjc1ODA4NGZmMjYyZGUxYjJjMzRjY2ExMTA0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,405 likes - 300 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,450 likes - 300 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

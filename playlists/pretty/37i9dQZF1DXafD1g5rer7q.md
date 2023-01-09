@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,182 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,353 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 28 | [Not So Bad \(feat\. Emie\)](https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Not So Bad \(feat\. Emie\)](https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I) | 2:33 |
 | 29 | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk) | 2:26 |
 | 30 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 |
-| 31 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |
-| 32 | [Peanut Butter Jelly](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:23 |
-| 33 | [Party Shaker](https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Nicco](https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq) | [Party Shaker](https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D) | 2:39 |
+| 31 | [Party Shaker](https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Nicco](https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq) | [Party Shaker](https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D) | 2:39 |
+| 32 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |
+| 33 | [Peanut Butter Jelly](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:23 |
 | 34 | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Emelie Cyréus](https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O) | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm) | 2:12 |
 | 35 | [Close Your Eyes](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Close Your Eyes](https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE) | 2:40 |
 | 36 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [Mr\. Saxobeat](https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Mr\. Saxobeat](https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz) | 2:31 |
 | 50 | [We Got Love](https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [We Got Love](https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy) | 3:33 |
 
-Snapshot ID: `MTY3MjU0MTE0MiwwMDAwMDAwMDkzN2ZjZTdmZDQyMGI2YjQyMDkyMjU2NDA4NWJkNmEy`
+Snapshot ID: `MTY3MzE2MTQ3OCwwMDAwMDAwMDliM2JjMzlhNjg2MGY0YTI4NTc2YzJiZWExNTEzMGJi`

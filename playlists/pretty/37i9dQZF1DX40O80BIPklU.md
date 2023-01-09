@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Neto Reyno en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,701 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,868 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

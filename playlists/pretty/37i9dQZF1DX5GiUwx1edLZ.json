@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 273310,
+  "num_followers": 273316,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMDgzODEyNWU1YTE4NzYxY2Q5N2U1M2RjNTVkY2I5MmU2",
+  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMDJkODAxOGU2Yjk2NjJmOTQ3MGMzZGRhY2JkZTRmYWFm",
   "tracks": [
     {
       "added_at": "2022-09-30 14:01:12",
@@ -327,26 +327,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "I Miss You (feat. Julia Michaels) [Acoustic]",
-        "url": "https://open.spotify.com/album/4oVuagXHRZZZIvhocptEaU"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 216294,
-      "name": "I Miss You (feat. Julia Michaels) - Acoustic",
-      "url": "https://open.spotify.com/track/2HfKpWYPx4Os46z1K7yE4k"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Change The World (Strings) (feat. Nicole Dash Jones)",
         "url": "https://open.spotify.com/album/3NisgTcMSNtM3aaf484arV"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 266413,
       "name": "Change the World (feat. Nicole Dash Jones) - Strings In Motion Mix",
       "url": "https://open.spotify.com/track/1C3arE9PgTbFPLp5n1c8PE"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "I Miss You (feat. Julia Michaels) [Acoustic]",
+        "url": "https://open.spotify.com/album/4oVuagXHRZZZIvhocptEaU"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 216294,
+      "name": "I Miss You (feat. Julia Michaels) - Acoustic",
+      "url": "https://open.spotify.com/track/2HfKpWYPx4Os46z1K7yE4k"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -451,22 +451,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+        "name": "Sun Comes Up (Acoustic)",
+        "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
       },
       "artists": [
         {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         },
         {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
+      "duration_ms": 255582,
+      "name": "Sun Comes Up - Acoustic",
+      "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -491,22 +491,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Sun Comes Up (Acoustic)",
-        "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
+        "name": "Symphony (feat. Zara Larsson) [Acoustic]",
+        "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
       },
       "artists": [
         {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 255582,
-      "name": "Sun Comes Up - Acoustic",
-      "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
+      "duration_ms": 216413,
+      "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
+      "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -527,22 +527,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Symphony (feat. Zara Larsson) [Acoustic]",
-        "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
+        "name": "Head & Heart (feat. MNEK) [Acoustic]",
+        "url": "https://open.spotify.com/album/71LvRT11O1syL5E8BRBwmj"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 216413,
-      "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
-      "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
+      "duration_ms": 218526,
+      "name": "Head & Heart (feat. MNEK) - Acoustic",
+      "url": "https://open.spotify.com/track/06N4bQF7MXzLbbifGMIJZW"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -583,22 +583,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Head & Heart (feat. MNEK) [Acoustic]",
-        "url": "https://open.spotify.com/album/71LvRT11O1syL5E8BRBwmj"
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
         },
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
         }
       ],
-      "duration_ms": 218526,
-      "name": "Head & Heart (feat. MNEK) - Acoustic",
-      "url": "https://open.spotify.com/track/06N4bQF7MXzLbbifGMIJZW"
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/35TLjgolZVn4NlnaMyWh3p"
     },
     {
-      "added_at": "2023-01-08 00:52:01",
+      "added_at": "2023-01-09 00:38:12",
       "album": {
         "name": "Living Without You (Acoustic)",
         "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Looking For Me (Remixes)",
-        "url": "https://open.spotify.com/album/0IR8DIvSzJAGlSGqypZsNE"
-      },
-      "artists": [
-        {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 163562,
-      "name": "Looking For Me - Acoustic",
-      "url": "https://open.spotify.com/track/5lyamXh1WgObdOl7Cmsgol"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Feel Good (feat. Daya) [Acoustic]",
         "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
       },
@@ -1307,6 +1283,30 @@
       "duration_ms": 239772,
       "name": "Feel Good (feat. Daya) - Acoustic",
       "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Looking For Me (Remixes)",
+        "url": "https://open.spotify.com/album/0IR8DIvSzJAGlSGqypZsNE"
+      },
+      "artists": [
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 163562,
+      "name": "Looking For Me - Acoustic",
+      "url": "https://open.spotify.com/track/5lyamXh1WgObdOl7Cmsgol"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Surrender - Acoustic",
-      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Sound Advice (Chapter One)",
         "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
       },
@@ -1459,22 +1443,18 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Paradise (The Acoustics)",
-        "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
         }
       ],
-      "duration_ms": 158830,
-      "name": "Paradise - Piano Version",
-      "url": "https://open.spotify.com/track/550aWNppgjke6wF5lepBbG"
+      "duration_ms": 199080,
+      "name": "Surrender - Acoustic",
+      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1499,22 +1479,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+        "name": "Paradise (The Acoustics)",
+        "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 194594,
-      "name": "Don't Forget My Love - Acoustic",
-      "url": "https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL"
+      "duration_ms": 158830,
+      "name": "Paradise - Piano Version",
+      "url": "https://open.spotify.com/track/550aWNppgjke6wF5lepBbG"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1531,6 +1511,26 @@
       "duration_ms": 172756,
       "name": "Old Friend - Live Acoustic",
       "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Don't Forget My Love - Acoustic",
+      "url": "https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
-        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
-        }
-      ],
-      "duration_ms": 205159,
-      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
-      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Hypnotized (Acoustic)",
         "url": "https://open.spotify.com/album/31sIFQ5fOYUQZ62LpNmQzY"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 211068,
       "name": "Hypnotized - Acoustic",
       "url": "https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
+        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 205159,
+      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
+      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1743,22 +1743,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Synchronize (VIP / Acoustic)",
-        "url": "https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC"
+        "name": "Watch the World",
+        "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
       },
       "artists": [
         {
-          "name": "Hellberg",
-          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
         },
         {
-          "name": "Aaron Richards",
-          "url": "https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp"
+          "name": "Kyau & Albert",
+          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
         }
       ],
-      "duration_ms": 228095,
-      "name": "Synchronize - Acoustic",
-      "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
+      "duration_ms": 201748,
+      "name": "Fears - Acoustic Version",
+      "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Synchronize (VIP / Acoustic)",
+        "url": "https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC"
+      },
+      "artists": [
+        {
+          "name": "Hellberg",
+          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
+        },
+        {
+          "name": "Aaron Richards",
+          "url": "https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp"
+        }
+      ],
+      "duration_ms": 228095,
+      "name": "Synchronize - Acoustic",
+      "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Good Luck (Acoustic)",
         "url": "https://open.spotify.com/album/5YlinJKokEX5FIeQDCZ9wL"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 227800,
       "name": "Good Luck - Acoustic",
       "url": "https://open.spotify.com/track/0F8hd4ZANp8dAIDDe0rygZ"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Watch the World",
-        "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
-      },
-      "artists": [
-        {
-          "name": "Markus Schulz",
-          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
-        },
-        {
-          "name": "Kyau & Albert",
-          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
-        }
-      ],
-      "duration_ms": 201748,
-      "name": "Fears - Acoustic Version",
-      "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "How to Love (feat. Sofia Reyes) [Spanish & Acoustic]",
         "url": "https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 201468,
       "name": "How to Love (feat. Sofia Reyes) - Acoustic",
       "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     }
   ],
   "unique_name": "mint Acoustic",

@@ -1,12 +1,12 @@
 {
   "description": "L'unica party playlist di cui hai bisogno, personalizzata per te \ud83c\udf7e",
-  "num_followers": 303846,
+  "num_followers": 303849,
   "original_name": "Fino Al Mattino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk1OTY2MCwwMDAwMDAwMDIwOWJjMjMxNDEyZTc1Y2Y2M2Q2ZTFhZTdjMjkwZjc4",
+  "snapshot_id": "MTY3Mjk1OTY2MCwwMDAwMDAwMDU1YzZkYTc1YTBhNzk5ZTBkMThhOWMzOTQ3ZWIyNTQ5",
   "tracks": [
     {
       "added_at": "2023-01-05 23:01:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
+        "name": "Give It To Me (Full Vocal Mix)",
+        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 102860,
+      "name": "Give It To Me - Full Vocal Mix",
+      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
-        "name": "Give It To Me (Full Vocal Mix)",
-        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 102860,
-      "name": "Give It To Me - Full Vocal Mix",
-      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Hustle Mixtape",
-        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+        "name": "Love Tonight",
+        "url": "https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Capri Sun",
-      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
+      "duration_ms": 241970,
+      "name": "Love Tonight - Edit",
+      "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Love Tonight",
-        "url": "https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H"
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 241970,
-      "name": "Love Tonight - Edit",
-      "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
+      "duration_ms": 199680,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -1035,22 +1035,22 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Salvatore Vive",
-        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
       },
       "artists": [
         {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         }
       ],
-      "duration_ms": 194571,
-      "name": "La Bellavita (feat. Jul)",
-      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -1075,22 +1075,22 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+        "name": "Salvatore Vive",
+        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
         },
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+      "duration_ms": 194571,
+      "name": "La Bellavita (feat. Jul)",
+      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "In Da Getto",
-        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "In Da Getto",
-      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
         "name": "Calma (Remix)",
         "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 238200,
       "name": "Calma - Remix",
       "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "In Da Getto",
+        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
     },
     {
       "added_at": "2023-01-05 23:01:00",

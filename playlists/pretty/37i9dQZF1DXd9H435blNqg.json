@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 30097,
+  "num_followers": 30200,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDYxYjljMTZjMjg0MWZmZWQ1YWMxNTgxNzhkMmY2Njdj",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGE1YmM1Yzc2MzU3NmQ0ZmVkYWU4NTU2MzViNTBjYTFk",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "A Light That Never Dies",
-        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
-      },
-      "artists": [
-        {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
-        }
-      ],
-      "duration_ms": 173366,
-      "name": "The Ballad of Johnny",
-      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Satellite Man",
         "url": "https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 180432,
       "name": "Satellite Man",
       "url": "https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "A Light That Never Dies",
+        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
+      },
+      "artists": [
+        {
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+        }
+      ],
+      "duration_ms": 173366,
+      "name": "The Ballad of Johnny",
+      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Tell Your Mother",
-        "url": "https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu"
-      },
-      "artists": [
-        {
-          "name": "Dr JOE",
-          "url": "https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Tell Your Mother",
-      "url": "https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Click Click Domino",
         "url": "https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 196843,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Tell Your Mother",
+        "url": "https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu"
+      },
+      "artists": [
+        {
+          "name": "Dr JOE",
+          "url": "https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Tell Your Mother",
+      "url": "https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "In the Middle",
-        "url": "https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 214818,
-      "name": "In the Middle",
-      "url": "https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 284210,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "In the Middle",
+        "url": "https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 214818,
+      "name": "In the Middle",
+      "url": "https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Healing Creek",
-        "url": "https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6"
-      },
-      "artists": [
-        {
-          "name": "Talibah Safiya",
-          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
-        }
-      ],
-      "duration_ms": 191920,
-      "name": "Healing Creek",
-      "url": "https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Nobody's Wrong",
         "url": "https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 235311,
       "name": "Nobody's Wrong",
       "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Healing Creek",
+        "url": "https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6"
+      },
+      "artists": [
+        {
+          "name": "Talibah Safiya",
+          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
+        }
+      ],
+      "duration_ms": 191920,
+      "name": "Healing Creek",
+      "url": "https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Tape V",
-        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
-      },
-      "artists": [
-        {
-          "name": "Daniel Spaleniak",
-          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
-        }
-      ],
-      "duration_ms": 177801,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Don't Tell Me No Lies",
         "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 147423,
       "name": "Don't Tell Me No Lies",
       "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Tape V",
+        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Spaleniak",
+          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
+        }
+      ],
+      "duration_ms": 177801,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
     },
     {
       "added_at": "2022-08-31 19:45:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > El soundtrack oficial de la Liga Mexicana de Beisbol ⚾️🏟🧢
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,704 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,719 likes - 125 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 79 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
 | 80 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk) | [Sonora Siguaray](https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv) | [De Mil Maneras](https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8) | 4:06 |
 | 81 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
-| 82 | [Tiburon](https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:03 |
-| 83 | [La Quebradora](https://open.spotify.com/track/6btlotyCLtZUlZogXYSLCy) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:07 |
+| 82 | [La Quebradora](https://open.spotify.com/track/6btlotyCLtZUlZogXYSLCy) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:07 |
+| 83 | [Tiburon](https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:03 |
 | 84 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
 | 85 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 |
 | 86 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
@@ -108,10 +108,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 98 | [Pegao / Me Miro y La Mire \- TikTok Hit](https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Pegao / Me Miro y La Mire \(TikTok Hit\)](https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz) | 3:36 |
 | 99 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 |
 | 100 | [La Colegiala](https://open.spotify.com/track/6Ds2mSfCcXskyuUcKnh5kK) | [Calo](https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L), [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Leyenda](https://open.spotify.com/album/4adY26jTGV09nyL11n5bil) | 4:08 |
-| 101 | [No rompas mi corazón \- Achy Breaky Heart](https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Trayectoria](https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D) | 3:40 |
-| 102 | [Laurita Garza](https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:12 |
-| 103 | [Adoro \(with Armando Manzanero\)](https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Contigo Aprendí](https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb) | 3:33 |
-| 104 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 |
+| 101 | [Laurita Garza](https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:12 |
+| 102 | [No rompas mi corazón \- Achy Breaky Heart](https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Trayectoria](https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D) | 3:40 |
+| 103 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 |
+| 104 | [Adoro \(with Armando Manzanero\)](https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Contigo Aprendí](https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb) | 3:33 |
 | 105 | [El Coco No](https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:56 |
 | 106 | [Que Te Ruegue Quien Te Quiera](https://open.spotify.com/track/6CMUbdue9apkMR5RvIuA3H) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:05 |
 | 107 | [Yo Quiero Chupar](https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe) | [Yo Quiero Chupar / Solo Exitos](https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4) | 3:35 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 124 | [Oye](https://open.spotify.com/track/04JEvxmdGP93VzXekCxoJZ) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 2:35 |
 | 125 | [El Baile del Perrito](https://open.spotify.com/track/7wLNXv8Kk6JLzo3iF70Lax) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Itinerario](https://open.spotify.com/album/2EY7tYckELAzHGaSDXmeFR) | 4:40 |
 
-Snapshot ID: `MTY2MjU3MDkyMSwwMDAwMDAwMDlkNzc2YjU5NTdiMDBjMjdhN2VkOGJhMjBhYjcwN2Q5`
+Snapshot ID: `MTY2MjU3MDkyMSwwMDAwMDAwMGE3OGZlNmE1NTI4ZWNlMzViNjZlMmUxNjdkYWFhNjgx`

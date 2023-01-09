@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,976 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,199 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 37 | [saw BONES](https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk) | [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [saw BONES](https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC) | 2:27 |
 | 38 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 |
 | 39 | [RedZone](https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN) | 3:47 |
-| 40 | [Touch the Corpse](https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Touch the Corpse](https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW) | 2:46 |
-| 41 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
+| 40 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
+| 41 | [Touch the Corpse](https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Touch the Corpse](https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW) | 2:46 |
 | 42 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 |
 | 43 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |
-| 44 | [With You](https://open.spotify.com/track/6BDDpHza9P19logSNepfSy) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [The Weight That Holds Me Here](https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84) | 3:06 |
-| 45 | [Picasso On The Concrete](https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Picasso On The Concrete](https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM) | 3:10 |
+| 44 | [Picasso On The Concrete](https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Picasso On The Concrete](https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM) | 3:10 |
+| 45 | [With You](https://open.spotify.com/track/6BDDpHza9P19logSNepfSy) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [The Weight That Holds Me Here](https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84) | 3:06 |
 | 46 | [Contact](https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP) | 3:34 |
-| 47 | [Shrinking Violet](https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj) | [Wear Your Wounds](https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3) | [Rust on the Gates of Heaven](https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86) | 5:31 |
-| 48 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
+| 47 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
+| 48 | [Shrinking Violet](https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj) | [Wear Your Wounds](https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3) | [Rust on the Gates of Heaven](https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86) | 5:31 |
 | 49 | [Into The Void \- Single Edit](https://open.spotify.com/track/7wrnCfwFrQtfj3JRl4c0uy) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Into The Void](https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL) | 3:30 |
 | 50 | [Camel Dancefloor](https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Camel Dancefloor](https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn) | 3:13 |
 | 51 | [be no one](https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [be no one](https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv) | 4:21 |
@@ -70,11 +70,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 60 | [Bleed Like You \- Merzbow Version](https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2) | [Mortiis](https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Bleed Like You](https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj) | 4:57 |
 | 61 | [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 |
 | 62 | [Arcana Imperii](https://open.spotify.com/track/3Vv0Lsh8rGZZSckd5PsOzd) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Ámr](https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y) | 4:53 |
-| 63 | [DIVINE DISINTEGRATION](https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W) | [ghostofblu](https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN) | [DIVINE DISINTEGRATION](https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR) | 2:08 |
-| 64 | [open water](https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [open water](https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT) | 2:06 |
+| 63 | [open water](https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [open water](https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT) | 2:06 |
+| 64 | [DIVINE DISINTEGRATION](https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W) | [ghostofblu](https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN) | [DIVINE DISINTEGRATION](https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR) | 2:08 |
 | 65 | [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 |
-| 66 | [The Future Says Thank You](https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [The Future Says Thank You](https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg) | 3:38 |
-| 67 | [Wildblood](https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [On Circles](https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1) | 6:53 |
+| 66 | [Wildblood](https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [On Circles](https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1) | 6:53 |
+| 67 | [The Future Says Thank You](https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [The Future Says Thank You](https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg) | 3:38 |
 | 68 | [Drýsill](https://open.spotify.com/track/5pYsByOqa325t7t46xudFx) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Drýsill](https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE) | 8:52 |
 | 69 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
 | 70 | [Zone Out](https://open.spotify.com/track/2qQ1siA0oNdASlmQO4Sp9d) | [STAKE](https://open.spotify.com/artist/5IhRC86twNb6XePyW4i05E) | [LOVE, DEATH and DECAY](https://open.spotify.com/album/3uOaDRKRilIlyyv06e38ho) | 4:51 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 73 | [Demon Supreme](https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Demon Supreme](https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB) | 3:31 |
 | 74 | [Betrayal](https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Betrayal](https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf) | 5:19 |
 | 75 | [On the Floor](https://open.spotify.com/track/2gB0lJPGN3L1ueezkd559u) | [En Minor](https://open.spotify.com/artist/0U3Yu6Px35eYLuP5RkFVdL) | [When the Cold Truth Has Worn Its Miserable Welcome Out](https://open.spotify.com/album/1HS3egJso4pCQiyKvVeerg) | 5:22 |
-| 76 | [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 |
-| 77 | [WHATS UP?](https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [WHATS UP?](https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ) | 2:48 |
+| 76 | [WHATS UP?](https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [WHATS UP?](https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ) | 2:48 |
+| 77 | [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 |
 | 78 | [Kings Today](https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc), [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Kings Today](https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI) | 3:55 |
 | 79 | [EUGH!](https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx) | [SPIIRAL](https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC) | [EUGH!](https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X) | 1:22 |
 | 80 | [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 |
 
-Snapshot ID: `MTY2ODczNTczNiwwMDAwMDAwMDU1MzRlYTc5ZDUyM2QxMmYzNGNjMThjMGYwYjQ5NWUx`
+Snapshot ID: `MTY2ODczNTczNiwwMDAwMDAwMGFhYTNlZWYxYzc1NmQxNDY5ZWZmMjFhYzEwYzA4MTA0`

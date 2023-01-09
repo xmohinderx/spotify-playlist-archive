@@ -4,7 +4,7 @@
 
 > Work or rest with these gems from the 80s.
 
-188 songs - 13 hr 43 min
+189 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Old and Wise](https://open.spotify.com/track/5Jt2AQv1c3RUF5ENtAYF1i) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:55 | 2018-12-12 |  |
 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 | 2018-12-12 |  |
 | [Otterley](https://open.spotify.com/track/1DzsFF0bcBcYkZTm1rbprD) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 4:04 | 2018-12-12 | 2022-07-26 |
-| [Otterley](https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 4:04 | 2018-12-12 |  |
+| [Otterley](https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 4:04 | 2018-12-12 | 2023-01-09 |
 | [Outside Of This \(Inside Of That\)](https://open.spotify.com/track/1icJsYYbUdQ7xVfsz0YV8r) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mr Cairo](https://open.spotify.com/album/0lBhj4G2lVi5ZOcY8BuTQT) | 5:03 | 2018-12-12 | 2022-07-27 |
 | [Over the Hillside](https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 5:04 | 2018-12-12 |  |
 | [Over the Hillside](https://open.spotify.com/track/6T6FEUDoMk5o4MM8Um10Ad) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats \(Deluxe Version\)](https://open.spotify.com/album/5wfkC4wXdkDlKXhJ1BRNN7) | 5:04 | 2018-12-12 | 2022-07-29 |
@@ -137,6 +137,7 @@
 | [Rodeo Girl](https://open.spotify.com/track/32QEJwPx8SFu36y8ZU66t8) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Flying Cowboys](https://open.spotify.com/album/6a8F5hDFxA6J3VGTzGmHwM) | 4:52 | 2018-12-12 | 2022-07-25 |
 | [Running To Stand Still](https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:17 | 2018-12-12 |  |
 | [Running To Stand Still \- Remastered 2007](https://open.spotify.com/track/6TqD3tjgPr4zcF7PTEey7I) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Remastered\)](https://open.spotify.com/album/1znT2eun1mIorpA4760jrV) | 4:17 | 2018-12-12 | 2022-07-29 |
+| [Sailing](https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Sailing / Poor Shirley \(Digital 45\)](https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0) | 4:15 | 2018-12-12 |  |
 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 | 2018-12-12 | 2023-01-07 |
 | [Saturday Night](https://open.spotify.com/track/0XaD86BJ6A3L8jOsG4FIx2) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats \(Deluxe Version\)](https://open.spotify.com/album/5wfkC4wXdkDlKXhJ1BRNN7) | 6:27 | 2018-12-12 | 2022-07-29 |
 | [Saturday Night](https://open.spotify.com/track/6X8zrGoGa1zKgIO2PMq3Bk) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 6:27 | 2018-12-12 |  |

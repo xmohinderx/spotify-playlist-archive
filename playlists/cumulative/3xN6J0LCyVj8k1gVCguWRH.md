@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,924 songs - 4 day 14 hr 54 min
+1,925 songs - 4 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [I Chose You for Her](https://open.spotify.com/track/4b5aKh9eFsC8H6C4tafAwQ) | [Annie Macleod](https://open.spotify.com/artist/0zDwmhSwy56BqjP378WcuB) | [I Chose You for Her](https://open.spotify.com/album/6EanjsIrWhrYOYT6q2XKrS) | 4:35 | 2022-05-20 | 2022-06-05 |
 | [I Couldn't Reach You](https://open.spotify.com/track/0c8C51IhmU7L4aTUBynY7e) | [Stevie Cornell](https://open.spotify.com/artist/5hQZtP9bauCgRV2APn1goP) | [Stevie Cornell](https://open.spotify.com/album/3btTL1oBU80wYM8jrLKGsq) | 3:07 | 2022-05-20 | 2022-06-05 |
 | [I Do Love You](https://open.spotify.com/track/1UIvjEOKcCOXtey8vmU9R0) | [Nian Tong](https://open.spotify.com/artist/1ZUAJBmmnJxZDX9ZGU0YFN), [Josh Witt](https://open.spotify.com/artist/6MkJBJlnJEhazS8d21jP2M) | [I Do Love You](https://open.spotify.com/album/2Lf6NEgxl4Dx2XsWvGi1wg) | 2:37 | 2019-12-20 | 2019-12-31 |
+| [I Don't Care](https://open.spotify.com/track/6T1QCabxE662y1Nexek3B7) | [Cinzia Catania](https://open.spotify.com/artist/1nhbAdHVzi5bVqS1jTRnNI) | [I Don't Care](https://open.spotify.com/album/47eQ3mxCXTos8y15DpWbyA) | 3:51 | 2023-01-08 |  |
 | [I don't care](https://open.spotify.com/track/0kkcqsbUBRghd6zdwVDReg) | [GzLz](https://open.spotify.com/artist/00vGsdNJGPZRIb1Nula5TT), [Ashley Jana](https://open.spotify.com/artist/4U7gLdemN1dQjf6f7bqbrv) | [I don't care](https://open.spotify.com/album/767eCIV1myYzq1WMXKeEfb) | 3:23 | 2021-09-10 | 2021-09-26 |
 | [I Don't Give a Damn \(Qubiko Remix\)](https://open.spotify.com/track/4eOjDEXsGMd978ZZLPQfCR) | [RAY ISAAC](https://open.spotify.com/artist/0pzbsb0xhq4B5OxkHCbNgw), [Qubiko](https://open.spotify.com/artist/7GklfVLAXAgRjh6Y0yOgMq) | [I Don't Give a Damn \(Qubiko Remix\)](https://open.spotify.com/album/0JozieSTyMWDU6INXDIRlh) | 2:52 | 2021-06-19 | 2021-07-04 |
 | [I Don't Know](https://open.spotify.com/track/0tHyxHSNLXM5xuxDHb52YD) | [WhoExotic](https://open.spotify.com/artist/4qwSajYDaohRcaneQwoTOw) | [I Don't Know](https://open.spotify.com/album/6UzdvQBh9FHCRBxH9UdRZg) | 2:39 | 2022-03-04 | 2022-03-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,117 likes - 55 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,121 likes - 55 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 18 | [Kill Or Be Kind](https://open.spotify.com/track/4V8Bx1b1B5XcslWAAOph89) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 3:45 |
 | 19 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
 | 20 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
-| 21 | [Party at Red's](https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp) | [Fiona Boyes](https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE) | [Voodoo in the Shadows](https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK) | 4:15 |
-| 22 | [Clotilda's On Fire](https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:26 |
+| 21 | [Clotilda's On Fire](https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:26 |
+| 22 | [Party at Red's](https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp) | [Fiona Boyes](https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE) | [Voodoo in the Shadows](https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK) | 4:15 |
 | 23 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
 | 24 | [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 |
 | 25 | [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 54 | [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 |
 | 55 | [If Trouble Was Money](https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv) | [Sena Ehrhardt](https://open.spotify.com/artist/4I2MGRZw35d0HkoOad38tg) | [Live My Life](https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp) | 5:49 |
 
-Snapshot ID: `MTY0Njc0ODA2OSwwMDAwMDAwMGJkOGU2NjI5NGFkNGMyMDAxMTgxYjc1MDViOTgyYjg1`
+Snapshot ID: `MTY0Njc0ODA2OSwwMDAwMDAwMDU5YzRkNjQ1ZGQ3N2MyZjdhNzdjMzdkNGY2MmRmYjJh`

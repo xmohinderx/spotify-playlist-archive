@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 
 > Giving motivation to your Monday\. You got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,195 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,201 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 40 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 |
 | 41 | [Headlines](https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:55 |
 | 42 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
-| 43 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 |
-| 44 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
+| 43 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
+| 44 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 |
 | 45 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:34 |
 | 46 | [Problem](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:13 |
 | 47 | [Body](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Body](https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp) | 2:43 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 62 | [Run Boy Run](https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2) | 3:33 |
 | 63 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
 | 64 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 |
-| 65 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 |
-| 66 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
+| 65 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
+| 66 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 |
 | 67 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 |
 | 68 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
 | 69 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 81 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
 | 82 | [Ladbroke Grove](https://open.spotify.com/track/7AODNxFNPnKaz4hURLzw5l) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [AJ Tracey](https://open.spotify.com/album/45UWSDr4RrFAwNfqiFelNj) | 3:10 |
 | 83 | [Hall of Fame \(feat\. will.i.am\)](https://open.spotify.com/track/1X1DWw2pcNZ8zSub3uhlNz) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [\#3](https://open.spotify.com/album/63eaHsLLsW1e5ISNf7ISZy) | 3:22 |
-| 84 | [Charlie Brown](https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:45 |
-| 85 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 |
-| 86 | [Superstar](https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ) | [Jamelia](https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf) | [Thank You](https://open.spotify.com/album/3M6zhLhOocle8owKsjJJ5s) | 3:35 |
+| 84 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 |
+| 85 | [Superstar](https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ) | [Jamelia](https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf) | [Thank You](https://open.spotify.com/album/3M6zhLhOocle8owKsjJJ5s) | 3:35 |
+| 86 | [Charlie Brown](https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:45 |
 | 87 | [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 |
 | 88 | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/12PNcnMsjsZ3eHm62t8hiy) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Victory](https://open.spotify.com/album/1yX1ZzW6TBvQ1qeNpbiONH) | 3:52 |
 | 89 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 99 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
 | 100 | [Sometimes](https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh) | 3:16 |
 
-Snapshot ID: `MTU5ODU0MzkwMSwwMDAwMDAwMDQ1ZTc4YzdkYjYwOGRmZWVmNjcyNjMzMDc0NWMzZjg4`
+Snapshot ID: `MTU5ODU0MzkwMSwwMDAwMDAwMDMyZWE2NWUyNjkzNzQ0ODQxZGQ4OTE5ODM2N2VhOThh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,855 likes - 51 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,907 likes - 51 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,17 +47,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 37 | [Por Mujeres Voy a Morir](https://open.spotify.com/track/4z91y2K61tnG3IgZZtq84H) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Por Mujeres Voy a Morir](https://open.spotify.com/album/2VflDAQnjXjv6skaVYkozt) | 5:10 |
 | 38 | [La Torera](https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Maria Diaz y Luis Vargas](https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj) | 4:27 |
 | 39 | [Por Esa Mujer](https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | ["El Cacique" \- Todo Exitos](https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB) | 4:28 |
-| 40 | [Canto de Hacha](https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [!Ultramerengue!](https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg) | 3:42 |
+| 40 | [Mi Tia](https://open.spotify.com/track/2uQulIXKszC5YbqIVabPO5) | [El Prodigio & Su Banda Tipica](https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 4:28 |
 | 41 | [Marapica](https://open.spotify.com/track/0BfIwYo2uuLX8ZdyPacuOx) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Only Mambo Vol\. 3](https://open.spotify.com/album/2D7sxPoukdCOjQsw9YDiei) | 4:18 |
-| 42 | [Mi Tia](https://open.spotify.com/track/2uQulIXKszC5YbqIVabPO5) | [El Prodigio & Su Banda Tipica](https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 4:28 |
+| 42 | [Canto de Hacha](https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [!Ultramerengue!](https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg) | 3:42 |
 | 43 | [La Pava](https://open.spotify.com/track/2NjlBCWu91w1DPNb7jPb15) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Consagración de Cariño](https://open.spotify.com/album/785ylApcbHMfJ6nzmBumvv) | 2:52 |
 | 44 | [Salón de Belleza](https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Éxitos de Oro](https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj) | 3:54 |
 | 45 | [Juanita Morel](https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH) | [Trio Reynoso](https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus), [Miguel Santana](https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ) | [Merengues Con el Alma](https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f) | 2:31 |
 | 46 | [La Culebra](https://open.spotify.com/track/6sjj7jg37ccG6jTjlqvJG3) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA), [Rafaelito](https://open.spotify.com/artist/4Za8U5V26PcVIat4ROTGVu) | [En Vivo Vol\. 2](https://open.spotify.com/album/0LgHV66s4e9hVJSiZNFxF8) | 6:11 |
 | 47 | [El Trafico](https://open.spotify.com/track/4ecoSAaeXWE2C1KfSX5hFU) | [Chiqui Rodriguez](https://open.spotify.com/artist/0uf9GZiXpX0zAv9RGSNVgl) | [Merengues Tipicos los Numero 1](https://open.spotify.com/album/7ddzfJF2k9P2rbg2oiaP3c) | 5:43 |
-| 48 | [Preparate](https://open.spotify.com/track/4qCR0K5hjADRUkosWxA065) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Vete](https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY) | 4:13 |
-| 49 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
+| 48 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
+| 49 | [Preparate](https://open.spotify.com/track/4qCR0K5hjADRUkosWxA065) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Vete](https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY) | 4:13 |
 | 50 | [El Diente de Oro](https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO) | [El Cieguito De Nagua](https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:38 |
 | 51 | [Adán y Eva](https://open.spotify.com/track/4HLRak2Wxe2X2HndXYQ7pS) | [Tatico Henríquez](https://open.spotify.com/artist/1nEsnDQcktK5SB4ZKAezYM) | [La Cuestión](https://open.spotify.com/album/4UBjoC0P9jWZ5CndQhPFVD) | 2:44 |
 
-Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDkzOTdlNWMxY2NlYWVjMzZhMzE4ZDEwODU0MmIwM2Fm`
+Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDQzMDlhMmE2ZjdhYzI0NDE3NDQzYTRiMTFkODI2ZDE0`

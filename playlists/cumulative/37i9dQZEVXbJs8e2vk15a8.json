@@ -4737,6 +4737,28 @@
     },
     {
       "album": {
+        "name": "GHOST!",
+        "url": "https://open.spotify.com/album/0qyg64j2PFVSfTgsE0VRe3"
+      },
+      "artists": [
+        {
+          "name": "phonk.me",
+          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
+        },
+        {
+          "name": "KIIXSHI",
+          "url": "https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231704,
+      "name": "GHOST!",
+      "url": "https://open.spotify.com/track/4uLe9sk4nymENqN4RHbFIQ"
+    },
+    {
+      "album": {
         "name": "GigaChad Theme (Phonk House Version)",
         "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
       },
@@ -10242,7 +10264,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 189473,
       "name": "Quiere Que Llame",
       "url": "https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU"
@@ -13248,7 +13270,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 202080,
       "name": "Valores del West",
       "url": "https://open.spotify.com/track/2Sew64sMxc38FtKHXVkkne"
@@ -13904,7 +13926,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,050 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,286 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 40 | [Sólo para Ti](https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:02 |
 | 41 | [Cuándo](https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Galeria Caribe](https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y) | 4:34 |
 | 42 | [Duele \(Crazy\)](https://open.spotify.com/track/4sSfHheJ5F9G0bHiddFC6U) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Negroklaro](https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM) | 3:50 |
-| 43 | [Desde cuando](https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Paraiso Express](https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z) | 3:55 |
-| 44 | [Sin miedo a nada \(feat\. Amaia Montero\)](https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [¿Qué pides tú? \(Argentina\)](https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl) | 5:10 |
+| 43 | [Sin miedo a nada \(feat\. Amaia Montero\)](https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [¿Qué pides tú? \(Argentina\)](https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl) | 5:10 |
+| 44 | [Desde cuando](https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Paraiso Express](https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z) | 3:55 |
 | 45 | [Me equivoqué](https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José](https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M) | 3:59 |
 | 46 | [Underneath Your Clothes](https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:44 |
 | 47 | [Que Me Alcance la Vida](https://open.spotify.com/track/0doPUFYZPjLAFNfqoZy7Jw) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Mañana](https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx) | 3:48 |
@@ -61,21 +61,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 51 | [Só Hoje](https://open.spotify.com/track/1sClAsuPNqEaza29NcaJKP) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Discotecagem Pop Variada](https://open.spotify.com/album/34bqDaxqIdNbohOPdyk2RS) | 3:31 |
 | 52 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 |
 | 53 | [Me Duele Amarte](https://open.spotify.com/track/2VLcpwzuZVSZQUCQDQRM8n) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:12 |
-| 54 | [Mi Princesa](https://open.spotify.com/track/16kJ8NqNdHbwJe9kf1TJLe) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Sin Mirar Atrás](https://open.spotify.com/album/1xW38xA3oVHef1d8FdIZs6) | 3:22 |
-| 55 | [Morí](https://open.spotify.com/track/0FXE0aS5IZnQYR56Vwiv4v) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Serenata](https://open.spotify.com/album/2LaGAyPgCNEQieUuYzRwtq) | 3:35 |
+| 54 | [Morí](https://open.spotify.com/track/0FXE0aS5IZnQYR56Vwiv4v) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Serenata](https://open.spotify.com/album/2LaGAyPgCNEQieUuYzRwtq) | 3:35 |
+| 55 | [Mi Princesa](https://open.spotify.com/track/16kJ8NqNdHbwJe9kf1TJLe) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Sin Mirar Atrás](https://open.spotify.com/album/1xW38xA3oVHef1d8FdIZs6) | 3:22 |
 | 56 | [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 |
-| 57 | [Se Te Olvidó](https://open.spotify.com/track/0HpOft5SON0qXcoicEug2m) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Mi Otro Yo](https://open.spotify.com/album/1KqtDyZKciHgtDI0jD5sDa) | 4:29 |
-| 58 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
+| 57 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
+| 58 | [Se Te Olvidó](https://open.spotify.com/track/0HpOft5SON0qXcoicEug2m) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Mi Otro Yo](https://open.spotify.com/album/1KqtDyZKciHgtDI0jD5sDa) | 4:29 |
 | 59 | [Volverte a Amar](https://open.spotify.com/track/6fgjHINGw77nBccZ0Fzj9n) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Indeleble](https://open.spotify.com/album/5Y5vZKwOXADxWD4NjMCoUB) | 3:40 |
 | 60 | [Mariposa Traicionera](https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 4:24 |
 | 61 | [Amado](https://open.spotify.com/track/1h0f2T0DT3EVYnURyV8Rtu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Sim](https://open.spotify.com/album/0deZTBaASnRuOxp2IcnTBN) | 4:09 |
 | 62 | [Ya Nada Queda](https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku) | [Kudai](https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC) | [Vuelo](https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P) | 3:44 |
 | 63 | [Todavía Me Amas](https://open.spotify.com/track/6eB5YDhEiJ2vsNajJP3732) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 4:45 |
 | 64 | [...Y al final](https://open.spotify.com/track/3LR1Ienv3nT4S8gbsie6bA) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 4:22 |
-| 65 | [No, No, No](https://open.spotify.com/track/1qjpqPksHOOIKcwShB08oz) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [El Sexto Sentido \(Re+Loaded\)](https://open.spotify.com/album/3kHeN0vyKHdjNO5YOnCt2r) | 4:09 |
-| 66 | [Tocando Fondo](https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 4:06 |
-| 67 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [É Por Amor](https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO) | 4:32 |
-| 68 | [El Duelo \(feat\. Ely Guerra\)](https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 5:28 |
+| 65 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [É Por Amor](https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO) | 4:32 |
+| 66 | [No, No, No](https://open.spotify.com/track/1qjpqPksHOOIKcwShB08oz) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [El Sexto Sentido \(Re+Loaded\)](https://open.spotify.com/album/3kHeN0vyKHdjNO5YOnCt2r) | 4:09 |
+| 67 | [El Duelo \(feat\. Ely Guerra\)](https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 5:28 |
+| 68 | [Tocando Fondo](https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 4:06 |
 | 69 | [Telegrama](https://open.spotify.com/track/7xpDGoUGbtaquk5xMvzwTh) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Pet Shop Mundo Cão](https://open.spotify.com/album/4H4LNYMi3NTbHGgsUWdR8g) | 4:26 |
 | 70 | [O Me Voy O Te Vas](https://open.spotify.com/track/4WTTh1YtBwf8hhKvRyJPwi) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:47 |
 | 71 | [Quizás](https://open.spotify.com/track/1iC6iDolyChCB8wTBujAff) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Quizás](https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 99 | [Tu Hombre Perfecto](https://open.spotify.com/track/2AvMmfkHClBKVfoDpYAXx2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:21 |
 | 100 | [Nada Es Para Siempre](https://open.spotify.com/track/5ToI5oXnUmX5Nsmg8enL1N) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Paso A Paso](https://open.spotify.com/album/43GuWlqbeht6837v73SsMw) | 3:59 |
 
-Snapshot ID: `MTY3MjQyMDU2MCwwMDAwMDAwMDhjNDliZjUzMDk2Y2YzZWEzMmM2Y2FhNjM3YmU0OGE0`
+Snapshot ID: `MTY3MjQyMDU2MCwwMDAwMDAwMGZjMjg4MWVhYmQ2OWVkYmNjNjk1N2VjYzlhOTk5NzRi`

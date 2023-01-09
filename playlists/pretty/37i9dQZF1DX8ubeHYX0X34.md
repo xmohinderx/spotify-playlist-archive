@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Nusrat Fateh Ali Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,609 likes - 70 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,653 likes - 70 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 2 | [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 |
 | 3 | [Mitwa](https://open.spotify.com/track/4BTPzhEsyW3blWcxcuhLM0) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Kabhi Alvida Naa Kehna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV) | 6:22 |
 | 4 | [Laaree Chootee](https://open.spotify.com/track/3juoXpZ1CRCbWHnWk5rVbV) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Dhoom](https://open.spotify.com/album/2UzCtYWLoRffW5x1Vg1B15) | 3:59 |
-| 5 | [Wo Humsafar Tha \- From "Humsafar"](https://open.spotify.com/track/2z8o3kYaRs2nZGxnZ691SJ) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Wo Humsafar Tha \(From "Humsafar"\)](https://open.spotify.com/album/36UC2snz7H2x2YaU2YSEr3) | 6:26 |
-| 6 | [Ranjish Hi Sahi](https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 5:36 |
+| 5 | [Ranjish Hi Sahi](https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 5:36 |
+| 6 | [Wo Humsafar Tha \- From "Humsafar"](https://open.spotify.com/track/2z8o3kYaRs2nZGxnZ691SJ) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Wo Humsafar Tha \(From "Humsafar"\)](https://open.spotify.com/album/36UC2snz7H2x2YaU2YSEr3) | 6:26 |
 | 7 | [Bewajah](https://open.spotify.com/track/0div6Bf8qZlryVh0XorLSM) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 5:52 |
 | 8 | [Aadat](https://open.spotify.com/track/6KUlOsfQ6N72BIu1Yl1q9y) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kalyug \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3z8LjM95Ft3bWoT9BfEo6G) | 5:33 |
 | 9 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 56 | [Shareekan Nu Agg Lagdi](https://open.spotify.com/track/2zl7lKlPv2rKwy0awC6I5m) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nachaan Mein Oday Nall](https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd) | 4:03 |
 | 57 | [Teri Yaad](https://open.spotify.com/track/5R1mYWLSQ896Pfqa4iMCKH) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 6:18 |
 | 58 | [Tera Tay Mera](https://open.spotify.com/track/2ogpBnitWRM6iDUDpbabYS) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Tera Tay Mera](https://open.spotify.com/album/3ibVkV2cTH3nFCu9pInhB9) | 4:45 |
-| 59 | [Ik Arzu](https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU) | [Pyaas](https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW) | 4:39 |
-| 60 | [Aap Ki Yaad](https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 5:11 |
+| 59 | [Aap Ki Yaad](https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 5:11 |
+| 60 | [Ik Arzu](https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU) | [Pyaas](https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW) | 4:39 |
 | 61 | [Pappu Yaar](https://open.spotify.com/track/1nwJqXuGRkqWNCArdF3gMC) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Deewar](https://open.spotify.com/album/3xacHPm5pZVNYR6DIT3kNE) | 2:50 |
 | 62 | [Ucchayan Majajan Aali](https://open.spotify.com/track/290a4qvrJNMeJQaxotj9X1) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Uche Majajaan Wali](https://open.spotify.com/album/1qqXlqwQpMMhif6Asuyhuj) | 5:14 |
 | 63 | [Khaireyan De Naal](https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Tabeer](https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD) | 4:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 69 | [Laga Reh](https://open.spotify.com/track/2ZgW0BbaNtygHT43FEyHhR) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Qismat Apne Hath Mein](https://open.spotify.com/album/05nXs31CR4jvF7NtD8m7Ae) | 4:46 |
 | 70 | [Nahin Hai Yeh Pyar](https://open.spotify.com/track/565wNlsWcWTAYXdtvLys1u) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ka Nasha](https://open.spotify.com/album/6EaOP1xX92OLK2IzOmNPhC) | 3:38 |
 
-Snapshot ID: `MTY2NTU2OTU0OSwwMDAwMDAwMDFiY2Q2NjlkNTBmNzE0NmM5MjU1YmQyNDMwZWU0ZjAz`
+Snapshot ID: `MTY2NTU2OTU0OSwwMDAwMDAwMGIxODEzNjMxNjhkZmFkZjkyZTIzYjcxMjJiZjM2NWQz`

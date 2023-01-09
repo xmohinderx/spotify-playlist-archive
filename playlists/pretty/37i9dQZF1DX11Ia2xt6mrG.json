@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Tom & Collins en portada.",
-  "num_followers": 53517,
+  "num_followers": 53523,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg3MSwwMDAwMDAwMDc1YmEyMzcwMmY1MzQ3ZDk1ZTA4OGNmNjNlZDEzN2Rm",
+  "snapshot_id": "MTY3MzA2Mjg3MSwwMDAwMDAwMDc2ZTFlZjQ0YjdhZWFmMjVhOTYxMDU4MmZiODc0OWQ5",
   "tracks": [
     {
       "added_at": "2022-11-07 20:40:52",
@@ -1715,30 +1715,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF"
-      },
-      "artists": [
-        {
-          "name": "Maciel",
-          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
-        },
-        {
-          "name": "Benlon",
-          "url": "https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls"
-        },
-        {
-          "name": "Sharpz",
-          "url": "https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Time (feat. Alexia Langis)",
         "url": "https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi"
       },
@@ -1763,6 +1739,30 @@
       "duration_ms": 187317,
       "name": "Time (feat. Alexia Langis)",
       "url": "https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF"
+      },
+      "artists": [
+        {
+          "name": "Maciel",
+          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
+        },
+        {
+          "name": "Benlon",
+          "url": "https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls"
+        },
+        {
+          "name": "Sharpz",
+          "url": "https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Malas Decisiones",
-        "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
-      },
-      "artists": [
-        {
-          "name": "Madhouse",
-          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
-        },
-        {
-          "name": "Danno Summer",
-          "url": "https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2"
-        }
-      ],
-      "duration_ms": 181726,
-      "name": "No Vas A Volver",
-      "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "\u00a1Bang Bang!",
         "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 167666,
       "name": "\u00a1Bang Bang!",
       "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
+      },
+      "artists": [
+        {
+          "name": "Madhouse",
+          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
+        },
+        {
+          "name": "Danno Summer",
+          "url": "https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2"
+        }
+      ],
+      "duration_ms": 181726,
+      "name": "No Vas A Volver",
+      "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Mexican Superstar",
+        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Mexican Superstar",
+      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 181935,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Mexican Superstar",
-        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Mexican Superstar",
-      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
     },
     {
       "added_at": "2022-08-02 18:48:01",

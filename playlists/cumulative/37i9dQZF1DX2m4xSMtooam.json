@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 284133,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
@@ -3348,7 +3348,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Waters of March",
       "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
@@ -3544,10 +3544,32 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 212493,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
+    },
+    {
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214366,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
     },
     {
       "album": {

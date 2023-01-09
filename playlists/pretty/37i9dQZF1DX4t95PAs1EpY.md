@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,404 likes - 200 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,588 likes - 200 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

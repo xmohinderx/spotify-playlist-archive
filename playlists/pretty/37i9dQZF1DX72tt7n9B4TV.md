@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > Hot noise for summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,308 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,313 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 8 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
 | 9 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 |
 | 10 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 |
-| 11 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 |
-| 12 | [You Stupid Bitch](https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:15 |
+| 11 | [You Stupid Bitch](https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:15 |
+| 12 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 |
 | 13 | [Loser](https://open.spotify.com/track/01VbCa15MmvNg3KMOfoHa2) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:13 |
 | 14 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
 | 15 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 79 | [Anything](https://open.spotify.com/track/6gjiOko3nMCSgZciFm7zpX) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:48 |
 | 80 | [Straight to My Head](https://open.spotify.com/track/0J870c2hR9AjjtQsZh42iI) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [VI](https://open.spotify.com/album/7ttrc4ughOmz3dWMkpIrQv) | 3:37 |
 
-Snapshot ID: `MTY1NjkyOTIyNCwwMDAwMDAwMDA4NzkyNWViMGFiNDNlYjQ2N2MzZTBiZTgwMTg0ZGYy`
+Snapshot ID: `MTY1NjkyOTIyNCwwMDAwMDAwMDM5M2M5ZGVlYmE2MGI1MzEyOThhMjcwZDEwOTRlZDVl`

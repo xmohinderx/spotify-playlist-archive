@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Michelle BI en portada.",
-  "num_followers": 47443,
+  "num_followers": 47455,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMDlhZjY3ZTQ2ZjU4ZGYyMTYzNTdkNzY1NDY3MjljMmZi",
+  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMDI5Y2FiNmU0MzdiOTE1NmQyZDQ4Yzc2NmFkMTA0OTU2",
   "tracks": [
     {
       "added_at": "2022-12-23 06:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-12-02 06:00:00",
       "album": {
-        "name": "De Botas O Gabanas (En Vivo)",
-        "url": "https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos Originales Del Bajio",
-          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
-        }
-      ],
-      "duration_ms": 154338,
-      "name": "De Botas O Gabanas - En Vivo",
-      "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
-    },
-    {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
         "name": "H\u00e1gase Hombre",
         "url": "https://open.spotify.com/album/7ilhopX9AwemPf6YNz4XiG"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 184927,
       "name": "H\u00e1gase Hombre",
       "url": "https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu"
+    },
+    {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
+        "name": "De Botas O Gabanas (En Vivo)",
+        "url": "https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Originales Del Bajio",
+          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
+        }
+      ],
+      "duration_ms": 154338,
+      "name": "De Botas O Gabanas - En Vivo",
+      "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/7xgF8ki6syas9lOkszRPQY"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "Por Ti - Spotify Singles",
-        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Por Ti - Spotify Singles",
-      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Ya No",
@@ -527,6 +511,22 @@
       "duration_ms": 199157,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "Por Ti - Spotify Singles",
+        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Por Ti - Spotify Singles",
+      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
     },
     {
       "added_at": "2022-10-07 15:36:37",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "El Gallo Fino",
-        "url": "https://open.spotify.com/album/3bRPnVJJsQhT6pLsOQoX6V"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 186069,
-      "name": "El Gallo Fino",
-      "url": "https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w"
-    },
-    {
       "added_at": "2022-12-23 06:00:00",
       "album": {
         "name": "Los Mitotes (En Vivo)",
@@ -969,24 +953,36 @@
       "url": "https://open.spotify.com/track/4ZOPCvIXPrGu6kVTOq2kQg"
     },
     {
-      "added_at": "2022-12-05 23:10:14",
+      "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Somos de la Mayiza (El Checo)",
-        "url": "https://open.spotify.com/album/1aGbaVQ2bC4F1egBPyqN04"
+        "name": "El Gallo Fino",
+        "url": "https://open.spotify.com/album/3bRPnVJJsQhT6pLsOQoX6V"
       },
       "artists": [
         {
-          "name": "Herencia Del Cartel",
-          "url": "https://open.spotify.com/artist/5oM5epBqQmd0FZlhJcpCdH"
-        },
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
         }
       ],
-      "duration_ms": 143683,
-      "name": "Somos de la Mayiza (El Checo)",
-      "url": "https://open.spotify.com/track/2oQ8EAsQ7IjD1wDq9O8r68"
+      "duration_ms": 186069,
+      "name": "El Gallo Fino",
+      "url": "https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w"
+    },
+    {
+      "added_at": "2022-11-11 06:00:00",
+      "album": {
+        "name": "Tiempos de Guerra 2",
+        "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 171053,
+      "name": "Tiempos de Guerra 2",
+      "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
     },
     {
       "added_at": "2022-12-05 23:10:14",
@@ -1021,20 +1017,24 @@
       "url": "https://open.spotify.com/track/6P6GsfUCmIjOv6Q2zBI36s"
     },
     {
-      "added_at": "2022-11-11 06:00:00",
+      "added_at": "2022-12-05 23:10:14",
       "album": {
-        "name": "Tiempos de Guerra 2",
-        "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
+        "name": "Somos de la Mayiza (El Checo)",
+        "url": "https://open.spotify.com/album/1aGbaVQ2bC4F1egBPyqN04"
       },
       "artists": [
         {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+          "name": "Herencia Del Cartel",
+          "url": "https://open.spotify.com/artist/5oM5epBqQmd0FZlhJcpCdH"
+        },
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
         }
       ],
-      "duration_ms": 171053,
-      "name": "Tiempos de Guerra 2",
-      "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
+      "duration_ms": 143683,
+      "name": "Somos de la Mayiza (El Checo)",
+      "url": "https://open.spotify.com/track/2oQ8EAsQ7IjD1wDq9O8r68"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1161,6 +1161,22 @@
       "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
     },
     {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Sue\u00f1o Americano",
+        "url": "https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 134065,
+      "name": "Sue\u00f1o Americano",
+      "url": "https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM"
+    },
+    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Extra\u00f1o Tus Besos",
@@ -1179,22 +1195,6 @@
       "duration_ms": 227727,
       "name": "Extra\u00f1o Tus Besos",
       "url": "https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Sue\u00f1o Americano",
-        "url": "https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 134065,
-      "name": "Sue\u00f1o Americano",
-      "url": "https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM"
     },
     {
       "added_at": "2022-12-23 06:00:00",

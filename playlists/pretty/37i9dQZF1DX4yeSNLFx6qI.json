@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1716377,
+  "num_followers": 1716683,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAzNTgyMCwwMDAwMDAwMGVkZmU1YzliMGY2YjU0OGNjZTkyOTliZGM5MTliZmVk",
+  "snapshot_id": "MTY3MzAzNTgyMCwwMDAwMDAwMDFiMDRkYTQ4MmVjNDBkN2ViMDVjOTg0OTRjYzZhNTNk",
   "tracks": [
     {
       "added_at": "2023-01-06 20:10:20",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-01-06 20:10:20",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 267271,
-      "name": "Manos de Tijera",
-      "url": "https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW"
-    },
-    {
-      "added_at": "2023-01-06 20:10:20",
-      "album": {
         "name": "AYAYAY! (Deluxe)",
         "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 176346,
       "name": "Nace Un Borracho",
       "url": "https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro"
+    },
+    {
+      "added_at": "2023-01-06 20:10:20",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 267271,
+      "name": "Manos de Tijera",
+      "url": "https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW"
     },
     {
       "added_at": "2023-01-06 20:10:20",
@@ -707,6 +707,26 @@
     {
       "added_at": "2023-01-06 20:10:20",
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 173021,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"
+    },
+    {
+      "added_at": "2023-01-06 20:10:20",
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 231951,
       "name": "amantes y amigos",
       "url": "https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48"
-    },
-    {
-      "added_at": "2023-01-06 20:10:20",
-      "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 173021,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"
     },
     {
       "added_at": "2023-01-06 20:10:20",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-01-06 20:10:20",
       "album": {
-        "name": "No Le Llames Amor",
-        "url": "https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 203639,
-      "name": "No Le Llames Amor",
-      "url": "https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej"
-    },
-    {
-      "added_at": "2023-01-06 20:10:20",
-      "album": {
         "name": "Colecci\u00f3n Definitiva",
         "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-01-06 20:10:20",
       "album": {
+        "name": "No Le Llames Amor",
+        "url": "https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 203639,
+      "name": "No Le Llames Amor",
+      "url": "https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej"
+    },
+    {
+      "added_at": "2023-01-06 20:10:20",
+      "album": {
         "name": "Si Fuera M\u00eda - EP",
         "url": "https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 227373,
       "name": "Recuerdos de Amor (Lembran\u00e7as de Amor) - Si Fuera M\u00eda",
       "url": "https://open.spotify.com/track/3rmG6egiqYCmA1v2sEQUpT"
+    },
+    {
+      "added_at": "2023-01-06 20:10:20",
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
     },
     {
       "added_at": "2023-01-06 20:10:20",
@@ -915,18 +931,18 @@
     {
       "added_at": "2023-01-06 20:10:20",
       "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
+      "duration_ms": 194836,
+      "name": "Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6"
     },
     {
       "added_at": "2023-01-06 20:10:20",
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-01-06 20:10:20",
       "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 194836,
-      "name": "Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6"
-    },
-    {
-      "added_at": "2023-01-06 20:10:20",
-      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 182413,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl"
-    },
-    {
-      "added_at": "2023-01-06 20:10:20",
-      "album": {
-        "name": "S\u00f3lo Para Mujeres",
-        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ"
     },
     {
       "added_at": "2023-01-06 20:10:20",
@@ -1051,6 +1035,38 @@
     {
       "added_at": "2023-01-06 20:10:20",
       "album": {
+        "name": "Montaner",
+        "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "\u00bfQu\u00e9 Vas a Hacer?",
+      "url": "https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S"
+    },
+    {
+      "added_at": "2023-01-06 20:10:20",
+      "album": {
+        "name": "S\u00f3lo Para Mujeres",
+        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ"
+    },
+    {
+      "added_at": "2023-01-06 20:10:20",
+      "album": {
         "name": "Lo siento (feat. Sof\u00eda Reyes)",
         "url": "https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu"
       },
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2023-01-06 20:10:20",
       "album": {
-        "name": "Montaner",
-        "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
+        "name": "Saturno",
+        "url": "https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 224693,
-      "name": "\u00bfQu\u00e9 Vas a Hacer?",
-      "url": "https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S"
+      "duration_ms": 253760,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx"
     },
     {
       "added_at": "2023-01-06 20:10:20",
@@ -1115,22 +1131,6 @@
       "duration_ms": 208986,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
-    },
-    {
-      "added_at": "2023-01-06 20:10:20",
-      "album": {
-        "name": "Saturno",
-        "url": "https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx"
     },
     {
       "added_at": "2023-01-06 20:10:20",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-01-06 20:10:20",
       "album": {
-        "name": "Y Duele (feat. Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/6jNg9aoFBKGeDExlYzbXlv"
-      },
-      "artists": [
-        {
-          "name": "Sofi de la Torre",
-          "url": "https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 201034,
-      "name": "Y Duele (feat. Pablo Albor\u00e1n)",
-      "url": "https://open.spotify.com/track/1YlHuvmZCFIlt0O1JlReCb"
-    },
-    {
-      "added_at": "2023-01-06 20:10:20",
-      "album": {
         "name": "Se Me Olvid\u00f3 Olvidarte",
         "url": "https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 234309,
       "name": "Se Me Olvid\u00f3 Olvidarte",
       "url": "https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la"
+    },
+    {
+      "added_at": "2023-01-06 20:10:20",
+      "album": {
+        "name": "Y Duele (feat. Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/6jNg9aoFBKGeDExlYzbXlv"
+      },
+      "artists": [
+        {
+          "name": "Sofi de la Torre",
+          "url": "https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 201034,
+      "name": "Y Duele (feat. Pablo Albor\u00e1n)",
+      "url": "https://open.spotify.com/track/1YlHuvmZCFIlt0O1JlReCb"
     },
     {
       "added_at": "2023-01-06 20:10:20",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-01-06 20:10:20",
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/2zFA8GmjeGDq1fxj1Na67g"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ"
-    },
-    {
-      "added_at": "2023-01-06 20:10:20",
-      "album": {
         "name": "Otra Piel",
         "url": "https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 246840,
       "name": "Devuelveme la Vida (with Antonio Orozco)",
       "url": "https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw"
+    },
+    {
+      "added_at": "2023-01-06 20:10:20",
+      "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/2zFA8GmjeGDq1fxj1Na67g"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ"
     },
     {
       "added_at": "2023-01-06 20:10:20",

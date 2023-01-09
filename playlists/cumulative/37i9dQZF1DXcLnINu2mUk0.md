@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-180 songs - 9 hr 54 min
+181 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 | 2022-07-07 |  |
 | [Cashh](https://open.spotify.com/track/4dQPcRiNXw6idTGWW4ngZF) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O) | [Cashh](https://open.spotify.com/album/4Mi08knLklj8pKdeFfvhF5) | 4:28 | 2022-09-29 | 2022-10-28 |
 | [Chakra Sacro](https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr) | [AMAURA](https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l) | [Chakra Sacro](https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R) | 3:40 | 2022-09-16 | 2022-10-07 |
+| [Chance](https://open.spotify.com/track/1AClteNHhuIF4uGgPCHKhA) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi), [Juh](https://open.spotify.com/artist/5eviHRz2iMhA8NSTP176u8) | [Chance](https://open.spotify.com/album/0iSgo1smaFKzYKguM5Kws9) | 3:16 | 2023-01-06 |  |
 | [Chega P'ra Lá](https://open.spotify.com/track/7h9zNCAa8KLld9mHamzeGG) | [Hugo Casaca](https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1) | [Chega P'ra Lá](https://open.spotify.com/album/4efLnTaK16TYzuCJv4BHA2) | 2:38 | 2022-08-11 | 2022-09-09 |
 | [Chilla Chilla](https://open.spotify.com/track/3Ujr8v4IABZpysC8WBhuPu) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF) | [Chilla Chilla](https://open.spotify.com/album/3Cn1Go38UQg7fIpzzC0GeW) | 2:38 | 2022-09-29 | 2022-10-28 |
 | [Colina](https://open.spotify.com/track/6A3miATI6lLCFORxUDTRJp) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Colina](https://open.spotify.com/album/4ivAzZJlYOkXaARdzi3bdx) | 3:45 | 2022-08-18 | 2022-09-02 |
@@ -86,7 +87,7 @@
 | [Ka nu komplika](https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD) | [Ricky Man](https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n), [Valter Ls](https://open.spotify.com/artist/6tUbiFgsJZ1mTC4XU7EIAW) | [Ka nu komplika](https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW) | 3:19 | 2022-10-27 | 2022-11-18 |
 | [Lagrimas na Chuva](https://open.spotify.com/track/51byFLUe5raxXpa0ev0sFU) | [Ndozzi](https://open.spotify.com/artist/7j54Jqg5u1ualZP093JHt2), [Famoso](https://open.spotify.com/artist/7Gyjz5usu308wBX2hZjbrc) | [Lagrimas na Chuva](https://open.spotify.com/album/6cknxnSfqXYtqNdSI0F3Yh) | 2:52 | 2022-07-07 | 2022-08-06 |
 | [Layah](https://open.spotify.com/track/7mHRrnFWPKD0a6fYrfsSYl) | [WAY 45](https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv), [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef) | [Layah](https://open.spotify.com/album/5Q6KIhKt5QIkM02pzZ6fUS) | 2:49 | 2022-07-07 | 2022-07-22 |
-| [Lean](https://open.spotify.com/track/6tfaKwxYh25nFT5hbOA4cd) | [Luxy](https://open.spotify.com/artist/6RiGCtMzCmL51X6svOnC4H), [sugar.mp3](https://open.spotify.com/artist/4xivi2yulyDFk5kmcptIr2), [ZéVi](https://open.spotify.com/artist/4qEFSJ8V6S175lG0pWKMwI) | [Lean](https://open.spotify.com/album/3J5HLdkjp96rs8VewgMrND) | 3:05 | 2023-01-06 |  |
+| [Lean](https://open.spotify.com/track/6tfaKwxYh25nFT5hbOA4cd) | [Luxy](https://open.spotify.com/artist/6RiGCtMzCmL51X6svOnC4H), [sugar.mp3](https://open.spotify.com/artist/4xivi2yulyDFk5kmcptIr2), [ZéVi](https://open.spotify.com/artist/4qEFSJ8V6S175lG0pWKMwI) | [Lean](https://open.spotify.com/album/3J5HLdkjp96rs8VewgMrND) | 3:05 | 2023-01-06 | 2023-01-09 |
 | [Lembra\-te](https://open.spotify.com/track/4kGx4Jl9U74iCUy9HfSnRl) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Desde a Origem](https://open.spotify.com/album/7i5xYoXAZRC9HONBaVyZTn) | 3:16 | 2022-07-07 |  |
 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 | 2022-07-07 |  |
 | [Lentamente](https://open.spotify.com/track/7IBuWKHuCG79ee99IlaHvd) | [B.E.R.A](https://open.spotify.com/artist/69N3zTGQ7lPJURlJCklOSk), [Raissa](https://open.spotify.com/artist/6mP6GzMUDurr8CscsMEHpB) | [Lentamente](https://open.spotify.com/album/2Zgwiw7nCQMm8jqaGzj1OX) | 4:37 | 2022-07-07 | 2022-07-27 |

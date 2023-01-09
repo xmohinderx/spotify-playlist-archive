@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,927 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,866 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 54 | [Last Christmas](https://open.spotify.com/track/7IguZUbEN3K37mQ2lTI4Uq) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Last Christmas](https://open.spotify.com/album/6cHWO6sSqfJ0WIRA6yiJ6B) | 3:07 |
 | 55 | [The Banister Bough](https://open.spotify.com/track/5kPfxp5TqffVKM6iVeS1xb) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [A very chilly christmas](https://open.spotify.com/album/02UKO5a8LFQ5DLmyozpQBc) | 4:09 |
 | 56 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/3Mtn0qUhUg0ykT0AKFkcWr) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4) | 1:55 |
-| 57 | [Takin' Care Of Christmas](https://open.spotify.com/track/1KCFZtY7YZA610dHQTSG8z) | [Randy Bachman](https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg), [Beverley Mahood](https://open.spotify.com/artist/2Ur7EJdq2Lv5rOAQDNbCl7) | [Takin' Care Of Christmas](https://open.spotify.com/album/55HArZ8d6oaHrv2NTZWyYG) | 3:33 |
-| 58 | [My Favorite Things](https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [My Favorite Things](https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k) | 2:55 |
+| 57 | [My Favorite Things](https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [My Favorite Things](https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k) | 2:55 |
+| 58 | [Takin' Care Of Christmas](https://open.spotify.com/track/1KCFZtY7YZA610dHQTSG8z) | [Randy Bachman](https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg), [Beverley Mahood](https://open.spotify.com/artist/2Ur7EJdq2Lv5rOAQDNbCl7) | [Takin' Care Of Christmas](https://open.spotify.com/album/55HArZ8d6oaHrv2NTZWyYG) | 3:33 |
 | 59 | [Count Your Blessings Instead Of Sheep](https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:40 |
 | 60 | [Sleigh My Name \(Remix\)](https://open.spotify.com/track/1sIhm5NsxNEcuNIm4RVjWD) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO), [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sleigh My Name \(Remix\)](https://open.spotify.com/album/2EGGSpoN4WAGyojOzDwg0H) | 3:35 |
 | 61 | [Away In A Manger](https://open.spotify.com/track/5eicQ92kEMYKjfpb7jWWlR) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Wonderland](https://open.spotify.com/album/3RumoLPCjQPosp5mPiBl2V) | 2:26 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 85 | [Moonshine & Mistletoe](https://open.spotify.com/track/2ULrRAVrZR0iTvOItaB4oc) | [Sons of Daughters](https://open.spotify.com/artist/6PFwa7Q53EIBWY2Yc1K0nR) | [Moonshine & Mistletoe](https://open.spotify.com/album/1GeOL6E71MavgSGhzrxNsg) | 3:27 |
 | 86 | [Bring Me Cheer](https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Bring Me Cheer](https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl) | 2:25 |
 | 87 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd) | 2:45 |
-| 88 | [River](https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [River](https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs) | 3:17 |
-| 89 | [Darling, It's Cold Out](https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S) | [Darling, It's Cold Out](https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW) | 3:00 |
+| 88 | [Darling, It's Cold Out](https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S) | [Darling, It's Cold Out](https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW) | 3:00 |
+| 89 | [River](https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [River](https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs) | 3:17 |
 | 90 | [Christmas Time's A Comin'](https://open.spotify.com/track/4DfkKEmirSH505jdSR2m2i) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Christmas Time's A Comin'](https://open.spotify.com/album/3MKhVxsFUt1XYgMCZ4UkPN) | 2:43 |
 | 91 | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/track/71JECBTllXdl37lGVkH33S) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/album/6t6t6VnBN5OfgtUVe0DU6t) | 4:00 |
 | 92 | [Good King Wenceslas](https://open.spotify.com/track/67coyu2OnSVJNENhFHLinC) | [Skydiggers](https://open.spotify.com/artist/7laI3diMt9Gpz0GAp85qLb) | [Angels](https://open.spotify.com/album/4eEnHnlWUNeUd6N387IEjn) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/track/0AFOsHOLzZvUY8IqnhfRvA) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/album/1U04rSEjf2f4tMvOpvKacK) | 3:51 |
 | 100 | [Tinseltown](https://open.spotify.com/track/1L6bTqfeKD3VRyJyoteUc9) | [Jimmy Rankin](https://open.spotify.com/artist/2OQPlCSsa0Hs0V0oMT5YdU) | [Tinsel Town](https://open.spotify.com/album/5geLUoFqgN4GpktaxO7zUf) | 3:44 |
 
-Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMGVhYWUwMTE0Yjc0ZWZkMjgxYTc5Mjk1M2QyMTEwZDhl`
+Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDViNTIzZDQ2YTM1MWI2ZmUwNjhiZDFmMGZkNDhkMGFh`

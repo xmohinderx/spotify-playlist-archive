@@ -1,12 +1,12 @@
 {
   "description": "No procrastination allowed. Only fun songs to help you get chores done.",
-  "num_followers": 427544,
+  "num_followers": 427862,
   "original_name": "Get Chores Done",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM1MDk2MiwwMDAwMDAwMDY5NzJhYzc5YTg5MzEzNmE4ODRjNGI1MGIzN2QxYzY3",
+  "snapshot_id": "MTY3MjM1MDk2MiwwMDAwMDAwMGQ4M2NmZWQzMTdiYTM5NmZjYzNhNjliNTkyNzRmODVi",
   "tracks": [
     {
       "added_at": "2022-12-29 21:56:02",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-12-29 21:56:02",
       "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2022-12-29 21:56:02",
+      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 179940,
       "name": "Mon Amour - Remix",
       "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2022-12-29 21:56:02",
-      "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2022-12-29 21:56:02",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-29 21:56:02",
       "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
-    },
-    {
-      "added_at": "2022-12-29 21:56:02",
-      "album": {
         "name": "Todo De Ti",
         "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2022-12-29 21:56:02",
+      "album": {
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
       "added_at": "2022-12-29 21:56:02",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-12-29 21:56:02",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 201660,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
-    },
-    {
-      "added_at": "2022-12-29 21:56:02",
-      "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 245640,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "added_at": "2022-12-29 21:56:02",
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 201660,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
     },
     {
       "added_at": "2022-12-29 21:56:02",

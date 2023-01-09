@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Codiciado, Jaziel Avilés & Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,511 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,658 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
 | 2 | [Siempre Pendientes](https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm) | 3:06 |
 | 3 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 |
-| 4 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
+| 4 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 |
 | 5 | [Una Raya Más Al Tigre](https://open.spotify.com/track/7LEx6UUC2xzYGz8D8eCU36) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 3:10 |
-| 6 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 |
+| 6 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
 | 7 | [El Boom](https://open.spotify.com/track/1SQe4UUgUSRvY2SD10Ft3o) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [El Boom](https://open.spotify.com/album/1yKupzUivdMwcsplXhaLDR) | 4:21 |
 | 8 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 |
 | 9 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [De A De Veras](https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De A De Veras](https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV) | 3:42 |
 | 75 | [Me Acostumbre A Lo Bueno \(Remix\)](https://open.spotify.com/track/31BLeQC9tZ4hTFoAhg3oBw) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 2:18 |
 
-Snapshot ID: `MTY3MjQyMjA5NCwwMDAwMDAwMDYyYjI5Yjg0OTM1NmZhNzU3MWI5MzhkODhlZDk1Nzdl`
+Snapshot ID: `MTY3MjQyMjA5NCwwMDAwMDAwMDFiM2FiNTYxZWVhMWJmOGU2MGFhZGQ5Zjc3MTYxMDQz`

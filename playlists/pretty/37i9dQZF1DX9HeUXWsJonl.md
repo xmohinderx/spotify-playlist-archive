@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > The sweet sounds of Tunisia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,823 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,886 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,21 +14,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 4 | [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 |
 | 5 | [Bario](https://open.spotify.com/track/1lpg6YHzAsWn2dyAYhHxv2) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 3:19 |
 | 6 | [Watani](https://open.spotify.com/track/6CSz8qjGxCVq2Effqj70n0) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Watani](https://open.spotify.com/album/1AnLeUdRBSPUey9nVMsJYU) | 1:56 |
-| 7 | [Wa7di](https://open.spotify.com/track/1Kcd7hb4w18W1VVDLkt5Kn) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Wa7di](https://open.spotify.com/album/2CiqwTgfyqPgK7bmSfCK0i) | 3:06 |
-| 8 | [Zidni Bal3a \- زيدني بلعة](https://open.spotify.com/track/0GIDZOCNCYzFZm6ISFPDgA) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Zidni Bal3a \(زيدني بلعة\)](https://open.spotify.com/album/6inZ22BdbOv5k2Fg4dwQjh) | 3:30 |
-| 9 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 |
-| 10 | [Maghrebins](https://open.spotify.com/track/4U5h7GaXXXNOLpuo5vr3dU) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:23 |
-| 11 | [Chlonak](https://open.spotify.com/track/3rkuOoH3o33ni0sNOEZQs7) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Chlonak](https://open.spotify.com/album/0cGkSy5xNbR16gSUlqgtIe) | 3:26 |
-| 12 | [Ma Tebki Ya Ain](https://open.spotify.com/track/6Fv6mqIai6eGsGAvJ4M2s6) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK), [Myne](https://open.spotify.com/artist/4cqqwyFXQGG2bWTwfVchMv) | [Ma Tebki Ya Ain](https://open.spotify.com/album/2v0YFXim7Ucs85m5lokaHE) | 3:32 |
-| 13 | [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 |
-| 14 | [Khoufi \- خوفي](https://open.spotify.com/track/7aCSt5gUf1OOcZJYKzX7pN) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Khoufi \(خوفي\)](https://open.spotify.com/album/0onvc61yJBF3JrcvfmmjRI) | 4:01 |
-| 15 | [Noum Elil](https://open.spotify.com/track/7D9vjMrVVF9cG2z4vB6SQY) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Rahal](https://open.spotify.com/album/3mif5AjUcXbVBQL3QLSP5Q) | 4:12 |
-| 16 | [Teblina](https://open.spotify.com/track/62BTtJMH55mNZWkt7bsiN2) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Teblina](https://open.spotify.com/album/1lCnDpXNlxvQ3Pw8WgxDAm) | 3:30 |
-| 17 | [Soukara](https://open.spotify.com/track/4E9W5CF1SVwRrYX8xZ7H2x) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Soukara](https://open.spotify.com/album/0cdBTS4wd4T2k7Bwpw1eP0) | 4:10 |
-| 18 | [Cicatrice](https://open.spotify.com/track/4ijVcIJQmQJsMM79kQ6axU) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Cicatrice](https://open.spotify.com/album/4xRldT6DB8MdQp60tBVwgq) | 4:03 |
-| 19 | [Nansa](https://open.spotify.com/track/3evFZBD8uSlXvqBYWuUfri) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 4:10 |
-| 20 | [KI NKHAMMEM FIK](https://open.spotify.com/track/1IfYpioyU828cGgXJK44Bi) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [KI NKHAMMEM FIK](https://open.spotify.com/album/3957FwIBCahzUaxaboTkLO) | 4:06 |
-| 21 | [Je m'endors mal luné](https://open.spotify.com/track/51ZzvOw40MCYh6DnvL57mL) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:21 |
+| 7 | [3ayech Lili \- عايش ليلي](https://open.spotify.com/track/2bWjhCbfeguEp2hSXvYB5l) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [3ayech Lili \(عايش ليلي\)](https://open.spotify.com/album/7K50LbLo6SdxQx0uuw9khz) | 3:22 |
+| 8 | [Wa7di](https://open.spotify.com/track/1Kcd7hb4w18W1VVDLkt5Kn) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Wa7di](https://open.spotify.com/album/2CiqwTgfyqPgK7bmSfCK0i) | 3:06 |
+| 9 | [Zidni Bal3a \- زيدني بلعة](https://open.spotify.com/track/0GIDZOCNCYzFZm6ISFPDgA) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Zidni Bal3a \(زيدني بلعة\)](https://open.spotify.com/album/6inZ22BdbOv5k2Fg4dwQjh) | 3:30 |
+| 10 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 |
+| 11 | [Maghrebins](https://open.spotify.com/track/4U5h7GaXXXNOLpuo5vr3dU) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:23 |
+| 12 | [Chlonak](https://open.spotify.com/track/3rkuOoH3o33ni0sNOEZQs7) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Chlonak](https://open.spotify.com/album/0cGkSy5xNbR16gSUlqgtIe) | 3:26 |
+| 13 | [Ma Tebki Ya Ain](https://open.spotify.com/track/6Fv6mqIai6eGsGAvJ4M2s6) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK), [Myne](https://open.spotify.com/artist/4cqqwyFXQGG2bWTwfVchMv) | [Ma Tebki Ya Ain](https://open.spotify.com/album/2v0YFXim7Ucs85m5lokaHE) | 3:32 |
+| 14 | [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 |
+| 15 | [Khoufi \- خوفي](https://open.spotify.com/track/7aCSt5gUf1OOcZJYKzX7pN) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Khoufi \(خوفي\)](https://open.spotify.com/album/0onvc61yJBF3JrcvfmmjRI) | 4:01 |
+| 16 | [Noum Elil](https://open.spotify.com/track/7D9vjMrVVF9cG2z4vB6SQY) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Rahal](https://open.spotify.com/album/3mif5AjUcXbVBQL3QLSP5Q) | 4:12 |
+| 17 | [Teblina](https://open.spotify.com/track/62BTtJMH55mNZWkt7bsiN2) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Teblina](https://open.spotify.com/album/1lCnDpXNlxvQ3Pw8WgxDAm) | 3:30 |
+| 18 | [Soukara](https://open.spotify.com/track/4E9W5CF1SVwRrYX8xZ7H2x) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Soukara](https://open.spotify.com/album/0cdBTS4wd4T2k7Bwpw1eP0) | 4:10 |
+| 19 | [Cicatrice](https://open.spotify.com/track/4ijVcIJQmQJsMM79kQ6axU) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Cicatrice](https://open.spotify.com/album/4xRldT6DB8MdQp60tBVwgq) | 4:03 |
+| 20 | [Nansa](https://open.spotify.com/track/3evFZBD8uSlXvqBYWuUfri) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 4:10 |
+| 21 | [KI NKHAMMEM FIK](https://open.spotify.com/track/1IfYpioyU828cGgXJK44Bi) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [KI NKHAMMEM FIK](https://open.spotify.com/album/3957FwIBCahzUaxaboTkLO) | 4:06 |
 | 22 | [Zydi](https://open.spotify.com/track/1r2iFBeekSLVyHetVvfTpy) | [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4), [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Zydi](https://open.spotify.com/album/2gijwfmnPlKT61VSEUOFxY) | 4:59 |
 | 23 | [Allo \- الو](https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Allo \(الو\)](https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT) | 4:19 |
 | 24 | [La Loum](https://open.spotify.com/track/7pL1hO8qcS60CqWNqGAsZX) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [La Loum](https://open.spotify.com/album/3V5xcUcgTtSELeMEplZYO9) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Kberna](https://open.spotify.com/track/3qPuUbEjX7fBcj4WPUkbh4) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:24 |
 | 50 | [BLA BLA](https://open.spotify.com/track/4XDaWzm0Y6gZoRuo2engXC) | [Youssef Mounes](https://open.spotify.com/artist/6sMjcbHchN0wUoMmYhKSD2) | [BLA BLA](https://open.spotify.com/album/5qy4gJpXBGvCqlAM7uyVTj) | 2:48 |
 
-Snapshot ID: `MTY3MzAyMTc0MywwMDAwMDAwMGM2YTEwMzI1NmU3ZDE1Yzk5Zjk0MDYzNmJhMzIwMTNi`
+Snapshot ID: `MTY3MzIwMjIyOSwwMDAwMDAwMDU0YTI2ZmEyMjdhODJmOWU4YjM3M2Y2YWYyNGE2MmU4`

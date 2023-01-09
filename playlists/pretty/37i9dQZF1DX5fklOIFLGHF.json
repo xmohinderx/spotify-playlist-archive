@@ -1,12 +1,12 @@
 {
   "description": "Rock sin vueltas. Foto: EMI",
-  "num_followers": 15544,
+  "num_followers": 15575,
   "original_name": "La Frecuencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMGQwOTZmZjlhZmFlNmRkN2UzOGZhMWE3NDVlM2Y1YWM2",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDU3ZmZiMDI1MmE1N2U0ZTU5MzI0OWQ0ZmY2YTQ5Yzgx",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Disraeli Gears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
+        "name": "El Calor Del Pleno Invierno",
+        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         }
       ],
-      "duration_ms": 250400,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
+      "duration_ms": 207533,
+      "name": "A las Nueve",
+      "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "El Calor Del Pleno Invierno",
-        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 207533,
-      "name": "A las Nueve",
-      "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
+      "duration_ms": 250400,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 256555,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "The Rolling Stones In Mono (Remastered 2016)",
-        "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Paint It, Black - Mono",
-      "url": "https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Chac Tu Chac",
         "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 240013,
       "name": "Tan Solo",
       "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "The Rolling Stones In Mono (Remastered 2016)",
+        "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Paint It, Black - Mono",
+      "url": "https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL"
     },
     {
       "added_at": "2022-12-16 03:00:00",

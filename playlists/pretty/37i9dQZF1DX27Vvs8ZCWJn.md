@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 
 > Clásicas románticas, melodiosas, apacibles.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,640 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,768 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 | 39 | [Cantares](https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 3:16 |
 | 40 | [No Hace Falta](https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Que Nada Nos Separe](https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY) | 4:27 |
 | 41 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 |
-| 42 | [19 Dias y 500 Noches \- En Directo](https://open.spotify.com/track/3LXFi1Xk9qJsYXYEjDcuVH) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 5:19 |
-| 43 | [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 |
+| 42 | [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 |
+| 43 | [19 Dias y 500 Noches \- En Directo](https://open.spotify.com/track/3LXFi1Xk9qJsYXYEjDcuVH) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 5:19 |
 | 44 | [Aquellas Pequeñas Cosas](https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 1:50 |
 | 45 | [Te Voy a Enseñar a Querer](https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:16 |
 | 46 | [Señora](https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:24 |
 | 47 | [Medley \(Yo Que No Vivo Sin Ti / Culpable O No / Más Allá De Todo / Fría Como El Viento / Entrégate /Tengo Todo Excepto A Ti / La Incondicional\) \- En Vivo](https://open.spotify.com/track/2VbKzmGzbd2qjO0xw3WhKq) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 16:32 |
 | 48 | [Mentiras](https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 4:10 |
-| 49 | [Por Ti](https://open.spotify.com/track/5yRsYFUzZma7IaXhROkuo8) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [16 Exitos De Oro](https://open.spotify.com/album/7bwndiQmsxDxO4BE5OFdfb) | 2:47 |
-| 50 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
+| 49 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
+| 50 | [Por Ti](https://open.spotify.com/track/5yRsYFUzZma7IaXhROkuo8) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [16 Exitos De Oro](https://open.spotify.com/album/7bwndiQmsxDxO4BE5OFdfb) | 2:47 |
 
-Snapshot ID: `MTY0MDQ1NTM0NywwMDAwMDAwMDNiNmZlMmM1MjhmYzhhMWY0MjdlN2VlZTAwM2RmNTMy`
+Snapshot ID: `MTY0MDQ1NTM0NywwMDAwMDAwMDZmZThmODgyNGVkNDMyODQ0YTdiNDZmZWExYzRiOWNk`

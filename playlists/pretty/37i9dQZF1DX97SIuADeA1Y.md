@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > When the bassline slaps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,395 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,565 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 22 | [Keep on Moving](https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5) | [Kastuvas](https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Keep on Moving](https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy) | 2:57 |
 | 23 | [Sweet Dreams \(feat\. Imanbek\) \- With Alok](https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams \(feat\. Imanbek\) \[Remixes\]](https://open.spotify.com/album/5LKrGd8oU56PLe793imghr) | 2:20 |
 | 24 | [Say It Right \- ILURO Remix](https://open.spotify.com/track/5ofHoV0ywhsZUOArK1Oa1h) | [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [ILURO](https://open.spotify.com/artist/73BWaJ2QBzDrBjeCnhBzE1) | [Say It Right \(ILURO Remix\)](https://open.spotify.com/album/6ZEaJiDo55GwRWxtkbG00a) | 2:13 |
-| 25 | [I'm Okay](https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [I'm Okay](https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En) | 2:31 |
+| 25 | [Under the Influence](https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr) | [Krmoni](https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz), [Coffeeshop](https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC), [Tommy Rage](https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3) | [Under the Influence](https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx) | 2:45 |
 | 26 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 |
-| 27 | [Under the Influence](https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr) | [Krmoni](https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz), [Coffeeshop](https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC), [Tommy Rage](https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3) | [Under the Influence](https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx) | 2:45 |
+| 27 | [I'm Okay](https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [I'm Okay](https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En) | 2:31 |
 | 28 | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd) | 2:25 |
 | 29 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 |
 | 30 | [Twinkle Twinkle](https://open.spotify.com/track/7oIN5Dc6kaetarZgBvII8H) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Twinkle Twinkle](https://open.spotify.com/album/06LkBMhuqiHBQKr72PjONc) | 3:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [123 \(Dolly Song\) feat\. Karma Child](https://open.spotify.com/track/3GTyqpv12KmARyhilpvKHA) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [123 \(Dolly Song\) \(feat\. Karma Child\)](https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp) | 2:21 |
 | 60 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [SØLO](https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
 
-Snapshot ID: `MTY3MjQwNTIwMCwwMDAwMDAwMDk3NDdhZWI1YmY3M2I1YjIyOWRlZTVlZTRmYWY0M2Zm`
+Snapshot ID: `MTY3MjQwNTIwMCwwMDAwMDAwMGNkZGE4MjU1Nzc3MThiMzFiYzFkODY0YjlhZjAyZWFl`

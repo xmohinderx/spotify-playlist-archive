@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > ¡Hay tamales! ¡Tamales calientitos! De dulce, verde, rojo, mole y hasta oaxaqueños.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,569 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,634 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 5 | [Golpes en el Corazón](https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Golpes en el Corazón](https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ) | 3:31 |
 | 6 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:32 |
 | 7 | [Moriré](https://open.spotify.com/track/0BesqvlvkbU9FZMiQHrIzA) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 3:28 |
-| 8 | [Piensa En Mí](https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Sueño Y Realidad](https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U) | 2:57 |
-| 9 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 |
+| 8 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 |
+| 9 | [Piensa En Mí](https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Sueño Y Realidad](https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U) | 2:57 |
 | 10 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 |
 | 11 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 |
 | 12 | [Belleza De Cantina](https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0) | 3:03 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 65 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
 | 66 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
 | 67 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 |
-| 68 | [La Llamada \- 1993 Version](https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [Live Selena](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 3:11 |
+| 68 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 |
 | 69 | [Como Decirte Adios](https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:27 |
-| 70 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 |
+| 70 | [La Llamada \- 1993 Version](https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [Live Selena](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 3:11 |
 | 71 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 |
 | 72 | [Si Volvieras A Mi](https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:50 |
 | 73 | [Chúntaros Style](https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 3:58 |
 | 74 | [Un Sueño Y Nada Mas](https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX) | [Grupo Polo Montañes](https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC) | [Un Sueño Y Nada Más](https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0) | 4:38 |
 | 75 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
 
-Snapshot ID: `MTY0Mzc0MTE5NywwMDAwMDAwMDIzYmI4ZjRmOTM3MGFkMTY1YjY3NDdmNTRlOGRhMDZj`
+Snapshot ID: `MTY0Mzc0MTE5NywwMDAwMDAwMDQ0ZTRlZjZmYjFmOWY5M2U4ZDllMWQ2YTA0OWEyMjY3`

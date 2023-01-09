@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,167 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 25 | [Louisiana 1927 \(feat\. Madison Cunningham\)](https://open.spotify.com/track/08v0Un342hJHIgtsLcBbER) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Live To Tape: Volume II](https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU) | 3:15 |
 | 26 | [Common Language](https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:26 |
 | 27 | [Sunshine Over The Counter](https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 4:22 |
-| 28 | [Forever Young](https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ups & Downs](https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD) | 3:22 |
-| 29 | [Strong Enough](https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [...but i'd rather be with you, too](https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS) | 3:17 |
+| 28 | [Strong Enough](https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [...but i'd rather be with you, too](https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS) | 3:17 |
+| 29 | [Forever Young](https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ups & Downs](https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD) | 3:22 |
 | 30 | [Hold On](https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday](https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK) | 4:28 |
 | 31 | [When Love Loves Alone](https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:30 |
 | 32 | [Lover, You Should’ve Come Over](https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday \(Extended Edition\)](https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk) | 5:36 |
 | 33 | [Beauty Into Clichés](https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:01 |
 | 34 | [Be My Witness \(feat\. Madison Cunningham\)](https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Live To Tape: Volume II](https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU) | 3:22 |
 | 35 | [I Close My Eyes](https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 3:59 |
-| 36 | [The Gotholympians Featuring Madison Cunningham](https://open.spotify.com/track/4qoZQTcijnMaIbFlIs2YaN) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [We Are Olympians](https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf) | 3:23 |
-| 37 | [No One Else To Blame](https://open.spotify.com/track/3tICJ9T0zJHV9NRakK8PHw) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No One Else To Blame](https://open.spotify.com/album/4RrYiD9kEUbyPYaWBmgVy8) | 3:02 |
+| 36 | [No One Else To Blame](https://open.spotify.com/track/3tICJ9T0zJHV9NRakK8PHw) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No One Else To Blame](https://open.spotify.com/album/4RrYiD9kEUbyPYaWBmgVy8) | 3:02 |
+| 37 | [The Gotholympians Featuring Madison Cunningham](https://open.spotify.com/track/4qoZQTcijnMaIbFlIs2YaN) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [We Are Olympians](https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf) | 3:23 |
 | 38 | [So Long, Frank Lloyd Wright](https://open.spotify.com/track/6xB36Rdbu32JzbQGrPcRb7) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 3:03 |
 | 39 | [To Another Land](https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 3:21 |
 | 40 | [Poses](https://open.spotify.com/track/2GIaxXqz1YwwCeq7fgyTrq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Poses](https://open.spotify.com/album/32tEwUgi2ZxgptAXlxXV0L) | 4:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 49 | [Window](https://open.spotify.com/track/6gOIKwnnUBcpwRfEpYHBxI) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:28 |
 | 50 | [John Wayne](https://open.spotify.com/track/61D7FDCFgp9U4h6VgpRN0t) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:55 |
 
-Snapshot ID: `Mjc4ODUwNDcsMDAwMDAwMDA1ZTIxOWFiZjI1OGYyZDJlNGNkYWMxNjg1MmNlODNhMQ==`
+Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA5OWM0ZjM5NjdmNTQ4NGEyZGExZmNhNmM5MTQwZjk2Zg==`

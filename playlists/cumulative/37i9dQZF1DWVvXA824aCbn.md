@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-357 songs - 23 hr 53 min
+359 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Lady D](https://open.spotify.com/track/1YEGJGKECYxGoRDE1TLjJC) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Lady D](https://open.spotify.com/album/6jtCNH0s9qMhzP746qNrHj) | 3:23 | 2021-09-16 |  |
 | [Lady in the Blue Dress](https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Lady in the Blue Dress](https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD) | 4:07 | 2022-03-03 | 2022-12-08 |
 | [Lady Sings the Blues](https://open.spotify.com/track/3JlzYRcXGNW8Gay4WQdmZm) | [The Capital Club Trio](https://open.spotify.com/artist/5zYKDdUuVKola3uCqk6WeW) | [Beyond the Sea](https://open.spotify.com/album/1HemrEZkZ9CNgCXhUy7uih) | 4:30 | 2020-10-20\* | 2020-12-02 |
-| [Lament](https://open.spotify.com/track/3HeycjEKlBwsSyAm78dle6) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Lament](https://open.spotify.com/album/42sHzP8X3IDIZLdIQem4b7) | 2:55 | 2021-05-09 |  |
+| [Lament](https://open.spotify.com/track/3HeycjEKlBwsSyAm78dle6) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Lament](https://open.spotify.com/album/42sHzP8X3IDIZLdIQem4b7) | 2:55 | 2021-05-09 | 2023-01-09 |
 | [Landing](https://open.spotify.com/track/5Ay0F2FMw9j8HiAKqDI8re) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Landing](https://open.spotify.com/album/3iwyJEQgPwHdyBl2eCxjjZ) | 3:01 | 2020-10-20\* | 2022-11-30 |
 | [Last Call](https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 3:21 | 2022-12-22 |  |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2020-10-20\* |  |
@@ -217,6 +217,7 @@
 | [Moon River](https://open.spotify.com/track/4vHQWVCZuQuOmv14z7bLbQ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Moon River](https://open.spotify.com/album/6Ad66s7PrIyltwAWkaSC2N) | 3:13 | 2020-11-05 | 2021-09-16 |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-08-17 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-08-10 | 2023-01-06 |
+| [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-01-05 |  |
 | [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 | 2020-10-20\* | 2021-01-21 |
 | [My Foolish Heart](https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:57 | 2021-01-21 | 2022-05-25 |
 | [My Foolish Heart](https://open.spotify.com/track/1tNqV5MzAOOkuFT2VkmYVo) | [The Sunday Duo](https://open.spotify.com/artist/454oiwevZw5pjE66lYi9Zn) | [My Foolish Heart](https://open.spotify.com/album/412It4VvdQT3AdofM6xjt8) | 4:49 | 2020-10-20\* | 2021-01-21 |
@@ -249,7 +250,7 @@
 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2020-10-20\* | 2022-09-15 |
 | [Prelude to a Kiss](https://open.spotify.com/track/5BicIdY49XrhTcy7BNwTmI) | [Ollie Reiss Trio](https://open.spotify.com/artist/5wzTGmtiNrS8PsSpkPac9D) | [Alone Together](https://open.spotify.com/album/1MIIX2y8kcImWXeypeevlv) | 5:25 | 2020-10-20\* | 2022-08-15 |
 | [Pretty Ballad](https://open.spotify.com/track/4T82mssmK8VpyjB6QVMlcI) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 3:26 | 2020-10-20\* | 2021-03-23 |
-| [Quiet Now](https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 4:43 | 2021-03-27 |  |
+| [Quiet Now](https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 4:43 | 2021-03-27 | 2023-01-09 |
 | [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-10 |  |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-08-30 |  |
 | [Repetition](https://open.spotify.com/track/5110P5yc85WSckGmf47eA9) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Porgy](https://open.spotify.com/album/3U2aPSYf6tu5YVgBw1X7SR) | 4:54 | 2021-01-21 | 2022-07-26 |
@@ -299,6 +300,7 @@
 | [Tenderly](https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Tenderly](https://open.spotify.com/album/1jw8z9WMpLOl5y89HN5Zda) | 3:10 | 2020-10-20\* | 2022-09-21 |
 | [Tennesse](https://open.spotify.com/track/2RkJ5dsaRwrnrhYUX2F7Qr) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Tennesse](https://open.spotify.com/album/4UEk2CYKoNnqyMWdCbTRmR) | 3:31 | 2020-12-09 | 2022-09-02 |
 | [That Beatnik Jive](https://open.spotify.com/track/7HdUp7WWpe9RQtwFk18WbG) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [That Beatnik Jive](https://open.spotify.com/album/0vxXeeXzriLTRk8frbqEDe) | 3:19 | 2020-10-20\* | 2021-01-21 |
+| [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-05 |  |
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2021-03-27 | 2022-10-03 |
 | [The Beauty of Everyday Things](https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Beauty of Everyday Things](https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk) | 3:23 | 2022-01-05 | 2022-08-11 |
 | [The End Of A Love Affair](https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [The End Of A Love Affair](https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI) | 5:38 | 2021-08-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 13337,
+  "num_followers": 13385,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGU1NzA4MjE0MzlkOTgwNDFlY2Y4ZmU0NDI0NGFiYjIz",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDk5YWY4MGMzNGFjZWQ4ZjVhNTM0ZDliMmJhOGViYTUw",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 336504,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Don't Wanna Go",
@@ -383,6 +367,22 @@
       "duration_ms": 180412,
       "name": "Don't Wanna Go",
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Welcome EP",
-        "url": "https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "DJ Lover - Original Mix",
-      "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Hydroponic EP",
@@ -871,6 +855,22 @@
       "duration_ms": 434000,
       "name": "Hydroponic",
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Welcome EP",
+        "url": "https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "DJ Lover - Original Mix",
+      "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
     },
     {
       "added_at": "2022-06-03 18:11:27",

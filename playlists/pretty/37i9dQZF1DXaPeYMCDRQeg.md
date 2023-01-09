@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 
 > Celebrating Black love, one song at a time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,534 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,599 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 27 | [Cupid](https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:12 |
 | 28 | [Motivation](https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Here I Am \(Deluxe Version\)](https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S) | 3:50 |
 | 29 | [Can We Talk](https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [The Best of Tevin Campbell](https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN) | 4:44 |
-| 30 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
-| 31 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
-| 32 | [You're Mines Still \(feat\. Drake\)](https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:46 |
+| 30 | [You're Mines Still \(feat\. Drake\)](https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:46 |
+| 31 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
+| 32 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
 | 33 | [DYING 4 YOUR LOVE](https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:24 |
 | 34 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 |
 | 35 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 52 | [Whatever You Want](https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:50 |
 | 53 | [Let It Burn](https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Reality Show](https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh) | 3:43 |
 | 54 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
-| 55 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 |
+| 55 | [I Want To Thank You](https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf) | [Alicia Myers](https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG) | [Back To Back](https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn) | 3:49 |
 | 56 | [Dontchange](https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 5:04 |
-| 57 | [I Want To Thank You](https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf) | [Alicia Myers](https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG) | [Back To Back](https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn) | 3:49 |
+| 57 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 |
 | 58 | [Happily Ever After](https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 4:36 |
 | 59 | [The Way](https://open.spotify.com/track/49aUxrufliNDGj7MTm7pNU) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:15 |
 | 60 | [This Luv](https://open.spotify.com/track/4l34rbUYqKWufYEWriVnB5) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:09 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 68 | [Hello](https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:19 |
 | 69 | [Wake Up Love](https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [Wake Up Love](https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR) | 3:35 |
 | 70 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
-| 71 | [U Send Me Swingin'](https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [From The Mint Factory](https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe) | 5:14 |
-| 72 | [Inside My Love \- Remastered](https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:58 |
+| 71 | [Inside My Love \- Remastered](https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:58 |
+| 72 | [U Send Me Swingin'](https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [From The Mint Factory](https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe) | 5:14 |
 | 73 | [My Heart Belongs To U](https://open.spotify.com/track/5aVnC5HP5LtiGsx6OUyfUr) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Diary Of A Mad Band](https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj) | 5:02 |
 | 74 | [Whateva U Need](https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Body \(EP\)](https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p) | 3:57 |
 | 75 | [Last Time \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/2UcZEi2BIfz4wz2fxr6K3a) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 79 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
 | 80 | [Stuck.](https://open.spotify.com/track/7JeCUUnOpoz4JoV84fliOc) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Dur&](https://open.spotify.com/album/6pW1am4w3SRnL7l6lpOHPR) | 4:19 |
 
-Snapshot ID: `MTY2ODc5NTIzMCwwMDAwMDAwMGViYzBjZGQxNDg0MjI1MzBhZGM5NjBkNWQ3YjJiNWNk`
+Snapshot ID: `MTY2ODc5NTIzMCwwMDAwMDAwMGMzOTJlNzhiYmIzODUwYjIzZmU1YmQxYjcwMDQwNGEy`

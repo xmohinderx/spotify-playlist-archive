@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Featuring new music by Yot Club.",
-  "num_followers": 839805,
+  "num_followers": 839828,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyNDgyNywwMDAwMDAwMDBkMGY1NDdiMGNlZDRkYzc2NTk0ZWZkMTFjOGEyMDFi",
+  "snapshot_id": "MTY3MzAyNDgyNywwMDAwMDAwMDdmZjA2MWYwNTNlMTcyN2RlMzA3ZjYxZDJkNmVlMDQw",
   "tracks": [
     {
       "added_at": "2022-12-14 15:18:49",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/1UZ1OcxlQYd28UoCnbNYCB"
     },
     {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
-        "name": "Billie Toppy",
-        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 195289,
-      "name": "Billie Toppy",
-      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
-    },
-    {
       "added_at": "2022-12-14 15:21:35",
       "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
@@ -223,6 +207,22 @@
       "duration_ms": 252733,
       "name": "Simulation Swarm",
       "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "Billie Toppy",
+        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 195289,
+      "name": "Billie Toppy",
+      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
     },
     {
-      "added_at": "2022-12-14 15:18:49",
+      "added_at": "2023-01-06 17:05:46",
       "album": {
-        "name": "Love Will Get You There",
-        "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
+        "name": "Ants From Up There",
+        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
         }
       ],
-      "duration_ms": 250280,
-      "name": "Love Will Get You There",
-      "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
+      "duration_ms": 363773,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
+        "name": "Love Will Get You There",
+        "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 250280,
+      "name": "Love Will Get You There",
+      "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 184314,
       "name": "Figure You Out",
       "url": "https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae"
-    },
-    {
-      "added_at": "2023-01-06 17:05:46",
-      "album": {
-        "name": "Ants From Up There",
-        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 363773,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "cough drops",
-        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 163990,
-      "name": "cough drops",
-      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
         "name": "Lying Through Their Teeth",
         "url": "https://open.spotify.com/album/2v0B167eqQ3tplIIk7ZK24"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 157065,
       "name": "Lying Through Their Teeth",
       "url": "https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "cough drops",
+        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 163990,
+      "name": "cough drops",
+      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "worm food",
-        "url": "https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK"
+        "name": "Eyez",
+        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
         }
       ],
-      "duration_ms": 206280,
-      "name": "heart attack",
-      "url": "https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF"
+      "duration_ms": 220533,
+      "name": "Eyez",
+      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -687,18 +687,18 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "Eyez",
-        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
+        "name": "worm food",
+        "url": "https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK"
       },
       "artists": [
         {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Eyez",
-      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
+      "duration_ms": 206280,
+      "name": "heart attack",
+      "url": "https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF"
     },
     {
       "added_at": "2022-12-14 15:18:49",

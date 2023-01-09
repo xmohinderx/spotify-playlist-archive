@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 118570,
+  "num_followers": 118671,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDY4YmUwZDM3MjBlZTdhZTA3YTQ4NDhjMzJmODcxZGNl",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDMwYWIxYmYyM2Y2MGYyMjExODU1MWI4OGFiZDkxYjgz",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Nada (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0UZYifjkDxYPTKAZ2nOEht"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 183129,
-      "name": "Nada - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6aX5P3g49IxqH6zzfDKHx1"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "(un poco + de) FE",
         "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 197543,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/27DWYMacTvcqHqHiQum89b"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Nada (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0UZYifjkDxYPTKAZ2nOEht"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 183129,
+      "name": "Nada - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6aX5P3g49IxqH6zzfDKHx1"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "El Microbito",
-        "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
-      },
-      "artists": [
-        {
-          "name": "Kendra Soliz",
-          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
-        }
-      ],
-      "duration_ms": 194874,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Calma (Remix)",
         "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 172336,
       "name": "Calma - Remix",
       "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "El Microbito",
+        "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
+      },
+      "artists": [
+        {
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
+        }
+      ],
+      "duration_ms": 194874,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Robarte Un Beso",
-        "url": "https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 173029,
-      "name": "Robarte Un Beso",
-      "url": "https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Si Veo a Tu Mam\u00e1",
         "url": "https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh"
       },
@@ -651,22 +635,6 @@
       "duration_ms": 160000,
       "name": "Si Veo a Tu Mam\u00e1",
       "url": "https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "La Mejor Versi\u00f3n de Mi",
-        "url": "https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T"
-      },
-      "artists": [
-        {
-          "name": "Carlo Gless",
-          "url": "https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm"
-        }
-      ],
-      "duration_ms": 134612,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -687,6 +655,38 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "La Mejor Versi\u00f3n de Mi",
+        "url": "https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T"
+      },
+      "artists": [
+        {
+          "name": "Carlo Gless",
+          "url": "https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm"
+        }
+      ],
+      "duration_ms": 134612,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Robarte Un Beso",
+        "url": "https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 173029,
+      "name": "Robarte Un Beso",
+      "url": "https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Mis Versiones 2",
         "url": "https://open.spotify.com/album/0RgAzvo0x81j4e3jReu4SE"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 181653,
       "name": "Le Hace Falta Un Beso",
       "url": "https://open.spotify.com/track/2Cmph9VuINMFQS6Y50dvaZ"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "M\u00e1tenme Porque Me Muero",
-        "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 206993,
-      "name": "M\u00e1tenme Porque Me Muero",
-      "url": "https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -739,18 +723,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Cien A\u00f1os",
-        "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
+        "name": "M\u00e1tenme Porque Me Muero",
+        "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
         }
       ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
+      "duration_ms": 206993,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -771,18 +755,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis ojos lloran por ti",
-        "url": "https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp"
+        "name": "Cien A\u00f1os",
+        "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
       },
       "artists": [
         {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
         }
       ],
-      "duration_ms": 230571,
-      "name": "Mis ojos lloran por ti",
-      "url": "https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B"
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -831,6 +815,22 @@
       "duration_ms": 238874,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Mis ojos lloran por ti",
+        "url": "https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 230571,
+      "name": "Mis ojos lloran por ti",
+      "url": "https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Extra\u00f1\u00e1ndote en Cuarentena",
         "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 131500,
       "name": "Solamente una Vez",
       "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": "2022-02-18 06:00:00",

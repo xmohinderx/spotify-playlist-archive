@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,927 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,006 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 44 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
 | 45 | [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 |
 | 46 | [Blue](https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Blue](https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr) | 3:26 |
-| 47 | [Chills](https://open.spotify.com/track/3UeJTkUgt1iZHTUWHoMskr) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Chills / Cycles](https://open.spotify.com/album/3dCtNJ4gxGwvNoDmCd7XuQ) | 4:19 |
-| 48 | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd) | 4:02 |
-| 49 | [Amman](https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Amman](https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ) | 3:28 |
-| 50 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
-| 51 | [Fade Into Black](https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:04 |
-| 52 | [Wake Up Call](https://open.spotify.com/track/2k85lEep46LiLCK95PFOts) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Wake Up Call](https://open.spotify.com/album/7xpPwin0MrpjMm1N2PeJKV) | 3:44 |
+| 47 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
+| 48 | [Chills](https://open.spotify.com/track/3UeJTkUgt1iZHTUWHoMskr) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Chills / Cycles](https://open.spotify.com/album/3dCtNJ4gxGwvNoDmCd7XuQ) | 4:19 |
+| 49 | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd) | 4:02 |
+| 50 | [Wake Up Call](https://open.spotify.com/track/2k85lEep46LiLCK95PFOts) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Wake Up Call](https://open.spotify.com/album/7xpPwin0MrpjMm1N2PeJKV) | 3:44 |
+| 51 | [Amman](https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Amman](https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ) | 3:28 |
+| 52 | [Fade Into Black](https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:04 |
 | 53 | [Soldiner](https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Soldiner](https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu) | 5:46 |
 | 54 | [Promise Don't Forget](https://open.spotify.com/track/2kQXyiK2Plxd9lxkLjnoul) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Shambles](https://open.spotify.com/album/45RsCaNIIHCfoy4EOdtX4M) | 3:55 |
 | 55 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 58 | [Rolling Back](https://open.spotify.com/track/1WoBED8U50OSvX8HpfQlsC) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Rolling Back](https://open.spotify.com/album/7MsO7Vr2xArwu8TP7lAv5p) | 3:58 |
 | 59 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 |
 | 60 | [Afterglow](https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Afterglow](https://open.spotify.com/album/1IsOH127OxGWcybr11hYKa) | 3:26 |
-| 61 | [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 |
-| 62 | [Ask](https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l) | [Dual Sessions](https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp), [Style Project](https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh) | [Ask](https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD) | 2:20 |
-| 63 | [Hollow](https://open.spotify.com/track/1nqu8ryQ6ma9vYFz64u68T) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Shallou](https://open.spotify.com/artist/4ODUoD2ZM3FxLbkfpz00NH) | [Hollow](https://open.spotify.com/album/4cTi8pyizriynPUYa0qRkD) | 4:14 |
+| 61 | [Ask](https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l) | [Dual Sessions](https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp), [Style Project](https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh) | [Ask](https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD) | 2:20 |
+| 62 | [Hollow](https://open.spotify.com/track/1nqu8ryQ6ma9vYFz64u68T) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Shallou](https://open.spotify.com/artist/4ODUoD2ZM3FxLbkfpz00NH) | [Hollow](https://open.spotify.com/album/4cTi8pyizriynPUYa0qRkD) | 4:14 |
+| 63 | [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 |
 | 64 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 |
 | 65 | [HAUNTED](https://open.spotify.com/track/0kWaEuv3fZXOPeBNMG6iGc) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [HAUNTED](https://open.spotify.com/album/02TfV5DbvB82aAL0zVgZGj) | 5:15 |
 | 66 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [Living The Life](https://open.spotify.com/track/0U4BsTlcGsdLldHE7wnniA) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Finding Sounds](https://open.spotify.com/album/4rq5ZRLwtLjCWqKveXQ6Nn) | 3:38 |
 | 70 | [Tulum](https://open.spotify.com/track/3pT9l5WdtJhCpEyxVgH2LT) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/4IxpGZORrGm6XfQW1TyMiG) | 3:45 |
 
-Snapshot ID: `MTY3MTEwOTIwMSwwMDAwMDAwMDUxZTJkNDQ3ZDQyYzZiZDA2MTQ4MjgwYjg0MjdiMTZi`
+Snapshot ID: `MTY3MTEwOTIwMSwwMDAwMDAwMDY3MWQ3NTBkNGU3OWZlYjQ2ZTQ2MmZhNGUwMDdhZmIy`

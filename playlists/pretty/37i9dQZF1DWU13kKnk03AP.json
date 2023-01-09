@@ -1,12 +1,12 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2041468,
+  "num_followers": 2041976,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2NzYwMCwwMDAwMDAwMGUyOWZmMjNmZGQ5M2Q2YTc0NDY1ZDQxMTA4NGVmZTc2",
+  "snapshot_id": "MTY3MzA2NzYwMCwwMDAwMDAwMGQ0MzYxY2FkZDBkZDIzN2ZhZWY0ODE4NTQwMTQ2OWQ3",
   "tracks": [
     {
       "added_at": "2023-01-07 05:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-01-07 05:00:00",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2023-01-07 05:00:00",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2023-01-07 05:00:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "added_at": "2023-01-07 05:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-01-07 05:00:00",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2023-01-07 05:00:00",
-      "album": {
         "name": "Mercury - Acts 1 & 2",
         "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2023-01-07 05:00:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2023-01-07 05:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-07 05:00:00",
       "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
-    },
-    {
-      "added_at": "2023-01-07 05:00:00",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-01-07 05:00:00",
       "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
+    },
+    {
+      "added_at": "2023-01-07 05:00:00",
+      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 229436,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3"
-    },
-    {
-      "added_at": "2023-01-07 05:00:00",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2023-01-07 05:00:00",
@@ -851,6 +835,22 @@
       "duration_ms": 186689,
       "name": "Lionheart (Fearless)",
       "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
+    },
+    {
+      "added_at": "2023-01-07 05:00:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2023-01-07 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-07 05:00:00",
       "album": {
-        "name": "Maybe You\u2019re The Problem",
-        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190318,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
-    },
-    {
-      "added_at": "2023-01-07 05:00:00",
-      "album": {
         "name": "OK ORCHESTRA",
         "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 216873,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
+    },
+    {
+      "added_at": "2023-01-07 05:00:00",
+      "album": {
+        "name": "Maybe You\u2019re The Problem",
+        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190318,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
     },
     {
       "added_at": "2023-01-07 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-07 05:00:00",
       "album": {
-        "name": "Dancing's Done",
-        "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "Dancing\u2019s Done",
-      "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
-    },
-    {
-      "added_at": "2023-01-07 05:00:00",
-      "album": {
         "name": "KU LO SA (with Camila Cabello)",
         "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 176058,
       "name": "So Good",
       "url": "https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu"
+    },
+    {
+      "added_at": "2023-01-07 05:00:00",
+      "album": {
+        "name": "Dancing's Done",
+        "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Dancing\u2019s Done",
+      "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
     },
     {
       "added_at": "2023-01-07 05:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-01-07 05:00:00",
       "album": {
-        "name": "Weapons",
-        "url": "https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 151592,
-      "name": "Weapons",
-      "url": "https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E"
-    },
-    {
-      "added_at": "2023-01-07 05:00:00",
-      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2023-01-07 05:00:00",
       "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 237033,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/6bB4AiK5tH13695FcNGjDY"
+    },
+    {
+      "added_at": "2023-01-07 05:00:00",
+      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-01-07 05:00:00",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
+        "name": "Weapons",
+        "url": "https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 237033,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/6bB4AiK5tH13695FcNGjDY"
+      "duration_ms": 151592,
+      "name": "Weapons",
+      "url": "https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E"
     },
     {
       "added_at": "2023-01-07 05:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-01-07 05:00:00",
       "album": {
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 170858,
+      "name": "Bang!",
+      "url": "https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY"
+    },
+    {
+      "added_at": "2023-01-07 05:00:00",
+      "album": {
         "name": "Flowers Need Rain",
         "url": "https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 168126,
       "name": "Flowers Need Rain",
       "url": "https://open.spotify.com/track/079mntueS2KWjxVqOHjG70"
-    },
-    {
-      "added_at": "2023-01-07 05:00:00",
-      "album": {
-        "name": "OK ORCHESTRA",
-        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 170858,
-      "name": "Bang!",
-      "url": "https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY"
     },
     {
       "added_at": "2023-01-07 05:00:00",

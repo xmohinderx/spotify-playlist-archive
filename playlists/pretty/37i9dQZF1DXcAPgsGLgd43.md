@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,393 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,399 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 41 | [Quemá](https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Quemá](https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB) | 2:29 |
 | 42 | [Safari](https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [Safari](https://open.spotify.com/album/0SdKouj4f0TqaDOOiBhSeA) | 3:06 |
 | 43 | [Cuban Riddim](https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Cuban Riddim](https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1) | 2:47 |
-| 44 | [La Vida](https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [La Vida](https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg) | 3:15 |
-| 45 | [Ay Papi](https://open.spotify.com/track/6cc30Sq9sWfhlsIL8DC0jw) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/1JcwtK5OXj8916nJVIdoES) | 3:25 |
+| 44 | [Ay Papi](https://open.spotify.com/track/6cc30Sq9sWfhlsIL8DC0jw) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/1JcwtK5OXj8916nJVIdoES) | 3:25 |
+| 45 | [La Vida](https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [La Vida](https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg) | 3:15 |
 | 46 | [Calle ft\. Villanueva](https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Villanueva](https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j) | [Calle EP](https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3) | 3:33 |
 | 47 | [La Fiesta](https://open.spotify.com/track/53xMyPShokgna72KTlwsXO) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [La Fiesta](https://open.spotify.com/album/7IoX8LwlcVMZzqvbYhVqOy) | 4:26 |
 | 48 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 |
 | 49 | [Bandolera](https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf) | [Joan Cases](https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL) | [Bandolera](https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw) | 2:48 |
 | 50 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 |
 
-Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDEzNmE5Yjk0ZjYyMWY5YjAzYzkzZGUxZjg4NzgwNzc5`
+Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMGJiZDJhOTIyYTFiMmVmMDQ2MTQ2M2MxYTk2MDEwYWMx`

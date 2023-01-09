@@ -6664,7 +6664,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
@@ -8528,7 +8528,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 230225,
       "name": "Manos de Tijera",
       "url": "https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF"
@@ -11440,7 +11440,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 192503,
       "name": "Que Peluche",
       "url": "https://open.spotify.com/track/2AGJYTpruVsp5R84BMuqxx"
@@ -14182,6 +14182,32 @@
       "duration_ms": 170183,
       "name": "TU SABES DONDE VIVO",
       "url": "https://open.spotify.com/track/5RgSwK9Y13567fta5goKTz"
+    },
+    {
+      "album": {
+        "name": "Tu Silueta",
+        "url": "https://open.spotify.com/album/5TIRcRu0NyCHbkPw9soAha"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "HIT$ MUSIC",
+          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Tu Silueta",
+      "url": "https://open.spotify.com/track/4TJOoYtoaH8mK1blB4wLJx"
     },
     {
       "album": {

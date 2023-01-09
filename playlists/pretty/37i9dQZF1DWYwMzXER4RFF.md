@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: The Cool Greenhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,353 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,436 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 39 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
 | 40 | [It Was A Gift](https://open.spotify.com/track/4dm7wiTdyLxf2zUSuUuN7G) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [My Other People](https://open.spotify.com/album/6O8ZBxH4IMh214XoMPMVfR) | 3:33 |
 | 41 | [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 |
-| 42 | [Tennis](https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Tennis](https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr) | 4:01 |
-| 43 | [Dark Days](https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN) | 3:05 |
+| 42 | [Dark Days](https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN) | 3:05 |
+| 43 | [Tennis](https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Tennis](https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr) | 4:01 |
 | 44 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
 | 45 | [Broke](https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY) | 8:01 |
 | 46 | [Girls & Boys](https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 4:39 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 50 | [New Beginning](https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [New Beginning](https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw) | 3:59 |
 | 51 | [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 |
 | 52 | [Concorde](https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Concorde](https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa) | 6:03 |
-| 53 | [Best Behavior](https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Audio Drag for Ego Slobs](https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3) | 3:24 |
-| 54 | [Paul](https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands with Jamie](https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9) | 6:53 |
+| 53 | [Paul](https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands with Jamie](https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9) | 6:53 |
+| 54 | [Best Behavior](https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Audio Drag for Ego Slobs](https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3) | 3:24 |
 | 55 | [Queen Sophie for President](https://open.spotify.com/track/6EEdvLIM8kecYVtpA6Ug86) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Illusory Walls](https://open.spotify.com/album/2LF6m9cVyej7vKLnjwGiLK) | 3:29 |
 
-Snapshot ID: `MTY3MDk1ODU5MiwwMDAwMDAwMDJmNDc2ZjZjYjA1ZDdiNDRlNGY0YjZkNGRhODE2Mjhj`
+Snapshot ID: `MTY3MDk1ODU5MiwwMDAwMDAwMGZjMjEzYmRkMzVkNTBlZmI2YTE0OTViMGYxOGRhY2M0`

@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
@@ -4530,6 +4530,28 @@
       "duration_ms": 185840,
       "name": "Jeans",
       "url": "https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW"
+    },
+    {
+      "album": {
+        "name": "JGL",
+        "url": "https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158093,
+      "name": "JGL",
+      "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
     },
     {
       "album": {
@@ -8464,7 +8486,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 169247,
       "name": "Si Estuvi\u00e9semos Juntos",
       "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
@@ -9326,7 +9348,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"

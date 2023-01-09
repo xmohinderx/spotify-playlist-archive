@@ -4,7 +4,7 @@
 
 > Funk\-inspired beats by latinos.
 
-55 songs - 3 hr 36 min
+56 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [BUENOS AIRES](https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 4:00 | 2022-11-22 |  |
 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2022-11-22 |  |
 | [Cuando Regreses a Mí](https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Cuando Regreses a Mí](https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE) | 3:12 | 2022-11-22 |  |
+| [Da Funk](https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Da Funk](https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH) | 2:36 | 2023-01-06 |  |
 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 | 2022-11-22 |  |
 | [Despacio](https://open.spotify.com/track/2LWqH7TB7GY9Bvme8FF7Ac) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Chango](https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa) | 3:05 | 2022-11-22 |  |
 | [El Potaje](https://open.spotify.com/track/0DdyERdVfKbtLZyR87xBZo) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Orquesta Aragón](https://open.spotify.com/artist/2Asbl9eNGYQWvaNG9EJtUK), [Pancho Amat](https://open.spotify.com/artist/04mNWBG5bxWAtsMichq3mz), [Chucho Valdés](https://open.spotify.com/artist/3erQxCD42nKs50fpfdK4ve) | [El Potaje](https://open.spotify.com/album/3BEbtgQkUW0KhDgZkXgNmG) | 3:52 | 2022-11-22 |  |
@@ -50,7 +51,7 @@
 | [Qué Rico](https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Arepa 3000](https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN) | 3:59 | 2022-11-22 |  |
 | [Rotos](https://open.spotify.com/track/5lnj71eABvEXkCcslEgZ90) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Buitres & Co.](https://open.spotify.com/album/0vWBiSLqLV03kUnvrGhi1q) | 3:45 | 2022-11-22 |  |
 | [Santiago](https://open.spotify.com/track/58r843NDpyDVVvd6In95g3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Santiago](https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21) | 2:22 | 2022-12-02 |  |
-| [Sonido Animal](https://open.spotify.com/track/09WZ24iCLjkLHn2LMs64KN) | [ACHKIRIK](https://open.spotify.com/artist/1d2rmEbX9CJjWWSyUUKoVB), [Pablo Saldarriaga](https://open.spotify.com/artist/2OVPfWsOv51fPYcKm80BDc) | [Sonido Animal](https://open.spotify.com/album/4jAdtIAmjQNgzSPmJhiCO8) | 4:15 | 2022-11-22 |  |
+| [Sonido Animal](https://open.spotify.com/track/09WZ24iCLjkLHn2LMs64KN) | [ACHKIRIK](https://open.spotify.com/artist/1d2rmEbX9CJjWWSyUUKoVB), [Pablo Saldarriaga](https://open.spotify.com/artist/2OVPfWsOv51fPYcKm80BDc) | [Sonido Animal](https://open.spotify.com/album/4jAdtIAmjQNgzSPmJhiCO8) | 4:15 | 2022-11-22 | 2023-01-09 |
 | [Suéltame, Bogotá](https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe) | 3:48 | 2022-11-22 |  |
 | [Te Miro Para Ver Si Me Ves Mirarte](https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [SOS](https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P) | 4:35 | 2022-11-22 |  |
 | [Te Vas](https://open.spotify.com/track/3gyGxfzR3OK2PcjfGELyvI) | [AMC Funk](https://open.spotify.com/artist/6ZYGRZZ5H6yq9EsCRiBrUj) | [Te Vas \- Single](https://open.spotify.com/album/0su2ILpysKqx37lnLHgCDM) | 4:06 | 2022-11-22 | 2022-12-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9YJxYnhkr3.md) - [plain]
 
 > The best tracks for Prom night 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,950 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,017 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9YJxYnhkr3.md) - [plain]
 | 30 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 |
 | 31 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 |
 | 32 | [DÁKITI](https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [DÁKITI](https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv) | 3:25 |
-| 33 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 |
-| 34 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 |
+| 33 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 |
+| 34 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 |
 | 35 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 |
 | 36 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 |
 | 37 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9YJxYnhkr3.md) - [plain]
 | 74 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 |
 | 75 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 |
 
-Snapshot ID: `MTY1NDgyMzM2MiwwMDAwMDAwMGM4NmVmOGRjNmQ0YTQyYWM3NWI0YWNiNTE2M2Y5NmU4`
+Snapshot ID: `MTY1NDgyMzM2MiwwMDAwMDAwMDI2MzllMjIxMzUxMDIwYWM5Nzg3NzJhYjEyYWU3OTY1`

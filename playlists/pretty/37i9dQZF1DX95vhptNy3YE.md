@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Oruam e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,646 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,893 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 34 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 |
 | 35 | [Silenciador](https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Silenciador](https://open.spotify.com/album/0R7Z7BN0utY3V8e1MOWmxM) | 2:44 |
 | 36 | [SUV PRATA](https://open.spotify.com/track/0pMpTL5FukBIuPQiUZJVom) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [SUV PRATA](https://open.spotify.com/album/6PJMkptGy0mgvP0exF9CUy) | 2:29 |
-| 37 | [PIX \(feat\. 4Genesis & Cax Camp\)](https://open.spotify.com/track/5aw9n45WzW5VQ7XHyBFHkl) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [4Genesis](https://open.spotify.com/artist/67D2Ml4TLOBf7nolQgDev8), [Cax Camp](https://open.spotify.com/artist/11419mV19Pj8zf96vPU0Q2) | [PIX \(feat\. 4Genesis & Cax Camp\)](https://open.spotify.com/album/34qA1ODM4HJ2pXMMUXDFUx) | 4:10 |
-| 38 | [bode](https://open.spotify.com/track/4VC3XmGu302imYYjIJuS9L) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:51 |
+| 37 | [bode](https://open.spotify.com/track/4VC3XmGu302imYYjIJuS9L) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:51 |
+| 38 | [PIX \(feat\. 4Genesis & Cax Camp\)](https://open.spotify.com/track/5aw9n45WzW5VQ7XHyBFHkl) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [4Genesis](https://open.spotify.com/artist/67D2Ml4TLOBf7nolQgDev8), [Cax Camp](https://open.spotify.com/artist/11419mV19Pj8zf96vPU0Q2) | [PIX \(feat\. 4Genesis & Cax Camp\)](https://open.spotify.com/album/34qA1ODM4HJ2pXMMUXDFUx) | 4:10 |
 | 39 | [Mente De Malandra](https://open.spotify.com/track/60wLSEv4bIBe3zfyTKFcpO) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Mente De Malandra](https://open.spotify.com/album/1sLCamkWClqfoHWNKNVmjo) | 3:22 |
 | 40 | [Visão de Onça \- Spotify Singles](https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Visão de Onça \- Spotify Singles](https://open.spotify.com/album/068AREijgAvQQuZkiAfap3) | 2:21 |
 | 41 | [100 Mili](https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [100 Mili](https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Auto Filter](https://open.spotify.com/track/710nUmKdg0R0YGoHcxIhje) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Auto Filter](https://open.spotify.com/album/6jDENEt6mLAqNY8AKnzf19) | 3:48 |
 | 50 | [D'áfrica](https://open.spotify.com/track/5eN1WGpYcHelf8tMnn9Fn2) | [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [D'áfrica](https://open.spotify.com/album/1hSHeYLWqW5amNMqRMIYMj) | 3:27 |
 
-Snapshot ID: `MTY3MzAzMDczOCwwMDAwMDAwMGYxNzJlNjgxYzllNmRmZjBjZWU1OTBkM2FjNWQxZThl`
+Snapshot ID: `MTY3MzAzMDczOCwwMDAwMDAwMDAzMDFmY2EzYjE1M2YwN2Y2NDljN2JlMDQ2YjU1OTAx`

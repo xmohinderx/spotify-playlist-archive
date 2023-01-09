@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,956 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,969 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 10 | [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 |
 | 11 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
 | 12 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
-| 13 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
+| 13 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 14 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 |
-| 15 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
+| 15 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
 | 16 | [Someday](https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:07 |
 | 17 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 |
 | 18 | [Treat People With Kindness](https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:17 |
@@ -51,19 +51,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 41 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
 | 42 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 |
 | 43 | [More](https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [More](https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL) | 3:48 |
-| 44 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 |
-| 45 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
-| 46 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 |
-| 47 | [Over It](https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Over It](https://open.spotify.com/album/6oeqSsMiS8lxIi1L34ykXM) | 2:49 |
-| 48 | [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 |
+| 44 | [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 |
+| 45 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 |
+| 46 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
+| 47 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 |
+| 48 | [Over It](https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Over It](https://open.spotify.com/album/6oeqSsMiS8lxIi1L34ykXM) | 2:49 |
 | 49 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
 | 50 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 |
-| 51 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 |
-| 52 | [Splash](https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Splash](https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea) | 2:50 |
-| 53 | [East End Coast](https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [East End Coast](https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU) | 3:46 |
+| 51 | [East End Coast](https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [East End Coast](https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU) | 3:46 |
+| 52 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 |
+| 53 | [Splash](https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Splash](https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea) | 2:50 |
 | 54 | [have a great day](https://open.spotify.com/track/5EKvSbDk01gFTw8IQNFzUz) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:22 |
-| 55 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 |
-| 56 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 |
+| 55 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 |
+| 56 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 |
 | 57 | [Blue](https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Blue](https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL) | 3:16 |
 | 58 | [My 100](https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [My 100](https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm) | 2:53 |
 | 59 | [Ain't Got No Friends](https://open.spotify.com/track/579xAs0iqnYWRZQJfjAW9U) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Ain't Got No Friends](https://open.spotify.com/album/3OWRyVAA36otEE4Rn50wok) | 2:27 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 76 | [Blu Shirt Boy](https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa) | 3:43 |
 | 77 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
 | 78 | [You Give Me More](https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Meet You There](https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e) | 2:58 |
-| 79 | [good thing](https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [good thing](https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ) | 2:22 |
-| 80 | [Cloudy Day \- Acoustic](https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day \(Acoustic\)](https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ) | 3:05 |
+| 79 | [Cloudy Day \- Acoustic](https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day \(Acoustic\)](https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ) | 3:05 |
+| 80 | [good thing](https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [good thing](https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ) | 2:22 |
 
-Snapshot ID: `MTY3MzAyNTc3NywwMDAwMDAwMGVlYjg1ZmIwZjViNDJhOTZhNjk5MzliNThmN2RmZTgz`
+Snapshot ID: `MTY3MzAyNTc3NywwMDAwMDAwMGRjZTBlYWE1MWM0MjEyNmQ5ZmQ3Y2MxMTQ2ODZiMTVj`

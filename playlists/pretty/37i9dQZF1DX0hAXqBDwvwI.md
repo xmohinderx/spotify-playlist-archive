@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,113 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,936 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 43 | [DADDY ! DADDY ! DO !](https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:14 |
 | 44 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 | 45 | [堕天](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 |
-| 46 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
-| 47 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 |
+| 46 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 |
+| 47 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
 | 48 | [遥か彼方](https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG](https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA) | 4:03 |
 | 49 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 |
 | 50 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 |
 
-Snapshot ID: `MTY3MjkzMDgwMCwwMDAwMDAwMDUyZGNlZmIxMDkyZjNjZDkxOWI0MDAyNjU4NGIyZDQy`
+Snapshot ID: `MTY3MjkzMDgwMCwwMDAwMDAwMDQ2YTBjNjE1MDdlN2IzZmQ4MThiNDMyYmNiZDQ4MDgx`

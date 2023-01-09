@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 
 > The best soft rock from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,757 likes - 70 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,844 likes - 70 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 49 | [Little Boy](https://open.spotify.com/track/1vkdwNTgBAzWFApCVYX9ER) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:53 |
 | 50 | [Release](https://open.spotify.com/track/3ubpkIvw8SDchaRPEKIQPS) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER) | 2:28 |
 | 51 | [If You Ever Want To Be In Love](https://open.spotify.com/track/0UGRfHjN5t2qRMgfTpYnd3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 |
-| 52 | [My Heart I Surrender](https://open.spotify.com/track/2tXtxbJra1MIJxkWrD1xTd) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 3:27 |
+| 52 | [Over You](https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Miracle Pill](https://open.spotify.com/album/79gY3R2V5HcDbnrMp6wuVP) | 2:54 |
 | 53 | [Silenced By The Night](https://open.spotify.com/track/6ovxhuEp4zsnJLvNKnQiBL) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Strangeland \(Deluxe Version\)](https://open.spotify.com/album/3nwyEcUG2j9CXV7qY1BhVr) | 3:16 |
-| 54 | [Over You](https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Miracle Pill](https://open.spotify.com/album/79gY3R2V5HcDbnrMp6wuVP) | 2:54 |
+| 54 | [My Heart I Surrender](https://open.spotify.com/track/2tXtxbJra1MIJxkWrD1xTd) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 3:27 |
 | 55 | [Song For Someone](https://open.spotify.com/track/6PmvNS601Mcd2H0UcqMWb0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence](https://open.spotify.com/album/45Ec0wYJ7npo6lXH4GWmxz) | 3:46 |
 | 56 | [Slow And Steady](https://open.spotify.com/track/3raHUAfQyQ7Gv8yK62AVhV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 5:01 |
 | 57 | [Heathrow](https://open.spotify.com/track/2X6aiq2KyWsyhh7c3vzeyp) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 2:51 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 69 | [Cold Arms](https://open.spotify.com/track/3dBwNOUqqdCYPmiUMXxZMy) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 2:49 |
 | 70 | [Slide](https://open.spotify.com/track/0t1WPoT5kNNIyNyUbOBOsV) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:08 |
 
-Snapshot ID: `MTY2ODcwMDUyNSwwMDAwMDAwMDBkYzdmOTBjYzYwMzY3ZTA1NmEwZjU1OGMwMmI4YmJl`
+Snapshot ID: `MTY2ODcwMDUyNSwwMDAwMDAwMDhjMmU4MWU3NjZiN2MyZDRmNzhmZjM1YjdiZTg0YjRk`

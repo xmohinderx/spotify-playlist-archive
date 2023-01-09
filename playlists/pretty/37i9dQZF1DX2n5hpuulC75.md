@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,772 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,853 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,20 +39,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 29 | [Mercury](https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2) | 5:35 |
 | 30 | [INT.](https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone’s EP I](https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d) | 1:27 |
 | 31 | [Lagoon](https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE) | 4:15 |
-| 32 | [White Gemini](https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Aisle of Palm](https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr) | 3:38 |
+| 32 | [Surf](https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Boom Boom On The Roof, Boom Boom In Your Ears](https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP) | 2:55 |
 | 33 | [Needy Bees](https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:31 |
-| 34 | [Your Own Truth](https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Your Own Truth](https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7) | 4:53 |
-| 35 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 |
-| 36 | [Cycle](https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR) | [Su Na](https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s) | [Cycle](https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS) | 3:08 |
-| 37 | [Surf](https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Boom Boom On The Roof, Boom Boom In Your Ears](https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP) | 2:55 |
+| 34 | [White Gemini](https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Aisle of Palm](https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr) | 3:38 |
+| 35 | [Your Own Truth](https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Your Own Truth](https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7) | 4:53 |
+| 36 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 |
+| 37 | [Cycle](https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR) | [Su Na](https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s) | [Cycle](https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS) | 3:08 |
 | 38 | [Pinch](https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:30 |
 | 39 | [another time \(world$tar money\)](https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy) | [simon eng](https://open.spotify.com/artist/0YXc5Rre8iZ6CfxNtzBJhC), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [another time \(world$tar money\)](https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV) | 3:01 |
 | 40 | [Together Alone](https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB) | [Nuit Oceān](https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4) | [Island \-EP](https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W) | 3:05 |
 | 41 | [\(Interlude\)](https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV) | [VIII](https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl) | 2:10 |
 | 42 | [Never Meant To Call](https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant to Call](https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S) | 2:57 |
-| 43 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt) | 4:05 |
-| 44 | [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 |
-| 45 | [Frozen Away](https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frozenthere](https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T) | 2:48 |
+| 43 | [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 |
+| 44 | [Frozen Away](https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frozenthere](https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T) | 2:48 |
+| 45 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt) | 4:05 |
 | 46 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 |
 | 47 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 |
 | 48 | [Antasma](https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex) | [Sal Dulu](https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV) | [Antasma](https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 59 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
 | 60 | [You](https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA) | [Only Emily](https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT) | [EP 2](https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4) | 2:50 |
 
-Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMDYyZDA2NzI2YjBjODRjZGFkMDVlYjZmOTlhMGE1Yjdm`
+Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMDhjMWY0ODVhMDFiNjdlZGEwM2ZlOGQxZDYzMzUwNGY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,214,222 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,214,341 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 28 | [Take Me To The Sun](https://open.spotify.com/track/32GHYtVVAsYNQGafHrrRxv) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Take Me To The Sun](https://open.spotify.com/album/1vQuWIq3gU8DhEmvVLlg37) | 2:46 |
 | 29 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 |
 | 30 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 |
-| 31 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
-| 32 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
+| 31 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
+| 32 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
 | 33 | [First Of The Year](https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [First Of The Year](https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86) | 2:50 |
 | 34 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 35 | [Everything Eventually Ends](https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Everything Eventually Ends](https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4) | 2:57 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 42 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 | 43 | [You Won't](https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [You Won't](https://open.spotify.com/album/6JR0yX7Orycek9RVRUFyH2) | 2:55 |
 | 44 | [Girl](https://open.spotify.com/track/1wQBI2DEYltF2XlKs07D7G) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Girl](https://open.spotify.com/album/1XDMRGqkkBwQYLgNKCGFlt) | 3:31 |
-| 45 | [Surfing in Iceland](https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Surfing in Iceland](https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q) | 4:32 |
-| 46 | [Nobody](https://open.spotify.com/track/3LMbVR5cYVK5ovMCR3tyDO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 3:26 |
-| 47 | [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 |
+| 45 | [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 |
+| 46 | [Surfing in Iceland](https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Surfing in Iceland](https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q) | 4:32 |
+| 47 | [Nobody](https://open.spotify.com/track/3LMbVR5cYVK5ovMCR3tyDO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 3:26 |
 | 48 | [God Turn Me Into a Flower](https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:25 |
-| 49 | [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 |
+| 49 | [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 |
 | 50 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 |
 | 51 | [Concorde](https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 6:03 |
 | 52 | [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 63 | [Colin](https://open.spotify.com/track/6QiWtxs1JaZqD0IONUOBst) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Colin](https://open.spotify.com/album/6CdBVQJ5x5Te4skZZjcPK7) | 3:39 |
 | 64 | [Ruby Sparks](https://open.spotify.com/track/1IHoMfcprNoLE0h9l5BFcN) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [After School Club](https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ) | 4:14 |
 | 65 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 |
-| 66 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 |
-| 67 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
+| 66 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
+| 67 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 |
 | 68 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 |
 | 69 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 |
 | 70 | [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 74 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 |
 | 75 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 |
 
-Snapshot ID: `MTY3MzAzMTMwOSwwMDAwMDAwMGQ2NmFlOTkwOGQzYzg0OThkZmJiODA2YWU1OTMwNWI4`
+Snapshot ID: `MTY3MzAzMTMwOSwwMDAwMDAwMDZkNjhlZTUyM2MwNTljNGE3MTc1MjExN2RlY2EzYzYy`

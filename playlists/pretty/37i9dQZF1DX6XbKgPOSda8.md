@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,549 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,734 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 56 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 |
 | 57 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 |
 | 58 | [Pedacito de Mi Vida](https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz) | [Los Lideres](https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF) | [30 Mezcladitas de Oro para la Farra](https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks) | 1:11 |
-| 59 | [Escándalo](https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Duelo de Sonoras](https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY) | 4:48 |
-| 60 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
+| 59 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
+| 60 | [Escándalo](https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Duelo de Sonoras](https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY) | 4:48 |
 | 61 | [La Rumba Quimbumba](https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau) | [Grupo Kual? Dinastia Pedraza Es Grupo Kein?](https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd), [Grupo Kien? Los Reyes Del Sabor](https://open.spotify.com/artist/5bK0A1q7E0UgBFrXZtedtU) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:56 |
 | 62 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
 | 63 | [La Cumbia Del Garrote](https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY) | [Los Del Garrote](https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx) | [Los Del Garrote](https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX) | 3:17 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 86 | [Lagrimas de Escarcha](https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379) | [Tiberio Y Sus Gatos Negros](https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1) | [Los Exitos de Tiberio y Sus Gatos Negros](https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj) | 3:44 |
 | 87 | [Abandonado](https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD) | [Efrén David](https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g) | [Recuerdos](https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5) | 4:32 |
 | 88 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 |
-| 89 | [He Creído](https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 4:21 |
-| 90 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
+| 89 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
+| 90 | [He Creído](https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 4:21 |
 | 91 | [Escándalo](https://open.spotify.com/track/1MDqUM1XbzZ2wei3mrpPbA) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:38 |
 | 92 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
 | 93 | [Sabes A Chocolate](https://open.spotify.com/track/6pPNepnzBAMdPcE3vgyT3y) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [Sabes A Chocolate](https://open.spotify.com/album/70KuCHT6XcptXyM4OjCu3c) | 3:46 |
-| 94 | [Carola](https://open.spotify.com/track/3rEmNFo8XX1xlXrdlSwJBw) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 2:53 |
-| 95 | [Pa' La Paloma](https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Éxitos de la Sonora Matancera: Pa' la Paloma](https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ) | 6:06 |
+| 94 | [Pa' La Paloma](https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Éxitos de la Sonora Matancera: Pa' la Paloma](https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ) | 6:06 |
+| 95 | [Carola](https://open.spotify.com/track/3rEmNFo8XX1xlXrdlSwJBw) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 2:53 |
 | 96 | [Eres](https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Sigueme](https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw) | 3:22 |
 | 97 | [Pedir Permiso](https://open.spotify.com/track/1pUD2zi5taWDeHbYsw2wLv) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Pedir Permiso](https://open.spotify.com/album/6EzfwzcnHgoCQNDrYYwDKe) | 3:06 |
 | 98 | [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 |
 | 99 | [Corazon Enamorado](https://open.spotify.com/track/51KykeJrnWtNyDoNcJelcZ) | [Alberto Pedraza Con Su Ritmo Y Sabor](https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl) | [Antologia](https://open.spotify.com/album/22gKrOfQu54UShnskCA7Fr) | 4:40 |
 | 100 | [Vuela Mariposa](https://open.spotify.com/track/0Bug1bbPyzpXmS0o0X878J) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/7IOXamyEMVDDWuF37WM1gH) | 3:56 |
 
-Snapshot ID: `MTY1OTQ4MjYxMCwwMDAwMDAwMDgwODQwZTk0YTY3NTJmYmYzNjQ5MjRiZjgxMDBiNjg5`
+Snapshot ID: `MTY1OTQ4MjYxMCwwMDAwMDAwMGEwNWQxNDkyZDg0ZDNkMjFkODhjMjViNDQwZmQ1NmE5`

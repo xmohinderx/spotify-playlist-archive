@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,603 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,727 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 30 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 |
 | 31 | [Briefly](https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 27:02 |
 | 32 | [There Were Bells](https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:52 |
-| 33 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
-| 34 | [After Midnight](https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Filoxiny](https://open.spotify.com/album/5F3jI2TClJuyIAUcbgf4Ps) | 4:43 |
+| 33 | [After Midnight](https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Filoxiny](https://open.spotify.com/album/5F3jI2TClJuyIAUcbgf4Ps) | 4:43 |
+| 34 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
 | 35 | [Melancholia VI](https://open.spotify.com/track/28UNXRcOSy94CWFehAPV6u) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 2:16 |
-| 36 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 |
-| 37 | [Gelis](https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS) | [Flako](https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm) | [Gelis](https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l) | 3:08 |
+| 36 | [Gelis](https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS) | [Flako](https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm) | [Gelis](https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l) | 3:08 |
+| 37 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 |
 | 38 | [Night Owl](https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns) | 6:16 |
 | 39 | [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 |
 | 40 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 49 | [Baby Steps](https://open.spotify.com/track/4854p5c2onuInjU13Kwj4o) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [Selected Public Works, Vol\. 5](https://open.spotify.com/album/5ub6Z4l5a4qIOkLPrDlrMn) | 1:26 |
 | 50 | [Right Right Right](https://open.spotify.com/track/4eHxj67kulo8NO4l7RexJl) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 7:25 |
 
-Snapshot ID: `MTY3MzA1OTMxMiwwMDAwMDAwMDYxMDE4NTQyYjZmOGFlZmFiOTlhMjA2NmVkNDdjNTIz`
+Snapshot ID: `MTY3MzA1OTMxMiwwMDAwMDAwMDczZWViZDNlOTMyMmYxZmE5Y2I4MzIxZGZmOWVmOWZj`

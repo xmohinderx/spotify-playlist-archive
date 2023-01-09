@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,646,286 likes - 99 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,646,467 likes - 99 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 50 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 |
 | 51 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
 | 52 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 |
-| 53 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 |
-| 54 | [Chapters](https://open.spotify.com/track/5DT2fVrYGbXNhMYCnEFfg2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 1:54 |
-| 55 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:47 |
+| 53 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:47 |
+| 54 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 |
+| 55 | [Chapters](https://open.spotify.com/track/5DT2fVrYGbXNhMYCnEFfg2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 1:54 |
 | 56 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 |
 | 57 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 |
 | 58 | [Bikini Bottom](https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl) | 1:46 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 93 | [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 |
 | 94 | [Frozen](https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Frozen](https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq) | 2:59 |
 | 95 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 |
-| 96 | [Damn Homie \(feat\. Lil Durk\)](https://open.spotify.com/track/1KxdG2javZzd9GPdQjrQZS) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:08 |
-| 97 | [Bullseye 2 \(with Future\)](https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 2:37 |
+| 96 | [Bullseye 2 \(with Future\)](https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 2:37 |
+| 97 | [Damn Homie \(feat\. Lil Durk\)](https://open.spotify.com/track/1KxdG2javZzd9GPdQjrQZS) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:08 |
 | 98 | [Vanish Mode](https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Where The Shooters Be](https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z) | 1:57 |
 | 99 | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw) | 3:25 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDIxMmJkNjg3Y2Q1ZTMyZWY0NTdhNDZiOTg0NmJjM2Ji`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGM5OTA0NGZjOWMwMjcyYzkwZGVjZGRjYzU3N2IxNjZj`

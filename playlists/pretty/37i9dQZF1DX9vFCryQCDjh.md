@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,820 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,834 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 90 | [머피의 법칙](https://open.spotify.com/track/1jluNkKM91pLupGcS29CPd) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [DJ DOC Best Of Best Panda Mix Vol\. 1](https://open.spotify.com/album/0ME5SEshP93oWUyNDEfx8W) | 3:05 |
 | 91 | [Good Life](https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:07 |
 | 92 | [Fogetten Love](https://open.spotify.com/track/4EpwZakcikSrgDCqcLXAok) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B 1st](https://open.spotify.com/album/1wD0a0lKZALago4fMCkoSA) | 4:01 |
-| 93 | [School Byeolgok](https://open.spotify.com/track/6Oy1lOvrRblOf8hgRP0KYD) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [School Byeolgok](https://open.spotify.com/album/18P1aqSLQA9WdNljjEhv9q) | 4:04 |
-| 94 | [Love is gone](https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:59 |
+| 93 | [Love is gone](https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:59 |
+| 94 | [School Byeolgok](https://open.spotify.com/track/6Oy1lOvrRblOf8hgRP0KYD) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [School Byeolgok](https://open.spotify.com/album/18P1aqSLQA9WdNljjEhv9q) | 4:04 |
 | 95 | [그래](https://open.spotify.com/track/3z6VUjAfvYveNtr31Mxe4V) | [Diva](https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF) | [Funky Diva](https://open.spotify.com/album/4lRrvmz53grVtlVdRPU2UU) | 3:30 |
 | 96 | [Gasoline](https://open.spotify.com/track/1XZHPuWHpyaVRsgOW2OVoB) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [Jinusean](https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt) | 4:03 |
 | 97 | [Let's Go to the Beach Pt\. 2](https://open.spotify.com/track/3rmrE59ZBjeJCPhFm6bSe6) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [DJ\. DOC 4th Album](https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv) | 3:22 |
 | 98 | [Cowboy](https://open.spotify.com/track/6pBKrXpNe0BHNfi8hJ5IEY) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Suprise Party Collection](https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX) | 3:28 |
 | 99 | [너희가 힙합을 아느냐?](https://open.spotify.com/track/2jsrFWgixfjCPU7oJVc3Xe) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:40 |
-| 100 | [왼손잡이](https://open.spotify.com/track/6CxKEnUDyLNPVC4IBE1L4Z) | [Panic](https://open.spotify.com/artist/13bWD4s098qRgPVlHcbgCU) | [Panic](https://open.spotify.com/album/7pKdoYutb9dlj1eFaVbHFg) | 2:30 |
+| 100 | [천상유애\(天上有愛\)](https://open.spotify.com/track/1rt7I7ey93hoq1ZIqvNYey) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [Reincarnation Of The Legend](https://open.spotify.com/album/4Ib5I5ggf99Lbtt3jjJ74r) | 4:19 |
 
-Snapshot ID: `MTYxNTQ4MDA5MywwMDAwMDAwMDM5MTQ0ZjZiYzJlYmFmOThlNzU5NjkyYTM0OGM1ODBj`
+Snapshot ID: `MTYxNTQ4MDA5MywwMDAwMDAwMDY0ZDcwYzJmYmUyMzIwNmNiMDIyMTA5NzA0MmIyNDEw`

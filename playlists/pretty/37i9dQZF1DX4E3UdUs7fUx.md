@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,324,307 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,324,209 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 16 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 |
 | 17 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 |
 | 18 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
-| 19 | [Wildfire](https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 5:29 |
-| 20 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
+| 19 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
+| 20 | [Wildfire](https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 5:29 |
 | 21 | [Boardwalks \- Remastered 2015/ Bonus Track](https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:19 |
 | 22 | [All Is Well](https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [You and Me for Now](https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4) | 4:16 |
 | 23 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 38 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
 | 39 | [Time Stands](https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:52 |
 | 40 | [Waiting Around \- Acoustic](https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Vacancy](https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL) | 2:32 |
-| 41 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
-| 42 | [Sophie](https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv) | 5:04 |
+| 41 | [Sophie](https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv) | 5:04 |
+| 42 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
 | 43 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
 | 44 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
 | 45 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 88 | [Dink's Song](https://open.spotify.com/track/3NoxYXXEK5bdur7QXUkNfb) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Desdemona](https://open.spotify.com/album/1l2bevRB9zAwnBguBSWjvi) | 3:27 |
 | 89 | [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 |
 | 90 | [Fever To The Form](https://open.spotify.com/track/7xbF5Nf1iKYmwvD9EWhJav) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:11 |
-| 91 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
-| 92 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 |
+| 91 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 |
+| 92 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
 | 93 | [Waves \- Guitar Acoustic](https://open.spotify.com/track/6yiWXb7aSGTLtrh7oKj80S) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 4:08 |
 | 94 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 |
 | 95 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 99 | [Lockdown On Date Night Tuesday](https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Folk n’ Roll Vol\. 1: Tales Of Isolation](https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d) | 5:03 |
 | 100 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
 
-Snapshot ID: `MTYzOTA4OTEwNSwwMDAwMDAwMGNkYzU3YjM5ZDUyYTExZTA0MGJiZGMwZTdjM2U2Yjhl`
+Snapshot ID: `MTYzOTA4OTEwNSwwMDAwMDAwMDQ3NWExZTlmZWViZmY3YmFjYjUwYWRjODAxMzYxZTUy`

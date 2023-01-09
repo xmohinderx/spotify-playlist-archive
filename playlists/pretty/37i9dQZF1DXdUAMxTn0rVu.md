@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Slum Village
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,461 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,759 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 36 | [B\-Boy Document '99](https://open.spotify.com/track/5WF9Ih0si21Anj48dD9FFN) | [The High & Mighty](https://open.spotify.com/artist/4hJpETVqz3jIrAH1WUzGEj), [Mad Skillz](https://open.spotify.com/artist/4FUYJaV3EXmjoyBK7tC6ZF), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Home Field Advantage](https://open.spotify.com/album/05d5zAD9KAdaJf7yQ98jxF) | 3:54 |
 | 37 | [Won't Do](https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:52 |
 | 38 | [Take a Walk](https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Apocalypse](https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 5:07 |
-| 39 | [Western Ways, Pt\. 2 \(La Seleccion\) \(feat\. Big Punisher & JuJu\)](https://open.spotify.com/track/0dUKYPzjFe0tJYCKf3USWi) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U), [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [Here Come The Horns](https://open.spotify.com/album/0crKVrdcLTyzjfZL2QpwTq) | 4:00 |
-| 40 | [100% Dundee](https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 3:53 |
+| 39 | [100% Dundee](https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 3:53 |
+| 40 | [Western Ways, Pt\. 2 \(La Seleccion\) \(feat\. Big Punisher & JuJu\)](https://open.spotify.com/track/0dUKYPzjFe0tJYCKf3USWi) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U), [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [Here Come The Horns](https://open.spotify.com/album/0crKVrdcLTyzjfZL2QpwTq) | 4:00 |
 | 41 | [Thick](https://open.spotify.com/track/3UB7VJpumOOpJ0gKfq7Hgk) | [D.I.T.C.](https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [D.I.T.C.](https://open.spotify.com/album/1LtskoW9DkoA4xgST9LXJW) | 3:42 |
 | 42 | [Deception](https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Nia](https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I) | 5:11 |
 | 43 | [Don't Play](https://open.spotify.com/track/51DHGAvIbCO1HJMDjq45rT) | [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [The Best Part](https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG) | 5:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 49 | [Boom \- Explicit Album Version](https://open.spotify.com/track/3CiSdq2SJSSUc1AVUU2F4G) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/4ryY8S4t3r2kUmwKgAEqFA) | 3:52 |
 | 50 | [W.O.L.V.E.S.](https://open.spotify.com/track/2NR8YLRBR0AEUc6JQlnldo) | [Krumbsnatcha](https://open.spotify.com/artist/4StWnbDC5LLdf3socfu0gx), [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Krumbsnatcha Classics](https://open.spotify.com/album/5Wez6YN8Xw1mPptxfFlZhx) | 3:53 |
 
-Snapshot ID: `MTY2NzUwOTI0NSwwMDAwMDAwMDZjN2FkZmIzYzFmYWZhZDMzODc2Yjc3YmRjMjRiOGEx`
+Snapshot ID: `MTY2NzUwOTI0NSwwMDAwMDAwMGMzOTM0ZTkxMGIyNGI1Nzk5NzU1ZWMzZDk5NjQ3Yzk4`

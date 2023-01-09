@@ -1,12 +1,12 @@
 {
   "description": "canto de tristeza porque lo nuestro termin\u00f3 ",
-  "num_followers": 46636,
+  "num_followers": 46695,
   "original_name": "perd\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4NDI1MywwMDAwMDAwMGIwYWE1NmFmNWViYWU0MDFhNzk0ZjU2MDE2ZjNkMGNl",
+  "snapshot_id": "MTY1OTQ4NDI1MywwMDAwMDAwMGJkYjc0MGU0ZTA3ODYyYmYwYTNjZDNmYzA5YzliN2Fm",
   "tracks": [
     {
       "added_at": "2022-08-02 23:50:53",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
+        "name": "Serie Sensacional Regional Mexican Yndio",
+        "url": "https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Por Qu\u00e9 Nos Dijimos Adi\u00f3s",
+      "url": "https://open.spotify.com/track/738XO2aKhfoHC1yvySbBry"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/5UnAbdMrhJFoxAjQEY7bhh"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 242390,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/1OYZbxODr6TMlaT2PRi6Wi"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
-        "name": "Serie Sensacional Regional Mexican Yndio",
-        "url": "https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Por Qu\u00e9 Nos Dijimos Adi\u00f3s",
-      "url": "https://open.spotify.com/track/738XO2aKhfoHC1yvySbBry"
     },
     {
       "added_at": "2022-08-02 23:50:53",

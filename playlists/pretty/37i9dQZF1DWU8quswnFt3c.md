@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to the women of the world at full volume\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,765 likes - 67 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,717 likes - 67 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 16 | [Aguántame un ratito](https://open.spotify.com/track/6mxRQaBAAFwnUnefO2ilh6) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Morir en Escena](https://open.spotify.com/album/4tw3Ze1UOCLZKCohr7e00v) | 3:39 |
 | 17 | [親愛的對象 \- 《關於我和鬼變成家人的那件事》電影主題曲](https://open.spotify.com/track/70ywpHtaToCmnULRT9Vu4p) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [親愛的對象 \(《關於我和鬼變成家人的那件事》電影主題曲\)](https://open.spotify.com/album/6ohthacCclaqEnO1xfEUu6) | 4:54 |
 | 18 | [Återvändsgränd](https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Återvändsgränd](https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA) | 3:15 |
-| 19 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 |
-| 20 | [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 |
+| 19 | [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 |
+| 20 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 |
 | 21 | [Boşver](https://open.spotify.com/track/3pVTfxAWPnDgLxh8qZC4BY) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Boşver](https://open.spotify.com/album/72WdDqzLPjjutLwiQh74Jw) | 3:09 |
 | 22 | [Main Nahi Toh Kaun](https://open.spotify.com/track/0gqxN9AXJKQqj6YPWdZlHb) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Hustle 2.0](https://open.spotify.com/album/4XWCQnLpIG5GgCIL9eHwJh) | 2:43 |
 | 23 | [Just a Crush Thing](https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Just a Crush Thing](https://open.spotify.com/album/3l2H3rjDgNCX4dizR3izOY) | 3:08 |
@@ -45,16 +45,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 35 | [הגיל דופק בדלת \(Prod\. By Triangle\)](https://open.spotify.com/track/2trg8gUn9D8OJfbtnpXMdH) | [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [הגיל דופק בדלת \(Prod\. By Triangle\)](https://open.spotify.com/album/11jCUGmgUmPa7kilqbjvBt) | 3:03 |
 | 36 | [予感](https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [予感](https://open.spotify.com/album/7HFkmbiT8TbVBGKIkAiMLm) | 2:43 |
 | 37 | [OTP](https://open.spotify.com/track/2gZjpC2hxO1kA7PLmvj75k) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [OTP](https://open.spotify.com/album/2fPPX83Dj02yGaDEHjpyUY) | 2:17 |
-| 38 | [Samba Di Kota](https://open.spotify.com/track/1Sj8vwRdJRDgOws3XRmyCM) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Samba Di Kota](https://open.spotify.com/album/7plglO6ToXm07DcGE6IW6k) | 4:30 |
-| 39 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 |
+| 38 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 |
+| 39 | [Samba Di Kota](https://open.spotify.com/track/1Sj8vwRdJRDgOws3XRmyCM) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Samba Di Kota](https://open.spotify.com/album/7plglO6ToXm07DcGE6IW6k) | 4:30 |
 | 40 | [Cat 13](https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Cat 13](https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN) | 3:03 |
 | 41 | [Limits](https://open.spotify.com/track/1B0iOpkr5IojCDJZt5GAp4) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Limits](https://open.spotify.com/album/5IX9e7jYLTUbqubgkxJ11B) | 4:12 |
 | 42 | [Mapa de Estrelas](https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Mapa de Estrelas](https://open.spotify.com/album/3mzMJkaC9OoaEeuE5YAxxS) | 3:11 |
 | 43 | [Mama, Dolly, Jesus](https://open.spotify.com/track/7zggetlqMBzNpdCM0mdfzS) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 2:45 |
 | 44 | [¿Y Cómo?](https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 3:32 |
 | 45 | [Lagi](https://open.spotify.com/track/1RUwljx07hisFStd1WSS3Q) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 4:16 |
-| 46 | [عارفه قيمتي](https://open.spotify.com/track/0k1pF4SI4m4xYHRw8M022J) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عارفه قيمتي](https://open.spotify.com/album/0csj4uie2SFphm4M2aPrJh) | 3:50 |
-| 47 | [W pełni](https://open.spotify.com/track/3GGXj9c5D5JlxFEls441Co) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [W pełni](https://open.spotify.com/album/10JDesyKB1eLBIvYQQiTvr) | 4:00 |
+| 46 | [W pełni](https://open.spotify.com/track/3GGXj9c5D5JlxFEls441Co) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [W pełni](https://open.spotify.com/album/10JDesyKB1eLBIvYQQiTvr) | 4:00 |
+| 47 | [عارفه قيمتي](https://open.spotify.com/track/0k1pF4SI4m4xYHRw8M022J) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عارفه قيمتي](https://open.spotify.com/album/0csj4uie2SFphm4M2aPrJh) | 3:50 |
 | 48 | [Ti prego portami dei fiori](https://open.spotify.com/track/13O2T5HvpN5WFRqvtrRkKg) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Ti prego portami dei fiori](https://open.spotify.com/album/1kCIHaZqJkRMuIQX4iSytx) | 2:38 |
 | 49 | [przestrzeń](https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [kocham i tęsknię](https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2) | 3:16 |
 | 50 | [Baddie](https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 2:45 |
@@ -65,15 +65,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 55 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 |
 | 56 | [i'd probably die in my bed](https://open.spotify.com/track/0Tc3VFHylUypUKv8xksgzM) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [i'd probably die in my bed](https://open.spotify.com/album/0pLSKAQGMVVCsz6rYW9XH2) | 2:50 |
 | 57 | [Brújula](https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Brújula](https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr) | 3:10 |
-| 58 | [red balloon](https://open.spotify.com/track/1PDZgF0gL4AXpZWNORdP7X) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [red balloon](https://open.spotify.com/album/2ChHnNtWgYv8XUGeHYqqE4) | 3:05 |
-| 59 | [Gigi](https://open.spotify.com/track/2iIk4RyJRWVa4l0t0fiQWs) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Gigi](https://open.spotify.com/album/0WnVwquHKlCPWJbZO9upzd) | 4:10 |
-| 60 | [Loco](https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Loco](https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt) | 2:58 |
-| 61 | [Takin’ Over](https://open.spotify.com/track/66bTmTRn2llF84aCPPbtt6) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Takin’ Over](https://open.spotify.com/album/34AT0v7uNXQAFNubd6Brk5) | 3:40 |
+| 58 | [Gigi](https://open.spotify.com/track/2iIk4RyJRWVa4l0t0fiQWs) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Gigi](https://open.spotify.com/album/0WnVwquHKlCPWJbZO9upzd) | 4:10 |
+| 59 | [red balloon](https://open.spotify.com/track/1PDZgF0gL4AXpZWNORdP7X) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [red balloon](https://open.spotify.com/album/2ChHnNtWgYv8XUGeHYqqE4) | 3:05 |
+| 60 | [Takin’ Over](https://open.spotify.com/track/66bTmTRn2llF84aCPPbtt6) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Takin’ Over](https://open.spotify.com/album/34AT0v7uNXQAFNubd6Brk5) | 3:40 |
+| 61 | [Loco](https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Loco](https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt) | 2:58 |
 | 62 | [Now You See Me](https://open.spotify.com/track/3heiV6V4Hyb3KPlC30Zazj) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 2:54 |
-| 63 | [MEDUSA](https://open.spotify.com/track/6DNVpkxyipnNdZG3cssL4t) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [R Chop](https://open.spotify.com/album/5ckfeykmE4MxADAQxGQVJZ) | 4:07 |
-| 64 | [I Think I Don't Understand](https://open.spotify.com/track/3ni9pYBE9LVwbinEwQ0cQw) | [Kaya](https://open.spotify.com/artist/2zzGa3s9F0bQ7Tp4YDcweH) | [I Think I Don't Understand](https://open.spotify.com/album/04V50WP0eGYgaCo29E9cmM) | 3:03 |
-| 65 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 |
+| 63 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 |
+| 64 | [MEDUSA](https://open.spotify.com/track/6DNVpkxyipnNdZG3cssL4t) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [R Chop](https://open.spotify.com/album/5ckfeykmE4MxADAQxGQVJZ) | 4:07 |
+| 65 | [I Think I Don't Understand](https://open.spotify.com/track/3ni9pYBE9LVwbinEwQ0cQw) | [Kaya](https://open.spotify.com/artist/2zzGa3s9F0bQ7Tp4YDcweH) | [I Think I Don't Understand](https://open.spotify.com/album/04V50WP0eGYgaCo29E9cmM) | 3:03 |
 | 66 | [Two blocks away](https://open.spotify.com/track/1dhSYPyzMc8tR5jL3eOZ9v) | [TIMEA](https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1) | [Two blocks away](https://open.spotify.com/album/5oSPclGSfUgfFgmw0BIZKD) | 3:00 |
 | 67 | [O Menino e a Cidade](https://open.spotify.com/track/4JejocjvgZdqS4xIBbeojq) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Maria](https://open.spotify.com/album/0IIrr6l1DIezFyEthY2svL) | 3:47 |
 
-Snapshot ID: `MTY3MjgwODQwMCwwMDAwMDAwMDM0ZWRjNjUxYjE5MDVkYmQ0Y2U3ODlkMDc1ZWVhNjc3`
+Snapshot ID: `MTY3MjgwODQwMCwwMDAwMDAwMDk3NDFkZjdiNDc4OGYyZDJlY2JiMzllOGU2ZmFmNjY5`

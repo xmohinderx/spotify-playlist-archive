@@ -8,7 +8,6 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2021-11-26 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-08-02 |  |
 | [Agradecer](https://open.spotify.com/track/67za0SMGWgdmDmjJc23Lr6) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Reciente](https://open.spotify.com/album/7LopfkbXZGR9wt2ciYgFiz) | 3:31 | 2021-11-26 | 2022-08-03 |
 | [Al Norte](https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:19 | 2021-11-26 | 2022-07-29 |
@@ -19,6 +18,7 @@
 | [Amanecí](https://open.spotify.com/track/0dZaWz0Gb17uHE0wnS4Rnu) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Amanecí](https://open.spotify.com/album/0lUukmYVwTH15t2Yobp683) | 3:27 | 2021-11-26 | 2022-08-03 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-08-02 |  |
 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 | 2022-08-02 |  |
+| [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2021-11-26 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-08-02 |  |
 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 | 2021-11-26 | 2022-08-27 |
 | [BPR Strut \- Join Us & You'll Be Fine](https://open.spotify.com/track/4xsNrKW4VsrWJlj1H8lUuE) | [Barry Paquin Roberge](https://open.spotify.com/artist/2C7WoEy5Fq9vcUt5AOthxn) | [BPR Strut \(Join Us & You'll Be Fine\)](https://open.spotify.com/album/6mSEZTfkMocw6MvG10IbQS) | 2:49 | 2021-11-26 |  |

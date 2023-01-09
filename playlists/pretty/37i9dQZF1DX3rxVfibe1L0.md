@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 
 > Get happy with today's dose of feel\-good songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,353,015 likes - 76 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,353,735 likes - 76 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 | 18 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 |
 | 19 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 |
 | 20 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
-| 21 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
-| 22 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 |
+| 21 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 |
+| 22 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
 | 23 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
 | 24 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 |
 | 25 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 | 48 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
 | 49 | [Someone To You](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Where The Shadow Ends](https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD) | 3:39 |
 | 50 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 |
-| 51 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
+| 51 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
 | 52 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 |
 | 53 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 |
 | 54 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 | 72 | [Little Bit of Love](https://open.spotify.com/track/78q4ESvMkPVJzHAV11LAGE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love \(Acoustic\)](https://open.spotify.com/album/4TFniUvcapARz1DzhdKPas) | 3:46 |
 | 73 | [Catching Feelings \(feat\. SIX60\)](https://open.spotify.com/track/0gCNs3jCCDhObAK0MRghtv) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Drax Project](https://open.spotify.com/album/5gdsguQxwQQlpTi1SU3tbY) | 3:38 |
 | 74 | [CUFF IT](https://open.spotify.com/track/3IHaiorYWOcr8Kzs85PWF7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 3:45 |
-| 75 | [Big Energy](https://open.spotify.com/track/5lHxARJJrZc3ss4ZVmGWfz) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/4tY28Pau74a3kkOEQGGS0b) | 2:53 |
-| 76 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
+| 75 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
+| 76 | [Big Energy](https://open.spotify.com/track/5lHxARJJrZc3ss4ZVmGWfz) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/4tY28Pau74a3kkOEQGGS0b) | 2:53 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGM1NjU4YTMzNjczOTczODkyMDk1YjZhZDQwMDMxMTg0`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDZkYmVlYjk1NzdiYmEwMGI2NzdhNDliYWFjM2M1NzI3`

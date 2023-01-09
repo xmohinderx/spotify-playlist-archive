@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 
 > Cathartic songs for new beginnings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,688 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,819 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 | 46 | [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 |
 | 47 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
 | 48 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
-| 49 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
+| 49 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
 | 50 | [I'm Into Something Good](https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Herman's Hermits Retrospective](https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW) | 2:33 |
 
 Snapshot ID: `MTY3MjU0OTIwMCwwMDAwMDAwMGMyZDc5N2U0MzlmYmQ3MTE5YTQ3NTYzMTYzMTUxMjg1`

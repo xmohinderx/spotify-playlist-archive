@@ -3101,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "Wallifornia",
+        "url": "https://open.spotify.com/album/1MJctvmE89QFmktQIxiJ22"
+      },
+      "artists": [
+        {
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Wallifornia",
+      "url": "https://open.spotify.com/track/6aaSIPuKt0xI8JnO7CbzPG"
+    },
+    {
+      "album": {
         "name": "We Go Hard",
         "url": "https://open.spotify.com/album/7AjWPEjeO3QjG7OVhznBqw"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 
 > Musica che, come la primavera, rende tutto più bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,736 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,733 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,12 +92,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 82 | [Reality](https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck Devy](https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:38 |
 | 83 | [Pretty Girl \- Acoustic Version](https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [Pretty Girl \(Acoustic Version\)](https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk) | 3:00 |
 | 84 | [If You Need Me](https://open.spotify.com/track/3dqcHUPGMQD5baOC5Ylp7L) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If You Need Me](https://open.spotify.com/album/4eeHl4rHfVSo0IDTSZ2ECq) | 3:36 |
-| 85 | [Green Light \(Bossa Version\)](https://open.spotify.com/track/22YXs3a3c8c6mOqUvi4Z98) | [Rachelle Spring](https://open.spotify.com/artist/3LPPGZrVd6moExHlmR7zLr) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 4:24 |
-| 86 | [Rock Bottom](https://open.spotify.com/track/7IKhMrLuFiTfnKwp43YVGN) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Some Kind Of Purpose](https://open.spotify.com/album/0Og3biqAPjphY1IJvZvX13) | 3:56 |
+| 85 | [Rock Bottom](https://open.spotify.com/track/7IKhMrLuFiTfnKwp43YVGN) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Some Kind Of Purpose](https://open.spotify.com/album/0Og3biqAPjphY1IJvZvX13) | 3:56 |
+| 86 | [Green Light \(Bossa Version\)](https://open.spotify.com/track/22YXs3a3c8c6mOqUvi4Z98) | [Rachelle Spring](https://open.spotify.com/artist/3LPPGZrVd6moExHlmR7zLr) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 4:24 |
 | 87 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 |
 | 88 | [Crocodile Tears \(feat\. Jens Hult\)](https://open.spotify.com/track/2M7NfIlPjyGyepWVu3KVnY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Crocodile Tears \(feat\. Jens Hult\)](https://open.spotify.com/album/1Dgk26akkLrvGSsGdm2jH4) | 3:38 |
-| 89 | [Wild Roses](https://open.spotify.com/track/7f8iBUiwio1oX5lAFwC5xI) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [FEVER DREAM](https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa) | 4:02 |
-| 90 | [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 |
+| 89 | [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 |
+| 90 | [Wild Roses](https://open.spotify.com/track/7f8iBUiwio1oX5lAFwC5xI) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [FEVER DREAM](https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa) | 4:02 |
 | 91 | [Sunday Best \- Acoustic Version](https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best \(Acoustic Version\)](https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu) | 2:30 |
 | 92 | [Lilacs](https://open.spotify.com/track/69Akwuscu16hdYN637eTis) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:15 |
 | 93 | [Vivere Tutte Le Vite \- con Carl Brave](https://open.spotify.com/track/7l56nY7NMP1QDdWvRdJmmg) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [Diari Aperti](https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae) | 3:40 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 97 | [Nobody's Fault](https://open.spotify.com/track/3ViVcddn0319dI9dw17y5n) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 3:22 |
 | 98 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
 | 99 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 2:45 |
-| 100 | [Following the Sun \- Acoustic](https://open.spotify.com/track/3v5ZzxwENtgyJkrwR5JW4N) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:37 |
+| 100 | [Side By Side](https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Departures](https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj) | 4:13 |
 
-Snapshot ID: `MTY2Mzc1NTEyNywwMDAwMDAwMDZhY2U0NDgxMTA1ZTI3YWYzYjhiODI3OTE2NTlkMmVi`
+Snapshot ID: `MTY2Mzc1NTEyNywwMDAwMDAwMGRjZTUwMTY0NDQxNDlkMmM4NjdhYzdiYjk5M2YyZDJj`

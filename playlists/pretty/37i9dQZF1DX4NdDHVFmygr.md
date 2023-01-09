@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > The sweet sounds of Morocco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,480 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,716 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,16 +15,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 5 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 |
 | 6 | [Nsiti](https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG) | 2:52 |
 | 7 | [Dirou Niyya \- Official Moroccan Fan Chant](https://open.spotify.com/track/2pDBEAiA554r73laQPmzOW) | [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Dirou Niyya \(Official Moroccan Fan Chant\)](https://open.spotify.com/album/4dh7GUAykeLvwzGOVM1lcb) | 2:57 |
-| 8 | [Bohdi li fiha](https://open.spotify.com/track/0bmWRMSelJl8IOGxrd8q3P) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 2:53 |
-| 9 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 |
-| 10 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 |
-| 11 | [Papa](https://open.spotify.com/track/4nl8f2KRGtXZvpRe2aQbgw) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Papa](https://open.spotify.com/album/4xhwAhfQE2613qIp7kEhN0) | 2:41 |
-| 12 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 |
-| 13 | [Appel moi](https://open.spotify.com/track/4gY9GulQ2nQ5Em1jG2Et70) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 3:18 |
-| 14 | [Champion](https://open.spotify.com/track/2ZsK7PdynTF7ilvUEgKTvT) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Champion](https://open.spotify.com/album/3TC4AzLjp92AoJj56TXvkZ) | 3:44 |
-| 15 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 |
-| 16 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 |
-| 17 | [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 |
+| 8 | [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 |
+| 9 | [Bohdi li fiha](https://open.spotify.com/track/0bmWRMSelJl8IOGxrd8q3P) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 2:53 |
+| 10 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 |
+| 11 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 |
+| 12 | [Papa](https://open.spotify.com/track/4nl8f2KRGtXZvpRe2aQbgw) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Papa](https://open.spotify.com/album/4xhwAhfQE2613qIp7kEhN0) | 2:41 |
+| 13 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 |
+| 14 | [Appel moi](https://open.spotify.com/track/4gY9GulQ2nQ5Em1jG2Et70) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 3:18 |
+| 15 | [Champion](https://open.spotify.com/track/2ZsK7PdynTF7ilvUEgKTvT) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Champion](https://open.spotify.com/album/3TC4AzLjp92AoJj56TXvkZ) | 3:44 |
+| 16 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 |
+| 17 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 |
 | 18 | [Arahmini](https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 3:48 |
 | 19 | [Anaconda](https://open.spotify.com/track/52v6JiIMBEvnuvRFOyxhMQ) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Anaconda](https://open.spotify.com/album/38NNxIG32ee7rKe0thztPa) | 3:26 |
 | 20 | [WAYLE](https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [WAYLE](https://open.spotify.com/album/2NRpmLrRQOapraNh2MCRnZ) | 3:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 59 | [Hickey](https://open.spotify.com/track/3B67oAJr4acToGpR1S33g5) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Hickey](https://open.spotify.com/album/6l0VWNBC0Oppta7L3WkWnj) | 3:05 |
 | 60 | [Douka](https://open.spotify.com/track/4XLGewxYfYfvaajEtRgDVy) | [Adil Assil](https://open.spotify.com/artist/5idudw3rFRe9uVUCus4Kp1) | [Douka](https://open.spotify.com/album/6FDpxxCHJwACZIzmtnRRch) | 3:12 |
 
-Snapshot ID: `MTY3MzAxMzkxMSwwMDAwMDAwMDFjMjM5MTJiZDJmZTgzZjM5ZTA0YmY4Y2E4N2FmZjA4`
+Snapshot ID: `MTY3MzE4NDM5NywwMDAwMDAwMGNlZjgyOTFmMGRjNGM3YmM3MTViZGJhMTZmZGFiOWM0`

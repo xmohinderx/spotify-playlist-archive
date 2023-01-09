@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-831 songs - 1 day 21 hr 58 min
+832 songs - 1 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-09-16 |  |
 | [Like You Do](https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Like You Do](https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx) | 2:32 | 2022-10-28 |  |
 | [Lil Mama](https://open.spotify.com/track/44GPmiM2FZjxzFXbeQ4Ovl) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Lil Mama](https://open.spotify.com/album/3Wt9S4EJVv68Bpx1xguvcU) | 4:15 | 2021-10-09 | 2022-04-16 |
+| [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Robbie Rise](https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A) | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7) | 3:46 | 2023-01-06 |  |
 | [Liquor Store](https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Liquor Store](https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF) | 3:21 | 2022-02-04 |  |
 | [LO\*E DR\*G](https://open.spotify.com/track/1JfryJlUV7RuCdTOSSVbwN) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [LO\*E DR\*G](https://open.spotify.com/album/6WJVvCCjwcavVVMM9oOfdY) | 3:01 | 2021-04-28 | 2021-10-14 |
 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 | 2020-08-04 | 2020-10-13 |
@@ -720,7 +721,7 @@
 | [Tarantino \(feat\. STARX\)](https://open.spotify.com/track/18fwprn0rr9AZdIFxbAvXw) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [STARX](https://open.spotify.com/artist/4UOilbWidQsH04ErH1yrmp) | [Tarantino \(feat\. STARX\)](https://open.spotify.com/album/1xSeP5mVtWHPe2TJLNmDCK) | 3:19 | 2020-11-07 | 2021-10-14 |
 | [TASTY](https://open.spotify.com/track/3V3ijKDFFwPM9ADBAW41XQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:24 | 2020-12-27 | 2021-10-11 |
 | [Teardrops \(feat\. Majid Jordan\)](https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Teardrops \(feat\. Majid Jordan\)](https://open.spotify.com/album/3Bq8vA5rwJGfe8KgT4Qdxy) | 2:50 | 2022-05-13 | 2022-08-20 |
-| [Techno Party](https://open.spotify.com/track/4GT1NVYkxsN3grh7zclyLa) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Murotani](https://open.spotify.com/artist/3fTYN3plW2oMZXGZf7JQWX) | [Techno Party](https://open.spotify.com/album/3e6xQP58Y5f2VHOpxNpsYh) | 3:17 | 2023-01-06 |  |
+| [Techno Party](https://open.spotify.com/track/4GT1NVYkxsN3grh7zclyLa) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Murotani](https://open.spotify.com/artist/3fTYN3plW2oMZXGZf7JQWX) | [Techno Party](https://open.spotify.com/album/3e6xQP58Y5f2VHOpxNpsYh) | 3:17 | 2023-01-06 | 2023-01-09 |
 | [Techno Prank](https://open.spotify.com/track/4t8ilMPQ7E7S6pB4i4Kf2I) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Techno Prank](https://open.spotify.com/album/3Z2HRuveZpq2065RwsIwuI) | 3:23 | 2020-05-22\* | 2021-10-13 |
 | [Tell Me Something Good](https://open.spotify.com/track/1yApeqGiKKeAMptbNUv2Mf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4RjokXhv5dBtyggZ7yg9W5) | 4:09 | 2021-09-03 | 2022-04-21 |
 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 | 2022-07-14 | 2023-01-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,584 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,638 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 50 | [Greater Than All My Regrets](https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [No Shame](https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY) | 4:16 |
 | 51 | [Glory](https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:41 |
 | 52 | [Ready Set Go \(feat\. Capital Kings\) \(feat\. Capital Kings\)](https://open.spotify.com/track/0HbjDc4BM2kXEuiOGf8nPl) | [Royal Tailor](https://open.spotify.com/artist/1CmWVjnzTRTqZqdVIlZSSY), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Royal Tailor](https://open.spotify.com/album/2VDnekBdHv9CuNpu3yBMZa) | 3:29 |
-| 53 | [Prize Worth Fighting For](https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For](https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo) | 3:20 |
-| 54 | [You Got This](https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [You Got This](https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I) | 3:14 |
+| 53 | [You Got This](https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [You Got This](https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I) | 3:14 |
+| 54 | [Prize Worth Fighting For](https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For](https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo) | 3:20 |
 | 55 | [Never Lost](https://open.spotify.com/track/2siGLwunHkTMJjmy4oHfLB) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Never Lost](https://open.spotify.com/album/0c1ZM1kGleLVz9y6ZeoTUt) | 5:15 |
 | 56 | [When We Fall Apart](https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Wildest Dreams](https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9) | 4:27 |
 | 57 | [God Only Knows \(Timbaland Remix\)](https://open.spotify.com/track/0XMQuzgUJu7AjruBHzTg4Z) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [God Only Knows \(Timbaland Remix\)](https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0) | 3:35 |
 | 58 | [Rebels](https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Michael Ketterer](https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo) | [REBELS](https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd) | 3:46 |
 | 59 | [Beautiful Day](https://open.spotify.com/track/5CpLuLmPq50KMIHoUA4L8Z) | [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7) | [Ready to Fly](https://open.spotify.com/album/3diCugOQoocNtu1ToEARHb) | 3:10 |
 | 60 | [Unfinished](https://open.spotify.com/track/597GRV7fJ030diN3BTWpKS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Out Of The Dark \(Deluxe Edition\)](https://open.spotify.com/album/42y8y3uNMSS3O7pFyHR9I0) | 3:32 |
-| 61 | [Impossible](https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Dark Is The Way, Light Is A Place](https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv) | 4:03 |
-| 62 | [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 |
+| 61 | [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 |
+| 62 | [Impossible](https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Dark Is The Way, Light Is A Place](https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv) | 4:03 |
 | 63 | [The Only Name \(Yours Will Be\)](https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:21 |
 | 64 | [Song In My Soul \(feat\. Hollyn\)](https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 3:51 |
 | 65 | [Faith \- Radio Version](https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Jordan Feliz Collection](https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 74 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 |
 | 75 | [Today Is The Day](https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Today Is the Day](https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc) | 4:36 |
 
-Snapshot ID: `MTU3NDIzNDkwMCwwMDAwMDAwMGM5OTNkYzBmM2I3YzJhNmZhMTBhNzY5NGVhZDMzNzcw`
+Snapshot ID: `MTU3NDIzNDkwMCwwMDAwMDAwMDExNTBhZDA4ZmQyN2NkYzQxOWFmY2Y3YTZhYmI0Mzkw`

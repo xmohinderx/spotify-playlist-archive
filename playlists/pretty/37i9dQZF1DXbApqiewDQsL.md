@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Tokischa & Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,266 likes - 57 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,283 likes - 57 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 17 | [Poco](https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Poco](https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC) | 3:45 |
 | 18 | [Probablemente](https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:53 |
 | 19 | [Pacas Verdes](https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Pacas Verdes \(feat\. Ovi\)](https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb) | 2:50 |
-| 20 | [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 |
+| 20 | [Qué Maldición](https://open.spotify.com/track/2RxC2peY3FtrurYmbbmanr) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ) | 3:23 |
 | 21 | [Que Triste](https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Que Triste](https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF) | 3:46 |
-| 22 | [Qué Maldición](https://open.spotify.com/track/2RxC2peY3FtrurYmbbmanr) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ) | 3:23 |
+| 22 | [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 |
 | 23 | [Tuyo y Mío](https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:20 |
 | 24 | [Soy El Diablo \- Remix](https://open.spotify.com/track/7pNAvsuTCFaXzSSUmfBPxz) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy El Diablo \(Remix\)](https://open.spotify.com/album/37zRKUEX9zhmGThutsr2Fo) | 3:13 |
 | 25 | [Alguien Me Gusta](https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Alguien Me Gusta](https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9) | 2:48 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 56 | [Me Ven Manejando](https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Me Ven Manejando](https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S) | 3:25 |
 | 57 | [Para Todos Mis Paisanos](https://open.spotify.com/track/2R1GwRkfF4lYvc1IbnxsQX) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [La Maxima Banda de Mazatlan Sinaloa](https://open.spotify.com/artist/1jrlmT3OMCawrjyH20uoHf) | [Retumban2](https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy) | 3:13 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDZkZmI1OTY3MzVjNjE4OGZlNmQxYWRhZWVjMzFhMjJl`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGEwMzM4ZTlmZTdiMzQ4ZjgwMjkyYmYxNmFkYTRlN2Nl`

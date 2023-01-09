@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,207 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,249 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 55 | [Who Really Are the Monsters?](https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH) | 5:19 |
 | 56 | [My Name Is Mud](https://open.spotify.com/track/7axVaL2WO7cC3fXxtd9Zlj) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [They Can't All Be Zingers](https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT) | 4:45 |
 | 57 | [Politicalamity](https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [III Sides To Every Story](https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd) | 5:04 |
-| 58 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
+| 58 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 |
 | 59 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 |
-| 60 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 |
+| 60 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMGM0ZGUxMWJmNGI4OTg4ODViMzVkYTJmMjBlYWVhYzY5`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDEwNzNkYzE5ZDE3YWU2MjgwM2FmOTQ3NDJmYTE1M2M2`

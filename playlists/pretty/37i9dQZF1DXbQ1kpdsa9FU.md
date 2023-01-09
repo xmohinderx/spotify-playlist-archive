@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,430 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,724 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 45 | [Waking Up](https://open.spotify.com/track/5jwakA3WYHMeucmgu0tjbD) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 5:16 |
 | 46 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/6RSBBvhrP0KvkpaUSMPI11) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabereal](https://open.spotify.com/artist/7pMRuTQan8Xa2erCF93GR7) | [Fresh Start](https://open.spotify.com/album/0deQGdpl2LNu0o7s9wRVGk) | 5:31 |
 | 47 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
-| 48 | [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 |
-| 49 | [Almost Home](https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [inhale \(exhale\)](https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV) | 4:05 |
+| 48 | [Almost Home](https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [inhale \(exhale\)](https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV) | 4:05 |
+| 49 | [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 |
 | 50 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 |
 | 51 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 |
-| 52 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 |
-| 53 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 |
+| 52 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 |
+| 53 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 |
 | 54 | [Voice of Truth](https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 5:23 |
 | 55 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 |
 | 56 | [Resurrecting \(Live\)](https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 7:47 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 81 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
 | 82 | [God Only Knows \(with Dolly Parton\)](https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [God Only Knows \(with Dolly Parton\)](https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF) | 3:33 |
 | 83 | [Open The Eyes Of My Heart \- Live](https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 5:21 |
-| 84 | [Wanted](https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:55 |
+| 84 | [How Deep The Father's Love For Us](https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Deliver Me](https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk) | 3:24 |
 | 85 | [Mercy Is A Song](https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:45 |
-| 86 | [How Deep The Father's Love For Us](https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Deliver Me](https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk) | 3:24 |
+| 86 | [Wanted](https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:55 |
 | 87 | [O Praise The Name \(Anástasis\) \- Live](https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [OPEN HEAVEN / River Wild \(Deluxe/Live\)](https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw) | 5:29 |
 | 88 | [My Savior My God](https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Anything Worth Saying](https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz) | 4:51 |
 | 89 | [Blessings](https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ) | [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Blessings](https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc) | 4:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 99 | [Build My Life \- Live](https://open.spotify.com/track/34plEFbj6nBMG7esY9rzim) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:39 |
 | 100 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
 
-Snapshot ID: `MTU5ODQ4NjI2MiwwMDAwMDAwMGZlMjYwMGNjZDRlNTE0MWJjZDY2ZGZlMzE5NjIxNDdi`
+Snapshot ID: `MTU5ODQ4NjI2MiwwMDAwMDAwMDk4MjQ1NjdiM2RmYjcxMzk1ZDVlMGZhMjE3MjdjMzA3`

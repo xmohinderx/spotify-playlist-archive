@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the Savior being born by worshipping along with these Christmas songs.",
-  "num_followers": 69624,
+  "num_followers": 69634,
   "original_name": "Christmas Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDcxOTYxNiwwMDAwMDAwMGIwMDA2Mzk1NGE3YjkwOGVjZGNlMGE2N2YzNjNmOGFm",
+  "snapshot_id": "MTY3MDcxOTYxNiwwMDAwMDAwMGFhNDZkYTM4ZTAwY2NkNmRhMThmMzE2YWMzM2FmMzli",
   "tracks": [
     {
       "added_at": "2022-12-11 00:44:11",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
+        "name": "Songs for Christmas",
+        "url": "https://open.spotify.com/album/0VjtZbHdvOsatE7kRybEzZ"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/6G6LFiVI7Y5KJizkMw6TG0"
+    },
+    {
+      "added_at": "2022-12-11 00:44:11",
+      "album": {
         "name": "Mothers And Shepherds",
         "url": "https://open.spotify.com/album/2n28BJpolDoB8VZQ9Wr3Dj"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
-        "name": "O Come, O Come Emmanuel",
-        "url": "https://open.spotify.com/album/2kdiLHWZvTSx4rc0z5BVaS"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 163773,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/2bivz4pQKTXTzb0aqf35m2"
-    },
-    {
-      "added_at": "2022-12-11 00:44:11",
-      "album": {
         "name": "God Made A Way",
         "url": "https://open.spotify.com/album/1sHDvHOITzgodxNW43WUtR"
       },
@@ -219,6 +219,22 @@
       "duration_ms": 210722,
       "name": "God Made A Way",
       "url": "https://open.spotify.com/track/6FRr6Qo9MGvJIPUo15a4ax"
+    },
+    {
+      "added_at": "2022-12-11 00:44:11",
+      "album": {
+        "name": "O Come, O Come Emmanuel",
+        "url": "https://open.spotify.com/album/2kdiLHWZvTSx4rc0z5BVaS"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 163773,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/2bivz4pQKTXTzb0aqf35m2"
     },
     {
       "added_at": "2022-12-11 00:44:11",
@@ -255,22 +271,6 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
-        "name": "Songs for Christmas",
-        "url": "https://open.spotify.com/album/0VjtZbHdvOsatE7kRybEzZ"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/6G6LFiVI7Y5KJizkMw6TG0"
-    },
-    {
-      "added_at": "2022-12-11 00:44:11",
-      "album": {
         "name": "Emmanuel: Christmas Songs Of Worship (Deluxe)",
         "url": "https://open.spotify.com/album/4mNQ4Jm87KEl2HXAQdF0al"
       },
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
-        "name": "Sounding Joy",
-        "url": "https://open.spotify.com/album/1ZMsgcmv2PawjMSJti5okX"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Sounding Joy",
-      "url": "https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb"
-    },
-    {
-      "added_at": "2022-12-11 00:44:11",
-      "album": {
         "name": "Hallelujah Here Below",
         "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 268949,
       "name": "Here Comes Heaven",
       "url": "https://open.spotify.com/track/7llyaJ7gnmIB19cp4hWc1g"
+    },
+    {
+      "added_at": "2022-12-11 00:44:11",
+      "album": {
+        "name": "Sounding Joy",
+        "url": "https://open.spotify.com/album/1ZMsgcmv2PawjMSJti5okX"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Sounding Joy",
+      "url": "https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb"
     },
     {
       "added_at": "2022-12-11 00:44:11",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh"
+        "name": "Heaven Has Come",
+        "url": "https://open.spotify.com/album/75vRXbPSXGxcvpHmrQPrit"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
         }
       ],
-      "duration_ms": 288920,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r"
+      "duration_ms": 266128,
+      "name": "The First Noel (Born is the King)",
+      "url": "https://open.spotify.com/track/2mH6nswysbEDWEKNAT48XK"
     },
     {
       "added_at": "2022-12-11 00:44:11",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
-        "name": "Heaven Has Come",
-        "url": "https://open.spotify.com/album/75vRXbPSXGxcvpHmrQPrit"
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh"
       },
       "artists": [
         {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 266128,
-      "name": "The First Noel (Born is the King)",
-      "url": "https://open.spotify.com/track/2mH6nswysbEDWEKNAT48XK"
+      "duration_ms": 288920,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r"
     },
     {
       "added_at": "2022-12-11 00:44:11",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
-        "name": "Great Christmas",
-        "url": "https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 167558,
-      "name": "Great Christmas",
-      "url": "https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4"
-    },
-    {
-      "added_at": "2022-12-11 00:44:11",
-      "album": {
         "name": "King Of Kings",
         "url": "https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 265080,
       "name": "King Of Kings",
       "url": "https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU"
+    },
+    {
+      "added_at": "2022-12-11 00:44:11",
+      "album": {
+        "name": "Great Christmas",
+        "url": "https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 167558,
+      "name": "Great Christmas",
+      "url": "https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4"
     },
     {
       "added_at": "2022-12-11 00:44:11",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5noo9mmDQjfL9nzXSJmJjG"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 220460,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7ykbXoPWUNDj0txNJo0GJt"
-    },
-    {
-      "added_at": "2022-12-11 00:44:11",
-      "album": {
         "name": "The Wait is Over",
         "url": "https://open.spotify.com/album/2Uviy1FsGVVctRmFDH3MbE"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 258954,
       "name": "The Wait is Over",
       "url": "https://open.spotify.com/track/45clpYzIdS7Ju6yOSCxkaL"
+    },
+    {
+      "added_at": "2022-12-11 00:44:11",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5noo9mmDQjfL9nzXSJmJjG"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 220460,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7ykbXoPWUNDj0txNJo0GJt"
     },
     {
       "added_at": "2022-12-11 00:44:11",
@@ -935,8 +935,8 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
-        "name": "Gloria (Live)",
-        "url": "https://open.spotify.com/album/2O4vpLos89lpgFphW2ibFd"
+        "name": "Joy (To the World)",
+        "url": "https://open.spotify.com/album/4AXXuocsg8dSPVkQWVAmSd"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 201340,
-      "name": "Joy (To the World) (feat. Ryan Ellis) - [Live]",
-      "url": "https://open.spotify.com/track/2WpDKLKJspo20BrMvtNFH7"
+      "duration_ms": 180676,
+      "name": "Joy (To the World)",
+      "url": "https://open.spotify.com/track/6u5QM6f2evRbxBIzqaPe96"
     },
     {
       "added_at": "2022-12-11 00:44:11",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
-        "name": "Joy (To the World)",
-        "url": "https://open.spotify.com/album/4AXXuocsg8dSPVkQWVAmSd"
+        "name": "Gloria (Live)",
+        "url": "https://open.spotify.com/album/2O4vpLos89lpgFphW2ibFd"
       },
       "artists": [
         {
@@ -1140,25 +1140,9 @@
           "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 180676,
-      "name": "Joy (To the World)",
-      "url": "https://open.spotify.com/track/6u5QM6f2evRbxBIzqaPe96"
-    },
-    {
-      "added_at": "2022-12-11 00:44:11",
-      "album": {
-        "name": "O Come, O Come Emmanuel",
-        "url": "https://open.spotify.com/album/52h9FsROuyUbIknjaza2aO"
-      },
-      "artists": [
-        {
-          "name": "Leah Paschall",
-          "url": "https://open.spotify.com/artist/173uICvHhsYJNLaGk8iLYr"
-        }
-      ],
-      "duration_ms": 229340,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/12mJKE60PNEnfoz6FWgUCq"
+      "duration_ms": 201340,
+      "name": "Joy (To the World) (feat. Ryan Ellis) - [Live]",
+      "url": "https://open.spotify.com/track/2WpDKLKJspo20BrMvtNFH7"
     },
     {
       "added_at": "2022-12-11 00:44:11",
@@ -1175,6 +1159,22 @@
       "duration_ms": 254862,
       "name": "O Come, O Come Emmanuel",
       "url": "https://open.spotify.com/track/7rZci3sRu1CLjAJRsId7FO"
+    },
+    {
+      "added_at": "2022-12-11 00:44:11",
+      "album": {
+        "name": "O Come, O Come Emmanuel",
+        "url": "https://open.spotify.com/album/52h9FsROuyUbIknjaza2aO"
+      },
+      "artists": [
+        {
+          "name": "Leah Paschall",
+          "url": "https://open.spotify.com/artist/173uICvHhsYJNLaGk8iLYr"
+        }
+      ],
+      "duration_ms": 229340,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/12mJKE60PNEnfoz6FWgUCq"
     },
     {
       "added_at": "2022-12-11 00:44:11",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0a4mMQCuG7be9wNRgbtuZl"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 210743,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/2MQYkvXbOoqnym1nRSLBRa"
-    },
-    {
-      "added_at": "2022-12-11 00:44:11",
-      "album": {
         "name": "Oh Come All Ye Faithful",
         "url": "https://open.spotify.com/album/18Gkhoj0Bddbm5uqzzgu78"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 184001,
       "name": "Oh Come All Ye Faithful - Single Version",
       "url": "https://open.spotify.com/track/5ZC6CQUiZBgrqoYDviM3aV"
+    },
+    {
+      "added_at": "2022-12-11 00:44:11",
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0a4mMQCuG7be9wNRgbtuZl"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 210743,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2MQYkvXbOoqnym1nRSLBRa"
     },
     {
       "added_at": "2022-12-11 00:44:11",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
+        "name": "The Saviour Is Here",
+        "url": "https://open.spotify.com/album/7LJ2alYjOWnQhE3M9weeZQ"
+      },
+      "artists": [
+        {
+          "name": "ICF Worship",
+          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
+        }
+      ],
+      "duration_ms": 256237,
+      "name": "The Saviour Is Here",
+      "url": "https://open.spotify.com/track/2cqV7UbShPiNITl9UsKJzQ"
+    },
+    {
+      "added_at": "2022-12-11 00:44:11",
+      "album": {
         "name": "Angels We Have Heard On High",
         "url": "https://open.spotify.com/album/0YTBVRxwnR5LOGksOnomhP"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
-        "name": "The Saviour Is Here",
-        "url": "https://open.spotify.com/album/7LJ2alYjOWnQhE3M9weeZQ"
-      },
-      "artists": [
-        {
-          "name": "ICF Worship",
-          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
-        }
-      ],
-      "duration_ms": 256237,
-      "name": "The Saviour Is Here",
-      "url": "https://open.spotify.com/track/2cqV7UbShPiNITl9UsKJzQ"
-    },
-    {
-      "added_at": "2022-12-11 00:44:11",
-      "album": {
         "name": "If You Listen",
         "url": "https://open.spotify.com/album/0zI9FCWpB5YBOw0Npi2ZLo"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 252612,
       "name": "If You Listen",
       "url": "https://open.spotify.com/track/6ayW4lNxB2dxFU9Kb812lw"
-    },
-    {
-      "added_at": "2022-12-11 00:44:11",
-      "album": {
-        "name": "DREAM Christmas Vol. 5",
-        "url": "https://open.spotify.com/album/2vqzTe45OIcoSCYerZER95"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/1dgvpiB50RfuemLhYet0P7"
     },
     {
       "added_at": "2022-12-11 00:44:11",
@@ -1623,6 +1607,22 @@
       "duration_ms": 235853,
       "name": "This is Emmanuel",
       "url": "https://open.spotify.com/track/2MXlteGF7jW7DJxfgYV5Kh"
+    },
+    {
+      "added_at": "2022-12-11 00:44:11",
+      "album": {
+        "name": "DREAM Christmas Vol. 5",
+        "url": "https://open.spotify.com/album/2vqzTe45OIcoSCYerZER95"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/1dgvpiB50RfuemLhYet0P7"
     },
     {
       "added_at": "2022-12-11 00:44:11",
@@ -1663,30 +1663,6 @@
     {
       "added_at": "2022-12-11 00:44:11",
       "album": {
-        "name": "We Sing to You Jesus: Carols for Worship (Live)",
-        "url": "https://open.spotify.com/album/15D91O1cc3V8oGoOeTSfc8"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "John Marc Kohl",
-          "url": "https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA"
-        },
-        {
-          "name": "Myshel Wilkins",
-          "url": "https://open.spotify.com/artist/4Q2GtdQpv47IIpxFGiu3uC"
-        }
-      ],
-      "duration_ms": 386093,
-      "name": "O Holy Night - Live",
-      "url": "https://open.spotify.com/track/5UfIxD8DonTU1Be7eFNltI"
-    },
-    {
-      "added_at": "2022-12-11 00:44:11",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
       },
@@ -1707,6 +1683,30 @@
       "duration_ms": 246653,
       "name": "God With Us - Live",
       "url": "https://open.spotify.com/track/5AMa51Rw3V4sJ2TRNSoS8k"
+    },
+    {
+      "added_at": "2022-12-11 00:44:11",
+      "album": {
+        "name": "We Sing to You Jesus: Carols for Worship (Live)",
+        "url": "https://open.spotify.com/album/15D91O1cc3V8oGoOeTSfc8"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "John Marc Kohl",
+          "url": "https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA"
+        },
+        {
+          "name": "Myshel Wilkins",
+          "url": "https://open.spotify.com/artist/4Q2GtdQpv47IIpxFGiu3uC"
+        }
+      ],
+      "duration_ms": 386093,
+      "name": "O Holy Night - Live",
+      "url": "https://open.spotify.com/track/5UfIxD8DonTU1Be7eFNltI"
     },
     {
       "added_at": "2022-12-11 00:44:11",

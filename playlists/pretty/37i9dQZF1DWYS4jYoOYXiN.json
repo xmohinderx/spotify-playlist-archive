@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 63442,
+  "num_followers": 63505,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDgxZWU1ZGU3MmFmZGFmZGM4NTMxMWM5MTk3NmRmZDhj",
+  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMGI3ODZiN2M3ZmJjOWY0MWEwOGI5MjgwYjEyNWRjMDY5",
   "tracks": [
     {
       "added_at": "2022-04-09 04:26:32",
@@ -191,26 +191,6 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "En Fiesta Navide\u00f1a",
-        "url": "https://open.spotify.com/album/7btZsLsMrGMiu6C6tofNAQ"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Ray",
-          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
-        },
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Seis Chorreao",
-      "url": "https://open.spotify.com/track/1GOi0KnWNKAUdedvhHCshA"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 168093,
       "name": "A Deeper Shade Of Soul",
       "url": "https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "En Fiesta Navide\u00f1a",
+        "url": "https://open.spotify.com/album/7btZsLsMrGMiu6C6tofNAQ"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Ray",
+          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Seis Chorreao",
+      "url": "https://open.spotify.com/track/1GOi0KnWNKAUdedvhHCshA"
     },
     {
       "added_at": "2022-04-09 04:26:32",
@@ -333,6 +333,26 @@
       "url": "https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ"
     },
     {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Barretto",
+        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Tito G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
+        }
+      ],
+      "duration_ms": 338520,
+      "name": "Guarar\u00e9",
+      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
+    },
+    {
       "added_at": "2021-09-07 18:02:03",
       "album": {
         "name": "I Like It Like That",
@@ -367,26 +387,6 @@
       "duration_ms": 196600,
       "name": "Grazin' In The Grass",
       "url": "https://open.spotify.com/track/071QzNfV4nNVuCbBZ598uC"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
-        "name": "Barretto",
-        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        },
-        {
-          "name": "Tito G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
-        }
-      ],
-      "duration_ms": 338520,
-      "name": "Guarar\u00e9",
-      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
     },
     {
       "added_at": "2021-09-07 18:02:03",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+        "name": "Mongo Santamaria's Greatest Hits",
+        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
       },
       "artists": [
         {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
         }
       ],
-      "duration_ms": 272253,
-      "name": "Lo Atar\u00e1 la Arache",
-      "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
+      "duration_ms": 344960,
+      "name": "Cloud Nine",
+      "url": "https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK"
     },
     {
       "added_at": "2021-09-07 18:02:03",
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Mongo Santamaria's Greatest Hits",
-        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
       "artists": [
         {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 344960,
-      "name": "Cloud Nine",
-      "url": "https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK"
+      "duration_ms": 272253,
+      "name": "Lo Atar\u00e1 la Arache",
+      "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
     },
     {
       "added_at": "2021-09-07 18:02:03",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "A Lifetime of Hits... (Live At Centro de Bellas Artes, San Juan, Puerto Rico.)",
-        "url": "https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz"
+        "name": "La Cuna",
+        "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy"
       },
       "artists": [
         {
-          "name": "Richie Ray & Bobby Cruz",
-          "url": "https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq"
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
         }
       ],
-      "duration_ms": 297760,
-      "name": "Richie's Jala-Jala",
-      "url": "https://open.spotify.com/track/0QvRbWa5WBhbJtg52GdbJq"
+      "duration_ms": 514866,
+      "name": "Pastime Paradise",
+      "url": "https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0"
     }
   ],
   "unique_name": "Boogaloo Essentials",

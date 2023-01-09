@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. ",
-  "num_followers": 2142010,
+  "num_followers": 2142031,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDEzZThmMGJiYjY3Njc0MTYyNzEyMDNhYzdiZjIyZTM1",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGE3ZDRjNzA2ZDJhYWI1ZmMwOGE4MmYyZTU4MWRjNmE1",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Beast Epic",
         "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 298880,
       "name": "Shrike",
       "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "The Trouble with Wanting",
-      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Bonny Light Horseman",
         "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "The Trouble with Wanting",
+      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Feathers & Fishhooks",
         "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 233693,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "On The Road Again",
-        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 173969,
-      "name": "On The Road Again",
-      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Living Room Worktapes",
         "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 243898,
       "name": "Where You Are - Acoustic",
       "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "On The Road Again",
+        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 173969,
+      "name": "On The Road Again",
+      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "My Arms Were Always Around You",
+        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "My Arms Were Always Around You",
-        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+        "name": "Angela (Single Version)",
+        "url": "https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 264452,
-      "name": "Motion Sickness (Demo - Bonus Track)",
-      "url": "https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq"
+      "duration_ms": 178840,
+      "name": "Angela (Single Version)",
+      "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Angela (Single Version)",
-        "url": "https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0"
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 178840,
-      "name": "Angela (Single Version)",
-      "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
+      "duration_ms": 264452,
+      "name": "Motion Sickness (Demo - Bonus Track)",
+      "url": "https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Wonderful World",
-        "url": "https://open.spotify.com/album/36jkSaatEARkByil5kn9f6"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 165801,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/5SQkpKQP4woq7R4kG53HAy"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Siren Song",
         "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 183767,
       "name": "Siren Song",
       "url": "https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Wonderful World",
+        "url": "https://open.spotify.com/album/36jkSaatEARkByil5kn9f6"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 165801,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/5SQkpKQP4woq7R4kG53HAy"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 210353,
-      "name": "Kyoto - Spotify Singles",
-      "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Hundred Acres",
         "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 212026,
       "name": "Dream in Blue",
       "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 210353,
+      "name": "Kyoto - Spotify Singles",
+      "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "The Closest Thing to Home",
+        "url": "https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N"
+      },
+      "artists": [
+        {
+          "name": "Ira Wolf",
+          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+        }
+      ],
+      "duration_ms": 241240,
+      "name": "Great Divide",
+      "url": "https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "THE SUN & THE SEA (feat. Donovan Woods)",
         "url": "https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 180000,
       "name": "THE SUN & THE SEA (feat. Donovan Woods)",
       "url": "https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "The Closest Thing to Home",
-        "url": "https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N"
-      },
-      "artists": [
-        {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
-        }
-      ],
-      "duration_ms": 241240,
-      "name": "Great Divide",
-      "url": "https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Location 13 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
-      },
-      "artists": [
-        {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
-        }
-      ],
-      "duration_ms": 255191,
-      "name": "Letter to Lady J",
-      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Don't Let Me Disappear",
         "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 264522,
       "name": "Don't Let Me Disappear",
       "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Location 13 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "duration_ms": 255191,
+      "name": "Letter to Lady J",
+      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Ledges",
+        "url": "https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "First Defeat",
+      "url": "https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "EPHRATA",
         "url": "https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 218146,
       "name": "Holllllogram",
       "url": "https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Ledges",
-        "url": "https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "First Defeat",
-      "url": "https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Loving Everywhere I Go",
-        "url": "https://open.spotify.com/album/2ZCIrBYU8EDHgySjPO5O7c"
-      },
-      "artists": [
-        {
-          "name": "Hudson Taylor",
-          "url": "https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub"
-        }
-      ],
-      "duration_ms": 282521,
-      "name": "Old Soul (acoustic)",
-      "url": "https://open.spotify.com/track/6qPdMSH6y9b7khSM3oQJLB"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Nervous At Night",
         "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 252816,
       "name": "Used",
       "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Loving Everywhere I Go",
+        "url": "https://open.spotify.com/album/2ZCIrBYU8EDHgySjPO5O7c"
+      },
+      "artists": [
+        {
+          "name": "Hudson Taylor",
+          "url": "https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub"
+        }
+      ],
+      "duration_ms": 282521,
+      "name": "Old Soul (acoustic)",
+      "url": "https://open.spotify.com/track/6qPdMSH6y9b7khSM3oQJLB"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2615,6 +2615,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Hung the Moon",
+        "url": "https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb",
+          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 190613,
+      "name": "Hung the Moon",
+      "url": "https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "A Very Lonely Solstice",
         "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
       },
@@ -2627,22 +2647,6 @@
       "duration_ms": 222133,
       "name": "Silver Dagger - Solstice Version",
       "url": "https://open.spotify.com/track/7u3LJNd9Iv7KecnKmB3gxa"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Answers (Acoustic)",
-        "url": "https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0"
-      },
-      "artists": [
-        {
-          "name": "Brooke Annibale",
-          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
-        }
-      ],
-      "duration_ms": 190229,
-      "name": "Answers - Acoustic",
-      "url": "https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc"
     },
     {
       "added_at": "2022-12-02 05:00:00",

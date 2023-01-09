@@ -4,7 +4,7 @@
 
 > A playlist to get you through your whole workday.
 
-389 songs - 22 hr 12 min
+390 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 | 2021-04-30 |  |
 | [Broken](https://open.spotify.com/track/2FkbeqpCrjjDdVH1SZgDo6) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/3t31ldCb4oXOYSKXyGfaUA) | 3:36 | 2021-04-30 |  |
 | [BS](https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [BS](https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6) | 2:13 | 2021-04-30 | 2022-11-13 |
+| [Build Me Up Buttercup](https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [From the Foundations \(Expanded Edition\)](https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc) | 2:57 | 2021-04-30 |  |
 | [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2021-04-30 | 2022-11-14 |
 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 | 2021-04-30 | 2022-07-29 |
 | [Burn](https://open.spotify.com/track/1yvIUHWMU3UM8StH7I0Tlq) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Burn](https://open.spotify.com/album/6iAUobi1fcxy60buZZBiqK) | 2:19 | 2021-04-30 | 2022-07-29 |
@@ -278,7 +279,7 @@
 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 | 2021-04-30 | 2023-01-02 |
 | [r u ok](https://open.spotify.com/track/7rq1zCf90CnU7OalBLIgNp) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [r u ok](https://open.spotify.com/album/4xhldRhsJY00rIkBFMe5yC) | 3:05 | 2021-04-30 | 2022-11-13 |
 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 | 2021-04-30 | 2022-12-02 |
-| [Raspberry Beret](https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:35 | 2021-04-30 |  |
+| [Raspberry Beret](https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:35 | 2021-04-30 | 2023-01-09 |
 | [Religion](https://open.spotify.com/track/0YT1UVqGD6wAWaTVRo0bGY) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Remember To Remember Me](https://open.spotify.com/album/3k1r8pNLVD6Lbq0Qyr9yfk) | 3:07 | 2021-04-30 | 2022-02-27 |
 | [Rescue Me](https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 2:51 | 2021-04-30 |  |
 | [Resentment \(feat\. Sturgill Simpson, Brian Wilson & Wrabel\)](https://open.spotify.com/track/6iewIywVK4V0SQfSCZonCR) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Resentment \(feat\. Sturgill Simpson, Brian Wilson & Wrabel\)](https://open.spotify.com/album/77NnFl72Aj7jbwErADFhJv) | 2:52 | 2021-04-30 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 
 > Clásicos que son el curita perfecto para tu corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,984 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,027 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 | 7 | [Can't Smile Without You](https://open.spotify.com/track/7qUTZEf6bgiApJEXpMAH5y) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Even Now](https://open.spotify.com/album/1ILknbSc8Ll0TqA8oJKkNV) | 3:13 |
 | 8 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 |
 | 9 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 |
-| 10 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:18 |
-| 11 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
+| 10 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
+| 11 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:18 |
 | 12 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 |
-| 13 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:34 |
-| 14 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:01 |
+| 13 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:01 |
+| 14 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:34 |
 | 15 | [How Can You Mend a Broken Heart](https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 6:23 |
 | 16 | [The Winner Takes It All](https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:54 |
 | 17 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 | 33 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:15 |
 | 34 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1H5N26VqHR4JhuaRKY2I0u) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 3:35 |
 | 35 | [Without You](https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB) | 3:21 |
-| 36 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 4:56 |
-| 37 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
+| 36 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
+| 37 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 4:56 |
 | 38 | [You've Got a Friend \- 2019 Remaster](https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Mud Slide Slim and the Blue Horizon \(2019 Remaster\)](https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX) | 4:28 |
 | 39 | [I Will Survive \- Original 7" Version](https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Phil Kelsey Remix\)](https://open.spotify.com/album/0afBUyhZUpKrvV9gxWWXM1) | 3:18 |
 | 40 | [Boys Don't Cry \- Single Version](https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 2:37 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 | 45 | [She's Gone](https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Abandoned Luncheonette](https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu) | 5:13 |
 | 46 | [Sorry Seems To Be The Hardest Word](https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 3:48 |
 | 47 | [I Won't Last A Day Without You](https://open.spotify.com/track/42CX3VhPsCG75BFp07r9Vj) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [A Song For You](https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov) | 3:52 |
-| 48 | [All Out of Love](https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 4:01 |
-| 49 | [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:25 |
+| 48 | [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:25 |
+| 49 | [All Out of Love](https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 4:01 |
 | 50 | [Evil Woman](https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Face the Music](https://open.spotify.com/album/1HSU8sXRI9HiEAHslHRFQ3) | 4:29 |
 | 51 | [How Can You Mend A Broken Heart](https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Trafalgar](https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV) | 3:57 |
 | 52 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 | 69 | [If I Can't Have You \- From "Saturday Night Fever"](https://open.spotify.com/track/7hIo2An8IJ0gBtzogU7Lud) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [Saturday Night Fever \(The Original Movie Soundtrack\)](https://open.spotify.com/album/6kFmH2VMMFaUrK4QhY4hLi) | 2:58 |
 | 70 | [The Most Beautiful Girl](https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Charlie Rich \- 16 Biggest Hits](https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib) | 2:42 |
 
-Snapshot ID: `MTYxMjk4MjU5NywwMDAwMDAwMDc1OWJjMTA2ZWRiN2Q4ZDc1ZjEwM2M3ZTMwNWJlMTQ3`
+Snapshot ID: `MTYxMjk4MjU5NywwMDAwMDAwMGFiM2JlNTk2ODlkNDZlNTg4ZWVmNzJkYWVmZWIzZmQ2`

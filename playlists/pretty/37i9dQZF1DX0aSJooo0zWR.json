@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 169062,
+  "num_followers": 169152,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGFjYjQ0NzgwZjFhYjdkMThkYmQ0MGUyNmI5MGE1MWYz",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDIyMTNkYWFiNWEwMmJiN2QxMmJlMzIwZTM3NjUxZjRi",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -273,6 +273,22 @@
       "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "The Antidote Is in the Poison",
+        "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 352692,
+      "name": "The Antidote Is in the Poison",
+      "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Galaxias",
@@ -291,22 +307,6 @@
       "duration_ms": 236905,
       "name": "Galaxias (Radio Edit)",
       "url": "https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "The Antidote Is in the Poison",
-        "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 352692,
-      "name": "The Antidote Is in the Poison",
-      "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -397,6 +397,22 @@
       "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Collisions",
+        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
+      },
+      "artists": [
+        {
+          "name": "TAUK",
+          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
+        }
+      ],
+      "duration_ms": 300876,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "In These Times",
@@ -431,22 +447,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Collisions",
-        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
-      },
-      "artists": [
-        {
-          "name": "TAUK",
-          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
-        }
-      ],
-      "duration_ms": 300876,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Hard-Wired",
         "url": "https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 243000,
       "name": "Hard-Wired",
       "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 474309,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -491,6 +475,22 @@
       "duration_ms": 350506,
       "name": "Some Skunk Funk",
       "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 474309,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Electric Rendezvous",
-        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Black Cat Shuffle",
-      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
-    },
-    {
       "added_at": "2021-10-29 04:02:00",
       "album": {
         "name": "Blue Macaw",
@@ -751,6 +735,22 @@
       "duration_ms": 274000,
       "name": "Blue Macaw",
       "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Electric Rendezvous",
+        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Black Cat Shuffle",
+      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
     },
     {
       "added_at": "2021-05-07 04:01:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Big Fun (2022 Remaster)",
-        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Cameron Graves",
+          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
         }
       ],
-      "duration_ms": 1707435,
-      "name": "Go Ahead John (2022 Remaster)",
-      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
+      "duration_ms": 261506,
+      "name": "Sons of Creation",
+      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
+        "name": "Big Fun (2022 Remaster)",
+        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
       },
       "artists": [
         {
-          "name": "Cameron Graves",
-          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 261506,
-      "name": "Sons of Creation",
-      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
+      "duration_ms": 1707435,
+      "name": "Go Ahead John (2022 Remaster)",
+      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
     },
     {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "FLY! FLY! FLY!",
-        "url": "https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH"
-      },
-      "artists": [
-        {
-          "name": "T-SQUARE",
-          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Growing Up!",
-      "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Now You See It ... (Now You Don't)",
@@ -1339,6 +1323,22 @@
       "duration_ms": 326000,
       "name": "Escher Sketch (A Tale Of Two Rhythms)",
       "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
+    },
+    {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "FLY! FLY! FLY!",
+        "url": "https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH"
+      },
+      "artists": [
+        {
+          "name": "T-SQUARE",
+          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Growing Up!",
+      "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
     },
     {
       "added_at": "2021-02-12 00:49:35",

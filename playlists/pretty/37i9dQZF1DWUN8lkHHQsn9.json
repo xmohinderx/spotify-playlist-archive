@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Wyj\u0105tkowe spektrum d\u017awi\u0119k\u00f3w na jednej playli\u015bcie. Cover: Zawadzki",
-  "num_followers": 2205,
+  "num_followers": 2203,
   "original_name": "Pride Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMDNlMDRmYThjZGRhNGM2NzhlZmNmZTc3ZmIzZGUwZjg1",
+  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMDgyN2UwNjM0NzFkODFjMGQ1ZTM4NmQ1MmFmMTI4NGFh",
   "tracks": [
     {
       "added_at": "2022-07-22 08:13:30",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
+      },
+      "artists": [
+        {
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 211555,
+      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "OH WOW",
         "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 174000,
       "name": "OH WOW",
       "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
-      },
-      "artists": [
-        {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 211555,
-      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
-      },
-      "artists": [
-        {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "Dla nas dom",
         "url": "https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 250729,
       "name": "R\u0119ce w udr\u0119ce",
       "url": "https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
+      },
+      "artists": [
+        {
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "Przypadki",
         "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "Nie ma",
         "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 202419,
       "name": "Nie ma",
       "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "Polska",
-        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
-      },
-      "artists": [
-        {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 243062,
-      "name": "Polska",
-      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -767,6 +751,22 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "Polska",
+        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
+      },
+      "artists": [
+        {
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 243062,
+      "name": "Polska",
+      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "OLIMP",
         "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 192557,
       "name": "Tamto Lato",
       "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "Lont",
-        "url": "https://open.spotify.com/album/59UAE7TDoS7iiBqiIa6LmX"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 228472,
-      "name": "Lont",
-      "url": "https://open.spotify.com/track/0MoOrK9oPDCDhj3qz0iIR5"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -835,18 +819,22 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
+        "name": "VITAY (Avtomat Remix)",
+        "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
       },
       "artists": [
         {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
         }
       ],
-      "duration_ms": 248202,
-      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
+      "duration_ms": 250208,
+      "name": "VITAY - Avtomat Remix",
+      "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -867,6 +855,38 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "Lont",
+        "url": "https://open.spotify.com/album/59UAE7TDoS7iiBqiIa6LmX"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 228472,
+      "name": "Lont",
+      "url": "https://open.spotify.com/track/0MoOrK9oPDCDhj3qz0iIR5"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
+      },
+      "artists": [
+        {
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+        }
+      ],
+      "duration_ms": 248202,
+      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "Parlez Vous Francais",
         "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 202666,
       "name": "Parlez Vous Francais",
       "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "VITAY (Avtomat Remix)",
-        "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "Avtomat",
-          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
-        }
-      ],
-      "duration_ms": 250208,
-      "name": "VITAY - Avtomat Remix",
-      "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
     },
     {
       "added_at": "2022-07-22 08:13:30",

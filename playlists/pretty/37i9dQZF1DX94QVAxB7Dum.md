@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,998 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,215 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 32 | [Hang On In There Baby](https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Hang On In There Baby](https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix) | 3:53 |
 | 33 | [Didn't I \(Blow Your Mind This Time\)](https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 3:21 |
 | 34 | [I Was Made To Love Her](https://open.spotify.com/track/2aCKBrLn7rbhStk5k4FwnF) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [I Was Made To Love Her](https://open.spotify.com/album/6thSjE17RxW8tJFtLyXA3B) | 2:36 |
-| 35 | [Cissy Strut](https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Funkify Your Life: The Meters Anthology](https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz) | 3:05 |
-| 36 | [The Ghetto](https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:53 |
+| 35 | [The Ghetto](https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:53 |
+| 36 | [Cissy Strut](https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Funkify Your Life: The Meters Anthology](https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz) | 3:05 |
 | 37 | [Hercules](https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg) | 4:09 |
 | 38 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 |
 | 39 | [Supernatural Thing, Pt\. 1](https://open.spotify.com/track/62dhSmROhppvuWyeCeC730) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Supernatural Thing](https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD) | 4:11 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 49 | [Wish Someone Would Care](https://open.spotify.com/track/0EP7T1h041oiEfkNCqbST2) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Super Blues, Vol.1](https://open.spotify.com/album/48MRLdjWTY8ycSSXC5OV67) | 2:19 |
 | 50 | [Express Yourself \- Remastered Version](https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself \(Remastered & Expanded\)](https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3) | 3:49 |
 | 51 | [Boogie On Reggae Woman](https://open.spotify.com/track/1xTfQiHbhB2Bj2B9dlAojb) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 5:13 |
-| 52 | [Get out of My Life Woman](https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Ride Your Pony](https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF) | 2:26 |
-| 53 | [My World Is Empty Without You](https://open.spotify.com/track/1kFCFfR5q4VO02KtYguXgh) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [I Hear A Symphony](https://open.spotify.com/album/7vNmiLEdMqJYUlPxSx2zgg) | 2:34 |
+| 52 | [My World Is Empty Without You](https://open.spotify.com/track/1kFCFfR5q4VO02KtYguXgh) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [I Hear A Symphony](https://open.spotify.com/album/7vNmiLEdMqJYUlPxSx2zgg) | 2:34 |
+| 53 | [Get out of My Life Woman](https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Ride Your Pony](https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF) | 2:26 |
 | 54 | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI) | [Luther Ingram](https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5) | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD) | 3:36 |
 | 55 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
 | 56 | [Tramp](https://open.spotify.com/track/2gFfG8Ick2LGOzFHiWOV22) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [King & Queen](https://open.spotify.com/album/0BMj7v9E7i5YzKsZ7HJ9YX) | 3:01 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 68 | [Hurt So Bad \(Re\-Recording\)](https://open.spotify.com/track/3qY8Ni73Tx4mJXASDmBWJN) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [100 Hits Of The Swingin' 60's](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:17 |
 | 69 | [On Broadway \(Remastered 2023\) \(rerecordings\)](https://open.spotify.com/track/6aPCq4osIKVgGyBJpH5g30) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Saturday Night At The Movies and More Classics From the Drifters \(Remastered 2023\)](https://open.spotify.com/album/0ZSF8ULkF6G8owyvhG0Xue) | 2:48 |
 
-Snapshot ID: `MTY2OTcyMDkzNSwwMDAwMDAwMDc1NDUxYWRlYzhjYzZmMDAwMmRiOGUwYzkxNzJhYjk0`
+Snapshot ID: `MTY2OTcyMDkzNSwwMDAwMDAwMDQwMzNlYzJhMDY3Mzg4NTM0ZjJiZjcyNjgyNGZmNjhl`

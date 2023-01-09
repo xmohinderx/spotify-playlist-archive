@@ -1,12 +1,12 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata!",
-  "num_followers": 320952,
+  "num_followers": 320993,
   "original_name": "Operazione Buonumore!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0ODQwMywwMDAwMDAwMDUzNzE5MTg4MmNiNTMzMTUyZjE5Yzk5YTM1ZWFmM2M5",
+  "snapshot_id": "MTY3MTU0ODQwMywwMDAwMDAwMDFkNWVkMGUyM2M0ZDk1MDMyNDdmNWYxNmM3Mzg1ZDJk",
   "tracks": [
     {
       "added_at": "2022-12-02 10:59:21",
@@ -819,6 +819,26 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
+        "name": "Cover Me In Sunshine",
+        "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Willow Sage Hart",
+          "url": "https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS"
+        }
+      ],
+      "duration_ms": 141050,
+      "name": "Cover Me In Sunshine",
+      "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
+    },
+    {
+      "added_at": "2022-12-02 10:59:21",
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/0kCeC3O3QGbCYDJGCGUIce"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 164490,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd"
-    },
-    {
-      "added_at": "2022-12-02 10:59:21",
-      "album": {
-        "name": "Cover Me In Sunshine",
-        "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Willow Sage Hart",
-          "url": "https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS"
-        }
-      ],
-      "duration_ms": 141050,
-      "name": "Cover Me In Sunshine",
-      "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
     },
     {
       "added_at": "2022-12-02 10:59:21",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
+        "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
+    },
+    {
+      "added_at": "2022-12-02 10:59:21",
+      "album": {
         "name": "Tick Tock (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
-    },
-    {
-      "added_at": "2022-12-02 10:59:21",
-      "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2022-12-02 10:59:21",
@@ -1299,22 +1299,22 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
+        "name": "Sun Will Shine",
+        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
         }
       ],
-      "duration_ms": 178225,
-      "name": "Bandana",
-      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+      "duration_ms": 201700,
+      "name": "Sun Will Shine",
+      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
     },
     {
       "added_at": "2022-12-02 10:59:21",
@@ -1355,22 +1355,22 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
-        "name": "Sun Will Shine",
-        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         },
         {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 201700,
-      "name": "Sun Will Shine",
-      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
+      "duration_ms": 178225,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
       "added_at": "2022-12-02 10:59:21",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
+        "name": "Love Me Now (feat. FAST BOY)",
+        "url": "https://open.spotify.com/album/6kqbEWmGMdpVaJ9ZL2kCun"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 152581,
+      "name": "Love Me Now (feat. FAST BOY)",
+      "url": "https://open.spotify.com/track/6VtfGGQOasBhSQOpCfIcWb"
+    },
+    {
+      "added_at": "2022-12-02 10:59:21",
+      "album": {
         "name": "Welcome To The Madhouse",
         "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 211167,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
-    },
-    {
-      "added_at": "2022-12-02 10:59:21",
-      "album": {
-        "name": "Love Me Now (feat. FAST BOY)",
-        "url": "https://open.spotify.com/album/6kqbEWmGMdpVaJ9ZL2kCun"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 152581,
-      "name": "Love Me Now (feat. FAST BOY)",
-      "url": "https://open.spotify.com/track/6VtfGGQOasBhSQOpCfIcWb"
     },
     {
       "added_at": "2022-12-02 10:59:21",

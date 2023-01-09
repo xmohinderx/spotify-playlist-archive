@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 96495,
+  "num_followers": 96526,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGFlZjNkOWZhYjU5ZjZiMzdjZTlhZjBhY2U3YTZhZGNi",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGJkYWEyOGVmNzQ0NmVmNDBmMTU2ODlmZTA2YzljNmI3",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -111,26 +111,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Under the Influence: Holiday Edition",
-        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        },
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
-      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 141706,
       "name": "Ring of Fire (feat. Avi Kaplan)",
       "url": "https://open.spotify.com/track/5i9A1n1s82jh53IGLldPG6"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Under the Influence: Holiday Edition",
+        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        },
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        }
+      ],
+      "duration_ms": 160840,
+      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
+      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Crazy Life",
+        "url": "https://open.spotify.com/album/7qn9BbiBucTH28IoyEGMyy"
+      },
+      "artists": [
+        {
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/60Q0ZSKKBea7otGijFgrQI"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 199801,
       "name": "Waka Waka (This Time For Africa)",
       "url": "https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Crazy Life",
-        "url": "https://open.spotify.com/album/7qn9BbiBucTH28IoyEGMyy"
-      },
-      "artists": [
-        {
-          "name": "Home Free",
-          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/60Q0ZSKKBea7otGijFgrQI"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -399,6 +399,26 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "The Treblemakers",
+          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Right Round",
+      "url": "https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "No Ego",
         "url": "https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv"
       },
@@ -443,22 +463,6 @@
       "duration_ms": 213880,
       "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
       "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Full Coverage",
-        "url": "https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ"
-      },
-      "artists": [
-        {
-          "name": "On The Rocks",
-          "url": "https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Stacey's Mom",
-      "url": "https://open.spotify.com/track/2REesWs353uf4aQz09I2HG"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -515,22 +519,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+        "name": "Full Coverage",
+        "url": "https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ"
       },
       "artists": [
         {
-          "name": "The Treblemakers",
-          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
-        },
-        {
-          "name": "Kay",
-          "url": "https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB"
+          "name": "On The Rocks",
+          "url": "https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Right Round",
-      "url": "https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ"
+      "duration_ms": 201080,
+      "name": "Stacey's Mom",
+      "url": "https://open.spotify.com/track/2REesWs353uf4aQz09I2HG"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Covers, Vol. III",
         "url": "https://open.spotify.com/album/3zEKL1CNwJGP0ajJg7OrnQ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 168824,
       "name": "Game of Thrones (Main Title)",
       "url": "https://open.spotify.com/track/5DUvVCB64zoCHRRCJWnF98"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/3YlqY0ICO5DZj2ay8vRjJ1"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "All About That Bass (No Tenors)",
-      "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
-    },
-    {
       "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "I Knew You Were Trouble (feat. KRNFX)",
@@ -735,6 +719,22 @@
       "duration_ms": 215626,
       "name": "I Knew You Were Trouble (feat. KRNFX)",
       "url": "https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "All About That Bass (No Tenors)",
+      "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -853,6 +853,22 @@
       "url": "https://open.spotify.com/track/2qeGhGYTC0quepUOceljDH"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "The Singles: In My Mind",
+        "url": "https://open.spotify.com/album/2mRy0qh8B7XE7ZfBCXGKhY"
+      },
+      "artists": [
+        {
+          "name": "Voices in Your Head",
+          "url": "https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ"
+        }
+      ],
+      "duration_ms": 225916,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/71V0rTB5iFgHkjkTG20iAg"
+    },
+    {
       "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Six Pack",
@@ -883,22 +899,6 @@
       "duration_ms": 218386,
       "name": "Circle of Life/He Lives in You",
       "url": "https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "The Singles: In My Mind",
-        "url": "https://open.spotify.com/album/2mRy0qh8B7XE7ZfBCXGKhY"
-      },
-      "artists": [
-        {
-          "name": "Voices in Your Head",
-          "url": "https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ"
-        }
-      ],
-      "duration_ms": 225916,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/71V0rTB5iFgHkjkTG20iAg"
     },
     {
       "added_at": "2022-12-09 05:00:00",

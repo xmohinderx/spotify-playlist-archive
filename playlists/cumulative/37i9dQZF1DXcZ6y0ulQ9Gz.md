@@ -4,7 +4,7 @@
 
 > The best of Indie in one place\. Cover: Steve Lacy
 
-611 songs - 1 day 13 hr 4 min
+612 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,7 +560,8 @@
 | [This Is Home](https://open.spotify.com/track/2TI2fw9FWPeah6N4k1b4NU) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/7BCm8PaxMV0AJGRd19RI3Z) | 3:46 | 2020-10-29\* | 2022-04-15 |
 | [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 | 2022-05-03 | 2022-08-24 |
 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 | 2021-01-15 | 2022-08-24 |
-| [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2022-08-23 |  |
+| [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2022-08-23 | 2023-01-09 |
+| [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2022-11-11 |  |
 | [Those Eyes](https://open.spotify.com/track/5AbUJn9vjV9MZmSPl40V1V) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes Alternate Versions](https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB) | 3:40 | 2022-09-23 | 2022-11-14 |
 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 | 2022-09-23 |  |
 | [Throw That Back](https://open.spotify.com/track/7MiE0I58L6n6L7lmPKwe73) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Throw That Back](https://open.spotify.com/album/4C5xbCzBOcg4gWofG7dmBE) | 3:07 | 2021-04-22 | 2022-04-14 |

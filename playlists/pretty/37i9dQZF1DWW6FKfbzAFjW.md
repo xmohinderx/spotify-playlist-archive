@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Feel\-good tunes for your Cinco de Mayo\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,822 likes - 44 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,820 likes - 44 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 30 | [Amor A La Mexicana](https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Amor A La Mexicana](https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD) | 4:25 |
 | 31 | [Mis Sentimientos](https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cómo Te Voy A Olvidar ¡Edición De Súper Lujo!](https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd) | 3:36 |
 | 32 | [El Rey](https://open.spotify.com/track/32r25QdtfHgAxjohp2EoPH) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Historia De Un Idolo Vol.II](https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH) | 2:34 |
-| 33 | [Tragos Amargos](https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI) | 2:44 |
+| 33 | [Estos Tragos Van Por Ti](https://open.spotify.com/track/7juo3MoTOGEkP3vcJi2aB6) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Estos Tragos Van Por Ti](https://open.spotify.com/album/3jjUeZ1Xz4TuqPLmyx0Dgc) | 2:24 |
 | 34 | [Tú Y Yo](https://open.spotify.com/track/5vEOago0nOlDNn6C4IJWLd) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Tú Y Yo](https://open.spotify.com/album/50h6l1JyfIScae2246HXru) | 3:08 |
-| 35 | [Estos Tragos Van Por Ti](https://open.spotify.com/track/7juo3MoTOGEkP3vcJi2aB6) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Estos Tragos Van Por Ti](https://open.spotify.com/album/3jjUeZ1Xz4TuqPLmyx0Dgc) | 2:24 |
+| 35 | [Tragos Amargos](https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI) | 2:44 |
 | 36 | [Tequila \(Original\)](https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Tequila](https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C) | 2:10 |
 | 37 | [AYAYAY!](https://open.spotify.com/track/1yXOIdoYQiLMDzx9UHwD29) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/3oLsKk6OXduHxUv79P9I4H) | 2:10 |
 | 38 | [Monterrey](https://open.spotify.com/track/6y6xATSjOC2EpMTJh51R4v) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Pain Digital](https://open.spotify.com/artist/3ROBnT2BmT0WBbwJCOxtRD) | [Monterrey](https://open.spotify.com/album/5e62RmU6dB91wQA6TWrIyL) | 2:44 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 43 | [Cumbia](https://open.spotify.com/track/5vTz4MfoIbG6msHcs91HUS) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Soy Sauce](https://open.spotify.com/album/5m18d3byC5l3bjGOfvCv8r) | 2:16 |
 | 44 | [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 |
 
-Snapshot ID: `MTY1MTUxMjM4OCwwMDAwMDAwMDg4M2Y4MjY0MjQyZGJhZTdkYjYyN2NjNmI1M2I3MDZi`
+Snapshot ID: `MTY1MTUxMjM4OCwwMDAwMDAwMDlkZDcwZTViMzNhZDE3YTc0YzllNWU1MWYyMTNmYWI4`

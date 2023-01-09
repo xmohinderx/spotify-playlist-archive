@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 83224,
+  "num_followers": 83235,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMDQ1M2Q1YzUxNzQ5ZjYzMDg1MDk3ZjE4OTBmODk1ZjUw",
+  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMGM1ZDQ3YzJlNjQwYWFlMWJmYTc2YWY5YzNkYmYxYTBk",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "I Speak Jesus",
+        "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 233301,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "I'm So Blessed (Aaron Cole Mix)",
         "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "I Speak Jesus",
-        "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 233301,
-      "name": "I Speak Jesus",
-      "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "HOLY GHOST",
-        "url": "https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA"
-      },
-      "artists": [
-        {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
-        }
-      ],
-      "duration_ms": 290237,
-      "name": "HOLY GHOST",
-      "url": "https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Fight On My Knees",
         "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 188499,
       "name": "Fight On My Knees",
       "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "HOLY GHOST",
+        "url": "https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA"
+      },
+      "artists": [
+        {
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+        }
+      ],
+      "duration_ms": 290237,
+      "name": "HOLY GHOST",
+      "url": "https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "The Great Awakening",
+        "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 210118,
+      "name": "The Great Awakening",
+      "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "For the Love of God",
         "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
       },
@@ -1035,22 +1055,6 @@
       "duration_ms": 228134,
       "name": "For the Love of God",
       "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Loved By You",
-        "url": "https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 193934,
-      "name": "Loved By You",
-      "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Great Awakening",
-        "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
+        "name": "Loved By You",
+        "url": "https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu"
       },
       "artists": [
         {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        },
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 210118,
-      "name": "The Great Awakening",
-      "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
+      "duration_ms": 193934,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/0OP9HYBOIsuXYluIctWpuN"
-      },
-      "artists": [
-        {
-          "name": "Katy Weirich",
-          "url": "https://open.spotify.com/artist/3QubzJpthCbzrOI1bisB0d"
-        }
-      ],
-      "duration_ms": 228798,
-      "name": "More",
-      "url": "https://open.spotify.com/track/0hFyyBF7BntGhLPffwliYh"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Into The Wild",
         "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 168096,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/0OP9HYBOIsuXYluIctWpuN"
+      },
+      "artists": [
+        {
+          "name": "Katy Weirich",
+          "url": "https://open.spotify.com/artist/3QubzJpthCbzrOI1bisB0d"
+        }
+      ],
+      "duration_ms": 228798,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0hFyyBF7BntGhLPffwliYh"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "God Is On The Throne",
-        "url": "https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "God Is On The Throne",
-      "url": "https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Well Done",
         "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 222693,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "God Is On The Throne",
+        "url": "https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "God Is On The Throne",
+      "url": "https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9"
     },
     {
       "added_at": "2022-10-29 07:17:38",

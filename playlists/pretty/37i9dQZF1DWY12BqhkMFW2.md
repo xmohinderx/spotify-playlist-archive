@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,641 likes - 35 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,807 likes - 35 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 4 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
 | 5 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 |
 | 6 | [Sweet Thing](https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 3:45 |
-| 7 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:41 |
-| 8 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
+| 7 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
+| 8 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:41 |
 | 9 | [Thank God I Found You \(feat\. Joe & Nas\) \- Make It Last Remix Edit](https://open.spotify.com/track/6nTcn8CybBcx0t7IaXEJ6O) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Clue](https://open.spotify.com/artist/4ybJiTIMVzeVOd00nI8Xxm), [Supa Engineer "Duro"](https://open.spotify.com/artist/04PvD1Anr3LC341vrIWXsf) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:11 |
 | 10 | [Million](https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Million](https://open.spotify.com/album/47KopnVrimQ96IMZqMU6EU) | 4:31 |
 | 11 | [Feel Like Makin' Love](https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:22 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 30 | [Open Your Eyes](https://open.spotify.com/track/6zteCNciM9nCkDUa86oH3R) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Sketches Of A Man](https://open.spotify.com/album/7JmLvvLBFLczkeKOuEmeiH) | 3:21 |
 | 31 | [What's Going On \- Live At Spotify, NY/2012](https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Spotify Sessions](https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K) | 4:41 |
 | 32 | [Zoom](https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr) | [Big Bub](https://open.spotify.com/artist/3CgFQVOvg4sK8vaGtXPIJ4) | [Timeless](https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD) | 5:55 |
-| 33 | [Don't Disturb This Groove](https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:37 |
-| 34 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 |
-| 35 | [All of Me \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [All of Me \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA) | 3:35 |
+| 33 | [All of Me \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [All of Me \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA) | 3:35 |
+| 34 | [Don't Disturb This Groove](https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:37 |
+| 35 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 |
 
-Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMDI5N2Q0YjRlMWYxZDkzOTJkYTNjZmRjMTIyY2JlY2Ez`
+Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMGMyMjA4ZTAwZGU0OWU2ZTFkNTNmMmY5OTA5MmMxMjQ2`

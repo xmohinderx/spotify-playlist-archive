@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,531 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,937 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,15 +79,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 69 | [One Finger and a Fist](https://open.spotify.com/track/6PdEKf8CyyZfrFAGFi37gb) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Resilience \(Deluxe\)](https://open.spotify.com/album/46NkCKf9l9TVHryLpDSkr2) | 3:06 |
 | 70 | [That Day](https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN) | 3:30 |
 | 71 | [Game Over](https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:36 |
-| 72 | [Shadows Inside](https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Shadows Inside](https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi) | 3:56 |
-| 73 | [Firepower](https://open.spotify.com/track/3uDNzcGyRINKSFedKCvEwB) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:27 |
+| 72 | [Firepower](https://open.spotify.com/track/3uDNzcGyRINKSFedKCvEwB) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:27 |
+| 73 | [Shadows Inside](https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Shadows Inside](https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi) | 3:56 |
 | 74 | [Memento Mori](https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 5:48 |
 | 75 | [A Man with a Plan](https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [A Man with a Plan](https://open.spotify.com/album/21oFR2AOxOiVXa99ZJCkhP) | 2:59 |
 | 76 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 \- Remaster\)](https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l) | 7:18 |
 | 77 | [The Sin and the Sentence](https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:49 |
 | 78 | [Brotherhood of the Snake](https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Brotherhood of the Snake](https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu) | 4:13 |
-| 79 | [Over It](https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:47 |
-| 80 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 |
+| 79 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 |
+| 80 | [Over It](https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:47 |
 | 81 | [Beat the Bastards](https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Blood of the Nations](https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4) | 5:24 |
 | 82 | [From The Pinnacle To The Pit](https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:02 |
 | 83 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 99 | [Maximize](https://open.spotify.com/track/43SK9pr4z0KjxCU6Urll9S) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MAXIMALISM](https://open.spotify.com/album/3JsTgs4JiSmbVwkkfY5vAh) | 3:10 |
 | 100 | [Dying for an Angel \- The Wicked Symphony](https://open.spotify.com/track/7dIOlmWKSZoaKXtFZw5Lm5) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa) | [The Wicked Symphony](https://open.spotify.com/album/60eZe7AFmKL69PBFVGCwUU) | 4:31 |
 
-Snapshot ID: `MTY2OTkxMjA1NywwMDAwMDAwMGY4YjFjMjk1OTAyMjlhY2M1ZTZlNmY1NTYyODdlMDFm`
+Snapshot ID: `MTY2OTkxMjA1NywwMDAwMDAwMDkwODZmNTMxNTJiOGNiNzdhMmU4YzFlNmI1OTg3OGNj`

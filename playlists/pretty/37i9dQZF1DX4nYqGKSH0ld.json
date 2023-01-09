@@ -1,12 +1,12 @@
 {
   "description": "Get ready for good feels and fireworks!",
-  "num_followers": 132836,
+  "num_followers": 132826,
   "original_name": "4th of July Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk2NzU0MiwwMDAwMDAwMGI0YmJkOGE3MjhlN2ZhNjJlNTI3YjI2MTFiY2EwMGMy",
+  "snapshot_id": "MTY1Njk2NzU0MiwwMDAwMDAwMDA4YTEwY2M0NjgwZTNhYTljYjdjYjNlMGFmZTk1OTQ2",
   "tracks": [
     {
       "added_at": "2022-07-04 20:41:30",
@@ -655,26 +655,6 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
       "added_at": "2022-07-04 20:41:30",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
     },
     {
       "added_at": "2022-07-04 20:41:30",

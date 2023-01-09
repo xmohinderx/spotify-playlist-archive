@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,830 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,906 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 22 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
 | 23 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
 | 24 | [Love It If We Made It](https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:12 |
-| 25 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 |
-| 26 | [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 |
+| 25 | [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 |
+| 26 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 |
 | 27 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:07 |
 | 28 | [Hallucinogenics](https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:07 |
 | 29 | [Cold Cold Cold](https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:34 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 53 | [Salt And The Sea](https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 4:30 |
 | 54 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 |
 | 55 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
-| 56 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
-| 57 | [High And Low](https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 3:44 |
+| 56 | [High And Low](https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 3:44 |
+| 57 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
 | 58 | [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 |
 | 59 | [Sweet Disaster](https://open.spotify.com/track/7bEDDsy2LFC0KSqhZp5nPE) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:25 |
 | 60 | [High](https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 74 | [The Best](https://open.spotify.com/track/1t4wa5r7E7oZ2D4G07JFsI) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/4lO7GONtjBvEqVDc5UQurZ) | 3:43 |
 | 75 | [The Steps](https://open.spotify.com/track/5X2RisOZS9i5MsR8EVw58p) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 4:07 |
 
-Snapshot ID: `MTY0Mzk1MDg2MCwwMDAwMDAwMGMzMTNmMDc2ZjExZjUxN2EwMzU2Nzg0YmUzY2MwNzc3`
+Snapshot ID: `MTY0Mzk1MDg2MCwwMDAwMDAwMDI4ZDhlYWZmZWQ4MTczZTAxMGM2Yjg0MzA0YzI1OGJj`

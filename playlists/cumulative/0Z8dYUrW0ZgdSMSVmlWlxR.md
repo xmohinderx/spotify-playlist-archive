@@ -4,7 +4,7 @@
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-273 songs - 13 hr 17 min
+276 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,9 @@
 | [alone](https://open.spotify.com/track/4DOQULDZcy6W3mNKtuAZpz) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [alone](https://open.spotify.com/album/6io6hr34sIRqIuyqvvO2LT) | 2:34 | 2022-07-28 | 2023-01-06 |
 | [Alpha](https://open.spotify.com/track/34suMP5fG78QH2hnM0RaG1) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44) | [Alpha](https://open.spotify.com/album/6RaQu9rUDZhkwV0wE9SINC) | 4:07 | 2022-02-15 |  |
 | [Alucard](https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo) | [Manny Force](https://open.spotify.com/artist/2Jv94ffHaw54qIhVAQp7KU), [Gravity in Space](https://open.spotify.com/artist/3R4wOxBYTNKIw48JzCFLIZ), [ONIEIGHT](https://open.spotify.com/artist/5rVuLxCcmw7Wu7rZljefdq) | [Alucard](https://open.spotify.com/album/7mgmq6iPdy9wU5Fq400Ho2) | 2:08 | 2023-01-07 |  |
+| [Anadrol](https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Anadrol](https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY) | 2:19 | 2023-01-08 |  |
 | [Anavar](https://open.spotify.com/track/4C2R8S3ml3ySAhCdknVJUg) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Anavar](https://open.spotify.com/album/0308pmZBknBPgx0LxON0P9) | 2:38 | 2022-01-29 |  |
+| [ANUBIS](https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [ANUBIS](https://open.spotify.com/album/32ZaJnILSwK9EKayZbZMmr) | 2:11 | 2023-01-08 |  |
 | [ANUBIS](https://open.spotify.com/track/4MAchystlBBEC4oRUL0MhH) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Netuh](https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG) | [ANUBIS](https://open.spotify.com/album/3N8ejH1nfopZNW9xDihd6Y) | 1:55 | 2022-08-17 |  |
 | [Apaonye Asolsin \- Hardstyle Remix](https://open.spotify.com/track/6qFHexlcrU7vFaI0DaNCO5) | [Tooz](https://open.spotify.com/artist/4CxFjw8gtxkYR5LKv3a6kN), [visioner.](https://open.spotify.com/artist/5CtxnpzYVtlwYM3JeO06tL) | [Apaonye Asolsin](https://open.spotify.com/album/4Y8q9lNTJDM9fEcQGL14Yy) | 2:06 | 2022-07-20 |  |
 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 | 2022-03-19 |  |
@@ -65,8 +67,8 @@
 | [DeadZone](https://open.spotify.com/track/2OgjidrCr57rMIuY7wOhgQ) | [BXGR](https://open.spotify.com/artist/3fdxkVo2kXeE4F39l26bGH) | [DeadZone](https://open.spotify.com/album/18olMobeSegLwJcEmn1JJT) | 2:03 | 2022-03-11 |  |
 | [DECIMATION](https://open.spotify.com/track/2MhqbCuwFJg7yKwcbhoC6x) | [Cuileann](https://open.spotify.com/artist/2aBUhzTNq0sTw86nFKkopk) | [DECIMATION](https://open.spotify.com/album/2wXFW49Du75ioKYcTCJ6bs) | 2:41 | 2022-03-26 |  |
 | [DEMON SLAYER](https://open.spotify.com/track/18QEYQz7U56d9E7u1kK89w) | [Oliver C Beats](https://open.spotify.com/artist/4Ms6ibYanUiQmLfBQTL2jn) | [DEMON SLAYER](https://open.spotify.com/album/07jdx3l1sdi9uiCIqvDMbe) | 1:59 | 2022-10-21 |  |
-| [depression](https://open.spotify.com/track/1CQ1zKCOIxzBwYbzgmoedT) | [Tatli](https://open.spotify.com/artist/0Nn1YLqJpJVzJ5B21JWpLA) | [depression](https://open.spotify.com/album/6A1Tef2LbeQMTacqqRb4YL) | 2:19 | 2022-07-28 |  |
-| [Did You Forget Who I Am? \(Tiktok\)](https://open.spotify.com/track/4qn3K3gSxyhVpCmzKozDTj) | [Shoga Kenbi](https://open.spotify.com/artist/06RXn7P9ZG7J4XjUhNOMin) | [Did You Forget Who I Am? \(Tiktok\)](https://open.spotify.com/album/4pEUTkK8K3iIH80JgdoCDa) | 1:56 | 2022-07-01 |  |
+| [depression](https://open.spotify.com/track/1CQ1zKCOIxzBwYbzgmoedT) | [Tatli](https://open.spotify.com/artist/0Nn1YLqJpJVzJ5B21JWpLA) | [depression](https://open.spotify.com/album/6A1Tef2LbeQMTacqqRb4YL) | 2:19 | 2022-07-28 | 2023-01-09 |
+| [Did You Forget Who I Am? \(Tiktok\)](https://open.spotify.com/track/4qn3K3gSxyhVpCmzKozDTj) | [Shoga Kenbi](https://open.spotify.com/artist/06RXn7P9ZG7J4XjUhNOMin) | [Did You Forget Who I Am? \(Tiktok\)](https://open.spotify.com/album/4pEUTkK8K3iIH80JgdoCDa) | 1:56 | 2022-07-01 | 2023-01-09 |
 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 | 2022-02-15 |  |
 | [DISGUSTING!](https://open.spotify.com/track/00Vy5lKB6e40kKZONUCATl) | [Undead Papi](https://open.spotify.com/artist/0oahYd3VWxnAka5gHpY3D0), [Saush](https://open.spotify.com/artist/5YvL0AvwZMERib1LHtnRAX) | [DISGUSTING!](https://open.spotify.com/album/0LQ4gSVHZbFSAQMpZMZX1d) | 2:08 | 2022-10-30 |  |
 | [Disobey](https://open.spotify.com/track/5Ouuz2mxQIsBMC51fhVAbS) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Watch Me Burn](https://open.spotify.com/album/4S1yCE39l3p9mvQT7oXAeh) | 3:12 | 2022-04-28 |  |
@@ -133,6 +135,7 @@
 | [King & Ashley](https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [King & Ashley](https://open.spotify.com/album/31usMFo80loZLgeHF7yljO) | 3:23 | 2022-03-26 |  |
 | [Kingslayer \(feat\. BABYMETAL\)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2022-03-26 |  |
 | [KNIGHT](https://open.spotify.com/track/3oN1sJcKLYbc8z4tO6sjVE) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [KNIGHT](https://open.spotify.com/album/3bAXICFyUXi62zJocAPhd3) | 2:02 | 2022-02-15 |  |
+| [KNIGHT II](https://open.spotify.com/track/02GhWUHTzx0OfCshU5tXqs) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [KNIGHT II](https://open.spotify.com/album/6vQX5L9FKZZRxBKWKtaxDZ) | 2:06 | 2023-01-08 |  |
 | [Koshiro](https://open.spotify.com/track/6bolUmlBxzHTrQf9nQFE4F) | [Exyz](https://open.spotify.com/artist/6c0ChncE21EHvTk9Kfl5Qo), [SENZO](https://open.spotify.com/artist/53S6AU9AAWc63yMMg2jnfN) | [Kaihou EP](https://open.spotify.com/album/7E65jUT9RAoJN2jxgbyVIW) | 2:45 | 2022-01-31 |  |
 | [KRILYA](https://open.spotify.com/track/3ESTNmAMjYDoZ3jYCYCO6V) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [KRILYA](https://open.spotify.com/album/2qEyl6xHoorAggPYh5EAtk) | 3:51 | 2022-06-06 |  |
 | [Legacy](https://open.spotify.com/track/3oE6fHMIRbSTytRZxoQuIn) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44) | [Phantom](https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn) | 5:01 | 2022-02-20 |  |
@@ -170,7 +173,7 @@
 | [Nothing Divine](https://open.spotify.com/track/6VGwM2pIpiQzcaz8GYtgXv) | [Hatred City](https://open.spotify.com/artist/65jFZpzCwgyhmI0HPswalI) | [Nothing Divine](https://open.spotify.com/album/5U5nRsJ90TNWEBw3ssjhBV) | 3:19 | 2022-08-19 |  |
 | [Oblivion](https://open.spotify.com/track/4TqjqcTFQcabvaFwDFyf2D) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44) | [Phantom](https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn) | 3:42 | 2022-02-15 |  |
 | [Ocean's Call](https://open.spotify.com/track/6JOnEljGgj6FsIvzAnfPbF) | [Esprit D'Air](https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD) | [Oceans](https://open.spotify.com/album/066RpUMirkDRbBWvcyB3QT) | 2:55 | 2022-09-27 |  |
-| [outofmyhead](https://open.spotify.com/track/0rJ5OEuAll08ZnvlpjL3rC) | [Fallen Shrine](https://open.spotify.com/artist/5RUegO7cvUN34ZdqMq2jTi) | [outofmyhead](https://open.spotify.com/album/6b8lYYfEIY87pDqcyaHBMW) | 3:04 | 2022-04-10 |  |
+| [outofmyhead](https://open.spotify.com/track/0rJ5OEuAll08ZnvlpjL3rC) | [Fallen Shrine](https://open.spotify.com/artist/5RUegO7cvUN34ZdqMq2jTi) | [outofmyhead](https://open.spotify.com/album/6b8lYYfEIY87pDqcyaHBMW) | 3:04 | 2022-04-10 | 2023-01-09 |
 | [OVERDO$E](https://open.spotify.com/track/2QUAM6GL6MpxUgMg50VUWG) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [OVERDO$E](https://open.spotify.com/album/0MfyfjvC5cZUu3E3g1gvDe) | 3:01 | 2022-04-17 |  |
 | [Overloader](https://open.spotify.com/track/10LesMfLb1Kv8FwOLHxDVA) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [Overloader](https://open.spotify.com/album/3vN7d5BqkG6zeiJpQdiyeN) | 2:37 | 2022-02-15 |  |
 | [Overlord](https://open.spotify.com/track/5cRkdQCbLB2nqx2voHKFpB) | [kirakira](https://open.spotify.com/artist/73dSW1k3dqO5tGxLp3p3MW) | [SAN](https://open.spotify.com/album/5T9y4Wc3JeCU2qJt3dmOdp) | 2:14 | 2022-08-22 |  |

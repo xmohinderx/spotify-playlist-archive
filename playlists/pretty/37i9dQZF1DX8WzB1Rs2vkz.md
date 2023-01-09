@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 
 > ¡Un amor que te hace bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,963 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,066 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 28 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
 | 29 | [Cuando Nos Volvamos a Encontrar \(feat\. Marc Anthony\)](https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 4:38 |
 | 30 | [Persona Ideal](https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Millenium Hits](https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof) | 4:41 |
-| 31 | [Dos Locos](https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Confesiones](https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e) | 4:06 |
-| 32 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 31 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 32 | [Dos Locos](https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Confesiones](https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e) | 4:06 |
 | 33 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 |
 | 34 | [La Bilirrubina](https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:05 |
 | 35 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 49 | [Burbujas de Amor](https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:10 |
 | 50 | [Bésame](https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bésame](https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT) | 2:50 |
 
-Snapshot ID: `MTY2MTkzMDI0OCwwMDAwMDAwMGMzNGE1ZTFiMmIxNzBjY2JiYmFhNTRiMTAwZWM3MTgz`
+Snapshot ID: `MTY2MTkzMDI0OCwwMDAwMDAwMDBmZWVjZmIyODM0MDUzNTc3ZGE0MjFjMTRkMGZhMmY4`

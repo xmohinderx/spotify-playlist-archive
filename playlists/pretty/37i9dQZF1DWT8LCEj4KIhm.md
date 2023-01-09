@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,983 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,981 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 54 | [Sexy](https://open.spotify.com/track/7rB1GMCXdmSvPTgzPAjJtz) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kosha Dillz](https://open.spotify.com/artist/64ea3gojfUUFJSJiyZbVK7) | [Sexy](https://open.spotify.com/album/7cnjwAHHRlwL1QZGv25an6) | 2:46 |
 | 55 | [Wait For Me \(feat\. Goody Grace & Tory Lanez\)](https://open.spotify.com/track/7oEll6CiWAejF2oFXH4j9e) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Wait For Me \(feat\. Goody Grace & Tory Lanez\)](https://open.spotify.com/album/5am29BcW1mSfkZkH0pG9t3) | 2:41 |
 | 56 | [Wrong About You](https://open.spotify.com/track/6ApMOK4YBFt2eIo4YSAFDO) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Wrong About You](https://open.spotify.com/album/42hc0SqJxcG4nxepWi6pfq) | 3:15 |
-| 57 | [Dans la peau \(Anxiety\)](https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Dans la peau \(Anxiety\)](https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq) | 3:03 |
-| 58 | [Fuego](https://open.spotify.com/track/3fioUBORpFuvNIL8RIwuGU) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Irréversible](https://open.spotify.com/album/5AHWRtchHWxLyQcCD6hflC) | 4:17 |
+| 57 | [Fuego](https://open.spotify.com/track/3fioUBORpFuvNIL8RIwuGU) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Irréversible](https://open.spotify.com/album/5AHWRtchHWxLyQcCD6hflC) | 4:17 |
+| 58 | [Dans la peau \(Anxiety\)](https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Dans la peau \(Anxiety\)](https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq) | 3:03 |
 | 59 | [Run Run](https://open.spotify.com/track/5EdRhj2IJk4ksPznbraFh4) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Morgan Bosman](https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2) | [Run Run](https://open.spotify.com/album/2EbF2TU0jbwrWtX7oLj4Wb) | 3:43 |
 | 60 | [Chains \(with Project 46\)](https://open.spotify.com/track/7IcfnHpe6bvwdUmBIFpKSU) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Chains \(with Project 46\)](https://open.spotify.com/album/6kkx5LkX5fb4C1Jr3Vo6iO) | 3:43 |
 | 61 | [P6](https://open.spotify.com/track/3jVJeAslQXRX5FEnOu0NEP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [P6](https://open.spotify.com/album/3w6GFeovX4Maso1xtfWFRv) | 3:38 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 68 | [Mandown](https://open.spotify.com/track/132YTq9H9lyKo0swHhAnqI) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Mandown](https://open.spotify.com/album/31h7LmPhUb1QiZWdB6RBVt) | 3:04 |
 | 69 | [Barquette](https://open.spotify.com/track/7cWl7ZJwmuvwxYroIq8eY3) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 2:32 |
 | 70 | [Miroir](https://open.spotify.com/track/0Eolm1QSRMxzaVS3w8JxW1) | [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Miroir](https://open.spotify.com/album/2P8kIb8QyEW46PLCGbhFgS) | 3:19 |
-| 71 | [Girl Code](https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh) | [Mikalya](https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f), [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Girl Code](https://open.spotify.com/album/5uB4Q0FuEmGPweQ1pT83nr) | 2:23 |
-| 72 | [Bientôt](https://open.spotify.com/track/1wX7nWzrolWpnPKp09fhlk) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [maison](https://open.spotify.com/album/2fzWviAbjksegQijmpa433) | 3:08 |
-| 73 | [Faire la fête](https://open.spotify.com/track/3IgiHFixYUbhXSWpEWlW0D) | [Jacobus](https://open.spotify.com/artist/1nNrgL7FuM2jY8DI5GdyZ7), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Faire la fête](https://open.spotify.com/album/1auuOciKDCZF7BVNXLRugS) | 3:19 |
-| 74 | [L’orage](https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [L'orage](https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j) | 3:14 |
+| 71 | [Bientôt](https://open.spotify.com/track/1wX7nWzrolWpnPKp09fhlk) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [maison](https://open.spotify.com/album/2fzWviAbjksegQijmpa433) | 3:08 |
+| 72 | [Girl Code](https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh) | [Mikalya](https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f), [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Girl Code](https://open.spotify.com/album/5uB4Q0FuEmGPweQ1pT83nr) | 2:23 |
+| 73 | [L’orage](https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [L'orage](https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j) | 3:14 |
+| 74 | [Faire la fête](https://open.spotify.com/track/3IgiHFixYUbhXSWpEWlW0D) | [Jacobus](https://open.spotify.com/artist/1nNrgL7FuM2jY8DI5GdyZ7), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Faire la fête](https://open.spotify.com/album/1auuOciKDCZF7BVNXLRugS) | 3:19 |
 | 75 | [Sous les rivières](https://open.spotify.com/track/3tQUAxWJ1OQVg6E5QmU2W4) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Le tournant \(Deluxe\)](https://open.spotify.com/album/3aTjsAPRs4s8KShwk8wIDW) | 3:38 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDFlNmUyNmJiM2MzODgyMmVkZWMyZjhkNzM4NWM0MmE3`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDQwMGU4NTM5MTg4ZjkyOWYxY2M1NzcyYjdlODNiOTZl`

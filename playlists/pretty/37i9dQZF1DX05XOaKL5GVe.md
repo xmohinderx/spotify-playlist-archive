@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 
 > Tesoros musicales del ayer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,659 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,325 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 33 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
 | 34 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
 | 35 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
-| 36 | [Qué Tiene la Niña](https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [El Fenómeno](https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c) | 2:39 |
-| 37 | [Gema](https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:32 |
+| 36 | [Gema](https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:32 |
+| 37 | [Qué Tiene la Niña](https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [El Fenómeno](https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c) | 2:39 |
 | 38 | [Todo Se Derrumbó Dentro de Mí](https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 5:12 |
 | 39 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1MtVzUD3q6z3NmppCZcCDb) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [De Piel Negra](https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg) | 4:38 |
 | 40 | [Amor de Estudiante](https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:10 |
 | 41 | [A Esa](https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Personalidad](https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY) | 3:08 |
 | 42 | [O Quizás Simplemente Le Regale una Rosa](https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:19 |
-| 43 | [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 4:05 |
-| 44 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 |
+| 43 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 |
+| 44 | [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 4:05 |
 | 45 | [Rondando Tu Esquina](https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 2:38 |
 | 46 | [Mi Amiga, Mi Esposa, Mi Amante](https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 3:03 |
 | 47 | [Prometimos No Llorar](https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:22 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 65 | [Corazón mágico](https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Grandes Éxitos](https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U) | 3:18 |
 | 66 | [Adoro](https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:21 |
 | 67 | [Amada Amante](https://open.spotify.com/track/1EjTQ72d5YuDI3yD3n5e4a) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Un Gato En La Oscuridad](https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm) | 4:20 |
-| 68 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Mis Favoritas](https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj) | 2:55 |
-| 69 | [Cómo Quisiera Decirte](https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 2:49 |
+| 68 | [Cómo Quisiera Decirte](https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 2:49 |
+| 69 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Mis Favoritas](https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj) | 2:55 |
 | 70 | [Yo No Nací para Amar](https://open.spotify.com/track/5x45XdMQ6rgqIUVadroUvS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2) | 4:26 |
 | 71 | [El Triste](https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:16 |
 | 72 | [Al Final](https://open.spotify.com/track/3yeT1oIBRGuEhOb3OCvL2z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 99 | [Rosas en el Mar](https://open.spotify.com/track/1CzxmV2RMlY7RoYN6Jd85S) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 3:47 |
 | 100 | [La Montaña \(A Montanha\)](https://open.spotify.com/track/4VlGrvfdv6p3DoFUaN2sph) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Mensajes De Fé](https://open.spotify.com/album/0fn4QTKt2uL68GexFfRhS5) | 3:46 |
 
-Snapshot ID: `MTY3Mjc5MjcyMywwMDAwMDAwMDZlZGU5ODY4YTE0OTE5YjM2NDMyODM0Njk0ZTE5OWI5`
+Snapshot ID: `MTY3Mjc5MjcyMywwMDAwMDAwMGE2NjliYzJhYjI3MWVkNTlkOTJkMjI5MmUwOGEzNTkw`

@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
+        "url": "https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271089,
+      "name": "Oklahoma City - Live",
+      "url": "https://open.spotify.com/track/6qtsmjLGlyoTlUMjV7Xx1C"
+    },
+    {
+      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },

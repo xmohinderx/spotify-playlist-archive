@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,261 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,311 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,14 +62,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 52 | [Tides](https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:15 |
 | 53 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 |
 | 54 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 |
-| 55 | [Choker](https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:43 |
-| 56 | [Dress](https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:23 |
+| 55 | [Dress](https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:23 |
+| 56 | [Choker](https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:43 |
 | 57 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 |
 | 58 | [BETTER OFF DEAD](https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:35 |
 | 59 | [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 |
 | 60 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:25 |
-| 61 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
-| 62 | [Better Days](https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Better Days](https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ) | 2:24 |
+| 61 | [Better Days](https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Better Days](https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ) | 2:24 |
+| 62 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
 | 63 | [KULT \(feat\. Jasiah\)](https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [KULT \(feat\. Jasiah\)](https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl) | 2:57 |
 | 64 | [Body And Mind](https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:06 |
 | 65 | [Rain \(from The Suicide Squad\)](https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rain \(from The Suicide Squad\)](https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap) | 3:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 79 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 2:49 |
 | 80 | [Twinkle Twinkle](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDgwMWZlMzY1YzQ3MTVlMzFkNzUyZTI1ZDUyYTk2ZWJk`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDk1ZDg5MTgwZGYwOGE2NTkzYzk0ZGFjYWIzMjZmNWIy`

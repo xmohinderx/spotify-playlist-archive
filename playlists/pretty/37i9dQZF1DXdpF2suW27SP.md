@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Kosmo Da Gun e Julinho Ksd entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,412 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,414 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 7 | [CARO](https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CARO](https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP) | 3:57 |
 | 8 | [Oskey](https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Milo & Fabio](https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo) | [Oskey](https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex) | 3:18 |
 | 9 | [Beijo](https://open.spotify.com/track/2P9UCbKe97jD0q6UOG7bsf) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Beijo](https://open.spotify.com/album/1aSuvQp44qKjLvTMFheNDK) | 3:23 |
-| 10 | [Hallywud](https://open.spotify.com/track/37OHWelZZiuSZwUzV9Sybv) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [Hallywud](https://open.spotify.com/album/3lAS3tiXJyjOkyDYXCd5YS) | 3:01 |
+| 10 | [HALLYWUD](https://open.spotify.com/track/37OHWelZZiuSZwUzV9Sybv) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [HALLYWUD](https://open.spotify.com/album/3lAS3tiXJyjOkyDYXCd5YS) | 3:01 |
 | 11 | [Beber Para Esquecer](https://open.spotify.com/track/76kNdRaqzgvYGB9tBIxUSf) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Beber Para Esquecer](https://open.spotify.com/album/3kHspN9UQgOo4q8f3y7N3K) | 3:03 |
 | 12 | [Gorillaz](https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Gorillaz](https://open.spotify.com/album/6fUyo3fkgWK66QRXO6VCjF) | 3:38 |
 | 13 | [Chauffeur](https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Chauffeur](https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK) | 4:26 |

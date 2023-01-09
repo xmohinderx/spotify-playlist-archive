@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > sparkling, shimmery synth pop ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,985 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,247 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 32 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 |
 | 33 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 |
 | 34 | [PIECES](https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PIECES](https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo) | 2:46 |
-| 35 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 |
-| 36 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 |
+| 35 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 |
+| 36 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 |
 | 37 | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD) | 2:19 |
 | 38 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 |
 | 39 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 49 | [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 |
 | 50 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 |
 | 51 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 |
-| 52 | [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 |
-| 53 | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/track/4APRlSlJJC1iHdTwHHEc8a) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/album/42PJrf36sVECeasPyOxVSL) | 3:18 |
+| 52 | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/track/4APRlSlJJC1iHdTwHHEc8a) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/album/42PJrf36sVECeasPyOxVSL) | 3:18 |
+| 53 | [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 |
 | 54 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 |
 | 55 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
 | 56 | [Overthinking](https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Overthinking](https://open.spotify.com/album/73w5XKOuWg456VuawuUH47) | 2:54 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 69 | [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 |
 | 70 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 |
 | 71 | [Dance Alone](https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:33 |
-| 72 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 |
-| 73 | [See You In My Dreams](https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/3r6WmUjMVoxX7iVyuXfHAO) | 2:39 |
+| 72 | [See You In My Dreams](https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/3r6WmUjMVoxX7iVyuXfHAO) | 2:39 |
+| 73 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 |
 | 74 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 |
 | 75 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 |
 
-Snapshot ID: `MTY3MjI1NTY5NCwwMDAwMDAwMGU4ZTA3NmExYTgyOWQ5ZGNkMjhkZWRlZjEzYmI1Zjg4`
+Snapshot ID: `MTY3MjI1NTY5NCwwMDAwMDAwMGUxOTVlNWZjZWMwMzU0NzBhMGIzNjI4ZWNmY2QwYjEw`

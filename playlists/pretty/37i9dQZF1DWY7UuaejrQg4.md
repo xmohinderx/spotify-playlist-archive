@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > 2018 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,790 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,890 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 29 | [Paradise](https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:42 |
 | 30 | [summer depression](https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [summer depression](https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR) | 2:31 |
 | 31 | [Just A Stranger \(feat\. Steve Lacy\)](https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 2:57 |
-| 32 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 |
-| 33 | [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 |
+| 32 | [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 |
+| 33 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 |
 | 34 | [Casio](https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:54 |
 | 35 | [TOOTIMETOOTIMETOOTIME](https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:27 |
 | 36 | [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 |
 | 37 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 |
 | 38 | [I'm with You](https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:59 |
 | 39 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 |
-| 40 | [Fool](https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 3:53 |
-| 41 | [Charcoal Baby](https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 4:02 |
+| 40 | [Charcoal Baby](https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 4:02 |
+| 41 | [Fool](https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 3:53 |
 | 42 | [Tranz](https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 2:42 |
 | 43 | [Sincerity Is Scary](https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:45 |
 | 44 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 49 | [Crush](https://open.spotify.com/track/2y7JqO7Jc7ErdOmxpvifRF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/5m3edD6VcJ23DxiLPwjDaB) | 4:26 |
 | 50 | [CHANCES](https://open.spotify.com/track/439X8jGytErRiPnaoUJHju) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g) | 3:38 |
 | 51 | [Generation Why](https://open.spotify.com/track/79e2GU4RLPjAqnijfvsXYr) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:39 |
-| 52 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 |
-| 53 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 |
+| 52 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 |
+| 53 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 |
 | 54 | [Hunger](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:34 |
 | 55 | [You & Jennifer](https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Damaged Vol\. 2](https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij) | 2:39 |
 | 56 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 92 | [Say, Can You Hear](https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Say, Can You Hear](https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK) | 3:09 |
 | 93 | [Sit Next to Me \- Stereotypes Remix](https://open.spotify.com/track/4v0CuFW0bEMBQ1gRn2mB3X) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Stereotypes](https://open.spotify.com/artist/6RqG6OjPJVHi1RAcXTxglq) | [Sit Next to Me \(Stereotypes Remix\)](https://open.spotify.com/album/0SBjLqgv3wzOb5LtvYz0zf) | 3:10 |
 | 94 | [I Can't Stand It](https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 2:57 |
-| 95 | [Forever](https://open.spotify.com/track/5VJJE6CH2Re3GCcOuubmIB) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:44 |
-| 96 | [Calm](https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Calm](https://open.spotify.com/album/4yuJkYEGuZ5cR5qMtS342L) | 3:28 |
+| 95 | [Calm](https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Calm](https://open.spotify.com/album/4yuJkYEGuZ5cR5qMtS342L) | 3:28 |
+| 96 | [Forever](https://open.spotify.com/track/5VJJE6CH2Re3GCcOuubmIB) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:44 |
 | 97 | [Heat Wave](https://open.spotify.com/track/7B0uWqVjMySfDKhtZghBkO) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 5:08 |
 | 98 | [Better](https://open.spotify.com/track/32T61xmNSIXhGkEszzs0t8) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Better \(SG Lewis x Clairo\)](https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd) | 3:13 |
 | 99 | [The Reason](https://open.spotify.com/track/41nihGw6vE5iB5SjdyzadQ) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sleeping with Roses](https://open.spotify.com/album/1wgg1RCgP9dCaCKnnwpQOW) | 3:04 |
 | 100 | [Drunk In LA](https://open.spotify.com/track/76XDNJIQpP9WGO5XASGBww) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 3:59 |
 
-Snapshot ID: `MTY0Njc1MjAyNiwwMDAwMDAwMDI4YmRmMDNiZjEyOTliZDRlNmZiYTRhMTZiOWY0MmRh`
+Snapshot ID: `MTY0Njc1MjAyNiwwMDAwMDAwMGNmYzRlMWY5MjA4ZTg4NjhhZTE0NzM1YjQzZTc1NzBi`

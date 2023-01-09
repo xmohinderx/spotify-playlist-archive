@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > Music that makes you feel like you're levitating\. Image credits: NASA
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,104 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,141 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 22 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |
 | 23 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 24 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
-| 25 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 |
+| 25 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
 | 26 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 |
-| 27 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
+| 27 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 |
 | 28 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
 | 29 | [PRIDE.](https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:35 |
 | 30 | [Penny](https://open.spotify.com/track/24wiwgyKLZ36y1HwL5M5Yw) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Penny](https://open.spotify.com/album/4aTl0bLTNY0GMApLdUOlkt) | 2:45 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 45 | [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 |
 | 46 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 |
 | 47 | [Cornfield Chase](https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 2:06 |
-| 48 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
-| 49 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
-| 50 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 |
+| 48 | [Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:32 |
+| 49 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
+| 50 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
 
-Snapshot ID: `MTY3Mjk0Mzk2NCwwMDAwMDAwMDhkMmJmODdiODQ2YzJlMGM3MzIwYjJjMmI5YWJjNGQz`
+Snapshot ID: `MTY3Mjk0Mzk2NCwwMDAwMDAwMDI3ZjQ0ZTU2NDkyMWE1YzY2YWUxNjlhNWUwNWZkNTBk`

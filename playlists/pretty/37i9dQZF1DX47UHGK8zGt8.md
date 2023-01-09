@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,431 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,893 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 22 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 |
 | 23 | [Á Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 |
 | 24 | [Pode Se Achegar](https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Pode Se Achegar](https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge) | 3:48 |
-| 25 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 |
-| 26 | [Felicidade](https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:12 |
-| 27 | [De Janeiro a Janeiro](https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Varrendo a Lua](https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm) | 3:10 |
+| 25 | [Felicidade](https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:12 |
+| 26 | [De Janeiro a Janeiro](https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Varrendo a Lua](https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm) | 3:10 |
+| 27 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 |
 | 28 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 |
 | 29 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 |
 | 30 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 47 | [Andarilho](https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Andarilho](https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0) | 3:50 |
 | 48 | [Acalanto](https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 3:44 |
 | 49 | [Isn't She Lovely](https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 1:26 |
-| 50 | [Um amor puro](https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Um amor puro](https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO) | 4:45 |
+| 50 | [Duas da Tarde](https://open.spotify.com/track/7chMvjylTedOhNEnRQzBYj) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 3:41 |
 
-Snapshot ID: `MTY3Mjk3NDAwMCwwMDAwMDAwMDNlYTMwYTZkMGRkNzk1MzM2OTE2OGM2OTcyNTZkYzkz`
+Snapshot ID: `MTY3Mjk3NDAwMCwwMDAwMDAwMDk4Y2E0ZDNkNmRjMWFkNjc5OThhMTljOTEwZTM0MTM5`

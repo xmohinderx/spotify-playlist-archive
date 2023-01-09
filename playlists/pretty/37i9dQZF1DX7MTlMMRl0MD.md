@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,875,580 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,875,800 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 55 | [Quien Sabe](https://open.spotify.com/track/4vOWNHRx4FGlQhs0pyxgJl) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 4:29 |
 | 56 | [Veterana](https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Veterana](https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A) | 3:14 |
 | 57 | [Me Puedo Matar](https://open.spotify.com/track/5nHpjvTs9EQoK755qThyHt) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [Bachat Heightz](https://open.spotify.com/artist/2K2jez7AWc6Eb7w74DSWVg) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:24 |
-| 58 | [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 |
-| 59 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
+| 58 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
+| 59 | [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 |
 | 60 | [La Bachata](https://open.spotify.com/track/03sVjqRZTzKbCDjroICASq) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [La Bachata](https://open.spotify.com/album/11lLUZQgWDj6Vy1s765yBy) | 3:04 |
 | 61 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
 | 62 | [Cuento Breve](https://open.spotify.com/track/28BXqWI9e4hPMyJizqOQLT) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 99 | [Me Provocas](https://open.spotify.com/track/0Sn3X6TZI6NK73DX6hMnhD) | [Jay Ramirez](https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB) | [Me Provocas](https://open.spotify.com/album/7bnfanPjPlW2BeBqq6aFUQ) | 3:23 |
 | 100 | [Antes del Lunes](https://open.spotify.com/track/6yVGk00COgjDJbHELkO109) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Este Soy Yo](https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ) | 3:42 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGIwNGVlYTdlMTE1M2E3NjI2ODkwYzk4MmNkMjJiY2Vm`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDc5NGNiZWNhZDc2OGM5NDk5OWU2NzE4ODdmNmNhNjAz`

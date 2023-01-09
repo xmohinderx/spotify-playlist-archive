@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s.\n",
-  "num_followers": 2741934,
+  "num_followers": 2742619,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjMxMDQ4MywwMDAwMDAwMGU5ZTAzODYxMzI2N2JjYzliNTJkOWFlN2E0MTVkZDkx",
+  "snapshot_id": "MTY3MjMxMDQ4MywwMDAwMDAwMGRlYTg5YTAyY2FkYjViOWJhMzc0ODc1MTI4ZGQyMjFi",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Ring Of Fire: The Best Of Johnny Cash",
+        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "L-O-V-E",
         "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Ring Of Fire: The Best Of Johnny Cash",
-        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
+        "name": "I Got You (I Feel Good)",
+        "url": "https://open.spotify.com/album/5UqTOjkfRMzkORwpeOWtt3"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
         }
       ],
-      "duration_ms": 158426,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
+      "duration_ms": 165800,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -867,22 +883,6 @@
       "duration_ms": 147000,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "I Got You (I Feel Good)",
-        "url": "https://open.spotify.com/album/5UqTOjkfRMzkORwpeOWtt3"
-      },
-      "artists": [
-        {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "I Got You (I Feel Good)",
-      "url": "https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -999,18 +999,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
         }
       ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
+      "duration_ms": 157893,
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
       },
       "artists": [
         {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 157893,
-      "name": "Helplessly Hoping - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Presenting the Fabulous Ronettes Featuring Veronica",
         "url": "https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Parsley, Sage, Rosemary And Thyme",
         "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 149613,
       "name": "Homeward Bound",
       "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Tommy",
-        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
         }
       ],
-      "duration_ms": 180943,
-      "name": "Pinball Wizard",
-      "url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4"
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
       },
       "artists": [
         {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+      "duration_ms": 180943,
+      "name": "Pinball Wizard",
+      "url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Idea (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3LcOOTBvHj22Nl90AuRsro"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "I Started A Joke",
-      "url": "https://open.spotify.com/track/36CKza28wMxYdjdzji7ine"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Odessey and Oracle",
         "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
-        "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
+        "name": "Idea (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3LcOOTBvHj22Nl90AuRsro"
       },
       "artists": [
         {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 150000,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
+      "duration_ms": 188306,
+      "name": "I Started A Joke",
+      "url": "https://open.spotify.com/track/36CKza28wMxYdjdzji7ine"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1731,6 +1715,22 @@
       "duration_ms": 146973,
       "name": "Land of 1000 Dances",
       "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
+        "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Face to Face (Deluxe)",
-        "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 210525,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Do You Love Me (Now That I Can Dance)",
         "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 172946,
       "name": "Do You Love Me - Mono Single",
       "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Face to Face (Deluxe)",
+        "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 210525,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
-        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
@@ -2431,18 +2415,34 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 133933,
-      "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
-      "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
+      "duration_ms": 201733,
+      "name": "Try a Little Tenderness",
+      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     }
   ],
   "unique_name": "All Out 60s",

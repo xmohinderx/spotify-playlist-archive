@@ -1,12 +1,12 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 391483,
+  "num_followers": 391591,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg3OTAzNCwwMDAwMDAwMGQ1Yzc5NGJiZjlmYmNlMTMzMTU4MmZmZWExMDc2NGY3",
+  "snapshot_id": "MTY0OTg3OTAzNCwwMDAwMDAwMGU5MmE3YTcxMjAwMjI5MzkyYTAxYjkyMDJhODEzMGRm",
   "tracks": [
     {
       "added_at": "2021-08-25 20:28:57",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+    },
+    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Starboy",
@@ -671,22 +687,6 @@
       "duration_ms": 269186,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Summer Of Love",
@@ -915,22 +931,6 @@
       "duration_ms": 184104,
       "name": "Summer of Love (Shawn Mendes & Tainy)",
       "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1065,26 +1065,6 @@
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "What Dreams Are Made Of",
@@ -1103,6 +1083,26 @@
       "duration_ms": 227480,
       "name": "Locked Away (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 257839,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Red (Big Machine Radio Release Special)",
@@ -1167,6 +1151,22 @@
       "duration_ms": 219720,
       "name": "I Knew You Were Trouble.",
       "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 257839,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "Slow Hands",
-      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Cuz I Love You",
@@ -1607,6 +1591,22 @@
       "duration_ms": 195144,
       "name": "Juice",
       "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Symphony (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 212459,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "PRISM (Deluxe)",
-        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 237546,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1925,22 +1925,6 @@
       "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Chromatica",
@@ -1955,6 +1939,22 @@
       "duration_ms": 193533,
       "name": "Stupid Love",
       "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2407,22 +2407,18 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Sheesh!",
-        "url": "https://open.spotify.com/album/7aGQrZNnvPaOc0PVm7yuc5"
+        "name": "Nick Jonas X2",
+        "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
       },
       "artists": [
         {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        },
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
         }
       ],
-      "duration_ms": 148846,
-      "name": "Sheesh!",
-      "url": "https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y"
+      "duration_ms": 223106,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/2RqtfcLB7iOZj0zYB8Auhu"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2443,18 +2439,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Nick Jonas X2",
-        "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
+        "name": "Sheesh!",
+        "url": "https://open.spotify.com/album/7aGQrZNnvPaOc0PVm7yuc5"
       },
       "artists": [
         {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
         }
       ],
-      "duration_ms": 223106,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/2RqtfcLB7iOZj0zYB8Auhu"
+      "duration_ms": 148846,
+      "name": "Sheesh!",
+      "url": "https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y"
     },
     {
       "added_at": "2021-08-25 20:28:57",

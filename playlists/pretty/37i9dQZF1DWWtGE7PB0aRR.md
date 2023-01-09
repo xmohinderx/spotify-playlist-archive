@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,146 likes - 65 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,215 likes - 65 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,17 +51,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 41 | [Who Do You Love?](https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Diamonds In The Dirt](https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT) | 3:07 |
 | 42 | [I Can't Wait Much Longer](https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Twice Removed from Yesterday](https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu) | 5:21 |
 | 43 | [Little By Little \- Mono Version](https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:39 |
-| 44 | [Contemporary Chick Con Song \- Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
-| 45 | [Thunder in the Sky](https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Thunder in the Sky](https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb) | 6:36 |
+| 44 | [Thunder in the Sky](https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Thunder in the Sky](https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb) | 6:36 |
+| 45 | [Contemporary Chick Con Song \- Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
 | 46 | [Eccentric Man \- 2003 Remastered Version](https://open.spotify.com/track/4gEnYfvY1tJhV5NkE35pEu) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Bomb](https://open.spotify.com/album/5su5yHTN1f4O6IGHxhXarw) | 5:04 |
 | 47 | [Goin' Down Slow](https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 8:20 |
 | 48 | [A Hard Road](https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 3:09 |
 | 49 | [Won't Be Taken Down](https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Eyes Wide Open](https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF) | 5:57 |
 | 50 | [Man of the World](https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Twice Removed from Yesterday](https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu) | 2:42 |
 | 51 | [It's Only Love](https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ) | [Blodwyn Pig](https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw) | [Pigthology](https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli) | 3:22 |
-| 52 | [What's It Gonna Be](https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [What's It Gonna Be](https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv) | 4:16 |
-| 53 | [Blues Power](https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 3:09 |
-| 54 | [The Way It Is](https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [100 Ton Chicken](https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM) | 4:28 |
+| 52 | [Blues Power](https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 3:09 |
+| 53 | [The Way It Is](https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [100 Ton Chicken](https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM) | 4:28 |
+| 54 | [What's It Gonna Be](https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [What's It Gonna Be](https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv) | 4:16 |
 | 55 | [Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh](https://open.spotify.com/track/0IDPpYCPWQfcMJABUxqoGc) | [Climax Blues Band](https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2) | [The Climax Blues Band Plays On](https://open.spotify.com/album/7Dyfx1BcJMbajqziS2ppka) | 4:26 |
 | 56 | [Masters of War](https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58) | 4:56 |
 | 57 | [My Heart Beat Like a Hammer \- Take 2](https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:32 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 |
 | 65 | [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMGE3Y2U5ZDNhMjQ2ODU4M2Q3M2FiMWRlODViNmIyNjNi`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDY4YTc1ZGI5NTM1MjY1NmMwODM5MWJiZDFmMWNmNzRh`

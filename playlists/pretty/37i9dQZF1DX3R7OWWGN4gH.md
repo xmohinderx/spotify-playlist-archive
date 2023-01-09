@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > Lately I've been dressing for revenge
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,980 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,625 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 28 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
 | 29 | [Look What You Made Me Do](https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:31 |
 | 30 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 |
-| 31 | [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:24 |
-| 32 | [Michelle](https://open.spotify.com/track/6XrTwqp0vMc2Z3m4ttoyRe) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR) | 3:34 |
+| 31 | [Michelle](https://open.spotify.com/track/6XrTwqp0vMc2Z3m4ttoyRe) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR) | 3:34 |
+| 32 | [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:24 |
 | 33 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 |
 | 34 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 |
 | 35 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 99 | [THAT BITCH](https://open.spotify.com/track/77o1HdXHm1hLd7Ebe9ygd0) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [THAT BITCH](https://open.spotify.com/album/0kP7zWftghSBU2HVkjzcnP) | 3:21 |
 | 100 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 
-Snapshot ID: `MTY3MzAzNDcwOCwwMDAwMDAwMDA1Y2ZjYmJmYTNlYjY2NTM3OWMwZGIyZDM0ZTMzM2Vl`
+Snapshot ID: `MTY3MzAzNDcwOCwwMDAwMDAwMDhjMWQ3NjJmMDViZGU5MDVjZmQ1MjI0N2Y2NGEwYWFj`

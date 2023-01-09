@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,076 likes - 35 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,094 likes - 35 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 9 | [Memories of Mother \(feat\. Eivør\)](https://open.spotify.com/track/7nEZnpwjdAw2vCRJg2Q2xG) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:39 |
 | 10 | [Raeb's Lament](https://open.spotify.com/track/404eOIgbr1qdzcJ7BE1Xtz) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:24 |
 | 11 | [The Wedding](https://open.spotify.com/track/3yY78aWyfri4ewOKIQokna) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 3:46 |
-| 12 | [Galadriel](https://open.spotify.com/track/4aLoiQsOE0oMx0pAFLOrow) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:43 |
+| 12 | [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 |
 | 13 | [Outlander Main Title Theme \(Skye Boat Song\) \[feat\. Raya Yarbrough\]](https://open.spotify.com/track/10VIsMEvM4K2xgFvh9plJi) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander Main Title Theme \(Skye Boat Song\) \[feat\. Raya Yarbrough\]](https://open.spotify.com/album/1d0eMuR3QNb1UC6VbIkEEj) | 1:36 |
 | 14 | [A Son's Path](https://open.spotify.com/track/0bLjwGh7rtnDZrwbmF31ge) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 3:30 |
 | 15 | [Brianna and Roger Theme](https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V) | 3:24 |
-| 16 | [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 |
+| 16 | [Galadriel](https://open.spotify.com/track/4aLoiQsOE0oMx0pAFLOrow) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:43 |
 | 17 | [Fallen Through Time](https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 5:38 |
 | 18 | [Pull of the Light \(feat\. Eivør\)](https://open.spotify.com/track/6eGTqJ4IpQPqPrMMjCbdt2) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 1:44 |
 | 19 | [Ashes \(feat\. Eivør\)](https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 6:09 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 34 | [Faith](https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI) | 3:29 |
 | 35 | [Valkyries](https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 5:08 |
 
-Snapshot ID: `Mjc4ODUwNDcsMDAwMDAwMDA5YWVlZTQzMmVmYjM1MGJiY2M4YTIyYThkZGUzZmQwZQ==`
+Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA5NWM4NWExYjVlZGRhYTg3OWZmZDJhN2YyY2M3YWU4OA==`

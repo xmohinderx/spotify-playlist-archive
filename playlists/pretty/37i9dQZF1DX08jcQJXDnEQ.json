@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest Metal classics of the 90s. Cover: Deftones",
-  "num_followers": 731596,
+  "num_followers": 732183,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA1Mzc2MSwwMDAwMDAwMGE3ZTZmNzIzNDAyYTgzNDY4MWY0NTk2OTYxYjRhY2I0",
+  "snapshot_id": "MTY3MTA1Mzc2MSwwMDAwMDAwMGU0OWQ2MzMzOTlhMDBkYzFiYzE2MTYyNTQxMGQzMzNk",
   "tracks": [
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Orgasmatron",
-      "url": "https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Lights...Camera...Revolution",
         "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 348093,
       "name": "You Can't Bring Me Down",
       "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Orgasmatron",
+      "url": "https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "1916",
-        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "Love Me Forever",
-      "url": "https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Arise",
         "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 198226,
       "name": "Arise",
       "url": "https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 327546,
+      "name": "Love Me Forever",
+      "url": "https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 292586,
-      "name": "Jesus Built My Hotrod",
-      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Three Dollar Bill, Y'all $",
         "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
@@ -1423,18 +1407,34 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Rust In Peace (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
         }
       ],
-      "duration_ms": 344066,
-      "name": "Rust In Peace...Polaris - Remastered 2004",
-      "url": "https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn"
+      "duration_ms": 292586,
+      "name": "Jesus Built My Hotrod",
+      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "March Or Die",
+        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 275160,
+      "name": "Hellraiser",
+      "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
+        "name": "Rust In Peace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 344066,
+      "name": "Rust In Peace...Polaris - Remastered 2004",
+      "url": "https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
         "name": "\u00c6nima",
         "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 595613,
       "name": "Pushit",
       "url": "https://open.spotify.com/track/4CbHM5bpfOfMNxNgVDHJRw"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
-        "name": "March Or Die",
-        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 275160,
-      "name": "Hellraiser",
-      "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Empire - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
-      },
-      "artists": [
-        {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
-        }
-      ],
-      "duration_ms": 324066,
-      "name": "Empire - Remastered 2003",
-      "url": "https://open.spotify.com/track/069YqoVkrwNxnfWWj7k3Qk"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 267933,
       "name": "Negasonic Teenage Warhead",
       "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Empire - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+      },
+      "artists": [
+        {
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+        }
+      ],
+      "duration_ms": 324066,
+      "name": "Empire - Remastered 2003",
+      "url": "https://open.spotify.com/track/069YqoVkrwNxnfWWj7k3Qk"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Bloody Kisses",
-        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 675653,
-      "name": "Black No. 1 (Little Miss Scare -All)",
-      "url": "https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Powertrip",
         "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 211440,
       "name": "Powertrip",
       "url": "https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Bloody Kisses",
+        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 675653,
+      "name": "Black No. 1 (Little Miss Scare -All)",
+      "url": "https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Still Life (Remastered)",
-        "url": "https://open.spotify.com/album/5iA9ECcGKLN2BSxikuENma"
-      },
-      "artists": [
-        {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
-        }
-      ],
-      "duration_ms": 478933,
-      "name": "Face Of Melinda (Remastered)",
-      "url": "https://open.spotify.com/track/4lPvQJ48sGao1zQPfnGDPj"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Gravity Kills",
         "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 242026,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Still Life (Remastered)",
+        "url": "https://open.spotify.com/album/5iA9ECcGKLN2BSxikuENma"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "duration_ms": 478933,
+      "name": "Face Of Melinda (Remastered)",
+      "url": "https://open.spotify.com/track/4lPvQJ48sGao1zQPfnGDPj"
     },
     {
       "added_at": "2022-10-05 16:18:11",

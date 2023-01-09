@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Turnstile
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,366 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,463 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 50 | [Signs](https://open.spotify.com/track/1oQqeOUBp5MfObeodk2IbP) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Ghost Like You](https://open.spotify.com/album/2BJl3YUJVddxRRmzGXXTvj) | 4:28 |
 | 51 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 |
 | 52 | [Hypochondria](https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:49 |
-| 53 | [satellites\* \*](https://open.spotify.com/track/1sIRKUbxmRBfu3qvp2Q9FS) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 3:46 |
-| 54 | [Talking to Myself](https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
+| 53 | [Talking to Myself](https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
+| 54 | [satellites\* \*](https://open.spotify.com/track/1sIRKUbxmRBfu3qvp2Q9FS) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 3:46 |
 | 55 | [Pick Me Up](https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [I'm Hard To Love, But So Are You, Vol\. 4](https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE) | 3:23 |
 | 56 | [myfeelingshavefeelings](https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [wet milk](https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI) | 2:16 |
 | 57 | [Guillotine](https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Euthanasia](https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy) | 3:36 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 73 | [Drop Dead](https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Night Terrors](https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5) | 3:33 |
 | 74 | [Domino](https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [New Age Filth](https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh) | 4:24 |
 | 75 | [11 Minutes](https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [11 Minutes](https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO) | 3:04 |
-| 76 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
-| 77 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 |
+| 76 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 |
+| 77 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
 | 78 | [Bankrupt](https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 3:21 |
 | 79 | [Tradition](https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [The Love You Let Too Close](https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3) | 3:22 |
 | 80 | [We’ll Always Have Paris](https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Restless Heart, Keep Running](https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ) | 3:47 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 87 | [Familiar Drugs](https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Familiar Drugs](https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B) | 4:18 |
 | 88 | [Monochrome](https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 3:38 |
 | 89 | [Cold](https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [Cold](https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O) | 3:39 |
-| 90 | [No One's Listening](https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 2:50 |
-| 91 | [Break Me Down](https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
+| 90 | [Break Me Down](https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
+| 91 | [No One's Listening](https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 2:50 |
 | 92 | [Someone Else \- Underoath Remix](https://open.spotify.com/track/5zKBLSRXoRr94YOvkslsn8) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Someone Else \(Underoath Remix\)](https://open.spotify.com/album/3eXsyG5eK0VMeBMSfAVZPI) | 3:29 |
 | 93 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 |
 | 94 | [Shade](https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Dirty Talk](https://open.spotify.com/track/1U4f6DJeMHNxMjyrrl4ZeO) | [Nicolas Rage](https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf) | [Dirty Talk](https://open.spotify.com/album/5Fo3NNuzTkmZc22sfLlERT) | 2:40 |
 | 100 | [Hell Is Where The Heart Is](https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [The Dead Days](https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn) | 3:32 |
 
-Snapshot ID: `MTY3MDk2MjIxNywwMDAwMDAwMGRiMTMyY2E1YWRkMzhkNWI0N2IxYjU1NTVkMGVmOWVl`
+Snapshot ID: `MTY3MDk2MjIxNywwMDAwMDAwMDQxZWJmNDQyM2E4YjJmODdiOTEyNjJkOWQyZGFiMzIy`

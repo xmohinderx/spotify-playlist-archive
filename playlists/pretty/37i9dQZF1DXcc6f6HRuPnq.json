@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 64983,
+  "num_followers": 65131,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyOTMxNiwwMDAwMDAwMDI2NjMxM2RhODk4MTBmYzgxYWQ3NDE3Yzg1MDNiNzYy",
+  "snapshot_id": "MTY3MzAyOTMxNiwwMDAwMDAwMDMyYjA5YThkODdiZTQxNzEyMzMyMWNlMTZkODdmMWIy",
   "tracks": [
     {
       "added_at": "2023-01-06 18:21:56",
@@ -407,6 +407,38 @@
     {
       "added_at": "2023-01-06 18:21:56",
       "album": {
+        "name": "I Hear Some Blues Downstairs",
+        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
+    },
+    {
+      "added_at": "2023-01-06 18:21:56",
+      "album": {
+        "name": "Tommy Castro Presents A Bluesman Came To Town",
+        "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 316006,
+      "name": "Blues Prisoner",
+      "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
+    },
+    {
+      "added_at": "2023-01-06 18:21:56",
+      "album": {
         "name": "Heavy Load Blues",
         "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
       },
@@ -435,38 +467,6 @@
       "duration_ms": 274560,
       "name": "People Get Ready",
       "url": "https://open.spotify.com/track/1nUtE7LNXLGFEJk8kG8gE6"
-    },
-    {
-      "added_at": "2023-01-06 18:21:56",
-      "album": {
-        "name": "Tommy Castro Presents A Bluesman Came To Town",
-        "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 316006,
-      "name": "Blues Prisoner",
-      "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
-    },
-    {
-      "added_at": "2023-01-06 18:21:56",
-      "album": {
-        "name": "I Hear Some Blues Downstairs",
-        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
     },
     {
       "added_at": "2023-01-06 18:21:56",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-01-06 18:21:56",
       "album": {
+        "name": "Gee Baby Ain't I Good To You",
+        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Gee Baby Ain't I Good To You",
+      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
+    },
+    {
+      "added_at": "2023-01-06 18:21:56",
+      "album": {
         "name": "Put In a Little Time",
         "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-01-06 18:21:56",
       "album": {
-        "name": "Golden Selection (Remastered)",
-        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
-      },
-      "artists": [
-        {
-          "name": "Sunnyland Slim",
-          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Everytime I Get to Drinkin' - Remastered",
-      "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
-    },
-    {
-      "added_at": "2023-01-06 18:21:56",
-      "album": {
         "name": "Working Man",
         "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 332560,
       "name": "Let Me Be",
       "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
+    },
+    {
+      "added_at": "2023-01-06 18:21:56",
+      "album": {
+        "name": "Golden Selection (Remastered)",
+        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
+      },
+      "artists": [
+        {
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Everytime I Get to Drinkin' - Remastered",
+      "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
     },
     {
       "added_at": "2023-01-06 18:21:56",
@@ -867,22 +883,6 @@
     {
       "added_at": "2023-01-06 18:21:56",
       "album": {
-        "name": "Woman Across The River",
-        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 270600,
-      "name": "Help Me Through The Day",
-      "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
-    },
-    {
-      "added_at": "2023-01-06 18:21:56",
-      "album": {
         "name": "Bad Mouthin'",
         "url": "https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ"
       },
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-01-06 18:21:56",
       "album": {
+        "name": "Woman Across The River",
+        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 270600,
+      "name": "Help Me Through The Day",
+      "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
+    },
+    {
+      "added_at": "2023-01-06 18:21:56",
+      "album": {
         "name": "That's My Story",
         "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 214000,
       "name": "Wednesday Evenin' Blues",
       "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
-    },
-    {
-      "added_at": "2023-01-06 18:21:56",
-      "album": {
-        "name": "Gee Baby Ain't I Good To You",
-        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Gee Baby Ain't I Good To You",
-      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
     },
     {
       "added_at": "2023-01-06 18:21:56",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-01-06 18:21:56",
       "album": {
+        "name": "For Blind Willie",
+        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
+      },
+      "artists": [
+        {
+          "name": "Bror Gunnar Jansson",
+          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
+        }
+      ],
+      "duration_ms": 361970,
+      "name": "Lord I Just Can't Keep from Crying",
+      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
+    },
+    {
+      "added_at": "2023-01-06 18:21:56",
+      "album": {
         "name": "Packing My Bags",
         "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 244000,
       "name": "Midnight Hour Blues",
       "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
-    },
-    {
-      "added_at": "2023-01-06 18:21:56",
-      "album": {
-        "name": "For Blind Willie",
-        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
-      },
-      "artists": [
-        {
-          "name": "Bror Gunnar Jansson",
-          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
-        }
-      ],
-      "duration_ms": 361970,
-      "name": "Lord I Just Can't Keep from Crying",
-      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
     },
     {
       "added_at": "2023-01-06 18:21:56",

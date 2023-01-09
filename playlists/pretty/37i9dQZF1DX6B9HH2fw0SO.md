@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > 2015 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,280 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,373 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 25 | [Yes I'm Changing](https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:30 |
 | 26 | [Kill V\. Maim](https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:06 |
 | 27 | [Freak](https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:55 |
-| 28 | [Hypnotic](https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 2:56 |
-| 29 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
-| 30 | [Oceans](https://open.spotify.com/track/5eXnC2B5RU5fAhfwvV2ABD) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:35 |
-| 31 | [Meet Me in the Woods](https://open.spotify.com/track/1bqrRn1pJWowNLA5N9L6uW) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:22 |
+| 28 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
+| 29 | [Hypnotic](https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 2:56 |
+| 30 | [Meet Me in the Woods](https://open.spotify.com/track/1bqrRn1pJWowNLA5N9L6uW) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:22 |
+| 31 | [Oceans](https://open.spotify.com/track/5eXnC2B5RU5fAhfwvV2ABD) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:35 |
 | 32 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 |
 | 33 | [Special Affair](https://open.spotify.com/track/3NWTRZ0A8xKlBP1qgNftql) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 2:56 |
 | 34 | [10,000 Emerald Pools](https://open.spotify.com/track/2pA4ip3VIEVcIa3qE02oAX) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 2:54 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 70 | [Fool for Love](https://open.spotify.com/track/77x96TdWdkIia82QqU35SD) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:34 |
 | 71 | [Ship To Wreck](https://open.spotify.com/track/20NEld0MhrR4Zpgrf9brq8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:54 |
 | 72 | [Lose It](https://open.spotify.com/track/2QgNcjwEn0vGmTommfszQd) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:49 |
-| 73 | [Put a Flower in Your Pocket](https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Yours, Dreamily,](https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA) | 3:55 |
-| 74 | [Water \(feat\. Rostam\)](https://open.spotify.com/track/4WuDLbPWqwjyRvJK2jRCPS) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Need Your Light](https://open.spotify.com/album/1YWO9CZO9auWGUJWR4FlnL) | 4:40 |
+| 73 | [Water \(feat\. Rostam\)](https://open.spotify.com/track/4WuDLbPWqwjyRvJK2jRCPS) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Need Your Light](https://open.spotify.com/album/1YWO9CZO9auWGUJWR4FlnL) | 4:40 |
+| 74 | [Put a Flower in Your Pocket](https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Yours, Dreamily,](https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA) | 3:55 |
 | 75 | [Lover Come Back](https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [If I Should Go Before You](https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud) | 3:54 |
 | 76 | [Tongues](https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [KOPPS](https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK) | [How Do You Feel Now?](https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR) | 3:54 |
 | 77 | [Don't Wanna Fight](https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 99 | [Bros](https://open.spotify.com/track/6NunWZuZ6g9KipJ9Q5Vck7) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 3:44 |
 | 100 | [OctaHate](https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:24 |
 
-Snapshot ID: `MTY0MTIxOTg5NiwwMDAwMDAwMDA0M2VmOTIzYmE0MGI0NmQyMzU4ZmU4YTE4MWQ2YmQ3`
+Snapshot ID: `MTY0MTIxOTg5NiwwMDAwMDAwMDYzODYxNmYxZTQwNmYyNjIxYTA1NWFlMDUyZDZlYjYx`

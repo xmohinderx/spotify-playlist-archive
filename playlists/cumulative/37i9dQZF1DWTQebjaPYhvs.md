@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-200 songs - 12 hr 28 min
+201 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Lord Knows I Tried](https://open.spotify.com/track/7zKcfMgSincnabBwLLNsEH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [I Said a Prayer Twice for Both My Faces](https://open.spotify.com/album/6RtPOOl6JCef0oAp4MzSij) | 3:00 | 2019-06-27 |  |
 | [Love Someone](https://open.spotify.com/track/3drvPv9MzHO2QhbUgTi5T3) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Love Someone](https://open.spotify.com/album/3RLZXZluEVBUzt92OLKsm2) | 3:14 | 2019-08-23 |  |
 | [Lucky Seven](https://open.spotify.com/track/6WBo2nRguJNWTpq36GFNQv) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 4:17 | 2019-08-08 |  |
-| [Mamma Song](https://open.spotify.com/track/5EUXRdukDwEkNays7HQ3AB) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/5wSwd9cxD1Ii8yvgxUnyr3) | 4:19 | 2020-06-22 |  |
+| [Mamma Song](https://open.spotify.com/track/0FHr4lDNfkrOd0oOAiJS1H) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW) | 4:19 | 2020-06-22 |  |
+| [Mamma Song](https://open.spotify.com/track/5EUXRdukDwEkNays7HQ3AB) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/5wSwd9cxD1Ii8yvgxUnyr3) | 4:19 | 2020-06-22 | 2023-01-09 |
 | [Me And Jack](https://open.spotify.com/track/6dHvwnHL84SuSbzzzZGbVP) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD) | 4:51 | 2020-07-13 |  |
 | [Me and the Whiskey](https://open.spotify.com/track/6Bvh8a4YhNyqsafMVYlRrd) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Sonic Ranch](https://open.spotify.com/album/6FkihlChn5sSLKFAqsaqtU) | 4:32 | 2019-06-27 |  |
 | [Mercy Now](https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Mercy Now](https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW) | 5:50 | 2019-06-27 |  |

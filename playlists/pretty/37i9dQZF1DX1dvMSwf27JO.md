@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > \#ootd
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,824 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,142 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 23 | [Hypnotize \- 2007 Remaster](https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:50 |
 | 24 | [Clint Eastwood](https://open.spotify.com/track/7yMiX7n9SBvadzox8T5jzT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm) | 5:40 |
 | 25 | [Sober](https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE) | 4:12 |
-| 26 | [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 |
-| 27 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 |
+| 26 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 |
+| 27 | [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 |
 | 28 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 |
 | 29 | [Stay Fly](https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:56 |
 | 30 | [You Was Right](https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lil Uzi Vert vs\. The World](https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM) | 2:43 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 34 | [Palace/Curse \(feat\. Tyler, The Creator & Steve Lacy\)](https://open.spotify.com/track/300DUx4tdtCdGEUXR032jA) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 7:20 |
 | 35 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |
 | 36 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
-| 37 | [Diablo](https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:18 |
-| 38 | [FOMF](https://open.spotify.com/track/1q9huadusReYqEjnENS3uw) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 2:40 |
+| 37 | [FOMF](https://open.spotify.com/track/1q9huadusReYqEjnENS3uw) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 2:40 |
+| 38 | [Diablo](https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:18 |
 | 39 | [You Never Visit Me](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 |
 | 40 | [Check](https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Barter 6](https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e) | 3:50 |
 | 41 | [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 |
 | 42 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 |
 | 43 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 |
-| 44 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 |
-| 45 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 |
+| 44 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 |
+| 45 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 |
 | 46 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 |
 | 47 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 |
 | 48 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 |
 | 49 | [Milkshake](https://open.spotify.com/track/6OYt65uojulET7Kv7BRRrP) | [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW) | [Milkshake](https://open.spotify.com/album/683wuaSrwpMQHUDfhPtYun) | 1:49 |
 | 50 | [MADELINE](https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6) | 3:24 |
 
-Snapshot ID: `MTY3Mjc1NzEzOSwwMDAwMDAwMGRjM2UxY2FlZjFiODM3YzNlNzY3NDIyNDEwYzljNTJi`
+Snapshot ID: `MTY3Mjc1NzEzOSwwMDAwMDAwMGE4MDU5OTZkYWY3NzI1OTIxYzkwZjg1YzMzODI5YWNl`

@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 188480,
       "name": "hajimari",
       "url": "https://open.spotify.com/track/5WkGXpwLvGVXj9atfU9yli"
@@ -1393,6 +1393,32 @@
     },
     {
       "album": {
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/6E8E0zZwCssyoFKMaA84Hn"
+      },
+      "artists": [
+        {
+          "name": "Twinsleep",
+          "url": "https://open.spotify.com/artist/2aazoAGOaOkD1grRMVYVBh"
+        },
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
+        },
+        {
+          "name": "Maxy Dutcher",
+          "url": "https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325533,
+      "name": "Kin",
+      "url": "https://open.spotify.com/track/4bZrS7VPjRUU2yNEQH7d7Z"
+    },
+    {
+      "album": {
         "name": "Klass (Robot Koch Rework)",
         "url": "https://open.spotify.com/album/5NGRqqdsVWcFGZq4GqWytD"
       },
@@ -1430,6 +1456,24 @@
       "duration_ms": 294418,
       "name": "Knowledge",
       "url": "https://open.spotify.com/track/2LEqtjDn1k4ZI7xwgheNI7"
+    },
+    {
+      "album": {
+        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Kuware Uta - Intro",
+      "url": "https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1"
     },
     {
       "album": {
@@ -2646,7 +2690,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 203476,
       "name": "Station Eleven",
       "url": "https://open.spotify.com/track/3Cbku8vEs4oRi8kLvRKeOu"

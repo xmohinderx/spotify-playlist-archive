@@ -28,24 +28,6 @@
     {
       "album": {
         "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "date_added": "2022-07-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
-    },
-    {
-      "album": {
-        "name": "TV",
         "url": "https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc"
       },
       "artists": [
@@ -222,6 +204,24 @@
       "duration_ms": 188863,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9"
+    },
+    {
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {

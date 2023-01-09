@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 
 > Run to the world of R&B and hip\-hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,709 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,007 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 | 27 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 | 28 | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa) | 3:20 |
 | 29 | [Remember the Name \(feat\. Styles of Beyond\)](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk), [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX) | [The Rising Tied](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa) | 3:50 |
-| 30 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
+| 30 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 |
 | 31 | [Whatever You Like](https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:09 |
-| 32 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 |
+| 32 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
 | 33 | [Venom \- Music From The Motion Picture](https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:29 |
 | 34 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 |
 | 35 | [Astronaut In The Ocean](https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 | 49 | [Break Ya Neck](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:51 |
 | 50 | [Fantastic](https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fantastic](https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz) | 2:52 |
 
-Snapshot ID: `MTY3Mjc1NzM2NCwwMDAwMDAwMDFkZTUzN2NmMmU0MDQ3NmU0NjVmZTFhMjJiZGZmYzI3`
+Snapshot ID: `MTY3Mjc1NzM2NCwwMDAwMDAwMDE1ZDUyMDliYTE5YmFlZjdkMjVmNDQwMzIxMzRlYzI3`

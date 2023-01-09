@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 30303,
+  "num_followers": 30360,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1NzkxMSwwMDAwMDAwMGVmOTZmMjc0MDIwYzdjM2IxMjlhZTVkNGE4ODI3MDYw",
+  "snapshot_id": "MTY3MTM1NzkxMSwwMDAwMDAwMDM1MzU3ZDIxODUwM2VhNjAxZDc5NzdhYjk4OThhYWY5",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -521,6 +521,26 @@
       "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
+      "added_at": "2022-06-08 08:18:16",
+      "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Mood (feat. BNXN)",
+      "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
+    },
+    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Propeller (feat. Dave & BNXN)",
@@ -543,26 +563,6 @@
       "duration_ms": 204440,
       "name": "Propeller (feat. Dave & BNXN)",
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Mood (feat. BNXN)",
-      "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
     },
     {
       "added_at": "2022-06-08 08:18:16",
@@ -857,6 +857,34 @@
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
+      "added_at": "2022-06-08 08:18:16",
+      "album": {
+        "name": "Sugarcane (Remix)",
+        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 251147,
+      "name": "Sugarcane - Remix",
+      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
+    },
+    {
       "added_at": "2022-10-21 06:05:43",
       "album": {
         "name": "19 & Dangerous (Deluxe)",
@@ -895,22 +923,6 @@
     {
       "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "The Key",
-      "url": "https://open.spotify.com/track/4w4EJ9EaeogHLLEYlUXFDo"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
         "name": "The Second Wave",
         "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
       },
@@ -943,30 +955,18 @@
     {
       "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "Sugarcane (Remix)",
-        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
       "artists": [
         {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 251147,
-      "name": "Sugarcane - Remix",
-      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
+      "duration_ms": 166153,
+      "name": "The Key",
+      "url": "https://open.spotify.com/track/4w4EJ9EaeogHLLEYlUXFDo"
     },
     {
       "added_at": "2022-08-05 07:32:43",
@@ -1245,7 +1245,7 @@
       "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
     },
     {
-      "added_at": "2023-01-08 01:17:41",
+      "added_at": "2023-01-09 01:00:13",
       "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
@@ -1259,22 +1259,6 @@
       "duration_ms": 143452,
       "name": "Personal",
       "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
-    },
-    {
-      "added_at": "2022-07-04 07:22:02",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "WeWe",
-      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -1291,6 +1275,22 @@
       "duration_ms": 140540,
       "name": "No Dey Form",
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "added_at": "2022-07-04 07:22:02",
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
     },
     {
       "added_at": "2022-11-15 09:04:57",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Fashion Killer",
-      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
+      "duration_ms": 197000,
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
     },
     {
       "added_at": "2022-06-08 08:18:16",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Kolomental",
-      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+      "duration_ms": 177000,
+      "name": "Fashion Killer",
+      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
       "added_at": "2022-06-08 08:18:16",
@@ -1493,32 +1493,20 @@
       "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
+      "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 305941,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
+      "duration_ms": 177449,
+      "name": "Chance (Na Ham)",
+      "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

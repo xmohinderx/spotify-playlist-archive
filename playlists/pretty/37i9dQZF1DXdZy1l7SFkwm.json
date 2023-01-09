@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 31861,
+  "num_followers": 31890,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDY0MDhiNmIwZGUxMzE3YzQ1NGNmMzY4ZDA4MDRmNmQ5",
+  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMGY1YmQ0MmJhMGRmNDIzZWI0NjBiNThjNzM1MmViNjJi",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -103,26 +103,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Compact Jazz: Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "From the Foundations (Expanded Edition)",
         "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
       },
@@ -135,6 +115,22 @@
       "duration_ms": 177519,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -159,18 +155,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "The Best of Sam Cooke",
+        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+      "duration_ms": 129061,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -207,22 +203,6 @@
       "duration_ms": 223760,
       "name": "I've Got You Under My Skin - Remastered 1998",
       "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "The Best of Sam Cooke",
-        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 129061,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -315,6 +295,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 327866,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -335,22 +331,6 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 327866,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -383,6 +363,26 @@
       "duration_ms": 274018,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 214366,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Marcos Valle",
-        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 313493,
-      "name": "Estrelar",
-      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
         "url": "https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 118120,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/2Dw3maiWT5u6xqIvmUfebi"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Marcos Valle",
+        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "Estrelar",
+      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
-        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Beggin' - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Warm & Tender Soul",
         "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
+        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Beggin' - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
     },
     {
       "added_at": "2021-03-15 16:04:53",

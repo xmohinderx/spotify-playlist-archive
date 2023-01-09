@@ -4,7 +4,7 @@
 
 > iykyk
 
-784 songs - 1 day 18 hr 24 min
+785 songs - 1 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-09-07 | 2022-12-16 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 |  |
 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2022-07-08 |  |
+| [Shut It](https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Homesick](https://open.spotify.com/album/3fQgV59rik8qhrdYOeJS7l) | 2:21 | 2023-01-08 |  |
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-05-23 | 2023-01-05 |
 | [Shut up My Moms Calling \- \(Sped Up\)](https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling \(Sped up\)](https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A) | 2:15 | 2023-01-04 |  |
 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 | 2022-04-21 | 2022-05-10 |

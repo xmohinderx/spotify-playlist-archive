@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 
 > Will you be my anti\-valentine?
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,110 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,117 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 16 | [Gold Digger](https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:27 |
 | 17 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 18 | [FRIENDS](https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [FRIENDS](https://open.spotify.com/album/1BmxOYHjQv1dKZRr13YRZM) | 3:22 |
-| 19 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
+| 19 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
 | 20 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
-| 21 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
+| 21 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
 | 22 | [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:37 |
 | 23 | [Hotline Bling](https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:27 |
 | 24 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 99 | [Better Than Revenge](https://open.spotify.com/track/1By2VQkUN0Frd8mKNV5NYC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Edition\)](https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym) | 3:37 |
 | 100 | [We Are Never Ever Getting Back Together](https://open.spotify.com/track/7AEAGTc8cReDqcbPoY9gwo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 3:11 |
 
-Snapshot ID: `MTY0MzMyNzExNCwwMDAwMDAwMDU0MjE0ZDM5NjkxNjkzZWQ1ZmZhMTkyMmYyN2JlODMx`
+Snapshot ID: `MTY0MzMyNzExNCwwMDAwMDAwMDUwMDRmZDBhOGM4ZDg2MzU0MzIyNzIyMWJkMGVhYWQ1`

@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 111359,
+  "num_followers": 111560,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMGUxOTIxNDliNjliZTFkYWI2ZTQ0OGJhMzMwNDVlYzMy",
+  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMGVmMzM1NmFkYzZjNGY5NmJlMjA4NzM1MzE3YWZiZTI4",
   "tracks": [
     {
       "added_at": "2023-01-05 23:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 171253,
-      "name": "What Love Will Do to You",
-      "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "4 Wheel Drive",
         "url": "https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 226558,
       "name": "Maybe I'm Amazed",
       "url": "https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 171253,
+      "name": "What Love Will Do to You",
+      "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -339,18 +339,30 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+        "name": "Eternal Beauty",
+        "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Johan Norberg",
+          "url": "https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr"
+        },
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        },
+        {
+          "name": "Rasmus Kihlberg",
+          "url": "https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR"
         }
       ],
-      "duration_ms": 216453,
-      "name": "Just Like Chet",
-      "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
+      "duration_ms": 171306,
+      "name": "Love of My Life",
+      "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -411,30 +423,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Eternal Beauty",
-        "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        },
-        {
-          "name": "Johan Norberg",
-          "url": "https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr"
-        },
-        {
-          "name": "Michael Wollny",
-          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
-        },
-        {
-          "name": "Rasmus Kihlberg",
-          "url": "https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 171306,
-      "name": "Love of My Life",
-      "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
+      "duration_ms": 216453,
+      "name": "Just Like Chet",
+      "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Boy Boredom",
-        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
-      },
-      "artists": [
-        {
-          "name": "Cosma Joy",
-          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
-        }
-      ],
-      "duration_ms": 221241,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "A Reckoning Bell",
         "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
+        "name": "Boy Boredom",
+        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
       },
       "artists": [
         {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+          "name": "Cosma Joy",
+          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
         }
       ],
-      "duration_ms": 283893,
-      "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
-      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
+      "duration_ms": 221241,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "I Fall to Pieces",
-        "url": "https://open.spotify.com/album/0AgqUaoymiX2pAQlHlwZKr"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
       "artists": [
         {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
         }
       ],
-      "duration_ms": 171513,
-      "name": "I Fall to Pieces",
-      "url": "https://open.spotify.com/track/34QBDcwnUMlQCGpjUhXN8u"
+      "duration_ms": 283893,
+      "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
+      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -827,6 +811,22 @@
       "duration_ms": 198935,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/4ebAsaLYZZBzADj1Vfmcc4"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "I Fall to Pieces",
+        "url": "https://open.spotify.com/album/0AgqUaoymiX2pAQlHlwZKr"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        }
+      ],
+      "duration_ms": 171513,
+      "name": "I Fall to Pieces",
+      "url": "https://open.spotify.com/track/34QBDcwnUMlQCGpjUhXN8u"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "Make Someone Happy",
+        "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 282702,
+      "name": "Make Someone Happy",
+      "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Taller",
         "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
       },
@@ -1063,22 +1083,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Make Someone Happy",
-        "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
       },
       "artists": [
         {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+          "name": "Kyle Eastwood",
+          "url": "https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I"
         },
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Hugh Coltman",
+          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
         }
       ],
-      "duration_ms": 282702,
-      "name": "Make Someone Happy",
-      "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
+      "duration_ms": 276346,
+      "name": "Gran Torino",
+      "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1103,26 +1123,6 @@
       "duration_ms": 274091,
       "name": "I Have Nothing Left for You",
       "url": "https://open.spotify.com/track/30XnkHIARv4lRe4tIbi4AY"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
-      },
-      "artists": [
-        {
-          "name": "Kyle Eastwood",
-          "url": "https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I"
-        },
-        {
-          "name": "Hugh Coltman",
-          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
-        }
-      ],
-      "duration_ms": 276346,
-      "name": "Gran Torino",
-      "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "We Might As Well Dance",
-        "url": "https://open.spotify.com/album/2CdQxLBNwamLhBAwqMd26n"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 194309,
-      "name": "We Might As Well Dance",
-      "url": "https://open.spotify.com/track/0j6HTHh9GKD1t19jHYIvDz"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Time to Love Again",
         "url": "https://open.spotify.com/album/5lFWqbLV5EG4qthImhlwV6"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 280508,
       "name": "Midnight at the Oasis",
       "url": "https://open.spotify.com/track/0sDFNE6X8ZKMRJHzr1RnDI"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "We Might As Well Dance",
+        "url": "https://open.spotify.com/album/2CdQxLBNwamLhBAwqMd26n"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 194309,
+      "name": "We Might As Well Dance",
+      "url": "https://open.spotify.com/track/0j6HTHh9GKD1t19jHYIvDz"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "No Meanness",
-        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
+        "name": "Softly Loudly",
+        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Emma Nabarro-Steel",
+          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
         }
       ],
-      "duration_ms": 238524,
-      "name": "No Meanness",
-      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
+      "duration_ms": 253246,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Softly Loudly",
-        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+        "name": "No Meanness",
+        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
       },
       "artists": [
         {
-          "name": "Emma Nabarro-Steel",
-          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 253246,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM"
+      "duration_ms": 238524,
+      "name": "No Meanness",
+      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "Take Me Off to Dreamland",
+        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
+      },
+      "artists": [
+        {
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+        }
+      ],
+      "duration_ms": 288535,
+      "name": "Take Me Off to Dreamland",
+      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Trying Times",
         "url": "https://open.spotify.com/album/5BA2kBYkdmrhKWtk3YY8ti"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 229682,
       "name": "Still Trying",
       "url": "https://open.spotify.com/track/6lYSEJANSrEwgUzNus8KRO"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Take Me Off to Dreamland",
-        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
-      },
-      "artists": [
-        {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
-        }
-      ],
-      "duration_ms": 288535,
-      "name": "Take Me Off to Dreamland",
-      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4XSKCBsJw2D2fd3v6Agoc8"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        }
+      ],
+      "duration_ms": 255448,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0F5TXI0TbKGRyAI5D0RYJF"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/6S7MfLDElqYq7SvyTIXRYq"
       },
@@ -1463,22 +1483,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/4XSKCBsJw2D2fd3v6Agoc8"
+        "name": "Free Afternoon",
+        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
       },
       "artists": [
         {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
-        {
-          "name": "Romain Collin",
-          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+          "name": "Guilherme Cunha Ribeiro",
+          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
         }
       ],
-      "duration_ms": 255448,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/0F5TXI0TbKGRyAI5D0RYJF"
+      "duration_ms": 233013,
+      "name": "A Better One for You",
+      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1503,22 +1519,6 @@
       "duration_ms": 184835,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/4pUe0F3de1wLLGYFkbhmmn"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Free Afternoon",
-        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Cunha Ribeiro",
-          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "A Better One for You",
-      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Something to Celebrate",
-        "url": "https://open.spotify.com/album/1mqxTzY7EVLTPes2sVORyD"
-      },
-      "artists": [
-        {
-          "name": "Kristin Korb",
-          "url": "https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "Something to Celebrate",
-      "url": "https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "A Happy Thought (feat. Stu Mindeman)",
         "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 226240,
       "name": "A Happy Thought (feat. Stu Mindeman)",
       "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Something to Celebrate",
+        "url": "https://open.spotify.com/album/1mqxTzY7EVLTPes2sVORyD"
+      },
+      "artists": [
+        {
+          "name": "Kristin Korb",
+          "url": "https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Something to Celebrate",
+      "url": "https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Take Me To The Alley",
-        "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2ZloT7eCvBWrfqCCPQlgnh"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Sleepy Time",
         "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 158641,
       "name": "Sleepy Time",
       "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Take Me To The Alley",
+        "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2ZloT7eCvBWrfqCCPQlgnh"
     },
     {
       "added_at": "2023-01-05 23:00:00",

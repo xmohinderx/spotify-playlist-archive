@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 
 > musica per quando non sai insomma come
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,270 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,346 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 | 46 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
 | 47 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 |
 | 48 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
-| 49 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 |
+| 49 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 |
 | 50 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 |
-| 51 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 |
-| 52 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 |
+| 51 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 |
+| 52 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 |
 | 53 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 |
 | 54 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 |
 | 55 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 | 69 | [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 |
 | 70 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 |
 | 71 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
-| 72 | [Victoria's Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 |
-| 73 | [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 |
+| 72 | [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 |
+| 73 | [Victoria's Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 |
 | 74 | [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 |
 | 75 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 |
 
-Snapshot ID: `MTY3MTU0ODM4NiwwMDAwMDAwMDY5OTVlMDUwMGZjODg4MGU1YWQxNzhmOWRjYWYyNmZj`
+Snapshot ID: `MTY3MTU0ODM4NiwwMDAwMDAwMDZlMDMxMGE0ZTQwODliZDNjNzFjMGQ2OWYwNWFlY2Yx`

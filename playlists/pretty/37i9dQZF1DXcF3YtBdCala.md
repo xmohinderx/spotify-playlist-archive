@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Nuevo Elemento en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,380 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,397 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 22 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
 | 23 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 |
 | 24 | [Cuando Me Tenías](https://open.spotify.com/track/4bPKM2jZ9PU1uzANyOC0G7) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Nos Divertimos Logrando Lo Imposible](https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP) | 4:07 |
-| 25 | [Prohibido](https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Prohibido](https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ) | 3:08 |
-| 26 | [De Pura Rabia](https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [De Pura Rabia](https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX) | 3:07 |
+| 25 | [De Pura Rabia](https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [De Pura Rabia](https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX) | 3:07 |
+| 26 | [Prohibido](https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Prohibido](https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ) | 3:08 |
 | 27 | [No Me Queda Más](https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 3:20 |
 | 28 | [Casi Algo \- Versión Mariachi](https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo \(Versión Mariachi\)](https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d) | 2:12 |
 | 29 | [El Alumno](https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Alumno](https://open.spotify.com/album/4rHTyJISches0y7efQTJbW) | 3:08 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 62 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
 | 63 | [No Te Apartes De Mí](https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes De Mí](https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ) | 3:59 |
 | 64 | [Qué Ironía](https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Qué Ironía](https://open.spotify.com/album/0t0aSpLPZ8jaJ498eog6Lr) | 3:49 |
-| 65 | [Ven Porque Te Necesito](https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Ven Porque Te Necesito](https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX) | 3:05 |
+| 65 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
 | 66 | [El Mejor Regalo](https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Mejor Regalo](https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd) | 2:43 |
-| 67 | [Se Olvidó \- Versión Mariachi](https://open.spotify.com/track/3fLCCuQPA7kO2ZMIoB3bp1) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Se Olvidó \(Versión Mariachi\)](https://open.spotify.com/album/0SoeOj7WfmVbqtw8jir9Ys) | 3:11 |
-| 68 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
+| 67 | [Ven Porque Te Necesito](https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Ven Porque Te Necesito](https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX) | 3:05 |
+| 68 | [Se Olvidó \- Versión Mariachi](https://open.spotify.com/track/3fLCCuQPA7kO2ZMIoB3bp1) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Se Olvidó \(Versión Mariachi\)](https://open.spotify.com/album/0SoeOj7WfmVbqtw8jir9Ys) | 3:11 |
 | 69 | [Dime Que Sí](https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Dime Que Sí](https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2) | 2:35 |
-| 70 | [Imborrable](https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Imborrable](https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY) | 3:12 |
-| 71 | [Decidí Olvidarte](https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Decidí Olvidarte](https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P) | 2:20 |
+| 70 | [Decidí Olvidarte](https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Decidí Olvidarte](https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P) | 2:20 |
+| 71 | [Imborrable](https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Imborrable](https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY) | 3:12 |
 | 72 | [Tómbola](https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Tómbola](https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g) | 2:45 |
 | 73 | [No Me Queda Más](https://open.spotify.com/track/639NmACfrGWlwQ6mBZxtjp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [No Me Queda Más](https://open.spotify.com/album/1sNgMbz7THERzs2wCMpbFR) | 3:22 |
 | 74 | [No Me Hace Falta Nada](https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [No Me Hace Falta Nada](https://open.spotify.com/album/72gV9k0jtquTeAUzHvvIE1) | 3:13 |
 | 75 | [¿Qué Le Echan al Tequila?](https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [¿Qué Le Echan al Tequila?](https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2) | 2:42 |
 
-Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMDM1YWMxNTBjNjkxYjYxN2M0MGJiY2U1N2FlYWU1NWQx`
+Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMGQ4YmYzYzdkNTk0ZDExZTNlODdiOTkyNjAwNTgxMjAx`

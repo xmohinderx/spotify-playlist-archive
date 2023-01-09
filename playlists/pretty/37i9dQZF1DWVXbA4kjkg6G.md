@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,624 likes - 75 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,070 likes - 75 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 14 | [Original \- Remastered](https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 6:22 |
 | 15 | [Karmacoma](https://open.spotify.com/track/46bTgJAQkrkNRxMuFnpRyD) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 5:16 |
 | 16 | [2 Wicky](https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [A New Stereophonic Sound Spectacular](https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq) | 4:44 |
-| 17 | [Rodney Yates](https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW) | [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Let's Get Killed](https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1) | 6:24 |
-| 18 | [High Noon](https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:26 |
+| 17 | [High Noon](https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:26 |
+| 18 | [Rodney Yates](https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW) | [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Let's Get Killed](https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1) | 6:24 |
 | 19 | [All Mine](https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:00 |
 | 20 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
 | 21 | [Shaolin Satellite \- Remastered 2022](https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Sounds From The Thievery Hi Fi \(Remastered 2022\)](https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t) | 6:24 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 61 | [Snapper](https://open.spotify.com/track/1FQ62NYLf1RVlqx184ChCZ) | [Red Snapper feat\. Beth Orton](https://open.spotify.com/artist/4x2YXgUuMqX3hGgnKTtrvg) | [Reeled And Skinned](https://open.spotify.com/album/2MtDzggjJ3iLZjJyw6HIs4) | 4:47 |
 | 62 | [Listen To The Beat](https://open.spotify.com/track/7wULNOKU99VregJA264okG) | [London Funk Allstars](https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6) | [London Funk Volume 1](https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa) | 4:45 |
 | 63 | [Bug Powder Dust \- Kruder & Dorfmeister Session](https://open.spotify.com/track/2LPJmgAK8YNvIIa8ue58rI) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Justin Warfield](https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA) | [Trip Hop Classics](https://open.spotify.com/album/0SatpsNu81KdWzit0pmCb3) | 7:27 |
-| 64 | [We Be the Crew](https://open.spotify.com/track/44ZVjpEvhtAM74LE3ZskAX) | [The Wiseguys](https://open.spotify.com/artist/7oBJEgh7PQKJuxXb1lUEKA) | [The Antidote](https://open.spotify.com/album/5WXggaUoLfWMBL4QfJ6R4I) | 5:49 |
-| 65 | [Long Road](https://open.spotify.com/track/2b1E782QABZaTux77fwlbV) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:01 |
+| 64 | [Long Road](https://open.spotify.com/track/2b1E782QABZaTux77fwlbV) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:01 |
+| 65 | [We Be the Crew](https://open.spotify.com/track/44ZVjpEvhtAM74LE3ZskAX) | [The Wiseguys](https://open.spotify.com/artist/7oBJEgh7PQKJuxXb1lUEKA) | [The Antidote](https://open.spotify.com/album/5WXggaUoLfWMBL4QfJ6R4I) | 5:49 |
 | 66 | [Aquaself](https://open.spotify.com/track/1ZgrhT1NfwUt2cNdZG0wHC) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight \(Digital Deluxe\)](https://open.spotify.com/album/1papIBvEjjXA80q6eW7Gtw) | 6:16 |
 | 67 | [No Government](https://open.spotify.com/track/20Wu65TWDvjqRK4Rrzsmp8) | [Nicolette](https://open.spotify.com/artist/0ZC2lg6yD32OG48YKBi7Id) | [Trip Hop Classics By Kid Loco](https://open.spotify.com/album/7oJnqZrIB4VhuJJAb73KHC) | 5:32 |
 | 68 | [Galactic Funk](https://open.spotify.com/track/5DRfoGTpzVbyddq2LMe6ZD) | [DJ Spooky](https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm) | [This Is Home Entertainment](https://open.spotify.com/album/3evzzoWZxpu1buDbcSc2fn) | 6:07 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 70 | [Mad Blunted Jazz](https://open.spotify.com/track/5DBHf9TJyINVithuciTmic) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 5:10 |
 | 71 | [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 |
 | 72 | [Five Days](https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/45tUfsKQT0VmV27YBSgaCt) | 5:22 |
-| 73 | [City Lights \- City of Starsigns](https://open.spotify.com/track/7w2ETRLrBKR5j8HaWvbKTX) | [Patrick Pulsinger](https://open.spotify.com/artist/3MXePESrFifdxyENQfsaid) | [Dogmatic Sequences, Vol\. 2](https://open.spotify.com/album/0dVkLBFLNIIyOT3kSL0oEi) | 5:58 |
+| 73 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
 | 74 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
-| 75 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
+| 75 | [City Lights \- City of Starsigns](https://open.spotify.com/track/7w2ETRLrBKR5j8HaWvbKTX) | [Patrick Pulsinger](https://open.spotify.com/artist/3MXePESrFifdxyENQfsaid) | [Dogmatic Sequences, Vol\. 2](https://open.spotify.com/album/0dVkLBFLNIIyOT3kSL0oEi) | 5:58 |
 
-Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDZhNmEyNTAwNTgxOTFkZTQzMGIwMWM1MjhhYzcwNDU2`
+Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDdmNzFkYjI2MTE5ZDczYTFlNTNkMTIzMGJiMThlYjRl`

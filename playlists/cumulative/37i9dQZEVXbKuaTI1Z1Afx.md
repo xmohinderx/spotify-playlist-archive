@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-1,112 songs - 2 day 12 hr 6 min
+1,114 songs - 2 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [Get Away](https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Get Away](https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY) | 3:00 | 2022-12-13 | 2022-12-18 |
 | [Get Away](https://open.spotify.com/track/6Cd2mbhIjKqsDug0OKioM4) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Paper Route Frank](https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S) | 3:01 | 2022-12-17 | 2022-12-26 |
 | [GET IT](https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:31 | 2022-03-30 | 2022-04-05 |
-| [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 | 2023-01-03 |  |
+| [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 | 2023-01-03 | 2023-01-09 |
 | [Ghostbusters](https://open.spotify.com/track/6thXB4RmajS4oZPNiBAKy0) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Greatest Hits](https://open.spotify.com/album/2bzvRIU2dVDWb3J9khpkxo) | 3:59 | 2022-10-30 | 2022-11-09 |
 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 | 2022-10-24 | 2022-12-08 |
 | [Gilded Lily](https://open.spotify.com/track/1V27TTo9FI2sl8xzGr3sCg) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/5Wl4DJMOt13fs92ddL2v9Q) | 3:32 | 2022-10-22 | 2022-11-02 |
@@ -372,6 +372,7 @@
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 | 2022-08-09 | 2022-08-12 |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-29 | 2022-12-16 |
 | [Give It To Me](https://open.spotify.com/track/6wpk1zTTTXD7O64vL7TodM) | [Lofis](https://open.spotify.com/artist/7iFODSQxtV2tDxZBYtyFgt) | [Give It To Me](https://open.spotify.com/album/5ftAJP7ejD3F85LL78jo0U) | 2:51 | 2023-01-01 | 2023-01-03 |
+| [Give It To Me](https://open.spotify.com/track/40HqwKbcJ62zpsBW2pWBTq) | [Mckyyy](https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug) | [Give It To Me](https://open.spotify.com/album/1s8GwqQlOG7X4e6mV4PQC5) | 2:51 | 2023-01-08 |  |
 | [Give It To Me \(TikTok\) \- Remix](https://open.spotify.com/track/2RQOyTK7GG9HQMruQXS7wP) | [Splice Records](https://open.spotify.com/artist/2ZADLHKIfy45s3KdoA6Jn5) | [Give It To Me \(TikTok\) \(Remix\)](https://open.spotify.com/album/5TFGWVkpLUO22vriADgKLo) | 2:52 | 2022-12-31 | 2023-01-05 |
 | [Give It To Me \- Remix](https://open.spotify.com/track/0QKhC7BGbjb38EsW8Dgm5r) | [Muppet DJ](https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny), [SECA Records](https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox) | [Give It To Me \(Remix\)](https://open.spotify.com/album/3bqPkfqc4dMwmdyxIESBEf) | 2:51 | 2022-12-24 | 2022-12-31 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-07-05 | 2022-08-21 |
@@ -832,6 +833,7 @@
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-11-22 | 2022-11-30 |
 | [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-10 | 2022-12-25 |
 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2022-07-26 | 2022-08-17 |
+| [Shut It](https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Homesick](https://open.spotify.com/album/3fQgV59rik8qhrdYOeJS7l) | 2:21 | 2023-01-08 |  |
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-05-02 | 2022-12-05 |
 | [Shut up My Moms Calling \- \(Sped Up\)](https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling \(Sped up\)](https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A) | 2:15 | 2022-12-23 | 2022-12-28 |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2022-02-15 | 2022-02-27 |
@@ -964,7 +966,7 @@
 | [This Is the Kingdom \(feat\. Pat Barrett\)](https://open.spotify.com/track/4q5a9GeLsC18tVDy40JxaM) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 9:57 | 2022-03-15 | 2022-03-17 |
 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 | 2022-04-26 | 2022-05-23 |
 | [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2022-10-05 | 2023-01-07 |
-| [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-01-07 |  |
+| [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-01-07 | 2023-01-09 |
 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 | 2022-05-31 | 2022-06-08 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-05-17 | 2022-05-21 |
 | [Throw It Back \(Abow\)](https://open.spotify.com/track/23yxlmsXxljX6AVF2NlYP6) | [TarioP](https://open.spotify.com/artist/5N4ydSgV26FDMKuZcFsttp), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [Throw It Back \(Abow\)](https://open.spotify.com/album/5mnNOn8Xg5oEXL0frscPIU) | 1:10 | 2022-02-01 | 2022-02-16 |

@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA" > Odumodublvck </a>
 
-139 songs - 6 hr 50 min
+140 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All I Please](https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz) | [Wale Turner](https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [All I Please](https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL) | 2:35 | 2022-06-09 | 2022-12-13 |
 | [Andale](https://open.spotify.com/track/0rIZdSwtW26f2Ljmi8chI5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Ypszn \(Explicit\)](https://open.spotify.com/album/2QBz5CtVNac9h3LMPiIUwX) | 3:27 | 2022-10-14 | 2022-10-29 |
 | [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 | 2022-06-09 |  |
+| [Awolowo](https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 2:48 | 2022-06-09 |  |
 | [Awolowo](https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:48 | 2022-06-09 | 2022-12-29 |
 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-07 |  |
 | [Back To Basics](https://open.spotify.com/track/4CYZ8PB4YzsidixvytgdMa) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [BILLION DOLLAR DREAM](https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz) | 2:59 | 2022-06-20 | 2022-11-25 |
@@ -117,7 +118,7 @@
 | [Stacks](https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Stacks](https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u) | 2:57 | 2022-06-09 | 2022-12-03 |
 | [Still Up](https://open.spotify.com/track/72FcNQ4PJNAWEaNS2lgpty) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [NO ZZZZ 2](https://open.spotify.com/album/17gL7RXMOp0Advfm0L7th9) | 2:56 | 2022-10-14 | 2022-10-29 |
 | [Stronger](https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Stronger](https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA) | 2:53 | 2022-10-28 |  |
-| [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 | 2022-06-09 |  |
+| [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 | 2022-06-09 | 2023-01-09 |
 | [Superstar](https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Superstar](https://open.spotify.com/album/4NR3st0lpRq63g3oSp5wj3) | 2:26 | 2022-11-18 |  |
 | [Symbiosis](https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Symbiosis](https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN) | 4:09 | 2022-06-09 |  |
 | [THE GOAT](https://open.spotify.com/track/6pLcTVmCUa6cDBAcwi9c3h) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [The Lost Boy \(Deluxe Version\)](https://open.spotify.com/album/7MDNR9DbdaUzv03PKMIkrp) | 2:33 | 2022-12-08 |  |

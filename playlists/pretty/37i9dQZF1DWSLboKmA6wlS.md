@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: WHITE YOU\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,158 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,167 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

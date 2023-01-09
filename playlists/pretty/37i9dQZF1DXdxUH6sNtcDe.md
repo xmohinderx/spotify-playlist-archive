@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > A decade full of 00s country hits! Cover: Lee Ann Womack
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,056 likes - 125 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,501 likes - 125 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 43 | [Beer For My Horses](https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:24 |
 | 44 | [Big Green Tractor](https://open.spotify.com/track/4KAzYqfcijCSZa2P3etHoM) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Wide Open](https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS) | 3:24 |
 | 45 | [Courtesy Of The Red, White And Blue \(The Angry American\)](https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:15 |
-| 46 | [Watching You](https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:55 |
-| 47 | [Red Dirt Road](https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Red Dirt Road](https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf) | 4:20 |
+| 46 | [Red Dirt Road](https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Red Dirt Road](https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf) | 4:20 |
+| 47 | [Watching You](https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:55 |
 | 48 | [People Are Crazy](https://open.spotify.com/track/5JnLiuMgRAWoHYOhatFP3s) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Little Bit Of Everything](https://open.spotify.com/album/3H119N8NtcjSUxOhimk2FQ) | 3:51 |
 | 49 | [Drive \(For Daddy Gene\)](https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Drive](https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV) | 4:02 |
 | 50 | [Gettin' You Home](https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [The Man I Want To Be](https://open.spotify.com/album/6Aormv05kybauFdXCzUEcH) | 3:32 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 75 | [Three Wooden Crosses](https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:21 |
 | 76 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
 | 77 | [Pickin' Wildflowers](https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj) | [Keith Anderson](https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz) | [Three Chord Country and American Rock & Roll](https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y) | 3:05 |
-| 78 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 |
-| 79 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
+| 78 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
+| 79 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 |
 | 80 | [Something to Be Proud Of](https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [You Do Your Thing](https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG) | 4:16 |
 | 81 | [Watching Airplanes](https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Living Hard](https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8) | 4:02 |
 | 82 | [Amarillo Sky](https://open.spotify.com/track/0axUHkhMMY0YSC1jFBVWqv) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Jason Aldean](https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA) | 3:22 |
@@ -112,16 +112,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 102 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 |
 | 103 | [Don't Think I Don't Think About It](https://open.spotify.com/track/0XfFxeXzMkIy5SWAVpOQin) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:03 |
 | 104 | [Just Another Day In Paradise](https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Phil Vassar](https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC) | 3:53 |
-| 105 | [Leave the Pieces](https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt) | [The Wreckers](https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei) | [Stand Still, Look Pretty \(U.S\. Version\)](https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe) | 3:30 |
-| 106 | [Lucky Man](https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Some People Change](https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m) | 3:16 |
+| 105 | [Lucky Man](https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Some People Change](https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m) | 3:16 |
+| 106 | [Leave the Pieces](https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt) | [The Wreckers](https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei) | [Stand Still, Look Pretty \(U.S\. Version\)](https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe) | 3:30 |
 | 107 | [Concrete Angel](https://open.spotify.com/track/2LLcI3oU4CedCQDV5tJ1SK) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Greatest Hits](https://open.spotify.com/album/467Cag6qid9mjW2hpnIcFi) | 4:13 |
 | 108 | [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 |
 | 109 | [Small Town USA](https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Justin Moore](https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj) | 3:38 |
 | 110 | [There Goes My Life](https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 5:02 |
 | 111 | [Find out Who Your Friends Are](https://open.spotify.com/track/73njvNJmgXA180vTPkA16C) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [For the Love](https://open.spotify.com/album/6DsSd8fEi5UscgNOHoZrSz) | 3:47 |
 | 112 | [Honky Tonk Badonkadonk](https://open.spotify.com/track/1VdHooAMVaGXPSty8pifv9) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dangerous Man](https://open.spotify.com/album/2ZdBjpNzKeluVjBdZ4x12j) | 4:00 |
-| 113 | [Brand New Girlfriend](https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4) | [Steve Holy](https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII) | [Brand New Girlfriend](https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo) | 3:40 |
-| 114 | [Play Something Country](https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:15 |
+| 113 | [Play Something Country](https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:15 |
+| 114 | [Brand New Girlfriend](https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4) | [Steve Holy](https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII) | [Brand New Girlfriend](https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo) | 3:40 |
 | 115 | [My Front Porch Looking In](https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Playlist: The Very Best Of Lonestar](https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5) | 3:43 |
 | 116 | [Why](https://open.spotify.com/track/65Jn2gZWMren03Rz0fCMqs) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Jason Aldean](https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA) | 3:33 |
 | 117 | [We Danced](https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 3:46 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 124 | [Mud On the Tires](https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 3:26 |
 | 125 | [Good Morning Beautiful](https://open.spotify.com/track/0eHT8N5YQglv8cYYizXvSw) | [Steve Holy](https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII) | [Blue Moon](https://open.spotify.com/album/3xivtrhzLC6LMEu9W56gvw) | 3:30 |
 
-Snapshot ID: `MTY1ODcwMjc0OSwwMDAwMDAwMDY5NDI2YmY1MWNkMTFlMmIxYzM4NTdlZWM5MWIxMzU1`
+Snapshot ID: `MTY1ODcwMjc0OSwwMDAwMDAwMDk2ZTFhYTM4MDljNTRkMjk5Y2UyZTE2YWI0ZjJhNDIy`

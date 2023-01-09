@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,843 likes - 75 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,005 likes - 75 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,23 +50,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 40 | [El Gran Varón](https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 6:54 |
 | 41 | [Agua Caliente](https://open.spotify.com/track/5HmxRC7UzG9FxGYAm7EsXH) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 3:59 |
 | 42 | [El Menú](https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:12 |
-| 43 | [Caradura](https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:17 |
-| 44 | [No Me Digan Que Es Muy Tarde](https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Doble Energía](https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU) | 6:52 |
+| 43 | [No Me Digan Que Es Muy Tarde](https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Doble Energía](https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU) | 6:52 |
+| 44 | [Caradura](https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:17 |
 | 45 | [Quiero Saber](https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:29 |
 | 46 | [Anuncio Clasificado / Dámelo](https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [Viva Rosario](https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB) | 5:01 |
 | 47 | [Fantasía Herida](https://open.spotify.com/track/7gXoJlCvkADgCISM3XFIu1) | [Salseando](https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0) | [Salseando Con..\. Volume 2](https://open.spotify.com/album/6c8atZjCJsPUNK7jVqsg85) | 5:09 |
 | 48 | [Así Es la Vida](https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:41 |
 | 49 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
-| 50 | [Si Me Dejas Amarte](https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8) | [Roberto Lugo](https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK) | [Aqui Estoy Yo](https://open.spotify.com/album/0fPICPWeindghNQxlegLQB) | 5:22 |
-| 51 | [Canción](https://open.spotify.com/track/28F535MpSIBFy2DtsYbH7L) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Back To Work](https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg) | 4:51 |
+| 50 | [Canción](https://open.spotify.com/track/28F535MpSIBFy2DtsYbH7L) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Back To Work](https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg) | 4:51 |
+| 51 | [Si Me Dejas Amarte](https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8) | [Roberto Lugo](https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK) | [Aqui Estoy Yo](https://open.spotify.com/album/0fPICPWeindghNQxlegLQB) | 5:22 |
 | 52 | [Dejame Sentirte](https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [De Amor y Salsa](https://open.spotify.com/album/021o25wvfikSTFTS43DRrc) | 5:32 |
 | 53 | [A Mi](https://open.spotify.com/track/3y3A0PQZqg6RiWMHRgqvFU) | [Cano Estremera](https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ) | [Dueno del Soneo](https://open.spotify.com/album/2oiwyNGudQGaFxgMvKlFVq) | 5:38 |
 | 54 | [Siento](https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:31 |
 | 55 | [A Fuego Lento](https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ) | [Mario Ortiz Y Su Orquesta](https://open.spotify.com/artist/2PdbGJ20Zy4ZxWMpRJarfO) | [Sexy Salsa](https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv) | 5:00 |
 | 56 | [Lo Que Pasó Entre Tú y Yo Pasó](https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Colección De Oro](https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo) | 4:38 |
 | 57 | [No Vale La Pena](https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7) | [Johnny Rivera](https://open.spotify.com/artist/3YUhNvMNTyZ65USgOFlq1p), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Legends](https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT) | 5:58 |
-| 58 | [Amame en Camara Lenta](https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc) | [Cano Estremera](https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ) | [Salvaje! 88](https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1) | 6:29 |
-| 59 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 |
+| 58 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 |
+| 59 | [Amame en Camara Lenta](https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc) | [Cano Estremera](https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ) | [Salvaje! 88](https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1) | 6:29 |
 | 60 | [Yo Me Quedo](https://open.spotify.com/track/6MWTAYls9b7YJm5wEkFgoS) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Pura Salsa](https://open.spotify.com/album/1wqORnosBdEaJRYvtheYk5) | 5:01 |
 | 61 | [Tu Eres](https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Mas Grande Que Nunca](https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz) | 4:26 |
 | 62 | [Te Vas De Mi](https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Back To Work](https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg) | 6:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 74 | [Mi Amante Niña, Mi Compañera](https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:22 |
 | 75 | [Tu](https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [De Amor y Salsa](https://open.spotify.com/album/021o25wvfikSTFTS43DRrc) | 5:13 |
 
-Snapshot ID: `MTY3MjQzMTUxNiwwMDAwMDAwMDhhMTc4ODA4Y2RiNTRlNzQ1NDhkNGIwYThjOGMyNGE3`
+Snapshot ID: `MTY3MjQzMTUxNiwwMDAwMDAwMDcwZGVhOTU5OWU0MWI0N2UzYjYxYjIyMzFiOGQ1YmVm`

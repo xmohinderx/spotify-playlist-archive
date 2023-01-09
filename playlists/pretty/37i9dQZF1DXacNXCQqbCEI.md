@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,559 likes - 60 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,661 likes - 60 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 54 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 |
 | 55 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
 | 56 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
-| 57 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
-| 58 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |
+| 57 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |
+| 58 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
 | 59 | [Salsa Caliente \(Versión Aumentada\)](https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/5Kz98hHeSt1Qokhc6rZd83) | 4:43 |
 | 60 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN) | 2:30 |
 
-Snapshot ID: `MTY2NTQxNTEzNywwMDAwMDAwMGJiNDJkYWY4OWM0Nzg2MTNjMDFhNTFkZDFhMWFhMGRj`
+Snapshot ID: `MTY2NTQxNTEzNywwMDAwMDAwMDliNjQ4ZTE5MTc0OGJiYmIzYTdkYWY4YTJkY2FiN2Iz`

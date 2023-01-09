@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 330448,
+  "num_followers": 330588,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYyNTYyMSwwMDAwMDAwMDgwNGYwYTAyOWY3OWMyZDBhMmM1YzAyNjBmYzRiNDJm",
+  "snapshot_id": "MTY3MTYyNTYyMSwwMDAwMDAwMGY0OWUxYjk2ZDQwOGM3ZDYyZmZhNTlkODBlOGM1MjUw",
   "tracks": [
     {
       "added_at": "2022-12-21 12:27:01",
@@ -839,8 +839,8 @@
     {
       "added_at": "2022-12-21 12:27:01",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
+        "name": "Paid In Full (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
         }
       ],
-      "duration_ms": 336866,
-      "name": "Follow The Leader",
-      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
+      "duration_ms": 429560,
+      "name": "Paid In Full - Seven Minutes Of Madness - The Coldcut Remix",
+      "url": "https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci"
     },
     {
       "added_at": "2022-12-21 12:27:01",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-12-21 12:27:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1"
-      },
-      "artists": [
-        {
-          "name": "ICE-T",
-          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
-        }
-      ],
-      "duration_ms": 266026,
-      "name": "Colors - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk"
-    },
-    {
-      "added_at": "2022-12-21 12:27:01",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2022-12-21 12:27:01",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1"
+      },
+      "artists": [
+        {
+          "name": "ICE-T",
+          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
+        }
+      ],
+      "duration_ms": 266026,
+      "name": "Colors - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk"
+    },
+    {
+      "added_at": "2022-12-21 12:27:01",
+      "album": {
         "name": "Biz's Baddest Beats: The Best of Biz Markie",
         "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 362293,
       "name": "Vapors",
       "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
-    },
-    {
-      "added_at": "2022-12-21 12:27:01",
-      "album": {
-        "name": "The Chief",
-        "url": "https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa"
-      },
-      "artists": [
-        {
-          "name": "Tony Scott",
-          "url": "https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Get into It",
-      "url": "https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp"
     },
     {
       "added_at": "2022-12-21 12:27:01",
@@ -979,6 +963,22 @@
       "duration_ms": 180093,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA"
+    },
+    {
+      "added_at": "2022-12-21 12:27:01",
+      "album": {
+        "name": "The Chief",
+        "url": "https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa"
+      },
+      "artists": [
+        {
+          "name": "Tony Scott",
+          "url": "https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Get into It",
+      "url": "https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp"
     },
     {
       "added_at": "2022-12-21 12:27:01",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-21 12:27:01",
       "album": {
-        "name": "Schoolly D",
-        "url": "https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU"
-      },
-      "artists": [
-        {
-          "name": "Schoolly D",
-          "url": "https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL"
-        }
-      ],
-      "duration_ms": 388906,
-      "name": "P.S.K. 'What Does It Mean'?",
-      "url": "https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW"
-    },
-    {
-      "added_at": "2022-12-21 12:27:01",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2022-12-21 12:27:01",
       "album": {
-        "name": "Danger Zone",
-        "url": "https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb"
+        "name": "Schoolly D",
+        "url": "https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU"
       },
       "artists": [
         {
-          "name": "Tuff Crew",
-          "url": "https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D"
+          "name": "Schoolly D",
+          "url": "https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL"
         }
       ],
-      "duration_ms": 271333,
-      "name": "My Part of Town",
-      "url": "https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV"
+      "duration_ms": 388906,
+      "name": "P.S.K. 'What Does It Mean'?",
+      "url": "https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW"
     },
     {
       "added_at": "2022-12-21 12:27:01",
@@ -1123,6 +1107,22 @@
       "duration_ms": 173306,
       "name": "Subway Theme",
       "url": "https://open.spotify.com/track/2vBOLn9BBERbEPIeXwn4HQ"
+    },
+    {
+      "added_at": "2022-12-21 12:27:01",
+      "album": {
+        "name": "Danger Zone",
+        "url": "https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb"
+      },
+      "artists": [
+        {
+          "name": "Tuff Crew",
+          "url": "https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "My Part of Town",
+      "url": "https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV"
     },
     {
       "added_at": "2022-12-21 12:27:01",

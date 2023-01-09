@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,138 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,184 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 88 | [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 |
 | 89 | [花火](https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [花火](https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9) | 4:31 |
 | 90 | [予感](https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [予感](https://open.spotify.com/album/7HFkmbiT8TbVBGKIkAiMLm) | 2:43 |
-| 91 | [Xmas with U](https://open.spotify.com/track/4eUnlLhTvXCdOiycD9sBTL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Xmas with U](https://open.spotify.com/album/4vmHPYzDA4xACTxpakn6NN) | 3:23 |
+| 91 | [ホットミルク](https://open.spotify.com/track/3KbEfn3HkRdKAenSdpzfdj) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ホットミルク](https://open.spotify.com/album/4XuWbqGfKeGBBS1YVeWCxY) | 4:20 |
 | 92 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 |
-| 93 | [ホットミルク](https://open.spotify.com/track/3KbEfn3HkRdKAenSdpzfdj) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ホットミルク](https://open.spotify.com/album/4XuWbqGfKeGBBS1YVeWCxY) | 4:20 |
-| 94 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [The Swallow \(feat\. Midories\)](https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq) | 3:37 |
-| 95 | [愛のしるし](https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [愛のしるし](https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh) | 2:50 |
-| 96 | [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 |
+| 93 | [Xmas with U](https://open.spotify.com/track/4eUnlLhTvXCdOiycD9sBTL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Xmas with U](https://open.spotify.com/album/4vmHPYzDA4xACTxpakn6NN) | 3:23 |
+| 94 | [愛のしるし](https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [愛のしるし](https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh) | 2:50 |
+| 95 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [The Swallow \(feat\. Midories\)](https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq) | 3:37 |
+| 96 | [泣き笑い愛](https://open.spotify.com/track/6qdo8EgK8iWJdIzbLtgdBc) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [泣き笑い愛](https://open.spotify.com/album/4FSm60IM7awkVas4TdkabB) | 2:51 |
 | 97 | [中央フリーウェイ \- 2022 mix](https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:40 |
 | 98 | [CRY](https://open.spotify.com/track/4mQhIl8Cynxh8zfaquBmux) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [CRY](https://open.spotify.com/album/1H2xGnSFOfAEFSwosFDmBN) | 4:22 |
-| 99 | [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 |
-| 100 | [泣き笑い愛](https://open.spotify.com/track/6qdo8EgK8iWJdIzbLtgdBc) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [泣き笑い愛](https://open.spotify.com/album/4FSm60IM7awkVas4TdkabB) | 2:51 |
+| 99 | [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 |
+| 100 | [heart notes](https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [heart notes](https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ) | 4:17 |
 
-Snapshot ID: `MTY3MjkzMDgwMCwwMDAwMDAwMGZiYjdiN2IwODA3NzEzMGJlMWRhYTQxZGY2OGJlYThm`
+Snapshot ID: `MTY3MjkzMDgwMCwwMDAwMDAwMDg3ZDg0NDc2YTNjY2MyMDQzMmQ1YjFjMDM0ZjZmMWQ3`

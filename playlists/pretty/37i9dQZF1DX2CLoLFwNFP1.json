@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 11486,
+  "num_followers": 11582,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjYzODgyMSwwMDAwMDAwMGY3ODMwMTA3ZGUzNWI4MDhmYmU2OGRiZmRkMDZlOWY5",
+  "snapshot_id": "MTY3MjYzODgyMSwwMDAwMDAwMGM4OTI4NjY4YThjY2IwMjE3OWU3MmQ2OTQyNzc4OTBh",
   "tracks": [
     {
       "added_at": "2023-01-02 05:53:41",
@@ -1631,6 +1631,30 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "ALL IN (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
         "name": "DNA Remix",
         "url": "https://open.spotify.com/album/7BJ4UhVP36NLhjxgGcXhNA"
       },
@@ -1679,30 +1703,6 @@
       "duration_ms": 410964,
       "name": "DNA Remix",
       "url": "https://open.spotify.com/track/64m44h2nTKmBczXoDkbErt"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
-        "name": "ALL IN",
-        "url": "https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "ALL IN (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p"
     },
     {
       "added_at": "2023-01-02 05:53:41",
@@ -2203,30 +2203,18 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
-        "name": "SOJU (Remix)",
-        "url": "https://open.spotify.com/album/5up3gHITO86zXeGtDm79K8"
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "Woodie Gochild",
-          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
         }
       ],
-      "duration_ms": 318747,
-      "name": "SOJU - Remix",
-      "url": "https://open.spotify.com/track/4QuqMDWbg2poF8ytkH6pCm"
+      "duration_ms": 256642,
+      "name": "In This B*tch",
+      "url": "https://open.spotify.com/track/5Dy4Aj5VdMdHElLSXLhWLZ"
     }
   ],
   "unique_name": "This Is Jay Park",

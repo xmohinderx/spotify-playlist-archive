@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Feline\-friendly tracks curated by musicologist <a href="spotify:artist:0TMyZy9NGJJ7NKMAgCgw6B">David Teie</a>, who pioneered scientifically researched music for cats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,785 likes - 33 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,786 likes - 33 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lolo's Air](https://open.spotify.com/track/6EcUEkTUH7OlAi9Uu94kbm) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 6:15 |
-| 2 | [Book I: Prelude and Fugue No\. 1 in C Major BWV 846](https://open.spotify.com/track/0BgHDpDnFg1Wfm9r7XsWeG) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Sviatoslav Richter](https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X) | [Bach: Well Tempered Clavier \(Books I & II, Complete\)](https://open.spotify.com/album/2hYizcKgB3qoyTbxqkIB1A) | 1:58 |
+| 2 | [The Well\-Tempered Clavier, Book 1, Prelude & Fugue No\. 1 in C Major, BWV 846: I\. Prelude](https://open.spotify.com/track/1Nr8mCDNAopFZB93SPHLVw) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Sviatoslav Richter](https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X) | [J.S\. Bach: The Well\-Tempered Clavier, Books 1 & 2, BWV 846\-893](https://open.spotify.com/album/3PWhuYij6e99npMTjTZm2C) | 1:57 |
 | 3 | [Fostog's Touch](https://open.spotify.com/track/0Qp3kcosNRkoUlMmkyA9KJ) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 11:31 |
 | 4 | [Piano Sonata No\. 12 in F Major, K\. 332: 2\. Adagio](https://open.spotify.com/track/5x2xMWorOHxbhRN50Ebwa0) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: Piano Sonatas Nos\. 11 & 12/Fantasia in D minor](https://open.spotify.com/album/1TqayVLpoTPrHyOkY7Nc15) | 5:01 |
 | 5 | [Katey Moss Catwalk](https://open.spotify.com/track/0KElSYgAOjxKY5M3onAD2i) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 8:38 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 21 | [Musica Para Ojos](https://open.spotify.com/track/0oTvfjyVlklBQSZNUqApcI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 8:39 |
 | 22 | [Morgensol](https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ) | [Bolethe Kristensen](https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI) | [Morgensol](https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk) | 1:45 |
 | 23 | [Potato's Song](https://open.spotify.com/track/4YVXr7tpEZVGnWlYMtNjQQ) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 11:49 |
-| 24 | [Book I: Prelude and Fugue No\. 1 in C Major BWV 846](https://open.spotify.com/track/4DhsyDcXQvtbSwqrvNtk47) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Sviatoslav Richter](https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X) | [Bach: Well Tempered Clavier \(Books I & II, Complete\)](https://open.spotify.com/album/2hYizcKgB3qoyTbxqkIB1A) | 2:35 |
+| 24 | [The Well\-Tempered Clavier, Book 1, Prelude & Fugue No\. 1 in C Major, BWV 846: II\. Fugue](https://open.spotify.com/track/2g2XmbDVVvz3Gq40bGkiWL) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Sviatoslav Richter](https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X) | [J.S\. Bach: The Well\-Tempered Clavier, Books 1 & 2, BWV 846\-893](https://open.spotify.com/album/3PWhuYij6e99npMTjTZm2C) | 2:29 |
 | 25 | [For I Will Consider My Cat Jeoffry](https://open.spotify.com/track/3SqawUAmaZGwmzleROyk4E) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 9:04 |
 | 26 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
 | 27 | [Cozmo's Air](https://open.spotify.com/track/58VLKJL8y3FknrqLUVXPrI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Cozmo's Air](https://open.spotify.com/album/6eBttKmf7eOaZICEyy2re8) | 4:12 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 32 | [Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile": 2\. Andante](https://open.spotify.com/track/6IKPX55mQL42ELcLIkK0Ci) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: Piano Sonatas Nos\. 15 & 16; Rondo in A minor](https://open.spotify.com/album/6krZ3BTfSZmA4OVceOAttH) | 7:00 |
 | 33 | [Spook's Ditty](https://open.spotify.com/track/50UO61QfF5DuAkegNrFzOv) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Spook's Ditty](https://open.spotify.com/album/4BNnFQGH2sQxxQZBxSuQxI) | 1:55 |
 
-Snapshot ID: `MTU3OTkwNzk1NiwwMDAwMDAwMDdlYjk2NGMxMjY0ODFlYWQzZDA5OWNkMjQwYjFjYmVk`
+Snapshot ID: `MTU3OTkwNzk1NiwwMDAwMDAwMGUyOGM3ZDQ5ZmJjMThhY2Q4ODcxZTQ4NWQ0ODVjZWFl`

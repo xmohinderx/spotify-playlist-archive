@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,941,337 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,941,561 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 30 | [I Just Love You](https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 3:15 |
 | 31 | [Get Down](https://open.spotify.com/track/1uWp3OTBE1pryDJ4igGD1q) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Time in the Sun](https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn) | 2:31 |
 | 32 | [In Your Arms](https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Passing Through](https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG) | 3:35 |
-| 33 | [Love Me Like You Used To](https://open.spotify.com/track/0JfpIwZfcRwDzD6GRYzfKN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 3:40 |
-| 34 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
+| 33 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
+| 34 | [Love Me Like You Used To](https://open.spotify.com/track/0JfpIwZfcRwDzD6GRYzfKN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 3:40 |
 | 35 | [The Breach](https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:13 |
 | 36 | [Ain't No Man](https://open.spotify.com/track/6XMYnm4OTEysN8blzqiCL9) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [True Sadness](https://open.spotify.com/album/6aMhaNYwh1OwoJnNrNbm6Q) | 3:32 |
 | 37 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 45 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 |
 | 46 | [Either Way](https://open.spotify.com/track/3ihp0qYSN89GBnrgF6GhRh) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Seven Sisters](https://open.spotify.com/album/0GIfSimHMHkmbKiRdrLpAQ) | 2:15 |
 | 47 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
-| 48 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
-| 49 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
+| 48 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
+| 49 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
 | 50 | [Hurricane](https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Hurricane](https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW) | 4:26 |
 | 51 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 52 | [People Need A Melody](https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 4:12 |
-| 53 | [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 |
-| 54 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
+| 53 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
+| 54 | [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 |
 | 55 | [Passengers](https://open.spotify.com/track/58GSV5f6YqrgpWOpAku2Ic) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:32 |
 | 56 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
 | 57 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
@@ -85,11 +85,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 75 | [Requiem](https://open.spotify.com/track/1H669K2zLp8ombaLNTCi96) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Holy Smokes Future Jokes](https://open.spotify.com/album/10D5ke3EYdoFD89zQZjjVc) | 3:33 |
 | 76 | [Shaky Ground](https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Shaky Ground](https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd) | 3:12 |
 | 77 | [Alive](https://open.spotify.com/track/0C4qvgfSB5VGixYXrYcY9j) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [News from Nowhere](https://open.spotify.com/album/6it5VpXJ725g41ZAkWrnlh) | 4:02 |
-| 78 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 |
-| 79 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 |
+| 78 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 |
+| 79 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 |
 | 80 | [Get It ‘Fore It’s Gone](https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [In The Blossom of Their Shade](https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf) | 3:34 |
-| 81 | [Silver Lining](https://open.spotify.com/track/2fpDrL2Vpee0JnM6AoUFvl) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Silver Lining](https://open.spotify.com/album/3FxWxJXvkNN3peG2iikNh7) | 3:19 |
-| 82 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 |
+| 81 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 |
+| 82 | [Silver Lining](https://open.spotify.com/track/2fpDrL2Vpee0JnM6AoUFvl) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Silver Lining](https://open.spotify.com/album/3FxWxJXvkNN3peG2iikNh7) | 3:19 |
 | 83 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 |
 | 84 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 |
 | 85 | [Mountain To Move](https://open.spotify.com/track/3sdpasrIhFH4gWuoi0iWym) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Mountain To Move](https://open.spotify.com/album/6Vcszn67is0yDZGxNOjvBP) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 99 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 |
 | 100 | [Lay by Me](https://open.spotify.com/track/5HUynLdprJzINndFXcidfu) | [firekid](https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3) | [firekid](https://open.spotify.com/album/6qb5fl4U5XsxZOFNHqwxxw) | 3:12 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDI0MzFkZDZmMjljOTAwYmViMmZjMzUzOTA0ZDRlNjY2`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDY4NWE4YmZhZDc3MWE5NTgzYmM5YmNjY2U2ZTQ1NTFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,814 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,934 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 23 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
 | 24 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 |
 | 25 | [Alas](https://open.spotify.com/track/5CNvkZHDeclbdJfh3o7KHN) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Alas](https://open.spotify.com/album/6Ui90ahhdeuHF0w54Stqbn) | 4:24 |
-| 26 | [Beautiful Morning](https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Beautiful Morning](https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL) | 3:07 |
+| 26 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 |
 | 27 | [leave her](https://open.spotify.com/track/1jRTd3222ruwh0czzrjZKo) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [leave her](https://open.spotify.com/album/4u7DeTIrAdV5lvatL0iWlO) | 3:03 |
 | 28 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
-| 29 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 |
+| 29 | [Beautiful Morning](https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Beautiful Morning](https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL) | 3:07 |
 | 30 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
 | 31 | [Ageispolis](https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 5:23 |
 | 32 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 49 | [Moments \- Ben Böhmer & Nils Hoffmann Remix](https://open.spotify.com/track/3RF7yizTDynqcKO9EmypOy) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Moments \(Ben Böhmer & Nils Hoffmann Remix\)](https://open.spotify.com/album/0BqyPWvPIl8nyAmSZhvUoc) | 4:10 |
 | 50 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
 
-Snapshot ID: `MTY2OTM5NDY5NiwwMDAwMDAwMDc1OTk3ZDkxYjU3MzFhYzQ4YmI4ODQ1ZGY4Y2Y0ODJk`
+Snapshot ID: `MTY2OTM5NDY5NiwwMDAwMDAwMDc5YzBlOGJiMGM5MmQxODlkZjMwZmIxYzY2MzA2ZWY3`

@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 236496,
+  "num_followers": 236452,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDAxNDY1YTgzZGE5YzljNDIxMzhhMGRkMzAyNDY2YzAz",
+  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDUzNzgxYTUwNDY3MWQwNDdkZTNmMWQyYWRkYTE1MTI4",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -359,22 +359,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Seal The Deal & Let's Boogie",
         "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -511,22 +511,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Nightmare Before Christmas Special Edition",
-        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Jack's Lament",
-      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 185440,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Jack's Lament",
+      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -787,22 +787,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "A Nightmare on My Street",
-      "url": "https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Best Of Bow Wow Wow",
         "url": "https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 164533,
       "name": "I Want Candy",
       "url": "https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "A Nightmare on My Street",
+      "url": "https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -899,22 +899,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "Scarecrow",
-      "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "OutRun",
         "url": "https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 175653,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "Scarecrow",
+      "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -987,22 +987,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Just For The Record...",
-        "url": "https://open.spotify.com/album/1p6eCn8I7XVTGQ4E9RhCfj"
+        "name": "Last Rights",
+        "url": "https://open.spotify.com/album/0yAWNOIBiT5FqzEwnePtsq"
       },
       "artists": [
         {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Harold Arlen",
-          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+          "name": "Skinny Puppy",
+          "url": "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
         }
       ],
-      "duration_ms": 114960,
-      "name": "Ding-Dong! The Witch Is Dead (feat. Harold Arlen)",
-      "url": "https://open.spotify.com/track/08ZDdpL9NVZ2IzYmyqOofM"
+      "duration_ms": 228866,
+      "name": "Killing Game",
+      "url": "https://open.spotify.com/track/2QNSNBUgAlzdkMpyC7nuuJ"
     }
   ],
   "unique_name": "Ultimate Halloween",

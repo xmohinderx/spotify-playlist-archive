@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 
 > pretending to be Lana Del Rey in pigtail buns, chokers, knee socks, and chunky platforms
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,656 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,675 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 18 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
 | 19 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
 | 20 | [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 |
-| 21 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 |
-| 22 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
+| 21 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
+| 22 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 |
 | 23 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 24 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 25 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 49 | [Dollhouse](https://open.spotify.com/track/6wNeKPXF0RDKyvfKfri5hf) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:51 |
 | 50 | [Ultraviolence](https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:11 |
 
-Snapshot ID: `MTY2NDQ4NzIzMiwwMDAwMDAwMGYwMGVjMjE0ODkyMzBiODFiN2E0ZjRhNWY4M2M5MTI4`
+Snapshot ID: `MTY2NDQ4NzIzMiwwMDAwMDAwMGIzNjY4NGQwZDBmYWJiZWRjN2UxMzhkMDIxYmUxNWFj`

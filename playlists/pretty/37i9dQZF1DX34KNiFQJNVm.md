@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Thiaguinho, Matheus Fernandes, Thiago Aquino com Mari Fernandez e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,816,160 likes - 48 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,816,334 likes - 48 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

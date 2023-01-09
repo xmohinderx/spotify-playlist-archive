@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 30531,
+  "num_followers": 30600,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMDUxYWJhYTEzMjdlZTg4NWQxZWQ0ZWEyYWFmZjIxYmM3",
+  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMGRhMDBiOTEyNjkzZjdjZDI5MDVhNDQ5MzUwM2EyMWEz",
   "tracks": [
     {
       "added_at": "2022-07-29 10:36:46",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Piano-Blues & Boogie-Woogie",
-        "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
-      },
-      "artists": [
-        {
-          "name": "Christian Bleiming",
-          "url": "https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK"
-        }
-      ],
-      "duration_ms": 140564,
-      "name": "Stompin' At the 'subway'",
-      "url": "https://open.spotify.com/track/4bGflDbniZ9ja3qveYItnZ"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 173893,
       "name": "Roll 'Em",
       "url": "https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
+        "name": "Piano-Blues & Boogie-Woogie",
+        "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
+      },
+      "artists": [
+        {
+          "name": "Christian Bleiming",
+          "url": "https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK"
+        }
+      ],
+      "duration_ms": 140564,
+      "name": "Stompin' At the 'subway'",
+      "url": "https://open.spotify.com/track/4bGflDbniZ9ja3qveYItnZ"
     },
     {
       "added_at": "2022-07-29 10:36:46",

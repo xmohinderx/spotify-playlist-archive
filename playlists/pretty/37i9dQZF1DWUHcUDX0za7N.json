@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA\" > Odumodublvck </a> ",
-  "num_followers": 14120,
+  "num_followers": 14159,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1NzczOSwwMDAwMDAwMGEzODFkYTQ2NTJjYzgyNDU0YjAwZWVkYTQyYTdhNjBm",
+  "snapshot_id": "MTY3MTM1NzczOSwwMDAwMDAwMDU3Mzc1MDdiMWYyMmMwZThjYTU2OTIzODQxNTQxZWY1",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1347,6 +1347,30 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Crown Of Clay",
         "url": "https://open.spotify.com/album/1BNLf5GAPux7uFO3bP5TGL"
       },
@@ -1367,22 +1391,6 @@
       "duration_ms": 205090,
       "name": "Crown Of Clay",
       "url": "https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Suliya",
-        "url": "https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm"
-      },
-      "artists": [
-        {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "Suliya",
-      "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
     }
   ],
   "unique_name": "Naija Bars ",

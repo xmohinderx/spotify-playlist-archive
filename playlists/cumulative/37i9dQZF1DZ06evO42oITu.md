@@ -4,7 +4,7 @@
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-108 songs - 8 hr 11 min
+109 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [I've Got a Rock 'N' Roll Heart](https://open.spotify.com/track/0bsVmf3Ki4x4BzvdrlbYXi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 3:13 | 2022-11-09 | 2022-11-28 |
 | [I've Got a Rock 'N' Roll Heart](https://open.spotify.com/track/0pEu81PfEP0L9u4iTY5zvI) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/4jSmWv7f63DJKOj7YyKV7l) | 3:13 | 2022-08-05 | 2022-11-08 |
 | [I've Got a Rock 'n' Roll Heart](https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq) | 3:13 | 2023-01-05 | 2023-01-07 |
+| [It's Easy](https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 4:16 | 2023-01-08 |  |
 | [It's in the Way That You Use It \- 1999 Remaster](https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [August](https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA) | 4:11 | 2022-12-18 |  |
 | [It's in the Way That You Use It \- 1999 Remaster](https://open.spotify.com/track/62SlFLFoxkP2rnAIHxV9n1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [August \(2007 Remaster\)](https://open.spotify.com/album/1L2VnYUXOMREcmXMCrFxAa) | 4:11 | 2022-08-05 | 2022-11-07 |
 | [It's Probably Me](https://open.spotify.com/track/1X3Vb1oIAW6Ee22JZAEi59) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Fields Of Gold \- The Best Of Sting 1984 \- 1994](https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf) | 5:02 | 2022-08-05 |  |
@@ -106,7 +107,7 @@
 | [Tears in Heaven](https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Rush \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2) | 4:31 | 2022-10-24 | 2022-11-25 |
 | [Tears in Heaven \- Acoustic Live](https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 4:40 | 2022-11-08 |  |
 | [Tears in Heaven \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:40 | 2022-08-05 | 2022-10-24 |
-| [Ten Long Years](https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:40 | 2022-08-05 |  |
+| [Ten Long Years](https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:40 | 2022-08-05 | 2023-01-09 |
 | [The Thrill Is Gone](https://open.spotify.com/track/4kyKnNbxFe86MMeV4xpDL8) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King & Friends \- 80](https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce) | 5:01 | 2022-08-05 |  |
 | [They Call Me The Breeze](https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 3:06 | 2022-10-12 |  |
 | [Three O'Clock Blues](https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 8:36 | 2022-08-05 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-1,062 songs - 2 day 9 hr 7 min
+1,063 songs - 2 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [golden hour](https://open.spotify.com/track/0e5UZadoZ5me957hKsxRYh) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:29 | 2022-09-24 | 2022-10-13 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-10-12 | 2022-12-12 |
 | [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 | 2022-08-09 | 2022-09-25 |
-| [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-12-01 |  |
+| [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-12-01 | 2023-01-09 |
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-05-24 | 2022-06-23 |
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-04-30 | 2022-05-25 |
 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 | 2023-01-03 |  |
@@ -836,7 +836,7 @@
 | [SNAP \- High and Fast](https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:15 | 2022-07-26 | 2022-07-31 |
 | [SNAP \- High and Fast](https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:15 | 2022-07-30 | 2022-08-10 |
 | [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-08-30 | 2022-09-21 |
-| [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-01-03 |  |
+| [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-01-03 | 2023-01-09 |
 | [So High](https://open.spotify.com/track/1W1dS4VnIrYnllQJ3CAcZy) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [So High](https://open.spotify.com/album/1p2HziuxqItJYONt8krJbF) | 3:38 | 2022-06-03 | 2022-06-08 |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-05 | 2022-01-22 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-11 | 2022-03-09 |
@@ -956,7 +956,7 @@
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-11-12 | 2022-11-18 |
 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-26 | 2022-08-19 |
 | [Tourner Dans Le Vide](https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 4:06 | 2022-08-30 | 2022-09-20 |
-| [TOXIC](https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [TOXIC](https://open.spotify.com/album/1JDRqkMuIapYrNN8nYOiTh) | 1:24 | 2022-12-26 | 2023-01-02 |
+| [TOXIC](https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [TOXIC](https://open.spotify.com/album/1JDRqkMuIapYrNN8nYOiTh) | 1:24 | 2022-12-26 |  |
 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 | 2022-02-15 | 2022-03-30 |
 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 | 2022-03-08 | 2022-03-16 |
 | [Trente](https://open.spotify.com/track/7hzWB65PNhpgAVAgtop2Iv) | [Karim Ouellet](https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit) | [Trente](https://open.spotify.com/album/4ls5o11NKnimimVUk7CJDC) | 3:17 | 2022-01-22 | 2022-01-27 |
@@ -1026,6 +1026,7 @@
 | [When It's Cold I'd Like to Die](https://open.spotify.com/track/6sOx5jDVKkQCQp3NfCTd52) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mimi Goese](https://open.spotify.com/artist/6Ca0p9GECZvcw72fBW5vx3) | [Everything Is Wrong](https://open.spotify.com/album/3XsGQHbPWblti128V5C3QR) | 4:15 | 2022-07-08 | 2022-07-12 |
 | [When Scars Become Art](https://open.spotify.com/track/2q3LzfknBzye3xXjgiJBjS) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Brooke Young](https://open.spotify.com/artist/0oFqrawlj2uVL2EPRLR08l) | [...When Scars Become Art](https://open.spotify.com/album/6R6z9djotDZUhI7psuSM6G) | 4:47 | 2022-02-22 | 2022-03-06 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-26 | 2022-05-04 |
+| [Where Dem Dollas At \(feat\. DJ Paul & Juicy J\)](https://open.spotify.com/track/18AWpfDOjZvW8VlUkw52st) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Enquiring Minds](https://open.spotify.com/album/0kRFAheUcIc0opxL2gjnHE) | 4:26 | 2023-01-08 |  |
 | [Where I Belong](https://open.spotify.com/track/4xxcd6cnmFfj67AmnaF6tc) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:08 | 2022-07-26 | 2022-07-31 |
 | [Where It Ends](https://open.spotify.com/track/7lNezbnIXBbgNmFOa9dt1c) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Where It Ends](https://open.spotify.com/album/7bLUJsXoEiVopKhg1syj2l) | 2:59 | 2022-09-14 | 2022-09-21 |
 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2022-05-31 | 2022-06-15 |

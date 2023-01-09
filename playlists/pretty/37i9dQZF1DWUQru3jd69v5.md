@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Diss Gacha
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,123 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,126 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

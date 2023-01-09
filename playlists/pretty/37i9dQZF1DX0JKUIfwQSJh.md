@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 
 > Rewind and unwind with sirens of the seventies and eighties.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,042 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,331 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 | 3 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 |
 | 4 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 5 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
-| 6 | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return \(Expanded Edition\)](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) | 3:26 |
-| 7 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
+| 6 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
+| 7 | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return \(Expanded Edition\)](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) | 3:26 |
 | 8 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 |
 | 9 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 |
 | 10 | [You're so Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 | 52 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |
 | 53 | [You've Got a Friend](https://open.spotify.com/track/5ONuwMIXAukbMNQCCSjjm0) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 4:28 |
 | 54 | [Tom's Diner](https://open.spotify.com/track/6OKUhXuJMvoVPde9fMJJzy) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 2:09 |
-| 55 | [Cosmic Empire \- Day 2 Demo / Take 1](https://open.spotify.com/track/3M50AuTabW54Mc8Xey5Qlq) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary/Super Deluxe\)](https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6) | 2:09 |
-| 56 | [And It Stoned Me \- 2013 Remaster](https://open.spotify.com/track/0pLt4z90EzbN7lY9lky1Z9) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 4:32 |
+| 55 | [And It Stoned Me \- 2013 Remaster](https://open.spotify.com/track/0pLt4z90EzbN7lY9lky1Z9) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 4:32 |
+| 56 | [Cosmic Empire \- Day 2 Demo / Take 1](https://open.spotify.com/track/3M50AuTabW54Mc8Xey5Qlq) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary/Super Deluxe\)](https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6) | 2:09 |
 | 57 | [Ripple](https://open.spotify.com/track/6PDAMw0YAGfO7ioXAgP2YW) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 4:10 |
 | 58 | [Stuck in the Middle with You \- Rerecorded](https://open.spotify.com/track/4eZw1gC3TAus5bZCKi3l5j) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stuck in the Middle with You](https://open.spotify.com/album/6xF30dvvjy7ZF8vWknwmej) | 3:21 |
 | 59 | [Dreams \- Sessions, Roughs & Outtakes; 2004 Remaster](https://open.spotify.com/track/23hieFLBMATmL2HseI2nBL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:21 |
 | 60 | [Personal Jesus \- Acoustic](https://open.spotify.com/track/7JbHx1w8yllNESuyp9SYv3) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:27 |
 
-Snapshot ID: `MTY3Mjc2MTAwMSwwMDAwMDAwMDU1ODg3YjQ5Y2ZjYzVmNTA2YTA3OTc1NTMyMWRmNjM5`
+Snapshot ID: `MTY3Mjc2MTAwMSwwMDAwMDAwMDAwMGU0MGI4NTNiNWQwYzAwOTIzYzM1MGJhOGMzZDIy`

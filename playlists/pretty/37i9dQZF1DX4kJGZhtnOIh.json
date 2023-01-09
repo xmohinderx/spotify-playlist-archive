@@ -1,12 +1,12 @@
 {
   "description": "Have a nice relaxed dinner with some chill indie music.",
-  "num_followers": 11218,
+  "num_followers": 11231,
   "original_name": "Mellow Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDA5ODQzMmRiYzVhNGY0OWRkNGVjNWQwNGQ0ZmUxNzA5",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMGY1MWMyNjU5NGFhOTIxY2Q0YzQzNTY0MDNmMmYwNDkz",
   "tracks": [
     {
       "added_at": "2018-11-19 19:02:53",
@@ -499,22 +499,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 223685,
-      "name": "October Skies",
-      "url": "https://open.spotify.com/track/77GRxATpswGNnEJIFvSrHr"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 259079,
       "name": "Man On Fire",
       "url": "https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 223685,
+      "name": "October Skies",
+      "url": "https://open.spotify.com/track/77GRxATpswGNnEJIFvSrHr"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -631,22 +631,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 374640,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Furr",
         "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 146199,
       "name": "Lady On the Water",
       "url": "https://open.spotify.com/track/4l9jbpaoqY2GLSGkwiWgzm"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 374640,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl"
     },
     {
       "added_at": "2018-11-19 19:02:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,445 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,462 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 25 | [Fate](https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Fate](https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G) | 5:31 |
 | 26 | [Make This Right \- Radio Edit](https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Lovescene](https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk) | [Make This Right](https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7) | 3:17 |
 | 27 | [Move On](https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:11 |
-| 28 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE) | 6:16 |
+| 28 | [Buya \- Da Capo Remix](https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Buya](https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU) | 7:44 |
 | 29 | [Mother Theresa \- Original Mix](https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Highlife World Series: Cuba](https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE) | 5:56 |
-| 30 | [Buya \- Da Capo Remix](https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Buya](https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU) | 7:44 |
+| 30 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE) | 6:16 |
 | 31 | [2 Far Gone](https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 5:43 |
 | 32 | [Sloppy Cosmic](https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Moodymann](https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P) | 11:48 |
 | 33 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [Frog Fractions](https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe) | 4:40 |
 | 50 | [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 |
 
-Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMDU4YzMwZjdlYTg0MDVmYTc0MDM3MWEyZmRlMjVhMWEx`
+Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMGRhZjM3ZjUxNGY5YzgwMTJmNjI1ODY2MWYxMjg0OWQ2`

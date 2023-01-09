@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Invent Animate
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,596 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,770 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

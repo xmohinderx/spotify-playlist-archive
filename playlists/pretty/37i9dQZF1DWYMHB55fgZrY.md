@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. Plastilina Mosh en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,960 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,104 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 61 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 |
 | 62 | [Reptilectric](https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:52 |
 | 63 | [Morenaza](https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Maldita Vecindad y los Hijos del Quinto Patio](https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE) | 5:05 |
-| 64 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
-| 65 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
+| 64 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
+| 65 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
 | 66 | [Vaquero Rockanrolero](https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:15 |
 | 67 | [Bestia](https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Bestia](https://open.spotify.com/album/3thOTiN8dswNmDUHEkIXiL) | 4:08 |
 | 68 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 87 | [Sobre Natural](https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Sobre Natural](https://open.spotify.com/album/4plALexvYJjioZhfvh47PA) | 3:25 |
 | 88 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
 | 89 | [Olvidate De Mí](https://open.spotify.com/track/4mM8PZRIR1tLNrIMTFuIjo) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Deshabitado](https://open.spotify.com/album/36TB8UO22yzNsVgGxaQxwh) | 3:43 |
-| 90 | [Payaso](https://open.spotify.com/track/7hzeu43gNUoHwh5CQrl3Jk) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Un Tributo](https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ) | 3:50 |
-| 91 | [Jurame](https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Ely Guerra](https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8) | 4:35 |
+| 90 | [Jurame](https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Ely Guerra](https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8) | 4:35 |
+| 91 | [Payaso](https://open.spotify.com/track/7hzeu43gNUoHwh5CQrl3Jk) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Un Tributo](https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ) | 3:50 |
 | 92 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
 | 93 | [Horror Amor](https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz) | [$6 Million Dollar Weirdo](https://open.spotify.com/artist/1s0oZV9v5zH3A9exHV7RlL) | [Ep1](https://open.spotify.com/album/0A506zY9EIXw9KeCm4x6nY) | 3:47 |
 | 94 | [El Microbito](https://open.spotify.com/track/0wTrY23ot5A0aog0JNzXLS) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rock Latino](https://open.spotify.com/album/0aGusz7aHYnYfjWSTr1YFI) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 99 | [Chavo de Onda](https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 3:28 |
 | 100 | [Aquí No Es Dónde](https://open.spotify.com/track/6IkojHlvNIAXXHWhlcE1Oq) | [Resorte](https://open.spotify.com/artist/29AMdFTZ4Ahs3fFXIq8Dic) | [Crazy Pack Resorte](https://open.spotify.com/album/2yhvEOcsRufEw1qw91xMZy) | 4:01 |
 
-Snapshot ID: `MTY2NDIyODA3MCwwMDAwMDAwMDc0Y2NjZWI4OTc1MjVkNTBkYmY3OWQ5OTQ1MTczNDJi`
+Snapshot ID: `MTY2NDIyODA3MCwwMDAwMDAwMDQzYjFjN2RjNzBlZDgyOThmNGJmYWZhOTczMWM3ZTEw`

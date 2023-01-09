@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 
 > Wondering what to pick for your first dance? We got you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,769 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,840 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 30 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 31 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 |
 | 32 | [Better Together](https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:39 |
-| 33 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 |
-| 34 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:11 |
+| 33 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:11 |
+| 34 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 |
 | 35 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD) | 3:32 |
 | 36 | [Enchanted](https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 5:52 |
 | 37 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 48 | [Falling Like The Stars](https://open.spotify.com/track/395KzBy0bkb57dEvg6cfzJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:31 |
 | 49 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
 | 50 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
-| 51 | [Can't Take My Eyes off You](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:23 |
-| 52 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 |
+| 51 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 |
+| 52 | [Can't Take My Eyes off You](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:23 |
 | 53 | [Bless The Broken Road](https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Feels Like Today](https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy) | 3:46 |
 | 54 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
-| 55 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
-| 56 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 |
+| 55 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 |
+| 56 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
 | 57 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
 | 58 | [She](https://open.spotify.com/track/31Tp5iKrVUayn65qhg06nE) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [In Motion Pictures](https://open.spotify.com/album/2VNMoSXYKrjAAU4aqiTvtY) | 3:07 |
 | 59 | [The Way You Look Tonight](https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 74 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 |
 | 75 | [From the Ground Up](https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Obsessed](https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB) | 4:13 |
 
-Snapshot ID: `MTY2OTE4NzA1NywwMDAwMDAwMDhhMGMxMzAyMzllMWY1MmVjNjMyYmVhNDQ1ZWRkOTE0`
+Snapshot ID: `MTY2OTE4NzA1NywwMDAwMDAwMGRhNDcyMDFjYjBjZDUxYWJmOTRhMWQ4ODY5MWMzZjZm`

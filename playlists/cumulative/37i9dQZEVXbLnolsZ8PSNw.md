@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- United Kingdom.
 
-1,081 songs - 2 day 14 hr 44 min
+1,082 songs - 2 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Hello You](https://open.spotify.com/track/5ygEUpyZy5qtZ1423zymBW) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:04 | 2022-10-22 | 2022-10-24 |
 | [Here For You](https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Cognition](https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0) | 3:46 | 2022-02-12 | 2022-02-14 |
 | [Here We Go… Again \(feat\. Tyler, the Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-14 |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-01-08 |  |
 | [Hey Stephen \(Taylor’s Version\)](https://open.spotify.com/track/550erGcdD9n6PnwxrvYqZT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:14 | 2021-04-11 | 2021-04-13 |
 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2023-01-01 | 2023-01-03 |
 | [Hide & Seek](https://open.spotify.com/track/06UUKFWdB0NJIY0RfVfCYQ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 3:27 | 2022-11-26 |  |
@@ -697,7 +698,7 @@
 | [No Return \(with The Kid LAROI & Lil Durk\)](https://open.spotify.com/track/23OYT3SFtoJqhiAUqktbc1) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:48 | 2021-06-13 | 2021-06-14 |
 | [No Time \(feat\. Lil Durk\)](https://open.spotify.com/track/1vicAuW47ccp1l5mYmaWi7) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/3WgAFg6y9jmNYLdC4xzHBF) | 3:00 | 2021-07-18 | 2021-08-13 |
 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 | 2021-10-05 | 2021-10-16 |
-| [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-10 |  |
+| [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-10 | 2023-01-09 |
 | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/track/3PXmiB8Htr95ccAdKyIsyR) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Not Over Yet \(feat\. Tom Grennan\) \[Acoustic\]](https://open.spotify.com/album/7o0qLjITD7Qz4fWkYWUs6I) | 2:35 | 2022-09-17 | 2022-11-01 |
 | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh) | 2:35 | 2022-08-06 | 2022-09-18 |
 | [Not Over Yet Remix \(feat\. Headie One & Nines\)](https://open.spotify.com/track/17oMGPkdKaXQCJY3apPQYO) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Not Over Yet Remix \(feat\. Headie One & Nines\)](https://open.spotify.com/album/4TeC9TiBpPiPbq4K8HlweK) | 2:28 | 2022-08-29 | 2022-09-01 |

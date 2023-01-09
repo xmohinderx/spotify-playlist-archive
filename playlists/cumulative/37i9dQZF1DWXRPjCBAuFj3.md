@@ -4,7 +4,7 @@
 
 > I rapper più forti del mondo in una sola playlist\. Cover: Metro Boomin
 
-234 songs - 12 hr 12 min
+235 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Already Dead](https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:51 | 2022-07-28 |  |
 | [Alright \(feat\. 24kGoldn & Quavo\)](https://open.spotify.com/track/5T0ahhwM0f4YYExfIGEHVw) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Alright \(feat\. 24kGoldn & Quavo\)](https://open.spotify.com/album/5UT5cy2zj70DQrV4jlENIu) | 2:26 | 2022-05-10 | 2022-07-29 |
 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 | 2022-10-21 | 2023-01-06 |
-| [Attentat](https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:14 | 2022-05-10 |  |
+| [Attentat](https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:14 | 2022-05-10 | 2023-01-09 |
 | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/album/0tk8XMpaIuk587IlC8aIfP) | 2:58 | 2022-10-07 | 2022-12-13 |
 | [BABA \(Toma Tussi\)](https://open.spotify.com/track/5ZRM9cNzt2CS9eZyzEyRtZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [BABA \(Toma Tussi\)](https://open.spotify.com/album/1r9EOOBPe9kHk4NibkZcmK) | 2:00 | 2022-07-26 | 2022-11-13 |
 | [Bag Talk](https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bag Talk](https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5) | 2:27 | 2022-10-28 | 2023-01-06 |
@@ -224,6 +224,7 @@
 | [To The Bone \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 4:43 | 2022-10-07 |  |
 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 | 2022-05-10 |  |
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2022-09-27 |  |
+| [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 | 2023-01-06 |  |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-27 |  |
 | [Try Me](https://open.spotify.com/track/0tIHHwV2eL10rpQ1fiyDjz) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Try Me](https://open.spotify.com/album/71ziNzfuk5VLPwiAvQaC1X) | 2:21 | 2022-05-10 | 2022-07-29 |
 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 | 2022-11-18 |  |

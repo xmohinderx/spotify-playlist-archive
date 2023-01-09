@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Feid & DJ Premier
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,692 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,689 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 61 | [No Me Llames](https://open.spotify.com/track/2K8ZO92IWTr5q28XWYHNIj) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:08 |
 | 62 | [do you come here often?](https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [do you come here often?](https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0) | 2:34 |
 | 63 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
-| 64 | [Adelantah](https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Insomnia](https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy) | 3:24 |
-| 65 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 |
+| 64 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 |
+| 65 | [Adelantah](https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Insomnia](https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy) | 3:24 |
 | 66 | [Quítame](https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Quítame](https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8) | 2:43 |
 | 67 | [Deseo](https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Nothing Much Has Changed, I Don't Feel The Same](https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1) | 2:04 |
 | 68 | [oop](https://open.spotify.com/track/0ahGF0pnErz122RjmZGVjY) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE), [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [oop](https://open.spotify.com/album/2xqXrnqSVDylcr5QVKyHq4) | 2:22 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 73 | [Tu Castigo](https://open.spotify.com/track/5ZhNFzInNjdqmdIglUpidB) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Normal](https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP) | 3:47 |
 | 74 | [Tú y Yo](https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Memento](https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb) | 2:54 |
 | 75 | [Para Ti](https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Til Death](https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb) | 1:37 |
-| 76 | [caos](https://open.spotify.com/track/666gQThvRTs3OfeJURkKLh) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [3AM](https://open.spotify.com/album/6kq7kwgdD6Iq1naBCJRn2j) | 4:13 |
-| 77 | [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 |
-| 78 | [coisa linda](https://open.spotify.com/track/763GYv3anuAaSSA6kQ2bEa) | [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [coisa linda](https://open.spotify.com/album/0YowymrHvtYwqHyWcvvfkW) | 2:53 |
-| 79 | [Somebody That You Don't Know \(feat\. Rauw Alejandro\)](https://open.spotify.com/track/0lljBJMLGcTLm5Zn4KxQBH) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cheers to the Best Memories](https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA) | 2:56 |
+| 76 | [Somebody That You Don't Know \(feat\. Rauw Alejandro\)](https://open.spotify.com/track/0lljBJMLGcTLm5Zn4KxQBH) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cheers to the Best Memories](https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA) | 2:56 |
+| 77 | [caos](https://open.spotify.com/track/666gQThvRTs3OfeJURkKLh) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [3AM](https://open.spotify.com/album/6kq7kwgdD6Iq1naBCJRn2j) | 4:13 |
+| 78 | [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 |
+| 79 | [coisa linda](https://open.spotify.com/track/763GYv3anuAaSSA6kQ2bEa) | [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [coisa linda](https://open.spotify.com/album/0YowymrHvtYwqHyWcvvfkW) | 2:53 |
 | 80 | [Cenizas](https://open.spotify.com/track/54szHYyqK2XSdfsefoiGjj) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [Cenizas](https://open.spotify.com/album/0blTDBEGqFOeEUOAy0G4kV) | 3:29 |
 
-Snapshot ID: `MTY3MDg4MjUzMywwMDAwMDAwMDY4OGRlN2M0YjA2N2I1N2ExYTk2YmUwYzhiYmFjYjky`
+Snapshot ID: `MTY3MDg4MjUzMywwMDAwMDAwMGUzNmZmZTVhZDRlMjcwYzU3MTFkMDAyMTEwOGVlNDQ5`

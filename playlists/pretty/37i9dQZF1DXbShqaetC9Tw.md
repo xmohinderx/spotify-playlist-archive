@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,608 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,703 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 16 | [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/track/3K5LF6pX2oTzIQA62t6qnK) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/album/7wgyRpzVueGdjV9yozlIYj) | 4:00 |
 | 17 | [Flower \(Feat\. Jay Park, Woo, GIRIBOY\)](https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 4:33 |
 | 18 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
-| 19 | [study abroad \(Feat\. Han\-All\)](https://open.spotify.com/track/6O4S5bDDOrhnHcVkwyAx1L) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [starry night ‘17](https://open.spotify.com/album/2RPyn31wYLC9lWn4p0OVEI) | 3:52 |
-| 20 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 |
-| 21 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 |
+| 19 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 |
+| 20 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 |
+| 21 | [study abroad \(Feat\. Han\-All\)](https://open.spotify.com/track/6O4S5bDDOrhnHcVkwyAx1L) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [starry night ‘17](https://open.spotify.com/album/2RPyn31wYLC9lWn4p0OVEI) | 3:52 |
 | 22 | [A Song Nobody Knows](https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV) | 4:49 |
 | 23 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
 | 24 | [11:59 \(feat\. Goopy\)](https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq) | [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG), [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [11:59 \(feat\. Goopy\)](https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk) | 2:57 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 26 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
 | 27 | [Overthinking](https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 6:10 |
 | 28 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 |
-| 29 | [Space science](https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Space science](https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM) | 3:53 |
-| 30 | [Die For You \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Twilight](https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX) | 3:12 |
+| 29 | [Die For You \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Twilight](https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX) | 3:12 |
+| 30 | [Space science](https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Space science](https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM) | 3:53 |
 | 31 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 |
 | 32 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
 | 33 | [PIZZA](https://open.spotify.com/track/6tHZSykaov7NellMyqqn2u) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Far From the Madding City](https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 49 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
 | 50 | [Mliy](https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:53 |
 
-Snapshot ID: `MTY3MjA0NjUzNSwwMDAwMDAwMDgxM2E0MWZhOTUwM2VmNjQ2OTliNzEyMzc0MmU4NzU1`
+Snapshot ID: `MTY3MjA0NjUzNSwwMDAwMDAwMGYzNDAwMzIwODNkMTJkMTMwNTE0MTlkMDc1ZmU4NDIx`

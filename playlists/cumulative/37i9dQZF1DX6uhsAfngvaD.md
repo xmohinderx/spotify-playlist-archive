@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-325 songs - 20 hr 8 min
+326 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Horizonte](https://open.spotify.com/track/5NdXaEThCsw6fUd3BPxEUR) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Horizonte](https://open.spotify.com/album/3mgtCpiMYHkiXve8Wc0yxN) | 4:10 | 2021-03-26 | 2022-06-29 |
 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 | 2021-09-04 |  |
 | [How](https://open.spotify.com/track/24UzJSXpXqmGXrGjqAOFpY) | [The Analog Girl](https://open.spotify.com/artist/4PK6Yoxg2Ba8C2KQbysQkM) | [How](https://open.spotify.com/album/2nGV3NOhOn3Et78T5GF6VF) | 4:32 | 2021-03-26 | 2022-07-26 |
-| [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/track/4g0ElvVfW24EHPdfWo2I8w) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/album/6ya53tyYpsLogdzeCJdTsL) | 2:59 | 2022-07-06 |  |
+| [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/track/4g0ElvVfW24EHPdfWo2I8w) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/album/6ya53tyYpsLogdzeCJdTsL) | 2:59 | 2022-07-06 | 2023-01-09 |
 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 | 2021-09-23 | 2022-07-29 |
 | [how do you feel](https://open.spotify.com/track/3BMcTB54pN4oZlIIPNxcy1) | [strawbey](https://open.spotify.com/artist/3Ecd4KEdZpKTW8gi3HOmeX) | [play pretend](https://open.spotify.com/album/47wxXFDjvNfaGnMPaxBjT4) | 4:57 | 2020-10-08 | 2022-07-29 |
 | [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 | 2021-12-05 | 2022-10-25 |
@@ -316,6 +316,7 @@
 | [What We Left Behind](https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5) | 3:55 | 2021-03-26 | 2022-10-19 |
 | [Whatever You Told Her](https://open.spotify.com/track/0AACjaI0rxjufqxmsu6OfF) | [Youth Portal](https://open.spotify.com/artist/2kVgqhZLV3FxkiJfjN6Vdp), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Whatever You Told Her](https://open.spotify.com/album/1BjbeBsXQYRPNNnYgVuHWF) | 2:34 | 2019-11-19\* | 2020-08-09 |
 | [When I Look Back](https://open.spotify.com/track/0NyE3z63bQpiqDkx6DSjl0) | [Lev Snowe](https://open.spotify.com/artist/2lRRqJBopJfhZswiXar3a5) | [When I Look Back](https://open.spotify.com/album/4xACcBNQ48OYJPrsyjnEwL) | 4:39 | 2019-11-19\* | 2020-11-06 |
+| [Where The Light Used To Lay](https://open.spotify.com/track/3cN6n7yeYM3QEOswqQVmV8) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:36 | 2022-07-06 |  |
 | [Where The Light Used To Lay](https://open.spotify.com/track/3rPD7muv5zfAnHUttFJ2R0) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Where The Light Used To Lay](https://open.spotify.com/album/5dta0K0dySJ527iiB9AFFa) | 3:36 | 2022-02-24 | 2022-07-29 |
 | [Without A Blush](https://open.spotify.com/track/5zaVuOiil4YVgKLXEbya43) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Without A Blush](https://open.spotify.com/album/1v3PP2raKm1VAMbgMLsF0w) | 4:58 | 2019-11-19\* | 2020-08-09 |
 | [Won't You Be Happy](https://open.spotify.com/track/15TTCCmsbOxKeb9QGr0At7) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [Won't You Be Happy](https://open.spotify.com/album/4Ucjnk2Zmlq0c3Atp4lChH) | 3:53 | 2020-08-09 | 2022-06-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain]
 
 > Canciones que marcaron época en nuestro rock\. ¡Para cantar a los gritos! Foto: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,277 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,925 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain]
 | 45 | [Sr\. Cobranza](https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 4:19 |
 | 46 | [Los Globos del Cielo](https://open.spotify.com/track/0gnsuw6eGZEwph1rKnxzOu) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:59 |
 | 47 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
-| 48 | [Por el Resto](https://open.spotify.com/track/2Goy8S7mDU8mDrbgxlQ2WA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habitaciones Extrañas](https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2) | 4:26 |
+| 48 | [Prófugos](https://open.spotify.com/track/1Bov4bMY1IgfOrvUWWbhSe) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Obras Cumbres](https://open.spotify.com/album/7MqDgagaBfm7Cjlg7uzlAa) | 5:20 |
 | 49 | [Mal Bicho](https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Originales \- 20 Exitos](https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc) | 4:03 |
-| 50 | [Prófugos](https://open.spotify.com/track/1Bov4bMY1IgfOrvUWWbhSe) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Obras Cumbres](https://open.spotify.com/album/7MqDgagaBfm7Cjlg7uzlAa) | 5:20 |
+| 50 | [Por el Resto](https://open.spotify.com/track/2Goy8S7mDU8mDrbgxlQ2WA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habitaciones Extrañas](https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2) | 4:26 |
 
-Snapshot ID: `MTY2MTg5NjAyOSwwMDAwMDAwMDRlZmY2OWMyYWVhY2VlYzk0Y2UyY2E5NTY4ODFjODVm`
+Snapshot ID: `MTY2MTg5NjAyOSwwMDAwMDAwMDEyZjY2NGU4MzMyMTU1MGRlOGRjZmU2MjJmNjdiMzY1`

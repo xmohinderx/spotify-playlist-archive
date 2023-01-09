@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSyphfcc6aL.md) - [plain]
 
 > Need to break a sweat? Turn these jams up and stay motivated!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,764 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238,297 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSyphfcc6aL.md) - [plain]
 | 5 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
 | 6 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 |
 | 7 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 |
-| 8 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
-| 9 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 |
+| 8 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 |
+| 9 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
 | 10 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
 | 11 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 12 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSyphfcc6aL.md) - [plain]
 | 52 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
 | 53 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
 | 54 | [Love Tonight \- David Guetta Remix Edit](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 |
-| 55 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
-| 56 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
+| 55 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
+| 56 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
 | 57 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 |
 | 58 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
 | 59 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSyphfcc6aL.md) - [plain]
 | 69 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 |
 | 70 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
 
-Snapshot ID: `MTY2ODA4NTIwMCwwMDAwMDAwMGUwYWQ1MWU2ZTBjYzg1YWM4Njc4NmY5OTMwM2RkMDY5`
+Snapshot ID: `MTY2ODA4NTIwMCwwMDAwMDAwMGQxZmMxYjBlNGExYzA1ZTJlODA0NzY0YTQ1MmIxZGNi`

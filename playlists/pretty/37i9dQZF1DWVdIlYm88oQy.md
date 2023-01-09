@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > This is the Latin soundtrack of the 70s! Cover:  José José
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,166 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,226 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 77 | [Libre](https://open.spotify.com/track/2zC0ObgALavrI8pg23ggPR) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Lo Mejor De...](https://open.spotify.com/album/3UJiui06mKfzd3ERnIrcCA) | 4:11 |
 | 78 | [Nasty Sexo](https://open.spotify.com/track/1QF2cLdi0hsrXlzaNOmHoS) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata 45 Aniversario](https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v) | 6:20 |
 | 79 | [No Mercedes](https://open.spotify.com/track/6c8xw7vfxc0gDz3OFU2qxC) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:18 |
-| 80 | [La Murga](https://open.spotify.com/track/0ERampYomIgYBMJlX3rKXY) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [A Man And His Music: The Player](https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg) | 5:34 |
-| 81 | [El Cazanguero](https://open.spotify.com/track/4MlbAHuESYOsLGu8i7wFVY) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [A Man And His Music: Poeta del Pueblo](https://open.spotify.com/album/3OFaszBlhmz3MkM8fpP2Nf) | 4:06 |
+| 80 | [El Cazanguero](https://open.spotify.com/track/4MlbAHuESYOsLGu8i7wFVY) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [A Man And His Music: Poeta del Pueblo](https://open.spotify.com/album/3OFaszBlhmz3MkM8fpP2Nf) | 4:06 |
+| 81 | [La Murga](https://open.spotify.com/track/0ERampYomIgYBMJlX3rKXY) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [A Man And His Music: The Player](https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg) | 5:34 |
 | 82 | [Murmullo Del Mar](https://open.spotify.com/track/2XAyyJigU8OPixEtBLXAIi) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Alma con Alma](https://open.spotify.com/album/7sbG3cmyJzRI5QAA5fK1uf) | 3:07 |
 | 83 | [La Vida](https://open.spotify.com/track/2yRZ94l0C9WzASirjKKuwI) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [I Can See](https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6) | 3:06 |
 | 84 | [Amor del Alma](https://open.spotify.com/track/0tNhDyaUDr2CY9rStDbc2l) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Del Alma \(Los Mejores Boleros Y Baladas De rocio Durcal\)](https://open.spotify.com/album/589YR8hhnGQp2ucKKbIfUj) | 2:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 89 | [Por Creer en Ti](https://open.spotify.com/track/4rwhcZ5qKOae4CGp78LSjG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 Éxitos](https://open.spotify.com/album/3sMYq7e2hCexGBrFA73dS7) | 2:01 |
 | 90 | [Lágrimas y Lluvia](https://open.spotify.com/track/3rMg1HEQFyLnZBJTAmKd7o) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 2:59 |
 
-Snapshot ID: `MTY2MTkzMDk2MywwMDAwMDAwMGYzZjkyNTljZTllODg1YWYwZTI2ZTE4MzU4OGE4NGU5`
+Snapshot ID: `MTY2MTkzMDk2MywwMDAwMDAwMDIzYmUwMDhmZmE2MDcxNzY0OTczZTBkYzJkZmUyNjYw`

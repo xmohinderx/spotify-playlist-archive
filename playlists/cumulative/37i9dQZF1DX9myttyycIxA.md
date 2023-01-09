@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Teenage Priest
 
-760 songs - 1 day 19 hr 30 min
+762 songs - 1 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Claudion](https://open.spotify.com/track/5thGGhLkRO7o0Z09QNK6A7) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. IV](https://open.spotify.com/album/0nfUG6Ws597JKJPQbk41q5) | 4:27 | 2021-03-05 | 2022-04-20 |
 | [Claw Your Way Out](https://open.spotify.com/track/3HjohYDsYZg2KLhYjto8Hq) | [Pluralone](https://open.spotify.com/artist/5jQsMNuCW0iZeFTz6YUK8K) | [Claw Your Way Out](https://open.spotify.com/album/6ZXoRg5L8XMA7M3HC2QOpl) | 3:03 | 2022-03-26 | 2022-04-21 |
 | [Clear](https://open.spotify.com/track/12eZXTxOcrp9LAGxcgUMqB) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 3:03 | 2022-05-27 | 2022-07-23 |
-| [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 | 2022-10-07 |  |
+| [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 | 2022-10-07 | 2023-01-09 |
 | [coastline](https://open.spotify.com/track/06J6MvuHOCOI5HerZaKKy2) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [coastline](https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy) | 2:38 | 2022-04-29 | 2022-04-30 |
 | [Color of the Pool](https://open.spotify.com/track/487No2iHijl2TqOM6OBC3U) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Color of the Pool](https://open.spotify.com/album/6BnLKRLuEEeTwZwfVk1Eo3) | 2:22 | 2021-08-13 | 2022-03-27 |
 | [COMATOSE](https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COMATOSE](https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K) | 3:28 | 2022-03-07 | 2022-04-18 |
@@ -339,6 +339,7 @@
 | [Home](https://open.spotify.com/track/1spaVEd0xNQTvWhfxd1e4s) | [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Home](https://open.spotify.com/album/2Atw6gOebFEmz3aOVr3CpR) | 4:22 | 2022-01-28 | 2022-03-18 |
 | [Honey Understand](https://open.spotify.com/track/1FnqKOwkmTClK22zr3kWuH) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Honey Understand](https://open.spotify.com/album/5RltgL786Wbbtt2TT4rWsR) | 4:01 | 2022-03-04 | 2022-03-27 |
 | [Honeysuckle](https://open.spotify.com/track/6umIKY6aZA3sT1TUJJ5mMv) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Honeysuckle](https://open.spotify.com/album/3H8BHWmccvd9NwpziIUEHU) | 3:43 | 2021-03-05 | 2022-04-14 |
+| [Hot and Clumsy](https://open.spotify.com/track/50aFetaKwC3pKTLyUWh7UZ) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Hot and Clumsy](https://open.spotify.com/album/4mVZsDCMoexn0hrJxFy9f6) | 4:31 | 2023-01-06 |  |
 | [Housekeys](https://open.spotify.com/track/1qjSdzpCDpXhWqVtUlaFSM) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Housekeys](https://open.spotify.com/album/0NE4GXtHwL82n1NVKQa23k) | 3:44 | 2021-06-25 | 2022-03-27 |
 | [How Are You](https://open.spotify.com/track/0qEHThgZt3tBipnvHL5PYt) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [How Are You](https://open.spotify.com/album/3Pm1iQG3ktEPMacNr1Qqu1) | 4:33 | 2021-04-02 | 2022-04-29 |
 | [How It Ends](https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/31x43z5gF8ZJZnpfXFrN24) | 3:07 | 2022-09-23 |  |
@@ -467,7 +468,7 @@
 | [my favorite things](https://open.spotify.com/track/0XB8C36wLdj1GuzsXFCfVv) | [Molly Frances](https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh) | [my favorite things](https://open.spotify.com/album/7tLedYLB53PpUPOjYdffp5) | 2:41 | 2022-12-16 |  |
 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/0RMxx9ZD0KXSnUYPwunVbw) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/7DaHhFanoQbsCBHM7bzWUa) | 2:17 | 2022-03-26 | 2022-05-19 |
 | [Mythical Bonds](https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mythical Bonds](https://open.spotify.com/album/74Q7dSC1RXdhoB76Eac49Q) | 2:04 | 2022-07-22 | 2022-12-15 |
-| [National Team](https://open.spotify.com/track/7xuuu097llYHPptd42QxOV) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [National Team](https://open.spotify.com/album/0ebH6G0lKJ32rdd6lmvsHQ) | 3:33 | 2022-10-28 |  |
+| [National Team](https://open.spotify.com/track/7xuuu097llYHPptd42QxOV) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [National Team](https://open.spotify.com/album/0ebH6G0lKJ32rdd6lmvsHQ) | 3:33 | 2022-10-28 | 2023-01-09 |
 | [Navy](https://open.spotify.com/track/7kReLxmnpzrUBEp6fzFY8E) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Navy](https://open.spotify.com/album/721v4tJJZVgOJgrftH01l9) | 3:34 | 2021-09-10 | 2022-04-28 |
 | [Necromancer](https://open.spotify.com/track/0aVM2DspPoHNTDBm7ehySx) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Joy Again](https://open.spotify.com/album/65lnDjCMHpSzQFQFYwF9AE) | 2:33 | 2022-04-29 | 2022-05-03 |
 | [Never Be The Same \(Andrew VanWyngarden Mix\)](https://open.spotify.com/track/70M98T72nkHYIspWyvAnIA) | [Club Intl](https://open.spotify.com/artist/4ocgkEqase6QoOnj6O5wUq), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [Johnny Jewel](https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR), [John Eatherly](https://open.spotify.com/artist/5FgE0utDmmiiVaaFQNO6GZ) | [Never Be The Same](https://open.spotify.com/album/5y6MKcoAspRVH8OOUb2EsF) | 5:46 | 2021-03-05 | 2022-03-22 |
@@ -492,6 +493,7 @@
 | [Northern Towns](https://open.spotify.com/track/689vwSsc5umNZaG4B4Zqhh) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/0rYpfUMgOBdTGe9Qpw4Ud1) | 2:56 | 2021-03-05 | 2022-04-17 |
 | [Nostalgia Seed](https://open.spotify.com/track/64eJOf186peUV6FZaGbWGf) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Nostalgia Seed](https://open.spotify.com/album/7cih3U9qveQHpzGTFIGNx5) | 3:01 | 2021-04-30 | 2022-03-14 |
 | [Not in the Cards](https://open.spotify.com/track/29QbcQ0P5uD76Uwk9XOxmp) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [You Thought We Left Because The Door Was Open But We Were Waiting Outside](https://open.spotify.com/album/3njVnwW9KBX7kIZDJdA1dS) | 2:08 | 2022-04-29 | 2022-10-01 |
+| [nothing special](https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [nothing special](https://open.spotify.com/album/5zBQc6QgD0o0ss1JdIjSFB) | 3:23 | 2023-01-06 |  |
 | [nothing to do](https://open.spotify.com/track/4LkMLBc3HDYi7lQsaeq7C7) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [sore thumb](https://open.spotify.com/album/6EjM6iU0bqurQwwSN3Ln0T) | 3:04 | 2022-03-26 | 2022-07-09 |
 | [Nowhere](https://open.spotify.com/track/0WwPT9bZCwOlqaj2G7Pojr) | [Little Guilt](https://open.spotify.com/artist/7poBjSledYHe5LE2LgOhrv) | [Nowhere](https://open.spotify.com/album/2L5u7oVg5oIoSk0a11Ef7g) | 3:12 | 2022-10-14 | 2022-12-15 |
 | [Nowhere, LA](https://open.spotify.com/track/7MmY1Y5pzY7U84sf8KH7uE) | [Why Bonnie](https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9) | [Nowhere, LA](https://open.spotify.com/album/26cITT0Klc8cspvfpH9WNH) | 3:26 | 2022-07-29 | 2022-12-15 |

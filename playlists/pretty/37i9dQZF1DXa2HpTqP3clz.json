@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Trampled by Turtles",
-  "num_followers": 116503,
+  "num_followers": 116554,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGEyZGFmZWQ0MzQyZjY3Y2ZmNGIyYTZmNDc4ZTAwYjYw",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGQzOWM2YmVkMmMyZGVjNGNlZjkwZTRiMDhmYjAwODRm",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Lyin' Low",
-        "url": "https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 258683,
-      "name": "Lyin' Low",
-      "url": "https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
         "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 182120,
       "name": "You Were on My Mind This Morning",
       "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Lyin' Low",
+        "url": "https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 258683,
+      "name": "Lyin' Low",
+      "url": "https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "In The Morning Light",
         "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 282480,
       "name": "In The Morning Light",
       "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
+      },
+      "artists": [
+        {
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Tall Tales & Fables",
+        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
+      },
+      "artists": [
+        {
+          "name": "Haunted Like Human",
+          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
+        }
+      ],
+      "duration_ms": 177414,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Charm School (feat. Billy Strings & Chris Thile)",
         "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 483442,
       "name": "Charm School (feat. Billy Strings & Chris Thile)",
       "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Tall Tales & Fables",
-        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
-      },
-      "artists": [
-        {
-          "name": "Haunted Like Human",
-          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
-        }
-      ],
-      "duration_ms": 177414,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/3B6rXVRd0W6KkRpWNDSCdF"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263662,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/0yFEjOFIloELuqQZoYJZR1"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Message From Heaven",
         "url": "https://open.spotify.com/album/7eui7uH5V3HbAp0JLdHMTf"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 224800,
       "name": "Message From Heaven",
       "url": "https://open.spotify.com/track/5T2x4bRxNJJ7DxZVccf0WK"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/3B6rXVRd0W6KkRpWNDSCdF"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263662,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/0yFEjOFIloELuqQZoYJZR1"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Run, Rose, Run",
-        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 193173,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Honey on My Tongue",
         "url": "https://open.spotify.com/album/05H2cjz5UyKcNXkZAVw0vn"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 203346,
       "name": "Honey on My Tongue",
       "url": "https://open.spotify.com/track/7dWU9dceisIvOkZuteFl1A"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Run, Rose, Run",
+        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 193173,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1591,30 +1591,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
-        "url": "https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 255369,
-      "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
-      "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Not Our First Goat Rodeo",
         "url": "https://open.spotify.com/album/4NDXeXypRq8YdFCKqg4sAn"
       },
@@ -1647,6 +1623,66 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "My Bluegrass Heart",
+        "url": "https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 369571,
+      "name": "Round Rock (feat. Michael Cleveland & Jerry Douglas)",
+      "url": "https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "All The Lilacs In Ohio",
+        "url": "https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "All The Lilacs In Ohio",
+      "url": "https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Rise Sun",
+        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 348849,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Rivers And Roads",
         "url": "https://open.spotify.com/album/7tPitSQcPX2drfsf4Uuw7F"
       },
@@ -1675,42 +1711,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Rise Sun",
-        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 348849,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "All The Lilacs In Ohio",
-        "url": "https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "All The Lilacs In Ohio",
-      "url": "https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Drifter",
         "url": "https://open.spotify.com/album/69UJfZuTLuRKsM9dLgsf40"
       },
@@ -1723,30 +1723,6 @@
       "duration_ms": 174773,
       "name": "95 Years",
       "url": "https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "My Bluegrass Heart",
-        "url": "https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 369571,
-      "name": "Round Rock (feat. Michael Cleveland & Jerry Douglas)",
-      "url": "https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1799,6 +1775,30 @@
       "duration_ms": 190634,
       "name": "Run To Heaven",
       "url": "https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
+        "url": "https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 255369,
+      "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
+      "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
     }
   ],
   "unique_name": "Grass Roots",

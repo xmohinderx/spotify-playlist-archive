@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDJkMzk1YTNjZmZlOWU4YzFlY2Y1Mzk0YWZlYzc5ZTI5",
+  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMGJkYjdlMDljOWFmMmFhMWQ3NGYwNzJjZjVjMjJlMDNk",
   "tracks": [
     {
       "added_at": "2022-04-17 06:11:04",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Awesome (Remixes)",
-        "url": "https://open.spotify.com/album/32vZndDj0nQMdWrUESU0eF"
-      },
-      "artists": [
-        {
-          "name": "Charles Jenkins & Fellowship Chicago",
-          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Awesome",
-      "url": "https://open.spotify.com/track/6b1RS3RtYHYbZK1DQUjpvB"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Awesome (Remixes)",
+        "url": "https://open.spotify.com/album/32vZndDj0nQMdWrUESU0eF"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins & Fellowship Chicago",
+          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
+        }
+      ],
+      "duration_ms": 348773,
+      "name": "Awesome",
+      "url": "https://open.spotify.com/track/6b1RS3RtYHYbZK1DQUjpvB"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "The Life Project",
-        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 446666,
-      "name": "You're Bigger",
-      "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "The Gathering",
         "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 505120,
       "name": "If God / Nothing But the Blood",
       "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 446666,
+      "name": "You're Bigger",
+      "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -563,6 +563,26 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "The Rebirth of Kirk Franklin",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "duration_ms": 368560,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 603749,
       "name": "Blood is Still the Blood (feat. Chandler Moore, Nicole Binion, Ryan Ofei)",
       "url": "https://open.spotify.com/track/4W4F7oBnGoSBGXQYpnQDGc"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "The Rebirth of Kirk Franklin",
-        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 368560,
-      "name": "Don't Cry",
-      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
-        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker & The Love Fellowship Crusade Choir",
-          "url": "https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "I've Got a Testimony",
         "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 392639,
       "name": "The Blessing (feat. Maranda Curtis)",
       "url": "https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
+        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker & The Love Fellowship Crusade Choir",
+          "url": "https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Demonstrate (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM"
-      },
-      "artists": [
-        {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
-        }
-      ],
-      "duration_ms": 348680,
-      "name": "Arise (You Are Good)",
-      "url": "https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Alone In His Presence",
         "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 277533,
       "name": "Blood Medley",
       "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Demonstrate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "duration_ms": 348680,
+      "name": "Arise (You Are Good)",
+      "url": "https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "One Church",
+        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
+      },
+      "artists": [
+        {
+          "name": "Kurt Carr",
+          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
+        }
+      ],
+      "duration_ms": 399400,
+      "name": "They Didn't Know",
+      "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "One Church",
-        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
-      },
-      "artists": [
-        {
-          "name": "Kurt Carr",
-          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
-        }
-      ],
-      "duration_ms": 399400,
-      "name": "They Didn't Know",
-      "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Live in Concert",
+        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
+      },
+      "artists": [
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "duration_ms": 573933,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "My Tribute",
         "url": "https://open.spotify.com/album/3CbTWKbmQz0kJnALoC5qsB"
       },
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Live in Concert",
-        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
+        "name": "The Essential Fred Hammond",
+        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
       },
       "artists": [
         {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
         }
       ],
-      "duration_ms": 573933,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
+      "duration_ms": 244653,
+      "name": "Celebrate (He Lives)",
+      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1487,22 +1503,6 @@
       "duration_ms": 123426,
       "name": "For the Love of the People",
       "url": "https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "The Essential Fred Hammond",
-        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Celebrate (He Lives)",
-      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
     },
     {
       "added_at": "2022-04-17 06:11:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,444 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,509 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 10 | [Apostrophe'](https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Apostrophe\('\)](https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu) | 5:49 |
 | 11 | [The Knew Untitled](https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 4:27 |
 | 12 | [Flight of the Murder Hornet](https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Carlos Homs](https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx), [Lenny "The Ox" Reece](https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk) | [Flight of the Murder Hornet](https://open.spotify.com/album/21M84J17hsuB505XLw2w9W) | 3:53 |
-| 13 | [Xavi](https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Immigrance](https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge) | 9:31 |
-| 14 | [Hazard Profile, Pt\. 1 \- 2022 Remaster](https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 9:17 |
+| 13 | [Hazard Profile, Pt\. 1 \- 2022 Remaster](https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 9:17 |
+| 14 | [Xavi](https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Immigrance](https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge) | 9:31 |
 | 15 | [Rain Dog](https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Bookshelf](https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm) | 4:20 |
 | 16 | [Lymaks](https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Batch](https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo) | 6:14 |
 | 17 | [Triggers](https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr) | 5:47 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 26 | [Inner Babylon](https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/7Mzsu0oVInnu9zOzVSBgK2) | 5:20 |
 | 27 | [because](https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/5mSsvyHSeGsi5Jse1LiE49) | 4:24 |
 | 28 | [Vital Transformation \(with John McLaughlin\) \- Remastered](https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:15 |
-| 29 | [Zeal](https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal](https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp) | 6:23 |
-| 30 | [Taurian Matador](https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA) | 3:03 |
+| 29 | [Taurian Matador](https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA) | 3:03 |
+| 30 | [Zeal](https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal](https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp) | 6:23 |
 | 31 | [Novruz](https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Planet](https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL) | 5:32 |
 | 32 | [Akashic Xronicles](https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Akashic Xronicles](https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P) | 4:27 |
 | 33 | [Never Ending](https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Never Ending](https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC) | 2:49 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 44 | [Whippersnapper](https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf) | [Wayne Krantz](https://open.spotify.com/artist/2jT3Zlaqv3r8hxHdWE8Xig) | [Two Drink Minimum](https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP) | 6:47 |
 | 45 | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/album/3L6Ftrxf6KXKMOd5vXWquC) | 4:08 |
 | 46 | [Tayakadın](https://open.spotify.com/track/1ZevLGcq0eXAPT5ZKrWdXN) | [Geeva Flava](https://open.spotify.com/artist/1gzLVGMn6ZcMIEnqOGLyQl), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Tayakadın](https://open.spotify.com/album/4Uu07mQBHdCZj4LTYJe4vz) | 8:16 |
-| 47 | [Earthrise](https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf) | 6:41 |
-| 48 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
+| 47 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
+| 48 | [Earthrise](https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf) | 6:41 |
 | 49 | [Truck Fump](https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 5:05 |
 | 50 | [The Noonward Race \- Remastered](https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:27 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDQ5YjdkZDMxN2U3NDg5ZWFlM2MzMWM2ODdlY2E3MDRj`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGJmODBiNjM5YTgwNWMzYWUyZDhiNDM1NzJhNGFjNGE4`

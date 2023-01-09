@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: Chromeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,109 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,156 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 72 | [Stuck On Repeat \- Fake Blood Mix](https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30), [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Hands: Bonus Disc](https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c) | 6:26 |
 | 73 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 | 74 | [White Knight Two](https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [Next of Kin \- EP](https://open.spotify.com/album/5Sexq80a1kkKBPsjwaPh2y) | 5:00 |
-| 75 | [Cocotte](https://open.spotify.com/track/0wQLUNmt4sr3VWom2IU7yP) | [Teenage Bad Girl](https://open.spotify.com/artist/6sD3igMnVxPgbmwistAoBb) | [Cocotte](https://open.spotify.com/album/6eqdmGdk3oA1YOFLkWEXfR) | 4:22 |
+| 75 | [Gay Dentists](https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 3:38 |
 
-Snapshot ID: `MTY2MTM4MDE1MywwMDAwMDAwMDY4ODE1MGIwNzQ3NGUxOTlhZDllNzNmYzcwMzc5ZTVh`
+Snapshot ID: `MTY2MTM4MDE1MywwMDAwMDAwMDFmZjc5YWQyNDljNzlhYjYzOGM1MjJiOGEzMGMwNjk4`

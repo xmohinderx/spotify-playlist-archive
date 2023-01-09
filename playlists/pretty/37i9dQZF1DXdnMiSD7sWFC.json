@@ -1,12 +1,12 @@
 {
   "description": "your guide for a peaceful night.",
-  "num_followers": 44409,
+  "num_followers": 44461,
   "original_name": "night light ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDY2YTVjM2JhMjE2ZWU0ZWQwMjUwZGE2YTBjMzlmNTAw",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDNkZWM0YzlmMjFiMmZiZjU3ZWI3MTA4YTQ5NWU2NjVl",
   "tracks": [
     {
       "added_at": "2022-01-12 17:58:24",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 225484,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
         "name": "Seventeen Again (feat. Novo Amor)",
         "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 324186,
       "name": "Sugar Baby",
       "url": "https://open.spotify.com/track/2azVRgjUiKxEoUn9loNAFO"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 225484,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 251008,
-      "name": "Belly of the Beast",
-      "url": "https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Reach Out / Olympus",
         "url": "https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 223344,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 251008,
+      "name": "Belly of the Beast",
+      "url": "https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC"
     },
     {
       "added_at": "2022-01-12 17:58:24",

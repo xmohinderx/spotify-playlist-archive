@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 100626,
+  "num_followers": 100677,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMGJkZTU0Yzg3M2I5MzQxYTNlYWEyMmMyNDU5MTVjZjQ4",
+  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMDVjNDZhNjFlZDY2NGYyMzc5M2FmMzMxYThkZTFhYzg5",
   "tracks": [
     {
       "added_at": "2022-12-01 13:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "the come up",
-        "url": "https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1"
-      },
-      "artists": [
-        {
-          "name": "poolsideconvo",
-          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
-        }
-      ],
-      "duration_ms": 271717,
-      "name": "lights up",
-      "url": "https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Body Language, Vol. 24",
         "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 420272,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "the come up",
+        "url": "https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1"
+      },
+      "artists": [
+        {
+          "name": "poolsideconvo",
+          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
+        }
+      ],
+      "duration_ms": 271717,
+      "name": "lights up",
+      "url": "https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -463,22 +463,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Giving Up",
-        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
+        "name": "Black Rain (\u00c2me Remix)",
+        "url": "https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         },
         {
-          "name": "Mafro",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
         }
       ],
-      "duration_ms": 203751,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
+      "duration_ms": 352916,
+      "name": "Black Rain - \u00c2me Remix",
+      "url": "https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -503,22 +503,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Black Rain (\u00c2me Remix)",
-        "url": "https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF"
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         },
         {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+          "name": "Mafro",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         }
       ],
-      "duration_ms": 352916,
-      "name": "Black Rain - \u00c2me Remix",
-      "url": "https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh"
+      "duration_ms": 203751,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "All Together, Here Together",
         "url": "https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 238000,
       "name": "All Together, Here Together",
       "url": "https://open.spotify.com/track/1fUy3z7TaLqyUF3VDuBzLR"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "The Corner",
-        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "The Corner",
-      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Setting Sun",
         "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 373166,
       "name": "Setting Sun",
       "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "The Corner",
+        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "The Corner",
+      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe"
-      },
-      "artists": [
-        {
-          "name": "Waleed",
-          "url": "https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs"
-        }
-      ],
-      "duration_ms": 298285,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Bleu",
         "url": "https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe"
+      },
+      "artists": [
+        {
+          "name": "Waleed",
+          "url": "https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs"
+        }
+      ],
+      "duration_ms": 298285,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "Happiness, Guaranteed",
         "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 281240,
       "name": "Shallow Water",
       "url": "https://open.spotify.com/track/1lJPVwuvM9b8wpdZIYRNq9"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "The Work",
+        "url": "https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 337266,
+      "name": "Plastic Future",
+      "url": "https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1115,6 +1131,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "Is It Me",
         "url": "https://open.spotify.com/album/7bdQzzdr4GwfMZIP5G6rKl"
       },
@@ -1147,38 +1179,6 @@
       "duration_ms": 308623,
       "name": "by the reservoir",
       "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "The Work",
-        "url": "https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 337266,
-      "name": "Plastic Future",
-      "url": "https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2022-12-01 13:00:00",

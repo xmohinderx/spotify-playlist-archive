@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,062 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,491 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 46 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
 | 47 | [Sweating Bullets \- Remastered 2004](https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:27 |
 | 48 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
-| 49 | [Feuer frei!](https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 3:08 |
-| 50 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
+| 49 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
+| 50 | [Feuer frei!](https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 3:08 |
 | 51 | [Blinded](https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 3:22 |
 | 52 | [Overkill](https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 5:11 |
 | 53 | [Under and Over It](https://open.spotify.com/track/7DyCmfT0WNViykLTHGT3yO) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 3:38 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 61 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 |
 | 62 | [Doomsday](https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:08 |
 | 63 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 |
-| 64 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 |
-| 65 | [The Remedy](https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:03 |
-| 66 | [Cloud Connected](https://open.spotify.com/track/0dHogHUS4xgLOoFBt0ko1j) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Reroute to Remain](https://open.spotify.com/album/2V5Jx67RInNn2v0LGihiWh) | 3:40 |
-| 67 | [Great War](https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Great War](https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411) | 4:28 |
+| 64 | [The Remedy](https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:03 |
+| 65 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 |
+| 66 | [Great War](https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Great War](https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411) | 4:28 |
+| 67 | [Cloud Connected](https://open.spotify.com/track/0dHogHUS4xgLOoFBt0ko1j) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Reroute to Remain](https://open.spotify.com/album/2V5Jx67RInNn2v0LGihiWh) | 3:40 |
 | 68 | [You Only Live Once](https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Black Crown](https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L) | 3:12 |
 | 69 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
 | 70 | [Angel Of Death](https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 99 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
 | 100 | [Only](https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Sound of White Noise \- Expanded Edition](https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza) | 4:56 |
 
-Snapshot ID: `MTY2ODc3MjgwMCwwMDAwMDAwMGZhMjRiNzhkZjZjOGNlNTBmZTU4ZWEyZDRjN2U2ODQ2`
+Snapshot ID: `MTY2ODc3MjgwMCwwMDAwMDAwMDJjNDYyMjllYzRmNmZjYTMwZjFmNmViNjhhNmQ4ODRk`

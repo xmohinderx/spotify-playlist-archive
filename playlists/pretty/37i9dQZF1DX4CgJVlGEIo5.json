@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 308446,
+  "num_followers": 308652,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDM1NjhjNDIwY2I4ZTE2NTk5Mzc4ZDdhZDNhNGYwZmUz",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDVmYzQ1YWY3YzYyNGU3NzdlZDlmYTEzMTA1MDQ4Njdl",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Going In",
         "url": "https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 161324,
       "name": "Going In",
       "url": "https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 194266,
-      "name": "Moon in the Morning",
-      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
+      "duration_ms": 188080,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1167,34 +1167,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 188080,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 172863,
-      "name": "O Me O My",
-      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
+      "duration_ms": 194266,
+      "name": "Moon in the Morning",
+      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 172863,
+      "name": "O Me O My",
+      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Concrete Jungle (Acoustic)",
-        "url": "https://open.spotify.com/album/2UMY8zdbiUZ4gxoHrtj44Q"
-      },
-      "artists": [
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 160345,
-      "name": "Concrete Jungle - Acoustic",
-      "url": "https://open.spotify.com/track/6RGkwhDLaHxWWXY0jn1jFv"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Immune",
         "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Concrete Jungle (Acoustic)",
+        "url": "https://open.spotify.com/album/2UMY8zdbiUZ4gxoHrtj44Q"
+      },
+      "artists": [
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 160345,
+      "name": "Concrete Jungle - Acoustic",
+      "url": "https://open.spotify.com/track/6RGkwhDLaHxWWXY0jn1jFv"
     }
   ],
   "unique_name": "Easy Acoustic",

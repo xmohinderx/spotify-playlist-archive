@@ -1,12 +1,12 @@
 {
   "description": "Take a trip down memory lane with these noughties classics...",
-  "num_followers": 1051621,
+  "num_followers": 1051712,
   "original_name": "Easy 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUwNjE5OSwwMDAwMDAwMGIyZTYwY2M0NzZjNmMwNDNkOTg3ZmE2YTUwZjA3ODcw",
+  "snapshot_id": "MTY0MjUwNjE5OSwwMDAwMDAwMDFlNDk0YmU5ZjY1YmM4NjIwMzAwYzVhNDlkNjNlNjI2",
   "tracks": [
     {
       "added_at": "2020-07-08 17:51:15",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "Escapology",
-        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "Lazarus",
         "url": "https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 211160,
       "name": "Billionaire (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "Escapology",
+        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
     },
     {
       "added_at": "2020-07-08 17:51:15",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "Rock n Roll Jesus",
         "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 297586,
       "name": "All Summer Long",
       "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
     },
     {
       "added_at": "2020-07-08 17:51:15",

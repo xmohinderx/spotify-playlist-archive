@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,114 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,156 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 18 | [Euphoria](https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:48 |
 | 19 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 |
 | 20 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
-| 21 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 |
-| 22 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 |
+| 21 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 |
+| 22 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 |
 | 23 | [YES or YES](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:57 |
 | 24 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
-| 25 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 |
-| 26 | [CROWN](https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz) | 3:50 |
+| 25 | [CROWN](https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz) | 3:50 |
+| 26 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 |
 | 27 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 |
 | 28 | [HOME](https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:54 |
 | 29 | [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [Rose](https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 |
 | 50 | [Mixtape : OH](https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:32 |
 
-Snapshot ID: `MTY2ODUyMDU0MywwMDAwMDAwMGMxM2U2YjdiMjM3ZGQ4OGRhYjFjMGM4ZWYyYmQ5ZWI5`
+Snapshot ID: `MTY2ODUyMDU0MywwMDAwMDAwMDViYzk1OTVlZTIxZjE5NWYxYzU2OTE0MjJjNmRjMDlm`

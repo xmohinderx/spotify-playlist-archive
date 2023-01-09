@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,419 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,627 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 68 | [Jim Jones](https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC) | 6:34 |
 | 69 | [Medicate Me](https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58) | [Davey Suicide](https://open.spotify.com/artist/0JX3GwUe9y5BS2WuQ3qxsV), [Telle Smith](https://open.spotify.com/artist/3DefX0fquR1S2twqp0ui84) | [Rock Ain't Dead](https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz) | 3:49 |
 | 70 | [The Thing I Hate](https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 3:36 |
-| 71 | [Bits and Razors](https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT) | [Rabbit Junk](https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS) | [Bits and Razors](https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb) | 4:03 |
-| 72 | [Golgotha Tenement Blues](https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol) | [Machines Of Loving Grace](https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:00 |
+| 71 | [Golgotha Tenement Blues](https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol) | [Machines Of Loving Grace](https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:00 |
+| 72 | [Bits and Razors](https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT) | [Rabbit Junk](https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS) | [Bits and Razors](https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb) | 4:03 |
 | 73 | [A Daisy Chain 4 Satan \- Acid & Flowers Mix](https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [Confessions of a Knife](https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT) | 5:31 |
 | 74 | [Requiem \- 2005 Digital Remaster](https://open.spotify.com/track/29QxWOqd1z0HynG72mAEqn) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/0FfpevxQr8EyNsjc24TbmI) | 3:45 |
 | 75 | [I Sit on Acid](https://open.spotify.com/track/2bUUMb6Xo8G1hhBjzXlb5b) | [Lords Of Acid](https://open.spotify.com/artist/3O3qPC1hmSp7442HYefx5w) | [Lust \(Special Remastered Band Edition\)](https://open.spotify.com/album/568RScapveqsGN0tCmoUKu) | 5:52 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 84 | [Verrückt \- Original Version](https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON) | [Eisbrecher](https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao) | [Die Hölle muss warten](https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r) | 3:21 |
 | 85 | [Rabenherz](https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Helheim \(Deluxe Edition\)](https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY) | 3:12 |
 | 86 | [End Of The Line](https://open.spotify.com/track/7sOtLB5pwbLOa74X8g8BjK) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/1CThwFm5smJHLmHflckMkD) | 4:03 |
-| 87 | [Prototype](https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz) | [The Silverblack](https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r) | [Prototype 6:17](https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM) | 3:28 |
-| 88 | [Don't Question Me](https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce) | [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR), [Waylon Reavis](https://open.spotify.com/artist/6FZbPTKqSEYCRDuZfzn2ww) | [Don't Question Me](https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq) | 3:21 |
+| 87 | [Don't Question Me](https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce) | [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR), [Waylon Reavis](https://open.spotify.com/artist/6FZbPTKqSEYCRDuZfzn2ww) | [Don't Question Me](https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq) | 3:21 |
+| 88 | [Prototype](https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz) | [The Silverblack](https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r) | [Prototype 6:17](https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM) | 3:28 |
 | 89 | [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 |
 | 90 | [Torpedoes](https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63) | [MDFMK](https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM) | [MDFMK](https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1) | 4:15 |
 | 91 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 99 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
 | 100 | [My Disintegration](https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:20 |
 
-Snapshot ID: `MTY3Mjg2NzMzMCwwMDAwMDAwMDZkODVhNzZhOGJhODZjYWQ1MGU4N2RlMDkzYTAxYWU2`
+Snapshot ID: `MTY3Mjg2NzMzMCwwMDAwMDAwMGNjMzc5ZTJkMjJiZTMwZjI4Yzc5Zjg4YTU4YjA4NjJm`

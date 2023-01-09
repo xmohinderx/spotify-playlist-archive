@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,035 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,125 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
 | 2 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 | 3 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 |
-| 4 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 |
-| 5 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 |
+| 4 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 |
+| 5 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 |
 | 6 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 |
 | 7 | [Cherry](https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:19 |
 | 8 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 29 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
 | 30 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
 | 31 | [Shot in the Dark](https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:09 |
-| 32 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 |
-| 33 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
+| 32 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
+| 33 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 |
 | 34 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
 | 35 | [Male Fantasy](https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9) | 3:14 |
 | 36 | [Era uma Vez](https://open.spotify.com/track/16v1xv9QCx1kGXl6fJvTIz) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda) | 3:44 |
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 39 | [Home](https://open.spotify.com/track/20kpTTSvI4ok6Gm1uZqtcz) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Home](https://open.spotify.com/album/069bQ54jzEYGdTRJk3DFra) | 4:07 |
 | 40 | [Know How](https://open.spotify.com/track/4xqowxjJ03RWog4teL6oqG) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:58 |
 | 41 | [Long Time Ago](https://open.spotify.com/track/5KkaczeDlUwo6cDTVaR6ca) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Long Time Ago](https://open.spotify.com/album/1SIKqNL4h5Pq6fvnDOlfdt) | 3:02 |
-| 42 | [Ready to Go](https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:07 |
-| 43 | [Birch](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 |
+| 42 | [Birch](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 |
+| 43 | [Ready to Go](https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:07 |
 | 44 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 |
 | 45 | [Sim](https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Sim](https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g) | 3:49 |
 | 46 | [Don't Fade \- Single Version](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 |
 | 47 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 |
 | 48 | [Casimir Pulaski Day](https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:53 |
-| 49 | [Never Ending](https://open.spotify.com/track/7Jd5LgnSRQElW6FsTWVPzE) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:22 |
-| 50 | [relicário](https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0) | 4:05 |
+| 49 | [relicário](https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0) | 4:05 |
+| 50 | [Never Ending](https://open.spotify.com/track/7Jd5LgnSRQElW6FsTWVPzE) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:22 |
 | 51 | [Better Part of Me](https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Better Part of Me](https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw) | 3:46 |
 | 52 | [I Went Hunting](https://open.spotify.com/track/6CUts1EBhKu60Z7Q5qoT6S) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 |
 | 53 | [Seven Nation Army](https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Seven Nation Army](https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp) | 2:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Miragem](https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Miragem](https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq) | 3:33 |
 | 60 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 |
 
-Snapshot ID: `MTY3Mjk3NDAwMCwwMDAwMDAwMDRlMTNjMjMwYjZhNjJiYzM1YTUyZjRmNmJhMjYyZWNh`
+Snapshot ID: `MTY3Mjk3NDAwMCwwMDAwMDAwMDZkZDAyNTdiMWQ1MDBjOGZkZmZiYjBlMjIzN2MwYzJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,810 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,889 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 8 | [Las piedras rodantes](https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Una rola para los minusválidos](https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg) | 3:18 |
 | 9 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 10 | [No Tengo Tiempo](https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Lo Más Prendido de Rockdrigo González](https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ) | 4:25 |
-| 11 | [Yo Quiero Ser](https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE) | [Perro Callejero](https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX) | [15 Rolitas de Amor, Vol\. 7](https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt) | 4:45 |
+| 11 | [Historia de un Minuto](https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Rock Sin Visa, Vol\. 2](https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL) | 3:07 |
 | 12 | [El No Lo Mato](https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Delincuentes Con Placa](https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn) | 4:13 |
 | 13 | [Pobre soñador](https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 3:50 |
-| 14 | [Historia de un Minuto](https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Rock Sin Visa, Vol\. 2](https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL) | 3:07 |
+| 14 | [Yo Quiero Ser](https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE) | [Perro Callejero](https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX) | [15 Rolitas de Amor, Vol\. 7](https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt) | 4:45 |
 | 15 | [María](https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 4:24 |
 | 16 | [La Carencia](https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 7:03 |
 | 17 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:22 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 36 | [Una Rola de Amor](https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [En Guerra de Amor](https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe) | 3:44 |
 | 37 | [Viajero](https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:14 |
 | 38 | [Que Nos Paso](https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2) | [Leyenda Urbana](https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU) | [La Nueva Sangre del Rock, Vol\. 2](https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk) | 6:08 |
-| 39 | [El y Yo](https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO) | [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Fe](https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb) | 2:46 |
+| 39 | [Y Como Es Él](https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS) | [California Blues](https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn) | [15 Éxitos](https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha) | 3:06 |
 | 40 | [De Que el Amor Apesta](https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:38 |
 | 41 | [Quien Te Cantara](https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 3:20 |
 | 42 | [Él No Lo Mató](https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Él No Lo Mató](https://open.spotify.com/album/0kYHzDHyOWhCjBDAqDgoM8) | 4:38 |
 | 43 | [Un Toque Mágico](https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 4:14 |
-| 44 | [Y Como Es Él](https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS) | [California Blues](https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn) | [15 Éxitos](https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha) | 3:06 |
+| 44 | [El y Yo](https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO) | [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Fe](https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb) | 2:46 |
 | 45 | [Cristo Viejo](https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2) | [Fantasma De Canterville](https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx) | [Cristo Viejo](https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy) | 5:23 |
 | 46 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
 | 47 | [La chica banda](https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 74 | [Balada Chilanga](https://open.spotify.com/track/0OuuoanG0AweEt3zEpmjWN) | [Trolebús](https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3) | [En Sentido Contrario](https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx) | 3:37 |
 | 75 | [Oye Cantinero](https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:42 |
 
-Snapshot ID: `MTY0Njk3MTk4MiwwMDAwMDAwMGQ1MDljNjQ3ZDk4ZmNjZmY4NWM2ZmYwOGQ5NGJjM2I5`
+Snapshot ID: `MTY0Njk3MTk4MiwwMDAwMDAwMDk2OTllZWJkYzdjMDI4ZmYxNjE2MDgzNjUzY2RlYjlk`

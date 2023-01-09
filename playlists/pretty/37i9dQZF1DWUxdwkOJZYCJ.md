@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 
 > Energetic tracks from the 1990s to boost your running session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,851 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,416 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 | 19 | [Tubthumping](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt) | 4:38 |
 | 20 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
 | 21 | [Together Again](https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:01 |
-| 22 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 |
-| 23 | [I've Been Thinking About You](https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d) | [Londonbeat](https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn) | [Best! The Singles 16 Tracks](https://open.spotify.com/album/5BAPBgAp1Qt9UD5vsBGXTz) | 3:50 |
+| 22 | [I've Been Thinking About You](https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d) | [Londonbeat](https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn) | [Best! The Singles 16 Tracks](https://open.spotify.com/album/5BAPBgAp1Qt9UD5vsBGXTz) | 3:50 |
+| 23 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 |
 | 24 | [Beautiful Life](https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Bridge](https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3) | 3:41 |
 | 25 | [Where Do You Go](https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:32 |
 | 26 | [Here Comes the Hotstepper \- Heartical Mix](https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Here Comes The Hotstepper](https://open.spotify.com/album/1fSD1yTlcwVUWdpK7Nr7v5) | 4:10 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 | 42 | [Shy Guy](https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo) | [Diana King](https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1) | [Tougher Than Love](https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b) | 4:18 |
 | 43 | [Affirmation](https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:55 |
 | 44 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
-| 45 | [Keep On Movin'](https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:17 |
-| 46 | [Things Can Only Get Better](https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy) | [D:Ream](https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA) | [On Vol.1](https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj) | 4:18 |
+| 45 | [Things Can Only Get Better](https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy) | [D:Ream](https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA) | [On Vol.1](https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj) | 4:18 |
+| 46 | [Keep On Movin'](https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:17 |
 | 47 | [Joyride](https://open.spotify.com/track/1ILbD4eWKWvg8ub5qJyBTP) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Extended Version\)](https://open.spotify.com/album/5WVNP6IBwMSULc0wehXW8N) | 4:23 |
 | 48 | [Please Don't Go](https://open.spotify.com/track/0bwNb4KRkhzahJJMFsGoPR) | [Double You](https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV) | [We All Need Love](https://open.spotify.com/album/61jMz9gG0UkpTGeVI2x26L) | 3:20 |
 | 49 | [New York City Boy \- 2017 Remaster](https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nightlife: Further Listening 1996 \- 2000 \(2017 Remaster\)](https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek) | 5:15 |
 | 50 | [2 Times](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times \(Full Package\)](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 |
 
-Snapshot ID: `MTY3Mjc1NzYxMiwwMDAwMDAwMGExZTExMTY3MWYyMmRiNGUyN2JhYjlhNDA4NzAzZTZh`
+Snapshot ID: `MTY3Mjc1NzYxMiwwMDAwMDAwMDdlM2VhMTU0MzEwZmZkZmJiYzI0YWJjYzkwZTVhOWE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Carlos & José en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,247 likes - 115 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,769 likes - 115 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 96 | [Celos de Ti](https://open.spotify.com/track/4zZrn8xdILDHN2uKAmy2bJ) | [EL INTERNACIONAL GRUPO LA MIGRA](https://open.spotify.com/artist/65JVLaAkyGalURJCfuedWh) | [LA MIGRA Y SUS MAS GRANDES EXITOS](https://open.spotify.com/album/0xm2NmhWa2tpxx8LBN60aT) | 4:14 |
 | 97 | [Ojitos De Golondrina](https://open.spotify.com/track/0IaCGBaevs1R7EMagCf8d5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 2:25 |
 | 98 | [Chiquilla Cariñosa \- Live At Nuevo León México / 2009](https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Catarino Leos](https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi) | [Desde La Cantina Vol\. II \(Live At Nuevo León México / 2009\)](https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF) | 3:10 |
-| 99 | [Mi Golondrina](https://open.spotify.com/track/0U1HpcV2UChQzOIQGLZv7T) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 2:58 |
+| 99 | [El Disgusto](https://open.spotify.com/track/4iqtAVs3kzqqPCri14en3D) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 2:27 |
 | 100 | [Belleza De Cantina](https://open.spotify.com/track/28V858H8DAUHqxh6KsNx5l) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Lo Mas Ranchero De...](https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3) | 3:00 |
 | 101 | [Un Viejo Amor](https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 |
 | 102 | [Eslabón Por Eslabón](https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Esto Es Lo Nuestro](https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn) | 3:01 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 106 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:06 |
 | 107 | [Bajo Mil Llaves](https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:26 |
 | 108 | [Que La Dejen Ir Al Baile](https://open.spotify.com/track/1JRbZTfW1XcMuKzsryNKyK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Esto Es Lo Nuestro](https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn) | 2:25 |
-| 109 | [El Disgusto](https://open.spotify.com/track/4iqtAVs3kzqqPCri14en3D) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 2:27 |
+| 109 | [Mi Golondrina](https://open.spotify.com/track/0U1HpcV2UChQzOIQGLZv7T) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 2:58 |
 | 110 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
 | 111 | [Que Casualidad](https://open.spotify.com/track/7g2b6lqFVtjn9f0QvP73L4) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 3:38 |
 | 112 | [Recuérdame Y Ven A Mi](https://open.spotify.com/track/3XkxD7D3eBwDsKrxjY5vjL) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [MI GOLONDRINA / UNA BOTELLA \(Grabación Original Remasterizada\)](https://open.spotify.com/album/2AtNQEQ7W4KEjqUBr9GX0h) | 3:22 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 114 | [Solo Una Patada](https://open.spotify.com/track/60yeJAQhq9pWqnA61CbdoJ) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 3:11 |
 | 115 | [Rinconcito En El Cielo](https://open.spotify.com/track/2d5QYDvueydmhQPJSD3BzY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 4:27 |
 
-Snapshot ID: `MTY0NzQ3ODE5NiwwMDAwMDAwMGVkZGUwM2EyOWQ5YzYyODlmOTAzZjViYTE0NjIxNjM4`
+Snapshot ID: `MTY0NzQ3ODE5NiwwMDAwMDAwMDlhNjYxNTQ1ZjkzYmJiMDc1YWU1YzRhOTExNzJlYzYw`

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Madiel Lara",
-  "num_followers": 114860,
+  "num_followers": 114906,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MzM1NywwMDAwMDAwMDEwMWJlOGM2OTRhYjE1YTMwYTEzNThmNWNlNWUxYTAy",
+  "snapshot_id": "MTY3Mjk4MzM1NywwMDAwMDAwMDYyOTQzOTYwMTAwOGFiODhhZGZiNzIzMmVhMjI3YWYx",
   "tracks": [
     {
       "added_at": "2023-01-06 05:35:57",
@@ -54,14 +54,6 @@
         {
           "name": "Soly",
           "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
-        },
-        {
-          "name": "Su Nombre Es Jesus",
-          "url": "https://open.spotify.com/artist/1Vpp0ggKHiJj86ixkDmO0B"
-        },
-        {
-          "name": "Mickey Angelo",
-          "url": "https://open.spotify.com/artist/7HQJWKssS3k12XZZMtC1gR"
         }
       ],
       "duration_ms": 216470,
@@ -519,6 +511,22 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
+        "name": "Darme",
+        "url": "https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        }
+      ],
+      "duration_ms": 222595,
+      "name": "Darme",
+      "url": "https://open.spotify.com/track/2KWikIPxp0z7wD6NIOlNvD"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
         "name": "Todo Es Posible",
         "url": "https://open.spotify.com/album/3iuqVncBZOIcOMWzaqf8OF"
       },
@@ -535,22 +543,6 @@
       "duration_ms": 187253,
       "name": "Todo Es Posible",
       "url": "https://open.spotify.com/track/5qxaoad8qzoe6630ZJbtzu"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
-        "name": "Darme",
-        "url": "https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        }
-      ],
-      "duration_ms": 222595,
-      "name": "Darme",
-      "url": "https://open.spotify.com/track/2KWikIPxp0z7wD6NIOlNvD"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -655,38 +647,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Amor, Amor, Amor",
-        "url": "https://open.spotify.com/album/46brTenNVzpBIXcJNTlQjk"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Amor, Amor, Amor - En vivo",
-      "url": "https://open.spotify.com/track/47GvCA8LGKu7oVyPRFpZ39"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
-        "name": "Esperar\u00e9 en ti SE\u00d1OR",
-        "url": "https://open.spotify.com/album/6CtANcQxXO50tsmMzzah6W"
-      },
-      "artists": [
-        {
-          "name": "Josu\u00e9 Del Cid",
-          "url": "https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs"
-        }
-      ],
-      "duration_ms": 313222,
-      "name": "Esperar\u00e9 en ti SE\u00d1OR",
-      "url": "https://open.spotify.com/track/4HtKWZ8bJUUiGMrPnamtys"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "Alegre",
         "url": "https://open.spotify.com/album/0I2MOp31kLaLwpermDclkX"
       },
@@ -707,6 +667,22 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
+        "name": "Esperar\u00e9 en ti SE\u00d1OR",
+        "url": "https://open.spotify.com/album/6CtANcQxXO50tsmMzzah6W"
+      },
+      "artists": [
+        {
+          "name": "Josu\u00e9 Del Cid",
+          "url": "https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs"
+        }
+      ],
+      "duration_ms": 313222,
+      "name": "Esperar\u00e9 en ti SE\u00d1OR",
+      "url": "https://open.spotify.com/track/4HtKWZ8bJUUiGMrPnamtys"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
         "name": "Paso a Paso",
         "url": "https://open.spotify.com/album/5Egmn32rISYg4tJ9SVOW2K"
       },
@@ -719,6 +695,22 @@
       "duration_ms": 211272,
       "name": "Paso a Paso",
       "url": "https://open.spotify.com/track/5o9iPNwRsPcBgCzVg9QTHz"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Amor, Amor, Amor",
+        "url": "https://open.spotify.com/album/46brTenNVzpBIXcJNTlQjk"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Amor, Amor, Amor - En vivo",
+      "url": "https://open.spotify.com/track/47GvCA8LGKu7oVyPRFpZ39"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -1079,22 +1071,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Maranatha",
-        "url": "https://open.spotify.com/album/2qTdqR3GAZHBIVMhzn6rxj"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Fones, Sj",
-          "url": "https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk"
-        }
-      ],
-      "duration_ms": 300857,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/58UzDiEKSShileIQVivnWB"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/5D28oJP25nei32y5XBDGZn"
       },
@@ -1111,6 +1087,22 @@
       "duration_ms": 206392,
       "name": "Dior",
       "url": "https://open.spotify.com/track/6jxPulWx8NSAT7moQeox2D"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Maranatha",
+        "url": "https://open.spotify.com/album/2qTdqR3GAZHBIVMhzn6rxj"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Fones, Sj",
+          "url": "https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk"
+        }
+      ],
+      "duration_ms": 300857,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/58UzDiEKSShileIQVivnWB"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -1191,22 +1183,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Luz en la Oscuridad",
-        "url": "https://open.spotify.com/album/3GtXu2hisEaweyHhB1g3w6"
-      },
-      "artists": [
-        {
-          "name": "Belu Rodriguez Kuhn",
-          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Luz en la Oscuridad",
-      "url": "https://open.spotify.com/track/3nubqTXLbqjX2lrzbcqcjQ"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "X Mi PR",
         "url": "https://open.spotify.com/album/6z3GYgdUiBY6ecCwr5oyiT"
       },
@@ -1219,6 +1195,22 @@
       "duration_ms": 189158,
       "name": "X Mi PR",
       "url": "https://open.spotify.com/track/7jhNUVZxFDEwsz5ZJc0ZaB"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Luz en la Oscuridad",
+        "url": "https://open.spotify.com/album/3GtXu2hisEaweyHhB1g3w6"
+      },
+      "artists": [
+        {
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Luz en la Oscuridad",
+      "url": "https://open.spotify.com/track/3nubqTXLbqjX2lrzbcqcjQ"
     },
     {
       "added_at": "2023-01-06 05:35:57",
@@ -1243,22 +1235,6 @@
     {
       "added_at": "2023-01-06 05:35:57",
       "album": {
-        "name": "Vas a Llegar",
-        "url": "https://open.spotify.com/album/2t3q3LbGj450g9brgSwUVF"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/4Dz5qW8uri7AZXsnYTkDa6"
-    },
-    {
-      "added_at": "2023-01-06 05:35:57",
-      "album": {
         "name": "From Chile",
         "url": "https://open.spotify.com/album/22gfyGnwH3b6FThS6EwUf1"
       },
@@ -1279,6 +1255,22 @@
       "duration_ms": 229241,
       "name": "El Reino",
       "url": "https://open.spotify.com/track/5h453k9HQzYqC3MG4iJWxl"
+    },
+    {
+      "added_at": "2023-01-06 05:35:57",
+      "album": {
+        "name": "Vas a Llegar",
+        "url": "https://open.spotify.com/album/2t3q3LbGj450g9brgSwUVF"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/4Dz5qW8uri7AZXsnYTkDa6"
     },
     {
       "added_at": "2023-01-06 05:35:57",

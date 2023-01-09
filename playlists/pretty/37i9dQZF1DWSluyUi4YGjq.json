@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. For Tracy Hyde on cover!",
-  "num_followers": 23377,
+  "num_followers": 23425,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2NjM3OSwwMDAwMDAwMDA3MzhhMGViZTU5NTMzYTdhOTYwYTkyYmI4MWY2ZjIz",
+  "snapshot_id": "MTY3MzA2NjM3OSwwMDAwMDAwMGU0YjY4YzNhMjMwMGNkY2YyZDA5ZjkzMmJiZDY4YjAw",
   "tracks": [
     {
       "added_at": "2022-12-14 00:00:00",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
+        "name": "To See the Next Part of the Dream",
+        "url": "https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Parannoul",
+          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
         }
       ],
-      "duration_ms": 123331,
-      "name": "At It Again",
-      "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
+      "duration_ms": 320625,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2"
     },
     {
       "added_at": "2023-01-04 01:56:44",
@@ -525,20 +525,20 @@
       "url": "https://open.spotify.com/track/6yjtcpFf9dLgflkS52PYNa"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "To See the Next Part of the Dream",
-        "url": "https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ"
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
       "artists": [
         {
-          "name": "Parannoul",
-          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         }
       ],
-      "duration_ms": 320625,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2"
+      "duration_ms": 123331,
+      "name": "At It Again",
+      "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
-      "added_at": "2022-01-07 19:52:45",
-      "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 209708,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy"
-    },
-    {
       "added_at": "2022-12-12 18:23:41",
       "album": {
         "name": "Heaven Inches Away",
@@ -859,6 +843,22 @@
       "duration_ms": 240500,
       "name": "Chihiro",
       "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
+    },
+    {
+      "added_at": "2022-01-07 19:52:45",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 209708,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -1041,6 +1041,22 @@
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 211319,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
+    },
+    {
       "added_at": "2021-12-08 15:59:07",
       "album": {
         "name": "Death Spells",
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS"
       },
       "artists": [
         {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+          "name": "Pasteboard",
+          "url": "https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9"
         }
       ],
-      "duration_ms": 211319,
-      "name": "Press",
-      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
+      "duration_ms": 190000,
+      "name": "Breakbeats",
+      "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
     },
     {
       "added_at": "2022-09-21 00:43:29",
@@ -1087,22 +1103,6 @@
       "duration_ms": 153746,
       "name": "Frame Of Reference",
       "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS"
-      },
-      "artists": [
-        {
-          "name": "Pasteboard",
-          "url": "https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Breakbeats",
-      "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "Tragicomedy",
-        "url": "https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN"
+        "name": "TRPP",
+        "url": "https://open.spotify.com/album/4MCb03enJHRY5ovHpoHWQT"
       },
       "artists": [
         {
-          "name": "Polyester Embassy",
-          "url": "https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4"
+          "name": "TRPP",
+          "url": "https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D"
         }
       ],
-      "duration_ms": 284013,
-      "name": "Polypanic Rooms",
-      "url": "https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M"
+      "duration_ms": 150309,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "Subway Station Revelation",
-        "url": "https://open.spotify.com/album/3xGvbbfdc5oiEKlzh4co04"
+        "name": "Tragicomedy",
+        "url": "https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN"
       },
       "artists": [
         {
-          "name": "For Tracy Hyde",
-          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
+          "name": "Polyester Embassy",
+          "url": "https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4"
         }
       ],
-      "duration_ms": 254374,
-      "name": "Subway Station Revelation",
-      "url": "https://open.spotify.com/track/64QIWtRAivYJpEiikswr7K"
+      "duration_ms": 284013,
+      "name": "Polypanic Rooms",
+      "url": "https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "TRPP",
-        "url": "https://open.spotify.com/album/4MCb03enJHRY5ovHpoHWQT"
+        "name": "Subway Station Revelation",
+        "url": "https://open.spotify.com/album/3xGvbbfdc5oiEKlzh4co04"
       },
       "artists": [
         {
-          "name": "TRPP",
-          "url": "https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D"
+          "name": "For Tracy Hyde",
+          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
         }
       ],
-      "duration_ms": 150309,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb"
+      "duration_ms": 254374,
+      "name": "Subway Station Revelation",
+      "url": "https://open.spotify.com/track/64QIWtRAivYJpEiikswr7K"
     },
     {
       "added_at": "2021-10-19 01:47:29",

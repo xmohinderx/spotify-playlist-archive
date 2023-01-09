@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,448 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,608 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 61 | [1941 \(feat\. Virian\)](https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U) | [Klaypex](https://open.spotify.com/artist/4HBMToZ4yMR07eiK9IxtjK), [Virian](https://open.spotify.com/artist/5jYBAlIgga7KSy6mZLfHHR) | [Anything Goes](https://open.spotify.com/album/7CksdcNEVK5dAl0hbVAhDQ) | 3:00 |
 | 62 | [Someone New](https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Sonia Elisheva](https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7) | [Someone New](https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy) | 2:56 |
 | 63 | [The Jungle Jive](https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [Bongo Chic](https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052) | 3:51 |
-| 64 | [Mr Magpie \- Jamie Berry Remix](https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Electric Swing Circus \- Remixed Vol\. 1](https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0) | 3:44 |
-| 65 | [Watch Your Tongue](https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Watch Your Tongue](https://open.spotify.com/album/0VlRMNxmBvdI1wF3LV16Z4) | 2:58 |
+| 64 | [Watch Your Tongue](https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Watch Your Tongue](https://open.spotify.com/album/0VlRMNxmBvdI1wF3LV16Z4) | 2:58 |
+| 65 | [Mr Magpie \- Jamie Berry Remix](https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Electric Swing Circus \- Remixed Vol\. 1](https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0) | 3:44 |
 | 66 | [Allez Viens \(Via Con Me\) \[feat\. Pierre Santini & Lada Redstar\]](https://open.spotify.com/track/15gUb7QKP6PlbXxxTJm2T4) | [Bart & Baker](https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN), [Pierre Santini](https://open.spotify.com/artist/2sERfmcDISRbdIvSwc1srm), [Lada Redstar](https://open.spotify.com/artist/2hvVzDZUDCDV1CMEYefruX) | [Introducing, Bart&Baker](https://open.spotify.com/album/4nkLzdBaKeAHz0MqMWDjf9) | 3:29 |
 | 67 | [Rose](https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Rose](https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl) | 3:33 |
 | 68 | [Code Red](https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Code Red](https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9) | 3:48 |
 | 69 | [1925](https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [1925](https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe) | 2:44 |
-| 70 | [Dizzy Street](https://open.spotify.com/track/3OPqj5jqd5hkOU0rvZDXCl) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [Dizzy Street](https://open.spotify.com/album/6kmaz5dSu6zmn7DQHXCIgP) | 3:25 |
-| 71 | [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 |
+| 70 | [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 |
+| 71 | [Dizzy Street](https://open.spotify.com/track/3OPqj5jqd5hkOU0rvZDXCl) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [Dizzy Street](https://open.spotify.com/album/6kmaz5dSu6zmn7DQHXCIgP) | 3:25 |
 | 72 | [My 20s Woman](https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [My 20s Woman](https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A) | 3:06 |
 | 73 | [Day & Night](https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Day & Night](https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE) | 4:07 |
 | 74 | [Headless Horseman](https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu) | [Kid Kasino](https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD), [Shea](https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0) | [Slaughter In the Suburbs](https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ) | 3:33 |
-| 75 | [Something Serious](https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Reinwald Kranner](https://open.spotify.com/artist/5QcpYyN9rZK1f6X7Z1JBid), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Something Serious](https://open.spotify.com/album/1IqEauUVodVfkZDadKJ4mg) | 3:10 |
+| 75 | [One for the Road](https://open.spotify.com/track/5YotzD692xl8wcqMi9pj8X) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Miss Emmma](https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR), [Elliot Deutsch](https://open.spotify.com/artist/22JILoTTk3Xfdc2wNwq6Xf) | [One for the Road](https://open.spotify.com/album/6opglzlR3Z9OjX1y0WAfF6) | 3:58 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDc3Nzc4MTY4ODhhODY0M2VhYjk0YTE1N2ViYTA4MjRl`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGQ1MWFhZDkyMzgwYjhhZjI1MTVhYzBhMmEwMzhlZmQy`

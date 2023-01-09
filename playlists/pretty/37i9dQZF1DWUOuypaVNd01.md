@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Malcolm VL, Jotapê
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,899 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,928 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

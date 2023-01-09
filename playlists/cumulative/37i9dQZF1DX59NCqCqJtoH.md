@@ -4,7 +4,7 @@
 
 > We hear you.
 
-530 songs - 1 day 2 hr 17 min
+531 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Somewhere in the Universe](https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I'm Sorry I'm Like This](https://open.spotify.com/album/1nOZaGSuVtIR43XewW6nEU) | 1:40 | 2022-12-22 |  |
 | [song i made up to stop myself from having a panic attack just now \(ft\. rich\)](https://open.spotify.com/track/2oe9nMUPInGrfKu6fdZjH9) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [song i made up to stop myself from having a panic attack just now](https://open.spotify.com/album/6GcWvJcUJ84L0FgUWDGMeH) | 0:41 | 2021-06-23 | 2022-07-29 |
 | [Sorry](https://open.spotify.com/track/7ufvTDIjfqAhYZLXUX0lrF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Sorry](https://open.spotify.com/album/6j4oMq6GQubGAHoYqEGrwY) | 3:00 | 2021-04-23 | 2022-07-29 |
+| [Sorry for Me](https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:17 | 2022-11-11 |  |
 | [Sorry for Me](https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Sorry for Me](https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ) | 3:17 | 2021-10-22 | 2022-11-17 |
 | [Southern Stars](https://open.spotify.com/track/1fR0OgT4b0bRTSzpktLal0) | [Foxpaw](https://open.spotify.com/artist/3lrRCJ6WUwtvNVz9dPe3Yn) | [Southern Stars](https://open.spotify.com/album/3G4gcHR8vfsywwzVbGOnMM) | 2:20 | 2021-04-02 | 2022-04-19 |
 | [southview](https://open.spotify.com/track/7AChzOkdQHkekPXQaKdrAP) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [southview](https://open.spotify.com/album/6FIkvrW09KvGQ3A9vcEqki) | 2:50 | 2021-04-23 | 2022-07-24 |
@@ -447,7 +448,7 @@
 | [Teenage Mind](https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Teenage Mind](https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0) | 2:35 | 2022-05-25 | 2022-12-24 |
 | [Teenage Mind](https://open.spotify.com/track/70vdb3Nf9sUaOax5c6phOT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Teenage Mind](https://open.spotify.com/album/37QVZrBFuo9PSLz6boslFw) | 2:35 | 2021-04-02 | 2022-06-26 |
 | [Tell Me](https://open.spotify.com/track/0WUEI3wb6ei1gRvCJChfxA) | [Era](https://open.spotify.com/artist/1jNgTr6PmUuRZnpJ6qfxzj), [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL) | [Tell Me](https://open.spotify.com/album/3LB11f7xrPAFdBpnlJYhth) | 3:49 | 2021-04-02 | 2022-07-29 |
-| [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 | 2021-04-02 |  |
+| [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 | 2021-04-02 | 2023-01-09 |
 | [that boy u met the other day](https://open.spotify.com/track/0StRmbxsCznIiMHOMjDJXl) | [Sinxi](https://open.spotify.com/artist/7gPvslUym7gEDxebPSkGkZ) | [that boy u met the other day](https://open.spotify.com/album/5ORQnFWhiwI8Ldug1YE9hN) | 3:35 | 2021-04-02 | 2022-06-01 |
 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 | 2021-10-15 | 2022-04-19 |
 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 | 2022-07-21 |  |

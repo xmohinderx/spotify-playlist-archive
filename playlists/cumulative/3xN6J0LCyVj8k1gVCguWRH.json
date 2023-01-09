@@ -15087,6 +15087,24 @@
     },
     {
       "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/47eQ3mxCXTos8y15DpWbyA"
+      },
+      "artists": [
+        {
+          "name": "Cinzia Catania",
+          "url": "https://open.spotify.com/artist/1nhbAdHVzi5bVqS1jTRnNI"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231296,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/6T1QCabxE662y1Nexek3B7"
+    },
+    {
+      "album": {
         "name": "I don't care",
         "url": "https://open.spotify.com/album/767eCIV1myYzq1WMXKeEfb"
       },

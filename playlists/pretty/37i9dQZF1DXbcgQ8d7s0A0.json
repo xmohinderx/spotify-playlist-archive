@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1167830,
+  "num_followers": 1168219,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzY0MzkzNiwwMDAwMDAwMGM5YmRiMmM3ZDhlMzRiNjc0ZTJhODI0ZDI2NTYzNzI0",
+  "snapshot_id": "MTYxMzY0MzkzNiwwMDAwMDAwMDg2YzhkYzY5MjdlNjg0NDg3ODFhZDU3ODAzMzUzNjUx",
   "tracks": [
     {
       "added_at": "2021-02-18 10:25:36",
@@ -447,8 +447,8 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 278040,
-      "name": "After the Love Has Gone",
-      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+      "duration_ms": 226213,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -607,8 +607,8 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "The Best Of Earth, Wind & Fire Vol. 1",
-        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 226213,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
+      "duration_ms": 278040,
+      "name": "After the Love Has Gone",
+      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -967,26 +967,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "CASE STUDY 01",
-        "url": "https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 214277,
-      "name": "LOVE AGAIN",
-      "url": "https://open.spotify.com/track/2fhePAlCSsJplwkjqMYpVm"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "In the Name of Love: The Elektra Recordings 1979-1984",
         "url": "https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 237106,
       "name": "Just the Two of Us",
       "url": "https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "CASE STUDY 01",
+        "url": "https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 214277,
+      "name": "LOVE AGAIN",
+      "url": "https://open.spotify.com/track/2fhePAlCSsJplwkjqMYpVm"
     },
     {
       "added_at": "2021-02-18 10:25:36",

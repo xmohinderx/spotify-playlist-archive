@@ -4,7 +4,7 @@
 
 > Para ahogar las penas en el fondo de una botella.
 
-296 songs - 15 hr 51 min
+297 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 | 2022-06-08 | 2022-12-31 |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 | 2022-06-08 |  |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/1661eebjAHPCx0oBrGyuUp) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Antología \(80 Clásicos\)](https://open.spotify.com/album/66EaV8mdSJpXgZKtdF0DeG) | 3:45 | 2022-06-08 | 2022-07-29 |
-| [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 | 2022-12-30 |  |
+| [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 | 2022-12-30 | 2023-01-09 |
 | [Mi Pasión Recordaras](https://open.spotify.com/track/3ewCNnIQmHB8gh8zvwRMKQ) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [Los Inolvidables de Apia](https://open.spotify.com/artist/5M6A7BlORhTtf2B2lEsu6l) | [Grandes Éxitos de Luis Alberto Posada Con los Inolvidables de Apia](https://open.spotify.com/album/6QLtJEtHHAkmH0Tn7zhW4c) | 3:25 | 2022-06-08 | 2022-07-29 |
 | [Mi Renuncia](https://open.spotify.com/track/7em1GCdeDU60h5r6WUlEIU) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [Que Sea un Motivo \(30 Años de Vida Artística\)](https://open.spotify.com/album/5aKg3XbB8O5OJ95PnCOs8B) | 3:20 | 2022-06-08 | 2022-07-29 |
 | [Mi Venganza](https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/4GrlF2rRb3Xg9o4aPPKOik) | 3:11 | 2022-06-08 | 2022-07-29 |
@@ -284,6 +284,7 @@
 | [Tú](https://open.spotify.com/track/1nLs8r6K4YN0avBwUmmTnr) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados \(Live Vol\. 1\)](https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj) | 4:06 | 2022-06-08 | 2022-07-29 |
 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 | 2022-06-08 |  |
 | [Una Llamada Perdida](https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 3:21 | 2022-12-30 |  |
+| [Usted No Me Olvida](https://open.spotify.com/track/3GUqkrdLefqJmxVvN5Vgpv) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/5QKHBEpO54bTRj2PC8A0h6) | 3:13 | 2022-12-30 |  |
 | [Usted No Me Olvida](https://open.spotify.com/track/4gE4qvNzrjB1htVTCw8n4x) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/1pZ3vJWhIYpzOvXbl62giM) | 3:13 | 2022-06-08 | 2023-01-05 |
 | [Usted No Me Olvida](https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/3hwujUBUE4JRL4E7SXoJPY) | 3:13 | 2022-06-08 | 2022-07-29 |
 | [Usted No Me Olvida \- Remix](https://open.spotify.com/track/68K1Cq7jgceq0yV0Q2Kog6) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Usted No Me Olvida \(Remix\)](https://open.spotify.com/album/0HqOs4dPfChJGiUSxxGiex) | 3:13 | 2022-06-08 | 2023-01-06 |

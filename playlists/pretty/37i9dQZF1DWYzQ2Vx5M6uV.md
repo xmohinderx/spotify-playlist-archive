@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Oxlade, Camila Cabello
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,260 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,302 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 49 | [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 |
 | 50 | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73) | [Team Salut](https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH) | 2:57 |
 | 51 | [iluminada](https://open.spotify.com/track/6C6tPNyzg9yEFKl2z2bEpx) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Andrew Ace](https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG) | [iluminada](https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr) | 2:35 |
-| 52 | [YA LLORARE\(MOS\)](https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [YA LLORARE\(MOS\)](https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk) | 3:50 |
-| 53 | [Toko Challenge](https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Kreatunez](https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv) | [Toko Challenge](https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0) | 1:38 |
+| 52 | [Toko Challenge](https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Kreatunez](https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv) | [Toko Challenge](https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0) | 1:38 |
+| 53 | [YA LLORARE\(MOS\)](https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [YA LLORARE\(MOS\)](https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk) | 3:50 |
 | 54 | [Se Fue](https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Se Fue](https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj) | 3:35 |
 | 55 | [Estrella](https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Estrella](https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb) | 3:25 |
 | 56 | [Rover \(feat\. Piso 21\)](https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Rover \(feat\. Piso 21\)](https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV) | 3:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Rosalia](https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Ladies First](https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU) | 3:01 |
 | 70 | [LOML \(feat\. Olamide\)](https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [LOML \(feat\. Olamide\)](https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH) | 3:16 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGY1YTY2ZDJlZDNkZmNkNDA4ODBiMDViZjQ1YmE3MmNj`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDVjM2UzNDMzMWRlNTAyZTY2NGU5OGQwNTRlYTJhODlm`

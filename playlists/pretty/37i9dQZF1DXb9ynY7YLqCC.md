@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,382 likes - 80 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,476 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 22 | [Ruleta](https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO) | 4:16 |
 | 23 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
 | 24 | [Solo voy](https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [SHOC](https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz) | 4:15 |
-| 25 | [Sr\. Cobranza](https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 4:19 |
+| 25 | [Sapo de Otro Pozo](https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:19 |
 | 26 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 |
-| 27 | [Sapo de Otro Pozo](https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:19 |
+| 27 | [Sr\. Cobranza](https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 4:19 |
 | 28 | [Par Mil](https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:18 |
 | 29 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 |
 | 30 | [Una Nueva Noche Fría](https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:37 |
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 36 | [Terminales](https://open.spotify.com/track/1x2uQwwfW59xIdKpPGOLKW) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM) | 3:21 |
 | 37 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
 | 38 | [Loco Un Poco](https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:27 |
-| 39 | [Se Viene](https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 3:25 |
+| 39 | [Otra Vuelta de Tuerca](https://open.spotify.com/track/3Azo521e0Tacq8znJWaDQO) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:21 |
 | 40 | [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 |
-| 41 | [Otra Vuelta de Tuerca](https://open.spotify.com/track/3Azo521e0Tacq8znJWaDQO) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:21 |
+| 41 | [Se Viene](https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 3:25 |
 | 42 | [Vine Hasta Aquí](https://open.spotify.com/track/2HPh92X44B9hHR0n9FZZoM) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO) | 4:38 |
 | 43 | [Para No Verme Más](https://open.spotify.com/track/270ieNCOt945nOdUQubFI5) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [El Impulso](https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4) | 4:05 |
 | 44 | [Triste Canción De Amor](https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [A Donde Me Lleva La Vida](https://open.spotify.com/album/5f86DyUHkazyikoFVWb237) | 5:07 |
 | 45 | [Fuiste lo mejor](https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:29 |
-| 46 | [Misterios](https://open.spotify.com/track/3ChnKeii6R7f7pGDobnzUB) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social I](https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky) | 2:41 |
-| 47 | [Tantas Escaleras](https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:03 |
+| 46 | [Tantas Escaleras](https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:03 |
+| 47 | [Misterios](https://open.spotify.com/track/3ChnKeii6R7f7pGDobnzUB) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social I](https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky) | 2:41 |
 | 48 | [La ilusión que me condena](https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Alucinados como la primera vez](https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD) | 5:00 |
 | 49 | [Soy](https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Lo Que Somos](https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ) | 3:11 |
 | 50 | [Chance](https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Karmagedon](https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv) | 5:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 79 | [Tus Ojos](https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Solo Canciones](https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY) | 4:04 |
 | 80 | [Viejo](https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:24 |
 
-Snapshot ID: `MTY3MjM2OTIwMCwwMDAwMDAwMDBiN2YxYzBiYWI4MGJjNjAxZjI2MjIwMWRjNjMzNjI1`
+Snapshot ID: `MTY3MjM2OTIwMCwwMDAwMDAwMDI3YjQwZDE0ZjliZjE0NTgyOWJlZDE5NDZkNDQ0NWI2`

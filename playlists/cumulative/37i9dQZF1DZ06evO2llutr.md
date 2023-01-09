@@ -4,7 +4,7 @@
 
 > This is Zach Bryan\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 32 min
+45 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Mine Again](https://open.spotify.com/track/6b8LUVmacXlMUl4wRtCD2S) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:44 | 2022-09-08 |  |
 | [Motorcycle Drive By](https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 2:41 | 2022-09-08 |  |
 | [November Air](https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 4:03 | 2022-09-08 |  |
+| [Oklahoma City \- Live](https://open.spotify.com/track/6qtsmjLGlyoTlUMjV7Xx1C) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 4:31 | 2023-01-08 |  |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-09-08 |  |
 | [Open the Gate](https://open.spotify.com/track/3Ngp6vv1OGyAaQLcNbqRMz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Open the Gate](https://open.spotify.com/album/1BlxSkd0XuXeU15NKhFfDc) | 3:54 | 2022-09-08 |  |
 | [Quiet, Heavy Dreams](https://open.spotify.com/track/3JGqdP88wrRe9QEVCDHQv9) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 2:54 | 2022-09-08 |  |

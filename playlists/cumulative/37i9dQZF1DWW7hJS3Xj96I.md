@@ -4,7 +4,7 @@
 
 > ¡Baila con los mejores éxitos de los 90!
 
-92 songs - 6 hr 0 min
+93 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Mas De Lo Que Te Imaginas \(Classic Version\)](https://open.spotify.com/track/3PRhLVCZkhI47NI4iwxCNT) | [The Sacados](https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6) | [Superexitos Vol\. 2](https://open.spotify.com/album/6Qjuh2f96ox5s3DpgL62rz) | 3:39 | 2021-12-09 | 2022-07-29 |
 | [Mas de Lo Que Te Imaginas \(Classic Version\)](https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y) | [The Sacados](https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6) | [Superexitos Vol\. 2](https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz) | 3:39 | 2022-04-07 |  |
 | [Media Naranja](https://open.spotify.com/track/2xhRroGUvJTSqHqPeLjdwC) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Fey](https://open.spotify.com/album/28ibwBS08IFdLkcmYSN7Jh) | 3:41 | 2021-12-09 | 2022-07-29 |
+| [Media Naranja](https://open.spotify.com/track/5qOOJibHjeGx0rhzL20JSc) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Originales \- 20 Exitos](https://open.spotify.com/album/3XJ5zeV7FVsvZQl0SNPBhy) | 3:41 | 2022-08-31 |  |
 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 | 2022-04-07 |  |
 | [Mirala Miralo](https://open.spotify.com/track/7xSvBMiquYNDfg1Vt2W9Rv) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [16 Éxitos De Oro](https://open.spotify.com/album/6ugipz6Zx3IWPW4hGPP9Fk) | 4:04 | 2021-12-09 | 2022-07-29 |
 | [MMMBop \- Single Version](https://open.spotify.com/track/4PgPnzbAgjCQ2eA6YAWcUw) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Guilty Pleasures \(International Version\)](https://open.spotify.com/album/2F3jGeVC9Oua9omnR6Uoi8) | 3:58 | 2022-04-07 | 2022-04-21 |
@@ -75,7 +76,7 @@
 | [Oye Mi Amor](https://open.spotify.com/track/5TA7wLBogohCKbyuCMHBKY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Você É Minha Religião: O Melhor Do Maná \(Deluxe Version\)](https://open.spotify.com/album/0T6xjJtpq2ZFsGb8WVBPfO) | 4:23 | 2022-08-31 | 2022-11-13 |
 | [Pelo Suelto](https://open.spotify.com/track/5cSL4f200gFJB47ynqm73m) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Soy Mujer](https://open.spotify.com/album/2nXE17JauOeyVltE92GMng) | 3:26 | 2022-08-31 | 2022-11-12 |
 | [Pelo Suelto](https://open.spotify.com/track/1H8aAoRO817bygKpgvAcpf) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:26 | 2021-12-09 | 2022-07-29 |
-| [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Serie 2000](https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR) | 4:20 | 2021-12-09 |  |
+| [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Serie 2000](https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR) | 4:20 | 2021-12-09 | 2023-01-09 |
 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 | 2021-12-09 |  |
 | [Solo Se Vive una Vez](https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Monica Naranjo](https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz) | 4:13 | 2021-12-09 |  |
 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 | 2021-12-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,266 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,305 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 67 | [My Precious World](https://open.spotify.com/track/2BBSxqfQ0Tl24L9smDc7Yb) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [My Precious World](https://open.spotify.com/album/7Hl7VHWsWdBRFe7pS2OrXk) | 3:37 |
 | 68 | [Sakura Message](https://open.spotify.com/track/3f10Sd0IpJbO2kxhbXH5yV) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Sakura Message](https://open.spotify.com/album/12Evu6rQOsj7Au5qNRXafw) | 5:28 |
 | 69 | [Re\-raise](https://open.spotify.com/track/4RqIz3fZW3K00ZG4rSqwLn) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re\-raise](https://open.spotify.com/album/1ahdCCGrE726AaQLrl5bu2) | 4:13 |
-| 70 | [Ache](https://open.spotify.com/track/0gaM0xYRyVebGj1YPx608K) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:06 |
+| 70 | [Viva! Fantastic Life!!!!!!!](https://open.spotify.com/track/1cEUUpMv30fWDebbB2yVrQ) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [ナナツイロ REALiZE](https://open.spotify.com/album/6Gae1e4UtFVseYUcDkGNeH) | 4:06 |
 
-Snapshot ID: `MTY3MTU1MDYyMiwwMDAwMDAwMGM1YjkwYjEzMWM5YTRjN2JiNTI1YTA4MTVjMzYzNjcy`
+Snapshot ID: `MTY3MTU1MDYyMiwwMDAwMDAwMGI5NGRkN2QxZTNkMGZmNzgyOTA4ZDRjYmMyOGJlM2Y1`

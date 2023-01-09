@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,517 likes - 60 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,556 likes - 60 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 53 | [I'm Good](https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [I'm Good](https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77) | 3:45 |
 | 54 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 |
 | 55 | [Winning](https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [Think About These Things](https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG) | 2:33 |
-| 56 | [I Got Out](https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [I Got Out](https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke) | 4:57 |
-| 57 | [Kind God](https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close](https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H) | 4:09 |
+| 56 | [Kind God](https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close](https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H) | 4:09 |
+| 57 | [I Got Out](https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [I Got Out](https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke) | 4:57 |
 | 58 | [Open Door \(See You Later\)](https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy) | [Christon Gray](https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2) | [Open Door \(See You Later\)](https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M) | 4:15 |
 | 59 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 |
 | 60 | [Bigger Than Me](https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Bigger Than Me](https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4) | 4:19 |
 
-Snapshot ID: `MTU5MTE5NDc5MCwwMDAwMDAwMDM4NDM0YTFmN2EwMzk0ZDAyMzE5OWI1MTMyOWQyMTlj`
+Snapshot ID: `MTU5MTE5NDc5MCwwMDAwMDAwMDliNTc3OWQzODIzMDJiNGJlOTgxMGM1Yzc3ZGI2MTIx`

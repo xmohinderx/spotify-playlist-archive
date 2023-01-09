@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Astronomía Interior en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,338 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,373 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 63 | [Demasiado Bien](https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Demasiado Bien](https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR) | 3:39 |
 | 64 | [Empezar de Cero](https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Empezar de Cero](https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh) | 4:30 |
 | 65 | [Mi Habitación](https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 2:35 |
-| 66 | [Un Impulso](https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Florencia Quinteros](https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW) | [Un Impulso](https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib) | 3:53 |
+| 66 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 |
 | 67 | [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 |
-| 68 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 |
+| 68 | [Un Impulso](https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Florencia Quinteros](https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW) | [Un Impulso](https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib) | 3:53 |
 | 69 | [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 |
 | 70 | [Solo](https://open.spotify.com/track/3oA2dvG9iNJY865qSHWekF) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Fierrro](https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i) | 3:54 |
 | 71 | [Tu Tiempo](https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tu Tiempo](https://open.spotify.com/album/6wGQJhl5Dvm0vgwGvJTsKp) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 74 | [Polvo Cósmico](https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Polvo Cósmico](https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY) | 4:01 |
 | 75 | [Enamorado](https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:07 |
 
-Snapshot ID: `MTY3MzA1NDk1NSwwMDAwMDAwMDkwMDZhNzBmYzg5Yzc3NzZhOWNmZDRjMzg4MDZlZDRk`
+Snapshot ID: `MTY3MzA1NDk1NSwwMDAwMDAwMGYxZmZmNWUwMjc1MGJmZjhhYjUxNzI5N2Q4YzI3YWRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,337 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,385 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 15 | [Won't Stop Now Ft\. Diddy \- Andrea Oliva & Black Circle Remix](https://open.spotify.com/track/2RcogvIEmlk7DoI1iDrySs) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Won't Stop Now](https://open.spotify.com/album/0eLnugOAUou9oEHIsGWpDn) | 6:45 |
 | 16 | [Rizzla \- Mochakk Remix](https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Rizzla \(Mochakk Remix\)](https://open.spotify.com/album/2blv3hfKbwCQubKJmCoNpw) | 5:21 |
 | 17 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 |
-| 18 | [Warning](https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Warning](https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp) | 5:36 |
-| 19 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
+| 18 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
+| 19 | [Warning](https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Warning](https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp) | 5:36 |
 | 20 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 |
 | 21 | [Whispers In The Wind](https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Whispers In The Wind](https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f) | 6:08 |
 | 22 | [Sete \- Carlita Remix](https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/4SMYDx604fGDZsaRuMznWb) | 3:42 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 43 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 |
 | 44 | [Beeper Blowing Up](https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw) | [LATE NIITE](https://open.spotify.com/artist/6zKFmriYB7K8UC54jtYCAS), [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq) | [Beeper Blowing Up](https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0) | 3:38 |
 | 45 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 |
-| 46 | [DJ Lover \- Original Mix](https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Welcome EP](https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh) | 6:47 |
-| 47 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 |
+| 46 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 |
+| 47 | [DJ Lover \- Original Mix](https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Welcome EP](https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh) | 6:47 |
 | 48 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 |
 | 49 | [Tonight](https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X) | [Latmun](https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0) | [Tonight EP](https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y) | 5:52 |
 | 50 | [Nana](https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Nana](https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt) | 2:47 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGU1NzA4MjE0MzlkOTgwNDFlY2Y4ZmU0NDI0NGFiYjIz`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDk5YWY4MGMzNGFjZWQ4ZjVhNTM0ZDliMmJhOGViYTUw`

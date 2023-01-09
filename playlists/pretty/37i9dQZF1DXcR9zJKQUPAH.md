@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 
 > 2017 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,857 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,103 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 37 | [Cooks](https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Cooks](https://open.spotify.com/album/6P5uQurlsYMrmOgGRd3xpz) | 2:54 |
 | 38 | [You're Somebody Else](https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Baby, It's Okay](https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw) | 3:39 |
 | 39 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 |
-| 40 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
-| 41 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 |
+| 40 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 |
+| 41 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
 | 42 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 |
 | 43 | [Down the Line](https://open.spotify.com/track/05ZUxHiGT7VR6ShJjhwJxn) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Somersault](https://open.spotify.com/album/2d7uieZPQtrUi5AQXwdsYV) | 2:38 |
 | 44 | [Summer Bummer \(feat\. A$AP Rocky & Playboi Carti\)](https://open.spotify.com/track/5QqyRUZeBE04yJxsD1OC0I) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:20 |
-| 45 | [Dissolve](https://open.spotify.com/track/7pBrj5rt4SSxXwFKOyZfHR) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [NITESHIFT](https://open.spotify.com/artist/31aY8MVhn7ZKrobYTLssax) | [Thousand Peaces](https://open.spotify.com/album/79mdn7airf7jJw1dhV1PCI) | 3:44 |
-| 46 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
+| 45 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
+| 46 | [Dissolve](https://open.spotify.com/track/7pBrj5rt4SSxXwFKOyZfHR) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [NITESHIFT](https://open.spotify.com/artist/31aY8MVhn7ZKrobYTLssax) | [Thousand Peaces](https://open.spotify.com/album/79mdn7airf7jJw1dhV1PCI) | 3:44 |
 | 47 | [Yam Yam](https://open.spotify.com/track/7kyiHjkFdmHcYcIJtFAdaF) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/33dtgSEkkObUGGyNz2MgkH) | 3:36 |
 | 48 | [Sometimes](https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh) | 3:16 |
 | 49 | [Everytime](https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 2:52 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 75 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
 | 76 | [Found What I've Been Looking For](https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lighting Matches \(Deluxe\)](https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI) | 3:11 |
 | 77 | [My God Has A Telephone](https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx) | [The Flying Stars Of Brooklyn NY](https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [My God Has a Telephone](https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk) | 2:55 |
-| 78 | [You're in Love with a Psycho](https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [For Crying Out Loud \(Deluxe\)](https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU) | 3:35 |
-| 79 | [Turn](https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi) | 3:27 |
+| 78 | [Turn](https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi) | 3:27 |
+| 79 | [You're in Love with a Psycho](https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [For Crying Out Loud \(Deluxe\)](https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU) | 3:35 |
 | 80 | [You Say I'm in Love](https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [You Say I'm in Love](https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN) | 2:56 |
 | 81 | [Love Is Mystical](https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:34 |
 | 82 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 85 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
 | 86 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 |
 | 87 | [Die Young](https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:30 |
-| 88 | [Boyish](https://open.spotify.com/track/4ETQzZdnRJwaoFIPQy3GJv) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:33 |
-| 89 | [anemone](https://open.spotify.com/track/1MD2yGSeBRALkMui1fZ05P) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [fabulist](https://open.spotify.com/album/1vaFEGAj0JSQSM2SlK0B3X) | 3:48 |
+| 88 | [anemone](https://open.spotify.com/track/1MD2yGSeBRALkMui1fZ05P) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [fabulist](https://open.spotify.com/album/1vaFEGAj0JSQSM2SlK0B3X) | 3:48 |
+| 89 | [Boyish](https://open.spotify.com/track/4ETQzZdnRJwaoFIPQy3GJv) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:33 |
 | 90 | [Fangs](https://open.spotify.com/track/6T7xC3rDjOCkMkvcFVdu6Z) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Fangs](https://open.spotify.com/album/1DRoEmmMAuv4AfKFydvUqv) | 3:54 |
 | 91 | [I Dare You](https://open.spotify.com/track/3pAw0BXL8acShtjUwLosw8) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:53 |
 | 92 | [Lay It on Me](https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:35 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 95 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 |
 | 96 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
 | 97 | [Goodpain](https://open.spotify.com/track/4DHhTy2dYNd8IiW0aMQ24X) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/6Q4q3XFs8KRDj9mTfNlQSm) | 4:21 |
-| 98 | [Road Head](https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:15 |
-| 99 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 |
+| 98 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 |
+| 99 | [Road Head](https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:15 |
 | 100 | [So Tied Up](https://open.spotify.com/track/3msS7xaelR4Oa0n7IwHkgF) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC), [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:09 |
 
-Snapshot ID: `MTY2Njg0OTEzOCwwMDAwMDAwMGIyMzkzYjZlMWFlMGRkZjZkMGY3Yjg5ZDc2NGQ2NTdm`
+Snapshot ID: `MTY2Njg0OTEzOCwwMDAwMDAwMDVhZGU1ODE4NzNjMTgyMTU2NzAxNmZhOWI4MDNhMWYy`

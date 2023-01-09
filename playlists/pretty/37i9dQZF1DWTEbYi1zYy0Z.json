@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 42101,
+  "num_followers": 42165,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDM4YWRkYzg4MGQ1YzM5OTRhNzlhM2Y5YTA2ZmExOTUw",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDllYTQwZmY4MzUxNTFkZWQ4YzdhOWYxZDkyNjk4ODI4",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -249,6 +249,22 @@
       "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
     },
     {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Off The Top",
+        "url": "https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "duration_ms": 259044,
+      "name": "Off The Top - radio single",
+      "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Sweet Talk",
@@ -279,22 +295,6 @@
       "duration_ms": 251432,
       "name": "Good On You",
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Off The Top",
-        "url": "https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        }
-      ],
-      "duration_ms": 259044,
-      "name": "Off The Top - radio single",
-      "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Cool Shades",
-        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Nine 2 Five",
-      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Summer in Blue",
@@ -543,6 +527,22 @@
       "duration_ms": 269129,
       "name": "Summer In Blue",
       "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Cool Shades",
+        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Nine 2 Five",
+      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 374536,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
-    },
-    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "A Sunny Day",
@@ -635,6 +619,38 @@
       "duration_ms": 255466,
       "name": "Fika Talk",
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        }
+      ],
+      "duration_ms": 374536,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -657,20 +673,20 @@
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-01-28 05:02:00",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU"
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/5iS8xmYmYmxqUgdOVICdxr"
       },
       "artists": [
         {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+          "name": "Christophe Goze",
+          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
         }
       ],
-      "duration_ms": 256708,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
+      "duration_ms": 229237,
+      "name": "Soul to Soul - 2022 Version",
+      "url": "https://open.spotify.com/track/46xA9y3Fy9Igs0EnFK5CsX"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -717,22 +733,6 @@
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
     },
     {
-      "added_at": "2022-01-28 05:02:00",
-      "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/5iS8xmYmYmxqUgdOVICdxr"
-      },
-      "artists": [
-        {
-          "name": "Christophe Goze",
-          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
-        }
-      ],
-      "duration_ms": 229237,
-      "name": "Soul to Soul - 2022 Version",
-      "url": "https://open.spotify.com/track/46xA9y3Fy9Igs0EnFK5CsX"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Piano Tales",
@@ -747,6 +747,22 @@
       "duration_ms": 248712,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Chicago Morning",
+        "url": "https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N"
+      },
+      "artists": [
+        {
+          "name": "Spontaneous Groovin' Combustion",
+          "url": "https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5"
+        }
+      ],
+      "duration_ms": 260398,
+      "name": "Chicago Morning",
+      "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -783,22 +799,6 @@
       "duration_ms": 249529,
       "name": "Radio Vibe - radio single",
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Chicago Morning",
-        "url": "https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N"
-      },
-      "artists": [
-        {
-          "name": "Spontaneous Groovin' Combustion",
-          "url": "https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5"
-        }
-      ],
-      "duration_ms": 260398,
-      "name": "Chicago Morning",
-      "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
     },
     {
       "added_at": "2022-10-17 15:45:13",
@@ -849,36 +849,20 @@
       "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU"
+        "name": "I Wanna Be Down",
+        "url": "https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ"
       },
       "artists": [
         {
-          "name": "Marco Giubileo",
-          "url": "https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF"
-        },
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        },
-        {
-          "name": "Kim Stone",
-          "url": "https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3"
-        },
-        {
-          "name": "Roberto Soggetti",
-          "url": "https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r"
-        },
-        {
-          "name": "Simone Boffa",
-          "url": "https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR"
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
         }
       ],
-      "duration_ms": 231267,
-      "name": "III",
-      "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
+      "duration_ms": 294252,
+      "name": "I Wanna Be Down",
+      "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
     }
   ],
   "unique_name": "New Smooth Jazz",

@@ -217,6 +217,24 @@
     },
     {
       "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241512,
+      "name": "Celo",
+      "url": "https://open.spotify.com/track/0JWnqFLENqVGs4yNss52gy"
+    },
+    {
+      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -1206,7 +1224,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 371773,
       "name": "Triste Y Vac\u00eda",
       "url": "https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc"

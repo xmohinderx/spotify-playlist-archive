@@ -1,12 +1,12 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 86004,
+  "num_followers": 86097,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NzYwMCwwMDAwMDAwMGIzNGVjZmRkZTljODRjZDA4MzVlN2VhYWNjODM4MmNj",
+  "snapshot_id": "MTY2NzM5NzYwMCwwMDAwMDAwMDhjZWEwMTM1ZTdlOWJmZjliNjhkY2MxM2YyMzI5MDI0",
   "tracks": [
     {
       "added_at": "2022-11-02 14:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Blue World",
-      "url": "https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Blue World",
+      "url": "https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Oliver Twist",
-        "url": "https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5"
-      },
-      "artists": [
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Oliver Twist",
-      "url": "https://open.spotify.com/track/6mSzsSdu0CWIV70jEjWMhI"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/1n8ESe5nt7EeuZedZUI3yu"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 218964,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2CgOd0Lj5MuvOqzqdaAXtS"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Oliver Twist",
+        "url": "https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Oliver Twist",
+      "url": "https://open.spotify.com/track/6mSzsSdu0CWIV70jEjWMhI"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -983,22 +983,34 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "EDNA",
-        "url": "https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU"
+        "name": "Feet Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
       },
       "artists": [
         {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 185080,
-      "name": "Princess Cuts (feat. Young T & Bugsey)",
-      "url": "https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd"
+      "duration_ms": 198800,
+      "name": "Feet Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Ice On The Dune",
+        "url": "https://open.spotify.com/album/1olQuvonXXUEourYrj6daN"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 204591,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5WBnKCEsPwsvWHUZmLjS3s"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1019,18 +1031,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Ice On The Dune",
-        "url": "https://open.spotify.com/album/1olQuvonXXUEourYrj6daN"
+        "name": "EDNA",
+        "url": "https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU"
       },
       "artists": [
         {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
         }
       ],
-      "duration_ms": 204591,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5WBnKCEsPwsvWHUZmLjS3s"
+      "duration_ms": 185080,
+      "name": "Princess Cuts (feat. Young T & Bugsey)",
+      "url": "https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Lift Off",
-        "url": "https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 184933,
-      "name": "Lift Off",
-      "url": "https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Feet Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
+        "name": "Lift Off",
+        "url": "https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt"
       },
       "artists": [
         {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 198800,
-      "name": "Feet Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
+      "duration_ms": 184933,
+      "name": "Lift Off",
+      "url": "https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "LCD Soundsystem",
+        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 314556,
+      "name": "Daft Punk Is Playing at My House",
+      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "LCD Soundsystem",
-        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+        "name": "Rips in Jeans",
+        "url": "https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Niko B",
+          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
         }
       ],
-      "duration_ms": 314556,
-      "name": "Daft Punk Is Playing at My House",
-      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+      "duration_ms": 163459,
+      "name": "Rips in Jeans",
+      "url": "https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Rips in Jeans",
-        "url": "https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0"
+        "name": "The Boy With No Name",
+        "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
       },
       "artists": [
         {
-          "name": "Niko B",
-          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
         }
       ],
-      "duration_ms": 163459,
-      "name": "Rips in Jeans",
-      "url": "https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n"
+      "duration_ms": 240626,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1499,22 +1515,6 @@
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "The Boy With No Name",
-        "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
     },
     {
       "added_at": "2022-11-02 14:00:00",

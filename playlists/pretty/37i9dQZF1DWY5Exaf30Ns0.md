@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 
 > ¿searma o nosearma?
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,513 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,005 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 29 | [Desesperados](https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Desesperados](https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H) | 3:44 |
 | 30 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 |
 | 31 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
-| 32 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 |
-| 33 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
+| 32 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
+| 33 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 |
 | 34 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
-| 35 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 |
-| 36 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 |
+| 35 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 |
+| 36 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 |
 | 37 | [El Precio De La Soledad](https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:06 |
 | 38 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 |
 | 39 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 57 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
 | 58 | [El Tóxico](https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Tóxico](https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG) | 2:59 |
 | 59 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
-| 60 | [La Sinvergüenza](https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Sinvergüenza](https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc) | 3:18 |
-| 61 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
+| 60 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
+| 61 | [La Sinvergüenza](https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Sinvergüenza](https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc) | 3:18 |
 | 62 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 |
 | 63 | [Para No Verte Más](https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Visperas De Carnaval](https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W) | 3:11 |
 | 64 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 69 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
 | 70 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 |
 
-Snapshot ID: `MTY3MTY0NzQ3OCwwMDAwMDAwMGQyM2RhNjU5MzU3ZGI1OGZlYzQwNDVlYzNjODA3MTll`
+Snapshot ID: `MTY3MTY0NzQ3OCwwMDAwMDAwMGMwMmNkMGRiODk4Yjk3NmI2NWUyNTc2OWVlMzM2OGQ3`

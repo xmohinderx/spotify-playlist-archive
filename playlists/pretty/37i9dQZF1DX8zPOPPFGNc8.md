@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="http://tbhits.com/">Tommy Brown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,491 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,516 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 | 36 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 |
 | 37 | [Thriller \- 2003 Edit](https://open.spotify.com/track/0wQy2OO7jKjm0OOmA7gv3f) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 5:11 |
 | 38 | [Oh Yeah](https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 4:20 |
-| 39 | [Throwback \(feat\. Jadakiss\)](https://open.spotify.com/track/1bPbiotvwSAYHG3ycVC2CV) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:46 |
+| 39 | [I Really Mean It \- Skit 1](https://open.spotify.com/track/1IQPLs3r6lt4iNrQzAhnWs) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:22 |
 | 40 | [No More Parties In LA](https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:14 |
 | 41 | [Hey Ma](https://open.spotify.com/track/2vN5Hb3lVKRHj0LzBvafzo) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Freekey Zeekey](https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3), [Toya](https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 3:40 |
-| 42 | [I Really Mean It \- Skit 1](https://open.spotify.com/track/1IQPLs3r6lt4iNrQzAhnWs) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:22 |
+| 42 | [Throwback \(feat\. Jadakiss\)](https://open.spotify.com/track/1bPbiotvwSAYHG3ycVC2CV) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:46 |
 | 43 | [Bashment Time Featuring Mr\. Easy](https://open.spotify.com/track/0muTVrgm3x7FUPXCglIBlP) | [Frisco Kid](https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7) | [Finally](https://open.spotify.com/album/4rrHtMfMBvqAKdbJtvh2Aw) | 3:11 |
 | 44 | [1+1](https://open.spotify.com/track/1pzJboOZaDNwshBnOlNh3a) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:33 |
 | 45 | [Bam Bam](https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Total Reggae: Summer Hits](https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4) | 3:10 |
 | 46 | [Back To Life](https://open.spotify.com/track/7fis60AUmZQI3maiU08Whd) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 3:39 |
-| 47 | [Sucky Ducky](https://open.spotify.com/track/2JDb4hjA4JK4PoI47Ra492) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Planet Reggae](https://open.spotify.com/album/635rqHGKQs1naHN7W0uLB5) | 2:58 |
-| 48 | [Who I Am](https://open.spotify.com/track/6UyI6iKB6UoVehiKNeIyRz) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:19 |
+| 47 | [Who I Am](https://open.spotify.com/track/6UyI6iKB6UoVehiKNeIyRz) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:19 |
+| 48 | [Sucky Ducky](https://open.spotify.com/track/2JDb4hjA4JK4PoI47Ra492) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Planet Reggae](https://open.spotify.com/album/635rqHGKQs1naHN7W0uLB5) | 2:58 |
 | 49 | [Fade](https://open.spotify.com/track/3cCxoOgfi6hgt8MNteuiiD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:13 |
 | 50 | [Blood On The Leaves](https://open.spotify.com/track/42GcjriRK6srwHkfbkBqVl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 5:59 |
 
-Snapshot ID: `MTY2NDU5NjgwMCwwMDAwMDAwMDQwNDIwYTI5YTRhYzk5OGRkMDk0YTY5NzIyNjEwZTgy`
+Snapshot ID: `MTY2NDU5NjgwMCwwMDAwMDAwMDc3NGY4ZDQzZjMwZDk4MjI3NWNiZWE3NWE5N2NiYmYz`

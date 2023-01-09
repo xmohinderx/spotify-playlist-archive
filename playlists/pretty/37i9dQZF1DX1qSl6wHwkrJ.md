@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,951 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,945 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 34 | [Ghost From Christmas Past](https://open.spotify.com/track/5UUoJxGN7cnwOlsX3wH0gI) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Ghost From Christmas Past](https://open.spotify.com/album/5az7pvl1q5ms5eYuZLY82l) | 3:57 |
 | 35 | [I Gave My Love A Cherry](https://open.spotify.com/track/4XNmgQUj1n7QiuGgsN1JB3) | [Chico Hamilton](https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04) | [Jazz Collection](https://open.spotify.com/album/02rkTlK6y1sc6nNZXjJIZM) | 3:14 |
 | 36 | [Christmas Train](https://open.spotify.com/track/2AMep7trysJeDAyfQ7E96T) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:36 |
-| 37 | [Jingle Bell Rock](https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Jingle Bell Rock](https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2) | 3:32 |
-| 38 | [Santa Claus](https://open.spotify.com/track/3lkLhmTRgijn96O9wWTWTZ) | [Little Charlie & The Nightcats](https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 2:57 |
+| 37 | [Santa Claus](https://open.spotify.com/track/3lkLhmTRgijn96O9wWTWTZ) | [Little Charlie & The Nightcats](https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 2:57 |
+| 38 | [Jingle Bell Rock](https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Jingle Bell Rock](https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2) | 3:32 |
 | 39 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/7ecTsJ3c6LfkHcum1h43UG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J) | 3:29 |
 | 40 | [Please Come Home For Christmas](https://open.spotify.com/track/0OcoKrsmrFxA2P17Jw3xk2) | [Chuck Leavell](https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 4:22 |
 | 41 | [Santa Claus, Do You Ever Get The Blues?](https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 3:22 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 48 | [Merry Christmas Baby](https://open.spotify.com/track/4p4z8a8I9ORaoFqhlEwUSY) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 5:05 |
 | 49 | [Really Been Good This Year](https://open.spotify.com/track/0vEVoUboMf7x6j2SEplQ8O) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:28 |
 | 50 | [Far Away Christmas Blues](https://open.spotify.com/track/01GFlck1TZRWWaZ87kwtUH) | [ジョニー・オーティス](https://open.spotify.com/artist/54WGSF3PnOne3EVNVsPmlW), [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 3:21 |
-| 51 | [Lonesome Christmas](https://open.spotify.com/track/1yBXaVUr6fWW6d0dkqrdRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J) | 3:51 |
-| 52 | [It's Christmas Time Again \(Spend, Spend, Spend\)](https://open.spotify.com/track/4DthSTvpxJUpbTWaZWGjgG) | [Little Charlie & The Nightcats](https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:13 |
+| 51 | [It's Christmas Time Again \(Spend, Spend, Spend\)](https://open.spotify.com/track/4DthSTvpxJUpbTWaZWGjgG) | [Little Charlie & The Nightcats](https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:13 |
+| 52 | [Lonesome Christmas](https://open.spotify.com/track/1yBXaVUr6fWW6d0dkqrdRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J) | 3:51 |
 | 53 | [It's Bad to Have the Blues \(At Christmas Time\)](https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [Southern Rock Christmas](https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO) | 4:52 |
 | 54 | [Christmas Card Blues](https://open.spotify.com/track/4IbVYsXSPIpxJBGcfOyHxI) | [Mickey Jupp](https://open.spotify.com/artist/51rvBqpLHpqtbuaIrs4hAT) | [Little River EP](https://open.spotify.com/album/2AHIk4wV03k832bCuydIOX) | 3:04 |
 | 55 | [Christmas Time Blues](https://open.spotify.com/track/0bAEpMET7y6XlLqkm1eyrj) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Roy Milton And His Solid Senders](https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 79 | [Christmas Morning Blues \- Remastered](https://open.spotify.com/track/6pOb1aPQkuyd3UldXh7SkK) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [The Bluebird Recordings, 1938](https://open.spotify.com/album/4HhTU3By2batodWLzxpYqc) | 3:23 |
 | 80 | [Sonny Boy's Christmas Blues](https://open.spotify.com/track/5rbIjCVVXOyTAdX7u59HZ7) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [King Biscuit Time](https://open.spotify.com/album/1aPpiXa9PkLqformEOgyIe) | 2:37 |
 
-Snapshot ID: `MTY3MTYyOTc4MSwwMDAwMDAwMDI4MzVlNTkxMmY0OTNiMmMyOGMyZWEyYjIzYmRiYjIx`
+Snapshot ID: `MTY3MTYyOTc4MSwwMDAwMDAwMGIyOTllMTkyYTY0YTI3Y2FiNDA5MTQ5ZGI2N2YzYjUx`

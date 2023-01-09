@@ -4,7 +4,7 @@
 
 > Pop Acústico para tu día.
 
-163 songs - 9 hr 59 min
+164 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Arráncame \- Live](https://open.spotify.com/track/2gGGapSjwJUMTFZ3TUBZ1p) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Alex Ferreira](https://open.spotify.com/artist/7vfiwyCX0eXiAOm3DzZvuZ) | [Arráncame \(Live\)](https://open.spotify.com/album/7JjVZa6RU2r9ddqYnwT5mo) | 3:29 | 2021-12-16 | 2022-07-29 |
 | [Arráncame \- Live](https://open.spotify.com/track/6aK2GIvXcrkPZ7Nz0gNwoZ) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Arráncame \(Live\)](https://open.spotify.com/album/4GZQdBChz0ovBo3L6wu4eb) | 3:29 | 2022-06-07 |  |
 | [Avenida Del Sol](https://open.spotify.com/track/28CX4Q3kFfA8F7N5sbFt8s) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Avenida Del Sol](https://open.spotify.com/album/39LWhrxdpjsm4UPqKJBgQ8) | 2:08 | 2021-12-16 | 2022-07-28 |
-| [Beirut](https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Beirut](https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH) | 2:31 | 2021-12-16 |  |
+| [Beirut](https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Beirut](https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH) | 2:31 | 2021-12-16 | 2023-01-09 |
 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 | 2021-12-16 |  |
 | [Casita](https://open.spotify.com/track/6s3z0pozH3BaWoIhSPAWTp) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Casita](https://open.spotify.com/album/3wVJ5xvQuzzuvTbWQtTVEb) | 3:39 | 2022-01-26 | 2022-03-05 |
 | [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 | 2021-12-16 |  |
@@ -88,6 +88,7 @@
 | [Luna](https://open.spotify.com/track/6YHAExoi0JVSknKbFiT6Kr) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Standard Version\)](https://open.spotify.com/album/7HvlcB4kC6QivGpN7ABaVP) | 4:40 | 2021-12-16 | 2022-07-29 |
 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 | 2022-06-07 |  |
 | [María \- Unplugged](https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 4:15 | 2021-12-16 |  |
+| [Me Haces Falta](https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Me Haces Falta](https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS) | 3:35 | 2023-01-09 |  |
 | [Me Haces Muy Bien \- Acústico](https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Me Haces Muy Bien \(Acústico\)](https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP) | 3:25 | 2021-12-16 |  |
 | [Me Quemé](https://open.spotify.com/track/2HqDV3t9ImPT7P9UWVNRzz) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn), [Luisa](https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z) | [Me Quemé](https://open.spotify.com/album/7gG7dzmR1LeATBwmf1vHh4) | 4:10 | 2021-12-16 |  |
 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 | 2021-12-16 | 2022-05-20 |

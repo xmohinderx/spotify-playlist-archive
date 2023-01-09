@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,524 likes - 60 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,876 likes - 60 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 49 | [Pastorcita](https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [The Deep South](https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY) | 6:23 |
 | 50 | [RAI](https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [RAI](https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW) | 3:58 |
 | 51 | [La Isla \- Radio Version](https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro) | [Megablast](https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T), [Eribertho Cruz](https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb) | [La Isla](https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0) | 3:13 |
-| 52 | [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 |
+| 52 | [Graceland](https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [Graceland](https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV) | 6:45 |
 | 53 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 |
-| 54 | [Graceland](https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [Graceland](https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV) | 6:45 |
-| 55 | [Demedim Mi \(Pt\. 1\)](https://open.spotify.com/track/6juRAf7Qi1TyMXrlL7PgWa) | [Insanlar](https://open.spotify.com/artist/5hn8gGxhmJX2AQ4s3OMEBA), [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [Demedim Mi](https://open.spotify.com/album/1qqDnV0NDkkNVFmsCSccnJ) | 23:21 |
-| 56 | [The Oracle](https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Woods, Tales & Friends](https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4) | 4:42 |
-| 57 | [Magic Workout](https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Magic Workout](https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7) | 5:35 |
+| 54 | [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 |
+| 55 | [Magic Workout](https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Magic Workout](https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7) | 5:35 |
+| 56 | [Demedim Mi \(Pt\. 1\)](https://open.spotify.com/track/6juRAf7Qi1TyMXrlL7PgWa) | [Insanlar](https://open.spotify.com/artist/5hn8gGxhmJX2AQ4s3OMEBA), [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [Demedim Mi](https://open.spotify.com/album/1qqDnV0NDkkNVFmsCSccnJ) | 23:21 |
+| 57 | [The Oracle](https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Woods, Tales & Friends](https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4) | 4:42 |
 | 58 | [Novicani](https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Beli](https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW) | 6:07 |
-| 59 | [Quem Sou Eu](https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Quem Sou Eu](https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL) | 5:28 |
-| 60 | [Time](https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [Time & Space](https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy) | 6:21 |
+| 59 | [Time](https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [Time & Space](https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy) | 6:21 |
+| 60 | [Quem Sou Eu](https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Quem Sou Eu](https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL) | 5:28 |
 
-Snapshot ID: `MTY2OTM4NzgzNCwwMDAwMDAwMDI0YjE0MzE3Mjc2ZGJhZjc3NmUyZjNhMjJmYWMzODZj`
+Snapshot ID: `MTY2OTM4NzgzNCwwMDAwMDAwMDE1YTk5NGM0NzQxYTVlNmMwNjgxNjc3NmVkMmI0NDJi`

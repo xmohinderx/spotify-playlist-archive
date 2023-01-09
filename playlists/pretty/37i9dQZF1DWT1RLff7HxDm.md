@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,852 likes - 60 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,921 likes - 60 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 28 | [Drive \- Live](https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Sydney Opera House](https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH) | 7:27 |
 | 29 | [One of These Days \- Live](https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Naturally Live](https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV) | 5:08 |
 | 30 | [No Time For Cryin' \- Live](https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Live in London](https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX) | 5:22 |
-| 31 | [Judgment Day](https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Songs from the Road](https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt) | 7:17 |
+| 31 | [I Wonder Who \- Live At The San Diego Civic Center, CA, USA / 1974](https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Live In San Diego '74](https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT) | 9:31 |
 | 32 | [The Healing \- Live](https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Live North America 2016](https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN) | 5:38 |
 | 33 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
-| 34 | [I Wonder Who \- Live At The San Diego Civic Center, CA, USA / 1974](https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Live In San Diego '74](https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT) | 9:31 |
+| 34 | [Judgment Day](https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Songs from the Road](https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt) | 7:17 |
 | 35 | [Steamroller / Powerful Thing \- Live](https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol.1 \(Live\)](https://open.spotify.com/album/4RVC2CS8xom9Q9497xfWk3) | 6:22 |
 | 36 | [Tip of My Hat \(Live\)](https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N) | [Ghost Town Blues Band](https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK) | [Backstage Pass \(Live\)](https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn) | 4:28 |
 | 37 | [Weatherman](https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY) | [Tasha Taylor](https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq) | [Ina Forsman, Layla Zoe, Tasha Taylor](https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3) | 3:38 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 44 | [Born Under A Bad Sign \(Live\)](https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:03 |
 | 45 | [Chills & Thrills \- Live](https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Live at the Jazzhaus](https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4) | 6:50 |
 | 46 | [I'm In The Mood \- Live](https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I'm In The Mood \(Live\)](https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS) | 4:08 |
-| 47 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 |
-| 48 | [Step By Step \- Live](https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA) | [Eugene Hideaway Bridges](https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY) | [Live In Tallahassee](https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG) | 3:32 |
+| 47 | [Step By Step \- Live](https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA) | [Eugene Hideaway Bridges](https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY) | [Live In Tallahassee](https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG) | 3:32 |
+| 48 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 |
 | 49 | [Blue On Black \- Live](https://open.spotify.com/track/3rBYc8dlONJSWY6gJ3fUwQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 4:59 |
 | 50 | [Mississippi Nights \- Live](https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Mississippi Nights \(Live\)](https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji) | 5:00 |
 | 51 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \(Live\)](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 56 | [Can't Walk Away From It Now \- Live](https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Liquid Quartet Live](https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X) | 5:20 |
 | 57 | [Dyin' To Know \(Live\)](https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Dyin' To Know \(Live\)](https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx) | 3:12 |
 | 58 | [Keep Coming Back \- Live](https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 4:35 |
-| 59 | [Night Train \- Live](https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Songs from the Road](https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo) | 4:58 |
+| 59 | [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 |
 | 60 | [True Lies \- Live](https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Live in Chicago](https://open.spotify.com/album/3ljFmredCgsn5o8WsjJBBa) | 5:54 |
 
-Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMGVkOTE4ZDM4YmNiMzJhMDVhM2I0NjAyN2VmMjNhYWNh`
+Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMDJkYjFmZWRjNmNjZGQzZDI5ZDlhYjM4MDg2YWE4YTJj`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 
 > Nakakakilig!
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,487 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,716 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [May Sasabihin Lang](https://open.spotify.com/track/0Su5BcYFPevcGUZY9CHEiM) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [May Sasabihin Lang](https://open.spotify.com/album/4YCbCdDj4wbLRyivrqTX5U) | 3:02 |
-| 2 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
-| 3 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
+| 2 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
+| 3 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
 | 4 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 |
 | 5 | [Ligaw Tingin](https://open.spotify.com/track/1sb94XlK6C8VETUPeMpzjq) | [Zildjian Parma](https://open.spotify.com/artist/7mpEg5WV7rNQSLwxxVJ4kk) | [Ligaw Tingin](https://open.spotify.com/album/1Z55VsiKo1lpe4n03B2iL9) | 4:16 |
 | 6 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 | 39 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 |
 | 40 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 |
 
-Snapshot ID: `MTY2OTI1Njc2OCwwMDAwMDAwMDdjMGZjMDBjMzE2ZGQxNDQyOTE0MzlmN2ZlMmVlNmJl`
+Snapshot ID: `MTY2OTI1Njc2OCwwMDAwMDAwMDNkNDA5ZWI1ZjM2M2UwN2ZjYjA2ZWE3YTYzMTkxNTRj`

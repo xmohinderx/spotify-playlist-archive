@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2022-12-08 |  |
-| [911](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 | 2022-12-08 |  |
+| [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 | 2022-12-08 |  |
 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 | 2022-03-09 |  |
 | [A Lo Lejos Me Veran](https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:28 | 2022-09-23 |  |
 | [A Través Del Vaso](https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 | 2022-03-09 |  |

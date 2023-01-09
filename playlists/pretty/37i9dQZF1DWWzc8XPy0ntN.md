@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,488 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,488 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 28 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
 | 29 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
 | 30 | [Koro Kemboro](https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz) | [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Koro Kemboro](https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF) | 5:03 |
-| 31 | [they told us it was hard, but they were wrong\. \- Edit](https://open.spotify.com/track/4eChGxuP1HLtOPpQFFXRbP) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [they told us it was hard, but they were wrong.](https://open.spotify.com/album/6PbCwsrFphZdHvDhDneO4v) | 3:45 |
-| 32 | [Momoto](https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:39 |
+| 31 | [Momoto](https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:39 |
+| 32 | [they told us it was hard, but they were wrong\. \- Edit](https://open.spotify.com/track/4eChGxuP1HLtOPpQFFXRbP) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [they told us it was hard, but they were wrong.](https://open.spotify.com/album/6PbCwsrFphZdHvDhDneO4v) | 3:45 |
 | 33 | [Mexican Superstar](https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Mexican Superstar](https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14) | 3:57 |
 | 34 | [Mexico Trance](https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Mexico Trance](https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ) | 6:55 |
 | 35 | [Descanse](https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mas Amable](https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM) | 4:31 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 45 | [Fiebre](https://open.spotify.com/track/00PyNFoOwrk0Aw3O7qU2kh) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Fiebre](https://open.spotify.com/album/6y2lryBMGXmaZ8CxuHfOXj) | 4:27 |
 | 46 | [Collateral](https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV) | 4:31 |
 | 47 | [Pieles](https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5) | [Tyu](https://open.spotify.com/artist/5IToOsTYhrDB6BqOxpWTxM) | [Pieles](https://open.spotify.com/album/6wnljTM7txuqv9nCu2sRAu) | 8:20 |
-| 48 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 |
-| 49 | [Pebbles Mind Horrors](https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Mijo](https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl), [Rocco Desentis](https://open.spotify.com/artist/6VhNyPvKFaJAzTe5sqPz89) | [Pebbles Mind Horrors](https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl) | 6:10 |
-| 50 | [Nsnc \(Fantasna Mix\)](https://open.spotify.com/track/1YsPrORRSH1Y7qOh7bZ33j) | [Fantasna](https://open.spotify.com/artist/7k3dCxuAZNzBYOdyXDEiGy) | [Nsnc](https://open.spotify.com/album/3m8YKgCQUMwinmLvcbB3vZ) | 7:29 |
+| 48 | [Pebbles Mind Horrors](https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Mijo](https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl), [Rocco Desentis](https://open.spotify.com/artist/6VhNyPvKFaJAzTe5sqPz89) | [Pebbles Mind Horrors](https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl) | 6:10 |
+| 49 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 |
+| 50 | [Mala Hierba](https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Mala Hierba](https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy) | 3:35 |
 
-Snapshot ID: `MTY3MzA2MjgzMSwwMDAwMDAwMDkzMDk3MmU3OGM2MTk2YTQwYzk0YmFiOTdhMjdkYWEy`
+Snapshot ID: `MTY3MzA2MjgzMSwwMDAwMDAwMDg4MmJkOTFjMTg4NmVlNmZjOTEzZWZhZmRjMDExMTBh`

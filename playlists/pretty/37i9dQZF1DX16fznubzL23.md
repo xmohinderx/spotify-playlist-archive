@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,107 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,117 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 14 | [understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 |
 | 15 | [Yoruba Demon](https://open.spotify.com/track/24XUKCOaMqHJbVm350wGDD) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [Yoruba Demon](https://open.spotify.com/album/4hJAQ68RUNCu6pb3mrWYc0) | 2:13 |
 | 16 | [Leg Over](https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 3:17 |
-| 17 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 |
-| 18 | [4 Nothin'](https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb) | 3:29 |
+| 17 | [4 Nothin'](https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb) | 3:29 |
+| 18 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 |
 | 19 | [Survivor](https://open.spotify.com/track/2FUyod5LVoX1JcgesHVfKk) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Survivor](https://open.spotify.com/album/4dhy5PaAbgs0hloWYFWkmO) | 2:25 |
 | 20 | [Begging](https://open.spotify.com/track/771tThfRECkaHjTKb6clZx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Begging](https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH) | 2:15 |
 | 21 | [Citrus Tears](https://open.spotify.com/track/5T17angrfy3Gdmh4Y3aeQR) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:49 |
-| 22 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 |
+| 22 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility \(feat\. Wande Coal\)](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 |
 | 23 | [Ife Ife](https://open.spotify.com/track/3716u4GLH9a7HqmwCWLrC9) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Ife Ife](https://open.spotify.com/album/7iIw1JOb6ciXxIw603PpvJ) | 2:18 |
-| 24 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility \(feat\. Wande Coal\)](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 |
+| 24 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 |
 | 25 | [Thunder Fire You](https://open.spotify.com/track/272R7WaDdI1Wol1PHgAwIZ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB) | 2:59 |
 | 26 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 |
 | 27 | [Single](https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Single](https://open.spotify.com/album/1yszAI0O53HKBjyrR8l2fi) | 2:47 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 43 | [Peace Of Mind](https://open.spotify.com/track/71cLwuw0yKKcKlHDiccxNn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:14 |
 | 44 | [Goodbye](https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodbye](https://open.spotify.com/album/7ghHUmv50N6eSegtCyCqnZ) | 3:44 |
 | 45 | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 |
-| 46 | [Dreamer](https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 3:00 |
-| 47 | [Murvlana](https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:18 |
-| 48 | [In A Loop](https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:13 |
+| 46 | [In A Loop](https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:13 |
+| 47 | [Dreamer](https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 3:00 |
+| 48 | [Murvlana](https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:18 |
 | 49 | [Shattered](https://open.spotify.com/track/2ncseCYD6unNaUj3j05azH) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Shattered](https://open.spotify.com/album/12JN7p9WCNuyidmPWUzY4U) | 3:25 |
 | 50 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDBiZmNkNmFjYWQ1MWY0NTEzNWM0MzI5MDM4OWEyYzFl`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGY1Zjc0ZGNiMDRmZWUwZjEwMjQyMjZjYzlhZWQ3MDY1`

@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 29871,
+  "num_followers": 30258,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDllYWU2NTdhZTgwODg5MmM0NjA2YThkNzIwMDBjYjk3",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDQ1NzRkMjliMmY1YmRlMmVhMDc3YzQ2MmZkOTYzNmRl",
   "tracks": [
     {
       "added_at": "2022-05-10 19:26:35",
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
     },
     {
-      "added_at": "2023-01-08 00:43:25",
+      "added_at": "2023-01-09 01:13:11",
       "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"
     },
     {
-      "added_at": "2023-01-08 00:43:25",
+      "added_at": "2023-01-09 01:13:11",
       "album": {
         "name": "I Turned Myself into Myself",
         "url": "https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ"
@@ -1141,7 +1141,7 @@
       "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
-      "added_at": "2023-01-08 00:43:25",
+      "added_at": "2023-01-09 01:13:11",
       "album": {
         "name": "YOD Presents: The Shining",
         "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
@@ -1361,7 +1361,23 @@
       "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
     },
     {
-      "added_at": "2023-01-08 00:43:25",
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Fantastic, Vol. 2.10",
+        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 209119,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
+    },
+    {
+      "added_at": "2023-01-09 01:13:11",
       "album": {
         "name": "Narcan",
         "url": "https://open.spotify.com/album/4D1kEyNNQvPZy4sJ3togDl"
@@ -1379,22 +1395,6 @@
       "duration_ms": 116173,
       "name": "Narcan",
       "url": "https://open.spotify.com/track/4AQV6hS4o5XZGBqc3Pps5d"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Fantastic, Vol. 2.10",
-        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 209119,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
     },
     {
-      "added_at": "2022-07-08 12:00:00",
-      "album": {
-        "name": "Lyrics to GO, Vol. 3",
-        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 68830,
-      "name": "Cherry Beach",
-      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
-    },
-    {
       "added_at": "2022-06-24 12:00:00",
       "album": {
         "name": "DRILL MUSIC IN ZION",
@@ -1483,6 +1467,22 @@
       "duration_ms": 271883,
       "name": "DRILL MUSIC IN ZION",
       "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
+    },
+    {
+      "added_at": "2022-07-08 12:00:00",
+      "album": {
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 68830,
+      "name": "Cherry Beach",
+      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/5mPPIJj8z1fA3Q2BkfIXiJ"
-      },
-      "artists": [
-        {
-          "name": "Willie The Kid",
-          "url": "https://open.spotify.com/artist/0hZvVmOluFCV1ZjvvqtRB6"
-        },
-        {
-          "name": "V Don",
-          "url": "https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq"
-        }
-      ],
-      "duration_ms": 107379,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "The Baltimore Housing Project",
         "url": "https://open.spotify.com/album/4NvbiN9u7gPelMqlsEs5dE"
       },
@@ -1597,6 +1577,26 @@
       "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/5mPPIJj8z1fA3Q2BkfIXiJ"
+      },
+      "artists": [
+        {
+          "name": "Willie The Kid",
+          "url": "https://open.spotify.com/artist/0hZvVmOluFCV1ZjvvqtRB6"
+        },
+        {
+          "name": "V Don",
+          "url": "https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq"
+        }
+      ],
+      "duration_ms": 107379,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
+    },
+    {
       "added_at": "2022-10-29 04:00:00",
       "album": {
         "name": "Amir Divine (Damn Son Rework)",
@@ -1615,30 +1615,6 @@
       "duration_ms": 123000,
       "name": "Amir Divine - Damn Son Rework",
       "url": "https://open.spotify.com/track/1cpZ8qDrMA4qWqCOPw5xcU"
-    },
-    {
-      "added_at": "2022-06-10 12:00:00",
-      "album": {
-        "name": "Metropolis",
-        "url": "https://open.spotify.com/album/7GA98MTAwb4K6j3YhnbNG6"
-      },
-      "artists": [
-        {
-          "name": "Namir Blade",
-          "url": "https://open.spotify.com/artist/20IovKhpCSEdFWkcahqM09"
-        },
-        {
-          "name": "Ke'Osha Oshay",
-          "url": "https://open.spotify.com/artist/31fde8ueMxzF1eMuuMe85w"
-        },
-        {
-          "name": "Jamiah Hudson",
-          "url": "https://open.spotify.com/artist/2pWOKRbVudk2S76NSbmTuC"
-        }
-      ],
-      "duration_ms": 218297,
-      "name": "Cruisin USA",
-      "url": "https://open.spotify.com/track/7gwQIgCoMKxY0zrALk86Zc"
     },
     {
       "added_at": "2022-05-20 12:00:00",
@@ -1677,6 +1653,30 @@
       "url": "https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA"
     },
     {
+      "added_at": "2022-06-10 12:00:00",
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/7GA98MTAwb4K6j3YhnbNG6"
+      },
+      "artists": [
+        {
+          "name": "Namir Blade",
+          "url": "https://open.spotify.com/artist/20IovKhpCSEdFWkcahqM09"
+        },
+        {
+          "name": "Ke'Osha Oshay",
+          "url": "https://open.spotify.com/artist/31fde8ueMxzF1eMuuMe85w"
+        },
+        {
+          "name": "Jamiah Hudson",
+          "url": "https://open.spotify.com/artist/2pWOKRbVudk2S76NSbmTuC"
+        }
+      ],
+      "duration_ms": 218297,
+      "name": "Cruisin USA",
+      "url": "https://open.spotify.com/track/7gwQIgCoMKxY0zrALk86Zc"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "To Kill A Sunrise",
@@ -1695,6 +1695,26 @@
       "duration_ms": 222439,
       "name": "The Cold",
       "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
+    },
+    {
+      "added_at": "2022-07-15 12:00:00",
+      "album": {
+        "name": "The Return Of Sasquatch",
+        "url": "https://open.spotify.com/album/35f2l6py8BifthBkTK2t8K"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 118126,
+      "name": "The Return Of Sasquatch",
+      "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1723,26 +1743,6 @@
       "duration_ms": 185493,
       "name": "Multi-Game Arcade Cabinet",
       "url": "https://open.spotify.com/track/46lQe6895zxB3HRP6YPbnl"
-    },
-    {
-      "added_at": "2022-07-15 12:00:00",
-      "album": {
-        "name": "The Return Of Sasquatch",
-        "url": "https://open.spotify.com/album/35f2l6py8BifthBkTK2t8K"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 118126,
-      "name": "The Return Of Sasquatch",
-      "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1777,26 +1777,6 @@
       "url": "https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1CP6ERKBEi1rFfjYRejDfy"
-      },
-      "artists": [
-        {
-          "name": "Homeboy Sandman",
-          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
-        },
-        {
-          "name": "Deca",
-          "url": "https://open.spotify.com/artist/0Up3H1s9ME6FivFcOz6qte"
-        }
-      ],
-      "duration_ms": 221029,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Feeling Like Jah",
@@ -1821,6 +1801,26 @@
       "url": "https://open.spotify.com/track/0N4D8Z006iarE9WUhWCMlf"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1CP6ERKBEi1rFfjYRejDfy"
+      },
+      "artists": [
+        {
+          "name": "Homeboy Sandman",
+          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
+        },
+        {
+          "name": "Deca",
+          "url": "https://open.spotify.com/artist/0Up3H1s9ME6FivFcOz6qte"
+        }
+      ],
+      "duration_ms": 221029,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Cherry Blossom",
@@ -1843,6 +1843,30 @@
       "duration_ms": 252680,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/2HfwP1SaxQTGPwobr06lXP"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Dump YOD: Krutoy Edition",
+        "url": "https://open.spotify.com/album/5w84qVnNHvWnplOXOki2ch"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/6hvUcNz4QLXGftpZsvjWDb"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1919,30 +1943,6 @@
       "duration_ms": 213733,
       "name": "Off the Books (feat. Big Pun & Cuban Link)",
       "url": "https://open.spotify.com/track/7bzw2mWw2pPAARJfZoapRN"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Dump YOD: Krutoy Edition",
-        "url": "https://open.spotify.com/album/5w84qVnNHvWnplOXOki2ch"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/6hvUcNz4QLXGftpZsvjWDb"
     },
     {
       "added_at": "2022-08-12 12:00:00",

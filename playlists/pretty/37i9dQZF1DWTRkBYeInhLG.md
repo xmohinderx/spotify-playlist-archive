@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu adem untuk segala suasana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,730 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,877 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 43 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 |
 | 44 | [Siapkah Kau 'Tuk Jatuh Cinta Lagi](https://open.spotify.com/track/1uF0XYWWeoWEWipY855GxT) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Siapkah Kau 'Tuk Jatuh Cinta Lagi](https://open.spotify.com/album/3ZKUrGax3UsLexr8nQqxrc) | 4:39 |
 | 45 | [Aku Tenang](https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Lelaku](https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1) | 3:49 |
-| 46 | [Jatuh Hati](https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 3:27 |
+| 46 | [Dia Milikku](https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:31 |
 | 47 | [Teman Hidup](https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Tulus](https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk) | 3:42 |
 | 48 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
 | 49 | [Pandangan Pertama](https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [RAN For Your Life](https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8) | 5:00 |
 | 50 | [Pelukku Untuk Pelikmu \- OST Imperfect: Karier, Cinta, & Timbangan](https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Pelukku Untuk Pelikmu \(OST Imperfect: Karier, Cinta, & Timbangan\)](https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh) | 4:09 |
-| 51 | [Dia Milikku](https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:31 |
+| 51 | [Jatuh Hati](https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 3:27 |
 | 52 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 |
 | 53 | [Yang Terdalam](https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 3:19 |
 | 54 | [Film Favorit](https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Film Favorit](https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI) | 3:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 79 | [Lapang Dada](https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Musim Yang Baik](https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG) | 3:36 |
 | 80 | [Jangan Kau Lepas](https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:01 |
 
-Snapshot ID: `MTY3MjgwNjc2MSwwMDAwMDAwMDFkYmE1ZjdjODkwMjQ3Y2ViMzRmNDNhYzEzYjdkZjYw`
+Snapshot ID: `MTY3MjgwNjc2MSwwMDAwMDAwMGVhYWQ1ZmI5NDQ0YzI2NDRlMDhmMWFkZWFiZTkxM2Q0`

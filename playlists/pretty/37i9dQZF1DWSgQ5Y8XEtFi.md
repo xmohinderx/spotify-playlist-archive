@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,463 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,933 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Violet](https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Violet](https://open.spotify.com/album/6TasXkUMVr3cFnrerHhlVj) | 2:02 |
 | 2 | [Chirp](https://open.spotify.com/track/3pzi58VskO2NzwqV75Vce3) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Chirp](https://open.spotify.com/album/0HM18dhYH5jMz3SPZ2p9Fo) | 2:14 |
 | 3 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 |
-| 4 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 |
+| 4 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
 | 5 | [KICKFLIP](https://open.spotify.com/track/1cIIfWEkU5qLyspAGQD8ZA) | [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [KICKFLIP](https://open.spotify.com/album/4PhvQty4MaVQyuOezMov3z) | 2:22 |
-| 6 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
-| 7 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 |
+| 6 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 |
+| 7 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
 | 8 | [All Alone](https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [All Alone](https://open.spotify.com/album/41kOXEHM7PivRjZj4WX2Dl) | 2:54 |
-| 9 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
+| 9 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 |
 | 10 | [See Me Fall \- Y2K Remix](https://open.spotify.com/track/5MLreTrtwv7fGyyAy0RyeB) | [Ro Ransom](https://open.spotify.com/artist/5tLx2xpkiHdzvX9CIymCfR), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [Momentum \(Mixtape\)](https://open.spotify.com/album/20ZH0IHnyBagQUmOGcAHmp) | 3:21 |
 | 11 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/1xIibyoUvyxwoNqx8quHSz) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 3:46 |
 | 12 | [vent](https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 49 | [Leglock](https://open.spotify.com/track/0hSJiWkzBTvJKrX5yHHBeJ) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [Big Juice tha Sip](https://open.spotify.com/album/3f5bEgjYmMGvUmXzUv9K2d) | 2:03 |
 | 50 | [LOCKJAW!](https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [LOCKJAW!](https://open.spotify.com/album/3rNczKh7EbjzJCdDNrasnT) | 2:14 |
 
-Snapshot ID: `MTY3MzAyMjgwNiwwMDAwMDAwMGQyNzU5NDY3MGQ4MTYyYTM5ZDg1Y2IyNDMwOTA5YWI1`
+Snapshot ID: `MTY3MzAyMjgwNiwwMDAwMDAwMDdlNGM2NTQ2YTczY2UyZGQxY2RkYmM1ZjFiN2QyODhk`

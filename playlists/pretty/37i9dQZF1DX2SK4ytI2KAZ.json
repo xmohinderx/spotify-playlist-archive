@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 678590,
+  "num_followers": 678785,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMDQ3MSwwMDAwMDAwMDliNTYzZmQ1YjhmM2E0NDk5ZGFkZDE2Yjg3YmQ5OGJh",
+  "snapshot_id": "MTY2ODcyMDQ3MSwwMDAwMDAwMGQyMjI4MGM1MDQ3N2M3ZmEyNWUzZmJmMmIwYjBkYmZl",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
-      "added_at": "2023-01-08 00:42:27",
+      "added_at": "2023-01-09 01:09:33",
       "album": {
         "name": "Did I Make You Up?",
         "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Two Vines",
         "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 224840,
       "name": "High And Low",
       "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "What Could Be Better",
+        "url": "https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1"
+      },
+      "artists": [
+        {
+          "name": "The Happy Fits",
+          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "The Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "What Could Be Better",
-        "url": "https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1"
-      },
-      "artists": [
-        {
-          "name": "The Happy Fits",
-          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Life's Been Good",
+        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 193950,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Zen (with K.Flay & grandson)",
         "url": "https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 215882,
       "name": "Zen (with K.Flay & grandson)",
       "url": "https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Life's Been Good",
-        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 193950,
-      "name": "Life's Been Good",
-      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 190447,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "The Heights",
         "url": "https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 203666,
       "name": "Pretty Way to Fight",
       "url": "https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 233976,
+      "name": "Why Did You Run?",
+      "url": "https://open.spotify.com/track/4ascbpJ8eelgihjwUnmgwY"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/468YxjlJ19TxL2zpAeQIhK"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 210662,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Pep Talks",
-        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 233976,
-      "name": "Why Did You Run?",
-      "url": "https://open.spotify.com/track/4ascbpJ8eelgihjwUnmgwY"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 193186,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Don't Take The Money",
+        "url": "https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 215539,
+      "name": "Don't Take The Money",
+      "url": "https://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "The Shelters",
         "url": "https://open.spotify.com/album/451kD1EliOug21dypPYnMn"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 206466,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0x8VeSHmhbRl9EUAdsEx6A"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Don't Take The Money",
-        "url": "https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 215539,
-      "name": "Don't Take The Money",
-      "url": "https://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Future Shine",
-        "url": "https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX"
+        "name": "D.I.L.Y.D.",
+        "url": "https://open.spotify.com/album/0iRbnjEonkAjlawEngtE3M"
       },
       "artists": [
         {
-          "name": "flor",
-          "url": "https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb"
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
         }
       ],
-      "duration_ms": 191901,
-      "name": "Play Along",
-      "url": "https://open.spotify.com/track/0vcaM5lVTdNaLagTWiuJqe"
+      "duration_ms": 199274,
+      "name": "Do It Like You Do",
+      "url": "https://open.spotify.com/track/0GZtNyHp1cImFX8E6qK9nQ"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2447,6 +2447,22 @@
       "duration_ms": 166910,
       "name": "I Like to Hide in the Bathroom at Parties",
       "url": "https://open.spotify.com/track/5AlbjaOF6CTcAOcuav3pv1"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Future Shine",
+        "url": "https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX"
+      },
+      "artists": [
+        {
+          "name": "flor",
+          "url": "https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb"
+        }
+      ],
+      "duration_ms": 191901,
+      "name": "Play Along",
+      "url": "https://open.spotify.com/track/0vcaM5lVTdNaLagTWiuJqe"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2495,22 +2511,6 @@
       "duration_ms": 232306,
       "name": "The Outfield",
       "url": "https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "D.I.L.Y.D.",
-        "url": "https://open.spotify.com/album/0iRbnjEonkAjlawEngtE3M"
-      },
-      "artists": [
-        {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
-        }
-      ],
-      "duration_ms": 199274,
-      "name": "Do It Like You Do",
-      "url": "https://open.spotify.com/track/0GZtNyHp1cImFX8E6qK9nQ"
     }
   ],
   "unique_name": "It's ALT Good!",

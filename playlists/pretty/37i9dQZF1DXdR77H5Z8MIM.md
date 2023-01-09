@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: IVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,344 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,452 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 52 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 |
 | 53 | [PLAYING WITH FIRE](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:17 |
 | 54 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 |
-| 55 | [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 |
-| 56 | [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 |
+| 55 | [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 |
+| 56 | [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 |
 | 57 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 |
 | 58 | [Stay With Me](https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Guardian \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg) | 3:12 |
 | 59 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 69 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 |
 | 70 | [Back Door](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:09 |
 
-Snapshot ID: `MTY3MjcxODQzOSwwMDAwMDAwMGM5MGMwM2I0NDBmNzllMzMwZjkwMDFhMjQxNmViNWZl`
+Snapshot ID: `MTY3MjcxODQzOSwwMDAwMDAwMGY0NWExNTMxNWUzZGIxNmYyYmQ2MDA3ZjRlMjIyNzdk`

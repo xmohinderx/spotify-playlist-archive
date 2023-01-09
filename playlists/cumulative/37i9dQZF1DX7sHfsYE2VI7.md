@@ -4,7 +4,7 @@
 
 > Chilled out dance classics to set the mood.
 
-71 songs - 5 hr 14 min
+72 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Sing It Back \- Boris Dlugosch Mix](https://open.spotify.com/track/53qhh1kdcX4gRBShoW4LK8) | [Moloko](https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO), [Boris Dlugosch](https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru), [Michael Lange](https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw) | [Catalogue](https://open.spotify.com/album/5sCp2ukwrtpYj5wGfMx78M) | 4:38 | 2022-02-28 |  |
 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 | 2022-02-28 |  |
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2022-02-28 |  |
+| [So Com Voce](https://open.spotify.com/track/4720QgLxfScGStvX9YcGkA) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Mirror Conspiracy](https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe) | 2:47 | 2022-02-28 |  |
 | [Standing On The Shore](https://open.spotify.com/track/5g7Qylrck8rh2lUgEWPQVS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:24 | 2022-02-28 |  |
 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 | 2022-02-28 |  |
 | [Suntoucher](https://open.spotify.com/track/4OUvfa7eO5jvFMIMOU7MTb) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:31 | 2022-02-28 |  |
@@ -76,7 +77,7 @@
 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 | 2022-02-28 |  |
 | [What's a Girl to Do](https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [A Girl Between Two Worlds](https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW) | 7:26 | 2022-02-28 |  |
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2022-02-28 |  |
-| [With You Forever](https://open.spotify.com/track/3wRSZvxk09S0Tvuwg1L69N) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [PNAU](https://open.spotify.com/album/6BtdVFxMhcOb0gkD53KogE) | 3:34 | 2022-02-28 |  |
+| [With You Forever](https://open.spotify.com/track/3wRSZvxk09S0Tvuwg1L69N) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [PNAU](https://open.spotify.com/album/6BtdVFxMhcOb0gkD53KogE) | 3:34 | 2022-02-28 | 2023-01-09 |
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2022-02-28 |  |
 | [You Give Me Something](https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A funk odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:19 | 2022-02-28 |  |
 

@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-176 songs - 14 hr 33 min
+178 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 |  |
 | [Shape of a Dream \- Sound Bath](https://open.spotify.com/track/3h58Vv1UpPgP88s0zh4OTs) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Shape of a Dream](https://open.spotify.com/album/4wJXcvFwAEyMVWIW08znpO) | 4:04 | 2022-03-10 |  |
 | [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 | 2022-12-20 |  |
-| [Signals](https://open.spotify.com/track/3dmgdlknLnVte97AURFYyf) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Signals](https://open.spotify.com/album/7C7WpnmXw6RufxybdZbZlS) | 2:46 | 2021-12-22 |  |
+| [Signals](https://open.spotify.com/track/3dmgdlknLnVte97AURFYyf) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Signals](https://open.spotify.com/album/7C7WpnmXw6RufxybdZbZlS) | 2:46 | 2021-12-22 | 2023-01-09 |
+| [Signals](https://open.spotify.com/track/5MsLvwiqNKBYeO4pmM4hDA) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Signals](https://open.spotify.com/album/7y9o7HbkbMlrxg0GnHMByP) | 2:46 | 2023-01-06 |  |
 | [Silent Lake](https://open.spotify.com/track/6pZ5qQo50eOzxikg1xSvzh) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Silent Lake](https://open.spotify.com/album/6X3gMefUTyakZ9WigRsPo3) | 5:09 | 2021-12-22 | 2022-07-29 |
 | [Silent Lake](https://open.spotify.com/track/5wo64VP0ZKuEL1zrF13mcs) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2), [Tim Clément](https://open.spotify.com/artist/7Le5b3UCWqI7DXAyeajEaY), [Mychael Danna & Tim Clément](https://open.spotify.com/artist/67LR42mlwQaGonptLxhDLm) | [North of Niagara](https://open.spotify.com/album/7DVRo79zwyA4vaadYCFxfu) | 5:09 | 2022-07-08 |  |
 | [Silent Lake](https://open.spotify.com/track/7tKp39PUo2jkRdGWbb19pY) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2), [Tim Clément](https://open.spotify.com/artist/7Le5b3UCWqI7DXAyeajEaY), [Mychael Danna & Tim Clément](https://open.spotify.com/artist/67LR42mlwQaGonptLxhDLm) | [Silent Lake](https://open.spotify.com/album/6mlRVWYqT57HUSYP7HlUHx) | 5:09 | 2022-10-14 | 2022-11-13 |
@@ -163,7 +164,8 @@
 | [tsukimi dango \- Meditation](https://open.spotify.com/track/42tLQymkJ8SlkSl7Mebyrt) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tsukimi dango](https://open.spotify.com/album/3iof4fuNnejiULldVY8Z1R) | 3:02 | 2022-05-06 |  |
 | [Und](https://open.spotify.com/track/0Zseawrdx3aB2JJp0UbknM) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:24 | 2021-12-22 |  |
 | [Under The Thunder](https://open.spotify.com/track/4L7K2qGigEOYYfAtpgIswc) | [Now Unlimited](https://open.spotify.com/artist/1D1sQVMQGI56YYpFMeO7xS) | [Euphoric Forest](https://open.spotify.com/album/6HrO27BUeHUoFvTKNljTcr) | 2:00 | 2022-11-11 |  |
-| [Vienna](https://open.spotify.com/track/2CZm12Kpg0i9o5h07ZEgNb) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 2:11 | 2021-12-22 |  |
+| [Vienna](https://open.spotify.com/track/2CZm12Kpg0i9o5h07ZEgNb) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 2:11 | 2021-12-22 | 2023-01-09 |
+| [Vienna](https://open.spotify.com/track/6PibtWZknVsZQ47haQGrQ7) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Vienna](https://open.spotify.com/album/3r31xSQ3tlMN2CGbY9tMlq) | 2:11 | 2023-01-06 |  |
 | [Watching](https://open.spotify.com/track/7qkQx9OPb79y6wEUCLF4ZK) | [Korosassu](https://open.spotify.com/artist/6qPn1ijyT49nZV6xjylFAx) | [Watching](https://open.spotify.com/album/2UV9tLIX2ggRee6dFlZWH5) | 5:06 | 2023-01-06 |  |
 | [Watching](https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 5:06 | 2021-12-22 | 2023-01-07 |
 | [Water Ambience](https://open.spotify.com/track/4zdG6S7zNU9NGZo46xbokP) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Water Ambience](https://open.spotify.com/album/7F649VWGjzdAhj7KzXtopc) | 2:37 | 2022-12-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,928 likes - 65 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,940 likes - 65 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 8 | [Wildflowers & Wine](https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:48 |
 | 9 | [Yes I Do](https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 5:10 |
 | 10 | [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 |
-| 11 | [In\-between](https://open.spotify.com/track/1KVSfVRzSi7gTp7NFvoDZZ) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [More Moore Mixtape](https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av) | 2:39 |
-| 12 | [Bad News](https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:48 |
+| 11 | [Bad News](https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:48 |
+| 12 | [In\-between](https://open.spotify.com/track/1KVSfVRzSi7gTp7NFvoDZZ) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [More Moore Mixtape](https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av) | 2:39 |
 | 13 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
 | 14 | [Talk About It](https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:45 |
 | 15 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 17 | [Tomb for Rockets](https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Tomb for Rockets](https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG) | 4:23 |
 | 18 | [Anything For You](https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:17 |
 | 19 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
-| 20 | [Where Were You](https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Ties](https://open.spotify.com/album/4FxnjC8luyeVutpg5OFNdR) | 3:25 |
-| 21 | [Starlight](https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:02 |
+| 20 | [Starlight](https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:02 |
+| 21 | [Where Were You](https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Ties](https://open.spotify.com/album/4FxnjC8luyeVutpg5OFNdR) | 3:25 |
 | 22 | [Thank You](https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Thank You](https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb) | 3:24 |
 | 23 | [Stranger \(feat\. Saba & Jarreau Vandal\)](https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:39 |
 | 24 | [OCT 33](https://open.spotify.com/track/4YKSJHezbvr4e0026rz8Zo) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:49 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 45 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 |
 | 46 | [Skin](https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6) | 2:58 |
 | 47 | [Near Enough A Woman](https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [Near Enough A Woman](https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT) | 3:34 |
-| 48 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/1DRgiVyaCJ9PXO276H0Ak9) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/album/466wPD03sWZ4ohCe8ZdgeJ) | 2:44 |
-| 49 | [Never Compare](https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Never Compare](https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I) | 4:27 |
+| 48 | [Never Compare](https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Never Compare](https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I) | 4:27 |
+| 49 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/1DRgiVyaCJ9PXO276H0Ak9) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/album/466wPD03sWZ4ohCe8ZdgeJ) | 2:44 |
 | 50 | [April Showers](https://open.spotify.com/track/1YnlOIZAPG36FVoh8dIZQZ) | [Aïrto](https://open.spotify.com/artist/7v9nYk36K4skneq3CiKHDV) | [April Showers](https://open.spotify.com/album/2H6l9K78aQq25oCLUB0m9t) | 2:55 |
 | 51 | [Preaching To The Choir](https://open.spotify.com/track/3DKzKLzJcMtPQvSEaoX62t) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 3:30 |
 | 52 | [Pieces](https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces](https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa) | 3:43 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 57 | [9](https://open.spotify.com/track/2Lel4FPH7lwvWZv24c9Gj6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:31 |
 | 58 | [Stay](https://open.spotify.com/track/6v0IFEV2M37sXSCuQMEBnj) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Stay](https://open.spotify.com/album/3LrU1Dgrr3aVsT7GWOGPGW) | 3:14 |
 | 59 | [I Want You](https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [See Me](https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE) | 4:08 |
-| 60 | [Can't Stop Loving \(What Your Heart Still Loves\)](https://open.spotify.com/track/6BRmMYY82M8kOcwgjvpiu9) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:23 |
-| 61 | [Sanctuary](https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:04 |
+| 60 | [Sanctuary](https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:04 |
+| 61 | [Can't Stop Loving \(What Your Heart Still Loves\)](https://open.spotify.com/track/6BRmMYY82M8kOcwgjvpiu9) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:23 |
 | 62 | [Listen](https://open.spotify.com/track/62Ra9M5ggvltjHNNsJsegh) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Listen](https://open.spotify.com/album/6kspx9Uql5uXOIjQzy2gXL) | 3:55 |
 | 63 | [Yes I Am](https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [The Gospel Sessions, Vol\. 4](https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8) | 3:56 |
 | 64 | [Sky has open doors](https://open.spotify.com/track/73KIzrxQOsJAgMj6dBDQ5d) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Sky has open doors](https://open.spotify.com/album/0l4lzZ83jqOdYjVxSXLglU) | 3:39 |
 | 65 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/44qiPcV2qOWxlIYpD0Xnha) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Rearview Paradise](https://open.spotify.com/album/0Q6UU1umlBC8FRK91jJVkg) | 4:17 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGY0YTY4MDZlMDQ0ZTMwYzNhODI1MGYxNzFiNDQ3YTgz`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDc1MGY0OWRjNTI0ZGUxNzE5NDdhNzQ4NjBmYzNhZWEx`

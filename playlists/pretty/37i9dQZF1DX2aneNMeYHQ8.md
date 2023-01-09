@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Larkin Poe
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,345 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,353 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,14 +60,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 50 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 |
 | 51 | [My Babe](https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:47 |
 | 52 | [No Rule](https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [No Rule](https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE) | 5:25 |
-| 53 | [Stars](https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Stars](https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR) | 4:30 |
-| 54 | [Trying To Find A World That's Been And Gone: Part 1 \(Demo\)](https://open.spotify.com/track/35CIWOsRz4ViEY1an19Oy1) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Magic Secrets \#1](https://open.spotify.com/album/5w6plCQfzFps3aHN4drA9u) | 3:00 |
+| 53 | [Trying To Find A World That's Been And Gone: Part 1 \(Demo\)](https://open.spotify.com/track/35CIWOsRz4ViEY1an19Oy1) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Magic Secrets \#1](https://open.spotify.com/album/5w6plCQfzFps3aHN4drA9u) | 3:00 |
+| 54 | [Stars](https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Stars](https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR) | 4:30 |
 | 55 | [The Tipping Point](https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 4:13 |
 | 56 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |
 | 57 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 |
 | 58 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 |
-| 59 | [Better](https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:54 |
-| 60 | [How High](https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:12 |
+| 59 | [How High](https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:12 |
+| 60 | [Better](https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:54 |
 | 61 | [What's Coming To Me](https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [What's Coming To Me](https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs) | 3:34 |
 | 62 | [BAD AT LOVE](https://open.spotify.com/track/2vwqyWdxdZjQUUXHIWfqYD) | [Smith & Myers](https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe) | [Volume 2](https://open.spotify.com/album/5wyVzouWjgJhtcBSjrqZiM) | 3:27 |
 | 63 | [Speeding 72](https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:58 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 85 | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 |
 | 86 | [in the wake of your leave](https://open.spotify.com/track/4vjB69VckVUeu0GzAxoZRm) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [in the wake of your leave](https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7) | 4:03 |
 | 87 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
-| 88 | [Sort Of Stranger](https://open.spotify.com/track/5lAflCrqbAfo0nMflKGb0N) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sort Of Stranger](https://open.spotify.com/album/027yuK6aJh9vCUNxp7i6YH) | 3:30 |
-| 89 | [What’s Done is Done](https://open.spotify.com/track/4x4Wf1lCavlpuZQ7yyAswq) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [One is One](https://open.spotify.com/album/6SKy6TBTLjbC96dMV8blQJ) | 3:30 |
+| 88 | [What’s Done is Done](https://open.spotify.com/track/4x4Wf1lCavlpuZQ7yyAswq) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [One is One](https://open.spotify.com/album/6SKy6TBTLjbC96dMV8blQJ) | 3:30 |
+| 89 | [Sort Of Stranger](https://open.spotify.com/track/5lAflCrqbAfo0nMflKGb0N) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sort Of Stranger](https://open.spotify.com/album/027yuK6aJh9vCUNxp7i6YH) | 3:30 |
 | 90 | [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 |
 | 91 | [Live Like You](https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Live Like You](https://open.spotify.com/album/2NieQyyoTfUm1L8ovEaNda) | 3:01 |
 | 92 | [Come On Up To The House \(feat\. X Ambassadors\) \- Spotify Singles](https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [Dangerous](https://open.spotify.com/track/58NjL8ZMpbHv5TVkpANrKO) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Stripped\)](https://open.spotify.com/album/1LOfXz54bNrKElqqUOTIGc) | 3:07 |
 | 100 | [Blows](https://open.spotify.com/track/25AByE7r0IzMqEHqZY1gZ8) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Strength](https://open.spotify.com/album/2lYnlOOGFCd0hzkUoSnFNK) | 3:09 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGJlYjNkYmUwODQyYmE5YmY1NDM4ZjQzYWQyMWYyNWQ0`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDE0YzY4NGEzOGJhMGY0ZGFkYzkwOTRiZWM1NDBhYmY4`

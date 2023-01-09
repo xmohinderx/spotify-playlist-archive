@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > ¡Achis achis los mariachis!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,011 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,042 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 32 | [El son de la negra](https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fiesta Mexicana Con Mariachi \(USA\)](https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp) | 2:59 |
 | 33 | [El Dicharachero](https://open.spotify.com/track/5nOSFNSuftuAAt5cAVfsAa) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS) | 3:47 |
 | 34 | [El copetín](https://open.spotify.com/track/2ZliolI7CuxldpgXgMOuYR) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Rancheras Vol\. 2](https://open.spotify.com/album/7LYxHUJ2DHQg9Wd7sxfbA2) | 2:44 |
-| 35 | [Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui](https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Dulce Daño](https://open.spotify.com/album/5FpgZ4UE69N4JZfvTwHC4U) | 4:56 |
-| 36 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 |
+| 35 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 |
+| 36 | [Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui](https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Dulce Daño](https://open.spotify.com/album/5FpgZ4UE69N4JZfvTwHC4U) | 4:56 |
 | 37 | [Los Gorrones](https://open.spotify.com/track/4hav6tDhruXYtf86MlYIOo) | [Chava Flores Con Mariachi Azteca Y Grupo La Miel](https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS) | [Exitos De Chava Flores](https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW) | 2:16 |
 | 38 | [El Mecate](https://open.spotify.com/track/4GeAHN6TGFh32Yan6KgyAs) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Y Tenerte Otra Vez](https://open.spotify.com/album/3XOL5NajeukV0zKqmexjC5) | 2:21 |
 | 39 | [La Huevona](https://open.spotify.com/track/7BfMKclY3GQ0opA0fK7d9N) | [Mariachi Tepalcatepec De Michoacan](https://open.spotify.com/artist/5mESQ2V39GTGfFbXcAIHJI) | [Puras Rancheritas](https://open.spotify.com/album/55D5G5C78fRVD5pcDKO2Ev) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 49 | [El gavilán pollero \(feat\. la Banda Estrellas de Sinaloa de Germán Lizárraga\)](https://open.spotify.com/track/7BHcZVdtSGyw1AbD4gi6w7) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV), [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Pedro Infante Con Banda](https://open.spotify.com/album/4AB6kzi9s6lBccjhoNcA6s) | 1:56 |
 | 50 | [Adiós mis chorreadas](https://open.spotify.com/track/6doE0vQHWZDpg3Yj4NKYjJ) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [57 Aniversario](https://open.spotify.com/album/5NJ4vWaVFLcIpQAxT8t9Lu) | 3:12 |
 
-Snapshot ID: `MTY0MzE1NTI0MiwwMDAwMDAwMGI5ZDgxMTYyZWE5YTcwZTIyOTM2ZGEzYTVkN2FhMGZk`
+Snapshot ID: `MTY0MzE1NTI0MiwwMDAwMDAwMDIxMWFmODAxNDg3NmYxZjhjNTI5NmE0NGQyM2Y1YjUw`

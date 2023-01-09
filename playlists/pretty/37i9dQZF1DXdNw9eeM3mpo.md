@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100 % ska latinoamericano\. Los Auténticos Decadentes y Andrea Echeverri en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,203 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,255 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 28 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 |
 | 29 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
 | 30 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
-| 31 | [Quereme Así](https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Chanchos Amigos](https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY) | 4:22 |
+| 31 | [Padre Nuestro](https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:32 |
 | 32 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
-| 33 | [Padre Nuestro](https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:32 |
+| 33 | [Quereme Así](https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Chanchos Amigos](https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY) | 4:22 |
 | 34 | [La Herida](https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Sueños de Anoche](https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff) | 3:57 |
 | 35 | [Noreste Caliente](https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [The Pre End Of The World Soundtrack](https://open.spotify.com/album/0HpNgsg7utVVrCH3hzj9fd) | 3:14 |
 | 36 | [La Flor](https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Nonpalidesenchufado](https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV) | 5:14 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 64 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
 | 65 | [No Tengo Amigos](https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Originales \- 20 Exitos](https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK) | 3:13 |
 | 66 | [Todo va lento](https://open.spotify.com/track/5DHfgP2QcNK6zwMOfAzWoP) | [Guachupé](https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K) | [El Club del Amigo](https://open.spotify.com/album/2NajU6QdtzPaGLcH2y7SEB) | 3:30 |
-| 67 | [Bicolor](https://open.spotify.com/track/7N2I37ulF3GCOVwuR69umI) | [EXILIOS](https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE) | [Sueños de Carpa](https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x) | 4:07 |
-| 68 | [El crack](https://open.spotify.com/track/3UUtewTLgASbX6afOBHAeQ) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Corazón de Chileno \[Canciones para Alentar a la Roja\] \- EP](https://open.spotify.com/album/2ALuHHVcNfUTLnQVB08MXW) | 3:46 |
+| 67 | [El crack](https://open.spotify.com/track/3UUtewTLgASbX6afOBHAeQ) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Corazón de Chileno \[Canciones para Alentar a la Roja\] \- EP](https://open.spotify.com/album/2ALuHHVcNfUTLnQVB08MXW) | 3:46 |
+| 68 | [Bicolor](https://open.spotify.com/track/7N2I37ulF3GCOVwuR69umI) | [EXILIOS](https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE) | [Sueños de Carpa](https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x) | 4:07 |
 | 69 | [Labios Rojos](https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Salvador Moreno](https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:39 |
 | 70 | [Oír Tu Voz](https://open.spotify.com/track/68gi1yEZqkzKJPiUeZe8bI) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Lágrimas y Risas](https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR) | 3:34 |
 | 71 | [Sólo Vivir](https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Klub Ska](https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [La Zona del Terror](https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:03 |
 | 100 | [30 Monedas](https://open.spotify.com/track/3xdzopoC8RLPrY8lKs0MSa) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [30 Monedas](https://open.spotify.com/album/3KaJD0ChIaLSxCi4jM23a6) | 3:40 |
 
-Snapshot ID: `MTY3MTE1ODE0MywwMDAwMDAwMGE0ODAxYTBjOTVhMmZhNWZiZmE3ZjgzNjNjZDEyZWYw`
+Snapshot ID: `MTY3MTE1ODE0MywwMDAwMDAwMGI1OWY2NzYzZjExN2Q1NGZhMzY1MmU1ZWUyOTBjOTc4`

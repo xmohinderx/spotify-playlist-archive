@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Songs for the Avatars 😉 and the M3ganistas Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,723 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,945 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

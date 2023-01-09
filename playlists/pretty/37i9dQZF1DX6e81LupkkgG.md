@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,788 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,816 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 35 | [Unloving You](https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Unloving You](https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j) | 2:33 |
 | 36 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
 | 37 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 |
-| 38 | [Daddy's Eyes](https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Daddy’s Eyes](https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY) | 3:02 |
-| 39 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
+| 38 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
+| 39 | [Daddy's Eyes](https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Daddy’s Eyes](https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY) | 3:02 |
 | 40 | [Let Me Love You Like A Woman](https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:20 |
-| 41 | [Heaven](https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven](https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw) | 3:14 |
-| 42 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 |
+| 41 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 |
+| 42 | [Heaven](https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven](https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw) | 3:14 |
 | 43 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 |
 | 44 | [My Only One \(No Hay Nadie Más\)](https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [My Only One \(No Hay Nadie Más\)](https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe) | 3:18 |
 | 45 | [WDIA \(Would Do It Again\)](https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [WDIA \(Would Do It Again\)](https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB) | 3:11 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 96 | [Somewhere in Ann Arbor](https://open.spotify.com/track/3ceEHZ1xOcRcO7bqB2PnKK) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:32 |
 | 97 | [Segredo](https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:26 |
 | 98 | [The Usual](https://open.spotify.com/track/13GDcQRwrRwMxa9s774D9X) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Homework](https://open.spotify.com/album/0bfTjB1kRloRZt6LWJYj6t) | 3:32 |
-| 99 | [The Way That I Love You](https://open.spotify.com/track/6NEwGCi8Zz9QNX3soVCvnz) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 2:39 |
-| 100 | [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 |
+| 99 | [Wasted](https://open.spotify.com/track/1NOTidLDDPTeau4BWJ0vwX) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Wasted](https://open.spotify.com/album/5UgR4xPUCnuHS5F1wNNc3x) | 3:05 |
+| 100 | [The Way That I Love You](https://open.spotify.com/track/6NEwGCi8Zz9QNX3soVCvnz) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 2:39 |
 
-Snapshot ID: `MTY3Mjk3NDAwMCwwMDAwMDAwMGViYzI3M2JlZWZmZDQ2ZDdmYzQxZTg4YmYyZGMxZGU1`
+Snapshot ID: `MTY3Mjk3NDAwMCwwMDAwMDAwMGUzYjIzNWJiNDQzMjM1YTc5ZmE5M2JlNjU1Nzg0NzI2`

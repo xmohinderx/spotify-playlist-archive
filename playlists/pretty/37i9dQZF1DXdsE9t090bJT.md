@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Amor a la mexicana, canciones para dedicarle al amor de tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,612 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,668 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 19 | [Solo Con Verte](https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 3:12 |
 | 20 | [Piel de Seda](https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:46 |
 | 21 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 |
-| 22 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 |
-| 23 | [Como Que Me Enamoro \- En Vivo](https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:57 |
+| 22 | [Como Que Me Enamoro \- En Vivo](https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:57 |
+| 23 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 |
 | 24 | [Mi Vicio](https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Summer School Mixtape, Vol\. 1](https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU) | 3:14 |
 | 25 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 |
 | 26 | [Y Es Que Contigo](https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 2:10 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 57 | [Lo Que Te Amo](https://open.spotify.com/track/2IqNbflEkshezwf3F814H8) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Hombre Afortunado \(Deluxe\)](https://open.spotify.com/album/0QVMOQ8NYtNcOSq6fR4osl) | 3:32 |
 | 58 | [Soy Para Ti](https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Soy Para Ti](https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT) | 2:40 |
 | 59 | [Antes y Después De Ti](https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Good Vibes Buenas Vibras](https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee) | 3:14 |
-| 60 | [Un Loco Enamorado](https://open.spotify.com/track/7xSnRDIfclnEVMcz6KGuo4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Un Loco Enamorado](https://open.spotify.com/album/5UioFILcdOsiSLItygxb7C) | 3:21 |
-| 61 | [Adicto](https://open.spotify.com/track/5mvQxewFOB8Ft4Wz13AwWj) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Adicto](https://open.spotify.com/album/2NUfhyZ1jMj2YUAFo753c4) | 3:07 |
+| 60 | [Adicto](https://open.spotify.com/track/5mvQxewFOB8Ft4Wz13AwWj) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Adicto](https://open.spotify.com/album/2NUfhyZ1jMj2YUAFo753c4) | 3:07 |
+| 61 | [Un Loco Enamorado](https://open.spotify.com/track/7xSnRDIfclnEVMcz6KGuo4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Un Loco Enamorado](https://open.spotify.com/album/5UioFILcdOsiSLItygxb7C) | 3:21 |
 | 62 | [Lo Tienes Todo](https://open.spotify.com/track/3XlgnHlzPia0v8szVKgSQI) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Lo Raro de Mi Libreta](https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN) | 2:57 |
 | 63 | [15 Besos](https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [El Problema](https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s) | 3:21 |
 | 64 | [24/7](https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:05 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 67 | [Cómo No Adorarla](https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:41 |
 | 68 | [Te Metiste](https://open.spotify.com/track/3f3oWj7ll4vtK6gXb2cIxm) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 3:31 |
 | 69 | [Qué Bueno Es Tenerte](https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:25 |
-| 70 | [No Es Lo Que Dices](https://open.spotify.com/track/2YGOwVow3IMJAOwVGAZeQW) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Va De Nuevo](https://open.spotify.com/album/0F6fytM0EQ1340itrP5o9T) | 3:22 |
-| 71 | [Te Quiero para Mí](https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:47 |
+| 70 | [Te Quiero para Mí](https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:47 |
+| 71 | [No Es Lo Que Dices](https://open.spotify.com/track/2YGOwVow3IMJAOwVGAZeQW) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Va De Nuevo](https://open.spotify.com/album/0F6fytM0EQ1340itrP5o9T) | 3:22 |
 | 72 | [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 |
 | 73 | [Dueño De Ti \- En vivo](https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 4:05 |
 | 74 | [Nací Para Amarte](https://open.spotify.com/track/6EPVLVH60HAutxzxV4Tb6y) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nací Para Amarte](https://open.spotify.com/album/01GhHCQsul9FkChZCfyW8V) | 4:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 79 | [Romántico](https://open.spotify.com/track/0wi7Cq9aRlNz8kaHd4UD9u) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [La Nueva R](https://open.spotify.com/album/6ZZzbA0U5oUaLbSC3Xl0H6) | 2:10 |
 | 80 | [Si Quieres](https://open.spotify.com/track/7CWdtbKVwXWgWeWGzZiprW) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Si Quieres](https://open.spotify.com/album/7oX2OUdZkT1pOgOj7pfFRe) | 4:33 |
 
-Snapshot ID: `MTY3MDQ1NzAxMywwMDAwMDAwMDM1Y2RiZjdlYzA3ZDg1MzBiYWJiMmUwODE3NGZhM2Iw`
+Snapshot ID: `MTY3MDQ1NzAxMywwMDAwMDAwMDJkZmVhNGZhYjFjNGExODk0MmFjYWFhZTRiNjFjNTZk`

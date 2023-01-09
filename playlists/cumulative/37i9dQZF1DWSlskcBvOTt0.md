@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-348 songs - 1 day 12 hr 12 min
+349 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Evening Fog](https://open.spotify.com/track/4P2z1eqevx8wCes6dBjstL) | [Modd](https://open.spotify.com/artist/57aX19q7mKEOq5Y6FrHoh2) | [A Winter Sampler](https://open.spotify.com/album/2MbQoYh4qL93LVjOYLOwt7) | 9:11 | 2021-04-21 | 2022-07-28 |
 | [Everyday \- Shimza Remix](https://open.spotify.com/track/2GDWZWVlEWK9CMs2ZkMEOd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Everyday \(Shimza Remix\)](https://open.spotify.com/album/4hPSNAFdFZutofFFVRMoMT) | 7:32 | 2022-10-28 |  |
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-24 | 2022-12-17 |
+| [Falling Through the Ceiling](https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Falling Through the Ceiling](https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y) | 7:52 | 2023-01-06 |  |
 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-27 |  |
 | [Firedance \- Burningman Original](https://open.spotify.com/track/5Cic0iN6YlMzHtQxbGz0Gr) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj), [Sidartha Siliceo](https://open.spotify.com/artist/3eeLa5OM4VTkCi6XK84yDE) | [Firedance EP](https://open.spotify.com/album/3PxySRX2mtpektDFcDXsQw) | 8:26 | 2021-04-21 | 2022-07-29 |
 | [Fixed Nostalgia](https://open.spotify.com/track/1NrxsJ8tPjxG24VWXA4k8P) | [Ditian](https://open.spotify.com/artist/6JIvK1wvwFlrjpAWjETPLx) | [Dixon & Âme Present Limbo](https://open.spotify.com/album/4mG0wdymDEjVc8S8LcShI5) | 7:46 | 2021-05-26 | 2022-04-21 |
@@ -228,7 +229,7 @@
 | [Night Bell \- Arizona](https://open.spotify.com/track/7f1eD0myp4ntwnVLA5jmIU) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Night Bell \(Arizona\)](https://open.spotify.com/album/5eFPnkzLRO1EGogagnJyx7) | 7:28 | 2021-04-21 | 2022-11-07 |
 | [Night Bell \- Arizona](https://open.spotify.com/track/2SN41T7WJfoKkAsGUV11PA) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Light, West](https://open.spotify.com/album/2942biAKKQFqcATNWMzsFT) | 7:28 | 2022-07-01 |  |
 | [Niteroi](https://open.spotify.com/track/1HxnvdlGxXDrCv8O0bdBuh) | [Canitrot](https://open.spotify.com/artist/5yIT6Q9Tpt2Y6ki8stWX9R), [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Niteroi](https://open.spotify.com/album/0jq9PRK0SmS4otBgG5bGnt) | 5:17 | 2021-07-02 | 2022-07-29 |
-| [Niteroi](https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Niteroi](https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM) | 5:17 | 2022-07-01 |  |
+| [Niteroi](https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Niteroi](https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM) | 5:17 | 2022-07-01 | 2023-01-09 |
 | [Ocean \(feat\. Jamie Foxx\) \- DJ Koze Remix](https://open.spotify.com/track/6aXZxlv7H26dTul1IetR3p) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Nobody Is Not Loved, Remixes, Pt\. 2](https://open.spotify.com/album/5xq4m6AJBvYZn9HYeGFmuc) | 5:12 | 2022-05-13 | 2022-07-29 |
 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [El\-Jay](https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE) | 3:59 | 2022-10-28 |  |
 | [Ode to Life](https://open.spotify.com/track/1E3aNzg2MTlTYhWPRQip5K) | [Ella Wild](https://open.spotify.com/artist/5YRXoNseSn9ml0cI3htXVP) | [Ode to Life](https://open.spotify.com/album/6K0VhVmbpWRsflDciGS09K) | 7:14 | 2021-05-07 | 2022-04-22 |
